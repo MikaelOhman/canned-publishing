@@ -1,5 +1,53 @@
 [
   {
+    "id": "HD03287",
+    "typ": "lagforslag",
+    "titel": "Neue politische Ausrichtung für eine stärkere Filmindustrie.\n\n# Eine neue politische Ausrichtung für eine stärkere Filmindustrie\n\n*   **Stärkung der nationalen Filmproduktion:** Förderung von Projekten, die die deutsche Kultur und Identität widerspiegeln.\n*   **Verbesserung der Finanzierungsbedingungen:** Schaffung eines stabileren und vorhersehbareren Finanzierungsrahmens für Filmprojekte.\n*   **Förderung von Talenten:** Unterstützung von Nachwuchskräften und Förderung der Vielfalt in der Filmbranche.\n*   **Ausbau der internationalen Zusammenarbeit:** Stärkung der Beziehungen zu anderen Ländern und Förderung des internationalen Austauschs.\n*   **Modernisierung der Infrastruktur:** Investitionen in moderne Produktionsstätten und -technologien.\n\nDies sind nur einige Beispiele für die Maßnahmen, die ergriffen werden können, um die deutsche Filmindustrie zu stärken. Eine umfassende politische Strategie ist notwendig, um langfristige Erfolge zu erzielen.",
+    "ingress": "In dem Gesetzentwurf schlägt die Regierung neue Ziele für die nationale Filmpolitik vor. Auf der Grundlage der nationalen kulturpolitischen Ziele soll die nationale Filmpolitik dazu beitragen, ein bre",
+    "datum": "2026-06-22",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03287.html",
+    "taggar": [
+      "kulturpolitik",
+      "film",
+      "svenska-filminstitutet",
+      "regeringen",
+      "forvaltningsratt",
+      "lagstiftning",
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "prop-2025-26-014",
+    "typ": "lagforslag",
+    "titel": "Gesetzentwurf: Härtere Strafen für organisierte Kriminalität",
+    "ingress": "Die Regierung schlägt höhere Mindeststrafen und erweiterte Befugnisse zur verdeckten Überwachung bei organisierter Kriminalität vor.",
+    "datum": "2026-06-18",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://www.riksdagen.se/sv/dokument-och-lagar/",
+    "taggar": [
+      "riksdagen",
+      "straffratt",
+      "brott"
+    ]
+  },
+  {
+    "id": "tvangsvard-tanum",
+    "titel": "Zwangseinweisung verweigert – tot im Schnee gefunden",
+    "ingress": "Einer psychisch kranken 28-Jährigen wurde die Zwangseinweisung verweigert; sie musste mitten in der Nacht gehen. Kurz darauf wurde Lina Bryant tot im Schnee in der Gemeinde Tanum gefunden.",
+    "datum": "2026-06-12",
+    "kalla": "Bulletin",
+    "taggar": [
+      "vard",
+      "psykiatri",
+      "dodsfall",
+      "kritik",
+      "tanum"
+    ],
+    "typ": "nyhet",
+    "kalla_url": "https://bulletin.nu"
+  },
+  {
     "id": "belfast-0610",
     "titel": "Enthauptungsversuch in Belfast",
     "ingress": "Ein Mann wurde auf offener Straße im Norden Belfasts Opfer eines Enthauptungsversuchs. Ein sudanesischer Mann wird wegen versuchten Mordes angeklagt.",
@@ -30,35 +78,5 @@
     ],
     "typ": "nyhet",
     "kalla_url": "https://bulletin.nu"
-  },
-  {
-    "id": "tvangsvard-tanum",
-    "titel": "Zwangseinweisung verweigert – tot im Schnee gefunden",
-    "ingress": "Einer psychisch kranken 28-Jährigen wurde die Zwangseinweisung verweigert; sie musste mitten in der Nacht gehen. Kurz darauf wurde Lina Bryant tot im Schnee in der Gemeinde Tanum gefunden.",
-    "datum": "2026-06-12",
-    "kalla": "Bulletin",
-    "taggar": [
-      "vard",
-      "psykiatri",
-      "dodsfall",
-      "kritik",
-      "tanum"
-    ],
-    "typ": "nyhet",
-    "kalla_url": "https://bulletin.nu"
-  },
-  {
-    "id": "prop-2025-26-014",
-    "typ": "lagforslag",
-    "titel": "Gesetzentwurf: Härtere Strafen für organisierte Kriminalität",
-    "ingress": "Die Regierung schlägt höhere Mindeststrafen und erweiterte Befugnisse zur verdeckten Überwachung bei organisierter Kriminalität vor.",
-    "datum": "2026-06-18",
-    "kalla": "Riksdagen",
-    "kalla_url": "https://www.riksdagen.se/sv/dokument-och-lagar/",
-    "taggar": [
-      "riksdagen",
-      "straffratt",
-      "brott"
-    ]
   }
 ]

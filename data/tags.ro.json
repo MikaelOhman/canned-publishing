@@ -1,0 +1,37 @@
+{
+  "kulturpolitik": {
+    "etikett": "Politica culturală.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "film": {
+    "etikett": "Filme.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "svenska-filminstitutet": {
+    "etikett": "Institutul Suedez de Film.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "regeringen": {
+    "etikett": "Guvernul.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "forvaltningsratt": {
+    "etikett": "Drept administrativ.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "lagstiftning": {
+    "etikett": "Legislație.",
+    "typ": "händelse",
+    "antal": 1
+  },
+  "riksdagen": {
+    "etikett": "Parlamentul.",
+    "typ": "organisation",
+    "antal": 1
+  }
+}

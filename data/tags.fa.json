@@ -1,0 +1,37 @@
+{
+  "kulturpolitik": {
+    "etikett": "سیاست‌های فرهنگی",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "film": {
+    "etikett": "فیلم",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "svenska-filminstitutet": {
+    "etikett": "سازمان فیلم سوئد",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "regeringen": {
+    "etikett": "دولت",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "forvaltningsratt": {
+    "etikett": "حقوق اداری",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "lagstiftning": {
+    "etikett": "قوانین و مقررات",
+    "typ": "händelse",
+    "antal": 1
+  },
+  "riksdagen": {
+    "etikett": "مجلس نمایندگان",
+    "typ": "organisation",
+    "antal": 1
+  }
+}

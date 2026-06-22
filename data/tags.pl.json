@@ -1,0 +1,37 @@
+{
+  "kulturpolitik": {
+    "etikett": "Polityka kulturalna.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "film": {
+    "etikett": "Film",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "svenska-filminstitutet": {
+    "etikett": "Szwedzki Instytut Filmowy.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "regeringen": {
+    "etikett": "Rząd.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "forvaltningsratt": {
+    "etikett": "Prawo administracyjne.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "lagstiftning": {
+    "etikett": "Przepisy prawne.",
+    "typ": "händelse",
+    "antal": 1
+  },
+  "riksdagen": {
+    "etikett": "Riksdagen",
+    "typ": "organisation",
+    "antal": 1
+  }
+}

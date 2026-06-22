@@ -72,11 +72,41 @@
   "riksdagen": {
     "etikett": "Schwedisches Parlament",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "straffratt": {
     "etikett": "Strafrecht",
     "typ": "ämne",
+    "antal": 1
+  },
+  "kulturpolitik": {
+    "etikett": "Kulturpolitik\n\n# Kulturpolitik\n\nKulturpolitik umfasst eine Vielzahl von Maßnahmen und Richtlinien, die darauf abzielen, die Kunst und Kultur in einer Gesellschaft zu fördern, zu erhalten und zu entwickeln. Sie kann sowohl staatliche als auch private Initiativen umfassen.\n\n*   Förderung von Kunst und Kultur\n*   Erhaltung des kulturellen Erbes\n*   Entwicklung neuer kultureller Ausdrucksformen\n\n**Ziele der Kulturpolitik:**\n\n*   Vielfalt und Kreativität fördern\n*   Zugang zu Kunst und Kultur für alle ermöglichen\n*   Den kulturellen Dialog stärken\n*   Die Identität einer Gesellschaft stärken\n\nKulturpolitik ist ein wichtiges Instrument, um eine lebendige und vielfältige Gesellschaft zu gestalten. Sie trägt dazu bei, dass Kunst und Kultur nicht nur den Eliten vorbehalten sind, sondern allen Menschen zugänglich sind.\n\nDies ist nur ein kurzer Überblick über das Thema Kulturpolitik. Es gibt noch viel mehr zu entdecken.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "film": {
+    "etikett": "Film",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "svenska-filminstitutet": {
+    "etikett": "Schwedisches Filminstitut",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "regeringen": {
+    "etikett": "Die Regierung.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "forvaltningsratt": {
+    "etikett": "Verwaltungsrecht",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "lagstiftning": {
+    "etikett": "Gesetzgebung",
+    "typ": "händelse",
     "antal": 1
   }
 }
