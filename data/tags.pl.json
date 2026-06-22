@@ -17,7 +17,7 @@
   "regeringen": {
     "etikett": "Rząd.",
     "typ": "organisation",
-    "antal": 3
+    "antal": 4
   },
   "forvaltningsratt": {
     "etikett": "Prawo administracyjne.",
@@ -32,7 +32,7 @@
   "riksdagen": {
     "etikett": "Riksdagen",
     "typ": "organisation",
-    "antal": 8
+    "antal": 9
   },
   "underrattelsetjanst": {
     "etikett": "Służba wywiadu",
@@ -156,6 +156,26 @@
   },
   "miljolagstiftning": {
     "etikett": "Przepisy dotyczące ochrony środowiska.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "bostadspolitik": {
+    "etikett": "Polityka mieszkaniowa.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "hyresratt": {
+    "etikett": "Wynajem mieszkania.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "hyreslagstiftning": {
+    "etikett": "Przepisy dotyczące wynajmu.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "fastighetsmarknaden": {
+    "etikett": "Rynek nieruchomości.",
     "typ": "ämne",
     "antal": 1
   }

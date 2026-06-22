@@ -17,7 +17,7 @@
   "regeringen": {
     "etikett": "Guvernul.",
     "typ": "organisation",
-    "antal": 3
+    "antal": 4
   },
   "forvaltningsratt": {
     "etikett": "Drept administrativ.",
@@ -32,7 +32,7 @@
   "riksdagen": {
     "etikett": "Parlamentul.",
     "typ": "organisation",
-    "antal": 8
+    "antal": 9
   },
   "underrattelsetjanst": {
     "etikett": "Serviciu de informații",
@@ -156,6 +156,26 @@
   },
   "miljolagstiftning": {
     "etikett": "Legislația de mediu.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "bostadspolitik": {
+    "etikett": "Politica locuințelor.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "hyresratt": {
+    "etikett": "Contract de închiriere.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "hyreslagstiftning": {
+    "etikett": "Legislația privind închirierea.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "fastighetsmarknaden": {
+    "etikett": "Piața imobiliară.",
     "typ": "ämne",
     "antal": 1
   }
