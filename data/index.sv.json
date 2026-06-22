@@ -590,18 +590,6 @@
     ]
   },
   {
-    "id": "HD03244",
-    "typ": "lagforslag",
-    "titel": "Nya krav på interoperabilitet vid datadelning inom den offentliga förvaltningen",
-    "ingress": "I regeringens digitaliseringsstrategi för 2025–2030 finns målet att Sverige ska ha en offentlig förvaltning som förenklar och bidrar till bl.a. minskad administration genom användarvänliga, säkra och ",
-    "datum": "2026-04-16",
-    "kalla": "Riksdagen",
-    "kalla_url": "https://data.riksdagen.se/dokument/HD03244.html",
-    "taggar": [
-      "riksdagen"
-    ]
-  },
-  {
     "id": "HD03242",
     "typ": "lagforslag",
     "titel": "Ett tydligt regelverk för aktivt skogsbruk",
@@ -645,6 +633,18 @@
     "datum": "2026-04-16",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HD03246.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HD03244",
+    "typ": "lagforslag",
+    "titel": "Nya krav på interoperabilitet vid datadelning inom den offentliga förvaltningen",
+    "ingress": "Regeringen vill införa en ny lag som gör det lättare för myndigheter och kommuner att dela digital information med varandra. Syftet är att minska pappersarbete och använda ny teknik som AI på ett smartare sätt.",
+    "datum": "2026-04-16",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03244.html",
     "taggar": [
       "riksdagen"
     ]
