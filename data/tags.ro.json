@@ -17,7 +17,7 @@
   "regeringen": {
     "etikett": "Guvernul.",
     "typ": "organisation",
-    "antal": 2
+    "antal": 3
   },
   "forvaltningsratt": {
     "etikett": "Drept administrativ.",
@@ -32,7 +32,7 @@
   "riksdagen": {
     "etikett": "Parlamentul.",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "underrattelsetjanst": {
     "etikett": "Serviciu de informații",
@@ -121,6 +121,26 @@
   },
   "bolagsforvaltning": {
     "etikett": "Administrarea companiilor.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "riksrevisionen": {
+    "etikett": "Camera Națională de Contabilitate.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "hogre-utbildning": {
+    "etikett": "Educație superioară.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "riksrevisionens-granskning": {
+    "etikett": "Auditul efectuat de Agenția Națională de Audit.",
+    "typ": "händelse",
+    "antal": 1
+  },
+  "utbildningspolitik": {
+    "etikett": "Politica educațională.",
     "typ": "ämne",
     "antal": 1
   }

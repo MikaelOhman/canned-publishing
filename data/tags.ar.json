@@ -17,7 +17,7 @@
   "regeringen": {
     "etikett": "الحكومة.",
     "typ": "organisation",
-    "antal": 2
+    "antal": 3
   },
   "forvaltningsratt": {
     "etikett": "القانون الإداري.",
@@ -32,7 +32,7 @@
   "riksdagen": {
     "etikett": "البرلمان.",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "underrattelsetjanst": {
     "etikett": "جهاز الاستخبارات",
@@ -121,6 +121,26 @@
   },
   "bolagsforvaltning": {
     "etikett": "إدارة الشركات",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "riksrevisionen": {
+    "etikett": "الرقابة الوطنية.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "hogre-utbildning": {
+    "etikett": "التعليم العالي",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "riksrevisionens-granskning": {
+    "etikett": "مراجعة من مكتب التدقيق الوطني.",
+    "typ": "händelse",
+    "antal": 1
+  },
+  "utbildningspolitik": {
+    "etikett": "سياسة التعليم",
     "typ": "ämne",
     "antal": 1
   }
