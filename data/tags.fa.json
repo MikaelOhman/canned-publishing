@@ -32,7 +32,7 @@
   "riksdagen": {
     "etikett": "مجلس نمایندگان",
     "typ": "organisation",
-    "antal": 14
+    "antal": 15
   },
   "underrattelsetjanst": {
     "etikett": "سازمان اطلاعات",
@@ -261,6 +261,21 @@
   },
   "innovation": {
     "etikett": "ابتکار",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "domstolar": {
+    "etikett": "دادگاه‌ها",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "rattsstat": {
+    "etikett": "حکومت قانون",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "domares-oberoende": {
+    "etikett": "استقلال داوران",
     "typ": "ämne",
     "antal": 1
   }
