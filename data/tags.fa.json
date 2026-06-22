@@ -32,6 +32,21 @@
   "riksdagen": {
     "etikett": "مجلس نمایندگان",
     "typ": "organisation",
+    "antal": 2
+  },
+  "underrattelsetjanst": {
+    "etikett": "سازمان اطلاعات",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "personuppgifter": {
+    "etikett": "داده‌های شخصی",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "nationell-sakerhet": {
+    "etikett": "امنیت ملی",
+    "typ": "ämne",
     "antal": 1
   }
 }

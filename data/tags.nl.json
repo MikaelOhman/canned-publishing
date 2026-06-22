@@ -32,6 +32,21 @@
   "riksdagen": {
     "etikett": "Het parlement.",
     "typ": "organisation",
+    "antal": 2
+  },
+  "underrattelsetjanst": {
+    "etikett": "Inlichtingendienst",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "personuppgifter": {
+    "etikett": "Persoonsgegevens",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "nationell-sakerhet": {
+    "etikett": "Nationale veiligheid",
+    "typ": "ämne",
     "antal": 1
   }
 }

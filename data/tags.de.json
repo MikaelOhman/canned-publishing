@@ -72,7 +72,7 @@
   "riksdagen": {
     "etikett": "Schwedisches Parlament",
     "typ": "organisation",
-    "antal": 2
+    "antal": 3
   },
   "straffratt": {
     "etikett": "Strafrecht",
@@ -107,6 +107,21 @@
   "lagstiftning": {
     "etikett": "Gesetzgebung",
     "typ": "händelse",
+    "antal": 1
+  },
+  "underrattelsetjanst": {
+    "etikett": "Nachrichtendienst",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "personuppgifter": {
+    "etikett": "Personenbezogene Daten",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "nationell-sakerhet": {
+    "etikett": "Nationale Sicherheit",
+    "typ": "ämne",
     "antal": 1
   }
 }

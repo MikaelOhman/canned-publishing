@@ -32,6 +32,21 @@
   "riksdagen": {
     "etikett": "El Parlamento.",
     "typ": "organisation",
+    "antal": 2
+  },
+  "underrattelsetjanst": {
+    "etikett": "Servicio de inteligencia",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "personuppgifter": {
+    "etikett": "Datos personales",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "nationell-sakerhet": {
+    "etikett": "Seguridad nacional",
+    "typ": "ämne",
     "antal": 1
   }
 }

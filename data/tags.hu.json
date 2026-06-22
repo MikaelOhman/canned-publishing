@@ -32,6 +32,21 @@
   "riksdagen": {
     "etikett": "A Svéd Parlament.",
     "typ": "organisation",
+    "antal": 2
+  },
+  "underrattelsetjanst": {
+    "etikett": "Hírszerzés",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "personuppgifter": {
+    "etikett": "Személyes adatok",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "nationell-sakerhet": {
+    "etikett": "Nemzetbiztonság",
+    "typ": "ämne",
     "antal": 1
   }
 }

@@ -32,6 +32,21 @@
   "riksdagen": {
     "etikett": "Riksdagen",
     "typ": "organisation",
+    "antal": 2
+  },
+  "underrattelsetjanst": {
+    "etikett": "Służba wywiadu",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "personuppgifter": {
+    "etikett": "Dane osobowe",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "nationell-sakerhet": {
+    "etikett": "Bezpieczeństwo narodowe",
+    "typ": "ämne",
     "antal": 1
   }
 }

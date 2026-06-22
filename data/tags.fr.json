@@ -32,6 +32,21 @@
   "riksdagen": {
     "etikett": "Le Riksdag.",
     "typ": "organisation",
+    "antal": 2
+  },
+  "underrattelsetjanst": {
+    "etikett": "Service de renseignement",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "personuppgifter": {
+    "etikett": "Données personnelles",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "nationell-sakerhet": {
+    "etikett": "Sécurité nationale",
+    "typ": "ämne",
     "antal": 1
   }
 }

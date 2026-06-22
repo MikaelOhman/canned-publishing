@@ -32,6 +32,21 @@
   "riksdagen": {
     "etikett": "Parlamentul.",
     "typ": "organisation",
+    "antal": 2
+  },
+  "underrattelsetjanst": {
+    "etikett": "Serviciu de informații",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "personuppgifter": {
+    "etikett": "Date cu caracter personal",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "nationell-sakerhet": {
+    "etikett": "Securitate națională",
+    "typ": "ämne",
     "antal": 1
   }
 }

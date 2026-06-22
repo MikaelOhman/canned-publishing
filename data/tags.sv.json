@@ -72,7 +72,7 @@
   "riksdagen": {
     "etikett": "Riksdagen",
     "typ": "organisation",
-    "antal": 2
+    "antal": 4
   },
   "straffratt": {
     "etikett": "Straffrätt",
@@ -97,7 +97,7 @@
   "regeringen": {
     "etikett": "Regeringen",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "forvaltningsratt": {
     "etikett": "Förvaltningsrätt",
@@ -107,6 +107,36 @@
   "lagstiftning": {
     "etikett": "Lagstiftning",
     "typ": "händelse",
+    "antal": 2
+  },
+  "underrattelsetjanst": {
+    "etikett": "Underrättelsetjänst",
+    "typ": "ämne",
+    "antal": 2
+  },
+  "sverige": {
+    "etikett": "Sverige",
+    "typ": "plats",
+    "antal": 1
+  },
+  "sveriges-utrikes-underrattelsetjanst": {
+    "etikett": "Sveriges utrikes underrättelsetjänst",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "dataskydd": {
+    "etikett": "Dataskydd",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "personuppgifter": {
+    "etikett": "Personuppgifter",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "nationell-sakerhet": {
+    "etikett": "Nationell säkerhet",
+    "typ": "ämne",
     "antal": 1
   }
 }
