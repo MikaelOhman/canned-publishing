@@ -17,7 +17,7 @@
   "regeringen": {
     "etikett": "Rząd.",
     "typ": "organisation",
-    "antal": 7
+    "antal": 8
   },
   "forvaltningsratt": {
     "etikett": "Prawo administracyjne.",
@@ -32,7 +32,7 @@
   "riksdagen": {
     "etikett": "Riksdagen",
     "typ": "organisation",
-    "antal": 13
+    "antal": 14
   },
   "underrattelsetjanst": {
     "etikett": "Służba wywiadu",
@@ -102,7 +102,7 @@
   "straffratt": {
     "etikett": "Prawo karne",
     "typ": "ämne",
-    "antal": 2
+    "antal": 3
   },
   "statligt-agande": {
     "etikett": "Własność państwowa.",
@@ -226,6 +226,21 @@
   },
   "underrattelseverksamhet": {
     "etikett": "Działalność wywiadowcza.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "hedersrelaterat-vald": {
+    "etikett": "Przemoc wynikająca z honoru.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "kvinnoratt": {
+    "etikett": "Prawa kobiet.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "brottsbalken": {
+    "etikett": "Kodeks karny.",
     "typ": "ämne",
     "antal": 1
   }

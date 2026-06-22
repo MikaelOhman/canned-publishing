@@ -17,7 +17,7 @@
   "regeringen": {
     "etikett": "دولت",
     "typ": "organisation",
-    "antal": 7
+    "antal": 8
   },
   "forvaltningsratt": {
     "etikett": "حقوق اداری",
@@ -32,7 +32,7 @@
   "riksdagen": {
     "etikett": "مجلس نمایندگان",
     "typ": "organisation",
-    "antal": 11
+    "antal": 12
   },
   "underrattelsetjanst": {
     "etikett": "سازمان اطلاعات",
@@ -172,7 +172,7 @@
   "straffratt": {
     "etikett": "مجرمات",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "subventionsbrott": {
     "etikett": "جرایم مربوط به یارانه‌ها",
@@ -206,6 +206,21 @@
   },
   "underrattelseverksamhet": {
     "etikett": "فعالیت‌های اطلاعاتی",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "hedersrelaterat-vald": {
+    "etikett": "خشونت مبتنی بر مسائل مربوط به آبرو و حیثیت",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "kvinnoratt": {
+    "etikett": "حقوق زنان",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "brottsbalken": {
+    "etikett": "قانون مجازات عمومی",
     "typ": "ämne",
     "antal": 1
   }

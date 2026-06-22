@@ -72,12 +72,12 @@
   "riksdagen": {
     "etikett": "Riksdagen",
     "typ": "organisation",
-    "antal": 15
+    "antal": 16
   },
   "straffratt": {
     "etikett": "Straffrätt",
     "typ": "ämne",
-    "antal": 3
+    "antal": 4
   },
   "kulturpolitik": {
     "etikett": "Kulturpolitik",
@@ -97,7 +97,7 @@
   "regeringen": {
     "etikett": "Regeringen",
     "typ": "organisation",
-    "antal": 8
+    "antal": 9
   },
   "forvaltningsratt": {
     "etikett": "Förvaltningsrätt",
@@ -296,6 +296,21 @@
   },
   "underrattelseverksamhet": {
     "etikett": "Underrättelseverksamhet",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "hedersrelaterat-vald": {
+    "etikett": "Hedersrelaterat våld",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "kvinnoratt": {
+    "etikett": "Kvinnorätt",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "brottsbalken": {
+    "etikett": "Brottsbalken",
     "typ": "ämne",
     "antal": 1
   }

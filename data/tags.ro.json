@@ -17,7 +17,7 @@
   "regeringen": {
     "etikett": "Guvernul.",
     "typ": "organisation",
-    "antal": 7
+    "antal": 8
   },
   "forvaltningsratt": {
     "etikett": "Drept administrativ.",
@@ -32,7 +32,7 @@
   "riksdagen": {
     "etikett": "Parlamentul.",
     "typ": "organisation",
-    "antal": 13
+    "antal": 14
   },
   "underrattelsetjanst": {
     "etikett": "Serviciu de informații",
@@ -102,7 +102,7 @@
   "straffratt": {
     "etikett": "Drept penal",
     "typ": "ämne",
-    "antal": 2
+    "antal": 3
   },
   "statligt-agande": {
     "etikett": "Proprietate de stat.",
@@ -226,6 +226,21 @@
   },
   "underrattelseverksamhet": {
     "etikett": "Activități de informații.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "hedersrelaterat-vald": {
+    "etikett": "Violența legată de onoare.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "kvinnoratt": {
+    "etikett": "Drepturile femeilor.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "brottsbalken": {
+    "etikett": "Codul penal.",
     "typ": "ämne",
     "antal": 1
   }
