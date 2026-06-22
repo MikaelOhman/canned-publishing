@@ -1,6 +1,7 @@
 {
   "sub": "Mehrsprachige Nachrichten",
   "search_label": "Suche", "search_ph": "Ein Wort eingeben…",
+  "searchhelp": "Nach Schlagwörtern suchen – ein Wort nach dem anderen eingeben; gefiltert wird nach jedem Wort.",
   "language": "Sprache", "settings": "Anzeige",
   "theme": "Thema", "textsize": "Textgröße", "font": "Schriftart",
   "themegroups": {"standard": "Standard", "a11y": "Barrierefreiheit"},

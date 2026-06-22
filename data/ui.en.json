@@ -1,6 +1,7 @@
 {
   "sub": "Multilingual news",
   "search_label": "Search", "search_ph": "Type a word…",
+  "searchhelp": "Search by tags – type one word at a time; results are filtered on each word.",
   "language": "Language", "settings": "Display",
   "theme": "Theme", "textsize": "Text size", "font": "Font",
   "themegroups": {"standard": "Standard", "a11y": "Accessibility"},

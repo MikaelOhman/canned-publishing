@@ -72,7 +72,7 @@
   "riksdagen": {
     "etikett": "Riksdagen",
     "typ": "organisation",
-    "antal": 8
+    "antal": 9
   },
   "straffratt": {
     "etikett": "Straffrätt",
@@ -97,7 +97,7 @@
   "regeringen": {
     "etikett": "Regeringen",
     "typ": "organisation",
-    "antal": 3
+    "antal": 4
   },
   "forvaltningsratt": {
     "etikett": "Förvaltningsrätt",
@@ -196,6 +196,26 @@
   },
   "bolagsforvaltning": {
     "etikett": "Bolagsförvaltning",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "riksrevisionen": {
+    "etikett": "Riksrevisionen",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "hogre-utbildning": {
+    "etikett": "Högre utbildning",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "riksrevisionens-granskning": {
+    "etikett": "Riksrevisionens granskning",
+    "typ": "händelse",
+    "antal": 1
+  },
+  "utbildningspolitik": {
+    "etikett": "Utbildningspolitik",
     "typ": "ämne",
     "antal": 1
   }

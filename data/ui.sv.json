@@ -1,6 +1,7 @@
 {
   "sub": "Flerspråkiga nyheter",
   "search_label": "Sök", "search_ph": "Skriv ett ord…",
+  "searchhelp": "Sök på taggar – skriv ett ord i taget, så filtreras nyheterna på vart och ett.",
   "language": "Språk", "settings": "Visning",
   "theme": "Tema", "textsize": "Textstorlek", "font": "Typsnitt",
   "themegroups": {"standard": "Standard", "a11y": "Tillgänglighet"},
