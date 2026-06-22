@@ -170,18 +170,6 @@
     ]
   },
   {
-    "id": "HD03278",
-    "typ": "lagforslag",
-    "titel": "Teknisk översyn av mervärdesskattereglerna vid gränsöverskridande handel",
-    "ingress": "I propositionen föreslås ändringar i mervärdesskattelagen (2023:200). De flesta ändringsförslagen motiveras av att det har gjorts ändringar i EU:s mervärdesskattedirektiv med anledning av lagstiftning",
-    "datum": "2026-06-09",
-    "kalla": "Riksdagen",
-    "kalla_url": "https://data.riksdagen.se/dokument/HD03278.html",
-    "taggar": [
-      "riksdagen"
-    ]
-  },
-  {
     "id": "HD03282",
     "typ": "lagforslag",
     "titel": "Effektivare kontrollmöjligheter i systemen för rot, rut, grön teknik och personalliggare",
@@ -225,6 +213,18 @@
     "datum": "2026-06-09",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HD03279.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HD03278",
+    "typ": "lagforslag",
+    "titel": "Teknisk översyn av mervärdesskattereglerna vid gränsöverskridande handel",
+    "ingress": "Regeringen föreslår nya regler för moms vid handel mellan länder för att följa EU:s nya lagar. Förslaget handlar om att göra det tydligare hur skatt ska betalas vid digital handel och köp från länder utanför EU.",
+    "datum": "2026-06-09",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03278.html",
     "taggar": [
       "riksdagen"
     ]
