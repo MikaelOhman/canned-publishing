@@ -17,7 +17,7 @@
   "regeringen": {
     "etikett": "الحكومة.",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "forvaltningsratt": {
     "etikett": "القانون الإداري.",
@@ -27,12 +27,12 @@
   "lagstiftning": {
     "etikett": "التشريعات.",
     "typ": "händelse",
-    "antal": 5
+    "antal": 6
   },
   "riksdagen": {
     "etikett": "البرلمان.",
     "typ": "organisation",
-    "antal": 12
+    "antal": 13
   },
   "underrattelsetjanst": {
     "etikett": "جهاز الاستخبارات",
@@ -42,7 +42,7 @@
   "personuppgifter": {
     "etikett": "البيانات الشخصية",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "nationell-sakerhet": {
     "etikett": "الأمن القومي",
@@ -67,7 +67,7 @@
   "polismyndigheten": {
     "etikett": "السلطة الشرطية.",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "sakerhetspolisen": {
     "etikett": "الشرطة الأمنية.",
@@ -216,6 +216,16 @@
   },
   "forvaltning": {
     "etikett": "الإدارة",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "polis": {
+    "etikett": "الشرطة.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "underrattelseverksamhet": {
+    "etikett": "الأنشطة الاستخباراتية.",
     "typ": "ämne",
     "antal": 1
   }

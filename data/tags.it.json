@@ -17,7 +17,7 @@
   "regeringen": {
     "etikett": "Il governo.",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "forvaltningsratt": {
     "etikett": "Diritto amministrativo.",
@@ -27,12 +27,12 @@
   "lagstiftning": {
     "etikett": "Legislazione",
     "typ": "händelse",
-    "antal": 5
+    "antal": 6
   },
   "riksdagen": {
     "etikett": "Il Parlamento.",
     "typ": "organisation",
-    "antal": 12
+    "antal": 13
   },
   "underrattelsetjanst": {
     "etikett": "Servizio di intelligence",
@@ -42,7 +42,7 @@
   "personuppgifter": {
     "etikett": "Dati personali",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "nationell-sakerhet": {
     "etikett": "Sicurezza nazionale",
@@ -67,7 +67,7 @@
   "polismyndigheten": {
     "etikett": "La polizia.",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "sakerhetspolisen": {
     "etikett": "La polizia di sicurezza.",
@@ -216,6 +216,16 @@
   },
   "forvaltning": {
     "etikett": "Gestione",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "polis": {
+    "etikett": "Polizia.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "underrattelseverksamhet": {
+    "etikett": "Attività di intelligence.",
     "typ": "ämne",
     "antal": 1
   }

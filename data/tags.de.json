@@ -67,12 +67,12 @@
   "polis": {
     "etikett": "Polizei",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "riksdagen": {
     "etikett": "Schwedisches Parlament",
     "typ": "organisation",
-    "antal": 13
+    "antal": 14
   },
   "straffratt": {
     "etikett": "Strafrecht",
@@ -97,7 +97,7 @@
   "regeringen": {
     "etikett": "Die Regierung.",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "forvaltningsratt": {
     "etikett": "Verwaltungsrecht",
@@ -107,7 +107,7 @@
   "lagstiftning": {
     "etikett": "Gesetzgebung",
     "typ": "händelse",
-    "antal": 5
+    "antal": 6
   },
   "underrattelsetjanst": {
     "etikett": "Nachrichtendienst",
@@ -117,7 +117,7 @@
   "personuppgifter": {
     "etikett": "Personenbezogene Daten",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "nationell-sakerhet": {
     "etikett": "Nationale Sicherheit",
@@ -137,7 +137,7 @@
   "polismyndigheten": {
     "etikett": "Die Polizei.",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "sakerhetspolisen": {
     "etikett": "Der Staatsschutz.",
@@ -281,6 +281,11 @@
   },
   "forvaltning": {
     "etikett": "Verwaltung",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "underrattelseverksamhet": {
+    "etikett": "Nachrichtendienstliche Tätigkeit.",
     "typ": "ämne",
     "antal": 1
   }

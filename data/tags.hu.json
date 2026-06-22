@@ -17,7 +17,7 @@
   "regeringen": {
     "etikett": "A kormány.",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "forvaltningsratt": {
     "etikett": "Kormányzati jog",
@@ -27,12 +27,12 @@
   "lagstiftning": {
     "etikett": "Törvénykezés.",
     "typ": "händelse",
-    "antal": 5
+    "antal": 6
   },
   "riksdagen": {
     "etikett": "A Svéd Parlament.",
     "typ": "organisation",
-    "antal": 12
+    "antal": 13
   },
   "underrattelsetjanst": {
     "etikett": "Hírszerzés",
@@ -42,7 +42,7 @@
   "personuppgifter": {
     "etikett": "Személyes adatok",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "nationell-sakerhet": {
     "etikett": "Nemzetbiztonság",
@@ -67,7 +67,7 @@
   "polismyndigheten": {
     "etikett": "A rendőrség.",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "sakerhetspolisen": {
     "etikett": "A biztonsági szolgálat.",
@@ -216,6 +216,16 @@
   },
   "forvaltning": {
     "etikett": "Igazgatás",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "polis": {
+    "etikett": "Város.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "underrattelseverksamhet": {
+    "etikett": "Információs tevékenység.",
     "typ": "ämne",
     "antal": 1
   }
