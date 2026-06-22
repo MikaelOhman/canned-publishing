@@ -17,7 +17,7 @@
   "regeringen": {
     "etikett": "Guvernul.",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "forvaltningsratt": {
     "etikett": "Drept administrativ.",
@@ -32,7 +32,7 @@
   "riksdagen": {
     "etikett": "Parlamentul.",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "underrattelsetjanst": {
     "etikett": "Serviciu de informații",
@@ -101,6 +101,26 @@
   },
   "straffratt": {
     "etikett": "Drept penal",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "statligt-agande": {
+    "etikett": "Proprietate de stat.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "ekonomi": {
+    "etikett": "Economie",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "sverige": {
+    "etikett": "Suedia",
+    "typ": "plats",
+    "antal": 1
+  },
+  "bolagsforvaltning": {
+    "etikett": "Administrarea companiilor.",
     "typ": "ämne",
     "antal": 1
   }

@@ -17,7 +17,7 @@
   "regeringen": {
     "etikett": "De regering.",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "forvaltningsratt": {
     "etikett": "Bestuursrecht",
@@ -32,7 +32,7 @@
   "riksdagen": {
     "etikett": "Het parlement.",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "underrattelsetjanst": {
     "etikett": "Inlichtingendienst",
@@ -101,6 +101,26 @@
   },
   "straffratt": {
     "etikett": "Strafrecht",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "statligt-agande": {
+    "etikett": "Staatsbezit.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "ekonomi": {
+    "etikett": "Economie",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "sverige": {
+    "etikett": "Zweden",
+    "typ": "plats",
+    "antal": 1
+  },
+  "bolagsforvaltning": {
+    "etikett": "Bedrijfsbestuur.",
     "typ": "ämne",
     "antal": 1
   }

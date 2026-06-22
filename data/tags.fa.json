@@ -17,7 +17,7 @@
   "regeringen": {
     "etikett": "دولت",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "forvaltningsratt": {
     "etikett": "حقوق اداری",
@@ -32,7 +32,7 @@
   "riksdagen": {
     "etikett": "مجلس نمایندگان",
     "typ": "organisation",
-    "antal": 3
+    "antal": 4
   },
   "underrattelsetjanst": {
     "etikett": "سازمان اطلاعات",
@@ -72,6 +72,26 @@
   "sakerhetspolisen": {
     "etikett": "پلیس امنیت ملی",
     "typ": "organisation",
+    "antal": 1
+  },
+  "statligt-agande": {
+    "etikett": "مالکیت دولتی",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "ekonomi": {
+    "etikett": "اقتصاد",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "sverige": {
+    "etikett": "سوئد",
+    "typ": "plats",
+    "antal": 1
+  },
+  "bolagsforvaltning": {
+    "etikett": "مدیریت شرکت‌ها",
+    "typ": "ämne",
     "antal": 1
   }
 }

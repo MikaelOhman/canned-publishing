@@ -44,6 +44,7 @@ function applyUI(){
   const u = ui();
   $('#ui-sub').textContent = u.sub;
   $('#lbl-search').textContent = u.search_label; $('#sok').placeholder = u.search_ph;
+  $('#searchhelp').textContent = u.searchhelp || '';
   $('#lbl-settings').title = u.settings; $('#lbl-settings').setAttribute('aria-label', u.settings);
   $('#lbl-tema').textContent = u.theme; $('#lbl-text').textContent = u.textsize; $('#lbl-font').textContent = u.font;
   $('.langpick').title = u.language; $('#lang').setAttribute('aria-label', u.language);
@@ -78,7 +79,7 @@ async function loadLanguage(lang){
   try { state.index = await getJSON(`data/index.${lang}.json`); state.tags = await getJSON(`data/tags.${lang}.json`); }
   catch(e){ state.index = []; state.tags = {}; }
   applyUI(); buildSettings();
-  renderTypeFilter(); renderFilters(); renderList();
+  renderTypeFilter(); renderList();
 }
 
 function renderTypeFilter(){
@@ -115,15 +116,13 @@ function renderActivebar(){
 function matches(a){
   if(state.typ==='nyhet' && a.typ==='lagforslag') return false;
   if(state.typ==='lagforslag' && a.typ!=='lagforslag') return false;
-  for(const id of state.active) if(!(a.taggar||[]).includes(id)) return false;
   if(state.query){
-    const hay = (a.titel+' '+(a.taggar||[]).map(id=>(state.tags[id]||{}).etikett||id).join(' ')).toLowerCase();
-    if(!hay.includes(state.query)) return false;
+    const hay = (a.titel+' '+(a.ingress||'')+' '+(a.taggar||[]).map(id=>(state.tags[id]||{}).etikett||id).join(' ')).toLowerCase();
+    for(const w of state.query.split(/\s+/)) if(w && !hay.includes(w)) return false;  // varje ord måste matcha
   }
   return true;
 }
 function renderList(){
-  renderActivebar();
   const u = ui(); const items = state.index.filter(matches);
   $('#count').textContent = `${items.length} ${u.count}`;
   $('#list').innerHTML = items.length ? items.map(a=>{
@@ -152,11 +151,11 @@ async function openArticle(id){
     <div class="body">${a.html||''}</div>
     ${a.kalla_url?`<div class="source-foot">${esc(u.original)} <a href="${esc(a.kalla_url)}" target="_blank" rel="noopener">${esc(a.kalla||a.kalla_url)}</a>.</div>`:''}`;
   el.querySelector('.back').addEventListener('click',()=>{ location.hash=''; });
-  ['#typefilter','#filters','#activebar','.meta-row','#list'].forEach(s=>$(s).classList.add('hidden'));
+  ['#typefilter','#searchhelp','.meta-row','#list'].forEach(s=>$(s).classList.add('hidden'));
   el.classList.remove('hidden'); el.focus(); window.scrollTo(0,0);
 }
 function closeArticle(){
   $('#article').classList.add('hidden');
-  ['#typefilter','#filters','#activebar','.meta-row','#list'].forEach(s=>$(s).classList.remove('hidden'));
+  ['#typefilter','#searchhelp','.meta-row','#list'].forEach(s=>$(s).classList.remove('hidden'));
 }
 boot();

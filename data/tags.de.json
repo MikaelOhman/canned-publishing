@@ -72,7 +72,7 @@
   "riksdagen": {
     "etikett": "Schwedisches Parlament",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "straffratt": {
     "etikett": "Strafrecht",
@@ -97,7 +97,7 @@
   "regeringen": {
     "etikett": "Die Regierung.",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "forvaltningsratt": {
     "etikett": "Verwaltungsrecht",
@@ -166,6 +166,26 @@
   },
   "eu-ratt": {
     "etikett": "EU-Recht",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "statligt-agande": {
+    "etikett": "Staatliche Eigentumsverhältnisse",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "ekonomi": {
+    "etikett": "Wirtschaftswissenschaften",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "sverige": {
+    "etikett": "Schweden",
+    "typ": "plats",
+    "antal": 1
+  },
+  "bolagsforvaltning": {
+    "etikett": "Unternehmensführung",
     "typ": "ämne",
     "antal": 1
   }
