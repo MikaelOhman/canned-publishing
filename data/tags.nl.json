@@ -17,7 +17,7 @@
   "regeringen": {
     "etikett": "De regering.",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "forvaltningsratt": {
     "etikett": "Bestuursrecht",
@@ -32,7 +32,7 @@
   "riksdagen": {
     "etikett": "Het parlement.",
     "typ": "organisation",
-    "antal": 11
+    "antal": 12
   },
   "underrattelsetjanst": {
     "etikett": "Inlichtingendienst",
@@ -112,7 +112,7 @@
   "ekonomi": {
     "etikett": "Economie",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "sverige": {
     "etikett": "Zweden",
@@ -201,6 +201,21 @@
   },
   "foretagsstod": {
     "etikett": "Bedrijfsondersteuning",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "allmanna-arvsfonden": {
+    "etikett": "Algemeen Erfgoedfonds",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "statsbudget": {
+    "etikett": "Staatbegroting.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "forvaltning": {
+    "etikett": "Beheer",
     "typ": "ämne",
     "antal": 1
   }

@@ -72,7 +72,7 @@
   "riksdagen": {
     "etikett": "Swedish Parliament",
     "typ": "organisation",
-    "antal": 12
+    "antal": 13
   },
   "straffratt": {
     "etikett": "Criminal law",
@@ -97,7 +97,7 @@
   "regeringen": {
     "etikett": "The Government",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "forvaltningsratt": {
     "etikett": "Administrative Law",
@@ -177,7 +177,7 @@
   "ekonomi": {
     "etikett": "Economics",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "sverige": {
     "etikett": "Sweden",
@@ -266,6 +266,21 @@
   },
   "foretagsstod": {
     "etikett": "Business Support",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "allmanna-arvsfonden": {
+    "etikett": "The General Inheritance Fund.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "statsbudget": {
+    "etikett": "State budget.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "forvaltning": {
+    "etikett": "Management",
     "typ": "ämne",
     "antal": 1
   }

@@ -17,7 +17,7 @@
   "regeringen": {
     "etikett": "Le gouvernement.",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "forvaltningsratt": {
     "etikett": "Droit administratif.",
@@ -32,7 +32,7 @@
   "riksdagen": {
     "etikett": "Le Riksdag.",
     "typ": "organisation",
-    "antal": 11
+    "antal": 12
   },
   "underrattelsetjanst": {
     "etikett": "Service de renseignement",
@@ -112,7 +112,7 @@
   "ekonomi": {
     "etikett": "Économie",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "sverige": {
     "etikett": "Suède",
@@ -201,6 +201,21 @@
   },
   "foretagsstod": {
     "etikett": "Soutien aux entreprises.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "allmanna-arvsfonden": {
+    "etikett": "Fonds général de succession.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "statsbudget": {
+    "etikett": "Budget des statistiques.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "forvaltning": {
+    "etikett": "Gestion",
     "typ": "ämne",
     "antal": 1
   }

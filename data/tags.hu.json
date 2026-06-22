@@ -17,7 +17,7 @@
   "regeringen": {
     "etikett": "A kormány.",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "forvaltningsratt": {
     "etikett": "Kormányzati jog",
@@ -32,7 +32,7 @@
   "riksdagen": {
     "etikett": "A Svéd Parlament.",
     "typ": "organisation",
-    "antal": 11
+    "antal": 12
   },
   "underrattelsetjanst": {
     "etikett": "Hírszerzés",
@@ -112,7 +112,7 @@
   "ekonomi": {
     "etikett": "Gazdaságtan.",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "sverige": {
     "etikett": "Svédország",
@@ -201,6 +201,21 @@
   },
   "foretagsstod": {
     "etikett": "Vállalati támogatás",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "allmanna-arvsfonden": {
+    "etikett": "Az Általános Örökség Alap.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "statsbudget": {
+    "etikett": "Állami költségvetés.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "forvaltning": {
+    "etikett": "Igazgatás",
     "typ": "ämne",
     "antal": 1
   }

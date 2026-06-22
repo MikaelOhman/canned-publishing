@@ -72,7 +72,7 @@
   "riksdagen": {
     "etikett": "Riksdagen",
     "typ": "organisation",
-    "antal": 13
+    "antal": 14
   },
   "straffratt": {
     "etikett": "Straffrätt",
@@ -97,7 +97,7 @@
   "regeringen": {
     "etikett": "Regeringen",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "forvaltningsratt": {
     "etikett": "Förvaltningsrätt",
@@ -192,7 +192,7 @@
   "ekonomi": {
     "etikett": "Ekonomi",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "bolagsforvaltning": {
     "etikett": "Bolagsförvaltning",
@@ -276,6 +276,21 @@
   },
   "foretagsstod": {
     "etikett": "Företagsstöd",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "allmanna-arvsfonden": {
+    "etikett": "Allmänna arvsfonden",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "statsbudget": {
+    "etikett": "Statsbudget",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "forvaltning": {
+    "etikett": "Förvaltning",
     "typ": "ämne",
     "antal": 1
   }

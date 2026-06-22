@@ -17,7 +17,7 @@
   "regeringen": {
     "etikett": "الحكومة.",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "forvaltningsratt": {
     "etikett": "القانون الإداري.",
@@ -32,7 +32,7 @@
   "riksdagen": {
     "etikett": "البرلمان.",
     "typ": "organisation",
-    "antal": 11
+    "antal": 12
   },
   "underrattelsetjanst": {
     "etikett": "جهاز الاستخبارات",
@@ -112,7 +112,7 @@
   "ekonomi": {
     "etikett": "الاقتصاد",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "sverige": {
     "etikett": "السويد",
@@ -201,6 +201,21 @@
   },
   "foretagsstod": {
     "etikett": "دعم الشركات",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "allmanna-arvsfonden": {
+    "etikett": "صندوق الميراث العام.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "statsbudget": {
+    "etikett": "ميزانية الدولة.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "forvaltning": {
+    "etikett": "الإدارة",
     "typ": "ämne",
     "antal": 1
   }

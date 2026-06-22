@@ -72,7 +72,7 @@
   "riksdagen": {
     "etikett": "Schwedisches Parlament",
     "typ": "organisation",
-    "antal": 12
+    "antal": 13
   },
   "straffratt": {
     "etikett": "Strafrecht",
@@ -97,7 +97,7 @@
   "regeringen": {
     "etikett": "Die Regierung.",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "forvaltningsratt": {
     "etikett": "Verwaltungsrecht",
@@ -177,7 +177,7 @@
   "ekonomi": {
     "etikett": "Wirtschaftswissenschaften",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "sverige": {
     "etikett": "Schweden",
@@ -266,6 +266,21 @@
   },
   "foretagsstod": {
     "etikett": "Firmenunterstützung\n\n# Företagsstöd\n# Unternehmensunterstützung\n\n*   Information om hur du får företagsstöd.\n*   Informationen darüber, wie Sie Unternehmensunterstützung erhalten können.\n\n**Viktigt!**\n**Wichtig!**\n\nDetta är bara en kort beskrivning.\nDies ist nur eine kurze Beschreibung.\n\nMer information finns på: www.example.com\nWeitere Informationen finden Sie unter: www.example.com",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "allmanna-arvsfonden": {
+    "etikett": "Allgemeiner Erbfonds.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "statsbudget": {
+    "etikett": "Haushaltsplan für Statistik.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "forvaltning": {
+    "etikett": "Verwaltung",
     "typ": "ämne",
     "antal": 1
   }
