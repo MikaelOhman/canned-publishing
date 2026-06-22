@@ -71,18 +71,6 @@
     ]
   },
   {
-    "id": "HD03284",
-    "typ": "lagforslag",
-    "titel": "Riksrevisionens rapport om Migrationsverkets kontroller av arbetstillstånd – stor risk för fel och missbruk",
-    "ingress": "I skrivelsen redovisar regeringen sin bedömning av de iakttagelser och rekommendationer som Riksrevisionen har gjort i rapporten Migrationsverkets kontroller av arbetstillstånd – stor risk för fel och",
-    "datum": "2026-06-16",
-    "kalla": "Riksdagen",
-    "kalla_url": "https://data.riksdagen.se/dokument/HD03284.html",
-    "taggar": [
-      "riksdagen"
-    ]
-  },
-  {
     "id": "HD03283",
     "typ": "lagforslag",
     "titel": "Ungdomspolitisk skrivelse",
@@ -102,6 +90,18 @@
     "datum": "2026-06-16",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HD03273.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HD03284",
+    "typ": "lagforslag",
+    "titel": "Riksrevisionens rapport om Migrationsverkets kontroller av arbetstillstånd – stor risk för fel och missbruk",
+    "ingress": "Riksrevisionen har hittat stora brister i hur Migrationsverket kontrollerar arbetstillstånd. Det finns en stor risk att fel och fusk med arbetstillstånd inte upptäcks, vilket kan leda till brott i arbetslivet.",
+    "datum": "2026-06-16",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03284.html",
     "taggar": [
       "riksdagen"
     ]
