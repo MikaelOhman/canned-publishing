@@ -20,8 +20,8 @@
   {
     "id": "HD03290",
     "typ": "lagforslag",
-    "titel": "El servicio de inteligencia exterior de Suecia",
-    "ingress": "Proyecto de ley relativo a la creación de una nueva autoridad, el servicio de inteligencia exterior de Suecia (UND).",
+    "titel": "El servicio de inteligencia exterior de Suecia.",
+    "ingress": "Suecia va a crear una nueva agencia llamada el Servicio de Inteligencia Exterior de Suecia (UND). Esta agencia comenzará a operar el 1 de enero de 2027.",
     "datum": "2026-06-18",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HD03290.html",
@@ -29,21 +29,6 @@
       "underrattelsetjanst",
       "personuppgifter",
       "nationell-sakerhet",
-      "riksdagen"
-    ]
-  },
-  {
-    "id": "HD03286",
-    "typ": "lagforslag",
-    "titel": "Mayor protección de la independencia de los tribunales y los jueces.",
-    "ingress": "IMPORTANTE: Traduzca el siguiente texto fiel y completamente. Traduzca para el SIGNIFICADO (no palabra por palabra) para que el punto quede claro. Mantenga cada número, fecha, nombre y término legal e",
-    "datum": "2026-06-16",
-    "kalla": "Riksdagen",
-    "kalla_url": "https://data.riksdagen.se/dokument/HD03286.html",
-    "taggar": [
-      "domstolar",
-      "rattsstat",
-      "domares-oberoende",
       "riksdagen"
     ]
   },
@@ -262,23 +247,6 @@
       "personuppgifter",
       "underrattelseverksamhet",
       "regeringen",
-      "riksdagen"
-    ]
-  },
-  {
-    "id": "HC03189",
-    "typ": "lagforslag",
-    "titel": "Criminalización de los exámenes de virginidad, los certificados de virginidad y los procedimientos quirúrgicos de verificación de la virginidad.",
-    "ingress": "IMPORTANTE: Traduzca el texto a continuación de manera fiel y completa. Traduzca para el SIGNIFICADO (no palabra por palabra) para que el punto quede claro. Mantenga cada número, fecha, nombre y térmi",
-    "datum": "2025-06-17",
-    "kalla": "Riksdagen",
-    "kalla_url": "https://data.riksdagen.se/dokument/HC03189.html",
-    "taggar": [
-      "straffratt",
-      "hedersrelaterat-vald",
-      "kvinnoratt",
-      "regeringen",
-      "brottsbalken",
       "riksdagen"
     ]
   },

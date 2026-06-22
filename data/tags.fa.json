@@ -32,22 +32,22 @@
   "riksdagen": {
     "etikett": "مجلس نمایندگان",
     "typ": "organisation",
-    "antal": 15
+    "antal": 16
   },
   "underrattelsetjanst": {
     "etikett": "سازمان اطلاعات",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "personuppgifter": {
     "etikett": "داده‌های شخصی",
     "typ": "ämne",
-    "antal": 2
+    "antal": 3
   },
   "nationell-sakerhet": {
     "etikett": "امنیت ملی",
     "typ": "ämne",
-    "antal": 2
+    "antal": 3
   },
   "migration": {
     "etikett": "مهاجرت",

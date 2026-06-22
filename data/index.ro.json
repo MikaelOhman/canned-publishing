@@ -20,8 +20,8 @@
   {
     "id": "HD03290",
     "typ": "lagforslag",
-    "titel": "Serviciul de informații externe al Suediei",
-    "ingress": "Proiect de lege privind înființarea unei noi autorități, Serviciul de informații externe al Suediei (UND).",
+    "titel": "Serviciul suedez de informații externe.",
+    "ingress": "Suedia va înființa o nouă agenție, care se va numi Serviciul de Informații Externe al Suediei (UND). Această agenție va începe să funcționeze la 1 ianuarie 2027.",
     "datum": "2026-06-18",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HD03290.html",
@@ -29,21 +29,6 @@
       "underrattelsetjanst",
       "personuppgifter",
       "nationell-sakerhet",
-      "riksdagen"
-    ]
-  },
-  {
-    "id": "HD03286",
-    "typ": "lagforslag",
-    "titel": "Îmbunătățirea protecției independenței instanțelor de judecată și a judecătorilor.",
-    "ingress": "IMPORTANT: Retranslate the text below faithfully and COMPLETELY. Translate for MEANING (not word-for-word) so the point is clear. Keep every number, date, name and legal term exact. Make all pronoun r",
-    "datum": "2026-06-16",
-    "kalla": "Riksdagen",
-    "kalla_url": "https://data.riksdagen.se/dokument/HD03286.html",
-    "taggar": [
-      "domstolar",
-      "rattsstat",
-      "domares-oberoende",
       "riksdagen"
     ]
   },
@@ -60,22 +45,6 @@
       "eu-ratt",
       "straffratt",
       "riksdagen"
-    ]
-  },
-  {
-    "id": "tvangsvard-tanum",
-    "typ": "nyhet",
-    "titel": "Refuzul îngrijirii medicale obligatorii – găsită moartă în zăpadă",
-    "ingress": "Spitalul de regiune din nordul Älvsborg, din Trollhättan, unul dintre centrele de îngrijire cu care Lina Bryant a fost în contact. Foto: W.carter, CC0, via Wikimedia Commons. O tânără de 28 de ani, cu",
-    "datum": "2026-06-12",
-    "kalla": "Bulletin",
-    "kalla_url": "https://bulletin.nu",
-    "taggar": [
-      "vard",
-      "psykiatri",
-      "dodsfall",
-      "kritik",
-      "tanum"
     ]
   },
   {
@@ -108,24 +77,6 @@
       "manniskohandel",
       "religion",
       "hallefors"
-    ]
-  },
-  {
-    "id": "HC03195",
-    "typ": "lagforslag",
-    "titel": "Cerințe mai stricte pentru avocații care oferă asistență juridică gratuită și cerințe de competență mai ridicate pentru interpreți în cazurile de imigrare.",
-    "ingress": "IMPORTANT: Retranslate the text below faithfully and COMPLETELY. Translate for MEANING (not word-for-word) so the point is clear. Keep every number, date, name and legal term exact. Make all pronoun r",
-    "datum": "2025-06-25",
-    "kalla": "Riksdagen",
-    "kalla_url": "https://data.riksdagen.se/dokument/HC03195.html",
-    "taggar": [
-      "migration",
-      "rattssakerhet",
-      "lagstiftning",
-      "migrationsverket",
-      "polismyndigheten",
-      "sakerhetspolisen",
-      "riksdagen"
     ]
   },
   {

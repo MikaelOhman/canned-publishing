@@ -20,8 +20,8 @@
   {
     "id": "HD03290",
     "typ": "lagforslag",
-    "titel": "Svédország külföldi hírszerző szolgálata",
-    "ingress": "Törvényjavaslat egy új hatóság, Svédország külföldi hírszerző szolgálatának (UND) létrehozásával összefüggésben.",
+    "titel": "Svédország külügyi hírszerző szolgálata.",
+    "ingress": "Svédország egy új intézményt indít, amelynek a neve Svédország külügyi hírszerző szolgálata (UND) lesz. Ez az intézmény 2027. január 1-jén kezdheti meg a működését.",
     "datum": "2026-06-18",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HD03290.html",
@@ -29,21 +29,6 @@
       "underrattelsetjanst",
       "personuppgifter",
       "nationell-sakerhet",
-      "riksdagen"
-    ]
-  },
-  {
-    "id": "HD03286",
-    "typ": "lagforslag",
-    "titel": "A bíróságok és bírák függetlenségének védelmének erősítése.",
-    "ingress": "FONTOS: Fordítsa le a következő szöveget pontosan és TELJESEN. Fordíts a TARTALOMRA (nem szó szerint), hogy az érthető legyen. Tartsa meg minden számot, dátumot, nevet és jogi kifejezést változatlanul",
-    "datum": "2026-06-16",
-    "kalla": "Riksdagen",
-    "kalla_url": "https://data.riksdagen.se/dokument/HD03286.html",
-    "taggar": [
-      "domstolar",
-      "rattsstat",
-      "domares-oberoende",
       "riksdagen"
     ]
   },
@@ -63,22 +48,6 @@
     ]
   },
   {
-    "id": "tvangsvard-tanum",
-    "typ": "nyhet",
-    "titel": "Elutasított kényszerápolás – megtalálták holtan a hóban",
-    "ingress": "A Norra Älvsborgs länssjukház Trollhättanban, amely az egyik olyan intézmény volt, ahol Lina Bryant kezelés alatt állt. Fotó: W.carter, CC0, via Wikimedia Commons. Egy 28 éves, mentális betegségben sz",
-    "datum": "2026-06-12",
-    "kalla": "Bulletin",
-    "kalla_url": "https://bulletin.nu",
-    "taggar": [
-      "vard",
-      "psykiatri",
-      "dodsfall",
-      "kritik",
-      "tanum"
-    ]
-  },
-  {
     "id": "belfast-0610",
     "typ": "nyhet",
     "titel": "Itt Belfastban egy nyakvágási kísérlet történt",
@@ -92,40 +61,6 @@
       "belfast",
       "nordirland",
       "polis"
-    ]
-  },
-  {
-    "id": "sektledare-crewe",
-    "typ": "nyhet",
-    "titel": "A Sävsjön-i Szent Péter Crewe-ben lett pápa",
-    "ingress": "A Sävsjön-i Bergslagsgården néhány évig a &quot;The Ahmadi religion of peace and light&quot; székhelye volt. Fotó: Faksimile/Youtube Tíz tagja egy síita muszlim szektának vádat emeltek fel Nagy-Britan",
-    "datum": "2026-06-10",
-    "kalla": "Bulletin",
-    "kalla_url": "https://bulletin.nu",
-    "taggar": [
-      "brott",
-      "sekt",
-      "manniskohandel",
-      "religion",
-      "hallefors"
-    ]
-  },
-  {
-    "id": "HC03195",
-    "typ": "lagforslag",
-    "titel": "Szigorúbb követelmények a közszolgálati képviselők számára, és magasabb szakmai követelmények a fordítók számára a migrációs ügyekben.",
-    "ingress": "FONTOS: Pontosan és teljes mértékben fordítsa le az alábbi szöveget, a jelentésre összpontosítva (nem szó szerinti fordítás), hogy az érthető legyen. Tartsa meg minden számot, dátumot, nevet és jogi k",
-    "datum": "2025-06-25",
-    "kalla": "Riksdagen",
-    "kalla_url": "https://data.riksdagen.se/dokument/HC03195.html",
-    "taggar": [
-      "migration",
-      "rattssakerhet",
-      "lagstiftning",
-      "migrationsverket",
-      "polismyndigheten",
-      "sakerhetspolisen",
-      "riksdagen"
     ]
   },
   {
@@ -163,23 +98,6 @@
     ]
   },
   {
-    "id": "HC03194",
-    "typ": "lagforslag",
-    "titel": "Az akkumulátorokra vonatkozó uniós rendelet kiegészítő rendelkezései.",
-    "ingress": "FONTOS: Pontosan és teljes mértékben fordítsa le az alábbi szöveget, a jelentésre összpontosítva (nem szó szerinti fordítás), hogy az érthető legyen. Tartsa meg minden számot, dátumot, nevet és jogi k",
-    "datum": "2025-06-24",
-    "kalla": "Riksdagen",
-    "kalla_url": "https://data.riksdagen.se/dokument/HC03194.html",
-    "taggar": [
-      "eu-ratt",
-      "batteriforordningen",
-      "marknadskontroll",
-      "miljolagstiftning",
-      "lagstiftning",
-      "riksdagen"
-    ]
-  },
-  {
     "id": "HC03192",
     "typ": "lagforslag",
     "titel": "Egy fejlettebb modell a feltételezett bérszámításhoz.",
@@ -193,23 +111,6 @@
       "regeringen",
       "hyreslagstiftning",
       "fastighetsmarknaden",
-      "riksdagen"
-    ]
-  },
-  {
-    "id": "HC03188",
-    "typ": "lagforslag",
-    "titel": "Az adóalapból levonható alapvető összeg a kockázatadónál.",
-    "ingress": "FONTOS: Fordítsa le az alábbi szöveget pontosan és teljes mértékben. Fordítson a jelentésre (nem szó szerinti fordítás), hogy az érthető legyen. Tartsa meg minden számot, dátumot, nevet és jogi kifeje",
-    "datum": "2025-06-24",
-    "kalla": "Riksdagen",
-    "kalla_url": "https://data.riksdagen.se/dokument/HC03188.html",
-    "taggar": [
-      "skatt",
-      "finansmarknad",
-      "kreditinstitut",
-      "lagstiftning",
-      "sverige",
       "riksdagen"
     ]
   },

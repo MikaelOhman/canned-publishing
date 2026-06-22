@@ -20,8 +20,8 @@
   {
     "id": "HD03290",
     "typ": "lagforslag",
-    "titel": "Le service de renseignement extérieur de la Suède",
-    "ingress": "Projet de loi lié à la création d'une nouvelle autorité, le service de renseignement extérieur de la Suède (UND).",
+    "titel": "Le service de renseignement extérieur suédois.",
+    "ingress": "La Suède va créer une nouvelle agence appelée le Service de renseignement extérieur suédois (UND). Cette agence commencera ses activités le 1er janvier 2027.",
     "datum": "2026-06-18",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HD03290.html",
@@ -33,25 +33,10 @@
     ]
   },
   {
-    "id": "HD03286",
-    "typ": "lagforslag",
-    "titel": "Renforcement de la protection de l'indépendance des tribunaux et des juges.",
-    "ingress": "IMPORTANT : Retraduire fidèlement et intégralement le texte ci-dessous. Traduire pour le sens (et non mot à mot) afin que le propos soit clair. Conserver chaque nombre, date, nom et terme juridique ex",
-    "datum": "2026-06-16",
-    "kalla": "Riksdagen",
-    "kalla_url": "https://data.riksdagen.se/dokument/HD03286.html",
-    "taggar": [
-      "domstolar",
-      "rattsstat",
-      "domares-oberoende",
-      "riksdagen"
-    ]
-  },
-  {
     "id": "HD03285",
     "typ": "lagforslag",
-    "titel": "Audition et remise temporaire dans le cadre d'un mandat d'arrêt",
-    "ingress": "Modifications des lois sur la remise au titre du mandat d'arrêt européen et nordique, pour aligner le droit suédois sur la jurisprudence de la Cour de justice de l'UE.",
+    "titel": "Audition et transmission temporaire en cas d'ordonnance d'arrestation.",
+    "ingress": "De nouvelles règles sont proposées concernant la procédure d'extradition des personnes recherchées en Europe ou en Scandinavie vers d'autres pays. L'objectif est de rendre les règles plus claires et de se conformer aux décisions de la Cour",
     "datum": "2026-06-15",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HD03285.html",
@@ -60,22 +45,6 @@
       "eu-ratt",
       "straffratt",
       "riksdagen"
-    ]
-  },
-  {
-    "id": "tvangsvard-tanum",
-    "typ": "nyhet",
-    "titel": "Refus de soins obligatoires – retrouvée morte dans la neige",
-    "ingress": "L&#x27;hôpital de district de Norra Älvsborg à Trollhättan, l&#x27;un des établissements de soins avec lesquels Lina Bryant a été en contact. Photo : W.carter, CC0, via Wikimedia Commons. Une jeune fe",
-    "datum": "2026-06-12",
-    "kalla": "Bulletin",
-    "kalla_url": "https://bulletin.nu",
-    "taggar": [
-      "vard",
-      "psykiatri",
-      "dodsfall",
-      "kritik",
-      "tanum"
     ]
   },
   {

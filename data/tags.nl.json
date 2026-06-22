@@ -32,22 +32,22 @@
   "riksdagen": {
     "etikett": "Het parlement.",
     "typ": "organisation",
-    "antal": 17
+    "antal": 19
   },
   "underrattelsetjanst": {
     "etikett": "Inlichtingendienst",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "personuppgifter": {
     "etikett": "Persoonsgegevens",
     "typ": "ämne",
-    "antal": 2
+    "antal": 3
   },
   "nationell-sakerhet": {
     "etikett": "Nationale veiligheid",
     "typ": "ämne",
-    "antal": 2
+    "antal": 3
   },
   "migration": {
     "etikett": "Migratie",
@@ -92,17 +92,17 @@
   "arresteringsorder": {
     "etikett": "Aanhoudingsbevel",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "eu-ratt": {
     "etikett": "EU-recht",
     "typ": "ämne",
-    "antal": 2
+    "antal": 3
   },
   "straffratt": {
     "etikett": "Strafrecht",
     "typ": "ämne",
-    "antal": 3
+    "antal": 4
   },
   "statligt-agande": {
     "etikett": "Staatsbezit.",

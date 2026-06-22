@@ -32,22 +32,22 @@
   "riksdagen": {
     "etikett": "Riksdagen",
     "typ": "organisation",
-    "antal": 17
+    "antal": 18
   },
   "underrattelsetjanst": {
     "etikett": "Służba wywiadu",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "personuppgifter": {
     "etikett": "Dane osobowe",
     "typ": "ämne",
-    "antal": 2
+    "antal": 3
   },
   "nationell-sakerhet": {
     "etikett": "Bezpieczeństwo narodowe",
     "typ": "ämne",
-    "antal": 2
+    "antal": 3
   },
   "migration": {
     "etikett": "Migracja.",

@@ -32,22 +32,22 @@
   "riksdagen": {
     "etikett": "El Parlamento.",
     "typ": "organisation",
-    "antal": 17
+    "antal": 18
   },
   "underrattelsetjanst": {
     "etikett": "Servicio de inteligencia",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "personuppgifter": {
     "etikett": "Datos personales",
     "typ": "ämne",
-    "antal": 2
+    "antal": 3
   },
   "nationell-sakerhet": {
     "etikett": "Seguridad nacional",
     "typ": "ämne",
-    "antal": 2
+    "antal": 3
   },
   "migration": {
     "etikett": "Migración",
