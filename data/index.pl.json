@@ -31,5 +31,53 @@
       "nationell-sakerhet",
       "riksdagen"
     ]
+  },
+  {
+    "id": "HD03286",
+    "typ": "lagforslag",
+    "titel": "Silniejsza ochrona niezależności sądów i niezawisłości sędziów",
+    "ingress": "Rząd proponuje szereg działań mających wzmocnić i trwale chronić niezależność sądów oraz niezawisłość sędziów.",
+    "datum": "2026-06-16",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03286.html",
+    "taggar": [
+      "domstolar",
+      "rattsstat",
+      "domares-oberoende",
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HD03285",
+    "typ": "lagforslag",
+    "titel": "Przesłuchanie i tymczasowe przekazanie w sprawach nakazu aresztowania",
+    "ingress": "Zmiany w ustawach o przekazywaniu na podstawie europejskiego i nordyckiego nakazu aresztowania, dostosowujące prawo szwedzkie do orzecznictwa TSUE.",
+    "datum": "2026-06-15",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03285.html",
+    "taggar": [
+      "arresteringsorder",
+      "eu-ratt",
+      "straffratt",
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03195",
+    "typ": "lagforslag",
+    "titel": "Zaostrzone wymagania dla prawników świadczących usługi na rzecz osób w potrzebie oraz podwyższone wymagania dotyczące kompetencji tłumaczy w sprawach imigracyjnych.",
+    "ingress": "Ważne jest dla praworządności, aby praca prawnych asystentów (offentliga biträden) charakteryzowała się wysoką jakością. Należy zapewnić, że prawni asystenci posiadają kompetencje niezbędne do wykonyw",
+    "datum": "2025-06-25",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03195.html",
+    "taggar": [
+      "migration",
+      "rattssakerhet",
+      "lagstiftning",
+      "migrationsverket",
+      "polismyndigheten",
+      "sakerhetspolisen",
+      "riksdagen"
+    ]
   }
 ]

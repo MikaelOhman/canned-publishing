@@ -31,5 +31,53 @@
       "nationell-sakerhet",
       "riksdagen"
     ]
+  },
+  {
+    "id": "HD03286",
+    "typ": "lagforslag",
+    "titel": "A bíróságok és bírók függetlenségének erősebb védelme",
+    "ingress": "A kormány több intézkedést javasol a bíróságok és a bírók függetlenségének megerősítésére és tartós védelmére.",
+    "datum": "2026-06-16",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03286.html",
+    "taggar": [
+      "domstolar",
+      "rattsstat",
+      "domares-oberoende",
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HD03285",
+    "typ": "lagforslag",
+    "titel": "Meghallgatás és ideiglenes átadás elfogatóparancs esetén",
+    "ingress": "Az európai és az északi elfogatóparancs szerinti átadásról szóló törvények módosítása, a svéd jognak az EU Bíróság ítélkezési gyakorlatához igazítása érdekében.",
+    "datum": "2026-06-15",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03285.html",
+    "taggar": [
+      "arresteringsorder",
+      "eu-ratt",
+      "straffratt",
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03195",
+    "typ": "lagforslag",
+    "titel": "Szigorúbb követelmények a közszolgálati képviselők számára, és magasabb szakmai követelmények a fordítók számára a migrációs ügyekben.",
+    "ingress": "FONTOS: Pontosan és teljes mértékben fordítsa le az alábbi szöveget, a jelentésre összpontosítva (nem szó szerinti fordítás), hogy az érthető legyen. Tartsa meg minden számot, dátumot, nevet és jogi k",
+    "datum": "2025-06-25",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03195.html",
+    "taggar": [
+      "migration",
+      "rattssakerhet",
+      "lagstiftning",
+      "migrationsverket",
+      "polismyndigheten",
+      "sakerhetspolisen",
+      "riksdagen"
+    ]
   }
 ]

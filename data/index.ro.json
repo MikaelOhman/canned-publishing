@@ -31,5 +31,53 @@
       "nationell-sakerhet",
       "riksdagen"
     ]
+  },
+  {
+    "id": "HD03286",
+    "typ": "lagforslag",
+    "titel": "Protecție mai puternică a independenței instanțelor și a judecătorilor",
+    "ingress": "Guvernul propune o serie de măsuri pentru a consolida și a proteja pe termen lung independența instanțelor și a judecătorilor.",
+    "datum": "2026-06-16",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03286.html",
+    "taggar": [
+      "domstolar",
+      "rattsstat",
+      "domares-oberoende",
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HD03285",
+    "typ": "lagforslag",
+    "titel": "Audierea și transferul temporar în cazul unui mandat de arestare",
+    "ingress": "Modificări ale legilor privind predarea în temeiul mandatului european și nordic de arestare, pentru a alinia dreptul suedez la jurisprudența Curții de Justiție a UE.",
+    "datum": "2026-06-15",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03285.html",
+    "taggar": [
+      "arresteringsorder",
+      "eu-ratt",
+      "straffratt",
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03195",
+    "typ": "lagforslag",
+    "titel": "Cerințe mai stricte pentru avocații care oferă asistență juridică gratuită și cerințe de competență mai ridicate pentru interpreți în cazurile de imigrare.",
+    "ingress": "IMPORTANT: Retranslate the text below faithfully and COMPLETELY. Translate for MEANING (not word-for-word) so the point is clear. Keep every number, date, name and legal term exact. Make all pronoun r",
+    "datum": "2025-06-25",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03195.html",
+    "taggar": [
+      "migration",
+      "rattssakerhet",
+      "lagstiftning",
+      "migrationsverket",
+      "polismyndigheten",
+      "sakerhetspolisen",
+      "riksdagen"
+    ]
   }
 ]

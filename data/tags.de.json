@@ -7,7 +7,7 @@
   "migration": {
     "etikett": "Migration",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "sekt": {
     "etikett": "Sekte",
@@ -72,12 +72,12 @@
   "riksdagen": {
     "etikett": "Schwedisches Parlament",
     "typ": "organisation",
-    "antal": 3
+    "antal": 6
   },
   "straffratt": {
     "etikett": "Strafrecht",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "kulturpolitik": {
     "etikett": "Kulturpolitik\n\n# Kulturpolitik\n\nKulturpolitik umfasst eine Vielzahl von Maßnahmen und Richtlinien, die darauf abzielen, die Kunst und Kultur in einer Gesellschaft zu fördern, zu erhalten und zu entwickeln. Sie kann sowohl staatliche als auch private Initiativen umfassen.\n\n*   Förderung von Kunst und Kultur\n*   Erhaltung des kulturellen Erbes\n*   Entwicklung neuer kultureller Ausdrucksformen\n\n**Ziele der Kulturpolitik:**\n\n*   Vielfalt und Kreativität fördern\n*   Zugang zu Kunst und Kultur für alle ermöglichen\n*   Den kulturellen Dialog stärken\n*   Die Identität einer Gesellschaft stärken\n\nKulturpolitik ist ein wichtiges Instrument, um eine lebendige und vielfältige Gesellschaft zu gestalten. Sie trägt dazu bei, dass Kunst und Kultur nicht nur den Eliten vorbehalten sind, sondern allen Menschen zugänglich sind.\n\nDies ist nur ein kurzer Überblick über das Thema Kulturpolitik. Es gibt noch viel mehr zu entdecken.",
@@ -107,7 +107,7 @@
   "lagstiftning": {
     "etikett": "Gesetzgebung",
     "typ": "händelse",
-    "antal": 1
+    "antal": 2
   },
   "underrattelsetjanst": {
     "etikett": "Nachrichtendienst",
@@ -121,6 +121,51 @@
   },
   "nationell-sakerhet": {
     "etikett": "Nationale Sicherheit",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "rattssakerhet": {
+    "etikett": "Rechtssicherheit.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "migrationsverket": {
+    "etikett": "Migrationsverket",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "polismyndigheten": {
+    "etikett": "Die Polizei.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "sakerhetspolisen": {
+    "etikett": "Der Staatsschutz.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "domstolar": {
+    "etikett": "Gerichte",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "rattsstat": {
+    "etikett": "Rechtsstaat",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "domares-oberoende": {
+    "etikett": "Richterliche Unabhängigkeit",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "arresteringsorder": {
+    "etikett": "Haftbefehl",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "eu-ratt": {
+    "etikett": "EU-Recht",
     "typ": "ämne",
     "antal": 1
   }

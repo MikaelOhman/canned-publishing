@@ -27,12 +27,12 @@
   "lagstiftning": {
     "etikett": "Törvénykezés.",
     "typ": "händelse",
-    "antal": 1
+    "antal": 2
   },
   "riksdagen": {
     "etikett": "A Svéd Parlament.",
     "typ": "organisation",
-    "antal": 2
+    "antal": 5
   },
   "underrattelsetjanst": {
     "etikett": "Hírszerzés",
@@ -46,6 +46,61 @@
   },
   "nationell-sakerhet": {
     "etikett": "Nemzetbiztonság",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "migration": {
+    "etikett": "Migráció",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "rattssakerhet": {
+    "etikett": "Jogbiztonság",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "migrationsverket": {
+    "etikett": "A Migrációs Hivatal.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "polismyndigheten": {
+    "etikett": "A rendőrség.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "sakerhetspolisen": {
+    "etikett": "A biztonsági szolgálat.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "domstolar": {
+    "etikett": "Bíróságok",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "rattsstat": {
+    "etikett": "Jogállam",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "domares-oberoende": {
+    "etikett": "Bírói függetlenség",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "arresteringsorder": {
+    "etikett": "Elfogatóparancs",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "eu-ratt": {
+    "etikett": "Uniós jog",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "straffratt": {
+    "etikett": "Büntetőjog",
     "typ": "ämne",
     "antal": 1
   }

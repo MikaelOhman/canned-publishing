@@ -31,5 +31,53 @@
       "nationell-sakerhet",
       "riksdagen"
     ]
+  },
+  {
+    "id": "HD03286",
+    "typ": "lagforslag",
+    "titel": "Mayor protección de la independencia de los tribunales y los jueces",
+    "ingress": "El Gobierno propone una serie de medidas para reforzar y proteger a largo plazo la independencia de los tribunales y los jueces.",
+    "datum": "2026-06-16",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03286.html",
+    "taggar": [
+      "domstolar",
+      "rattsstat",
+      "domares-oberoende",
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HD03285",
+    "typ": "lagforslag",
+    "titel": "Audiencia y traslado temporal en los casos de orden de detención",
+    "ingress": "Modificaciones de las leyes sobre la entrega en virtud de la orden de detención europea y nórdica, para adaptar el derecho sueco a la jurisprudencia del Tribunal de Justicia de la UE.",
+    "datum": "2026-06-15",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03285.html",
+    "taggar": [
+      "arresteringsorder",
+      "eu-ratt",
+      "straffratt",
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03195",
+    "typ": "lagforslag",
+    "titel": "Requisitos más estrictos para los intérpretes y traductores que trabajan para la administración pública, y requisitos de competencia más elevados para los intérpretes en asuntos de inmigración.",
+    "ingress": "Es fundamental para el debido proceso que el trabajo de los abogados de oficio tenga una alta calidad. Debe garantizarse que los abogados de oficio tengan la competencia necesaria para el puesto, espe",
+    "datum": "2025-06-25",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03195.html",
+    "taggar": [
+      "migration",
+      "rattssakerhet",
+      "lagstiftning",
+      "migrationsverket",
+      "polismyndigheten",
+      "sakerhetspolisen",
+      "riksdagen"
+    ]
   }
 ]

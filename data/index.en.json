@@ -47,6 +47,36 @@
     ]
   },
   {
+    "id": "HD03286",
+    "typ": "lagforslag",
+    "titel": "Stronger protection for the independence of courts and judges",
+    "ingress": "The government proposes a range of measures to strengthen and give lasting protection to the independence of the courts and judges.",
+    "datum": "2026-06-16",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03286.html",
+    "taggar": [
+      "domstolar",
+      "rattsstat",
+      "domares-oberoende",
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HD03285",
+    "typ": "lagforslag",
+    "titel": "Hearing and temporary transfer in arrest warrant cases",
+    "ingress": "Amendments to the laws on surrender under the European and Nordic arrest warrants, to align Swedish law with the case law of the EU Court of Justice.",
+    "datum": "2026-06-15",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03285.html",
+    "taggar": [
+      "arresteringsorder",
+      "eu-ratt",
+      "straffratt",
+      "riksdagen"
+    ]
+  },
+  {
     "id": "tvangsvard-tanum",
     "titel": "Denied compulsory care – found dead in the snow",
     "ingress": "A mentally ill 28-year-old was denied compulsory care and had to leave in the middle of the night. Shortly after, Lina Bryant was found dead in the snow in Tanum municipality.",
@@ -93,5 +123,23 @@
     ],
     "typ": "nyhet",
     "kalla_url": "https://bulletin.nu"
+  },
+  {
+    "id": "HC03195",
+    "typ": "lagforslag",
+    "titel": "Stricter requirements for public defenders and increased competence requirements for interpreters in immigration cases.",
+    "ingress": "It is crucial for legal certainty that the work of public defenders maintains a high quality. It must be ensured that public defenders possess the necessary competence for their assignments, particula",
+    "datum": "2025-06-25",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03195.html",
+    "taggar": [
+      "migration",
+      "rattssakerhet",
+      "lagstiftning",
+      "migrationsverket",
+      "polismyndigheten",
+      "sakerhetspolisen",
+      "riksdagen"
+    ]
   }
 ]

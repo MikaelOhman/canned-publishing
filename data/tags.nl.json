@@ -27,12 +27,12 @@
   "lagstiftning": {
     "etikett": "Wetgeving",
     "typ": "händelse",
-    "antal": 1
+    "antal": 2
   },
   "riksdagen": {
     "etikett": "Het parlement.",
     "typ": "organisation",
-    "antal": 2
+    "antal": 5
   },
   "underrattelsetjanst": {
     "etikett": "Inlichtingendienst",
@@ -46,6 +46,61 @@
   },
   "nationell-sakerhet": {
     "etikett": "Nationale veiligheid",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "migration": {
+    "etikett": "Migratie",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "rattssakerhet": {
+    "etikett": "Rechtszekerheid.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "migrationsverket": {
+    "etikett": "De Zweedse Migratiedienst.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "polismyndigheten": {
+    "etikett": "De politie.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "sakerhetspolisen": {
+    "etikett": "De veiligheidsdienst.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "domstolar": {
+    "etikett": "Rechtbanken",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "rattsstat": {
+    "etikett": "Rechtsstaat",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "domares-oberoende": {
+    "etikett": "Onafhankelijkheid van rechters",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "arresteringsorder": {
+    "etikett": "Aanhoudingsbevel",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "eu-ratt": {
+    "etikett": "EU-recht",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "straffratt": {
+    "etikett": "Strafrecht",
     "typ": "ämne",
     "antal": 1
   }

@@ -32,7 +32,7 @@
   "riksdagen": {
     "etikett": "مجلس نمایندگان",
     "typ": "organisation",
-    "antal": 2
+    "antal": 4
   },
   "underrattelsetjanst": {
     "etikett": "سازمان اطلاعات",
@@ -46,6 +46,36 @@
   },
   "nationell-sakerhet": {
     "etikett": "امنیت ملی",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "domstolar": {
+    "etikett": "دادگاه‌ها",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "rattsstat": {
+    "etikett": "حاکمیت قانون",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "domares-oberoende": {
+    "etikett": "استقلال قضایی",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "arresteringsorder": {
+    "etikett": "حکم بازداشت",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "eu-ratt": {
+    "etikett": "حقوق اتحادیه اروپا",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "straffratt": {
+    "etikett": "حقوق کیفری",
     "typ": "ämne",
     "antal": 1
   }

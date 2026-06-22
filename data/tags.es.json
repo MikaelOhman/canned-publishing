@@ -27,12 +27,12 @@
   "lagstiftning": {
     "etikett": "Legislación.",
     "typ": "händelse",
-    "antal": 1
+    "antal": 2
   },
   "riksdagen": {
     "etikett": "El Parlamento.",
     "typ": "organisation",
-    "antal": 2
+    "antal": 5
   },
   "underrattelsetjanst": {
     "etikett": "Servicio de inteligencia",
@@ -46,6 +46,61 @@
   },
   "nationell-sakerhet": {
     "etikett": "Seguridad nacional",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "migration": {
+    "etikett": "Migración",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "rattssakerhet": {
+    "etikett": "Seguridad jurídica.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "migrationsverket": {
+    "etikett": "Dirección General de Migraciones.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "polismyndigheten": {
+    "etikett": "La policía.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "sakerhetspolisen": {
+    "etikett": "La policía de seguridad.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "domstolar": {
+    "etikett": "Tribunales",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "rattsstat": {
+    "etikett": "Estado de derecho",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "domares-oberoende": {
+    "etikett": "Independencia judicial",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "arresteringsorder": {
+    "etikett": "Orden de detención",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "eu-ratt": {
+    "etikett": "Derecho de la UE",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "straffratt": {
+    "etikett": "Derecho penal",
     "typ": "ämne",
     "antal": 1
   }

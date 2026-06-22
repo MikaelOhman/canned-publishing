@@ -27,12 +27,12 @@
   "lagstiftning": {
     "etikett": "Legislație.",
     "typ": "händelse",
-    "antal": 1
+    "antal": 2
   },
   "riksdagen": {
     "etikett": "Parlamentul.",
     "typ": "organisation",
-    "antal": 2
+    "antal": 5
   },
   "underrattelsetjanst": {
     "etikett": "Serviciu de informații",
@@ -46,6 +46,61 @@
   },
   "nationell-sakerhet": {
     "etikett": "Securitate națională",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "migration": {
+    "etikett": "Migrație.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "rattssakerhet": {
+    "etikett": "Siguranța juridică.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "migrationsverket": {
+    "etikett": "Agenția Suedeză pentru Imigrație.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "polismyndigheten": {
+    "etikett": "Poliția.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "sakerhetspolisen": {
+    "etikett": "Poliția de securitate.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "domstolar": {
+    "etikett": "Instanțe",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "rattsstat": {
+    "etikett": "Stat de drept",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "domares-oberoende": {
+    "etikett": "Independența judiciară",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "arresteringsorder": {
+    "etikett": "Mandat de arestare",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "eu-ratt": {
+    "etikett": "Dreptul UE",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "straffratt": {
+    "etikett": "Drept penal",
     "typ": "ämne",
     "antal": 1
   }

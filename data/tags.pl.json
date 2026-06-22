@@ -27,12 +27,12 @@
   "lagstiftning": {
     "etikett": "Przepisy prawne.",
     "typ": "händelse",
-    "antal": 1
+    "antal": 2
   },
   "riksdagen": {
     "etikett": "Riksdagen",
     "typ": "organisation",
-    "antal": 2
+    "antal": 5
   },
   "underrattelsetjanst": {
     "etikett": "Służba wywiadu",
@@ -46,6 +46,61 @@
   },
   "nationell-sakerhet": {
     "etikett": "Bezpieczeństwo narodowe",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "migration": {
+    "etikett": "Migracja.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "rattssakerhet": {
+    "etikett": "Bezpieczeństwo prawne.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "migrationsverket": {
+    "etikett": "Departament migracyjny.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "polismyndigheten": {
+    "etikett": "Komisariat policji.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "sakerhetspolisen": {
+    "etikett": "Służba Bezpieczeństwa.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "domstolar": {
+    "etikett": "Sądy",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "rattsstat": {
+    "etikett": "Państwo prawa",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "domares-oberoende": {
+    "etikett": "Niezawisłość sędziowska",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "arresteringsorder": {
+    "etikett": "Nakaz aresztowania",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "eu-ratt": {
+    "etikett": "Prawo UE",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "straffratt": {
+    "etikett": "Prawo karne",
     "typ": "ämne",
     "antal": 1
   }

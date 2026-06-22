@@ -7,7 +7,7 @@
   "migration": {
     "etikett": "Migration",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "sekt": {
     "etikett": "Sekt",
@@ -72,12 +72,12 @@
   "riksdagen": {
     "etikett": "Riksdagen",
     "typ": "organisation",
-    "antal": 4
+    "antal": 7
   },
   "straffratt": {
     "etikett": "Straffrätt",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "kulturpolitik": {
     "etikett": "Kulturpolitik",
@@ -107,7 +107,7 @@
   "lagstiftning": {
     "etikett": "Lagstiftning",
     "typ": "händelse",
-    "antal": 2
+    "antal": 3
   },
   "underrattelsetjanst": {
     "etikett": "Underrättelsetjänst",
@@ -136,6 +136,51 @@
   },
   "nationell-sakerhet": {
     "etikett": "Nationell säkerhet",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "rattssakerhet": {
+    "etikett": "Rättssäkerhet",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "migrationsverket": {
+    "etikett": "Migrationsverket",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "polismyndigheten": {
+    "etikett": "Polismyndigheten",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "sakerhetspolisen": {
+    "etikett": "Säkerhetspolisen",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "domstolar": {
+    "etikett": "Domstolar",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "rattsstat": {
+    "etikett": "Rättsstat",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "domares-oberoende": {
+    "etikett": "Domares oberoende",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "arresteringsorder": {
+    "etikett": "Arresteringsorder",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "eu-ratt": {
+    "etikett": "EU-rätt",
     "typ": "ämne",
     "antal": 1
   }

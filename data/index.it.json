@@ -31,5 +31,53 @@
       "nationell-sakerhet",
       "riksdagen"
     ]
+  },
+  {
+    "id": "HD03286",
+    "typ": "lagforslag",
+    "titel": "Maggiore tutela dell'indipendenza dei tribunali e dei giudici",
+    "ingress": "Il governo propone una serie di misure per rafforzare e tutelare a lungo termine l'indipendenza dei tribunali e dei giudici.",
+    "datum": "2026-06-16",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03286.html",
+    "taggar": [
+      "domstolar",
+      "rattsstat",
+      "domares-oberoende",
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HD03285",
+    "typ": "lagforslag",
+    "titel": "Audizione e trasferimento temporaneo nei casi di mandato d'arresto",
+    "ingress": "Modifiche alle leggi sulla consegna in base al mandato d'arresto europeo e nordico, per allineare il diritto svedese alla giurisprudenza della Corte di giustizia dell'UE.",
+    "datum": "2026-06-15",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03285.html",
+    "taggar": [
+      "arresteringsorder",
+      "eu-ratt",
+      "straffratt",
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03195",
+    "typ": "lagforslag",
+    "titel": "Requisiti più severi per gli assistenti legali pubblici e maggiori requisiti di competenza per gli interpreti nelle pratiche di immigrazione.",
+    "ingress": "È fondamentale per la sicurezza giuridica che il lavoro degli avvocati d'ufficio sia di alta qualità. È necessario garantire che gli avvocati d'ufficio possiedano le competenze richieste per l'incaric",
+    "datum": "2025-06-25",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03195.html",
+    "taggar": [
+      "migration",
+      "rattssakerhet",
+      "lagstiftning",
+      "migrationsverket",
+      "polismyndigheten",
+      "sakerhetspolisen",
+      "riksdagen"
+    ]
   }
 ]

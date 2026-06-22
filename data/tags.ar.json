@@ -27,12 +27,12 @@
   "lagstiftning": {
     "etikett": "التشريعات.",
     "typ": "händelse",
-    "antal": 1
+    "antal": 2
   },
   "riksdagen": {
     "etikett": "البرلمان.",
     "typ": "organisation",
-    "antal": 2
+    "antal": 5
   },
   "underrattelsetjanst": {
     "etikett": "جهاز الاستخبارات",
@@ -46,6 +46,61 @@
   },
   "nationell-sakerhet": {
     "etikett": "الأمن القومي",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "migration": {
+    "etikett": "الهجرة",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "rattssakerhet": {
+    "etikett": "الضمانات القانونية.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "migrationsverket": {
+    "etikett": "هيئة الهجرة.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "polismyndigheten": {
+    "etikett": "السلطة الشرطية.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "sakerhetspolisen": {
+    "etikett": "الشرطة الأمنية.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "domstolar": {
+    "etikett": "المحاكم",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "rattsstat": {
+    "etikett": "دولة القانون",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "domares-oberoende": {
+    "etikett": "استقلال القضاء",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "arresteringsorder": {
+    "etikett": "مذكرة توقيف",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "eu-ratt": {
+    "etikett": "قانون الاتحاد الأوروبي",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "straffratt": {
+    "etikett": "القانون الجنائي",
     "typ": "ämne",
     "antal": 1
   }

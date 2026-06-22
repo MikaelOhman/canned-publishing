@@ -7,7 +7,7 @@
   "migration": {
     "etikett": "Migration",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "sekt": {
     "etikett": "Cult",
@@ -72,12 +72,12 @@
   "riksdagen": {
     "etikett": "Swedish Parliament",
     "typ": "organisation",
-    "antal": 3
+    "antal": 6
   },
   "straffratt": {
     "etikett": "Criminal law",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "kulturpolitik": {
     "etikett": "Culture Policy",
@@ -107,7 +107,7 @@
   "lagstiftning": {
     "etikett": "Legislation",
     "typ": "händelse",
-    "antal": 1
+    "antal": 2
   },
   "underrattelsetjanst": {
     "etikett": "Intelligence service",
@@ -121,6 +121,51 @@
   },
   "nationell-sakerhet": {
     "etikett": "National security",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "rattssakerhet": {
+    "etikett": "Legal certainty.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "migrationsverket": {
+    "etikett": "The Swedish Migration Agency.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "polismyndigheten": {
+    "etikett": "Police Authority.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "sakerhetspolisen": {
+    "etikett": "Security Police",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "domstolar": {
+    "etikett": "Courts",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "rattsstat": {
+    "etikett": "Rule of law",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "domares-oberoende": {
+    "etikett": "Judicial independence",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "arresteringsorder": {
+    "etikett": "Arrest warrant",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "eu-ratt": {
+    "etikett": "EU law",
     "typ": "ämne",
     "antal": 1
   }

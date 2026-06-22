@@ -47,6 +47,36 @@
     ]
   },
   {
+    "id": "HD03286",
+    "typ": "lagforslag",
+    "titel": "Stärkt skydd för domstolarnas och domarnas oberoende",
+    "ingress": "Regeringen föreslår en rad åtgärder för att stärka och långsiktigt skydda domstolarnas och domarnas oberoende.",
+    "datum": "2026-06-16",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03286.html",
+    "taggar": [
+      "domstolar",
+      "rattsstat",
+      "domares-oberoende",
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HD03285",
+    "typ": "lagforslag",
+    "titel": "Hörande och tillfälligt överförande vid en arresteringsorder",
+    "ingress": "Ändringar i lagarna om överlämnande enligt europeisk och nordisk arresteringsorder, för att anpassa svensk rätt till EU-domstolens praxis.",
+    "datum": "2026-06-15",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03285.html",
+    "taggar": [
+      "arresteringsorder",
+      "eu-ratt",
+      "straffratt",
+      "riksdagen"
+    ]
+  },
+  {
     "id": "tvangsvard-tanum",
     "titel": "Nekades tvångsvård – hittades död i snön",
     "ingress": "En psykiskt sjuk 28-åring nekades tvångsvård och fick lämna vården mitt i natten. Kort därpå hittades Lina Bryant död i snön i Tanums kommun.",
@@ -93,5 +123,23 @@
     ],
     "typ": "nyhet",
     "kalla_url": "https://bulletin.nu"
+  },
+  {
+    "id": "HC03195",
+    "typ": "lagforslag",
+    "titel": "Skärpta krav för offentliga biträden och höjda kompetenskrav för tolkar i migrationsärenden",
+    "ingress": "Det är viktigt för rättssäkerheten att offentliga biträdens arbete håller hög kvalitet. Det måste säkerställas att offentliga biträden har den kompetens som krävs för uppdraget, inte minst i migration",
+    "datum": "2025-06-25",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03195.html",
+    "taggar": [
+      "migration",
+      "rattssakerhet",
+      "lagstiftning",
+      "migrationsverket",
+      "polismyndigheten",
+      "sakerhetspolisen",
+      "riksdagen"
+    ]
   }
 ]

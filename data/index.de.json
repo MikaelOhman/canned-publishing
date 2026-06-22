@@ -47,6 +47,36 @@
     ]
   },
   {
+    "id": "HD03286",
+    "typ": "lagforslag",
+    "titel": "Stärkerer Schutz der Unabhängigkeit von Gerichten und Richtern",
+    "ingress": "Die Regierung schlägt mehrere Maßnahmen vor, um die Unabhängigkeit der Gerichte und Richter zu stärken und dauerhaft zu schützen.",
+    "datum": "2026-06-16",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03286.html",
+    "taggar": [
+      "domstolar",
+      "rattsstat",
+      "domares-oberoende",
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HD03285",
+    "typ": "lagforslag",
+    "titel": "Anhörung und vorübergehende Überstellung bei einem Haftbefehl",
+    "ingress": "Änderungen der Gesetze über die Übergabe nach dem Europäischen und dem Nordischen Haftbefehl, zur Anpassung des schwedischen Rechts an die Rechtsprechung des EuGH.",
+    "datum": "2026-06-15",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03285.html",
+    "taggar": [
+      "arresteringsorder",
+      "eu-ratt",
+      "straffratt",
+      "riksdagen"
+    ]
+  },
+  {
     "id": "tvangsvard-tanum",
     "titel": "Zwangseinweisung verweigert – tot im Schnee gefunden",
     "ingress": "Einer psychisch kranken 28-Jährigen wurde die Zwangseinweisung verweigert; sie musste mitten in der Nacht gehen. Kurz darauf wurde Lina Bryant tot im Schnee in der Gemeinde Tanum gefunden.",
@@ -93,5 +123,23 @@
     ],
     "typ": "nyhet",
     "kalla_url": "https://bulletin.nu"
+  },
+  {
+    "id": "HC03195",
+    "typ": "lagforslag",
+    "titel": "Strengere Anforderungen an öffentlich bestellte Verfahrensbeteiligte und erhöhte Kompetenzanforderungen für Dolmetscher in Migrationsangelegenheiten.",
+    "ingress": "WICHTIG: Übersetzen Sie den folgenden Text getreu und vollständig. Übersetzen Sie für den SINN (nicht wortwörtlich), damit der Gedanke klar ist. Behalten Sie alle Zahlen, Daten, Namen und juristischen",
+    "datum": "2025-06-25",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03195.html",
+    "taggar": [
+      "migration",
+      "rattssakerhet",
+      "lagstiftning",
+      "migrationsverket",
+      "polismyndigheten",
+      "sakerhetspolisen",
+      "riksdagen"
+    ]
   }
 ]

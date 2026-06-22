@@ -31,5 +31,53 @@
       "nationell-sakerhet",
       "riksdagen"
     ]
+  },
+  {
+    "id": "HD03286",
+    "typ": "lagforslag",
+    "titel": "تقویت حمایت از استقلال دادگاه‌ها و قضات",
+    "ingress": "دولت مجموعه‌ای از اقدامات را برای تقویت و حمایت بلندمدت از استقلال دادگاه‌ها و قضات پیشنهاد می‌کند.",
+    "datum": "2026-06-16",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03286.html",
+    "taggar": [
+      "domstolar",
+      "rattsstat",
+      "domares-oberoende",
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HD03285",
+    "typ": "lagforslag",
+    "titel": "استماع و انتقال موقت در پرونده‌های حکم بازداشت",
+    "ingress": "اصلاحاتی در قوانین مربوط به تحویل بر اساس حکم بازداشت اروپایی و نوردیک، برای هماهنگ‌سازی حقوق سوئد با رویه دیوان دادگستری اتحادیه اروپا.",
+    "datum": "2026-06-15",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03285.html",
+    "taggar": [
+      "arresteringsorder",
+      "eu-ratt",
+      "straffratt",
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03195",
+    "typ": "lagforslag",
+    "titel": "الزامات سخت‌گیرانه‌تر برای مترجمان و مفسران دولتی و افزایش سطح مهارت مورد نیاز برای مترجمان در پرونده‌های مهاجرتی.",
+    "ingress": "حفظ امنیت قضایی مستلزم این است که کار وکلا و مشاوران حقوقی دولتی از کیفیت بالایی برخوردار باشد. باید اطمینان حاصل شود که این وکلا و مشاوران، به‌ویژه در فرآیندهای مهاجرت، اما همچنین در سایر پرونده‌ها و",
+    "datum": "2025-06-25",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03195.html",
+    "taggar": [
+      "migration",
+      "rattssakerhet",
+      "lagstiftning",
+      "migrationsverket",
+      "polismyndigheten",
+      "sakerhetspolisen",
+      "riksdagen"
+    ]
   }
 ]

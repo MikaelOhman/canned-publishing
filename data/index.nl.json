@@ -31,5 +31,53 @@
       "nationell-sakerhet",
       "riksdagen"
     ]
+  },
+  {
+    "id": "HD03286",
+    "typ": "lagforslag",
+    "titel": "Sterkere bescherming van de onafhankelijkheid van rechtbanken en rechters",
+    "ingress": "De regering stelt diverse maatregelen voor om de onafhankelijkheid van de rechtbanken en rechters te versterken en duurzaam te beschermen.",
+    "datum": "2026-06-16",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03286.html",
+    "taggar": [
+      "domstolar",
+      "rattsstat",
+      "domares-oberoende",
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HD03285",
+    "typ": "lagforslag",
+    "titel": "Verhoor en tijdelijke overbrenging bij een aanhoudingsbevel",
+    "ingress": "Wijzigingen van de wetten inzake overlevering op grond van het Europees en Noords aanhoudingsbevel, om het Zweedse recht af te stemmen op de rechtspraak van het EU-Hof.",
+    "datum": "2026-06-15",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03285.html",
+    "taggar": [
+      "arresteringsorder",
+      "eu-ratt",
+      "straffratt",
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03195",
+    "typ": "lagforslag",
+    "titel": "Aangepaste eisen voor openbare tolken en verhoogde competentie-eisen voor tolken in migratiezaken.",
+    "ingress": "BELANGRIJK: Vertaal de onderstaande tekst getrouw en volledig. Vertaal voor BETEKENIS (niet woord-voor-woord) zodat de boodschap duidelijk is. Behoud alle namen, datums, en juridische termen exact. Zo",
+    "datum": "2025-06-25",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03195.html",
+    "taggar": [
+      "migration",
+      "rattssakerhet",
+      "lagstiftning",
+      "migrationsverket",
+      "polismyndigheten",
+      "sakerhetspolisen",
+      "riksdagen"
+    ]
   }
 ]

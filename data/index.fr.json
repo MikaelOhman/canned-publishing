@@ -31,5 +31,53 @@
       "nationell-sakerhet",
       "riksdagen"
     ]
+  },
+  {
+    "id": "HD03286",
+    "typ": "lagforslag",
+    "titel": "Renforcement de la protection de l'indépendance des tribunaux et des juges",
+    "ingress": "Le gouvernement propose plusieurs mesures pour renforcer et protéger durablement l'indépendance des tribunaux et des juges.",
+    "datum": "2026-06-16",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03286.html",
+    "taggar": [
+      "domstolar",
+      "rattsstat",
+      "domares-oberoende",
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HD03285",
+    "typ": "lagforslag",
+    "titel": "Audition et remise temporaire dans le cadre d'un mandat d'arrêt",
+    "ingress": "Modifications des lois sur la remise au titre du mandat d'arrêt européen et nordique, pour aligner le droit suédois sur la jurisprudence de la Cour de justice de l'UE.",
+    "datum": "2026-06-15",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03285.html",
+    "taggar": [
+      "arresteringsorder",
+      "eu-ratt",
+      "straffratt",
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03195",
+    "typ": "lagforslag",
+    "titel": "Exigences plus strictes pour les interprètes et traducteurs agréés, et augmentation des exigences de compétence pour les interprètes dans les affaires d'immigration.",
+    "ingress": "Il est essentiel pour la sécurité juridique que le travail des avocats désignés (offentliga biträden) soit de haute qualité. Il est nécessaire de garantir que les avocats désignés possèdent les compét",
+    "datum": "2025-06-25",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03195.html",
+    "taggar": [
+      "migration",
+      "rattssakerhet",
+      "lagstiftning",
+      "migrationsverket",
+      "polismyndigheten",
+      "sakerhetspolisen",
+      "riksdagen"
+    ]
   }
 ]
