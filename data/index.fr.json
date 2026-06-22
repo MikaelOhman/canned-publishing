@@ -476,6 +476,30 @@
     ]
   },
   {
+    "id": "HD03257",
+    "typ": "lagforslag",
+    "titel": "Exigences relatives aux systèmes de gestion des dossiers des services fonciers municipaux.\n\n# Krav på kommunala lantmäterimyndigheters ärendehanteringssystem\n\n*   Enligt lagstiftningen.\n*   För att säkerställa effektivitet.\n*   För att garantera transparens.\n*   För att underlätta samarbete.\n\n**Detaljerade krav:**\n\n*   **Digitalisering:** Tous les documents doivent être numérisés et accessibles électroniquement.\n*   **Säkerhet:** Systemet måste vara säkert och skydda känslig information.\n*   **Spårbarhet:** Alla åtgärder måste vara spårbara.\n*   **Tillgänglighet:** Systemet måste vara tillgängligt för alla användare.\n*   **Integration:** Systemet måste kunna integreras med andra system.\n\n**Exempel på funktioner:**\n\n*   Ärendehantering.\n*   Dokumenthantering.\n*   Beslutsunderlag.\n*   Rapportering.\n\n**Mål:**\n\n*   Att effektivisera ärendehanteringen.\n*   Att minska handläggningstiderna.\n*   Att öka transparensen.\n*   Att förbättra samarbetet.\n\n**Kontakt:**\n\nFör mer information, vänligen kontakta:\n\n[contact@example.com](mailto:contact@example.com)",
+    "ingress": "Les communes qui gèrent les questions relatives au cadastre doivent, à partir de 2027, utiliser le même système numérique que l'agence gouvernementale Lantmäteriet. Cela est mis en place pour garantir la compatibilité des technologies entre",
+    "datum": "2026-04-28",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03257.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HD03247",
+    "typ": "lagforslag",
+    "titel": "Médicaments en vente libre nécessitant un conseil pharmaceutique spécifique.",
+    "ingress": "Plusieurs médicaments pourraient devenir disponibles sans ordonnance si les patients ont la possibilité de discuter avec un expert en pharmacie. Cette proposition vise à faciliter l'accès aux médicaments tout en garantissant la sécurité des",
+    "datum": "2026-04-28",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03247.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
     "id": "HC03195",
     "typ": "lagforslag",
     "titel": "Exigences plus strictes pour les interprètes et traducteurs agréés, et augmentation des exigences de compétence pour les interprètes dans les affaires d'immigration.",

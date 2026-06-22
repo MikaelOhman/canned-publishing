@@ -524,6 +524,30 @@
     ]
   },
   {
+    "id": "HD03257",
+    "typ": "lagforslag",
+    "titel": "Requirements for the case management systems of municipal land surveying authorities.\n\n# Krav på kommunala lantmäterimyndigheters ärendehanteringssystem\n\n## Inledning\n\nDetta dokument beskriver kraven på ärendehanteringssystem som används av kommunala lantmäterimyndigheter. Syftet är att säkerställa en effektiv, transparent och rättssäker hantering av lantmäterifrågor.\n\n## Allmänna krav\n\n*   Systemet ska vara användarvänligt och lätt att lära sig.\n*   Systemet ska vara säkert och skydda känslig information.\n*   Systemet ska vara tillgängligt för alla berörda parter, inklusive allmänheten.\n*   Systemet ska vara kompatibelt med andra system som används av kommunen.\n*   Systemet ska vara skalbart för att kunna hantera framtida behov.\n\n## Specifika krav\n\n*   Systemet ska kunna hantera alla typer av lantmäterifrågor, inklusive fastighetsbildning, samfälligheter och servitut.\n*   Systemet ska kunna hantera alla steg i ärendeprocessen, från inledande ansökan till slutgiltigt beslut.\n*   Systemet ska kunna generera alla nödvändiga dokument, inklusive ansökningar, beslut och protokoll.\n*   Systemet ska kunna spåra alla åtgärder som vidtas i ett ärende.\n*   Systemet ska kunna generera rapporter och statistik om ärendehanteringen.\n*   Systemet ska kunna integreras med andra system, såsom geografiska informationssystem (GIS) och fastighetsregister.\n\n## Säkerhet\n\n*   Systemet ska vara skyddat mot obehörig åtkomst.\n*   Systemet ska ha en robust backup- och återställningsmekanism.\n*   Systemet ska vara skyddat mot virus och annan skadlig programvara.\n*   Systemet ska ha en revisionslogg som registrerar alla ändringar som görs i systemet.\n\n## Tillgänglighet\n\n*   Systemet ska vara tillgängligt dygnet runt, sju dagar i veckan.\n*   Systemet ska vara tillgängligt från alla typer av enheter, inklusive datorer, surfplattor och smartphones.\n*   Systemet ska vara tillgängligt för personer med funktionsnedsättningar.\n\n## Kompatibilitet\n\n*   Systemet ska vara kompatibelt med alla operativsystem som används av kommunen.\n*   Systemet ska vara kompatibelt med alla webbläsare som används av kommunen.\n*   Systemet ska vara kompatibelt med alla andra system som används av kommunen.\n\n## Skalbarhet\n\n*   Systemet ska kunna hantera en ökning av antalet ärenden.\n*   Systemet ska kunna hantera en ökning av antalet användare.\n*   Systemet ska kunna hantera en ökning av datamängden.\n\n## Integration\n\n*   Systemet ska kunna integreras med GIS-system.\n*   Systemet ska kunna integreras med fastighetsregister.\n*   Systemet ska kunna integreras med andra system som används av kommunen.\n\n## Slutord\n\nDessa krav är avsedda att vara en vägledning för utvecklingen och implementeringen av ärendehanteringssystem för kommunala lantmäterimyndigheter. Det är viktigt att kraven anpassas till de specifika behoven hos varje kommun.",
+    "ingress": "Municipalities that handle land surveying matters will be required to use the same digital system as the national authority, Lantmäteriet, starting in 2027. This is being implemented to ensure that the technology functions seamlessly betwee",
+    "datum": "2026-04-28",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03257.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HD03247",
+    "typ": "lagforslag",
+    "titel": "Over-the-counter medications that require special counseling.",
+    "ingress": "More medications could become available over-the-counter if people can speak with an expert at the pharmacy. This proposal aims to make it easier to access medication while still ensuring safety for both people and animals.",
+    "datum": "2026-04-28",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03247.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
     "id": "HC03195",
     "typ": "lagforslag",
     "titel": "Stricter requirements for public defenders and increased competence requirements for interpreters in immigration cases.",

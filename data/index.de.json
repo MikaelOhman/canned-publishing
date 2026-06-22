@@ -493,6 +493,30 @@
     ]
   },
   {
+    "id": "HD03257",
+    "typ": "lagforslag",
+    "titel": "Anforderungen an die Fallbearbeitungssysteme der kommunalen Vermessungsbehörden.\n\n# Krav på kommunala lantmäterimyndigheters ärendehanteringssystem\n\n*   Effektivitet\n*   Transparenz\n*   Säkerhet\n*   Användarvänlighet\n*   Integration med andra system\n\n**Detaljerade krav:**\n\n*   Möjlighet att hantera alla typer av ärenden.\n*   Automatisk spårning av ärendeprocessen.\n*   Säker lagring av dokument och data.\n*   Användarvänligt gränssnitt för både interna och externa användare.\n*   Möjlighet till integration med andra system, t.ex. geografiska informationssystem (GIS).\n\n**Fördelar med ett bra ärendehanteringssystem:**\n\n*   Ökad effektivitet i ärendehanteringen.\n*   Bättre transparens för både medarbetare och allmänhet.\n*   Minskad risk för fel och missförstånd.\n*   Förbättrad användarupplevelse.\n*   Möjlighet till bättre beslutsunderlag.\n\n**Exempel på funktioner:**\n\n*   Ärendehantering\n*   Dokumenthantering\n*   Workflow-hantering\n*   Rapportering\n*   Integration med andra system\n\n**Slutsats:**\n\nEtt bra ärendehanteringssystem är en viktig investering för kommunala lantmäterimyndigheter. Det kan bidra till att öka effektiviteten, transparensen och säkerheten i ärendehanteringen, samt att förbättra användarupplevelsen.",
+    "ingress": "Kommunen, die sich um Vermessungsfragen kümmern, müssen ab 2027 das gleiche digitale System wie die staatliche Behörde Lantmäteriet verwenden. Dies dient dazu, sicherzustellen, dass die Technik reibungslos zwischen den Kommunen und dem Staa",
+    "datum": "2026-04-28",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03257.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HD03247",
+    "typ": "lagforslag",
+    "titel": "Freiverkäufliche Medikamente, für die eine spezielle Beratung erforderlich ist.",
+    "ingress": "Mehr Medikamente könnten rezeptfrei erhältlich sein, wenn man die Möglichkeit hätte, mit einem Experten in der Apotheke zu sprechen. Dieser Vorschlag soll es einfacher machen, an Medikamente zu gelangen, während gleichzeitig die Sicherheit",
+    "datum": "2026-04-28",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03247.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
     "id": "HC03140",
     "typ": "lagforslag",
     "titel": "Bericht für das Jahr 2025 für Unternehmen mit staatlicher Beteiligung.",

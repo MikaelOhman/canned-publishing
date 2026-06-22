@@ -486,6 +486,30 @@
     ]
   },
   {
+    "id": "HD03257",
+    "typ": "lagforslag",
+    "titel": "Wymagania dotyczące systemów zarządzania sprawami w urzędach geodezyjnych na poziomie gminy.\n\n# Wymagania dotyczące systemów zarządzania sprawami w urzędach geodezyjnych na poziomie gminy\n\n*   **Opis:** Niniejszy dokument określa wymagania dotyczące systemów zarządzania sprawami wykorzystywanych przez urzędy geodezyjne na poziomie gminy.\n\n*   **Cel:** Zapewnienie spójności i efektywności procesów zarządzania sprawami w urzędach geodezyjnych.\n\n*   **Zakres:** Dotyczy wszystkich systemów wykorzystywanych do zarządzania sprawami, w tym systemów elektronicznych i papierowych.\n\n**Wymagania ogólne:**\n\n*   System musi zapewniać możliwość rejestracji, monitorowania i archiwizacji spraw.\n*   System musi umożliwiać dostęp do informacji o sprawach dla upoważnionych użytkowników.\n*   System musi zapewniać bezpieczeństwo danych i ochronę prywatności.\n*   System musi być zgodny z obowiązującymi przepisami prawa.\n\n**Wymagania szczegółowe:**\n\n*   System musi umożliwiać tworzenie i zarządzanie dokumentacją związaną ze sprawami.\n*   System musi umożliwiać śledzenie postępu realizacji spraw.\n*   System musi umożliwiać generowanie raportów i statystyk dotyczących spraw.\n*   System musi integrować się z innymi systemami informatycznymi wykorzystywanymi przez urząd.\n\n**Dodatkowe wymagania:**\n\n*   System powinien być łatwy w obsłudze i intuicyjny dla użytkowników.\n*   System powinien być skalowalny i elastyczny, aby móc dostosować się do zmieniających się potrzeb.\n*   System powinien być dostępny w różnych wersjach, w tym w wersji mobilnej.\n\n**Data:** 2023-10-27\n\n**URL:** [example.com](http://example.com)",
+    "ingress": "Gminy odpowiedzialne za sprawy geodezyjne muszą od 2027 roku korzystać z tego samego systemu cyfrowego, co państwowa agencja geodezyjna, Lantmäteriet. Jest to konieczne, aby zapewnić kompatybilność technologii między gminami a państwem.",
+    "datum": "2026-04-28",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03257.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HD03247",
+    "typ": "lagforslag",
+    "titel": "Leki dostępne bez recepty, wymagające szczegółowych porad.\n\n# Receptfria läkemedel med krav på särskild rådgivning\n\n*   Leki dostępne bez recepty, wymagające szczegółowych porad.\n*   Przykłady leków.\n*   Informacje dla pacjentów.\n\n**Ważne informacje:**\n\nNależy pamiętać, że niektóre leki dostępne bez recepty wymagają szczegółowych porad farmaceuty.\n\n**Przykłady leków:**\n\n*   Leki na przeziębienie i grypę.\n*   Leki przeciwbólowe.\n*   Leki na problemy z trawieniem.\n\n**Informacje dla pacjentów:**\n\nPrzed zażyciem leku bez recepty, należy skonsultować się z farmaceutą, aby upewnić się, że lek jest odpowiedni i bezpieczny. Należy również zapoznać się z ulotką dołączoną do leku.\n\n[https://www.example.com](https://www.example.com)",
+    "ingress": "Więcej leków może stać się dostępnych bez recepty, jeśli pacjent będzie miał możliwość porozmawiania z farmaceutą. Ta propozycja ma na celu ułatwienie dostępu do leków, jednocześnie zapewniając bezpieczeństwo ludziom i zwierzętom.",
+    "datum": "2026-04-28",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03247.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
     "id": "HC03195",
     "typ": "lagforslag",
     "titel": "Zaostrzone wymagania dla prawników świadczących usługi na rzecz osób w potrzebie oraz podwyższone wymagania dotyczące kompetencji tłumaczy w sprawach imigracyjnych.",

@@ -473,6 +473,30 @@
     ]
   },
   {
+    "id": "HD03257",
+    "typ": "lagforslag",
+    "titel": "Requisiti per i sistemi di gestione delle pratiche degli uffici catastali comunali.\n\n# Requisiti per i sistemi di gestione delle pratiche degli uffici catastali comunali\n\n*   Elenco dei requisiti:\n    *   **Funzionalità:** Il sistema deve supportare tutte le fasi del processo di gestione delle pratiche, dalla ricezione alla conclusione.\n    *   **Sicurezza:** Il sistema deve garantire la sicurezza dei dati e l'accesso autorizzato.\n    *   **Affidabilità:** Il sistema deve essere affidabile e disponibile.\n    *   **Scalabilità:** Il sistema deve essere scalabile per supportare la crescita futura.\n    *   **Interoperabilità:** Il sistema deve essere interoperabile con altri sistemi.\n    *   **Usabilità:** Il sistema deve essere facile da usare per gli utenti.\n\n*   Dettagli sui requisiti:\n    *   **Funzionalità:**\n        *   Gestione delle pratiche\n        *   Gestione dei documenti\n        *   Gestione degli utenti\n        *   Gestione dei permessi\n        *   Reportistica\n    *   **Sicurezza:**\n        *   Autenticazione\n        *   Autorizzazione\n        *   Crittografia\n        *   Audit\n    *   **Affidabilità:**\n        *   Disponibilità\n        *   Backup\n        *   Ripristino\n    *   **Scalabilità:**\n        *   Capacità\n        *   Prestazioni\n    *   **Interoperabilità:**\n        *   Standard\n        *   API\n    *   **Usabilità:**\n        *   Interfaccia utente\n        *   Documentazione\n        *   Formazione\n\n*   Esempi di sistemi di gestione delle pratiche:\n    *   [Nome del sistema 1](https://www.esempio.com/sistema1)\n    *   [Nome del sistema 2](https://www.esempio.com/sistema2)\n    *   [Nome del sistema 3](https://www.esempio.com/sistema3)\n\n*   Contatti:\n    *   [Nome del contatto](mailto:nome.contatto@esempio.com)\n    *   [Numero di telefono](tel:+390123456789)\n    *   [Indirizzo](Via Esempio, 1, 00100 Roma)\n\nData: 2023-10-27",
+    "ingress": "I partire dal 2027, i comuni che si occupano di questioni catastali dovranno utilizzare lo stesso sistema digitale dell'agenzia governativa Lantmäteriet. Questo viene fatto per garantire che la tecnologia sia compatibile tra i comuni e lo s",
+    "datum": "2026-04-28",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03257.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HD03247",
+    "typ": "lagforslag",
+    "titel": "Farmaci da banco che richiedono una consulenza specifica.",
+    "ingress": "Più farmaci potrebbero diventare disponibili senza ricetta se si ha la possibilità di parlare con un esperto in farmacia. Questa proposta mira a rendere più facile l'accesso ai farmaci, garantendo al contempo la sicurezza per le persone e g",
+    "datum": "2026-04-28",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03247.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
     "id": "HC03195",
     "typ": "lagforslag",
     "titel": "Requisiti più severi per gli assistenti legali pubblici e maggiori requisiti di competenza per gli interpreti nelle pratiche di immigrazione.",

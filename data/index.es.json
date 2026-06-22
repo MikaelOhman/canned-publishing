@@ -489,6 +489,30 @@
     ]
   },
   {
+    "id": "HD03257",
+    "typ": "lagforslag",
+    "titel": "Requisitos para los sistemas de gestión de casos de las oficinas municipales de catastro.\n\n# Requisitos para los sistemas de gestión de casos de las oficinas municipales de catastro\n\n*   Listas de verificación\n*   Documentación\n*   **Información importante**\n*   Contactos\n\nEste documento describe los requisitos para los sistemas de gestión de casos que deben utilizar las oficinas municipales de catastro.\n\n## Listas de verificación\n\nLas oficinas municipales de catastro deben utilizar sistemas de gestión de casos que cumplan con los siguientes requisitos:\n\n*   El sistema debe ser capaz de gestionar todos los tipos de casos que maneja la oficina.\n*   El sistema debe ser capaz de realizar un seguimiento de todos los pasos del proceso de gestión de casos.\n*   El sistema debe ser capaz de generar informes sobre el estado de los casos.\n*   El sistema debe ser seguro y proteger la información confidencial.\n*   El sistema debe ser fácil de usar y mantener.\n\n## Documentación\n\nLas oficinas municipales de catastro deben mantener una documentación completa de sus sistemas de gestión de casos. Esta documentación debe incluir:\n\n*   Una descripción del sistema.\n*   Un manual de usuario.\n*   Una guía de administración.\n*   Una política de seguridad.\n\n## Información importante\n\nEs importante que las oficinas municipales de catastro utilicen sistemas de gestión de casos que cumplan con los requisitos descritos en este documento. El uso de un sistema de gestión de casos adecuado puede ayudar a las oficinas a mejorar la eficiencia, la precisión y la seguridad de sus operaciones.\n\n## Contactos\n\nSi tiene alguna pregunta sobre los sistemas de gestión de casos, póngase en contacto con la oficina municipal de catastro de su localidad.",
+    "ingress": "Municipios que gestionan asuntos relacionados con la cartografía y el registro de la propiedad deberán utilizar, a partir de 2027, el mismo sistema digital que la agencia estatal Lantmäteriet. Esto se hace para garantizar que la tecnología",
+    "datum": "2026-04-28",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03257.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HD03247",
+    "typ": "lagforslag",
+    "titel": "Medicamentos de venta libre que requieren asesoramiento especializado.",
+    "ingress": "Más medicamentos podrían estar disponibles sin receta si se permite hablar con un experto en la farmacia. Esta propuesta busca facilitar el acceso a los medicamentos, pero al mismo tiempo garantizar la seguridad de las personas y los animal",
+    "datum": "2026-04-28",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03247.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
     "id": "HC03195",
     "typ": "lagforslag",
     "titel": "Requisitos más estrictos para los intérpretes y traductores que trabajan para la administración pública, y requisitos de competencia más elevados para los intérpretes en asuntos de inmigración.",

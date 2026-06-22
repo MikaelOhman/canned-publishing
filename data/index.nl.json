@@ -473,6 +473,30 @@
     ]
   },
   {
+    "id": "HD03257",
+    "typ": "lagforslag",
+    "titel": "Eisen voor het systeem voor zaakafhandeling van gemeentelijke kadastrale diensten.\n\n# Krav på kommunala lantmäterimyndigheters ärendehanteringssystem\n\n## Inledning\n\nDit document beschrijft de eisen voor het systeem voor zaakafhandeling dat door gemeentelijke kadastrale diensten wordt gebruikt.\n\n## Allmänna krav\n\n*   Systemet moet betrouwbaar en veilig zijn.\n*   Systemet moet gebruiksvriendelijk zijn.\n*   Systemet moet schaalbaar zijn.\n*   Systemet moet voldoen aan alle relevante wet- en regelgeving.\n\n## Specifika krav\n\n*   Systemet moet de mogelijkheid bieden om zaken te registreren, te volgen en te archiveren.\n*   Systemet moet de mogelijkheid bieden om te communiceren met belanghebbenden.\n*   Systemet moet de mogelijkheid bieden om rapporten te genereren.\n*   Systemet moet de mogelijkheid bieden om te integreren met andere systemen.\n\n## Beveiliging\n\n*   Systemet moet beschermd zijn tegen ongeautoriseerde toegang.\n*   Systemet moet beschermd zijn tegen gegevensverlies.\n*   Systemet moet beschermd zijn tegen virussen en malware.\n\n## Onderhoud\n\n*   Systemet moet regelmatig worden onderhouden.\n*   Systemet moet worden bijgewerkt met de nieuwste beveiligingspatches.\n*   Systemet moet worden gemonitord op prestaties.\n\n## Documentatie\n\n*   Er moet documentatie beschikbaar zijn voor het systeem.\n*   De documentatie moet actueel en compleet zijn.\n*   De documentatie moet beschikbaar zijn voor alle gebruikers.\n\n## Contact\n\nVoor vragen over dit document kunt u contact opnemen met:\n\n[Naam contactpersoon]\n[E-mailadres contactpersoon]\n[Telefoonnummer contactpersoon]",
+    "ingress": "Gemeenten die verantwoordelijk zijn voor kadastrale zaken, moeten vanaf 2027 hetzelfde digitale systeem gebruiken als de overheidsinstantie Kadaster. Dit wordt gedaan om ervoor te zorgen dat de technologie goed samenwerkt tussen gemeenten e",
+    "datum": "2026-04-28",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03257.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HD03247",
+    "typ": "lagforslag",
+    "titel": "Receptvrije medicijnen waarvoor specifieke begeleiding vereist is.",
+    "ingress": "Meer medicijnen kunnen zonder recept verkrijgbaar worden als je een gesprek kunt voeren met een expert in de apotheek. Dit voorstel moet het gemakkelijker maken om medicijnen te verkrijgen, maar tegelijkertijd veilig blijven voor mensen en",
+    "datum": "2026-04-28",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03247.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
     "id": "HC03140",
     "typ": "lagforslag",
     "titel": "Jaarverslag 2025 voor bedrijven met staatsdeelname.",
