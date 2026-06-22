@@ -1,0 +1,15 @@
+{
+  "sub": "Flerspråkiga nyheter",
+  "search_label": "Sök", "search_ph": "Skriv ett ord…",
+  "language": "Språk", "settings": "Visning",
+  "theme": "Tema", "textsize": "Textstorlek", "font": "Typsnitt",
+  "themegroups": {"standard": "Standard", "a11y": "Tillgänglighet"},
+  "themes": {"dark": "Mörkt", "light": "Ljust", "sepia": "Sepia", "midnatt": "Midnatt (OLED)", "nord": "Nord", "dracula": "Dracula", "solarized": "Solarized", "hk-svart": "Hög kontrast – svart", "hk-ljus": "Hög kontrast – ljus", "gul-svart": "Gul på svart"},
+  "texts": {"normal": "Normal", "large": "Stor", "xlarge": "Extra stor"},
+  "fonts": {"standard": "Standard", "lasvanlig": "Läsvänligt"},
+  "types": {"alla": "Alla", "nyhet": "Nyheter", "lagforslag": "Lagförslag"},
+  "typebadge": {"nyhet": "Nyhet", "lagforslag": "Lagförslag"},
+  "tagtypes": {"ämne": "Ämne", "plats": "Plats", "person": "Person", "organisation": "Organisation", "händelse": "Händelse"},
+  "kalla": "Källa", "original": "Läs originalet hos",
+  "count": "träffar", "none": "Inga träffar.", "clear": "Rensa filter", "back": "← Tillbaka"
+}

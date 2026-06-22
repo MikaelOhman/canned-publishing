@@ -11,51 +11,33 @@
 <header>
   <div class="wrap">
     <div class="head-top">
-      <div class="brand">Canned Publishing<small>Multilingual news</small></div>
-      <div class="controls">
-        <div class="ctrl"><label for="lang">Språk</label>
-          <select id="lang" aria-label="Välj språk"></select></div>
-        <div class="ctrl"><label for="tema">Tema</label>
-          <select id="tema" aria-label="Välj tema">
-            <optgroup label="Standard">
-              <option value="dark">Mörkt</option>
-              <option value="light">Ljust</option>
-              <option value="sepia">Sepia</option>
-              <option value="midnatt">Midnatt (OLED)</option>
-              <option value="nord">Nord</option>
-              <option value="dracula">Dracula</option>
-              <option value="solarized">Solarized</option>
-            </optgroup>
-            <optgroup label="Tillgänglighet">
-              <option value="hk-svart">Hög kontrast – svart</option>
-              <option value="hk-ljus">Hög kontrast – ljus</option>
-              <option value="gul-svart">Gul på svart</option>
-            </optgroup>
-          </select></div>
-        <div class="ctrl"><label for="text">Textstorlek</label>
-          <select id="text" aria-label="Välj textstorlek">
-            <option value="normal">Normal</option>
-            <option value="large">Stor</option>
-            <option value="xlarge">Extra stor</option>
-          </select></div>
-        <div class="ctrl"><label for="font">Typsnitt</label>
-          <select id="font" aria-label="Välj typsnitt">
-            <option value="standard">Standard</option>
-            <option value="lasvanlig">Läsvänligt</option>
-          </select></div>
-        <div class="search"><label for="sok">Sök (taggar)</label>
-          <input id="sok" type="search" placeholder="Skriv ett ord…" autocomplete="off" aria-label="Sök på taggar"></div>
+      <div class="brand">Canned Publishing<small id="ui-sub">Multilingual news</small></div>
+      <div class="search">
+        <label class="vh" for="sok" id="lbl-search">Search</label>
+        <input id="sok" type="search" autocomplete="off">
       </div>
+      <div class="langpick" title="Language">
+        <span class="globe" aria-hidden="true">🌐</span>
+        <select id="lang" aria-label="Language / Språk"></select>
+      </div>
+      <details class="settings" id="settings">
+        <summary id="lbl-settings" title="Display" aria-label="Display settings">⚙</summary>
+        <div class="panel">
+          <div class="ctrl"><label for="tema" id="lbl-tema">Theme</label><select id="tema"></select></div>
+          <div class="ctrl"><label for="text" id="lbl-text">Text size</label><select id="text"></select></div>
+          <div class="ctrl"><label for="font" id="lbl-font">Font</label><select id="font"></select></div>
+        </div>
+      </details>
     </div>
   </div>
 </header>
 
 <main id="main" class="wrap" role="main">
-  <div class="typefilter" id="typefilter" role="group" aria-label="Filtrera på typ"></div>
-  <section class="filters" id="filters" aria-label="Filtrera på taggar"></section>
+  <div class="typefilter" id="typefilter" role="group" aria-label="Type"></div>
+  <section class="filters" id="filters" aria-label="Tags"></section>
   <div class="activebar" id="activebar" aria-live="polite"></div>
   <div class="meta-row"><span id="count"></span></div>
-  <section class="list" id="list" aria-label="Nyheter" aria-live="polite"></section>
+  <section class="list" id="list" aria-label="News" aria-live="polite"></section>
   <article class="article hidden" id="article" tabindex="-1"></article>
 </main>
 

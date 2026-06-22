@@ -1,0 +1,15 @@
+{
+  "sub": "Multilingual news",
+  "search_label": "Search", "search_ph": "Type a word…",
+  "language": "Language", "settings": "Display",
+  "theme": "Theme", "textsize": "Text size", "font": "Font",
+  "themegroups": {"standard": "Standard", "a11y": "Accessibility"},
+  "themes": {"dark": "Dark", "light": "Light", "sepia": "Sepia", "midnatt": "Midnight (OLED)", "nord": "Nord", "dracula": "Dracula", "solarized": "Solarized", "hk-svart": "High contrast – black", "hk-ljus": "High contrast – light", "gul-svart": "Yellow on black"},
+  "texts": {"normal": "Normal", "large": "Large", "xlarge": "Extra large"},
+  "fonts": {"standard": "Standard", "lasvanlig": "Readable"},
+  "types": {"alla": "All", "nyhet": "News", "lagforslag": "Bills"},
+  "typebadge": {"nyhet": "News", "lagforslag": "Bill"},
+  "tagtypes": {"ämne": "Topic", "plats": "Place", "person": "Person", "organisation": "Organisation", "händelse": "Event"},
+  "kalla": "Source", "original": "Read the original at",
+  "count": "results", "none": "No matches.", "clear": "Clear filters", "back": "← Back"
+}
