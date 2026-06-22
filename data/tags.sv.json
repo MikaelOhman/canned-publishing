@@ -353,5 +353,25 @@
     "etikett": "Innovation",
     "typ": "ämne",
     "antal": 1
+  },
+  "stockholm": {
+    "etikett": "Stockholms",
+    "typ": "plats",
+    "antal": 1
+  },
+  "kommunstyrelsen": {
+    "etikett": "Kommunstyrelsen",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "kommunallagen": {
+    "etikett": "Kommunallagen",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "fastighetsratt": {
+    "etikett": "Fastighetsrätt",
+    "typ": "ämne",
+    "antal": 1
   }
 }

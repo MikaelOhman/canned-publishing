@@ -89,9 +89,11 @@ async function loadLanguage(lang){
 function renderTypeFilter(){
   const u = ui();
   const c = { alla: state.index.length,
-    nyhet: state.index.filter(a=>a.typ!=='lagforslag').length,
-    lagforslag: state.index.filter(a=>a.typ==='lagforslag').length };
-  const opt = [['alla',u.types.alla,c.alla],['nyhet',u.types.nyhet,c.nyhet],['lagforslag',u.types.lagforslag,c.lagforslag]];
+    nyhet: state.index.filter(a=>(a.typ||'nyhet')==='nyhet').length,
+    lagforslag: state.index.filter(a=>a.typ==='lagforslag').length,
+    kommunbeslut: state.index.filter(a=>a.typ==='kommunbeslut').length };
+  const opt = [['alla',u.types.alla,c.alla]].concat(
+    TYPER.filter(t=>c[t]>0).map(t=>[t, (u.types[t]||t), c[t]]));
   $('#typefilter').innerHTML = opt.map(([v,lbl,n])=>
     `<button class="tf" data-typ="${v}" aria-pressed="${state.typ===v}">${esc(lbl)} (${n})</button>`).join('');
   $('#typefilter').querySelectorAll('.tf').forEach(b=>b.addEventListener('click',()=>{ state.typ=b.dataset.typ; renderTypeFilter(); renderList(); }));
@@ -118,8 +120,7 @@ function renderActivebar(){
 }
 
 function matches(a){
-  if(state.typ==='nyhet' && a.typ==='lagforslag') return false;
-  if(state.typ==='lagforslag' && a.typ!=='lagforslag') return false;
+  if(state.typ!=='alla' && (a.typ||'nyhet')!==state.typ) return false;
   if(state.query){
     const hay = (a.titel+' '+(a.ingress||'')+' '+(a.taggar||[]).map(id=>(state.tags[id]||{}).etikett||id).join(' ')).toLowerCase();
     for(const w of state.query.split(/\s+/)) if(w && !hay.includes(w)) return false;  // varje ord måste matcha
@@ -130,9 +131,8 @@ function renderList(){
   const u = ui(); const items = state.index.filter(matches);
   $('#count').textContent = `${items.length} ${u.count}`;
   $('#list').innerHTML = items.length ? items.map(a=>{
-    const lag = a.typ==='lagforslag';
-    return `<button class="card ${lag?'lagforslag':''}" data-id="${esc(a.id)}">
-      <span class="toprow"><span class="badge-typ ${lag?'lag':''}">${esc((u.typebadge[a.typ]||u.typebadge.nyhet))}</span><span class="date">${esc(a.datum||'')}</span></span>
+    return `<button class="card ${KORT_KLASS[a.typ]||''}" data-id="${esc(a.id)}">
+      <span class="toprow"><span class="badge-typ ${BADGE_KLASS[a.typ]||''}">${esc((u.typebadge[a.typ]||u.typebadge.nyhet))}</span><span class="date">${esc(a.datum||'')}</span></span>
       <h2>${esc(a.titel)}</h2>
       <p>${esc(a.ingress||'')}</p>
       ${a.kalla?`<span class="src">${esc(u.kalla)}: <b>${esc(a.kalla)}</b></span>`:''}
@@ -144,7 +144,7 @@ function renderList(){
 function route(){ const m = location.hash.match(/^#a\/(.+)$/); if(m) openArticle(decodeURIComponent(m[1])); else closeArticle(); }
 async function openArticle(id){
   let a; try { a = await getJSON(`data/artikel/${id}.${state.lang}.json`); } catch(e){ location.hash=''; return; }
-  const u = ui(); const lag = a.typ==='lagforslag';
+  const u = ui();
   const el = $('#article');
   const layered = a.tldr || a.lattlast;
   const tldr = a.tldr ? `<div class="tldr"><span class="lbl">${esc(u.tldr_label||'TL;DR')}</span>${esc(a.tldr)}</div>` : '';
@@ -153,7 +153,7 @@ async function openArticle(id){
       ? `<details class="fulltext"><summary>${esc(u.fulltext_label||'')}</summary><div class="body">${a.html}</div></details>`
       : `<div class="body">${a.html}</div>`) : '';
   el.innerHTML = `<button class="back">${esc(u.back)}</button>
-    <span class="badge-typ ${lag?'lag':''}">${esc(u.typebadge[a.typ]||u.typebadge.nyhet)}</span>
+    <span class="badge-typ ${BADGE_KLASS[a.typ]||''}">${esc(u.typebadge[a.typ]||u.typebadge.nyhet)}</span>
     <h1>${esc(a.titel)}</h1>
     <div class="source"><span class="lbl">${esc(u.kalla)}</span> <b>${esc(a.kalla||'—')}</b>
       ${a.kalla_url?`<a href="${esc(a.kalla_url)}" target="_blank" rel="noopener">${esc(u.original)} ${esc(a.kalla||'')} →</a>`:''}
