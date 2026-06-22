@@ -3,7 +3,8 @@
 'use strict';
 const $ = s => document.querySelector(s);
 const LS = { get:(k,d)=>localStorage.getItem('cp_'+k)||d, set:(k,v)=>localStorage.setItem('cp_'+k,v) };
-const state = { lang:null, sprak:[], ui:{}, index:[], tags:{}, active:new Set(), query:'', typ:'alla' };
+const state = { lang:null, sprak:[], ui:{}, index:[], tags:{}, active:new Set(), query:'', typ:'alla', visa:30 };
+const PAGE = 30;
 
 const THEME_STD = ['dark','light','sepia','midnatt','nord','dracula','solarized'];
 const THEME_A11Y = ['hk-svart','hk-ljus','gul-svart'];
@@ -23,7 +24,7 @@ const UIDEF = {sub:"Multilingual news",search_label:"Search",search_ph:"Type a w
   types:{alla:"All",nyhet:"News",lagforslag:"Bills",kommunbeslut:"Municipal",omvarld:"EU & World"},typebadge:{nyhet:"News",lagforslag:"Bill",kommunbeslut:"Municipal",omvarld:"EU/World"},
   tagtypes:{"ämne":"Topic","plats":"Place","person":"Person","organisation":"Organisation","händelse":"Event"},
   kalla:"Source",original:"Read the original at",count:"results",none:"No matches.",clear:"Clear filters",back:"← Back",
-  tldr_label:"TL;DR",lattlast_label:"In plain language",fulltext_label:"Full text"};
+  tldr_label:"TL;DR",lattlast_label:"In plain language",fulltext_label:"Full text",loadmore:"Load more"};
 const ui = () => state.ui;
 
 async function getJSON(url){ const r = await fetch(url); if(!r.ok) throw new Error(url); return r.json(); }
@@ -59,7 +60,7 @@ async function boot(){
   $('#tema').addEventListener('change', e=>{ document.documentElement.setAttribute('data-theme', e.target.value); LS.set('tema', e.target.value); });
   $('#text').addEventListener('change', e=>{ document.documentElement.setAttribute('data-text', e.target.value); LS.set('text', e.target.value); });
   $('#font').addEventListener('change', e=>{ document.documentElement.setAttribute('data-font', e.target.value); LS.set('font', e.target.value); });
-  $('#sok').addEventListener('input', e=>{ state.query = e.target.value.trim().toLowerCase(); renderList(); });
+  $('#sok').addEventListener('input', e=>{ state.query = e.target.value.trim().toLowerCase(); state.visa = PAGE; renderList(); });
   window.addEventListener('hashchange', route);
 
   try { state.sprak = await getJSON('data/sprak.json'); } catch(e){ state.sprak = [{kod:'sv',namn:'Svenska',rtl:false}]; }
@@ -97,7 +98,7 @@ function renderTypeFilter(){
     TYPER.filter(t=>c[t]>0).map(t=>[t, (u.types[t]||t), c[t]]));
   $('#typefilter').innerHTML = opt.map(([v,lbl,n])=>
     `<button class="tf" data-typ="${v}" aria-pressed="${state.typ===v}">${esc(lbl)} (${n})</button>`).join('');
-  $('#typefilter').querySelectorAll('.tf').forEach(b=>b.addEventListener('click',()=>{ state.typ=b.dataset.typ; renderTypeFilter(); renderList(); }));
+  $('#typefilter').querySelectorAll('.tf').forEach(b=>b.addEventListener('click',()=>{ state.typ=b.dataset.typ; state.visa=PAGE; renderTypeFilter(); renderList(); }));
 }
 
 function renderFilters(){
@@ -131,15 +132,19 @@ function matches(a){
 function renderList(){
   const u = ui(); const items = state.index.filter(matches);
   $('#count').textContent = `${items.length} ${u.count}`;
-  $('#list').innerHTML = items.length ? items.map(a=>{
+  const vis = items.slice(0, state.visa);
+  $('#list').innerHTML = (items.length ? vis.map(a=>{
     return `<button class="card ${KORT_KLASS[a.typ]||''}" data-id="${esc(a.id)}">
       <span class="toprow"><span class="badge-typ ${BADGE_KLASS[a.typ]||''}">${esc((u.typebadge[a.typ]||u.typebadge.nyhet))}</span><span class="date">${esc(a.datum||'')}</span></span>
       <h2>${esc(a.titel)}</h2>
       <p>${esc(a.ingress||'')}</p>
       ${a.kalla?`<span class="src">${esc(u.kalla)}: <b>${esc(a.kalla)}</b></span>`:''}
       <span class="tags">${(a.taggar||[]).slice(0,5).map(id=>`<span>${esc((state.tags[id]||{}).etikett||id)}</span>`).join('')}</span>
-    </button>`; }).join('') : `<div class="empty">${esc(u.none)}</div>`;
+    </button>`; }).join('') : `<div class="empty">${esc(u.none)}</div>`)
+    + (items.length > state.visa ? `<button class="loadmore">${esc(u.loadmore||'Ladda fler')} (${items.length-state.visa})</button>` : '');
   $('#list').querySelectorAll('.card').forEach(c=>c.addEventListener('click',()=>{ location.hash='a/'+c.dataset.id; }));
+  const lm = $('#list').querySelector('.loadmore');
+  if(lm) lm.addEventListener('click',()=>{ state.visa += PAGE; renderList(); });
 }
 
 function route(){ const m = location.hash.match(/^#a\/(.+)$/); if(m) openArticle(decodeURIComponent(m[1])); else closeArticle(); }

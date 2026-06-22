@@ -13,5 +13,5 @@
   "tagtypes": {"ämne": "Topic", "plats": "Place", "person": "Person", "organisation": "Organisation", "händelse": "Event"},
   "kalla": "Source", "original": "Read the original at",
   "tldr_label": "TL;DR", "lattlast_label": "In plain language", "fulltext_label": "Full text",
-  "count": "results", "none": "No matches.", "clear": "Clear filters", "back": "← Back"
+  "count": "results", "none": "No matches.", "clear": "Clear filters", "back": "← Back", "loadmore": "Load more"
 }

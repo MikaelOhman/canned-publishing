@@ -13,5 +13,5 @@
   "tagtypes": {"ämne": "Thema", "plats": "Ort", "person": "Person", "organisation": "Organisation", "händelse": "Ereignis"},
   "kalla": "Quelle", "original": "Original lesen bei",
   "tldr_label": "Kurzfassung", "lattlast_label": "Einfach erklärt", "fulltext_label": "Vollständiger Text",
-  "count": "Treffer", "none": "Keine Treffer.", "clear": "Filter löschen", "back": "← Zurück"
+  "count": "Treffer", "none": "Keine Treffer.", "clear": "Filter löschen", "back": "← Zurück", "loadmore": "Mehr laden"
 }
