@@ -1,5 +1,62 @@
 [
-  {"kod": "sv", "namn": "Svenska", "rtl": false},
-  {"kod": "en", "namn": "English", "rtl": false},
-  {"kod": "de", "namn": "Deutsch", "rtl": false}
+  {
+    "kod": "sv",
+    "namn": "Svenska",
+    "rtl": false
+  },
+  {
+    "kod": "en",
+    "namn": "English",
+    "rtl": false
+  },
+  {
+    "kod": "de",
+    "namn": "Deutsch",
+    "rtl": false
+  },
+  {
+    "kod": "fr",
+    "namn": "Français",
+    "rtl": false
+  },
+  {
+    "kod": "nl",
+    "namn": "Nederlands",
+    "rtl": false
+  },
+  {
+    "kod": "it",
+    "namn": "Italiano",
+    "rtl": false
+  },
+  {
+    "kod": "es",
+    "namn": "Español",
+    "rtl": false
+  },
+  {
+    "kod": "pl",
+    "namn": "Polski",
+    "rtl": false
+  },
+  {
+    "kod": "hu",
+    "namn": "Magyar",
+    "rtl": false
+  },
+  {
+    "kod": "ro",
+    "namn": "Română",
+    "rtl": false
+  },
+  {
+    "kod": "ar",
+    "namn": "العربية",
+    "rtl": true
+  },
+  {
+    "kod": "fa",
+    "namn": "فارسی",
+    "rtl": true
+  }
 ]

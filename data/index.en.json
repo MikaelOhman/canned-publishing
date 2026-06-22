@@ -1,5 +1,53 @@
 [
   {
+    "id": "HD03287",
+    "typ": "lagforslag",
+    "titel": "New political direction for a stronger film industry.\n\n# A New Political Direction for a Stronger Film Industry\n\n*   **A clear vision:** We need a clear vision for the future of the film industry.\n*   **Increased funding:** We need to increase funding for film production and distribution.\n*   **Support for independent filmmakers:** We need to provide more support for independent filmmakers.\n*   **Promotion of diversity and inclusion:** We need to promote diversity and inclusion in the film industry.\n*   **International collaboration:** We need to strengthen international collaboration in the film industry.\n\nThis new political direction will help to create a stronger and more vibrant film industry in Sweden. It will also help to promote Swedish culture and values around the world.\n\nWe believe that this new political direction is essential for the future of the film industry. We are confident that it will help to create a more sustainable and successful industry for years to come.",
+    "ingress": "The government's proposal outlines new goals for national film policy. Based on the national cultural policy objectives, the national film policy should contribute to the creation and distribution of",
+    "datum": "2026-06-22",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03287.html",
+    "taggar": [
+      "kulturpolitik",
+      "film",
+      "svenska-filminstitutet",
+      "regeringen",
+      "forvaltningsratt",
+      "lagstiftning",
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "prop-2025-26-014",
+    "typ": "lagforslag",
+    "titel": "Bill: Tougher penalties for organised crime",
+    "ingress": "The government proposes higher minimum sentences and expanded powers for covert surveillance in cases of organised crime.",
+    "datum": "2026-06-18",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://www.riksdagen.se/sv/dokument-och-lagar/",
+    "taggar": [
+      "riksdagen",
+      "straffratt",
+      "brott"
+    ]
+  },
+  {
+    "id": "tvangsvard-tanum",
+    "titel": "Denied compulsory care – found dead in the snow",
+    "ingress": "A mentally ill 28-year-old was denied compulsory care and had to leave in the middle of the night. Shortly after, Lina Bryant was found dead in the snow in Tanum municipality.",
+    "datum": "2026-06-12",
+    "kalla": "Bulletin",
+    "taggar": [
+      "vard",
+      "psykiatri",
+      "dodsfall",
+      "kritik",
+      "tanum"
+    ],
+    "typ": "nyhet",
+    "kalla_url": "https://bulletin.nu"
+  },
+  {
     "id": "belfast-0610",
     "titel": "Attempted decapitation in Belfast",
     "ingress": "A man was the victim of an attempted decapitation on an open street in north Belfast. A Sudanese man is charged with attempted murder.",
@@ -30,35 +78,5 @@
     ],
     "typ": "nyhet",
     "kalla_url": "https://bulletin.nu"
-  },
-  {
-    "id": "tvangsvard-tanum",
-    "titel": "Denied compulsory care – found dead in the snow",
-    "ingress": "A mentally ill 28-year-old was denied compulsory care and had to leave in the middle of the night. Shortly after, Lina Bryant was found dead in the snow in Tanum municipality.",
-    "datum": "2026-06-12",
-    "kalla": "Bulletin",
-    "taggar": [
-      "vard",
-      "psykiatri",
-      "dodsfall",
-      "kritik",
-      "tanum"
-    ],
-    "typ": "nyhet",
-    "kalla_url": "https://bulletin.nu"
-  },
-  {
-    "id": "prop-2025-26-014",
-    "typ": "lagforslag",
-    "titel": "Bill: Tougher penalties for organised crime",
-    "ingress": "The government proposes higher minimum sentences and expanded powers for covert surveillance in cases of organised crime.",
-    "datum": "2026-06-18",
-    "kalla": "Riksdagen",
-    "kalla_url": "https://www.riksdagen.se/sv/dokument-och-lagar/",
-    "taggar": [
-      "riksdagen",
-      "straffratt",
-      "brott"
-    ]
   }
 ]

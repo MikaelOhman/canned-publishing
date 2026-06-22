@@ -72,11 +72,41 @@
   "riksdagen": {
     "etikett": "Swedish Parliament",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "straffratt": {
     "etikett": "Criminal law",
     "typ": "ämne",
+    "antal": 1
+  },
+  "kulturpolitik": {
+    "etikett": "Culture Policy",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "film": {
+    "etikett": "Film",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "svenska-filminstitutet": {
+    "etikett": "Swedish Film Institute.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "regeringen": {
+    "etikett": "The Government",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "forvaltningsratt": {
+    "etikett": "Administrative Law",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "lagstiftning": {
+    "etikett": "Legislation",
+    "typ": "händelse",
     "antal": 1
   }
 }
