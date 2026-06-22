@@ -17,7 +17,7 @@
   "regeringen": {
     "etikett": "Guvernul.",
     "typ": "organisation",
-    "antal": 8
+    "antal": 9
   },
   "forvaltningsratt": {
     "etikett": "Drept administrativ.",
@@ -32,7 +32,7 @@
   "riksdagen": {
     "etikett": "Parlamentul.",
     "typ": "organisation",
-    "antal": 15
+    "antal": 16
   },
   "underrattelsetjanst": {
     "etikett": "Serviciu de informații",
@@ -47,7 +47,7 @@
   "nationell-sakerhet": {
     "etikett": "Securitate națională",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "migration": {
     "etikett": "Migrație.",
@@ -117,7 +117,7 @@
   "sverige": {
     "etikett": "Suedia",
     "typ": "plats",
-    "antal": 2
+    "antal": 3
   },
   "bolagsforvaltning": {
     "etikett": "Administrarea companiilor.",
@@ -267,6 +267,21 @@
   "lagandring": {
     "etikett": "Modificări legislative.",
     "typ": "händelse",
+    "antal": 1
+  },
+  "forsvar": {
+    "etikett": "Apărare.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "forsvarsindustri": {
+    "etikett": "Industria de apărare.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "innovation": {
+    "etikett": "Inovație.",
+    "typ": "ämne",
     "antal": 1
   }
 }

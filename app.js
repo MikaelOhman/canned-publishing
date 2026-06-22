@@ -10,6 +10,9 @@ const THEME_A11Y = ['hk-svart','hk-ljus','gul-svart'];
 const TEXTS = ['normal','large','xlarge'];
 const FONTS = ['standard','lasvanlig'];
 const TYP_ORD = ['ämne','plats','person','organisation','händelse'];
+const TYPER = ['nyhet','lagforslag','kommunbeslut'];
+const BADGE_KLASS = {lagforslag:'lag', kommunbeslut:'kommun'};   // typ -> badge-css-klass
+const KORT_KLASS = {lagforslag:'lagforslag', kommunbeslut:'kommunbeslut'};
 
 /* engelsk fallback om en ui-fil saknas */
 const UIDEF = {sub:"Multilingual news",search_label:"Search",search_ph:"Type a word…",language:"Language",
@@ -17,7 +20,7 @@ const UIDEF = {sub:"Multilingual news",search_label:"Search",search_ph:"Type a w
   themegroups:{standard:"Standard",a11y:"Accessibility"},
   themes:{dark:"Dark",light:"Light",sepia:"Sepia",midnatt:"Midnight (OLED)",nord:"Nord",dracula:"Dracula",solarized:"Solarized","hk-svart":"High contrast – black","hk-ljus":"High contrast – light","gul-svart":"Yellow on black"},
   texts:{normal:"Normal",large:"Large",xlarge:"Extra large"},fonts:{standard:"Standard",lasvanlig:"Readable"},
-  types:{alla:"All",nyhet:"News",lagforslag:"Bills"},typebadge:{nyhet:"News",lagforslag:"Bill"},
+  types:{alla:"All",nyhet:"News",lagforslag:"Bills",kommunbeslut:"Municipal"},typebadge:{nyhet:"News",lagforslag:"Bill",kommunbeslut:"Municipal"},
   tagtypes:{"ämne":"Topic","plats":"Place","person":"Person","organisation":"Organisation","händelse":"Event"},
   kalla:"Source",original:"Read the original at",count:"results",none:"No matches.",clear:"Clear filters",back:"← Back",
   tldr_label:"TL;DR",lattlast_label:"In plain language",fulltext_label:"Full text"};

@@ -17,7 +17,7 @@
   "regeringen": {
     "etikett": "Il governo.",
     "typ": "organisation",
-    "antal": 8
+    "antal": 9
   },
   "forvaltningsratt": {
     "etikett": "Diritto amministrativo.",
@@ -32,7 +32,7 @@
   "riksdagen": {
     "etikett": "Il Parlamento.",
     "typ": "organisation",
-    "antal": 15
+    "antal": 16
   },
   "underrattelsetjanst": {
     "etikett": "Servizio di intelligence",
@@ -47,7 +47,7 @@
   "nationell-sakerhet": {
     "etikett": "Sicurezza nazionale",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "migration": {
     "etikett": "Migrazione",
@@ -117,7 +117,7 @@
   "sverige": {
     "etikett": "Svezia",
     "typ": "plats",
-    "antal": 2
+    "antal": 3
   },
   "bolagsforvaltning": {
     "etikett": "Amministrazione aziendale.",
@@ -267,6 +267,21 @@
   "lagandring": {
     "etikett": "Modifica legislativa.",
     "typ": "händelse",
+    "antal": 1
+  },
+  "forsvar": {
+    "etikett": "Difesa",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "forsvarsindustri": {
+    "etikett": "Industria della difesa.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "innovation": {
+    "etikett": "Innovazione",
+    "typ": "ämne",
     "antal": 1
   }
 }

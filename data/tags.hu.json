@@ -17,7 +17,7 @@
   "regeringen": {
     "etikett": "A kormány.",
     "typ": "organisation",
-    "antal": 8
+    "antal": 9
   },
   "forvaltningsratt": {
     "etikett": "Kormányzati jog",
@@ -32,7 +32,7 @@
   "riksdagen": {
     "etikett": "A Svéd Parlament.",
     "typ": "organisation",
-    "antal": 15
+    "antal": 16
   },
   "underrattelsetjanst": {
     "etikett": "Hírszerzés",
@@ -47,7 +47,7 @@
   "nationell-sakerhet": {
     "etikett": "Nemzetbiztonság",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "migration": {
     "etikett": "Migráció",
@@ -117,7 +117,7 @@
   "sverige": {
     "etikett": "Svédország",
     "typ": "plats",
-    "antal": 2
+    "antal": 3
   },
   "bolagsforvaltning": {
     "etikett": "Társaságirányítás",
@@ -267,6 +267,21 @@
   "lagandring": {
     "etikett": "Törvénymódosítás",
     "typ": "händelse",
+    "antal": 1
+  },
+  "forsvar": {
+    "etikett": "Védelmi erő.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "forsvarsindustri": {
+    "etikett": "Védelmi iparág",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "innovation": {
+    "etikett": "Innováció",
+    "typ": "ämne",
     "antal": 1
   }
 }

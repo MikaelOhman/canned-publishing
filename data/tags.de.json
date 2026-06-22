@@ -72,7 +72,7 @@
   "riksdagen": {
     "etikett": "Schwedisches Parlament",
     "typ": "organisation",
-    "antal": 16
+    "antal": 17
   },
   "straffratt": {
     "etikett": "Strafrecht",
@@ -97,7 +97,7 @@
   "regeringen": {
     "etikett": "Die Regierung.",
     "typ": "organisation",
-    "antal": 8
+    "antal": 9
   },
   "forvaltningsratt": {
     "etikett": "Verwaltungsrecht",
@@ -122,7 +122,7 @@
   "nationell-sakerhet": {
     "etikett": "Nationale Sicherheit",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "rattssakerhet": {
     "etikett": "Rechtssicherheit.",
@@ -182,7 +182,7 @@
   "sverige": {
     "etikett": "Schweden",
     "typ": "plats",
-    "antal": 2
+    "antal": 3
   },
   "bolagsforvaltning": {
     "etikett": "Unternehmensführung",
@@ -327,6 +327,21 @@
   "lagandring": {
     "etikett": "Gesetzesänderung",
     "typ": "händelse",
+    "antal": 1
+  },
+  "forsvar": {
+    "etikett": "Verteidigung",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "forsvarsindustri": {
+    "etikett": "Verteidigungsindustrie",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "innovation": {
+    "etikett": "Innovation\n\n# Innovation\n\nInnovation ist ein zentraler Begriff in der heutigen Zeit. Sie beschreibt den Prozess der Entwicklung und Einführung neuer Ideen, Produkte oder Dienstleistungen.\n\n*   Innovation kann viele Formen annehmen.\n*   Sie kann zu wirtschaftlichem Wachstum führen.\n*   Sie kann die Lebensqualität verbessern.\n\n**Innovation ist wichtig für die Zukunft.**\n\nSie ermöglicht es uns, neue Herausforderungen zu meistern und neue Chancen zu nutzen.\n\nEine Innovation kann sein:\n\n*   Eine neue Technologie\n*   Ein neues Produkt\n*   Ein neuer Prozess\n*   Ein neues Geschäftsmodell\n\nInnovation erfordert Kreativität, Mut und die Bereitschaft, Risiken einzugehen.\n\nInnovation ist ein kontinuierlicher Prozess. Sie erfordert ständige Weiterentwicklung und Anpassung.\n\nInnovation ist ein Schlüssel zum Erfolg.\n\n[https://www.example.com](https://www.example.com)",
+    "typ": "ämne",
     "antal": 1
   }
 }

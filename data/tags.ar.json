@@ -17,7 +17,7 @@
   "regeringen": {
     "etikett": "الحكومة.",
     "typ": "organisation",
-    "antal": 8
+    "antal": 9
   },
   "forvaltningsratt": {
     "etikett": "القانون الإداري.",
@@ -32,7 +32,7 @@
   "riksdagen": {
     "etikett": "البرلمان.",
     "typ": "organisation",
-    "antal": 15
+    "antal": 16
   },
   "underrattelsetjanst": {
     "etikett": "جهاز الاستخبارات",
@@ -47,7 +47,7 @@
   "nationell-sakerhet": {
     "etikett": "الأمن القومي",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "migration": {
     "etikett": "الهجرة",
@@ -117,7 +117,7 @@
   "sverige": {
     "etikett": "السويد",
     "typ": "plats",
-    "antal": 2
+    "antal": 3
   },
   "bolagsforvaltning": {
     "etikett": "إدارة الشركات",
@@ -267,6 +267,21 @@
   "lagandring": {
     "etikett": "تعديل في القانون.",
     "typ": "händelse",
+    "antal": 1
+  },
+  "forsvar": {
+    "etikett": "الدفاع.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "forsvarsindustri": {
+    "etikett": "صناعة الدفاع.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "innovation": {
+    "etikett": "# الابتكار\n\nالابتكار هو عملية إيجاد حلول جديدة للمشاكل، أو تطوير أفكار أو منتجات أو خدمات جديدة. يمكن أن يحدث الابتكار في أي مجال، من العلوم والتكنولوجيا إلى الفن والأعمال.\n\n*   الابتكار هو محرك النمو الاقتصادي.\n*   الابتكار يمكن أن يحسن نوعية الحياة.\n*   الابتكار يتطلب الإبداع والشجاعة والمثابرة.\n\n**أمثلة على الابتكار:**\n\n*   اختراع الإنترنت.\n*   تطوير لقاحات ضد الأمراض.\n*   إنشاء وسائل جديدة للتواصل.\n\nالابتكار هو مفتاح المستقبل.",
+    "typ": "ämne",
     "antal": 1
   }
 }

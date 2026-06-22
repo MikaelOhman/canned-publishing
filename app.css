@@ -5,7 +5,7 @@
   --bg:#0e1116; --bg2:#161b22; --bg3:#1f2630; --line:#ffffff14;
   --txt:#e6edf3; --txt2:#9aa7b4; --txt3:#64727f;
   --ac:#4a9eff; --ac2:#79b8ff; --chip:#1f2630; --chip-on:#1b3a5c;
-  --nyhet:#4a9eff; --lag:#e0b341;
+  --nyhet:#4a9eff; --lag:#e0b341; --kommun:#3fb950;
   --radius:12px; --maxw:1080px; --bg-opacity:0.05; --font:system-ui,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
   --fs:16px; --lh:1.6;
 }
@@ -76,10 +76,12 @@ select:focus-visible,.search input:focus-visible,.chip:focus-visible,.card:focus
 .list{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:14px;padding-bottom:60px}
 .card{background:var(--bg2);border:1px solid var(--line);border-radius:var(--radius);padding:14px 16px;cursor:pointer;text-align:left;color:inherit;font:inherit;display:flex;flex-direction:column;gap:7px;transition:border .12s,transform .12s;border-left:4px solid var(--nyhet)}
 .card.lagforslag{border-left-color:var(--lag)}
+.card.kommunbeslut{border-left-color:var(--kommun)}
 .card:hover{border-color:var(--ac);transform:translateY(-2px)}
 .card .toprow{display:flex;justify-content:space-between;align-items:center;gap:8px}
 .badge-typ{font-size:.64rem;text-transform:uppercase;letter-spacing:.07em;font-weight:700;padding:2px 8px;border-radius:6px;background:color-mix(in srgb,var(--nyhet) 22%,transparent);color:var(--nyhet)}
 .badge-typ.lag{background:color-mix(in srgb,var(--lag) 24%,transparent);color:var(--lag)}
+.badge-typ.kommun{background:color-mix(in srgb,var(--kommun) 24%,transparent);color:var(--kommun)}
 .card .date{font-size:.74rem;color:var(--txt3)}
 .card h2{font-size:1.05rem;font-weight:650;line-height:1.3}
 .card p{font-size:.9rem;color:var(--txt2)}

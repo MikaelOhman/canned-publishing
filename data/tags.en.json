@@ -72,7 +72,7 @@
   "riksdagen": {
     "etikett": "Swedish Parliament",
     "typ": "organisation",
-    "antal": 16
+    "antal": 17
   },
   "straffratt": {
     "etikett": "Criminal law",
@@ -97,7 +97,7 @@
   "regeringen": {
     "etikett": "The Government",
     "typ": "organisation",
-    "antal": 8
+    "antal": 9
   },
   "forvaltningsratt": {
     "etikett": "Administrative Law",
@@ -122,7 +122,7 @@
   "nationell-sakerhet": {
     "etikett": "National security",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "rattssakerhet": {
     "etikett": "Legal certainty.",
@@ -182,7 +182,7 @@
   "sverige": {
     "etikett": "Sweden",
     "typ": "plats",
-    "antal": 2
+    "antal": 3
   },
   "bolagsforvaltning": {
     "etikett": "Corporate Governance",
@@ -327,6 +327,21 @@
   "lagandring": {
     "etikett": "Legislation Change",
     "typ": "händelse",
+    "antal": 1
+  },
+  "forsvar": {
+    "etikett": "Defense",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "forsvarsindustri": {
+    "etikett": "Defense industry",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "innovation": {
+    "etikett": "Innovation",
+    "typ": "ämne",
     "antal": 1
   }
 }
