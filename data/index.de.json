@@ -1,11 +1,64 @@
 [
-  {"id": "belfast-0610", "titel": "Enthauptungsversuch in Belfast",
-   "ingress": "Ein Mann wurde auf offener Straße im Norden Belfasts Opfer eines Enthauptungsversuchs. Ein sudanesischer Mann wird wegen versuchten Mordes angeklagt.",
-   "datum": "2026-06-10", "kalla": "Bulletin", "taggar": ["brott", "migration", "belfast", "nordirland", "polis"]},
-  {"id": "sektledare-crewe", "titel": "Der „Sankt Peter“ von Sävsjön wurde Papst in Crewe",
-   "ingress": "Zehn Mitglieder einer schiitischen Sekte wurden in Großbritannien unter anderem wegen Menschenhandels und Zwangsheirat angeklagt. Die Sekte hatte zuvor ihren Sitz bei Hällefors.",
-   "datum": "2026-06-10", "kalla": "Bulletin", "taggar": ["brott", "sekt", "manniskohandel", "religion", "hallefors"]},
-  {"id": "tvangsvard-tanum", "titel": "Zwangseinweisung verweigert – tot im Schnee gefunden",
-   "ingress": "Einer psychisch kranken 28-Jährigen wurde die Zwangseinweisung verweigert; sie musste mitten in der Nacht gehen. Kurz darauf wurde Lina Bryant tot im Schnee in der Gemeinde Tanum gefunden.",
-   "datum": "2026-06-12", "kalla": "Bulletin", "taggar": ["vard", "psykiatri", "dodsfall", "kritik", "tanum"]}
+  {
+    "id": "belfast-0610",
+    "titel": "Enthauptungsversuch in Belfast",
+    "ingress": "Ein Mann wurde auf offener Straße im Norden Belfasts Opfer eines Enthauptungsversuchs. Ein sudanesischer Mann wird wegen versuchten Mordes angeklagt.",
+    "datum": "2026-06-10",
+    "kalla": "Bulletin",
+    "taggar": [
+      "brott",
+      "migration",
+      "belfast",
+      "nordirland",
+      "polis"
+    ],
+    "typ": "nyhet",
+    "kalla_url": "https://bulletin.nu/har-skedde-halshuggningsforsok-i-belfast"
+  },
+  {
+    "id": "sektledare-crewe",
+    "titel": "Der „Sankt Peter“ von Sävsjön wurde Papst in Crewe",
+    "ingress": "Zehn Mitglieder einer schiitischen Sekte wurden in Großbritannien unter anderem wegen Menschenhandels und Zwangsheirat angeklagt. Die Sekte hatte zuvor ihren Sitz bei Hällefors.",
+    "datum": "2026-06-10",
+    "kalla": "Bulletin",
+    "taggar": [
+      "brott",
+      "sekt",
+      "manniskohandel",
+      "religion",
+      "hallefors"
+    ],
+    "typ": "nyhet",
+    "kalla_url": "https://bulletin.nu"
+  },
+  {
+    "id": "tvangsvard-tanum",
+    "titel": "Zwangseinweisung verweigert – tot im Schnee gefunden",
+    "ingress": "Einer psychisch kranken 28-Jährigen wurde die Zwangseinweisung verweigert; sie musste mitten in der Nacht gehen. Kurz darauf wurde Lina Bryant tot im Schnee in der Gemeinde Tanum gefunden.",
+    "datum": "2026-06-12",
+    "kalla": "Bulletin",
+    "taggar": [
+      "vard",
+      "psykiatri",
+      "dodsfall",
+      "kritik",
+      "tanum"
+    ],
+    "typ": "nyhet",
+    "kalla_url": "https://bulletin.nu"
+  },
+  {
+    "id": "prop-2025-26-014",
+    "typ": "lagforslag",
+    "titel": "Gesetzentwurf: Härtere Strafen für organisierte Kriminalität",
+    "ingress": "Die Regierung schlägt höhere Mindeststrafen und erweiterte Befugnisse zur verdeckten Überwachung bei organisierter Kriminalität vor.",
+    "datum": "2026-06-18",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://www.riksdagen.se/sv/dokument-och-lagar/",
+    "taggar": [
+      "riksdagen",
+      "straffratt",
+      "brott"
+    ]
+  }
 ]

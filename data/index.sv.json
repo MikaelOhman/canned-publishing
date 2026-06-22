@@ -1,11 +1,64 @@
 [
-  {"id": "belfast-0610", "titel": "Här skedde halshuggningsförsök i Belfast",
-   "ingress": "En man utsattes för ett halshuggningsförsök på öppen gata i norra Belfast. En sudanesisk man åtalas för mordförsök.",
-   "datum": "2026-06-10", "kalla": "Bulletin", "taggar": ["brott", "migration", "belfast", "nordirland", "polis"]},
-  {"id": "sektledare-crewe", "titel": "Sankte Per i Sävsjön blev påve i Crewe",
-   "ingress": "Tio medlemmar ur en shiamuslimsk sekt har åtalats för bland annat människohandel och tvångsgifte i Storbritannien. Sekten hade tidigare säte utanför Hällefors.",
-   "datum": "2026-06-10", "kalla": "Bulletin", "taggar": ["brott", "sekt", "manniskohandel", "religion", "hallefors"]},
-  {"id": "tvangsvard-tanum", "titel": "Nekades tvångsvård – hittades död i snön",
-   "ingress": "En psykiskt sjuk 28-åring nekades tvångsvård och fick lämna vården mitt i natten. Kort därpå hittades Lina Bryant död i snön i Tanums kommun.",
-   "datum": "2026-06-12", "kalla": "Bulletin", "taggar": ["vard", "psykiatri", "dodsfall", "kritik", "tanum"]}
+  {
+    "id": "belfast-0610",
+    "titel": "Här skedde halshuggningsförsök i Belfast",
+    "ingress": "En man utsattes för ett halshuggningsförsök på öppen gata i norra Belfast. En sudanesisk man åtalas för mordförsök.",
+    "datum": "2026-06-10",
+    "kalla": "Bulletin",
+    "taggar": [
+      "brott",
+      "migration",
+      "belfast",
+      "nordirland",
+      "polis"
+    ],
+    "typ": "nyhet",
+    "kalla_url": "https://bulletin.nu/har-skedde-halshuggningsforsok-i-belfast"
+  },
+  {
+    "id": "sektledare-crewe",
+    "titel": "Sankte Per i Sävsjön blev påve i Crewe",
+    "ingress": "Tio medlemmar ur en shiamuslimsk sekt har åtalats för bland annat människohandel och tvångsgifte i Storbritannien. Sekten hade tidigare säte utanför Hällefors.",
+    "datum": "2026-06-10",
+    "kalla": "Bulletin",
+    "taggar": [
+      "brott",
+      "sekt",
+      "manniskohandel",
+      "religion",
+      "hallefors"
+    ],
+    "typ": "nyhet",
+    "kalla_url": "https://bulletin.nu"
+  },
+  {
+    "id": "tvangsvard-tanum",
+    "titel": "Nekades tvångsvård – hittades död i snön",
+    "ingress": "En psykiskt sjuk 28-åring nekades tvångsvård och fick lämna vården mitt i natten. Kort därpå hittades Lina Bryant död i snön i Tanums kommun.",
+    "datum": "2026-06-12",
+    "kalla": "Bulletin",
+    "taggar": [
+      "vard",
+      "psykiatri",
+      "dodsfall",
+      "kritik",
+      "tanum"
+    ],
+    "typ": "nyhet",
+    "kalla_url": "https://bulletin.nu"
+  },
+  {
+    "id": "prop-2025-26-014",
+    "typ": "lagforslag",
+    "titel": "Proposition: Skärpta straff för organiserad brottslighet",
+    "ingress": "Regeringen föreslår höjda minimistraff och utvidgade möjligheter till hemlig avlyssning vid organiserad brottslighet.",
+    "datum": "2026-06-18",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://www.riksdagen.se/sv/dokument-och-lagar/",
+    "taggar": [
+      "riksdagen",
+      "straffratt",
+      "brott"
+    ]
+  }
 ]

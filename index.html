@@ -17,9 +17,20 @@
           <select id="lang" aria-label="Välj språk"></select></div>
         <div class="ctrl"><label for="tema">Tema</label>
           <select id="tema" aria-label="Välj tema">
-            <option value="dark">Mörkt</option>
-            <option value="light">Ljust</option>
-            <option value="contrast">Hög kontrast</option>
+            <optgroup label="Standard">
+              <option value="dark">Mörkt</option>
+              <option value="light">Ljust</option>
+              <option value="sepia">Sepia</option>
+              <option value="midnatt">Midnatt (OLED)</option>
+              <option value="nord">Nord</option>
+              <option value="dracula">Dracula</option>
+              <option value="solarized">Solarized</option>
+            </optgroup>
+            <optgroup label="Tillgänglighet">
+              <option value="hk-svart">Hög kontrast – svart</option>
+              <option value="hk-ljus">Hög kontrast – ljus</option>
+              <option value="gul-svart">Gul på svart</option>
+            </optgroup>
           </select></div>
         <div class="ctrl"><label for="text">Textstorlek</label>
           <select id="text" aria-label="Välj textstorlek">
@@ -40,6 +51,7 @@
 </header>
 
 <main id="main" class="wrap" role="main">
+  <div class="typefilter" id="typefilter" role="group" aria-label="Filtrera på typ"></div>
   <section class="filters" id="filters" aria-label="Filtrera på taggar"></section>
   <div class="activebar" id="activebar" aria-live="polite"></div>
   <div class="meta-row"><span id="count"></span></div>

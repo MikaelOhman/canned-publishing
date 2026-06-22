@@ -1,16 +1,82 @@
 {
-  "brott": {"etikett": "Kriminalität", "typ": "ämne", "antal": 2},
-  "migration": {"etikett": "Migration", "typ": "ämne", "antal": 1},
-  "sekt": {"etikett": "Sekte", "typ": "ämne", "antal": 1},
-  "manniskohandel": {"etikett": "Menschenhandel", "typ": "ämne", "antal": 1},
-  "religion": {"etikett": "Religion", "typ": "ämne", "antal": 1},
-  "vard": {"etikett": "Gesundheitsversorgung", "typ": "ämne", "antal": 1},
-  "psykiatri": {"etikett": "Psychiatrie", "typ": "ämne", "antal": 1},
-  "dodsfall": {"etikett": "Todesfall", "typ": "ämne", "antal": 1},
-  "kritik": {"etikett": "Kritik", "typ": "ämne", "antal": 1},
-  "belfast": {"etikett": "Belfast", "typ": "plats", "antal": 1},
-  "nordirland": {"etikett": "Nordirland", "typ": "plats", "antal": 1},
-  "hallefors": {"etikett": "Hällefors", "typ": "plats", "antal": 1},
-  "tanum": {"etikett": "Tanum", "typ": "plats", "antal": 1},
-  "polis": {"etikett": "Polizei", "typ": "organisation", "antal": 1}
+  "brott": {
+    "etikett": "Kriminalität",
+    "typ": "ämne",
+    "antal": 3
+  },
+  "migration": {
+    "etikett": "Migration",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "sekt": {
+    "etikett": "Sekte",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "manniskohandel": {
+    "etikett": "Menschenhandel",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "religion": {
+    "etikett": "Religion",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "vard": {
+    "etikett": "Gesundheitsversorgung",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "psykiatri": {
+    "etikett": "Psychiatrie",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "dodsfall": {
+    "etikett": "Todesfall",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "kritik": {
+    "etikett": "Kritik",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "belfast": {
+    "etikett": "Belfast",
+    "typ": "plats",
+    "antal": 1
+  },
+  "nordirland": {
+    "etikett": "Nordirland",
+    "typ": "plats",
+    "antal": 1
+  },
+  "hallefors": {
+    "etikett": "Hällefors",
+    "typ": "plats",
+    "antal": 1
+  },
+  "tanum": {
+    "etikett": "Tanum",
+    "typ": "plats",
+    "antal": 1
+  },
+  "polis": {
+    "etikett": "Polizei",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "riksdagen": {
+    "etikett": "Schwedisches Parlament",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "straffratt": {
+    "etikett": "Strafrecht",
+    "typ": "ämne",
+    "antal": 1
+  }
 }
