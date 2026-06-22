@@ -1,7 +1,52 @@
 <!DOCTYPE html>
-<html lang="sv">
-<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<html lang="sv" data-theme="dark">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Canned Publishing</title>
-<style>body{font-family:system-ui,sans-serif;background:#0e1116;color:#e6edf3;display:flex;min-height:100vh;align-items:center;justify-content:center;margin:0}h1{font-weight:600}</style></head>
-<body><div style="text-align:center"><h1>Canned Publishing</h1><p style="color:#9aa7b4">Multilingual news — kommer snart.</p></div></body>
+<meta name="description" content="Multilingual news – filter and search by tags.">
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <div class="head-top">
+      <div class="brand">Canned Publishing<small>Multilingual news</small></div>
+      <div class="controls">
+        <div class="ctrl"><label for="lang">Språk</label>
+          <select id="lang" aria-label="Välj språk"></select></div>
+        <div class="ctrl"><label for="tema">Tema</label>
+          <select id="tema" aria-label="Välj tema">
+            <option value="dark">Mörkt</option>
+            <option value="light">Ljust</option>
+            <option value="contrast">Hög kontrast</option>
+          </select></div>
+        <div class="ctrl"><label for="text">Textstorlek</label>
+          <select id="text" aria-label="Välj textstorlek">
+            <option value="normal">Normal</option>
+            <option value="large">Stor</option>
+            <option value="xlarge">Extra stor</option>
+          </select></div>
+        <div class="ctrl"><label for="font">Typsnitt</label>
+          <select id="font" aria-label="Välj typsnitt">
+            <option value="standard">Standard</option>
+            <option value="lasvanlig">Läsvänligt</option>
+          </select></div>
+        <div class="search"><label for="sok">Sök (taggar)</label>
+          <input id="sok" type="search" placeholder="Skriv ett ord…" autocomplete="off" aria-label="Sök på taggar"></div>
+      </div>
+    </div>
+  </div>
+</header>
+
+<main id="main" class="wrap" role="main">
+  <section class="filters" id="filters" aria-label="Filtrera på taggar"></section>
+  <div class="activebar" id="activebar" aria-live="polite"></div>
+  <div class="meta-row"><span id="count"></span></div>
+  <section class="list" id="list" aria-label="Nyheter" aria-live="polite"></section>
+  <article class="article hidden" id="article" tabindex="-1"></article>
+</main>
+
+<script src="app.js"></script>
+</body>
 </html>

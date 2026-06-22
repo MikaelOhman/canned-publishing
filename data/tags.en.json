@@ -1,0 +1,16 @@
+{
+  "brott": {"etikett": "Crime", "typ": "ämne", "antal": 2},
+  "migration": {"etikett": "Migration", "typ": "ämne", "antal": 1},
+  "sekt": {"etikett": "Cult", "typ": "ämne", "antal": 1},
+  "manniskohandel": {"etikett": "Human trafficking", "typ": "ämne", "antal": 1},
+  "religion": {"etikett": "Religion", "typ": "ämne", "antal": 1},
+  "vard": {"etikett": "Healthcare", "typ": "ämne", "antal": 1},
+  "psykiatri": {"etikett": "Psychiatry", "typ": "ämne", "antal": 1},
+  "dodsfall": {"etikett": "Death", "typ": "ämne", "antal": 1},
+  "kritik": {"etikett": "Criticism", "typ": "ämne", "antal": 1},
+  "belfast": {"etikett": "Belfast", "typ": "plats", "antal": 1},
+  "nordirland": {"etikett": "Northern Ireland", "typ": "plats", "antal": 1},
+  "hallefors": {"etikett": "Hällefors", "typ": "plats", "antal": 1},
+  "tanum": {"etikett": "Tanum", "typ": "plats", "antal": 1},
+  "polis": {"etikett": "Police", "typ": "organisation", "antal": 1}
+}
