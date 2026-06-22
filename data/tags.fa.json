@@ -27,12 +27,12 @@
   "lagstiftning": {
     "etikett": "قوانین و مقررات",
     "typ": "händelse",
-    "antal": 1
+    "antal": 2
   },
   "riksdagen": {
     "etikett": "مجلس نمایندگان",
     "typ": "organisation",
-    "antal": 4
+    "antal": 3
   },
   "underrattelsetjanst": {
     "etikett": "سازمان اطلاعات",
@@ -49,34 +49,29 @@
     "typ": "ämne",
     "antal": 1
   },
-  "domstolar": {
-    "etikett": "دادگاه‌ها",
+  "migration": {
+    "etikett": "مهاجرت",
     "typ": "ämne",
     "antal": 1
   },
-  "rattsstat": {
-    "etikett": "حاکمیت قانون",
+  "rattssakerhet": {
+    "etikett": "حفاظت از حقوق و تضمین اجرای عدالت.",
     "typ": "ämne",
     "antal": 1
   },
-  "domares-oberoende": {
-    "etikett": "استقلال قضایی",
-    "typ": "ämne",
+  "migrationsverket": {
+    "etikett": "سازمان مهاجرت سوئد",
+    "typ": "organisation",
     "antal": 1
   },
-  "arresteringsorder": {
-    "etikett": "حکم بازداشت",
-    "typ": "ämne",
+  "polismyndigheten": {
+    "etikett": "سازمان پلیس.",
+    "typ": "organisation",
     "antal": 1
   },
-  "eu-ratt": {
-    "etikett": "حقوق اتحادیه اروپا",
-    "typ": "ämne",
-    "antal": 1
-  },
-  "straffratt": {
-    "etikett": "حقوق کیفری",
-    "typ": "ämne",
+  "sakerhetspolisen": {
+    "etikett": "پلیس امنیت ملی",
+    "typ": "organisation",
     "antal": 1
   }
 }
