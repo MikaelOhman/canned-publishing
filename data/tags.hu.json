@@ -32,7 +32,7 @@
   "riksdagen": {
     "etikett": "A Svéd Parlament.",
     "typ": "organisation",
-    "antal": 14
+    "antal": 15
   },
   "underrattelsetjanst": {
     "etikett": "Hírszerzés",
@@ -242,6 +242,31 @@
   "brottsbalken": {
     "etikett": "A büntető törvénykönyv.",
     "typ": "ämne",
+    "antal": 1
+  },
+  "fastighetsskatt": {
+    "etikett": "Ingen szöveg a fordításhoz.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "vindkraft": {
+    "etikett": "Szélenergia",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "skatteratt": {
+    "etikett": "Adójog",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "energi": {
+    "etikett": "Energia.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "lagandring": {
+    "etikett": "Törvénymódosítás",
+    "typ": "händelse",
     "antal": 1
   }
 }

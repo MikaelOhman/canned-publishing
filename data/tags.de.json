@@ -72,7 +72,7 @@
   "riksdagen": {
     "etikett": "Schwedisches Parlament",
     "typ": "organisation",
-    "antal": 15
+    "antal": 16
   },
   "straffratt": {
     "etikett": "Strafrecht",
@@ -302,6 +302,31 @@
   "brottsbalken": {
     "etikett": "Strafgesetzbuch",
     "typ": "ämne",
+    "antal": 1
+  },
+  "fastighetsskatt": {
+    "etikett": "Grundsteuer.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "vindkraft": {
+    "etikett": "Windenergie",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "skatteratt": {
+    "etikett": "Steuerrecht",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "energi": {
+    "etikett": "Energie",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "lagandring": {
+    "etikett": "Gesetzesänderung",
+    "typ": "händelse",
     "antal": 1
   }
 }

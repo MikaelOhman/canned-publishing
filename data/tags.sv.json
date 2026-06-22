@@ -72,7 +72,7 @@
   "riksdagen": {
     "etikett": "Riksdagen",
     "typ": "organisation",
-    "antal": 16
+    "antal": 17
   },
   "straffratt": {
     "etikett": "Straffrätt",
@@ -312,6 +312,31 @@
   "brottsbalken": {
     "etikett": "Brottsbalken",
     "typ": "ämne",
+    "antal": 1
+  },
+  "fastighetsskatt": {
+    "etikett": "Fastighetsskatt",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "vindkraft": {
+    "etikett": "Vindkraft",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "skatteratt": {
+    "etikett": "Skatterätt",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "energi": {
+    "etikett": "Energi",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "lagandring": {
+    "etikett": "Lagändring",
+    "typ": "händelse",
     "antal": 1
   }
 }

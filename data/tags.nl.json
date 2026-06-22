@@ -32,7 +32,7 @@
   "riksdagen": {
     "etikett": "Het parlement.",
     "typ": "organisation",
-    "antal": 14
+    "antal": 15
   },
   "underrattelsetjanst": {
     "etikett": "Inlichtingendienst",
@@ -242,6 +242,31 @@
   "brottsbalken": {
     "etikett": "Strafwetboek.",
     "typ": "ämne",
+    "antal": 1
+  },
+  "fastighetsskatt": {
+    "etikett": "Onroerendgoedbelasting.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "vindkraft": {
+    "etikett": "Windenergie",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "skatteratt": {
+    "etikett": "Belastingrecht",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "energi": {
+    "etikett": "Energie",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "lagandring": {
+    "etikett": "Wijziging van de wet.",
+    "typ": "händelse",
     "antal": 1
   }
 }

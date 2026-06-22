@@ -32,7 +32,7 @@
   "riksdagen": {
     "etikett": "Le Riksdag.",
     "typ": "organisation",
-    "antal": 14
+    "antal": 15
   },
   "underrattelsetjanst": {
     "etikett": "Service de renseignement",
@@ -242,6 +242,31 @@
   "brottsbalken": {
     "etikett": "Code pénal.",
     "typ": "ämne",
+    "antal": 1
+  },
+  "fastighetsskatt": {
+    "etikett": "Taxe foncière.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "vindkraft": {
+    "etikett": "Énergie éolienne.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "skatteratt": {
+    "etikett": "Droit fiscal.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "energi": {
+    "etikett": "Énergie.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "lagandring": {
+    "etikett": "Modification de la loi.",
+    "typ": "händelse",
     "antal": 1
   }
 }

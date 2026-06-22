@@ -32,7 +32,7 @@
   "riksdagen": {
     "etikett": "البرلمان.",
     "typ": "organisation",
-    "antal": 14
+    "antal": 15
   },
   "underrattelsetjanst": {
     "etikett": "جهاز الاستخبارات",
@@ -242,6 +242,31 @@
   "brottsbalken": {
     "etikett": "القانون الجنائي.",
     "typ": "ämne",
+    "antal": 1
+  },
+  "fastighetsskatt": {
+    "etikett": "ضريبة الأملاك.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "vindkraft": {
+    "etikett": "طاقة الرياح",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "skatteratt": {
+    "etikett": "القانون الضريبي.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "energi": {
+    "etikett": "الطاقة.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "lagandring": {
+    "etikett": "تعديل في القانون.",
+    "typ": "händelse",
     "antal": 1
   }
 }
