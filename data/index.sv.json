@@ -542,18 +542,6 @@
     ]
   },
   {
-    "id": "HD03104",
-    "typ": "lagforslag",
-    "titel": "Utvärdering av statens upplåning och skuldförvaltning 2021–2025",
-    "ingress": "I skrivelsen utvärderar regeringen statens upplåning och skuldförvaltning under perioden 2021–2025. Utgångspunkten för utvärderingen är det mål som riksdagen har beslutat för statsskuldspolitiken: Sta",
-    "datum": "2026-04-23",
-    "kalla": "Riksdagen",
-    "kalla_url": "https://data.riksdagen.se/dokument/HD03104.html",
-    "taggar": [
-      "riksdagen"
-    ]
-  },
-  {
     "id": "HD03256",
     "typ": "lagforslag",
     "titel": "Kraftfullare åtgärder mot manipulation och allvarligt missbruk av färdskrivare",
@@ -585,6 +573,18 @@
     "datum": "2026-04-23",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HD03252.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HD03104",
+    "typ": "lagforslag",
+    "titel": "Utvärdering av statens upplåning och skuldförvaltning 2021–2025",
+    "ingress": "Regeringen har undersökt hur Sverige har hanterat sina lån mellan 2021 och 2025. Resultatet visar att statens skulder minskade under en del av tiden, men att det nu kostar mer att ha lån på grund av högre priser i samhället.",
+    "datum": "2026-04-23",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03104.html",
     "taggar": [
       "riksdagen"
     ]
