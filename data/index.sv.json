@@ -170,18 +170,6 @@
     ]
   },
   {
-    "id": "HD03281",
-    "typ": "lagforslag",
-    "titel": "Riksrevisionens rapport om Försäkringskassans och Pensionsmyndighetens hantering av ändrade förhållanden",
-    "ingress": "I skrivelsen redovisar regeringen sin bedömning av de iakttagelser och den rekommendation till regeringen som Riksrevisionen lämnar i rapporten Ändrade förhållanden – ineffektiv hantering i socialförs",
-    "datum": "2026-06-09",
-    "kalla": "Riksdagen",
-    "kalla_url": "https://data.riksdagen.se/dokument/HD03281.html",
-    "taggar": [
-      "riksdagen"
-    ]
-  },
-  {
     "id": "HD03280",
     "typ": "lagforslag",
     "titel": "Riksrevisionens rapport om handläggning av ärenden där den enskilde inte behärskar svenska",
@@ -225,6 +213,18 @@
     "datum": "2026-06-09",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HD03282.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HD03281",
+    "typ": "lagforslag",
+    "titel": "Riksrevisionens rapport om Försäkringskassans och Pensionsmyndighetens hantering av ändrade förhållanden",
+    "ingress": "Riksrevisionen har hittat brister i hur Försäkringskassan och Pensionsmyndigheten hanterar ändrade förhållanden, vilket kan leda till felaktiga utbetalningar. Regeringen har läst rapporten och tycker att den är viktig, men vill inte ändra l",
+    "datum": "2026-06-09",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03281.html",
     "taggar": [
       "riksdagen"
     ]
