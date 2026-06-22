@@ -27,12 +27,12 @@
   "lagstiftning": {
     "etikett": "قوانین و مقررات",
     "typ": "händelse",
-    "antal": 2
+    "antal": 3
   },
   "riksdagen": {
     "etikett": "مجلس نمایندگان",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "underrattelsetjanst": {
     "etikett": "سازمان اطلاعات",
@@ -111,6 +111,26 @@
   },
   "utbildningspolitik": {
     "etikett": "سیاست‌های آموزشی",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "eu-ratt": {
+    "etikett": "قوانین اتحادیه اروپا",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "batteriforordningen": {
+    "etikett": "آیین‌نامه باتری‌ها",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "marknadskontroll": {
+    "etikett": "کنترل بازار",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "miljolagstiftning": {
+    "etikett": "قوانین زیست محیطی",
     "typ": "ämne",
     "antal": 1
   }

@@ -72,7 +72,7 @@
   "riksdagen": {
     "etikett": "Schwedisches Parlament",
     "typ": "organisation",
-    "antal": 8
+    "antal": 9
   },
   "straffratt": {
     "etikett": "Strafrecht",
@@ -107,7 +107,7 @@
   "lagstiftning": {
     "etikett": "Gesetzgebung",
     "typ": "händelse",
-    "antal": 2
+    "antal": 3
   },
   "underrattelsetjanst": {
     "etikett": "Nachrichtendienst",
@@ -167,7 +167,7 @@
   "eu-ratt": {
     "etikett": "EU-Recht",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "statligt-agande": {
     "etikett": "Staatliche Eigentumsverhältnisse",
@@ -206,6 +206,21 @@
   },
   "utbildningspolitik": {
     "etikett": "Bildungspolitik\n\n# Utbildningspolitik\n\n*   Bakgrund\n*   Mål\n*   Utmaningar\n\n**Viktiga aspekter:**\n\n*   Förskola\n*   Grundskola\n*   Gymnasium\n*   Högskola\n\nEn bra utbildningspolitik är viktig för att skapa ett rättvist och inkluderande samhälle.\n\nDet finns många utmaningar inom utbildningspolitiken, till exempel:\n\n*   Resursbrist\n*   Ojämlikhet\n*   Brist på kompetens\n\nDet är viktigt att hitta lösningar på dessa utmaningar för att säkerställa att alla barn och ungdomar får en bra utbildning.\n\n[https://www.example.com](https://www.example.com)",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "batteriforordningen": {
+    "etikett": "Die Batterieverordnung.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "marknadskontroll": {
+    "etikett": "Marktüberwachung",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "miljolagstiftning": {
+    "etikett": "Umweltgesetzgebung\n\n# Miljölagstiftning\n\n# Umweltgesetzgebung\n\n*   **Miljölagstiftning**\n*   **Umweltgesetzgebung**\n\nDetta är en översikt över miljölagstiftningen.\nDies ist ein Überblick über die Umweltgesetzgebung.\n\nDet finns många olika lagar och regler som syftar till att skydda miljön.\nEs gibt viele verschiedene Gesetze und Vorschriften, die darauf abzielen, die Umwelt zu schützen.\n\nDessa lagar och regler kan omfatta allt från luft- och vattenkvalitet till avfallshantering och skydd av biologisk mångfald.\nDiese Gesetze und Vorschriften können alles umfassen, von der Luft- und Wasserqualität bis hin zur Abfallwirtschaft und dem Schutz der biologischen Vielfalt.\n\nFör mer information, besök: www.example.com\nFür weitere Informationen besuchen Sie: www.example.com\n\nDatum: 2023-10-27\nDatum: 2023-10-27",
     "typ": "ämne",
     "antal": 1
   }

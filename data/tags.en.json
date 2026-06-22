@@ -72,7 +72,7 @@
   "riksdagen": {
     "etikett": "Swedish Parliament",
     "typ": "organisation",
-    "antal": 8
+    "antal": 9
   },
   "straffratt": {
     "etikett": "Criminal law",
@@ -107,7 +107,7 @@
   "lagstiftning": {
     "etikett": "Legislation",
     "typ": "händelse",
-    "antal": 2
+    "antal": 3
   },
   "underrattelsetjanst": {
     "etikett": "Intelligence service",
@@ -167,7 +167,7 @@
   "eu-ratt": {
     "etikett": "EU law",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "statligt-agande": {
     "etikett": "State ownership.",
@@ -206,6 +206,21 @@
   },
   "utbildningspolitik": {
     "etikett": "Education Policy",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "batteriforordningen": {
+    "etikett": "Battery Regulation.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "marknadskontroll": {
+    "etikett": "Market monitoring.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "miljolagstiftning": {
+    "etikett": "Environmental Legislation",
     "typ": "ämne",
     "antal": 1
   }

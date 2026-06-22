@@ -27,12 +27,12 @@
   "lagstiftning": {
     "etikett": "Legislație.",
     "typ": "händelse",
-    "antal": 2
+    "antal": 3
   },
   "riksdagen": {
     "etikett": "Parlamentul.",
     "typ": "organisation",
-    "antal": 7
+    "antal": 8
   },
   "underrattelsetjanst": {
     "etikett": "Serviciu de informații",
@@ -97,7 +97,7 @@
   "eu-ratt": {
     "etikett": "Dreptul UE",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "straffratt": {
     "etikett": "Drept penal",
@@ -141,6 +141,21 @@
   },
   "utbildningspolitik": {
     "etikett": "Politica educațională.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "batteriforordningen": {
+    "etikett": "Regulamentul privind bateriile.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "marknadskontroll": {
+    "etikett": "Controlul pieței.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "miljolagstiftning": {
+    "etikett": "Legislația de mediu.",
     "typ": "ämne",
     "antal": 1
   }

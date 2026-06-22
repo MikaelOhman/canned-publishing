@@ -27,12 +27,12 @@
   "lagstiftning": {
     "etikett": "Legislazione",
     "typ": "händelse",
-    "antal": 2
+    "antal": 3
   },
   "riksdagen": {
     "etikett": "Il Parlamento.",
     "typ": "organisation",
-    "antal": 7
+    "antal": 8
   },
   "underrattelsetjanst": {
     "etikett": "Servizio di intelligence",
@@ -97,7 +97,7 @@
   "eu-ratt": {
     "etikett": "Diritto dell'UE",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "straffratt": {
     "etikett": "Diritto penale",
@@ -141,6 +141,21 @@
   },
   "utbildningspolitik": {
     "etikett": "Politiche educative.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "batteriforordningen": {
+    "etikett": "La direttiva sulle batterie.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "marknadskontroll": {
+    "etikett": "Controllo del mercato",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "miljolagstiftning": {
+    "etikett": "Legislazione ambientale.",
     "typ": "ämne",
     "antal": 1
   }

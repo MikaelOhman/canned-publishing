@@ -72,7 +72,7 @@
   "riksdagen": {
     "etikett": "Riksdagen",
     "typ": "organisation",
-    "antal": 9
+    "antal": 10
   },
   "straffratt": {
     "etikett": "Straffrätt",
@@ -107,7 +107,7 @@
   "lagstiftning": {
     "etikett": "Lagstiftning",
     "typ": "händelse",
-    "antal": 3
+    "antal": 4
   },
   "underrattelsetjanst": {
     "etikett": "Underrättelsetjänst",
@@ -182,7 +182,7 @@
   "eu-ratt": {
     "etikett": "EU-rätt",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "statligt-agande": {
     "etikett": "Statligt ägande",
@@ -216,6 +216,21 @@
   },
   "utbildningspolitik": {
     "etikett": "Utbildningspolitik",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "batteriforordningen": {
+    "etikett": "Batteriförordningen",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "marknadskontroll": {
+    "etikett": "Marknadskontroll",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "miljolagstiftning": {
+    "etikett": "Miljölagstiftning",
     "typ": "ämne",
     "antal": 1
   }
