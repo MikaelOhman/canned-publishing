@@ -17,7 +17,7 @@
   "regeringen": {
     "etikett": "دولت",
     "typ": "organisation",
-    "antal": 3
+    "antal": 4
   },
   "forvaltningsratt": {
     "etikett": "حقوق اداری",
@@ -32,7 +32,7 @@
   "riksdagen": {
     "etikett": "مجلس نمایندگان",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "underrattelsetjanst": {
     "etikett": "سازمان اطلاعات",
@@ -131,6 +131,26 @@
   },
   "miljolagstiftning": {
     "etikett": "قوانین زیست محیطی",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "bostadspolitik": {
+    "etikett": "سیاست مسکن",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "hyresratt": {
+    "etikett": "اجاره مسکن",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "hyreslagstiftning": {
+    "etikett": "قوانین مربوط به اجاره\n\n# Hyreslagstiftning\n# قوانین مربوط به اجاره\n\n## Bakgrund\n## پیش‌زمینه\n\n## Grundläggande principer\n## اصول اساسی\n\n*   **Rättvisa och balans:**\n    *   **Rättvisa och balans:**\n*   **Tydlighet och förutsägbarhet:**\n    *   **Tydlighet och förutsägbarhet:**\n*   **Skydd för hyresgäster:**\n    *   **Skydd برای مستأجران:**\n*   **Flexibilitet för hyresvärdar:**\n    *   **انعطاف‌پذیری برای موجران:**\n\n## Viktiga lagar och bestämmelser\n## قوانین و مقررات مهم\n\n*   **Hyreslagen (2012:971):**\n    *   **قانون اجاره (2012:971):**\n*   **Bostadsrättslagen:**\n    *   **قانون مالکیت مسکن:**\n*   **Avtalslagen:**\n    *   **قانون قراردادها:**\n\n## Vanliga frågor\n## سوالات متداول\n\n*   **Vad är en hyresrätt?**\n    *   **حق اجاره چیست؟**\n*   **Vilka rättigheter har en hyresgäst?**\n    *   **یک مستأجر چه حقوقی دارد؟**\n*   **Hur säger jag upp min hyresrätt?**\n    *   **چگونه می‌توانم حق اجاره خود را فسخ کنم؟**\n*   **Vad är en deposition?**\n    *   **ودیعه چیست؟**\n\n## Ytterligare information\n## اطلاعات بیشتر\n\n[Länk till Hyreslagen](https://www.riksdagen.se/globalassets/lagar/dokument/sf2012971.pdf)\n[لینک به قانون اجاره](https://www.riksdagen.se/globalassets/lagar/dokument/sf2012971.pdf)",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "fastighetsmarknaden": {
+    "etikett": "بازار املاک",
     "typ": "ämne",
     "antal": 1
   }
