@@ -32,7 +32,7 @@
   "riksdagen": {
     "etikett": "Il Parlamento.",
     "typ": "organisation",
-    "antal": 16
+    "antal": 17
   },
   "underrattelsetjanst": {
     "etikett": "Servizio di intelligence",
@@ -77,17 +77,17 @@
   "domstolar": {
     "etikett": "Tribunali",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "rattsstat": {
     "etikett": "Stato di diritto",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "domares-oberoende": {
     "etikett": "Indipendenza giudiziaria",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "arresteringsorder": {
     "etikett": "Mandato d'arresto",

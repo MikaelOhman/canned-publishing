@@ -32,7 +32,7 @@
   "riksdagen": {
     "etikett": "Parlamentul.",
     "typ": "organisation",
-    "antal": 16
+    "antal": 17
   },
   "underrattelsetjanst": {
     "etikett": "Serviciu de informații",
@@ -77,17 +77,17 @@
   "domstolar": {
     "etikett": "Instanțe",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "rattsstat": {
     "etikett": "Stat de drept",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "domares-oberoende": {
     "etikett": "Independența judiciară",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "arresteringsorder": {
     "etikett": "Mandat de arestare",
