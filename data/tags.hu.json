@@ -17,7 +17,7 @@
   "regeringen": {
     "etikett": "A kormány.",
     "typ": "organisation",
-    "antal": 4
+    "antal": 5
   },
   "forvaltningsratt": {
     "etikett": "Kormányzati jog",
@@ -27,12 +27,12 @@
   "lagstiftning": {
     "etikett": "Törvénykezés.",
     "typ": "händelse",
-    "antal": 4
+    "antal": 5
   },
   "riksdagen": {
     "etikett": "A Svéd Parlament.",
     "typ": "organisation",
-    "antal": 10
+    "antal": 11
   },
   "underrattelsetjanst": {
     "etikett": "Hírszerzés",
@@ -102,7 +102,7 @@
   "straffratt": {
     "etikett": "Büntetőjog",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "statligt-agande": {
     "etikett": "Állami tulajdon.",
@@ -192,6 +192,16 @@
   "kreditinstitut": {
     "etikett": "Hitelintézetek.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "subventionsbrott": {
+    "etikett": "Állami támogatás visszaélése.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "foretagsstod": {
+    "etikett": "Vállalati támogatás",
+    "typ": "ämne",
     "antal": 1
   }
 }

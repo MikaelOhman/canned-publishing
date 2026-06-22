@@ -72,12 +72,12 @@
   "riksdagen": {
     "etikett": "Swedish Parliament",
     "typ": "organisation",
-    "antal": 11
+    "antal": 12
   },
   "straffratt": {
     "etikett": "Criminal law",
     "typ": "ämne",
-    "antal": 2
+    "antal": 3
   },
   "kulturpolitik": {
     "etikett": "Culture Policy",
@@ -97,7 +97,7 @@
   "regeringen": {
     "etikett": "The Government",
     "typ": "organisation",
-    "antal": 4
+    "antal": 5
   },
   "forvaltningsratt": {
     "etikett": "Administrative Law",
@@ -107,7 +107,7 @@
   "lagstiftning": {
     "etikett": "Legislation",
     "typ": "händelse",
-    "antal": 4
+    "antal": 5
   },
   "underrattelsetjanst": {
     "etikett": "Intelligence service",
@@ -257,6 +257,16 @@
   "kreditinstitut": {
     "etikett": "Credit institutions.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "subventionsbrott": {
+    "etikett": "Subvention fraud.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "foretagsstod": {
+    "etikett": "Business Support",
+    "typ": "ämne",
     "antal": 1
   }
 }

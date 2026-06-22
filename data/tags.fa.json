@@ -17,7 +17,7 @@
   "regeringen": {
     "etikett": "دولت",
     "typ": "organisation",
-    "antal": 4
+    "antal": 5
   },
   "forvaltningsratt": {
     "etikett": "حقوق اداری",
@@ -27,12 +27,12 @@
   "lagstiftning": {
     "etikett": "قوانین و مقررات",
     "typ": "händelse",
-    "antal": 4
+    "antal": 5
   },
   "riksdagen": {
     "etikett": "مجلس نمایندگان",
     "typ": "organisation",
-    "antal": 8
+    "antal": 9
   },
   "underrattelsetjanst": {
     "etikett": "سازمان اطلاعات",
@@ -167,6 +167,21 @@
   "kreditinstitut": {
     "etikett": "مؤسسات اعتباری",
     "typ": "organisation",
+    "antal": 1
+  },
+  "straffratt": {
+    "etikett": "مجرمات",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "subventionsbrott": {
+    "etikett": "جرایم مربوط به یارانه‌ها",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "foretagsstod": {
+    "etikett": "حمایت از کسب و کارها",
+    "typ": "ämne",
     "antal": 1
   }
 }

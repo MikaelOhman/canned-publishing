@@ -17,7 +17,7 @@
   "regeringen": {
     "etikett": "Le gouvernement.",
     "typ": "organisation",
-    "antal": 4
+    "antal": 5
   },
   "forvaltningsratt": {
     "etikett": "Droit administratif.",
@@ -27,12 +27,12 @@
   "lagstiftning": {
     "etikett": "Législation.",
     "typ": "händelse",
-    "antal": 4
+    "antal": 5
   },
   "riksdagen": {
     "etikett": "Le Riksdag.",
     "typ": "organisation",
-    "antal": 10
+    "antal": 11
   },
   "underrattelsetjanst": {
     "etikett": "Service de renseignement",
@@ -102,7 +102,7 @@
   "straffratt": {
     "etikett": "Droit pénal",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "statligt-agande": {
     "etikett": "Propriété publique.",
@@ -192,6 +192,16 @@
   "kreditinstitut": {
     "etikett": "Institutions de crédit.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "subventionsbrott": {
+    "etikett": "Fraude aux subventions.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "foretagsstod": {
+    "etikett": "Soutien aux entreprises.",
+    "typ": "ämne",
     "antal": 1
   }
 }

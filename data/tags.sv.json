@@ -72,12 +72,12 @@
   "riksdagen": {
     "etikett": "Riksdagen",
     "typ": "organisation",
-    "antal": 12
+    "antal": 13
   },
   "straffratt": {
     "etikett": "Straffrätt",
     "typ": "ämne",
-    "antal": 2
+    "antal": 3
   },
   "kulturpolitik": {
     "etikett": "Kulturpolitik",
@@ -97,7 +97,7 @@
   "regeringen": {
     "etikett": "Regeringen",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "forvaltningsratt": {
     "etikett": "Förvaltningsrätt",
@@ -107,7 +107,7 @@
   "lagstiftning": {
     "etikett": "Lagstiftning",
     "typ": "händelse",
-    "antal": 5
+    "antal": 6
   },
   "underrattelsetjanst": {
     "etikett": "Underrättelsetjänst",
@@ -267,6 +267,16 @@
   "kreditinstitut": {
     "etikett": "Kreditinstitut",
     "typ": "organisation",
+    "antal": 1
+  },
+  "subventionsbrott": {
+    "etikett": "Subventionsbrott",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "foretagsstod": {
+    "etikett": "Företagsstöd",
+    "typ": "ämne",
     "antal": 1
   }
 }

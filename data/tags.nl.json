@@ -17,7 +17,7 @@
   "regeringen": {
     "etikett": "De regering.",
     "typ": "organisation",
-    "antal": 4
+    "antal": 5
   },
   "forvaltningsratt": {
     "etikett": "Bestuursrecht",
@@ -27,12 +27,12 @@
   "lagstiftning": {
     "etikett": "Wetgeving",
     "typ": "händelse",
-    "antal": 4
+    "antal": 5
   },
   "riksdagen": {
     "etikett": "Het parlement.",
     "typ": "organisation",
-    "antal": 10
+    "antal": 11
   },
   "underrattelsetjanst": {
     "etikett": "Inlichtingendienst",
@@ -102,7 +102,7 @@
   "straffratt": {
     "etikett": "Strafrecht",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "statligt-agande": {
     "etikett": "Staatsbezit.",
@@ -192,6 +192,16 @@
   "kreditinstitut": {
     "etikett": "Kredietinstellingen.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "subventionsbrott": {
+    "etikett": "Subsidiefraude",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "foretagsstod": {
+    "etikett": "Bedrijfsondersteuning",
+    "typ": "ämne",
     "antal": 1
   }
 }
