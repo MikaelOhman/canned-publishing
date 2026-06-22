@@ -17,7 +17,7 @@
   "regeringen": {
     "etikett": "A kormány.",
     "typ": "organisation",
-    "antal": 2
+    "antal": 3
   },
   "forvaltningsratt": {
     "etikett": "Kormányzati jog",
@@ -32,7 +32,7 @@
   "riksdagen": {
     "etikett": "A Svéd Parlament.",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "underrattelsetjanst": {
     "etikett": "Hírszerzés",
@@ -121,6 +121,26 @@
   },
   "bolagsforvaltning": {
     "etikett": "Társaságirányítás",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "riksrevisionen": {
+    "etikett": "A Nemzeti Ellenőrzési Hivatal.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "hogre-utbildning": {
+    "etikett": "Felsőoktatás",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "riksrevisionens-granskning": {
+    "etikett": "A Riksrevision (országos ellenőrző szerv) vizsgálata.",
+    "typ": "händelse",
+    "antal": 1
+  },
+  "utbildningspolitik": {
+    "etikett": "Oktatási politika.",
     "typ": "ämne",
     "antal": 1
   }

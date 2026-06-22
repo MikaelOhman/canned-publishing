@@ -78,51 +78,51 @@
   },
   {
     "id": "tvangsvard-tanum",
-    "titel": "Zwangseinweisung verweigert – tot im Schnee gefunden",
-    "ingress": "Einer psychisch kranken 28-Jährigen wurde die Zwangseinweisung verweigert; sie musste mitten in der Nacht gehen. Kurz darauf wurde Lina Bryant tot im Schnee in der Gemeinde Tanum gefunden.",
+    "typ": "nyhet",
+    "titel": "Verweigerte Zwangsbehandlung – tot im Schnee gefunden",
+    "ingress": "Das Kreiskrankenhaus Norra Älvsborg in Trollhättan, eine der Gesundheitseinrichtungen, mit denen Lina Bryant in Kontakt stand. Foto: W.carter, CC0, über Wikimedia Commons. Eine 28-jährige psychisch Kr",
     "datum": "2026-06-12",
     "kalla": "Bulletin",
+    "kalla_url": "https://bulletin.nu",
     "taggar": [
       "vard",
       "psykiatri",
       "dodsfall",
       "kritik",
       "tanum"
-    ],
-    "typ": "nyhet",
-    "kalla_url": "https://bulletin.nu"
+    ]
   },
   {
     "id": "belfast-0610",
-    "titel": "Enthauptungsversuch in Belfast",
-    "ingress": "Ein Mann wurde auf offener Straße im Norden Belfasts Opfer eines Enthauptungsversuchs. Ein sudanesischer Mann wird wegen versuchten Mordes angeklagt.",
+    "typ": "nyhet",
+    "titel": "Hier fand ein versuchter Enthauptungsvorfall in Belfast statt",
+    "ingress": "Foto: Kinnaird Avenue / Fakismil X Ein Mann, der in einer Straße im Norden von Belfast Opfer eines versuchten Enthauptungsvorfalls wurde, soll laut mehreren britischen Medien ein schottischer Mann in ",
     "datum": "2026-06-10",
     "kalla": "Bulletin",
+    "kalla_url": "https://bulletin.nu/har-skedde-halshuggningsforsok-i-belfast",
     "taggar": [
       "brott",
       "migration",
       "belfast",
       "nordirland",
       "polis"
-    ],
-    "typ": "nyhet",
-    "kalla_url": "https://bulletin.nu/har-skedde-halshuggningsforsok-i-belfast"
+    ]
   },
   {
     "id": "sektledare-crewe",
-    "titel": "Der „Sankt Peter“ von Sävsjön wurde Papst in Crewe",
-    "ingress": "Zehn Mitglieder einer schiitischen Sekte wurden in Großbritannien unter anderem wegen Menschenhandels und Zwangsheirat angeklagt. Die Sekte hatte zuvor ihren Sitz bei Hällefors.",
+    "typ": "nyhet",
+    "titel": "Der \"Sankte Per\" aus Sävsjön wurde zum Papst von Crewe",
+    "ingress": "Das Bergslagsgården in Sävsjön war einige Jahre lang Hauptsitz der Religion &quot;The Ahmadi religion of peace and light&quot;. Foto: Faksimile/Youtube Zehn Mitglieder einer schiitischen Sekte wurden ",
     "datum": "2026-06-10",
     "kalla": "Bulletin",
+    "kalla_url": "https://bulletin.nu",
     "taggar": [
       "brott",
       "sekt",
       "manniskohandel",
       "religion",
       "hallefors"
-    ],
-    "typ": "nyhet",
-    "kalla_url": "https://bulletin.nu"
+    ]
   },
   {
     "id": "HC03195",
@@ -156,6 +156,23 @@
       "ekonomi",
       "sverige",
       "bolagsforvaltning",
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03196",
+    "typ": "lagforslag",
+    "titel": "Bericht des Rechnungshofs über die Arbeit der Hochschulen zur Verhinderung von Studienabbruch in Ausbildungsberufen mit Fachkräftemangel.",
+    "ingress": "WICHTIG: Übersetzen Sie den folgenden Text getreu und vollständig. Übersetzen Sie für den SINN (nicht Wort für Wort), damit der Gedanke klar ist. Behalten Sie alle Zahlen, Daten, Namen und juristische",
+    "datum": "2025-06-24",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03196.html",
+    "taggar": [
+      "riksrevisionen",
+      "regeringen",
+      "hogre-utbildning",
+      "riksrevisionens-granskning",
+      "utbildningspolitik",
       "riksdagen"
     ]
   }

@@ -63,6 +63,54 @@
     ]
   },
   {
+    "id": "tvangsvard-tanum",
+    "typ": "nyhet",
+    "titel": "Refus de soins obligatoires – retrouvée morte dans la neige",
+    "ingress": "L&#x27;hôpital de district de Norra Älvsborg à Trollhättan, l&#x27;un des établissements de soins avec lesquels Lina Bryant a été en contact. Photo : W.carter, CC0, via Wikimedia Commons. Une jeune fe",
+    "datum": "2026-06-12",
+    "kalla": "Bulletin",
+    "kalla_url": "https://bulletin.nu",
+    "taggar": [
+      "vard",
+      "psykiatri",
+      "dodsfall",
+      "kritik",
+      "tanum"
+    ]
+  },
+  {
+    "id": "belfast-0610",
+    "typ": "nyhet",
+    "titel": "Tentative d'exécution par décapitation à Belfast",
+    "ingress": "Photo : Kinnaird Avenue / Fakismil X Un homme qui a été victime d&#x27;une tentative d&#x27;exécution par décapitation dans la rue, dans le nord de Belfast, serait un homme écossais d&#x27;une quarant",
+    "datum": "2026-06-10",
+    "kalla": "Bulletin",
+    "kalla_url": "https://bulletin.nu/har-skedde-halshuggningsforsok-i-belfast",
+    "taggar": [
+      "brott",
+      "migration",
+      "belfast",
+      "nordirland",
+      "polis"
+    ]
+  },
+  {
+    "id": "sektledare-crewe",
+    "typ": "nyhet",
+    "titel": "Sankte Per de Sävsjön est devenu pape à Crewe",
+    "ingress": "La ferme de Bergslagen à Sävsjön a été, pendant quelques années, le siège principal de la religion Ahmadi de paix et de lumière. Photo : Facsimile/Youtube Dix membres d&#x27;une secte chiite ont été i",
+    "datum": "2026-06-10",
+    "kalla": "Bulletin",
+    "kalla_url": "https://bulletin.nu",
+    "taggar": [
+      "brott",
+      "sekt",
+      "manniskohandel",
+      "religion",
+      "hallefors"
+    ]
+  },
+  {
     "id": "HC03195",
     "typ": "lagforslag",
     "titel": "Exigences plus strictes pour les interprètes et traducteurs agréés, et augmentation des exigences de compétence pour les interprètes dans les affaires d'immigration.",
@@ -94,6 +142,23 @@
       "ekonomi",
       "sverige",
       "bolagsforvaltning",
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03196",
+    "typ": "lagforslag",
+    "titel": "Rapport de l'Inspection des Affaires Publiques sur le travail des établissements d'enseignement pour lutter contre le décrochage dans les formations professionnelles.",
+    "ingress": "Dans la présente note, le gouvernement expose son évaluation des observations, conclusions et recommandations formulées par l'Inspection générale des finances (Riksrevisionen) dans son rapport d'audit",
+    "datum": "2025-06-24",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03196.html",
+    "taggar": [
+      "riksrevisionen",
+      "regeringen",
+      "hogre-utbildning",
+      "riksrevisionens-granskning",
+      "utbildningspolitik",
       "riksdagen"
     ]
   }

@@ -17,7 +17,7 @@
   "regeringen": {
     "etikett": "Il governo.",
     "typ": "organisation",
-    "antal": 2
+    "antal": 3
   },
   "forvaltningsratt": {
     "etikett": "Diritto amministrativo.",
@@ -32,7 +32,7 @@
   "riksdagen": {
     "etikett": "Il Parlamento.",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "underrattelsetjanst": {
     "etikett": "Servizio di intelligence",
@@ -121,6 +121,26 @@
   },
   "bolagsforvaltning": {
     "etikett": "Amministrazione aziendale.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "riksrevisionen": {
+    "etikett": "Riksrevisionen",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "hogre-utbildning": {
+    "etikett": "Istruzione superiore.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "riksrevisionens-granskning": {
+    "etikett": "Revisione da parte dell'Ispettorato delle Finanze.",
+    "typ": "händelse",
+    "antal": 1
+  },
+  "utbildningspolitik": {
+    "etikett": "Politiche educative.",
     "typ": "ämne",
     "antal": 1
   }

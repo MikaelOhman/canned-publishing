@@ -63,6 +63,54 @@
     ]
   },
   {
+    "id": "tvangsvard-tanum",
+    "typ": "nyhet",
+    "titel": "Rifiutata l'assistenza obbligatoria: trovata morta nella neve",
+    "ingress": "L&#x27;ospedale di contea di Norra Älvsborg a Trollhättan, una delle strutture sanitarie con cui Lina Bryant è stata in contatto. Foto: W.carter, CC0, tramite Wikimedia Commons. Una giovane donna di 2",
+    "datum": "2026-06-12",
+    "kalla": "Bulletin",
+    "kalla_url": "https://bulletin.nu",
+    "taggar": [
+      "vard",
+      "psykiatri",
+      "dodsfall",
+      "kritik",
+      "tanum"
+    ]
+  },
+  {
+    "id": "belfast-0610",
+    "typ": "nyhet",
+    "titel": "Tentativo di decapitazione a Belfast",
+    "ingress": "Foto: Kinnaird Avenue / Fakismil X Un uomo che è stato vittima di un tentativo di decapitazione in strada a nord di Belfast è stato identificato da diverse testate britanniche come Stephen Ogilvie, un",
+    "datum": "2026-06-10",
+    "kalla": "Bulletin",
+    "kalla_url": "https://bulletin.nu/har-skedde-halshuggningsforsok-i-belfast",
+    "taggar": [
+      "brott",
+      "migration",
+      "belfast",
+      "nordirland",
+      "polis"
+    ]
+  },
+  {
+    "id": "sektledare-crewe",
+    "typ": "nyhet",
+    "titel": "Sankte Per di Sävsjön è diventato papa a Crewe",
+    "ingress": "La residenza di Bergslagen a Sävsjön è stata per alcuni anni la sede principale della religione Ahmadi di pace e luce. Foto: Faksimile/Youtube Dieci membri di una setta sciita sono stati accusati di r",
+    "datum": "2026-06-10",
+    "kalla": "Bulletin",
+    "kalla_url": "https://bulletin.nu",
+    "taggar": [
+      "brott",
+      "sekt",
+      "manniskohandel",
+      "religion",
+      "hallefors"
+    ]
+  },
+  {
     "id": "HC03195",
     "typ": "lagforslag",
     "titel": "Requisiti più severi per gli assistenti legali pubblici e maggiori requisiti di competenza per gli interpreti nelle pratiche di immigrazione.",
@@ -94,6 +142,23 @@
       "ekonomi",
       "sverige",
       "bolagsforvaltning",
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03196",
+    "typ": "lagforslag",
+    "titel": "Relazione dell'Ispettorato delle Finanze sull'attività degli istituti di istruzione per contrastare l'abbandono dei corsi di formazione professionale.",
+    "ingress": "Nella presente relazione, il governo espone la propria valutazione delle osservazioni, delle conclusioni e delle raccomandazioni formulate dal Revisore Generale presso il governo (Riksrevisionen) nell",
+    "datum": "2025-06-24",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03196.html",
+    "taggar": [
+      "riksrevisionen",
+      "regeringen",
+      "hogre-utbildning",
+      "riksrevisionens-granskning",
+      "utbildningspolitik",
       "riksdagen"
     ]
   }

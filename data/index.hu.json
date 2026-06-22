@@ -63,6 +63,54 @@
     ]
   },
   {
+    "id": "tvangsvard-tanum",
+    "typ": "nyhet",
+    "titel": "Elutasított kényszerápolás – megtalálták holtan a hóban",
+    "ingress": "A Norra Älvsborgs länssjukház Trollhättanban, amely az egyik olyan intézmény volt, ahol Lina Bryant kezelés alatt állt. Fotó: W.carter, CC0, via Wikimedia Commons. Egy 28 éves, mentális betegségben sz",
+    "datum": "2026-06-12",
+    "kalla": "Bulletin",
+    "kalla_url": "https://bulletin.nu",
+    "taggar": [
+      "vard",
+      "psykiatri",
+      "dodsfall",
+      "kritik",
+      "tanum"
+    ]
+  },
+  {
+    "id": "belfast-0610",
+    "typ": "nyhet",
+    "titel": "Itt Belfastban egy nyakvágási kísérlet történt",
+    "ingress": "Fotó: Kinnaird Avenue / Fakismil X Egy férfi, akit nyilvánosan, egy utcán próbáltak nyakát vágni Észak-Belfastban, egy Stephen Ogilvie nevű, negyvenes éveiben járó skót férfi lenne, több brit média sz",
+    "datum": "2026-06-10",
+    "kalla": "Bulletin",
+    "kalla_url": "https://bulletin.nu/har-skedde-halshuggningsforsok-i-belfast",
+    "taggar": [
+      "brott",
+      "migration",
+      "belfast",
+      "nordirland",
+      "polis"
+    ]
+  },
+  {
+    "id": "sektledare-crewe",
+    "typ": "nyhet",
+    "titel": "A Sävsjön-i Szent Péter Crewe-ben lett pápa",
+    "ingress": "A Sävsjön-i Bergslagsgården néhány évig a &quot;The Ahmadi religion of peace and light&quot; székhelye volt. Fotó: Faksimile/Youtube Tíz tagja egy síita muszlim szektának vádat emeltek fel Nagy-Britan",
+    "datum": "2026-06-10",
+    "kalla": "Bulletin",
+    "kalla_url": "https://bulletin.nu",
+    "taggar": [
+      "brott",
+      "sekt",
+      "manniskohandel",
+      "religion",
+      "hallefors"
+    ]
+  },
+  {
     "id": "HC03195",
     "typ": "lagforslag",
     "titel": "Szigorúbb követelmények a közszolgálati képviselők számára, és magasabb szakmai követelmények a fordítók számára a migrációs ügyekben.",
@@ -94,6 +142,23 @@
       "ekonomi",
       "sverige",
       "bolagsforvaltning",
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03196",
+    "typ": "lagforslag",
+    "titel": "A Riksrevision (A Számvevőszék) jelentése a felsőoktatási intézmények azon erőfeszítéseiről, amelyekkel a szakmai képzésekből való kilépés csökkentésére törekednek.",
+    "ingress": "A kormány a jelen dokumentumban ismerteti a Riksrevision (a svéd ombudszervezet) által a kormányhoz benyújtott vizsgálati jelentésben (RiR 2025:3, \"A felsőoktatási intézmények erőforrás-hiányos szakok",
+    "datum": "2025-06-24",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03196.html",
+    "taggar": [
+      "riksrevisionen",
+      "regeringen",
+      "hogre-utbildning",
+      "riksrevisionens-granskning",
+      "utbildningspolitik",
       "riksdagen"
     ]
   }

@@ -72,7 +72,7 @@
   "riksdagen": {
     "etikett": "Swedish Parliament",
     "typ": "organisation",
-    "antal": 7
+    "antal": 8
   },
   "straffratt": {
     "etikett": "Criminal law",
@@ -97,7 +97,7 @@
   "regeringen": {
     "etikett": "The Government",
     "typ": "organisation",
-    "antal": 2
+    "antal": 3
   },
   "forvaltningsratt": {
     "etikett": "Administrative Law",
@@ -186,6 +186,26 @@
   },
   "bolagsforvaltning": {
     "etikett": "Corporate Governance",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "riksrevisionen": {
+    "etikett": "The Swedish National Audit Office.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "hogre-utbildning": {
+    "etikett": "Higher education.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "riksrevisionens-granskning": {
+    "etikett": "The Swedish National Audit Office's review.",
+    "typ": "händelse",
+    "antal": 1
+  },
+  "utbildningspolitik": {
+    "etikett": "Education Policy",
     "typ": "ämne",
     "antal": 1
   }

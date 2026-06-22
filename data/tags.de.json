@@ -72,7 +72,7 @@
   "riksdagen": {
     "etikett": "Schwedisches Parlament",
     "typ": "organisation",
-    "antal": 7
+    "antal": 8
   },
   "straffratt": {
     "etikett": "Strafrecht",
@@ -97,7 +97,7 @@
   "regeringen": {
     "etikett": "Die Regierung.",
     "typ": "organisation",
-    "antal": 2
+    "antal": 3
   },
   "forvaltningsratt": {
     "etikett": "Verwaltungsrecht",
@@ -186,6 +186,26 @@
   },
   "bolagsforvaltning": {
     "etikett": "Unternehmensführung",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "riksrevisionen": {
+    "etikett": "Das Rechnungshof.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "hogre-utbildning": {
+    "etikett": "Höhere Bildung.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "riksrevisionens-granskning": {
+    "etikett": "Die Prüfung des Rechnungshofs.",
+    "typ": "händelse",
+    "antal": 1
+  },
+  "utbildningspolitik": {
+    "etikett": "Bildungspolitik\n\n# Utbildningspolitik\n\n*   Bakgrund\n*   Mål\n*   Utmaningar\n\n**Viktiga aspekter:**\n\n*   Förskola\n*   Grundskola\n*   Gymnasium\n*   Högskola\n\nEn bra utbildningspolitik är viktig för att skapa ett rättvist och inkluderande samhälle.\n\nDet finns många utmaningar inom utbildningspolitiken, till exempel:\n\n*   Resursbrist\n*   Ojämlikhet\n*   Brist på kompetens\n\nDet är viktigt att hitta lösningar på dessa utmaningar för att säkerställa att alla barn och ungdomar får en bra utbildning.\n\n[https://www.example.com](https://www.example.com)",
     "typ": "ämne",
     "antal": 1
   }

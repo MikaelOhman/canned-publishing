@@ -63,6 +63,54 @@
     ]
   },
   {
+    "id": "tvangsvard-tanum",
+    "typ": "nyhet",
+    "titel": "Afwijzing van gedwongen zorg – dood aangetroffen in de sneeuw",
+    "ingress": "Het Noorder-Älvsborgs ziekenhuis in Trollhättan, een van de zorginstellingen waar Lina Bryant contact mee had. Foto: W.carter, CC0, via Wikimedia Commons. Een 28-jarige vrouw met psychische problemen ",
+    "datum": "2026-06-12",
+    "kalla": "Bulletin",
+    "kalla_url": "https://bulletin.nu",
+    "taggar": [
+      "vard",
+      "psykiatri",
+      "dodsfall",
+      "kritik",
+      "tanum"
+    ]
+  },
+  {
+    "id": "belfast-0610",
+    "typ": "nyhet",
+    "titel": "Hier vond de poging tot onthoofding plaats in Belfast",
+    "ingress": "Foto: Kinnaird Avenue / Fakismil X Een man die op straat het slachtoffer werd van een poging tot onthoofding in Noord-Belfast, wordt volgens verschillende Britse media geïdentificeerd als Stephen Ogil",
+    "datum": "2026-06-10",
+    "kalla": "Bulletin",
+    "kalla_url": "https://bulletin.nu/har-skedde-halshuggningsforsok-i-belfast",
+    "taggar": [
+      "brott",
+      "migration",
+      "belfast",
+      "nordirland",
+      "polis"
+    ]
+  },
+  {
+    "id": "sektledare-crewe",
+    "typ": "nyhet",
+    "titel": "Sankte Per in Sävsjön werd paus in Crewe",
+    "ingress": "De Bergslagsgården in Sävsjön was een aantal jaren het hoofdkantoor van The Ahmadi religion of peace and light. Foto: Faksimile/Youtube Tien leden van een sjiitische sekte zijn in Groot-Brittannië aan",
+    "datum": "2026-06-10",
+    "kalla": "Bulletin",
+    "kalla_url": "https://bulletin.nu",
+    "taggar": [
+      "brott",
+      "sekt",
+      "manniskohandel",
+      "religion",
+      "hallefors"
+    ]
+  },
+  {
     "id": "HC03195",
     "typ": "lagforslag",
     "titel": "Aangepaste eisen voor openbare tolken en verhoogde competentie-eisen voor tolken in migratiezaken.",
@@ -94,6 +142,23 @@
       "ekonomi",
       "sverige",
       "bolagsforvaltning",
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03196",
+    "typ": "lagforslag",
+    "titel": "Het rapport van de Rijksrekenkamer over het werk van onderwijsinstellingen om uitval te verminderen in opleidingen voor beroepen met tekort aan personeel.",
+    "ingress": "In deze notitie geeft de regering haar beoordeling van de bevindingen, conclusies en aanbevelingen die de Rekenkamer aan de regering heeft gericht in haar rapport \"De inspanningen van onderwijsinstell",
+    "datum": "2025-06-24",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03196.html",
+    "taggar": [
+      "riksrevisionen",
+      "regeringen",
+      "hogre-utbildning",
+      "riksrevisionens-granskning",
+      "utbildningspolitik",
       "riksdagen"
     ]
   }

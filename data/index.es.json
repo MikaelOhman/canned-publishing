@@ -63,6 +63,54 @@
     ]
   },
   {
+    "id": "tvangsvard-tanum",
+    "typ": "nyhet",
+    "titel": "Negación de la atención obligatoria: encontrada muerta en la nieve.",
+    "ingress": "Hospital de la región norte de Älvsborg en Trollhättan, una de las instituciones de atención médica con las que Lina Bryant tuvo contacto. Foto: W.carter, CC0, vía Wikimedia Commons. Una joven de 28 a",
+    "datum": "2026-06-12",
+    "kalla": "Bulletin",
+    "kalla_url": "https://bulletin.nu",
+    "taggar": [
+      "vard",
+      "psykiatri",
+      "dodsfall",
+      "kritik",
+      "tanum"
+    ]
+  },
+  {
+    "id": "belfast-0610",
+    "typ": "nyhet",
+    "titel": "Aquí se intentó un corte de cabeza en Belfast",
+    "ingress": "Foto: Kinnaird Avenue / Fakismil X Un hombre que fue víctima de un intento de decapitación en la calle en el norte de Belfast, presuntamente es un hombre de origen escocés de unos cuarenta años llamad",
+    "datum": "2026-06-10",
+    "kalla": "Bulletin",
+    "kalla_url": "https://bulletin.nu/har-skedde-halshuggningsforsok-i-belfast",
+    "taggar": [
+      "brott",
+      "migration",
+      "belfast",
+      "nordirland",
+      "polis"
+    ]
+  },
+  {
+    "id": "sektledare-crewe",
+    "typ": "nyhet",
+    "titel": "San Pedro de Sävsjön se convirtió en Papa en Crewe",
+    "ingress": "La granja de Bergslagsgården en Sävsjön fue, durante algunos años, la sede principal de The Ahmadi religion of peace and light. Foto: Faksimil/Youtube Diez miembros de una secta chiíta han sido acusad",
+    "datum": "2026-06-10",
+    "kalla": "Bulletin",
+    "kalla_url": "https://bulletin.nu",
+    "taggar": [
+      "brott",
+      "sekt",
+      "manniskohandel",
+      "religion",
+      "hallefors"
+    ]
+  },
+  {
     "id": "HC03195",
     "typ": "lagforslag",
     "titel": "Requisitos más estrictos para los intérpretes y traductores que trabajan para la administración pública, y requisitos de competencia más elevados para los intérpretes en asuntos de inmigración.",
@@ -94,6 +142,23 @@
       "ekonomi",
       "sverige",
       "bolagsforvaltning",
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03196",
+    "typ": "lagforslag",
+    "titel": "Informe de la Auditoría Nacional sobre el trabajo de las instituciones educativas para prevenir el abandono en los programas de formación profesional.",
+    "ingress": "En la presente comunicación, el gobierno presenta su evaluación de las observaciones, conclusiones y recomendaciones que la Oficina de Auditoría Nacional (Riksrevisionen) formula al gobierno en su inf",
+    "datum": "2025-06-24",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03196.html",
+    "taggar": [
+      "riksrevisionen",
+      "regeringen",
+      "hogre-utbildning",
+      "riksrevisionens-granskning",
+      "utbildningspolitik",
       "riksdagen"
     ]
   }
