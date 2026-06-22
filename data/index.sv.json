@@ -278,18 +278,6 @@
     ]
   },
   {
-    "id": "HD03277",
-    "typ": "lagforslag",
-    "titel": "Avveckling av Utbetalningsmyndighetens system med transaktionskonto",
-    "ingress": "I denna proposition föreslås lagändringar för att avveckla Utbetalningsmyndighetens system med transaktionskonto. Lagändringarna innebär en renodling av myndighetens verksamhet till kärnuppgiften att ",
-    "datum": "2026-05-28",
-    "kalla": "Riksdagen",
-    "kalla_url": "https://data.riksdagen.se/dokument/HD03277.html",
-    "taggar": [
-      "riksdagen"
-    ]
-  },
-  {
     "id": "HD03276",
     "typ": "lagforslag",
     "titel": "Nya möjligheter att bekämpa onlinerekrytering",
@@ -309,6 +297,18 @@
     "datum": "2026-05-28",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HD03275.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HD03277",
+    "typ": "lagforslag",
+    "titel": "Avveckling av Utbetalningsmyndighetens system med transaktionskonto",
+    "ingress": "Regeringen vill ta bort systemet med särskilda konton hos Utbetalningsmyndigheten. Syftet är att myndigheten bara ska fokusera på att stoppa felaktiga utbetalningar av pengar.",
+    "datum": "2026-05-28",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03277.html",
     "taggar": [
       "riksdagen"
     ]
