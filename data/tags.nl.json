@@ -27,12 +27,12 @@
   "lagstiftning": {
     "etikett": "Wetgeving",
     "typ": "händelse",
-    "antal": 3
+    "antal": 4
   },
   "riksdagen": {
     "etikett": "Het parlement.",
     "typ": "organisation",
-    "antal": 9
+    "antal": 10
   },
   "underrattelsetjanst": {
     "etikett": "Inlichtingendienst",
@@ -117,7 +117,7 @@
   "sverige": {
     "etikett": "Zweden",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "bolagsforvaltning": {
     "etikett": "Bedrijfsbestuur.",
@@ -177,6 +177,21 @@
   "fastighetsmarknaden": {
     "etikett": "De vastgoedmarkt.",
     "typ": "ämne",
+    "antal": 1
+  },
+  "skatt": {
+    "etikett": "Belasting.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "finansmarknad": {
+    "etikett": "Financiële markt.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "kreditinstitut": {
+    "etikett": "Kredietinstellingen.",
+    "typ": "organisation",
     "antal": 1
   }
 }

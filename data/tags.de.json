@@ -72,7 +72,7 @@
   "riksdagen": {
     "etikett": "Schwedisches Parlament",
     "typ": "organisation",
-    "antal": 10
+    "antal": 11
   },
   "straffratt": {
     "etikett": "Strafrecht",
@@ -107,7 +107,7 @@
   "lagstiftning": {
     "etikett": "Gesetzgebung",
     "typ": "händelse",
-    "antal": 3
+    "antal": 4
   },
   "underrattelsetjanst": {
     "etikett": "Nachrichtendienst",
@@ -182,7 +182,7 @@
   "sverige": {
     "etikett": "Schweden",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "bolagsforvaltning": {
     "etikett": "Unternehmensführung",
@@ -242,6 +242,21 @@
   "fastighetsmarknaden": {
     "etikett": "Immobilienmarkt",
     "typ": "ämne",
+    "antal": 1
+  },
+  "skatt": {
+    "etikett": "Steuern",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "finansmarknad": {
+    "etikett": "Finanzmarkt",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "kreditinstitut": {
+    "etikett": "Kreditinstitut",
+    "typ": "organisation",
     "antal": 1
   }
 }

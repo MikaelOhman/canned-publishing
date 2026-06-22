@@ -27,12 +27,12 @@
   "lagstiftning": {
     "etikett": "Törvénykezés.",
     "typ": "händelse",
-    "antal": 3
+    "antal": 4
   },
   "riksdagen": {
     "etikett": "A Svéd Parlament.",
     "typ": "organisation",
-    "antal": 9
+    "antal": 10
   },
   "underrattelsetjanst": {
     "etikett": "Hírszerzés",
@@ -117,7 +117,7 @@
   "sverige": {
     "etikett": "Svédország",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "bolagsforvaltning": {
     "etikett": "Társaságirányítás",
@@ -177,6 +177,21 @@
   "fastighetsmarknaden": {
     "etikett": "A ingatlanpiac.",
     "typ": "ämne",
+    "antal": 1
+  },
+  "skatt": {
+    "etikett": "Adó.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "finansmarknad": {
+    "etikett": "Pénzügyi piac.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "kreditinstitut": {
+    "etikett": "Hitelintézetek.",
+    "typ": "organisation",
     "antal": 1
   }
 }

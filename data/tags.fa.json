@@ -27,12 +27,12 @@
   "lagstiftning": {
     "etikett": "قوانین و مقررات",
     "typ": "händelse",
-    "antal": 3
+    "antal": 4
   },
   "riksdagen": {
     "etikett": "مجلس نمایندگان",
     "typ": "organisation",
-    "antal": 7
+    "antal": 8
   },
   "underrattelsetjanst": {
     "etikett": "سازمان اطلاعات",
@@ -87,7 +87,7 @@
   "sverige": {
     "etikett": "سوئد",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "bolagsforvaltning": {
     "etikett": "مدیریت شرکت‌ها",
@@ -152,6 +152,21 @@
   "fastighetsmarknaden": {
     "etikett": "بازار املاک",
     "typ": "ämne",
+    "antal": 1
+  },
+  "skatt": {
+    "etikett": "مالیات",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "finansmarknad": {
+    "etikett": "بازار مالی",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "kreditinstitut": {
+    "etikett": "مؤسسات اعتباری",
+    "typ": "organisation",
     "antal": 1
   }
 }

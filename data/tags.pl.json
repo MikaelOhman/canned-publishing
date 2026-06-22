@@ -27,12 +27,12 @@
   "lagstiftning": {
     "etikett": "Przepisy prawne.",
     "typ": "händelse",
-    "antal": 3
+    "antal": 4
   },
   "riksdagen": {
     "etikett": "Riksdagen",
     "typ": "organisation",
-    "antal": 9
+    "antal": 10
   },
   "underrattelsetjanst": {
     "etikett": "Służba wywiadu",
@@ -117,7 +117,7 @@
   "sverige": {
     "etikett": "Szwecja",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "bolagsforvaltning": {
     "etikett": "Zarządzanie spółką.",
@@ -177,6 +177,21 @@
   "fastighetsmarknaden": {
     "etikett": "Rynek nieruchomości.",
     "typ": "ämne",
+    "antal": 1
+  },
+  "skatt": {
+    "etikett": "Podatek.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "finansmarknad": {
+    "etikett": "Rynek finansowy.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "kreditinstitut": {
+    "etikett": "Instytucje kredytowe.",
+    "typ": "organisation",
     "antal": 1
   }
 }

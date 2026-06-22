@@ -27,12 +27,12 @@
   "lagstiftning": {
     "etikett": "Legislație.",
     "typ": "händelse",
-    "antal": 3
+    "antal": 4
   },
   "riksdagen": {
     "etikett": "Parlamentul.",
     "typ": "organisation",
-    "antal": 9
+    "antal": 10
   },
   "underrattelsetjanst": {
     "etikett": "Serviciu de informații",
@@ -117,7 +117,7 @@
   "sverige": {
     "etikett": "Suedia",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "bolagsforvaltning": {
     "etikett": "Administrarea companiilor.",
@@ -177,6 +177,21 @@
   "fastighetsmarknaden": {
     "etikett": "Piața imobiliară.",
     "typ": "ämne",
+    "antal": 1
+  },
+  "skatt": {
+    "etikett": "Impozite.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "finansmarknad": {
+    "etikett": "Piața financiară.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "kreditinstitut": {
+    "etikett": "Instituții de credit.",
+    "typ": "organisation",
     "antal": 1
   }
 }

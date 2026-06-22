@@ -27,12 +27,12 @@
   "lagstiftning": {
     "etikett": "التشريعات.",
     "typ": "händelse",
-    "antal": 3
+    "antal": 4
   },
   "riksdagen": {
     "etikett": "البرلمان.",
     "typ": "organisation",
-    "antal": 9
+    "antal": 10
   },
   "underrattelsetjanst": {
     "etikett": "جهاز الاستخبارات",
@@ -117,7 +117,7 @@
   "sverige": {
     "etikett": "السويد",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "bolagsforvaltning": {
     "etikett": "إدارة الشركات",
@@ -177,6 +177,21 @@
   "fastighetsmarknaden": {
     "etikett": "# سوق العقارات\n\n*   تطورات السوق.\n*   أسعار العقارات.\n*   فرص الاستثمار.\n*   نصائح للمشترين والبائعين.\n*   **تحليل شامل لسوق العقارات.**\n\n---\n\nهذا النص يقدم نظرة عامة على سوق العقارات، ويغطي جوانب مختلفة مثل تطورات السوق، وأسعار العقارات، وفرص الاستثمار، بالإضافة إلى تقديم نصائح للمشترين والبائعين. كما يقدم تحليلاً شاملاً للسوق.",
     "typ": "ämne",
+    "antal": 1
+  },
+  "skatt": {
+    "etikett": "الضرائب",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "finansmarknad": {
+    "etikett": "# الأسواق المالية",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "kreditinstitut": {
+    "etikett": "مؤسسات ائتمانية.",
+    "typ": "organisation",
     "antal": 1
   }
 }
