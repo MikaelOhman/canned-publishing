@@ -72,7 +72,7 @@
   "riksdagen": {
     "etikett": "Schwedisches Parlament",
     "typ": "organisation",
-    "antal": 9
+    "antal": 10
   },
   "straffratt": {
     "etikett": "Strafrecht",
@@ -97,7 +97,7 @@
   "regeringen": {
     "etikett": "Die Regierung.",
     "typ": "organisation",
-    "antal": 3
+    "antal": 4
   },
   "forvaltningsratt": {
     "etikett": "Verwaltungsrecht",
@@ -221,6 +221,26 @@
   },
   "miljolagstiftning": {
     "etikett": "Umweltgesetzgebung\n\n# Miljölagstiftning\n\n# Umweltgesetzgebung\n\n*   **Miljölagstiftning**\n*   **Umweltgesetzgebung**\n\nDetta är en översikt över miljölagstiftningen.\nDies ist ein Überblick über die Umweltgesetzgebung.\n\nDet finns många olika lagar och regler som syftar till att skydda miljön.\nEs gibt viele verschiedene Gesetze und Vorschriften, die darauf abzielen, die Umwelt zu schützen.\n\nDessa lagar och regler kan omfatta allt från luft- och vattenkvalitet till avfallshantering och skydd av biologisk mångfald.\nDiese Gesetze und Vorschriften können alles umfassen, von der Luft- und Wasserqualität bis hin zur Abfallwirtschaft und dem Schutz der biologischen Vielfalt.\n\nFör mer information, besök: www.example.com\nFür weitere Informationen besuchen Sie: www.example.com\n\nDatum: 2023-10-27\nDatum: 2023-10-27",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "bostadspolitik": {
+    "etikett": "Wohnungspolitik\n\n# Bostadspolitik\n\nBostadspolitik handlar om att skapa förutsättningar för alla att ha tillgång till en bra och trygg bostad.\n\n*   Det innebär att arbeta för att:\n    *   Öka antalet bostäder.\n    *   Minska bostadskostnaderna.\n    *   Förbättra kvaliteten på bostäderna.\n    *   Motverka diskriminering på bostadsmarknaden.\n\n**Bostadspolitiken är viktig för att:**\n\n*   Människor ska ha möjlighet att leva ett värdigt liv.\n*   Samhället ska fungera bra.\n*   Ekonomin ska utvecklas.\n\nBostadspolitiken är ett komplext område som kräver samarbete mellan olika aktörer, som staten, kommunerna, bostadsföreningarna och de privata fastighetsägarna.\n\n---\n\nExempel på åtgärder inom bostadspolitiken:\n\n*   Byggsubventioner.\n*   Hyresreglering.\n*   Stöd till bostadsrättsföreningar.\n*   Information och rådgivning till hyresgäster och bostadssökande.\n\n**Framtidens bostadspolitik:**\n\nFramtidens bostadspolitik måste ta hänsyn till de utmaningar som klimatförändringarna och den ökande urbaniseringen innebär. Det är viktigt att bygga hållbara och energieffektiva bostäder, och att skapa attraktiva och levandegorda städer.\n\nBesök oss på [www.exempel.se](www.exempel.se) för mer information.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "hyresratt": {
+    "etikett": "Mietrecht",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "hyreslagstiftning": {
+    "etikett": "Mietrechtliche Bestimmungen.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "fastighetsmarknaden": {
+    "etikett": "Immobilienmarkt",
     "typ": "ämne",
     "antal": 1
   }

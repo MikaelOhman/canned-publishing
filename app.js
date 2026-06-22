@@ -19,7 +19,8 @@ const UIDEF = {sub:"Multilingual news",search_label:"Search",search_ph:"Type a w
   texts:{normal:"Normal",large:"Large",xlarge:"Extra large"},fonts:{standard:"Standard",lasvanlig:"Readable"},
   types:{alla:"All",nyhet:"News",lagforslag:"Bills"},typebadge:{nyhet:"News",lagforslag:"Bill"},
   tagtypes:{"ämne":"Topic","plats":"Place","person":"Person","organisation":"Organisation","händelse":"Event"},
-  kalla:"Source",original:"Read the original at",count:"results",none:"No matches.",clear:"Clear filters",back:"← Back"};
+  kalla:"Source",original:"Read the original at",count:"results",none:"No matches.",clear:"Clear filters",back:"← Back",
+  tldr_label:"TL;DR",lattlast_label:"In plain language",fulltext_label:"Full text"};
 const ui = () => state.ui;
 
 async function getJSON(url){ const r = await fetch(url); if(!r.ok) throw new Error(url); return r.json(); }
@@ -142,13 +143,19 @@ async function openArticle(id){
   let a; try { a = await getJSON(`data/artikel/${id}.${state.lang}.json`); } catch(e){ location.hash=''; return; }
   const u = ui(); const lag = a.typ==='lagforslag';
   const el = $('#article');
+  const layered = a.tldr || a.lattlast;
+  const tldr = a.tldr ? `<div class="tldr"><span class="lbl">${esc(u.tldr_label||'TL;DR')}</span>${esc(a.tldr)}</div>` : '';
+  const latt = a.lattlast ? `<div class="lattlast">${u.lattlast_label?`<div class="layer-h">${esc(u.lattlast_label)}</div>`:''}${a.lattlast}</div>` : '';
+  const full = a.html ? (layered
+      ? `<details class="fulltext"><summary>${esc(u.fulltext_label||'')}</summary><div class="body">${a.html}</div></details>`
+      : `<div class="body">${a.html}</div>`) : '';
   el.innerHTML = `<button class="back">${esc(u.back)}</button>
     <span class="badge-typ ${lag?'lag':''}">${esc(u.typebadge[a.typ]||u.typebadge.nyhet)}</span>
     <h1>${esc(a.titel)}</h1>
     <div class="source"><span class="lbl">${esc(u.kalla)}</span> <b>${esc(a.kalla||'—')}</b>
       ${a.kalla_url?`<a href="${esc(a.kalla_url)}" target="_blank" rel="noopener">${esc(u.original)} ${esc(a.kalla||'')} →</a>`:''}
       <span style="font-size:.78rem;color:var(--txt3);flex-basis:100%">${esc(a.datum||'')}</span></div>
-    <div class="body">${a.html||''}</div>
+    ${tldr}${latt}${full}
     ${a.kalla_url?`<div class="source-foot">${esc(u.original)} <a href="${esc(a.kalla_url)}" target="_blank" rel="noopener">${esc(a.kalla||a.kalla_url)}</a>.</div>`:''}`;
   el.querySelector('.back').addEventListener('click',()=>{ location.hash=''; });
   ['#typefilter','#searchhelp','.meta-row','#list'].forEach(s=>$(s).classList.add('hidden'));

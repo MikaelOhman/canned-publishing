@@ -72,7 +72,7 @@
   "riksdagen": {
     "etikett": "Swedish Parliament",
     "typ": "organisation",
-    "antal": 9
+    "antal": 10
   },
   "straffratt": {
     "etikett": "Criminal law",
@@ -97,7 +97,7 @@
   "regeringen": {
     "etikett": "The Government",
     "typ": "organisation",
-    "antal": 3
+    "antal": 4
   },
   "forvaltningsratt": {
     "etikett": "Administrative Law",
@@ -221,6 +221,26 @@
   },
   "miljolagstiftning": {
     "etikett": "Environmental Legislation",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "bostadspolitik": {
+    "etikett": "Housing Policy",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "hyresratt": {
+    "etikett": "Rental agreement.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "hyreslagstiftning": {
+    "etikett": "Rental Legislation",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "fastighetsmarknaden": {
+    "etikett": "Real estate market.",
     "typ": "ämne",
     "antal": 1
   }

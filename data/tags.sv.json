@@ -72,7 +72,7 @@
   "riksdagen": {
     "etikett": "Riksdagen",
     "typ": "organisation",
-    "antal": 10
+    "antal": 11
   },
   "straffratt": {
     "etikett": "Straffrätt",
@@ -97,7 +97,7 @@
   "regeringen": {
     "etikett": "Regeringen",
     "typ": "organisation",
-    "antal": 4
+    "antal": 5
   },
   "forvaltningsratt": {
     "etikett": "Förvaltningsrätt",
@@ -231,6 +231,26 @@
   },
   "miljolagstiftning": {
     "etikett": "Miljölagstiftning",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "bostadspolitik": {
+    "etikett": "Bostadspolitik",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "hyresratt": {
+    "etikett": "Hyresrätt",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "hyreslagstiftning": {
+    "etikett": "Hyreslagstiftning",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "fastighetsmarknaden": {
+    "etikett": "Fastighetsmarknaden",
     "typ": "ämne",
     "antal": 1
   }
