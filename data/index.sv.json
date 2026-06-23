@@ -2954,18 +2954,6 @@
     ]
   },
   {
-    "id": "HD0347",
-    "typ": "lagforslag",
-    "titel": "Riksrevisionens rapport om systemet för lärarlegitimation",
-    "ingress": "I skrivelsen redovisar regeringen sin bedömning av de iakttagelser och slutsatser samt rekommendationer som Riksrevisionen lämnar till regeringen i sin granskningsrapport Systemet för lärarlegitimatio",
-    "datum": "2025-11-11",
-    "kalla": "Riksdagen",
-    "kalla_url": "https://data.riksdagen.se/dokument/HD0347.html",
-    "taggar": [
-      "riksdagen"
-    ]
-  },
-  {
     "id": "HD0346",
     "typ": "lagforslag",
     "titel": "Elektronisk inlämning av bouppteckningar",
@@ -3045,6 +3033,18 @@
     "datum": "2025-11-11",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HD0353.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HD0347",
+    "typ": "lagforslag",
+    "titel": "Riksrevisionens rapport om systemet för lärarlegitimation",
+    "ingress": "Riksrevisionen har granskat systemet för lärarlegitimation och kommit fram till att det inte fungerar så bra som det borde. Det finns stora brister i hur man kontrollerar att lärare är lämpliga för jobbet.",
+    "datum": "2025-11-11",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD0347.html",
     "taggar": [
       "riksdagen"
     ]
