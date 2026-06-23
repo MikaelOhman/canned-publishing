@@ -55,6 +55,8 @@ function applyUI(){
   $('.langpick').title = u.language; $('#lang').setAttribute('aria-label', u.language);
   $('#omlank').textContent = (state.about && state.about.label) || 'Om';
   $('#foot-ai').textContent = (state.about && state.about.disclosure) || '';
+  $('#rsslank').href = `feed.${state.lang}.xml`;
+  const alt = $('#rss-alt'); if(alt) alt.href = `feed.${state.lang}.xml`;
 }
 
 async function boot(){
