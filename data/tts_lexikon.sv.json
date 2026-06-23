@@ -1,0 +1,35 @@
+{
+  "_kommentar": "Uttalslexikon för TTS. SEPARAT LAGER: appliceras BARA på texten som matas till röstmotorn – den synliga texten (artikel/show notes) rörs inte. Värdena får gärna vara medvetet 'felstavade' fonetiskt om det får uttalet rätt (jfr Suno-trick) – målet är att låta bra, inte korrekt stavning. 'ersattningar' = direkta utbyten (längst först). 'regler' = regex (t.ex. SFS-nummer). 'flaggade' = ord som lät fel vid provlyssning, med fonetisk fix (lägg till via podd.flagga_ord). Kan behöva skilja sig per röstmotor.",
+  "ersattningar": {
+    "§§": "paragraferna",
+    "§": "paragraf",
+    "%": " procent",
+    "RiR": "Riksrevisionens rapport",
+    "VAB": "vård av barn",
+    "vab": "vård av barn",
+    "CSN": "C-S-N",
+    "LSS": "L-S-S",
+    "SFI": "ess-eff-i",
+    "JO": "J-O",
+    "JK": "J-K",
+    "kr": "kronor",
+    "kr.": "kronor",
+    "mdkr": "miljarder kronor",
+    "mnkr": "miljoner kronor",
+    "t.ex.": "till exempel",
+    "bl.a.": "bland annat",
+    "m.fl.": "med flera",
+    "m.m.": "med mera",
+    "d.v.s.": "det vill säga",
+    "dvs.": "det vill säga",
+    "etc.": "et cetera",
+    "ca": "cirka",
+    "ca.": "cirka",
+    "prop.": "proposition",
+    "nr": "nummer"
+  },
+  "regler": [
+    {"_om": "lag-/SFS-nummer 2003:1156 → läses 'tjugohundratre kolon ...'", "monster": "\\b(\\d{4}):(\\d{1,5})\\b", "ersatt": "\\1 kolon \\2"}
+  ],
+  "flaggade": []
+}
