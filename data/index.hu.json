@@ -289,18 +289,6 @@
     ]
   },
   {
-    "id": "HD03271",
-    "typ": "lagforslag",
-    "titel": "Egy módosított abortusz törvény.",
-    "ingress": "A megszakítási törvényt modernizálják. Egyértelműsíti, hogy egy terhes nő a terhesség 18. hetéig jogosult a terhesség megszakítására, hogy a megszakítást sürgősen kell elvégezni, és eltörölték azt a követelményt, hogy a beavatkozás kórházba",
-    "datum": "2026-05-26",
-    "kalla": "Riksdagen",
-    "kalla_url": "https://data.riksdagen.se/dokument/HD03271.html",
-    "taggar": [
-      "riksdagen"
-    ]
-  },
-  {
     "id": "HD03270",
     "typ": "lagforslag",
     "titel": "Az EU vegyi anyagokkal és hulladékokkal kapcsolatos rendeleteinek kiegészítő rendelkezései.",
@@ -308,6 +296,18 @@
     "datum": "2026-05-26",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HD03270.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HD03271",
+    "typ": "lagforslag",
+    "titel": "Egy módosított abortusz törvény.",
+    "ingress": "A megszakítási törvényt modernizálják. Egyértelműsíti, hogy egy terhes nő a terhesség 18. hetéig jogosult a terhesség megszakítására, hogy a megszakítást sürgősen kell elvégezni, és eltörölték a követelményt, hogy a beavatkozás kórházban tö",
+    "datum": "2026-05-26",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03271.html",
     "taggar": [
       "riksdagen"
     ]
