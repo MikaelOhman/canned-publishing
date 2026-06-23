@@ -2786,18 +2786,6 @@
     ]
   },
   {
-    "id": "HD0351",
-    "typ": "lagforslag",
-    "titel": "Riksrevisionens rapport om generella statsbidrag som stabiliseringspolitiskt instrument",
-    "ingress": "I skrivelsen behandlar regeringen Riksrevisionens iakttagelser och rekommendationer i rapporten Generella statsbidrag som stabiliseringspolitiskt instrument (RiR 2025:19). Riksrevisionen har granskat ",
-    "datum": "2025-11-25",
-    "kalla": "Riksdagen",
-    "kalla_url": "https://data.riksdagen.se/dokument/HD0351.html",
-    "taggar": [
-      "riksdagen"
-    ]
-  },
-  {
     "id": "HD0368",
     "typ": "lagforslag",
     "titel": "Avvikande från bestämmelserna om tyst godkännande i EU:s förordning om gigabitinfrastruktur",
@@ -2865,6 +2853,18 @@
     "datum": "2025-11-25",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HD0352.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HD0351",
+    "typ": "lagforslag",
+    "titel": "Riksrevisionens rapport om generella statsbidrag som stabiliseringspolitiskt instrument",
+    "ingress": "Riksrevisionen har granskat hur staten gav extra pengar till kommuner och regioner under pandemin. De tycker att regeringen kunde ha gjort det på ett bättre och tydligare sätt.",
+    "datum": "2025-11-25",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD0351.html",
     "taggar": [
       "riksdagen"
     ]
