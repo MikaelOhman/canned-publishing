@@ -3727,23 +3727,6 @@
     ]
   },
   {
-    "id": "HC03188",
-    "typ": "lagforslag",
-    "titel": "Ett grundavdrag i riskskatten",
-    "ingress": "I propositionen föreslås att ett grundavdrag införs i lagen om riskskatt för kreditinstitut. Förslaget innebär att ett svenskt kreditinstitut eller ett utländskt kreditinstitut ska göra ett grundavdra",
-    "datum": "2025-06-24",
-    "kalla": "Riksdagen",
-    "kalla_url": "https://data.riksdagen.se/dokument/HC03188.html",
-    "taggar": [
-      "skatt",
-      "finansmarknad",
-      "kreditinstitut",
-      "lagstiftning",
-      "sverige",
-      "riksdagen"
-    ]
-  },
-  {
     "id": "HC03187",
     "typ": "lagforslag",
     "titel": "Ett effektivt straffrättsligt skydd för statliga stöd till företag",
@@ -3792,6 +3775,18 @@
     "datum": "2025-06-24",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03192.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03188",
+    "typ": "lagforslag",
+    "titel": "Ett grundavdrag i riskskatten",
+    "ingress": "Regeringen vill ändra reglerna för riskskatt för banker och kreditinstitut. Förslaget innebär att en del av vinsten inte ska beskattas, men att skatten i procent höjs något för att staten ska få in lika mycket pengar som förut.",
+    "datum": "2025-06-24",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03188.html",
     "taggar": [
       "riksdagen"
     ]
