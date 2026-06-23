@@ -3294,18 +3294,6 @@
     ]
   },
   {
-    "id": "HD0318",
-    "typ": "lagforslag",
-    "titel": "تحسين الظروف المتاحة للسويد في حلف الناتو - بند سري إضافي يتعلق بمعلومات حلف الناتو.",
-    "ingress": "- Preserve ALL Markdown formatting exactly (headings #, lists, **bold**, breaks). - Translate ONLY the content. No notes or explanations. - Produce natural, fluent Arabic; translate for MEANING, not word-for-word. - Keep names, numbers, dat",
-    "datum": "2025-09-30",
-    "kalla": "Riksdagen",
-    "kalla_url": "https://data.riksdagen.se/dokument/HD0318.html",
-    "taggar": [
-      "riksdagen"
-    ]
-  },
-  {
     "id": "HD0311",
     "typ": "lagforslag",
     "titel": "# حظر جديد على المقامرة بالدين\n\n-   يمنع هذا الحظر الجديد المقامرة باستخدام الائتمان.",
@@ -3313,6 +3301,18 @@
     "datum": "2025-09-30",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HD0311.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HD0318",
+    "typ": "lagforslag",
+    "titel": "تحسين الظروف المتاحة للسويد في حلف الناتو: مادة سرية إضافية تتعلق بمعلومات حلف الناتو.",
+    "ingress": "ترغب السويد في تعديل القوانين لتعزيز قدرتها على حماية المعلومات السرية في سياق التعاون مع حلف الناتو. يهدف هذا الإجراء إلى تمكيننا من تبادل المعلومات الهامة مع الدول الأخرى بطريقة آمنة.",
+    "datum": "2025-09-30",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD0318.html",
     "taggar": [
       "riksdagen"
     ]
