@@ -1765,18 +1765,6 @@
     ]
   },
   {
-    "id": "HD03157",
-    "typ": "lagforslag",
-    "titel": "Gesetz über die Gebühren für die regionale Zusammenarbeit.",
-    "ingress": "Die Regierung plant, ein neues Gesetz einzuführen, das es Gruppen von Immobilieneigentümern ermöglicht, eine Gebühr zu erheben, um die Sicherheit und die Entwicklung in einem Gebiet zu verbessern. Das Gesetz soll voraussichtlich am 1. Augus",
-    "datum": "2026-03-10",
-    "kalla": "Riksdagen",
-    "kalla_url": "https://data.riksdagen.se/dokument/HD03157.html",
-    "taggar": [
-      "riksdagen"
-    ]
-  },
-  {
     "id": "HD03152",
     "typ": "lagforslag",
     "titel": "Bericht des Rechnungshofs über die Immobilienverwaltung des staatlichen Immobilienamtes.",
@@ -1820,6 +1808,18 @@
     "datum": "2026-03-10",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HD03172.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HD03157",
+    "typ": "lagforslag",
+    "titel": "Gesetz über die Gebühren für die regionale Zusammenarbeit.",
+    "ingress": "Die Regierung plant die Einführung eines neuen Gesetzes, das es Gruppen von Immobilienbesitzern ermöglicht, eine Gebühr zu erheben, um die Sicherheit und die Entwicklung in einem bestimmten Gebiet zu verbessern. Das Gesetz soll voraussichtl",
+    "datum": "2026-03-10",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03157.html",
     "taggar": [
       "riksdagen"
     ]
