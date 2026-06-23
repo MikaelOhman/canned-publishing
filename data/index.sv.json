@@ -2702,18 +2702,6 @@
     ]
   },
   {
-    "id": "HD0371",
-    "typ": "lagforslag",
-    "titel": "Insyn i handlingar som inhämtas genom beslag och kopiering vid husrannsakan",
-    "ingress": "I propositionen föreslås att en upptagning för automatiserad behandling som har kommit in till en myndighet genom att en informationsbärare har tagits i beslag i verksamhet som avser utredning av brot",
-    "datum": "2025-12-02",
-    "kalla": "Riksdagen",
-    "kalla_url": "https://data.riksdagen.se/dokument/HD0371.html",
-    "taggar": [
-      "riksdagen"
-    ]
-  },
-  {
     "id": "HD0365",
     "typ": "lagforslag",
     "titel": "Riksrevisionens rapport om statens användning och anskaffning av kontorslokaler",
@@ -2757,6 +2745,18 @@
     "datum": "2025-12-02",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HD0359.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HD0371",
+    "typ": "lagforslag",
+    "titel": "Insyn i handlingar som inhämtas genom beslag och kopiering vid husrannsakan",
+    "ingress": "Regeringen vill ändra lagen så att filer som polisen eller andra myndigheter tar vid en husrannsakan inte räknas som allmänna handlingar. Det betyder att allmänheten inte har rätt att läsa dem direkt.",
+    "datum": "2025-12-02",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD0371.html",
     "taggar": [
       "riksdagen"
     ]
