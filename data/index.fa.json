@@ -2421,18 +2421,6 @@
     ]
   },
   {
-    "id": "HD0392",
-    "typ": "lagforslag",
-    "titel": "یک جایگزین قابل اعتماد.",
-    "ingress": "- Preserve ALL Markdown formatting exactly (headings #, lists, **bold**, breaks). - Translate ONLY the content. No notes or explanations. - Produce natural, fluent Persian; translate for MEANING, not word-for-word. - Keep names, numbers, da",
-    "datum": "2025-12-23",
-    "kalla": "Riksdagen",
-    "kalla_url": "https://data.riksdagen.se/dokument/HD0392.html",
-    "taggar": [
-      "riksdagen"
-    ]
-  },
-  {
     "id": "HD0389",
     "typ": "lagforslag",
     "titel": "گزارش سازمان حسابرسی ملی در مورد شرایط حقوقی کار در مناقصات دولتی.",
@@ -2440,6 +2428,18 @@
     "datum": "2025-12-23",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HD0389.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HD0392",
+    "typ": "lagforslag",
+    "titel": "یک جایگزین قابل اعتماد.",
+    "ingress": "دولت قصد دارد شرایط را برای افرادی که سرپرست یا قیم قانونی دارند، ایمن‌تر و بهتر کند. هدف این است که افرادی که به کمک نیاز دارند، از حمایت‌های بهتری برخوردار شوند و قوانین مربوطه شفاف‌تر گردد.",
+    "datum": "2025-12-23",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD0392.html",
     "taggar": [
       "riksdagen"
     ]
