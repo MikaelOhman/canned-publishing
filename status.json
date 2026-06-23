@@ -1,0 +1,96 @@
+{
+  "ok": false,
+  "antal_fel": 1,
+  "checks": [
+    {
+      "namn": "GET /",
+      "ok": true,
+      "info": "HTTP 200"
+    },
+    {
+      "namn": "GET /sitemap.xml",
+      "ok": true,
+      "info": "HTTP 200"
+    },
+    {
+      "namn": "GET /robots.txt",
+      "ok": true,
+      "info": "HTTP 200"
+    },
+    {
+      "namn": "GET /feed.sv.xml",
+      "ok": true,
+      "info": "HTTP 200"
+    },
+    {
+      "namn": "GET /feed.ar.xml",
+      "ok": true,
+      "info": "HTTP 200"
+    },
+    {
+      "namn": "GET /data/ui.fa.json",
+      "ok": true,
+      "info": "HTTP 200"
+    },
+    {
+      "namn": "GET /data/about.pl.json",
+      "ok": true,
+      "info": "HTTP 200"
+    },
+    {
+      "namn": "GET /a/hd03271.sv",
+      "ok": true,
+      "info": "HTTP 200"
+    },
+    {
+      "namn": "GET /a/hd03271.fa",
+      "ok": true,
+      "info": "HTTP 200"
+    },
+    {
+      "namn": "index.sv har innehåll",
+      "ok": true,
+      "info": "331 artiklar"
+    },
+    {
+      "namn": "artikelsida har og:title",
+      "ok": true,
+      "info": ""
+    },
+    {
+      "namn": "data: trasig_json",
+      "ok": true,
+      "info": "0 st"
+    },
+    {
+      "namn": "data: tom_html",
+      "ok": true,
+      "info": "0 st"
+    },
+    {
+      "namn": "data: index_utan_fil",
+      "ok": false,
+      "info": "46 st"
+    },
+    {
+      "namn": "data: fil_utan_index",
+      "ok": true,
+      "info": "0 st"
+    },
+    {
+      "namn": "data: instruktionslackage",
+      "ok": true,
+      "info": "0 st"
+    },
+    {
+      "namn": "cron-daemon kör",
+      "ok": true,
+      "info": ""
+    },
+    {
+      "namn": "statiska sidor finns",
+      "ok": true,
+      "info": "2503 sidor"
+    }
+  ]
+}
