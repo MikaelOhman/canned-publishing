@@ -3727,23 +3727,6 @@
     ]
   },
   {
-    "id": "HC03192",
-    "typ": "lagforslag",
-    "titel": "En förbättrad modell för presumtionshyra",
-    "ingress": "Regeringen föreslår ändringar i reglerna om hyror för nyproducerade bostäder, så kallade presumtionshyror. Syftet är att skapa bättre förutsättningar för att bygga nya hyresbostäder. Möjligheterna att",
-    "datum": "2025-06-24",
-    "kalla": "Riksdagen",
-    "kalla_url": "https://data.riksdagen.se/dokument/HC03192.html",
-    "taggar": [
-      "bostadspolitik",
-      "hyresratt",
-      "regeringen",
-      "hyreslagstiftning",
-      "fastighetsmarknaden",
-      "riksdagen"
-    ]
-  },
-  {
     "id": "HC03188",
     "typ": "lagforslag",
     "titel": "Ett grundavdrag i riskskatten",
@@ -3797,6 +3780,18 @@
     "datum": "2025-06-24",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03194.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03192",
+    "typ": "lagforslag",
+    "titel": "En förbättrad modell för presumtionshyra",
+    "ingress": "Regeringen vill ändra reglerna för hyror i nybyggda hyreshus för att det ska bli lättare att bygga nya bostäder. Förslaget innebär att hyrorna ska kunna ändras på ett enklare sätt och att konflikter om hyran ska kunna lösas snabbare.",
+    "datum": "2025-06-24",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03192.html",
     "taggar": [
       "riksdagen"
     ]
