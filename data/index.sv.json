@@ -1118,18 +1118,6 @@
     ]
   },
   {
-    "id": "HD0375",
-    "typ": "lagforslag",
-    "titel": "Riksdagens skrivelser till regeringen – åtgärder under 2025",
-    "ingress": "I skrivelsen lämnar regeringen en redovisning av vilka åtgärder regeringen har vidtagit med anledning av de riksdagsskrivelser som överlämnats till regeringen. Redovisningen omfattar huvudsakligen åtg",
-    "datum": "2026-03-17",
-    "kalla": "Riksdagen",
-    "kalla_url": "https://data.riksdagen.se/dokument/HD0375.html",
-    "taggar": [
-      "riksdagen"
-    ]
-  },
-  {
     "id": "HD03209",
     "typ": "lagforslag",
     "titel": "En snabbare utbyggnad av kriminalvårdsanstalter och häkten",
@@ -1605,6 +1593,18 @@
     "datum": "2026-03-17",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HD0390.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HD0375",
+    "typ": "lagforslag",
+    "titel": "Riksdagens skrivelser till regeringen – åtgärder under 2025",
+    "ingress": "Regeringen berättar vad de har gjort efter att riksdagen har gett dem instruktioner under år 2025. De visar också hur många lagar som gäller just nu.",
+    "datum": "2026-03-17",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD0375.html",
     "taggar": [
       "riksdagen"
     ]
