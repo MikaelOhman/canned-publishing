@@ -1662,18 +1662,6 @@
     ]
   },
   {
-    "id": "HD03172",
-    "typ": "lagforslag",
-    "titel": "عملية بناء فعالة وآمنة.",
-    "ingress": "- # قواعد جديدة للبناء المقترحة من المقترح أن تدخل قواعد جديدة للبناء حيز التنفيذ في 1 يوليو 2026. تهدف هذه القواعد إلى جعل عملية البناء أكثر أمانًا ووضوحًا من خلال تغيير الأدوار والمتطلبات المتعلقة بمراقبة المباني.",
-    "datum": "2026-03-10",
-    "kalla": "Riksdagen",
-    "kalla_url": "https://data.riksdagen.se/dokument/HD03172.html",
-    "taggar": [
-      "riksdagen"
-    ]
-  },
-  {
     "id": "HD03171",
     "typ": "lagforslag",
     "titel": "فحص أكثر فعالية للمنشآت النووية.",
@@ -1801,6 +1789,18 @@
     "datum": "2026-03-10",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HD0397.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HD03172",
+    "typ": "lagforslag",
+    "titel": "عملية بناء فعالة وآمنة.",
+    "ingress": "يُقترح أن تدخل قوانين جديدة بشأن البناء حيز التنفيذ في 1 يوليو 2026. يهدف هذا التغيير إلى جعل عملية البناء أكثر أمانًا ووضوحًا من خلال تعديل الأدوار والمتطلبات المتعلقة بمراقبة المباني.",
+    "datum": "2026-03-10",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03172.html",
     "taggar": [
       "riksdagen"
     ]

@@ -1661,18 +1661,6 @@
     ]
   },
   {
-    "id": "HD03172",
-    "typ": "lagforslag",
-    "titel": "Processo di costruzione efficiente e sicuro.",
-    "ingress": "Nuove normative per le costruzioni sono proposte per entrare in vigore il 1° luglio 2026. L'obiettivo è rendere il processo di costruzione più sicuro e trasparente, modificando i ruoli e i requisiti relativi al controllo degli edifici.",
-    "datum": "2026-03-10",
-    "kalla": "Riksdagen",
-    "kalla_url": "https://data.riksdagen.se/dokument/HD03172.html",
-    "taggar": [
-      "riksdagen"
-    ]
-  },
-  {
     "id": "HD03171",
     "typ": "lagforslag",
     "titel": "Una valutazione più efficace degli impianti nucleari.",
@@ -1800,6 +1788,18 @@
     "datum": "2026-03-10",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HD0397.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HD03172",
+    "typ": "lagforslag",
+    "titel": "Processo di costruzione efficiente e sicuro.",
+    "ingress": "Sono state proposte nuove normative per l'edilizia che entreranno in vigore il 1° luglio 2026. L'obiettivo è rendere il processo di costruzione più sicuro e trasparente, modificando i ruoli e i requisiti relativi al controllo degli edifici.",
+    "datum": "2026-03-10",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03172.html",
     "taggar": [
       "riksdagen"
     ]

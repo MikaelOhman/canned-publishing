@@ -1681,18 +1681,6 @@
     ]
   },
   {
-    "id": "HD03172",
-    "typ": "lagforslag",
-    "titel": "Effizienter und sicherer Bauprozess.",
-    "ingress": "Neue Bauvorschriften sollen am 1. Juli 2026 in Kraft treten. Ziel ist es, den Bauprozess sicherer und transparenter zu gestalten, indem Rollen und Anforderungen an die Bauüberwachung geändert werden.",
-    "datum": "2026-03-10",
-    "kalla": "Riksdagen",
-    "kalla_url": "https://data.riksdagen.se/dokument/HD03172.html",
-    "taggar": [
-      "riksdagen"
-    ]
-  },
-  {
     "id": "HD03171",
     "typ": "lagforslag",
     "titel": "Eine sinnvollere Prüfung von nuklearen Anlagen.",
@@ -1820,6 +1808,18 @@
     "datum": "2026-03-10",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HD0397.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HD03172",
+    "typ": "lagforslag",
+    "titel": "Effizienter und sicherer Bauprozess.\n\n*   Effizienz\n*   Sicherheit",
+    "ingress": "Es werden neue Vorschriften für den Bau vorgeschlagen, die am 1. Juli 2026 in Kraft treten sollen. Ziel ist es, den Bauprozess sicherer und transparenter zu gestalten, indem Rollen und Anforderungen an die Kontrolle von Gebäuden geändert we",
+    "datum": "2026-03-10",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03172.html",
     "taggar": [
       "riksdagen"
     ]
