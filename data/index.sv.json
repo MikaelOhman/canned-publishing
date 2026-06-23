@@ -746,18 +746,6 @@
     ]
   },
   {
-    "id": "HD03100",
-    "typ": "lagforslag",
-    "titel": "2026 års ekonomiska vårproposition",
-    "ingress": "Propositionen innehåller regeringens förslag till riktlinjer för den ekonomiska politiken och budgetpolitiken. Riktlinjernas syfte är att ange politikens inriktning inför budgetpropositionen för 2027.",
-    "datum": "2026-04-13",
-    "kalla": "Riksdagen",
-    "kalla_url": "https://data.riksdagen.se/dokument/HD03100.html",
-    "taggar": [
-      "riksdagen"
-    ]
-  },
-  {
     "id": "HD0399",
     "typ": "lagforslag",
     "titel": "Vårändringsbudget för 2026",
@@ -813,6 +801,18 @@
     "datum": "2026-04-13",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HD03101.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HD03100",
+    "typ": "lagforslag",
+    "titel": "2026 års ekonomiska vårproposition",
+    "ingress": "Regeringen visar upp sina planer för hur Sveriges ekonomi ska styras under 2026. Målet är att lägga grunden för nästa års budget år 2027.",
+    "datum": "2026-04-13",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03100.html",
     "taggar": [
       "riksdagen"
     ]
