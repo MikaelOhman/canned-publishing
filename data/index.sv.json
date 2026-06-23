@@ -1646,18 +1646,6 @@
     ]
   },
   {
-    "id": "HD03137",
-    "typ": "lagforslag",
-    "titel": "Riksrevisionens rapport om förvar i migrationsprocessen",
-    "ingress": "I skrivelsen redovisar regeringen sin bedömning av de iakttagelser och rekommendationer som Riksrevisionen har gjort i rapporten Förvar i migrationsprocessen – ett kostsamt verktyg utan tydlig styrnin",
-    "datum": "2026-03-10",
-    "kalla": "Riksdagen",
-    "kalla_url": "https://data.riksdagen.se/dokument/HD03137.html",
-    "taggar": [
-      "riksdagen"
-    ]
-  },
-  {
     "id": "HD0397",
     "typ": "lagforslag",
     "titel": "Fördjupad resultatredovisning av internationellt bistånd – Ukraina",
@@ -1809,6 +1797,18 @@
     "datum": "2026-03-10",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HD03152.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HD03137",
+    "typ": "lagforslag",
+    "titel": "Riksrevisionens rapport om förvar i migrationsprocessen",
+    "ingress": "Riksrevisionen har granskat hur man låser in personer under migrationsprocessen och funnit att det är dyrt och inte fungerar bra. Regeringen vill nu att myndigheterna ska samarbeta bättre för att minska kostnader och korta tiden i förvar.",
+    "datum": "2026-03-10",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03137.html",
     "taggar": [
       "riksdagen"
     ]
