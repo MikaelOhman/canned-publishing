@@ -554,18 +554,6 @@
     ]
   },
   {
-    "id": "HD03253",
-    "typ": "lagforslag",
-    "titel": "EU:s bankpaket",
-    "ingress": "I EU:s kapitaltäckningsdirektiv ställs krav på den verksamhet som bedrivs av banker och kreditmarknadsföretag (kreditinstitut), mycket stora värde- pappersbolag och vissa holdingföretag. I proposition",
-    "datum": "2026-04-23",
-    "kalla": "Riksdagen",
-    "kalla_url": "https://data.riksdagen.se/dokument/HD03253.html",
-    "taggar": [
-      "riksdagen"
-    ]
-  },
-  {
     "id": "HD03252",
     "typ": "lagforslag",
     "titel": "En begränsning av rätten till socialförsäkringsförmåner för den som avtjänar fängelsestraff i kontrollerat boende eller som avtjänar säkerhetsförvaring",
@@ -585,6 +573,18 @@
     "datum": "2026-04-23",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HD03104.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HD03253",
+    "typ": "lagforslag",
+    "titel": "EU:s bankpaket",
+    "ingress": "I EU:s kapitaltäckningsdirektiv ställs krav på den verksamhet som bedrivs av banker och kreditmarknadsföretag (kreditinstitut), mycket stora värde- pappersbolag och vissa holdingföretag. I proposition",
+    "datum": "2026-04-23",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03253.html",
     "taggar": [
       "riksdagen"
     ]
@@ -3936,6 +3936,18 @@
     "datum": "2025-06-05",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03185.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC0388",
+    "typ": "lagforslag",
+    "titel": "Ett nytt rättsmedel i dataskyddslagen och brottsdatalagen",
+    "ingress": "Regeringen vill göra det lättare att få svar när Integritetsskyddsmyndigheten (IMY) är för långsam med att hantera klagomål om personuppgifter. Om det har gått tre månader ska man kunna kräva ett besked om vad som händer med ens klagomål.",
+    "datum": "2025-01-22",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC0388.html",
     "taggar": [
       "riksdagen"
     ]
