@@ -1850,18 +1850,6 @@
     ]
   },
   {
-    "id": "HD03147",
-    "typ": "lagforslag",
-    "titel": "Effektivare gränsöverskridande inhämtning av elektroniska bevis",
-    "ingress": "Elektroniska uppgifter har allt oftare avgörande betydelse som bevis i brottsutredningar. Eftersom sådana uppgifter många gånger finns lagrade hos tjänsteleverantörer utanför Sverige behöver brottsbek",
-    "datum": "2026-03-05",
-    "kalla": "Riksdagen",
-    "kalla_url": "https://data.riksdagen.se/dokument/HD03147.html",
-    "taggar": [
-      "riksdagen"
-    ]
-  },
-  {
     "id": "HD03144",
     "typ": "lagforslag",
     "titel": "Nordisk verkställighet i brottmål",
@@ -1893,6 +1881,18 @@
     "datum": "2026-03-05",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HD03159.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HD03147",
+    "typ": "lagforslag",
+    "titel": "Effektivare gränsöverskridande inhämtning av elektroniska bevis",
+    "ingress": "Sverige vill göra det lättare för polisen att hämta digitala bevis, som mejl eller chattar, från företag i andra EU-länder. Detta ska hjälpa till att lösa brott snabbare när bevisen finns lagrade utomlands.",
+    "datum": "2026-03-05",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03147.html",
     "taggar": [
       "riksdagen"
     ]
