@@ -2258,18 +2258,6 @@
     ]
   },
   {
-    "id": "HD03112",
-    "typ": "lagforslag",
-    "titel": "Ett register för alla bostadsrätter",
-    "ingress": "Regeringen föreslår att det inrättas ett bostadsrättsregister där alla bostads- rätter ska registreras. Registret ska föras av Lantmäteriet. I det nya bostadsrättsregistret ska det bland annat finnas ",
-    "datum": "2026-02-10",
-    "kalla": "Riksdagen",
-    "kalla_url": "https://data.riksdagen.se/dokument/HD03112.html",
-    "taggar": [
-      "riksdagen"
-    ]
-  },
-  {
     "id": "HD03124",
     "typ": "lagforslag",
     "titel": "En europeisk gemensam åtkomstpunkt för finansiell och hållbarhetsrelaterad information",
@@ -2301,6 +2289,18 @@
     "datum": "2026-02-10",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HD03113.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HD03112",
+    "typ": "lagforslag",
+    "titel": "Ett register för alla bostadsrätter",
+    "ingress": "Regeringen vill skapa ett nytt register över alla bostadsrätter som ska skötas av Lantmäteriet. Detta ska göra det enklare och säkrare att ha lån på sin lägenhet och hjälpa polisen att bekämpa brott.",
+    "datum": "2026-02-10",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03112.html",
     "taggar": [
       "riksdagen"
     ]
