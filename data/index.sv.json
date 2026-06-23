@@ -2150,18 +2150,6 @@
     ]
   },
   {
-    "id": "HD03110",
-    "typ": "lagforslag",
-    "titel": "Riksrevisionens rapport om Polisreformen 2015",
-    "ingress": "I denna skrivelse redovisar regeringen sin bedömning av de iakttagelser och rekommendationer som Riksrevisionen lämnar i sin granskningsrapport Polisreformen 2015 – intentionerna ännu inte nådda (RiR ",
-    "datum": "2026-02-17",
-    "kalla": "Riksdagen",
-    "kalla_url": "https://data.riksdagen.se/dokument/HD03110.html",
-    "taggar": [
-      "riksdagen"
-    ]
-  },
-  {
     "id": "HD03141",
     "typ": "lagforslag",
     "titel": "En ny vapenlag",
@@ -2253,6 +2241,18 @@
     "datum": "2026-02-17",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HD03116.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HD03110",
+    "typ": "lagforslag",
+    "titel": "Riksrevisionens rapport om Polisreformen 2015",
+    "ingress": "Riksrevisionen har granskat polisreformen från 2015 och kommit fram till att målen med den inte har uppnåtts. Polismyndigheten har inte arbetat tillräckligt effektivt för att nå de resultat man ville se.",
+    "datum": "2026-02-17",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03110.html",
     "taggar": [
       "riksdagen"
     ]
