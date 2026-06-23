@@ -2150,18 +2150,6 @@
     ]
   },
   {
-    "id": "HD03126",
-    "typ": "lagforslag",
-    "titel": "Uppgiftsskyldighet för vissa e-legitimationsföretag",
-    "ingress": "För banker och andra finansiella företag gäller uppgiftsskyldighet. Uppgiftsskyldigheten innebär att brottsbekämpande myndigheter, i den brottsbekämpande verksamheten, har rätt att ta del av informati",
-    "datum": "2026-02-17",
-    "kalla": "Riksdagen",
-    "kalla_url": "https://data.riksdagen.se/dokument/HD03126.html",
-    "taggar": [
-      "riksdagen"
-    ]
-  },
-  {
     "id": "HD03123",
     "typ": "lagforslag",
     "titel": "Explosiva varor – förbättrade möjligheter till kontroll",
@@ -2253,6 +2241,18 @@
     "datum": "2026-02-17",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HD03128.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HD03126",
+    "typ": "lagforslag",
+    "titel": "Uppgiftsskyldighet för vissa e-legitimationsföretag",
+    "ingress": "Polisen och andra myndigheter ska få rätt att hämta information från företag som erbjuder digitala ID-handlingar. Detta görs för att lättare kunna bekämpa brott som rör banktjänster och kryptovalutor.",
+    "datum": "2026-02-17",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03126.html",
     "taggar": [
       "riksdagen"
     ]
