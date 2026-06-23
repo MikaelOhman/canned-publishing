@@ -1850,18 +1850,6 @@
     ]
   },
   {
-    "id": "HD03165",
-    "typ": "lagforslag",
-    "titel": "En lag om socialdataregister",
-    "ingress": "I propositionen föreslås en socialdataregisterlag som kompletterar Europaparlamentets och rådets förordning (EU) 2016/679. Syftet med lagen är dels att ge Socialstyrelsen möjlighet att behandla person",
-    "datum": "2026-03-05",
-    "kalla": "Riksdagen",
-    "kalla_url": "https://data.riksdagen.se/dokument/HD03165.html",
-    "taggar": [
-      "riksdagen"
-    ]
-  },
-  {
     "id": "HD03159",
     "typ": "lagforslag",
     "titel": "Nytt mål för effektiv energianvändning och genomförande av det omarbetade direktivet om byggnaders energiprestanda",
@@ -1893,6 +1881,18 @@
     "datum": "2026-03-05",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HD03144.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HD03165",
+    "typ": "lagforslag",
+    "titel": "En lag om socialdataregister",
+    "ingress": "Regeringen vill införa en ny lag för att samla in information om socialtjänsten. Syftet är att Socialstyrelsen ska kunna använda uppgifter för att göra hjälpen till människor bättre, samtidigt som man skyddar människors privatliv.",
+    "datum": "2026-03-05",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03165.html",
     "taggar": [
       "riksdagen"
     ]
