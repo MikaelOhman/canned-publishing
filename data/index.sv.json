@@ -1646,18 +1646,6 @@
     ]
   },
   {
-    "id": "HD03170",
-    "typ": "lagforslag",
-    "titel": "Ett mer träffsäkert och korrekt bostadsbidrag",
-    "ingress": "I propositionen lämnas förslag till ett mer träffsäkert och korrekt bostadsbidrag. Förslagen syftar till att minska risken för felaktiga utbetalningar, återkrav och skuldsättning inom bostadsbidraget.",
-    "datum": "2026-03-10",
-    "kalla": "Riksdagen",
-    "kalla_url": "https://data.riksdagen.se/dokument/HD03170.html",
-    "taggar": [
-      "riksdagen"
-    ]
-  },
-  {
     "id": "HD03169",
     "typ": "lagforslag",
     "titel": "Utdelning av överskott i inkomstpensionssystemet",
@@ -1809,6 +1797,18 @@
     "datum": "2026-03-10",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HD03171.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HD03170",
+    "typ": "lagforslag",
+    "titel": "Ett mer träffsäkert och korrekt bostadsbidrag",
+    "ingress": "Regeringen vill ändra hur bostadsbidraget räknas ut för att minska risken för att folk får fel pengar och får betala tillbaka senare. Förslaget innebär att man tittar på inkomster månad för månad istället för per år.",
+    "datum": "2026-03-10",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03170.html",
     "taggar": [
       "riksdagen"
     ]
