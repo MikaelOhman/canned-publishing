@@ -854,18 +854,6 @@
     ]
   },
   {
-    "id": "HD03219",
-    "typ": "lagforslag",
-    "titel": "Riksrevisionens rapport om tandvårdsstödet",
-    "ingress": "I skrivelsen redovisar regeringen sin bedömning av de iakttagelser och rekommendationer till regeringen som Riksrevisionen lämnar i rapporten Tandvårdsstödet – en konstruktion med hål (RiR 2025:34). R",
-    "datum": "2026-04-08",
-    "kalla": "Riksdagen",
-    "kalla_url": "https://data.riksdagen.se/dokument/HD03219.html",
-    "taggar": [
-      "riksdagen"
-    ]
-  },
-  {
     "id": "HD03230",
     "typ": "lagforslag",
     "titel": "Ersättning vid rådighetsinskränkningar till följd av artskyddet",
@@ -873,6 +861,18 @@
     "datum": "2026-04-08",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HD03230.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HD03219",
+    "typ": "lagforslag",
+    "titel": "Riksrevisionens rapport om tandvårdsstödet",
+    "ingress": "Regeringen har svarat på en rapport som visar att det nuvarande stödet för tandvård inte fungerar så bra som det borde. Man vill förbättra systemet så att pengarna används på rätt sätt.",
+    "datum": "2026-04-08",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03219.html",
     "taggar": [
       "riksdagen"
     ]
