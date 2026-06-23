@@ -1161,18 +1161,6 @@
     ]
   },
   {
-    "id": "HD03203",
-    "typ": "lagforslag",
-    "titel": "ابزارهای جدید برای تقویت رقابت در بخش خصوصی و دولتی.",
-    "ingress": "- Preserve ALL Markdown formatting exactly (headings #, lists, **bold**, breaks). - Translate ONLY the content. No notes or explanations. - Produce natural, fluent Persian; translate for MEANING, not word-for-word. - Keep names, numbers, da",
-    "datum": "2026-03-17",
-    "kalla": "Riksdagen",
-    "kalla_url": "https://data.riksdagen.se/dokument/HD03203.html",
-    "taggar": [
-      "riksdagen"
-    ]
-  },
-  {
     "id": "HD03202",
     "typ": "lagforslag",
     "titel": "استثناها از الزامات طبق دستورالعمل گونه‌ها و زیستگاه‌ها در بازنگری نیروگاه‌های برق‌آبی.",
@@ -1588,6 +1576,18 @@
     "datum": "2026-03-17",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HD03182.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HD03203",
+    "typ": "lagforslag",
+    "titel": "ابزارهای جدید برای تقویت رقابت در بخش خصوصی و دولتی.",
+    "ingress": "دولت قصد دارد قوانین را تغییر دهد تا رقابت بین شرکت‌ها آسان‌تر شود. هدف، ایجاد یک بازار عادلانه‌تر است که در آن هم شرکت‌های خصوصی و هم شرکت‌های دولتی بتوانند به خوبی فعالیت کنند.",
+    "datum": "2026-03-17",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03203.html",
     "taggar": [
       "riksdagen"
     ]
