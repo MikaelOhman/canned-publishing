@@ -2466,18 +2466,6 @@
     ]
   },
   {
-    "id": "HD0387",
-    "typ": "lagforslag",
-    "titel": "قواعد جديدة للهجرة المتعلقة بالعمالة.",
-    "ingress": "- Preserve ALL Markdown formatting exactly (headings #, lists, **bold**, breaks). - Translate ONLY the content. No notes or explanations. - Produce natural, fluent Arabic; translate for MEANING, not word-for-word. - Keep names, numbers, dat",
-    "datum": "2025-12-16",
-    "kalla": "Riksdagen",
-    "kalla_url": "https://data.riksdagen.se/dokument/HD0387.html",
-    "taggar": [
-      "riksdagen"
-    ]
-  },
-  {
     "id": "HD0386",
     "typ": "lagforslag",
     "titel": "قواعد جديدة لتسهيل تسجيل الأوراق المالية.",
@@ -2569,6 +2557,18 @@
     "datum": "2025-12-16",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HD0370.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HD0387",
+    "typ": "lagforslag",
+    "titel": "قواعد جديدة للهجرة المتعلقة بالعمالة.",
+    "ingress": "ترغب الحكومة في تغيير القواعد المتعلقة بالعمل في السويد. الهدف هو جعل من الصعب استغلال العمالة غير الشرعية، وفي الوقت نفسه تسهيل وصول الخبراء إلى البلاد.",
+    "datum": "2025-12-16",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD0387.html",
     "taggar": [
       "riksdagen"
     ]
