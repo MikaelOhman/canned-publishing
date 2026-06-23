@@ -746,18 +746,6 @@
     ]
   },
   {
-    "id": "HD0399",
-    "typ": "lagforslag",
-    "titel": "Vårändringsbudget för 2026",
-    "ingress": "Propositionen innehåller förslag till ändringar som avser statens utgifter för budgetåret 2026. Förslag till riksdagsbeslut Regeringens förslag: Riksdagen antar regeringens förslag till lag om ändring",
-    "datum": "2026-04-13",
-    "kalla": "Riksdagen",
-    "kalla_url": "https://data.riksdagen.se/dokument/HD0399.html",
-    "taggar": [
-      "riksdagen"
-    ]
-  },
-  {
     "id": "HD0398",
     "typ": "lagforslag",
     "titel": "Redovisning av skatteutgifter 2026",
@@ -813,6 +801,18 @@
     "datum": "2026-04-13",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HD03100.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HD0399",
+    "typ": "lagforslag",
+    "titel": "Vårändringsbudget för 2026",
+    "ingress": "Regeringen föreslår ändringar i statens budget för år 2026. Förslagen handlar om allt från nya inköp av fastigheter och ubåtar till stora satsningar på kärnkraft och rymdverksamhet.",
+    "datum": "2026-04-13",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD0399.html",
     "taggar": [
       "riksdagen"
     ]
