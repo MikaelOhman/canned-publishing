@@ -897,18 +897,6 @@
     ]
   },
   {
-    "id": "HD03228",
-    "typ": "lagforslag",
-    "titel": "یک چارچوب قانونی مدرن و متناسب برای تجهیزات جنگی.",
-    "ingress": "- Preserve ALL Markdown formatting exactly (headings #, lists, **bold**, breaks). - Translate ONLY the content. No notes or explanations. - Produce natural, fluent Persian; translate for MEANING, not word-for-word. - Keep names, numbers, da",
-    "datum": "2026-04-01",
-    "kalla": "Riksdagen",
-    "kalla_url": "https://data.riksdagen.se/dokument/HD03228.html",
-    "taggar": [
-      "riksdagen"
-    ]
-  },
-  {
     "id": "HD03216",
     "typ": "lagforslag",
     "titel": "تقویت تخصص پزشکی در خدمات بهداشتی و درمانی محلی.",
@@ -928,6 +916,18 @@
     "datum": "2026-04-01",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HD03214.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HD03228",
+    "typ": "lagforslag",
+    "titel": "یک چارچوب قانونی مدرن و متناسب برای تجهیزات جنگی.",
+    "ingress": "دولت قصد دارد قوانین مربوط به فروش سلاح و تجهیزات جنگی به کشورهای دیگر را تغییر دهد. این تغییرات به منظور تطبیق سوئد با عضویت جدید آن در ناتو انجام می‌شود.",
+    "datum": "2026-04-01",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03228.html",
     "taggar": [
       "riksdagen"
     ]
