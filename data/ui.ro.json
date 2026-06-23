@@ -1,0 +1,17 @@
+{
+  "sub": "Știri multilingve",
+  "search_label": "Căutare", "search_ph": "Scrie un cuvânt…",
+  "searchhelp": "Caută după etichete – scrie câte un cuvânt; rezultatele se filtrează pentru fiecare cuvânt.",
+  "language": "Limbă", "settings": "Afișare",
+  "theme": "Temă", "textsize": "Mărimea textului", "font": "Font",
+  "themegroups": {"standard": "Standard", "a11y": "Accesibilitate"},
+  "themes": {"dark": "Întunecat", "light": "Luminos", "sepia": "Sepia", "midnatt": "Miezul nopții (OLED)", "nord": "Nord", "dracula": "Dracula", "solarized": "Solarized", "hk-svart": "Contrast ridicat – negru", "hk-ljus": "Contrast ridicat – luminos", "gul-svart": "Galben pe negru"},
+  "texts": {"normal": "Normal", "large": "Mare", "xlarge": "Foarte mare"},
+  "fonts": {"standard": "Standard", "lasvanlig": "Lizibil"},
+  "types": {"alla": "Toate", "nyhet": "Știri", "lagforslag": "Proiecte de lege", "kommunbeslut": "Local", "omvarld": "UE și lume"},
+  "typebadge": {"nyhet": "Știre", "lagforslag": "Proiect de lege", "kommunbeslut": "Local", "omvarld": "UE/Lume"},
+  "tagtypes": {"ämne": "Subiect", "plats": "Loc", "person": "Persoană", "organisation": "Organizație", "händelse": "Eveniment"},
+  "kalla": "Sursă", "original": "Citește originalul la",
+  "tldr_label": "Pe scurt", "lattlast_label": "Pe înțelesul tuturor", "fulltext_label": "Text integral",
+  "count": "rezultate", "none": "Niciun rezultat.", "clear": "Șterge filtrele", "back": "← Înapoi", "loadmore": "Încarcă mai mult"
+}

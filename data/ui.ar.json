@@ -1,0 +1,17 @@
+{
+  "sub": "أخبار متعددة اللغات",
+  "search_label": "بحث", "search_ph": "اكتب كلمة…",
+  "searchhelp": "ابحث حسب الوسوم – اكتب كلمة واحدة في كل مرة؛ تُصفّى النتائج بكل كلمة.",
+  "language": "اللغة", "settings": "العرض",
+  "theme": "السمة", "textsize": "حجم النص", "font": "الخط",
+  "themegroups": {"standard": "قياسي", "a11y": "إمكانية الوصول"},
+  "themes": {"dark": "داكن", "light": "فاتح", "sepia": "بنّي داكن", "midnatt": "منتصف الليل (OLED)", "nord": "Nord", "dracula": "Dracula", "solarized": "Solarized", "hk-svart": "تباين عالٍ – أسود", "hk-ljus": "تباين عالٍ – فاتح", "gul-svart": "أصفر على أسود"},
+  "texts": {"normal": "عادي", "large": "كبير", "xlarge": "كبير جدًا"},
+  "fonts": {"standard": "قياسي", "lasvanlig": "سهل القراءة"},
+  "types": {"alla": "الكل", "nyhet": "أخبار", "lagforslag": "مشاريع قوانين", "kommunbeslut": "بلدي", "omvarld": "الاتحاد الأوروبي والعالم"},
+  "typebadge": {"nyhet": "خبر", "lagforslag": "مشروع قانون", "kommunbeslut": "بلدية", "omvarld": "الاتحاد/العالم"},
+  "tagtypes": {"ämne": "موضوع", "plats": "مكان", "person": "شخص", "organisation": "منظمة", "händelse": "حدث"},
+  "kalla": "المصدر", "original": "اقرأ الأصل على",
+  "tldr_label": "باختصار", "lattlast_label": "بلغة مبسّطة", "fulltext_label": "النص الكامل",
+  "count": "نتيجة", "none": "لا توجد نتائج.", "clear": "مسح عوامل التصفية", "back": "→ رجوع", "loadmore": "تحميل المزيد"
+}
