@@ -3062,18 +3062,6 @@
     ]
   },
   {
-    "id": "HD0329",
-    "typ": "lagforslag",
-    "titel": "Riksrevisionens rapport om avgiftsbelagda tjänster – risk för ineffektivitet när myndigheterna bestämmer och disponerar avgifterna",
-    "ingress": "I skrivelsen behandlar regeringen Riksrevisionens iakttagelser och rekommendationer till regeringen i rapporten Avgiftsbelagda tjänster – risk för ineffektivitet när myndigheter bestämmer och disponer",
-    "datum": "2025-11-04",
-    "kalla": "Riksdagen",
-    "kalla_url": "https://data.riksdagen.se/dokument/HD0329.html",
-    "taggar": [
-      "riksdagen"
-    ]
-  },
-  {
     "id": "HD0342",
     "typ": "lagforslag",
     "titel": "Straffansvar för olovlig finansiell verksamhet",
@@ -3129,6 +3117,18 @@
     "datum": "2025-11-04",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HD0335.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HD0329",
+    "typ": "lagforslag",
+    "titel": "Riksrevisionens rapport om avgiftsbelagda tjänster – risk för ineffektivitet när myndigheterna bestämmer och disponerar avgifterna",
+    "ingress": "Riksrevisionen har hittat problem med hur myndigheter sätter och använder avgifter för tjänster till företag. Det finns en risk att pengarna inte används på det mest effektiva sättet.",
+    "datum": "2025-11-04",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD0329.html",
     "taggar": [
       "riksdagen"
     ]
