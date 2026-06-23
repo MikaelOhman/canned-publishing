@@ -3907,6 +3907,18 @@
     ]
   },
   {
+    "id": "HC03182",
+    "typ": "lagforslag",
+    "titel": "Medidas para una conexión eficiente y segura para el paciente con el registro nacional de medicamentos.\n\n*   **Objetivo:** Asegurar una conexión fluida y segura entre los sistemas de información de los pacientes y el registro nacional de medicamentos.\n*   **Beneficios:**\n    *   Mejora la precisión de la información sobre los medicamentos de los pacientes.\n    *   Reduce el riesgo de errores de medicación.\n    *   Facilita la coordinación de la atención médica.\n*   **Acciones:**\n    *   Implementar estándares de interoperabilidad para el intercambio de datos.\n    *   Proporcionar capacitación a los profesionales de la salud sobre el uso del registro nacional de medicamentos.\n    *   Establecer mecanismos de control de calidad para garantizar la exactitud de los datos.\n*   **Responsabilidades:**\n    *   Ministerio de Salud: Establecer y mantener el registro nacional de medicamentos.\n    *   Proveedores de atención médica: Conectar sus sistemas de información al registro nacional de medicamentos.\n    *   Pacientes: Verificar la exactitud de la información sobre sus medicamentos en el registro nacional de medicamentos.\n*   **Indicadores de éxito:**\n    *   Porcentaje de proveedores de atención médica conectados al registro nacional de medicamentos.\n    *   Número de errores de medicación relacionados con la información del registro nacional de medicamentos.\n    *   Nivel de satisfacción de los pacientes con el registro nacional de medicamentos.\n*   **Información adicional:**\n    *   Para obtener más información, visite el sitio web: www.ejemplo.se.\n    *   Puede contactarnos al teléfono: 123-456-7890.\n    *   También puede enviarnos un correo electrónico a: info@ejemplo.se.\n*   **Fecha de publicación:** 2023-10-27.",
+    "ingress": "Algunos datos que los centros de atención médica deben proporcionar a la lista nacional de medicamentos al emitir recetas electrónicas (la razón de la prescripción y cuándo se debe realizar un seguimiento o finalizar el tratamiento) se posp",
+    "datum": "2025-06-10",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03182.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
     "id": "HC0380",
     "typ": "lagforslag",
     "titel": "Mayor protección para ciertos cargos electos y un control interno más claro en municipios y regiones.",

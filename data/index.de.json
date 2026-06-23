@@ -3900,6 +3900,18 @@
     ]
   },
   {
+    "id": "HC03182",
+    "typ": "lagforslag",
+    "titel": "Maßnahmen für einen effizienten und patientensicheren Anbindung an die nationale Arzneimitteldatenbank.\n\n*   **Ziel:** Gewährleistung einer sicheren und effizienten Übertragung von Patientendaten zur nationalen Arzneimitteldatenbank.\n*   **Voraussetzungen:**\n    *   Einhaltung der geltenden Datenschutzbestimmungen.\n    *   Verwendung standardisierter Datenformate.\n    *   Sicherstellung der Datenintegrität und -verfügbarkeit.\n*   **Umsetzung:**\n    *   Implementierung einer sicheren Datenübertragungsinfrastruktur.\n    *   Schulung des Personals im Umgang mit der nationalen Arzneimitteldatenbank.\n    *   Regelmäßige Überprüfung und Aktualisierung der Datenübertragungsprozesse.\n*   **Vorteile:**\n    *   Verbesserte Arzneimittelsicherheit für Patienten.\n    *   Effizientere Arbeitsabläufe für medizinisches Personal.\n    *   Bessere Datenqualität und -transparenz.\n*   **Weitere Informationen:**\n    *   [URL zur nationalen Arzneimitteldatenbank]\n    *   Kontaktinformationen für technische Unterstützung.\n    *   Datum der letzten Aktualisierung: 2023-10-27.",
+    "ingress": "Bestimmte Informationen, die das Gesundheitswesen an die nationale Arzneimittelliste im Zusammenhang mit elektronischen Rezepten übermitteln soll (nämlich der Grund für die Verordnung und der Zeitpunkt, zu dem die Behandlung überprüft oder",
+    "datum": "2025-06-10",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03182.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
     "id": "HC0388",
     "typ": "lagforslag",
     "titel": "Ein neues Rechtsmittel im Datenschutzgesetz und im Gesetz über Straftaten im Bereich der Datenverarbeitung.",
