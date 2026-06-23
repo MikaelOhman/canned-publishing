@@ -3698,24 +3698,6 @@
     ]
   },
   {
-    "id": "HC03195",
-    "typ": "lagforslag",
-    "titel": "Skärpta krav för offentliga biträden och höjda kompetenskrav för tolkar i migrationsärenden",
-    "ingress": "Det är viktigt för rättssäkerheten att offentliga biträdens arbete håller hög kvalitet. Det måste säkerställas att offentliga biträden har den kompetens som krävs för uppdraget, inte minst i migration",
-    "datum": "2025-06-25",
-    "kalla": "Riksdagen",
-    "kalla_url": "https://data.riksdagen.se/dokument/HC03195.html",
-    "taggar": [
-      "migration",
-      "rattssakerhet",
-      "lagstiftning",
-      "migrationsverket",
-      "polismyndigheten",
-      "sakerhetspolisen",
-      "riksdagen"
-    ]
-  },
-  {
     "id": "HC03140",
     "typ": "lagforslag",
     "titel": "2025 års redogörelse för företag med statligt ägande",
@@ -3729,6 +3711,18 @@
       "ekonomi",
       "sverige",
       "bolagsforvaltning",
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03195",
+    "typ": "lagforslag",
+    "titel": "Skärpta krav för offentliga biträden och höjda kompetenskrav för tolkar i migrationsärenden",
+    "ingress": "Regeringen vill införa strängare regler för de personer som hjälper människor i migrationsärenden. Målet är att både advokater och tolkar ska ha bättre kunskap för att rättssäkerheten ska öka.",
+    "datum": "2025-06-25",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03195.html",
+    "taggar": [
       "riksdagen"
     ]
   },
