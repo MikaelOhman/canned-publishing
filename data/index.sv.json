@@ -1646,18 +1646,6 @@
     ]
   },
   {
-    "id": "HD03167",
-    "typ": "lagforslag",
-    "titel": "Kärnämneskontroll och bedömningar av överensstämmelse med säkerhets- och strålskyddskrav i verksamhet med strålning",
-    "ingress": "I propositionen föreslås ändringar i lagen (1984:3) om kärnteknisk verksamhet och strålskyddslagen (2018:396) som innebär att den befintliga skyldigheten att utföra bedömningar av överensstämmelse med",
-    "datum": "2026-03-10",
-    "kalla": "Riksdagen",
-    "kalla_url": "https://data.riksdagen.se/dokument/HD03167.html",
-    "taggar": [
-      "riksdagen"
-    ]
-  },
-  {
     "id": "HD03166",
     "typ": "lagforslag",
     "titel": "Riksrevisionens rapport om utbildning på vetenskaplig grund",
@@ -1809,6 +1797,18 @@
     "datum": "2026-03-10",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HD03168.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HD03167",
+    "typ": "lagforslag",
+    "titel": "Kärnämneskontroll och bedömningar av överensstämmelse med säkerhets- och strålskyddskrav i verksamhet med strålning",
+    "ingress": "Regeringen vill ändra lagarna för att göra det säkrare att kontrollera strålning och kärnmaterial. Förslaget handlar om att tydligare bestämma vem som får göra säkerhetskontroller och hur man ska kontrollera små mängder kärnmaterial.",
+    "datum": "2026-03-10",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03167.html",
     "taggar": [
       "riksdagen"
     ]
@@ -3617,7 +3617,7 @@
     "id": "HC03201",
     "typ": "lagforslag",
     "titel": "Utvidgade möjligheter att meddela näringsförbud på grund av brott",
-    "ingress": "I propositionen föreslås att bestämmelserna om näringsförbud på grund av brott utvidgas till att omfatta den som har gjort sig skyldig till organiserad eller systematisk brottslighet, oavsett om perso",
+    "ingress": "Reglerna om näringsförbud utvidgas så att de kan träffa personer som ägnar sig åt organiserad eller systematisk brottslighet – även om de inte drev ett företag när brottet begicks. Tiden för näringsförbud förlängs från högst 10 till högst 1",
     "datum": "2025-08-26",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03201.html",
@@ -3629,7 +3629,7 @@
     "id": "HC03199",
     "typ": "lagforslag",
     "titel": "Sekretess i vissa ärenden om strategiska nettonollprojekt",
-    "ingress": "I propositionen föreslås att sekretess ska gälla för statliga myndigheter i ärenden om erkännande av projekt som strategiska nettonollprojekt enligt EU-förordningen om nettonollindustrin och i ärenden",
+    "ingress": "Det införs sekretess hos myndigheter i ärenden om att erkänna – eller dra tillbaka erkännandet av – så kallade strategiska nettonollprojekt enligt EU:s förordning om nettonollindustrin. Syftet är att skydda företags affärshemligheter. Regle",
     "datum": "2025-08-26",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03199.html",
@@ -3641,7 +3641,7 @@
     "id": "HC03198",
     "typ": "lagforslag",
     "titel": "Uppgiftsskyldighet för vissa stödåtgärder som faller under EU:s statsstödsregler",
-    "ingress": "I propositionen föreslås ändringar i lagen om tillämpning av Europeiska unionens statsstödsregler med anledning av att det i EU-förordningar om stöd av mindre betydelse införts ett krav på att stödet ",
+    "ingress": "EU kräver att så kallat stöd av mindre betydelse till företag registreras i ett centralt register. Sverige ändrar sin lag så att sådant stöd även i fortsättningen kan ges på ett sätt som följer EU:s statsstödsregler. Ändringen föreslås gäll",
     "datum": "2025-07-01",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03198.html",
@@ -3653,7 +3653,7 @@
     "id": "HC03197",
     "typ": "lagforslag",
     "titel": "Kompletterande bestämmelser till EU:s mediefrihetsförordning",
-    "ingress": "I propositionen föreslås en ny lag med kompletterande bestämmelser till EU:s mediefrihetsförordning. Lagen innehåller de bestämmelser som krävs för att mediefrihetsförordningen ska kunna tillämpas och",
+    "ingress": "En ny lag kompletterar EU:s mediefrihetsförordning så att den fungerar i Sverige. Bland annat ska medieaktörer lämna viss information till en tillsynsmyndighet, och det införs regler om granskning av företagskoncentrationer på mediemarknade",
     "datum": "2025-07-01",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03197.html",
@@ -3872,7 +3872,7 @@
     "id": "HC03184",
     "typ": "lagforslag",
     "titel": "Riksrevisionens rapport om tillfälliga anstånd med inbetalning av skatt",
-    "ingress": "Riksrevisionen har granskat om tillfälliga anstånd med inbetalning av skatt har varit en effektiv åtgärd. Tillfälliga anstånd med inbetalning av skatt har använts som krisåtgärd både i samband med fin",
+    "ingress": "Riksrevisionen har granskat de tillfälliga skatteanstånd som företag kunde få under finanskrisen och pandemin (att skjuta upp inbetalning av skatt mot ränta). Slutsatsen är att åtgärden var ganska effektiv för att hjälpa i grunden sunda för",
     "datum": "2025-06-11",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03184.html",
@@ -3884,7 +3884,7 @@
     "id": "HC03183",
     "typ": "lagforslag",
     "titel": "Intelligenta transportsystem – genomförande av ändringsdirektiv",
-    "ingress": "I propositionen föreslås ändringar i lagen (2013:315) om intelligenta transportsystem vid vägtransporter. Ändringarna är en del av genomförandet av EU:s direktiv (EU) 2023/2661 om intelligenta transpo",
+    "ingress": "Sverige genomför ett EU-direktiv om så kallade intelligenta transportsystem i vägtrafiken. Fler typer av trafikdata och digitala tjänster ska göras tillgängliga i maskinläsbart format via en nationell åtkomstpunkt, så att de kan användas i ",
     "datum": "2025-06-11",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03183.html",
@@ -3896,7 +3896,7 @@
     "id": "HC03186",
     "typ": "lagforslag",
     "titel": "Polisens användning av skjutvapen",
-    "ingress": "Regeringen föreslår en ny reglering av polisens användning av skjutvapen. Skjutvapen är det mest ingripande och farliga hjälpmedel som polisen kan använda sig av. Det är viktigt att reglerna om när sk",
+    "ingress": "Reglerna för när polisen får använda skjutvapen moderniseras genom en helt ny lag. Dagens regler är från 1960-talet. Den nya lagen anger tydligare i vilka situationer och under vilka villkor vapen får användas, och hur sådana ingripanden sk",
     "datum": "2025-06-10",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03186.html",
@@ -3908,7 +3908,7 @@
     "id": "HC03182",
     "typ": "lagforslag",
     "titel": "Åtgärder för en effektiv och patientsäker anslutning till den nationella läkemedelslistan",
-    "ingress": "I propositionen föreslås att skyldigheten att lämna vissa uppgifter till den nationella läkemedelslistan vid en elektronisk förskrivning senareläggs från den 1 december 2025 till den 1 september 2028.",
+    "ingress": "Vissa uppgifter som vården ska lämna till den nationella läkemedelslistan vid elektroniska recept (orsaken till ordinationen och när behandlingen ska följas upp eller avslutas) skjuts upp – från december 2025 till september 2028. Det ger vå",
     "datum": "2025-06-10",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03182.html",
@@ -3920,7 +3920,7 @@
     "id": "HC03155",
     "typ": "lagforslag",
     "titel": "Stärkt konstitutionell beredskap",
-    "ingress": "Sverige befinner sig i ett allvarligt säkerhetsläge. Hoten mot vårt samhälle är många och komplexa. Sverige behöver ha beredskap för att hantera angrepp från andra stater och antagonistiska aktörer li",
+    "ingress": "Regeringen föreslår ändringar i grundlagen (regeringsformen) så att Sverige kan styras på ett demokratiskt och lagligt sätt även i krig och andra svåra kriser. Bland annat ska riksdagen lättare kunna sammanträda och fatta nödvändiga beslut ",
     "datum": "2025-06-10",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03155.html",
@@ -3932,10 +3932,22 @@
     "id": "HC03185",
     "typ": "lagforslag",
     "titel": "Extra ändringsbudget för 2025 – Kapitaltillskott till Apotek Produktion & Laboratorier AB",
-    "ingress": "I denna proposition lämnar regeringen förslag till ändringar i statens budget för 2025. Det statligt helägda bolaget Apotek Produktion &amp; Laboratorier AB är i behov av ett kapitaltillskott för att ",
+    "ingress": "Regeringen vill skjuta till upp till 700 miljoner kronor till det statligt ägda bolaget Apotek Produktion & Laboratorier (APL). Pengarna ska låta bolaget köpa en verksamhet som tillverkar vissa kritiska läkemedel – sådant som är viktigt för",
     "datum": "2025-06-05",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03185.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC0378",
+    "typ": "lagforslag",
+    "titel": "Riksrevisionens rapport om bostadsbidragets måluppfyllelse",
+    "ingress": "Riksrevisionen har granskat om bostadsbidraget hjälper till att minska trångboddhet och fattigdom. Regeringen har läst rapporten men väljer att inte göra några nya förändringar just nu.",
+    "datum": "2025-01-07",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC0378.html",
     "taggar": [
       "riksdagen"
     ]
