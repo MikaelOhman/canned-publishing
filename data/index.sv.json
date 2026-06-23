@@ -2498,18 +2498,6 @@
     ]
   },
   {
-    "id": "HD0383",
-    "typ": "lagforslag",
-    "titel": "Riksrevisionens rapport om statens arbete med Agenda 2030",
-    "ingress": "I skrivelsen redovisar regeringen sin bedömning av de iakttagelser och rekommendationer som Riksrevisionen har gjort i rapporten Statens arbete med Agenda 2030 (RiR 2025:22). Riksrevisionens övergripa",
-    "datum": "2025-12-16",
-    "kalla": "Riksdagen",
-    "kalla_url": "https://data.riksdagen.se/dokument/HD0383.html",
-    "taggar": [
-      "riksdagen"
-    ]
-  },
-  {
     "id": "HD0382",
     "typ": "lagforslag",
     "titel": "Redovisning av användningen av hemliga tvångsmedel under 2024",
@@ -2601,6 +2589,18 @@
     "datum": "2025-12-16",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HD0384.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HD0383",
+    "typ": "lagforslag",
+    "titel": "Riksrevisionens rapport om statens arbete med Agenda 2030",
+    "ingress": "Riksrevisionen har granskat hur staten arbetar med Agenda 2030, som är FN:s globala mål för hållbar utveckling. De menar att statens arbete inte har varit tillräckligt bra för att nå målen.",
+    "datum": "2025-12-16",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD0383.html",
     "taggar": [
       "riksdagen"
     ]
