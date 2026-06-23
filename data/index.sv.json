@@ -1850,18 +1850,6 @@
     ]
   },
   {
-    "id": "HD03144",
-    "typ": "lagforslag",
-    "titel": "Nordisk verkställighet i brottmål",
-    "ingress": "I propositionen lämnas förslag till en ny lag om nordisk verkställighet i brottmål som ska ersätta lagen (1963:193) om samarbete med Danmark, Finland, Island och Norge angående verkställighet av straf",
-    "datum": "2026-03-05",
-    "kalla": "Riksdagen",
-    "kalla_url": "https://data.riksdagen.se/dokument/HD03144.html",
-    "taggar": [
-      "riksdagen"
-    ]
-  },
-  {
     "id": "HD03165",
     "typ": "lagforslag",
     "titel": "En lag om socialdataregister",
@@ -1893,6 +1881,18 @@
     "datum": "2026-03-05",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HD03147.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HD03144",
+    "typ": "lagforslag",
+    "titel": "Nordisk verkställighet i brottmål",
+    "ingress": "Regeringen föreslår en ny lag som ska göra det enklare att flytta straff mellan de nordiska länderna. Det betyder att personer som dömts för brott lättare kan avtjäna sina straff i Danmark, Finland, Island eller Norge.",
+    "datum": "2026-03-05",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03144.html",
     "taggar": [
       "riksdagen"
     ]
