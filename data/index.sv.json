@@ -2786,18 +2786,6 @@
     ]
   },
   {
-    "id": "HD0368",
-    "typ": "lagforslag",
-    "titel": "Avvikande från bestämmelserna om tyst godkännande i EU:s förordning om gigabitinfrastruktur",
-    "ingress": "I Europaparlamentets och rådets förordning (EU) 2024/1309 (EU:s förordning om gigabitinfrastruktur) regleras bl.a. inom vilken tid som en behörig myndighet, t.ex. en mark- och miljödomstol, ska bevilj",
-    "datum": "2025-11-25",
-    "kalla": "Riksdagen",
-    "kalla_url": "https://data.riksdagen.se/dokument/HD0368.html",
-    "taggar": [
-      "riksdagen"
-    ]
-  },
-  {
     "id": "HD0367",
     "typ": "lagforslag",
     "titel": "Riksrevisionens rapport om likvärdighet i förskolan – statens stöd, uppföljning och tillsyn",
@@ -2865,6 +2853,18 @@
     "datum": "2025-11-25",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HD0351.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HD0368",
+    "typ": "lagforslag",
+    "titel": "Avvikande från bestämmelserna om tyst godkännande i EU:s förordning om gigabitinfrastruktur",
+    "ingress": "Sverige vill ändra reglerna för när ett tillstånd automatiskt blir godkänt om myndigheter inte svarar i tid. Detta gäller för utbyggnad av snabbt internet, så kallad gigabit-infrastruktur.",
+    "datum": "2025-11-25",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD0368.html",
     "taggar": [
       "riksdagen"
     ]
