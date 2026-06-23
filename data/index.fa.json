@@ -1953,18 +1953,6 @@
     ]
   },
   {
-    "id": "HD03142",
-    "typ": "lagforslag",
-    "titel": "یک حفاظت قوی‌تر برای غیرنظامیان در شرایط اضطراری.",
-    "ingress": "- Preserve ALL Markdown formatting exactly (headings #, lists, **bold**, breaks). - Translate ONLY the content. No notes or explanations. - Produce natural, fluent Persian; translate for MEANING, not word-for-word. - Keep names, numbers, da",
-    "datum": "2026-02-24",
-    "kalla": "Riksdagen",
-    "kalla_url": "https://data.riksdagen.se/dokument/HD03142.html",
-    "taggar": [
-      "riksdagen"
-    ]
-  },
-  {
     "id": "HD03135",
     "typ": "lagforslag",
     "titel": "بهبود اجرای دستورالعمل UTP در مورد ممنوعیت لغوهای دیر هنگام.",
@@ -2032,6 +2020,18 @@
     "datum": "2026-02-24",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HD03125.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HD03142",
+    "typ": "lagforslag",
+    "titel": "تقویت حفاظت از غیرنظامیان در شرایط اضطراری.\n\n*   یک سیستم قوی‌تر برای حفاظت از غیرنظامیان در زمان افزایش سطح آمادگی.",
+    "ingress": "دولت قصد دارد قوانین را تغییر دهد تا ایمنی افراد را در زمان جنگ یا بحران افزایش دهد. این شامل بهبود پناهگاه‌ها و تدوین برنامه‌های بهتر برای محل اقامت مردم در صورت افزایش سطح آمادگی است.",
+    "datum": "2026-02-24",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03142.html",
     "taggar": [
       "riksdagen"
     ]
