@@ -890,18 +890,6 @@
     ]
   },
   {
-    "id": "HD03214",
-    "typ": "lagforslag",
-    "titel": "Lagändringar för ett stärkt nationellt cybersäkerhetscenter",
-    "ingress": "Det nationella cybersäkerhetscentret (NCSC), som är placerat inom Försvarets radioanstalt (FRA), har i uppdrag att utveckla och stärka Sveriges förmåga att förebygga, upptäcka och hantera antagonistis",
-    "datum": "2026-04-01",
-    "kalla": "Riksdagen",
-    "kalla_url": "https://data.riksdagen.se/dokument/HD03214.html",
-    "taggar": [
-      "riksdagen"
-    ]
-  },
-  {
     "id": "HD03235",
     "typ": "lagforslag",
     "titel": "Skärpta regler om utvisning på grund av brott",
@@ -933,6 +921,18 @@
     "datum": "2026-04-01",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HD03216.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HD03214",
+    "typ": "lagforslag",
+    "titel": "Lagändringar för ett stärkt nationellt cybersäkerhetscenter",
+    "ingress": "Sverige vill ändra lagarna för att bättre kunna skydda landet mot it-attacker. Genom att ändra reglerna ska myndigheter lättare kunna dela viktig information med varandra.",
+    "datum": "2026-04-01",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03214.html",
     "taggar": [
       "riksdagen"
     ]
