@@ -1646,18 +1646,6 @@
     ]
   },
   {
-    "id": "HD03152",
-    "typ": "lagforslag",
-    "titel": "Riksrevisionens rapport om Statens fastighetsverks fastighetsförvaltning",
-    "ingress": "I skrivelsen behandlar regeringen Riksrevisionens iakttagelser och rekommendationer till regeringen i rapporten Förvaltning av fastigheter – Statens fastighetsverk och regeringens styrning (RiR 2025:3",
-    "datum": "2026-03-10",
-    "kalla": "Riksdagen",
-    "kalla_url": "https://data.riksdagen.se/dokument/HD03152.html",
-    "taggar": [
-      "riksdagen"
-    ]
-  },
-  {
     "id": "HD03137",
     "typ": "lagforslag",
     "titel": "Riksrevisionens rapport om förvar i migrationsprocessen",
@@ -1809,6 +1797,18 @@
     "datum": "2026-03-10",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HD03157.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HD03152",
+    "typ": "lagforslag",
+    "titel": "Riksrevisionens rapport om Statens fastighetsverks fastighetsförvaltning",
+    "ingress": "Riksrevisionen har granskat hur Statens fastighetsverk sköter sina byggnader och funnit att det finns brister i planeringen. Regeringen ska nu se över hur pengar och regler används för att förbättra förvaltningen.",
+    "datum": "2026-03-10",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03152.html",
     "taggar": [
       "riksdagen"
     ]
