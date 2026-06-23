@@ -3374,18 +3374,6 @@
     ]
   },
   {
-    "id": "HD031",
-    "typ": "lagforslag",
-    "titel": "Budgetpropositionen för 2026",
-    "ingress": "Budgetpropositionen innehåller regeringens förslag till statens budget för 2026 samt de övriga förslag och bedömningar som följer av riksdagsordningen och budgetlagen (2011:203). Förslag till riksdags",
-    "datum": "2025-09-22",
-    "kalla": "Riksdagen",
-    "kalla_url": "https://data.riksdagen.se/dokument/HD031.html",
-    "taggar": [
-      "riksdagen"
-    ]
-  },
-  {
     "id": "HD031d3",
     "typ": "lagforslag",
     "titel": "Budgetpropositionen för 2026 - Utgiftsområde 1 Rikets styrelse",
@@ -3417,6 +3405,18 @@
     "datum": "2025-09-22",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HD032.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HD031",
+    "typ": "lagforslag",
+    "titel": "Budgetpropositionen för 2026",
+    "ingress": "Regeringen har lagt fram förslaget till Sveriges budget för år 2026. Det handlar om hur mycket pengar staten får använda och hur mycket de får låna under de kommande åren.",
+    "datum": "2025-09-22",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD031.html",
     "taggar": [
       "riksdagen"
     ]
