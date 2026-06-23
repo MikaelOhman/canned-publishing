@@ -2702,18 +2702,6 @@
     ]
   },
   {
-    "id": "HD0365",
-    "typ": "lagforslag",
-    "titel": "Riksrevisionens rapport om statens användning och anskaffning av kontorslokaler",
-    "ingress": "I skrivelsen behandlar regeringen Riksrevisionens iakttagelser och rekommendationer till regeringen i rapporten Kostsam kvadratjakt – statens användning och anskaffning av lokaler (RiR 2025:17). Riksr",
-    "datum": "2025-12-02",
-    "kalla": "Riksdagen",
-    "kalla_url": "https://data.riksdagen.se/dokument/HD0365.html",
-    "taggar": [
-      "riksdagen"
-    ]
-  },
-  {
     "id": "HD0364",
     "typ": "lagforslag",
     "titel": "Genomförande av direktivet om skydd för personer som deltar i den offentliga debatten samt införande av en ny tredskodomssanktion",
@@ -2757,6 +2745,18 @@
     "datum": "2025-12-02",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HD0371.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HD0365",
+    "typ": "lagforslag",
+    "titel": "Riksrevisionens rapport om statens användning och anskaffning av kontorslokaler",
+    "ingress": "Riksrevisionen och regeringen vill att staten ska använda sina kontorslokaler på ett smartare sätt för att spara pengar. Man vill minska antalet kontorsytor och flytta bort från de dyra områdena i centrala Stockholm.",
+    "datum": "2025-12-02",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD0365.html",
     "taggar": [
       "riksdagen"
     ]
