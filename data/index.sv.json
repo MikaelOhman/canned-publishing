@@ -746,18 +746,6 @@
     ]
   },
   {
-    "id": "HD0398",
-    "typ": "lagforslag",
-    "titel": "Redovisning av skatteutgifter 2026",
-    "ingress": "I denna skrivelse redogör regeringen för skatteutgifterna, dvs. de effekter på skatteintäkterna som uppstår till följd av särregler i skattelagstiftningen. Redovisningen syftar bl.a. till att ge ett b",
-    "datum": "2026-04-13",
-    "kalla": "Riksdagen",
-    "kalla_url": "https://data.riksdagen.se/dokument/HD0398.html",
-    "taggar": [
-      "riksdagen"
-    ]
-  },
-  {
     "id": "HD03241",
     "typ": "lagforslag",
     "titel": "Riksrevisionens rapport om tillämpningen av det finanspolitiska ramverket 2025",
@@ -813,6 +801,18 @@
     "datum": "2026-04-13",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HD0399.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HD0398",
+    "typ": "lagforslag",
+    "titel": "Redovisning av skatteutgifter 2026",
+    "ingress": "Regeringen visar hur mycket pengar som går förlorade i skatteintäkter på grund av speciella regler i skattelagarna. Detta görs för att man lättare ska kunna välja var statens pengar ska användas bäst.",
+    "datum": "2026-04-13",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD0398.html",
     "taggar": [
       "riksdagen"
     ]
