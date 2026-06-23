@@ -433,18 +433,6 @@
     ]
   },
   {
-    "id": "HD03260",
-    "typ": "lagforslag",
-    "titel": "A kutatások etikai felülvizsgálatának szabályozásának egy átgondoltabb megközelítése, különösen azokra a kutatásokra vonatkozóan, amelyek embereket érintenek.",
-    "ingress": "A kormány szeretné módosítani azokat a szabályokat, amelyek szerint a humán vizsgálatok ellenőrzése történik, hogy a folyamat gördülékenyebb legyen. Bizonyos, érzékeny személyes adatok kezelését igénylő kutatások esetében a formális jóváhag",
-    "datum": "2026-04-30",
-    "kalla": "Riksdagen",
-    "kalla_url": "https://data.riksdagen.se/dokument/HD03260.html",
-    "taggar": [
-      "riksdagen"
-    ]
-  },
-  {
     "id": "HD03258",
     "typ": "lagforslag",
     "titel": "A politikai folyamatok átláthatóságának növelése.",
@@ -476,6 +464,18 @@
     "datum": "2026-04-30",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HD03251.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HD03260",
+    "typ": "lagforslag",
+    "titel": "A kutatások etikai felülvizsgálatának szabályozásának átalakítása, különös tekintettel az emberi alanyokat érintő kutatásokra.\n\n*   A jelenlegi szabályozás gyakran túl bürokratikus és időigényes.\n*   A szabályozás nem mindig egyértelmű, ami nehézségeket okoz a kutatók számára.\n*   A szabályozás nem veszi figyelembe a különböző kutatási területek sajátosságait.\n*   A szabályozás nem biztosítja, hogy a felülvizsgálatok objektívek és függetlenek legyenek.\n\nA cél az, hogy a szabályozás hatékonyabb, átláthatóbb és igazságosabb legyen, és hogy a kutatók számára könnyebben alkalmazható legyen.",
+    "ingress": "A kormány szeretné módosítani azokat a szabályokat, amelyek szerint a humán vizsgálatok zajlanak, hogy a folyamat gördülékenyebbé váljon. Bizonyos, érzékeny személyes adatok kezelését igénylő kutatások esetében a formális jóváhagyás már nem",
+    "datum": "2026-04-30",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03260.html",
     "taggar": [
       "riksdagen"
     ]
