@@ -47,6 +47,7 @@ function buildSettings(){
 }
 function applyUI(){
   const u = ui();
+  document.title = 'Canned Publishing – ' + u.sub;
   $('#ui-sub').textContent = u.sub;
   $('#lbl-search').textContent = u.search_label; $('#sok').placeholder = u.search_ph;
   $('#searchhelp').textContent = u.searchhelp || '';
