@@ -1,0 +1,17 @@
+{
+  "sub": "اخبار چندزبانه",
+  "search_label": "جستجو", "search_ph": "یک واژه بنویسید…",
+  "searchhelp": "بر اساس برچسب‌ها جستجو کنید – هر بار یک واژه بنویسید؛ نتایج با هر واژه فیلتر می‌شوند.",
+  "language": "زبان", "settings": "نمایش",
+  "theme": "پوسته", "textsize": "اندازهٔ متن", "font": "قلم",
+  "themegroups": {"standard": "استاندارد", "a11y": "دسترس‌پذیری"},
+  "themes": {"dark": "تیره", "light": "روشن", "sepia": "سپیا", "midnatt": "نیمه‌شب (OLED)", "nord": "Nord", "dracula": "Dracula", "solarized": "Solarized", "hk-svart": "کنتراست بالا – سیاه", "hk-ljus": "کنتراست بالا – روشن", "gul-svart": "زرد روی سیاه"},
+  "texts": {"normal": "عادی", "large": "بزرگ", "xlarge": "خیلی بزرگ"},
+  "fonts": {"standard": "استاندارد", "lasvanlig": "خوانا"},
+  "types": {"alla": "همه", "nyhet": "اخبار", "lagforslag": "لوایح قانونی", "kommunbeslut": "شهرداری", "omvarld": "اتحادیه اروپا و جهان"},
+  "typebadge": {"nyhet": "خبر", "lagforslag": "لایحه", "kommunbeslut": "شهرداری", "omvarld": "اتحادیه/جهان"},
+  "tagtypes": {"ämne": "موضوع", "plats": "مکان", "person": "شخص", "organisation": "سازمان", "händelse": "رویداد"},
+  "kalla": "منبع", "original": "اصل مطلب را اینجا بخوانید:",
+  "tldr_label": "خلاصه", "lattlast_label": "به زبان ساده", "fulltext_label": "متن کامل",
+  "count": "نتیجه", "none": "نتیجه‌ای یافت نشد.", "clear": "پاک کردن فیلترها", "back": "→ بازگشت", "loadmore": "بارگذاری بیشتر"
+}
