@@ -53,6 +53,8 @@ function applyUI(){
   $('#lbl-settings').title = u.settings; $('#lbl-settings').setAttribute('aria-label', u.settings);
   $('#lbl-tema').textContent = u.theme; $('#lbl-text').textContent = u.textsize; $('#lbl-font').textContent = u.font;
   $('.langpick').title = u.language; $('#lang').setAttribute('aria-label', u.language);
+  $('#omlank').textContent = (state.about && state.about.label) || 'Om';
+  $('#foot-ai').textContent = (state.about && state.about.disclosure) || '';
 }
 
 async function boot(){
@@ -62,6 +64,7 @@ async function boot(){
   $('#font').addEventListener('change', e=>{ document.documentElement.setAttribute('data-font', e.target.value); LS.set('font', e.target.value); });
   $('#sok').addEventListener('input', e=>{ state.query = e.target.value.trim().toLowerCase(); state.visa = PAGE; renderList(); });
   window.addEventListener('hashchange', route);
+  $('#omlank').addEventListener('click', ()=>{ location.hash = 'om'; });
 
   try { state.sprak = await getJSON('data/sprak.json'); } catch(e){ state.sprak = [{kod:'sv',namn:'Svenska',rtl:false}]; }
   const sel = $('#lang');
@@ -81,6 +84,8 @@ async function loadLanguage(lang){
   document.documentElement.dir = meta.rtl ? 'rtl' : 'ltr';
   try { state.ui = await getJSON(`data/ui.${lang}.json`); }
   catch(e){ try { state.ui = await getJSON('data/ui.en.json'); } catch(_){ state.ui = UIDEF; } }
+  try { state.about = await getJSON(`data/about.${lang}.json`); }
+  catch(e){ try { state.about = await getJSON('data/about.en.json'); } catch(_){ state.about = {}; } }
   try { state.index = await getJSON(`data/index.${lang}.json`); state.tags = await getJSON(`data/tags.${lang}.json`); }
   catch(e){ state.index = []; state.tags = {}; }
   applyUI(); buildSettings();
@@ -147,7 +152,22 @@ function renderList(){
   if(lm) lm.addEventListener('click',()=>{ state.visa += PAGE; renderList(); });
 }
 
-function route(){ const m = location.hash.match(/^#a\/(.+)$/); if(m) openArticle(decodeURIComponent(m[1])); else closeArticle(); }
+const LISTVY = ['#typefilter','#searchhelp','.meta-row','#list'];
+function stangOverlay(){ ['#article','#about'].forEach(s=>$(s).classList.add('hidden')); LISTVY.forEach(s=>$(s).classList.remove('hidden')); }
+function route(){
+  const m = location.hash.match(/^#a\/(.+)$/);
+  if(m) openArticle(decodeURIComponent(m[1]));
+  else if(location.hash==='#om') openAbout();
+  else stangOverlay();
+}
+function openAbout(){
+  const a = state.about||{}; const el = $('#about');
+  el.innerHTML = `<button class="back">${esc(ui().back)}</button>
+    <h1>${esc(a.title||'')}</h1>${a.body||''}`;
+  el.querySelector('.back').addEventListener('click',()=>{ location.hash=''; });
+  LISTVY.forEach(s=>$(s).classList.add('hidden')); $('#article').classList.add('hidden');
+  el.classList.remove('hidden'); el.focus(); window.scrollTo(0,0);
+}
 async function openArticle(id){
   let a; try { a = await getJSON(`data/artikel/${id}.${state.lang}.json`); } catch(e){ location.hash=''; return; }
   const u = ui();
@@ -167,11 +187,7 @@ async function openArticle(id){
     ${tldr}${latt}${full}
     ${a.kalla_url?`<div class="source-foot">${esc(u.original)} <a href="${esc(a.kalla_url)}" target="_blank" rel="noopener">${esc(a.kalla||a.kalla_url)}</a>.</div>`:''}`;
   el.querySelector('.back').addEventListener('click',()=>{ location.hash=''; });
-  ['#typefilter','#searchhelp','.meta-row','#list'].forEach(s=>$(s).classList.add('hidden'));
+  LISTVY.forEach(s=>$(s).classList.add('hidden')); $('#about').classList.add('hidden');
   el.classList.remove('hidden'); el.focus(); window.scrollTo(0,0);
-}
-function closeArticle(){
-  $('#article').classList.add('hidden');
-  ['#typefilter','#searchhelp','.meta-row','#list'].forEach(s=>$(s).classList.remove('hidden'));
 }
 boot();
