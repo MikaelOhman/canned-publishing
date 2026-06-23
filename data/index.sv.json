@@ -1010,18 +1010,6 @@
     ]
   },
   {
-    "id": "HD03225",
-    "typ": "lagforslag",
-    "titel": "Riksrevisionens rapport om statens insatser för trygga bostadsaffärer",
-    "ingress": "Riksrevisionen har i rapporten En tryggare bostadsmarknad – statens tillsyn på fastighetsmäklarområdet (RiR 2025:35) redovisat sin granskning av om statens insatser för att ge köpare och säljare ett t",
-    "datum": "2026-03-24",
-    "kalla": "Riksdagen",
-    "kalla_url": "https://data.riksdagen.se/dokument/HD03225.html",
-    "taggar": [
-      "riksdagen"
-    ]
-  },
-  {
     "id": "HD03224",
     "typ": "lagforslag",
     "titel": "Ändamålsenliga utmätningsregler och utvidgad distansutmätning",
@@ -1041,6 +1029,18 @@
     "datum": "2026-03-24",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HD03226.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HD03225",
+    "typ": "lagforslag",
+    "titel": "Riksrevisionens rapport om statens insatser för trygga bostadsaffärer",
+    "ingress": "Riksrevisionen har granskat hur staten skyddar människor vid köp och försäljning av bostäder. De menar att det finns brister i kontrollen av fastighetsmäklare som kan påverka säkerheten för dig som privatperson.",
+    "datum": "2026-03-24",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03225.html",
     "taggar": [
       "riksdagen"
     ]
