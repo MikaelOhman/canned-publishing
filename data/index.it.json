@@ -2693,6 +2693,30 @@
     ]
   },
   {
+    "id": "HD0359",
+    "typ": "lagforslag",
+    "titel": "Requisiti di accessibilità per alcuni media.\n\n# Accessibilità dei contenuti digitali\n\n*   **Definizione:** L'accessibilità digitale si riferisce alla capacità di persone con disabilità di utilizzare e comprendere i contenuti digitali.\n\n*   **Importanza:** Garantire l'accessibilità dei contenuti digitali è fondamentale per promuovere l'inclusione e l'uguaglianza.\n\n*   **Esempi:**\n    *   Testo alternativo per le immagini.\n    *   Sottotitoli per i video.\n    *   Struttura semantica chiara per i documenti.\n\n# Linee guida per l'accessibilità\n\n*   **WCAG:** Le Web Content Accessibility Guidelines (WCAG) sono un insieme di linee guida riconosciute a livello internazionale per rendere i contenuti web accessibili.\n\n*   **Principi:** Le WCAG si basano su quattro principi fondamentali:\n    *   Percepibilità: le informazioni e i componenti dell'interfaccia utente devono essere presentati agli utenti in modo che possano percepirli.\n    *   Utilizzabilità: i componenti dell'interfaccia utente e la navigazione devono essere utilizzabili.\n    *   Comprensibilità: le informazioni e il funzionamento dell'interfaccia utente devono essere comprensibili.\n    *   Robustezza: i contenuti devono essere robusti in modo che possano essere interpretati in modo affidabile da un'ampia gamma di agenti utente, inclusi i browser e i dispositivi assistivi.\n\n# Strumenti per la verifica dell'accessibilità\n\n*   Esistono numerosi strumenti disponibili per verificare l'accessibilità dei contenuti digitali.\n\n*   **Esempi:**\n    *   Validadori HTML.\n    *   Strumenti di analisi automatica.\n    *   Test manuali.\n\n# Risorse utili\n\n*   [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/)\n*   [Documenti sull'accessibilità](https://www.example.com/accessibility-documents)",
+    "ingress": "Vengono proposte nuove normative per rendere più facilmente accessibili informazioni e servizi a persone con disabilità. La proposta prevede l'introduzione di requisiti di accessibilità per, tra le altre cose, ebook e negozi online a partir",
+    "datum": "2025-12-02",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD0359.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HD0369",
+    "typ": "lagforslag",
+    "titel": "Normativa migliorate sulla tassazione delle foreste.",
+    "ingress": "Il governo intende modificare le normative relative alla tassazione delle foreste per semplificare la protezione dell'ambiente. La proposta prevede che sia più facile accantonare fondi per la conservazione della natura e che le normative si",
+    "datum": "2025-11-27",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD0369.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
     "id": "HC03195",
     "typ": "lagforslag",
     "titel": "Requisiti più severi per gli assistenti legali pubblici e maggiori requisiti di competenza per gli interpreti nelle pratiche di immigrazione.",

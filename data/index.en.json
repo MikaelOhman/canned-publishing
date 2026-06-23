@@ -2756,6 +2756,30 @@
     ]
   },
   {
+    "id": "HD0359",
+    "typ": "lagforslag",
+    "titel": "Accessibility Requirements for Certain Media\n\n# Tillgänglighetskrav för vissa medier\n# Accessibility Requirements for Certain Media\n\n*   **Bakgrund**\n    **Background**\n\n    Denna text beskriver tillgänglighetskraven för vissa typer av media.\n    This text describes the accessibility requirements for certain types of media.\n\n*   **Syfte**\n    **Purpose**\n\n    Syftet är att ge en översikt över de viktigaste kraven.\n    The purpose is to provide an overview of the most important requirements.\n\n*   **Målgrupp**\n    **Target Audience**\n\n    Texten är riktad till utvecklare och innehållsansvariga.\n    The text is aimed at developers and content managers.\n\n*   **Krav**\n    **Requirements**\n\n    *   Alternativ text för bilder.\n        Alternative text for images.\n    *   Undertexter för video.\n        Subtitles for video.\n    *   Transkriptioner för ljud.\n        Transcripts for audio.\n    *   Tydlig struktur och navigering.\n        Clear structure and navigation.\n\n*   **Exempel**\n    **Examples**\n\n    En webbplats ska vara tillgänglig för personer med synnedsättning.\n    A website should be accessible to people with visual impairments.\n\n*   **Referenser**\n    **References**\n\n    [https://example.com](https://example.com)",
+    "ingress": "New regulations are being proposed to make more information and services easier to use for people with disabilities. The proposal includes the possibility of introducing accessibility requirements for, among other things, e-books and online",
+    "datum": "2025-12-02",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD0359.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HD0369",
+    "typ": "lagforslag",
+    "titel": "Improved regulations regarding the taxation of forests.",
+    "ingress": "The government wants to change the rules regarding taxes on forestry to make it easier to protect nature. The proposal aims to simplify the process of saving money for conservation efforts and to ensure that the regulations comply with EU l",
+    "datum": "2025-11-27",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD0369.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
     "id": "HC03195",
     "typ": "lagforslag",
     "titel": "Stricter requirements for public defenders and increased competence requirements for interpreters in immigration cases.",
