@@ -2150,18 +2150,6 @@
     ]
   },
   {
-    "id": "HD03116",
-    "typ": "lagforslag",
-    "titel": "En ny funktion för operativ krishantering i den finansiella sektorn",
-    "ingress": "En allvarlig driftsstörning i det finansiella systemet, då samhällsviktiga finansiella tjänster slås ut, kan snabbt leda till att en allvarlig kris inträffar i samhället. En sådan störning innebär int",
-    "datum": "2026-02-17",
-    "kalla": "Riksdagen",
-    "kalla_url": "https://data.riksdagen.se/dokument/HD03116.html",
-    "taggar": [
-      "riksdagen"
-    ]
-  },
-  {
     "id": "HD03110",
     "typ": "lagforslag",
     "titel": "Riksrevisionens rapport om Polisreformen 2015",
@@ -2253,6 +2241,18 @@
     "datum": "2026-02-17",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HD03120.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HD03116",
+    "typ": "lagforslag",
+    "titel": "En ny funktion för operativ krishantering i den finansiella sektorn",
+    "ingress": "Sverige vill skapa en ny grupp som ska hjälpa till att hantera stora tekniska fel i bank- och betalsystemen. Målet är att förhindra att tekniska problem snabbt blir till stora kriser i hela samhället.",
+    "datum": "2026-02-17",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03116.html",
     "taggar": [
       "riksdagen"
     ]
