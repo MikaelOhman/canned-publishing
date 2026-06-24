@@ -93,6 +93,19 @@
     ]
   },
   {
+    "id": "ecb-2026-06-22-christine-lagarde-hearing-of-t",
+    "typ": "omvarld",
+    "titel": "Christine Lagarde: Publiczne przesłuchanie przed Komisją ds. spraw gospodarczych i monetarnych w Parlamencie Europejskim.",
+    "ingress": "Europejski Bank Centralny (EBC) podnosi stopy procentowe, aby powstrzymać wzrost cen. Jest to robione w celu ochrony gospodarki po wojnie na Bliskim Wschodzie, która spowodowała wzrost cen energii.",
+    "datum": "2026-06-22",
+    "kalla": "ECB",
+    "kalla_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260622~b060a27b78.en.html",
+    "taggar": [
+      "ekonomi",
+      "ecb"
+    ]
+  },
+  {
     "id": "HD03290",
     "typ": "lagforslag",
     "titel": "Służba wywiadu zagranicznego Szwecji.",
@@ -4852,6 +4865,18 @@
     "datum": "2025-03-11",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03119.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03118",
+    "typ": "lagforslag",
+    "titel": "Zapewnienie równych warunków dla zrównoważonego transportu lotniczego.\n\n(Poniżej lista punktów, które powinny być rozwinięte w dalszej części dokumentu, ale nie są podane w tekście źródłowym, więc nie zostaną przetłumaczone.)",
+    "ingress": "Rząd zamierza wprowadzić nową ustawę, która będzie regulować wykorzystanie ekologicznych paliw w lotnictwie. Ustawa ma zapewnić przestrzeganie przepisów Unii Europejskiej oraz wprowadzić kary finansowe za ich naruszenie.",
+    "datum": "2025-03-11",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03118.html",
     "taggar": [
       "riksdagen"
     ]
