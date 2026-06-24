@@ -287,12 +287,12 @@
   "kommunfullmaktige": {
     "etikett": "شوراى شهر",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "kommunpolitik": {
     "etikett": "سیاست‌های شهرداری",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "trafik": {
     "etikett": "ترافیک",
@@ -337,6 +337,16 @@
   "arresteringsorder": {
     "etikett": "دستور بازداشت",
     "typ": "ämne",
+    "antal": 1
+  },
+  "alingsas": {
+    "etikett": "Alingsås",
+    "typ": "plats",
+    "antal": 1
+  },
+  "alingsas-kommun": {
+    "etikett": "شهرداری آلینگزو",
+    "typ": "organisation",
     "antal": 1
   }
 }

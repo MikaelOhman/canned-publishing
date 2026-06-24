@@ -292,12 +292,12 @@
   "kommunfullmaktige": {
     "etikett": "Consiliul municipal.",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "kommunpolitik": {
     "etikett": "Politica municipală.",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "trafik": {
     "etikett": "Trafic",
@@ -338,5 +338,15 @@
     "etikett": "Comisia Europeană.",
     "typ": "organisation",
     "antal": 8
+  },
+  "alingsas": {
+    "etikett": "Alingsås",
+    "typ": "plats",
+    "antal": 1
+  },
+  "alingsas-kommun": {
+    "etikett": "Comuna Alingsås.",
+    "typ": "organisation",
+    "antal": 1
   }
 }

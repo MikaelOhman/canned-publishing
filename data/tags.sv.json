@@ -377,12 +377,12 @@
   "kommunfullmaktige": {
     "etikett": "Kommunfullmäktige",
     "typ": "organisation",
-    "antal": 2
+    "antal": 3
   },
   "kommunpolitik": {
     "etikett": "Kommunpolitik",
     "typ": "ämne",
-    "antal": 2
+    "antal": 3
   },
   "trafik": {
     "etikett": "Trafik",
@@ -432,6 +432,16 @@
   "protokoll": {
     "etikett": "Protokoll",
     "typ": "händelse",
+    "antal": 1
+  },
+  "alingsas": {
+    "etikett": "Alingsås",
+    "typ": "plats",
+    "antal": 1
+  },
+  "alingsas-kommun": {
+    "etikett": "Alingsås kommun",
+    "typ": "organisation",
     "antal": 1
   }
 }

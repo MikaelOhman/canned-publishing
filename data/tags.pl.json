@@ -292,12 +292,12 @@
   "kommunfullmaktige": {
     "etikett": "Rada miejska.",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "kommunpolitik": {
     "etikett": "Polityka samorządowa.",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "trafik": {
     "etikett": "Ruch drogowy.",
@@ -338,5 +338,15 @@
     "etikett": "Komisja Europejska.",
     "typ": "organisation",
     "antal": 8
+  },
+  "alingsas": {
+    "etikett": "Alingsås.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "alingsas-kommun": {
+    "etikett": "Gmina Alingsås.",
+    "typ": "organisation",
+    "antal": 1
   }
 }

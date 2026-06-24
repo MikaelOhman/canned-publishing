@@ -292,12 +292,12 @@
   "kommunfullmaktige": {
     "etikett": "مجلس البلدية.",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "kommunpolitik": {
     "etikett": "سياسة البلديات.",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "trafik": {
     "etikett": "حركة المرور.",
@@ -338,5 +338,15 @@
     "etikett": "لجنة الاتحاد الأوروبي.",
     "typ": "organisation",
     "antal": 8
+  },
+  "alingsas": {
+    "etikett": "Alingsås",
+    "typ": "plats",
+    "antal": 1
+  },
+  "alingsas-kommun": {
+    "etikett": "بلدية ألينغسو.",
+    "typ": "organisation",
+    "antal": 1
   }
 }
