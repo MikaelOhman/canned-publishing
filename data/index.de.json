@@ -13,6 +13,19 @@
     ]
   },
   {
+    "id": "ecb-2026-06-24-iceland-joins-tips-for-instant",
+    "typ": "omvarld",
+    "titel": "Island schließt sich dem System TIPS für sofortige Zahlungen an.",
+    "ingress": "Island hat ein Abkommen unterzeichnet, das es ermöglicht, Geld direkt und rund um die Uhr in isländischen Kronen zu senden. Dies wird ab dem Jahr 2028 durch ein neues System für schnelle Zahlungen möglich sein.",
+    "datum": "2026-06-24",
+    "kalla": "ECB",
+    "kalla_url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260624_1~ce8e85127f.en.html",
+    "taggar": [
+      "ekonomi",
+      "ecb"
+    ]
+  },
+  {
     "id": "HD03288",
     "typ": "lagforslag",
     "titel": "Bericht des Riksrevisionen über die Steuerung der Ausübung von Behördenaufgaben durch den Staat in Bezug auf die Gemeinden, insbesondere im Hinblick auf das LSS-Gesetz.",
@@ -4785,6 +4798,18 @@
     "datum": "2025-03-18",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03103.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC0390",
+    "typ": "lagforslag",
+    "titel": "Nordische Zusammenarbeit 2024.",
+    "ingress": "In dem Schreiben erläutert die Regierung die Zusammenarbeit zwischen den nordischen Regierungen im Jahr 2024, wobei der Schwerpunkt auf den Aktivitäten des Nordischen Ministerrates liegt.",
+    "datum": "2025-03-18",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC0390.html",
     "taggar": [
       "riksdagen"
     ]
