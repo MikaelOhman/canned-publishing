@@ -140,6 +140,19 @@
     ]
   },
   {
+    "id": "eu-kommissionen-2026-06-23-commission-to-issue-80-billion",
+    "typ": "omvarld",
+    "titel": "La Commissione prevede di emettere obbligazioni dell'UE per un valore di 80 miliardi di euro nella seconda metà del 2026.",
+    "ingress": "L'Unione Europea prevede di emettere obbligazioni per un valore di 80 miliardi di euro nella seconda metà del 2026. Questo fa parte di un piano più ampio per raccogliere un totale di 180 miliardi di euro durante l'intero anno.",
+    "datum": "2026-06-23",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1421",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ]
+  },
+  {
     "id": "HD03287",
     "typ": "lagforslag",
     "titel": "Nuova linea politica per un'industria cinematografica più forte.\n\n# Nuova linea politica per un'industria cinematografica più forte\n\n*   Punti chiave della nuova politica.\n*   Obiettivi a breve e lungo termine.\n*   Misure concrete per sostenere il settore.\n\n**Priorità:**\n\n*   Sostegno alla produzione cinematografica nazionale.\n*   Promozione della diversità e dell'inclusione.\n*   Sviluppo di nuove tecnologie e competenze.\n\n**Azioni:**\n\n*   Aumento dei finanziamenti per il cinema.\n*   Incentivi fiscali per le produzioni.\n*   Formazione e aggiornamento professionale.\n\n---\n\nPer maggiori informazioni, visitare il sito: www.example.com.",
@@ -5054,6 +5067,18 @@
     "datum": "2025-03-04",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03111.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03110",
+    "typ": "lagforslag",
+    "titel": "Semplificazioni delle normative e maggiore trasparenza nel mercato dei titoli.",
+    "ingress": "Il governo propone nuove normative per la compravendita di azioni e altri titoli finanziari, al fine di conformarsi alle leggi dell'Unione Europea. L'obiettivo è semplificare le attività di alcune aziende e rendere le regole più chiare.",
+    "datum": "2025-02-25",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03110.html",
     "taggar": [
       "riksdagen"
     ]

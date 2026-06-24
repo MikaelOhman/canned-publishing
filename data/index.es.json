@@ -140,6 +140,19 @@
     ]
   },
   {
+    "id": "eu-kommissionen-2026-06-23-commission-to-issue-80-billion",
+    "typ": "omvarld",
+    "titel": "La Comisión planea emitir bonos de la UE por un valor de 80 mil millones de euros durante la segunda mitad de 2026.",
+    "ingress": "La Unión Europea planea emitir bonos por un valor de 80 mil millones de euros durante la segunda mitad del año 2026. Esto forma parte de un plan más amplio para emitir un total de 180 mil millones de euros durante todo el año.",
+    "datum": "2026-06-23",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1421",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ]
+  },
+  {
     "id": "HD03287",
     "typ": "lagforslag",
     "titel": "Nueva orientación política para una industria cinematográfica más fuerte.\n\n# Una nueva visión para el cine\n\n*   **Fomentar la creatividad y la innovación:** Apoyar proyectos cinematográficos originales y vanguardistas.\n*   **Promover la diversidad y la inclusión:** Garantizar que todas las voces sean escuchadas y representadas en el cine.\n*   **Fortalecer la industria local:** Crear oportunidades para cineastas y profesionales del cine en todo el país.\n*   **Impulsar la internacionalización:** Facilitar la promoción y distribución de películas suecas en el extranjero.\n\n## Objetivos clave\n\n*   Aumentar la financiación para la producción cinematográfica.\n*   Simplificar los procesos burocráticos para los cineastas.\n*   Crear incentivos fiscales para la inversión en cine.\n*   Fortalecer la colaboración entre el sector público y el privado.\n\n## Acciones concretas\n\n*   Lanzar un nuevo programa de subvenciones para proyectos cinematográficos innovadores.\n*   Establecer un fondo de inversión para apoyar a nuevos talentos.\n*   Organizar festivales y eventos cinematográficos para promover el cine sueco.\n*   Negociar acuerdos de coproducción con otros países.\n\nEsta nueva política tiene como objetivo crear un entorno más favorable para la industria cinematográfica sueca, permitiendo que siga siendo una fuente de orgullo nacional y un motor de crecimiento económico.",
@@ -5049,6 +5062,18 @@
     "datum": "2025-03-04",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03111.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03110",
+    "typ": "lagforslag",
+    "titel": "Flexibilización de las regulaciones y mayor transparencia en el mercado de valores.\n\n*   **Regellättnader:** Se refiere a la simplificación y eliminación de ciertas regulaciones.\n*   **Ökad transparens:** Se refiere a una mayor claridad y accesibilidad de la información.\n*   **Värdepappersmarknaden:** Se refiere al mercado de valores.",
+    "ingress": "El gobierno propone nuevas regulaciones para el comercio de acciones y otros valores, con el fin de cumplir con las leyes de la Unión Europea. El objetivo es facilitar el trabajo de ciertas empresas y hacer que las normas sean más claras.",
+    "datum": "2025-02-25",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03110.html",
     "taggar": [
       "riksdagen"
     ]
