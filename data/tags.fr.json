@@ -32,7 +32,7 @@
   "riksdagen": {
     "etikett": "Le Riksdag.",
     "typ": "organisation",
-    "antal": 400
+    "antal": 401
   },
   "underrattelsetjanst": {
     "etikett": "Service de renseignement",
@@ -112,7 +112,7 @@
   "ekonomi": {
     "etikett": "Économie",
     "typ": "ämne",
-    "antal": 4
+    "antal": 5
   },
   "sverige": {
     "etikett": "Suède",
@@ -332,6 +332,6 @@
   "ecb": {
     "etikett": "Banque centrale européenne.",
     "typ": "organisation",
-    "antal": 2
+    "antal": 3
   }
 }
