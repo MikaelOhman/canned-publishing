@@ -343,5 +343,30 @@
     "etikett": "Innovation",
     "typ": "ämne",
     "antal": 1
+  },
+  "stockholm": {
+    "etikett": "Stockholm:",
+    "typ": "plats",
+    "antal": 2
+  },
+  "kommunfullmaktige": {
+    "etikett": "Municipal council.",
+    "typ": "organisation",
+    "antal": 2
+  },
+  "kommunpolitik": {
+    "etikett": "Municipal politics.",
+    "typ": "ämne",
+    "antal": 2
+  },
+  "trafik": {
+    "etikett": "Traffic.",
+    "typ": "ämne",
+    "antal": 2
+  },
+  "stadsplanering": {
+    "etikett": "Urban planning.",
+    "typ": "ämne",
+    "antal": 1
   }
 }

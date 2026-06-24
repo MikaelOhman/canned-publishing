@@ -132,6 +132,21 @@
     ]
   },
   {
+    "id": "stockholm-kommunfullmaktige-2026-06-15",
+    "typ": "kommunbeslut",
+    "titel": "Conseil municipal, Ville de Stockholm, 15 juin 2026.",
+    "ingress": "La ville de Stockholm a adopté de nouvelles réglementations concernant la sécurité des enfants dans les garderies municipales, ainsi que de nouveaux tarifs pour les garderies, les centres de loisirs et les services de garde en dehors des he",
+    "datum": "2026-06-15",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunfullmaktige/mote-2026-06-15",
+    "taggar": [
+      "stockholm",
+      "kommunfullmaktige",
+      "kommunpolitik",
+      "trafik"
+    ]
+  },
+  {
     "id": "belfast-0610",
     "typ": "nyhet",
     "titel": "Tentative d'exécution par décapitation à Belfast",
@@ -4278,6 +4293,18 @@
     "datum": "2025-04-15",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC0398.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03158",
+    "typ": "lagforslag",
+    "titel": "Abolition de la loi sur les partenariats des fonds structurels.",
+    "ingress": "Le gouvernement souhaite abroger une ancienne loi concernant les collaborations relatives aux fonds européens. La proposition prévoit que cette loi cesse d'être applicable le 1er août 2025.",
+    "datum": "2025-04-15",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03158.html",
     "taggar": [
       "riksdagen"
     ]

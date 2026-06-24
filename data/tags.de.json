@@ -72,7 +72,7 @@
   "riksdagen": {
     "etikett": "Schwedisches Parlament",
     "typ": "organisation",
-    "antal": 375
+    "antal": 376
   },
   "straffratt": {
     "etikett": "Strafrecht",
@@ -341,6 +341,31 @@
   },
   "innovation": {
     "etikett": "Innovation\n\n# Innovation\n\nInnovation ist ein zentraler Begriff in der heutigen Zeit. Sie beschreibt den Prozess der Entwicklung und Einführung neuer Ideen, Produkte oder Dienstleistungen.\n\n*   Innovation kann viele Formen annehmen.\n*   Sie kann zu wirtschaftlichem Wachstum führen.\n*   Sie kann die Lebensqualität verbessern.\n\n**Innovation ist wichtig für die Zukunft.**\n\nSie ermöglicht es uns, neue Herausforderungen zu meistern und neue Chancen zu nutzen.\n\nEine Innovation kann sein:\n\n*   Eine neue Technologie\n*   Ein neues Produkt\n*   Ein neuer Prozess\n*   Ein neues Geschäftsmodell\n\nInnovation erfordert Kreativität, Mut und die Bereitschaft, Risiken einzugehen.\n\nInnovation ist ein kontinuierlicher Prozess. Sie erfordert ständige Weiterentwicklung und Anpassung.\n\nInnovation ist ein Schlüssel zum Erfolg.\n\n[https://www.example.com](https://www.example.com)",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "stockholm": {
+    "etikett": "Stockholm",
+    "typ": "plats",
+    "antal": 2
+  },
+  "kommunfullmaktige": {
+    "etikett": "Gemeindevertretung",
+    "typ": "organisation",
+    "antal": 2
+  },
+  "kommunpolitik": {
+    "etikett": "Kommunalpolitik.",
+    "typ": "ämne",
+    "antal": 2
+  },
+  "trafik": {
+    "etikett": "Verkehr.",
+    "typ": "ämne",
+    "antal": 2
+  },
+  "stadsplanering": {
+    "etikett": "Stadtplanung.",
     "typ": "ämne",
     "antal": 1
   }

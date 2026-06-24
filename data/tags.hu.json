@@ -32,7 +32,7 @@
   "riksdagen": {
     "etikett": "A Svéd Parlament.",
     "typ": "organisation",
-    "antal": 374
+    "antal": 375
   },
   "underrattelsetjanst": {
     "etikett": "Hírszerzés",
@@ -281,6 +281,26 @@
   },
   "innovation": {
     "etikett": "Innováció",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "stockholm": {
+    "etikett": "Stockholm.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "kommunfullmaktige": {
+    "etikett": "A települési közgyűlés.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "kommunpolitik": {
+    "etikett": "Önkormányzati politika.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "trafik": {
+    "etikett": "Közlekedés.",
     "typ": "ämne",
     "antal": 1
   }

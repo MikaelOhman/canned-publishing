@@ -129,6 +129,21 @@
     ]
   },
   {
+    "id": "stockholm-kommunfullmaktige-2026-06-15",
+    "typ": "kommunbeslut",
+    "titel": "جلسه شورای شهر، شهرداری استکهلم، 15 ژوئن 2026.",
+    "ingress": "شهرداری استکهلم مقررات جدیدی را در مورد ایمنی کودکان در مهدکودک‌های دولتی و همچنین تعرفه‌های جدید برای مهدکودک، مراکز تفریحی و خدمات نگهداری کودکان در ساعات غیرمعمول کاری تصویب کرده است.",
+    "datum": "2026-06-15",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunfullmaktige/mote-2026-06-15",
+    "taggar": [
+      "stockholm",
+      "kommunfullmaktige",
+      "kommunpolitik",
+      "trafik"
+    ]
+  },
+  {
     "id": "tvangsvard-tanum",
     "typ": "nyhet",
     "titel": "عدم ارائه مراقبت اجباری – جسد در برف یافت شد",
@@ -4267,6 +4282,18 @@
     "datum": "2025-04-15",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC0398.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03158",
+    "typ": "lagforslag",
+    "titel": "ابطال قانون مشارکت ساختاری.",
+    "ingress": "دولت قصد دارد یک قانون قدیمی که مربوط به همکاری‌ها در زمینه استفاده از بودجه اتحادیه اروپا است را لغو کند. این پیشنهاد به این معناست که این قانون از تاریخ 1 آگوست 2025 به بعد، دیگر معتبر نخواهد بود.",
+    "datum": "2025-04-15",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03158.html",
     "taggar": [
       "riksdagen"
     ]

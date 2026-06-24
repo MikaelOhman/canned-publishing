@@ -126,6 +126,21 @@
     ]
   },
   {
+    "id": "stockholm-kommunfullmaktige-2026-06-15",
+    "typ": "kommunbeslut",
+    "titel": "اجتماع مجلس مدينة ستوكهولم، تاريخ 2026-06-15.",
+    "ingress": "قررت مدينة ستوكهولم وضع قواعد جديدة تتعلق بسلامة الأطفال في دور الحضانة التابعة للمدينة، بالإضافة إلى تحديد رسوم جديدة لدور الحضانة، ومراكز الأنشطة الترفيهية للأطفال، وخدمات رعاية الأطفال خلال أوقات العمل غير المعتادة.",
+    "datum": "2026-06-15",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunfullmaktige/mote-2026-06-15",
+    "taggar": [
+      "stockholm",
+      "kommunfullmaktige",
+      "kommunpolitik",
+      "trafik"
+    ]
+  },
+  {
     "id": "tvangsvard-tanum",
     "typ": "nyhet",
     "titel": "مُنِعت من الرعاية الإجبارية - عُثر عليها ميتة في الثلج",
@@ -4271,6 +4286,18 @@
     "datum": "2025-04-15",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC0398.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03158",
+    "typ": "lagforslag",
+    "titel": "إلغاء قانون الشراكة في صندوق الهيكلة.",
+    "ingress": "ترغب الحكومة في إلغاء قانون قديم يتعلق بالتعاون فيما يتعلق بأموال الاتحاد الأوروبي. يقترح هذا الإجراء أن يصبح القانون غير ساري المفعول اعتبارًا من 1 أغسطس 2025.",
+    "datum": "2025-04-15",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03158.html",
     "taggar": [
       "riksdagen"
     ]

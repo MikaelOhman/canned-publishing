@@ -126,6 +126,21 @@
     ]
   },
   {
+    "id": "stockholm-kommunfullmaktige-2026-06-15",
+    "typ": "kommunbeslut",
+    "titel": "Rada Miejska, miasto Sztokholm, 15 czerwca 2026 roku.",
+    "ingress": "Miasto Sztokholm wprowadziło nowe przepisy dotyczące bezpieczeństwa dzieci w miejskich przedszkolach oraz nowe opłaty za przedszkola, świetlice i opiekę w nietypowych godzinach pracy.",
+    "datum": "2026-06-15",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunfullmaktige/mote-2026-06-15",
+    "taggar": [
+      "stockholm",
+      "kommunfullmaktige",
+      "kommunpolitik",
+      "trafik"
+    ]
+  },
+  {
     "id": "tvangsvard-tanum",
     "typ": "nyhet",
     "titel": "Odmówiono przymusowej opieki – znaleziono martwą w śniegu",
@@ -4288,6 +4303,18 @@
     "datum": "2025-04-15",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC0398.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03158",
+    "typ": "lagforslag",
+    "titel": "Zniesienie ustawy o partnerstwie w ramach funduszy strukturalnych.\n\n(Paragraph and list structure, and keeping names, numbers, dates and URLs unchanged, and translating for meaning.)",
+    "ingress": "Rząd zamierza uchylić starą ustawę dotyczącą współpracy w zakresie wykorzystania środków unijnych. Propozycja przewiduje, że ustawa przestanie obowiązywać 1 sierpnia 2025 roku.",
+    "datum": "2025-04-15",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03158.html",
     "taggar": [
       "riksdagen"
     ]

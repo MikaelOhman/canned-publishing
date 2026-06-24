@@ -32,7 +32,7 @@
   "riksdagen": {
     "etikett": "Il Parlamento.",
     "typ": "organisation",
-    "antal": 374
+    "antal": 375
   },
   "underrattelsetjanst": {
     "etikett": "Servizio di intelligence",
@@ -281,6 +281,26 @@
   },
   "innovation": {
     "etikett": "Innovazione",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "stockholm": {
+    "etikett": "Stockholm.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "kommunfullmaktige": {
+    "etikett": "Consiglio comunale.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "kommunpolitik": {
+    "etikett": "Politica comunale.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "trafik": {
+    "etikett": "Traffico.",
     "typ": "ämne",
     "antal": 1
   }

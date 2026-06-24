@@ -129,6 +129,21 @@
     ]
   },
   {
+    "id": "stockholm-kommunfullmaktige-2026-06-15",
+    "typ": "kommunbeslut",
+    "titel": "Stockholmi Város Tanácsa, 2026. június 15.",
+    "ingress": "Stockholm városa új szabályokat vezetett be a gyermekek biztonságával kapcsolatban a városi óvodákban, valamint új díjakat állapítottak meg az óvodák, a napközi otthonok és a nem szokásos munkaidőben igénybe vett gyermekfelügyeleti szolgált",
+    "datum": "2026-06-15",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunfullmaktige/mote-2026-06-15",
+    "taggar": [
+      "stockholm",
+      "kommunfullmaktige",
+      "kommunpolitik",
+      "trafik"
+    ]
+  },
+  {
     "id": "belfast-0610",
     "typ": "nyhet",
     "titel": "Itt Belfastban egy nyakvágási kísérlet történt",
@@ -4231,6 +4246,18 @@
     "datum": "2025-04-15",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC0398.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03158",
+    "typ": "lagforslag",
+    "titel": "A strukturális alapok partnerségéről szóló törvény eltörlése.",
+    "ingress": "A kormány egy régi törvényt szeretné eltörölni, amely az EU-s pénzügyi támogatásokkal kapcsolatos együttműködésekről szól. A javaslat értelmében a törvény 2025. augusztus 1-jén szűnik majd hatályba.",
+    "datum": "2025-04-15",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03158.html",
     "taggar": [
       "riksdagen"
     ]

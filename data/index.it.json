@@ -129,6 +129,21 @@
     ]
   },
   {
+    "id": "stockholm-kommunfullmaktige-2026-06-15",
+    "typ": "kommunbeslut",
+    "titel": "Consiglio comunale, Comune di Stoccolma, 15 giugno 2026.",
+    "ingress": "Il comune di Stoccolma ha approvato nuove normative riguardanti la sicurezza dei bambini nelle scuole dell'infanzia comunali, nonché nuove tariffe per la frequenza delle scuole dell'infanzia, dei centri diurni e dei servizi di assistenza pe",
+    "datum": "2026-06-15",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunfullmaktige/mote-2026-06-15",
+    "taggar": [
+      "stockholm",
+      "kommunfullmaktige",
+      "kommunpolitik",
+      "trafik"
+    ]
+  },
+  {
     "id": "tvangsvard-tanum",
     "typ": "nyhet",
     "titel": "Rifiutata l'assistenza obbligatoria: trovata morta nella neve",
@@ -4275,6 +4290,18 @@
     "datum": "2025-04-15",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC0398.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03158",
+    "typ": "lagforslag",
+    "titel": "Abrogazione della legge sul partenariato dei fondi strutturali.",
+    "ingress": "Il governo intende abrogare una vecchia legge che riguarda le collaborazioni relative ai fondi dell'Unione Europea. La proposta prevede che la legge cessi di avere validità il 1° agosto 2025.",
+    "datum": "2025-04-15",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03158.html",
     "taggar": [
       "riksdagen"
     ]

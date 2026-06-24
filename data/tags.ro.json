@@ -32,7 +32,7 @@
   "riksdagen": {
     "etikett": "Parlamentul.",
     "typ": "organisation",
-    "antal": 373
+    "antal": 374
   },
   "underrattelsetjanst": {
     "etikett": "Serviciu de informații",
@@ -281,6 +281,26 @@
   },
   "innovation": {
     "etikett": "Inovație.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "stockholm": {
+    "etikett": "Stockholm.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "kommunfullmaktige": {
+    "etikett": "Consiliul municipal.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "kommunpolitik": {
+    "etikett": "Politica municipală.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "trafik": {
+    "etikett": "Trafic",
     "typ": "ämne",
     "antal": 1
   }

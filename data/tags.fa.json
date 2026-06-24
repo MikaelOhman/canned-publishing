@@ -32,7 +32,7 @@
   "riksdagen": {
     "etikett": "مجلس نمایندگان",
     "typ": "organisation",
-    "antal": 379
+    "antal": 380
   },
   "underrattelsetjanst": {
     "etikett": "سازمان اطلاعات",
@@ -276,6 +276,26 @@
   },
   "domares-oberoende": {
     "etikett": "استقلال داوران",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "stockholm": {
+    "etikett": "استکهلم.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "kommunfullmaktige": {
+    "etikett": "شوراى شهر",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "kommunpolitik": {
+    "etikett": "سیاست‌های شهرداری",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "trafik": {
+    "etikett": "ترافیک",
     "typ": "ämne",
     "antal": 1
   }

@@ -357,7 +357,7 @@
   "stockholm": {
     "etikett": "Stockholms",
     "typ": "plats",
-    "antal": 1
+    "antal": 3
   },
   "kommunstyrelsen": {
     "etikett": "Kommunstyrelsen",
@@ -371,6 +371,26 @@
   },
   "fastighetsratt": {
     "etikett": "Fastighetsrätt",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "kommunfullmaktige": {
+    "etikett": "Kommunfullmäktige",
+    "typ": "organisation",
+    "antal": 2
+  },
+  "kommunpolitik": {
+    "etikett": "Kommunpolitik",
+    "typ": "ämne",
+    "antal": 2
+  },
+  "trafik": {
+    "etikett": "Trafik",
+    "typ": "ämne",
+    "antal": 2
+  },
+  "stadsplanering": {
+    "etikett": "Stadsplanering",
     "typ": "ämne",
     "antal": 1
   }
