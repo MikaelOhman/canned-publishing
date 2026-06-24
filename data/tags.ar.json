@@ -32,7 +32,7 @@
   "riksdagen": {
     "etikett": "البرلمان.",
     "typ": "organisation",
-    "antal": 393
+    "antal": 394
   },
   "underrattelsetjanst": {
     "etikett": "جهاز الاستخبارات",
@@ -287,7 +287,7 @@
   "stockholm": {
     "etikett": "ستوكهولم.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "kommunfullmaktige": {
     "etikett": "مجلس البلدية.",
@@ -302,6 +302,21 @@
   "trafik": {
     "etikett": "حركة المرور.",
     "typ": "ämne",
+    "antal": 1
+  },
+  "kommunstyrelsen": {
+    "etikett": "مجلس البلدية.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "kommunal-forvaltning": {
+    "etikett": "الإدارة المحلية.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "karin-wanngard": {
+    "etikett": "كارين وانغارد.",
+    "typ": "person",
     "antal": 1
   }
 }

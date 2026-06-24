@@ -281,6 +281,21 @@
     ]
   },
   {
+    "id": "stockholm-kommunstyrelsen-2026-06-03",
+    "typ": "kommunbeslut",
+    "titel": "Kommunstyrelsen, Stockholms stad 2026-06-03",
+    "ingress": "Stockholms stad ska införa digitala personalakter för alla sina nämnder och satsa 70 miljoner kronor på detta. Dessutom ska en byggnad i Frihamnen, Magasin 5, byta ägare för cirka 400 miljoner kronor.",
+    "datum": "2026-06-03",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunstyrelsen/mote-2026-06-03",
+    "taggar": [
+      "stockholm",
+      "kommunstyrelsen",
+      "kommunal-forvaltning",
+      "digitalisering"
+    ]
+  },
+  {
     "id": "HD03269",
     "typ": "lagforslag",
     "titel": "Riksrevisionens rapport statens arbete mot problem med spel om pengar",
@@ -4615,6 +4630,18 @@
     "datum": "2025-03-18",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03134.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03133",
+    "typ": "lagforslag",
+    "titel": "En effektivare förvaltning av buffertkapitalet",
+    "ingress": "Regeringen vill ändra reglerna för hur de statliga pensionsfonderna (AP-fonderna) styrs för att spara pengar och arbeta bättre. Målet är att slå ihop flera fonder till färre styrelser och verksamheter.",
+    "datum": "2025-03-18",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03133.html",
     "taggar": [
       "riksdagen"
     ]

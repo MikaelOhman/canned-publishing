@@ -66,6 +66,21 @@
     ]
   },
   {
+    "id": "stockholm-kommunstyrelsen-2026-06-17",
+    "typ": "kommunbeslut",
+    "titel": "لجنة الشؤون البلدية، بلدية ستوكهولم، بتاريخ 2026-06-17.",
+    "ingress": "لقد أجابت لجنة بلدية ستوكهولم على أسئلة تتعلق بمحطة الحافلات في منطقة \"سلوسن\"، وإدارة البيانات الشخصية، والتغييرات في نظام النقل العام.",
+    "datum": "2026-06-17",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunstyrelsen/mote-2026-06-17",
+    "taggar": [
+      "stockholm",
+      "kommunstyrelsen",
+      "kommunal-forvaltning",
+      "karin-wanngard"
+    ]
+  },
+  {
     "id": "HD03286",
     "typ": "lagforslag",
     "titel": "تعزيز حماية استقلالية القضاء والقضاة.",
@@ -4586,6 +4601,18 @@
     "datum": "2025-03-18",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03134.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03133",
+    "typ": "lagforslag",
+    "titel": "إدارة أكثر كفاءة لرأس المال الاحتياطي.",
+    "ingress": "ترغب الحكومة في تعديل القواعد التي تحكم إدارة الصناديق الحكومية للتقاعد (صناديق AP) بهدف توفير المال وتحسين الأداء. الهدف هو دمج العديد من الصناديق في عدد أقل من مجالس الإدارة والكيانات التشغيلية.",
+    "datum": "2025-03-18",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03133.html",
     "taggar": [
       "riksdagen"
     ]

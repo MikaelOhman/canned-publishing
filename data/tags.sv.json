@@ -72,7 +72,7 @@
   "riksdagen": {
     "etikett": "Riksdagen",
     "typ": "organisation",
-    "antal": 682
+    "antal": 683
   },
   "straffratt": {
     "etikett": "Straffrätt",
@@ -357,12 +357,12 @@
   "stockholm": {
     "etikett": "Stockholms",
     "typ": "plats",
-    "antal": 3
+    "antal": 4
   },
   "kommunstyrelsen": {
     "etikett": "Kommunstyrelsen",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "kommunallagen": {
     "etikett": "Kommunallagen",
@@ -391,6 +391,16 @@
   },
   "stadsplanering": {
     "etikett": "Stadsplanering",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "kommunal-forvaltning": {
+    "etikett": "Kommunal förvaltning",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "digitalisering": {
+    "etikett": "Digitalisering",
     "typ": "ämne",
     "antal": 1
   }

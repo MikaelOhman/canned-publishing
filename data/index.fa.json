@@ -66,6 +66,21 @@
     ]
   },
   {
+    "id": "stockholm-kommunstyrelsen-2026-06-17",
+    "typ": "kommunbeslut",
+    "titel": "شورای شهر، شهرداری استکهلم، 2026-06-17",
+    "ingress": "شورای شهر استکهلم به سوالاتی در مورد ترمینال اتوبوس در منطقه سلوسن، نحوه مدیریت اطلاعات شخصی و تغییرات در سیستم حمل و نقل عمومی پاسخ داده است.",
+    "datum": "2026-06-17",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunstyrelsen/mote-2026-06-17",
+    "taggar": [
+      "stockholm",
+      "kommunstyrelsen",
+      "kommunal-forvaltning",
+      "karin-wanngard"
+    ]
+  },
+  {
     "id": "HD03286",
     "typ": "lagforslag",
     "titel": "تقویت حمایت از استقلال قوه قضائیه و قضات.",
@@ -4570,6 +4585,18 @@
     "datum": "2025-03-18",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03134.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03133",
+    "typ": "lagforslag",
+    "titel": "مدیریت کارآمدتر سرمایه احتیاطی.",
+    "ingress": "دولت قصد دارد قوانین مربوط به نحوه مدیریت صندوق‌های بازنشستگی دولتی (صندوق‌های AP) را تغییر دهد تا در هزینه‌ها صرفه‌جویی شود و کارایی بهبود یابد. هدف این تغییرات، ادغام چندین صندوق در تعداد کمتری از هیئت مدیره و سازمان‌ها است.",
+    "datum": "2025-03-18",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03133.html",
     "taggar": [
       "riksdagen"
     ]
