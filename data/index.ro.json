@@ -1,5 +1,18 @@
 [
   {
+    "id": "ecb-2026-06-24-ecb-reports-on-progress-toward",
+    "typ": "omvarld",
+    "titel": "Banca Centrală Europeană (BCE) a publicat un raport privind progresele înregistrate în procesul de introducere a euro.",
+    "ingress": "Banca Centrală Europeană (BCE) a raportat că țările care doresc să adopte euro se confruntă cu dificultăți în atingerea obiectivelor stabilite. Războiul și incertitudinea la nivel global împiedică dezvoltarea economică a acestor țări, care",
+    "datum": "2026-06-24",
+    "kalla": "ECB",
+    "kalla_url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260624~ec1dcac037.en.html",
+    "taggar": [
+      "ekonomi",
+      "ecb"
+    ]
+  },
+  {
     "id": "HD03288",
     "typ": "lagforslag",
     "titel": "Raportul Agenției Naționale de Audit privind modul în care statul gestionează exercitarea autorității de către municipalități, referitor la Legea privind sprijinul pentru persoane cu dizabilități (LSS).",
@@ -4722,6 +4735,18 @@
     "datum": "2025-03-18",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03109.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03103",
+    "typ": "lagforslag",
+    "titel": "Raportul comitetelor – activitatea comitetelor în 2024.",
+    "ingress": "Guvernul a trimis un raport care detaliază activitățile desfășurate de diferitele comitete și grupuri de lucru pe parcursul anului 2024.",
+    "datum": "2025-03-18",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03103.html",
     "taggar": [
       "riksdagen"
     ]

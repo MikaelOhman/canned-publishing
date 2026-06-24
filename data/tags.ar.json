@@ -112,7 +112,7 @@
   "ekonomi": {
     "etikett": "الاقتصاد",
     "typ": "ämne",
-    "antal": 2
+    "antal": 3
   },
   "sverige": {
     "etikett": "السويد",
@@ -322,6 +322,11 @@
   "digitalisering": {
     "etikett": "التحول الرقمي.",
     "typ": "ämne",
+    "antal": 1
+  },
+  "ecb": {
+    "etikett": "البنك المركزي الأوروبي.",
+    "typ": "organisation",
     "antal": 1
   }
 }
