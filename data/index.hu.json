@@ -235,6 +235,21 @@
     ]
   },
   {
+    "id": "stockholm-kommunstyrelsen-2026-06-03",
+    "typ": "kommunbeslut",
+    "titel": "A stockholmi városi önkormányzat kommunális bizottsága, 2026. június 3.",
+    "ingress": "Stockholm városa digitális személyes iratokat vezet be minden intézményében, és erre 70 millió svéd koronát fordít. Emellett a Frihamnen városrészben található Magasin 5 épület körülbelül 400 millió svéd koronába kerülő tranzakció keretében",
+    "datum": "2026-06-03",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunstyrelsen/mote-2026-06-03",
+    "taggar": [
+      "stockholm",
+      "kommunstyrelsen",
+      "kommunal-forvaltning",
+      "digitalisering"
+    ]
+  },
+  {
     "id": "HD03269",
     "typ": "lagforslag",
     "titel": "A Svéd Számvevőszék jelentése a állam intézkedéseiről a szerencsejátékokkal kapcsolatos problémák kezelésére.",
@@ -4633,6 +4648,18 @@
     "datum": "2025-03-18",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03125.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03123",
+    "typ": "lagforslag",
+    "titel": "Kapcsolattartási tilalmak – kibővített védelem a sérülékeny személyek számára.",
+    "ingress": "A kormány szeretné módosítani a törvényt annak érdekében, hogy jobb védelmet nyújtson azoknak a személyeknek, akik erőszaknak vagy fenyegetésnek vannak kitéve a családi vagy párkapcsolati környezetben. Az új szabályok célja, hogy megkönnyít",
+    "datum": "2025-03-18",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03123.html",
     "taggar": [
       "riksdagen"
     ]
