@@ -347,6 +347,22 @@
     ]
   },
   {
+    "id": "stockholm-kommunfullmaktige-2026-05-25",
+    "typ": "kommunbeslut",
+    "titel": "Conseil municipal, Ville de Stockholm, 25 mai 2026.",
+    "ingress": "La ville de Stockholm a pris de nombreuses décisions concernant de nouveaux projets de construction, des parcs et des zones naturelles protégées. Ces décisions concernent notamment la construction de nouveaux logements, la création de nouve",
+    "datum": "2026-05-25",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunfullmaktige/mote-2026-05-25",
+    "taggar": [
+      "stockholm",
+      "kommunfullmaktige",
+      "kommunpolitik",
+      "stadsplanering",
+      "trafik"
+    ]
+  },
+  {
     "id": "HD03267",
     "typ": "lagforslag",
     "titel": "Renforcement de la protection contre les étrangers qui représentent une menace sérieuse pour la sécurité.",
@@ -4449,6 +4465,18 @@
     "datum": "2025-03-27",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03124.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03148",
+    "typ": "lagforslag",
+    "titel": "Modifications apportées à la loi sur la sécurité portuaire.\n\n*   [Information om ändringarna] Informations sur les modifications.\n*   [Länk till lagen] Lien vers la loi.\n*   [Datum för ikraftträdande] Date d'entrée en vigueur.\n*   [Kontaktinformation] Informations de contact.\n*   [Webbplats] Site web.",
+    "ingress": "Le gouvernement souhaite modifier la loi sur la sécurité portuaire afin de clarifier les limites des zones protégées des ports. Les nouvelles réglementations devraient entrer en vigueur le 1er juillet 2025.",
+    "datum": "2025-03-25",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03148.html",
     "taggar": [
       "riksdagen"
     ]
