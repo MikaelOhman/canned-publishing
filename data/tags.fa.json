@@ -282,7 +282,7 @@
   "stockholm": {
     "etikett": "استکهلم.",
     "typ": "plats",
-    "antal": 2
+    "antal": 3
   },
   "kommunfullmaktige": {
     "etikett": "شوراى شهر",
@@ -302,16 +302,21 @@
   "kommunstyrelsen": {
     "etikett": "شورای شهر.",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "kommunal-forvaltning": {
     "etikett": "مدیریت شهری",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "karin-wanngard": {
     "etikett": "کarin وانگارد",
     "typ": "person",
+    "antal": 1
+  },
+  "digitalisering": {
+    "etikett": "دیجیتالی‌سازی",
+    "typ": "ämne",
     "antal": 1
   }
 }

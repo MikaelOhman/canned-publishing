@@ -264,6 +264,21 @@
     ]
   },
   {
+    "id": "stockholm-kommunstyrelsen-2026-06-03",
+    "typ": "kommunbeslut",
+    "titel": "لجنة الشؤون البلدية، بلدية ستوكهولم، بتاريخ 2026-06-03.",
+    "ingress": "تقوم مدينة ستوكهولم بتطبيق نظام السجلات الإلكترونية للموظفين في جميع إداراتها، وسيتم تخصيص 70 مليون كرونة سويدية لهذا الغرض. بالإضافة إلى ذلك، سيتم بيع مبنى \"Magasin 5\" الواقع في منطقة \"Frihamnen\" إلى مالك جديد مقابل حوالي 400 مليون كرونة س",
+    "datum": "2026-06-03",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunstyrelsen/mote-2026-06-03",
+    "taggar": [
+      "stockholm",
+      "kommunstyrelsen",
+      "kommunal-forvaltning",
+      "digitalisering"
+    ]
+  },
+  {
     "id": "HD03269",
     "typ": "lagforslag",
     "titel": "تقرير مكتب المراجعة الوطني حول عمل الدولة لمكافحة مشاكل المقامرة.",
@@ -4697,6 +4712,18 @@
     "datum": "2025-03-18",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03122.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03112",
+    "typ": "lagforslag",
+    "titel": "الأنشطة والعمليات التي ستجري تحت إشراف حلف الناتو خلال العام 2024 بأكمله.",
+    "ingress": "أصدرت الحكومة تقريرًا يوضح ما قامت به السويد في منظمة الناتو خلال عام 2024 بأكمله. يوضح التقرير كيف سار العمل في المنظمة خلال العام.",
+    "datum": "2025-03-18",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03112.html",
     "taggar": [
       "riksdagen"
     ]
