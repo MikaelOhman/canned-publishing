@@ -32,7 +32,7 @@
   "riksdagen": {
     "etikett": "Parlamentul.",
     "typ": "organisation",
-    "antal": 403
+    "antal": 404
   },
   "underrattelsetjanst": {
     "etikett": "Serviciu de informații",
@@ -112,7 +112,7 @@
   "ekonomi": {
     "etikett": "Economie",
     "typ": "ämne",
-    "antal": 5
+    "antal": 6
   },
   "sverige": {
     "etikett": "Suedia",
@@ -327,6 +327,6 @@
   "ecb": {
     "etikett": "Banca Centrală Europeană (BCE)",
     "typ": "organisation",
-    "antal": 3
+    "antal": 4
   }
 }

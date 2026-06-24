@@ -100,6 +100,19 @@
     ]
   },
   {
+    "id": "ecb-2026-06-19-frank-elderson-fireside-chat",
+    "typ": "omvarld",
+    "titel": "Frank Elderson: En avslappnad frågestund.",
+    "ingress": "Frank Elderson från den europeiska centralbanken (ECB) förklarar hur man kan göra bankregler enklare utan att göra bankerna osäkra. Målet är att stärka Europas ekonomi och göra det lättare för banker att låna ut pengar till viktiga invester",
+    "datum": "2026-06-19",
+    "kalla": "ECB",
+    "kalla_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260619_1~09441a4cbe.en.html",
+    "taggar": [
+      "ekonomi",
+      "ecb"
+    ]
+  },
+  {
     "id": "prop-2025-26-014",
     "typ": "lagforslag",
     "titel": "Proposition: Skärpta straff för organiserad brottslighet",
@@ -4874,6 +4887,18 @@
     "datum": "2025-03-11",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03118.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03117",
+    "typ": "lagforslag",
+    "titel": "Riksrevisionens rapport om tredjelandsstudenter i högskolan",
+    "ingress": "Riksrevisionen har undersökt hur studenter från länder utanför EU/EES söker till och betalar för sina studier i Sverige. De kom fram till att systemet inte fungerar så bra som det borde.",
+    "datum": "2025-03-11",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03117.html",
     "taggar": [
       "riksdagen"
     ]

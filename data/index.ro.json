@@ -93,6 +93,19 @@
     ]
   },
   {
+    "id": "ecb-2026-06-22-christine-lagarde-hearing-of-t",
+    "typ": "omvarld",
+    "titel": "Christine Lagarde: Audieri în fața Comisiei pentru afaceri economice și monetare din Parlamentul European.",
+    "ingress": "Banca Centrală Europeană (BCE) a decis să majoreze ratele dobânzii pentru a combate creșterea prețurilor. Această măsură este luată pentru a proteja economia, având în vedere impactul războiului din Orientul Mijlociu, care a dus la creștere",
+    "datum": "2026-06-22",
+    "kalla": "ECB",
+    "kalla_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260622~b060a27b78.en.html",
+    "taggar": [
+      "ekonomi",
+      "ecb"
+    ]
+  },
+  {
     "id": "HD03290",
     "typ": "lagforslag",
     "titel": "Serviciul suedez de informații externe.",
@@ -4833,6 +4846,18 @@
     "datum": "2025-03-11",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03118.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03117",
+    "typ": "lagforslag",
+    "titel": "Raportul Agenției Naționale de Audit din Suedia privind studenții din țări terțe în învățământul superior.",
+    "ingress": "Agenția Națională de Audit a analizat modul în care studenții din țările din afara UE/EEE aplică pentru studii și plătesc taxele în Suedia. Au constatat că sistemul nu funcționează la fel de bine cum ar trebui.",
+    "datum": "2025-03-11",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03117.html",
     "taggar": [
       "riksdagen"
     ]

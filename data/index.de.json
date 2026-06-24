@@ -106,6 +106,19 @@
     ]
   },
   {
+    "id": "ecb-2026-06-19-frank-elderson-fireside-chat",
+    "typ": "omvarld",
+    "titel": "Frank Elderson: Eine entspannte Frage-und-Antwort-Runde.",
+    "ingress": "Frank Elderson von der Europäischen Zentralbank (EZB) erläutert, wie Bankvorschriften vereinfacht werden können, ohne die Stabilität der Banken zu gefährden. Ziel ist es, die europäische Wirtschaft zu stärken und es für Banken einfacher zu",
+    "datum": "2026-06-19",
+    "kalla": "ECB",
+    "kalla_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260619_1~09441a4cbe.en.html",
+    "taggar": [
+      "ekonomi",
+      "ecb"
+    ]
+  },
+  {
     "id": "prop-2025-26-014",
     "typ": "lagforslag",
     "titel": "Gesetzentwurf: Härtere Strafen für organisierte Kriminalität",
@@ -4884,6 +4897,18 @@
     "datum": "2025-03-11",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03118.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03117",
+    "typ": "lagforslag",
+    "titel": "Der Bericht des Riksrevisionen (Rechnungshof) zum Thema Studierende aus Drittstaaten an Hochschulen.",
+    "ingress": "Das Riksrevisionen (der schwedische Rechnungshof) hat untersucht, wie Studierende aus Ländern außerhalb der EU/EWR sich für ein Studium in Schweden bewerben und ihre Studiengebühren bezahlen. Die Untersuchung ergab, dass das System nicht so",
+    "datum": "2025-03-11",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03117.html",
     "taggar": [
       "riksdagen"
     ]

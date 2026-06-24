@@ -93,6 +93,19 @@
     ]
   },
   {
+    "id": "ecb-2026-06-22-christine-lagarde-hearing-of-t",
+    "typ": "omvarld",
+    "titel": "Christine Lagarde: Meghallgatás a Képviselőházi Gazdasági és Monetáris Bizottság előtt az Európai Parlamentben.",
+    "ingress": "Az Európai Központi Bank (EKB) emeli a kamatot, hogy megfékezze az emelkedő árakat. Ez azért történik, hogy megvédje a gazdaságot a közel-keleti háború következményeitől, amely miatt az energia ára drágább lett.",
+    "datum": "2026-06-22",
+    "kalla": "ECB",
+    "kalla_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260622~b060a27b78.en.html",
+    "taggar": [
+      "ekonomi",
+      "ecb"
+    ]
+  },
+  {
     "id": "HD03290",
     "typ": "lagforslag",
     "titel": "Svédország külügyi hírszerző szolgálata.",
@@ -4807,6 +4820,18 @@
     "datum": "2025-03-11",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03118.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03117",
+    "typ": "lagforslag",
+    "titel": "A Svéd Számvevőszék jelentése a harmadik országokból érkező hallgatókról a felsőoktatásban.",
+    "ingress": "A Svéd Számvevőszék felülvizsgálta, hogy a Svédországban tanulni vágyó, az EU/EGT-n kívüli országokból származó diákok hogyan jelentkeznek a tanulmányokhoz és hogyan fizetik azokat. A vizsgálat eredményeként megállapították, hogy a rendszer",
+    "datum": "2025-03-11",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03117.html",
     "taggar": [
       "riksdagen"
     ]
