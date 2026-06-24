@@ -264,6 +264,21 @@
     ]
   },
   {
+    "id": "stockholm-kommunstyrelsen-2026-06-03",
+    "typ": "kommunbeslut",
+    "titel": "Komisja ds. spraw miejskich, Urząd Miasta Sztokholm, 3 czerwca 2026 roku.",
+    "ingress": "Miasto Sztokholm wprowadza system cyfrowych akt osobowych dla wszystkich swoich wydziałów i przeznacza na ten cel 70 milionów koron szwedzkich. Dodatkowo, budynek Magasin 5 w dzielnicy Frihamnen zmieni właściciela za około 400 milionów koro",
+    "datum": "2026-06-03",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunstyrelsen/mote-2026-06-03",
+    "taggar": [
+      "stockholm",
+      "kommunstyrelsen",
+      "kommunal-forvaltning",
+      "digitalisering"
+    ]
+  },
+  {
     "id": "HD03269",
     "typ": "lagforslag",
     "titel": "Raport Najwyższej Izby Kontroli dotyczący działań państwa w zakresie walki z problemami związanymi z hazardem.",
@@ -4678,6 +4693,18 @@
     "datum": "2025-03-18",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03128.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03125",
+    "typ": "lagforslag",
+    "titel": "Działalność Organizacji Bezpieczeństwa i Współpracy w Europie (OBWE) w drugiej połowie 2023 roku oraz w całym roku 2024.",
+    "ingress": "Rząd przedstawia, jak wyglądała praca organizacji OBWE pod koniec 2023 roku i w całym 2024 roku. Celem jest przedstawienie raportu na temat tego, co wydarzyło się w organizacji, która działa na rzecz bezpieczeństwa w Europie.",
+    "datum": "2025-03-18",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03125.html",
     "taggar": [
       "riksdagen"
     ]
