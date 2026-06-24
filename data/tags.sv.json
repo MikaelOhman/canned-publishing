@@ -362,7 +362,7 @@
   "kommunstyrelsen": {
     "etikett": "Kommunstyrelsen",
     "typ": "organisation",
-    "antal": 2
+    "antal": 3
   },
   "kommunallagen": {
     "etikett": "Kommunallagen",
@@ -418,5 +418,20 @@
     "etikett": "EU-kommissionen",
     "typ": "organisation",
     "antal": 8
+  },
+  "orebro": {
+    "etikett": "Örebro",
+    "typ": "plats",
+    "antal": 1
+  },
+  "kommunal-ekonomi": {
+    "etikett": "Kommunal ekonomi",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "protokoll": {
+    "etikett": "Protokoll",
+    "typ": "händelse",
+    "antal": 1
   }
 }
