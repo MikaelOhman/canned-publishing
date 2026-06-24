@@ -66,6 +66,21 @@
     ]
   },
   {
+    "id": "stockholm-kommunstyrelsen-2026-06-17",
+    "typ": "kommunbeslut",
+    "titel": "Komisja ds. spraw miejskich, Urząd Miasta Sztokholm, 2026-06-17.",
+    "ingress": "Komisja transportu w Sztokholmie odpowiedziała na pytania dotyczące terminalu autobusowego w Slussen, przetwarzania danych osobowych oraz zmian w transporcie publicznym.",
+    "datum": "2026-06-17",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunstyrelsen/mote-2026-06-17",
+    "taggar": [
+      "stockholm",
+      "kommunstyrelsen",
+      "kommunal-forvaltning",
+      "karin-wanngard"
+    ]
+  },
+  {
     "id": "HD03286",
     "typ": "lagforslag",
     "titel": "Wzmocnienie ochrony niezależności sądów i sędziów.",
@@ -4591,6 +4606,18 @@
     "datum": "2025-03-18",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03135.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03134",
+    "typ": "lagforslag",
+    "titel": "Środki zwalczające nadużycia systemu płatności.\n\n*   **Identyfikacja i zapobieganie:**\n    *   Wprowadzenie zaawansowanych systemów monitoringu transakcji w celu wykrywania podejrzanych aktywności.\n    *   Wdrożenie silnych mechanizmów uwierzytelniania, takich jak uwierzytelnianie dwuskładnikowe (2FA).\n    *   Edukacja użytkowników na temat bezpiecznego korzystania z systemów płatności i rozpoznawania prób oszustwa.\n\n*   **Reagowanie na incydenty:**\n    *   Szybkie reagowanie na zgłoszenia nadużyć i blokowanie podejrzanych kont.\n    *   Współpraca z organami ścigania w celu ścigania sprawców nadużyć.\n    *   Odzyskiwanie środków w przypadku udanych ataków.\n\n*   **Udoskonalanie systemów:**\n    *   Regularne aktualizacje oprogramowania i zabezpieczeń w celu eliminacji luk w systemie.\n    *   Wprowadzanie nowych technologii i metod ochrony przed nadużyciami.\n    *   Monitorowanie i analiza trendów w obszarze nadużyć w celu proaktywnego zapobiegania im.",
+    "ingress": "Rząd zamierza zmienić przepisy prawne, aby uniemożliwić przestępcom wykorzystywanie przelewów bankowych do popełniania przestępstw. Nowe przepisy mają ułatwić bankom i policji wykrywanie i zwalczanie prania brudnych pieniędzy.",
+    "datum": "2025-03-18",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03134.html",
     "taggar": [
       "riksdagen"
     ]

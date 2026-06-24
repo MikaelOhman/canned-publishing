@@ -69,6 +69,21 @@
     ]
   },
   {
+    "id": "stockholm-kommunstyrelsen-2026-06-17",
+    "typ": "kommunbeslut",
+    "titel": "A stockholmi városi önkormányzat kommunális bizottsága, 2026. június 17.",
+    "ingress": "A stockholmi önkormányzat közlekedési bizottsága válaszolt a következő kérdésekre: a Slussen buszterminál, a személyes adatok kezelése és a tömegközlekedés változásai.",
+    "datum": "2026-06-17",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunstyrelsen/mote-2026-06-17",
+    "taggar": [
+      "stockholm",
+      "kommunstyrelsen",
+      "kommunal-forvaltning",
+      "karin-wanngard"
+    ]
+  },
+  {
     "id": "HD03286",
     "typ": "lagforslag",
     "titel": "A bíróságok és bírák függetlenségének megerősítése.",
@@ -4534,6 +4549,18 @@
     "datum": "2025-03-18",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03135.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03134",
+    "typ": "lagforslag",
+    "titel": "A fizetési rendszerek visszaélések elleni védelme.\n\n*   A visszaélések megelőzése.\n*   A visszaélések felderítése.\n*   A visszaélések visszaszorítása.\n*   A visszaélések okozta károk minimalizálása.\n*   A visszaélések elkövetőinek felelősségre vonása.",
+    "ingress": "A kormány szeretné módosítani a törvényeket annak érdekében, hogy megakadályozza a bűnözők számára, hogy banki átutalásokat használjanak bűncselekmények elkövetéséhez. Az új szabályok célja, hogy megkönnyítsék a bankok és a rendőrség számár",
+    "datum": "2025-03-18",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03134.html",
     "taggar": [
       "riksdagen"
     ]

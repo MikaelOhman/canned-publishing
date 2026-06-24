@@ -32,7 +32,7 @@
   "riksdagen": {
     "etikett": "A Svéd Parlament.",
     "typ": "organisation",
-    "antal": 387
+    "antal": 388
   },
   "underrattelsetjanst": {
     "etikett": "Hírszerzés",
@@ -287,7 +287,7 @@
   "stockholm": {
     "etikett": "Stockholm.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "kommunfullmaktige": {
     "etikett": "A települési közgyűlés.",
@@ -302,6 +302,21 @@
   "trafik": {
     "etikett": "Közlekedés.",
     "typ": "ämne",
+    "antal": 1
+  },
+  "kommunstyrelsen": {
+    "etikett": "A községi tanács.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "kommunal-forvaltning": {
+    "etikett": "Helyi közigazgatás.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "karin-wanngard": {
+    "etikett": "Karin Wanngård",
+    "typ": "person",
     "antal": 1
   }
 }
