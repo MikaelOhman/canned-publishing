@@ -32,7 +32,7 @@
   "riksdagen": {
     "etikett": "Het parlement.",
     "typ": "organisation",
-    "antal": 384
+    "antal": 385
   },
   "underrattelsetjanst": {
     "etikett": "Inlichtingendienst",
@@ -287,20 +287,25 @@
   "stockholm": {
     "etikett": "Stockholm.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "kommunfullmaktige": {
     "etikett": "Gemeenteraad.",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "kommunpolitik": {
     "etikett": "Gemeentepolitiek.",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "trafik": {
     "etikett": "Verkeer.",
+    "typ": "ämne",
+    "antal": 2
+  },
+  "stadsplanering": {
+    "etikett": "Stadsplanning.",
     "typ": "ämne",
     "antal": 1
   }

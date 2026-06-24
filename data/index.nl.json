@@ -344,6 +344,22 @@
     ]
   },
   {
+    "id": "stockholm-kommunfullmaktige-2026-05-25",
+    "typ": "kommunbeslut",
+    "titel": "Gemeenteraad, Stad Stockholm, 25 mei 2026.",
+    "ingress": "De gemeente Stockholm heeft veel beslissingen genomen over nieuwe bouwprojecten, parken en beschermde natuurgebieden. Dit omvat onder andere de bouw van nieuwe woningen, nieuwe wegen en de bescherming van de natuur in verschillende delen va",
+    "datum": "2026-05-25",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunfullmaktige/mote-2026-05-25",
+    "taggar": [
+      "stockholm",
+      "kommunfullmaktige",
+      "kommunpolitik",
+      "stadsplanering",
+      "trafik"
+    ]
+  },
+  {
     "id": "HD03267",
     "typ": "lagforslag",
     "titel": "Versterkte bescherming tegen buitenlanders die een ernstige bedreiging vormen voor de nationale veiligheid.",
@@ -4466,6 +4482,18 @@
     "datum": "2025-03-18",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03145.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03143",
+    "typ": "lagforslag",
+    "titel": "Een basisschool met een leerjaarstraject van tien jaar.",
+    "ingress": "De regering wil de onderwijs wetgeving wijzigen, waardoor het basisonderwijs een extra jaar krijgt en de voorbereidingsklas wordt afgeschaft. Het nieuwe voorstel betekent dat de school eerder begint en dat kinderen meer lesuren krijgen.",
+    "datum": "2025-03-18",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03143.html",
     "taggar": [
       "riksdagen"
     ]
