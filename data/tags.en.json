@@ -72,7 +72,7 @@
   "riksdagen": {
     "etikett": "Swedish Parliament",
     "typ": "organisation",
-    "antal": 386
+    "antal": 387
   },
   "straffratt": {
     "etikett": "Criminal law",
@@ -347,7 +347,7 @@
   "stockholm": {
     "etikett": "Stockholm:",
     "typ": "plats",
-    "antal": 2
+    "antal": 3
   },
   "kommunfullmaktige": {
     "etikett": "Municipal council.",
@@ -366,6 +366,21 @@
   },
   "stadsplanering": {
     "etikett": "Urban planning.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "kommunstyrelsen": {
+    "etikett": "The Municipal Board.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "kommunal-forvaltning": {
+    "etikett": "Municipal administration.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "digitalisering": {
+    "etikett": "Digitalization\n\n(The rest of the text would follow here, depending on what was originally in the Swedish text.)",
     "typ": "ämne",
     "antal": 1
   }

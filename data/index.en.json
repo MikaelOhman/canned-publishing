@@ -287,6 +287,21 @@
     ]
   },
   {
+    "id": "stockholm-kommunstyrelsen-2026-06-03",
+    "typ": "kommunbeslut",
+    "titel": "City Council, Stockholm, June 3, 2026.",
+    "ingress": "The City of Stockholm plans to implement digital personnel records for all of its departments and will invest 70 million Swedish krona in this initiative. Additionally, a building in Frihamnen, called Magasin 5, is set to change ownership f",
+    "datum": "2026-06-03",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunstyrelsen/mote-2026-06-03",
+    "taggar": [
+      "stockholm",
+      "kommunstyrelsen",
+      "kommunal-forvaltning",
+      "digitalisering"
+    ]
+  },
+  {
     "id": "HD03269",
     "typ": "lagforslag",
     "titel": "The Swedish National Audit Agency's report on the state's efforts to address problems related to gambling.",
@@ -4669,6 +4684,18 @@
     "datum": "2025-03-18",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03133.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03132",
+    "typ": "lagforslag",
+    "titel": "Easing of building requirements for student housing.\n\n*   Reduced requirements for fire safety.\n*   Lower demands on accessibility.\n*   Simplified regulations regarding ventilation.\n*   Changes to requirements for soundproofing.\n*   Relaxed rules concerning the use of materials.",
+    "ingress": "The government is proposing new regulations that will make it easier to build student housing by lowering the requirements for accessibility. The proposal is planned to come into effect on July 1, 2025.",
+    "datum": "2025-03-18",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03132.html",
     "taggar": [
       "riksdagen"
     ]
