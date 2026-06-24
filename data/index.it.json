@@ -65,6 +65,19 @@
     ]
   },
   {
+    "id": "eu-kommissionen-2026-06-24-commission-pays-846-million-to",
+    "typ": "omvarld",
+    "titel": "La Commissione Europea stanzierà 846 milioni di euro alla Spagna per sostenere la ripresa dopo le inondazioni avvenute nella regione di Valencia nel 2024.",
+    "ingress": "L'Unione Europea stanzia 846 milioni di euro alla Spagna per contribuire alla ricostruzione della regione di Valencia, devastata dalle gravi inondazioni del 2024.",
+    "datum": "2026-06-24",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1445",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ]
+  },
+  {
     "id": "HD03288",
     "typ": "lagforslag",
     "titel": "Relazione della Corte dei Conti svedese sulla gestione da parte dello Stato delle attività amministrative dei comuni, con riferimento alla legge LSS.",
@@ -5004,6 +5017,18 @@
     "datum": "2025-03-06",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03115.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03113",
+    "typ": "lagforslag",
+    "titel": "Partecipazione svedese alle operazioni di difesa aerea nell'ambito della NATO.",
+    "ingress": "La Svezia prevede di inviare otto aerei da combattimento in Polonia durante la primavera e l'estate del 2025. L'obiettivo è quello di supportare la NATO nella protezione di importanti convogli di aiuti destinati all'Ucraina.",
+    "datum": "2025-03-06",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03113.html",
     "taggar": [
       "riksdagen"
     ]

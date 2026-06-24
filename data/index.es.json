@@ -65,6 +65,19 @@
     ]
   },
   {
+    "id": "eu-kommissionen-2026-06-24-commission-pays-846-million-to",
+    "typ": "omvarld",
+    "titel": "La Comisión Europea ha aprobado una asignación de 846 millones de euros para España, destinada a apoyar la recuperación tras las inundaciones que afectaron a la región de Valencia en 2024.",
+    "ingress": "La Unión Europea destina 846 millones de euros a España para ayudar en la reconstrucción de la región de Valencia, afectada por las graves inundaciones de 2024.",
+    "datum": "2026-06-24",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1445",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ]
+  },
+  {
     "id": "HD03288",
     "typ": "lagforslag",
     "titel": "Informe de la Auditoría Nacional sobre la gestión estatal de las funciones de las autoridades municipales en relación con la Ley de Apoyo a las Personas con Discapacidad (LSS).",
@@ -4999,6 +5012,18 @@
     "datum": "2025-03-06",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03115.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03113",
+    "typ": "lagforslag",
+    "titel": "Participación sueca en operaciones de defensa aérea dentro del marco de la OTAN.",
+    "ingress": "Suecia planea enviar ocho aviones de combate a Polonia durante la primavera y el verano de 2025. El objetivo es ayudar a la OTAN a proteger importantes rutas de suministro a Ucrania.",
+    "datum": "2025-03-06",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03113.html",
     "taggar": [
       "riksdagen"
     ]

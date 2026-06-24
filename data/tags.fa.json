@@ -32,7 +32,7 @@
   "riksdagen": {
     "etikett": "مجلس نمایندگان",
     "typ": "organisation",
-    "antal": 414
+    "antal": 415
   },
   "underrattelsetjanst": {
     "etikett": "سازمان اطلاعات",
@@ -327,11 +327,11 @@
   "eu": {
     "etikett": "اتحادیه اروپا (EU)",
     "typ": "organisation",
-    "antal": 2
+    "antal": 3
   },
   "eu-kommissionen": {
     "etikett": "کمیسیون اروپا",
     "typ": "organisation",
-    "antal": 2
+    "antal": 3
   }
 }

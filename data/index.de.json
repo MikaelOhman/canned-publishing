@@ -65,6 +65,19 @@
     ]
   },
   {
+    "id": "eu-kommissionen-2026-06-24-commission-pays-846-million-to",
+    "typ": "omvarld",
+    "titel": "Die Europäische Kommission zahlt Spanien 846 Millionen Euro, um die Region Valencia bei der Bewältigung der Folgen der Überschwemmungen im Jahr 2024 zu unterstützen.",
+    "ingress": "Die Europäische Union stellt Spanien 846 Millionen Euro zur Verfügung, um beim Wiederaufbau der Region Valencia nach den verheerenden Überschwemmungen im Jahr 2024 zu helfen.",
+    "datum": "2026-06-24",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1445",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ]
+  },
+  {
     "id": "HD03288",
     "typ": "lagforslag",
     "titel": "Bericht des Riksrevisionen über die Steuerung der Ausübung von Behördenaufgaben durch den Staat in Bezug auf die Gemeinden, insbesondere im Hinblick auf das LSS-Gesetz.",
@@ -5008,6 +5021,18 @@
     "datum": "2025-03-06",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03115.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03113",
+    "typ": "lagforslag",
+    "titel": "Schwedische Beteiligung an Luftverteidigungsoperationen im Rahmen der NATO.",
+    "ingress": "Schweden plant, im Frühling und Sommer 2025 acht Kampfjets nach Polen zu entsenden. Ziel ist es, die NATO bei der Sicherung wichtiger Transporte in die Ukraine zu unterstützen.",
+    "datum": "2025-03-06",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03113.html",
     "taggar": [
       "riksdagen"
     ]

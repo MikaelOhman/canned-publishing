@@ -65,6 +65,19 @@
     ]
   },
   {
+    "id": "eu-kommissionen-2026-06-24-commission-pays-846-million-to",
+    "typ": "omvarld",
+    "titel": "Az Európai Bizottság 846 millió eurót utal Spanyolországba, hogy támogatást nyújtson a 2024-ben a Valencia régióban történt árvizek utáni helyreállításnak.",
+    "ingress": "Az Európai Unió 846 millió eurót utalt Spanyolországba, hogy segítsen a Valencia régió újjáépítésében a 2024-es súlyos árvizek után.",
+    "datum": "2026-06-24",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1445",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ]
+  },
+  {
     "id": "HD03288",
     "typ": "lagforslag",
     "titel": "A Svéd Számvevőszék jelentése a kormányzat szerepéről a helyi önkormányzatok hatósági tevékenységének irányításában, amely a LSS (Law on Support and Service) törvényre vonatkozik.",
@@ -4944,6 +4957,18 @@
     "datum": "2025-03-06",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03115.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03113",
+    "typ": "lagforslag",
+    "titel": "A svéd részvétele a NATO keretében zajló légvédelmi műveletekben.",
+    "ingress": "Svédország terve, hogy 2025 tavaszán és nyarán nyolc harci repülőgépet küld Lengyelországba. A céljuk, hogy támogassák a NATO-t az Ukrajnába irányuló fontos szállítások védelmében.",
+    "datum": "2025-03-06",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03113.html",
     "taggar": [
       "riksdagen"
     ]
