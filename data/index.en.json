@@ -1,5 +1,18 @@
 [
   {
+    "id": "ecb-2026-06-24-ecb-reports-on-progress-toward",
+    "typ": "omvarld",
+    "titel": "The ECB (European Central Bank) reports on the progress made towards the introduction of the euro.",
+    "ingress": "The European Central Bank (ECB) reports that countries seeking to adopt the euro are facing difficulties in meeting the necessary criteria. Wars and global uncertainty are hindering the economic development of these countries, preventing th",
+    "datum": "2026-06-24",
+    "kalla": "ECB",
+    "kalla_url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260624~ec1dcac037.en.html",
+    "taggar": [
+      "ekonomi",
+      "ecb"
+    ]
+  },
+  {
     "id": "HD03288",
     "typ": "lagforslag",
     "titel": "The Swedish National Audit Office's report on the state's governance of municipalities' exercise of authority, specifically concerning the LSS (Law on Support and Service for Persons with Disabilities).",
@@ -4780,6 +4793,18 @@
     "datum": "2025-03-18",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03112.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03109",
+    "typ": "lagforslag",
+    "titel": "Changes to tax subsidies for solar panels and small-scale electricity generation.",
+    "ingress": "The government intends to reduce subsidies for solar panels and eliminate the tax deduction for self-generated electricity. This means that installing solar panels will become more expensive, and individuals will receive less money back for",
+    "datum": "2025-03-18",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03109.html",
     "taggar": [
       "riksdagen"
     ]

@@ -32,7 +32,7 @@
   "riksdagen": {
     "etikett": "Het parlement.",
     "typ": "organisation",
-    "antal": 402
+    "antal": 403
   },
   "underrattelsetjanst": {
     "etikett": "Inlichtingendienst",
@@ -112,7 +112,7 @@
   "ekonomi": {
     "etikett": "Economie",
     "typ": "ämne",
-    "antal": 2
+    "antal": 3
   },
   "sverige": {
     "etikett": "Zweden",
@@ -327,6 +327,11 @@
   "digitalisering": {
     "etikett": "Digitalisering\n\n(De tekst die hierna volgt is niet beschikbaar, dus ik kan deze niet vertalen. Geef de tekst die je vertaald wilt hebben.)",
     "typ": "ämne",
+    "antal": 1
+  },
+  "ecb": {
+    "etikett": "ECB",
+    "typ": "organisation",
     "antal": 1
   }
 }

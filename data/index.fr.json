@@ -1,5 +1,18 @@
 [
   {
+    "id": "ecb-2026-06-24-ecb-reports-on-progress-toward",
+    "typ": "omvarld",
+    "titel": "La Banque centrale européenne (BCE) publie un rapport sur les progrès réalisés en vue de l'introduction de l'euro.",
+    "ingress": "La Banque centrale européenne (BCE) rapporte que les pays souhaitant adopter l'euro rencontrent des difficultés pour atteindre les objectifs fixés. Les conflits et l'incertitude mondiale freinent le développement économique de ces pays, qui",
+    "datum": "2026-06-24",
+    "kalla": "ECB",
+    "kalla_url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260624~ec1dcac037.en.html",
+    "taggar": [
+      "ekonomi",
+      "ecb"
+    ]
+  },
+  {
     "id": "HD03288",
     "typ": "lagforslag",
     "titel": "Rapport de l'Inspection des finances publiques sur la gestion par l'État des activités administratives des municipalités, concernant la loi sur le soutien aux personnes handicapées (LSS).",
@@ -4747,6 +4760,18 @@
     "datum": "2025-03-18",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03112.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03109",
+    "typ": "lagforslag",
+    "titel": "Modifications des incitations fiscales pour les panneaux solaires et la microproduction d'électricité.",
+    "ingress": "Le gouvernement souhaite réduire les subventions pour les panneaux solaires et supprimer la déduction fiscale pour la production d'électricité propre. Cela signifie qu'il sera plus coûteux d'installer des panneaux solaires et que les partic",
+    "datum": "2025-03-18",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03109.html",
     "taggar": [
       "riksdagen"
     ]

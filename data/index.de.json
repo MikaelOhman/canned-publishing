@@ -1,5 +1,18 @@
 [
   {
+    "id": "ecb-2026-06-24-ecb-reports-on-progress-toward",
+    "typ": "omvarld",
+    "titel": "Die Europäische Zentralbank (EZB) berichtet über die Fortschritte bei der Einführung des Euro.",
+    "ingress": "Die Europäische Zentralbank (EZB) berichtet, dass Länder, die den Euro übernehmen möchten, Schwierigkeiten haben, ihre Ziele zu erreichen. Kriege und Unsicherheiten in der Welt führen dazu, dass sich die Wirtschaft dieser Länder nicht so en",
+    "datum": "2026-06-24",
+    "kalla": "ECB",
+    "kalla_url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260624~ec1dcac037.en.html",
+    "taggar": [
+      "ekonomi",
+      "ecb"
+    ]
+  },
+  {
     "id": "HD03288",
     "typ": "lagforslag",
     "titel": "Bericht des Riksrevisionen über die Steuerung der Ausübung von Behördenaufgaben durch den Staat in Bezug auf die Gemeinden, insbesondere im Hinblick auf das LSS-Gesetz.",
@@ -4748,6 +4761,18 @@
     "datum": "2025-03-18",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03112.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03109",
+    "typ": "lagforslag",
+    "titel": "Geänderte Steuervergünstigungen für Solarmodule und die dezentrale Stromerzeugung.",
+    "ingress": "Die Regierung plant, die Subventionen für Solaranlagen zu reduzieren und die Steuervergünstigungen für selbst erzeugten Strom abzuschaffen. Das bedeutet, dass die Installation von Solaranlagen teurer wird und man weniger Geld für den Strom",
+    "datum": "2025-03-18",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03109.html",
     "taggar": [
       "riksdagen"
     ]

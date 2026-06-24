@@ -72,7 +72,7 @@
   "riksdagen": {
     "etikett": "Riksdagen",
     "typ": "organisation",
-    "antal": 691
+    "antal": 692
   },
   "straffratt": {
     "etikett": "Straffrätt",
@@ -192,7 +192,7 @@
   "ekonomi": {
     "etikett": "Ekonomi",
     "typ": "ämne",
-    "antal": 2
+    "antal": 3
   },
   "bolagsforvaltning": {
     "etikett": "Bolagsförvaltning",
@@ -402,6 +402,11 @@
   "digitalisering": {
     "etikett": "Digitalisering",
     "typ": "ämne",
+    "antal": 1
+  },
+  "ecb": {
+    "etikett": "ECB",
+    "typ": "organisation",
     "antal": 1
   }
 }

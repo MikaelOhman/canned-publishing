@@ -72,7 +72,7 @@
   "riksdagen": {
     "etikett": "Swedish Parliament",
     "typ": "organisation",
-    "antal": 394
+    "antal": 395
   },
   "straffratt": {
     "etikett": "Criminal law",
@@ -177,7 +177,7 @@
   "ekonomi": {
     "etikett": "Economics",
     "typ": "ämne",
-    "antal": 2
+    "antal": 3
   },
   "sverige": {
     "etikett": "Sweden",
@@ -382,6 +382,11 @@
   "digitalisering": {
     "etikett": "Digitalization\n\n(The rest of the text would follow here, depending on what was originally in the Swedish text.)",
     "typ": "ämne",
+    "antal": 1
+  },
+  "ecb": {
+    "etikett": "ECB",
+    "typ": "organisation",
     "antal": 1
   }
 }
