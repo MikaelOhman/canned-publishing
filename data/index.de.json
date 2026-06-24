@@ -52,6 +52,19 @@
     ]
   },
   {
+    "id": "eu-kommissionen-2026-06-24-daily-news-24-06-2026",
+    "typ": "omvarld",
+    "titel": "Tägliche Nachrichten, 24. Juni 2026.",
+    "ingress": "Die EU plant, im zweiten Halbjahr 2026 bis zu 80 Milliarden Euro durch die Ausgabe neuer Anleihen, sogenannte EU-Anleihen, zu beschaffen.",
+    "datum": "2026-06-24",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1447",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ]
+  },
+  {
     "id": "HD03288",
     "typ": "lagforslag",
     "titel": "Bericht des Riksrevisionen über die Steuerung der Ausübung von Behördenaufgaben durch den Staat in Bezug auf die Gemeinden, insbesondere im Hinblick auf das LSS-Gesetz.",
@@ -4983,6 +4996,18 @@
     "datum": "2025-03-06",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03126.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03115",
+    "typ": "lagforslag",
+    "titel": "Die Aktivitäten der Europäischen Union im Jahr 2024.",
+    "ingress": "Die Regierung berichtet darüber, wie die Arbeit in der Europäischen Union im Jahr 2024 verlaufen ist. Der Text zeigt, was geschehen ist und wie Schweden mit anderen Ländern in Europa zusammenarbeitet.",
+    "datum": "2025-03-06",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03115.html",
     "taggar": [
       "riksdagen"
     ]

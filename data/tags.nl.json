@@ -32,7 +32,7 @@
   "riksdagen": {
     "etikett": "Het parlement.",
     "typ": "organisation",
-    "antal": 414
+    "antal": 415
   },
   "underrattelsetjanst": {
     "etikett": "Inlichtingendienst",
@@ -337,11 +337,11 @@
   "eu": {
     "etikett": "EU",
     "typ": "organisation",
-    "antal": 2
+    "antal": 3
   },
   "eu-kommissionen": {
     "etikett": "De Europese Commissie.",
     "typ": "organisation",
-    "antal": 2
+    "antal": 3
   }
 }

@@ -52,6 +52,19 @@
     ]
   },
   {
+    "id": "eu-kommissionen-2026-06-24-daily-news-24-06-2026",
+    "typ": "omvarld",
+    "titel": "Codzienne wiadomości, 2026-06-24.",
+    "ingress": "Unia Europejska planuje pozyskać do 80 miliardów euro w drugiej połowie 2026 roku, emitując nowe obligacje, które będą nazywane obligacjami UE.",
+    "datum": "2026-06-24",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1447",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ]
+  },
+  {
     "id": "HD03288",
     "typ": "lagforslag",
     "titel": "Raport Najwyższej Izby Kontroli dotyczący sposobu zarządzania przez państwo nad działalnością samorządów w zakresie wykonywania przez nie zadań publicznych, w odniesieniu do ustawy o wsparciu dla osób niepełnosprawnych (LSS).",
@@ -4976,6 +4989,18 @@
     "datum": "2025-03-06",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03126.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03115",
+    "typ": "lagforslag",
+    "titel": "Działalność Unii Europejskiej w 2024 roku.\n\n(Poniżej lista, jeśli taka istnieje w oryginalnym tekście, powinna być przetłumaczona i zachowana w tej formie)",
+    "ingress": "Rząd przedstawia, jak wyglądała praca w Unii Europejskiej w roku 2024. Tekst pokazuje, co się wydarzyło i jak Szwecja współpracuje z innymi krajami w Europie.",
+    "datum": "2025-03-06",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03115.html",
     "taggar": [
       "riksdagen"
     ]

@@ -52,6 +52,19 @@
     ]
   },
   {
+    "id": "eu-kommissionen-2026-06-24-daily-news-24-06-2026",
+    "typ": "omvarld",
+    "titel": "Știri zilnice, 24 iunie 2026.",
+    "ingress": "Uniunea Europeană intenționează să emită noi obligațiuni, numite obligațiuni UE, pentru a acoperi nevoi de finanțare, cu o valoare potențială de până la 80 de miliarde de euro, în a doua parte a anului 2026.",
+    "datum": "2026-06-24",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1447",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ]
+  },
+  {
     "id": "HD03288",
     "typ": "lagforslag",
     "titel": "Raportul Agenției Naționale de Audit privind modul în care statul gestionează exercitarea autorității de către municipalități, referitor la Legea privind sprijinul pentru persoane cu dizabilități (LSS).",
@@ -4945,6 +4958,18 @@
     "datum": "2025-03-06",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03126.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03115",
+    "typ": "lagforslag",
+    "titel": "Activitatea Uniunii Europene în 2024.",
+    "ingress": "Guvernul prezintă modul în care a decurs activitatea în cadrul Uniunii Europene pe parcursul anului 2024. Textul ilustrează evenimentele importante și modul în care Suedia cooperează cu alte țări din Europa.",
+    "datum": "2025-03-06",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03115.html",
     "taggar": [
       "riksdagen"
     ]

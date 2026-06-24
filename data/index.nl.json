@@ -52,6 +52,19 @@
     ]
   },
   {
+    "id": "eu-kommissionen-2026-06-24-daily-news-24-06-2026",
+    "typ": "omvarld",
+    "titel": "Dagelijkse nieuwsberichten, 24 juni 2026.",
+    "ingress": "De Europese Unie plant om in de tweede helft van 2026 tot 80 miljard euro te lenen door nieuwe obligaties uit te geven, die EU-obligaties worden genoemd.",
+    "datum": "2026-06-24",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1447",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ]
+  },
+  {
     "id": "HD03288",
     "typ": "lagforslag",
     "titel": "Het rapport van de Rijksrekenkamer over de manier waarop de staat toezicht houdt op de uitvoering van wettelijke bevoegdheden door gemeenten, met betrekking tot de Wet ter ondersteuning van personen met een handicap (LSS).",
@@ -4963,6 +4976,18 @@
     "datum": "2025-03-06",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03126.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03115",
+    "typ": "lagforslag",
+    "titel": "De activiteiten van de Europese Unie in 2024.",
+    "ingress": "De regering geeft een overzicht van de activiteiten van de Europese Unie in het jaar 2024. De tekst beschrijft wat er is gebeurd en hoe Zweden samenwerkt met andere landen in Europa.",
+    "datum": "2025-03-06",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03115.html",
     "taggar": [
       "riksdagen"
     ]
