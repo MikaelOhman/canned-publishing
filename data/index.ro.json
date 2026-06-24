@@ -251,6 +251,21 @@
     ]
   },
   {
+    "id": "stockholm-kommunstyrelsen-2026-06-03",
+    "typ": "kommunbeslut",
+    "titel": "Comisia municipală, Primăria Stockholm, 3 iunie 2026.",
+    "ingress": "Primăria din Stockholm va introduce dosare electronice pentru toți angajații din cadrul diferitelor instituții subordonate, investind 70 de milioane de coroane suedeze în acest scop. De asemenea, o clădire din zona Frihamnen, Magasin 5, va",
+    "datum": "2026-06-03",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunstyrelsen/mote-2026-06-03",
+    "taggar": [
+      "stockholm",
+      "kommunstyrelsen",
+      "kommunal-forvaltning",
+      "digitalisering"
+    ]
+  },
+  {
     "id": "HD03269",
     "typ": "lagforslag",
     "titel": "Raportul Agenției Naționale de Audit privind activitatea statului în combaterea problemelor legate de jocurile de noroc.",
@@ -4671,6 +4686,18 @@
     "datum": "2025-03-18",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03123.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03122",
+    "typ": "lagforslag",
+    "titel": "Modificări legislative rezultate din noile reglementări ale Uniunii Europene privind vehiculele grele cu emisii zero.",
+    "ingress": "Noile reglementări din partea Uniunii Europene vor face ca un număr mai mare de camioane și vehicule de mari dimensiuni să fie considerate vehicule cu emisii zero. Acest lucru implică faptul că legile suedeze referitoare la taxele de drum ș",
+    "datum": "2025-03-18",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03122.html",
     "taggar": [
       "riksdagen"
     ]
