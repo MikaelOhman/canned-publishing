@@ -251,6 +251,21 @@
     ]
   },
   {
+    "id": "stockholm-kommunstyrelsen-2026-06-03",
+    "typ": "kommunbeslut",
+    "titel": "College van burgemeesters en wethouders, Gemeente Stockholm, 3 juni 2026.",
+    "ingress": "De gemeente Stockholm gaat digitale personeelsdossiers invoeren voor alle afdelingen en investeert hier 70 miljoen Zweedse kronen in. Daarnaast zal een gebouw in Frihamnen, Magasin 5, van eigenaar veranderen voor ongeveer 400 miljoen Zweeds",
+    "datum": "2026-06-03",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunstyrelsen/mote-2026-06-03",
+    "taggar": [
+      "stockholm",
+      "kommunstyrelsen",
+      "kommunal-forvaltning",
+      "digitalisering"
+    ]
+  },
+  {
     "id": "HD03269",
     "typ": "lagforslag",
     "titel": "Rapport van de Rijksrekenkamer over het werk van de staat tegen problemen met gokken.",
@@ -4641,6 +4656,18 @@
     "datum": "2025-03-18",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03131.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03129",
+    "typ": "lagforslag",
+    "titel": "Verscherpte maatregelen tegen het uitvoeren van gestolen goederen.\n\n*   De maatregelen zijn gericht op het voorkomen dat gestolen goederen het land uit worden vervoerd.\n*   De maatregelen omvatten onder meer strengere controles op grensovergangen en luchthavens.\n*   De maatregelen zijn van kracht vanaf [datum].\n*   Meer informatie is te vinden op [URL].",
+    "ingress": "De regering wil een nieuw strafbare feit invoeren om te voorkomen dat gestolen goederen het land uit worden gesmokkeld. Ze willen ook de douane meer bevoegdheden geven om illegale goederen te onderzoeken en in beslag te nemen.",
+    "datum": "2025-03-18",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03129.html",
     "taggar": [
       "riksdagen"
     ]

@@ -32,7 +32,7 @@
   "riksdagen": {
     "etikett": "Het parlement.",
     "typ": "organisation",
-    "antal": 396
+    "antal": 397
   },
   "underrattelsetjanst": {
     "etikett": "Inlichtingendienst",
@@ -287,7 +287,7 @@
   "stockholm": {
     "etikett": "Stockholm.",
     "typ": "plats",
-    "antal": 3
+    "antal": 4
   },
   "kommunfullmaktige": {
     "etikett": "Gemeenteraad.",
@@ -312,16 +312,21 @@
   "kommunstyrelsen": {
     "etikett": "Het college van burgemeester en wethouders.",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "kommunal-forvaltning": {
     "etikett": "Gemeentelijke administratie.",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "karin-wanngard": {
     "etikett": "Karin Wanngård",
     "typ": "person",
+    "antal": 1
+  },
+  "digitalisering": {
+    "etikett": "Digitalisering\n\n(De tekst die hierna volgt is niet beschikbaar, dus ik kan deze niet vertalen. Geef de tekst die je vertaald wilt hebben.)",
+    "typ": "ämne",
     "antal": 1
   }
 }
