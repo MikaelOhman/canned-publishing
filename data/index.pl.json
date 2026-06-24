@@ -26,6 +26,19 @@
     ]
   },
   {
+    "id": "eu-kommissionen-2026-06-24-press-remarks-by-commissioner-",
+    "typ": "omvarld",
+    "titel": "Oświadczenia komisarza Hoekstry dotyczące propozycji uproszczenia przepisów podatkowych.",
+    "ingress": "Komisja Europejska chce ułatwić firmom prowadzenie działalności poprzez uproszczenie przepisów podatkowych.",
+    "datum": "2026-06-24",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1450",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ]
+  },
+  {
     "id": "HD03288",
     "typ": "lagforslag",
     "titel": "Raport Najwyższej Izby Kontroli dotyczący sposobu zarządzania przez państwo nad działalnością samorządów w zakresie wykonywania przez nie zadań publicznych, w odniesieniu do ustawy o wsparciu dla osób niepełnosprawnych (LSS).",
@@ -4926,6 +4939,18 @@
     "datum": "2025-03-11",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03107.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC0395",
+    "typ": "lagforslag",
+    "titel": "Raport Najwyższej Izby Kontroli dotyczący pracy zdalnej w urzędach państwowych.",
+    "ingress": "Riksrevisionen przeprowadziła badania dotyczące funkcjonowania urzędów państwowych, gdy pracownicy pracują zdalnie. Wyniki pokazują, że praca zdalna nie zrujnowała funkcjonowania tych instytucji, ale konieczne jest dalsze monitorowanie wpły",
+    "datum": "2025-03-11",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC0395.html",
     "taggar": [
       "riksdagen"
     ]

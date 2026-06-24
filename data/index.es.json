@@ -26,6 +26,19 @@
     ]
   },
   {
+    "id": "eu-kommissionen-2026-06-24-press-remarks-by-commissioner-",
+    "typ": "omvarld",
+    "titel": "Declaraciones de la comisaria Hoekstra sobre la propuesta de normas fiscales simplificadas.",
+    "ingress": "La Comisión Europea busca facilitar la actividad empresarial simplificando las normas fiscales.",
+    "datum": "2026-06-24",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1450",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ]
+  },
+  {
     "id": "HD03288",
     "typ": "lagforslag",
     "titel": "Informe de la Auditoría Nacional sobre la gestión estatal de las funciones de las autoridades municipales en relación con la Ley de Apoyo a las Personas con Discapacidad (LSS).",
@@ -4924,6 +4937,18 @@
     "datum": "2025-03-11",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03107.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC0395",
+    "typ": "lagforslag",
+    "titel": "Informe de la Auditoría Nacional sobre el trabajo a distancia en las agencias gubernamentales.",
+    "ingress": "La Auditoría Nacional ha investigado cómo le va a las agencias gubernamentales cuando los empleados trabajan desde casa. Los resultados muestran que el trabajo a distancia no ha perjudicado el desempeño laboral, pero es necesario seguir con",
+    "datum": "2025-03-11",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC0395.html",
     "taggar": [
       "riksdagen"
     ]

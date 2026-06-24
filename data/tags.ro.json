@@ -32,7 +32,7 @@
   "riksdagen": {
     "etikett": "Parlamentul.",
     "typ": "organisation",
-    "antal": 406
+    "antal": 407
   },
   "underrattelsetjanst": {
     "etikett": "Serviciu de informații",
@@ -328,5 +328,15 @@
     "etikett": "Banca Centrală Europeană (BCE)",
     "typ": "organisation",
     "antal": 5
+  },
+  "eu": {
+    "etikett": "Uniunea Europeană.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "eu-kommissionen": {
+    "etikett": "Comisia Europeană.",
+    "typ": "organisation",
+    "antal": 1
   }
 }

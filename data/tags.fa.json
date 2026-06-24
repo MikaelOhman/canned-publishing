@@ -32,7 +32,7 @@
   "riksdagen": {
     "etikett": "مجلس نمایندگان",
     "typ": "organisation",
-    "antal": 411
+    "antal": 412
   },
   "underrattelsetjanst": {
     "etikett": "سازمان اطلاعات",
@@ -323,5 +323,15 @@
     "etikett": "بانک مرکزی اروپا (ECB)",
     "typ": "organisation",
     "antal": 5
+  },
+  "eu": {
+    "etikett": "اتحادیه اروپا (EU)",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "eu-kommissionen": {
+    "etikett": "کمیسیون اروپا",
+    "typ": "organisation",
+    "antal": 1
   }
 }

@@ -26,6 +26,19 @@
     ]
   },
   {
+    "id": "eu-kommissionen-2026-06-24-press-remarks-by-commissioner-",
+    "typ": "omvarld",
+    "titel": "اظهارات کمیسیونر هوکسترا در مورد پیشنهاد مربوط به قوانین مالیاتی ساده‌شده.",
+    "ingress": "کمیسیون اروپا قصد دارد با ساده‌سازی قوانین مالیاتی، فعالیت شرکت‌ها را آسان‌تر کند.",
+    "datum": "2026-06-24",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1450",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ]
+  },
+  {
     "id": "HD03288",
     "typ": "lagforslag",
     "titel": "گزارش حسابرسی ملی در مورد نحوه مدیریت دولت در مورد اختیارات شهرداری‌ها، مربوط به قانون حمایت از افراد دارای معلولیت (LSS).",
@@ -4893,6 +4906,18 @@
     "datum": "2025-03-11",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03107.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC0395",
+    "typ": "lagforslag",
+    "titel": "گزارش حسابرسی ملی (Riksrevisionen) درباره کار از راه دور در سازمان‌های دولتی.",
+    "ingress": "اداره حسابرسی ملی سوئد بررسی کرده است که عملکرد سازمان‌های دولتی چگونه است زمانی که کارمندان از خانه کار می‌کنند. نتایج نشان می‌دهد که کار از راه دور، عملکرد کار را مختل نکرده است، اما باید به طور مداوم بر تأثیر آن بر محیط کار نظارت داشت.",
+    "datum": "2025-03-11",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC0395.html",
     "taggar": [
       "riksdagen"
     ]

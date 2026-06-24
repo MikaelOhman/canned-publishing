@@ -32,7 +32,7 @@
   "riksdagen": {
     "etikett": "El Parlamento.",
     "typ": "organisation",
-    "antal": 406
+    "antal": 407
   },
   "underrattelsetjanst": {
     "etikett": "Servicio de inteligencia",
@@ -328,5 +328,15 @@
     "etikett": "Banco Central Europeo.",
     "typ": "organisation",
     "antal": 5
+  },
+  "eu": {
+    "etikett": "La Unión Europea (UE)",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "eu-kommissionen": {
+    "etikett": "La Comisión Europea.",
+    "typ": "organisation",
+    "antal": 1
   }
 }

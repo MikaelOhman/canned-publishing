@@ -26,6 +26,19 @@
     ]
   },
   {
+    "id": "eu-kommissionen-2026-06-24-press-remarks-by-commissioner-",
+    "typ": "omvarld",
+    "titel": "Dichiarazioni della commissaria Hoekstra in merito alla proposta di regole fiscali semplificate.",
+    "ingress": "La Commissione Europea intende semplificare le normative fiscali per rendere più facile per le aziende svolgere le proprie attività.",
+    "datum": "2026-06-24",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1450",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ]
+  },
+  {
     "id": "HD03288",
     "typ": "lagforslag",
     "titel": "Relazione della Corte dei Conti svedese sulla gestione da parte dello Stato delle attività amministrative dei comuni, con riferimento alla legge LSS.",
@@ -4929,6 +4942,18 @@
     "datum": "2025-03-11",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03107.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC0395",
+    "typ": "lagforslag",
+    "titel": "Rapport dell'Ispettorato delle Finanze sul lavoro da remoto nelle amministrazioni statali.",
+    "ingress": "L'Ispettorato delle Finanze svedese ha esaminato come funzionano le amministrazioni pubbliche quando i dipendenti lavorano da casa. I risultati mostrano che il lavoro da remoto non ha compromesso l'operatività, ma è necessario continuare a",
+    "datum": "2025-03-11",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC0395.html",
     "taggar": [
       "riksdagen"
     ]

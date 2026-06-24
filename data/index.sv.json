@@ -39,6 +39,19 @@
     ]
   },
   {
+    "id": "eu-kommissionen-2026-06-24-remarks-by-executive-vice-pres",
+    "typ": "omvarld",
+    "titel": "Anmärkningar av verkställande vicepresident Virkkunen och kommissionärerna Brunner och McGrath om att stärka Europol och Eurojust.",
+    "ingress": "EU har beslutat om nya regler för att göra myndigheterna Europol och Eurojust starkare. Detta ska hjälpa till att bekämpa brott i Europa på ett bättre sätt.",
+    "datum": "2026-06-24",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1448",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ]
+  },
+  {
     "id": "HD03288",
     "typ": "lagforslag",
     "titel": "Riksrevisionens rapport om statens styrning av kommunernas myndighetsutövning som avser LSS",
@@ -4936,6 +4949,18 @@
     "datum": "2025-03-11",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03107.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC0395",
+    "typ": "lagforslag",
+    "titel": "Riksrevisionens rapport om distansarbete vid statliga myndigheter",
+    "ingress": "Riksrevisionen har undersökt hur det går för statliga myndigheter när anställda arbetar hemifrån. Resultatet visar att distansarbete inte har förstört arbetet, men att man måste fortsätta hålla koll på hur det påverkar arbetsmiljön.",
+    "datum": "2025-03-11",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC0395.html",
     "taggar": [
       "riksdagen"
     ]

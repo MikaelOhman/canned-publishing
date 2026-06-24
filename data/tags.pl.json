@@ -32,7 +32,7 @@
   "riksdagen": {
     "etikett": "Riksdagen",
     "typ": "organisation",
-    "antal": 405
+    "antal": 406
   },
   "underrattelsetjanst": {
     "etikett": "Służba wywiadu",
@@ -328,5 +328,15 @@
     "etikett": "Europejski Bank Centralny (EBC)",
     "typ": "organisation",
     "antal": 5
+  },
+  "eu": {
+    "etikett": "Unia Europejska.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "eu-kommissionen": {
+    "etikett": "Komisja Europejska.",
+    "typ": "organisation",
+    "antal": 1
   }
 }
