@@ -254,6 +254,21 @@
     ]
   },
   {
+    "id": "stockholm-kommunstyrelsen-2026-06-03",
+    "typ": "kommunbeslut",
+    "titel": "Commission municipale, Ville de Stockholm, 3 juin 2026.",
+    "ingress": "La ville de Stockholm va mettre en place des dossiers du personnel numériques pour toutes ses administrations et prévoit d'investir 70 millions de couronnes dans ce projet. De plus, un bâtiment situé dans le quartier de Frihamnen, le Magasi",
+    "datum": "2026-06-03",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunstyrelsen/mote-2026-06-03",
+    "taggar": [
+      "stockholm",
+      "kommunstyrelsen",
+      "kommunal-forvaltning",
+      "digitalisering"
+    ]
+  },
+  {
     "id": "HD03269",
     "typ": "lagforslag",
     "titel": "Rapport de l'Inspection des finances publiques sur l'action de l'État face aux problèmes liés aux jeux d'argent.",
@@ -4648,6 +4663,18 @@
     "datum": "2025-03-18",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03132.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03131",
+    "typ": "lagforslag",
+    "titel": "Nouvelles réglementations concernant les centres de données et les carburants durables, ainsi qu'une nouvelle obligation de réduction.",
+    "ingress": "Le gouvernement propose de nouvelles lois visant à améliorer l'environnement et à contrôler la consommation d'énergie. Ces mesures comprennent notamment l'obligation pour les centres de données de déclarer leur consommation électrique, ains",
+    "datum": "2025-03-18",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03131.html",
     "taggar": [
       "riksdagen"
     ]

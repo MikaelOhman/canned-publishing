@@ -271,6 +271,21 @@
     ]
   },
   {
+    "id": "stockholm-kommunstyrelsen-2026-06-03",
+    "typ": "kommunbeslut",
+    "titel": "Gemeindeverwaltungsrat, Stadt Stockholm, 3. Juni 2026.",
+    "ingress": "Die Stadt Stockholm wird digitale Personalakten für alle ihre Behörden einführen und dafür 70 Millionen Kronen investieren. Darüber hinaus wird ein Gebäude im Stadtteil Frihamnen, das Magasin 5, für etwa 400 Millionen Kronen den Besitzer we",
+    "datum": "2026-06-03",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunstyrelsen/mote-2026-06-03",
+    "taggar": [
+      "stockholm",
+      "kommunstyrelsen",
+      "kommunal-forvaltning",
+      "digitalisering"
+    ]
+  },
+  {
     "id": "HD03269",
     "typ": "lagforslag",
     "titel": "Bericht des Rechnungshofs über die Arbeit des Staates zur Bekämpfung von Problemen im Zusammenhang mit Glücksspielen.",
@@ -4649,6 +4664,18 @@
     "datum": "2025-03-18",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03132.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03131",
+    "typ": "lagforslag",
+    "titel": "Neue Regeln für Rechenzentren und nachhaltige Kraftstoffe sowie eine neue Reduktionspflicht.",
+    "ingress": "Die Regierung schlägt neue Gesetze vor, um den Umweltschutz zu verbessern und den Energieverbrauch zu kontrollieren. Dazu gehören unter anderem Vorschriften, die es Rechenzentren vorschreiben, ihren Stromverbrauch offenzulegen, sowie Änderu",
+    "datum": "2025-03-18",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03131.html",
     "taggar": [
       "riksdagen"
     ]

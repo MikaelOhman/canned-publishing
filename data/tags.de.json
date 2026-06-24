@@ -72,7 +72,7 @@
   "riksdagen": {
     "etikett": "Schwedisches Parlament",
     "typ": "organisation",
-    "antal": 391
+    "antal": 392
   },
   "straffratt": {
     "etikett": "Strafrecht",
@@ -347,7 +347,7 @@
   "stockholm": {
     "etikett": "Stockholm",
     "typ": "plats",
-    "antal": 3
+    "antal": 4
   },
   "kommunfullmaktige": {
     "etikett": "Gemeindevertretung",
@@ -372,16 +372,21 @@
   "kommunstyrelsen": {
     "etikett": "Der Gemeinderat.",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "kommunal-forvaltning": {
     "etikett": "Kommunale Verwaltung.",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "karin-wanngard": {
     "etikett": "Karin Wanngård",
     "typ": "person",
+    "antal": 1
+  },
+  "digitalisering": {
+    "etikett": "Digitalisierung\n\n(Followed by the original text, which I assume contains details about digitalisierung, but is not provided here.)",
+    "typ": "ämne",
     "antal": 1
   }
 }
