@@ -32,7 +32,7 @@
   "riksdagen": {
     "etikett": "Riksdagen",
     "typ": "organisation",
-    "antal": 409
+    "antal": 410
   },
   "underrattelsetjanst": {
     "etikett": "Służba wywiadu",
@@ -332,11 +332,11 @@
   "eu": {
     "etikett": "Unia Europejska.",
     "typ": "organisation",
-    "antal": 4
+    "antal": 5
   },
   "eu-kommissionen": {
     "etikett": "Komisja Europejska.",
     "typ": "organisation",
-    "antal": 4
+    "antal": 5
   }
 }

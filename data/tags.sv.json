@@ -72,7 +72,7 @@
   "riksdagen": {
     "etikett": "Riksdagen",
     "typ": "organisation",
-    "antal": 705
+    "antal": 706
   },
   "straffratt": {
     "etikett": "Straffrätt",
@@ -412,11 +412,11 @@
   "eu": {
     "etikett": "EU",
     "typ": "organisation",
-    "antal": 4
+    "antal": 6
   },
   "eu-kommissionen": {
     "etikett": "EU-kommissionen",
     "typ": "organisation",
-    "antal": 4
+    "antal": 6
   }
 }
