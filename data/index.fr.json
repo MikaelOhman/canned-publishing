@@ -69,6 +69,21 @@
     ]
   },
   {
+    "id": "stockholm-kommunstyrelsen-2026-06-17",
+    "typ": "kommunbeslut",
+    "titel": "Conseil municipal, Ville de Stockholm, 17 juin 2026.",
+    "ingress": "Le conseil municipal de Stockholm a répondu à des questions concernant le terminal de bus de Slussen, la gestion des données personnelles et les modifications apportées aux transports en commun.",
+    "datum": "2026-06-17",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunstyrelsen/mote-2026-06-17",
+    "taggar": [
+      "stockholm",
+      "kommunstyrelsen",
+      "kommunal-forvaltning",
+      "karin-wanngard"
+    ]
+  },
+  {
     "id": "HD03286",
     "typ": "lagforslag",
     "titel": "Renforcement de la protection de l'indépendance des tribunaux et des juges.",
@@ -4561,6 +4576,30 @@
     "datum": "2025-03-18",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03138.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03137",
+    "typ": "lagforslag",
+    "titel": "Compensation for radio and television companies due to private copying.\n\n*   **Rättslig grund:**\n*   **Syfte:**\n*   **Mottagare:**\n*   **Beräkning:**\n*   **Kontakt:**\n*   **Mer information:**",
+    "ingress": "Le gouvernement souhaite accorder aux chaînes de radio et de télévision le droit de percevoir des revenus lorsque des particuliers effectuent des copies privées de leurs émissions. Cette mesure est mise en place pour se conformer aux réglem",
+    "datum": "2025-03-18",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03137.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03136",
+    "typ": "lagforslag",
+    "titel": "Amélioration des conditions pour une aquaculture durable.\n\n*   Meilleures conditions pour une aquaculture durable.",
+    "ingress": "Le gouvernement souhaite modifier les lois afin de faciliter l'exploitation des élevages piscicoles. L'objectif est de regrouper toutes les réglementations environnementales en un seul endroit.",
+    "datum": "2025-03-18",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03136.html",
     "taggar": [
       "riksdagen"
     ]

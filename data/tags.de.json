@@ -72,7 +72,7 @@
   "riksdagen": {
     "etikett": "Schwedisches Parlament",
     "typ": "organisation",
-    "antal": 385
+    "antal": 387
   },
   "straffratt": {
     "etikett": "Strafrecht",
@@ -347,7 +347,7 @@
   "stockholm": {
     "etikett": "Stockholm",
     "typ": "plats",
-    "antal": 2
+    "antal": 3
   },
   "kommunfullmaktige": {
     "etikett": "Gemeindevertretung",
@@ -367,6 +367,21 @@
   "stadsplanering": {
     "etikett": "Stadtplanung.",
     "typ": "ämne",
+    "antal": 1
+  },
+  "kommunstyrelsen": {
+    "etikett": "Der Gemeinderat.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "kommunal-forvaltning": {
+    "etikett": "Kommunale Verwaltung.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "karin-wanngard": {
+    "etikett": "Karin Wanngård",
+    "typ": "person",
     "antal": 1
   }
 }

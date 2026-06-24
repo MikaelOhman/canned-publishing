@@ -83,6 +83,21 @@
     ]
   },
   {
+    "id": "stockholm-kommunstyrelsen-2026-06-17",
+    "typ": "kommunbeslut",
+    "titel": "Gemeindeverwaltungsrat, Stadt Stockholm, 17.06.2026.",
+    "ingress": "Der Gemeinderat von Stockholm hat Fragen zum Busbahnhof in Slussen, zur Verarbeitung personenbezogener Daten und zu Änderungen im öffentlichen Nahverkehr beantwortet.",
+    "datum": "2026-06-17",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunstyrelsen/mote-2026-06-17",
+    "taggar": [
+      "stockholm",
+      "kommunstyrelsen",
+      "kommunal-forvaltning",
+      "karin-wanngard"
+    ]
+  },
+  {
     "id": "HD03286",
     "typ": "lagforslag",
     "titel": "Stärkerer Schutz der Unabhängigkeit von Gerichten und Richtern",
@@ -4562,6 +4577,30 @@
     "datum": "2025-03-18",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03138.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03137",
+    "typ": "lagforslag",
+    "titel": "Entschädigung für Rundfunk- und Fernsehunternehmen aufgrund von Privatkopien.\n\nHier sind einige Informationen dazu:\n\n*   **Hintergrund:**\n    *   Private Kopien von Rundfunk- und Fernsehprogrammen werden in vielen Ländern durch das Urheberrecht geschützt.\n    *   Um Rundfunk- und Fernsehunternehmen für die Verluste zu entschädigen, die durch diese privaten Kopien entstehen, gibt es in einigen Ländern ein System der Entschädigung.\n\n*   **Wie funktioniert es?**\n    *   In der Regel wird eine Gebühr von den Herstellern von Geräten und Speichermedien erhoben, die für die private Kopie von Rundfunk- und Fernsehprogrammen verwendet werden können.\n    *   Diese Gebühr wird dann an eine Verwertungsgesellschaft weitergeleitet, die sie an die Rundfunk- und Fernsehunternehmen verteilt.\n\n*   **Beispiele:**\n    *   In Deutschland gibt es das Urheberrechtsgesetz, das Regelungen zur Entschädigung für private Kopien enthält.\n    *   Weitere Informationen finden Sie beispielsweise auf der Website der [nicht vorhandene URL].\n\n*   **Wichtige Punkte:**\n    *   Die genauen Regelungen zur Entschädigung für private Kopien können von Land zu Land unterschiedlich sein.\n    *   Es ist wichtig, sich über die geltenden Gesetze und Bestimmungen zu informieren, bevor man Rundfunk- und Fernsehprogramme privat kopiert.",
+    "ingress": "Die Regierung möchte Rundfunk- und Fernsehsendern das Recht einräumen, eine Vergütung zu erhalten, wenn Personen private Kopien ihrer Sendungen anfertigen. Dies geschieht, um die Vorschriften der Europäischen Union einzuhalten.",
+    "datum": "2025-03-18",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03137.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03136",
+    "typ": "lagforslag",
+    "titel": "Verbesserte Bedingungen für eine nachhaltige Aquakultur.\n\n*   Erhöhte Transparenz und Rückverfolgbarkeit.\n*   Förbättrade miljöstandarder.\n*   Stärkta kontroller och sanktioner.\n*   Forskning och utveckling för innovativa lösningar.\n*   Utbildning och kompetensutveckling för aktörer inom vattenbruket.\n*   Stöd till småskaliga och lokala producenter.\n*   Samarbete mellan myndigheter, näringsliv och forskning.\n*   Information och dialog med konsumenter.\n*   Minskad användning av antibiotika och kemikalier.\n*   Fokus på artberikning och biologisk mångfald.",
+    "ingress": "Die Regierung plant, die Gesetze zu ändern, um den Betrieb von Fischzuchtanlagen zu vereinfachen. Ziel ist es, alle Umweltvorschriften an einem Ort zusammenzufassen.",
+    "datum": "2025-03-18",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03136.html",
     "taggar": [
       "riksdagen"
     ]
