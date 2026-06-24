@@ -1,17 +1,79 @@
 {
   "sub": "Flerspråkiga nyheter",
-  "search_label": "Sök", "search_ph": "Skriv ett ord…",
+  "search_label": "Sök",
+  "search_ph": "Skriv ett ord…",
   "searchhelp": "Sök på taggar – skriv ett ord i taget, så filtreras nyheterna på vart och ett.",
-  "language": "Språk", "settings": "Visning",
-  "theme": "Tema", "textsize": "Textstorlek", "font": "Typsnitt",
-  "themegroups": {"standard": "Standard", "a11y": "Tillgänglighet"},
-  "themes": {"dark": "Mörkt", "light": "Ljust", "sepia": "Sepia", "midnatt": "Midnatt (OLED)", "nord": "Nord", "dracula": "Dracula", "solarized": "Solarized", "hk-svart": "Hög kontrast – svart", "hk-ljus": "Hög kontrast – ljus", "gul-svart": "Gul på svart"},
-  "texts": {"normal": "Normal", "large": "Stor", "xlarge": "Extra stor"},
-  "fonts": {"standard": "Standard", "lasvanlig": "Läsvänligt"},
-  "types": {"alla": "Alla", "nyhet": "Nyheter", "lagforslag": "Lagförslag", "kommunbeslut": "Kommunbeslut", "omvarld": "EU & omvärld"},
-  "typebadge": {"nyhet": "Nyhet", "lagforslag": "Lagförslag", "kommunbeslut": "Kommun", "omvarld": "EU/Omvärld"},
-  "tagtypes": {"ämne": "Ämne", "plats": "Plats", "person": "Person", "organisation": "Organisation", "händelse": "Händelse"},
-  "kalla": "Källa", "original": "Läs originalet hos",
-  "tldr_label": "Kort sagt", "lattlast_label": "Enkelt förklarat", "fulltext_label": "Hela texten",
-  "count": "träffar", "none": "Inga träffar.", "clear": "Rensa filter", "back": "← Tillbaka", "loadmore": "Ladda fler"
+  "language": "Språk",
+  "settings": "Visning",
+  "theme": "Tema",
+  "textsize": "Textstorlek",
+  "font": "Typsnitt",
+  "themegroups": {
+    "standard": "Standard",
+    "a11y": "Tillgänglighet"
+  },
+  "themes": {
+    "dark": "Mörkt",
+    "light": "Ljust",
+    "sepia": "Sepia",
+    "midnatt": "Midnatt (OLED)",
+    "nord": "Nord",
+    "dracula": "Dracula",
+    "solarized": "Solarized",
+    "hk-svart": "Hög kontrast – svart",
+    "hk-ljus": "Hög kontrast – ljus",
+    "gul-svart": "Gul på svart"
+  },
+  "texts": {
+    "normal": "Normal",
+    "large": "Stor",
+    "xlarge": "Extra stor"
+  },
+  "fonts": {
+    "standard": "Standard",
+    "lasvanlig": "Läsvänligt"
+  },
+  "types": {
+    "alla": "Alla",
+    "nyhet": "Nyheter",
+    "lagforslag": "Lagförslag",
+    "kommunbeslut": "Kommunbeslut",
+    "omvarld": "EU & omvärld"
+  },
+  "typebadge": {
+    "nyhet": "Nyhet",
+    "lagforslag": "Lagförslag",
+    "kommunbeslut": "Kommun",
+    "omvarld": "EU/Omvärld"
+  },
+  "tagtypes": {
+    "ämne": "Ämne",
+    "plats": "Plats",
+    "person": "Person",
+    "organisation": "Organisation",
+    "händelse": "Händelse"
+  },
+  "kalla": "Källa",
+  "original": "Läs originalet hos",
+  "tldr_label": "Kort sagt",
+  "lattlast_label": "Enkelt förklarat",
+  "fulltext_label": "Hela texten",
+  "count": "träffar",
+  "none": "Inga träffar.",
+  "clear": "Rensa filter",
+  "back": "← Tillbaka",
+  "loadmore": "Ladda fler",
+  "status": {
+    "title": "I siffror",
+    "articles": "artiklar",
+    "languages": "språk",
+    "municipalities": "kommuner",
+    "sources": "källor",
+    "updated": "Uppdaterad",
+    "fresh": "Uppdateras dagligen",
+    "stale": "Uppdateringar pausade",
+    "new30": "nya senaste 30 dygn",
+    "coverage": "Språktäckning",
+    "bytype": "Per typ"
+  }
 }

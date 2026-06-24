@@ -1,17 +1,79 @@
 {
   "sub": "Meertalig nieuws",
-  "search_label": "Zoeken", "search_ph": "Typ een woord…",
+  "search_label": "Zoeken",
+  "search_ph": "Typ een woord…",
   "searchhelp": "Zoek op trefwoorden – typ één woord per keer; resultaten worden op elk woord gefilterd.",
-  "language": "Taal", "settings": "Weergave",
-  "theme": "Thema", "textsize": "Tekstgrootte", "font": "Lettertype",
-  "themegroups": {"standard": "Standaard", "a11y": "Toegankelijkheid"},
-  "themes": {"dark": "Donker", "light": "Licht", "sepia": "Sepia", "midnatt": "Middernacht (OLED)", "nord": "Nord", "dracula": "Dracula", "solarized": "Solarized", "hk-svart": "Hoog contrast – zwart", "hk-ljus": "Hoog contrast – licht", "gul-svart": "Geel op zwart"},
-  "texts": {"normal": "Normaal", "large": "Groot", "xlarge": "Extra groot"},
-  "fonts": {"standard": "Standaard", "lasvanlig": "Leesbaar"},
-  "types": {"alla": "Alles", "nyhet": "Nieuws", "lagforslag": "Wetsvoorstellen", "kommunbeslut": "Gemeentelijk", "omvarld": "EU & wereld"},
-  "typebadge": {"nyhet": "Nieuws", "lagforslag": "Wetsvoorstel", "kommunbeslut": "Gemeente", "omvarld": "EU/wereld"},
-  "tagtypes": {"ämne": "Onderwerp", "plats": "Plaats", "person": "Persoon", "organisation": "Organisatie", "händelse": "Gebeurtenis"},
-  "kalla": "Bron", "original": "Lees het origineel bij",
-  "tldr_label": "Kort gezegd", "lattlast_label": "In eenvoudige taal", "fulltext_label": "Volledige tekst",
-  "count": "resultaten", "none": "Geen resultaten.", "clear": "Filters wissen", "back": "← Terug", "loadmore": "Meer laden"
+  "language": "Taal",
+  "settings": "Weergave",
+  "theme": "Thema",
+  "textsize": "Tekstgrootte",
+  "font": "Lettertype",
+  "themegroups": {
+    "standard": "Standaard",
+    "a11y": "Toegankelijkheid"
+  },
+  "themes": {
+    "dark": "Donker",
+    "light": "Licht",
+    "sepia": "Sepia",
+    "midnatt": "Middernacht (OLED)",
+    "nord": "Nord",
+    "dracula": "Dracula",
+    "solarized": "Solarized",
+    "hk-svart": "Hoog contrast – zwart",
+    "hk-ljus": "Hoog contrast – licht",
+    "gul-svart": "Geel op zwart"
+  },
+  "texts": {
+    "normal": "Normaal",
+    "large": "Groot",
+    "xlarge": "Extra groot"
+  },
+  "fonts": {
+    "standard": "Standaard",
+    "lasvanlig": "Leesbaar"
+  },
+  "types": {
+    "alla": "Alles",
+    "nyhet": "Nieuws",
+    "lagforslag": "Wetsvoorstellen",
+    "kommunbeslut": "Gemeentelijk",
+    "omvarld": "EU & wereld"
+  },
+  "typebadge": {
+    "nyhet": "Nieuws",
+    "lagforslag": "Wetsvoorstel",
+    "kommunbeslut": "Gemeente",
+    "omvarld": "EU/wereld"
+  },
+  "tagtypes": {
+    "ämne": "Onderwerp",
+    "plats": "Plaats",
+    "person": "Persoon",
+    "organisation": "Organisatie",
+    "händelse": "Gebeurtenis"
+  },
+  "kalla": "Bron",
+  "original": "Lees het origineel bij",
+  "tldr_label": "Kort gezegd",
+  "lattlast_label": "In eenvoudige taal",
+  "fulltext_label": "Volledige tekst",
+  "count": "resultaten",
+  "none": "Geen resultaten.",
+  "clear": "Filters wissen",
+  "back": "← Terug",
+  "loadmore": "Meer laden",
+  "status": {
+    "title": "In cijfers",
+    "articles": "artikelen",
+    "languages": "talen",
+    "municipalities": "gemeenten",
+    "sources": "bronnen",
+    "updated": "Bijgewerkt",
+    "fresh": "Dagelijks bijgewerkt",
+    "stale": "Updates gepauzeerd",
+    "new30": "nieuw in de afgelopen 30 dagen",
+    "coverage": "Taaldekking",
+    "bytype": "Per type"
+  }
 }

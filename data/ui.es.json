@@ -1,17 +1,79 @@
 {
   "sub": "Noticias multilingües",
-  "search_label": "Buscar", "search_ph": "Escribe una palabra…",
+  "search_label": "Buscar",
+  "search_ph": "Escribe una palabra…",
   "searchhelp": "Busca por etiquetas: escribe una palabra a la vez; los resultados se filtran con cada palabra.",
-  "language": "Idioma", "settings": "Visualización",
-  "theme": "Tema", "textsize": "Tamaño del texto", "font": "Fuente",
-  "themegroups": {"standard": "Estándar", "a11y": "Accesibilidad"},
-  "themes": {"dark": "Oscuro", "light": "Claro", "sepia": "Sepia", "midnatt": "Medianoche (OLED)", "nord": "Nord", "dracula": "Dracula", "solarized": "Solarized", "hk-svart": "Alto contraste – negro", "hk-ljus": "Alto contraste – claro", "gul-svart": "Amarillo sobre negro"},
-  "texts": {"normal": "Normal", "large": "Grande", "xlarge": "Muy grande"},
-  "fonts": {"standard": "Estándar", "lasvanlig": "Legible"},
-  "types": {"alla": "Todo", "nyhet": "Noticias", "lagforslag": "Proyectos de ley", "kommunbeslut": "Municipal", "omvarld": "UE y mundo"},
-  "typebadge": {"nyhet": "Noticia", "lagforslag": "Proyecto de ley", "kommunbeslut": "Municipio", "omvarld": "UE/Mundo"},
-  "tagtypes": {"ämne": "Tema", "plats": "Lugar", "person": "Persona", "organisation": "Organización", "händelse": "Evento"},
-  "kalla": "Fuente", "original": "Leer el original en",
-  "tldr_label": "En resumen", "lattlast_label": "En lenguaje sencillo", "fulltext_label": "Texto completo",
-  "count": "resultados", "none": "Sin resultados.", "clear": "Borrar filtros", "back": "← Volver", "loadmore": "Cargar más"
+  "language": "Idioma",
+  "settings": "Visualización",
+  "theme": "Tema",
+  "textsize": "Tamaño del texto",
+  "font": "Fuente",
+  "themegroups": {
+    "standard": "Estándar",
+    "a11y": "Accesibilidad"
+  },
+  "themes": {
+    "dark": "Oscuro",
+    "light": "Claro",
+    "sepia": "Sepia",
+    "midnatt": "Medianoche (OLED)",
+    "nord": "Nord",
+    "dracula": "Dracula",
+    "solarized": "Solarized",
+    "hk-svart": "Alto contraste – negro",
+    "hk-ljus": "Alto contraste – claro",
+    "gul-svart": "Amarillo sobre negro"
+  },
+  "texts": {
+    "normal": "Normal",
+    "large": "Grande",
+    "xlarge": "Muy grande"
+  },
+  "fonts": {
+    "standard": "Estándar",
+    "lasvanlig": "Legible"
+  },
+  "types": {
+    "alla": "Todo",
+    "nyhet": "Noticias",
+    "lagforslag": "Proyectos de ley",
+    "kommunbeslut": "Municipal",
+    "omvarld": "UE y mundo"
+  },
+  "typebadge": {
+    "nyhet": "Noticia",
+    "lagforslag": "Proyecto de ley",
+    "kommunbeslut": "Municipio",
+    "omvarld": "UE/Mundo"
+  },
+  "tagtypes": {
+    "ämne": "Tema",
+    "plats": "Lugar",
+    "person": "Persona",
+    "organisation": "Organización",
+    "händelse": "Evento"
+  },
+  "kalla": "Fuente",
+  "original": "Leer el original en",
+  "tldr_label": "En resumen",
+  "lattlast_label": "En lenguaje sencillo",
+  "fulltext_label": "Texto completo",
+  "count": "resultados",
+  "none": "Sin resultados.",
+  "clear": "Borrar filtros",
+  "back": "← Volver",
+  "loadmore": "Cargar más",
+  "status": {
+    "title": "En cifras",
+    "articles": "artículos",
+    "languages": "idiomas",
+    "municipalities": "municipios",
+    "sources": "fuentes",
+    "updated": "Actualizado",
+    "fresh": "Actualizado a diario",
+    "stale": "Actualizaciones en pausa",
+    "new30": "nuevos en los últimos 30 días",
+    "coverage": "Cobertura de idiomas",
+    "bytype": "Por tipo"
+  }
 }

@@ -1,17 +1,79 @@
 {
   "sub": "Multilingual news",
-  "search_label": "Search", "search_ph": "Type a word…",
+  "search_label": "Search",
+  "search_ph": "Type a word…",
   "searchhelp": "Search by tags – type one word at a time; results are filtered on each word.",
-  "language": "Language", "settings": "Display",
-  "theme": "Theme", "textsize": "Text size", "font": "Font",
-  "themegroups": {"standard": "Standard", "a11y": "Accessibility"},
-  "themes": {"dark": "Dark", "light": "Light", "sepia": "Sepia", "midnatt": "Midnight (OLED)", "nord": "Nord", "dracula": "Dracula", "solarized": "Solarized", "hk-svart": "High contrast – black", "hk-ljus": "High contrast – light", "gul-svart": "Yellow on black"},
-  "texts": {"normal": "Normal", "large": "Large", "xlarge": "Extra large"},
-  "fonts": {"standard": "Standard", "lasvanlig": "Readable"},
-  "types": {"alla": "All", "nyhet": "News", "lagforslag": "Bills", "kommunbeslut": "Municipal", "omvarld": "EU & World"},
-  "typebadge": {"nyhet": "News", "lagforslag": "Bill", "kommunbeslut": "Municipal", "omvarld": "EU/World"},
-  "tagtypes": {"ämne": "Topic", "plats": "Place", "person": "Person", "organisation": "Organisation", "händelse": "Event"},
-  "kalla": "Source", "original": "Read the original at",
-  "tldr_label": "TL;DR", "lattlast_label": "In plain language", "fulltext_label": "Full text",
-  "count": "results", "none": "No matches.", "clear": "Clear filters", "back": "← Back", "loadmore": "Load more"
+  "language": "Language",
+  "settings": "Display",
+  "theme": "Theme",
+  "textsize": "Text size",
+  "font": "Font",
+  "themegroups": {
+    "standard": "Standard",
+    "a11y": "Accessibility"
+  },
+  "themes": {
+    "dark": "Dark",
+    "light": "Light",
+    "sepia": "Sepia",
+    "midnatt": "Midnight (OLED)",
+    "nord": "Nord",
+    "dracula": "Dracula",
+    "solarized": "Solarized",
+    "hk-svart": "High contrast – black",
+    "hk-ljus": "High contrast – light",
+    "gul-svart": "Yellow on black"
+  },
+  "texts": {
+    "normal": "Normal",
+    "large": "Large",
+    "xlarge": "Extra large"
+  },
+  "fonts": {
+    "standard": "Standard",
+    "lasvanlig": "Readable"
+  },
+  "types": {
+    "alla": "All",
+    "nyhet": "News",
+    "lagforslag": "Bills",
+    "kommunbeslut": "Municipal",
+    "omvarld": "EU & World"
+  },
+  "typebadge": {
+    "nyhet": "News",
+    "lagforslag": "Bill",
+    "kommunbeslut": "Municipal",
+    "omvarld": "EU/World"
+  },
+  "tagtypes": {
+    "ämne": "Topic",
+    "plats": "Place",
+    "person": "Person",
+    "organisation": "Organisation",
+    "händelse": "Event"
+  },
+  "kalla": "Source",
+  "original": "Read the original at",
+  "tldr_label": "TL;DR",
+  "lattlast_label": "In plain language",
+  "fulltext_label": "Full text",
+  "count": "results",
+  "none": "No matches.",
+  "clear": "Clear filters",
+  "back": "← Back",
+  "loadmore": "Load more",
+  "status": {
+    "title": "By the numbers",
+    "articles": "articles",
+    "languages": "languages",
+    "municipalities": "municipalities",
+    "sources": "sources",
+    "updated": "Updated",
+    "fresh": "Updated daily",
+    "stale": "Updates paused",
+    "new30": "new in the last 30 days",
+    "coverage": "Language coverage",
+    "bytype": "By type"
+  }
 }

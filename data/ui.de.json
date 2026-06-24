@@ -1,17 +1,79 @@
 {
   "sub": "Mehrsprachige Nachrichten",
-  "search_label": "Suche", "search_ph": "Ein Wort eingeben…",
+  "search_label": "Suche",
+  "search_ph": "Ein Wort eingeben…",
   "searchhelp": "Nach Schlagwörtern suchen – ein Wort nach dem anderen eingeben; gefiltert wird nach jedem Wort.",
-  "language": "Sprache", "settings": "Anzeige",
-  "theme": "Thema", "textsize": "Textgröße", "font": "Schriftart",
-  "themegroups": {"standard": "Standard", "a11y": "Barrierefreiheit"},
-  "themes": {"dark": "Dunkel", "light": "Hell", "sepia": "Sepia", "midnatt": "Mitternacht (OLED)", "nord": "Nord", "dracula": "Dracula", "solarized": "Solarized", "hk-svart": "Hoher Kontrast – schwarz", "hk-ljus": "Hoher Kontrast – hell", "gul-svart": "Gelb auf Schwarz"},
-  "texts": {"normal": "Normal", "large": "Groß", "xlarge": "Sehr groß"},
-  "fonts": {"standard": "Standard", "lasvanlig": "Gut lesbar"},
-  "types": {"alla": "Alle", "nyhet": "Nachrichten", "lagforslag": "Gesetzentwürfe", "kommunbeslut": "Kommunal", "omvarld": "EU & Welt"},
-  "typebadge": {"nyhet": "Nachricht", "lagforslag": "Gesetzentwurf", "kommunbeslut": "Kommune", "omvarld": "EU/Welt"},
-  "tagtypes": {"ämne": "Thema", "plats": "Ort", "person": "Person", "organisation": "Organisation", "händelse": "Ereignis"},
-  "kalla": "Quelle", "original": "Original lesen bei",
-  "tldr_label": "Kurzfassung", "lattlast_label": "Einfach erklärt", "fulltext_label": "Vollständiger Text",
-  "count": "Treffer", "none": "Keine Treffer.", "clear": "Filter löschen", "back": "← Zurück", "loadmore": "Mehr laden"
+  "language": "Sprache",
+  "settings": "Anzeige",
+  "theme": "Thema",
+  "textsize": "Textgröße",
+  "font": "Schriftart",
+  "themegroups": {
+    "standard": "Standard",
+    "a11y": "Barrierefreiheit"
+  },
+  "themes": {
+    "dark": "Dunkel",
+    "light": "Hell",
+    "sepia": "Sepia",
+    "midnatt": "Mitternacht (OLED)",
+    "nord": "Nord",
+    "dracula": "Dracula",
+    "solarized": "Solarized",
+    "hk-svart": "Hoher Kontrast – schwarz",
+    "hk-ljus": "Hoher Kontrast – hell",
+    "gul-svart": "Gelb auf Schwarz"
+  },
+  "texts": {
+    "normal": "Normal",
+    "large": "Groß",
+    "xlarge": "Sehr groß"
+  },
+  "fonts": {
+    "standard": "Standard",
+    "lasvanlig": "Gut lesbar"
+  },
+  "types": {
+    "alla": "Alle",
+    "nyhet": "Nachrichten",
+    "lagforslag": "Gesetzentwürfe",
+    "kommunbeslut": "Kommunal",
+    "omvarld": "EU & Welt"
+  },
+  "typebadge": {
+    "nyhet": "Nachricht",
+    "lagforslag": "Gesetzentwurf",
+    "kommunbeslut": "Kommune",
+    "omvarld": "EU/Welt"
+  },
+  "tagtypes": {
+    "ämne": "Thema",
+    "plats": "Ort",
+    "person": "Person",
+    "organisation": "Organisation",
+    "händelse": "Ereignis"
+  },
+  "kalla": "Quelle",
+  "original": "Original lesen bei",
+  "tldr_label": "Kurzfassung",
+  "lattlast_label": "Einfach erklärt",
+  "fulltext_label": "Vollständiger Text",
+  "count": "Treffer",
+  "none": "Keine Treffer.",
+  "clear": "Filter löschen",
+  "back": "← Zurück",
+  "loadmore": "Mehr laden",
+  "status": {
+    "title": "In Zahlen",
+    "articles": "Artikel",
+    "languages": "Sprachen",
+    "municipalities": "Kommunen",
+    "sources": "Quellen",
+    "updated": "Aktualisiert",
+    "fresh": "Täglich aktualisiert",
+    "stale": "Aktualisierung pausiert",
+    "new30": "neue in den letzten 30 Tagen",
+    "coverage": "Sprachabdeckung",
+    "bytype": "Nach Typ"
+  }
 }

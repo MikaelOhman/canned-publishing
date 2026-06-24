@@ -24,7 +24,10 @@ const UIDEF = {sub:"Multilingual news",search_label:"Search",search_ph:"Type a w
   types:{alla:"All",nyhet:"News",lagforslag:"Bills",kommunbeslut:"Municipal",omvarld:"EU & World"},typebadge:{nyhet:"News",lagforslag:"Bill",kommunbeslut:"Municipal",omvarld:"EU/World"},
   tagtypes:{"ämne":"Topic","plats":"Place","person":"Person","organisation":"Organisation","händelse":"Event"},
   kalla:"Source",original:"Read the original at",count:"results",none:"No matches.",clear:"Clear filters",back:"← Back",
-  tldr_label:"TL;DR",lattlast_label:"In plain language",fulltext_label:"Full text",loadmore:"Load more"};
+  tldr_label:"TL;DR",lattlast_label:"In plain language",fulltext_label:"Full text",loadmore:"Load more",
+  status:{title:"By the numbers",articles:"articles",languages:"languages",municipalities:"municipalities covered",
+    sources:"sources",updated:"Updated",fresh:"Updated daily",stale:"Updates paused",
+    new30:"new in the last 30 days",coverage:"Language coverage",bytype:"By type"}};
 const ui = () => state.ui;
 
 async function getJSON(url){ const r = await fetch(url); if(!r.ok) throw new Error(url); return r.json(); }
@@ -89,6 +92,7 @@ async function loadLanguage(lang){
   catch(e){ try { state.ui = await getJSON('data/ui.en.json'); } catch(_){ state.ui = UIDEF; } }
   try { state.about = await getJSON(`data/about.${lang}.json`); }
   catch(e){ try { state.about = await getJSON('data/about.en.json'); } catch(_){ state.about = {}; } }
+  if(!state.status){ try { state.status = await getJSON('data/status.json'); } catch(e){ state.status = null; } }
   try { state.index = await getJSON(`data/index.${lang}.json`); state.tags = await getJSON(`data/tags.${lang}.json`); }
   catch(e){ state.index = []; state.tags = {}; }
   applyUI(); buildSettings();
@@ -163,10 +167,33 @@ function route(){
   else if(location.hash==='#om') openAbout();
   else stangOverlay();
 }
+function statusHTML(){
+  const s = state.status; if(!s) return '';
+  const u = ui(); const st = (u.status) || UIDEF.status;
+  // färskhet: <36h sedan uppdatering = "uppdateras dagligen"
+  let fresh = true;
+  if(s.uppdaterad){ const d = new Date(s.uppdaterad); if(!isNaN(d)) fresh = (Date.now()-d.getTime()) < 36*3600*1000; }
+  const big = (n,lbl)=>`<div class="stat-big"><b>${n}</b><span>${esc(lbl)}</span></div>`;
+  const typer = TYPER.filter(t=>(s.per_typ||{})[t]).map(t=>
+    `<span class="stat-typ ${BADGE_KLASS[t]||''}">${esc((u.types&&u.types[t])||t)} <b>${s.per_typ[t]}</b></span>`).join('');
+  const namn = k => (state.sprak.find(x=>x.kod===k)||{}).namn || k;
+  const ps = s.per_sprak||{}; const max = Math.max(1,...Object.values(ps));
+  const bars = Object.entries(ps).map(([k,n])=>
+    `<div class="stat-bar"><span class="bk">${esc(namn(k))}</span><span class="bt"><i style="width:${Math.round(n/max*100)}%"></i></span><span class="bn">${n}</span></div>`).join('');
+  return `<section class="statbox" aria-label="${esc(st.title)}">
+    <div class="stat-head"><h2>${esc(st.title)}</h2>
+      <span class="freshdot ${fresh?'ok':'stale'}" title="${esc(s.uppdaterad||'')}">${fresh?'🟢':'🟡'} ${esc(fresh?st.fresh:st.stale)}</span></div>
+    <div class="stat-row">${big(s.artiklar,st.articles)}${big(s.sprak,st.languages)}${big(s.kommuner,st.municipalities)}${big(s.kallor,st.sources)}</div>
+    ${typer?`<div class="stat-sub">${esc(st.bytype)}</div><div class="stat-typer">${typer}</div>`:''}
+    ${(s.nytt_30d!=null)?`<p class="stat-new">+${s.nytt_30d} ${esc(st.new30)}</p>`:''}
+    ${bars?`<div class="stat-sub">${esc(st.coverage)}</div><div class="stat-bars">${bars}</div>`:''}
+    <p class="stat-upd">${esc(st.updated)} ${esc((s.uppdaterad||'').replace('T',' '))}</p>
+  </section>`;
+}
 function openAbout(){
   const a = state.about||{}; const el = $('#about');
   el.innerHTML = `<button class="back">${esc(ui().back)}</button>
-    <h1>${esc(a.title||'')}</h1>${a.body||''}`;
+    <h1>${esc(a.title||'')}</h1>${a.body||''}${statusHTML()}`;
   el.querySelector('.back').addEventListener('click',()=>{ location.hash=''; });
   LISTVY.forEach(s=>$(s).classList.add('hidden')); $('#article').classList.add('hidden');
   el.classList.remove('hidden'); el.focus(); window.scrollTo(0,0);

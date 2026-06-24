@@ -1,17 +1,79 @@
 {
   "sub": "Többnyelvű hírek",
-  "search_label": "Keresés", "search_ph": "Írj be egy szót…",
+  "search_label": "Keresés",
+  "search_ph": "Írj be egy szót…",
   "searchhelp": "Keresés címkék szerint – írj be egy szót egyszerre; az eredmények minden szóra szűrődnek.",
-  "language": "Nyelv", "settings": "Megjelenítés",
-  "theme": "Téma", "textsize": "Szövegméret", "font": "Betűtípus",
-  "themegroups": {"standard": "Alap", "a11y": "Akadálymentesség"},
-  "themes": {"dark": "Sötét", "light": "Világos", "sepia": "Szépia", "midnatt": "Éjfél (OLED)", "nord": "Nord", "dracula": "Dracula", "solarized": "Solarized", "hk-svart": "Magas kontraszt – fekete", "hk-ljus": "Magas kontraszt – világos", "gul-svart": "Sárga feketén"},
-  "texts": {"normal": "Normál", "large": "Nagy", "xlarge": "Nagyon nagy"},
-  "fonts": {"standard": "Alap", "lasvanlig": "Olvasható"},
-  "types": {"alla": "Összes", "nyhet": "Hírek", "lagforslag": "Törvényjavaslatok", "kommunbeslut": "Önkormányzati", "omvarld": "EU és világ"},
-  "typebadge": {"nyhet": "Hír", "lagforslag": "Törvényjavaslat", "kommunbeslut": "Önkormányzat", "omvarld": "EU/világ"},
-  "tagtypes": {"ämne": "Téma", "plats": "Hely", "person": "Személy", "organisation": "Szervezet", "händelse": "Esemény"},
-  "kalla": "Forrás", "original": "Olvasd az eredetit itt:",
-  "tldr_label": "Röviden", "lattlast_label": "Egyszerű nyelven", "fulltext_label": "Teljes szöveg",
-  "count": "találat", "none": "Nincs találat.", "clear": "Szűrők törlése", "back": "← Vissza", "loadmore": "Több betöltése"
+  "language": "Nyelv",
+  "settings": "Megjelenítés",
+  "theme": "Téma",
+  "textsize": "Szövegméret",
+  "font": "Betűtípus",
+  "themegroups": {
+    "standard": "Alap",
+    "a11y": "Akadálymentesség"
+  },
+  "themes": {
+    "dark": "Sötét",
+    "light": "Világos",
+    "sepia": "Szépia",
+    "midnatt": "Éjfél (OLED)",
+    "nord": "Nord",
+    "dracula": "Dracula",
+    "solarized": "Solarized",
+    "hk-svart": "Magas kontraszt – fekete",
+    "hk-ljus": "Magas kontraszt – világos",
+    "gul-svart": "Sárga feketén"
+  },
+  "texts": {
+    "normal": "Normál",
+    "large": "Nagy",
+    "xlarge": "Nagyon nagy"
+  },
+  "fonts": {
+    "standard": "Alap",
+    "lasvanlig": "Olvasható"
+  },
+  "types": {
+    "alla": "Összes",
+    "nyhet": "Hírek",
+    "lagforslag": "Törvényjavaslatok",
+    "kommunbeslut": "Önkormányzati",
+    "omvarld": "EU és világ"
+  },
+  "typebadge": {
+    "nyhet": "Hír",
+    "lagforslag": "Törvényjavaslat",
+    "kommunbeslut": "Önkormányzat",
+    "omvarld": "EU/világ"
+  },
+  "tagtypes": {
+    "ämne": "Téma",
+    "plats": "Hely",
+    "person": "Személy",
+    "organisation": "Szervezet",
+    "händelse": "Esemény"
+  },
+  "kalla": "Forrás",
+  "original": "Olvasd az eredetit itt:",
+  "tldr_label": "Röviden",
+  "lattlast_label": "Egyszerű nyelven",
+  "fulltext_label": "Teljes szöveg",
+  "count": "találat",
+  "none": "Nincs találat.",
+  "clear": "Szűrők törlése",
+  "back": "← Vissza",
+  "loadmore": "Több betöltése",
+  "status": {
+    "title": "Számokban",
+    "articles": "cikk",
+    "languages": "nyelv",
+    "municipalities": "település",
+    "sources": "forrás",
+    "updated": "Frissítve",
+    "fresh": "Naponta frissül",
+    "stale": "Frissítés szüneteltetve",
+    "new30": "új az elmúlt 30 napban",
+    "coverage": "Nyelvi lefedettség",
+    "bytype": "Típus szerint"
+  }
 }
