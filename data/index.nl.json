@@ -69,6 +69,21 @@
     ]
   },
   {
+    "id": "stockholm-kommunstyrelsen-2026-06-17",
+    "typ": "kommunbeslut",
+    "titel": "College van burgemeesters en wethouders, Gemeente Stockholm, 17 juni 2026.",
+    "ingress": "Het gemeentebestuur van Stockholm heeft antwoord gegeven op vragen over het busstation in Slussen, de verwerking van persoonsgegevens en wijzigingen in het openbaar vervoer.",
+    "datum": "2026-06-17",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunstyrelsen/mote-2026-06-17",
+    "taggar": [
+      "stockholm",
+      "kommunstyrelsen",
+      "kommunal-forvaltning",
+      "karin-wanngard"
+    ]
+  },
+  {
     "id": "HD03286",
     "typ": "lagforslag",
     "titel": "Versterking van de bescherming van de onafhankelijkheid van de rechtbanken en rechters.",
@@ -4566,6 +4581,18 @@
     "datum": "2025-03-18",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03136.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03135",
+    "typ": "lagforslag",
+    "titel": "Een nieuw faillissementsproces.",
+    "ingress": "De regering wil de regels voor faillissementen wijzigen, zodat het proces sneller en eenvoudiger verloopt. Het doel is dat de rechtbank minder werk heeft en dat de partijen die het faillissement afhandelen meer verantwoordelijkheid dragen.",
+    "datum": "2025-03-18",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03135.html",
     "taggar": [
       "riksdagen"
     ]

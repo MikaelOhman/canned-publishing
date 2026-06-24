@@ -69,6 +69,21 @@
     ]
   },
   {
+    "id": "stockholm-kommunstyrelsen-2026-06-17",
+    "typ": "kommunbeslut",
+    "titel": "Comité Municipal, Ayuntamiento de Estocolmo, 17 de junio de 2026.",
+    "ingress": "La Junta Municipal de Estocolmo ha respondido a preguntas sobre la estación de autobuses de Slussen, el manejo de datos personales y los cambios en el transporte público.",
+    "datum": "2026-06-17",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunstyrelsen/mote-2026-06-17",
+    "taggar": [
+      "stockholm",
+      "kommunstyrelsen",
+      "kommunal-forvaltning",
+      "karin-wanngard"
+    ]
+  },
+  {
     "id": "HD03286",
     "typ": "lagforslag",
     "titel": "Mayor protección de la independencia de los tribunales y los jueces.",
@@ -4577,6 +4592,18 @@
     "datum": "2025-03-18",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03136.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03135",
+    "typ": "lagforslag",
+    "titel": "Un nuevo procedimiento de quiebra.",
+    "ingress": "El gobierno quiere modificar las normas sobre los procedimientos de quiebra para que sean más rápidos y sencillos. El objetivo es que los tribunales tengan que realizar menos trabajo y que aquellos que gestionan los procesos de quiebra asum",
+    "datum": "2025-03-18",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03135.html",
     "taggar": [
       "riksdagen"
     ]

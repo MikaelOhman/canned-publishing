@@ -69,6 +69,21 @@
     ]
   },
   {
+    "id": "stockholm-kommunstyrelsen-2026-06-17",
+    "typ": "kommunbeslut",
+    "titel": "Comitato esecutivo, Comune di Stoccolma, 17 giugno 2026.",
+    "ingress": "La giunta comunale di Stoccolma ha risposto a domande riguardanti la stazione degli autobus di Slussen, la gestione dei dati personali e le modifiche al trasporto pubblico.",
+    "datum": "2026-06-17",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunstyrelsen/mote-2026-06-17",
+    "taggar": [
+      "stockholm",
+      "kommunstyrelsen",
+      "kommunal-forvaltning",
+      "karin-wanngard"
+    ]
+  },
+  {
     "id": "HD03286",
     "typ": "lagforslag",
     "titel": "Maggiore protezione dell'indipendenza dei tribunali e dei giudici.",
@@ -4582,6 +4597,18 @@
     "datum": "2025-03-18",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03136.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03135",
+    "typ": "lagforslag",
+    "titel": "Una nuova procedura di fallimento.",
+    "ingress": "Il governo intende modificare le normative in materia di fall, al fine di accelerare le procedure e semplificarle. L'obiettivo è ridurre il carico di lavoro per i tribunali e aumentare la responsabilità di coloro che gestiscono le procedure",
+    "datum": "2025-03-18",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03135.html",
     "taggar": [
       "riksdagen"
     ]
