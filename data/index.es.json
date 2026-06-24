@@ -267,6 +267,21 @@
     ]
   },
   {
+    "id": "stockholm-kommunstyrelsen-2026-06-03",
+    "typ": "kommunbeslut",
+    "titel": "Junta de Gobierno, Ayuntamiento de Estocolmo, 3 de junio de 2026.",
+    "ingress": "El Ayuntamiento de Estocolmo implementará expedientes digitales para todo su personal y destinará 70 millones de coronas suecas a este proyecto. Además, un edificio en Frihamnen, llamado Magasin 5, cambiará de propietario por aproximadament",
+    "datum": "2026-06-03",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunstyrelsen/mote-2026-06-03",
+    "taggar": [
+      "stockholm",
+      "kommunstyrelsen",
+      "kommunal-forvaltning",
+      "digitalisering"
+    ]
+  },
+  {
     "id": "HD03269",
     "typ": "lagforslag",
     "titel": "Informe de la Auditoría Nacional sobre el trabajo del Estado para abordar los problemas relacionados con el juego.",
@@ -4664,6 +4679,18 @@
     "datum": "2025-03-18",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03129.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03128",
+    "typ": "lagforslag",
+    "titel": "Modificación de la ley sobre el impuesto sobre la renta especial para personas residentes en el extranjero.",
+    "ingress": "El gobierno quiere modificar las normas fiscales para que las personas que residen en el extranjero puedan tener que pagar impuestos en Suecia, incluso cuando trabajan en el extranjero a través de alquileres. Esto se aplica principalmente a",
+    "datum": "2025-03-18",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03128.html",
     "taggar": [
       "riksdagen"
     ]

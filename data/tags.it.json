@@ -32,7 +32,7 @@
   "riksdagen": {
     "etikett": "Il Parlamento.",
     "typ": "organisation",
-    "antal": 392
+    "antal": 393
   },
   "underrattelsetjanst": {
     "etikett": "Servizio di intelligence",
@@ -287,7 +287,7 @@
   "stockholm": {
     "etikett": "Stockholm.",
     "typ": "plats",
-    "antal": 3
+    "antal": 4
   },
   "kommunfullmaktige": {
     "etikett": "Consiglio comunale.",
@@ -312,16 +312,21 @@
   "kommunstyrelsen": {
     "etikett": "La giunta comunale.",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "kommunal-forvaltning": {
     "etikett": "Amministrazione comunale.",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "karin-wanngard": {
     "etikett": "Karin Wanngård",
     "typ": "person",
+    "antal": 1
+  },
+  "digitalisering": {
+    "etikett": "Digitalizzazione.",
+    "typ": "ämne",
     "antal": 1
   }
 }
