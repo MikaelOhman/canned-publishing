@@ -13,6 +13,19 @@
     ]
   },
   {
+    "id": "ecb-2026-06-24-iceland-joins-tips-for-instant",
+    "typ": "omvarld",
+    "titel": "Firma Island dołącza do systemu TIPS, umożliwiającego natychmiastowe płatności.",
+    "ingress": "Firma Island podpisała umowę, która umożliwia przesyłanie pieniędzy w islandzkich koronach bezpośrednio, przez całą dobę. Rozwiązanie to zacznie obowiązywać w 2028 roku dzięki nowemu systemowi szybkich płatności.",
+    "datum": "2026-06-24",
+    "kalla": "ECB",
+    "kalla_url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260624_1~ce8e85127f.en.html",
+    "taggar": [
+      "ekonomi",
+      "ecb"
+    ]
+  },
+  {
     "id": "HD03288",
     "typ": "lagforslag",
     "titel": "Raport Najwyższej Izby Kontroli dotyczący sposobu zarządzania przez państwo nad działalnością samorządów w zakresie wykonywania przez nie zadań publicznych, w odniesieniu do ustawy o wsparciu dla osób niepełnosprawnych (LSS).",
@@ -4790,6 +4803,18 @@
     "datum": "2025-03-18",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC0390.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC0375",
+    "typ": "lagforslag",
+    "titel": "Pisma Riksdagu skierowane do rządu – działania planowane na rok 2024.",
+    "ingress": "Rząd informuje, jakie działania podjął w 2024 roku, realizując wytyczne parlamentu. Prezentuje również informacje dotyczące liczby obowiązujących obecnie przepisów i regulacji.",
+    "datum": "2025-03-18",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC0375.html",
     "taggar": [
       "riksdagen"
     ]

@@ -32,7 +32,7 @@
   "riksdagen": {
     "etikett": "El Parlamento.",
     "typ": "organisation",
-    "antal": 399
+    "antal": 400
   },
   "underrattelsetjanst": {
     "etikett": "Servicio de inteligencia",
@@ -112,7 +112,7 @@
   "ekonomi": {
     "etikett": "Economía",
     "typ": "ämne",
-    "antal": 3
+    "antal": 4
   },
   "sverige": {
     "etikett": "Suecia",
@@ -327,6 +327,6 @@
   "ecb": {
     "etikett": "Banco Central Europeo.",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   }
 }

@@ -13,6 +13,19 @@
     ]
   },
   {
+    "id": "ecb-2026-06-24-iceland-joins-tips-for-instant",
+    "typ": "omvarld",
+    "titel": "L'Islanda aderisce al sistema TIPS per i pagamenti istantanei.",
+    "ingress": "Island ha firmato un accordo che permette di inviare denaro direttamente in corone islandesi, 24 ore su 24. Questo sistema, che entrerà in vigore nel 2028, si baserà su un nuovo sistema di pagamenti rapidi.",
+    "datum": "2026-06-24",
+    "kalla": "ECB",
+    "kalla_url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260624_1~ce8e85127f.en.html",
+    "taggar": [
+      "ekonomi",
+      "ecb"
+    ]
+  },
+  {
     "id": "HD03288",
     "typ": "lagforslag",
     "titel": "Relazione della Corte dei Conti svedese sulla gestione da parte dello Stato delle attività amministrative dei comuni, con riferimento alla legge LSS.",
@@ -4793,6 +4806,18 @@
     "datum": "2025-03-18",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC0390.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC0375",
+    "typ": "lagforslag",
+    "titel": "Comunicazioni del Parlamento svedese al governo – azioni intraprese nel 2024.",
+    "ingress": "Il governo rende pubblici i risultati del suo operato durante il 2024, in seguito alle direttive ricevute dal Parlamento. Inoltre, fornisce informazioni sul numero di leggi e regolamenti attualmente in vigore.",
+    "datum": "2025-03-18",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC0375.html",
     "taggar": [
       "riksdagen"
     ]

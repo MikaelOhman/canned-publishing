@@ -13,6 +13,19 @@
     ]
   },
   {
+    "id": "ecb-2026-06-24-iceland-joins-tips-for-instant",
+    "typ": "omvarld",
+    "titel": "أعلنت شركة Island عن انضمامها إلى شبكة TIPS لخدمات الدفع الفوري.",
+    "ingress": "وقعت شركة \"آيلاند\" اتفاقية تتيح إمكانية إرسال الأموال مباشرة بالكرون الأيسلندي، على مدار الساعة. وسينُفّذ هذا الإجراء اعتبارًا من عام 2028 من خلال نظام جديد للدفع السريع.",
+    "datum": "2026-06-24",
+    "kalla": "ECB",
+    "kalla_url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260624_1~ce8e85127f.en.html",
+    "taggar": [
+      "ekonomi",
+      "ecb"
+    ]
+  },
+  {
     "id": "HD03288",
     "typ": "lagforslag",
     "titel": "تقرير مكتب التدقيق الوطني حول إدارة الدولة لمهام السلطات المحلية المتعلقة بقانون دعم الأشخاص ذوي الإعاقة (LSS).",
@@ -4773,6 +4786,18 @@
     "datum": "2025-03-18",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC0390.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC0375",
+    "typ": "lagforslag",
+    "titel": "مذكرات البرلمان الموجهة إلى الحكومة - الإجراءات المتخذة خلال عام 2024.",
+    "ingress": "أعلنت الحكومة عن الإجراءات التي اتخذتها خلال عام 2024، وذلك استجابةً لتوجيهات البرلمان. كما قامت بعرض عدد القوانين واللوائح المعمول بها حاليًا.",
+    "datum": "2025-03-18",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC0375.html",
     "taggar": [
       "riksdagen"
     ]

@@ -32,7 +32,7 @@
   "riksdagen": {
     "etikett": "Het parlement.",
     "typ": "organisation",
-    "antal": 405
+    "antal": 406
   },
   "underrattelsetjanst": {
     "etikett": "Inlichtingendienst",
@@ -112,7 +112,7 @@
   "ekonomi": {
     "etikett": "Economie",
     "typ": "ämne",
-    "antal": 3
+    "antal": 4
   },
   "sverige": {
     "etikett": "Zweden",
@@ -332,6 +332,6 @@
   "ecb": {
     "etikett": "ECB",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   }
 }

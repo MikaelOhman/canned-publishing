@@ -13,6 +13,19 @@
     ]
   },
   {
+    "id": "ecb-2026-06-24-iceland-joins-tips-for-instant",
+    "typ": "omvarld",
+    "titel": "Az Island csatlakozik a TIPS rendszerhez, amely azonnali fizetéseket tesz lehetővé.",
+    "ingress": "Az Island pénzügyi intézete aláírt egy megállapodást, amely lehetővé teszi, hogy pénzt közvetlenül, 24 órában, izlandi korona valutában küldjenek. Ez a rendszer 2028-tól lép érvénybe egy új, gyorsabb fizetési rendszer keretében.",
+    "datum": "2026-06-24",
+    "kalla": "ECB",
+    "kalla_url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260624_1~ce8e85127f.en.html",
+    "taggar": [
+      "ekonomi",
+      "ecb"
+    ]
+  },
+  {
     "id": "HD03288",
     "typ": "lagforslag",
     "titel": "A Svéd Számvevőszék jelentése a kormányzat szerepéről a helyi önkormányzatok hatósági tevékenységének irányításában, amely a LSS (Law on Support and Service) törvényre vonatkozik.",
@@ -4733,6 +4746,18 @@
     "datum": "2025-03-18",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC0390.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC0375",
+    "typ": "lagforslag",
+    "titel": "A Svéd Parlament (Riksdag) kormányhoz intézett javaslatai – intézkedések 2024-re.",
+    "ingress": "A kormány arról számolt be, hogy 2024-ben mit tett, miután a parlament utasítást adott neki. Emellett bemutatta, hány törvény és szabályrendelet van jelenleg érvényben.",
+    "datum": "2025-03-18",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC0375.html",
     "taggar": [
       "riksdagen"
     ]
