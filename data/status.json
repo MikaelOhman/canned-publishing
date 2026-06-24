@@ -1,17 +1,17 @@
 {
-  "uppdaterad": "2026-06-24T23:18",
-  "artiklar": 452,
+  "uppdaterad": "2026-06-24T23:42",
+  "artiklar": 453,
   "sprak": 12,
-  "kommuner": 16,
-  "kallor": 6,
+  "kommuner": 30,
+  "kallor": 7,
   "per_typ": {
     "omvarld": 22,
     "lagforslag": 423,
-    "kommunbeslut": 4,
+    "kommunbeslut": 5,
     "nyhet": 3
   },
   "per_sprak": {
-    "sv": 452,
+    "sv": 453,
     "en": 450,
     "de": 447,
     "fr": 446,
@@ -25,5 +25,5 @@
     "fa": 438
   },
   "nytt_7d": 29,
-  "nytt_30d": 54
+  "nytt_30d": 55
 }
