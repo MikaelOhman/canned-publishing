@@ -39,6 +39,19 @@
     ]
   },
   {
+    "id": "eu-kommissionen-2026-06-24-remarks-by-executive-vice-pres",
+    "typ": "omvarld",
+    "titel": "Anmerkungen der Geschäftsführerin Virkkunen sowie der Kommissare Brunner und McGrath zur Stärkung von Europol und Eurojust.",
+    "ingress": "Die Europäische Union hat neue Regeln beschlossen, um die Behörden Europol und Eurojust zu stärken. Dies soll dazu beitragen, Kriminalität in Europa effektiver zu bekämpfen.",
+    "datum": "2026-06-24",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1448",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ]
+  },
+  {
     "id": "HD03288",
     "typ": "lagforslag",
     "titel": "Bericht des Riksrevisionen über die Steuerung der Ausübung von Behördenaufgaben durch den Staat in Bezug auf die Gemeinden, insbesondere im Hinblick auf das LSS-Gesetz.",
@@ -4958,6 +4971,18 @@
     "datum": "2025-03-11",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC0395.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03126",
+    "typ": "lagforslag",
+    "titel": "Neues Gesetz über internationale Sanktionen.\n\n*   Das Gesetz regelt die Anwendung von internationalen Sanktionen.\n*   Es enthält Bestimmungen über die Umsetzung von Sanktionen, die von der Europäischen Union oder den Vereinten Nationen verhängt werden.\n*   Das Gesetz soll sicherstellen, dass Sanktionen effektiv durchgesetzt werden und dass Verstöße geahndet werden.\n*   Es tritt am [Datum einfügen].\n*   Weitere Informationen finden Sie unter: [URL einfügen].",
+    "ingress": "Schweden schlägt ein neues Gesetz vor, um die EU-Bestimmungen zu internationalen Sanktionen umzusetzen. Dies bedeutet, dass die Strafen für Verstöße gegen diese Regeln verschärft werden sollen.",
+    "datum": "2025-03-06",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03126.html",
     "taggar": [
       "riksdagen"
     ]

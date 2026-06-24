@@ -39,6 +39,19 @@
     ]
   },
   {
+    "id": "eu-kommissionen-2026-06-24-remarks-by-executive-vice-pres",
+    "typ": "omvarld",
+    "titel": "Observations de la vice-présidente Virkkunen et des commissaires Brunner et McGrath concernant le renforcement d'Europol et d'Eurojust.",
+    "ingress": "L'Union européenne a adopté de nouvelles réglementations visant à renforcer les agences Europol et Eurojust. Ces mesures sont destinées à améliorer la lutte contre la criminalité en Europe.",
+    "datum": "2026-06-24",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1448",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ]
+  },
+  {
     "id": "HD03288",
     "typ": "lagforslag",
     "titel": "Rapport de l'Inspection des finances publiques sur la gestion par l'État des activités administratives des municipalités, concernant la loi sur le soutien aux personnes handicapées (LSS).",
@@ -4957,6 +4970,18 @@
     "datum": "2025-03-11",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC0395.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03126",
+    "typ": "lagforslag",
+    "titel": "Nouvelle loi sur les sanctions internationales.\n\n*   La loi réglemente l'application des sanctions internationales en Suède.\n*   Elle définit les obligations des autorités suédoises en matière de mise en œuvre des sanctions.\n*   Elle prévoit des sanctions pénales pour les violations de la loi.\n*   La loi entre en vigueur le 1er janvier 2024.\n*   Plus d'informations sont disponibles sur le site web du gouvernement suédois : [URL non fournie].",
+    "ingress": "La Suède propose une nouvelle loi pour se conformer aux réglementations de l'Union européenne concernant les sanctions internationales. Cette loi prévoit des sanctions plus sévères pour toute violation de ces réglementations.",
+    "datum": "2025-03-06",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03126.html",
     "taggar": [
       "riksdagen"
     ]
