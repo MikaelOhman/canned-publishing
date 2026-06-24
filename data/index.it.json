@@ -344,6 +344,22 @@
     ]
   },
   {
+    "id": "stockholm-kommunfullmaktige-2026-05-25",
+    "typ": "kommunbeslut",
+    "titel": "Consiglio comunale, Comune di Stoccolma, 25 maggio 2026.",
+    "ingress": "Il comune di Stoccolma ha preso numerose decisioni riguardanti nuovi progetti edilizi, parchi e aree naturali protette. Queste decisioni includono la costruzione di nuove abitazioni, la realizzazione di nuove strade e la protezione della na",
+    "datum": "2026-05-25",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunfullmaktige/mote-2026-05-25",
+    "taggar": [
+      "stockholm",
+      "kommunfullmaktige",
+      "kommunpolitik",
+      "stadsplanering",
+      "trafik"
+    ]
+  },
+  {
     "id": "HD03267",
     "typ": "lagforslag",
     "titel": "Maggiore protezione contro gli stranieri che rappresentano minacce alla sicurezza.",
@@ -4530,6 +4546,18 @@
     "datum": "2025-03-18",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03139.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03138",
+    "typ": "lagforslag",
+    "titel": "Maggiore protezione per i consumatori nel mercato del credito.",
+    "ingress": "Il governo intende modificare le leggi per proteggere le persone dal contrarre troppi debiti. L'obiettivo è ridurre il rischio che i privati cittadini si ritrovino con debiti eccessivi, rendendo più rigide le normative relative ai prestiti",
+    "datum": "2025-03-18",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03138.html",
     "taggar": [
       "riksdagen"
     ]
