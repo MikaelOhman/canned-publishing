@@ -32,7 +32,7 @@
   "riksdagen": {
     "etikett": "مجلس نمایندگان",
     "typ": "organisation",
-    "antal": 427
+    "antal": 428
   },
   "underrattelsetjanst": {
     "etikett": "سازمان اطلاعات",
@@ -117,7 +117,7 @@
   "eu-ratt": {
     "etikett": "قوانین اتحادیه اروپا",
     "typ": "ämne",
-    "antal": 1
+    "antal": 7
   },
   "batteriforordningen": {
     "etikett": "آیین‌نامه باتری‌ها",
@@ -172,7 +172,7 @@
   "straffratt": {
     "etikett": "مجرمات",
     "typ": "ämne",
-    "antal": 2
+    "antal": 3
   },
   "subventionsbrott": {
     "etikett": "جرایم مربوط به یارانه‌ها",
@@ -327,11 +327,16 @@
   "eu": {
     "etikett": "اتحادیه اروپا (EU)",
     "typ": "organisation",
-    "antal": 8
+    "antal": 13
   },
   "eu-kommissionen": {
     "etikett": "کمیسیون اروپا",
     "typ": "organisation",
     "antal": 8
+  },
+  "arresteringsorder": {
+    "etikett": "دستور بازداشت",
+    "typ": "ämne",
+    "antal": 1
   }
 }

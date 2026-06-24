@@ -32,22 +32,22 @@
   "riksdagen": {
     "etikett": "البرلمان.",
     "typ": "organisation",
-    "antal": 427
+    "antal": 429
   },
   "underrattelsetjanst": {
     "etikett": "جهاز الاستخبارات",
     "typ": "ämne",
-    "antal": 2
+    "antal": 3
   },
   "personuppgifter": {
     "etikett": "البيانات الشخصية",
     "typ": "ämne",
-    "antal": 3
+    "antal": 4
   },
   "nationell-sakerhet": {
     "etikett": "الأمن القومي",
     "typ": "ämne",
-    "antal": 3
+    "antal": 4
   },
   "migration": {
     "etikett": "الهجرة",
@@ -92,17 +92,17 @@
   "arresteringsorder": {
     "etikett": "مذكرة توقيف",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "eu-ratt": {
     "etikett": "قانون الاتحاد الأوروبي",
     "typ": "ämne",
-    "antal": 2
+    "antal": 8
   },
   "straffratt": {
     "etikett": "القانون الجنائي",
     "typ": "ämne",
-    "antal": 3
+    "antal": 4
   },
   "statligt-agande": {
     "etikett": "الملكية الحكومية",
@@ -332,7 +332,7 @@
   "eu": {
     "etikett": "الاتحاد الأوروبي.",
     "typ": "organisation",
-    "antal": 8
+    "antal": 13
   },
   "eu-kommissionen": {
     "etikett": "لجنة الاتحاد الأوروبي.",
