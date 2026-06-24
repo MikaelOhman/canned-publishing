@@ -62,6 +62,19 @@
     ]
   },
   {
+    "id": "ecb-2026-06-23-philip-r-lane-introductory-rem",
+    "typ": "omvarld",
+    "titel": "Philip R. Lane: Wstępne uwagi.",
+    "ingress": "Sytuacja na Bliskim Wschodzie oraz wysokie ceny energii powodują niepewność dla gospodarki europejskiej. W celu ochrony gospodarki przed rosnącymi cenami, podjęto decyzję o nieznacznym podwyższeniu stóp procentowych.",
+    "datum": "2026-06-23",
+    "kalla": "ECB",
+    "kalla_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260623~c112a749e2.en.html",
+    "taggar": [
+      "ekonomi",
+      "ecb"
+    ]
+  },
+  {
     "id": "HD03287",
     "typ": "lagforslag",
     "titel": "Nowa strategia polityczna dla silniejszego przemysłu filmowego.\n\n# Nowa strategia polityczna dla silniejszego przemysłu filmowego\n\n*   Cel: Stworzenie silniejszego i bardziej konkurencyjnego przemysłu filmowego.\n*   Strategia:\n    *   Wspieranie produkcji filmowej i telewizyjnej.\n    *   Promowanie innowacji i kreatywności.\n    *   Rozwój infrastruktury i zasobów.\n    *   Współpraca międzynarodowa.\n\n**Kluczowe obszary działania:**\n\n*   **Finansowanie:** Zwiększenie dotacji i ulg podatkowych dla producentów filmowych.\n*   **Edukacja:** Rozwój programów edukacyjnych i szkoleń dla przyszłych twórców filmowych.\n*   **Infrastruktura:** Inwestycje w budowę i modernizację studiów filmowych i innych obiektów.\n*   **Promocja:** Wspieranie dystrybucji i promocji polskich filmów na arenie międzynarodowej.\n\nOczekiwane rezultaty:\n\n*   Wzrost liczby i jakości produkcji filmowych.\n*   Zwiększenie konkurencyjności polskiego przemysłu filmowego.\n*   Tworzenie nowych miejsc pracy.\n*   Wzmocnienie wizerunku Polski jako kraju kultury i sztuki.\n\nWięcej informacji: [www.example.com](www.example.com)",
@@ -4827,6 +4840,18 @@
     "datum": "2025-03-17",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03144.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03119",
+    "typ": "lagforslag",
+    "titel": "Bardziej spójna odpowiedzialność wierzycieli w przypadku Centralnej Instytucji Wspierania Studiów (Centrala studiestödsnämnden).",
+    "ingress": "Rząd zamierza zmienić przepisy dotyczące postępowania z zadłużeniem w Centralnej Agencji Kredytowej (CSN) w sytuacjach, gdy osoba ogłasza się w stanie niewypłacalności lub uzyskuje umorzenie długu. Celem jest to, aby CSN zachowywała większą",
+    "datum": "2025-03-11",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03119.html",
     "taggar": [
       "riksdagen"
     ]

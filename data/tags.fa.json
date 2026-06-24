@@ -32,7 +32,7 @@
   "riksdagen": {
     "etikett": "مجلس نمایندگان",
     "typ": "organisation",
-    "antal": 406
+    "antal": 407
   },
   "underrattelsetjanst": {
     "etikett": "سازمان اطلاعات",
@@ -82,7 +82,7 @@
   "ekonomi": {
     "etikett": "اقتصاد",
     "typ": "ämne",
-    "antal": 4
+    "antal": 5
   },
   "sverige": {
     "etikett": "سوئد",
@@ -322,6 +322,6 @@
   "ecb": {
     "etikett": "بانک مرکزی اروپا (ECB)",
     "typ": "organisation",
-    "antal": 2
+    "antal": 3
   }
 }

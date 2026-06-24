@@ -32,7 +32,7 @@
   "riksdagen": {
     "etikett": "A Svéd Parlament.",
     "typ": "organisation",
-    "antal": 402
+    "antal": 403
   },
   "underrattelsetjanst": {
     "etikett": "Hírszerzés",
@@ -112,7 +112,7 @@
   "ekonomi": {
     "etikett": "Gazdaságtan.",
     "typ": "ämne",
-    "antal": 4
+    "antal": 5
   },
   "sverige": {
     "etikett": "Svédország",
@@ -327,6 +327,6 @@
   "ecb": {
     "etikett": "Az Európai Központi Bank (ECB).",
     "typ": "organisation",
-    "antal": 2
+    "antal": 3
   }
 }

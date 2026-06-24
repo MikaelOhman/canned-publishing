@@ -72,7 +72,7 @@
   "riksdagen": {
     "etikett": "Swedish Parliament",
     "typ": "organisation",
-    "antal": 399
+    "antal": 400
   },
   "straffratt": {
     "etikett": "Criminal law",
@@ -177,7 +177,7 @@
   "ekonomi": {
     "etikett": "Economics",
     "typ": "ämne",
-    "antal": 5
+    "antal": 6
   },
   "sverige": {
     "etikett": "Sweden",
@@ -387,6 +387,6 @@
   "ecb": {
     "etikett": "ECB",
     "typ": "organisation",
-    "antal": 3
+    "antal": 4
   }
 }

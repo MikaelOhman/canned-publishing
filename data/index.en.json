@@ -93,6 +93,19 @@
     ]
   },
   {
+    "id": "ecb-2026-06-22-christine-lagarde-hearing-of-t",
+    "typ": "omvarld",
+    "titel": "Christine Lagarde: Hearing before the Committee on Economic and Monetary Affairs at the European Parliament.",
+    "ingress": "The European Central Bank (ECB) is raising interest rates to curb rising prices. This measure is being taken to protect the economy in the wake of the war in the Middle East, which has made energy more expensive.",
+    "datum": "2026-06-22",
+    "kalla": "ECB",
+    "kalla_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260622~b060a27b78.en.html",
+    "taggar": [
+      "ekonomi",
+      "ecb"
+    ]
+  },
+  {
     "id": "prop-2025-26-014",
     "typ": "lagforslag",
     "titel": "Bill: Tougher penalties for organised crime",
@@ -4879,6 +4892,18 @@
     "datum": "2025-03-17",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03144.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03119",
+    "typ": "lagforslag",
+    "titel": "A more cohesive framework for the liability of creditors of the Central Student Aid Agency.",
+    "ingress": "The government wants to change the rules regarding how debts owed to CSN (the Swedish student finance agency) are handled when a person declares bankruptcy or receives a debt relief order. The goal is for CSN to retain more responsibility f",
+    "datum": "2025-03-11",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03119.html",
     "taggar": [
       "riksdagen"
     ]

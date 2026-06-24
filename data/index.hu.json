@@ -62,6 +62,19 @@
     ]
   },
   {
+    "id": "ecb-2026-06-23-philip-r-lane-introductory-rem",
+    "typ": "omvarld",
+    "titel": "Philip R. Lane: Bevezető megjegyzések.",
+    "ingress": "A közel-keleti helyzet és a magas energiaárak bizonytalanságot okoznak az európai gazdaság számára. A gazdaság védelme érdekében, a növekvő árak ellensúlyozására, enyhe kamatemelést vezettek be.",
+    "datum": "2026-06-23",
+    "kalla": "ECB",
+    "kalla_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260623~c112a749e2.en.html",
+    "taggar": [
+      "ekonomi",
+      "ecb"
+    ]
+  },
+  {
     "id": "HD03287",
     "typ": "lagforslag",
     "titel": "Új politikai irányvonal egy erősebb filmiparárt.",
@@ -4770,6 +4783,18 @@
     "datum": "2025-03-17",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03144.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03119",
+    "typ": "lagforslag",
+    "titel": "A Központi Ösztöndíjintézet (Centrala studiestödsnämnden) által nyújtott támogatásokkal kapcsolatos adósok felelősségének egységesítése.",
+    "ingress": "A kormány szeretné módosítani azokat a szabályokat, amelyek szerint a CSN (Csallóközi Nemzeti Szolgáltató) által nyújtott kölcsönök kezelése történik, amikor egy személy csődbe kerül vagy csődöt ér. A cél az, hogy a CSN nagyobb mértékben le",
+    "datum": "2025-03-11",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03119.html",
     "taggar": [
       "riksdagen"
     ]

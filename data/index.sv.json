@@ -87,6 +87,19 @@
     ]
   },
   {
+    "id": "ecb-2026-06-22-christine-lagarde-hearing-of-t",
+    "typ": "omvarld",
+    "titel": "Christine Lagarde: Hörande inför utskottet för ekonomiska och monetära frågor vid Europaparlamentet.",
+    "ingress": "Europas centralbank (ECB) höjer räntan för att stoppa stigande priser. Detta görs för att skydda ekonomin efter kriget i Mellanöstern som har gjort energi dyrare.",
+    "datum": "2026-06-22",
+    "kalla": "ECB",
+    "kalla_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260622~b060a27b78.en.html",
+    "taggar": [
+      "ekonomi",
+      "ecb"
+    ]
+  },
+  {
     "id": "prop-2025-26-014",
     "typ": "lagforslag",
     "titel": "Proposition: Skärpta straff för organiserad brottslighet",
@@ -4837,6 +4850,18 @@
     "datum": "2025-03-17",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03144.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03119",
+    "typ": "lagforslag",
+    "titel": "Ett mer sammanhållet borgenärsansvar för Centrala studiestödsnämnden",
+    "ingress": "Regeringen vill ändra reglerna för hur skulder hos CSN hanteras när en person går i konkurs eller får skuldsanering. Målet är att CSN ska få behålla mer av ansvaret för sina egna krav istället för att Skatteverket tar över dem.",
+    "datum": "2025-03-11",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03119.html",
     "taggar": [
       "riksdagen"
     ]
