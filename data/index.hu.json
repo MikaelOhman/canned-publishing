@@ -106,6 +106,19 @@
     ]
   },
   {
+    "id": "ecb-2026-06-19-frank-elderson-fireside-chat",
+    "typ": "omvarld",
+    "titel": "Frank Elderson: Egy lazált kérdezz-felelek.",
+    "ingress": "Frank Elderson, az Európai Központi Bank (EKKB) munkatársa, elmagyarázza, hogyan lehet az intézményi szabályozást egyszerűbbé tenni anélkül, hogy a bankok kockázatossá válnának. A cél az európai gazdaság megerősítése és az, hogy a bankok kö",
+    "datum": "2026-06-19",
+    "kalla": "ECB",
+    "kalla_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260619_1~09441a4cbe.en.html",
+    "taggar": [
+      "ekonomi",
+      "ecb"
+    ]
+  },
+  {
     "id": "HD03290",
     "typ": "lagforslag",
     "titel": "Svédország külügyi hírszerző szolgálata.",
@@ -4832,6 +4845,18 @@
     "datum": "2025-03-11",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03117.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03116",
+    "typ": "lagforslag",
+    "titel": "Az EU-s IPI-rendelet és a közbeszerzési szabályozás.",
+    "ingress": "A kormány szeretné módosítani azokat a törvényeket, amelyek szabályozzák, hogy az állam és az önkormányzatok hogyan vásárolnak termékeket és szolgáltatásokat. A cél az, hogy egyértelműbbé tegyék a szabályokat, és hogy azok a vállalatok, ame",
+    "datum": "2025-03-11",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03116.html",
     "taggar": [
       "riksdagen"
     ]

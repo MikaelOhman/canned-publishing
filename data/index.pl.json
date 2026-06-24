@@ -106,6 +106,19 @@
     ]
   },
   {
+    "id": "ecb-2026-06-19-frank-elderson-fireside-chat",
+    "typ": "omvarld",
+    "titel": "Frank Elderson: Luźna sesja pytań i odpowiedzi.",
+    "ingress": "Frank Elderson z Europejskiego Banku Centralnego (EBC) wyjaśnia, jak można uprościć przepisy bankowe, nie narażając jednocześnie banków na ryzyko. Celem jest wzmocnienie gospodarki europejskiej i ułatwienie bankom udzielania kredytów na waż",
+    "datum": "2026-06-19",
+    "kalla": "ECB",
+    "kalla_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260619_1~09441a4cbe.en.html",
+    "taggar": [
+      "ekonomi",
+      "ecb"
+    ]
+  },
+  {
     "id": "HD03290",
     "typ": "lagforslag",
     "titel": "Służba wywiadu zagranicznego Szwecji.",
@@ -4889,6 +4902,18 @@
     "datum": "2025-03-11",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03117.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03116",
+    "typ": "lagforslag",
+    "titel": "Rozporządzenie UE w sprawie systemów informacji o produktach (IPI) oraz przepisy dotyczące zamówień publicznych.",
+    "ingress": "Rząd zamierza zmienić przepisy dotyczące tego, w jaki sposób państwo i gminy nabywają towary i usługi. Celem jest uczynienie zasad bardziej przejrzystymi oraz umożliwienie firmom, które poniosły straty w wyniku błędów, otrzymania odszkodowa",
+    "datum": "2025-03-11",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03116.html",
     "taggar": [
       "riksdagen"
     ]

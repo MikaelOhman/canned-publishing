@@ -106,6 +106,19 @@
     ]
   },
   {
+    "id": "ecb-2026-06-19-frank-elderson-fireside-chat",
+    "typ": "omvarld",
+    "titel": "Frank Elderson : Une séance de questions-réponses informelle.",
+    "ingress": "Frank Elderson, de la Banque centrale européenne (BCE), explique comment il est possible de simplifier les réglementations bancaires sans compromettre la stabilité des banques. L'objectif est de renforcer l'économie européenne et de facilit",
+    "datum": "2026-06-19",
+    "kalla": "ECB",
+    "kalla_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260619_1~09441a4cbe.en.html",
+    "taggar": [
+      "ekonomi",
+      "ecb"
+    ]
+  },
+  {
     "id": "HD03290",
     "typ": "lagforslag",
     "titel": "Le service de renseignement extérieur suédois.",
@@ -4895,6 +4908,18 @@
     "datum": "2025-03-11",
     "kalla": "Riksdagen",
     "kalla_url": "https://data.riksdagen.se/dokument/HC03117.html",
+    "taggar": [
+      "riksdagen"
+    ]
+  },
+  {
+    "id": "HC03116",
+    "typ": "lagforslag",
+    "titel": "Le règlement IPI de l'Union européenne et la législation relative aux marchés publics.",
+    "ingress": "Le gouvernement souhaite modifier les lois régissant les achats de biens et de services par l'État et les municipalités. L'objectif est de clarifier les règles applicables et de permettre aux entreprises qui subissent des préjudices en rais",
+    "datum": "2025-03-11",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HC03116.html",
     "taggar": [
       "riksdagen"
     ]

@@ -32,7 +32,7 @@
   "riksdagen": {
     "etikett": "Riksdagen",
     "typ": "organisation",
-    "antal": 403
+    "antal": 404
   },
   "underrattelsetjanst": {
     "etikett": "Służba wywiadu",
@@ -112,7 +112,7 @@
   "ekonomi": {
     "etikett": "Ekonomia",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "sverige": {
     "etikett": "Szwecja",
@@ -327,6 +327,6 @@
   "ecb": {
     "etikett": "Europejski Bank Centralny (EBC)",
     "typ": "organisation",
-    "antal": 4
+    "antal": 5
   }
 }
