@@ -75,5 +75,21 @@
     "new30": "új az elmúlt 30 napban",
     "coverage": "Nyelvi lefedettség",
     "bytype": "Típus szerint"
+  },
+  "sit": {
+    "btn": "Az én helyzetem",
+    "none": "Az én helyzetem",
+    "title": "Mi érint téged?",
+    "intro": "Jelöld be, ami illik az életedre – a téged leginkább érintő cikkek felülre kerülnek (semmi nem tűnik el).",
+    "presets": "Gyors beállítások",
+    "clear": "Törlés",
+    "affects": "Érint téged",
+    "high": "erősen",
+    "mid": "némileg",
+    "low": "kissé",
+    "share": "Mentés / átvitel másik eszközre",
+    "sharehelp": "Másold ki a linket, és illeszd be egy másik eszköz címsorába, vagy mentsd könyvjelzőként.",
+    "copy": "Link másolása",
+    "copied": "Másolva!"
   }
 }

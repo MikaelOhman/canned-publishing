@@ -75,5 +75,21 @@
     "new30": "new in the last 30 days",
     "coverage": "Language coverage",
     "bytype": "By type"
+  },
+  "sit": {
+    "btn": "My situation",
+    "none": "My situation",
+    "title": "What matters to you?",
+    "intro": "Tick what fits your life — articles that affect you most rise to the top (nothing is hidden).",
+    "presets": "Quick presets",
+    "clear": "Clear",
+    "affects": "Affects you",
+    "high": "a lot",
+    "mid": "somewhat",
+    "low": "a little",
+    "share": "Save / move to another device",
+    "sharehelp": "Copy this link and paste it in the address bar on another device, or bookmark it.",
+    "copy": "Copy link",
+    "copied": "Copied!"
   }
 }

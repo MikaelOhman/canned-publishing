@@ -75,5 +75,21 @@
     "new30": "nouveaux ces 30 derniers jours",
     "coverage": "Couverture linguistique",
     "bytype": "Par type"
+  },
+  "sit": {
+    "btn": "Ma situation",
+    "none": "Ma situation",
+    "title": "Qu'est-ce qui vous concerne ?",
+    "intro": "Cochez ce qui correspond à votre vie – les articles qui vous concernent le plus remontent en haut (rien n'est masqué).",
+    "presets": "Préréglages",
+    "clear": "Effacer",
+    "affects": "Vous concerne",
+    "high": "beaucoup",
+    "mid": "un peu",
+    "low": "légèrement",
+    "share": "Enregistrer / transférer vers un autre appareil",
+    "sharehelp": "Copiez le lien et collez-le dans la barre d'adresse d'un autre appareil, ou ajoutez-le aux favoris.",
+    "copy": "Copier le lien",
+    "copied": "Copié !"
   }
 }

@@ -75,5 +75,21 @@
     "new30": "nowe w ciągu ostatnich 30 dni",
     "coverage": "Zakres językowy",
     "bytype": "Według typu"
+  },
+  "sit": {
+    "btn": "Moja sytuacja",
+    "none": "Moja sytuacja",
+    "title": "Co Cię dotyczy?",
+    "intro": "Zaznacz, co pasuje do Twojego życia – artykuły, które dotyczą Cię najbardziej, trafiają na górę (nic nie jest ukrywane).",
+    "presets": "Szybki wybór",
+    "clear": "Wyczyść",
+    "affects": "Dotyczy Cię",
+    "high": "mocno",
+    "mid": "trochę",
+    "low": "nieznacznie",
+    "share": "Zapisz / przenieś na inne urządzenie",
+    "sharehelp": "Skopiuj link i wklej go w pasku adresu na innym urządzeniu lub zapisz w zakładkach.",
+    "copy": "Kopiuj link",
+    "copied": "Skopiowano!"
   }
 }

@@ -10,7 +10,10 @@
     "taggar": [
       "ekonomi",
       "ecb"
-    ]
+    ],
+    "relevans": {
+      "klimat": 1
+    }
   },
   {
     "id": "ecb-2026-06-24-iceland-joins-tips-for-instant",
@@ -23,7 +26,10 @@
     "taggar": [
       "ekonomi",
       "ecb"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1
+    }
   },
   {
     "id": "eu-kommissionen-2026-06-24-press-remarks-by-commissioner-",
@@ -36,7 +42,11 @@
     "taggar": [
       "eu",
       "eu-kommissionen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1,
+      "klimat": 1
+    }
   },
   {
     "id": "eu-kommissionen-2026-06-24-remarks-by-executive-vice-pres",
@@ -75,7 +85,10 @@
     "taggar": [
       "eu",
       "eu-kommissionen"
-    ]
+    ],
+    "relevans": {
+      "halsa": 3
+    }
   },
   {
     "id": "eu-kommissionen-2026-06-24-l-ue-et-le-benin-renforcent-le",
@@ -88,7 +101,11 @@
     "taggar": [
       "eu",
       "eu-kommissionen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1,
+      "klimat": 3
+    }
   },
   {
     "id": "eu-kommissionen-2026-06-24-video-message-from-president-v",
@@ -101,7 +118,10 @@
     "taggar": [
       "eu",
       "eu-kommissionen"
-    ]
+    ],
+    "relevans": {
+      "klimat": 3
+    }
   },
   {
     "id": "bjuv-grannehorande-skromberga-12-14-2026-06-24",
@@ -114,7 +134,11 @@
     "taggar": [
       "bjuv",
       "grannehorande-skromberga-12-14"
-    ]
+    ],
+    "relevans": {
+      "bostadsagare": 1,
+      "klimat": 1
+    }
   },
   {
     "id": "markaryd-utbildnings-och-kulturnamndens-arbetsuts-2026-06-24",
@@ -127,7 +151,10 @@
     "taggar": [
       "markaryd",
       "utbildnings-och-kulturnamndens-arbetsuts"
-    ]
+    ],
+    "relevans": {
+      "barn": 1
+    }
   },
   {
     "id": "HD03288",
@@ -139,7 +166,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03288.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "funktion": 3
+    }
   },
   {
     "id": "HD03272",
@@ -151,7 +181,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03272.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "klimat": 1
+    }
   },
   {
     "id": "HD03274",
@@ -163,7 +196,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03274.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "jagare": 1
+    }
   },
   {
     "id": "ecb-2026-06-23-philip-r-lane-introductory-rem",
@@ -176,7 +212,13 @@
     "taggar": [
       "ekonomi",
       "ecb"
-    ]
+    ],
+    "relevans": {
+      "lontagare": 1,
+      "foretagare": 1,
+      "arbetssokande": 2,
+      "klimat": 1
+    }
   },
   {
     "id": "eu-kommissionen-2026-06-23-commission-simplifies-and-make",
@@ -189,7 +231,10 @@
     "taggar": [
       "eu",
       "eu-kommissionen"
-    ]
+    ],
+    "relevans": {
+      "klimat": 3
+    }
   },
   {
     "id": "eu-kommissionen-2026-06-23-commission-to-issue-80-billion",
@@ -228,7 +273,10 @@
     "taggar": [
       "eu",
       "eu-ratt"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1
+    }
   },
   {
     "id": "eu-32026R1376",
@@ -241,7 +289,10 @@
     "taggar": [
       "eu",
       "eu-ratt"
-    ]
+    ],
+    "relevans": {
+      "kollektiv": 1
+    }
   },
   {
     "id": "HD03287",
@@ -259,7 +310,10 @@
       "forvaltningsratt",
       "lagstiftning",
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1
+    }
   },
   {
     "id": "ecb-2026-06-22-christine-lagarde-hearing-of-t",
@@ -272,7 +326,11 @@
     "taggar": [
       "ekonomi",
       "ecb"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1,
+      "klimat": 1
+    }
   },
   {
     "id": "eu-32026R1402",
@@ -298,7 +356,10 @@
     "taggar": [
       "eu",
       "eu-ratt"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1
+    }
   },
   {
     "id": "eu-32026R1373",
@@ -311,7 +372,10 @@
     "taggar": [
       "eu",
       "eu-ratt"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1
+    }
   },
   {
     "id": "ecb-2026-06-19-frank-elderson-fireside-chat",
@@ -324,7 +388,10 @@
     "taggar": [
       "ekonomi",
       "ecb"
-    ]
+    ],
+    "relevans": {
+      "klimat": 1
+    }
   },
   {
     "id": "ecb-2026-06-19-piero-cipollone-the-foundation",
@@ -337,7 +404,12 @@
     "taggar": [
       "ekonomi",
       "ecb"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1,
+      "kollektiv": 1,
+      "halsa": 1
+    }
   },
   {
     "id": "ecb-2026-06-19-ecb-publishes-consolidated-ban",
@@ -350,7 +422,11 @@
     "taggar": [
       "ekonomi",
       "ecb"
-    ]
+    ],
+    "relevans": {
+      "lontagare": 1,
+      "halsa": 1
+    }
   },
   {
     "id": "prop-2025-26-014",
@@ -379,7 +455,10 @@
       "personuppgifter",
       "nationell-sakerhet",
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "lontagare": 1
+    }
   },
   {
     "id": "ljusdal-on-signerat-2026-06-18",
@@ -392,7 +471,11 @@
     "taggar": [
       "ljusdal",
       "on-signerat"
-    ]
+    ],
+    "relevans": {
+      "kollektiv": 1,
+      "halsa": 1
+    }
   },
   {
     "id": "stockholm-kommunstyrelsen-2026-06-17",
@@ -407,7 +490,12 @@
       "kommunstyrelsen",
       "kommunal-forvaltning",
       "karin-wanngard"
-    ]
+    ],
+    "relevans": {
+      "kollektiv": 2,
+      "storstad": 1,
+      "halsa": 1
+    }
   },
   {
     "id": "almhult-utbildningsnamndens-sprotokoll-2026-06-17",
@@ -420,7 +508,11 @@
     "taggar": [
       "almhult",
       "utbildningsnamndens-sprotokoll"
-    ]
+    ],
+    "relevans": {
+      "barn": 3,
+      "arbetssokande": 1
+    }
   },
   {
     "id": "alvkarleby-kf-2026-06-17",
@@ -433,7 +525,12 @@
     "taggar": [
       "alvkarleby",
       "kf"
-    ]
+    ],
+    "relevans": {
+      "barn": 2,
+      "foretagare": 1,
+      "klimat": 1
+    }
   },
   {
     "id": "boras-kommunfullmaktige-2026-06-17",
@@ -446,7 +543,10 @@
     "taggar": [
       "boras",
       "kommunfullmaktige"
-    ]
+    ],
+    "relevans": {
+      "barn": 1
+    }
   },
   {
     "id": "emmaboda-socialnamnden-signerat-2026-06-17",
@@ -459,7 +559,11 @@
     "taggar": [
       "emmaboda",
       "socialnamnden-signerat"
-    ]
+    ],
+    "relevans": {
+      "barn": 1,
+      "pensionar": 2
+    }
   },
   {
     "id": "gnesta-socialnamnden-2026-06-17",
@@ -472,7 +576,11 @@
     "taggar": [
       "gnesta",
       "socialnamnden"
-    ]
+    ],
+    "relevans": {
+      "pensionar": 1,
+      "hyresgast": 1
+    }
   },
   {
     "id": "katrineholm-kommunstyrelsens-2026-06-17",
@@ -485,7 +593,11 @@
     "taggar": [
       "katrineholm",
       "kommunstyrelsens"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1,
+      "kollektiv": 1
+    }
   },
   {
     "id": "gnesta-samhallsbyggnadsnamnden-2026-06-17",
@@ -511,7 +623,11 @@
     "taggar": [
       "orsa",
       "socialutskottet"
-    ]
+    ],
+    "relevans": {
+      "barn": 1,
+      "pensionar": 1
+    }
   },
   {
     "id": "perstorp-ks-2026-06-17",
@@ -524,7 +640,11 @@
     "taggar": [
       "perstorp",
       "ks"
-    ]
+    ],
+    "relevans": {
+      "bil": 1,
+      "glesbygd": 1
+    }
   },
   {
     "id": "uddevalla-samhallsbyggnadsnamndens-2026-06-17",
@@ -537,7 +657,14 @@
     "taggar": [
       "uddevalla",
       "samhallsbyggnadsnamndens"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1,
+      "bil": 2,
+      "kollektiv": 1,
+      "glesbygd": 1,
+      "klimat": 1
+    }
   },
   {
     "id": "umea-an-2026-06-17",
@@ -550,7 +677,11 @@
     "taggar": [
       "umea",
       "an"
-    ]
+    ],
+    "relevans": {
+      "pensionar": 3,
+      "foretagare": 2
+    }
   },
   {
     "id": "ale-kungorelse-2026-06-17",
@@ -563,7 +694,13 @@
     "taggar": [
       "ale",
       "kungorelse"
-    ]
+    ],
+    "relevans": {
+      "barn": 1,
+      "pensionar": 2,
+      "foretagare": 1,
+      "funktion": 1
+    }
   },
   {
     "id": "HD03286",
@@ -578,7 +715,11 @@
       "rattsstat",
       "domares-oberoende",
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "lontagare": 1,
+      "kollektiv": 1
+    }
   },
   {
     "id": "HD03284",
@@ -590,7 +731,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03284.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1,
+      "ny_i_sverige": 3
+    }
   },
   {
     "id": "HD03283",
@@ -602,7 +747,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03283.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "barn": 1,
+      "arbetssokande": 1
+    }
   },
   {
     "id": "HD03273",
@@ -629,7 +778,11 @@
       "kommunstyrelsen",
       "kommunal-forvaltning",
       "ulf-rapp"
-    ]
+    ],
+    "relevans": {
+      "storstad": 1,
+      "klimat": 1
+    }
   },
   {
     "id": "nora-snau-offentlig-2026-06-16",
@@ -642,7 +795,11 @@
     "taggar": [
       "nora",
       "snau-offentlig"
-    ]
+    ],
+    "relevans": {
+      "barn": 1,
+      "halsa": 1
+    }
   },
   {
     "id": "vasteras-protokoll-2026-06-16",
@@ -685,7 +842,11 @@
       "kommunfullmaktige",
       "kommunpolitik",
       "trafik"
-    ]
+    ],
+    "relevans": {
+      "barn": 3,
+      "halsa": 1
+    }
   },
   {
     "id": "alingsas-kommunstyrelsen-2026-06-15",
@@ -715,7 +876,12 @@
       "kommunfullmaktige",
       "kommunpolitik",
       "gavle-kommun"
-    ]
+    ],
+    "relevans": {
+      "pensionar": 2,
+      "bil": 1,
+      "klimat": 1
+    }
   },
   {
     "id": "ange-kommunfullmaktige-2026-06-15",
@@ -730,7 +896,16 @@
       "kommunfullmaktige",
       "ange-kommun",
       "kommunpolitik"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1,
+      "bostadsagare": 1,
+      "bil": 1,
+      "kollektiv": 1,
+      "glesbygd": 1,
+      "storstad": 1,
+      "klimat": 2
+    }
   },
   {
     "id": "harnosand-kommunfullmaktige-2026-06-15",
@@ -743,7 +918,10 @@
     "taggar": [
       "harnosand",
       "kommunfullmaktige"
-    ]
+    ],
+    "relevans": {
+      "glesbygd": 1
+    }
   },
   {
     "id": "savsjo-kommunfullmaktige-inkl-omrostningsbilago-2026-06-15",
@@ -756,7 +934,11 @@
     "taggar": [
       "savsjo",
       "kommunfullmaktige-inkl-omrostningsbilago"
-    ]
+    ],
+    "relevans": {
+      "bil": 1,
+      "glesbygd": 1
+    }
   },
   {
     "id": "tvangsvard-tanum",
@@ -772,7 +954,12 @@
       "dodsfall",
       "kritik",
       "tanum"
-    ]
+    ],
+    "relevans": {
+      "kollektiv": 1,
+      "ny_i_sverige": 1,
+      "halsa": 2
+    }
   },
   {
     "id": "kristianstad-kultur-och-fritidsnamnden-2026-06-11",
@@ -785,7 +972,12 @@
     "taggar": [
       "kristianstad",
       "kultur-och-fritidsnamnden"
-    ]
+    ],
+    "relevans": {
+      "barn": 3,
+      "husdjur": 1,
+      "halsa": 1
+    }
   },
   {
     "id": "belfast-0610",
@@ -801,7 +993,10 @@
       "belfast",
       "nordirland",
       "polis"
-    ]
+    ],
+    "relevans": {
+      "ny_i_sverige": 1
+    }
   },
   {
     "id": "alingsas-kommunfullmaktige-2026-06-10",
@@ -816,7 +1011,13 @@
       "kommunfullmaktige",
       "kommunpolitik",
       "alingsas-kommun"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1,
+      "bil": 1,
+      "glesbygd": 1,
+      "klimat": 1
+    }
   },
   {
     "id": "norrtalje-kommunfullmaktige-2026-06-10",
@@ -829,7 +1030,11 @@
     "taggar": [
       "norrtalje",
       "kommunfullmaktige"
-    ]
+    ],
+    "relevans": {
+      "barn": 1,
+      "hyresgast": 1
+    }
   },
   {
     "id": "HD03282",
@@ -841,7 +1046,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03282.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1
+    }
   },
   {
     "id": "HD03281",
@@ -853,7 +1061,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03281.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "pensionar": 3,
+      "kollektiv": 1
+    }
   },
   {
     "id": "HD03280",
@@ -865,7 +1077,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03280.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "pensionar": 1
+    }
   },
   {
     "id": "HD03279",
@@ -877,7 +1092,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03279.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "man": 2
+    }
   },
   {
     "id": "HD03278",
@@ -889,7 +1107,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03278.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 2
+    }
   },
   {
     "id": "storfors-kf-2026-06-09",
@@ -902,7 +1123,11 @@
     "taggar": [
       "storfors",
       "kf"
-    ]
+    ],
+    "relevans": {
+      "pensionar": 1,
+      "halsa": 1
+    }
   },
   {
     "id": "gavle-kommunstyrelsen-2026-06-08",
@@ -917,7 +1142,11 @@
       "kommunstyrelsen",
       "gavle-kommun",
       "kommunalpolitik"
-    ]
+    ],
+    "relevans": {
+      "glesbygd": 1,
+      "klimat": 2
+    }
   },
   {
     "id": "tierp-kommunfullmaktige-2026-06-08",
@@ -930,7 +1159,12 @@
     "taggar": [
       "tierp",
       "kommunfullmaktige"
-    ]
+    ],
+    "relevans": {
+      "barn": 2,
+      "bil": 1,
+      "storstad": 1
+    }
   },
   {
     "id": "bollebygd-kommunfullmaktige-2026-06-04",
@@ -945,7 +1179,12 @@
       "kommunfullmaktige",
       "kommunpolitik",
       "protokoll"
-    ]
+    ],
+    "relevans": {
+      "bil": 1,
+      "klimat": 1,
+      "halsa": 1
+    }
   },
   {
     "id": "stockholm-kommunstyrelsen-2026-06-03",
@@ -960,7 +1199,11 @@
       "kommunstyrelsen",
       "kommunal-forvaltning",
       "digitalisering"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1,
+      "kollektiv": 1
+    }
   },
   {
     "id": "malmo-kommunstyrelsen-2026-06-03",
@@ -973,7 +1216,14 @@
     "taggar": [
       "malmo",
       "kommunstyrelsen"
-    ]
+    ],
+    "relevans": {
+      "barn": 1,
+      "pensionar": 2,
+      "lontagare": 1,
+      "arbetssokande": 1,
+      "funktion": 2
+    }
   },
   {
     "id": "HD03269",
@@ -997,7 +1247,13 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03266.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "lontagare": 3,
+      "foretagare": 1,
+      "kollektiv": 1,
+      "halsa": 1
+    }
   },
   {
     "id": "hylte-kommunfullmaktige-2026-06-02",
@@ -1013,7 +1269,12 @@
       "hylte-kommun",
       "kommunalpolitik",
       "protokoll"
-    ]
+    ],
+    "relevans": {
+      "barn": 2,
+      "kollektiv": 1,
+      "funktion": 1
+    }
   },
   {
     "id": "lekeberg-kommunstyrelsen-2026-06-02",
@@ -1026,7 +1287,10 @@
     "taggar": [
       "lekeberg",
       "kommunstyrelsen"
-    ]
+    ],
+    "relevans": {
+      "klimat": 1
+    }
   },
   {
     "id": "ange-kommunstyrelsen-2026-06-02",
@@ -1039,7 +1303,13 @@
     "taggar": [
       "ange",
       "kommunstyrelsen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1,
+      "bil": 1,
+      "kollektiv": 1,
+      "storstad": 1
+    }
   },
   {
     "id": "HD03268",
@@ -1051,7 +1321,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03268.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1,
+      "klimat": 2
+    }
   },
   {
     "id": "norrtalje-kommunstyrelsen-2026-06-01",
@@ -1064,7 +1338,14 @@
     "taggar": [
       "norrtalje",
       "kommunstyrelsen"
-    ]
+    ],
+    "relevans": {
+      "barn": 2,
+      "bil": 1,
+      "glesbygd": 1,
+      "klimat": 1,
+      "funktion": 1
+    }
   },
   {
     "id": "orebro-kommunstyrelsen-2026-06-01",
@@ -1077,7 +1358,11 @@
     "taggar": [
       "orebro",
       "kommunstyrelsen"
-    ]
+    ],
+    "relevans": {
+      "barn": 1,
+      "halsa": 1
+    }
   },
   {
     "id": "alingsas-kommunstyrelsen-2026-06-01",
@@ -1090,7 +1375,14 @@
     "taggar": [
       "alingsas",
       "kommunstyrelsen"
-    ]
+    ],
+    "relevans": {
+      "barn": 1,
+      "bil": 1,
+      "kollektiv": 1,
+      "glesbygd": 2,
+      "storstad": 1
+    }
   },
   {
     "id": "HD03130",
@@ -1102,7 +1394,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03130.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "pensionar": 1,
+      "kollektiv": 1
+    }
   },
   {
     "id": "HD03277",
@@ -1126,7 +1422,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03276.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "barn": 1
+    }
   },
   {
     "id": "HD03275",
@@ -1138,7 +1437,15 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03275.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1,
+      "bil": 3,
+      "kollektiv": 1,
+      "storstad": 1,
+      "klimat": 1,
+      "halsa": 1
+    }
   },
   {
     "id": "burlov-sn-2026-05-28",
@@ -1151,7 +1458,13 @@
     "taggar": [
       "burlov",
       "sn"
-    ]
+    ],
+    "relevans": {
+      "barn": 2,
+      "kollektiv": 1,
+      "halsa": 1,
+      "funktion": 1
+    }
   },
   {
     "id": "morakommun-protokoll-2026-05-28",
@@ -1177,7 +1490,11 @@
     "taggar": [
       "malmo",
       "kommunfullmaktige"
-    ]
+    ],
+    "relevans": {
+      "barn": 3,
+      "pensionar": 1
+    }
   },
   {
     "id": "stockholm-kommunstyrelsen-2026-05-27",
@@ -1190,7 +1507,11 @@
     "taggar": [
       "stockholm",
       "kommunstyrelsen"
-    ]
+    ],
+    "relevans": {
+      "bil": 1,
+      "glesbygd": 1
+    }
   },
   {
     "id": "HD03271",
@@ -1202,7 +1523,12 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03271.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "kvinna": 3,
+      "kollektiv": 1,
+      "halsa": 2
+    }
   },
   {
     "id": "HD03270",
@@ -1214,7 +1540,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03270.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "klimat": 1
+    }
   },
   {
     "id": "burlov-ukn-2026-05-26",
@@ -1227,7 +1556,10 @@
     "taggar": [
       "burlov",
       "ukn"
-    ]
+    ],
+    "relevans": {
+      "barn": 3
+    }
   },
   {
     "id": "stockholm-kommunfullmaktige-2026-05-25",
@@ -1243,7 +1575,14 @@
       "kommunpolitik",
       "stadsplanering",
       "trafik"
-    ]
+    ],
+    "relevans": {
+      "bil": 1,
+      "glesbygd": 1,
+      "storstad": 1,
+      "klimat": 2,
+      "halsa": 1
+    }
   },
   {
     "id": "norrtalje-kommunfullmaktige-2026-05-25",
@@ -1269,7 +1608,12 @@
     "taggar": [
       "tyreso",
       "tyreso-bostader-ab"
-    ]
+    ],
+    "relevans": {
+      "lontagare": 1,
+      "foretagare": 1,
+      "halsa": 1
+    }
   },
   {
     "id": "stromstad-vn-2026-05-18",
@@ -1282,7 +1626,10 @@
     "taggar": [
       "stromstad",
       "vn"
-    ]
+    ],
+    "relevans": {
+      "funktion": 1
+    }
   },
   {
     "id": "bollebygd-kommunstyrelsen-2026-05-12",
@@ -1295,7 +1642,13 @@
     "taggar": [
       "bollebygd",
       "kommunstyrelsen"
-    ]
+    ],
+    "relevans": {
+      "pensionar": 2,
+      "bil": 1,
+      "glesbygd": 1,
+      "klimat": 1
+    }
   },
   {
     "id": "gavle-kommunfullmaktige-2026-05-11",
@@ -1308,7 +1661,11 @@
     "taggar": [
       "gavle",
       "kommunfullmaktige"
-    ]
+    ],
+    "relevans": {
+      "barn": 1,
+      "bil": 1
+    }
   },
   {
     "id": "alingsas-kommunstyrelsen-2026-05-11",
@@ -1321,7 +1678,14 @@
     "taggar": [
       "alingsas",
       "kommunstyrelsen"
-    ]
+    ],
+    "relevans": {
+      "barn": 1,
+      "bil": 1,
+      "kollektiv": 1,
+      "glesbygd": 1,
+      "klimat": 1
+    }
   },
   {
     "id": "norrtalje-kommunstyrelsen-2026-05-11",
@@ -1334,7 +1698,10 @@
     "taggar": [
       "norrtalje",
       "kommunstyrelsen"
-    ]
+    ],
+    "relevans": {
+      "halsa": 1
+    }
   },
   {
     "id": "HD03267",
@@ -1370,7 +1737,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03250.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "ny_i_sverige": 1
+    }
   },
   {
     "id": "bollebygd-kommunfullmaktige-2026-05-07",
@@ -1383,7 +1753,11 @@
     "taggar": [
       "bollebygd",
       "kommunfullmaktige"
-    ]
+    ],
+    "relevans": {
+      "barn": 1,
+      "bostadsagare": 1
+    }
   },
   {
     "id": "HD03249",
@@ -1395,7 +1769,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03249.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "halsa": 1
+    }
   },
   {
     "id": "HD03248",
@@ -1420,7 +1797,14 @@
     "taggar": [
       "alingsas",
       "kommunfullmaktige"
-    ]
+    ],
+    "relevans": {
+      "kvinna": 1,
+      "lontagare": 1,
+      "foretagare": 1,
+      "klimat": 2,
+      "halsa": 1
+    }
   },
   {
     "id": "lekeberg-kommunfullmaktige-2026-05-06",
@@ -1446,7 +1830,10 @@
     "taggar": [
       "lekeberg",
       "kommunstyrelsen"
-    ]
+    ],
+    "relevans": {
+      "glesbygd": 1
+    }
   },
   {
     "id": "HD03255",
@@ -1458,7 +1845,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03255.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "barn": 1,
+      "foretagare": 1
+    }
   },
   {
     "id": "hylte-kommunfullmaktige-2026-05-05",
@@ -1471,7 +1862,11 @@
     "taggar": [
       "hylte",
       "kommunfullmaktige"
-    ]
+    ],
+    "relevans": {
+      "barn": 1,
+      "halsa": 1
+    }
   },
   {
     "id": "HD03265",
@@ -1483,7 +1878,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03265.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "ny_i_sverige": 1
+    }
   },
   {
     "id": "HD03264",
@@ -1495,7 +1893,12 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03264.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "bil": 1,
+      "glesbygd": 1,
+      "ny_i_sverige": 3
+    }
   },
   {
     "id": "HD03263",
@@ -1507,7 +1910,13 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03263.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "pensionar": 1,
+      "arbetssokande": 1,
+      "kollektiv": 1,
+      "ny_i_sverige": 1
+    }
   },
   {
     "id": "HD03262",
@@ -1519,7 +1928,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03262.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "ny_i_sverige": 3
+    }
   },
   {
     "id": "HD03260",
@@ -1531,7 +1943,12 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03260.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "bil": 1,
+      "kollektiv": 1,
+      "glesbygd": 1
+    }
   },
   {
     "id": "HD03258",
@@ -1543,7 +1960,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03258.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "arbetssokande": 1
+    }
   },
   {
     "id": "HD03254",
@@ -1567,7 +1987,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03251.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "halsa": 3
+    }
   },
   {
     "id": "HD03259",
@@ -1579,7 +2002,14 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03259.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "bil": 3,
+      "kollektiv": 1,
+      "glesbygd": 1,
+      "klimat": 3,
+      "halsa": 1
+    }
   },
   {
     "id": "HD03257",
@@ -1603,7 +2033,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03247.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "halsa": 3
+    }
   },
   {
     "id": "ange-kommunfullmaktige-2026-04-27",
@@ -1616,7 +2049,12 @@
     "taggar": [
       "ange",
       "kommunfullmaktige"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1,
+      "bil": 1,
+      "glesbygd": 2
+    }
   },
   {
     "id": "lekeberg-kommunfullmaktige-2026-04-27",
@@ -1629,7 +2067,13 @@
     "taggar": [
       "lekeberg",
       "kommunfullmaktige"
-    ]
+    ],
+    "relevans": {
+      "barn": 1,
+      "pensionar": 1,
+      "bil": 1,
+      "glesbygd": 1
+    }
   },
   {
     "id": "HD03256",
@@ -1677,7 +2121,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03104.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "kollektiv": 1
+    }
   },
   {
     "id": "HD03246",
@@ -1689,7 +2136,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03246.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "barn": 1
+    }
   },
   {
     "id": "HD03244",
@@ -1701,7 +2151,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03244.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "halsa": 1
+    }
   },
   {
     "id": "HD03242",
@@ -1713,7 +2166,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03242.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "glesbygd": 3,
+      "klimat": 1
+    }
   },
   {
     "id": "HD03232",
@@ -1725,7 +2182,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03232.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "barn": 1
+    }
   },
   {
     "id": "HD03231",
@@ -1749,7 +2209,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03245.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "barn": 1,
+      "kvinna": 3
+    }
   },
   {
     "id": "HD03243",
@@ -1761,7 +2225,12 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03243.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1,
+      "hyresgast": 1,
+      "kollektiv": 1
+    }
   },
   {
     "id": "HD03240",
@@ -1773,7 +2242,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03240.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1,
+      "klimat": 1
+    }
   },
   {
     "id": "HD03239",
@@ -1785,7 +2258,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03239.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1
+    }
   },
   {
     "id": "HD03238",
@@ -1797,7 +2273,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03238.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "klimat": 3
+    }
   },
   {
     "id": "HD03237",
@@ -1809,7 +2288,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03237.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "arbetssokande": 1,
+      "student": 3
+    }
   },
   {
     "id": "HD03234",
@@ -1821,7 +2304,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03234.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1,
+      "halsa": 1
+    }
   },
   {
     "id": "HD03233",
@@ -1833,7 +2320,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03233.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1,
+      "kollektiv": 1
+    }
   },
   {
     "id": "ange-kommunstyrelsen-2026-04-14",
@@ -1846,7 +2337,13 @@
     "taggar": [
       "ange",
       "kommunstyrelsen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1,
+      "bil": 1,
+      "glesbygd": 1,
+      "klimat": 1
+    }
   },
   {
     "id": "bollebygd-kommunstyrelsen-2026-04-14",
@@ -1859,7 +2356,12 @@
     "taggar": [
       "bollebygd",
       "kommunstyrelsen"
-    ]
+    ],
+    "relevans": {
+      "pensionar": 1,
+      "bostadsagare": 1,
+      "funktion": 1
+    }
   },
   {
     "id": "HD03241",
@@ -1883,7 +2385,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03236.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "bil": 2,
+      "klimat": 3
+    }
   },
   {
     "id": "HD03101",
@@ -1907,7 +2413,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03100.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "bil": 1,
+      "glesbygd": 1
+    }
   },
   {
     "id": "HD0399",
@@ -1919,7 +2429,14 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0399.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1,
+      "student": 1,
+      "hyresgast": 1,
+      "klimat": 1,
+      "halsa": 2
+    }
   },
   {
     "id": "HD0398",
@@ -1931,7 +2448,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0398.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "barn": 1,
+      "halsa": 1
+    }
   },
   {
     "id": "alingsas-kommunstyrelsen-2026-04-13",
@@ -1944,7 +2465,10 @@
     "taggar": [
       "alingsas",
       "kommunstyrelsen"
-    ]
+    ],
+    "relevans": {
+      "kollektiv": 1
+    }
   },
   {
     "id": "HD03220",
@@ -1980,7 +2504,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03217.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "kollektiv": 1
+    }
   },
   {
     "id": "HD03230",
@@ -1992,7 +2519,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03230.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "glesbygd": 1,
+      "klimat": 1
+    }
   },
   {
     "id": "HD03219",
@@ -2004,7 +2535,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03219.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "halsa": 3
+    }
   },
   {
     "id": "HD03114",
@@ -2016,7 +2550,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03114.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "jagare": 1
+    }
   },
   {
     "id": "gavle-kommunstyrelsen-2026-04-07",
@@ -2029,7 +2566,10 @@
     "taggar": [
       "gavle",
       "kommunstyrelsen"
-    ]
+    ],
+    "relevans": {
+      "barn": 1
+    }
   },
   {
     "id": "HD03235",
@@ -2053,7 +2593,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03228.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1,
+      "jagare": 1
+    }
   },
   {
     "id": "HD03216",
@@ -2065,7 +2609,13 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03216.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "pensionar": 2,
+      "kollektiv": 3,
+      "halsa": 3,
+      "funktion": 1
+    }
   },
   {
     "id": "HD03214",
@@ -2090,7 +2640,13 @@
     "taggar": [
       "malmo",
       "kommunstyrelsen"
-    ]
+    ],
+    "relevans": {
+      "barn": 2,
+      "pensionar": 1,
+      "foretagare": 1,
+      "klimat": 1
+    }
   },
   {
     "id": "HD03229",
@@ -2102,7 +2658,13 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03229.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "barn": 1,
+      "kollektiv": 1,
+      "ny_i_sverige": 1,
+      "halsa": 1
+    }
   },
   {
     "id": "HD03223",
@@ -2126,7 +2688,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03222.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "bil": 1,
+      "glesbygd": 1
+    }
   },
   {
     "id": "HD03215",
@@ -2138,7 +2704,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03215.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "arbetssokande": 1
+    }
   },
   {
     "id": "gavle-kommunfullmaktige-2026-03-30",
@@ -2151,7 +2720,13 @@
     "taggar": [
       "gavle",
       "kommunfullmaktige"
-    ]
+    ],
+    "relevans": {
+      "barn": 3,
+      "pensionar": 1,
+      "foretagare": 2,
+      "bil": 1
+    }
   },
   {
     "id": "HD03227",
@@ -2163,7 +2738,12 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03227.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "barn": 1,
+      "bil": 1,
+      "glesbygd": 1
+    }
   },
   {
     "id": "HD03221",
@@ -2175,7 +2755,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03221.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1
+    }
   },
   {
     "id": "alingsas-kommunfullmaktige-2026-03-25",
@@ -2188,7 +2771,12 @@
     "taggar": [
       "alingsas",
       "kommunfullmaktige"
-    ]
+    ],
+    "relevans": {
+      "bostadsagare": 1,
+      "klimat": 2,
+      "halsa": 1
+    }
   },
   {
     "id": "HD03226",
@@ -2224,7 +2812,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03224.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "barn": 2
+    }
   },
   {
     "id": "HD03206",
@@ -2236,7 +2827,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03206.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1,
+      "husdjur": 1
+    }
   },
   {
     "id": "HD03205",
@@ -2248,7 +2843,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03205.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1
+    }
   },
   {
     "id": "HD03213",
@@ -2260,7 +2858,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03213.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "barn": 2
+    }
   },
   {
     "id": "HD03212",
@@ -2272,7 +2873,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03212.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "hyresgast": 1
+    }
   },
   {
     "id": "HD03211",
@@ -2284,7 +2888,12 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03211.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "kollektiv": 1,
+      "jagare": 3,
+      "ny_i_sverige": 1
+    }
   },
   {
     "id": "HD03210",
@@ -2296,7 +2905,12 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03210.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "pensionar": 1,
+      "foretagare": 1,
+      "halsa": 1
+    }
   },
   {
     "id": "bollebygd-kommunfullmaktige-2026-03-19",
@@ -2321,7 +2935,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03209.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "bostadsagare": 1
+    }
   },
   {
     "id": "HD03208",
@@ -2345,7 +2962,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03207.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "arbetssokande": 1,
+      "halsa": 1
+    }
   },
   {
     "id": "HD03204",
@@ -2357,7 +2978,13 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03204.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "barn": 1,
+      "lontagare": 1,
+      "kollektiv": 1,
+      "halsa": 3
+    }
   },
   {
     "id": "HD03203",
@@ -2369,7 +2996,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03203.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1
+    }
   },
   {
     "id": "HD03202",
@@ -2381,7 +3011,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03202.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "klimat": 1
+    }
   },
   {
     "id": "HD03201",
@@ -2393,7 +3026,12 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03201.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "lontagare": 1,
+      "hyresgast": 1,
+      "kollektiv": 1
+    }
   },
   {
     "id": "HD03200",
@@ -2405,7 +3043,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03200.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1
+    }
   },
   {
     "id": "HD03199",
@@ -2429,7 +3070,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03198.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "barn": 2
+    }
   },
   {
     "id": "HD03197",
@@ -2441,7 +3085,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03197.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "barn": 2,
+      "student": 1
+    }
   },
   {
     "id": "HD03196",
@@ -2453,7 +3101,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03196.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "barn": 3,
+      "kollektiv": 1
+    }
   },
   {
     "id": "HD03195",
@@ -2465,7 +3117,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03195.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "barn": 3
+    }
   },
   {
     "id": "HD03194",
@@ -2477,7 +3132,13 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03194.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "barn": 3,
+      "bil": 1,
+      "glesbygd": 1,
+      "halsa": 1
+    }
   },
   {
     "id": "HD03193",
@@ -2489,7 +3150,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03193.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "barn": 3
+    }
   },
   {
     "id": "HD03192",
@@ -2501,7 +3165,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03192.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "barn": 2
+    }
   },
   {
     "id": "HD03191",
@@ -2525,7 +3192,12 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03190.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "barn": 1,
+      "kollektiv": 1,
+      "ny_i_sverige": 1
+    }
   },
   {
     "id": "HD03189",
@@ -2537,7 +3209,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03189.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "lontagare": 3
+    }
   },
   {
     "id": "HD03188",
@@ -2549,7 +3224,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03188.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "hyresgast": 1,
+      "bostadsagare": 1
+    }
   },
   {
     "id": "HD03187",
@@ -2561,7 +3240,13 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03187.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1,
+      "hyresgast": 1,
+      "bostadsagare": 1,
+      "kollektiv": 1
+    }
   },
   {
     "id": "HD03186",
@@ -2573,7 +3258,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03186.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "pensionar": 1,
+      "foretagare": 1
+    }
   },
   {
     "id": "HD03185",
@@ -2597,7 +3286,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03184.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1
+    }
   },
   {
     "id": "HD03183",
@@ -2609,7 +3301,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03183.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1
+    }
   },
   {
     "id": "HD03182",
@@ -2621,7 +3316,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03182.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1
+    }
   },
   {
     "id": "HD03181",
@@ -2633,7 +3331,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03181.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "bil": 1,
+      "glesbygd": 1
+    }
   },
   {
     "id": "HD03180",
@@ -2645,7 +3347,12 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03180.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "glesbygd": 1,
+      "klimat": 1,
+      "funktion": 1
+    }
   },
   {
     "id": "HD03179",
@@ -2669,7 +3376,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03177.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 3,
+      "halsa": 1
+    }
   },
   {
     "id": "HD03176",
@@ -2693,7 +3404,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03164.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1,
+      "halsa": 3
+    }
   },
   {
     "id": "HD03162",
@@ -2705,7 +3420,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03162.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "arbetssokande": 1,
+      "jagare": 1
+    }
   },
   {
     "id": "HD03161",
@@ -2717,7 +3436,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03161.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "kollektiv": 1
+    }
   },
   {
     "id": "HD03158",
@@ -2729,7 +3451,12 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03158.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1,
+      "glesbygd": 3,
+      "halsa": 1
+    }
   },
   {
     "id": "HD03151",
@@ -2753,7 +3480,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03103.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "kollektiv": 1
+    }
   },
   {
     "id": "HD0390",
@@ -2789,7 +3519,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03178.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "man": 3,
+      "klimat": 1
+    }
   },
   {
     "id": "HD03163",
@@ -2801,7 +3535,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03163.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1,
+      "klimat": 1
+    }
   },
   {
     "id": "HD03175",
@@ -2813,7 +3551,12 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03175.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "barn": 1,
+      "kollektiv": 1,
+      "ny_i_sverige": 3
+    }
   },
   {
     "id": "HD03154",
@@ -2825,7 +3568,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03154.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "kvinna": 1
+    }
   },
   {
     "id": "HD03115",
@@ -2849,7 +3595,12 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03174.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "barn": 3,
+      "pensionar": 1,
+      "kollektiv": 1
+    }
   },
   {
     "id": "HD03173",
@@ -2861,7 +3612,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03173.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "student": 3
+    }
   },
   {
     "id": "HD03171",
@@ -2873,7 +3627,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03171.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "klimat": 1
+    }
   },
   {
     "id": "HD03170",
@@ -2885,7 +3642,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03170.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1,
+      "hyresgast": 3
+    }
   },
   {
     "id": "HD03169",
@@ -2897,7 +3658,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03169.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "pensionar": 1
+    }
   },
   {
     "id": "HD03168",
@@ -2909,7 +3673,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03168.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "kollektiv": 1
+    }
   },
   {
     "id": "HD03167",
@@ -2921,7 +3688,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03167.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1
+    }
   },
   {
     "id": "HD03166",
@@ -2933,7 +3703,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03166.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "barn": 1
+    }
   },
   {
     "id": "HD03160",
@@ -2945,7 +3718,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03160.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "klimat": 1
+    }
   },
   {
     "id": "HD03152",
@@ -2969,7 +3745,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03137.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "ny_i_sverige": 3
+    }
   },
   {
     "id": "HD0397",
@@ -2993,7 +3772,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03172.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1,
+      "bostadsagare": 1
+    }
   },
   {
     "id": "HD03157",
@@ -3005,7 +3788,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03157.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 2
+    }
   },
   {
     "id": "HD03155",
@@ -3029,7 +3815,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03165.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "funktion": 1
+    }
   },
   {
     "id": "HD03159",
@@ -3041,7 +3830,12 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03159.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "bil": 1,
+      "klimat": 3,
+      "halsa": 1
+    }
   },
   {
     "id": "HD03147",
@@ -3053,7 +3847,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03147.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1
+    }
   },
   {
     "id": "HD03144",
@@ -3077,7 +3874,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03156.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "kollektiv": 3,
+      "halsa": 3
+    }
   },
   {
     "id": "HD03153",
@@ -3089,7 +3890,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03153.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "klimat": 3
+    }
   },
   {
     "id": "HD03150",
@@ -3113,7 +3917,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03149.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "barn": 2,
+      "kollektiv": 1
+    }
   },
   {
     "id": "HD03148",
@@ -3125,7 +3933,12 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03148.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "hyresgast": 1,
+      "bostadsagare": 1,
+      "bil": 2
+    }
   },
   {
     "id": "HD03139",
@@ -3137,7 +3950,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03139.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "bil": 1,
+      "glesbygd": 1
+    }
   },
   {
     "id": "HD03109",
@@ -3149,7 +3966,12 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03109.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1,
+      "kollektiv": 1,
+      "klimat": 1
+    }
   },
   {
     "id": "hylte-kommunfullmaktige-2026-03-03",
@@ -3162,7 +3984,10 @@
     "taggar": [
       "hylte",
       "kommunfullmaktige"
-    ]
+    ],
+    "relevans": {
+      "barn": 1
+    }
   },
   {
     "id": "alingsas-kommunfullmaktige-2026-02-25",
@@ -3175,7 +4000,13 @@
     "taggar": [
       "alingsas",
       "kommunfullmaktige"
-    ]
+    ],
+    "relevans": {
+      "barn": 1,
+      "pensionar": 2,
+      "glesbygd": 1,
+      "halsa": 1
+    }
   },
   {
     "id": "HD03146",
@@ -3187,7 +4018,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03146.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "barn": 1,
+      "ny_i_sverige": 3
+    }
   },
   {
     "id": "HD03142",
@@ -3211,7 +4046,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03138.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "barn": 1,
+      "kollektiv": 1
+    }
   },
   {
     "id": "HD03135",
@@ -3235,7 +4074,14 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03134.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "lontagare": 3,
+      "bil": 1,
+      "kollektiv": 1,
+      "glesbygd": 1,
+      "halsa": 3
+    }
   },
   {
     "id": "HD03133",
@@ -3259,7 +4105,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03131.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "barn": 3,
+      "glesbygd": 3
+    }
   },
   {
     "id": "HD03127",
@@ -3271,7 +4121,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03127.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "barn": 1,
+      "bil": 1
+    }
   },
   {
     "id": "HD03125",
@@ -3283,7 +4137,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03125.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1
+    }
   },
   {
     "id": "HD03136",
@@ -3307,7 +4164,13 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03145.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "barn": 1,
+      "kollektiv": 1,
+      "ny_i_sverige": 2,
+      "halsa": 1
+    }
   },
   {
     "id": "HD03143",
@@ -3319,7 +4182,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03143.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "jagare": 2
+    }
   },
   {
     "id": "HD03132",
@@ -3331,7 +4197,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03132.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "barn": 3,
+      "halsa": 1
+    }
   },
   {
     "id": "HD03121",
@@ -3343,7 +4213,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03121.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "kollektiv": 3,
+      "klimat": 3
+    }
   },
   {
     "id": "bollebygd-kommunfullmaktige-2026-02-19",
@@ -3356,7 +4230,11 @@
     "taggar": [
       "bollebygd",
       "kommunfullmaktige"
-    ]
+    ],
+    "relevans": {
+      "barn": 1,
+      "kollektiv": 1
+    }
   },
   {
     "id": "HD03141",
@@ -3368,7 +4246,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03141.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "jagare": 3
+    }
   },
   {
     "id": "HD03129",
@@ -3380,7 +4261,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03129.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1
+    }
   },
   {
     "id": "HD03128",
@@ -3392,7 +4276,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03128.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 2
+    }
   },
   {
     "id": "HD03126",
@@ -3404,7 +4291,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03126.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1
+    }
   },
   {
     "id": "HD03123",
@@ -3416,7 +4306,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03123.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1
+    }
   },
   {
     "id": "HD03122",
@@ -3428,7 +4321,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03122.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "klimat": 3
+    }
   },
   {
     "id": "HD03120",
@@ -3440,7 +4336,12 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03120.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "kollektiv": 1,
+      "husdjur": 1,
+      "halsa": 3
+    }
   },
   {
     "id": "HD03116",
@@ -3452,7 +4353,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03116.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1
+    }
   },
   {
     "id": "HD03110",
@@ -3477,7 +4381,13 @@
     "taggar": [
       "gavle",
       "kommunfullmaktige"
-    ]
+    ],
+    "relevans": {
+      "barn": 1,
+      "foretagare": 1,
+      "klimat": 1,
+      "funktion": 2
+    }
   },
   {
     "id": "ange-kommunstyrelsen-2026-02-11",
@@ -3502,7 +4412,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03124.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1,
+      "klimat": 3
+    }
   },
   {
     "id": "HD03117",
@@ -3514,7 +4428,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03117.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "barn": 3
+    }
   },
   {
     "id": "HD03113",
@@ -3526,7 +4443,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03113.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "bil": 2,
+      "klimat": 3
+    }
   },
   {
     "id": "HD03112",
@@ -3538,7 +4459,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03112.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "bostadsagare": 3
+    }
   },
   {
     "id": "HD03119",
@@ -3550,7 +4474,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03119.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "lontagare": 1,
+      "bostadsagare": 1
+    }
   },
   {
     "id": "HD03118",
@@ -3562,7 +4490,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03118.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "klimat": 3
+    }
   },
   {
     "id": "HD0396",
@@ -3586,7 +4517,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03111.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1
+    }
   },
   {
     "id": "HD03108",
@@ -3598,7 +4532,12 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03108.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1,
+      "kollektiv": 1,
+      "klimat": 1
+    }
   },
   {
     "id": "HD03107",
@@ -3610,7 +4549,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03107.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1,
+      "arbetssokande": 2
+    }
   },
   {
     "id": "HD03106",
@@ -3622,7 +4565,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03106.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "hyresgast": 1,
+      "bostadsagare": 3
+    }
   },
   {
     "id": "HD03105",
@@ -3634,7 +4581,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03105.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1
+    }
   },
   {
     "id": "gavle-kommunstyrelsen-2026-02-03",
@@ -3647,7 +4597,12 @@
     "taggar": [
       "gavle",
       "kommunstyrelsen"
-    ]
+    ],
+    "relevans": {
+      "arbetssokande": 1,
+      "bil": 1,
+      "glesbygd": 1
+    }
   },
   {
     "id": "HD03102",
@@ -3659,7 +4614,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03102.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 3
+    }
   },
   {
     "id": "HD0391",
@@ -3671,7 +4629,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0391.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1,
+      "halsa": 1
+    }
   },
   {
     "id": "HD0395",
@@ -3695,7 +4657,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0394.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1,
+      "klimat": 3
+    }
   },
   {
     "id": "HD0393",
@@ -3707,7 +4673,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0393.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "pensionar": 3,
+      "halsa": 1
+    }
   },
   {
     "id": "HD0392",
@@ -3719,7 +4689,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0392.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "barn": 1,
+      "foretagare": 1
+    }
   },
   {
     "id": "HD0389",
@@ -3731,7 +4705,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0389.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "lontagare": 3,
+      "foretagare": 3
+    }
   },
   {
     "id": "HD0388",
@@ -3743,7 +4721,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0388.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "student": 1
+    }
   },
   {
     "id": "HD0387",
@@ -3755,7 +4736,13 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0387.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "lontagare": 1,
+      "foretagare": 1,
+      "kollektiv": 1,
+      "ny_i_sverige": 1
+    }
   },
   {
     "id": "HD0386",
@@ -3767,7 +4754,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0386.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1
+    }
   },
   {
     "id": "HD0385",
@@ -3779,7 +4769,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0385.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 3
+    }
   },
   {
     "id": "HD0384",
@@ -3839,7 +4832,13 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0380.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "lontagare": 2,
+      "foretagare": 1,
+      "bil": 2,
+      "klimat": 1
+    }
   },
   {
     "id": "HD0370",
@@ -3887,7 +4886,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0376.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1
+    }
   },
   {
     "id": "HD0374",
@@ -3899,7 +4901,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0374.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "ny_i_sverige": 1
+    }
   },
   {
     "id": "HD0373",
@@ -3911,7 +4916,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0373.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "lontagare": 3
+    }
   },
   {
     "id": "HD0372",
@@ -3923,7 +4931,12 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0372.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "lontagare": 1,
+      "arbetssokande": 3,
+      "funktion": 3
+    }
   },
   {
     "id": "HD0363",
@@ -3935,7 +4948,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0363.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "jagare": 3
+    }
   },
   {
     "id": "HD0378",
@@ -3947,7 +4963,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0378.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "kvinna": 3,
+      "ny_i_sverige": 3
+    }
   },
   {
     "id": "HD0371",
@@ -3971,7 +4991,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0365.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "kollektiv": 1
+    }
   },
   {
     "id": "HD0364",
@@ -3983,7 +5006,13 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0364.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1,
+      "bil": 1,
+      "glesbygd": 1,
+      "jagare": 1
+    }
   },
   {
     "id": "HD0362",
@@ -4007,7 +5036,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0359.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "funktion": 3
+    }
   },
   {
     "id": "HD0369",
@@ -4019,7 +5051,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0369.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "glesbygd": 3,
+      "klimat": 1
+    }
   },
   {
     "id": "HD0366",
@@ -4031,7 +5067,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0366.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "lontagare": 1,
+      "foretagare": 3
+    }
   },
   {
     "id": "HD0368",
@@ -4043,7 +5083,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0368.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "glesbygd": 1
+    }
   },
   {
     "id": "HD0367",
@@ -4055,7 +5098,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0367.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "barn": 3
+    }
   },
   {
     "id": "HD0361",
@@ -4067,7 +5113,13 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0361.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "barn": 1,
+      "pensionar": 1,
+      "lontagare": 3,
+      "funktion": 1
+    }
   },
   {
     "id": "HD0360",
@@ -4079,7 +5131,15 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0360.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "barn": 3,
+      "pensionar": 3,
+      "kollektiv": 1,
+      "ny_i_sverige": 1,
+      "halsa": 3,
+      "funktion": 1
+    }
   },
   {
     "id": "HD0355",
@@ -4091,7 +5151,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0355.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1
+    }
   },
   {
     "id": "HD0352",
@@ -4103,7 +5166,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0352.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1
+    }
   },
   {
     "id": "HD0351",
@@ -4115,7 +5181,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0351.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "halsa": 1
+    }
   },
   {
     "id": "ange-kommunfullmaktige-2025-11-24",
@@ -4128,7 +5197,11 @@
     "taggar": [
       "ange",
       "kommunfullmaktige"
-    ]
+    ],
+    "relevans": {
+      "glesbygd": 1,
+      "halsa": 1
+    }
   },
   {
     "id": "HD0358",
@@ -4140,7 +5213,12 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0358.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "pensionar": 1,
+      "kollektiv": 1,
+      "ny_i_sverige": 1
+    }
   },
   {
     "id": "HD0357",
@@ -4152,7 +5230,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0357.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "kollektiv": 1,
+      "husdjur": 3
+    }
   },
   {
     "id": "HD0354",
@@ -4164,7 +5246,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0354.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1
+    }
   },
   {
     "id": "HD0350",
@@ -4176,7 +5261,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0350.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "kollektiv": 3,
+      "halsa": 3
+    }
   },
   {
     "id": "HD0349",
@@ -4225,7 +5314,13 @@
     "taggar": [
       "hofors",
       "kommunstyrelsen-inkl-bilagor"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1,
+      "kollektiv": 1,
+      "klimat": 2,
+      "funktion": 3
+    }
   },
   {
     "id": "HD0356",
@@ -4237,7 +5332,12 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0356.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "lontagare": 1,
+      "bil": 1,
+      "glesbygd": 1
+    }
   },
   {
     "id": "HD0353",
@@ -4249,7 +5349,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0353.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "lontagare": 3,
+      "kollektiv": 3
+    }
   },
   {
     "id": "HD0347",
@@ -4261,7 +5365,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0347.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "barn": 2
+    }
   },
   {
     "id": "HD0346",
@@ -4285,7 +5392,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0345.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1
+    }
   },
   {
     "id": "HD0343",
@@ -4297,7 +5407,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0343.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1
+    }
   },
   {
     "id": "HD0341",
@@ -4309,7 +5422,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0341.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "klimat": 1,
+      "halsa": 1
+    }
   },
   {
     "id": "HD0337",
@@ -4321,7 +5438,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0337.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "bil": 3
+    }
   },
   {
     "id": "HD0340",
@@ -4333,7 +5453,12 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0340.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "student": 3,
+      "bil": 1,
+      "glesbygd": 1
+    }
   },
   {
     "id": "HD0342",
@@ -4345,7 +5470,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0342.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1
+    }
   },
   {
     "id": "HD0339",
@@ -4369,7 +5497,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0338.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1,
+      "glesbygd": 3
+    }
   },
   {
     "id": "HD0336",
@@ -4381,7 +5513,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0336.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "kollektiv": 3
+    }
   },
   {
     "id": "HD0335",
@@ -4393,7 +5528,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0335.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 2
+    }
   },
   {
     "id": "HD0329",
@@ -4405,7 +5543,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0329.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1,
+      "kollektiv": 1
+    }
   },
   {
     "id": "HD038",
@@ -4417,7 +5559,12 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD038.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "lontagare": 1,
+      "arbetssokande": 3,
+      "kollektiv": 1
+    }
   },
   {
     "id": "HD0330",
@@ -4454,7 +5601,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0333.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1
+    }
   },
   {
     "id": "HD0334",
@@ -4478,7 +5628,13 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0332.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "pensionar": 3,
+      "lontagare": 2,
+      "kollektiv": 3,
+      "funktion": 3
+    }
   },
   {
     "id": "HD0331",
@@ -4490,7 +5646,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0331.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "barn": 1,
+      "lontagare": 1
+    }
   },
   {
     "id": "HD0328",
@@ -4502,7 +5662,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0328.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1
+    }
   },
   {
     "id": "HD0322",
@@ -4514,7 +5677,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0322.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 3
+    }
   },
   {
     "id": "gavle-kommunstyrelsen-2025-10-14",
@@ -4527,7 +5693,12 @@
     "taggar": [
       "gavle",
       "kommunstyrelsen"
-    ]
+    ],
+    "relevans": {
+      "glesbygd": 1,
+      "klimat": 1,
+      "halsa": 1
+    }
   },
   {
     "id": "HD0325",
@@ -4539,7 +5710,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0325.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "kollektiv": 1,
+      "halsa": 1
+    }
   },
   {
     "id": "HD0323",
@@ -4551,7 +5726,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0323.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "barn": 1,
+      "kvinna": 2
+    }
   },
   {
     "id": "HD0327",
@@ -4563,7 +5742,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0327.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "halsa": 3
+    }
   },
   {
     "id": "HD0326",
@@ -4575,7 +5757,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0326.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1,
+      "kollektiv": 1
+    }
   },
   {
     "id": "HD0324",
@@ -4587,7 +5773,13 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0324.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 2,
+      "glesbygd": 1,
+      "klimat": 1,
+      "halsa": 1
+    }
   },
   {
     "id": "HD0321",
@@ -4599,7 +5791,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0321.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 3,
+      "klimat": 3
+    }
   },
   {
     "id": "HD0320",
@@ -4611,7 +5807,13 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0320.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "lontagare": 1,
+      "foretagare": 1,
+      "bostadsagare": 3,
+      "kollektiv": 1
+    }
   },
   {
     "id": "HD0319",
@@ -4623,7 +5825,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0319.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "kollektiv": 1,
+      "halsa": 3
+    }
   },
   {
     "id": "HD0318",
@@ -4659,7 +5865,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0316.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1,
+      "klimat": 1
+    }
   },
   {
     "id": "HD031d3",
@@ -4671,7 +5881,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD031d3.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "lontagare": 2
+    }
   },
   {
     "id": "HD031d2",
@@ -4683,7 +5896,13 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD031d2.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "lontagare": 1,
+      "bil": 2,
+      "glesbygd": 1,
+      "klimat": 1
+    }
   },
   {
     "id": "HD032",
@@ -4695,7 +5914,14 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD032.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "barn": 1,
+      "bil": 1,
+      "kollektiv": 1,
+      "glesbygd": 1,
+      "halsa": 1
+    }
   },
   {
     "id": "HD031",
@@ -4707,7 +5933,13 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD031.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "lontagare": 1,
+      "bil": 1,
+      "glesbygd": 1,
+      "klimat": 1
+    }
   },
   {
     "id": "HD0317",
@@ -4719,7 +5951,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0317.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "pensionar": 3
+    }
   },
   {
     "id": "HD0315",
@@ -4731,7 +5966,12 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0315.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1,
+      "halsa": 3,
+      "funktion": 2
+    }
   },
   {
     "id": "HD0313",
@@ -4743,7 +5983,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0313.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "klimat": 2
+    }
   },
   {
     "id": "HD039",
@@ -4755,7 +5998,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD039.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "ny_i_sverige": 3
+    }
   },
   {
     "id": "HD037",
@@ -4767,7 +6013,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD037.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "halsa": 3
+    }
   },
   {
     "id": "HD035",
@@ -4791,7 +6040,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD034.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1
+    }
   },
   {
     "id": "HD033",
@@ -4803,7 +6055,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD033.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "bil": 3,
+      "klimat": 1
+    }
   },
   {
     "id": "HD0314",
@@ -4815,7 +6071,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0314.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "kollektiv": 1
+    }
   },
   {
     "id": "HD0312",
@@ -4827,7 +6086,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0312.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "barn": 3
+    }
   },
   {
     "id": "HD0310",
@@ -4839,7 +6101,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0310.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "barn": 2,
+      "ny_i_sverige": 3
+    }
   },
   {
     "id": "HD036",
@@ -4863,7 +6129,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03208.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 3
+    }
   },
   {
     "id": "HC03206",
@@ -4899,7 +6168,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03204.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "lontagare": 1
+    }
   },
   {
     "id": "HC03203",
@@ -4911,7 +6183,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03203.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1,
+      "klimat": 1
+    }
   },
   {
     "id": "HC03200",
@@ -4923,7 +6199,13 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03200.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "barn": 1,
+      "pensionar": 3,
+      "lontagare": 2,
+      "arbetssokande": 1
+    }
   },
   {
     "id": "HC03202",
@@ -4935,7 +6217,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03202.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "kollektiv": 1
+    }
   },
   {
     "id": "HC03201",
@@ -4947,7 +6232,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03201.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1
+    }
   },
   {
     "id": "HC03199",
@@ -4959,7 +6247,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03199.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1,
+      "klimat": 1
+    }
   },
   {
     "id": "HC03198",
@@ -4971,7 +6263,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03198.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1
+    }
   },
   {
     "id": "HC03197",
@@ -4983,7 +6278,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03197.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1
+    }
   },
   {
     "id": "HC03140",
@@ -5000,7 +6298,10 @@
       "sverige",
       "bolagsforvaltning",
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 3
+    }
   },
   {
     "id": "HC03195",
@@ -5012,7 +6313,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03195.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "ny_i_sverige": 3
+    }
   },
   {
     "id": "HC03194",
@@ -5029,7 +6333,11 @@
       "miljolagstiftning",
       "lagstiftning",
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1,
+      "kollektiv": 1
+    }
   },
   {
     "id": "HC03188",
@@ -5063,7 +6371,11 @@
       "regeringen",
       "lagstiftning",
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 3,
+      "halsa": 1
+    }
   },
   {
     "id": "HC03196",
@@ -5075,7 +6387,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03196.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "student": 1,
+      "klimat": 1
+    }
   },
   {
     "id": "HC03192",
@@ -5087,7 +6403,13 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03192.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "lontagare": 1,
+      "foretagare": 1,
+      "hyresgast": 2,
+      "kollektiv": 1
+    }
   },
   {
     "id": "HC03191",
@@ -5139,7 +6461,12 @@
       "regeringen",
       "brottsbalken",
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "barn": 1,
+      "kvinna": 2,
+      "klimat": 1
+    }
   },
   {
     "id": "HC03168",
@@ -5156,7 +6483,11 @@
       "energi",
       "lagandring",
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "bostadsagare": 3,
+      "klimat": 1
+    }
   },
   {
     "id": "HC03193",
@@ -5186,7 +6517,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03184.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1
+    }
   },
   {
     "id": "HC03183",
@@ -5198,7 +6532,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03183.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "bil": 1,
+      "glesbygd": 1
+    }
   },
   {
     "id": "HC03186",
@@ -5210,7 +6548,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03186.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "jagare": 1
+    }
   },
   {
     "id": "HC03182",
@@ -5222,7 +6563,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03182.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "halsa": 3
+    }
   },
   {
     "id": "HC03155",
@@ -5234,7 +6578,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03155.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "kollektiv": 1
+    }
   },
   {
     "id": "HC03185",
@@ -5246,7 +6593,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03185.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "halsa": 1
+    }
   },
   {
     "id": "HC03178",
@@ -5258,7 +6608,12 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03178.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1,
+      "hyresgast": 1,
+      "kollektiv": 1
+    }
   },
   {
     "id": "HC03167",
@@ -5270,7 +6625,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03167.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "kollektiv": 3,
+      "halsa": 3
+    }
   },
   {
     "id": "HC03181",
@@ -5282,7 +6641,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03181.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "funktion": 3
+    }
   },
   {
     "id": "HC03180",
@@ -5294,7 +6656,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03180.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "bil": 1,
+      "glesbygd": 1
+    }
   },
   {
     "id": "HC03179",
@@ -5306,7 +6672,15 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03179.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "pensionar": 1,
+      "lontagare": 1,
+      "foretagare": 1,
+      "kollektiv": 1,
+      "halsa": 1,
+      "funktion": 1
+    }
   },
   {
     "id": "HC03175",
@@ -5318,7 +6692,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03175.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "barn": 3,
+      "klimat": 1
+    }
   },
   {
     "id": "HC03171",
@@ -5330,7 +6708,12 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03171.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "kollektiv": 1,
+      "klimat": 1,
+      "halsa": 1
+    }
   },
   {
     "id": "HC03170",
@@ -5342,7 +6725,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03170.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1
+    }
   },
   {
     "id": "HC03130",
@@ -5354,7 +6740,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03130.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "pensionar": 1
+    }
   },
   {
     "id": "HC03177",
@@ -5366,7 +6755,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03177.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "jagare": 1
+    }
   },
   {
     "id": "HC03176",
@@ -5378,7 +6770,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03176.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "ny_i_sverige": 1
+    }
   },
   {
     "id": "HC03173",
@@ -5390,7 +6785,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03173.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "glesbygd": 3
+    }
   },
   {
     "id": "HC03172",
@@ -5402,7 +6800,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03172.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 3
+    }
   },
   {
     "id": "HC03169",
@@ -5414,7 +6815,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03169.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "bostadsagare": 3,
+      "klimat": 1
+    }
   },
   {
     "id": "HC03174",
@@ -5426,7 +6831,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03174.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "klimat": 3
+    }
   },
   {
     "id": "HC03166",
@@ -5438,7 +6846,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03166.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1,
+      "funktion": 1
+    }
   },
   {
     "id": "HC03163",
@@ -5450,7 +6862,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03163.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1,
+      "jagare": 1
+    }
   },
   {
     "id": "HC03162",
@@ -5462,7 +6878,12 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03162.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "lontagare": 1,
+      "arbetssokande": 3,
+      "funktion": 1
+    }
   },
   {
     "id": "HC03164",
@@ -5486,7 +6907,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03159.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 3
+    }
   },
   {
     "id": "HC03165",
@@ -5498,7 +6922,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03165.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "kollektiv": 1
+    }
   },
   {
     "id": "HC03161",
@@ -5510,7 +6937,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03161.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "ny_i_sverige": 1
+    }
   },
   {
     "id": "HC03160",
@@ -5522,7 +6952,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03160.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "barn": 3,
+      "klimat": 1
+    }
   },
   {
     "id": "HC03157",
@@ -5534,7 +6968,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03157.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "barn": 3,
+      "halsa": 1
+    }
   },
   {
     "id": "HC03120",
@@ -5546,7 +6984,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03120.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "halsa": 1
+    }
   },
   {
     "id": "HC03101",
@@ -5582,7 +7023,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC0399.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "bil": 1,
+      "glesbygd": 1
+    }
   },
   {
     "id": "HC0398",
@@ -5618,7 +7063,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03156.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1
+    }
   },
   {
     "id": "HC03154",
@@ -5642,7 +7090,12 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03153.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "bil": 1,
+      "glesbygd": 1,
+      "klimat": 1
+    }
   },
   {
     "id": "HC03151",
@@ -5666,7 +7119,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03114.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "jagare": 1
+    }
   },
   {
     "id": "HC03152",
@@ -5678,7 +7134,12 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03152.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "pensionar": 1,
+      "foretagare": 3,
+      "kollektiv": 1
+    }
   },
   {
     "id": "HC03149",
@@ -5690,7 +7151,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03149.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "kollektiv": 1,
+      "halsa": 3
+    }
   },
   {
     "id": "HC03147",
@@ -5702,7 +7167,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03147.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "funktion": 1
+    }
   },
   {
     "id": "HC03146",
@@ -5738,7 +7206,12 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03150.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1,
+      "kollektiv": 1,
+      "klimat": 1
+    }
   },
   {
     "id": "HC03124",
@@ -5750,7 +7223,12 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03124.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "barn": 1,
+      "pensionar": 3,
+      "funktion": 1
+    }
   },
   {
     "id": "HC03148",
@@ -5774,7 +7252,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03121.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1
+    }
   },
   {
     "id": "HC03145",
@@ -5786,7 +7267,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03145.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "arbetssokande": 3
+    }
   },
   {
     "id": "HC03143",
@@ -5798,7 +7282,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03143.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "barn": 3,
+      "lontagare": 1
+    }
   },
   {
     "id": "HC03142",
@@ -5810,7 +7298,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03142.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "klimat": 1
+    }
   },
   {
     "id": "HC03141",
@@ -5822,7 +7313,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03141.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "barn": 1,
+      "halsa": 1
+    }
   },
   {
     "id": "HC03139",
@@ -5834,7 +7329,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03139.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "barn": 1,
+      "lontagare": 3
+    }
   },
   {
     "id": "HC03138",
@@ -5846,7 +7345,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03138.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1
+    }
   },
   {
     "id": "HC03137",
@@ -5858,7 +7360,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03137.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 3
+    }
   },
   {
     "id": "HC03136",
@@ -5870,7 +7375,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03136.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "klimat": 1
+    }
   },
   {
     "id": "HC03135",
@@ -5882,7 +7390,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03135.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 3
+    }
   },
   {
     "id": "HC03134",
@@ -5894,7 +7405,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03134.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1
+    }
   },
   {
     "id": "HC03133",
@@ -5906,7 +7420,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03133.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "pensionar": 1,
+      "kollektiv": 1
+    }
   },
   {
     "id": "HC03132",
@@ -5918,7 +7436,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03132.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "student": 2,
+      "funktion": 1
+    }
   },
   {
     "id": "HC03131",
@@ -5930,7 +7452,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03131.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "bil": 3,
+      "klimat": 3
+    }
   },
   {
     "id": "HC03129",
@@ -5954,7 +7480,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03128.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "lontagare": 3,
+      "foretagare": 1
+    }
   },
   {
     "id": "HC03125",
@@ -5978,7 +7508,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03123.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "barn": 1,
+      "kvinna": 1
+    }
   },
   {
     "id": "HC03122",
@@ -5990,7 +7524,12 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03122.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "bil": 1,
+      "glesbygd": 2,
+      "klimat": 3
+    }
   },
   {
     "id": "HC03112",
@@ -6014,7 +7553,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03109.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "kollektiv": 1,
+      "klimat": 1
+    }
   },
   {
     "id": "HC03103",
@@ -6062,7 +7605,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03144.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "kollektiv": 1,
+      "halsa": 3
+    }
   },
   {
     "id": "HC03119",
@@ -6074,7 +7621,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03119.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1,
+      "student": 3
+    }
   },
   {
     "id": "HC03118",
@@ -6086,7 +7637,12 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03118.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1,
+      "bil": 1,
+      "klimat": 1
+    }
   },
   {
     "id": "HC03117",
@@ -6098,7 +7654,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03117.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "student": 3,
+      "ny_i_sverige": 2
+    }
   },
   {
     "id": "HC03116",
@@ -6110,7 +7670,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03116.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 3,
+      "klimat": 1
+    }
   },
   {
     "id": "HC03107",
@@ -6122,7 +7686,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03107.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "kollektiv": 1
+    }
   },
   {
     "id": "HC0395",
@@ -6134,7 +7701,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC0395.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "lontagare": 1
+    }
   },
   {
     "id": "HC03126",
@@ -6182,7 +7752,12 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03111.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "pensionar": 1,
+      "kollektiv": 1,
+      "funktion": 1
+    }
   },
   {
     "id": "HC03110",
@@ -6194,7 +7769,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03110.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1
+    }
   },
   {
     "id": "HC03108",
@@ -6230,7 +7808,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03105.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1
+    }
   },
   {
     "id": "HC03106",
@@ -6242,7 +7823,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03106.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "barn": 1
+    }
   },
   {
     "id": "vaggeryd-ksau-2025-02-12",
@@ -6255,7 +7839,13 @@
     "taggar": [
       "vaggeryd",
       "ksau"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1,
+      "bil": 1,
+      "glesbygd": 1,
+      "klimat": 1
+    }
   },
   {
     "id": "HC03102",
@@ -6267,7 +7857,14 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03102.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1,
+      "bostadsagare": 3,
+      "kollektiv": 1,
+      "glesbygd": 3,
+      "klimat": 1
+    }
   },
   {
     "id": "HC0396",
@@ -6279,7 +7876,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC0396.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 2,
+      "klimat": 2
+    }
   },
   {
     "id": "HC0387",
@@ -6291,7 +7892,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC0387.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "kollektiv": 3,
+      "klimat": 3
+    }
   },
   {
     "id": "HC0397",
@@ -6315,7 +7920,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC0382.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "klimat": 1,
+      "halsa": 3
+    }
   },
   {
     "id": "HC0393",
@@ -6339,7 +7948,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC0385.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1,
+      "halsa": 1
+    }
   },
   {
     "id": "HC0383",
@@ -6351,7 +7964,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC0383.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 3,
+      "klimat": 1
+    }
   },
   {
     "id": "HC0392",
@@ -6363,7 +7980,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC0392.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "ny_i_sverige": 2
+    }
   },
   {
     "id": "HC0388",
@@ -6387,7 +8007,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC0380.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "lontagare": 1,
+      "halsa": 3
+    }
   },
   {
     "id": "HC0381",
@@ -6399,7 +8023,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC0381.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "klimat": 2
+    }
   },
   {
     "id": "HC0386",
@@ -6411,7 +8038,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC0386.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1
+    }
   },
   {
     "id": "HC0384",
@@ -6423,7 +8053,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC0384.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "klimat": 3
+    }
   },
   {
     "id": "HC0377",
@@ -6435,7 +8068,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC0377.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "kollektiv": 1
+    }
   },
   {
     "id": "HC0378",
@@ -6447,7 +8083,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC0378.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "barn": 2,
+      "hyresgast": 3
+    }
   },
   {
     "id": "HC0379",
@@ -6459,7 +8099,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC0379.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "pensionar": 1
+    }
   },
   {
     "id": "grums-grundlaggande-granskning-av-kommunstyrel-2024-03-25",
@@ -6472,7 +8115,10 @@
     "taggar": [
       "grums",
       "grundlaggande-granskning-av-kommunstyrel"
-    ]
+    ],
+    "relevans": {
+      "foretagare": 1
+    }
   },
   {
     "id": "upplands-bro-samhallsbyggnadsutskottet-2023-10-04",
@@ -6485,6 +8131,9 @@
     "taggar": [
       "upplands-bro",
       "samhallsbyggnadsutskottet"
-    ]
+    ],
+    "relevans": {
+      "barn": 1
+    }
   }
 ]

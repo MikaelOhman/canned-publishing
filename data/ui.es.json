@@ -75,5 +75,21 @@
     "new30": "nuevos en los últimos 30 días",
     "coverage": "Cobertura de idiomas",
     "bytype": "Por tipo"
+  },
+  "sit": {
+    "btn": "Mi situación",
+    "none": "Mi situación",
+    "title": "¿Qué te afecta?",
+    "intro": "Marca lo que se ajusta a tu vida: los artículos que más te afectan suben arriba (no se oculta nada).",
+    "presets": "Ajustes rápidos",
+    "clear": "Borrar",
+    "affects": "Te afecta",
+    "high": "mucho",
+    "mid": "algo",
+    "low": "poco",
+    "share": "Guardar / pasar a otro dispositivo",
+    "sharehelp": "Copia el enlace y pégalo en la barra de direcciones de otro dispositivo, o guárdalo como marcador.",
+    "copy": "Copiar enlace",
+    "copied": "¡Copiado!"
   }
 }

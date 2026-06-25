@@ -75,5 +75,21 @@
     "new30": "neue in den letzten 30 Tagen",
     "coverage": "Sprachabdeckung",
     "bytype": "Nach Typ"
+  },
+  "sit": {
+    "btn": "Meine Situation",
+    "none": "Meine Situation",
+    "title": "Was betrifft dich?",
+    "intro": "Wähle, was auf dein Leben zutrifft – Artikel, die dich am meisten betreffen, erscheinen oben (nichts wird ausgeblendet).",
+    "presets": "Schnellauswahl",
+    "clear": "Zurücksetzen",
+    "affects": "Betrifft dich",
+    "high": "stark",
+    "mid": "etwas",
+    "low": "wenig",
+    "share": "Speichern / auf anderes Gerät übertragen",
+    "sharehelp": "Kopiere den Link und füge ihn auf einem anderen Gerät in die Adressleiste ein oder setze ein Lesezeichen.",
+    "copy": "Link kopieren",
+    "copied": "Kopiert!"
   }
 }

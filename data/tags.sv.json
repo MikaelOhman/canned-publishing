@@ -537,7 +537,7 @@
   "almhult": {
     "etikett": "Älmhults",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "utbildningsnamndens-sprotokoll": {
     "etikett": "Utbildningsnämndens sprotokoll",
@@ -791,6 +791,11 @@
   },
   "kungorelse": {
     "etikett": "Kungörelse",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "socialnamndens-s": {
+    "etikett": "Socialnämndens s",
     "typ": "organisation",
     "antal": 1
   }

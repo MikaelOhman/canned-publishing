@@ -75,5 +75,21 @@
     "new30": "nya senaste 30 dygn",
     "coverage": "Språktäckning",
     "bytype": "Per typ"
+  },
+  "sit": {
+    "btn": "Min situation",
+    "none": "Min situation",
+    "title": "Vad påverkar dig?",
+    "intro": "Bocka i det som stämmer på ditt liv – artiklar som berör dig mest hamnar överst (inget döljs).",
+    "presets": "Snabbval",
+    "clear": "Rensa",
+    "affects": "Berör dig",
+    "high": "mycket",
+    "mid": "en del",
+    "low": "lite",
+    "share": "Spara / flytta till annan enhet",
+    "sharehelp": "Kopiera länken och klistra in i adressfältet på en annan enhet, eller spara som bokmärke.",
+    "copy": "Kopiera länk",
+    "copied": "Kopierat!"
   }
 }
