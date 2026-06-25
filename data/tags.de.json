@@ -843,5 +843,15 @@
     "etikett": "Der Bildungsausschuss.",
     "typ": "organisation",
     "antal": 1
+  },
+  "bjurholm": {
+    "etikett": "Bjurholms",
+    "typ": "plats",
+    "antal": 1
+  },
+  "mbn": {
+    "etikett": "MBN",
+    "typ": "organisation",
+    "antal": 1
   }
 }
