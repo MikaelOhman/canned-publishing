@@ -4671,6 +4671,22 @@
     }
   },
   {
+    "id": "stockholm-kommunstyrelsen-2026-04-29",
+    "typ": "kommunbeslut",
+    "titel": "شورای شهر، شهرداری استکهلم، تاریخ: 29 آوریل 2026.",
+    "ingress": "شهرداری استکهلم تصمیماتی را در مورد چندین پیشنهاد مرتبط با فضای باز شهر، امنیت و فعالیت‌های انجمن‌ها اتخاذ کرده است.",
+    "datum": "2026-04-29",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunstyrelsen/mote-2026-04-29",
+    "taggar": [
+      "stockholm",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "otrygg": 3
+    }
+  },
+  {
     "id": "HD03259",
     "typ": "lagforslag",
     "titel": "برنامه‌ریزی ملی برای زیرساخت‌های حمل‌ونقل، سال‌های 2026 تا 2037.",
@@ -5436,6 +5452,26 @@
     ],
     "relevans": {
       "arbetsgivare": 3
+    }
+  },
+  {
+    "id": "stockholm-kommunfullmaktige-2026-04-13",
+    "typ": "kommunbeslut",
+    "titel": "جلسه شورای شهر، شهرداری استکهلم، تاریخ: 2026-04-13.",
+    "ingress": "شهرداری استکهلم تصمیم گرفته است که مبلغ 461.7 میلیون کرون برای بازسازی و توسعه مدرسه \"لیل‌هولمسکولان\" در منطقه \"شکارحلمن\" اختصاص دهد. این مبلغ شامل ساخت یک سالن ورزشی جدید و همچنین انجام تغییرات لازم برای هر دو بخش آموزشی و ورزشی مدرسه خواه",
+    "datum": "2026-04-13",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunfullmaktige/mote-2026-04-13",
+    "taggar": [
+      "stockholm",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "finansiering": 3,
+      "lokaler": 3,
+      "barn": 3,
+      "idrott": 3
     }
   },
   {

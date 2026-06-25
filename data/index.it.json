@@ -4706,6 +4706,22 @@
     }
   },
   {
+    "id": "stockholm-kommunstyrelsen-2026-04-29",
+    "typ": "kommunbeslut",
+    "titel": "Comitato esecutivo del Comune di Stoccolma, 29 aprile 2026.",
+    "ingress": "Il comune di Stoccolma ha approvato diverse proposte riguardanti gli spazi pubblici della città, la sicurezza e le attività delle associazioni.",
+    "datum": "2026-04-29",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunstyrelsen/mote-2026-04-29",
+    "taggar": [
+      "stockholm",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "otrygg": 3
+    }
+  },
+  {
     "id": "HD03259",
     "typ": "lagforslag",
     "titel": "Pianificazione nazionale delle infrastrutture di trasporto per il periodo 2026–2037.",
@@ -5497,6 +5513,26 @@
     ],
     "relevans": {
       "arbetsgivare": 3
+    }
+  },
+  {
+    "id": "stockholm-kommunfullmaktige-2026-04-13",
+    "typ": "kommunbeslut",
+    "titel": "Consiglio comunale, Comune di Stoccolma, 13 aprile 2026.",
+    "ingress": "Il comune di Stoccolma ha deciso di investire 461,7 milioni di corone svedesi per ristrutturare e ampliare la scuola Lillholmsskolan, situata nel quartiere di Skärholmen. Questo progetto include la costruzione di una nuova palestra e l'adeg",
+    "datum": "2026-04-13",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunfullmaktige/mote-2026-04-13",
+    "taggar": [
+      "stockholm",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "finansiering": 3,
+      "lokaler": 3,
+      "barn": 3,
+      "idrott": 3
     }
   },
   {

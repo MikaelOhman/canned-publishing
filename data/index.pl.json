@@ -4722,6 +4722,22 @@
     }
   },
   {
+    "id": "stockholm-kommunstyrelsen-2026-04-29",
+    "typ": "kommunbeslut",
+    "titel": "Komisja ds. spraw miejskich, miasto Sztokholm, 29 kwietnia 2026 roku.",
+    "ingress": "Miasto Sztokholm podjęło decyzje dotyczące kilku propozycji dotyczących przestrzeni publicznej miasta, bezpieczeństwa oraz działalności stowarzyszeń.",
+    "datum": "2026-04-29",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunstyrelsen/mote-2026-04-29",
+    "taggar": [
+      "stockholm",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "otrygg": 3
+    }
+  },
+  {
     "id": "HD03259",
     "typ": "lagforslag",
     "titel": "Krajowy plan rozwoju infrastruktury transportowej na lata 2026–2037.",
@@ -5513,6 +5529,26 @@
     ],
     "relevans": {
       "arbetsgivare": 3
+    }
+  },
+  {
+    "id": "stockholm-kommunfullmaktige-2026-04-13",
+    "typ": "kommunbeslut",
+    "titel": "Uchwała Rady Miejskiej, Miasto Sztokholm, 2026-04-13.",
+    "ingress": "Miasto Sztokholm podjęło decyzję o zainwestowaniu 461,7 miliona koron szwedzkich w przebudowę i rozbudowę szkoły Lillholmsskolan w dzielnicy Skärholmen. Plan obejmuje budowę nowej hali sportowej oraz dostosowanie obiektu zarówno dla potrzeb",
+    "datum": "2026-04-13",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunfullmaktige/mote-2026-04-13",
+    "taggar": [
+      "stockholm",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "finansiering": 3,
+      "lokaler": 3,
+      "barn": 3,
+      "idrott": 3
     }
   },
   {

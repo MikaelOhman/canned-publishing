@@ -4736,6 +4736,22 @@
     }
   },
   {
+    "id": "stockholm-kommunstyrelsen-2026-04-29",
+    "typ": "kommunbeslut",
+    "titel": "Gemeindeverwaltungsrat, Stadt Stockholm, 29. April 2026.",
+    "ingress": "Die Stadt Stockholm hat mehrere Vorschläge beschlossen, die sich auf die städtische Außenraumgestaltung, die Sicherheit und das Vereinsleben beziehen.",
+    "datum": "2026-04-29",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunstyrelsen/mote-2026-04-29",
+    "taggar": [
+      "stockholm",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "otrygg": 3
+    }
+  },
+  {
     "id": "HD03259",
     "typ": "lagforslag",
     "titel": "Nationale Planung für die Verkehrsinfrastruktur 2026–2037.",
@@ -5527,6 +5543,26 @@
     ],
     "relevans": {
       "arbetsgivare": 3
+    }
+  },
+  {
+    "id": "stockholm-kommunfullmaktige-2026-04-13",
+    "typ": "kommunbeslut",
+    "titel": "Gemeindevertretung von Stockholm, 13. April 2026.",
+    "ingress": "Die Stadt Stockholm hat beschlossen, 461,7 Millionen Kronen in den Um- und Ausbau der Grundschule Lillholmsskolan im Bezirk Skärholmen zu investieren. Dies umfasst den Bau einer neuen Sporthalle sowie Anpassungen für Schule und Sportbetrieb",
+    "datum": "2026-04-13",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunfullmaktige/mote-2026-04-13",
+    "taggar": [
+      "stockholm",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "finansiering": 3,
+      "lokaler": 3,
+      "barn": 3,
+      "idrott": 3
     }
   },
   {

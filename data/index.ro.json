@@ -4642,6 +4642,22 @@
     }
   },
   {
+    "id": "stockholm-kommunstyrelsen-2026-04-29",
+    "typ": "kommunbeslut",
+    "titel": "Comisia municipală a orașului Stockholm, 29 aprilie 2026.",
+    "ingress": "Primăria Stockholmului a adoptat mai multe propuneri care vizează spațiile publice din oraș, siguranța cetățenilor și activitatea asociațiilor.",
+    "datum": "2026-04-29",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunstyrelsen/mote-2026-04-29",
+    "taggar": [
+      "stockholm",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "otrygg": 3
+    }
+  },
+  {
     "id": "HD03259",
     "typ": "lagforslag",
     "titel": "Planificare națională pentru infrastructura de transport 2026–2037.",
@@ -5433,6 +5449,26 @@
     ],
     "relevans": {
       "arbetsgivare": 3
+    }
+  },
+  {
+    "id": "stockholm-kommunfullmaktige-2026-04-13",
+    "typ": "kommunbeslut",
+    "titel": "Consiliul municipal al orașului Stockholm, 13 aprilie 2026.",
+    "ingress": "Primăria Stockholmului a decis să investească 461,7 milioane de coroane suedeze în modernizarea și extinderea școlii Lillholmsskolan din Skärholmen. Aceasta include construirea unei noi săli de sport și realizarea de adaptări atât pentru șc",
+    "datum": "2026-04-13",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunfullmaktige/mote-2026-04-13",
+    "taggar": [
+      "stockholm",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "finansiering": 3,
+      "lokaler": 3,
+      "barn": 3,
+      "idrott": 3
     }
   },
   {
