@@ -643,5 +643,15 @@
     "etikett": "Örebro\n\n(No translation needed, as it's a proper noun - a city name.)",
     "typ": "plats",
     "antal": 1
+  },
+  "orsa": {
+    "etikett": "Orsa",
+    "typ": "plats",
+    "antal": 1
+  },
+  "socialutskottet": {
+    "etikett": "Der Sozialausschuss.",
+    "typ": "organisation",
+    "antal": 1
   }
 }

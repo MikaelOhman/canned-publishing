@@ -688,5 +688,15 @@
     "etikett": "Snau offentlig",
     "typ": "organisation",
     "antal": 1
+  },
+  "orsa": {
+    "etikett": "Orsa",
+    "typ": "plats",
+    "antal": 1
+  },
+  "socialutskottet": {
+    "etikett": "socialutskottet",
+    "typ": "organisation",
+    "antal": 1
   }
 }

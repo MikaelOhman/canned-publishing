@@ -663,5 +663,15 @@
     "etikett": "Örebro is a city in Sweden.",
     "typ": "plats",
     "antal": 1
+  },
+  "orsa": {
+    "etikett": "Orsa",
+    "typ": "plats",
+    "antal": 1
+  },
+  "socialutskottet": {
+    "etikett": "social committee",
+    "typ": "organisation",
+    "antal": 1
   }
 }

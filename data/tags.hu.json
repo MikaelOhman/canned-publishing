@@ -578,5 +578,15 @@
     "etikett": "Örebro.",
     "typ": "plats",
     "antal": 1
+  },
+  "orsa": {
+    "etikett": "Orsa",
+    "typ": "plats",
+    "antal": 1
+  },
+  "socialutskottet": {
+    "etikett": "a szociális bizottság",
+    "typ": "organisation",
+    "antal": 1
   }
 }
