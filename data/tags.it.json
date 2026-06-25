@@ -292,7 +292,7 @@
   "kommunfullmaktige": {
     "etikett": "Consiglio comunale.",
     "typ": "organisation",
-    "antal": 10
+    "antal": 11
   },
   "kommunpolitik": {
     "etikett": "Politica comunale.",
@@ -627,6 +627,11 @@
   "vn": {
     "etikett": "VN",
     "typ": "organisation",
+    "antal": 1
+  },
+  "tierp": {
+    "etikett": "Tierps.",
+    "typ": "plats",
     "antal": 1
   }
 }

@@ -292,7 +292,7 @@
   "kommunfullmaktige": {
     "etikett": "Consiliul municipal.",
     "typ": "organisation",
-    "antal": 9
+    "antal": 10
   },
   "kommunpolitik": {
     "etikett": "Politica municipală.",
@@ -622,6 +622,11 @@
   "vn": {
     "etikett": "VN",
     "typ": "organisation",
+    "antal": 1
+  },
+  "tierp": {
+    "etikett": "Tierps.",
+    "typ": "plats",
     "antal": 1
   }
 }

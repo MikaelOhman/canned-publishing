@@ -352,7 +352,7 @@
   "kommunfullmaktige": {
     "etikett": "Municipal council.",
     "typ": "organisation",
-    "antal": 10
+    "antal": 11
   },
   "kommunpolitik": {
     "etikett": "Municipal politics.",
@@ -707,6 +707,11 @@
   "vn": {
     "etikett": "VN",
     "typ": "organisation",
+    "antal": 1
+  },
+  "tierp": {
+    "etikett": "Tierps is a municipality located in the county of Uppsala, Sweden. It offers a variety of attractions and activities for visitors, including:\n\n*   **Historical sites:** Explore the rich history of the region by visiting ancient castles, churches, and museums.\n*   **Natural beauty:** Enjoy the stunning landscapes of forests, lakes, and rivers, perfect for hiking, biking, and fishing.\n*   **Cultural events:** Immerse yourself in the local culture by attending festivals, concerts, and art exhibitions.\n*   **Outdoor activities:** Experience the thrill of adventure with opportunities for kayaking, climbing, and horseback riding.\n*   **Local cuisine:** Savor the flavors of traditional Swedish dishes and regional specialties at local restaurants and markets.\n\nFor more information, visit the official website at [insert URL here].",
+    "typ": "plats",
     "antal": 1
   }
 }

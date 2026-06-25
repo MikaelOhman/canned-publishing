@@ -292,7 +292,7 @@
   "kommunfullmaktige": {
     "etikett": "Gemeenteraad.",
     "typ": "organisation",
-    "antal": 10
+    "antal": 11
   },
   "kommunpolitik": {
     "etikett": "Gemeentepolitiek.",
@@ -627,6 +627,11 @@
   "vn": {
     "etikett": "VN",
     "typ": "organisation",
+    "antal": 1
+  },
+  "tierp": {
+    "etikett": "Tierps.",
+    "typ": "plats",
     "antal": 1
   }
 }
