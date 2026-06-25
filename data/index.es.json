@@ -1163,6 +1163,19 @@
     ]
   },
   {
+    "id": "stockholm-kommunstyrelsen-2026-05-27",
+    "typ": "kommunbeslut",
+    "titel": "Junta de Gobierno, Ayuntamiento de Estocolmo, 27 de mayo de 2026.",
+    "ingress": "La junta de gobierno de Estocolmo ha tomado decisiones sobre varios proyectos relacionados con temas que van desde la seguridad en Kista hasta la cultura y los árboles de la ciudad. No se iniciarán grandes proyectos de inversión de inmediat",
+    "datum": "2026-05-27",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunstyrelsen/mote-2026-05-27",
+    "taggar": [
+      "stockholm",
+      "kommunstyrelsen"
+    ]
+  },
+  {
     "id": "HD03271",
     "typ": "lagforslag",
     "titel": "Una ley de aborto modificada.",
@@ -1209,6 +1222,19 @@
     "kalla_url": "https://forum.norrtalje.se/committees/kommunfullmaktige/mote-2026-05-25",
     "taggar": [
       "norrtalje",
+      "kommunfullmaktige"
+    ]
+  },
+  {
+    "id": "stockholm-kommunfullmaktige-2026-05-25",
+    "typ": "kommunbeslut",
+    "titel": "Ayuntamiento de Estocolmo, 25 de mayo de 2026.",
+    "ingress": "El Ayuntamiento de Estocolmo ha tomado muchas decisiones sobre nuevos proyectos de construcción, parques y áreas naturales protegidas. Esto incluye la construcción de nuevas viviendas, la creación de nuevas carreteras y la protección de la",
+    "datum": "2026-05-25",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunfullmaktige/mote-2026-05-25",
+    "taggar": [
+      "stockholm",
       "kommunfullmaktige"
     ]
   },

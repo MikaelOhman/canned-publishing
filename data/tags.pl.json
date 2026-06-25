@@ -287,12 +287,12 @@
   "stockholm": {
     "etikett": "Stockholm:",
     "typ": "plats",
-    "antal": 3
+    "antal": 5
   },
   "kommunfullmaktige": {
     "etikett": "Rada miejska.",
     "typ": "organisation",
-    "antal": 28
+    "antal": 29
   },
   "kommunpolitik": {
     "etikett": "Polityka samorządowa.",
@@ -307,7 +307,7 @@
   "kommunstyrelsen": {
     "etikett": "Zarząd gminy.",
     "typ": "organisation",
-    "antal": 23
+    "antal": 24
   },
   "kommunal-forvaltning": {
     "etikett": "Zarządzanie samorządem lokalnym.",

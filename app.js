@@ -3,7 +3,8 @@
 'use strict';
 const $ = s => document.querySelector(s);
 const LS = { get:(k,d)=>localStorage.getItem('cp_'+k)||d, set:(k,v)=>localStorage.setItem('cp_'+k,v) };
-const state = { lang:null, sprak:[], ui:{}, index:[], tags:{}, active:new Set(), query:'', typ:'alla', visa:30 };
+const state = { lang:null, sprak:[], ui:{}, index:[], tags:{}, active:new Set(), query:'', typ:'alla', visa:30,
+  axlar:new Set(), axdef:[], grupper:[], personas:[] };
 const PAGE = 30;
 
 const THEME_STD = ['dark','light','sepia','midnatt','nord','dracula','solarized'];

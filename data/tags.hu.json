@@ -287,12 +287,12 @@
   "stockholm": {
     "etikett": "Stockholm.",
     "typ": "plats",
-    "antal": 3
+    "antal": 5
   },
   "kommunfullmaktige": {
     "etikett": "A települési közgyűlés.",
     "typ": "organisation",
-    "antal": 28
+    "antal": 29
   },
   "kommunpolitik": {
     "etikett": "Önkormányzati politika.",
@@ -307,7 +307,7 @@
   "kommunstyrelsen": {
     "etikett": "A községi tanács.",
     "typ": "organisation",
-    "antal": 23
+    "antal": 24
   },
   "kommunal-forvaltning": {
     "etikett": "Helyi közigazgatás.",
