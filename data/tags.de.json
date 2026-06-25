@@ -372,7 +372,7 @@
   "kommunstyrelsen": {
     "etikett": "Der Gemeinderat.",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "kommunal-forvaltning": {
     "etikett": "Kommunale Verwaltung.",
@@ -466,6 +466,11 @@
   },
   "hylte-kommun": {
     "etikett": "Gemeinde Hylte",
+    "typ": "plats",
+    "antal": 1
+  },
+  "lekeberg": {
+    "etikett": "Lekebergs",
     "typ": "plats",
     "antal": 1
   }

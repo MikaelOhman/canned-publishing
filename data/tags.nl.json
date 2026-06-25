@@ -312,7 +312,7 @@
   "kommunstyrelsen": {
     "etikett": "Het college van burgemeester en wethouders.",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "kommunal-forvaltning": {
     "etikett": "Gemeentelijke administratie.",
@@ -406,6 +406,11 @@
   },
   "hylte-kommun": {
     "etikett": "Gemeente Hylte.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "lekeberg": {
+    "etikett": "Lekebergs",
     "typ": "plats",
     "antal": 1
   }

@@ -307,7 +307,7 @@
   "kommunstyrelsen": {
     "etikett": "مجلس البلدية.",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "kommunal-forvaltning": {
     "etikett": "الإدارة المحلية.",
@@ -427,6 +427,11 @@
   "kommunalpolitik": {
     "etikett": "السياسة المحلية.",
     "typ": "ämne",
+    "antal": 1
+  },
+  "lekeberg": {
+    "etikett": "ليكبِيرج.",
+    "typ": "plats",
     "antal": 1
   }
 }

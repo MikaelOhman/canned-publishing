@@ -307,7 +307,7 @@
   "kommunstyrelsen": {
     "etikett": "A községi tanács.",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "kommunal-forvaltning": {
     "etikett": "Helyi közigazgatás.",
@@ -402,6 +402,11 @@
   "kommunalpolitik": {
     "etikett": "Helyi politika.",
     "typ": "ämne",
+    "antal": 1
+  },
+  "lekeberg": {
+    "etikett": "Lekebergs",
+    "typ": "plats",
     "antal": 1
   }
 }

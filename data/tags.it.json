@@ -312,7 +312,7 @@
   "kommunstyrelsen": {
     "etikett": "La giunta comunale.",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "kommunal-forvaltning": {
     "etikett": "Amministrazione comunale.",
@@ -406,6 +406,11 @@
   },
   "hylte-kommun": {
     "etikett": "Comune di Hylte.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "lekeberg": {
+    "etikett": "Lekebergs",
     "typ": "plats",
     "antal": 1
   }

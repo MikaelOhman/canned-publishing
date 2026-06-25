@@ -372,7 +372,7 @@
   "kommunstyrelsen": {
     "etikett": "The Municipal Board.",
     "typ": "organisation",
-    "antal": 4
+    "antal": 5
   },
   "kommunal-forvaltning": {
     "etikett": "Municipal administration.",
@@ -486,6 +486,11 @@
   },
   "hylte-kommun": {
     "etikett": "Hylte Municipality",
+    "typ": "plats",
+    "antal": 1
+  },
+  "lekeberg": {
+    "etikett": "Lekebergs",
     "typ": "plats",
     "antal": 1
   }

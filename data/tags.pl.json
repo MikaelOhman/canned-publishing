@@ -307,7 +307,7 @@
   "kommunstyrelsen": {
     "etikett": "Zarząd gminy.",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "kommunal-forvaltning": {
     "etikett": "Zarządzanie samorządem lokalnym.",
@@ -402,6 +402,11 @@
   "kommunalpolitik": {
     "etikett": "Polityka samorządowa.",
     "typ": "ämne",
+    "antal": 1
+  },
+  "lekeberg": {
+    "etikett": "Lekebergs",
+    "typ": "plats",
     "antal": 1
   }
 }

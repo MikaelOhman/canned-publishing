@@ -362,7 +362,7 @@
   "kommunstyrelsen": {
     "etikett": "Kommunstyrelsen",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "kommunallagen": {
     "etikett": "Kommunallagen",
@@ -516,6 +516,11 @@
   },
   "hylte-kommun": {
     "etikett": "Hylte kommun",
+    "typ": "plats",
+    "antal": 1
+  },
+  "lekeberg": {
+    "etikett": "Lekebergs",
     "typ": "plats",
     "antal": 1
   }
