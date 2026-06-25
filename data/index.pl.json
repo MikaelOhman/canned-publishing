@@ -11693,6 +11693,22 @@
     }
   },
   {
+    "id": "ange-kommunstyrelsen-2025-09-02",
+    "typ": "kommunbeslut",
+    "titel": "Uchwała Rady Gminy, Gmina Ånge, 2 września 2025 roku.",
+    "ingress": "Gmina Ånge otrzymała raport finansowy, który wskazuje na bardzo trudną sytuację gospodarczą gminy i zbyt mawe rezerwy na przyszłe inwestycje.",
+    "datum": "2025-09-02",
+    "kalla": "Ånge kommun",
+    "kalla_url": "https://moten.ange.se/committees/kommunstyrelsen/mote-2025-09-02",
+    "taggar": [
+      "ange",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "finansiering": 3
+    }
+  },
+  {
     "id": "HC03202",
     "typ": "lagforslag",
     "titel": "Rozszerzone możliwości wykonywania kary pozbawienia wolności w formie elektronicznego nadzoru.",
@@ -13376,6 +13392,22 @@
       "eu_marknad": 4,
       "b_finans": 5,
       "b_vard": 4
+    }
+  },
+  {
+    "id": "bollebygd-kommunfullmaktige-2025-03-20",
+    "typ": "kommunbeslut",
+    "titel": "Uchwała Rady Miejskiej, Gmina Bollebygd, 20 marca 2025 roku.",
+    "ingress": "Partia Centrum zaproponowała utworzenie miejskiej szkoły pływania, która działałaby w jeziorach w okresie letnim. Propozycja została przekazana do komisji ds. edukacji w celu jej rozpatrzenia.",
+    "datum": "2025-03-20",
+    "kalla": "Bollebygds kommun",
+    "kalla_url": "https://meeting.bollebygd.se/committees/kommunfullmaktige/mote-2025-03-20",
+    "taggar": [
+      "bollebygd",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "barn": 3
     }
   },
   {

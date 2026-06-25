@@ -11625,6 +11625,22 @@
     }
   },
   {
+    "id": "ange-kommunstyrelsen-2025-09-02",
+    "typ": "kommunbeslut",
+    "titel": "مجلس بلدية أنغه، تاريخ: 2 سبتمبر 2025.",
+    "ingress": "بلدية أنغه استلمت تقريرًا ماليًا يوضح أن الوضع المالي للبلدية متوتر للغاية، وأن الهوامش المالية المتاحة للاستثمارات المستقبلية ضيقة جدًا.",
+    "datum": "2025-09-02",
+    "kalla": "Ånge kommun",
+    "kalla_url": "https://moten.ange.se/committees/kommunstyrelsen/mote-2025-09-02",
+    "taggar": [
+      "ange",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "finansiering": 3
+    }
+  },
+  {
     "id": "HC03202",
     "typ": "lagforslag",
     "titel": "توسيع نطاق استخدام العقوبات بالسجن مع المراقبة الإلكترونية.",
@@ -13303,6 +13319,22 @@
       "eu_marknad": 4,
       "b_finans": 5,
       "b_vard": 4
+    }
+  },
+  {
+    "id": "bollebygd-kommunfullmaktige-2025-03-20",
+    "typ": "kommunbeslut",
+    "titel": "إلى مجلس مدينة بولليبيغد، تاريخ 20 مارس 2025.",
+    "ingress": "قدم حزب المركز اقتراحًا بإنشاء مدرسة لتعليم السباحة على مستوى البلدية، وذلك في البحيرات خلال فصل الصيف. وقد تم إحالة هذا الاقتراح إلى لجنة التعليم لمراجعته وتقييمه.",
+    "datum": "2025-03-20",
+    "kalla": "Bollebygds kommun",
+    "kalla_url": "https://meeting.bollebygd.se/committees/kommunfullmaktige/mote-2025-03-20",
+    "taggar": [
+      "bollebygd",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "barn": 3
     }
   },
   {

@@ -11677,6 +11677,22 @@
     }
   },
   {
+    "id": "ange-kommunstyrelsen-2025-09-02",
+    "typ": "kommunbeslut",
+    "titel": "Gemeenteraad, gemeente Ånge, 2 september 2025.",
+    "ingress": "De gemeente Ånge heeft een financieel rapport ontvangen dat aantoont dat de financiële situatie van de gemeente zeer gespannen is, met te kleine marges voor toekomstige investeringen.",
+    "datum": "2025-09-02",
+    "kalla": "Ånge kommun",
+    "kalla_url": "https://moten.ange.se/committees/kommunstyrelsen/mote-2025-09-02",
+    "taggar": [
+      "ange",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "finansiering": 3
+    }
+  },
+  {
     "id": "HC03202",
     "typ": "lagforslag",
     "titel": "Uitgebreide mogelijkheden om gevangenisstraffen uit te voeren met elektronische bewaking.",
@@ -13344,6 +13360,22 @@
       "eu_marknad": 4,
       "b_finans": 5,
       "b_vard": 4
+    }
+  },
+  {
+    "id": "bollebygd-kommunfullmaktige-2025-03-20",
+    "typ": "kommunbeslut",
+    "titel": "Gemeenteraad, gemeente Bollebygd, 2025-03-20.",
+    "ingress": "De Partij voor het Centrum heeft een voorstel ingediend om een gemeentelijke zwemschool op te richten in meren tijdens de zomermaanden. Dit voorstel is doorgegeven aan de onderwijscommissie voor verdere beoordeling.",
+    "datum": "2025-03-20",
+    "kalla": "Bollebygds kommun",
+    "kalla_url": "https://meeting.bollebygd.se/committees/kommunfullmaktige/mote-2025-03-20",
+    "taggar": [
+      "bollebygd",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "barn": 3
     }
   },
   {

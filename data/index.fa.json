@@ -11596,6 +11596,22 @@
     }
   },
   {
+    "id": "ange-kommunstyrelsen-2025-09-02",
+    "typ": "kommunbeslut",
+    "titel": "شورای شهر، شهرداری آنگه، تاریخ: 2025-09-02.",
+    "ingress": "شهرداری Ånge گزارشی مالی دریافت کرده است که نشان می‌دهد وضعیت اقتصادی این شهرداری بسیار نامطلوب است و حاشیه‌های مالی کمی برای سرمایه‌گذاری‌های آینده باقی مانده است.",
+    "datum": "2025-09-02",
+    "kalla": "Ånge kommun",
+    "kalla_url": "https://moten.ange.se/committees/kommunstyrelsen/mote-2025-09-02",
+    "taggar": [
+      "ange",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "finansiering": 3
+    }
+  },
+  {
     "id": "HC03202",
     "typ": "lagforslag",
     "titel": "فرصت‌های بیشتری برای اجرای حکم زندان با استفاده از نظارت الکترونیکی.",
@@ -13279,6 +13295,22 @@
       "eu_marknad": 4,
       "b_finans": 5,
       "b_vard": 4
+    }
+  },
+  {
+    "id": "bollebygd-kommunfullmaktige-2025-03-20",
+    "typ": "kommunbeslut",
+    "titel": "جلسه شورای شهر، شهرداری بولهبیگد، ۲۰ مارس ۲۰۲۵.",
+    "ingress": "حزب مرکز (Centerpartiet) پیشنهادی ارائه کرده است مبنی بر راه‌اندازی یک مدرسه شنای دولتی در دریاچه‌ها در طول تابستان. این پیشنهاد برای بررسی به کمیسیون آموزش فرستاده شده است.",
+    "datum": "2025-03-20",
+    "kalla": "Bollebygds kommun",
+    "kalla_url": "https://meeting.bollebygd.se/committees/kommunfullmaktige/mote-2025-03-20",
+    "taggar": [
+      "bollebygd",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "barn": 3
     }
   },
   {

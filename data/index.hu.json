@@ -11571,6 +11571,22 @@
     }
   },
   {
+    "id": "ange-kommunstyrelsen-2025-09-02",
+    "typ": "kommunbeslut",
+    "titel": "Az Ånge önkormányzat Kommunális Bizottsága, 2025. szeptember 2.",
+    "ingress": "Az Ånge önkormányzat egy gazdasági jelentést kapott, amelyből kiderült, hogy az önkormányzat anyagi helyzete nagyon nehéz, és a jövőbeni beruházásokra rendelkezésre álló tartalékok is nagyon kicsik.",
+    "datum": "2025-09-02",
+    "kalla": "Ånge kommun",
+    "kalla_url": "https://moten.ange.se/committees/kommunstyrelsen/mote-2025-09-02",
+    "taggar": [
+      "ange",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "finansiering": 3
+    }
+  },
+  {
     "id": "HC03202",
     "typ": "lagforslag",
     "titel": "Lehetőségek bővítése a szabadszabályozás elektronikus megfigyeléssel történő végrehajtására.",
@@ -13238,6 +13254,22 @@
       "eu_marknad": 4,
       "b_finans": 5,
       "b_vard": 4
+    }
+  },
+  {
+    "id": "bollebygd-kommunfullmaktige-2025-03-20",
+    "typ": "kommunbeslut",
+    "titel": "Bollebygds községi önkormányzat, 2025. március 20.",
+    "ingress": "A Centerpartiet nevű párt javaslatot tett egy önkormányzati úszóiskola indítására tavakban a nyári időszakban. A javaslatot továbbították az oktatási bizottságnak, amely felülvizsgálja azt.",
+    "datum": "2025-03-20",
+    "kalla": "Bollebygds kommun",
+    "kalla_url": "https://meeting.bollebygd.se/committees/kommunfullmaktige/mote-2025-03-20",
+    "taggar": [
+      "bollebygd",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "barn": 3
     }
   },
   {

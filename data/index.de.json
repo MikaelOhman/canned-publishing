@@ -11707,6 +11707,22 @@
     }
   },
   {
+    "id": "ange-kommunstyrelsen-2025-09-02",
+    "typ": "kommunbeslut",
+    "titel": "Gemeindeverwaltungsrat, Gemeinde Ånge, 2. September 2025.",
+    "ingress": "Die Gemeinde Ånge hat einen Wirtschaftbericht erhalten, der zeigt, dass die finanzielle Situation der Gemeinde sehr angespannt ist und nur geringe Spielräume für zukünftige Investitionen bestehen.",
+    "datum": "2025-09-02",
+    "kalla": "Ånge kommun",
+    "kalla_url": "https://moten.ange.se/committees/kommunstyrelsen/mote-2025-09-02",
+    "taggar": [
+      "ange",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "finansiering": 3
+    }
+  },
+  {
     "id": "HC03202",
     "typ": "lagforslag",
     "titel": "Erweiterte Möglichkeiten zur Vollstreckung von Freiheitsstrafen unter elektronischer Überwachung.",
@@ -13374,6 +13390,22 @@
       "eu_marknad": 4,
       "b_finans": 5,
       "b_vard": 4
+    }
+  },
+  {
+    "id": "bollebygd-kommunfullmaktige-2025-03-20",
+    "typ": "kommunbeslut",
+    "titel": "Gemeindevertretung von Bollebygds, 20. März 2025.",
+    "ingress": "Die Partei Centerpartiet hat einen Vorschlag vorgelegt, eine kommunale Schwimmschule in Seen während des Sommers zu eröffnen. Der Vorschlag wurde an den Bildungsausschuss weitergeleitet, um geprüft zu werden.",
+    "datum": "2025-03-20",
+    "kalla": "Bollebygds kommun",
+    "kalla_url": "https://meeting.bollebygd.se/committees/kommunfullmaktige/mote-2025-03-20",
+    "taggar": [
+      "bollebygd",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "barn": 3
     }
   },
   {

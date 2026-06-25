@@ -11775,6 +11775,22 @@
     }
   },
   {
+    "id": "ange-kommunstyrelsen-2025-09-02",
+    "typ": "kommunbeslut",
+    "titel": "Municipal Board, Ånge Municipality, September 2, 2025.",
+    "ingress": "The municipality of Ånge has received a financial report indicating that the municipality's finances are under significant strain, with very limited margins for future investments.",
+    "datum": "2025-09-02",
+    "kalla": "Ånge kommun",
+    "kalla_url": "https://moten.ange.se/committees/kommunstyrelsen/mote-2025-09-02",
+    "taggar": [
+      "ange",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "finansiering": 3
+    }
+  },
+  {
     "id": "HC03202",
     "typ": "lagforslag",
     "titel": "Expanded opportunities to serve prison sentences under electronic monitoring.",
@@ -13458,6 +13474,22 @@
       "eu_marknad": 4,
       "b_finans": 5,
       "b_vard": 4
+    }
+  },
+  {
+    "id": "bollebygd-kommunfullmaktige-2025-03-20",
+    "typ": "kommunbeslut",
+    "titel": "Municipal Council, Bollebygds Municipality, March 20, 2025.",
+    "ingress": "The Centre Party has proposed establishing a municipal swimming school in lakes during the summer months. This proposal has been forwarded to the education committee for review.",
+    "datum": "2025-03-20",
+    "kalla": "Bollebygds kommun",
+    "kalla_url": "https://meeting.bollebygd.se/committees/kommunfullmaktige/mote-2025-03-20",
+    "taggar": [
+      "bollebygd",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "barn": 3
     }
   },
   {

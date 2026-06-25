@@ -11677,6 +11677,22 @@
     }
   },
   {
+    "id": "ange-kommunstyrelsen-2025-09-02",
+    "typ": "kommunbeslut",
+    "titel": "Comitato esecutivo del comune di Ånge, 2 settembre 2025.",
+    "ingress": "Il comune di Ånge ha ricevuto un rapporto economico che evidenzia come la situazione finanziaria del comune sia molto critica, con margini troppo ristretti per futuri investimenti.",
+    "datum": "2025-09-02",
+    "kalla": "Ånge kommun",
+    "kalla_url": "https://moten.ange.se/committees/kommunstyrelsen/mote-2025-09-02",
+    "taggar": [
+      "ange",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "finansiering": 3
+    }
+  },
+  {
     "id": "HC03202",
     "typ": "lagforslag",
     "titel": "Ampliamento delle possibilità di esecuzione della pena detentiva attraverso la sorveglianza elettronica.",
@@ -13360,6 +13376,22 @@
       "eu_marknad": 4,
       "b_finans": 5,
       "b_vard": 4
+    }
+  },
+  {
+    "id": "bollebygd-kommunfullmaktige-2025-03-20",
+    "typ": "kommunbeslut",
+    "titel": "Consiglio comunale, Comune di Bollebygd, 20 marzo 2025.",
+    "ingress": "Il partito Centerpartiet ha presentato una proposta per avviare una scuola di nuoto comunale nei laghi durante l'estate. La proposta è stata inoltrata alla commissione per l'istruzione per essere valutata.",
+    "datum": "2025-03-20",
+    "kalla": "Bollebygds kommun",
+    "kalla_url": "https://meeting.bollebygd.se/committees/kommunfullmaktige/mote-2025-03-20",
+    "taggar": [
+      "bollebygd",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "barn": 3
     }
   },
   {
