@@ -557,7 +557,7 @@
   "markaryd": {
     "etikett": "Markaryds",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "utbildnings-och-kulturnamndens-arbetsuts": {
     "etikett": "Finanziamenti dell'organo esecutivo della commissione per l'istruzione e la cultura.",
@@ -1121,6 +1121,11 @@
   },
   "utbildningsnamnden": {
     "etikett": "La commissione per l'istruzione.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "kommunfullmaktige-kf": {
+    "etikett": "Consiglio comunale.",
     "typ": "organisation",
     "antal": 1
   }

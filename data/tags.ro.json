@@ -552,7 +552,7 @@
   "markaryd": {
     "etikett": "Markaryds",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "utbildnings-och-kulturnamndens-arbetsuts": {
     "etikett": "Comisia de alocare a fondurilor a Comisiei pentru educație și cultură.",
@@ -1116,6 +1116,11 @@
   },
   "utbildningsnamnden": {
     "etikett": "Comisia de educație.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "kommunfullmaktige-kf": {
+    "etikett": "Consiliul municipal (KF).",
     "typ": "organisation",
     "antal": 1
   }

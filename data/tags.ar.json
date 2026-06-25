@@ -577,7 +577,7 @@
   "markaryd": {
     "etikett": "ماركاريز.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "utbildnings-och-kulturnamndens-arbetsuts": {
     "etikett": "ميزانية لجنة العمل التابعة للجنة التعليم والثقافة.",
@@ -1131,6 +1131,11 @@
   },
   "utbildningsnamnden": {
     "etikett": "لجنة التعليم.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "kommunfullmaktige-kf": {
+    "etikett": "مجلس مدينة (أو بلدية) KF.",
     "typ": "organisation",
     "antal": 1
   }

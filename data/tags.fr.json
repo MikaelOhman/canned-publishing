@@ -557,7 +557,7 @@
   "markaryd": {
     "etikett": "Markaryds",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "utbildnings-och-kulturnamndens-arbetsuts": {
     "etikett": "Commission de l'éducation et de la culture, comité de travail, allocations budgétaires.",
@@ -1121,6 +1121,11 @@
   },
   "utbildningsnamnden": {
     "etikett": "Commission de l'éducation.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "kommunfullmaktige-kf": {
+    "etikett": "Conseil municipal (KF)",
     "typ": "organisation",
     "antal": 1
   }

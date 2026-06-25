@@ -557,7 +557,7 @@
   "markaryd": {
     "etikett": "Markaryds",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "utbildnings-och-kulturnamndens-arbetsuts": {
     "etikett": "Subsidies van de werkgroep van de commissie voor onderwijs en cultuur.",
@@ -1121,6 +1121,11 @@
   },
   "utbildningsnamnden": {
     "etikett": "De onderwijscommissie.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "kommunfullmaktige-kf": {
+    "etikett": "Gemeenteraad (KF)",
     "typ": "organisation",
     "antal": 1
   }

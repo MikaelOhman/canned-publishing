@@ -552,7 +552,7 @@
   "markaryd": {
     "etikett": "Markaryds",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "utbildnings-och-kulturnamndens-arbetsuts": {
     "etikett": "Subvenciones del comité de trabajo de la comisión de educación y cultura.",
@@ -1116,6 +1116,11 @@
   },
   "utbildningsnamnden": {
     "etikett": "La comisión de educación.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "kommunfullmaktige-kf": {
+    "etikett": "El Ayuntamiento.",
     "typ": "organisation",
     "antal": 1
   }

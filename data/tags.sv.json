@@ -667,7 +667,7 @@
   "markaryd": {
     "etikett": "Markaryds",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "utbildnings-och-kulturnamndens-arbetsuts": {
     "etikett": "Utbildnings och kulturnämndens arbetsutskott anslag",
@@ -1216,6 +1216,11 @@
   },
   "utbildningsnamnden": {
     "etikett": "Utbildningsnämnden",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "kommunfullmaktige-kf": {
+    "etikett": "Kommunfullmäktige KF",
     "typ": "organisation",
     "antal": 1
   }

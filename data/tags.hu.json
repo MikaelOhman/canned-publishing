@@ -552,7 +552,7 @@
   "markaryd": {
     "etikett": "Markaryds",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "utbildnings-och-kulturnamndens-arbetsuts": {
     "etikett": "A képzés- és kultúra bizottság munkabizottságának költségvetése.",
@@ -1116,6 +1116,11 @@
   },
   "utbildningsnamnden": {
     "etikett": "Oktatási bizottság.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "kommunfullmaktige-kf": {
+    "etikett": "A közgyűlés (KF).",
     "typ": "organisation",
     "antal": 1
   }

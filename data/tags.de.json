@@ -617,7 +617,7 @@
   "markaryd": {
     "etikett": "Markaryds",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "utbildnings-och-kulturnamndens-arbetsuts": {
     "etikett": "Föranschungen des Arbeitsausschusses des Bildungsausschusses und des Kulturusschusses.",
@@ -1181,6 +1181,11 @@
   },
   "utbildningsnamnden": {
     "etikett": "Der Bildungsausschuss.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "kommunfullmaktige-kf": {
+    "etikett": "Gemeindevertretung (GV)",
     "typ": "organisation",
     "antal": 1
   }

@@ -552,7 +552,7 @@
   "markaryd": {
     "etikett": "Markaryds",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "utbildnings-och-kulturnamndens-arbetsuts": {
     "etikett": "Dotacja od komisji ds. edukacji i kultury.",
@@ -1116,6 +1116,11 @@
   },
   "utbildningsnamnden": {
     "etikett": "Komisja ds. edukacji.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "kommunfullmaktige-kf": {
+    "etikett": "Rada miejska.",
     "typ": "organisation",
     "antal": 1
   }
