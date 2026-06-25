@@ -11776,6 +11776,22 @@
     }
   },
   {
+    "id": "bollebygd-kommunstyrelsen-2025-07-11",
+    "typ": "kommunbeslut",
+    "titel": "Junta Municipal, Municipio de Bollebygd, 11 de julio de 2025.",
+    "ingress": "La Junta Municipal de Bollebygds ha decidido no añadir nada nuevo al litigio judicial sobre la exención de responsabilidad. Mantienen su respuesta anterior a la Corte Administrativa de Jönköping.",
+    "datum": "2025-07-11",
+    "kalla": "Bollebygds kommun",
+    "kalla_url": "https://meeting.bollebygd.se/committees/kommunstyrelsen/mote-2025-07-11",
+    "taggar": [
+      "bollebygd",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "b_fastighet": 3
+    }
+  },
+  {
     "id": "HC03198",
     "typ": "lagforslag",
     "titel": "Obligaciones de información para ciertas medidas de apoyo que están sujetas a las normas de ayudas estatales de la Unión Europea.",
@@ -14194,6 +14210,24 @@
       "beroende": 5,
       "otrygg": 3,
       "fortroendevald": 3
+    }
+  },
+  {
+    "id": "bollebygd-kommunfullmaktige-2025-02-20",
+    "typ": "kommunbeslut",
+    "titel": "Actas de la reunión del Ayuntamiento de Bollebygd, 20 de febrero de 2025.",
+    "ingress": "El pleno municipal de Bollebygd ha recibido una propuesta para equipar los vehículos del servicio de atención domiciliaria con soportes para teléfonos móviles.",
+    "datum": "2025-02-20",
+    "kalla": "Bollebygds kommun",
+    "kalla_url": "https://meeting.bollebygd.se/committees/kommunfullmaktige/mote-2025-02-20",
+    "taggar": [
+      "bollebygd",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_vard": 3,
+      "pensionar": 3
     }
   },
   {

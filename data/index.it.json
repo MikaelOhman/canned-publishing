@@ -11757,6 +11757,22 @@
     }
   },
   {
+    "id": "bollebygd-kommunstyrelsen-2025-07-11",
+    "typ": "kommunbeslut",
+    "titel": "Comitato esecutivo del comune di Bollebygd, 11 luglio 2025.",
+    "ingress": "La giunta comunale di Bollebygds ha deciso di non aggiungere ulteriori elementi alla controversia legale riguardante la richiesta di esonero da responsabilità. Conferma quindi la sua precedente risposta al Tribunale Amministrativo di Jönköp",
+    "datum": "2025-07-11",
+    "kalla": "Bollebygds kommun",
+    "kalla_url": "https://meeting.bollebygd.se/committees/kommunstyrelsen/mote-2025-07-11",
+    "taggar": [
+      "bollebygd",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "b_fastighet": 3
+    }
+  },
+  {
     "id": "HC03198",
     "typ": "lagforslag",
     "titel": "Obblighi di rendicontazione per determinate misure di sostegno che rientrano nel campo delle norme europee sugli aiuti di Stato.",
@@ -14180,6 +14196,24 @@
       "beroende": 5,
       "otrygg": 3,
       "fortroendevald": 3
+    }
+  },
+  {
+    "id": "bollebygd-kommunfullmaktige-2025-02-20",
+    "typ": "kommunbeslut",
+    "titel": "Consiglio comunale di Bollebygds, del 20 febbraio 2025.",
+    "ingress": "Il consiglio comunale di Bollebygd ha ricevuto una proposta per dotare le auto del servizio di assistenza domiciliare di supporti per telefoni cellulari.",
+    "datum": "2025-02-20",
+    "kalla": "Bollebygds kommun",
+    "kalla_url": "https://meeting.bollebygd.se/committees/kommunfullmaktige/mote-2025-02-20",
+    "taggar": [
+      "bollebygd",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_vard": 3,
+      "pensionar": 3
     }
   },
   {

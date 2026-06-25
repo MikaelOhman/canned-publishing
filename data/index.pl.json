@@ -11773,6 +11773,22 @@
     }
   },
   {
+    "id": "bollebygd-kommunstyrelsen-2025-07-11",
+    "typ": "kommunbeslut",
+    "titel": "Uchwała Rady Gminy, Gmina Bollebygd, 2025-07-11.",
+    "ingress": "Zarząd gminy Bollebygd podjął decyzję o nieprzedłużaniu sporu sądowego dotyczącego odpowiedzialności. Utrzymuje swoje wcześniejsze stanowisko w sprawie, przekazane wcześniej Sądowi Administracyjnemu w Jönköpingu.",
+    "datum": "2025-07-11",
+    "kalla": "Bollebygds kommun",
+    "kalla_url": "https://meeting.bollebygd.se/committees/kommunstyrelsen/mote-2025-07-11",
+    "taggar": [
+      "bollebygd",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "b_fastighet": 3
+    }
+  },
+  {
     "id": "HC03198",
     "typ": "lagforslag",
     "titel": "Obowiązek raportowania dla niektórych form wsparcia, które podlegają przepisom UE dotyczącym pomocy państwa.",
@@ -14196,6 +14212,24 @@
       "beroende": 5,
       "otrygg": 3,
       "fortroendevald": 3
+    }
+  },
+  {
+    "id": "bollebygd-kommunfullmaktige-2025-02-20",
+    "typ": "kommunbeslut",
+    "titel": "Uchwała Rady Miejskiej gminy Bollebygd, 20 lutego 2025 roku.",
+    "ingress": "Rada miejska w Bollebygd otrzymała propozycję wyposażenia samochodów świadczących usługi opieki domowej w uchwyty do telefonów komórkowych.",
+    "datum": "2025-02-20",
+    "kalla": "Bollebygds kommun",
+    "kalla_url": "https://meeting.bollebygd.se/committees/kommunfullmaktige/mote-2025-02-20",
+    "taggar": [
+      "bollebygd",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_vard": 3,
+      "pensionar": 3
     }
   },
   {

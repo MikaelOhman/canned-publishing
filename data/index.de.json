@@ -11787,6 +11787,22 @@
     }
   },
   {
+    "id": "bollebygd-kommunstyrelsen-2025-07-11",
+    "typ": "kommunbeslut",
+    "titel": "Gemeindeverwaltungsrat, Gemeinde Bollebygd, 11. Juli 2025.",
+    "ingress": "Der Gemeinderat von Bollebygds hat beschlossen, die laufende Rechtsstreitigkeit bezüglich der Entlastung nicht weiter zu verfolgen. Er hält an seiner bisherigen Stellungnahme gegenüber dem Verwaltungsgericht in Jönköping fest.",
+    "datum": "2025-07-11",
+    "kalla": "Bollebygds kommun",
+    "kalla_url": "https://meeting.bollebygd.se/committees/kommunstyrelsen/mote-2025-07-11",
+    "taggar": [
+      "bollebygd",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "b_fastighet": 3
+    }
+  },
+  {
     "id": "HC03198",
     "typ": "lagforslag",
     "titel": "Offenlegungspflicht für bestimmte Fördermaßnahmen, die unter die EU-Beihilferegeln fallen.",
@@ -14194,6 +14210,24 @@
       "beroende": 5,
       "otrygg": 3,
       "fortroendevald": 3
+    }
+  },
+  {
+    "id": "bollebygd-kommunfullmaktige-2025-02-20",
+    "typ": "kommunbeslut",
+    "titel": "Gemeindevertretung von Bollebygd, Datum: 20. Februar 2025.",
+    "ingress": "Der Gemeinderat von Bollebygd hat einen Vorschlag erhalten, die Fahrzeuge des betreuten Wohnens mit Halterungen für Mobiltelefone auszustatten.",
+    "datum": "2025-02-20",
+    "kalla": "Bollebygds kommun",
+    "kalla_url": "https://meeting.bollebygd.se/committees/kommunfullmaktige/mote-2025-02-20",
+    "taggar": [
+      "bollebygd",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_vard": 3,
+      "pensionar": 3
     }
   },
   {
