@@ -77,19 +77,25 @@
     "bytype": "Według typu"
   },
   "sit": {
-    "btn": "Moja sytuacja",
-    "none": "Moja sytuacja",
-    "title": "Co Cię dotyczy?",
-    "intro": "Zaznacz, co pasuje do Twojego życia – artykuły, które dotyczą Cię najbardziej, trafiają na górę (nic nie jest ukrywane).",
-    "presets": "Szybki wybór",
+    "filter": "Filtr",
+    "type": "Typ",
+    "all": "Zaznacz wszystko",
+    "none_all": "Wyczyść wszystko",
+    "more": "pokaż więcej",
+    "fewer": "mniej",
     "clear": "Wyczyść",
+    "share_btn": "Udostępnij ⤴",
+    "copy": "Kopiuj link",
+    "copied": "Skopiowano!",
+    "apply": "Pokaż",
     "affects": "Dotyczy Cię",
     "high": "mocno",
     "mid": "trochę",
     "low": "nieznacznie",
-    "share": "Zapisz / przenieś na inne urządzenie",
-    "sharehelp": "Skopiuj link i wklej go w pasku adresu na innym urządzeniu lub zapisz w zakładkach.",
-    "copy": "Kopiuj link",
-    "copied": "Skopiowano!"
+    "sharehelp": "Skopiuj link i wklej go w pasku adresu na innym urządzeniu lub zapisz w zakładkach."
+  },
+  "lagernamn": {
+    "privat": "Osoba prywatna",
+    "foretag": "Firma"
   }
 }

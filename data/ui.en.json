@@ -77,19 +77,25 @@
     "bytype": "By type"
   },
   "sit": {
-    "btn": "My situation",
-    "none": "My situation",
-    "title": "What matters to you?",
-    "intro": "Tick what fits your life — articles that affect you most rise to the top (nothing is hidden).",
-    "presets": "Quick presets",
+    "filter": "Filter",
+    "type": "Type",
+    "all": "Select all",
+    "none_all": "Clear all",
+    "more": "show more",
+    "fewer": "fewer",
     "clear": "Clear",
+    "share_btn": "Share ⤴",
+    "copy": "Copy link",
+    "copied": "Copied!",
+    "apply": "Show",
     "affects": "Affects you",
     "high": "a lot",
     "mid": "somewhat",
     "low": "a little",
-    "share": "Save / move to another device",
-    "sharehelp": "Copy this link and paste it in the address bar on another device, or bookmark it.",
-    "copy": "Copy link",
-    "copied": "Copied!"
+    "sharehelp": "Copy this link and paste it in the address bar on another device, or bookmark it."
+  },
+  "lagernamn": {
+    "privat": "Private individual",
+    "foretag": "Business"
   }
 }

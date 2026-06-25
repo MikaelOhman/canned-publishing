@@ -77,19 +77,25 @@
     "bytype": "Nach Typ"
   },
   "sit": {
-    "btn": "Meine Situation",
-    "none": "Meine Situation",
-    "title": "Was betrifft dich?",
-    "intro": "Wähle, was auf dein Leben zutrifft – Artikel, die dich am meisten betreffen, erscheinen oben (nichts wird ausgeblendet).",
-    "presets": "Schnellauswahl",
+    "filter": "Filter",
+    "type": "Typ",
+    "all": "Alle auswählen",
+    "none_all": "Alle abwählen",
+    "more": "mehr anzeigen",
+    "fewer": "weniger",
     "clear": "Zurücksetzen",
+    "share_btn": "Teilen ⤴",
+    "copy": "Link kopieren",
+    "copied": "Kopiert!",
+    "apply": "Zeige",
     "affects": "Betrifft dich",
     "high": "stark",
     "mid": "etwas",
     "low": "wenig",
-    "share": "Speichern / auf anderes Gerät übertragen",
-    "sharehelp": "Kopiere den Link und füge ihn auf einem anderen Gerät in die Adressleiste ein oder setze ein Lesezeichen.",
-    "copy": "Link kopieren",
-    "copied": "Kopiert!"
+    "sharehelp": "Kopiere den Link und füge ihn auf einem anderen Gerät in die Adressleiste ein oder setze ein Lesezeichen."
+  },
+  "lagernamn": {
+    "privat": "Privatperson",
+    "foretag": "Unternehmen"
   }
 }

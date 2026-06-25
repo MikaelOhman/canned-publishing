@@ -77,19 +77,25 @@
     "bytype": "Per tipo"
   },
   "sit": {
-    "btn": "La mia situazione",
-    "none": "La mia situazione",
-    "title": "Cosa ti riguarda?",
-    "intro": "Seleziona ciò che corrisponde alla tua vita – gli articoli che ti riguardano di più salgono in cima (niente viene nascosto).",
-    "presets": "Preimpostazioni",
+    "filter": "Filtro",
+    "type": "Tipo",
+    "all": "Seleziona tutto",
+    "none_all": "Deseleziona tutto",
+    "more": "mostra altro",
+    "fewer": "meno",
     "clear": "Cancella",
+    "share_btn": "Condividi ⤴",
+    "copy": "Copia link",
+    "copied": "Copiato!",
+    "apply": "Mostra",
     "affects": "Ti riguarda",
     "high": "molto",
     "mid": "un po'",
     "low": "poco",
-    "share": "Salva / trasferisci su un altro dispositivo",
-    "sharehelp": "Copia il link e incollalo nella barra degli indirizzi su un altro dispositivo, o aggiungilo ai preferiti.",
-    "copy": "Copia link",
-    "copied": "Copiato!"
+    "sharehelp": "Copia il link e incollalo nella barra degli indirizzi su un altro dispositivo, o aggiungilo ai preferiti."
+  },
+  "lagernamn": {
+    "privat": "Privato",
+    "foretag": "Azienda"
   }
 }

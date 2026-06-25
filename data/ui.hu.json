@@ -77,19 +77,25 @@
     "bytype": "Típus szerint"
   },
   "sit": {
-    "btn": "Az én helyzetem",
-    "none": "Az én helyzetem",
-    "title": "Mi érint téged?",
-    "intro": "Jelöld be, ami illik az életedre – a téged leginkább érintő cikkek felülre kerülnek (semmi nem tűnik el).",
-    "presets": "Gyors beállítások",
+    "filter": "Szűrő",
+    "type": "Típus",
+    "all": "Összes kijelölése",
+    "none_all": "Összes törlése",
+    "more": "több",
+    "fewer": "kevesebb",
     "clear": "Törlés",
+    "share_btn": "Megosztás ⤴",
+    "copy": "Link másolása",
+    "copied": "Másolva!",
+    "apply": "Mutasd",
     "affects": "Érint téged",
     "high": "erősen",
     "mid": "némileg",
     "low": "kissé",
-    "share": "Mentés / átvitel másik eszközre",
-    "sharehelp": "Másold ki a linket, és illeszd be egy másik eszköz címsorába, vagy mentsd könyvjelzőként.",
-    "copy": "Link másolása",
-    "copied": "Másolva!"
+    "sharehelp": "Másold ki a linket, és illeszd be egy másik eszköz címsorába, vagy mentsd könyvjelzőként."
+  },
+  "lagernamn": {
+    "privat": "Magánszemély",
+    "foretag": "Vállalkozás"
   }
 }

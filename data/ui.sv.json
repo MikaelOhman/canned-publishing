@@ -77,19 +77,25 @@
     "bytype": "Per typ"
   },
   "sit": {
-    "btn": "Min situation",
-    "none": "Min situation",
-    "title": "Vad påverkar dig?",
-    "intro": "Bocka i det som stämmer på ditt liv – artiklar som berör dig mest hamnar överst (inget döljs).",
-    "presets": "Snabbval",
+    "filter": "Filter",
+    "type": "Typ",
+    "all": "Markera alla",
+    "none_all": "Avmarkera alla",
+    "more": "visa fler",
+    "fewer": "färre",
     "clear": "Rensa",
+    "share_btn": "Dela ⤴",
+    "copy": "Kopiera länk",
+    "copied": "Kopierat!",
+    "apply": "Visa",
     "affects": "Berör dig",
     "high": "mycket",
     "mid": "en del",
     "low": "lite",
-    "share": "Spara / flytta till annan enhet",
-    "sharehelp": "Kopiera länken och klistra in i adressfältet på en annan enhet, eller spara som bokmärke.",
-    "copy": "Kopiera länk",
-    "copied": "Kopierat!"
+    "sharehelp": "Kopiera länken och klistra in i adressfältet på en annan enhet, eller spara som bokmärke."
+  },
+  "lagernamn": {
+    "privat": "Privatperson",
+    "foretag": "Företag"
   }
 }

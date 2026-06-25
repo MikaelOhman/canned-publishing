@@ -77,19 +77,25 @@
     "bytype": "După tip"
   },
   "sit": {
-    "btn": "Situația mea",
-    "none": "Situația mea",
-    "title": "Ce te afectează?",
-    "intro": "Bifează ce ți se potrivește – articolele care te afectează cel mai mult urcă în top (nimic nu este ascuns).",
-    "presets": "Presetări",
+    "filter": "Filtru",
+    "type": "Tip",
+    "all": "Selectează tot",
+    "none_all": "Șterge tot",
+    "more": "arată mai mult",
+    "fewer": "mai puțin",
     "clear": "Șterge",
+    "share_btn": "Distribuie ⤴",
+    "copy": "Copiază linkul",
+    "copied": "Copiat!",
+    "apply": "Arată",
     "affects": "Te afectează",
     "high": "mult",
     "mid": "oarecum",
     "low": "puțin",
-    "share": "Salvează / mută pe alt dispozitiv",
-    "sharehelp": "Copiază linkul și lipește-l în bara de adrese pe alt dispozitiv, sau salvează-l la favorite.",
-    "copy": "Copiază linkul",
-    "copied": "Copiat!"
+    "sharehelp": "Copiază linkul și lipește-l în bara de adrese pe alt dispozitiv, sau salvează-l la favorite."
+  },
+  "lagernamn": {
+    "privat": "Persoană fizică",
+    "foretag": "Firmă"
   }
 }

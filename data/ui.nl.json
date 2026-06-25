@@ -77,19 +77,25 @@
     "bytype": "Per type"
   },
   "sit": {
-    "btn": "Mijn situatie",
-    "none": "Mijn situatie",
-    "title": "Wat raakt jou?",
-    "intro": "Vink aan wat op jouw leven van toepassing is – artikelen die jou het meest raken komen bovenaan (niets wordt verborgen).",
-    "presets": "Snelkeuzes",
+    "filter": "Filter",
+    "type": "Type",
+    "all": "Alles selecteren",
+    "none_all": "Alles wissen",
+    "more": "meer tonen",
+    "fewer": "minder",
     "clear": "Wissen",
+    "share_btn": "Delen ⤴",
+    "copy": "Link kopiëren",
+    "copied": "Gekopieerd!",
+    "apply": "Toon",
     "affects": "Raakt jou",
     "high": "veel",
     "mid": "enigszins",
     "low": "weinig",
-    "share": "Opslaan / naar ander apparaat overzetten",
-    "sharehelp": "Kopieer de link en plak deze in de adresbalk op een ander apparaat, of sla op als bladwijzer.",
-    "copy": "Link kopiëren",
-    "copied": "Gekopieerd!"
+    "sharehelp": "Kopieer de link en plak deze in de adresbalk op een ander apparaat, of sla op als bladwijzer."
+  },
+  "lagernamn": {
+    "privat": "Particulier",
+    "foretag": "Bedrijf"
   }
 }

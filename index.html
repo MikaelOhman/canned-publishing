@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Canned Publishing</title>
-<meta name="description" content="Multilingual news – filter and search by tags.">
+<meta name="description" content="Multilingual news – filter and search by your life situation.">
 <link rel="alternate" type="application/rss+xml" title="RSS" href="feed.sv.xml" id="rss-alt">
 <link rel="stylesheet" href="app.css">
 </head>
@@ -33,16 +33,32 @@
   </div>
 </header>
 
-<main id="main" class="wrap" role="main">
-  <div class="typefilter" id="typefilter" role="group" aria-label="Type"></div>
-  <p class="searchhelp" id="searchhelp"></p>
-  <div class="meta-row"><span id="count"></span>
-    <button class="sit-btn" id="sit-btn" aria-expanded="false"></button></div>
-  <section class="sit-panel hidden" id="sit-panel" aria-label="Min situation"></section>
-  <section class="list" id="list" aria-label="News" aria-live="polite"></section>
-  <article class="article hidden" id="article" tabindex="-1"></article>
-  <section class="about hidden" id="about" tabindex="-1"></section>
-</main>
+<div class="wrap layout" id="layout">
+  <button class="filter-toggle" id="filter-toggle" aria-expanded="false" aria-controls="sidebar"></button>
+  <div class="backdrop hidden" id="backdrop"></div>
+
+  <aside class="sidebar" id="sidebar" aria-label="Filter">
+    <div class="side-head">
+      <h2 id="side-title">Filter</h2>
+      <button class="side-close" id="side-close" aria-label="Close">×</button>
+    </div>
+    <input class="filter-sok" id="filter-sok" type="search" autocomplete="off">
+    <div class="facets" id="facets"></div>
+    <div class="side-foot">
+      <button class="side-clear" id="side-clear"></button>
+      <button class="side-share" id="side-share" aria-expanded="false"></button>
+    </div>
+    <div class="share-box hidden" id="share-box"></div>
+    <button class="side-apply" id="side-apply"></button>
+  </aside>
+
+  <main class="content" id="content" role="main">
+    <div class="meta-row"><span id="count"></span></div>
+    <section class="list" id="list" aria-label="News" aria-live="polite"></section>
+    <article class="article hidden" id="article" tabindex="-1"></article>
+    <section class="about hidden" id="about" tabindex="-1"></section>
+  </main>
+</div>
 
 <footer class="wrap site-foot">
   <button class="lnk" id="omlank"></button>
