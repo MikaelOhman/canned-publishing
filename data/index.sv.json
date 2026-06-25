@@ -10725,6 +10725,26 @@
     }
   },
   {
+    "id": "bollebygd-kommunstyrelsen-2025-10-09",
+    "typ": "kommunbeslut",
+    "titel": "Kommunstyrelsen, Bollebygds kommun 2025-10-09",
+    "ingress": "Bollebygds kommun har svarat på Länsstyrelsens nya plan för klimat och energi i Västra Götaland. Kommunen stöttar planen för att hjälpa regionen att bli fossilfri till år 2030.",
+    "datum": "2025-10-09",
+    "kalla": "Bollebygds kommun",
+    "kalla_url": "https://meeting.bollebygd.se/committees/kommunstyrelsen/mote-2025-10-09",
+    "taggar": [
+      "bollebygd",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "b_industri": 3,
+      "b_energi": 3,
+      "kronisk": 3,
+      "energikund": 3,
+      "klimat": 3
+    }
+  },
+  {
     "id": "HD0323",
     "typ": "lagforslag",
     "titel": "Riksrevisionens rapport om statens insatser mot ekonomiskt våld i nära relationer",
@@ -12084,6 +12104,30 @@
       "kronisk": 4,
       "b_life": 5,
       "b_vard": 3
+    }
+  },
+  {
+    "id": "bollebygd-kommunfullmaktige-2025-06-05",
+    "typ": "kommunbeslut",
+    "titel": "Kommunfullmäktige, Bollebygds kommun 2025-06-05",
+    "ingress": "I kommunfullmäktiges möte den 5 juni 2025 fattades beslut om partistöd för olika politiska partier och genomgång av årsredovisningar för olika organisationer. Man diskuterade även förslag om hjärtstartare på biblioteket och ändrade regler f",
+    "datum": "2025-06-05",
+    "kalla": "Bollebygds kommun",
+    "kalla_url": "https://meeting.bollebygd.se/committees/kommunfullmaktige/mote-2025-06-05",
+    "taggar": [
+      "bollebygd",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_life": 3,
+      "redovisning": 3,
+      "kronisk": 3,
+      "beroende": 3,
+      "konsument": 3,
+      "klimat": 3,
+      "kultur": 3,
+      "fortroendevald": 3
     }
   },
   {
