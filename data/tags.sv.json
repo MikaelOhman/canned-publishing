@@ -377,7 +377,7 @@
   "kommunfullmaktige": {
     "etikett": "Kommunfullmäktige",
     "typ": "organisation",
-    "antal": 66
+    "antal": 67
   },
   "kommunpolitik": {
     "etikett": "Kommunpolitik",
@@ -1042,6 +1042,11 @@
   "on": {
     "etikett": "ON",
     "typ": "organisation",
+    "antal": 1
+  },
+  "hellefors": {
+    "etikett": "Hällefors",
+    "typ": "plats",
     "antal": 1
   }
 }

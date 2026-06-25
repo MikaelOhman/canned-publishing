@@ -352,7 +352,7 @@
   "kommunfullmaktige": {
     "etikett": "Gemeindevertretung",
     "typ": "organisation",
-    "antal": 66
+    "antal": 67
   },
   "kommunpolitik": {
     "etikett": "Kommunalpolitik.",
@@ -1007,6 +1007,11 @@
   "on": {
     "etikett": "ON",
     "typ": "organisation",
+    "antal": 1
+  },
+  "hellefors": {
+    "etikett": "Hällefors",
+    "typ": "plats",
     "antal": 1
   }
 }
