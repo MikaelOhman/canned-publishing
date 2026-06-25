@@ -432,7 +432,7 @@
   "protokoll": {
     "etikett": "Protokoll",
     "typ": "händelse",
-    "antal": 3
+    "antal": 4
   },
   "alingsas": {
     "etikett": "Alingsås",
@@ -672,6 +672,11 @@
   "utbildnings-och-kulturnamndens-arbetsuts": {
     "etikett": "Utbildnings och kulturnämndens arbetsutskott anslag",
     "typ": "organisation",
+    "antal": 1
+  },
+  "morakommun": {
+    "etikett": "Mora",
+    "typ": "plats",
     "antal": 1
   }
 }

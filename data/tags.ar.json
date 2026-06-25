@@ -362,7 +362,7 @@
   "protokoll": {
     "etikett": "محضر اجتماع.",
     "typ": "ämne",
-    "antal": 2
+    "antal": 3
   },
   "ulf-rapp": {
     "etikett": "أولف راب.",
@@ -582,6 +582,11 @@
   "utbildnings-och-kulturnamndens-arbetsuts": {
     "etikett": "ميزانية لجنة العمل التابعة للجنة التعليم والثقافة.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "morakommun": {
+    "etikett": "مورا.",
+    "typ": "plats",
     "antal": 1
   }
 }

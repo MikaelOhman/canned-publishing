@@ -367,7 +367,7 @@
   "protokoll": {
     "etikett": "Procès-verbal.",
     "typ": "ämne",
-    "antal": 2
+    "antal": 3
   },
   "ulf-rapp": {
     "etikett": "Ulf Rapp",
@@ -562,6 +562,11 @@
   "utbildnings-och-kulturnamndens-arbetsuts": {
     "etikett": "Commission de l'éducation et de la culture, comité de travail, allocations budgétaires.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "morakommun": {
+    "etikett": "Mora.",
+    "typ": "plats",
     "antal": 1
   }
 }

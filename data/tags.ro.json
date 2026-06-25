@@ -362,7 +362,7 @@
   "protokoll": {
     "etikett": "Proces-verbal.",
     "typ": "ämne",
-    "antal": 2
+    "antal": 3
   },
   "ulf-rapp": {
     "etikett": "Ulf Rapp",
@@ -557,6 +557,11 @@
   "utbildnings-och-kulturnamndens-arbetsuts": {
     "etikett": "Comisia de alocare a fondurilor a Comisiei pentru educație și cultură.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "morakommun": {
+    "etikett": "Mora",
+    "typ": "plats",
     "antal": 1
   }
 }

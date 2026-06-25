@@ -367,7 +367,7 @@
   "protokoll": {
     "etikett": "Verbale.",
     "typ": "ämne",
-    "antal": 2
+    "antal": 3
   },
   "ulf-rapp": {
     "etikett": "Ulf Rapp",
@@ -562,6 +562,11 @@
   "utbildnings-och-kulturnamndens-arbetsuts": {
     "etikett": "Finanziamenti dell'organo esecutivo della commissione per l'istruzione e la cultura.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "morakommun": {
+    "etikett": "Mora",
+    "typ": "plats",
     "antal": 1
   }
 }

@@ -422,7 +422,7 @@
   "protokoll": {
     "etikett": "Minutes\n\n(Followed by the content of the minutes, which would be translated accordingly. For example, if the minutes contained a list, it would be translated as a list.)",
     "typ": "ämne",
-    "antal": 2
+    "antal": 3
   },
   "ulf-rapp": {
     "etikett": "Ulf Rapp",
@@ -642,6 +642,11 @@
   "utbildnings-och-kulturnamndens-arbetsuts": {
     "etikett": "The working committee of the Education and Culture Committee's budget allocation.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "morakommun": {
+    "etikett": "Mora",
+    "typ": "plats",
     "antal": 1
   }
 }
