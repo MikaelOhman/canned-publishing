@@ -957,7 +957,7 @@
   "on": {
     "etikett": "تشغيل.",
     "typ": "organisation",
-    "antal": 2
+    "antal": 3
   },
   "hellefors": {
     "etikett": "هاليفورس.",
@@ -1167,6 +1167,11 @@
   "kun-digitalt": {
     "etikett": "KUN (الإصدار الرقمي)",
     "typ": "organisation",
+    "antal": 1
+  },
+  "norberg": {
+    "etikett": "Norbergs",
+    "typ": "plats",
     "antal": 1
   }
 }

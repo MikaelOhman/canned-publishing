@@ -942,7 +942,7 @@
   "on": {
     "etikett": "ON",
     "typ": "organisation",
-    "antal": 2
+    "antal": 3
   },
   "hellefors": {
     "etikett": "Hällefors",
@@ -1152,6 +1152,11 @@
   "kun-digitalt": {
     "etikett": "KUN (wersja cyfrowa)",
     "typ": "organisation",
+    "antal": 1
+  },
+  "norberg": {
+    "etikett": "Norbergs",
+    "typ": "plats",
     "antal": 1
   }
 }
