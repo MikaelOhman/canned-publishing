@@ -957,7 +957,7 @@
   "valnamnden": {
     "etikett": "Comisia de evaluare.",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "hultsfred": {
     "etikett": "Hultsfreds",
@@ -1312,6 +1312,11 @@
   "digitalt-sbb-kvitto-vshs4": {
     "etikett": "Chitanță digitală SBB, cod: vshs4.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "soderkoping": {
+    "etikett": "Söderköpings",
+    "typ": "plats",
     "antal": 1
   }
 }

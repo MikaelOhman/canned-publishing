@@ -1032,7 +1032,7 @@
   "valnamnden": {
     "etikett": "The Election Committee.",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "hultsfred": {
     "etikett": "Hultsfreds.",
@@ -1387,6 +1387,11 @@
   "digitalt-sbb-kvitto-vshs4": {
     "etikett": "Digital receipt from SBB, reference number: vshs4.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "soderkoping": {
+    "etikett": "Söderköping",
+    "typ": "plats",
     "antal": 1
   }
 }

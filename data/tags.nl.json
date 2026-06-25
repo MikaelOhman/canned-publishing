@@ -962,7 +962,7 @@
   "valnamnden": {
     "etikett": "De kiescommissie.",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "hultsfred": {
     "etikett": "Hultsfreds",
@@ -1317,6 +1317,11 @@
   "digitalt-sbb-kvitto-vshs4": {
     "etikett": "Digitaal SBB-bewijs, referentienummer vshs4.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "soderkoping": {
+    "etikett": "Söderköpings.",
+    "typ": "plats",
     "antal": 1
   }
 }
