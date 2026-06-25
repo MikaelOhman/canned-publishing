@@ -1208,5 +1208,15 @@
     "etikett": "Przepraszam, nie rozumiem. Czy możesz podać więcej informacji?",
     "typ": "organisation",
     "antal": 1
+  },
+  "ostragoinge": {
+    "etikett": "Östra Göinge",
+    "typ": "plats",
+    "antal": 1
+  },
+  "planeringsutskottet": {
+    "etikett": "Komisja planowania.",
+    "typ": "organisation",
+    "antal": 1
   }
 }
