@@ -3,7 +3,7 @@
 import { getStore } from '@netlify/blobs'
 import { scryptSync, randomBytes, timingSafeEqual } from 'node:crypto'
 
-const store = () => getStore('konton')
+const store = () => getStore({ name: 'konton', consistency: 'strong' })   // auth kräver att login ser nyss registrerad användare direkt
 const nyckel = n => n.trim().toLowerCase()
 const hasha = (pw, salt) => scryptSync(String(pw), salt, 64).toString('hex')
 const token = () => randomBytes(24).toString('hex')
