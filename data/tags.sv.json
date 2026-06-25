@@ -723,5 +723,15 @@
     "etikett": "Storfors",
     "typ": "plats",
     "antal": 1
+  },
+  "stromstad": {
+    "etikett": "Strömstads",
+    "typ": "plats",
+    "antal": 1
+  },
+  "vn": {
+    "etikett": "VN",
+    "typ": "organisation",
+    "antal": 1
   }
 }

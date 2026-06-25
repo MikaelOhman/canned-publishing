@@ -613,5 +613,15 @@
     "etikett": "Storfors",
     "typ": "plats",
     "antal": 1
+  },
+  "stromstad": {
+    "etikett": "Strömstad.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "vn": {
+    "etikett": "A VN egy rövidítés, amelynek jelentése a vietnámi nyelven \"Việt Nam\", azaz Vietnam.",
+    "typ": "organisation",
+    "antal": 1
   }
 }
