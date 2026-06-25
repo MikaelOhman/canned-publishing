@@ -1463,5 +1463,20 @@
     "etikett": "Review",
     "typ": "ämne",
     "antal": 2
+  },
+  "reg-halland": {
+    "etikett": "Region Halland.",
+    "typ": "organisation",
+    "antal": 4
+  },
+  "regionfullmaktige": {
+    "etikett": "Regional representatives.",
+    "typ": "organisation",
+    "antal": 2
+  },
+  "regionstyrelsen": {
+    "etikett": "Regional Board.",
+    "typ": "organisation",
+    "antal": 2
   }
 }

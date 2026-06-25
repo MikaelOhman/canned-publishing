@@ -1383,5 +1383,20 @@
     "etikett": "بورس",
     "typ": "ämne",
     "antal": 1
+  },
+  "reg-halland": {
+    "etikett": "منطقه هلند\n\n(یا: ناحیه هلند)",
+    "typ": "organisation",
+    "antal": 4
+  },
+  "regionfullmaktige": {
+    "etikett": "نمایندگان منطقه ای",
+    "typ": "organisation",
+    "antal": 2
+  },
+  "regionstyrelsen": {
+    "etikett": "شورای منطقه ای",
+    "typ": "organisation",
+    "antal": 2
   }
 }

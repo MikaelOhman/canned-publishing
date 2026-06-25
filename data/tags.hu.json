@@ -1383,5 +1383,20 @@
     "etikett": "Tőzsde",
     "typ": "ämne",
     "antal": 1
+  },
+  "reg-halland": {
+    "etikett": "Hallandi régió.",
+    "typ": "organisation",
+    "antal": 4
+  },
+  "regionfullmaktige": {
+    "etikett": "Régióközi képviselőtestület.",
+    "typ": "organisation",
+    "antal": 2
+  },
+  "regionstyrelsen": {
+    "etikett": "A regionális igazgatóság.",
+    "typ": "organisation",
+    "antal": 2
   }
 }

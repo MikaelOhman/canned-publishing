@@ -1388,5 +1388,20 @@
     "etikett": "Revisión.",
     "typ": "ämne",
     "antal": 2
+  },
+  "reg-halland": {
+    "etikett": "Región de Halland.",
+    "typ": "organisation",
+    "antal": 4
+  },
+  "regionfullmaktige": {
+    "etikett": "Concejales regionales.",
+    "typ": "organisation",
+    "antal": 2
+  },
+  "regionstyrelsen": {
+    "etikett": "Junta regional.",
+    "typ": "organisation",
+    "antal": 2
   }
 }

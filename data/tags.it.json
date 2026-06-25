@@ -1393,5 +1393,20 @@
     "etikett": "Revisione.",
     "typ": "ämne",
     "antal": 2
+  },
+  "reg-halland": {
+    "etikett": "Regione Halland.",
+    "typ": "organisation",
+    "antal": 4
+  },
+  "regionfullmaktige": {
+    "etikett": "Membri dell'assemblea regionale.",
+    "typ": "organisation",
+    "antal": 2
+  },
+  "regionstyrelsen": {
+    "etikett": "Consiglio regionale.",
+    "typ": "organisation",
+    "antal": 2
   }
 }

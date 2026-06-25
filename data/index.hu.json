@@ -1657,6 +1657,30 @@
     }
   },
   {
+    "id": "reg-halland-regionfullmaktige-2026-06-17",
+    "typ": "region",
+    "titel": "Hallandi Megyei Közgyűlés tagja, 2026. június 17.",
+    "ingress": "A Region Halland döntéseket hozott a jövő fontos terveiről, beleértve a közlekedést, a kerékpárutakat és az építési tervek vonatkozásában a régióban egészen 2037-ig.",
+    "datum": "2026-06-17",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionfullmaktige/mote-2026-06-17",
+    "taggar": [
+      "reg-halland",
+      "regionfullmaktige"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_kultur": 3,
+      "finansiering": 3,
+      "infrastruktur": 3,
+      "barn": 3,
+      "bil": 3,
+      "kronisk": 8,
+      "psykisk": 3,
+      "kultur": 3
+    }
+  },
+  {
     "id": "HD03286",
     "typ": "lagforslag",
     "titel": "A bíróságok és bírák függetlenségének megerősítése.",
@@ -3018,6 +3042,29 @@
     }
   },
   {
+    "id": "reg-halland-regionstyrelsen-2026-06-03",
+    "typ": "region",
+    "titel": "A Halland régió regionális testülete, 2026. június 3.",
+    "ingress": "A Halland megyei regionális tanács több fontos döntést hozott az egészségügy, a közlekedési infrastruktúra és a helyi szolgáltatások terén. Tervezik például egy új parkolóház építését a Kungsbacka kórház közelében, valamint forrásokat külön",
+    "datum": "2026-06-03",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionstyrelsen/mote-2026-06-03",
+    "taggar": [
+      "reg-halland",
+      "regionstyrelsen"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_vard": 3,
+      "infrastruktur": 3,
+      "barn": 3,
+      "glesbygd": 3,
+      "bil": 3,
+      "kronisk": 8,
+      "klimat": 3
+    }
+  },
+  {
     "id": "HD03269",
     "typ": "lagforslag",
     "titel": "A Svéd Számvevőszék jelentése a állam intézkedéseiről a szerencsejátékokkal kapcsolatos problémák kezelésére.",
@@ -3826,6 +3873,23 @@
     }
   },
   {
+    "id": "reg-halland-regionstyrelsen-2026-05-13",
+    "typ": "region",
+    "titel": "A Halland régió regionális testülete, 2026. május 13.",
+    "ingress": "A Hallandi Régió Tanácsa megvizsgálta egy jelentést, amely arról szól, hogyan működött az egészségügyi rendszer 2025-ben, és amely kiemeli, hogy egy új elektronikus betegfelügyeleti rendszer milyen hatással volt a munkára.",
+    "datum": "2026-05-13",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionstyrelsen/mote-2026-05-13",
+    "taggar": [
+      "reg-halland",
+      "regionstyrelsen"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "kronisk": 8
+    }
+  },
+  {
     "id": "bollebygd-kommunstyrelsen-2026-05-12",
     "typ": "kommunbeslut",
     "titel": "Bollebygds községi önkormányzat, 2026. május 12.",
@@ -4393,6 +4457,29 @@
       "b_it": 3,
       "offentliganstalld": 3,
       "digitalisering": 3
+    }
+  },
+  {
+    "id": "reg-halland-regionfullmaktige-2026-04-29",
+    "typ": "region",
+    "titel": "Halland megyei képviselőtestület, 2026. április 29.",
+    "ingress": "A Hallandi régió képviselőháza fontos döntéseket hozott az egészségügyről, a dolgozók munkakörülményeiről és arról, hogy hogyan irányítsák a régiót 2030-ig.",
+    "datum": "2026-04-29",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionfullmaktige/mote-2026-04-29",
+    "taggar": [
+      "reg-halland",
+      "regionfullmaktige"
+    ],
+    "relevans": {
+      "arbetsgivare": 5,
+      "redovisning": 3,
+      "arbetsmiljo": 3,
+      "pensionar": 3,
+      "kvinna": 3,
+      "man": 3,
+      "arbetssokande": 3,
+      "kronisk": 8
     }
   },
   {

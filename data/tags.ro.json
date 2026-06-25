@@ -1383,5 +1383,20 @@
     "etikett": "Bursă",
     "typ": "ämne",
     "antal": 1
+  },
+  "reg-halland": {
+    "etikett": "Regiunea Halland.",
+    "typ": "organisation",
+    "antal": 4
+  },
+  "regionfullmaktige": {
+    "etikett": "Membrii consiliului regional.",
+    "typ": "organisation",
+    "antal": 2
+  },
+  "regionstyrelsen": {
+    "etikett": "Consiliul regional.",
+    "typ": "organisation",
+    "antal": 2
   }
 }

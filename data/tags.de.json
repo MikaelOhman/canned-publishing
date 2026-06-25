@@ -1453,5 +1453,20 @@
     "etikett": "Überprüfung\n\nHier ist eine Liste von Punkten, die bei der Überprüfung berücksichtigt werden sollten:\n\n*   **Name:** [Name]\n*   **Datum:** [Datum]\n*   **URL:** [URL]\n\nBitte überprüfen Sie Folgendes:\n\n1.  [Punkt 1]\n2.  [Punkt 2]\n3.  [Punkt 3]",
     "typ": "ämne",
     "antal": 2
+  },
+  "reg-halland": {
+    "etikett": "Region Halland",
+    "typ": "organisation",
+    "antal": 4
+  },
+  "regionfullmaktige": {
+    "etikett": "Regionalrät*innen.",
+    "typ": "organisation",
+    "antal": 2
+  },
+  "regionstyrelsen": {
+    "etikett": "Regionalrat.",
+    "typ": "organisation",
+    "antal": 2
   }
 }

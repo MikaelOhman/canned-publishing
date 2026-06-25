@@ -1660,6 +1660,30 @@
     }
   },
   {
+    "id": "reg-halland-regionfullmaktige-2026-06-17",
+    "typ": "region",
+    "titel": "إلى أعضاء المجلس الإقليمي، منطقة هالان، تاريخ 2026-06-17.",
+    "ingress": "منطقة \"هالاند\" قد اتخذت قرارات بشأن خطط مهمة للمستقبل، بما في ذلك الخطط المتعلقة بالنقل، ومسارات الدراجات، وخطط البناء في المنطقة حتى عام 2037.",
+    "datum": "2026-06-17",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionfullmaktige/mote-2026-06-17",
+    "taggar": [
+      "reg-halland",
+      "regionfullmaktige"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_kultur": 3,
+      "finansiering": 3,
+      "infrastruktur": 3,
+      "barn": 3,
+      "bil": 3,
+      "kronisk": 8,
+      "psykisk": 3,
+      "kultur": 3
+    }
+  },
+  {
     "id": "HD03286",
     "typ": "lagforslag",
     "titel": "تعزيز حماية استقلالية القضاء والقضاة.",
@@ -3072,6 +3096,29 @@
     }
   },
   {
+    "id": "reg-halland-regionstyrelsen-2026-06-03",
+    "typ": "region",
+    "titel": "مجلس الإدارة الإقليمي، منطقة هالان، بتاريخ 2026-06-03.",
+    "ingress": "اتخذت هيئة المنطقة في هالاند عدة قرارات مهمة تتعلق بالرعاية الصحية، والبنية التحتية، والخدمات المحلية. ومن بين هذه القرارات، خطط لبناء موقف سيارات جديد بجوار المستشفى في كونجسباكا، بالإضافة إلى تخصيص أموال لتحسين بيئات الأطفال وتقديم خدمات",
+    "datum": "2026-06-03",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionstyrelsen/mote-2026-06-03",
+    "taggar": [
+      "reg-halland",
+      "regionstyrelsen"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_vard": 3,
+      "infrastruktur": 3,
+      "barn": 3,
+      "glesbygd": 3,
+      "bil": 3,
+      "kronisk": 8,
+      "klimat": 3
+    }
+  },
+  {
     "id": "HD03269",
     "typ": "lagforslag",
     "titel": "تقرير مكتب المراجعة الوطني حول عمل الدولة لمكافحة مشاكل المقامرة.",
@@ -3880,6 +3927,23 @@
     }
   },
   {
+    "id": "reg-halland-regionstyrelsen-2026-05-13",
+    "typ": "region",
+    "titel": "مجلس الإدارة الإقليمي، منطقة هالان، بتاريخ 2026-05-13.",
+    "ingress": "لقد اطلع مجلس الإقليم في منطقة هالاند على تقرير يوضح أداء الخدمات الصحية خلال عام 2025، والذي يشير إلى أن نظام تسجيل بيانات المرضى الجديد قد أثر على سير العمل.",
+    "datum": "2026-05-13",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionstyrelsen/mote-2026-05-13",
+    "taggar": [
+      "reg-halland",
+      "regionstyrelsen"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "kronisk": 8
+    }
+  },
+  {
     "id": "bollebygd-kommunstyrelsen-2026-05-12",
     "typ": "kommunbeslut",
     "titel": "مجلس بلدية بولبيغد، تاريخ 12 مايو 2026.",
@@ -4447,6 +4511,29 @@
       "sjukskriven": 4,
       "offentliganstalld": 4,
       "b_vard": 7
+    }
+  },
+  {
+    "id": "reg-halland-regionfullmaktige-2026-04-29",
+    "typ": "region",
+    "titel": "إلى أعضاء المجلس الإقليمي، منطقة هالان، بتاريخ 29 أبريل 2026.",
+    "ingress": "اتخذ مجلس الإدارة الإقليمي في منطقة هالمستاند قرارات مهمة تتعلق بقضايا مختلفة، بما في ذلك الرعاية الصحية، وبيئة العمل الخاصة بالموظفين، وكيفية إدارة المنطقة حتى عام 2030.",
+    "datum": "2026-04-29",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionfullmaktige/mote-2026-04-29",
+    "taggar": [
+      "reg-halland",
+      "regionfullmaktige"
+    ],
+    "relevans": {
+      "arbetsgivare": 5,
+      "redovisning": 3,
+      "arbetsmiljo": 3,
+      "pensionar": 3,
+      "kvinna": 3,
+      "man": 3,
+      "arbetssokande": 3,
+      "kronisk": 8
     }
   },
   {

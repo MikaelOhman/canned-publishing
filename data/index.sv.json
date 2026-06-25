@@ -1746,6 +1746,30 @@
     }
   },
   {
+    "id": "reg-halland-regionfullmaktige-2026-06-17",
+    "typ": "region",
+    "titel": "Regionfullmaktige, Region Halland 2026-06-17",
+    "ingress": "Region Halland har fattat beslut om viktiga planer för framtiden, bland annat för trafik, cykelvägar och byggplaner i området fram till 2037.",
+    "datum": "2026-06-17",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionfullmaktige/mote-2026-06-17",
+    "taggar": [
+      "reg-halland",
+      "regionfullmaktige"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_kultur": 3,
+      "finansiering": 3,
+      "infrastruktur": 3,
+      "barn": 3,
+      "bil": 3,
+      "kronisk": 8,
+      "psykisk": 3,
+      "kultur": 3
+    }
+  },
+  {
     "id": "HD03286",
     "typ": "lagforslag",
     "titel": "Stärkt skydd för domstolarnas och domarnas oberoende",
@@ -3179,6 +3203,29 @@
     }
   },
   {
+    "id": "reg-halland-regionstyrelsen-2026-06-03",
+    "typ": "region",
+    "titel": "Regionstyrelsen, Region Halland 2026-06-03",
+    "ingress": "Regionstyrelsen i Halland har tagit beslut om flera viktiga frågor som rör sjukvård, infrastruktur och lokala tjänster. Bland annat planeras ett nytt parkeringshus vid sjukhuset i Kungsbacka och förbättringar avsätts för barnmiljöer samt di",
+    "datum": "2026-06-03",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionstyrelsen/mote-2026-06-03",
+    "taggar": [
+      "reg-halland",
+      "regionstyrelsen"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_vard": 3,
+      "infrastruktur": 3,
+      "barn": 3,
+      "glesbygd": 3,
+      "bil": 3,
+      "kronisk": 8,
+      "klimat": 3
+    }
+  },
+  {
     "id": "HD03269",
     "typ": "lagforslag",
     "titel": "Riksrevisionens rapport statens arbete mot problem med spel om pengar",
@@ -4010,6 +4057,23 @@
     }
   },
   {
+    "id": "reg-halland-regionstyrelsen-2026-05-13",
+    "typ": "region",
+    "titel": "Regionstyrelsen, Region Halland 2026-05-13",
+    "ingress": "Regionstyrelsen i Halland har tagit del av en rapport om hur vården fungerat under 2025, där ett nytt journalsystem har påverkat arbetet.",
+    "datum": "2026-05-13",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionstyrelsen/mote-2026-05-13",
+    "taggar": [
+      "reg-halland",
+      "regionstyrelsen"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "kronisk": 8
+    }
+  },
+  {
     "id": "bollebygd-kommunstyrelsen-2026-05-12",
     "typ": "kommunbeslut",
     "titel": "Kommunstyrelsen, Bollebygds kommun 2026-05-12",
@@ -4577,6 +4641,29 @@
       "sjukskriven": 4,
       "offentliganstalld": 4,
       "b_vard": 7
+    }
+  },
+  {
+    "id": "reg-halland-regionfullmaktige-2026-04-29",
+    "typ": "region",
+    "titel": "Regionfullmaktige, Region Halland 2026-04-29",
+    "ingress": "Regionfullmäktige i Halland har fattat beslut om viktiga frågor som rör hälsovård, personalens arbetsmiljö och hur regionen ska styras fram till 2030.",
+    "datum": "2026-04-29",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionfullmaktige/mote-2026-04-29",
+    "taggar": [
+      "reg-halland",
+      "regionfullmaktige"
+    ],
+    "relevans": {
+      "arbetsgivare": 5,
+      "redovisning": 3,
+      "arbetsmiljo": 3,
+      "pensionar": 3,
+      "kvinna": 3,
+      "man": 3,
+      "arbetssokande": 3,
+      "kronisk": 8
     }
   },
   {

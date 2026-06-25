@@ -1657,6 +1657,30 @@
     }
   },
   {
+    "id": "reg-halland-regionfullmaktige-2026-06-17",
+    "typ": "region",
+    "titel": "Adresat: Membrii consiliului regional, Regiunea Halland\nData: 17 iunie 2026",
+    "ingress": "Regiunea Halland a adoptat planuri importante pentru viitor, care includ aspecte legate de transport, piste pentru biciclete și proiecte de construcție în zonă, valabile până în 2037.",
+    "datum": "2026-06-17",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionfullmaktige/mote-2026-06-17",
+    "taggar": [
+      "reg-halland",
+      "regionfullmaktige"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_kultur": 3,
+      "finansiering": 3,
+      "infrastruktur": 3,
+      "barn": 3,
+      "bil": 3,
+      "kronisk": 8,
+      "psykisk": 3,
+      "kultur": 3
+    }
+  },
+  {
     "id": "HD03286",
     "typ": "lagforslag",
     "titel": "Îmbunătățirea protecției independenței instanțelor de judecată și a judecătorilor.",
@@ -3040,6 +3064,29 @@
     }
   },
   {
+    "id": "reg-halland-regionstyrelsen-2026-06-03",
+    "typ": "region",
+    "titel": "Consiliul Regional, Regiunea Halland, 3 iunie 2026.",
+    "ingress": "Consiliul regional al regiunii Halland a luat decizii importante privind domeniile sănătății, infrastructurii și serviciilor locale. Printre acestea se numără planificarea unui nou parc auto lângă spitalul din Kungsbacka, precum și alocarea",
+    "datum": "2026-06-03",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionstyrelsen/mote-2026-06-03",
+    "taggar": [
+      "reg-halland",
+      "regionstyrelsen"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_vard": 3,
+      "infrastruktur": 3,
+      "barn": 3,
+      "glesbygd": 3,
+      "bil": 3,
+      "kronisk": 8,
+      "klimat": 3
+    }
+  },
+  {
     "id": "HD03269",
     "typ": "lagforslag",
     "titel": "Raportul Agenției Naționale de Audit privind activitatea statului în combaterea problemelor legate de jocurile de noroc.",
@@ -3848,6 +3895,23 @@
     }
   },
   {
+    "id": "reg-halland-regionstyrelsen-2026-05-13",
+    "typ": "region",
+    "titel": "Consiliul Regional, Regiunea Halland, 13 mai 2026.",
+    "ingress": "Consiliul regional al regiunii Halland a analizat un raport despre funcționarea sistemului de sănătate în anul 2025, care evidențiază impactul unui nou sistem de gestionare a datelor medicale asupra activității personalului.",
+    "datum": "2026-05-13",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionstyrelsen/mote-2026-05-13",
+    "taggar": [
+      "reg-halland",
+      "regionstyrelsen"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "kronisk": 8
+    }
+  },
+  {
     "id": "bollebygd-kommunstyrelsen-2026-05-12",
     "typ": "kommunbeslut",
     "titel": "Consiliul municipal, comuna Bollebygd, 12 mai 2026.",
@@ -4415,6 +4479,29 @@
       "sjukskriven": 4,
       "offentliganstalld": 4,
       "b_vard": 7
+    }
+  },
+  {
+    "id": "reg-halland-regionfullmaktige-2026-04-29",
+    "typ": "region",
+    "titel": "Adresat: Membrii Consiliului Regional, Regiunea Halland\nData: 29 aprilie 2026",
+    "ingress": "Consiliul regional din Halland a luat decizii importante referitoare la domeniul sănătății, mediul de lucru al angajaților și modul în care regiunea va fi administrată până în 2030.",
+    "datum": "2026-04-29",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionfullmaktige/mote-2026-04-29",
+    "taggar": [
+      "reg-halland",
+      "regionfullmaktige"
+    ],
+    "relevans": {
+      "arbetsgivare": 5,
+      "redovisning": 3,
+      "arbetsmiljo": 3,
+      "pensionar": 3,
+      "kvinna": 3,
+      "man": 3,
+      "arbetssokande": 3,
+      "kronisk": 8
     }
   },
   {

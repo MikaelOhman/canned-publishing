@@ -1678,6 +1678,30 @@
     }
   },
   {
+    "id": "reg-halland-regionfullmaktige-2026-06-17",
+    "typ": "region",
+    "titel": "Regionaal volksvertegenwoordiger, Regio Halland, 2026-06-17.",
+    "ingress": "De regio Halland heeft belangrijke plannen voor de toekomst vastgesteld, waaronder plannen voor transport, fietspaden en bouwprojecten in het gebied tot en met 2037.",
+    "datum": "2026-06-17",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionfullmaktige/mote-2026-06-17",
+    "taggar": [
+      "reg-halland",
+      "regionfullmaktige"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_kultur": 3,
+      "finansiering": 3,
+      "infrastruktur": 3,
+      "barn": 3,
+      "bil": 3,
+      "kronisk": 8,
+      "psykisk": 3,
+      "kultur": 3
+    }
+  },
+  {
     "id": "HD03286",
     "typ": "lagforslag",
     "titel": "Versterking van de bescherming van de onafhankelijkheid van de rechtbanken en rechters.",
@@ -3083,6 +3107,29 @@
     }
   },
   {
+    "id": "reg-halland-regionstyrelsen-2026-06-03",
+    "typ": "region",
+    "titel": "Regioraad, Regio Halland, 3 juni 2026.",
+    "ingress": "Het regionaal bestuur van Halland heeft beslissingen genomen over verschillende belangrijke kwesties met betrekking tot de gezondheidszorg, infrastructuur en lokale diensten. Er zijn plannen voor een nieuwe parkeergarage bij het ziekenhuis",
+    "datum": "2026-06-03",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionstyrelsen/mote-2026-06-03",
+    "taggar": [
+      "reg-halland",
+      "regionstyrelsen"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_vard": 3,
+      "infrastruktur": 3,
+      "barn": 3,
+      "glesbygd": 3,
+      "bil": 3,
+      "kronisk": 8,
+      "klimat": 3
+    }
+  },
+  {
     "id": "HD03269",
     "typ": "lagforslag",
     "titel": "Rapport van de Rijksrekenkamer over het werk van de staat tegen problemen met gokken.",
@@ -3912,6 +3959,23 @@
     }
   },
   {
+    "id": "reg-halland-regionstyrelsen-2026-05-13",
+    "typ": "region",
+    "titel": "Regioraad, Regio Halland, 13 mei 2026.",
+    "ingress": "Het regionaal bestuur van Halland heeft een rapport ontvangen over de werking van de zorg in 2025, waarin staat beschreven hoe een nieuw patiëntendossiersysteem het werk heeft beïnvloed.",
+    "datum": "2026-05-13",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionstyrelsen/mote-2026-05-13",
+    "taggar": [
+      "reg-halland",
+      "regionstyrelsen"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "kronisk": 8
+    }
+  },
+  {
     "id": "bollebygd-kommunstyrelsen-2026-05-12",
     "typ": "kommunbeslut",
     "titel": "Gemeenteraad, gemeente Bollebygd, 12 mei 2026.",
@@ -4479,6 +4543,29 @@
       "sjukskriven": 4,
       "offentliganstalld": 4,
       "b_vard": 7
+    }
+  },
+  {
+    "id": "reg-halland-regionfullmaktige-2026-04-29",
+    "typ": "region",
+    "titel": "Regionaal volksvertegenwoordiger, Regio Halland, 29 april 2026.",
+    "ingress": "Het Regionale Parlement van Halland heeft beslissingen genomen over belangrijke kwesties met betrekking tot de gezondheidszorg, de werkomgeving van het personeel en hoe de regio bestuurd zal worden tot 2030.",
+    "datum": "2026-04-29",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionfullmaktige/mote-2026-04-29",
+    "taggar": [
+      "reg-halland",
+      "regionfullmaktige"
+    ],
+    "relevans": {
+      "arbetsgivare": 5,
+      "redovisning": 3,
+      "arbetsmiljo": 3,
+      "pensionar": 3,
+      "kvinna": 3,
+      "man": 3,
+      "arbetssokande": 3,
+      "kronisk": 8
     }
   },
   {

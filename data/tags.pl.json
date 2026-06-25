@@ -1383,5 +1383,20 @@
     "etikett": "Giełda",
     "typ": "ämne",
     "antal": 1
+  },
+  "reg-halland": {
+    "etikett": "Region Halland.",
+    "typ": "organisation",
+    "antal": 4
+  },
+  "regionfullmaktige": {
+    "etikett": "Członkowie regionalnej rady.",
+    "typ": "organisation",
+    "antal": 2
+  },
+  "regionstyrelsen": {
+    "etikett": "Regionalna Rada Zarządzająca.",
+    "typ": "organisation",
+    "antal": 2
   }
 }
