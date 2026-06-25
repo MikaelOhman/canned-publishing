@@ -948,5 +948,15 @@
     "etikett": "Hällefors",
     "typ": "plats",
     "antal": 1
+  },
+  "herjedalen": {
+    "etikett": "Härjedalen.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "valnamnden": {
+    "etikett": "Komisja wyborcza.",
+    "typ": "organisation",
+    "antal": 1
   }
 }
