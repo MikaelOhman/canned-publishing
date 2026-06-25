@@ -782,7 +782,7 @@
   "utbildningsnamndens": {
     "etikett": "De onderwijscommissie.",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "bjurholm": {
     "etikett": "Bjurholms",
@@ -887,6 +887,11 @@
   "brottsforebyggande-beredningens": {
     "etikett": "De afdeling voor misdaadpreventie.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "gislaved": {
+    "etikett": "Gislaveds",
+    "typ": "plats",
     "antal": 1
   }
 }

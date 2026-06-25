@@ -792,7 +792,7 @@
   "utbildningsnamndens": {
     "etikett": "لجنة التعليم.",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "bjurholm": {
     "etikett": "بجورهولم.",
@@ -897,6 +897,11 @@
   "brottsforebyggande-beredningens": {
     "etikett": "لجنة مكافحة الجريمة.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "gislaved": {
+    "etikett": "جيславаيدز.",
+    "typ": "plats",
     "antal": 1
   }
 }

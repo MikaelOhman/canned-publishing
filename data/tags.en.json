@@ -852,7 +852,7 @@
   "utbildningsnamndens": {
     "etikett": "The Education Committee's",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "bjurholm": {
     "etikett": "Bjurholms",
@@ -957,6 +957,11 @@
   "brottsforebyggande-beredningens": {
     "etikett": "The National Council for Crime Prevention's:",
     "typ": "organisation",
+    "antal": 1
+  },
+  "gislaved": {
+    "etikett": "Gislaveds",
+    "typ": "plats",
     "antal": 1
   }
 }

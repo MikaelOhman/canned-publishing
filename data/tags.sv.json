@@ -877,7 +877,7 @@
   "utbildningsnamndens": {
     "etikett": "Utbildningsnämndens",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "bjurholm": {
     "etikett": "Bjurholms",
@@ -982,6 +982,11 @@
   "brottsforebyggande-beredningens": {
     "etikett": "Brottsförebyggande beredningens",
     "typ": "organisation",
+    "antal": 1
+  },
+  "gislaved": {
+    "etikett": "Gislaveds",
+    "typ": "plats",
     "antal": 1
   }
 }

@@ -842,7 +842,7 @@
   "utbildningsnamndens": {
     "etikett": "Der Bildungsausschuss.",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "bjurholm": {
     "etikett": "Bjurholms",
@@ -947,6 +947,11 @@
   "brottsforebyggande-beredningens": {
     "etikett": "Die Arbeitsgruppe zur Kriminalitätsprävention.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "gislaved": {
+    "etikett": "Gislaveds",
+    "typ": "plats",
     "antal": 1
   }
 }

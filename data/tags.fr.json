@@ -782,7 +782,7 @@
   "utbildningsnamndens": {
     "etikett": "Commission de l'éducation.",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "bjurholm": {
     "etikett": "Bjurholms.",
@@ -887,6 +887,11 @@
   "brottsforebyggande-beredningens": {
     "etikett": "Commission de prévention du crime.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "gislaved": {
+    "etikett": "Gislaveds.",
+    "typ": "plats",
     "antal": 1
   }
 }
