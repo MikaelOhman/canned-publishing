@@ -352,12 +352,12 @@
   "kommunfullmaktige": {
     "etikett": "Gemeindevertretung",
     "typ": "organisation",
-    "antal": 4
+    "antal": 5
   },
   "kommunpolitik": {
     "etikett": "Kommunalpolitik.",
     "typ": "ämne",
-    "antal": 4
+    "antal": 5
   },
   "trafik": {
     "etikett": "Verkehr.",
@@ -432,6 +432,16 @@
   "ulf-rapp": {
     "etikett": "Ulf Rapp",
     "typ": "person",
+    "antal": 1
+  },
+  "gavle": {
+    "etikett": "Gävle\n\nGävle ist eine Stadt in Schweden. Hier sind einige Informationen über Gävle:\n\n* **Lage:** Gävle liegt an der Ostküste Schwedens, etwa 180 Kilometer nördlich von Stockholm.\n* **Einwohnerzahl:** Die Stadt hat etwa 75.000 Einwohner.\n* **Geschichte:** Gävle wurde im 16. Jahrhundert gegründet und war ein wichtiger Handelshafen.\n* **Sehenswürdigkeiten:** Zu den Sehenswürdigkeiten in Gävle gehören das historische Zentrum, das Hafenviertel und der Gävle-Weihnachtsbaum.\n* **Wirtschaft:** Gävle ist ein wichtiges Industrie- und Logistikzentrum.\n* **Verkehr:** Gävle hat einen internationalen Flughafen und ist gut an das Straßen- und Schienennetz angeschlossen.\n* **Website:** [https://www.gavle.se/](https://www.gavle.se/)",
+    "typ": "plats",
+    "antal": 1
+  },
+  "gavle-kommun": {
+    "etikett": "Die Gemeinde Gävle.",
+    "typ": "organisation",
     "antal": 1
   }
 }

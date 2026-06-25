@@ -292,12 +292,12 @@
   "kommunfullmaktige": {
     "etikett": "مجلس البلدية.",
     "typ": "organisation",
-    "antal": 3
+    "antal": 4
   },
   "kommunpolitik": {
     "etikett": "سياسة البلديات.",
     "typ": "ämne",
-    "antal": 3
+    "antal": 4
   },
   "trafik": {
     "etikett": "حركة المرور.",
@@ -367,6 +367,16 @@
   "ulf-rapp": {
     "etikett": "أولف راب.",
     "typ": "person",
+    "antal": 1
+  },
+  "gavle": {
+    "etikett": "جافله",
+    "typ": "plats",
+    "antal": 1
+  },
+  "gavle-kommun": {
+    "etikett": "بلدية غافل.",
+    "typ": "organisation",
     "antal": 1
   }
 }

@@ -352,12 +352,12 @@
   "kommunfullmaktige": {
     "etikett": "Municipal council.",
     "typ": "organisation",
-    "antal": 4
+    "antal": 5
   },
   "kommunpolitik": {
     "etikett": "Municipal politics.",
     "typ": "ämne",
-    "antal": 4
+    "antal": 5
   },
   "trafik": {
     "etikett": "Traffic.",
@@ -427,6 +427,16 @@
   "ulf-rapp": {
     "etikett": "Ulf Rapp",
     "typ": "person",
+    "antal": 1
+  },
+  "gavle": {
+    "etikett": "Gävle is a city in Sweden.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "gavle-kommun": {
+    "etikett": "Gävle Municipality",
+    "typ": "organisation",
     "antal": 1
   }
 }

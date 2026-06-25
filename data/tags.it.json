@@ -292,12 +292,12 @@
   "kommunfullmaktige": {
     "etikett": "Consiglio comunale.",
     "typ": "organisation",
-    "antal": 4
+    "antal": 5
   },
   "kommunpolitik": {
     "etikett": "Politica comunale.",
     "typ": "ämne",
-    "antal": 4
+    "antal": 5
   },
   "trafik": {
     "etikett": "Traffico.",
@@ -372,6 +372,16 @@
   "ulf-rapp": {
     "etikett": "Ulf Rapp",
     "typ": "person",
+    "antal": 1
+  },
+  "gavle": {
+    "etikett": "Gävle\n\n(No further context was provided, so a simple translation of the name is all that's possible.)",
+    "typ": "plats",
+    "antal": 1
+  },
+  "gavle-kommun": {
+    "etikett": "Comune di Gävle.",
+    "typ": "organisation",
     "antal": 1
   }
 }
