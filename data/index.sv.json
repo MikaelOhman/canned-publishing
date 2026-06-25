@@ -2158,6 +2158,26 @@
     }
   },
   {
+    "id": "reg-vastmanland-regionfullmaktige-2026-06-16",
+    "typ": "region",
+    "titel": "Regionfullmaktige, Region Västmanland 2026-06-16",
+    "ingress": "Priset på månadskort för buss och tåg i Västmanland sänks till hälften från den 1 juli. Detta görs för att det ska bli billigare för invånarna att resa till jobb, skola och fritidsaktiviteter.",
+    "datum": "2026-06-16",
+    "kalla": "Region Västmanland",
+    "kalla_url": "https://meetingsplus.regionvastmanland.se/committees/regionfullmaktige/mote-2026-06-16",
+    "taggar": [
+      "reg-vastmanland",
+      "regionfullmaktige"
+    ],
+    "relevans": {
+      "b_it": 3,
+      "barn": 5,
+      "pendlare": 3,
+      "kollektiv": 8,
+      "kronisk": 8
+    }
+  },
+  {
     "id": "HD03285",
     "typ": "lagforslag",
     "titel": "Hörande och tillfälligt överförande vid en arresteringsorder",
@@ -4998,6 +5018,22 @@
       "infrastruktur": 3,
       "bygger": 5,
       "kollektiv": 3
+    }
+  },
+  {
+    "id": "reg-vastmanland-regionfullmaktige-2026-04-21",
+    "typ": "region",
+    "titel": "Regionfullmaktige, Region Västmanland 2026-04-21",
+    "ingress": "Regionen minskar stödet till Länsbildningsförbundet eftersom de själva tar över ansvaret för att dela ut pengar till studieförbund.",
+    "datum": "2026-04-21",
+    "kalla": "Region Västmanland",
+    "kalla_url": "https://meetingsplus.regionvastmanland.se/committees/regionfullmaktige/mote-2026-04-21",
+    "taggar": [
+      "reg-vastmanland",
+      "regionfullmaktige"
+    ],
+    "relevans": {
+      "kronisk": 8
     }
   },
   {

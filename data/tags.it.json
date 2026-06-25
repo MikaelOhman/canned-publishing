@@ -1402,7 +1402,7 @@
   "regionfullmaktige": {
     "etikett": "Membri dell'assemblea regionale.",
     "typ": "organisation",
-    "antal": 3
+    "antal": 5
   },
   "regionstyrelsen": {
     "etikett": "Consiglio regionale.",
@@ -1413,5 +1413,10 @@
     "etikett": "Regione di Örebro län.",
     "typ": "organisation",
     "antal": 3
+  },
+  "reg-vastmanland": {
+    "etikett": "Regione del Västerbotten.",
+    "typ": "organisation",
+    "antal": 2
   }
 }

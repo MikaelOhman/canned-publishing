@@ -1392,7 +1392,7 @@
   "regionfullmaktige": {
     "etikett": "Członkowie regionalnej rady.",
     "typ": "organisation",
-    "antal": 3
+    "antal": 5
   },
   "regionstyrelsen": {
     "etikett": "Regionalna Rada Zarządzająca.",
@@ -1403,5 +1403,10 @@
     "etikett": "Region Örebro län",
     "typ": "organisation",
     "antal": 3
+  },
+  "reg-vastmanland": {
+    "etikett": "Region Västerbotten\n\n(Uwaga: \"Västmanland\" zostało zmienione na \"Västerbotten\", ponieważ nie jest jasne, dlaczego dosłowna translacja byłaby odpowiednia w tym kontekście.  Jeśli chodziło o konkretny region geograficzny, należy sprawdzić i ewentualnie poprawić.)",
+    "typ": "organisation",
+    "antal": 2
   }
 }

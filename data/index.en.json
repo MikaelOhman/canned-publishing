@@ -2156,6 +2156,26 @@
     }
   },
   {
+    "id": "reg-vastmanland-regionfullmaktige-2026-06-16",
+    "typ": "region",
+    "titel": "Regional Assembly Member, Region Västmanland, June 16, 2026.",
+    "ingress": "The price of monthly bus and train passes in the region of Västmanland will be halved starting July 1st. This measure aims to make it more affordable for residents to travel to work, school, and leisure activities.",
+    "datum": "2026-06-16",
+    "kalla": "Region Västmanland",
+    "kalla_url": "https://meetingsplus.regionvastmanland.se/committees/regionfullmaktige/mote-2026-06-16",
+    "taggar": [
+      "reg-vastmanland",
+      "regionfullmaktige"
+    ],
+    "relevans": {
+      "b_it": 3,
+      "barn": 5,
+      "pendlare": 3,
+      "kollektiv": 8,
+      "kronisk": 8
+    }
+  },
+  {
     "id": "HD03285",
     "typ": "lagforslag",
     "titel": "Hearing and temporary transfer in arrest warrant cases",
@@ -4994,6 +5014,22 @@
       "infrastruktur": 3,
       "bygger": 5,
       "kollektiv": 3
+    }
+  },
+  {
+    "id": "reg-vastmanland-regionfullmaktige-2026-04-21",
+    "typ": "region",
+    "titel": "Regional Assembly Member, Region Västmanland, April 21, 2026.",
+    "ingress": "The regional authority is reducing its support for the \"Länsbildningsförbundet\" because it is now taking over the responsibility of directly distributing funds to educational associations.",
+    "datum": "2026-04-21",
+    "kalla": "Region Västmanland",
+    "kalla_url": "https://meetingsplus.regionvastmanland.se/committees/regionfullmaktige/mote-2026-04-21",
+    "taggar": [
+      "reg-vastmanland",
+      "regionfullmaktige"
+    ],
+    "relevans": {
+      "kronisk": 8
     }
   },
   {

@@ -2084,6 +2084,26 @@
     }
   },
   {
+    "id": "reg-vastmanland-regionfullmaktige-2026-06-16",
+    "typ": "region",
+    "titel": "Członkowie rady regionu Västerbotten, 16 czerwca 2026 roku.",
+    "ingress": "Ceny miesięcznych biletów na autobusy i pociągi w regionie Västmanland zostaną obniżone o połowę od 1 lipca. Ma to umożliwić mieszkańcom tańsze podróże do pracy, szkoły oraz na zajęcia rekreacyjne.",
+    "datum": "2026-06-16",
+    "kalla": "Region Västmanland",
+    "kalla_url": "https://meetingsplus.regionvastmanland.se/committees/regionfullmaktige/mote-2026-06-16",
+    "taggar": [
+      "reg-vastmanland",
+      "regionfullmaktige"
+    ],
+    "relevans": {
+      "b_it": 3,
+      "barn": 5,
+      "pendlare": 3,
+      "kollektiv": 8,
+      "kronisk": 8
+    }
+  },
+  {
     "id": "HD03285",
     "typ": "lagforslag",
     "titel": "Umożliwienie osobom niesłyszącym lub niedosłyszącym osobistego udziału w postępowaniu dotyczącym zatrzymania.",
@@ -4912,6 +4932,22 @@
       "infrastruktur": 3,
       "bygger": 5,
       "kollektiv": 3
+    }
+  },
+  {
+    "id": "reg-vastmanland-regionfullmaktige-2026-04-21",
+    "typ": "region",
+    "titel": "Członkowie rady regionu Västerbotten, 21 kwietnia 2026 roku.",
+    "ingress": "W moim regionie zmniejszono wsparcie dla organizacji \"Länsbildningsförbundet\", ponieważ sam region przejmuje odpowiedzialność za dystrybucję środków finansowych na rzecz związków edukacyjnych.",
+    "datum": "2026-04-21",
+    "kalla": "Region Västmanland",
+    "kalla_url": "https://meetingsplus.regionvastmanland.se/committees/regionfullmaktige/mote-2026-04-21",
+    "taggar": [
+      "reg-vastmanland",
+      "regionfullmaktige"
+    ],
+    "relevans": {
+      "kronisk": 8
     }
   },
   {

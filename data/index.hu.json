@@ -2066,6 +2066,26 @@
     }
   },
   {
+    "id": "reg-vastmanland-regionfullmaktige-2026-06-16",
+    "typ": "region",
+    "titel": "Västmanland megyei képviselőtestület, 2026. június 16.",
+    "ingress": "A Västmanland megyében a busz- és vonatbérletek havi ára július 1-jétől felére csökken. Ez azért van, hogy az lakosok számára olcsóbb legyen utazni munkába, iskolába és szabadidős tevékenységekre.",
+    "datum": "2026-06-16",
+    "kalla": "Region Västmanland",
+    "kalla_url": "https://meetingsplus.regionvastmanland.se/committees/regionfullmaktige/mote-2026-06-16",
+    "taggar": [
+      "reg-vastmanland",
+      "regionfullmaktige"
+    ],
+    "relevans": {
+      "b_it": 3,
+      "barn": 5,
+      "pendlare": 3,
+      "kollektiv": 8,
+      "kronisk": 8
+    }
+  },
+  {
     "id": "HD03285",
     "typ": "lagforslag",
     "titel": "Hallgatás és ideiglenes átvitel egy letartóztatási parancs végrehajtása során.",
@@ -4810,6 +4830,22 @@
       "infrastruktur": 3,
       "bygger": 5,
       "kollektiv": 3
+    }
+  },
+  {
+    "id": "reg-vastmanland-regionfullmaktige-2026-04-21",
+    "typ": "region",
+    "titel": "Västmanland megyei képviselőtestület, 2026. április 21.",
+    "ingress": "A régió csökkenti a \"Länsbildningsförbundet\" nevű szervezet támogatását, mivel maga veszi át a felelősséget a tanulási egyesületeknek nyújtott pénzügyi támogatások kiosztásáért.",
+    "datum": "2026-04-21",
+    "kalla": "Region Västmanland",
+    "kalla_url": "https://meetingsplus.regionvastmanland.se/committees/regionfullmaktige/mote-2026-04-21",
+    "taggar": [
+      "reg-vastmanland",
+      "regionfullmaktige"
+    ],
+    "relevans": {
+      "kronisk": 8
     }
   },
   {

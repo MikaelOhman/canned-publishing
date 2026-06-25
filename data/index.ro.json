@@ -2066,6 +2066,26 @@
     }
   },
   {
+    "id": "reg-vastmanland-regionfullmaktige-2026-06-16",
+    "typ": "region",
+    "titel": "Mandat de la Consiliul Regional, Regiunea Västmanland, dat în data de 16 iunie 2026.",
+    "ingress": "Prețul abonamentelor lunare pentru autobuz și tren în provincia Västmanland va fi redus la jumătate începând cu 1 iulie. Această măsură este luată pentru a face călătoriile mai accesibile locuitorilor, permițându-le să ajungă mai ușor la lo",
+    "datum": "2026-06-16",
+    "kalla": "Region Västmanland",
+    "kalla_url": "https://meetingsplus.regionvastmanland.se/committees/regionfullmaktige/mote-2026-06-16",
+    "taggar": [
+      "reg-vastmanland",
+      "regionfullmaktige"
+    ],
+    "relevans": {
+      "b_it": 3,
+      "barn": 5,
+      "pendlare": 3,
+      "kollektiv": 8,
+      "kronisk": 8
+    }
+  },
+  {
     "id": "HD03285",
     "typ": "lagforslag",
     "titel": "Ascultarea și transmiterea temporară a informațiilor în timpul procesării unei ordonanțe de arestare.",
@@ -4832,6 +4852,22 @@
       "infrastruktur": 3,
       "bygger": 5,
       "kollektiv": 3
+    }
+  },
+  {
+    "id": "reg-vastmanland-regionfullmaktige-2026-04-21",
+    "typ": "region",
+    "titel": "Adresat: Membrii consiliului regional, Regiunea Västmanland\nData: 21 aprilie 2026",
+    "ingress": "Regiunea își reduce sprijinul acordat organizației \"Länsbildningsförbundet\" deoarece aceasta preia direct responsabilitatea pentru distribuirea fondurilor către asociațiile de studiu.",
+    "datum": "2026-04-21",
+    "kalla": "Region Västmanland",
+    "kalla_url": "https://meetingsplus.regionvastmanland.se/committees/regionfullmaktige/mote-2026-04-21",
+    "taggar": [
+      "reg-vastmanland",
+      "regionfullmaktige"
+    ],
+    "relevans": {
+      "kronisk": 8
     }
   },
   {

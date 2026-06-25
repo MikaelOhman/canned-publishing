@@ -1472,7 +1472,7 @@
   "regionfullmaktige": {
     "etikett": "Regional representatives.",
     "typ": "organisation",
-    "antal": 3
+    "antal": 5
   },
   "regionstyrelsen": {
     "etikett": "Regional Board.",
@@ -1483,5 +1483,10 @@
     "etikett": "Region Örebro County.",
     "typ": "organisation",
     "antal": 3
+  },
+  "reg-vastmanland": {
+    "etikett": "Västmanland Region.",
+    "typ": "organisation",
+    "antal": 2
   }
 }

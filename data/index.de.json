@@ -2114,6 +2114,26 @@
     }
   },
   {
+    "id": "reg-vastmanland-regionfullmaktige-2026-06-16",
+    "typ": "region",
+    "titel": "Regionalrätin/Regionalrat, Region Västergötland, 16. Juni 2026.",
+    "ingress": "Die Preise für Monatskarten für Bus und Bahn in der Region Västmanland werden ab dem 1. Juli halbiert. Dies soll es den Einwohnern ermöglichen, kostengünstiger zur Arbeit, zur Schule und zu Freizeitaktivitäten zu reisen.",
+    "datum": "2026-06-16",
+    "kalla": "Region Västmanland",
+    "kalla_url": "https://meetingsplus.regionvastmanland.se/committees/regionfullmaktige/mote-2026-06-16",
+    "taggar": [
+      "reg-vastmanland",
+      "regionfullmaktige"
+    ],
+    "relevans": {
+      "b_it": 3,
+      "barn": 5,
+      "pendlare": 3,
+      "kollektiv": 8,
+      "kronisk": 8
+    }
+  },
+  {
     "id": "HD03285",
     "typ": "lagforslag",
     "titel": "Anhörung und vorübergehende Überstellung bei einem Haftbefehl",
@@ -4926,6 +4946,22 @@
       "infrastruktur": 3,
       "bygger": 5,
       "kollektiv": 3
+    }
+  },
+  {
+    "id": "reg-vastmanland-regionfullmaktige-2026-04-21",
+    "typ": "region",
+    "titel": "Regionalrätin/Regionalrat, Region Västmanland, 21. April 2026.",
+    "ingress": "Meine Region reduziert die finanzielle Unterstützung für das \"Länsbildningsförbundet\", da sie selbst die Verantwortung für die Verteilung von Geldern an Bildungsgruppen übernimmt.",
+    "datum": "2026-04-21",
+    "kalla": "Region Västmanland",
+    "kalla_url": "https://meetingsplus.regionvastmanland.se/committees/regionfullmaktige/mote-2026-04-21",
+    "taggar": [
+      "reg-vastmanland",
+      "regionfullmaktige"
+    ],
+    "relevans": {
+      "kronisk": 8
     }
   },
   {

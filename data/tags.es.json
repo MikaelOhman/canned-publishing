@@ -1397,7 +1397,7 @@
   "regionfullmaktige": {
     "etikett": "Concejales regionales.",
     "typ": "organisation",
-    "antal": 3
+    "antal": 5
   },
   "regionstyrelsen": {
     "etikett": "Junta regional.",
@@ -1408,5 +1408,10 @@
     "etikett": "Región de Örebro län.",
     "typ": "organisation",
     "antal": 3
+  },
+  "reg-vastmanland": {
+    "etikett": "Región de Västmanland.",
+    "typ": "organisation",
+    "antal": 2
   }
 }

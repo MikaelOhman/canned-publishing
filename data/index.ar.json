@@ -2069,6 +2069,26 @@
     }
   },
   {
+    "id": "reg-vastmanland-regionfullmaktige-2026-06-16",
+    "typ": "region",
+    "titel": "عضو في مجلس الإدارة الإقليمي، منطقة فاستمانلاند، بتاريخ 2026-06-16.",
+    "ingress": "سيتم تخفيض سعر الاشتراك الشهري للحافلات والقطارات في مقاطعة فاستمانلاند إلى النصف اعتبارًا من الأول من يوليو. يهدف هذا الإجراء إلى جعل التنقل أرخص بالنسبة للسكان للوصول إلى أماكن عملهم ومدارسهم وأنشطتهم الترفيهية.",
+    "datum": "2026-06-16",
+    "kalla": "Region Västmanland",
+    "kalla_url": "https://meetingsplus.regionvastmanland.se/committees/regionfullmaktige/mote-2026-06-16",
+    "taggar": [
+      "reg-vastmanland",
+      "regionfullmaktige"
+    ],
+    "relevans": {
+      "b_it": 3,
+      "barn": 5,
+      "pendlare": 3,
+      "kollektiv": 8,
+      "kronisk": 8
+    }
+  },
+  {
     "id": "stockholm-kommunfullmaktige-2026-06-15",
     "typ": "kommunbeslut",
     "titel": "اجتماع مجلس مدينة ستوكهولم، تاريخ 2026-06-15.",
@@ -4864,6 +4884,22 @@
       "infrastruktur": 3,
       "bygger": 5,
       "kollektiv": 3
+    }
+  },
+  {
+    "id": "reg-vastmanland-regionfullmaktige-2026-04-21",
+    "typ": "region",
+    "titel": "عضو في مجلس الإدارة الإقليمي، منطقة فاستمانلاند، بتاريخ 2026-04-21.",
+    "ingress": "تقوم المنطقة بتقليل الدعم المقدم إلى \"اتحاد تطوير المقاطعات\" (Länsbildningsförbundet) لأنها تتولى بنفسها مسؤولية توزيع الأموال على الاتحادات التعليمية.",
+    "datum": "2026-04-21",
+    "kalla": "Region Västmanland",
+    "kalla_url": "https://meetingsplus.regionvastmanland.se/committees/regionfullmaktige/mote-2026-04-21",
+    "taggar": [
+      "reg-vastmanland",
+      "regionfullmaktige"
+    ],
+    "relevans": {
+      "kronisk": 8
     }
   },
   {

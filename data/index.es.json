@@ -2087,6 +2087,26 @@
     }
   },
   {
+    "id": "reg-vastmanland-regionfullmaktige-2026-06-16",
+    "typ": "region",
+    "titel": "Autorización regional, Región de Västmanland, 16 de junio de 2026.",
+    "ingress": "A partir del 1 de julio, el precio de los abonos mensuales para autobús y tren en la región de Västmanland se reducirá a la mitad. Esta medida tiene como objetivo facilitar que los residentes puedan desplazarse más fácilmente al trabajo, a",
+    "datum": "2026-06-16",
+    "kalla": "Region Västmanland",
+    "kalla_url": "https://meetingsplus.regionvastmanland.se/committees/regionfullmaktige/mote-2026-06-16",
+    "taggar": [
+      "reg-vastmanland",
+      "regionfullmaktige"
+    ],
+    "relevans": {
+      "b_it": 3,
+      "barn": 5,
+      "pendlare": 3,
+      "kollektiv": 8,
+      "kronisk": 8
+    }
+  },
+  {
     "id": "HD03285",
     "typ": "lagforslag",
     "titel": "Audiencia y notificación temporal durante el proceso de ejecución de una orden de arresto.",
@@ -4915,6 +4935,22 @@
       "infrastruktur": 3,
       "bygger": 5,
       "kollektiv": 3
+    }
+  },
+  {
+    "id": "reg-vastmanland-regionfullmaktige-2026-04-21",
+    "typ": "region",
+    "titel": "Miembros del consejo regional, Región de Västmanland, 21 de abril de 2026.",
+    "ingress": "La región está reduciendo su apoyo al \"Länsbildningsförbundet\" porque la propia región asumirá la responsabilidad de distribuir fondos a las organizaciones de estudio.",
+    "datum": "2026-04-21",
+    "kalla": "Region Västmanland",
+    "kalla_url": "https://meetingsplus.regionvastmanland.se/committees/regionfullmaktige/mote-2026-04-21",
+    "taggar": [
+      "reg-vastmanland",
+      "regionfullmaktige"
+    ],
+    "relevans": {
+      "kronisk": 8
     }
   },
   {

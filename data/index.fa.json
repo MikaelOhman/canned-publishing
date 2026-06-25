@@ -2066,6 +2066,26 @@
     }
   },
   {
+    "id": "reg-vastmanland-regionfullmaktige-2026-06-16",
+    "typ": "region",
+    "titel": "نماینده منطقه، استان وستمانلاند، تاریخ: 2026-06-16.",
+    "ingress": "قیمت کارت‌های ماهانه اتوبوس و قطار در منطقهٔ وستمنلاند از تاریخ ۱ جولای، نصف خواهد شد. این اقدام به منظور کاهش هزینه‌های سفر برای ساکنان این منطقه جهت رفتن به محل کار، مدرسه و فعالیت‌های تفریحی انجام می‌شود.",
+    "datum": "2026-06-16",
+    "kalla": "Region Västmanland",
+    "kalla_url": "https://meetingsplus.regionvastmanland.se/committees/regionfullmaktige/mote-2026-06-16",
+    "taggar": [
+      "reg-vastmanland",
+      "regionfullmaktige"
+    ],
+    "relevans": {
+      "b_it": 3,
+      "barn": 5,
+      "pendlare": 3,
+      "kollektiv": 8,
+      "kronisk": 8
+    }
+  },
+  {
     "id": "stockholm-kommunfullmaktige-2026-06-15",
     "typ": "kommunbeslut",
     "titel": "جلسه شورای شهر، شهرداری استکهلم، 15 ژوئن 2026.",
@@ -4861,6 +4881,22 @@
       "infrastruktur": 3,
       "bygger": 5,
       "kollektiv": 3
+    }
+  },
+  {
+    "id": "reg-vastmanland-regionfullmaktige-2026-04-21",
+    "typ": "region",
+    "titel": "نماینده منطقه، منطقه وستمنلند، تاریخ: 21 آوریل 2026.",
+    "ingress": "منطقه، میزان حمایت خود را از \"Länsbildningsförbundet\" کاهش می‌دهد، زیرا این منطقه تصمیم گرفته است که مسئولیت توزیع بودجه به انجمن‌های آموزشی را خودش بر عهده بگیرد.",
+    "datum": "2026-04-21",
+    "kalla": "Region Västmanland",
+    "kalla_url": "https://meetingsplus.regionvastmanland.se/committees/regionfullmaktige/mote-2026-04-21",
+    "taggar": [
+      "reg-vastmanland",
+      "regionfullmaktige"
+    ],
+    "relevans": {
+      "kronisk": 8
     }
   },
   {

@@ -1407,7 +1407,7 @@
   "regionfullmaktige": {
     "etikett": "أعضاء المجلس الإقليمي المنتخبون.",
     "typ": "organisation",
-    "antal": 3
+    "antal": 5
   },
   "regionstyrelsen": {
     "etikett": "مجلس المنطقة.",
@@ -1418,5 +1418,10 @@
     "etikett": "منطقة أوربرو.",
     "typ": "organisation",
     "antal": 3
+  },
+  "reg-vastmanland": {
+    "etikett": "منطقة فاستمانلاند.",
+    "typ": "organisation",
+    "antal": 2
   }
 }

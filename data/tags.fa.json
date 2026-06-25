@@ -1392,7 +1392,7 @@
   "regionfullmaktige": {
     "etikett": "نمایندگان منطقه ای",
     "typ": "organisation",
-    "antal": 3
+    "antal": 5
   },
   "regionstyrelsen": {
     "etikett": "شورای منطقه ای",
@@ -1403,5 +1403,10 @@
     "etikett": "منطقه: شهرستان اربرو (Örebro län)",
     "typ": "organisation",
     "antal": 3
+  },
+  "reg-vastmanland": {
+    "etikett": "منطقه وستمانلاند.",
+    "typ": "organisation",
+    "antal": 2
   }
 }
