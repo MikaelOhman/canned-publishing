@@ -352,7 +352,7 @@
   "kommunfullmaktige": {
     "etikett": "Municipal council.",
     "typ": "organisation",
-    "antal": 67
+    "antal": 68
   },
   "kommunpolitik": {
     "etikett": "Municipal politics.",
@@ -1262,6 +1262,11 @@
   "kf-signerad": {
     "etikett": "KF signed.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "odeshog": {
+    "etikett": "Ödeshögs.",
+    "typ": "plats",
     "antal": 1
   }
 }

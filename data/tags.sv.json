@@ -377,7 +377,7 @@
   "kommunfullmaktige": {
     "etikett": "Kommunfullmäktige",
     "typ": "organisation",
-    "antal": 67
+    "antal": 68
   },
   "kommunpolitik": {
     "etikett": "Kommunpolitik",
@@ -1287,6 +1287,11 @@
   "kf-signerad": {
     "etikett": "KF signerad",
     "typ": "organisation",
+    "antal": 1
+  },
+  "odeshog": {
+    "etikett": "Ödeshögs",
+    "typ": "plats",
     "antal": 1
   }
 }

@@ -292,7 +292,7 @@
   "kommunfullmaktige": {
     "etikett": "A települési közgyűlés.",
     "typ": "organisation",
-    "antal": 67
+    "antal": 68
   },
   "kommunpolitik": {
     "etikett": "Önkormányzati politika.",
@@ -1187,6 +1187,11 @@
   "kf-signerad": {
     "etikett": "KF által jóváhagyva.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "odeshog": {
+    "etikett": "Ödeshögs",
+    "typ": "plats",
     "antal": 1
   }
 }

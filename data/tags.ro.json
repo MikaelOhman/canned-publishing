@@ -292,7 +292,7 @@
   "kommunfullmaktige": {
     "etikett": "Consiliul municipal.",
     "typ": "organisation",
-    "antal": 67
+    "antal": 68
   },
   "kommunpolitik": {
     "etikett": "Politica municipală.",
@@ -1187,6 +1187,11 @@
   "kf-signerad": {
     "etikett": "Semnătură electronică KF.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "odeshog": {
+    "etikett": "Ödeshögs",
+    "typ": "plats",
     "antal": 1
   }
 }

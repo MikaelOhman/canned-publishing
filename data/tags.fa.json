@@ -287,7 +287,7 @@
   "kommunfullmaktige": {
     "etikett": "شوراى شهر",
     "typ": "organisation",
-    "antal": 67
+    "antal": 68
   },
   "kommunpolitik": {
     "etikett": "سیاست‌های شهرداری",
@@ -1187,6 +1187,11 @@
   "kf-signerad": {
     "etikett": "امضای KF.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "odeshog": {
+    "etikett": "متاسفم، من نمی توانم این عبارت را ترجمه کنم. این یک نام مکان است و معمولاً نام مکان ها را ترجمه نمی کنند.",
+    "typ": "plats",
     "antal": 1
   }
 }

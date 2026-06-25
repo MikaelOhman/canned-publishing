@@ -292,7 +292,7 @@
   "kommunfullmaktige": {
     "etikett": "Gemeenteraad.",
     "typ": "organisation",
-    "antal": 67
+    "antal": 68
   },
   "kommunpolitik": {
     "etikett": "Gemeentepolitiek.",
@@ -1192,6 +1192,11 @@
   "kf-signerad": {
     "etikett": "Ondertekend door KF.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "odeshog": {
+    "etikett": "Ödeshögs",
+    "typ": "plats",
     "antal": 1
   }
 }
