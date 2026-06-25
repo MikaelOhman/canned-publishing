@@ -292,7 +292,7 @@
   "kommunfullmaktige": {
     "etikett": "Gemeenteraad.",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "kommunpolitik": {
     "etikett": "Gemeentepolitiek.",
@@ -367,7 +367,7 @@
   "protokoll": {
     "etikett": "Notulen.",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "ulf-rapp": {
     "etikett": "Ulf Rapp",
@@ -387,7 +387,7 @@
   "kommunalpolitik": {
     "etikett": "Gemeentelijke politiek.",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "ange": {
     "etikett": "Ånge",
@@ -397,6 +397,16 @@
   "ange-kommun": {
     "etikett": "Gemeente Ånge",
     "typ": "organisation",
+    "antal": 1
+  },
+  "hylte": {
+    "etikett": "Hylte",
+    "typ": "plats",
+    "antal": 1
+  },
+  "hylte-kommun": {
+    "etikett": "Gemeente Hylte.",
+    "typ": "plats",
     "antal": 1
   }
 }

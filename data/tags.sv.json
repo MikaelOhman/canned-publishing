@@ -377,7 +377,7 @@
   "kommunfullmaktige": {
     "etikett": "Kommunfullmäktige",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "kommunpolitik": {
     "etikett": "Kommunpolitik",
@@ -432,7 +432,7 @@
   "protokoll": {
     "etikett": "Protokoll",
     "typ": "händelse",
-    "antal": 2
+    "antal": 3
   },
   "alingsas": {
     "etikett": "Alingsås",
@@ -472,7 +472,7 @@
   "kommunalpolitik": {
     "etikett": "Kommunalpolitik",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "umea": {
     "etikett": "Umeå",
@@ -507,6 +507,16 @@
   "ange-kommun": {
     "etikett": "Ånge kommun",
     "typ": "organisation",
+    "antal": 1
+  },
+  "hylte": {
+    "etikett": "Hylte",
+    "typ": "plats",
+    "antal": 1
+  },
+  "hylte-kommun": {
+    "etikett": "Hylte kommun",
+    "typ": "plats",
     "antal": 1
   }
 }

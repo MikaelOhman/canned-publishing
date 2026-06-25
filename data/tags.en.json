@@ -352,7 +352,7 @@
   "kommunfullmaktige": {
     "etikett": "Municipal council.",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "kommunpolitik": {
     "etikett": "Municipal politics.",
@@ -422,7 +422,7 @@
   "protokoll": {
     "etikett": "Minutes\n\n(Followed by the content of the minutes, which would be translated accordingly. For example, if the minutes contained a list, it would be translated as a list.)",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "ulf-rapp": {
     "etikett": "Ulf Rapp",
@@ -442,7 +442,7 @@
   "kommunalpolitik": {
     "etikett": "Municipal politics.",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "umea": {
     "etikett": "Umeå is a city in northern Sweden, known for its vibrant cultural scene and its proximity to nature. Here are some key facts about Umeå:\n\n*   **Population:** Approximately 140,000 (as of 2023).\n*   **Location:** Västerbotten County, northern Sweden.\n*   **University:** Home to Umeå University, a major research and educational institution.\n*   **Culture:** Umeå was designated European Capital of Culture in 2016, highlighting its rich artistic and cultural heritage.\n*   **Nature:** Surrounded by forests, lakes, and the Bothnian Sea, offering opportunities for outdoor activities.\n*   **Website:** [https://www.umea.se/](https://www.umea.se/)",
@@ -477,6 +477,16 @@
   "ange-kommun": {
     "etikett": "Ånge Municipality",
     "typ": "organisation",
+    "antal": 1
+  },
+  "hylte": {
+    "etikett": "Hylte",
+    "typ": "plats",
+    "antal": 1
+  },
+  "hylte-kommun": {
+    "etikett": "Hylte Municipality",
+    "typ": "plats",
     "antal": 1
   }
 }

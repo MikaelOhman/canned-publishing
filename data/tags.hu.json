@@ -292,7 +292,7 @@
   "kommunfullmaktige": {
     "etikett": "A települési közgyűlés.",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "kommunpolitik": {
     "etikett": "Önkormányzati politika.",
@@ -362,7 +362,7 @@
   "protokoll": {
     "etikett": "Jegelző.",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "ulf-rapp": {
     "etikett": "Ulf Rapp",
@@ -387,6 +387,21 @@
   "ange-kommun": {
     "etikett": "Ånge önkormányzat.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "hylte": {
+    "etikett": "Hylte",
+    "typ": "plats",
+    "antal": 1
+  },
+  "hylte-kommun": {
+    "etikett": "Hylte önkormányzat.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "kommunalpolitik": {
+    "etikett": "Helyi politika.",
+    "typ": "ämne",
     "antal": 1
   }
 }

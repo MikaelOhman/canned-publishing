@@ -292,7 +292,7 @@
   "kommunfullmaktige": {
     "etikett": "مجلس البلدية.",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "kommunpolitik": {
     "etikett": "سياسة البلديات.",
@@ -362,7 +362,7 @@
   "protokoll": {
     "etikett": "محضر اجتماع.",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "ulf-rapp": {
     "etikett": "أولف راب.",
@@ -412,6 +412,21 @@
   "ange-kommun": {
     "etikett": "بلدية أنغه.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "hylte": {
+    "etikett": "هيلته.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "hylte-kommun": {
+    "etikett": "بلدية هيلتيه.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "kommunalpolitik": {
+    "etikett": "السياسة المحلية.",
+    "typ": "ämne",
     "antal": 1
   }
 }

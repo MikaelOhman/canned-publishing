@@ -292,7 +292,7 @@
   "kommunfullmaktige": {
     "etikett": "Rada miejska.",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "kommunpolitik": {
     "etikett": "Polityka samorządowa.",
@@ -362,7 +362,7 @@
   "protokoll": {
     "etikett": "Protokół.",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "ulf-rapp": {
     "etikett": "Ulf Rapp",
@@ -387,6 +387,21 @@
   "ange-kommun": {
     "etikett": "Gmina Ånge.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "hylte": {
+    "etikett": "Hylte",
+    "typ": "plats",
+    "antal": 1
+  },
+  "hylte-kommun": {
+    "etikett": "Gmina Hylte.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "kommunalpolitik": {
+    "etikett": "Polityka samorządowa.",
+    "typ": "ämne",
     "antal": 1
   }
 }
