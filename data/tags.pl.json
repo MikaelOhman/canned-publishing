@@ -698,5 +698,15 @@
     "etikett": "Komisja ds. spraw socjalnych",
     "typ": "organisation",
     "antal": 1
+  },
+  "alvesta": {
+    "etikett": "Alvesta.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "tillganglighetsradets": {
+    "etikett": "Rady ds. dostępności.",
+    "typ": "organisation",
+    "antal": 1
   }
 }
