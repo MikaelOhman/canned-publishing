@@ -134,7 +134,7 @@ select:focus-visible,.search input:focus-visible,.chip:focus-visible,.card:focus
 .source-foot a{color:var(--ac2);font-weight:600}
 .article[dir="rtl"]{direction:rtl;text-align:right}
 .article[dir="rtl"] .source a{margin-left:0;margin-right:auto}
-.hidden{display:none}
+.hidden{display:none!important}
 
 /* publik statistikpanel på Om-sidan */
 .statbox{margin-top:28px;padding:18px;border:1px solid var(--line);border-radius:var(--radius);background:var(--bg2)}
