@@ -633,5 +633,15 @@
     "etikett": "ON signed.",
     "typ": "organisation",
     "antal": 1
+  },
+  "markaryd": {
+    "etikett": "Markaryds",
+    "typ": "plats",
+    "antal": 1
+  },
+  "utbildnings-och-kulturnamndens-arbetsuts": {
+    "etikett": "The working committee of the Education and Culture Committee's budget allocation.",
+    "typ": "organisation",
+    "antal": 1
   }
 }

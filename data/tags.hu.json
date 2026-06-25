@@ -548,5 +548,15 @@
     "etikett": "Az ON aláírása.",
     "typ": "organisation",
     "antal": 1
+  },
+  "markaryd": {
+    "etikett": "Markaryds",
+    "typ": "plats",
+    "antal": 1
+  },
+  "utbildnings-och-kulturnamndens-arbetsuts": {
+    "etikett": "A képzés- és kultúra bizottság munkabizottságának költségvetése.",
+    "typ": "organisation",
+    "antal": 1
   }
 }

@@ -548,5 +548,15 @@
     "etikett": "Firma digitalmente con ON.",
     "typ": "organisation",
     "antal": 1
+  },
+  "markaryd": {
+    "etikett": "Markaryds",
+    "typ": "plats",
+    "antal": 1
+  },
+  "utbildnings-och-kulturnamndens-arbetsuts": {
+    "etikett": "Subvenciones del comité de trabajo de la comisión de educación y cultura.",
+    "typ": "organisation",
+    "antal": 1
   }
 }

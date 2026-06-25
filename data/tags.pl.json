@@ -548,5 +548,15 @@
     "etikett": "Podpis ON.",
     "typ": "organisation",
     "antal": 1
+  },
+  "markaryd": {
+    "etikett": "Markaryds",
+    "typ": "plats",
+    "antal": 1
+  },
+  "utbildnings-och-kulturnamndens-arbetsuts": {
+    "etikett": "Dotacja od komisji ds. edukacji i kultury.",
+    "typ": "organisation",
+    "antal": 1
   }
 }

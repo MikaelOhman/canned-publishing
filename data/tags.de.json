@@ -613,5 +613,15 @@
     "etikett": "Unterzeichnet von ON.",
     "typ": "organisation",
     "antal": 1
+  },
+  "markaryd": {
+    "etikett": "Markaryds",
+    "typ": "plats",
+    "antal": 1
+  },
+  "utbildnings-och-kulturnamndens-arbetsuts": {
+    "etikett": "Föranschungen des Arbeitsausschusses des Bildungsausschusses und des Kulturusschusses.",
+    "typ": "organisation",
+    "antal": 1
   }
 }
