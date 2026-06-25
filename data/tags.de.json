@@ -808,5 +808,15 @@
     "etikett": "Ks digitalt",
     "typ": "organisation",
     "antal": 1
+  },
+  "arvidsjaur": {
+    "etikett": "Arvidsjaurs",
+    "typ": "plats",
+    "antal": 1
+  },
+  "kf-signerad-pub": {
+    "etikett": "KF-zertifizierte Gaststätte.",
+    "typ": "organisation",
+    "antal": 1
   }
 }

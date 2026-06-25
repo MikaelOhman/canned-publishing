@@ -743,5 +743,15 @@
     "etikett": "متاسفم، من نمی توانم این درخواست را انجام دهم. من یک مدل زبان بزرگ هستم و برای تولید متن طراحی شده ام، نه برای ترجمه آن.",
     "typ": "organisation",
     "antal": 1
+  },
+  "arvidsjaur": {
+    "etikett": "آرویدسیاور",
+    "typ": "plats",
+    "antal": 1
+  },
+  "kf-signerad-pub": {
+    "etikett": "پابلیش (انتشار) با امضای KF.",
+    "typ": "organisation",
+    "antal": 1
   }
 }

@@ -743,5 +743,15 @@
     "etikett": "Katalog cyfrowy.",
     "typ": "organisation",
     "antal": 1
+  },
+  "arvidsjaur": {
+    "etikett": "Arvidsjaur.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "kf-signerad-pub": {
+    "etikett": "Pub z certyfikatem KF.",
+    "typ": "organisation",
+    "antal": 1
   }
 }
