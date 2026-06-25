@@ -493,5 +493,15 @@
     "etikett": "Protokoll des Bildungsausschusses.",
     "typ": "organisation",
     "antal": 1
+  },
+  "alvkarleby": {
+    "etikett": "Älvkarleby\n\n(No translation needed, as it's a proper noun - a place name.)",
+    "typ": "plats",
+    "antal": 1
+  },
+  "kf": {
+    "etikett": "KF",
+    "typ": "organisation",
+    "antal": 1
   }
 }
