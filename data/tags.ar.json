@@ -987,7 +987,7 @@
   "bun": {
     "etikett": "خبز.",
     "typ": "organisation",
-    "antal": 2
+    "antal": 3
   },
   "kalix": {
     "etikett": "كاليكس.",
@@ -1152,6 +1152,11 @@
   "mijonamndens-mn-58-59": {
     "etikett": "قرار لجنة البيئة رقم MN 58 59.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "monsteras": {
+    "etikett": "مؤنستروس.",
+    "typ": "plats",
     "antal": 1
   }
 }

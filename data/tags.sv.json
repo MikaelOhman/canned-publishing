@@ -1072,7 +1072,7 @@
   "bun": {
     "etikett": "BUN",
     "typ": "organisation",
-    "antal": 2
+    "antal": 3
   },
   "kalix": {
     "etikett": "Kalix",
@@ -1237,6 +1237,11 @@
   "mijonamndens-mn-58-59": {
     "etikett": "Mijönämndens mn 58 59",
     "typ": "organisation",
+    "antal": 1
+  },
+  "monsteras": {
+    "etikett": "Mönsterås",
+    "typ": "plats",
     "antal": 1
   }
 }

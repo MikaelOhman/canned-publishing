@@ -972,7 +972,7 @@
   "bun": {
     "etikett": "A BUN (Blood Urea Nitrogen) teszt egy vérvizsgálat, amely a vérben található urea mennyiségét méri. Az urea egy hulladékanyag, amely a máj által a fehérjék lebontásakor keletkezik. A BUN szintjét a vesék szűrik ki a vizelettel.\n\nA magas BUN szint a következő állapotokra utalhat:\n\n* Dehidratáció (folyadékhiány)\n* Veseelégtelenség\n* Szívszövődmények\n* Bizonyos gyógyszerek szedése\n\nA normál BUN szint általában 7-20 mg/dL (milligramm/deciliter) között van.\n\nHa a BUN szintje magas, orvoshoz kell fordulni, hogy kiderítsük az okát és a megfelelő kezelést kapjuk.",
     "typ": "organisation",
-    "antal": 2
+    "antal": 3
   },
   "kalix": {
     "etikett": "Kalix.",
@@ -1137,6 +1137,11 @@
   "mijonamndens-mn-58-59": {
     "etikett": "A Mijönämnd (Környezetvédelmi Hatóság) MN 58 59 számú irata.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "monsteras": {
+    "etikett": "Mönsterås.",
+    "typ": "plats",
     "antal": 1
   }
 }
