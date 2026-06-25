@@ -7790,6 +7790,27 @@
     }
   },
   {
+    "id": "alingsas-kommunstyrelsen-2025-11-24",
+    "typ": "kommunbeslut",
+    "titel": "Consiliul municipal, Primăria Alingsås, 24 noiembrie 2025.",
+    "ingress": "Consiliul municipal din Alingsås a adoptat noi reguli privind modul în care diferitele comitete și consilii ale orașului vor funcționa. Începând cu 1 ianuarie 2026, acestea vor consulta, de asemenea, pensionarii, organizațiile pentru dreptu",
+    "datum": "2025-11-24",
+    "kalla": "Alingsås kommun",
+    "kalla_url": "https://sammantradesportal.alingsas.se/committees/kommunstyrelsen/mote-2025-11-24",
+    "taggar": [
+      "alingsas",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_energi": 3,
+      "infrastruktur": 3,
+      "ung": 3,
+      "pensionar": 3,
+      "glesbygd": 3
+    }
+  },
+  {
     "id": "bollebygd-kommunfullmaktige-2025-11-20",
     "typ": "kommunbeslut",
     "titel": "Consiliul Municipal al Comunei Bollebygds, 20 noiembrie 2025.",
@@ -9242,6 +9263,28 @@
       "arbetsratt": 7,
       "kollektivavtal": 5,
       "lontagare": 4
+    }
+  },
+  {
+    "id": "alingsas-kommunfullmaktige-2025-09-03",
+    "typ": "kommunbeslut",
+    "titel": "Consiliul Municipal, Primăria Alingsås, 3 septembrie 2025.",
+    "ingress": "În comuna Alingsås, politicienii au decis asupra unor noi reguli pentru locuințe și grădinițe situate pe strada Smålandsgatan. De asemenea, au decis asupra unor taxe pentru proiectele de construcție și au aprobat un contract pentru o nouă i",
+    "datum": "2025-09-03",
+    "kalla": "Alingsås kommun",
+    "kalla_url": "https://sammantradesportal.alingsas.se/committees/kommunfullmaktige/mote-2025-09-03",
+    "taggar": [
+      "alingsas",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_fastighet": 3,
+      "mark_bygglov": 3,
+      "barn": 5,
+      "bygger": 3,
+      "konsument": 3,
+      "idrott": 3
     }
   },
   {
