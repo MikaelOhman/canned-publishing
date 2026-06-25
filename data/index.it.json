@@ -1702,6 +1702,28 @@
     }
   },
   {
+    "id": "reg-jamtland-regionfullmaktige-2026-06-17",
+    "typ": "region",
+    "titel": "Autorizzazione regionale, Regione di Jämtland Härjedalen, 17 giugno 2026.",
+    "ingress": "La regione ha preso decisioni importanti su diverse questioni riguardanti l'assistenza sanitaria, i trasporti pubblici e le strategie locali per la salute pubblica e gli alimenti.",
+    "datum": "2026-06-17",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionfullmaktige/mote-2026-06-17",
+    "taggar": [
+      "reg-jamtland",
+      "regionfullmaktige"
+    ],
+    "relevans": {
+      "barn": 3,
+      "pensionar": 3,
+      "pendlare": 3,
+      "kollektiv": 3,
+      "kronisk": 8,
+      "konsument": 3,
+      "otrygg": 3
+    }
+  },
+  {
     "id": "HD03286",
     "typ": "lagforslag",
     "titel": "Maggiore protezione dell'indipendenza dei tribunali e dei giudici.",
@@ -2370,6 +2392,25 @@
       "kronisk": 3,
       "klimat": 3,
       "otrygg": 3
+    }
+  },
+  {
+    "id": "reg-jamtland-regionstyrelsen-2026-06-15",
+    "typ": "region",
+    "titel": "Consiglio regionale, Regione di Jämtland Härjedalen, 15 giugno 2026.",
+    "ingress": "La regione di Jämtland Härjedalen ha deciso di vendere tre appartamenti situati a Torvalla, che sono di proprietà della regione ma non necessari per le sue attività.",
+    "datum": "2026-06-15",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionstyrelsen/mote-2026-06-15",
+    "taggar": [
+      "reg-jamtland",
+      "regionstyrelsen"
+    ],
+    "relevans": {
+      "bostadsagare": 3,
+      "pendlare": 3,
+      "kollektiv": 3,
+      "kronisk": 8
     }
   },
   {
@@ -3661,6 +3702,24 @@
     }
   },
   {
+    "id": "reg-jamtland-regionstyrelsen-2026-05-27",
+    "typ": "region",
+    "titel": "Consiglio regionale, Regione di Jämtland Härjedalen, 27 maggio 2026.",
+    "ingress": "La giunta regionale di Jämtland Härjedalen ha elaborato un elenco degli argomenti che saranno discussi e votati durante la riunione del 27 maggio 2026.",
+    "datum": "2026-05-27",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionstyrelsen/mote-2026-05-27",
+    "taggar": [
+      "reg-jamtland",
+      "regionstyrelsen"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "student": 3,
+      "kronisk": 8
+    }
+  },
+  {
     "id": "HD03271",
     "typ": "lagforslag",
     "titel": "Una legge sull'aborto modificata.",
@@ -4625,6 +4684,24 @@
       "kvinna": 3,
       "man": 3,
       "arbetssokande": 3,
+      "kronisk": 8
+    }
+  },
+  {
+    "id": "reg-jamtland-regionfullmaktige-2026-04-29",
+    "typ": "region",
+    "titel": "Autorizzazione regionale, Regione di Jämtland Härjedalen, 29 aprile 2026.",
+    "ingress": "Questo documento è il verbale di una riunione della Regione Jämtland Härjedalen, ma non contiene decisioni relative a finanziamenti, costruzioni o altre questioni importanti, se non la definizione dell'ordine del giorno della riunione.",
+    "datum": "2026-04-29",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionfullmaktige/mote-2026-04-29",
+    "taggar": [
+      "reg-jamtland",
+      "regionfullmaktige"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "barn": 3,
       "kronisk": 8
     }
   },

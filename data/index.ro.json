@@ -1681,6 +1681,28 @@
     }
   },
   {
+    "id": "reg-jamtland-regionfullmaktige-2026-06-17",
+    "typ": "region",
+    "titel": "Adresat: Membrii consiliului regional, Regiunea Jämtland Härjedalen\nData: 17 iunie 2026",
+    "ingress": "Regiunea a luat decizii importante referitoare la mai multe aspecte, printre care: serviciile de sănătate, transportul în comun și strategiile locale pentru promovarea sănătății publice și siguranța alimentară.",
+    "datum": "2026-06-17",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionfullmaktige/mote-2026-06-17",
+    "taggar": [
+      "reg-jamtland",
+      "regionfullmaktige"
+    ],
+    "relevans": {
+      "barn": 3,
+      "pensionar": 3,
+      "pendlare": 3,
+      "kollektiv": 3,
+      "kronisk": 8,
+      "konsument": 3,
+      "otrygg": 3
+    }
+  },
+  {
     "id": "HD03286",
     "typ": "lagforslag",
     "titel": "Îmbunătățirea protecției independenței instanțelor de judecată și a judecătorilor.",
@@ -2349,6 +2371,25 @@
       "kronisk": 3,
       "klimat": 3,
       "otrygg": 3
+    }
+  },
+  {
+    "id": "reg-jamtland-regionstyrelsen-2026-06-15",
+    "typ": "region",
+    "titel": "Consiliul Regional, Regiunea Jämtland Härjedalen, 15 iunie 2026.",
+    "ingress": "Regiunea Jämtland Härjedalen a decis să vândă trei apartamente situate în Torvalla, proprietate a regiunii, dar care nu sunt necesare pentru activitățile sale.",
+    "datum": "2026-06-15",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionstyrelsen/mote-2026-06-15",
+    "taggar": [
+      "reg-jamtland",
+      "regionstyrelsen"
+    ],
+    "relevans": {
+      "bostadsagare": 3,
+      "pendlare": 3,
+      "kollektiv": 3,
+      "kronisk": 8
     }
   },
   {
@@ -3618,6 +3659,24 @@
     }
   },
   {
+    "id": "reg-jamtland-regionstyrelsen-2026-05-27",
+    "typ": "region",
+    "titel": "Consiliul Regional, Regiunea Jämtland Härjedalen, 27 mai 2026.",
+    "ingress": "Consiliul regional din Jämtland Härjedalen a elaborat o listă cu problemele care vor fi discutate și pentru care se vor lua decizii în cadrul ședinței programată pe 27 mai 2026.",
+    "datum": "2026-05-27",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionstyrelsen/mote-2026-05-27",
+    "taggar": [
+      "reg-jamtland",
+      "regionstyrelsen"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "student": 3,
+      "kronisk": 8
+    }
+  },
+  {
     "id": "HD03271",
     "typ": "lagforslag",
     "titel": "O modificare a legii privind avortul.",
@@ -4561,6 +4620,24 @@
       "kvinna": 3,
       "man": 3,
       "arbetssokande": 3,
+      "kronisk": 8
+    }
+  },
+  {
+    "id": "reg-jamtland-regionfullmaktige-2026-04-29",
+    "typ": "region",
+    "titel": "Adresat: Membrii consiliului regional, Regiunea Jämtland Härjedalen\nData: 29 aprilie 2026",
+    "ingress": "Acest document este procesul-verbal al unei ședințe din regiunea Jämtland Härjedalen, dar nu conține decizii referitoare la finanțe, construcții sau alte aspecte importante, cu excepția stabilirii ordinii de zi a ședinței.",
+    "datum": "2026-04-29",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionfullmaktige/mote-2026-04-29",
+    "taggar": [
+      "reg-jamtland",
+      "regionfullmaktige"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "barn": 3,
       "kronisk": 8
     }
   },

@@ -1407,12 +1407,12 @@
   "regionfullmaktige": {
     "etikett": "أعضاء المجلس الإقليمي المنتخبون.",
     "typ": "organisation",
-    "antal": 5
+    "antal": 7
   },
   "regionstyrelsen": {
     "etikett": "مجلس المنطقة.",
     "typ": "organisation",
-    "antal": 4
+    "antal": 6
   },
   "reg-orebro": {
     "etikett": "منطقة أوربرو.",
@@ -1423,5 +1423,10 @@
     "etikett": "منطقة فاستمانلاند.",
     "typ": "organisation",
     "antal": 2
+  },
+  "reg-jamtland": {
+    "etikett": "منطقة يمتلاند هيريدالن.",
+    "typ": "organisation",
+    "antal": 4
   }
 }

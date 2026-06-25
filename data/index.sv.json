@@ -1770,6 +1770,28 @@
     }
   },
   {
+    "id": "reg-jamtland-regionfullmaktige-2026-06-17",
+    "typ": "region",
+    "titel": "Regionfullmaktige, Region Jämtland Härjedalen 2026-06-17",
+    "ingress": "Regionen har fattat beslut om flera viktiga ärenden som rör hälso- och sjukvård, kollektivtrafik och lokala strategier för folkhälsa och livsmedel.",
+    "datum": "2026-06-17",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionfullmaktige/mote-2026-06-17",
+    "taggar": [
+      "reg-jamtland",
+      "regionfullmaktige"
+    ],
+    "relevans": {
+      "barn": 3,
+      "pensionar": 3,
+      "pendlare": 3,
+      "kollektiv": 3,
+      "kronisk": 8,
+      "konsument": 3,
+      "otrygg": 3
+    }
+  },
+  {
     "id": "HD03286",
     "typ": "lagforslag",
     "titel": "Stärkt skydd för domstolarnas och domarnas oberoende",
@@ -2444,6 +2466,25 @@
       "kronisk": 3,
       "klimat": 3,
       "otrygg": 3
+    }
+  },
+  {
+    "id": "reg-jamtland-regionstyrelsen-2026-06-15",
+    "typ": "region",
+    "titel": "Regionstyrelsen, Region Jämtland Härjedalen 2026-06-15",
+    "ingress": "Region Jämtland Härjedalen har beslutat att sälja tre bostadsrätter i Torvalla som de äger men inte behöver för sin verksamhet.",
+    "datum": "2026-06-15",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionstyrelsen/mote-2026-06-15",
+    "taggar": [
+      "reg-jamtland",
+      "regionstyrelsen"
+    ],
+    "relevans": {
+      "bostadsagare": 3,
+      "pendlare": 3,
+      "kollektiv": 3,
+      "kronisk": 8
     }
   },
   {
@@ -3759,6 +3800,24 @@
     }
   },
   {
+    "id": "reg-jamtland-regionstyrelsen-2026-05-27",
+    "typ": "region",
+    "titel": "Regionstyrelsen, Region Jämtland Härjedalen 2026-05-27",
+    "ingress": "Regionstyrelsen i Jämtland Härjedalen har tagit fram en lista över de ärenden som ska beslutas under mötet den 27 maj 2026.",
+    "datum": "2026-05-27",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionstyrelsen/mote-2026-05-27",
+    "taggar": [
+      "reg-jamtland",
+      "regionstyrelsen"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "student": 3,
+      "kronisk": 8
+    }
+  },
+  {
     "id": "HD03271",
     "typ": "lagforslag",
     "titel": "En förändrad abortlag",
@@ -4723,6 +4782,24 @@
       "kvinna": 3,
       "man": 3,
       "arbetssokande": 3,
+      "kronisk": 8
+    }
+  },
+  {
+    "id": "reg-jamtland-regionfullmaktige-2026-04-29",
+    "typ": "region",
+    "titel": "Regionfullmaktige, Region Jämtland Härjedalen 2026-04-29",
+    "ingress": "Detta dokument är ett mötesprotokoll från Region Jämtland Härjedalen men innehåller inga beslut om pengar, byggen eller andra viktiga ärenden än att fastställa dagordningen för mötet.",
+    "datum": "2026-04-29",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionfullmaktige/mote-2026-04-29",
+    "taggar": [
+      "reg-jamtland",
+      "regionfullmaktige"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "barn": 3,
       "kronisk": 8
     }
   },

@@ -1392,12 +1392,12 @@
   "regionfullmaktige": {
     "etikett": "Régióközi képviselőtestület.",
     "typ": "organisation",
-    "antal": 5
+    "antal": 7
   },
   "regionstyrelsen": {
     "etikett": "A regionális igazgatóság.",
     "typ": "organisation",
-    "antal": 4
+    "antal": 6
   },
   "reg-orebro": {
     "etikett": "Örebro megye.",
@@ -1408,5 +1408,10 @@
     "etikett": "Västmanland régió.",
     "typ": "organisation",
     "antal": 2
+  },
+  "reg-jamtland": {
+    "etikett": "A Jämtland és Härjedalen régió.",
+    "typ": "organisation",
+    "antal": 4
   }
 }

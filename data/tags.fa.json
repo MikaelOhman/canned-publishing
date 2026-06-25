@@ -1392,12 +1392,12 @@
   "regionfullmaktige": {
     "etikett": "نمایندگان منطقه ای",
     "typ": "organisation",
-    "antal": 5
+    "antal": 7
   },
   "regionstyrelsen": {
     "etikett": "شورای منطقه ای",
     "typ": "organisation",
-    "antal": 4
+    "antal": 6
   },
   "reg-orebro": {
     "etikett": "منطقه: شهرستان اربرو (Örebro län)",
@@ -1408,5 +1408,10 @@
     "etikett": "منطقه وستمانلاند.",
     "typ": "organisation",
     "antal": 2
+  },
+  "reg-jamtland": {
+    "etikett": "منطقه یامتلند هِرجه‌دالن.",
+    "typ": "organisation",
+    "antal": 4
   }
 }

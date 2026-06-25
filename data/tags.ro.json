@@ -1392,12 +1392,12 @@
   "regionfullmaktige": {
     "etikett": "Membrii consiliului regional.",
     "typ": "organisation",
-    "antal": 5
+    "antal": 7
   },
   "regionstyrelsen": {
     "etikett": "Consiliul regional.",
     "typ": "organisation",
-    "antal": 4
+    "antal": 6
   },
   "reg-orebro": {
     "etikett": "Regiunea Örebro län.",
@@ -1408,5 +1408,10 @@
     "etikett": "Regiunea Västmanland.",
     "typ": "organisation",
     "antal": 2
+  },
+  "reg-jamtland": {
+    "etikett": "Regiunea Jämtland Härjedalen.",
+    "typ": "organisation",
+    "antal": 4
   }
 }

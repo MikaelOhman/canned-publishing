@@ -1402,12 +1402,12 @@
   "regionfullmaktige": {
     "etikett": "Membres du conseil régional.",
     "typ": "organisation",
-    "antal": 5
+    "antal": 7
   },
   "regionstyrelsen": {
     "etikett": "Conseil régional.",
     "typ": "organisation",
-    "antal": 4
+    "antal": 6
   },
   "reg-orebro": {
     "etikett": "Région d'Örebro län.",
@@ -1418,5 +1418,10 @@
     "etikett": "Région du Västmanland.",
     "typ": "organisation",
     "antal": 2
+  },
+  "reg-jamtland": {
+    "etikett": "Région de Jämtland et Härjedalen.",
+    "typ": "organisation",
+    "antal": 4
   }
 }

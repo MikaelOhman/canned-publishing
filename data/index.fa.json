@@ -1678,6 +1678,28 @@
     }
   },
   {
+    "id": "reg-jamtland-regionfullmaktige-2026-06-17",
+    "typ": "region",
+    "titel": "به اطلاع می‌رساند که این سند، مجوز رسمی از سوی اعضای شورای منطقه \"یامتلند هرجه‌دالن\" است و تاریخ صدور آن 2026-06-17 می‌باشد.",
+    "ingress": "این منطقه تصمیمات مهمی را در مورد مسائل مختلف از جمله بهداشت و درمان، حمل‌ونقل عمومی، و استراتژی‌های محلی مربوط به سلامت جامعه و مواد غذایی اتخاذ کرده است.",
+    "datum": "2026-06-17",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionfullmaktige/mote-2026-06-17",
+    "taggar": [
+      "reg-jamtland",
+      "regionfullmaktige"
+    ],
+    "relevans": {
+      "barn": 3,
+      "pensionar": 3,
+      "pendlare": 3,
+      "kollektiv": 3,
+      "kronisk": 8,
+      "konsument": 3,
+      "otrygg": 3
+    }
+  },
+  {
     "id": "HD03286",
     "typ": "lagforslag",
     "titel": "تقویت حمایت از استقلال قوه قضائیه و قضات.",
@@ -2352,6 +2374,25 @@
       "kronisk": 3,
       "klimat": 3,
       "otrygg": 3
+    }
+  },
+  {
+    "id": "reg-jamtland-regionstyrelsen-2026-06-15",
+    "typ": "region",
+    "titel": "هیئت منطقه ای، منطقه جمتلند هرجدالن، ۱۵ ژوئن ۲۰۲۶.",
+    "ingress": "منطقه یامتلند هرجدالن تصمیم گرفته است سه آپارتمان را در منطقه توروالا به فروش برساند. این آپارتمان ها متعلق به این منطقه هستند، اما برای فعالیت های جاری آن ضروری نیستند.",
+    "datum": "2026-06-15",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionstyrelsen/mote-2026-06-15",
+    "taggar": [
+      "reg-jamtland",
+      "regionstyrelsen"
+    ],
+    "relevans": {
+      "bostadsagare": 3,
+      "pendlare": 3,
+      "kollektiv": 3,
+      "kronisk": 8
     }
   },
   {
@@ -3647,6 +3688,24 @@
     }
   },
   {
+    "id": "reg-jamtland-regionstyrelsen-2026-05-27",
+    "typ": "region",
+    "titel": "هیئت منطقه ای، منطقه جمتلند هرجدالن، تاریخ: 27 می 2026.",
+    "ingress": "هیئت منطقه ای \"یامتلاند هرجه‌دالن\" فهرستی از موضوعاتی را تهیه کرده است که قرار است در جلسه ای که در تاریخ ۲۷ مه ۲۰۲۶ برگزار می شود، مورد بررسی و تصمیم گیری قرار گیرند.",
+    "datum": "2026-05-27",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionstyrelsen/mote-2026-05-27",
+    "taggar": [
+      "reg-jamtland",
+      "regionstyrelsen"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "student": 3,
+      "kronisk": 8
+    }
+  },
+  {
     "id": "HD03271",
     "typ": "lagforslag",
     "titel": "یک قانون سقط جنین اصلاح‌شده.",
@@ -4590,6 +4649,24 @@
       "kvinna": 3,
       "man": 3,
       "arbetssokande": 3,
+      "kronisk": 8
+    }
+  },
+  {
+    "id": "reg-jamtland-regionfullmaktige-2026-04-29",
+    "typ": "region",
+    "titel": "اعضای شورای منطقه، منطقه جمتلند هرجدالن، تاریخ: 29 آوریل 2026.",
+    "ingress": "این سند، صورتجلسه یک جلسه از منطقه \"یامتلند هرجه‌دالن\" است، اما شامل هیچ تصمیمی در مورد مسائل مالی، پروژه‌های ساختمانی یا سایر موضوعات مهم نیست، به جز تعیین دستور کار جلسه.",
+    "datum": "2026-04-29",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionfullmaktige/mote-2026-04-29",
+    "taggar": [
+      "reg-jamtland",
+      "regionfullmaktige"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "barn": 3,
       "kronisk": 8
     }
   },
