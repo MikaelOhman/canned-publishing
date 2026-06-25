@@ -362,7 +362,7 @@
   "kommunstyrelsen": {
     "etikett": "Kommunstyrelsen",
     "typ": "organisation",
-    "antal": 4
+    "antal": 5
   },
   "kommunallagen": {
     "etikett": "Kommunallagen",
@@ -397,7 +397,7 @@
   "kommunal-forvaltning": {
     "etikett": "Kommunal förvaltning",
     "typ": "ämne",
-    "antal": 2
+    "antal": 3
   },
   "digitalisering": {
     "etikett": "Digitalisering",
@@ -452,6 +452,11 @@
   "bollebygd": {
     "etikett": "Bollebygds",
     "typ": "plats",
+    "antal": 2
+  },
+  "ulf-rapp": {
+    "etikett": "Ulf Rapp",
+    "typ": "person",
     "antal": 1
   }
 }

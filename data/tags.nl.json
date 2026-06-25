@@ -312,12 +312,12 @@
   "kommunstyrelsen": {
     "etikett": "Het college van burgemeester en wethouders.",
     "typ": "organisation",
-    "antal": 3
+    "antal": 4
   },
   "kommunal-forvaltning": {
     "etikett": "Gemeentelijke administratie.",
     "typ": "ämne",
-    "antal": 3
+    "antal": 4
   },
   "karin-wanngard": {
     "etikett": "Karin Wanngård",
@@ -362,11 +362,16 @@
   "bollebygd": {
     "etikett": "Bollebygds",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "protokoll": {
     "etikett": "Notulen.",
     "typ": "ämne",
+    "antal": 1
+  },
+  "ulf-rapp": {
+    "etikett": "Ulf Rapp",
+    "typ": "person",
     "antal": 1
   }
 }

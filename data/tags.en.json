@@ -372,12 +372,12 @@
   "kommunstyrelsen": {
     "etikett": "The Municipal Board.",
     "typ": "organisation",
-    "antal": 2
+    "antal": 3
   },
   "kommunal-forvaltning": {
     "etikett": "Municipal administration.",
     "typ": "ämne",
-    "antal": 2
+    "antal": 3
   },
   "digitalisering": {
     "etikett": "Digitalization\n\n(The rest of the text would follow here, depending on what was originally in the Swedish text.)",
@@ -417,11 +417,16 @@
   "bollebygd": {
     "etikett": "Bollebygds",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "protokoll": {
     "etikett": "Minutes\n\n(Followed by the content of the minutes, which would be translated accordingly. For example, if the minutes contained a list, it would be translated as a list.)",
     "typ": "ämne",
+    "antal": 1
+  },
+  "ulf-rapp": {
+    "etikett": "Ulf Rapp",
+    "typ": "person",
     "antal": 1
   }
 }

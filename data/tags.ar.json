@@ -307,12 +307,12 @@
   "kommunstyrelsen": {
     "etikett": "مجلس البلدية.",
     "typ": "organisation",
-    "antal": 3
+    "antal": 4
   },
   "kommunal-forvaltning": {
     "etikett": "الإدارة المحلية.",
     "typ": "ämne",
-    "antal": 3
+    "antal": 4
   },
   "karin-wanngard": {
     "etikett": "كارين وانغارد.",
@@ -357,11 +357,16 @@
   "bollebygd": {
     "etikett": "بلولبيغد.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "protokoll": {
     "etikett": "محضر اجتماع.",
     "typ": "ämne",
+    "antal": 1
+  },
+  "ulf-rapp": {
+    "etikett": "أولف راب.",
+    "typ": "person",
     "antal": 1
   }
 }

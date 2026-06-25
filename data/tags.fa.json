@@ -302,12 +302,12 @@
   "kommunstyrelsen": {
     "etikett": "شورای شهر.",
     "typ": "organisation",
-    "antal": 3
+    "antal": 4
   },
   "kommunal-forvaltning": {
     "etikett": "مدیریت شهری",
     "typ": "ämne",
-    "antal": 3
+    "antal": 4
   },
   "karin-wanngard": {
     "etikett": "کarin وانگارد",
@@ -357,11 +357,16 @@
   "bollebygd": {
     "etikett": "بالبولبیگد",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "protokoll": {
     "etikett": "پروتکل",
     "typ": "ämne",
+    "antal": 1
+  },
+  "ulf-rapp": {
+    "etikett": "Ulf Rapp",
+    "typ": "person",
     "antal": 1
   }
 }

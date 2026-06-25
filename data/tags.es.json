@@ -307,12 +307,12 @@
   "kommunstyrelsen": {
     "etikett": "El consejo municipal.",
     "typ": "organisation",
-    "antal": 3
+    "antal": 4
   },
   "kommunal-forvaltning": {
     "etikett": "Administración municipal.",
     "typ": "ämne",
-    "antal": 3
+    "antal": 4
   },
   "karin-wanngard": {
     "etikett": "Karin Wanngård.",
@@ -357,11 +357,16 @@
   "bollebygd": {
     "etikett": "Bollebygds.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "protokoll": {
     "etikett": "Acta.",
     "typ": "ämne",
+    "antal": 1
+  },
+  "ulf-rapp": {
+    "etikett": "Ulf Rapp",
+    "typ": "person",
     "antal": 1
   }
 }
