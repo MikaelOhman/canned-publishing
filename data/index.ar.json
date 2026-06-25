@@ -5695,6 +5695,27 @@
     }
   },
   {
+    "id": "malmo-kommunfullmaktige-2026-02-26",
+    "typ": "kommunbeslut",
+    "titel": "اجتماع مجلس مدينة مالمو، 26 فبراير 2026.",
+    "ingress": "اتخذت مدينة مالمو عدة قرارات تتعلق بمشاريع بناء جديدة، واتفاقيات تخص الأراضي، ودراسات تتناول جوانب مختلفة، بدءًا من المدارس والأنشطة الترفيهية وصولًا إلى خدمات الإنقاذ. ومن بين هذه القرارات، سيتم إجراء دراسة حول كيفية تحسين الصحة المدرسية و",
+    "datum": "2026-02-26",
+    "kalla": "Malmö stad",
+    "kalla_url": "https://motenmedborgarportal.malmo.se/committees/kommunfullmaktige/mote-2026-02-26",
+    "taggar": [
+      "malmo",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_fastighet": 5,
+      "infrastruktur": 3,
+      "barn": 8,
+      "konsument": 3,
+      "batagare": 3
+    }
+  },
+  {
     "id": "alingsas-kommunfullmaktige-2026-02-25",
     "typ": "kommunbeslut",
     "titel": "اجتماع مجلس مدينة ألينجسو، بلدية ألينجسو، بتاريخ 2026-02-25.",
@@ -6867,6 +6888,28 @@
       "pensionar": 5,
       "anhorigvardare": 5,
       "ny_i_sverige": 5
+    }
+  },
+  {
+    "id": "malmo-kommunstyrelsen-2026-01-07",
+    "typ": "kommunbeslut",
+    "titel": "لجنة الشؤون البلدية، بلدية مالمو، بتاريخ 2026-01-07.",
+    "ingress": "هذا المحضر الصادر عن لجنة بلدية مالمو بتاريخ 7 يناير 2026، يوضح قائمة بمختلف المقترحات والتقارير التي سيتخذ السياسيون فيها مواقف. وتشمل هذه القائمة مواضيع متنوعة، بدءًا من الشؤون المالية والقواعد الجديدة، وصولًا إلى مقترحات لتقديم الدعم للع",
+    "datum": "2026-01-07",
+    "kalla": "Malmö stad",
+    "kalla_url": "https://motenmedborgarportal.malmo.se/committees/kommunstyrelsen/mote-2026-01-07",
+    "taggar": [
+      "malmo",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "arbetsmiljo": 3,
+      "barn": 5,
+      "stor_familj": 3,
+      "bil": 3,
+      "beroende": 3,
+      "friluftsliv": 3,
+      "otrygg": 3
     }
   },
   {
@@ -8560,6 +8603,28 @@
       "hylte",
       "kommunfullmaktige"
     ]
+  },
+  {
+    "id": "lekeberg-kommunfullmaktige-2025-10-20",
+    "typ": "kommunbeslut",
+    "titel": "اجتماع مجلس مدينة ليكبيرغ، 20 أكتوبر 2025.",
+    "ingress": "قررت بلدية ليكبيرج قواعد جديدة للضرائب اعتبارًا من عام 2026، بالإضافة إلى كيفية تنظيم عمل البلدية في المستقبل. كما قررت البلدية اعتماد التوقيع الإلكتروني على محاضر الاجتماعات لتسهيل سير العمل.",
+    "datum": "2025-10-20",
+    "kalla": "Lekebergs kommun",
+    "kalla_url": "https://meetings.lekeberg.se/committees/kommunfullmaktige/mote-2025-10-20",
+    "taggar": [
+      "lekeberg",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_vard": 3,
+      "b_finans": 3,
+      "b_fastighet": 3,
+      "barn": 3,
+      "kronisk": 3,
+      "klimat": 3
+    }
   },
   {
     "id": "HD0334",

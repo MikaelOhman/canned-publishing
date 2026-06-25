@@ -5827,6 +5827,27 @@
     }
   },
   {
+    "id": "malmo-kommunfullmaktige-2026-02-26",
+    "typ": "kommunbeslut",
+    "titel": "Kommunfullmäktige, Malmö stad 2026-02-26",
+    "ingress": "Malmö stad har fattat flera beslut om nya byggprojekt, markavtal och utredningar som rör allt från skola och fritid till räddningstjänst. Bland annat ska man undersöka hur man kan förbättra elevhälsan och skapa bättre förutsättningar för ba",
+    "datum": "2026-02-26",
+    "kalla": "Malmö stad",
+    "kalla_url": "https://motenmedborgarportal.malmo.se/committees/kommunfullmaktige/mote-2026-02-26",
+    "taggar": [
+      "malmo",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_fastighet": 5,
+      "infrastruktur": 3,
+      "barn": 8,
+      "konsument": 3,
+      "batagare": 3
+    }
+  },
+  {
     "id": "alingsas-kommunfullmaktige-2026-02-25",
     "typ": "kommunbeslut",
     "titel": "Kommunfullmäktige, Alingsås kommun 2026-02-25",
@@ -6999,6 +7020,28 @@
       "pensionar": 5,
       "anhorigvardare": 5,
       "ny_i_sverige": 5
+    }
+  },
+  {
+    "id": "malmo-kommunstyrelsen-2026-01-07",
+    "typ": "kommunbeslut",
+    "titel": "Kommunstyrelsen, Malmö stad 2026-01-07",
+    "ingress": "Det här protokollet från Malmös kommunstyrelse den 7 januari 2026 visar en lista på olika förslag och rapporter som politikerna ska ta ställning till. Det handlar bland annat om allt från ekonomi och nya regler till förslag på stöd till fat",
+    "datum": "2026-01-07",
+    "kalla": "Malmö stad",
+    "kalla_url": "https://motenmedborgarportal.malmo.se/committees/kommunstyrelsen/mote-2026-01-07",
+    "taggar": [
+      "malmo",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "arbetsmiljo": 3,
+      "barn": 5,
+      "stor_familj": 3,
+      "bil": 3,
+      "beroende": 3,
+      "friluftsliv": 3,
+      "otrygg": 3
     }
   },
   {
@@ -8692,6 +8735,28 @@
       "hylte",
       "kommunfullmaktige"
     ]
+  },
+  {
+    "id": "lekeberg-kommunfullmaktige-2025-10-20",
+    "typ": "kommunbeslut",
+    "titel": "Kommunfullmäktige, Lekebergs kommun 2025-10-20",
+    "ingress": "Lekebergs kommun har beslutat om nya regler för skatten år 2026 och hur kommunens arbete ska organiseras framöver. Man har även beslutat att skriva under mötesprotokoll digitalt för att göra arbetet smidigare.",
+    "datum": "2025-10-20",
+    "kalla": "Lekebergs kommun",
+    "kalla_url": "https://meetings.lekeberg.se/committees/kommunfullmaktige/mote-2025-10-20",
+    "taggar": [
+      "lekeberg",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_vard": 3,
+      "b_finans": 3,
+      "b_fastighet": 3,
+      "barn": 3,
+      "kronisk": 3,
+      "klimat": 3
+    }
   },
   {
     "id": "HD0334",

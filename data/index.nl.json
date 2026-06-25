@@ -5711,6 +5711,27 @@
     }
   },
   {
+    "id": "malmo-kommunfullmaktige-2026-02-26",
+    "typ": "kommunbeslut",
+    "titel": "Gemeenteraad, Stad Malmö, 26 februari 2026.",
+    "ingress": "De gemeente Malmö heeft verschillende beslissingen genomen over nieuwe bouwprojecten, grondtransacties en onderzoeken die betrekking hebben op uiteenlopende gebieden, van onderwijs en vrijetijdsbesteding tot brandweerzorg. Onder meer zal er",
+    "datum": "2026-02-26",
+    "kalla": "Malmö stad",
+    "kalla_url": "https://motenmedborgarportal.malmo.se/committees/kommunfullmaktige/mote-2026-02-26",
+    "taggar": [
+      "malmo",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_fastighet": 5,
+      "infrastruktur": 3,
+      "barn": 8,
+      "konsument": 3,
+      "batagare": 3
+    }
+  },
+  {
     "id": "alingsas-kommunfullmaktige-2026-02-25",
     "typ": "kommunbeslut",
     "titel": "Gemeenteraad, gemeente Alingsås, 25 februari 2026.",
@@ -6883,6 +6904,28 @@
       "pensionar": 5,
       "anhorigvardare": 5,
       "ny_i_sverige": 5
+    }
+  },
+  {
+    "id": "malmo-kommunstyrelsen-2026-01-07",
+    "typ": "kommunbeslut",
+    "titel": "College van burgemeester en wethouders, gemeente Malmö, 7 januari 2026.",
+    "ingress": "Dit verslag van de gemeenteraad van Malmö, daterend van 7 januari 2026, toont een lijst met verschillende voorstellen en rapporten waar de politici zich over moeten buigen. Het gaat onder meer om onderwerpen als financiën, nieuwe regels en",
+    "datum": "2026-01-07",
+    "kalla": "Malmö stad",
+    "kalla_url": "https://motenmedborgarportal.malmo.se/committees/kommunstyrelsen/mote-2026-01-07",
+    "taggar": [
+      "malmo",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "arbetsmiljo": 3,
+      "barn": 5,
+      "stor_familj": 3,
+      "bil": 3,
+      "beroende": 3,
+      "friluftsliv": 3,
+      "otrygg": 3
     }
   },
   {
@@ -8576,6 +8619,28 @@
       "hylte",
       "kommunfullmaktige"
     ]
+  },
+  {
+    "id": "lekeberg-kommunfullmaktige-2025-10-20",
+    "typ": "kommunbeslut",
+    "titel": "Gemeenteraad, gemeente Lekeberg, 20 oktober 2025.",
+    "ingress": "De gemeente Lekeberg heeft nieuwe regels vastgesteld voor de belastingen vanaf 2026 en hoe de organisatie van de gemeente in de toekomst zal worden ingericht. Daarnaast is besloten om digitale handtekeningen te gebruiken voor vergaderversla",
+    "datum": "2025-10-20",
+    "kalla": "Lekebergs kommun",
+    "kalla_url": "https://meetings.lekeberg.se/committees/kommunfullmaktige/mote-2025-10-20",
+    "taggar": [
+      "lekeberg",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_vard": 3,
+      "b_finans": 3,
+      "b_fastighet": 3,
+      "barn": 3,
+      "kronisk": 3,
+      "klimat": 3
+    }
   },
   {
     "id": "HD0334",

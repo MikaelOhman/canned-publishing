@@ -5710,6 +5710,27 @@
     }
   },
   {
+    "id": "malmo-kommunfullmaktige-2026-02-26",
+    "typ": "kommunbeslut",
+    "titel": "Conseil municipal de Malmö, 26 février 2026.",
+    "ingress": "La municipalité de Malmö a pris plusieurs décisions concernant de nouveaux projets de construction, des accords fonciers et des études portant sur divers domaines, allant de l'éducation et des loisirs aux services de secours. Parmi ces déci",
+    "datum": "2026-02-26",
+    "kalla": "Malmö stad",
+    "kalla_url": "https://motenmedborgarportal.malmo.se/committees/kommunfullmaktige/mote-2026-02-26",
+    "taggar": [
+      "malmo",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_fastighet": 5,
+      "infrastruktur": 3,
+      "barn": 8,
+      "konsument": 3,
+      "batagare": 3
+    }
+  },
+  {
     "id": "alingsas-kommunfullmaktige-2026-02-25",
     "typ": "kommunbeslut",
     "titel": "Conseil municipal, commune d'Alingsås, 25 février 2026.",
@@ -6882,6 +6903,28 @@
       "pensionar": 5,
       "anhorigvardare": 5,
       "ny_i_sverige": 5
+    }
+  },
+  {
+    "id": "malmo-kommunstyrelsen-2026-01-07",
+    "typ": "kommunbeslut",
+    "titel": "Conseil municipal, Ville de Malmö, 7 janvier 2026.",
+    "ingress": "Ce procès-verbal de la commission municipale de Malmö, daté du 7 janvier 2026, présente une liste de propositions et de rapports sur lesquels les élus devront se prononcer. Ces sujets incluent divers domaines, allant de la finance et de nou",
+    "datum": "2026-01-07",
+    "kalla": "Malmö stad",
+    "kalla_url": "https://motenmedborgarportal.malmo.se/committees/kommunstyrelsen/mote-2026-01-07",
+    "taggar": [
+      "malmo",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "arbetsmiljo": 3,
+      "barn": 5,
+      "stor_familj": 3,
+      "bil": 3,
+      "beroende": 3,
+      "friluftsliv": 3,
+      "otrygg": 3
     }
   },
   {
@@ -8575,6 +8618,28 @@
       "hylte",
       "kommunfullmaktige"
     ]
+  },
+  {
+    "id": "lekeberg-kommunfullmaktige-2025-10-20",
+    "typ": "kommunbeslut",
+    "titel": "Conseil municipal de Lekebergs kommun, 20 octobre 2025.",
+    "ingress": "La commune de Lekeberg a pris des décisions concernant de nouvelles règles fiscales pour l'année 2026, ainsi que sur l'organisation future des activités de la commune. Elle a également décidé d'utiliser la signature électronique pour les pr",
+    "datum": "2025-10-20",
+    "kalla": "Lekebergs kommun",
+    "kalla_url": "https://meetings.lekeberg.se/committees/kommunfullmaktige/mote-2025-10-20",
+    "taggar": [
+      "lekeberg",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_vard": 3,
+      "b_finans": 3,
+      "b_fastighet": 3,
+      "barn": 3,
+      "kronisk": 3,
+      "klimat": 3
+    }
   },
   {
     "id": "HD0334",
