@@ -462,7 +462,7 @@
   "sn": {
     "etikett": "SN",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "emmaboda": {
     "etikett": "Emmaboda",
@@ -957,6 +957,11 @@
   "valnamnden": {
     "etikett": "Comisia de evaluare.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "hultsfred": {
+    "etikett": "Hultsfreds",
+    "typ": "plats",
     "antal": 1
   }
 }
