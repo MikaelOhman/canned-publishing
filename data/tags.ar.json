@@ -988,5 +988,15 @@
     "etikett": "خبز.",
     "typ": "organisation",
     "antal": 1
+  },
+  "kalix": {
+    "etikett": "كاليكس.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "tillstands-och-tillsynsnamndens-for-hems": {
+    "etikett": "اسم الجهة المسؤولة عن موقع الويب: \"لجنة الشؤون البيئية والإشراف\".",
+    "typ": "organisation",
+    "antal": 1
   }
 }

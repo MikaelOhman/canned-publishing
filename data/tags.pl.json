@@ -973,5 +973,15 @@
     "etikett": "BUN",
     "typ": "organisation",
     "antal": 1
+  },
+  "kalix": {
+    "etikett": "Kalix.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "tillstands-och-tillsynsnamndens-for-hems": {
+    "etikett": "Nazwa dla działu \"Informacje o stanie i nadzorze\" na stronie internetowej.",
+    "typ": "organisation",
+    "antal": 1
   }
 }

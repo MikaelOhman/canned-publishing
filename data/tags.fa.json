@@ -973,5 +973,15 @@
     "etikett": "بُن (Bun)",
     "typ": "organisation",
     "antal": 1
+  },
+  "kalix": {
+    "etikett": "Kalix",
+    "typ": "plats",
+    "antal": 1
+  },
+  "tillstands-och-tillsynsnamndens-for-hems": {
+    "etikett": "نام کاربری و رمز عبور برای دسترسی به وب‌سایت.",
+    "typ": "organisation",
+    "antal": 1
   }
 }
