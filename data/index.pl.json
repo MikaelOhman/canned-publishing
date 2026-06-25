@@ -1348,6 +1348,19 @@
     ]
   },
   {
+    "id": "lekeberg-kommunstyrelsen-2026-05-06",
+    "typ": "kommunbeslut",
+    "titel": "Komisja ds. spraw lokalnych, gmina Lekeberg, 6 maja 2026 roku.",
+    "ingress": "E-mail zawiera zaktualizowane dane dotyczące wody i kanalizacji w gminie Lekeberg. Dotyczy on wzrostu kosztów oczyszczania wody, który okazał się wyższy niż pierwotnie przewidywano.",
+    "datum": "2026-05-06",
+    "kalla": "Lekebergs kommun",
+    "kalla_url": "https://meetings.lekeberg.se/committees/kommunstyrelsen/mote-2026-05-06",
+    "taggar": [
+      "lekeberg",
+      "kommunstyrelsen"
+    ]
+  },
+  {
     "id": "HD03255",
     "typ": "lagforslag",
     "titel": "Pobieranie próbek danych dotyczących zadłużenia gospodarstw domowych.",
@@ -1514,6 +1527,19 @@
     "kalla_url": "https://moten.ange.se/committees/kommunfullmaktige/mote-2026-04-27",
     "taggar": [
       "ange",
+      "kommunfullmaktige"
+    ]
+  },
+  {
+    "id": "lekeberg-kommunfullmaktige-2026-04-27",
+    "typ": "kommunbeslut",
+    "titel": "Uchwała Rady Miejskiej, Gmina Lekeberg, 27 kwietnia 2026.",
+    "ingress": "Gmina Lekeberg podjęła decyzję o wprowadzeniu kilku nowych propozycji i zmian w przepisach. Omówiono m.in. budowę nowych dróg, zapewnienie mieszkań dla osób starszych oraz zmiany w opłatach za wywóz śmieci.",
+    "datum": "2026-04-27",
+    "kalla": "Lekebergs kommun",
+    "kalla_url": "https://meetings.lekeberg.se/committees/kommunfullmaktige/mote-2026-04-27",
+    "taggar": [
+      "lekeberg",
       "kommunfullmaktige"
     ]
   },

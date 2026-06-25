@@ -1351,6 +1351,19 @@
     ]
   },
   {
+    "id": "lekeberg-kommunstyrelsen-2026-05-06",
+    "typ": "kommunbeslut",
+    "titel": "Junta Municipal, Municipio de Lekeberg, 6 de mayo de 2026.",
+    "ingress": "Un correo electrónico trata sobre cifras actualizadas relacionadas con el agua y las aguas residuales en el municipio de Lekeberg. El tema es que los costos de tratamiento de agua han aumentado más de lo que se pensaba inicialmente.",
+    "datum": "2026-05-06",
+    "kalla": "Lekebergs kommun",
+    "kalla_url": "https://meetings.lekeberg.se/committees/kommunstyrelsen/mote-2026-05-06",
+    "taggar": [
+      "lekeberg",
+      "kommunstyrelsen"
+    ]
+  },
+  {
     "id": "HD03255",
     "typ": "lagforslag",
     "titel": "Recopilación de datos mediante muestreo sobre las deudas de los hogares.",
@@ -1517,6 +1530,19 @@
     "kalla_url": "https://moten.ange.se/committees/kommunfullmaktige/mote-2026-04-27",
     "taggar": [
       "ange",
+      "kommunfullmaktige"
+    ]
+  },
+  {
+    "id": "lekeberg-kommunfullmaktige-2026-04-27",
+    "typ": "kommunbeslut",
+    "titel": "Ayuntamiento de Lekeberg, 27 de abril de 2026.",
+    "ingress": "El ayuntamiento de Lekeberg ha tomado decisiones sobre varias propuestas y modificaciones en las regulaciones. Entre ellas, se están discutiendo la construcción de nuevas carreteras, viviendas para personas mayores y cambios en las tarifas",
+    "datum": "2026-04-27",
+    "kalla": "Lekebergs kommun",
+    "kalla_url": "https://meetings.lekeberg.se/committees/kommunfullmaktige/mote-2026-04-27",
+    "taggar": [
+      "lekeberg",
       "kommunfullmaktige"
     ]
   },
