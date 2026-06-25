@@ -543,5 +543,15 @@
     "etikett": "هيرنوساندز.",
     "typ": "plats",
     "antal": 1
+  },
+  "hofors": {
+    "etikett": "هوفورس.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "kommunstyrelsen-inkl-bilagor": {
+    "etikett": "\"محضر اجتماع لجنة الشؤون البلدية (يتضمن المرفقات).\"",
+    "typ": "organisation",
+    "antal": 1
   }
 }

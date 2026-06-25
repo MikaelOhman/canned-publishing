@@ -518,5 +518,15 @@
     "etikett": "هärnösands",
     "typ": "plats",
     "antal": 1
+  },
+  "hofors": {
+    "etikett": "Hofors",
+    "typ": "plats",
+    "antal": 1
+  },
+  "kommunstyrelsen-inkl-bilagor": {
+    "etikett": "شورای شهر (به همراه پیوست‌ها)",
+    "typ": "organisation",
+    "antal": 1
   }
 }
