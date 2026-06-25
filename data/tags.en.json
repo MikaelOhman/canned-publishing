@@ -587,7 +587,7 @@
   "samhallsbyggnadsnamnden": {
     "etikett": "the committee for urban development",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "grums": {
     "etikett": "Grums",
@@ -791,6 +791,11 @@
   },
   "alvsbyn": {
     "etikett": "Älvsbyns",
+    "typ": "plats",
+    "antal": 1
+  },
+  "aneby": {
+    "etikett": "Aneby is a locality situated in Gnosjö Municipality, Jönköping County, Sweden. As of December 31, 2020, it had a population of 2,986.\n\nHere are some key facts about Aneby:\n\n*   **Location:** Gnosjö Municipality, Jönköping County, Sweden.\n*   **Population (as of December 31, 2020):** 2,986.",
     "typ": "plats",
     "antal": 1
   }

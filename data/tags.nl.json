@@ -507,7 +507,7 @@
   "samhallsbyggnadsnamnden": {
     "etikett": "de gemeenteraad voor ruimtelijke ordening",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "grums": {
     "etikett": "Grums",
@@ -721,6 +721,11 @@
   },
   "alvsbyn": {
     "etikett": "Älvsbyns",
+    "typ": "plats",
+    "antal": 1
+  },
+  "aneby": {
+    "etikett": "Aneby",
     "typ": "plats",
     "antal": 1
   }

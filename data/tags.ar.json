@@ -527,7 +527,7 @@
   "samhallsbyggnadsnamnden": {
     "etikett": "لجنة التخطيط العمراني والبناء.",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "grums": {
     "etikett": "Grums",
@@ -731,6 +731,11 @@
   },
   "alvsbyn": {
     "etikett": "مدينة إلفسبين.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "aneby": {
+    "etikett": "أنيبي.",
     "typ": "plats",
     "antal": 1
   }
