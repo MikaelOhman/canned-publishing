@@ -10217,6 +10217,23 @@
     }
   },
   {
+    "id": "alingsas-kommunstyrelsen-2025-11-03",
+    "typ": "kommunbeslut",
+    "titel": "Comisia municipală, Primăria Alingsås, 3 noiembrie 2025.",
+    "ingress": "Primăria Alingsås a elaborat un nou program de prevenire a violenței. Programul va fi valabil între 2025 și 2027 și va fi implementat în cadrul activităților existente, fără a implica costuri suplimentare.",
+    "datum": "2025-11-03",
+    "kalla": "Alingsås kommun",
+    "kalla_url": "https://sammantradesportal.alingsas.se/committees/kommunstyrelsen/mote-2025-11-03",
+    "taggar": [
+      "alingsas",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "kollektivavtal": 3,
+      "lontagare": 3
+    }
+  },
+  {
     "id": "HD038",
     "typ": "lagforslag",
     "titel": "Raportul Agenției Naționale de Audit privind transformarea companiei LKAB.",
@@ -11811,6 +11828,33 @@
       "kollektiv": 4,
       "storforetag": 4,
       "smaforetag": 3
+    }
+  },
+  {
+    "id": "alingsas-kommunfullmaktige-2025-06-11",
+    "typ": "kommunbeslut",
+    "titel": "Consiliul municipal, comuna Alingsås, 11 iunie 2025.",
+    "ingress": "Primăria Alingsås a luat mai multe decizii importante referitoare la finanțe, noi reguli și planuri de construcție. Printre acestea, a fost aprobat raportul anual pentru 2024 și au fost stabilite noi taxe pentru autorizațiile de construcție",
+    "datum": "2025-06-11",
+    "kalla": "Alingsås kommun",
+    "kalla_url": "https://sammantradesportal.alingsas.se/committees/kommunfullmaktige/mote-2025-06-11",
+    "taggar": [
+      "alingsas",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_vard": 3,
+      "redovisning": 3,
+      "finansiering": 3,
+      "mark_bygglov": 5,
+      "ung": 3,
+      "hbtq": 3,
+      "bygger": 5,
+      "kronisk": 3,
+      "konsument": 3,
+      "idrott": 3,
+      "klimat": 3
     }
   },
   {

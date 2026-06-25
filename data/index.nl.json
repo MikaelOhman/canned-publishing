@@ -10265,6 +10265,23 @@
     }
   },
   {
+    "id": "alingsas-kommunstyrelsen-2025-11-03",
+    "typ": "kommunbeslut",
+    "titel": "College van burgemeesters en wethouders, gemeente Alingsås, 3 november 2025.",
+    "ingress": "De gemeente Alingsås heeft een nieuw programma ontwikkeld om geweld te voorkomen. Dit programma zal gelden van 2025 tot en met 2027 en zal worden uitgevoerd binnen de bestaande afdelingen, zonder dat er extra budget nodig is.",
+    "datum": "2025-11-03",
+    "kalla": "Alingsås kommun",
+    "kalla_url": "https://sammantradesportal.alingsas.se/committees/kommunstyrelsen/mote-2025-11-03",
+    "taggar": [
+      "alingsas",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "kollektivavtal": 3,
+      "lontagare": 3
+    }
+  },
+  {
     "id": "HD038",
     "typ": "lagforslag",
     "titel": "Het rapport van de Rijksrekenkamer over de transformatie van LKAB.",
@@ -11849,6 +11866,33 @@
       "kollektiv": 4,
       "storforetag": 4,
       "smaforetag": 3
+    }
+  },
+  {
+    "id": "alingsas-kommunfullmaktige-2025-06-11",
+    "typ": "kommunbeslut",
+    "titel": "Gemeenteraad, gemeente Alingsås, 11 juni 2025.",
+    "ingress": "De gemeente Alingsås heeft verschillende belangrijke beslissingen genomen over financiën, nieuwe regels en bouwplannen. Onder andere is de jaarrekening voor 2024 goedgekeurd en zijn er nieuwe tarieven vastgesteld voor bouwvergunningen.",
+    "datum": "2025-06-11",
+    "kalla": "Alingsås kommun",
+    "kalla_url": "https://sammantradesportal.alingsas.se/committees/kommunfullmaktige/mote-2025-06-11",
+    "taggar": [
+      "alingsas",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_vard": 3,
+      "redovisning": 3,
+      "finansiering": 3,
+      "mark_bygglov": 5,
+      "ung": 3,
+      "hbtq": 3,
+      "bygger": 5,
+      "kronisk": 3,
+      "konsument": 3,
+      "idrott": 3,
+      "klimat": 3
     }
   },
   {

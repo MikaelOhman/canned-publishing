@@ -10265,6 +10265,23 @@
     }
   },
   {
+    "id": "alingsas-kommunstyrelsen-2025-11-03",
+    "typ": "kommunbeslut",
+    "titel": "Comitato esecutivo, Comune di Alingsås, 3 novembre 2025.",
+    "ingress": "Il comune di Alingsås ha sviluppato un nuovo programma per la prevenzione della violenza. Il programma avrà validità dal 2025 al 2027 e sarà implementato all'interno delle attività esistenti, senza richiedere finanziamenti aggiuntivi.",
+    "datum": "2025-11-03",
+    "kalla": "Alingsås kommun",
+    "kalla_url": "https://sammantradesportal.alingsas.se/committees/kommunstyrelsen/mote-2025-11-03",
+    "taggar": [
+      "alingsas",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "kollektivavtal": 3,
+      "lontagare": 3
+    }
+  },
+  {
     "id": "HD038",
     "typ": "lagforslag",
     "titel": "Relazione dell'Ispettorato delle Finanze sulla trasformazione di LKAB.",
@@ -11865,6 +11882,33 @@
       "kollektiv": 4,
       "storforetag": 4,
       "smaforetag": 3
+    }
+  },
+  {
+    "id": "alingsas-kommunfullmaktige-2025-06-11",
+    "typ": "kommunbeslut",
+    "titel": "Consiglio comunale, Comune di Alingsås, 11 giugno 2025.",
+    "ingress": "Il comune di Alingsås ha preso diverse decisioni importanti riguardanti economia, nuove normative e piani di costruzione. Tra queste, è stata approvata la relazione finanziaria annuale per il 2024 e sono state stabilite nuove tariffe per i",
+    "datum": "2025-06-11",
+    "kalla": "Alingsås kommun",
+    "kalla_url": "https://sammantradesportal.alingsas.se/committees/kommunfullmaktige/mote-2025-06-11",
+    "taggar": [
+      "alingsas",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_vard": 3,
+      "redovisning": 3,
+      "finansiering": 3,
+      "mark_bygglov": 5,
+      "ung": 3,
+      "hbtq": 3,
+      "bygger": 5,
+      "kronisk": 3,
+      "konsument": 3,
+      "idrott": 3,
+      "klimat": 3
     }
   },
   {

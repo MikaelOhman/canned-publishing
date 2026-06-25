@@ -10295,6 +10295,23 @@
     }
   },
   {
+    "id": "alingsas-kommunstyrelsen-2025-11-03",
+    "typ": "kommunbeslut",
+    "titel": "Gemeindeverwaltungsrat, Gemeinde Alingsås, 03.11.2025.",
+    "ingress": "Die Gemeinde Alingsås hat ein neues Programm zur Gewaltprävention entwickelt. Dieses Programm soll im Zeitraum von 2025 bis 2027 umgesetzt werden und soll innerhalb der bestehenden Strukturen durchgeführt werden, ohne dass zusätzliche Mitte",
+    "datum": "2025-11-03",
+    "kalla": "Alingsås kommun",
+    "kalla_url": "https://sammantradesportal.alingsas.se/committees/kommunstyrelsen/mote-2025-11-03",
+    "taggar": [
+      "alingsas",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "kollektivavtal": 3,
+      "lontagare": 3
+    }
+  },
+  {
     "id": "HD038",
     "typ": "lagforslag",
     "titel": "Bericht des Rechnungshofs über den Transformationsprozess von LKAB.",
@@ -11879,6 +11896,33 @@
       "kollektiv": 4,
       "storforetag": 4,
       "smaforetag": 3
+    }
+  },
+  {
+    "id": "alingsas-kommunfullmaktige-2025-06-11",
+    "typ": "kommunbeslut",
+    "titel": "Gemeindevertreterversammlung, Gemeinde Alingsås, 11. Juni 2025.",
+    "ingress": "Die Gemeinde Alingsås hat mehrere wichtige Entscheidungen in Bezug auf Finanzen, neue Vorschriften und Baupläne getroffen. Dazu gehört die Genehmigung des Jahresberichts für 2024 sowie die Festlegung neuer Gebühren für Baugenehmigungen.",
+    "datum": "2025-06-11",
+    "kalla": "Alingsås kommun",
+    "kalla_url": "https://sammantradesportal.alingsas.se/committees/kommunfullmaktige/mote-2025-06-11",
+    "taggar": [
+      "alingsas",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_vard": 3,
+      "redovisning": 3,
+      "finansiering": 3,
+      "mark_bygglov": 5,
+      "ung": 3,
+      "hbtq": 3,
+      "bygger": 5,
+      "kronisk": 3,
+      "konsument": 3,
+      "idrott": 3,
+      "klimat": 3
     }
   },
   {

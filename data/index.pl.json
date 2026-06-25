@@ -10281,6 +10281,23 @@
     }
   },
   {
+    "id": "alingsas-kommunstyrelsen-2025-11-03",
+    "typ": "kommunbeslut",
+    "titel": "Komisja ds. spraw lokalnych, Gmina Alingsås, 3 listopada 2025.",
+    "ingress": "Gmina Alingsås opracowała nowy program mający na celu zapobieganie przemocy. Program ten będzie obowiązywał w latach 2025-2027 i zostanie wdrożony w ramach istniejących działań, bez konieczności dodatkowych nakładów finansowych.",
+    "datum": "2025-11-03",
+    "kalla": "Alingsås kommun",
+    "kalla_url": "https://sammantradesportal.alingsas.se/committees/kommunstyrelsen/mote-2025-11-03",
+    "taggar": [
+      "alingsas",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "kollektivavtal": 3,
+      "lontagare": 3
+    }
+  },
+  {
     "id": "HD038",
     "typ": "lagforslag",
     "titel": "Raport Najwyższej Izby Kontroli dotyczący transformacji firmy LKAB.",
@@ -11881,6 +11898,33 @@
       "kollektiv": 4,
       "storforetag": 4,
       "smaforetag": 3
+    }
+  },
+  {
+    "id": "alingsas-kommunfullmaktige-2025-06-11",
+    "typ": "kommunbeslut",
+    "titel": "Rada Miejska, Gmina Alingsås, 11 czerwca 2025.",
+    "ingress": "Gmina Alingsås podjęła szereg ważnych decyzji dotyczących finansów, nowych przepisów i planów zagospodarowania przestrzennego. Wśród nich znajduje się zatwierdzenie rocznego raportu finansowego za 2024 rok oraz ustalenie nowych opłat za poz",
+    "datum": "2025-06-11",
+    "kalla": "Alingsås kommun",
+    "kalla_url": "https://sammantradesportal.alingsas.se/committees/kommunfullmaktige/mote-2025-06-11",
+    "taggar": [
+      "alingsas",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_vard": 3,
+      "redovisning": 3,
+      "finansiering": 3,
+      "mark_bygglov": 5,
+      "ung": 3,
+      "hbtq": 3,
+      "bygger": 5,
+      "kronisk": 3,
+      "konsument": 3,
+      "idrott": 3,
+      "klimat": 3
     }
   },
   {

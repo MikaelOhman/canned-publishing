@@ -10195,6 +10195,23 @@
     }
   },
   {
+    "id": "alingsas-kommunstyrelsen-2025-11-03",
+    "typ": "kommunbeslut",
+    "titel": "A kommunális bizottság, Alingsås önkormányzata, 2025. november 3.",
+    "ingress": "Az Alingsås önkormányzat kidolgozott egy új programot az erőszak megelőzésére. A program 2025 és 2027 között lesz érvényben, és a meglévő intézmények keretein belül, további költségek nélkül valósul meg.",
+    "datum": "2025-11-03",
+    "kalla": "Alingsås kommun",
+    "kalla_url": "https://sammantradesportal.alingsas.se/committees/kommunstyrelsen/mote-2025-11-03",
+    "taggar": [
+      "alingsas",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "kollektivavtal": 3,
+      "lontagare": 3
+    }
+  },
+  {
     "id": "HD038",
     "typ": "lagforslag",
     "titel": "A Svéd Számvevőszék LKAB átalakulásáról szóló jelentése.",
@@ -11779,6 +11796,33 @@
       "kollektiv": 4,
       "storforetag": 4,
       "smaforetag": 3
+    }
+  },
+  {
+    "id": "alingsas-kommunfullmaktige-2025-06-11",
+    "typ": "kommunbeslut",
+    "titel": "Alingsås önskade att få en utredning om hur man kunde förbättra kommunens arbete med att förebygga våld i nära relationer. Utredningen skulle bland annat inkludera en analys av vilka insatser som redan görs, vilka behov som finns och vilka hinder som finns för att uppnå bättre resultat.\n\nUtredningen skulle genomföras av en extern expertgrupp och skulle presenteras för kommunfullmäktige senast den 2026-06-11.\n\nKommunfullmäktige beslutade att godkänna Alingsås förslag och bevilja medel för att genomföra utredningen.\n\nFör mer information, vänligen kontakta:\n[E-postadress]\n[Telefonnummer]\n[Webbplats]",
+    "ingress": "Az Alingsås önkormányzat számos fontos döntést hozott a gazdaság, az új szabályozások és a tervek tekintetében. Például jóváhagyták a 2024-es éves jelentést, és új díjakat állapítottak meg az építési engedélyekre.",
+    "datum": "2025-06-11",
+    "kalla": "Alingsås kommun",
+    "kalla_url": "https://sammantradesportal.alingsas.se/committees/kommunfullmaktige/mote-2025-06-11",
+    "taggar": [
+      "alingsas",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_vard": 3,
+      "redovisning": 3,
+      "finansiering": 3,
+      "mark_bygglov": 5,
+      "ung": 3,
+      "hbtq": 3,
+      "bygger": 5,
+      "kronisk": 3,
+      "konsument": 3,
+      "idrott": 3,
+      "klimat": 3
     }
   },
   {

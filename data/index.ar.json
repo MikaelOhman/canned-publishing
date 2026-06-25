@@ -10249,6 +10249,23 @@
     }
   },
   {
+    "id": "alingsas-kommunstyrelsen-2025-11-03",
+    "typ": "kommunbeslut",
+    "titel": "مجلس بلدية ألينجسو، تاريخ 3 نوفمبر 2025.",
+    "ingress": "قامت بلدية ألينجسو بإعداد برنامج جديد للوقاية من العنف. يهدف هذا البرنامج إلى العمل في الفترة من عام 2025 إلى عام 2027، وسيتم تنفيذه ضمن الأنشطة الحالية دون الحاجة إلى تخصيص ميزانية إضافية.",
+    "datum": "2025-11-03",
+    "kalla": "Alingsås kommun",
+    "kalla_url": "https://sammantradesportal.alingsas.se/committees/kommunstyrelsen/mote-2025-11-03",
+    "taggar": [
+      "alingsas",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "kollektivavtal": 3,
+      "lontagare": 3
+    }
+  },
+  {
     "id": "HD038",
     "typ": "lagforslag",
     "titel": "تقرير مكتب المراجعة الوطني حول تحول شركة LKAB.",
@@ -11844,6 +11861,33 @@
       "kollektiv": 4,
       "storforetag": 4,
       "smaforetag": 3
+    }
+  },
+  {
+    "id": "alingsas-kommunfullmaktige-2025-06-11",
+    "typ": "kommunbeslut",
+    "titel": "اجتماع مجلس مدينة ألينجسو، بلدية ألينجسو، بتاريخ 2025-06-11.",
+    "ingress": "اتخذت بلدية ألينجسو عدة قرارات مهمة تتعلق بالشؤون المالية، واللوائح الجديدة، وخطط البناء. ومن بين هذه القرارات، تمت الموافقة على التقرير السنوي لعام 2024، وتحديد رسوم جديدة لتراخيص البناء.",
+    "datum": "2025-06-11",
+    "kalla": "Alingsås kommun",
+    "kalla_url": "https://sammantradesportal.alingsas.se/committees/kommunfullmaktige/mote-2025-06-11",
+    "taggar": [
+      "alingsas",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_vard": 3,
+      "redovisning": 3,
+      "finansiering": 3,
+      "mark_bygglov": 5,
+      "ung": 3,
+      "hbtq": 3,
+      "bygger": 5,
+      "kronisk": 3,
+      "konsument": 3,
+      "idrott": 3,
+      "klimat": 3
     }
   },
   {
