@@ -292,7 +292,7 @@
   "kommunfullmaktige": {
     "etikett": "مجلس البلدية.",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "kommunpolitik": {
     "etikett": "سياسة البلديات.",
@@ -436,6 +436,11 @@
   },
   "malmo": {
     "etikett": "مالمو",
+    "typ": "plats",
+    "antal": 1
+  },
+  "norrtalje": {
+    "etikett": "نورتالجه.",
     "typ": "plats",
     "antal": 1
   }

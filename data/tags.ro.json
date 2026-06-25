@@ -292,7 +292,7 @@
   "kommunfullmaktige": {
     "etikett": "Consiliul municipal.",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "kommunpolitik": {
     "etikett": "Politica municipală.",
@@ -411,6 +411,11 @@
   },
   "malmo": {
     "etikett": "Malmö\n\n(Nu este necesară traducere, deoarece \"Malmö\" este un nume propriu.)",
+    "typ": "plats",
+    "antal": 1
+  },
+  "norrtalje": {
+    "etikett": "Norrtälje",
     "typ": "plats",
     "antal": 1
   }

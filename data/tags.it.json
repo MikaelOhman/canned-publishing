@@ -292,7 +292,7 @@
   "kommunfullmaktige": {
     "etikett": "Consiglio comunale.",
     "typ": "organisation",
-    "antal": 7
+    "antal": 8
   },
   "kommunpolitik": {
     "etikett": "Politica comunale.",
@@ -416,6 +416,11 @@
   },
   "malmo": {
     "etikett": "Malmö.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "norrtalje": {
+    "etikett": "Norrtälje",
     "typ": "plats",
     "antal": 1
   }

@@ -352,7 +352,7 @@
   "kommunfullmaktige": {
     "etikett": "Municipal council.",
     "typ": "organisation",
-    "antal": 7
+    "antal": 8
   },
   "kommunpolitik": {
     "etikett": "Municipal politics.",
@@ -496,6 +496,11 @@
   },
   "malmo": {
     "etikett": "Malmö\n\n(No further context was provided, so a simple translation of the name is all that's possible.)",
+    "typ": "plats",
+    "antal": 1
+  },
+  "norrtalje": {
+    "etikett": "Norrtälje.",
     "typ": "plats",
     "antal": 1
   }
