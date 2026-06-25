@@ -973,5 +973,15 @@
     "etikett": "Finspångs",
     "typ": "plats",
     "antal": 1
+  },
+  "flen": {
+    "etikett": "Flens",
+    "typ": "plats",
+    "antal": 1
+  },
+  "brottsforebyggande-beredningens": {
+    "etikett": "Brottsförebyggande beredningens",
+    "typ": "organisation",
+    "antal": 1
   }
 }

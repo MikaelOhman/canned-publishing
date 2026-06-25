@@ -873,5 +873,15 @@
     "etikett": "Finspångs",
     "typ": "plats",
     "antal": 1
+  },
+  "flen": {
+    "etikett": "Flens.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "brottsforebyggande-beredningens": {
+    "etikett": "A bűnmegelőző munkacsoport.",
+    "typ": "organisation",
+    "antal": 1
   }
 }
