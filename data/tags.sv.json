@@ -953,5 +953,15 @@
     "etikett": "NVE",
     "typ": "organisation",
     "antal": 1
+  },
+  "falkoping": {
+    "etikett": "Falköpings",
+    "typ": "plats",
+    "antal": 1
+  },
+  "barn-och-utbildningsnamnden": {
+    "etikett": "Barn och utbildningsnämnden",
+    "typ": "organisation",
+    "antal": 1
   }
 }

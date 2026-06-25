@@ -853,5 +853,15 @@
     "etikett": "NVE",
     "typ": "organisation",
     "antal": 1
+  },
+  "falkoping": {
+    "etikett": "Falköpings",
+    "typ": "plats",
+    "antal": 1
+  },
+  "barn-och-utbildningsnamnden": {
+    "etikett": "La comisión de asuntos relacionados con la infancia y la educación.",
+    "typ": "organisation",
+    "antal": 1
   }
 }
