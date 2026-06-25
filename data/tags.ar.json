@@ -517,7 +517,7 @@
   "kommunstyrelsens": {
     "etikett": "مجلس البلدية.",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "ukn": {
     "etikett": "غير معروف.",
@@ -727,6 +727,11 @@
   "it-namnden": {
     "etikett": "لجنة تكنولوجيا المعلومات.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "alvsbyn": {
+    "etikett": "مدينة إلفسبين.",
+    "typ": "plats",
     "antal": 1
   }
 }

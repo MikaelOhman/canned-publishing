@@ -492,7 +492,7 @@
   "kommunstyrelsens": {
     "etikett": "A városi önkormányzat bizottsága.",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "ukn": {
     "etikett": "Sajnálom, de nem tudom, hogy mit jelent a \"UKN\". Kérlek, adj több információt, hogy segíthessek.",
@@ -712,6 +712,11 @@
   "it-namnden": {
     "etikett": "Az IT bizottság.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "alvsbyn": {
+    "etikett": "Älvsbyns",
+    "typ": "plats",
     "antal": 1
   }
 }

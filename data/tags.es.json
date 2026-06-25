@@ -492,7 +492,7 @@
   "kommunstyrelsens": {
     "etikett": "Comisión Municipal.",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "ukn": {
     "etikett": "Desconocido.",
@@ -712,6 +712,11 @@
   "it-namnden": {
     "etikett": "Comité de Tecnología de la Información.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "alvsbyn": {
+    "etikett": "Älvsbyns",
+    "typ": "plats",
     "antal": 1
   }
 }

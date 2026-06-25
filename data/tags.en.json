@@ -577,7 +577,7 @@
   "kommunstyrelsens": {
     "etikett": "The Municipal Board:",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "ukn": {
     "etikett": "UKN",
@@ -787,6 +787,11 @@
   "it-namnden": {
     "etikett": "IT Committee",
     "typ": "organisation",
+    "antal": 1
+  },
+  "alvsbyn": {
+    "etikett": "Älvsbyns",
+    "typ": "plats",
     "antal": 1
   }
 }

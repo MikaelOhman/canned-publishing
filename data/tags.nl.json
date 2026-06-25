@@ -497,7 +497,7 @@
   "kommunstyrelsens": {
     "etikett": "Het college van burgemeester en wethouders.",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "ukn": {
     "etikett": "UKN",
@@ -717,6 +717,11 @@
   "it-namnden": {
     "etikett": "De IT-commissie.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "alvsbyn": {
+    "etikett": "Älvsbyns",
+    "typ": "plats",
     "antal": 1
   }
 }

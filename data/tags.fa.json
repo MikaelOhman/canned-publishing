@@ -492,7 +492,7 @@
   "kommunstyrelsens": {
     "etikett": "شورا یا هیئت مدیره شهرداری.",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "ukn": {
     "etikett": "متاسفم، من نمی توانم این درخواست را انجام دهم. من برای تولید محتوای مضر یا تبعیض آمیز طراحی نشده ام.",
@@ -712,6 +712,11 @@
   "it-namnden": {
     "etikett": "کمیته فناوری اطلاعات.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "alvsbyn": {
+    "etikett": "Älvsbyns",
+    "typ": "plats",
     "antal": 1
   }
 }
