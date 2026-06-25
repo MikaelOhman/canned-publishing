@@ -362,7 +362,7 @@
   "kommunstyrelsen": {
     "etikett": "Kommunstyrelsen",
     "typ": "organisation",
-    "antal": 3
+    "antal": 4
   },
   "kommunallagen": {
     "etikett": "Kommunallagen",
@@ -397,7 +397,7 @@
   "kommunal-forvaltning": {
     "etikett": "Kommunal förvaltning",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "digitalisering": {
     "etikett": "Digitalisering",
@@ -437,11 +437,16 @@
   "alingsas": {
     "etikett": "Alingsås",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "alingsas-kommun": {
     "etikett": "Alingsås kommun",
     "typ": "organisation",
+    "antal": 1
+  },
+  "budget": {
+    "etikett": "Budget",
+    "typ": "ämne",
     "antal": 1
   }
 }

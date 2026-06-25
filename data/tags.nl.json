@@ -312,12 +312,12 @@
   "kommunstyrelsen": {
     "etikett": "Het college van burgemeester en wethouders.",
     "typ": "organisation",
-    "antal": 2
+    "antal": 3
   },
   "kommunal-forvaltning": {
     "etikett": "Gemeentelijke administratie.",
     "typ": "ämne",
-    "antal": 2
+    "antal": 3
   },
   "karin-wanngard": {
     "etikett": "Karin Wanngård",
@@ -347,11 +347,16 @@
   "alingsas": {
     "etikett": "Alingsås",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "alingsas-kommun": {
     "etikett": "Gemeente Alingsås.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "budget": {
+    "etikett": "Budget.",
+    "typ": "ämne",
     "antal": 1
   }
 }

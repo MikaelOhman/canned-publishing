@@ -307,12 +307,12 @@
   "kommunstyrelsen": {
     "etikett": "مجلس البلدية.",
     "typ": "organisation",
-    "antal": 2
+    "antal": 3
   },
   "kommunal-forvaltning": {
     "etikett": "الإدارة المحلية.",
     "typ": "ämne",
-    "antal": 2
+    "antal": 3
   },
   "karin-wanngard": {
     "etikett": "كارين وانغارد.",
@@ -342,11 +342,16 @@
   "alingsas": {
     "etikett": "Alingsås",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "alingsas-kommun": {
     "etikett": "بلدية ألينغسو.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "budget": {
+    "etikett": "الميزانية.",
+    "typ": "ämne",
     "antal": 1
   }
 }

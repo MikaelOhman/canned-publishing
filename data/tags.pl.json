@@ -307,12 +307,12 @@
   "kommunstyrelsen": {
     "etikett": "Zarząd gminy.",
     "typ": "organisation",
-    "antal": 2
+    "antal": 3
   },
   "kommunal-forvaltning": {
     "etikett": "Zarządzanie samorządem lokalnym.",
     "typ": "ämne",
-    "antal": 2
+    "antal": 3
   },
   "karin-wanngard": {
     "etikett": "Karin Wanngård",
@@ -342,11 +342,16 @@
   "alingsas": {
     "etikett": "Alingsås.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "alingsas-kommun": {
     "etikett": "Gmina Alingsås.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "budget": {
+    "etikett": "Budżet",
+    "typ": "ämne",
     "antal": 1
   }
 }

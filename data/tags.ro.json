@@ -307,12 +307,12 @@
   "kommunstyrelsen": {
     "etikett": "Consiliul municipal.",
     "typ": "organisation",
-    "antal": 2
+    "antal": 3
   },
   "kommunal-forvaltning": {
     "etikett": "Administrația locală.",
     "typ": "ämne",
-    "antal": 2
+    "antal": 3
   },
   "karin-wanngard": {
     "etikett": "Karin Wanngård",
@@ -342,11 +342,16 @@
   "alingsas": {
     "etikett": "Alingsås",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "alingsas-kommun": {
     "etikett": "Comuna Alingsås.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "budget": {
+    "etikett": "Bugetul.",
+    "typ": "ämne",
     "antal": 1
   }
 }

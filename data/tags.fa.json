@@ -302,12 +302,12 @@
   "kommunstyrelsen": {
     "etikett": "شورای شهر.",
     "typ": "organisation",
-    "antal": 2
+    "antal": 3
   },
   "kommunal-forvaltning": {
     "etikett": "مدیریت شهری",
     "typ": "ämne",
-    "antal": 2
+    "antal": 3
   },
   "karin-wanngard": {
     "etikett": "کarin وانگارد",
@@ -342,11 +342,16 @@
   "alingsas": {
     "etikett": "Alingsås",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "alingsas-kommun": {
     "etikett": "شهرداری آلینگزو",
     "typ": "organisation",
+    "antal": 1
+  },
+  "budget": {
+    "etikett": "بودجه",
+    "typ": "ämne",
     "antal": 1
   }
 }
