@@ -15,12 +15,20 @@
   "tldr": "Rada miejska w Ånge podjęła szereg ważnych decyzji dotyczących finansów gminy i przyszłych planów. Wśród nich znajdują się decyzje dotyczące funduszy na nowy plac zabaw, drogi oraz podatków na rok 2027.",
   "lattlast": "<p>Podczas posiedzenia rady gminy w dniu 15 czerwca 2026 roku podjęto szereg decyzji dotyczących inwestycji finansowych. Gmina zamierza przeznaczyć środki na budowę nowego placu zabaw w Fränsta, a także na dodatkowe fundusze na poprawę dróg w roku 2026.</p><p>W kwestii przyszłych finansów, politycy debatowali nad podatkami na rok 2027. Przedstawiono również budżet na rok 2027 oraz długoterminowy plan gospodarczy, obejmujący lata do 2030. Jest to ważne, aby wiedzieć, z jakimi zasobami finansowymi dysponować będzie gmina w przyszłości.</p><p>Wiele różnych firm i organizacji, z którymi współpracuje gmina, przedstawiło swoje roczne sprawozdania finansowe. Oznacza to, że politycy przeanalizowali wyniki finansowe takich podmiotów, jak Ånge Energi AB, Ånge Fastighets- &amp; Industri AB oraz organizacji transportowej Kollektivtrafikmyndigheten w regionie Västernorrland.</p><p>Podjęto również decyzje dotyczące gruntów i umów. Gmina zamierza sprzedać grunt firmie Ellevio, a także zawarła umowę na rozbudowę centrum recyklingu w Hallsta. Ponadto podjęto decyzję w sprawie opłat za sprawy związane z pozwoleniami na budowę i kwestiami środowiskowymi.</p>",
   "relevans": {
-    "foretagare": 1,
-    "bostadsagare": 1,
-    "bil": 1,
-    "kollektiv": 1,
+    "b_industri": 1,
+    "b_bygg": 1,
+    "b_fastighet": 1,
+    "b_energi": 1,
+    "redovisning": 1,
+    "miljo": 1,
+    "mark_bygglov": 1,
+    "bygger": 1,
     "glesbygd": 1,
-    "storstad": 1,
-    "klimat": 2
+    "pendlare": 1,
+    "kollektiv": 1,
+    "energikund": 1,
+    "konsument": 1,
+    "klimat": 1,
+    "fortroendevald": 1
   }
 }

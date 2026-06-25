@@ -13,9 +13,14 @@
   "tldr": "La situación en Oriente Medio y los altos precios de la energía están generando incertidumbre para la economía europea. Para proteger la economía de los precios crecientes, se ha optado por aumentar ligeramente los tipos de interés.",
   "lattlast": "<p>Philip R. Lane, del del Banco Central Europeo, ha declarado que la guerra en Oriente Medio está teniendo un impacto negativo en la economía europea. Aunque existe un acuerdo de paz, la situación es incierta, lo que podría provocar que los precios de la energía sigan aumentando. Esto conlleva el riesgo de que los precios de bienes y servicios (inflación) aumenten más de lo deseado.</p><p>La economía de Europa, conocida como la eurozona, ha tenido dificultades para crecer durante los primeros meses del año. Esto se debe, en parte, a la contracción de la economía irlandesa. Al mismo tiempo, el mercado laboral sigue siendo fuerte, con un bajo nivel de desempleo, pero las empresas y las personas son más cautelosas con su dinero debido a los altos costos de la energía.</p><p>En cuanto a la inflación, actualmente se sitúa en el 3,2%, lo que es superior al objetivo del 2%. Existe el riesgo de que los precios de los alimentos y la energía se mantengan altos durante un período prolongado. Sin embargo, se espera que los salarios aumenten a un ritmo que fortalecerá el poder adquisitivo de las personas en los próximos años.</p><p>Para hacer frente a estos riesgos, se ha aplicado un aumento de la tasa de interés del 0,25% (lo que equivale a 25 puntos básicos) en junio. El objetivo de este aumento de la tasa de interés es frenar la subida de los precios y garantizar que la inflación se estabilice en el nivel deseado a largo plazo.</p>",
   "relevans": {
+    "arbetsgivare": 1,
+    "b_energi": 1,
+    "energiintensiv": 1,
     "lontagare": 1,
-    "foretagare": 1,
     "arbetssokande": 2,
-    "klimat": 1
+    "sparare": 1,
+    "lantagare": 1,
+    "energikund": 1,
+    "konsument": 2
   }
 }

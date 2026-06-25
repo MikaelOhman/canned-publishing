@@ -13,9 +13,12 @@
   "tldr": "A Burlöva önkormányzat szociális bizottsága jóváhagyta egy 2026 elejére készült pénzügyi jelentést. A jelentésből kiderül, hogy a 2026. január és április közötti időszakban több mint 650 000 svéd korona (SEK) összegű pozitív egyenleg, azaz többlet keletkezett.",
   "lattlast": "<p>A szociális bizottság felülvizsgálta a település gazdasági helyzetét 2026. január és április között. A bizottság jóváhagyta a jelentést, és továbbította azt a városi tanácsnak, amely a teljes település munkájának irányítását látja el.</p><p>A szociális bizottság jelenlegi gazdasági helyzete kedvező, 658 000 svéd koronás pozitív egyenleg mutatkozik. Ez elsősorban annak köszönhető, hogy kevesebb költséges elhelyezésre volt szükség gyermekek és családok számára, mint amit eredetileg vártak. Emellett a személyzeti költségek is alacsonyabbak voltak, mint a tervezett, mivel aktívan figyelték a személyzetet.</p><p>Ugyanakkor vannak olyan területek, ahol a gazdasági helyzet veszteséget mutat. A központi adminisztráció, amely a irodai munkát és a tervezést végzi, 1 000 000 + 156 000 svéd koronás mínuszt mutat. Ez részben annak köszönhető, hogy egy átalakítás zajlott, és a költségekkel és a költségvetéssel kapcsolatos kérdések még nem kerültek a megfelelő helyekre.</p><p>A gondozási és szociális szolgáltatások terén, amely magában foglalja többek között a szociálpszichiátriát és a speciális közlekedési szolgáltatásokat, 1 000 000 + 245 000 svéd koronás pozitív egyenleg van. A tevékenységi területek közül a legnagyobb pozitív egyenleg a szociálpszichiátriánál van, amely 1 100 000 svéd koronás többlettel rendelkezik.</p>",
   "relevans": {
-    "barn": 2,
-    "kollektiv": 1,
-    "halsa": 1,
+    "arbetsgivare": 1,
+    "b_vard": 1,
+    "b_konsult": 1,
+    "lokaler": 1,
+    "barn": 1,
+    "kronisk": 1,
     "funktion": 1
   }
 }

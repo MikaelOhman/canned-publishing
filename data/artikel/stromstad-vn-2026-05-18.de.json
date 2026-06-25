@@ -13,6 +13,11 @@
   "tldr": "Der Wahlvorstand von Strömstad hat sich auf die Wahl 2026 vorbereitet, indem er die Sicherheitsmaßnahmen, den Transport der Stimmen und die Zugänglichkeit der Wahllokale überprüft hat. Zwei Personen wurden speziell damit beauftragt, die Stimmen von Personen mit geschützten persönlichen Daten zu bearbeiten.",
   "lattlast": "<p>Der Wahlvorstand hat die Pläne für die bevorstehenden Wahlen geprüft. Dabei wurden Sicherheitsaspekte und der Transport der Stimmen zur Kreisverwaltung am Tag nach der Wahl, dem 14. September 2026, untersucht. Dies soll wie bei früheren Wahlen erfolgen.</p><p>Der Vorstand hat auch alle Wahllokale überprüft. Dabei wurde geprüft, ob die Räumlichkeiten sicher sind und ob sie auch für Personen mit eingeschränkter Mobilität oder Rollstuhlfahrer zugänglich sind. Alle Wahllokale in Strömstad erfüllen diese Anforderungen.</p><p>Um Personen zu schützen, die unter besonderem Schutz von persönlichen Daten stehen, hat der Vorstand zwei Personen ausgewählt: Jessica Corneliusson und Ulrika Haugland. Diese Personen haben eine spezielle Berechtigung im Wahlsystem erhalten, die als &quot;L-SKYAD&quot; bezeichnet wird. Dies bedeutet, dass sie befugt sind, Briefwahlunterlagen dieser Wähler sicher zu bearbeiten und zu registrieren.</p><p>Es gab auch Informationen zur Bedrohungslage im Vorfeld der Wahl sowie zu einem bevorstehenden Treffen mit den Revisoren, die die Einhaltung der Vorschriften durch die Gemeinde überprüfen. Der Vorstand hat außerdem Regeln zur Einstellung von Wahlhelfern und zu Beeinflussungsversuchen außerhalb der Wahllokale diskutiert.</p>",
   "relevans": {
-    "funktion": 1
+    "b_transport": 1,
+    "kompetens": 1,
+    "gdpr": 1,
+    "lokaler": 1,
+    "funktion": 1,
+    "integritet": 1
   }
 }

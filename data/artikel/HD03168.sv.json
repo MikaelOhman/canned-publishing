@@ -12,6 +12,9 @@
   "tldr": "Regeringen vill ändra reglerna för hur man utvinner och bearbetar kärnämnen som uran. Målet är att säkerhetskraven ska passa de faktiska riskerna och att arbetet ska likna gruvdrift för andra metaller.",
   "lattlast": "<p>Regeringen har lagt fram ett förslag om att ändra lagen om kärnteknisk verksamhet. Just nu räknas platser där man utvinner och bearbetar kärnämnen som kärntekniska anläggningar. Det nya förslaget innebär att dessa platser istället ska ses som en del av kärnteknisk verksamhet, men inte som själva kärntekniska anläggningarna.</p><p>Syftet med ändringen är att reglerna för strålskydd och säkerhet ska bli mer passande för de risker som finns vid just denna typ av arbete. Genom detta förslag kommer utvinning och bearbetning av uran att behandlas på ett liknande sätt som andra metaller och mineraler när man söker tillstånd för att få starta.</p><p>Förslaget innebär också ändringar i andra lagar. Man vill att lagen om ansvar och ersättning vid radiologiska olyckor inte ska gälla för olyckor vid just utvinning och bearbetning av kärnämnen. Dessutom ska avfall från denna typ av arbete inte längre räknas som en restprodukt enligt lagen om finansiering av kärntekniska restprodukter.</p><p>Om riksdagen röstar ja till förslaget kommer de nya reglerna att börja gälla den 15 juli 2026.</p>",
   "relevans": {
-    "kollektiv": 1
+    "b_bygg": 1,
+    "b_finans": 1,
+    "tillstand": 1,
+    "miljo": 1
   }
 }

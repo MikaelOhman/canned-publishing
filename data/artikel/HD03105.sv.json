@@ -12,6 +12,7 @@
   "tldr": "Regeringen vill ändra lagen för att hindra att viktiga fastigheter säljs till personer eller företag som kan skada Sveriges säkerhet. Från juli 2026 måste kontroller göras innan viktiga byggnader eller mark byter ägare.",
   "lattlast": "<p>Regeringen har lagt fram ett förslag om att ändra säkerhetsskyddslagen. Syftet är att stärka Sveriges säkerhet genom att kontrollera vem som köper viktiga fastigheter, som till exempel byggnader eller mark som är viktiga för landets skydd.</p><p>Om man äger en verksamhet som är viktig för Sveriges säkerhet och vill sälja en fastighet, måste man göra en särskild undersökning först. Man måste kontrollera att den nya ägaren är lämplig och prata med den myndighet som kontrollerar säkerheten. Denna myndighet kan även säga nej till en försäljning om den anses vara farlig för landet.</p><p>Förslaget gäller även när man ändrar på hur mark är uppdelad genom så kallad fastighetsbildning. Det betyder att reglerna gäller även när man skapar nya tomter eller ändrar gränser på marken på ett sätt som ändrar vem som äger vad.</p><p>Om förslaget blir verklighet kommer de nya reglerna att börja gälla den 1 juli 2026. Regeringen kan i vissa speciella fall bestämma att det finns undantag från dessa regler.</p>",
   "relevans": {
-    "foretagare": 1
+    "b_bygg": 1,
+    "b_fastighet": 1
   }
 }

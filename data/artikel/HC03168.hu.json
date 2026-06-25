@@ -15,7 +15,9 @@
   ],
   "html": "<p>- A javaslat szerint a szélerőművekre kivetett ingatlanadó 0,2%-ról 0,5%-ra emelkedne a becsült értékhez képest. Az ingatlanadót olyan ingatlanokra kell fizetni, amelyeket az ingatlan-becslés során elektromos energia termelő egységként jelölnek. Az olyan elektromos energia termelő egységekre, amelyek szélerőművel rendelkező ingatlan-egységekből állnak, 0,2%-os ingatlanadót kell fizetni a becsült értékhez képest. A többi elektromos energia termelő egységre 0,5%-os ingatlanadót kell fizetni a becsült értékhez képest. A javaslat azt jelenti, hogy az adókulcs minden elektromos energia termelő egységre egységes lesz.</p><p>A törvénymódosítás 2026. január 1-jén lépne hatályba.</p>",
   "relevans": {
+    "b_fastighet": 3,
+    "b_energi": 3,
     "bostadsagare": 3,
-    "klimat": 1
+    "energikund": 1
   }
 }

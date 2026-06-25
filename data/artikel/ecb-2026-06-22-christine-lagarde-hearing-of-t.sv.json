@@ -13,7 +13,10 @@
   "tldr": "Europas centralbank (ECB) höjer räntan för att stoppa stigande priser. Detta görs för att skydda ekonomin efter kriget i Mellanöstern som har gjort energi dyrare.",
   "lattlast": "<p>Christine Lagarde, chef för den europeiska centralbanken ECB, berättar om den ekonomiska situationen i Europa. Efter att ett krig bröt ut i Mellöstern har priserna på energi stigit, vilket har gjort att inflationen – alltså hur mycket priserna ökar – har gått upp till 3,2 procent i maj.</p><p>För att motverka detta har ECB beslutat att höja räntan med 0,25 procentenheter. En räntehöjning gör det dyrare att låna pengar, vilket hjälper till att hålla nere prisökningarna. ECB vill att inflationen på lång sikt ska ligga på en stabil nivå på 2 procent.</p><p>Ekonomin i Europa växer fortfarande, men det går långsammare än man hoppats. Kriget har gjort att människor är mer osäkra på framtiden och att det blivit dyrare att leva. Samtidigt är företagens ekonomi och hushållens pengar fortfarande i ett ganska stabilt läge.</p><p>Framtiden är fortfarande osäker på grund av kriget och risker för höga energipriser. ECB kommer därför att fortsätta titta noga på ny information och fatta nya beslut vid varje möte. De har inte bestämt om räntan ska höjas eller sänkas mer i framtiden, utan gör det steg för steg baserat på hur ekonomin utvecklas.</p>",
   "relevans": {
-    "foretagare": 1,
-    "klimat": 1
+    "b_energi": 1,
+    "sparare": 1,
+    "lantagare": 1,
+    "energikund": 1,
+    "konsument": 2
   }
 }

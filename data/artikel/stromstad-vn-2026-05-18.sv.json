@@ -13,6 +13,11 @@
   "tldr": "Valnämnden i Strömstad har förberett inför valet 2026 genom att se över säkerhet, transport av röster och tillgänglighet i vallokalerna. Två personer har fått särskilt ansvar för att hantera röster från personer med skyddade personuppgifter.",
   "lattlast": "<p>Valnämnden har gått igenom planerna för det kommande valet. De har tittat på hur säkerheten ser ut och hur rösterna ska transporteras till länsstyrelsen dagen efter valet den 14 september 2026. Det kommer att ske på samma sätt som vid tidigare val.</p><p>Nämnden har också kontrollerat alla vallokaler. De har tittat på om lokalerna är säkra och om det går att ta sig in i dem även om man har svårt att gå eller använder rullstol. Alla lokaler i Strömstad uppfyller kraven för detta.</p><p>För att skydda personer som har skyddade personuppgifter har nämnden valt ut två personer, Jessica Corneliusson och Ulrika Haugland. De har fått en speciell behörighet i valsystemet som kallas L-SKYAD. Det betyder att de har rätt att hantera och registrera förtidsröster för dessa väljare på ett säkert sätt.</p><p>Det fanns även information om hotbilden inför valet och om ett kommande möte med revisorerna, som är de som kontrollerar att kommunen gör sitt jobb rätt. Nämnden har också diskuterat regler kring rekrytering av valförrättare och påverkan utanför vallokalerna.</p>",
   "relevans": {
-    "funktion": 1
+    "b_transport": 1,
+    "kompetens": 1,
+    "gdpr": 1,
+    "lokaler": 1,
+    "funktion": 1,
+    "integritet": 1
   }
 }

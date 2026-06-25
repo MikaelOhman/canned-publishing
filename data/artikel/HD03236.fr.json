@@ -12,7 +12,11 @@
   "tldr": "En raison de la forte augmentation des prix des carburants et de l'électricité, le gouvernement réduit la taxe énergétique : 82 centimes par litre pour l'essence et 319 couronnes par mètre cube pour le diesel (ce qui ramène les prix au niveau minimum européen), et propose un soutien aux prix de l'électricité et du gaz pour les ménages. Il s'agit d'une modification supplémentaire du budget de 2026.",
   "lattlast": "<p>Le gouvernement propose des modifications au budget de l&#x27;État pour 2026. Ces changements sont motivés par les prix élevés des carburants, liés au conflit au Moyen-Orient, ainsi que par les prix élevés de l&#x27;électricité et le froid intense, qui rendent le chauffage coûteux pour les ménages.</p><p>La taxe sur les carburants, à savoir l&#x27;essence (réduction de 82 centimes par litre) et le diesel (réduction de 319 couronnes par mètre cube), est abaissée pour la classe environnementale 1 jusqu&#x27;au niveau minimum autorisé par l&#x27;UE.</p><p>La proposition comprend également des aides pour les prix de l&#x27;électricité et du gaz afin d&#x27;alléger les charges financières des ménages.</p>",
   "relevans": {
+    "b_energi": 1,
+    "punktskatt": 1,
+    "energiintensiv": 1,
     "bil": 2,
-    "klimat": 3
+    "energikund": 3,
+    "klimat": 1
   }
 }

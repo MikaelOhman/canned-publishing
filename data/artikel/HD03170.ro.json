@@ -12,7 +12,10 @@
   "tldr": "Guvernul dorește să modifice modul în care este calculată subvenția pentru locuințe, pentru a reduce riscul ca oamenii să primească sume incorecte și să fie nevoiți să le returneze ulterior. Propunerea presupune luarea în considerare a veniturilor pe o bază lunară, în loc de una anuală.",
   "lattlast": "<p>Guvernul a propus o modificare menită să facă alocația pentru locuințe mai echitabilă. Scopul este ca un număr mai mic de persoane să primească sume prea mari, ceea ce duce adesea la datorii atunci când autoritățile solicită restituirea banilor.</p><p>Noul sistem implică calcularea alocației pe baza veniturilor obținute lunar. Se analizează veniturile obținute din muncă în primele trei luni dintr-o perioadă de patru luni. Acest lucru se face utilizând informații furnizate de angajatori către stat.</p><p>Dacă o persoană are venituri din propria afacere sau dacă este dificil de obținut informații despre veniturile lunare, se va continua utilizarea sistemului vechi, care calculează alocația pe baza întregului an. Veniturile provenite din depozite bancare sau alte active sunt, în continuare, calculate pe baza anului precedent, deoarece aceste informații nu pot fi modificate lunar.</p><p>Dacă venitul unei persoane se modifică în timpul anului, alocația pentru locuințe va fi recalculată imediat. Dacă propunerea este adoptată, noile reguli vor intra în vigoare începând cu 1 ianuarie 2027.</p>",
   "relevans": {
-    "foretagare": 1,
-    "hyresgast": 3
+    "arbetsgivare": 1,
+    "b_finans": 1,
+    "ensam_foralder": 3,
+    "hyresgast": 3,
+    "lantagare": 1
   }
 }

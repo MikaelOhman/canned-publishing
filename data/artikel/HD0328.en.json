@@ -12,6 +12,7 @@
   "tldr": "Sweden is introducing a new law to protect critical digital systems from cyberattacks. The law will enhance the security of society by requiring improved protection and reporting of IT security incidents.",
   "lattlast": "<p>The government proposes a new law on cybersecurity. The proposal originates from a decision made by the EU in 2022 and is called the NIS 2 Directive. The purpose is to create a higher and more unified level of security against digital threats throughout Europe.</p><p>According to the new law, those who operate critical services, both government and private companies, must take measures to protect their networks and computer systems. If something serious happens, such as a major cyberattack, they must also report this to the authorities. It will also become easier for authorities to monitor compliance with the rules and to penalize those who do not fulfill their responsibilities.</p><p>The proposal also includes changes to other laws related to internet addresses, communication, and regulations for classified information. These changes are part of a broader effort to strengthen security in Sweden.</p><p>If the Parliament votes in favor of the proposal, the new law and the other changes are planned to come into effect on January 15, 2026.</p>",
   "relevans": {
-    "foretagare": 1
+    "b_it": 1,
+    "gdpr": 3
   }
 }

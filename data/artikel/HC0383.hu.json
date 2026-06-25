@@ -12,7 +12,13 @@
   "tldr": "A kormány szeretné módosítani a törvényeket az energia, a dohánytermékek és az alkohol adózása terén, úgy, hogy a fontos engedélyek és jogok átkerüljenek a felszámolás alatt álló vállalkozás vagyonába. Ez a szabályozás bizonyos szabályokra vonatkozik a vegyi anyagokra vonatkozó adózás terén is, különösen az elektronikában.",
   "lattlast": "<p>Amikor egy cég csődbe megy, egy csődeli vagyon keletkezik, amelynek feladata a cég fennmaradt értékeinek kezelése. A kormány most új szabályokat javasol, amelyek értelmében bizonyos engedélyek és jóváhagyások a csődeli vagyonhoz tartoznak. Ez az engedélyekre vonatkozik, amelyek lehetővé teszik az energia, a dohány- és az alkoholtermékek vámmentes továbbítását.</p><p>A változás kiterjed a jogra, hogy egy cég visszakaphassa a fizetett áramadót. Ha egy olyan cég, amely jogosult az áramadó visszafizetésére, csődbe megy, ez a jog továbbra is a csődeli vagyonhoz tartozik. Hasonlóképpen, a dohány- és alkoholtermékek vámmentes továbbításához szükséges engedélyeket is át kell helyezni a csődeli vagyonhoz, amennyiben a cég bejegyzett szállítóként működik.</p><p>A javaslat új szabályokat is tartalmaz arra vonatkozóan, hogyan lehet módosítani vagy kifogást emelni a bizonyos elektronikai termékekben található vegyi anyagokra vonatkozó adóvisszatérítési döntésekkel kapcsolatban. A cél az, hogy egyértelművé tegyük, hogy mi történik ezekkel az adószabályokkal, amikor egy cég nem képes többé a tartozásainak rendezésére.</p><p>Ha a parlament elfogadja a javaslatot, az új szabályok 2025. július 1-jén lépnek életbe. Ez azt jelenti, hogy az energia, a dohány, az alkohol és az elektronikai termékekre vonatkozó adószabályok előre láthatóbbak lesznek egy csőd esetén.</p>",
   "relevans": {
-    "foretagare": 3,
-    "klimat": 1
+    "b_energi": 1,
+    "punktskatt": 3,
+    "konkurs": 3,
+    "tillstand": 1,
+    "miljo": 1,
+    "beroende": 1,
+    "lantagare": 1,
+    "energikund": 1
   }
 }

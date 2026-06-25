@@ -12,8 +12,10 @@
   "tldr": "Guvernul dorește să modifice regulile privind controlul cercetărilor efectuate pe oameni, pentru a simplifica procesul. Anumite cercetări care implică date personale sensibile nu vor mai necesita o aprobare formală, dar cercetătorul trebuie să se asigure personal că regulile sunt respectate.",
   "lattlast": "<p>Guvernul a prezentat o propunere de modificare a legii privind evaluarea etică a cercetării. Scopul este de a face controlul cercetărilor care implică persoane mai eficient și mai clar. Propunerea include, printre altele, faptul că anumite tipuri de cercetare nu vor mai trebui să solicite o aprobare specială dacă acestea gestionează date personale sensibile sau informații despre infracțiuni.</p><p>Persoana care conduce cercetarea, numită &quot;responsabil de cercetare&quot;, va fi responsabilă să evalueze dacă cercetarea se încadrează în noile excepții. De asemenea, va exista posibilitatea de a solicita o verificare voluntară, dacă se dorește o siguranță absolută că totul decurge corect.</p><p>Modificări vor fi aduse și procesului de verificare a respectării regulilor. Comisia de apel pentru evaluarea etică, numită &quot;Önep&quot;, va primi mai multe puteri pentru a se pronunța cu privire la cazurile în care cercetarea a fost efectuată incorect. Comisia va putea, de asemenea, să ofere îndrumări pentru a asigura aplicarea uniformă a regulilor în întreaga țară. Deciziile privind cercetarea nu vor mai putea fi contestate, iar comisia nu va mai fi obligată să raporteze suspiciuni de infracțiuni către poliție.</p><p>Dacă propunerea este adoptată, noile reguli vor intra în vigoare la 1 iulie 2027. Propunerea include, de asemenea, modificări ale legilor care reglementează modul în care datele personale sunt gestionate de agenții guvernamentale, cum ar fi IFAU și Inspektionen för socialförsäkringen.</p>",
   "relevans": {
-    "bil": 1,
-    "kollektiv": 1,
-    "glesbygd": 1
+    "gdpr": 1,
+    "fou": 3,
+    "glesbygd": 1,
+    "otrygg": 1,
+    "integritet": 1
   }
 }

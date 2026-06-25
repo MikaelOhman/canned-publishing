@@ -12,8 +12,12 @@
   "tldr": "A kormány szeretné egyszerűbbé és olcsóbbá tenni a házak felújítását, a törvények módosításával. A javaslat szerint nem szükséges az egész házat felújítani, ha csak egy részét változtatják meg.",
   "lattlast": "<p>A kormány javaslatot terjesztett be a településrendezési és építési törvény szabályainak módosítására, amely törvény szabályozza, hogyan lehet épületeket építeni és átalakítani Svédországban. A cél az, hogy a &quot;felújítás&quot; szót a &quot;jelentős építési átalakítás&quot; kifejezéssel helyettesítsék, hogy egyértelműbb legyen, hogy mely szabályok vonatkoznak egy épület átalakításakor.</p><p>Ha egy épület egy részén jelentős változtatást végeznek, akkor csak az adott részre vonatkozó új szabályokat kell követni. Korábban előfordult, hogy az egész épületre is alkalmazni kellett az új szabályokat, de most ezt szeretnék korlátozni. Csak akkor lehet az egész épületre vonatkozó változtatásokat követelni, ha jelentős kockázat áll fenn az emberek egészsége vagy biztonsága szempontjából, vagy ha fontos rendszerekről van szó, például villamosenergia, fűtés és internet.</p><p>Az akadálymentességi szabályok betartása is egyszerűbb lesz. Ez azt jelenti, hogy könnyebbé kell tenni az épületek átalakítását, hogy azok a mozgási vagy tájékozódási nehézségekkel küzdő emberek számára is használhatóak legyenek.</p><p>Ha a parlament megszavazza a javaslatot, az új szabályok 2027. január 1-jén lépnek életbe. A javaslat más törvényeket is érint, amelyek az épületek energiafelhasználásának nyomon követésével és energiafelhasználási igazolásával foglalkoznak.</p>",
   "relevans": {
+    "b_bygg": 3,
+    "b_energi": 1,
+    "infrastruktur": 1,
     "glesbygd": 1,
-    "klimat": 1,
-    "funktion": 1
+    "funktion": 1,
+    "energikund": 1,
+    "bredbandsberoende": 1
   }
 }

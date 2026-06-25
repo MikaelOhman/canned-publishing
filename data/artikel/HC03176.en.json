@@ -12,6 +12,9 @@
   "tldr": "Sweden will be amending its laws to comply with new EU regulations regarding a common visa system. This will involve storing and sharing more information about visas and residence permits between EU countries.",
   "lattlast": "<p>VIS is a joint system within the EU used to share information about visas for short trips. The rules are now being changed so that the system will also include information about longer visas and residence permits. This is being done to improve cooperation between countries in the EU.</p><p>The Swedish government has proposed new laws in Sweden to make this possible. An important part of this is to make it clearer when individuals applying for a visa are required to provide fingerprints and have their photo taken. This is necessary for authorities to verify the information in the system.</p><p>The proposal also addresses how personal data should be handled and protected. There are new rules about how the police and other authorities can use the information in the system. The purpose is to make it easier for the police to use the information to combat crime.</p><p>The new laws will amend several different laws, such as the Immigration Act and laws regarding how the police can use personal data. The new rules will come into effect on a date determined by the EU Commission or the Swedish government.</p>",
   "relevans": {
-    "ny_i_sverige": 1
+    "gdpr": 1,
+    "ny_i_sverige": 1,
+    "otrygg": 1,
+    "integritet": 1
   }
 }

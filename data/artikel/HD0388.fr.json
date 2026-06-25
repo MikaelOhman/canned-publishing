@@ -12,6 +12,10 @@
   "tldr": "Le gouvernement souhaite modifier les lois régissant la manière dont l'Agence fiscale (Skatteverket), les Douanes (Tullverket) et l'Office des recouvrements (Kronofogden) traitent les données personnelles. L'objectif est de permettre aux administrations d'utiliser les technologies modernes pour contrôler plus efficacement les droits et les impôts, tout en préservant la protection de votre vie privée.",
   "lattlast": "<p>Le gouvernement a présenté une proposition visant à remplacer les anciennes règles relatives au traitement des données personnelles au sein de trois grandes administrations : l&#x27;administration fiscale (Skatteverket), les douanes (Tullverket) et l&#x27;agence de recouvrement des créances (Kronofogdemyndigheten). Les nouvelles lois devraient permettre aux administrations d&#x27;utiliser l&#x27;information de manière plus moderne, adaptée aux technologies actuelles.</p><p>La proposition prévoit également que les administrations disposent de pouvoirs plus clairs pour utiliser l&#x27;analyse de données. Cela signifie qu&#x27;elles pourront utiliser des programmes informatiques pour rechercher des schémas et effectuer des sélections dans leurs registres. Cela devrait les aider à travailler plus efficacement lors de leurs contrôles, par exemple lorsqu&#x27;elles recherchent des erreurs dans les impôts ou les droits de douane.</p><p>Bien que les administrations disposent de nouveaux outils, l&#x27;objectif est de protéger la vie privée des citoyens. Les nouvelles lois doivent être conformes aux règles de protection des données de l&#x27;UE, appelées RGPD (GDPR), afin de garantir que les données personnelles ne sont pas utilisées de manière inappropriée. Ces lois doivent protéger les individus contre toute atteinte à leur vie privée.</p><p>Si le Parlement vote en faveur de la proposition, les nouvelles règles entreront en vigueur le 2 avril 2026. La proposition comprend également de nombreuses modifications mineures dans d&#x27;autres lois, concernant tout, de la taxe sur l&#x27;alcool et le tabac aux règles d&#x27;enregistrement de la population et aux aides aux études.</p>",
   "relevans": {
-    "student": 1
+    "gdpr": 3,
+    "import": 3,
+    "beroende": 1,
+    "skuldsatt": 1,
+    "integritet": 2
   }
 }

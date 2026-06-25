@@ -12,8 +12,9 @@
   "tldr": "A kormány szeretné megváltoztatni a szociális támogatások szabályait annak érdekében, hogy több ember kerüljön munkába. Javaslatot tesznek egy felső korlátra a kapható támogatás összegére, valamint szigorúbb feltételekre a betegség esetén igényelhető támogatáshoz.",
   "lattlast": "<p>A kormány célja, hogy a munkába állás vonzóbb legyen, ezért bevezet egy támogatási plafont. Ez azt jelenti, hogy a támogatás nem lehet olyan magas, hogy a munkavégzés ne lenne érdemes. Emellett a kormány szeretné megváltoztatni azt a módszert, amellyel kiszámítják, hogy egy háztartásnak mennyi pénzre van szüksége az alapvető szükségleteihez.</p><p>Azok számára, akik betegség miatt nem tudnak dolgozni, új orvosi igazolások lesznek szükségesek. A szociális bizottság, amely a településen a pénzügyi támogatásokért felelős szerv, követelheti, hogy a betegek részt vegyenek olyan programokban, amelyek célja a visszatérés a munka világába. Több hatóság együtt fog dolgozni egy személyre szabott terv kidolgozásán azok számára, akiknek támogatásra van szükségük.</p><p>Nehezebb lesz pénzt kapni a bérleti díjhoz, ha valaki egy másodsorban bérelt lakásban él. Ebben az esetben igazolni kell, hogy a lakás bérlése engedélyezett. Ezenkívül a kormány javasolja, hogy csak azok kapjanak pénzügyi támogatást, akiknek legálisan van joga lakni Svédországban.</p><p>Az új szabályok, amelyek az orvosi igazolásokra vonatkoznak, várhatóan 2026. július 1-jén lépnek életbe. A többi jogszabályi módosítás várhatóan 2027. január 1-jén lép érvénybe.</p>",
   "relevans": {
+    "tillstand": 1,
     "lontagare": 1,
-    "hyresgast": 1,
-    "kollektiv": 1
+    "bidrag": 3,
+    "hyresgast": 1
   }
 }

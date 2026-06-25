@@ -12,6 +12,10 @@
   "tldr": "Die Regierung plant, die Gesetze zu ändern, die regeln, wie die Steuerbehörde (Skatteverket), die Zollbehörde (Tullverket) und das Inkassobüro (Kronofogden) personenbezogene Daten verarbeiten. Ziel ist es, dass die Behörden moderne Technologien nutzen können, um Rechte und Steuern effektiver zu kontrollieren, während gleichzeitig Ihr persönlicher Schutz gewährleistet bleibt.",
   "lattlast": "<p>Die Regierung hat einen Vorschlag vorgelegt, die alten Regeln für die Verarbeitung personenbezogener Daten bei drei großen Behörden zu ändern. Dies betrifft das Finanzamt (Skatteverket), das Zollamt (Tullverket) und die Vollstreckungsbehörde (Kronofogdemyndigheten). Die neuen Gesetze sollen es den Behörden ermöglichen, Informationen auf eine modernere Weise zu nutzen, die den heutigen Technologien entspricht.</p><p>Der Vorschlag sieht auch vor, dass die Behörden klarere Rechte bei der Verwendung von Datenanalysen erhalten. Das bedeutet, dass sie Computerprogramme verwenden dürfen, um nach Mustern zu suchen und Auswahlen in ihren Registern vorzunehmen. Dies soll ihnen helfen, ihre Kontrollen effizienter durchzuführen, beispielsweise bei der Suche nach Fehlern in Steuer- oder Zollabgaben.</p><p>Obwohl die Behörden neue Werkzeuge erhalten, ist das Ziel, die Privatsphäre der Menschen zu schützen. Die neuen Gesetze sollen in Verbindung mit den Datenschutzbestimmungen der Europäischen Union, die als DSGVO (GDPR) bezeichnet werden, funktionieren, um sicherzustellen, dass personenbezogene Daten nicht missbraucht werden. Die Gesetze sollen den Einzelnen vor Verletzungen ihrer persönlichen Privatsphäre schützen.</p><p>Wenn das Parlament dem Vorschlag zustimmt, treten die neuen Regeln am 2. April 2026 in Kraft. Der Vorschlag enthält auch viele kleinere Änderungen in anderen Gesetzen, die sich auf alles von der Besteuerung von Alkohol und Tabak bis hin zu den Regeln für die Bevölkerungsregistrierung und die Studienfinanzierung erstrecken.</p>",
   "relevans": {
-    "student": 1
+    "gdpr": 3,
+    "import": 3,
+    "beroende": 1,
+    "skuldsatt": 1,
+    "integritet": 2
   }
 }

@@ -12,6 +12,9 @@
   "tldr": "A kormány egy új törvény bevezetésére törekszik, amelynek célja a szociális szolgáltatásokról való információgyűjtés. A cél az, hogy a Szociális Bizottság (Socialstyrelsen) felhasználhassa az adatokat a rászorulók számára nyújtott segítség javítására, miközben védelmet nyújt az emberek személyes adataival kapcsolatban.",
   "lattlast": "<p>A kormány egy új törvénytervezetet terjesztett elő, amelynek a neve &quot;szociális adatrejiszter törvény&quot;. Ez a törvény segíteni fogja a Szociális Bizottságot (Socialstyrelsen) abban, hogy megfelelően kezelje a személyes adatokat. Az összegyűjtött információk segítségével többet lehet megtudni a szociális szolgáltatások működéséről, és arról, hogyan lehet javítani az emberek számára nyújtott támogatást.</p><p>A javaslat azt is tartalmazza, hogy azoknak, akik a szociális szektorban dolgoznak, és akik a fogyatékkal élő személyeknek nyújtott támogatást végzik, kötelezően kell átadniuk a szükséges információkat a Szociális Bizottságnak. Ez azt jelenti, hogy azok a szervezetek, amelyek a szociális szolgáltatásokról és a fogyatékkal élő személyek támogatásáról szóló törvények alapján nyújtanak szolgáltatásokat, kötelesek adatokat küldeni az új regiszterbe.</p><p>Fontos megjegyezni, hogy a törvény tartalmaz szabályokat az emberek magánéletének védelmére is. Ez azt jelenti, hogy óvatosnak kell lenni, hogy a személyes adatok ne kerüljenek olyan felhasználásra, amely megsérti a magánéletet. A cél egy biztonságos adatkezelési rendszer létrehozása.</p><p>Ha a javaslatot elfogadják, az új törvény 2026. augusztus 1-jén lép hatályba. Az a szabály, hogy a szervezeteknek adatokat kell átadniuk, egy évvel később, 2027. augusztus 1-jén lép hatályba. Emellett egy olyan módosítás is van, amely a díjakra vonatkozik, és amelynek a hatályba lépése 2026. június 1-jénre tervezett.</p>",
   "relevans": {
-    "funktion": 1
+    "gdpr": 1,
+    "funktion": 1,
+    "konsument": 1,
+    "integritet": 2
   }
 }

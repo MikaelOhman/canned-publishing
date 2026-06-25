@@ -12,7 +12,15 @@
   "tldr": "Regeringen vill göra det enklare för myndigheter att dela med sig av skattefritt bränsle vid kriser och räddningsinsatser. Förslaget handlar också om att reglerna för skatt på bland annat tobak, alkohol och elektronik ska bli tydligare.",
   "lattlast": "<p>Regeringen föreslår nya regler för hur skattefritt bränsle för flyg och båtar ska hanteras. Målet är att det ska gå smidigare för myndigheter som Polisen, Försvarsmakten och Kustbevakningen att samarbeta. Det ska bli lättare för dessa myndigheter att ge bränsle till varandra, särskilt när det behövs vid räddningsinsatser eller i krissituationer.</p><p>Förslaget innehåller även regler om hur skatt ska betalas tillbaka till militära styrkor från andra länder som är med i Nato. Detta gäller flera olika typer av skatter, till exempel skatt på energi, kemikalier i elektronik, nikotinprodukter, tobak och alkohol.</p><p>Utöver detta vill regeringen förtydliga reglerna för hur myndigheterna ska kontrollera och hantera skatter. Det handlar om att göra reglerna i lagarna tydligare för alla som är involverade. Om riksdagen röstar ja till förslaget börjar de nya reglerna gälla den 1 april 2026.</p>",
   "relevans": {
-    "bil": 3,
-    "klimat": 1
+    "b_transport": 1,
+    "b_energi": 1,
+    "punktskatt": 3,
+    "miljo": 1,
+    "flygresenar": 1,
+    "beroende": 1,
+    "energikund": 1,
+    "batagare": 1,
+    "otrygg": 1,
+    "varnpliktig": 1
   }
 }

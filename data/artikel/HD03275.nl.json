@@ -12,11 +12,16 @@
   "tldr": "De regering stelt nieuwe middelen voor in het begrotingsvoorstel voor 2026 om Oekraïne te helpen met militaire uitrusting, en om Zweedse huishoudens en bedrijven te ondersteunen bij hoge energie- en brandstofprijzen.",
   "lattlast": "<p>De regering wil meer militaire uitrusting naar Oekraïne sturen vanwege de oorlog. Dit omvat onder meer de levering van Gripen-gevechtsvliegtuigen en uitrusting voor de marine. De regering wil ook graag meer moderne Gripen-vliegtuigen aan Oekraïne verkopen om hun verdediging te versterken.</p><p>Om mensen en bedrijven in Zweden te helpen, stelt de regering voor de belasting op benzine en diesel te verlagen gedurende een deel van 2026. Dit wordt gedaan om de hoge brandstofprijzen te beheersen, die het gevolg zijn van de oorlog in het Midden-Oosten. Er zijn ook voorstellen om steun te verlenen aan de landbouwsector en de luchtvaartindustrie.</p><p>Om particulieren te helpen, wil de regering meer geld beschikbaar stellen voor energieondersteuning. Dit moet helpen om de kosten van elektriciteit en gas te verlagen. Er zijn ook plannen voor een zogenaamd &quot;hoogkostendek&quot;, wat betekent dat er een maximum zal zijn aan de prijzen van elektriciteit en gas.</p><p>Tenslotte stelt de regering voor dat er meer geld naar het openbaar vervoer gaat om te helpen de prijzen voor reizigers laag te houden. Met deze wijzigingen in het budget wil de staat de onzekere tijden en de hoge kosten aanpakken die zijn ontstaan door de oorlogen in Oekraïne en het Midden-Oosten.</p>",
   "relevans": {
-    "foretagare": 1,
-    "bil": 3,
+    "b_transport": 1,
+    "b_grona": 1,
+    "b_energi": 1,
+    "pendlare": 1,
+    "bil": 2,
     "kollektiv": 1,
-    "storstad": 1,
-    "klimat": 1,
-    "halsa": 1
+    "flygresenar": 1,
+    "kronisk": 1,
+    "energikund": 2,
+    "konsument": 1,
+    "varnpliktig": 1
   }
 }

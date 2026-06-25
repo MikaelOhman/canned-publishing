@@ -12,8 +12,10 @@
   "tldr": "A kormány szeretné módosítani azokat a szabályokat, amelyek szerint a humán vizsgálatok zajlanak, hogy a folyamat gördülékenyebbé váljon. Bizonyos, érzékeny személyes adatok kezelését igénylő kutatások esetében a formális jóváhagyás már nem lesz szükséges, azonban a kutatóknak saját felelősségükre kell ellenőrizniük, hogy a szabályok betartásra kerüljenek.",
   "lattlast": "<p>A kormány egy javaslatot terjesztett be a kutatások etikai felülvizsgálatát szabályozó törvény módosítására. A cél az, hogy a személyekkel kapcsolatos kutatások ellenőrzését hatékonyabbá és átláthatóbbá tegyék. A javaslat többek között azt is tartalmazza, hogy bizonyos típusú kutatásoknak nem kell többé külön engedélyt kérniük, amennyiben érzékeny személyes adatokat vagy bűncselekményekkel kapcsolatos adatokat kezelnek.</p><p>A kutatás vezetője, az úgynevezett &quot;kutatási vezető&quot;, maga felel a kutatás értékeléséért, és annak megállapításáért, hogy a kutatás az új kivételek alá esik-e. Lehetőség van arra is, hogy a kutatók önkéntes ellenőrzést kérjenek, ha teljesen biztosak szeretnének lenni abban, hogy minden megfelelően zajlik.</p><p>A szabályok betartásának ellenőrzésével kapcsolatos eljárások is változnak. Az etikai felülvizsgálat ügyeit intéző, &quot;Önep&quot; néven ismert testület nagyobb jogkörrel rendelkezik majd a kutatások esetleges hibáinak feltárásában. A testület továbbá útmutatást is nyújthat, hogy a szabályokat mindenhol azonos módon alkalmazzák. A kutatásokkal kapcsolatos döntésekre nem lehet többé fellebbezni, és a testületnek nem kell a rendőrségnek bejelentenie a feltételezett bűncselekményeket.</p><p>Ha a javaslatot elfogadják, az új szabályok 2027. július 1-jén lépnek hatályba. A javaslat tartalmaz módosításokat az IFAU és a Szociális Biztosítási Felügyelet által kezelt személyes adatok kezelését szabályozó törvényekben is.</p>",
   "relevans": {
-    "bil": 1,
-    "kollektiv": 1,
-    "glesbygd": 1
+    "gdpr": 1,
+    "fou": 3,
+    "glesbygd": 1,
+    "otrygg": 1,
+    "integritet": 1
   }
 }

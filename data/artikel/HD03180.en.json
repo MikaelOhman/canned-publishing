@@ -12,8 +12,12 @@
   "tldr": "The government wants to make it easier and more affordable to renovate houses by changing the rules in the building code. The proposal means that you will not need to renovate the entire house when you are only making changes to a portion of it.",
   "lattlast": "<p>The government has proposed changes to the Planning and Building Act, the law that governs how buildings can be constructed and modified in Sweden. The proposal aims to replace the term &quot;renovation&quot; with &quot;major building alteration&quot; to clarify the regulations when making changes to a building.</p><p>When making a significant alteration to a part of a building, only the new regulations applicable to that specific part will need to be followed. Previously, there were possibilities to require the entire building to comply with new regulations, but the proposal seeks to limit this. Changes to the entire building can only be required if there are significant risks to people&#x27;s health or safety, or if it involves critical systems such as electricity, heating, and internet access.</p><p>It will also become slightly easier to comply with accessibility regulations. This aims to make it simpler to adapt buildings so that people with mobility or orientation difficulties can use them.</p><p>If the Parliament votes in favor of the proposal, the new regulations will come into effect on January 1, 2027. The proposal also affects other laws related to energy performance certificates and the measurement of energy consumption in buildings.</p>",
   "relevans": {
+    "b_bygg": 3,
+    "b_energi": 1,
+    "infrastruktur": 1,
     "glesbygd": 1,
-    "klimat": 1,
-    "funktion": 1
+    "funktion": 1,
+    "energikund": 1,
+    "bredbandsberoende": 1
   }
 }

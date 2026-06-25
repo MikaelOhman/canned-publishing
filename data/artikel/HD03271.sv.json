@@ -12,8 +12,9 @@
   "tldr": "Abortlagen moderniseras. Det förtydligas att en gravid får göra abort till och med graviditetsvecka 18, att abort ska ges skyndsamt, och kravet på att aborten måste ske på sjukhus tas bort – vilket gör det möjligt att avsluta en tidig graviditet hemma med läkemedel. Lagen anpassas till den medicinska utvecklingen.",
   "lattlast": "<p>Regeringen föreslår ändringar i abortlagen från 1974. Syftet är att modernisera språket och anpassa lagen till dagens medicin och till gravida kvinnors behov.</p><p>Det förtydligas att abort får göras till och med graviditetsvecka 18, och att abort ska erbjudas snabbt. Aborten ska kunna ske på sjukhus eller annan godkänd vårdverksamhet.</p><p>Kravet på att aborten måste ske på sjukhus tas bort. Det öppnar för att en tidig abort ska kunna göras hemma med läkemedel, och för en mer flexibel användning av abortläkemedel.</p>",
   "relevans": {
+    "b_life": 1,
+    "gravid": 2,
     "kvinna": 3,
-    "kollektiv": 1,
-    "halsa": 2
+    "kronisk": 2
   }
 }

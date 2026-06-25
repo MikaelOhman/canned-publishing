@@ -16,10 +16,18 @@
   "tldr": "Die Stadt Stockholm hat zahlreiche Beschlüsse zu neuen Bauprojekten, Parks und Schutzgebieten für die Natur gefasst. Diese umfassen unter anderem den Bau neuer Wohnungen, den Ausbau von Straßen und den Schutz der Natur in verschiedenen Stadtteilen.",
   "lattlast": "<p>Die Stadt Stockholm hat mehrere große Bauprojekte beschlossen. Es sollen neue Wohnungen in Aspudden und neue Pflegeheime in Bagarmossen und Gröndal gebaut werden. Außerdem sind Pläne für ein neues Verwaltungsgebäude in Järva sowie für die Umgestaltung der Uferpromenade des Karlbergskanals vorgesehen.</p><p>Im Bereich Verkehr und Straßen wurden umfangreiche Arbeiten an den westlichen Teilen der Liljeholmsbrücken beschlossen. Es gibt auch Pläne für den Bau eines neuen U-Bahn-Depots im Industriegebiet Älvsjö. Um Besuchern während der Fußball-Weltmeisterschaft 2026 die Anreise zu erleichtern, wurden außerdem vorübergehende Regelungen für die Alkoholverkaufzeiten in Restaurants und Bars beschlossen.</p><p>Die Natur soll an verschiedenen Standorten in der Stadt geschützt werden. Mehrere neue Gebiete sollen zu sogenannten Biotopschutzgebieten erklärt werden, was bedeutet, dass die Natur dort ungestört bleiben soll. Dazu gehören Gebiete wie Hemskogen, Vikingaberget, Gökdalen und Åkeslund. Außerdem wurde beschlossen, ein neues Naturschutzgebiet im Bereich Kyrkhamn-Riddersvik zu schaffen.</p><p>Die Stadt hat auch Geschäfte und Vereinbarungen abgeschlossen. Dazu gehören der Kauf von Aktien an Kista Utveckling AB sowie der Erwerb von Emissionsreduktionen zur Unterstützung des Klimaschutzes. Außerdem wurde ein Vertrag für den Bau des Nobel Centers in Södermalm unterzeichnet.</p>",
   "relevans": {
-    "bil": 1,
+    "b_industri": 1,
+    "b_bygg": 1,
+    "b_besok": 1,
+    "b_fastighet": 1,
+    "miljo": 1,
     "glesbygd": 1,
     "storstad": 1,
+    "kronisk": 1,
+    "beroende": 1,
+    "sparare": 1,
+    "friluftsliv": 1,
     "klimat": 2,
-    "halsa": 1
+    "fortroendevald": 1
   }
 }

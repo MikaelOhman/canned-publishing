@@ -12,7 +12,9 @@
   "tldr": "El gobierno quiere modificar la ley para que la Oficina Central de Estadística (SCB) pueda recopilar más información sobre la cantidad de deudas que tienen los hogares, así como sobre los intereses y los pagos que realizan. Esto se hace para comprender mejor los riesgos económicos en la sociedad.",
   "lattlast": "<p>El gobierno ha presentado una propuesta para ampliar el trabajo en un sistema llamado Fasit. Fasit es una herramienta utilizada por la Oficina Central de Estadísticas (SCB) para calcular cómo diferentes regulaciones económicas afectan a las personas. Al agregar información sobre deudas y pagos, se puede comprender mejor la vulnerabilidad de los hogares a los cambios en la economía.</p><p>Para que esto funcione, los bancos y otras empresas que trabajan con créditos hipotecarios deben proporcionar a la SCB información sobre las deudas y los pagos de los hogares. Es importante conocer la cantidad de dinero destinada a deudas para poder planificar la política económica del país. Esto ayuda a las autoridades a determinar si las altas tasas de interés u otros costos están causando problemas importantes a las familias.</p><p>A pesar de que se recopila más información, las normas sobre datos personales son estrictas. Solo se deben utilizar los datos necesarios y no se deben utilizar datos sensibles, como información sobre la salud o el origen étnico. El objetivo es obtener estadísticas precisas sin violar la privacidad de las personas.</p><p>Si la propuesta es aprobada y el parlamento vota a favor, las nuevas normas entrarán en vigor el 1 de agosto de 2026.</p>",
   "relevans": {
-    "barn": 1,
-    "foretagare": 1
+    "b_finans": 1,
+    "gdpr": 1,
+    "lantagare": 3,
+    "integritet": 2
   }
 }

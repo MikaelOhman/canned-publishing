@@ -13,9 +13,14 @@
   "tldr": "A közel-keleti helyzet és a magas energiaárak bizonytalanságot okoznak az európai gazdaság számára. A gazdaság védelme érdekében, a növekvő árak ellensúlyozására, enyhe kamatemelést vezettek be.",
   "lattlast": "<p>Philip R. Lane, az Európai Központi Bank vezetője elmondta, hogy a közel-keleti háború negatívan befolyásolja az európai gazdaságot. Bár van bégegyezés, a helyzet továbbra is bizonytalan, ami miatt az energiaárak tovább emelkedhetnek. Ez növeli annak a kockázatát, hogy az áruk és szolgáltatások árai (az infláció) magasabbak lesznek, mint amilyet elvártunk.</p><p>Az európai gazdaság, más néven az eurózóna, nehezen tudott növekedni az év elején. Ennek egyik oka az Írország gazdaságának visszaesése. Ugyanakkor a munkaerőpiac továbbra is erős, alacsony a munkanélküliség, de a vállalatok és a magánszemélyek óvatosabbak a pénzzel a magas energiaárak miatt.</p><p>Az infláció jelenleg 3,2 százalék, ami magasabb, mint a 2 százalékos célkitűzés. Fennáll a kockázata, hogy az élelmiszerek és az energia árai hosszú időn keresztül magasak maradnak. Ugyanakkor várható, hogy a bérek olyan ütemben emelkednek, hogy az emberek vásárlóereje az elkövetkező években megerősödik.</p><p>Ezekhez a kockázatokhoz válaszul a júniusban 0,25 százalékos (vagyis 25 bázispontos) kamatemelést hajtottak végre. A kamatemelés célja, hogy fékezze az áremelkedést, és biztosítsa, hogy az infláció hosszú távon a meghatározott, stabil szinten stabilizálódjon.</p>",
   "relevans": {
+    "arbetsgivare": 1,
+    "b_energi": 1,
+    "energiintensiv": 1,
     "lontagare": 1,
-    "foretagare": 1,
     "arbetssokande": 2,
-    "klimat": 1
+    "sparare": 1,
+    "lantagare": 1,
+    "energikund": 1,
+    "konsument": 2
   }
 }

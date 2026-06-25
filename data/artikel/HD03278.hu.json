@@ -12,6 +12,7 @@
   "tldr": "A kormány új szabályokat javasol az áfa tekintetében a tagállamok közötti kereskedelemre, hogy megfeleljen az EU új törvényeinek. A javaslat célja, hogy tisztázza, hogyan kell az adót fizetni a digitális kereskedelem és az EU-n kívüli országokból történő vásárlások esetében.",
   "lattlast": "<p>A kormány szeretné módosítani az általános forgalmi adóról szóló törvényt, amit a hétköznapi életben ÁFA-ként hívunk. A cél az, hogy a svéd szabályokat az EU-ból származó új döntésekhez igazítsák. Ezek a változások szükségesek ahhoz, hogy a szabályok megfelelően működjenek a digitális világban, ahol a kereskedelem nagy része határokon át zajlik.</p><p>A javaslat egyik fontos része a digitális kereskedelem. Ez azt jelenti, hogy ha egy vállalat weboldalt vagy alkalmazást használ termékek értékesítésére, amelyeket az EU-n kívüli országokból származnak, és az EU-n belüli vásárlóknak értékesíti, akkor a szabályok világosabbak kell, hogy legyenek abban, hogy ki felelős az ÁFÁ-ért. Ez a szabályozás arra vonatkozik, hogy a vámot hogyan kell elszámolni, amikor az áruk elektronikus rendszereken keresztül kerülnek értékesítésre.</p><p>A javaslat tartalmaz módosításokat az EU-n kívüli országokkal folytatott kereskedelemre is. Céljuk, hogy kibővítsék és pontosítsák azokat a különleges szabályokat, amelyek a az EU-n kívüli országokból származó termékek kezelésére vonatkoznak. Ezt azért teszik, hogy igazságosabb és egységesebb legyen a vámkezelés.</p><p>Ha a javaslatot elfogadják a parlamentben, az új szabályok 2027. január 1-jén lépnek hatályba. Ez azt jelenti, hogy a más országokkal kereskedő vállalatoknak fel kell készülniük az új ÁFA-számítási és fizetési módszerekre.</p>",
   "relevans": {
-    "foretagare": 2
+    "moms": 3,
+    "konsument": 1
   }
 }

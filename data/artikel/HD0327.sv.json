@@ -12,6 +12,10 @@
   "tldr": "Regeringen vill göra det billigare att gå till tandläkaren genom ett nytt ekonomiskt stöd. Målet är att du inte ska behöva betala extra om tandläkaren tar ett högre pris än vad staten har bestämt.",
   "lattlast": "<p>Regeringen har lagt fram ett förslag som ska göra det lättare att betala för tandvård. Det nya stödet kallas för särskild tandvårdsersättning. Om du behöver tandvård ska du inte behöva betala mellanskillnaden mellan vad tandläkaren tar betalt och det pris som staten har bestämt, så kallat referenspris.</p><p>För att detta ska fungera föreslår regeringen att reglerna för hur priser sätts ska ändras i lagen. Det betyder att det blir tydligare vad som gäller för kostnaden. Man vill också att de tandläkare som är anslutna till Försäkringskassans system ska vara skyldiga att ge rätt vård till de patienter som har rätt till stöd.</p><p>Ett viktigt mål med förslaget är att de personer som har störst behov av tandvård ska få hjälp först. Detta ska skrivas in i lagen om tandvård. På så sätt ska de som behöver mest vård få företräde till behandlingen.</p><p>Om förslaget blir beslutat i riksdagen ska de nya reglerna börja gälla den 1 januari 2026. Det innebär att flera olika lagar om tandvård och ersättning för vård i andra EU-länder kommer att ändras.</p>",
   "relevans": {
-    "halsa": 3
+    "b_finans": 1,
+    "sjukskriven": 1,
+    "kronisk": 3,
+    "tandvard": 3,
+    "konsument": 1
   }
 }

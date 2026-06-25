@@ -12,6 +12,9 @@
   "tldr": "A kormány egy új törvény bevezetésére törekszik, amely megkönnyíti a hatóságok és önkormányzatok számára a digitális információk megosztását egymással. A cél a papírhasználat csökkentése és az új technológiák, például a mesterséges intelligencia, okosabb alkalmazása.",
   "lattlast": "<p>A kormány egy új törvénytervezetet terjesztett elő, amely szabályozza, hogy a különböző állami szervek hogyan osztják meg egymással az információkat. A törvény az úgynevezett interoperabilitásról szól, ami egy bonyolult kifejezés arra, hogy a különböző adatrendszerek képesek legyenek kommunikálni egymással, és megérteni egymás adatait. Ennek a folyamatnak az egyszerűsítésével a kormány reméli, hogy csökkenteni tudja az adminisztratív terhet, és hatékonyabban tudja használni a modern technológiákat, például a mesterséges intelligenciát.</p><p>Az új szabályokat az állami szerveknek, önkormányzatoknak, régióknak és bizonyos önkormányzati vállalatoknak kell betartaniuk. A szabályok akkor vonatkoznak, amikor az információk gyakran vagy nagy mennyiségben kerülnek megosztásra. A kormány azonban jogot foglal el arra, hogy meghatározza, mely szervezeteknek nem kell betartaniuk a törvényt, és meghatározhatja, hogy pontosan mely technikai követelmények érvényesek az adatmegosztásra.</p><p>Fontos kivételek léteznek a polgárok és az ország védelme érdekében. Nem kell betartani az új követelményeket, ha azok veszélyeztetné Svédország biztonságát, vagy ha a személyes adatok és a kibertérbiztonság szempontjából túl kockázatos lenne. Emellett nem kell betartani a követelményeket, ha azok túl drágák lennének a kapott előnyökkel szemben az információmegosztás terén.</p><p>Ha a parlament megszavazza a javaslatot, az új törvény 2026. augusztus 15-én lép hatályba.</p>",
   "relevans": {
-    "halsa": 1
+    "b_fastighet": 3,
+    "gdpr": 2,
+    "kronisk": 1,
+    "integritet": 1
   }
 }

@@ -12,9 +12,10 @@
   "tldr": "Regeringen vill göra det billigare och enklare att köra miljövänliga bilar genom att göra skattefri laddning på jobbet permanent och ge bättre möjligheter att dra av kostnader för bränsle.",
   "lattlast": "<p>Regeringen har lagt fram ett förslag som innebär att det ska vara skattefritt att ladda sin elbil på arbetsplatsen även i framtiden. Tidigare har detta bara varit en tillfällig regel, men nu vill man att det ska gälla permanent för att hjälpa företag och anställda att gå över till fossilfria bilar.</p><p>Det blir också lättare att få pengar tillbaka för utgifter som rör bränsle när man kör tjänsteresor. Om du har en förmånsbil som är en laddhybrid ska du kunna få avdrag för kostnader för drivmedel, även om du har laddat bilen med el på din arbetsplats. Syftet är att göra reglerna enklare och uppmuntra folk att köra så mycket på el som möjligt.</p><p>Förslaget handlar om ändringar i inkomstskattelagen, vilket är den lag som bestämmer hur mycket skatt du ska betala på din lön. Om riksdagen röstar ja till förslaget kommer de nya reglerna att börja gälla den 1 juli 2026. De nya reglerna för avdrag för bränsle gäller för resor som görs efter att den nya lagen har börjat gälla.</p>",
   "relevans": {
+    "arbetsgivare": 1,
     "lontagare": 2,
-    "foretagare": 1,
-    "bil": 2,
+    "bil": 1,
+    "energikund": 3,
     "klimat": 1
   }
 }

@@ -12,10 +12,15 @@
   "tldr": "El gobierno ha establecido planes a largo plazo sobre cómo funcionarán las carreteras y los ferrocarriles en Suecia entre los años 2026 y 2037. El plan se centra en invertir de manera inteligente en el transporte y en hacer que el sistema sea más respetuoso con el medio ambiente.",
   "lattlast": "<p>El Gobierno ha presentado un plan sobre cómo serán y funcionarán los transportes en Suecia durante el período 2026-2037. El plan abarca todos los tipos de transporte, como automóviles, camiones y trenes. Al mismo tiempo, se ha determinado la cantidad de dinero que se destinará a cada región para mejorar las carreteras y los ferrocarriles en todo el país.</p><p>Este trabajo también se centra en hacer que los transportes sean más eficientes y respetuosos con el medio ambiente. El Gobierno se asegurará de que sea más fácil transportar mercancías y personas de manera inteligente. También se busca que los vehículos sean mejores y que una mayor parte del tráfico utilice electricidad en lugar de combustibles que dañan el medio ambiente.</p><p>Una parte importante del plan es la transición de los combustibles fósiles, como la gasolina y el diésel, a alternativas renovables y sostenibles. Esto es una respuesta a las demandas anteriores del Parlamento de que Suecia debe crear un sistema de transporte que funcione a largo plazo sin dañar el clima. El objetivo es que la tecnología nos ayude a reducir las emisiones en el futuro.</p>",
   "relevans": {
-    "bil": 3,
-    "kollektiv": 1,
+    "b_transport": 3,
+    "arbetsratt": 1,
+    "miljo": 1,
+    "infrastruktur": 1,
     "glesbygd": 1,
-    "klimat": 3,
-    "halsa": 1
+    "bil": 2,
+    "kollektiv": 1,
+    "kronisk": 1,
+    "energikund": 1,
+    "klimat": 3
   }
 }

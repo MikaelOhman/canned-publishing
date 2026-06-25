@@ -13,9 +13,14 @@
   "tldr": "Mötet i Malmö stad handlade om att gå igenom olika förslag, ekonomiska bidrag och planer för stadens framtid, till exempel nya byggprojekt och stöd till kultur och evenemang.",
   "lattlast": "<p>Kommunstyrelsen i Malmö har gått igenom många olika frågor som rör stadens arbete. Det handlar bland annat om att hantera bidrag till olika organisationer, som till exempel stöd till Fryshuset och olika evenemang som Malmö Dance Week och Europe Smash.</p><p>Flera viktiga planer diskuterades för Malmös framtid. Det finns planer på att bygga en ny Malmö Stadion och att skapa en detaljplan för ett område i Sofielund som heter Malmkrossen. Man tittade även på hur staden ska planera för lokaler och hur man kan förbättra miljön, till exempel genom att satsa på gröna och blå miljöer.</p><p>Mötet tog även upp frågor om hur Malmö ska fungera för alla invånare. Det diskuterades hur man kan göra staden mer bra för äldre personer och hur man kan arbeta för att förebygga droger bland barn och unga. Det fanns även förslag om att ändra regler för avgifter i förskolor när föräldrar inte bor tillsammans.</p><p>Slutligen diskuterades viktiga regler och kontroll. Detta inkluderar allt från hur man hanterar nya lagar från EU om förpackningar och luftkvalitet, till hur man kontrollerar att privata företag som jobbar för kommunen följer reglerna. Man pratade även om vikten av att kunna rapportera fel eller missförhållanden genom så kallade visselblåsarfunktioner.</p>",
   "relevans": {
-    "barn": 2,
-    "pensionar": 1,
-    "foretagare": 1,
-    "klimat": 1
+    "b_bygg": 1,
+    "b_kultur": 1,
+    "lokaler": 1,
+    "mark_bygglov": 1,
+    "barn": 1,
+    "bygger": 1,
+    "konsument": 1,
+    "klimat": 1,
+    "kultur": 1
   }
 }

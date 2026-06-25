@@ -13,6 +13,9 @@
   "lattlast": "<p>Regeringen har gjort ett förslag på nya lagar som ska börja gälla den 1 juli 2025. Syftet är att stärka skyddet för kvinnor och barn som lever med våld eller kränkningar. Man vill att det ska bli lättare att ge ett kontaktförbud, vilket är ett beslut som förbjuder en person att kontakta eller komma nära en annan.</p><p>En av de stora nyheterna är att det ska bli möjligt att ge kontaktförbud även om någon övervakar en person på ett felaktigt sätt. Man vill också att polisen ska kunna använda kontaktförbud för att skydda de som vittnar i en rättegång. Vid bedömningen av om en person är farlig ska man titta på mer än bara tidigare brott.</p><p>Förslaget innebär också att ett kontaktförbud kan gälla för ett större område än idag. Om en person har begått ett allvarligt brott i en nära relation ska det finnas en starkare förväntan om att ett förbud ska ges direkt. Man vill även att straffen ska bli hårdare om man bryter mot dessa regler eller begår brott mot barn.</p><p>För att genomföra detta föreslår regeringen ändringar i flera olika lagar, till exempel brottsbalken och sambolagen. Det handlar bland annat om att barn ska få mer hjälp av en jurist och att polisen ska få rätt att söka igenom ett hem för att kunna lämna över ett beslut om kontaktförbud.</p>",
   "relevans": {
     "barn": 1,
-    "kvinna": 1
+    "sambo_gift": 1,
+    "kvinna": 1,
+    "brottsoffer": 3,
+    "otrygg": 1
   }
 }

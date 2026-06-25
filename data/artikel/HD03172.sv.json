@@ -12,7 +12,9 @@
   "tldr": "Nya regler för byggande föreslås träda i kraft den 1 juli 2026. Syftet är att göra byggprocessen säkrare och tydligare genom att ändra roller och krav på kontroll av byggnader.",
   "lattlast": "<p>Regeringen vill ändra lagen för planering och byggande. En stor förändring är att företag som tidigare kallades certifierade byggprojekteringsföretag nu ska kallas för byggbedömare. Dessa byggbedömare ska inte bara rita byggnader utan även kontrollera att arbetet på byggplatsen går rätt till.</p><p>Det blir också tydligare vad som ska kontrolleras under ett bygge. Tidigare fanns en samlad kontrollplan, men den ska nu delas upp i två olika planer. En plan ska handla om tekniska kontroller och den andra ska handla om hur avfall hanteras. Kraven på att experter ska kontrollera vissa delar av bygget kommer också att öka.</p><p>För de som äger eller använder en byggnad blir det viktigare att underhålla viktiga delar, som till exempel det som håller byggnaden stadig och säker. Om man inte sköter detta kan byggnadsnämnden, som är den lokala myndigheten som bestämmer över bygglov, kräva att man gör kontroller.</p><p>Förslaget innebär också att reglerna för vad som ska finnas med vid ett tekniskt samråd blir tydligare. Det ska också bli lättare att förstå vilket ansvar den som bygger (byggherren) har för att allt går rätt till från början till slut. Alla dessa ändringar planeras att börja gälla från den 1 juli 2026.</p>",
   "relevans": {
-    "foretagare": 1,
-    "bostadsagare": 1
+    "b_bygg": 3,
+    "miljo": 1,
+    "mark_bygglov": 1,
+    "bygger": 1
   }
 }

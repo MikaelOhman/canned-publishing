@@ -12,11 +12,16 @@
   "tldr": "Le gouvernement propose de nouvelles allocations dans le budget de 2026 pour aider l'Ukraine avec de l'équipement militaire, et pour soutenir les ménages et les entreprises suédois face aux prix élevés de l'énergie et des carburants.",
   "lattlast": "<p>Le gouvernement souhaite envoyer davantage d&#x27;équipements militaires en Ukraine en raison de la guerre. Cela comprend notamment la fourniture d&#x27;avions de combat de type Gripen, ainsi que d&#x27;équipements pour la marine. Le gouvernement souhaite également pouvoir vendre davantage d&#x27;avions Gripen modernes à l&#x27;Ukraine afin de renforcer sa défense.</p><p>Afin d&#x27;aider les citoyens et les entreprises en Suède, le gouvernement propose de réduire la taxe sur l&#x27;essence et le diesel pendant une partie de l&#x27;année 2026. Cela vise à faire face à la hausse des prix des carburants, qui est due à la guerre au Moyen-Orient. Il existe également des propositions de soutien à l&#x27;agriculture et à l&#x27;industrie aéronautique.</p><p>Pour aider les particuliers, le gouvernement souhaite allouer davantage de fonds à l&#x27;aide énergétique. Cela devrait contribuer à maîtriser les coûts de l&#x27;électricité et du gaz. Des plans sont également en cours pour mettre en place une forme de protection contre les coûts élevés, ce qui signifie qu&#x27;il y aura une limite au prix de l&#x27;électricité et du gaz.</p><p>Enfin, le gouvernement propose d&#x27;allouer davantage de fonds aux transports en commun afin d&#x27;aider à maintenir les prix pour les voyageurs. Grâce à ces modifications budgétaires, l&#x27;État souhaite faire face aux périodes incertaines et aux coûts élevés engendrés par les guerres en Ukraine et au Moyen-Orient.</p>",
   "relevans": {
-    "foretagare": 1,
-    "bil": 3,
+    "b_transport": 1,
+    "b_grona": 1,
+    "b_energi": 1,
+    "pendlare": 1,
+    "bil": 2,
     "kollektiv": 1,
-    "storstad": 1,
-    "klimat": 1,
-    "halsa": 1
+    "flygresenar": 1,
+    "kronisk": 1,
+    "energikund": 2,
+    "konsument": 1,
+    "varnpliktig": 1
   }
 }

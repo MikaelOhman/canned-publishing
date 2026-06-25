@@ -12,6 +12,10 @@
   "tldr": "The government wants to amend the law to make it easier for the Public Employment Service (Arbetsförmedlingen) and municipalities to share information about individuals who need training to find employment. This aims to help job seekers receive the right support more quickly.",
   "lattlast": "<p>The government has proposed new regulations regarding the sharing of information between government agencies. The aim is to improve communication between the Public Employment Service (Arbetsförmedlingen) and municipalities, particularly concerning individuals seeking employment who may need to participate in vocational training offered by the municipality.</p><p>According to the proposal, municipalities will be obligated to provide the Public Employment Service with the information necessary to assist job seekers. This means that information about the courses an individual is taking in the municipal adult education program can be shared with the Public Employment Service.</p><p>To facilitate this, the proposal also suggests that the Public Employment Service should be authorized to handle personal data, i.e., private information about individuals, in order to provide appropriate support in their job search. The purpose is to make it easier to plan and implement measures to help people find employment.</p><p>If the Parliament approves the proposal, the new regulations will come into effect on March 1, 2026. The proposal involves changes to two different laws that govern how work related to labor market policy and the handling of personal data should be conducted.</p>",
   "relevans": {
-    "arbetssokande": 3
+    "b_utbildning": 1,
+    "gdpr": 1,
+    "arbetssokande": 3,
+    "vuxenstudier": 1,
+    "integritet": 1
   }
 }

@@ -12,8 +12,10 @@
   "tldr": "The government wants to change the laws to make it easier for everyone to understand how large projects impact the environment. The new regulations will come into effect on August 1, 2025.",
   "lattlast": "<p>The government has proposed changes to several laws in Sweden. The aim is to better align with EU regulations concerning Environmental Impact Assessments (EIAs). An EIA is a study conducted to assess how a project might impact the environment.</p><p>A key part of the proposal is to make it easier for everyone to access information about decisions related to environmental impact. This means that the public should have a clear understanding of what has been decided. The proposal also applies to laws concerning roads, railways, electricity, and ports.</p><p>The proposal also clarifies that environmental organizations have the right to appeal decisions. If an authority has determined that an activity does not harm the environment, environmental organizations should be able to appeal that decision. The government also wants to be able to determine when certain work can begin.</p><p>If the Swedish Parliament approves the proposal, the new regulations will come into effect on August 1, 2025. The proposal affects a wide range of areas, including the construction of railways, nuclear power plants, and work at sea.</p>",
   "relevans": {
-    "bil": 1,
+    "b_bygg": 1,
+    "infrastruktur": 2,
     "glesbygd": 1,
+    "batagare": 1,
     "klimat": 1
   }
 }

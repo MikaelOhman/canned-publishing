@@ -12,9 +12,10 @@
   "tldr": "El gobierno quiere hacer que sea más barato y sencillo conducir vehículos respetuosos con el medio ambiente, estableciendo de forma permanente la exención de impuestos para la carga en el lugar de trabajo y ofreciendo mejores oportunidades para deducir los gastos de combustible.",
   "lattlast": "<p>El Gobierno ha presentado una propuesta que implica que, en el futuro, será exento de impuestos el proceso de carga de vehículos eléctricos en el lugar de trabajo. Anteriormente, esta era solo una regla temporal, pero ahora se busca que sea permanente para ayudar a las empresas y a los empleados a cambiar a vehículos sin emisiones.</p><p>También será más fácil recuperar el dinero gastado en combustible al realizar viajes de trabajo. Si tiene un vehículo de empresa que es un híbrido enchufable, podrá deducir los gastos de combustible, incluso si ha cargado el vehículo con electricidad en su lugar de trabajo. El objetivo es simplificar las normas y fomentar que la gente utilice la electricidad tanto como sea posible.</p><p>La propuesta se refiere a modificaciones en la ley del impuesto sobre la renta, que es la ley que determina cuánto impuesto debe pagar sobre su salario. Si el Parlamento aprueba la propuesta, las nuevas normas entrarán en vigor el 1 de julio de 2026. Las nuevas normas para las deducciones de combustible se aplicarán a los viajes realizados después de que la nueva ley entre en vigor.</p>",
   "relevans": {
+    "arbetsgivare": 1,
     "lontagare": 2,
-    "foretagare": 1,
-    "bil": 2,
+    "bil": 1,
+    "energikund": 3,
     "klimat": 1
   }
 }

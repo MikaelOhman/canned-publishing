@@ -12,6 +12,7 @@
   "tldr": "Bestimmte Informationen, die das Gesundheitswesen an die nationale Arzneimittelliste im Zusammenhang mit elektronischen Rezepten übermitteln soll (nämlich der Grund für die Verordnung und der Zeitpunkt, zu dem die Behandlung überprüft oder beendet werden soll), werden verschoben – von Dezember 2025 auf September 2028. Dies gibt dem Gesundheitswesen mehr Zeit, um eine sichere Anbindung zu gewährleisten.",
   "lattlast": "<p>Die nationale Arzneimittelliste ist ein Verzeichnis der Medikamente, die einem Patienten verordnet wurden. Wenn Ärzte elektronische Rezepte ausstellen, müssen sie bestimmte Informationen an diese Liste übermitteln.</p><p>Die Regierung schlägt vor, die Pflicht zur Übermittlung von zwei dieser Informationen – der Grund für die Verordnung sowie das Datum, an dem die Behandlung zuletzt überprüft oder beendet werden soll – um mehrere Jahre zu verschieben, von ursprünglich dem 1. Dezember 2025 auf den 1. September 2028.</p><p>Ziel ist es, dem Gesundheitswesen mehr Zeit zu geben, sich auf eine Weise mit der Liste zu verbinden, die effizient und patientensicher ist.</p>",
   "relevans": {
-    "halsa": 3
+    "b_life": 3,
+    "kronisk": 3
   }
 }

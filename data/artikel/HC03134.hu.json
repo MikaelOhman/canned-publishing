@@ -12,6 +12,8 @@
   "tldr": "A kormány szeretné módosítani a törvényeket annak érdekében, hogy megakadályozza a bűnözők számára, hogy banki átutalásokat használjanak bűncselekmények elkövetéséhez. Az új szabályok célja, hogy megkönnyítsék a bankok és a rendőrség számára a pénzmosás feltárását és megakadályozását.",
   "lattlast": "<p>A kormány egy javaslatot terjesztett elő annak érdekében, hogy megakadályozza a bűnözői hálózatok számára, hogy visszaéljenek a fizetési rendszerekkel. Jelenleg a bankoknak ellenőrizniük kell ügyfeleiket, és jelenteniük kell a rendőrségnek, ha valamilyen gyanús tevékenységet észlelnek. A javaslat célja, hogy a &quot;clearingházak&quot; – azaz azok a vállalatok, amelyek pénzt szállítanak a különböző bankok között – is hasonló felelősséggel kell, hogy éljenek a fizetések ellenőrzése és a gyanús bűncselekmények a rendőrségnek történő bejelentése terén.</p><p>Emellett Svédországban körülbelül 1200 olyan közvetítő van, amelyek külföldi vállalatokat segítenek a fizetésekkel kapcsolatban. Egyeseket ezeket a közvetítőket arra használják, hogy pénzt szállítsanak országról országra, ami lehetőséget teremt a bűnözők számára. A kockázat csökkentése érdekében a kormány szeretné, hogy a Finansinspektionen (a pénzügyi felügyeleti hatóság) szigorúbb ellenőrzéseket végezzen ezeken a közvetítőkon. A Finansinspektionennek ezután lehetősége lesz ellenőrizni, hogy a közvetítők mögött álló személyeknek van-e bűnözői múltjuk.</p><p>Az új szabályozás több különböző törvény módosítását foglalja magában, amelyek meghatározzák, hogyan kezelhetők a pénzek és a fizetések Svédországban. A cél a pénzmosás és a terrorizmus finanszírozásának megakadályozása. Ha a javaslat elfogadásra kerül, és a parlament megszavazza, az új törvények 2025. július 1-jén lépnek hatályba.</p>",
   "relevans": {
-    "foretagare": 1
+    "b_finans": 3,
+    "beroende": 3,
+    "otrygg": 1
   }
 }

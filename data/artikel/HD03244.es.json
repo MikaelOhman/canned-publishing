@@ -12,6 +12,9 @@
   "tldr": "El gobierno quiere implementar una nueva ley que facilite el intercambio de información digital entre las autoridades y los municipios. El objetivo es reducir la burocracia y utilizar tecnologías emergentes, como la inteligencia artificial, de manera más eficiente.",
   "lattlast": "<p>El gobierno ha presentado una propuesta de una nueva ley que regulará cómo se comparte información entre diferentes partes del sector público sueco. La ley trata sobre la llamada interoperabilidad, que es un término complejo para describir cómo diferentes sistemas de datos deben poder comunicarse entre sí y comprender la información de los demás. Al facilitar esto, se espera reducir la cantidad de trámites administrativos y utilizar tecnologías modernas como la IA de manera más eficiente.</p><p>Los que deben cumplir con las nuevas normas son las agencias gubernamentales, los municipios, las regiones y ciertas empresas municipales. Las normas se aplican cuando se comparte información de forma frecuente o en grandes cantidades. Sin embargo, el gobierno tiene el derecho de determinar que ciertos grupos no necesitan cumplir con la ley, y también puede determinar los requisitos técnicos específicos que deben cumplirse para el intercambio de información.</p><p>Existen importantes excepciones para proteger a los ciudadanos y al país. No es necesario cumplir con los nuevos requisitos si esto pudiera amenazar la seguridad de Suecia o si fuera demasiado inseguro para los datos personales y la ciberseguridad. Tampoco es necesario cumplir con los requisitos si el costo fuera demasiado alto en relación con los beneficios obtenidos al compartir la información.</p><p>Si el parlamento aprueba la propuesta, la nueva ley entrará en vigor el 15 de agosto de 2026.</p>",
   "relevans": {
-    "halsa": 1
+    "b_fastighet": 3,
+    "gdpr": 2,
+    "kronisk": 1,
+    "integritet": 1
   }
 }

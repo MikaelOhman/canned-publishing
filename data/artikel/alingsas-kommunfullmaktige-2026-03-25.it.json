@@ -13,8 +13,17 @@
   "tldr": "Il comune di Alingsås ha deciso nuove tariffe per i servizi di assistenza e cura a partire dal 2026. Questo include, tra le altre cose, l'introduzione di un costo per il trasporto di persone decedute.",
   "lattlast": "<p>Nel comune di Alingsås, sono state definite nuove tariffe per diversi servizi nel settore dell&#x27;assistenza e della cura, valide a partire dal 2026. Questa modifica è dovuta a nuove leggi e all&#x27;introduzione di una tariffa per il trasporto di persone decedute, una pratica che non era stata adottata in precedenza.</p><p>Il comune ha effettuato un&#x27;analisi di come altri comuni nell&#x27;area di Göteborg gestiscono questa situazione. L&#x27;indagine ha rivelato che la maggior parte degli altri comuni applica una tariffa per tali trasporti. Secondo la legge, il comune ha il diritto di addebitare una tariffa che corrisponda ai costi effettivi sostenuti per il servizio.</p><p>Oltre a questo, sono state approvate nuove normative per i permessi di costruzione e modifiche alle regole per la gestione dei rifiuti. Sono state inoltre definite nuove linee guida per la gestione della società comunale Alingsås Energi.</p><p>Durante la riunione, sono stati discussi anche i progetti di collaborazione con il comune vicino di Borås. L&#x27;obiettivo è che i due comuni lavorino insieme su questioni relative all&#x27;ambiente, alla salute e al controllo di alimenti e alcolici.</p>",
   "relevans": {
-    "bostadsagare": 1,
-    "klimat": 2,
-    "halsa": 1
+    "b_bygg": 1,
+    "b_transport": 1,
+    "b_vard": 1,
+    "b_energi": 1,
+    "miljo": 1,
+    "mark_bygglov": 1,
+    "bygger": 1,
+    "kronisk": 1,
+    "beroende": 1,
+    "energikund": 1,
+    "konsument": 2,
+    "klimat": 1
   }
 }

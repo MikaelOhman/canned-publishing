@@ -12,6 +12,8 @@
   "tldr": "Rząd zamierza zmienić prawo w celu ochrony ważnych informacji. Chodzi o utajnienie danych dotyczących transakcji związanych z bronią oraz informacji, które są udostępniane między funkcjonariuszami policji w Europie.",
   "lattlast": "<p>Rząd zamierza zmienić prawo dotyczące jawności i poufności. Oznacza to, że pewne informacje mają być traktowane jako tajemnice i nie mogą być udostępniane każdemu. Pierwsza propozycja dotyczy broni. Chodzi o ochronę informacji, które policja posiada na temat zakupu i sprzedaży broni palnej. Dotyczy to list i zgłoszeń, które osoby handlujące bronią muszą przesyłać do policji.</p><p>Druga propozycja dotyczy współpracy między policjantami w Europie. W systemie o nazwie System Informacyjny Schengen (SIS) policjanci wymieniają się informacjami. Rząd chce, aby informacje udostępniane w tym systemie były lepiej chronione. Dotyczy to szczególnie informacji dotyczących śledztw w innych krajach oraz informacji o życiu prywatnym osób.</p><p>Celem tych zmian jest ochrona wrażliwych danych, aby nie trafiły w niepowołane ręce. Pierwsze zmiany dotyczące broni mają obowiązywać od 1 kwietnia 2026 roku. W przypadku pozostałych zmian, rząd ustali datę wprowadzenia w życie w późniejszym terminie.</p>",
   "relevans": {
-    "jagare": 3
+    "infrastruktur": 1,
+    "batagare": 1,
+    "otrygg": 1
   }
 }

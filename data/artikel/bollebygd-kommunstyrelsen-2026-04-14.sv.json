@@ -13,8 +13,15 @@
   "tldr": "Kommunstyrelsen i Bollebygd har beslutat om nya regler för kontroller av belastningsregistret vid nyanställningar för att öka tryggheten. De har även tagit beslut om ändringar i detaljplaner, avgifter för bygglov och avfallshantering samt utbetalning av partistöd.",
   "lattlast": "<p>Bollebygds kommun har infört nya riktlinjer för att kontrollera personers belastningsregister innan de får jobb i kommunen. Detta görs för att följa en ny lag som startade i mars 2026. Syftet är att skydda anställda och medborgare från brott, hot och korruption, särskilt för de som arbetar i hemmet hos äldre eller personer med funktionsnedsättning.</p><p>När det gäller byggande och mark har kommunen beslutat om ändringar i detaljplanen för Flässjum i Hede. Man har även arbetat vidare med planeringen för ett område som heter Kråketorp Västergård. Dessutom har man svarat på förslag om att ta bort den kommunala tomtkön.</p><p>Det har även skett beslut om ekonomiska avgifter. Nu kommer det att finnas nya regler för hur mycket man betalar för avfallshantering vid hemmet, så kallad fastighetsnära insamling. Man har även beslutat att ändra avgiften för bygglov, vilket kallas för bygglovstaxa.</p><p>Slutligen har kommunstyrelsen beslutat om ekonomiskt stöd, så kallat partistöd, till partierna Vänsterpartiet, Sverigedemokraterna, Liberalerna och Socialdemokraterna för år 2026. Man har även beslutat att ge ett ekonomiskt bidrag till en fest som ska hållas under 2026.</p>",
   "relevans": {
-    "pensionar": 1,
-    "bostadsagare": 1,
-    "funktion": 1
+    "arbetsgivare": 1,
+    "b_bygg": 1,
+    "b_fastighet": 1,
+    "miljo": 1,
+    "mark_bygglov": 2,
+    "bygger": 2,
+    "funktion": 1,
+    "konsument": 1,
+    "otrygg": 1,
+    "fortroendevald": 1
   }
 }

@@ -12,6 +12,9 @@
   "tldr": "Le gouvernement souhaite introduire une nouvelle loi pour collecter des informations sur les services sociaux. L'objectif est que l'Agence suédoise de la santé et des soins (Socialstyrelsen) puisse utiliser ces données pour améliorer l'aide apportée aux personnes, tout en protégeant la vie privée des individus.",
   "lattlast": "<p>Le gouvernement a présenté une proposition de loi, appelée &quot;loi sur le registre des données sociales&quot;. Cette loi vise à aider l&#x27;agence Socialstyrelsen à gérer les données personnelles de manière appropriée. En collectant des informations, il est possible de mieux comprendre le fonctionnement des services sociaux et d&#x27;améliorer le soutien aux personnes.</p><p>La proposition implique également que les personnes travaillant dans les services sociaux et fournissant un soutien aux personnes handicapées doivent fournir les informations nécessaires à Socialstyrelsen. Cela signifie que les organismes qui fournissent un soutien conformément aux lois sur les services sociaux et le soutien aux personnes handicapées seront tenus de soumettre des données au nouveau registre.</p><p>Il est important de noter que la loi contient également des règles pour protéger la vie privée des individus. Cela signifie qu&#x27;il faut veiller à ce que les données personnelles ne soient pas utilisées d&#x27;une manière qui porte atteinte à la vie privée. L&#x27;objectif est de garantir une gestion sécurisée de toutes les informations collectées.</p><p>Si la proposition est adoptée, la nouvelle loi entrera en vigueur le 1er août 2026. La règle obligeant les organismes à fournir des informations entrera en vigueur un an plus tard, le 1er août 2027. Il existe également une modification concernant les frais, dont l&#x27;entrée en vigueur est proposée au 1er juin 2026.</p>",
   "relevans": {
-    "funktion": 1
+    "gdpr": 1,
+    "funktion": 1,
+    "konsument": 1,
+    "integritet": 2
   }
 }

@@ -12,8 +12,8 @@
   "tldr": "The government wants to introduce a new law that requires investigations into deaths determined to be suicides, in order to learn how to prevent such occurrences in the future. The aim is for society to be able to improve its preventative efforts.",
   "lattlast": "<p>The government proposes a new law that would establish a national investigative function to examine deaths related to suicide. If a child dies by suicide, an investigation will always be conducted. For adults, investigations will be carried out if it is deemed that they could help prevent future suicides, or if the cause of death is not clear.</p><p>A special agency, whose name will be determined by the government, will lead this work. This agency will investigate the circumstances surrounding the death and examine what actions were taken, or could have been taken, to save the person&#x27;s life. Close family members will have the opportunity to provide information to the investigation if they feel comfortable doing so.</p><p>To ensure the quality of the investigations, other government agencies and experts will be obligated to provide assistance and the necessary information. Those working on the investigations will be subject to confidentiality, meaning they cannot disclose confidential information they have learned. Changes will also be made to laws regarding the handling of personal data and confidentiality.</p><p>If the Parliament votes in favor of the proposal, the new rules will come into effect on July 2, 2026.</p>",
   "relevans": {
+    "gdpr": 1,
     "barn": 1,
-    "kollektiv": 1,
-    "ny_i_sverige": 1
+    "integritet": 1
   }
 }

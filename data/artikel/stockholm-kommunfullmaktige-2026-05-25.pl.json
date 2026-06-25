@@ -13,10 +13,18 @@
   "tldr": "Miasto Sztokholm podjęło wiele decyzji dotyczących nowych projektów budowlanych, parków oraz obszarów chronionej przyrody. Dotyczy to m.in. budowy nowych mieszkań, dróg oraz ochrony przyrody w różnych częściach miasta.",
   "lattlast": "<p>Miasto Sztokholm podjęło decyzje o realizacji kilku dużych projektów budowlanych. Planowane jest budowanie nowych mieszkań w Aspudden oraz nowych domów opieki w Bagarmossen i Gröndal. Istnieją również plany budowy nowego biura administracyjnego w Järva oraz rozwoju promenady wzdłuż kanału Karlbergskanalen.</p><p>W zakresie transportu i dróg, podjęto decyzje o dużych pracach na zachodniej części mostów Liljeholmsbron. Planowana jest również budowa nowego depotu metra w obszarze przemysłowym Älvsjö. W celu ułatwienia wizytom podczas Mistrzostw Świata w piłce nożnej 2022 roku, wprowadzono również tymczasowe przepisy dotyczące czasu, w którym restauracje i bary mogą serwować alkohol.</p><p>W wielu miejscach w mieście mają być chronione obszary przyrodnicze. Kilka nowych obszarów zostanie wyznaczonych jako tzw. obszary ochrony siedlisk, co oznacza, że przyroda w tych miejscach będzie chroniona. Dotyczy to takich miejsc jak Hemskogen, Vikingaberget, Gökdalen i Åkeslund. Podjęto również decyzję o utworzeniu nowego rezerwatu przyrody w obszarze Kyrkhamn-Riddersviks.</p><p>Miasto zawarło również szereg transakcji i umów. Obejmuje to m.in. zakup akcji spółki Kista Utveckling AB oraz zakup pozwoleń na redukcję emisji, mających na celu ochronę klimatu. Podpisano również umowę na budowę Centrum Nobla w dzielnicy Södermalm.</p>",
   "relevans": {
-    "bil": 1,
+    "b_industri": 1,
+    "b_bygg": 1,
+    "b_besok": 1,
+    "b_fastighet": 1,
+    "miljo": 1,
     "glesbygd": 1,
     "storstad": 1,
+    "kronisk": 1,
+    "beroende": 1,
+    "sparare": 1,
+    "friluftsliv": 1,
     "klimat": 2,
-    "halsa": 1
+    "fortroendevald": 1
   }
 }

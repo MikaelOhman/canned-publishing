@@ -13,7 +13,10 @@
   "tldr": "A megbeszélés egy LVM (a fiatalok védelméről szóló törvény) vonatkozásában tett fellebbezés tárgyalásáról szól. Az LVM egy olyan törvény, amely a veszélyben lévő fiatalok védelméről szól. Mivel az ügy érzékeny személyes adatokkal kapcsolatos, a részletek bizalmasak.",
   "lattlast": "<p>A Nora önkormányzat szociális bizottságának munkabizottsága 2026. június 16-án tartott ülést. A legfontosabb tárgypont egy LVM-hez (Lagen om vård av unga som riskerar att skadas – törvény a veszélyeztetett fiatalok védelméről) kapcsolódó fellebbezés kezelése volt. Az LVM az a törvény, amely meghatározza, hogy mikor veszi át az önkormányzat a gondozást olyan gyermekek esetében, akik veszélyben vannak.</p><p>Mivel az ügy tartalmaz olyan információkat, amelyek bizalmasak, a részletek nem tekinthetők nyilvánosan. A bizalmasság azt jelenti, hogy az információk titkosak, hogy megvédjék az érintett személyeket. Ennek okából a konkrét részletek nem szerepelnek ebben a dokumentumban.</p><p>Az összes információ erről a döntésről biztonságosan a szociális osztálynál tárolódik, amely az önkormányzat azon részlege, amely a szociális támogatásért és ellátásért felelős. Csak az ügy tárgyának címe látható ebben a nyilvános jegyzőkönyvben.</p>",
   "relevans": {
+    "b_vard": 1,
+    "gdpr": 1,
     "barn": 1,
-    "halsa": 1
+    "kronisk": 1,
+    "integritet": 1
   }
 }

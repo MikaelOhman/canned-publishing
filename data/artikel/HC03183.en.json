@@ -12,7 +12,8 @@
   "tldr": "Sweden is implementing an EU directive concerning so-called intelligent transport systems for road traffic. A wider range of traffic data and digital services will be made available in a machine-readable format through a national access point, enabling their use throughout the EU.",
   "lattlast": "<p>Intelligent transport systems are digital services and data used to make road traffic smarter and safer, such as real-time information about traffic and roads.</p><p>The government proposes changes to Swedish law to implement an EU directive. These changes expand the types of data and services that are covered.</p><p>Data must be made available in a machine-readable format through a national access point and cover certain geographical areas at specific times, so that the services can function throughout the EU.</p>",
   "relevans": {
-    "bil": 1,
+    "b_transport": 3,
+    "eu_marknad": 1,
     "glesbygd": 1
   }
 }

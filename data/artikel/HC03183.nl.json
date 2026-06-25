@@ -12,7 +12,8 @@
   "tldr": "Zweden implementeert een Europese richtlijn over zogenaamde intelligente transportsystemen in het wegverkeer. Meer soorten verkeersgegevens en digitale diensten moeten beschikbaar worden gesteld in een machineleesbaar formaat via een nationaal toegangspunt, zodat ze in de hele EU kunnen worden gebruikt.",
   "lattlast": "<p>Intelligente transportsystem zijn digitale diensten en data die worden gebruikt om het wegverkeer slimmer en veiliger te maken – bijvoorbeeld real-time informatie over verkeer en wegen.</p><p>De regering stelt wijzigingen voor in de Zweedse wet om een EU-richtlijn te implementeren. Deze wijzigingen breiden de soorten data en diensten uit die vallen onder de wetgeving.</p><p>De data moet beschikbaar worden gesteld in een machineleesbaar formaat via een nationaal toegangspunt en moet bepaalde geografische gebieden bestrijken op specifieke tijdstippen, zodat de diensten in de hele EU kunnen functioneren.</p>",
   "relevans": {
-    "bil": 1,
+    "b_transport": 3,
+    "eu_marknad": 1,
     "glesbygd": 1
   }
 }

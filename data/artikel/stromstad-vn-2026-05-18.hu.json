@@ -13,6 +13,11 @@
   "tldr": "A strömstadi választási bizottság felkészült a 2026-os választásokra azzal, hogy áttekintette a biztonsági intézkedéseket, a szavazatok szállítását és a szavazóközpontok elérhetőségét. Két személyt különösen feladatkörrel ruháztak fel, hogy kezeljék azoknak a választóknak a szavazatait, akik védett személyes adatokkal rendelkeznek.",
   "lattlast": "<p>A választási bizottság felülvizsgálta a közelgő választás terveit. Megvizsgálta a biztonsági intézkedéseket, valamint azt, hogy a szavazatok hogyan kerülnek a megyei kormányhivatalba a választás napja után, 2026. szeptember 14-én. Ez ugyanúgy fog zajlani, mint a korábbi választásokon.</p><p>A bizottság ellenőrizte az összes szavazókörnyezetet. Vizsgálat tárgyát képezte, hogy a helyiségek biztonságosak-e, és hogy akadálymentesek-e, azaz, hogy a mozgásukban korlátozottak is könnyedén be tudják-e jutni. Strömstad összes szavazókörnyezete megfelel ezeknek a követelményeknek.</p><p>Annak érdekében, hogy védelmet nyújtsanak azoknak a személyeknek, akik védett személyes adatokkal rendelkeznek, a bizottság két személyt választott ki: Jessica Corneliusson és Ulrika Haugland. Ők különleges jogosultságot kaptak a választási rendszerben, amelynek neve L-SKYAD. Ez azt jelenti, hogy jogosultak biztonságosan kezelni és regisztrálni a védett személyes adatokkal rendelkező választók előzetes szavazatait.</p><p>Emellett információk voltak elérhetőek a választás előtti fenyegetésről, valamint egy közelgő találkozóról a könyvvizsgálókkel, akik ellenőrzik, hogy a község megfelelően végzi-e a feladatait. A bizottság továbbá tárgyalta a választási biztosok felvételére vonatkozó szabályokat, valamint a szavazókörnyezetek melletti befolyásolás kérdését.</p>",
   "relevans": {
-    "funktion": 1
+    "b_transport": 1,
+    "kompetens": 1,
+    "gdpr": 1,
+    "lokaler": 1,
+    "funktion": 1,
+    "integritet": 1
   }
 }

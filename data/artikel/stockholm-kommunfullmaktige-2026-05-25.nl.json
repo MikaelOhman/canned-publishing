@@ -16,10 +16,18 @@
   "tldr": "De gemeente Stockholm heeft veel beslissingen genomen over nieuwe bouwprojecten, parken en beschermde natuurgebieden. Dit omvat onder andere de bouw van nieuwe woningen, nieuwe wegen en de bescherming van de natuur in verschillende delen van de stad.",
   "lattlast": "<p>De gemeente Stockholm heeft besloten tot verschillende grote bouwprojecten. Er worden nieuwe woningen gebouwd in Aspudden en nieuwe verzorgingshuizen in Bagarmossen en Gröndal. Er zijn ook plannen voor een nieuw administratief kantoor in Järva en voor de ontwikkeling van de promenade langs het Karlbergskanaal.</p><p>Wat betreft verkeer en wegen, er zijn grote werkzaamheden gepland aan het westelijke deel van de Liljeholmsbruggen. Er zijn ook plannen voor een nieuwe metrodepot in het industrieterrein van Älvsjö. Om bezoekers tijdens het WK voetbal 202lag te helpen, zijn er ook tijdelijke regels vastgesteld over hoe lang restaurants en bars alcohol mogen serveren.</p><p>De natuur moet op verschillende locaties in de stad worden beschermd. Er worden verschillende nieuwe gebieden aangewezen als zogenaamde natuurreservaatgebieden, wat betekent dat de natuur daar met rust moet worden gelaten. Dit geldt voor plaatsen zoals Hemskogen, Vikingaberget, Gökdalen en Åkeslund. Er is ook besloten om een nieuw natuurreservaat te creëren in het gebied Kyrkhamn-Riddersviks.</p><p>De gemeente heeft ook transacties en overeenkomsten gesloten. Dit omvat onder andere de aankoop van aandelen in Kista Utveckling AB en de aankoop van emissiereducties om het klimaat te helpen. Er is ook een overeenkomst gesloten voor de bouw van het Nobel Center op Södermalm.</p>",
   "relevans": {
-    "bil": 1,
+    "b_industri": 1,
+    "b_bygg": 1,
+    "b_besok": 1,
+    "b_fastighet": 1,
+    "miljo": 1,
     "glesbygd": 1,
     "storstad": 1,
+    "kronisk": 1,
+    "beroende": 1,
+    "sparare": 1,
+    "friluftsliv": 1,
     "klimat": 2,
-    "halsa": 1
+    "fortroendevald": 1
   }
 }

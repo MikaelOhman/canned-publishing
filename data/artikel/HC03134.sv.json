@@ -12,6 +12,8 @@
   "tldr": "Regeringen vill ändra lagarna för att stoppa kriminella från att använda banköverföringar för brott. De nya reglerna ska göra det lättare för banker och polisen att upptäcka och stoppa penningtvätt.",
   "lattlast": "<p>Regeringen har gjort ett förslag för att hindra kriminella nätverk från att missbruka systemen för betalningar. Idag måste banker kontrollera sina kunder och berätta för Polismyndigheten om de ser något misstänkt. Nu vill man även att clearingbolag, som är de företag som skickar pengar mellan olika banker, ska ha samma ansvar att kontrollera betalningar och rapportera misstänkt brott till polisen.</p><p>Det finns också ungefär 1 200 ombud i Sverige som hjälper utländska företag med betalningar. Vissa av dessa används för att skicka pengar mellan länder, vilket kriminella kan utnyttja. För att minska risken vill regeringen att Finansinspektionen, som är den myndighet som kontrollerar att företag följer reglerna, ska kontrollera dessa ombud mer noggrant. Finansinspektionen ska då även kunna kontrollera om personerna bakom ombuden har brottslig bakgrund.</p><p>De nya reglerna handlar om att ändra flera olika lagar som styr hur pengar och betalningar får hanteras i Sverige. Syftet är att stoppa både penningtvätt och finansiering av terrorism. Om förslaget går igenom och riksdagen röstar ja, kommer de nya lagarna att börja gälla den 1 juli 2025.</p>",
   "relevans": {
-    "foretagare": 1
+    "b_finans": 3,
+    "beroende": 3,
+    "otrygg": 1
   }
 }

@@ -12,6 +12,8 @@
   "tldr": "The government wants to change the laws to prevent criminals from using bank transfers to commit crimes. The new regulations will make it easier for banks and the police to detect and stop money laundering.",
   "lattlast": "<p>The government has proposed measures to prevent criminal networks from exploiting payment systems. Currently, banks are required to monitor their customers and report any suspicious activity to the police. The proposal now extends this responsibility to clearing companies, which are the businesses that transfer money between banks, requiring them to also monitor payments and report suspected criminal activity to the police.</p><p>There are approximately 1,200 agents in Sweden who assist foreign companies with payments. Some of these agents are used to transfer money between countries, which can be exploited by criminals. To reduce this risk, the government wants the Financial Supervisory Authority (Finansinspektionen), the agency responsible for ensuring that companies comply with regulations, to conduct more thorough checks on these agents. The Financial Supervisory Authority should also be able to investigate whether the individuals behind the agents have a criminal record.</p><p>The new regulations involve amending several laws that govern how money and payments are handled in Sweden. The purpose is to combat both money laundering and the financing of terrorism. If the proposal is approved and the Parliament votes in favor, the new laws will come into effect on July 1, 2025.</p>",
   "relevans": {
-    "foretagare": 1
+    "b_finans": 3,
+    "beroende": 3,
+    "otrygg": 1
   }
 }

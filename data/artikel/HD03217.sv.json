@@ -12,6 +12,7 @@
   "tldr": "Ett nytt brott införs i brottsbalken – missbruk av offentlig ställning. Det blir straffbart för den som i offentlig tjänst medvetet bryter mot lag för att ge sig själv eller någon annan en otillbörlig fördel, eller för att missgynna någon. Grova fall döms som grovt brott.",
   "lattlast": "<p>Allmänheten har rätt att kräva att offentlig verksamhet sköts korrekt och ansvarsfullt. Regeringen vill stärka möjligheten att utkräva individuellt ansvar när fel begås.</p><p>Därför införs ett nytt, gradindelat brott i brottsbalken: missbruk av offentlig ställning.</p><p>Det blir straffbart att i offentlig tjänst eller uppdrag medvetet bryta mot lag eller förordning – genom att göra något eller låta bli – för att skaffa sig själv eller någon annan en otillbörlig fördel, eller för att otillbörligt missgynna någon. Allvarliga fall döms som grovt brott.</p>",
   "relevans": {
-    "kollektiv": 1
+    "beroende": 1,
+    "offentliganstalld": 3
   }
 }

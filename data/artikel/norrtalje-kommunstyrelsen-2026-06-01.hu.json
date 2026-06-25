@@ -13,10 +13,20 @@
   "tldr": "A norrtäljei önkormányzat vezetősége több döntést hozott a település épületeibe, iskoláiba és környezetébe történő beruházásokkal, valamint az építési tervekben és a díjakban bevezetett változásokkal kapcsolatban.",
   "lattlast": "<p>A községi tanács több fontos beruházást is jóváhagyott a 2026-os évre. Ezek közé tartozik a Jupiter 1 épület lebontása, hogy helyet biztosítsanak parkolónak és zöldfelületnek, valamint egy új szelektív hulladékgyűjtő épület építése a Norrtälje kikötőben található Hamnplan területen. Emellett pénzt szánnak a községi épületekben található riasztó- és beléptetőrendszerek cseréjére, valamint az iskolák olyan fejlesztésére, amelyek speciális igényű tanulókat szolgálják.</p><p>Számos szabályozási és díjváltozást is elfogadtak. Ezek közé tartozik a gyermek- és iskolai ügyekkel foglalkozó szerv által nyújtott szolgáltatások új ára, valamint a kultúra és a szabadidő területén érvényes új díjak. Ezenkívül jóváhagyták a tervek módosítását az Åkerö és a Häverö-Bergby területeken, hogy szabályozzák, hogyan lehet a területeket használni.</p><p>A község egy különleges alapból, a &quot;vidéki és kreativitás alapból&quot; támogatást kapott a terület fejlesztésének elősegítése érdekében. Ugyanakkor felmérték, hogyan lehet hatékonyabban védekezni az olyan bűncselekmények ellen, amelyek a közszolgáltatásokat érintik, például egyértelműbb eljárási szabályok bevezetése a rendőrségi bejelentésekhez, valamint a helytelenül kifizetett összegek visszaszorítása.</p><p>Végül megvitatták a községi intézményekhez való hozzáférhetőséget. A cél olyan megoldások megtalálása, amelyek megkönnyítik mindenki számára a községi szolgáltatások és épületek használatát.</p>",
   "relevans": {
-    "barn": 2,
-    "bil": 1,
+    "b_bygg": 1,
+    "b_vard": 1,
+    "b_kultur": 1,
+    "finansiering": 1,
+    "infrastruktur": 1,
+    "f_landsbygd": 1,
+    "barn": 1,
     "glesbygd": 1,
+    "bil": 1,
+    "funktion": 1,
+    "konsument": 2,
+    "batagare": 1,
     "klimat": 1,
-    "funktion": 1
+    "kultur": 1,
+    "otrygg": 1
   }
 }

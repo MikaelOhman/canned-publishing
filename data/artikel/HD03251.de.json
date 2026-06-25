@@ -12,6 +12,9 @@
   "tldr": "Die Versorgung von Personen mit Suchtproblemen und psychischen Erkrankungen muss besser miteinander verzahnt werden. Die Regionen sollen die Suchtbehandlung mit der restlichen psychiatrischen Versorgung koordinieren, die Anforderungen an individuelle Behandlungspläne werden verschärft, und die Region ist verpflichtet, der Kommune eine Entschädigung zu zahlen, wenn diese ihren Teil der Planung nicht erfüllt.",
   "lattlast": "<p>Vorschläge sollen die Versorgung für Personen verbessern, die ein schädliches Konsumverhalten oder eine Sucht zusammen mit anderen psychischen Erkrankungen haben, und sie einheitlicher und kohärenter gestalten.</p><p>Die Regionen sollen die Suchtbehandlung so organisieren, dass sie in Abstimmung mit anderen psychiatrischen Angeboten erfolgt. Die Anforderungen an den individuellen Behandlungsplan, der für Personen in Pflegeheimen oder betreuten Wohnformen erstellt wird, werden verschärft.</p><p>Wenn die Region ihren Verpflichtungen in Bezug auf den individuellen Behandlungsplan nicht nachkommt, ist sie verpflichtet, der Kommune Schadensersatz zu leisten. Der Sozialausschuss muss die Region informieren, wenn eine Person in ein Pflegeheim oder eine betreute Wohneinrichtung aufgenommen wird.</p>",
   "relevans": {
-    "halsa": 3
+    "tillstand": 3,
+    "kronisk": 3,
+    "psykisk": 3,
+    "beroende": 3
   }
 }

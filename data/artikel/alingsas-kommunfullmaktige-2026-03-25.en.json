@@ -13,8 +13,17 @@
   "tldr": "The municipality of Alingsås has decided on new fees for healthcare and care services starting in 2026. This includes, among other things, that the municipality will now begin charging for the transportation of deceased individuals.",
   "lattlast": "<p>In the municipality of Alingsås, new prices have been decided for various services within healthcare and social care, effective in 2026. This change is due to new legislation and the introduction of a fee for the transportation of deceased individuals, a service that was previously provided free of charge.</p><p>The municipality has investigated how other municipalities in the Gothenburg area handle similar situations. The research showed that most other municipalities charge a fee for these types of transportation. According to the law, the municipality has the right to charge a fee that corresponds to the actual cost of the service to the municipality.</p><p>In addition to the changes in care and social services, new regulations have been approved for building permits and modifications to the rules regarding waste management. New guidelines have also been established for the governance of the municipal company, Alingsås Energi.</p><p>During the meeting, collaborations with the neighboring municipality of Borås were also discussed. The two municipalities plan to work together on issues related to the environment, health, and the control of food and alcohol.</p>",
   "relevans": {
-    "bostadsagare": 1,
-    "klimat": 2,
-    "halsa": 1
+    "b_bygg": 1,
+    "b_transport": 1,
+    "b_vard": 1,
+    "b_energi": 1,
+    "miljo": 1,
+    "mark_bygglov": 1,
+    "bygger": 1,
+    "kronisk": 1,
+    "beroende": 1,
+    "energikund": 1,
+    "konsument": 2,
+    "klimat": 1
   }
 }

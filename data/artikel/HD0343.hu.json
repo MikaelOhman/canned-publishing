@@ -12,6 +12,7 @@
   "tldr": "A kormány szeretné módosítani a szabályokat, hogy könnyebbé tegye az adócsalások és a csalások miatti büntetések kiszabását. A javaslat értelmében akár a helytelen szóbeli információk is bírsággal vagy büntetéssel járhatnak.",
   "lattlast": "<p>A kormány egy javaslatot terjesztett elő, amely megnehezíti a büntetés elkerülését adóügyi bűncselekmények esetén. Jelenleg vannak kivételek, amelyek miatt a szóbeli információk nem feltétlenül számítanak ugyanúgy, mint az írásosak, de a kormány szeretné eltörölni ezt a kivételt. Ez azt jelenti, hogy ha valaki szóbelinek ad hamis információt, akkor mostantól felelősségre vonható az adótörvény megsértése miatt.</p><p>A javaslat a pótdíjakkal kapcsolatban is érinti a kérdést, amelyek egy olyan díj, amelyet az adóhatóságnak kell fizetni. Itt is szeretnék, hogy a szóbeli információk bizonyítékként szolgálhassanak a díjak behajtásához. A cél, hogy a szabályok világosabbak legyenek, és bezárják azokat a résnyílást, amelyeket adóügyi bűncselekmények elkövetésére használnak.</p><p>A javaslat egy másik része az áfakényszerítési csalásokkal foglalkozik. A kormány szeretné módosítani azt a meghatározást, hogy mi számít hamis információként az áfa tekintetében. Ha egy személy olyan információt ad meg egy tranzakcióról, amely valójában egy csalás része, akkor azt hamisnak kell tekinteni, ha a személy tudta vagy kellett volna tudnia, hogy az egy csalás.</p><p>Ha a parlament megszavazza a javaslatot, az új szabályok 2026. április 1-jén lépnek életbe. A javaslat egy dokumentumban található, amely a parlamenthez benyújtott &quot;proposition 2025/26:43&quot; néven ismert.</p>",
   "relevans": {
-    "foretagare": 1
+    "moms": 2,
+    "konsument": 2
   }
 }

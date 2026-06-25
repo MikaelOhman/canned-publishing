@@ -12,6 +12,9 @@
   "tldr": "Sverige ska ändra sina lagar för att följa nya EU-regler om ett gemensamt system för visum. Det innebär att mer information om visum och uppehållstillstånd ska sparas och delas mellan länder i EU.",
   "lattlast": "<p>VIS är ett gemensamt system i EU som används för att dela information om visum för korta resor. Nu ändras reglerna så att systemet även ska innehålla information om längre visum och uppehållstillstånd. Detta görs för att förbättra samarbetet mellan länder i EU.</p><p>Regeringen har lagt fram förslag på nya lagar i Sverige för att detta ska fungera. En viktig del är att det ska bli tydligare när personer som söker visum måste lämna fingeravtryck och bli fotograferade. Detta krävs för att myndigheterna ska kunna kontrollera uppgifterna i systemet.</p><p>Förslaget handlar också om hur personuppgifter ska hanteras och skyddas. Det finns nya regler för hur polisen och andra myndigheter får använda informationen i systemet. Syftet är att göra det lättare för polisen att använda informationen för att bekämpa brott.</p><p>De nya lagarna ska ändra flera olika lagar, som till exempel utlänningslagen och lagar om hur polisen får använda personuppgifter. De nya reglerna börjar gälla vid ett datum som bestäms av EU-kommissionen eller av regeringen.</p>",
   "relevans": {
-    "ny_i_sverige": 1
+    "gdpr": 1,
+    "ny_i_sverige": 1,
+    "otrygg": 1,
+    "integritet": 1
   }
 }

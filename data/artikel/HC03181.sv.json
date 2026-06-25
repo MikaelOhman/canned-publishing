@@ -12,6 +12,9 @@
   "tldr": "Regeringen vill ändra reglerna för val för att göra det säkrare och lättare att rösta. Förslaget innebär bland annat att fler personer ska kunna rösta enkelt och att digitala röstkort ska kunna skickas ut.",
   "lattlast": "<p>Regeringen har gjort ett förslag om att ändra vallagen, som är de lagar som styr hur val i Sverige går till. Syftet är att skydda valen och se till att alla som har rätt att rösta också kan göra det utan problem. Förslaget ska börja gälla den 1 december 2025.</p><p>En viktig del är att Valmyndigheten, som är den myndighet som ansvarar för valen, ska få ett tydligare ansvar att skydda valprocessen. Om något fel eller något problem händer vid röstningen måste kommuner och andra myndigheter snabbt berätta detta för Valmyndigheten. Detta görs för att man snabbt ska kunna hantera händelser som kan påverka valet.</p><p>Det blir också lättare för vissa grupper att rösta. Till exempel ska personer som bor på särskilda ungdomshem kunna få hjälp av röstmottagare som kommer hem till dem. För svenskar som bor utomlands finns det nya möjligheter att rösta i Sverige om man har hamnat utanför listan över röstberättigade.</p><p>Slutligen vill regeringen att det ska bli enklare att få information. Man vill kunna skicka röstkort digitalt till personer som använder en säker digital brevlåda. En digital brevlåda är en säker plats på nätet där myndigheter kan skicka viktiga meddelanden till dig.</p>",
   "relevans": {
-    "funktion": 3
+    "infrastruktur": 1,
+    "ung": 1,
+    "funktion": 3,
+    "batagare": 1
   }
 }

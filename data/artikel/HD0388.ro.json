@@ -12,6 +12,10 @@
   "tldr": "Guvernul dorește să modifice legile privind modul în care Agenția Fiscală, Vama și Biroul de Recuperare a Creanțelor gestionează datele personale. Scopul este ca autoritățile să poată utiliza tehnologii moderne pentru a controla drepturile și taxele într-un mod mai eficient, menținând în același timp protecția datelor personale.",
   "lattlast": "<p>Guvernul a prezentat o propunere de a înlocui regulile vechi privind modul în care datele personale sunt gestionate de trei agenții guvernamentale importante: Agenția Fiscală, Vama și Biroul de Recuperare a Creanțelor. Noile legi ar trebui să permită agențiilor să utilizeze informațiile într-un mod mai modern, adaptat tehnologiei actuale.</p><p>Propunerea implică, de asemenea, că agențiile vor avea drepturi mai clare de a utiliza analiza de date. Acest lucru înseamnă că acestea vor putea utiliza programe de calculator pentru a căuta modele și a face selecții în registrele lor. Acest lucru ar trebui să le ajute să lucreze mai eficient în controalele lor, de exemplu, atunci când caută erori în impozite sau taxe vamale.</p><p>În ciuda faptului că agențiile primesc instrumente noi, obiectivul este de a proteja viața privată a oamenilor. Noile legi trebuie să funcționeze în concordanță cu regulile de protecție a datelor ale UE, cunoscute sub numele de GDPR, pentru a se asigura că datele personale nu sunt utilizate în mod abuziv. Legile trebuie să protejeze individul împotriva încălcării intimității sale.</p><p>Dacă Parlamentul votează în favoarea propunerii, noile reguli vor intra în vigoare la 2 aprilie 2026. Propunerea include, de asemenea, numeroase modificări minore în alte legi care vizează o gamă largă de aspecte, de la impozitul pe alcool și tutun până la regulile de înregistrare a populației și sprijinul pentru studenți.</p>",
   "relevans": {
-    "student": 1
+    "gdpr": 3,
+    "import": 3,
+    "beroende": 1,
+    "skuldsatt": 1,
+    "integritet": 2
   }
 }

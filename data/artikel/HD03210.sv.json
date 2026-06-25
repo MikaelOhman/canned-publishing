@@ -12,8 +12,10 @@
   "tldr": "Regeringen vill införa nya straff och avgifter för att stoppa felaktiga utbetalningar från Försäkringskassan och Pensionsmyndigheten. Förslaget innebär att man kan få betala en avgift eller bli stoppad från att få bidrag om man har lämnat fel uppgifter.",
   "lattlast": "<p>Regeringen har lagt fram ett förslag om att införa nya regler för att skydda pengarna i socialförsäkringen. Det betyder att personer och företag som orsakar att felaktiga pengar betalas ut kan få betala en administrativ sanktionsavgift. Detta gäller även för de som ger tandvårdsstöd från staten.</p><p>Försäkringskassan och Pensionsmyndigheten ska få bestämma om dessa avgifter ska betalas. Om en person har lämnat fel uppgifter med flit eller varit väldigt slarvig, kan myndigheterna också bestämma att personen inte får få vissa bidrag under en viss tid. Detta kallas för en spärr.</p><p>Förslaget innebär också att reglerna för när man måste anmäla misstänkta brott ändras. Om en person redan kan få en avgift för ett misstag, behöver man inte alltid anmäla det som ett brott. Detta görs för att undvika att samma sak straffas två gånger på samma sätt.</p><p>Om riksdagen röstar ja till förslaget, planeras de nya reglerna att börja gälla den 1 juli 2026. Förslaget omfattar ändringar i flera olika lagar som styr hur bidrag och ersättningar i Sverige fungerar.</p>",
   "relevans": {
+    "b_finans": 1,
     "pensionar": 1,
-    "foretagare": 1,
-    "halsa": 1
+    "sjukskriven": 1,
+    "tandvard": 2,
+    "konsument": 1
   }
 }

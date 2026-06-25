@@ -12,7 +12,11 @@
   "tldr": "Regeringen vill ändra betygssystemet i skolan för att det ska bli mer rättvist och för att stoppa att betyg blir för höga. Det nya systemet ska använda både betyg och nationella prov för att visa hur bra en elev är.",
   "lattlast": "<p>Regeringen har lagt fram ett förslag om att ändra skollagen. Målet är att elevernas kunskaper ska visas på ett mer rättvist sätt och att man ska motverka att betyg blir för bra utan att eleverna faktiskt har rätt kunskap. Förslaget innebär att man inför en ny skala med tio steg, från 1 till 10, i grundskolan och gymnasiet.</p><p>För att räkna ut hur bra en elev är ska man använda ett så kallat meritvärde. Detta värde ska byggas på både elevernas betyg och resultaten från nya nationella slutprov. Dessa prov ska finnas i grundskolan, specialskolan, gymnasieskolan och i vuxenutbildningen som drivs av kommunen. Det är tänkt att proven ska rättas på ett centralt ställe för att det ska bli likadant för alla.</p><p>Det finns också nya regler för att komma in på olika program och utbildningar. För att få börja på ett nationellt program på gymnasiet krävs ett meritvärde på minst 4. För att få en gymnasieexamen krävs ett genomsnitt på minst 4 och att man har minst 2 250 poäng totalt. När man söker till högskolan ska man inte längre titta på enbart betyg, utan använda det nya meritvärdet som grund.</p><p>De flesta av dessa ändringar planeras att börja gälla den 1 juli 2028. För den vuxna utbildningen som kommunen ansvarar för gäller dock ett senare datum, nämligen den 1 januari 2031.</p>",
   "relevans": {
-    "barn": 2,
-    "student": 1
+    "b_bygg": 1,
+    "b_utbildning": 1,
+    "barn": 1,
+    "student": 1,
+    "gymnasieelev": 1,
+    "vuxenstudier": 1
   }
 }

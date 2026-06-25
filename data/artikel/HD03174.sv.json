@@ -12,8 +12,10 @@
   "tldr": "Regeringen vill göra kontroller av anställda i skolan och förskolan hårdare för att skydda barn mot våld och övergrepp. Det innebär att man ska kontrollera fler typer av register och att kontrollerna ska ske oftare.",
   "lattlast": "<p>Regeringen har gjort ett förslag för att öka tryggheten i skolan och förskolan. Målet är att skydda barn och elever mot våld, övergrepp och dålig påverkan. För att lyckas med detta vill man ändra reglerna för hur man kontrollerar personer som ska börja jobba inom skolan.</p><p>Idag kontrollerar man bara belastningsregistret, vilket är ett register över dömda brott. Nu föreslår regeringen att man även ska titta i misstankeregistret, som innehåller uppgifter om personer som är misstänkta för brott. Man vill också att kontrollen ska gälla för de som jobbar inom kommunal vuxenutbildning.</p><p>Det kommer också att bli krav på att kontrollerna görs oftare. Tidigare har ett utdrag ur registret kunnat vara upp till ett år gammalt, men nu föreslås att det inte får vara äldre än sex månader. Även för personer som redan jobbar hos samma arbetsgivare måste man visa upp ett nytt utdrag var sjätte månad istället för varje år.</p><p>Om riksdagen röstar ja till förslaget kommer de nya reglerna att börja gälla den 15 juli 2026. Regeringen tycker också att Skolinspektionen och kommunerna ska få möjlighet att kontrollera misstankeregistret när de granskar vem som äger och leder skolor.</p>",
   "relevans": {
+    "arbetsgivare": 2,
+    "b_utbildning": 1,
     "barn": 3,
-    "pensionar": 1,
-    "kollektiv": 1
+    "vuxenstudier": 1,
+    "otrygg": 1
   }
 }

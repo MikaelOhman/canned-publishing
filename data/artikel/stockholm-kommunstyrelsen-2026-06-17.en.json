@@ -15,8 +15,11 @@
   "tldr": "The City Council of Stockholm has responded to questions regarding traffic changes, addressed a legal review of the Slussen area, and provided feedback on proposals concerning how personal data can be used to prevent crime.",
   "lattlast": "<p>--- The Municipal Board has submitted a response to the Administrative Court of Stockholm. This concerns a review of a previous decision regarding the sale of a property located near the bus terminal in Slussen.</p><p>The city has also responded to a proposal from the National Council for Crime Prevention. The proposal concerns changes to the rules regarding the handling of personal data and the regulations concerning confidentiality, that is, what can be said and shown about people.</p><p>Finally, the Municipal Board has responded to information from the Stockholm Region regarding changes to traffic for SL and WÅAB during the year 2026/27. The parties Moderaterna and Liberalerna have issued a separate statement regarding these traffic changes.</p>",
   "relevans": {
+    "b_fastighet": 2,
+    "gdpr": 1,
+    "pendlare": 1,
     "kollektiv": 2,
-    "storstad": 1,
-    "halsa": 1
+    "kronisk": 1,
+    "integritet": 1
   }
 }

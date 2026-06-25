@@ -12,6 +12,7 @@
   "tldr": "Azoknak a személyeknek, akik szélenergia-telepek közelében laknak, pénzt kell kapniuk a telepek üzemeltetőitől. A pénzt a nyereség egy részéből kell kifizetni, és azok számára, akik saját lakásban élnek, adómentesnek kell lennie.",
   "lattlast": "<p>A kormány egy új törvénytervezetet terjesztett elő, amely a szélerőművek által generált bevétel megosztásával foglalkozik. Ez azt jelenti, hogy azok, akik a szélerőművek közelében laknak, kártérítést kapnak, amelyet &quot;szélerőmű-kártérítésként&quot; neveznek. Ezt a kártérítést az a vállalat fizeti, amely a szélerőműveket üzemelteti.</p><p>Ahhoz, hogy valaki jogosult legyen a kártérítésre, annak egy lakóházban kell laknia, amely közel van a szélerőművekhez. A távolságot a szélerőművek magasságának kilencszerese alapján számolják. Minél közelebb él valaki a szélerőműhöz, annál több pénzt kap.</p><p>Emellett javaslatot tettek az adószabályok módosítására. Ha valaki kártérítést kap a saját otthonában való lakásért, akkor nem kell adót fizetnie ennek a kártérítésnek a részéről. Ezt nevezik annak, hogy a kártérítés adómentes.</p><p>Ha a parlament megszavazza a javaslatot, a tervek szerint az új szabályok 2026. július 1-jén lépnek hatályba.</p>",
   "relevans": {
-    "foretagare": 1
+    "b_energi": 3,
+    "bolagsskatt": 1
   }
 }

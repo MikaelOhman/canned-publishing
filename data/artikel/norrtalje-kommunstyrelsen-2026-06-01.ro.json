@@ -13,10 +13,20 @@
   "tldr": "Consiliul municipal din Norrtälje a luat mai multe decizii referitoare la investiții în clădirile, școlile și mediul înconjurător ale comunei, precum și la modificări ale planurilor de construcție și ale taxelor.",
   "lattlast": "<p>Consiliul municipal a decis să realizeze mai multe investiții importante pentru anul 2026. Acestea includ demolarea clădirii Jupiter 1 pentru a crea locuri de parcare și spații verzi, precum și construirea unei noi clădiri pentru colectarea deșeurilor reciclabile în zona Hamnplan, din portul Norrtälje. De asemenea, se vor aloca fonduri pentru înlocuirea sistemelor de alarmă și a sistemelor de acces în clădirile primăriei, precum și pentru adaptarea școlilor pentru elevii cu nevoi speciale.</p><p>Au fost, de asemenea, aprobate modificări ale regulilor și tarifelor. Acestea includ noi prețuri pentru serviciile oferite de comisia pentru copii și școli, precum și noi taxe pentru cultură și recreere. În plus, au fost aprobate modificări ale planurilor de construcție pentru zonele din Åkerö și Häverö-Bergby, pentru a reglementa modul în care terenurile pot fi utilizate.</p><p>Primăria a primit, de asemenea, fonduri dintr-un fond special numit &quot;fond pentru dezvoltare rurală și creativitate&quot;, pentru a sprijini dezvoltarea din zonă. În același timp, s-a analizat modul în care se poate îmbunătăți combaterea infracțiunilor care afectează sistemul de protecție socială, de exemplu, prin crearea unor proceduri mai clare pentru depunerea de plângeri la poliție și pentru recuperarea sumelor de bani plătite în mod eronat.</p><p>În cele din urmă, s-a discutat despre gradul de accesibilitate al tuturor serviciilor oferite de primărie. Scopul este de a găsi soluții care să faciliteze accesul tuturor oamenilor la serviciile și clădirile primăriei.</p>",
   "relevans": {
-    "barn": 2,
-    "bil": 1,
+    "b_bygg": 1,
+    "b_vard": 1,
+    "b_kultur": 1,
+    "finansiering": 1,
+    "infrastruktur": 1,
+    "f_landsbygd": 1,
+    "barn": 1,
     "glesbygd": 1,
+    "bil": 1,
+    "funktion": 1,
+    "konsument": 2,
+    "batagare": 1,
     "klimat": 1,
-    "funktion": 1
+    "kultur": 1,
+    "otrygg": 1
   }
 }

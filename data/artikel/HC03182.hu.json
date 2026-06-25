@@ -12,6 +12,7 @@
   "tldr": "Egyes, az egészségügyi intézmények által a nemzeti gyógyszerjegyzékhez továbbítandó adatok (az orvoslás indoklása és a kezelés követésének vagy befejezésének időpontja) átadása késik – a tervezett 2025. decemberről 2028. szeptemberre. Ez több időt biztosít az egészségügyi intézmények számára a biztonságos integrációhoz.",
   "lattlast": "<p>Az országos gyógyszerlistája egy olyan adatbázis, amely rögzíti, hogy egy beteg milyen gyógyszereket kapott felírásra. Amikor orvosok elektronikus receptet írnak, bizonyos adatokat kell, hogy bejuttassanak a listába.</p><p>A kormány javasolja, hogy két ilyen adat – a gyógyszer felírásának oka, valamint a legutóbbi ellenőrzés vagy kezelés befejezésének dátuma – esetében a kötelezettség teljesítését több évvel eltolják, a 2025. december 1-jéről 2028. szeptember 1-jére.</p><p>Ennek célja, hogy az egészségügyi intézmények több időt kapjanak arra, hogy hatékonyan és a betegek biztonságát szem előtt tartva csatlakozzanak a listához.</p>",
   "relevans": {
-    "halsa": 3
+    "b_life": 3,
+    "kronisk": 3
   }
 }

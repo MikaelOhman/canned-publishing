@@ -12,7 +12,8 @@
   "tldr": "Suecia está implementando una directiva de la Unión Europea sobre los llamados sistemas de transporte inteligentes en el tráfico rodado. Se pretende que más tipos de datos de tráfico y servicios digitales estén disponibles en formato legible por máquina a través de un punto de acceso nacional, para que puedan ser utilizados en toda la Unión Europea.",
   "lattlast": "<p>Los sistemas de transporte inteligentes son servicios y datos digitales que se utilizan para hacer que el tráfico en carretera sea más eficiente y seguro, por ejemplo, proporcionando información en tiempo real sobre el tráfico y las carreteras.</p><p>El gobierno propone modificaciones en la legislación sueca para implementar una directiva de la Unión Europea. Estas modificaciones amplían los tipos de datos y servicios que están incluidos.</p><p>Los datos deben estar disponibles en un formato legible por máquina a través de un punto de acceso nacional y cubrir ciertas áreas geográficas en momentos específicos, para que los servicios puedan funcionar en toda la Unión Europea.</p>",
   "relevans": {
-    "bil": 1,
+    "b_transport": 3,
+    "eu_marknad": 1,
     "glesbygd": 1
   }
 }

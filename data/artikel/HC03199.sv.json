@@ -12,7 +12,8 @@
   "tldr": "Det införs sekretess hos myndigheter i ärenden om att erkänna – eller dra tillbaka erkännandet av – så kallade strategiska nettonollprojekt enligt EU:s förordning om nettonollindustrin. Syftet är att skydda företags affärshemligheter. Reglerna föreslås gälla från 1 december 2025.",
   "lattlast": "<p>EU:s förordning om nettonollindustrin syftar till att stärka Europas tillverkning av teknik som behövs för klimatomställningen. Vissa projekt kan erkännas som strategiska nettonollprojekt.</p><p>Regeringen föreslår att sekretess ska gälla hos statliga myndigheter i ärenden om att erkänna sådana projekt, och om att upphäva ett erkännande.</p><p>Sekretessen ska skydda uppgifter om enskildas affärs- och driftförhållanden, om det kan skada den enskilde att uppgifterna lämnas ut. Regeln förs in i offentlighets- och sekretesslagen och föreslås gälla från 1 december 2025.</p>",
   "relevans": {
-    "foretagare": 1,
+    "b_industri": 1,
+    "gron_omstallning": 1,
     "klimat": 1
   }
 }

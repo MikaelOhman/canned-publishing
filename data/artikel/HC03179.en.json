@@ -12,11 +12,16 @@
   "tldr": "The government wants to give agencies like the Swedish Social Insurance Agency (Försäkringskassan) and the Swedish Pensions Agency (Pensionsmyndigheten) better opportunities to verify information. This is intended to reduce the risk of incorrect payments being made to individuals or companies.",
   "lattlast": "<p>The government has proposed a plan that would give government agencies more power to collect information. The Swedish Social Insurance Agency (Försäkringskassan) and the Swedish Pensions Agency (Pensionsmyndigheten) would be able to request more information from both individuals and companies. Banks and providers of personal assistance may also be required to disclose information when requested by government agencies.</p><p>The proposal also concerns the social welfare committees (socialnämnder) in municipalities, which are responsible for financial assistance. They would be given the right to obtain information from the Swedish Tax Agency (Skatteverket), such as information about employees&#x27; salaries. The purpose is for government agencies to be able to make informed decisions and ensure that money reaches the right people.</p><p>At the same time, the proposal suggests changes to data protection regulations. This means that the Swedish Social Insurance Agency and the Swedish Pensions Agency would be able to protect information about how companies are run and their business operations. This is part of the new rules that the government wants to introduce.</p><p>If the Swedish Parliament (Riksdagen) votes in favor of the proposal, the new laws will come into effect on December 1, 2025. The proposal covers several different laws, including laws regarding sick pay, dental care subsidies, and the Social Services Act.</p>",
   "relevans": {
+    "arbetsgivare": 1,
+    "b_finans": 2,
+    "sjuklon": 1,
+    "infrastruktur": 1,
     "pensionar": 1,
     "lontagare": 1,
-    "foretagare": 1,
-    "kollektiv": 1,
-    "halsa": 1,
-    "funktion": 1
+    "sjukskriven": 1,
+    "bidrag": 3,
+    "funktion": 1,
+    "tandvard": 2,
+    "batagare": 1
   }
 }

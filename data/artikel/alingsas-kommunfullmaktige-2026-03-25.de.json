@@ -13,8 +13,17 @@
   "tldr": "Die Gemeinde Alingsås hat neue Gebühren für Pflege und Betreuung ab 2026 beschlossen. Dies beinhaltet unter anderem, dass die Gemeinde nun für den Transport von Verstorbenen eine Gebühr erheben wird.",
   "lattlast": "<p>In der Gemeinde Alingsås wurden neue Preise für verschiedene Dienstleistungen im Bereich Pflege und Betreuung ab dem Jahr 2026 festgelegt. Diese Änderung ist auf neue Gesetze zurückzuführen und beinhaltet die Einführung einer Gebühr für den Transport Verstorbener, was bisher nicht der Fall war.</p><p>Die Gemeinde hat untersucht, wie andere Gemeinden im Raum Göteborg vorgehen. Dabei stellte sich heraus, dass die meisten anderen Gemeinden eine Gebühr für solche Transporte erheben. Gemäß den Gesetzen hat die Gemeinde das Recht, eine Gebühr zu erheben, die den tatsächlichen Kosten für die Gemeinde entspricht.</p><p>Zusätzlich zu den Änderungen im Bereich Pflege und Betreuung wurden neue Regeln für Baugenehmigungen und Änderungen in den Vorschriften zur Abfallentsorgung beschlossen. Es wurden auch neue Richtlinien für die Führung des kommunalen Unternehmens Alingsås Energi festgelegt.</p><p>Im Rahmen der Sitzung wurden auch Kooperationen mit der Nachbarkommunen Borås diskutiert. Ziel ist es, dass die beiden Gemeinden gemeinsam an Fragen im Bereich Umwelt, Gesundheit und der Kontrolle von Lebensmitteln und Alkohol arbeiten.</p>",
   "relevans": {
-    "bostadsagare": 1,
-    "klimat": 2,
-    "halsa": 1
+    "b_bygg": 1,
+    "b_transport": 1,
+    "b_vard": 1,
+    "b_energi": 1,
+    "miljo": 1,
+    "mark_bygglov": 1,
+    "bygger": 1,
+    "kronisk": 1,
+    "beroende": 1,
+    "energikund": 1,
+    "konsument": 2,
+    "klimat": 1
   }
 }

@@ -12,6 +12,10 @@
   "tldr": "Regeringen föreslår strängare straff för unga som begår brott. Förslaget innebär bland annat att barn som är 13 år kan hållas ansvariga för allvarliga brott under en femårsperiod.",
   "lattlast": "<p>Regeringen vill ändra lagarna för att stoppa den ökande brottsligheten bland unga. Ett av de viktigaste förslagen är att sänka gränsen för när man kan bli straffad för allvarliga brott till 13 år. Detta förslag gäller under en period på fem år.</p><p>För unga vuxna som är myndiga men har begått brott, vill regeringen ta bort den så kallade ungdomsreduktionen. Det betyder att straffen inte ska sänkas bara för att personen är ung. För personer under 18 år föreslås också att de högsta möjliga straffen ska höjas till 18 års fängelse.</p><p>Även andra typer av straff och kontroller ska bli hårdare. Det handlar om att skärpa reglerna för ungdomsövervakning och att vara strängare om unga inte sköter sin ungdomsvård eller ungdomstjänst. Syftet är att reglerna ska fungera bättre mot den organiserade brottsligheten.</p><p>Om dessa ändringar blir beslutade av riksdagen, planerar regeringen att de nya reglerna ska börja gälla den 2 augusti 2026. Förslaget innebär även ändringar i många andra lagar, till exempel lagar om skatt, polisens arbete och hur man hanterar personuppgifter.</p>",
   "relevans": {
-    "barn": 1
+    "gdpr": 1,
+    "barn": 1,
+    "ung": 1,
+    "otrygg": 2,
+    "integritet": 1
   }
 }

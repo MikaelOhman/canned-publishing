@@ -12,11 +12,16 @@
   "tldr": "Il governo intende fornire alle autorità, come l'Agenzia delle Entrate e l'Agenzia delle Pensioni, maggiori possibilità di controllare i dati. Questo al fine di ridurre il rischio di pagamenti errati a persone o aziende.",
   "lattlast": "<p>Il governo ha presentato una proposta che prevede un aumento dei poteri delle autorità per la raccolta di informazioni. L&#x27;Agenzia delle Entrate e l&#x27;Ente Pensionistico saranno in grado di richiedere maggiori dettagli sia su privati che su aziende. Anche le banche e i fornitori di assistenza personale potrebbero essere obbligati a fornire informazioni su richiesta delle autorità.</p><p>La proposta riguarda anche i servizi sociali dei comuni, che sono responsabili dell&#x27;assistenza economica. Questi avranno il diritto di ottenere informazioni dall&#x27;Agenzia delle Entrate, ad esempio dati relativi agli stipendi dei dipendenti. L&#x27;obiettivo è che le autorità possano prendere decisioni corrette e garantire che i fondi raggiungano le persone giuste.</p><p>Parallelamente, si propone una modifica delle norme sulla riservatezza. Ciò significa che l&#x27;Agenzia delle Entrate e l&#x27;Ente Pensionistico potranno proteggere le informazioni relative alla gestione e alle attività delle aziende. Questo fa parte delle nuove regole che il governo intende introdurre.</p><p>Se il Parlamento approverà la proposta, le nuove leggi entreranno in vigore il 1° dicembre 2025. La proposta riguarda diverse leggi, tra cui quelle relative alla malattia, ai sussidi odontoiatrici e alla legge sui servizi sociali.</p>",
   "relevans": {
+    "arbetsgivare": 1,
+    "b_finans": 2,
+    "sjuklon": 1,
+    "infrastruktur": 1,
     "pensionar": 1,
     "lontagare": 1,
-    "foretagare": 1,
-    "kollektiv": 1,
-    "halsa": 1,
-    "funktion": 1
+    "sjukskriven": 1,
+    "bidrag": 3,
+    "funktion": 1,
+    "tandvard": 2,
+    "batagare": 1
   }
 }

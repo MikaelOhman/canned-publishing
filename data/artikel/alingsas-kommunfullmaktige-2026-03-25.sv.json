@@ -13,8 +13,17 @@
   "tldr": "Alingsås kommun har beslutat om nya avgifter för vård och omsorg under 2026. Det innebär bland annat att kommunen nu börjar ta betalt för transporter av avlidna personer.",
   "lattlast": "<p>I Alingsås kommun har man beslutat om nya priser för olika tjänster inom vård och omsorg för år 2026. Förändringen beror på nya lagar och att man nu ska börja ta ut en avgift för transporter av avlidna personer, något som man inte har gjort tidigare.</p><p>Kommunen har undersökt hur andra kommuner i Göteborgsområdet gör. Man har sett att de flesta andra kommuner tar ut en avgift för dessa transporter. Enligt lagen har kommunen rätt att ta ut en avgift som motsvarar vad tjänsten faktiskt kostar för kommunen.</p><p>Utöver detta har man beslutat om nya regler för bygglov och ändringar i reglerna för hur avfall ska hanteras. Man har även beslutat om nya instruktioner för hur det kommunala bolaget Alingsås Energi ska styras.</p><p>Vid mötet diskuterades även samarbeten med grannkommunen Borås. Det handlar om att de två kommunerna ska jobba tillsammans med frågor som rör miljö, hälsa och kontroll av livsmedel och alkohol.</p>",
   "relevans": {
-    "bostadsagare": 1,
-    "klimat": 2,
-    "halsa": 1
+    "b_bygg": 1,
+    "b_transport": 1,
+    "b_vard": 1,
+    "b_energi": 1,
+    "miljo": 1,
+    "mark_bygglov": 1,
+    "bygger": 1,
+    "kronisk": 1,
+    "beroende": 1,
+    "energikund": 1,
+    "konsument": 2,
+    "klimat": 1
   }
 }

@@ -12,6 +12,9 @@
   "tldr": "Regeringen vill göra det lättare för små tillverkare att sälja alkohol direkt på sina gårdar. Syftet är att hjälpa turismen och lokala företag att växa.",
   "lattlast": "<p>Regeringen har lagt fram ett förslag som gör att små företag som tillverkar eget vin, öl eller sprit kan sälja sina drycker direkt till kunder på sin egen plats. Detta kallas för gårdsförsäljning. Tanken är att besökaren ska komma dit för att lära sig mer om drycken, inte bara för att köpa med sig alkohol hem.</p><p>För att det ska fungera enligt EU:s regler och inte förstöra Systembolagets roll som ensamhandlare, finns det strikta regler. Endast små, oberoende tillverkare får söka tillstånd. De får bara sälja från en enda plats och drycken måste vara egenproducerad. Det betyder att man inte får köpa in färdig dryck från andra för att sälja vidare.</p><p>Det finns också gränser för hur mycket man får köpa vid ett och samma besök. Man får till exempel köpa högst tre liter vin eller tre liter starköl. För spritdrycker är gränsen lägre och då får man bara köpa högst 0,7 liter. Detta för att säkerställa att försäljningen förblir liten och kontrollerad.</p><p>Om riksdagen röstar ja till förslaget, Prop. 2024/25:86, bör de nya reglerna börja gälla den 1 juni 2025. Planen är att man ska utvärdera hur de nya reglarna fungerar efter sex år.</p>",
   "relevans": {
-    "foretagare": 1
+    "b_industri": 3,
+    "b_besok": 3,
+    "tillstand": 1,
+    "beroende": 3
   }
 }

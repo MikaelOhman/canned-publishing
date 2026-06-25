@@ -12,11 +12,16 @@
   "tldr": "The government proposes allocating new funds in the 2026 budget to assist Ukraine with military equipment, and to support Swedish households and businesses facing high energy and fuel prices.",
   "lattlast": "<p>The government wants to send more military equipment to Ukraine due to the war. This includes providing Gripen fighter jets and equipment for the navy. The government also wants to be able to sell more modern Gripen aircraft to Ukraine to strengthen their defense.</p><p>To help people and businesses in Sweden, the government proposes reducing the tax on gasoline and diesel for part of 2026. This is being done to address high fuel prices caused by the war in the Middle East. There are also proposals to provide support to the agricultural sector and the aviation industry.</p><p>To help individuals, the government wants to provide more money for energy support. This is intended to help keep the costs of electricity and gas down. There are also plans for a so-called &quot;high-cost protection,&quot; which means there will be a cap on how expensive electricity and gas can be.</p><p>Finally, the government proposes that more money should be allocated to public transportation to help keep prices down for travelers. Through these changes in the budget, the state wants to manage the uncertain times and the high costs that the wars in Ukraine and the Middle East have created.</p>",
   "relevans": {
-    "foretagare": 1,
-    "bil": 3,
+    "b_transport": 1,
+    "b_grona": 1,
+    "b_energi": 1,
+    "pendlare": 1,
+    "bil": 2,
     "kollektiv": 1,
-    "storstad": 1,
-    "klimat": 1,
-    "halsa": 1
+    "flygresenar": 1,
+    "kronisk": 1,
+    "energikund": 2,
+    "konsument": 1,
+    "varnpliktig": 1
   }
 }

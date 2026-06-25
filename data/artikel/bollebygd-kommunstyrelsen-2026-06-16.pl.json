@@ -15,7 +15,13 @@
   "tldr": "Gmina Bollebygd podjęła decyzję o wprowadzeniu nowych zasad regulujących funkcjonowanie gminy w czasie wojny lub stanu wyjątkowego. Ponadto, podjęto nowe plany dotyczące budownictwa i architektury na terenie gminy.",
   "lattlast": "<p>Rada gminy podjęła nowe wytyczne dotyczące organizacji pracy gminy w sytuacjach kryzysowych, takich jak wojna lub stan wyjątkowy. Oznacza to, że z góry określono, które obszary działalności gminy są najważniejsze i powinny być priorytetowe, jeśli sytuacja w społeczeństwie stanie się niepewna. Celem jest zapewnienie, że najważniejsze funkcje publiczne będą mogły nadal działać nawet w trudnych czasach.</p><p>W zakresie budownictwa i planowania przestrzennego podjęto kilka decyzji. Dotyczy to m.in. zleceń dotyczących opracowania planów zagospodarowania przestrzennego dla obszarów takich jak Bollebygds Prästgård i Låddekärrsbu. Plan zagospodarowania przestrzennego to dokument, który określa, co można budować i jak można wykorzystywać teren.</p><p>Gmina przyjęła również nową strategię architektoniczną. Jest to plan określający, jak powinny wyglądać i być projektowane budynki i przestrzenie w przyszłości. Podjęto również decyzję o zakończeniu prac planistycznych w obszarze Getabrohult i rozpoczęciu nowych zadań związanych z planowaniem tego terenu.</p><p>Na koniec, rada zapoznała się z informacjami dotyczącymi działań gminy w zakresie ochrony danych i bezpieczeństwa. Nowy inspektor ochrony danych z regionu Borås przedstawił, w jaki sposób przestrzegane są przepisy dotyczące ochrony danych osobowych (RODO) w celu zabezpieczenia informacji mieszkańców.</p>",
   "relevans": {
+    "b_bygg": 1,
+    "b_fastighet": 1,
+    "gdpr": 3,
+    "mark_bygglov": 1,
+    "bygger": 1,
     "storstad": 1,
-    "klimat": 1
+    "klimat": 1,
+    "integritet": 1
   }
 }

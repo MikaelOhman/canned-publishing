@@ -16,10 +16,18 @@
   "tldr": "Stockholms stad har fattat många beslut om nya byggprojekt, parker och skyddade naturområden. Det handlar bland annat om nya bostäder, nya vägar och att skydda naturen i flera delar av staden.",
   "lattlast": "<p>Stockholms stad har beslutat om flera stora byggprojekt. Det ska byggas nya bostäder i Aspudden och nya vårdboenden i Bagarmossen och Gröndal. Det finns även planer på att bygga ett nytt förvaltningskontor i Järva och att utveckla Karlbergskanalens strandpromenad.</p><p>När det gäller trafik och vägar har man beslutat om stora arbeten på västra delen av Liljeholmsbroarna. Det finns även planer på att bygga en ny tunnelbanedepå i Älvsjö industriområde. För att underlätta för besökare under fotbolls-VM 202lag har man även beslutat om tillfälliga regler för hur länge restauranger och barer får servera alkohol.</p><p>Naturen ska skyddas på flera platser i staden. Flera nya områden ska bli så kallade biotopskyddsområden, vilket betyder att naturen där får vara ifred. Detta gäller platser som Hemskogen, Vikingaberget, Gökdalen och Åkeslund. Man har även beslutat att skapa ett nytt naturreservat i området Kyrkhamn-Riddersviks.</p><p>Staden har även gjort affärer och avtal. Det innebär bland annat att man köper aktier i Kista Utveckling AB och att man köper utsläppsminskningar för att hjälpa klimatet. Man har även skrivit avtal om att bygga Nobel Center på Södermalm.</p>",
   "relevans": {
-    "bil": 1,
+    "b_industri": 1,
+    "b_bygg": 1,
+    "b_besok": 1,
+    "b_fastighet": 1,
+    "miljo": 1,
     "glesbygd": 1,
     "storstad": 1,
+    "kronisk": 1,
+    "beroende": 1,
+    "sparare": 1,
+    "friluftsliv": 1,
     "klimat": 2,
-    "halsa": 1
+    "fortroendevald": 1
   }
 }

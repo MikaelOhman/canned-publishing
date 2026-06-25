@@ -13,10 +13,16 @@
   "tldr": "A malmöi önkormányzat igazgatótanácsa egy ülést tartott, ahol számos fontos kérdést tárgyaltak a város gazdaságáról, a személyzetről és a jövőbeli tervekkel kapcsolatban. A megbeszélések közé tartozott a női menedékházak támogatása, valamint az, hogy Malmö hogyan fog fejlődni a következő tíz évben.",
   "lattlast": "<p>A malmöi önkormányzat vezetősége számos olyan kérdést tárgyalt, amelyek a város irányítását érintik. Egy fontos kérdés az, hogy kiegészítő pénzügyi támogatást nyújtsanak a malmöi gyermek- és női segélyalapoknak, mivel azok nem kapták meg a tervezett állami támogatást. Emellett döntés született arról, hogy átcsoportosítsanak pénzügyi forrásokat a veszélyeztetett fiatalok támogatására.</p><p>A város a jövőjét vizsgálva, előrejelzést készített arról, hogy hány ember fog lakni Malmöben 2026 és 2036 között. Emellett megvitatták, hogyan vásároljanak ingatlanokat a fogyatékkal élő személyek számára, az úgynevezett LSS-szektorban. Továbbá beszéltek arról, hogyan végezzen Malmö beruházásokat, és hogyan lehet javítani a munkanélküliek foglalkoztatása terén.</p><p>A személyzet vonatkozásában megvitatták a magas rangú vezetők, például a városvezető és a munkaügyi és szociális ügyekért felelős igazgató pozícióinak betöltését. Emellett felvetették a kérdést, hogy hogyan kell a jövőben megtéríteni a politikusoknak a feladataik ellátásáért.</p><p>Számos javaslat, úgynevezett indítvány érkezett a politikusoktól. Ezek az indítványok a legkülönbözőbb területeket ölelik fel, az iszlamista mozgalmak vizsgálatától kezdve egy szépségtanács létrehozásáig, a gyermekes családok számára kínált bérleti díjak felülvizsgálatától a szociális ellátás javításáig.</p>",
   "relevans": {
+    "arbetsgivare": 1,
+    "b_fastighet": 1,
+    "finansiering": 1,
+    "lokaler": 1,
     "barn": 1,
-    "pensionar": 2,
+    "stor_familj": 1,
+    "pensionar": 1,
     "lontagare": 1,
     "arbetssokande": 1,
-    "funktion": 2
+    "funktion": 2,
+    "idrott": 1
   }
 }

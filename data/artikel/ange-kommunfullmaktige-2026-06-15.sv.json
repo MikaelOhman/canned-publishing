@@ -15,12 +15,20 @@
   "tldr": "Kommunfullmäktige i Ånge har fattat flera viktiga beslut om kommunens ekonomi och framtida planer. Bland annat har man beslutat om pengar till en ny lekplats, vägar och skatten för år 2027.",
   "lattlast": "<p>I kommunfullmäktiges möte den 15 juni 2026 beslutades det om flera ekonomiska satsningar. Kommunen ska använda pengar för att bygga en ny lekplats i Fränsta och det ska även betalas ut extra pengar för att förbättra vägar under år 2026.</p><p>När det gäller framtida ekonomi har politikerna diskuterat skatten för år 2027. De har även lagt fram en budget för år 2027 och en långsiktig ekonomisk plan som sträcker sig fram till år 2030. Detta är viktigt för att veta hur mycket pengar kommunen har att röra sig med i framtiden.</p><p>Flera olika företag och organisationer som kommunen har med att göra har genomgått sina årsredovisningar. Det innebär att politikerna har gått igenom hur det har gått ekonomiskt för bland annat Ånge Energi AB, Ånge Fastighets- &amp; Industri AB och trafikorganisationen Kollektivtrafikmyndigheten i Västernorrlands län.</p><p>Det fanns även beslut om mark och avtal. Kommunen ska sälja mark till företaget Ellevio och man har skrivit ett avtal om att utöka den återvinningscentral som ligger i Hallsta. Dessutom har man beslutat om vilka avgifter som ska gälla för ärenden som rör bygglov och miljöfrågor.</p>",
   "relevans": {
-    "foretagare": 1,
-    "bostadsagare": 1,
-    "bil": 1,
-    "kollektiv": 1,
+    "b_industri": 1,
+    "b_bygg": 1,
+    "b_fastighet": 1,
+    "b_energi": 1,
+    "redovisning": 1,
+    "miljo": 1,
+    "mark_bygglov": 1,
+    "bygger": 1,
     "glesbygd": 1,
-    "storstad": 1,
-    "klimat": 2
+    "pendlare": 1,
+    "kollektiv": 1,
+    "energikund": 1,
+    "konsument": 1,
+    "klimat": 1,
+    "fortroendevald": 1
   }
 }

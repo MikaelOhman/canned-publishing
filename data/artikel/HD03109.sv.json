@@ -12,8 +12,10 @@
   "tldr": "Det blir billigare att gå på dans eftersom skatten på biljetter ska sänkas kraftigt. Från och med juli 2026 ska skatten gå från 25 procent till 6 procent.",
   "lattlast": "<p>Regeringen har gjort ett förslag som innebär att skatten på att gå på dans och liknande evenemang ska sänkas. Skatten på sådana biljetter kallas för mervärdesskatt, vilket är samma sak som moms. Idag är skatten 25 procent, men förslaget säger att den ska sänkas till 6 procent.</p><p>Om riksdagen röstar ja till förslaget kommer de nya reglerna att börja gälla den 1 juli 2026. Det betyder att det blir billigare för arrangörer att anordna danser och för människor att köpa biljetter.</p><p>Förslaget innebär också ändringar i andra lagar, till exempel lagen om skatt på energi. Syftet med förslaget är att ändra reglerna för hur mycket skatt som ska betalas vid tillträde till olika dansarrangemang.</p>",
   "relevans": {
-    "foretagare": 1,
+    "b_energi": 1,
+    "moms": 3,
     "kollektiv": 1,
-    "klimat": 1
+    "energikund": 1,
+    "konsument": 1
   }
 }

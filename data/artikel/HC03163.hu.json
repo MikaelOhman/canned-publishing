@@ -12,7 +12,10 @@
   "tldr": "A kormány szeretné módosítani a törvényeket annak érdekében, hogy csökkentsék a robbanószerekkel elkövetett erőszakot. A cél az, hogy nehezebbé tegyék a bűnözők számára a robbanószerek használatát, azáltal, hogy a MSB (Svéd civil védelmi ügynökség) kapjon több ellenőrzési és felelősségi jogkört.",
   "lattlast": "<p>Mivel Svédországban egyre több robbantás történik, a kormány szigorítani szeretné a robbanóanyagok kezelésére vonatkozó szabályokat. Céljuk, hogy megakadályozzák, hogy a bűnözők robbanószereket használjanak emberek és lakások ellen. Ennek érdekében új szabályok bevezetése javasolt, amelyek várhatóan 2025. július 15-én lépnek életbe.</p><p>A &quot;Myndigheten för samhällsskydd och beredskap&quot; (MSB), amely gyakran csak MSB néven ismert, fontosabb szerepet kap. Az MSB mostantól koordinálja azokat a feladatokat, amelyeket az önkormányzatok végeznek a robbantási engedélyek kiadása során. Az MSB feladata továbbá, hogy ellenőrizze, hogy az önkormányzatok megfelelően végzik-e a munkájukat, és hogy szükség esetén könnyebben lehessen visszavonni az engedélyeket.</p><p>A robbanóanyagok használatára jogosultaknak mostantól be kell jelenteniük az önkormányzatnak, amikor a termékeket használják vagy tárolják. Ha egy vállalat több különböző önkormányzat területén szeretne robbanóanyagokat használni, akkor csak egy önkormányzat foglalkozik az összes engedéllyel. Emellett ezek az ügyekkel kapcsolatos információk bizalmasak lesznek, hogy a bűnözők ne tudják meg, hol találhatók a robbanóanyagok.</p><p>Szintén vannak szabályok a lövöldözéssel és a fegyverekkel kapcsolatban. Nem lehet robbantani vagy lőni fegyverrel olyan területeken, ahol építési szabályzat van érvényben, például városokban, engedély nélkül a rendőrségtől. 18 év alatti személyek sem használhatnak bizonyos típusú fegyvereket a szabadban engedély nélkül, kivéve, ha egy 20 év feletti felnőtt van jelen.</p>",
   "relevans": {
-    "foretagare": 1,
-    "jagare": 1
+    "tillstand": 3,
+    "regelborda": 3,
+    "mark_bygglov": 1,
+    "bygger": 1,
+    "otrygg": 1
   }
 }

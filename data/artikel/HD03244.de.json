@@ -12,6 +12,9 @@
   "tldr": "Die Regierung plant, ein neues Gesetz einzuführen, das es Behörden und Kommunen erleichtert, digitale Informationen miteinander auszutauschen. Ziel ist es, den Papierverbrauch zu reduzieren und neue Technologien wie künstliche Intelligenz intelligenter einzusetzen.",
   "lattlast": "<p>Die Regierung hat einen Vorschlag für ein neues Gesetz vorgelegt, das regelt, wie Informationen zwischen verschiedenen Bereichen des öffentlichen Sektors in Schweden ausgetauscht werden. Das Gesetz befasst sich mit sogenannter Interoperabilität, einem komplizierten Begriff, der beschreibt, dass verschiedene Daten-Systeme miteinander kommunizieren und die Informationen des jeweils anderen verstehen sollen. Durch die Vereinfachung dieses Prozesses hofft man, den Verwaltungsaufwand zu reduzieren und moderne Technologien wie KI effizienter einzusetzen.</p><p>Die neuen Regeln müssen von staatlichen Behörden, Kommunen, Regionen und bestimmten kommunalen Unternehmen eingehalten werden. Die Regeln gelten für den Austausch von Informationen, der häufig oder in großen Mengen stattfindet. Die Regierung hat jedoch das Recht, festzulegen, dass bestimmte Gruppen nicht an das Gesetz gebunden sind, und sie kann auch genau festlegen, welche technischen Anforderungen für den Austausch gelten sollen.</p><p>Es gibt wichtige Ausnahmen zum Schutz der Bürger und des Landes. Die neuen Anforderungen müssen nicht eingehalten werden, wenn dies die Sicherheit Schwedens gefährden würde oder wenn es zu unsicher für personenbezogene Daten und Cybersicherheit wäre. Ebenso müssen die Anforderungen nicht eingehalten werden, wenn die Kosten dafür im Verhältnis zum Nutzen, der durch den Informationsaustausch erzielt wird, unverhältnismäßig hoch wären.</p><p>Wenn das Parlament dem Vorschlag zustimmt, tritt das neue Gesetz am 15. August 2026 in Kraft.</p>",
   "relevans": {
-    "halsa": 1
+    "b_fastighet": 3,
+    "gdpr": 2,
+    "kronisk": 1,
+    "integritet": 1
   }
 }

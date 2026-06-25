@@ -12,6 +12,7 @@
   "tldr": "Sverige vill stoppa bedrägerier med moms genom att ge Skatteverket mer makt att kontrollera och stoppa företag som fuskar. De nya reglerna ska börja gälla den 1 juli 2026.",
   "lattlast": "<p>Många företag använder felaktiga metoder för att undvika att betala moms när de handlar med andra länder inom EU. Detta kallas för mervärdesskattebedrägerier och gör att staten förlorar mycket pengar. Regeringen vill nu ändra lagen för att stoppa detta.</p><p>Skatteverket, som är den myndighet som kontrollerar skatter i Sverige, ska få mer makt. De ska kunna kontrollera företag noggrannare när de vill registrera sig för moms. Om Skatteverket misstänker fusk ska de kunna neka ett företag att registrera sig eller ta bort dem från systemet.</p><p>Skatteverket ska även kunna markera ett registreringsnummer som ogiltigt i ett gemensamt europeiskt system som heter VIES. Detta system används i hela EU för att se att ett företag är på riktigt. På så sätt blir det svårare för bedragare att lura andra företag i Europa.</p><p>Det finns även ett förslag om att Skatteverket kan bestämma att företag inte ska få tillbaka pengar om de har betalat för mycket moms. Syftet med alla dessa nya regler är att minska skattefusk och se till att alla betalar rätt skatt. Förslaget ska börja gälla den 1 juli 2026.</p>",
   "relevans": {
-    "foretagare": 2
+    "moms": 3,
+    "konsument": 1
   }
 }

@@ -13,9 +13,13 @@
   "tldr": "La giunta comunale di Ånge ha tenuto una riunione durante la quale sono stati esaminati i rapporti finanziari e i piani per il futuro. Tra le questioni più importanti discusse, si sono prese decisioni relative alla vendita di terreni, alle normative sui parcheggi e alla realizzazione di nuove aree gioco.",
   "lattlast": "<p>La giunta comunale di Ånge ha discusso diverse questioni importanti riguardanti l&#x27;economia e lo sviluppo del comune. Sono stati esaminati i rapporti finanziari e i piani di bilancio per i prossimi anni, nonché la situazione del debito e delle esigenze di finanziamento del comune.</p><p>In merito alle costruzioni e al territorio, è stata presa la decisione di vendere un&#x27;area all&#x27;azienda Ellevio. È stata inoltre discussa la modalità di sviluppo dell&#x27;area industriale di Mallberget e la gestione dei parcheggi per i pendolari.</p><p>Per i residenti, è stata approvata la realizzazione di un nuovo parco giochi a Fränsta, con l&#x27;allocazione dei fondi necessari per la sua costruzione. Sono inoltre previste indagini sulle possibilità di sviluppo dell&#x27;area di Parkbacken e sono in corso discussioni sulla chiusura della residenza protetta Älvgården.</p><p>Durante la riunione, sono stati esaminati i bilanci annuali di diverse aziende e organizzazioni con cui il comune è collegato, come Ångefallen Kraft AB e l&#x27;Autorità per i trasporti pubblici della regione di Västerbotten.</p>",
   "relevans": {
-    "foretagare": 1,
+    "b_industri": 1,
+    "b_bygg": 1,
+    "redovisning": 1,
+    "mark_bygglov": 1,
+    "pendlare": 1,
     "bil": 1,
     "kollektiv": 1,
-    "storstad": 1
+    "lantagare": 1
   }
 }

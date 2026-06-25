@@ -12,8 +12,10 @@
   "tldr": "Regeringen vill ändra lagarna för att göra det lättare för alla att se hur stora projekt påverkar miljön. De nya reglerna ska börja gälla den 1 augusti 2025.",
   "lattlast": "<p>Regeringen har lagt fram ett förslag om att ändra flera lagar i Sverige. Syftet är att bättre följa EU-regler som handlar om MKB. MKB betyder miljökonsekvensbeskrivning och är en undersökning som görs för att se hur ett projekt kan skada naturen.</p><p>En viktig del i förslaget är att beslut om hur miljön påverkas ska bli lättare att hitta för alla människor. Det ska alltså vara tydligt för allmänheten vad som har beslutats. Förslaget gäller även lagar som rör vägar, järnvägar, el och hamnar.</p><p>Det blir också tydligare att miljöorganisationer har rätt att klaga på beslut. Om en myndighet har bedömt att en verksamhet inte skadar miljön, ska miljöorganisationer kunna överklaga det beslutet. Regeringen vill också kunna bestämma när vissa arbeten får starta.</p><p>Om riksdagen säger ja till förslaget kommer de nya reglerna att börja gälla från den 1 augusti 2025. Förslaget påverkar många olika områden, till exempel byggande av järnväg, kärnkraft och arbete på havet.</p>",
   "relevans": {
-    "bil": 1,
+    "b_bygg": 1,
+    "infrastruktur": 2,
     "glesbygd": 1,
+    "batagare": 1,
     "klimat": 1
   }
 }

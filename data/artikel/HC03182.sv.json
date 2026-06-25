@@ -12,6 +12,7 @@
   "tldr": "Vissa uppgifter som vården ska lämna till den nationella läkemedelslistan vid elektroniska recept (orsaken till ordinationen och när behandlingen ska följas upp eller avslutas) skjuts upp – från december 2025 till september 2028. Det ger vården mer tid att ansluta på ett säkert sätt.",
   "lattlast": "<p>Den nationella läkemedelslistan är ett register över de läkemedel en patient är ordinerad. När läkare skriver elektroniska recept ska de lämna vissa uppgifter till listan.</p><p>Regeringen föreslår att skyldigheten att lämna två av dessa uppgifter – orsaken till ordinationen och datum för när behandlingen senast ska följas upp eller avslutas – skjuts upp flera år, från den 1 december 2025 till den 1 september 2028.</p><p>Syftet är att ge vården mer tid att ansluta till listan på ett sätt som är effektivt och patientsäkert.</p>",
   "relevans": {
-    "halsa": 3
+    "b_life": 3,
+    "kronisk": 3
   }
 }

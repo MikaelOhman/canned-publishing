@@ -12,6 +12,9 @@
   "tldr": "Les soins destinés aux personnes souffrant de troubles liés à la dépendance et de problèmes de santé mentale doivent être mieux intégrés. Les régions doivent assurer une coordination entre les services de soins pour les dépendances et les autres services de psychiatrie, les exigences concernant les plans de soins individuels seront renforcées, et la région sera tenue de compenser la commune si celle-ci ne respecte pas sa part du plan.",
   "lattlast": "<p>La proposition vise à rendre les soins plus uniformes et cohérents pour les personnes souffrant de problèmes de toxicomanie ou de dépendance, en plus d&#x27;autres troubles psychiatriques.</p><p>Les régions doivent organiser les soins en matière de dépendance de manière à ce qu&#x27;ils soient coordonnés avec les autres soins psychiatriques. Les exigences relatives au plan individualisé qui doit être établi pour les personnes hébergées dans des établissements de soins ou de résidence sont renforcées.</p><p>Si la région ne remplit pas ses obligations concernant le plan individualisé, elle sera tenue de verser une compensation à la commune. Le service social doit également informer la région lorsqu&#x27;une personne est admise dans un établissement de soins ou de résidence.</p>",
   "relevans": {
-    "halsa": 3
+    "tillstand": 3,
+    "kronisk": 3,
+    "psykisk": 3,
+    "beroende": 3
   }
 }

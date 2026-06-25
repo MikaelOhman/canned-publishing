@@ -12,7 +12,9 @@
   "tldr": "Die Regierung möchte das Gesetz ändern, sodass das Statistische Zentralamt (SCB) mehr Informationen darüber sammeln kann, wie viel Schulden Haushalte haben und welche Zinsen und Tilgungen sie zahlen. Dies soll dazu dienen, die wirtschaftlichen Risiken in der Gesellschaft besser zu verstehen.",
   "lattlast": "<p>Die Regierung hat einen Vorschlag vorgelegt, das System namens Fasit zu erweitern. Fasit ist ein Werkzeug, das vom Statistischen Zentralamt (SCB) verwendet wird, um zu berechnen, wie sich verschiedene wirtschaftliche Regelungen auf die Menschen auswirken. Durch die Ergänzung von Informationen über Schulden und Zahlungen kann besser beurteilt werden, wie anfällig die Haushalte für Veränderungen in der Wirtschaft sind.</p><p>Um dies zu ermöglichen, müssen Banken und andere Unternehmen, die mit Wohnkrediten arbeiten, dem SCB Informationen über die Schulden und Zahlungen der Haushalte zur Verfügung stellen. Es ist wichtig zu wissen, wie viel Geld für Schulden ausgegeben wird, um die Wirtschaftspolitik des Landes planen zu können. Dies hilft den Behörden zu erkennen, ob hohe Zinsen oder andere Kosten zu großen Problemen für Familien führen.</p><p>Obwohl mehr Informationen gesammelt werden, gelten strenge Regeln für personenbezogene Daten. Es dürfen nur die Daten verwendet werden, die unbedingt erforderlich sind, und es dürfen keine sensiblen Daten wie z. B. Gesundheitsdaten oder ethnische Herkunft verwendet werden. Ziel ist es, gute Statistiken zu erstellen, ohne die Privatsphäre der Menschen zu verletzen.</p><p>Wenn der Vorschlag angenommen wird und das Parlament zustimmt, treten die neuen Regeln am 1. August 2026 in Kraft.</p>",
   "relevans": {
-    "barn": 1,
-    "foretagare": 1
+    "b_finans": 1,
+    "gdpr": 1,
+    "lantagare": 3,
+    "integritet": 2
   }
 }

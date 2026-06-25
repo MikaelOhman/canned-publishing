@@ -12,6 +12,8 @@
   "tldr": "Sverige vill ändra reglerna för när ett tillstånd automatiskt blir godkänt om myndigheter inte svarar i tid. Detta gäller för utbyggnad av snabbt internet, så kallad gigabit-infrastruktur.",
   "lattlast": "<p>Det finns en regel från EU som säger att om en myndighet, till exempel en domstol, inte har svarat på en ansökan inom en viss tid, så räknas ansökan som godkänd. Detta kallas för tyst godkännande. Regeln finns för att påskynda arbetet med att bygga ut snabbt internet i hela Europa.</p><p>Nu vill den svenska regeringen att Sverige ska använda en möjlighet som finns i EU:s regler för att inte följa just denna regel. Det betyder att ett tillstånd inte ska bli automatiskt godkänt bara för att tiden har gått ut om domstolen inte har hunnit fatta ett beslut.</p><p>Regeringen planerar att göra detta genom att skriva en ny lag som kompletterar EU:s regler. Syftet är att ändra hur man hanterar ansökningar om tillstånd för den viktiga infrastrukturen för snabbt internet.</p><p>Den nya lagen är tänkt att börja gälla den 12 mars 2026. Detta innebär att reglerna för hur myndigheter ska besluta om utbyggnad av internet kommer att se annorlunda ut i Sverige efter det datumet.</p>",
   "relevans": {
-    "glesbygd": 1
+    "b_bygg": 1,
+    "tillstand": 1,
+    "infrastruktur": 1
   }
 }

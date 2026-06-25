@@ -13,9 +13,13 @@
   "tldr": "Zarząd gminy Ånge odbył posiedzenie, podczas którego omówiono raporty finansowe oraz plany na przyszłość. Do najważniejszych tematów, które zostały poddane decyzji, należały m.in. sprzedaż gruntów, przepisy dotyczące parkowania oraz budowa nowych placów zabaw.",
   "lattlast": "<p>Komisja ds spraw miejskich w Ånge omówiła szereg ważnych kwestii dotyczących gospodarki i rozwoju gminy. Przeanalizowano raporty finansowe oraz plany budżetowe na najbliższe lata, a także oceniono sytuację zadłużenia i potrzeby związane z kredytami.</p><p>W zakresie budownictwa i gruntów podjęto decyzję o sprzedaży działki firmie Ellevio. Rozważano również sposób zagospodarowania terenów przemysłowych w okolicach Mallberget oraz kwestie związane z miejscami parkingowymi dla osób dojeżdżających do pracy.</p><p>Dla mieszkańców podjęto decyzję o budowie nowego placu zabaw w Fränsta, na co przeznaczono odpowiednie środki finansowe. Planowane jest również przeprowadzenie badań dotyczących terenu Parkbacken oraz trwają dyskusje dotyczące likwidacji domu grupowego Älvgården.</p><p>Podczas spotkania przeanalizowano również roczne sprawozdania finansowe przedsiębiorstw i organizacji, z którymi gmina współpracuje, takich jak Ångefallen Kraft AB i Kolektivtrafikmyndigheten w regionie Västernorrland.</p>",
   "relevans": {
-    "foretagare": 1,
+    "b_industri": 1,
+    "b_bygg": 1,
+    "redovisning": 1,
+    "mark_bygglov": 1,
+    "pendlare": 1,
     "bil": 1,
     "kollektiv": 1,
-    "storstad": 1
+    "lantagare": 1
   }
 }

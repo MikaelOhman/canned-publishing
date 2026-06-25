@@ -12,10 +12,20 @@
   "tldr": "Guvernul propune modificări în bugetul statului pentru anul 2026. Propunerile acoperă o gamă largă de aspecte, de la achiziții noi de imobile și submarine, până la investiții majore în energie nucleară și activități spațiale.",
   "lattlast": "<p>Guvernul dorește să modifice modul în care fondurile statului vor fi utilizate începând cu 2026. Printre deciziile importante se numără o propunere de a achiziționa o clădire în Solna, pentru suma de peste 3,4 miliarde de coroane suedeze. Există, de asemenea, propuneri de a închiria un submarin de tip A 17 Poloniei și de a modifica regulile privind sprijinul pentru stomatologie.</p><p>O parte semnificativă a propunerii se referă la energie și energie nucleară. Statul intenționează să investească sume considerabile în compania Videberg Kraft AB. Aceasta include achiziționarea de acțiuni pentru a deține o parte semnificativă din companie, precum și finanțarea de programe pentru gestionarea deșeurilor nucleare. Aceste costuri ar putea fi foarte mari în următorii ani.</p><p>Există, de asemenea, propuneri care vizează securitatea și tehnologia. Guvernul dorește să poată utiliza fonduri pentru a proteja persoanele care lucrează în domeniul serviciilor de informații secrete. Se propune, de asemenea, alocarea de fonduri companiei SSC Space AB pentru a consolida activitatea Suediei în domeniul spațiului. Pentru polițiștii care sunt în serviciu, se propun noi reguli privind modul în care sunt gestionate împrumuturile lor pentru studii.</p><p>În cele din urmă, există modificări bugetare minore pentru diferite agenții și cultură. Opera Națională Regală are posibilitatea de a împrumuta bani pentru a renova clădirea sa. De asemenea, agenții precum Agenția Națională a Medicamentelor și Agenția de Radio a Forțelor Armate își vor avea bugetele ajustate pentru a-și putea îndeplini sarcinile în 2026.</p>",
   "relevans": {
-    "foretagare": 1,
+    "b_bygg": 1,
+    "b_fastighet": 1,
+    "b_energi": 1,
+    "b_kultur": 1,
+    "b_life": 1,
     "student": 1,
     "hyresgast": 1,
-    "klimat": 1,
-    "halsa": 2
+    "kronisk": 1,
+    "tandvard": 2,
+    "sparare": 1,
+    "lantagare": 1,
+    "energikund": 1,
+    "kultur": 1,
+    "otrygg": 1,
+    "varnpliktig": 1
   }
 }

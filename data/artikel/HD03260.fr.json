@@ -12,8 +12,10 @@
   "tldr": "Le gouvernement souhaite modifier les règles relatives au contrôle des recherches impliquant des sujets humains afin de simplifier la procédure. Certaines recherches qui traitent de données personnelles sensibles ne nécessiteront plus d'approbation formelle, mais le chercheur devra lui-même vérifier que les règles sont respectées.",
   "lattlast": "<p>Le gouvernement a présenté une proposition visant à modifier la loi relative à l&#x27;examen éthique de la recherche. L&#x27;objectif est de rendre le contrôle de la recherche impliquant des êtres humains plus efficace et plus clair. La proposition prévoit notamment que certains types de recherche ne nécessitent plus l&#x27;obtention d&#x27;une autorisation spéciale si elles traitent des données personnelles sensibles ou des informations relatives à des infractions.</p><p>La personne responsable de la recherche, appelée &quot;responsable de la recherche&quot;, est chargée de déterminer si la recherche relève des nouvelles exemptions. Il est également possible de demander un contrôle volontaire afin de s&#x27;assurer que tout se déroule correctement.</p><p>Les modalités de contrôle du respect des règles seront également modifiées. Le comité d&#x27;appel pour l&#x27;examen éthique, appelé &quot;Önep&quot;, sera autorisé à se prononcer davantage sur les cas où la recherche a pu être menée de manière incorrecte. Le comité pourra également fournir des directives afin que les règles soient appliquées de la même manière dans tout le pays. Les décisions relatives à la recherche ne pourront plus faire l&#x27;objet d&#x27;un recours, et le comité n&#x27;est plus tenu de signaler les infractions suspectes à la police.</p><p>Si la proposition est adoptée, les nouvelles règles entreront en vigueur le 1er juillet 2027. La proposition comprend également des modifications des lois relatives au traitement des données personnelles dans les administrations telles que l&#x27;IFAU et l&#x27;Inspection pour les assurances sociales.</p>",
   "relevans": {
-    "bil": 1,
-    "kollektiv": 1,
-    "glesbygd": 1
+    "gdpr": 1,
+    "fou": 3,
+    "glesbygd": 1,
+    "otrygg": 1,
+    "integritet": 1
   }
 }

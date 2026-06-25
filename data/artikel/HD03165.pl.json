@@ -12,6 +12,9 @@
   "tldr": "Rząd zamierza wprowadzić nową ustawę, która umożliwi zbieranie informacji o pracy ośrodków pomocy społecznej. Celem jest, aby Agencja ds. Opieki Społecznej mogła wykorzystywać te dane do poprawy jakości świadczonych usług, jednocześnie chroniąc prywatność obywateli.",
   "lattlast": "<p>Rząd przedstawił propozycję nowej ustawy, zwanej ustawą o rejestrze danych socjalnych. Celem tej ustawy jest umożliwienie Agencji ds. Opieki Społecznej (Socialstyrelsen) efektywne zarządzanie danymi osobowymi. Poprzez gromadzenie informacji, można lepiej zrozumieć funkcjonowanie opieki społecznej i poprawić wsparcie dla ludzi.</p><p>Propozycja ta wiąże się również z obowiązkiem przekazywania niezbędnych informacji do Agencji ds. Opieki Społecznej przez osoby pracujące w opiece społecznej i w organizacjach udzielających wsparcia osobom z niepełnosprawnościami. Oznacza to, że placówki świadczące usługi zgodnie z przepisami prawa dotyczącymi opieki społecznej i wsparcia dla osób z niepełnosprawnościami będą zobowiązane do przekazywania danych do nowego rejestru.</p><p>Ważne jest, aby wspomnieć, że ustawa zawiera również przepisy mające na celu ochronę prywatności. Oznacza to, że należy zachować ostrożność, aby dane osobowe nie były wykorzystywane w sposób naruszający prywatność. Celem jest zapewnienie bezpiecznego zarządzania wszystkimi gromadzonymi informacjami.</p><p>Jeśli propozycja zostanie przyjęta, nowa ustawa wejdzie w życie 1 sierpnia 2026 roku. Obowiązek przekazywania danych przez placówki zacznie obowiązywać rok później, czyli 1 sierpnia 2027 roku. Istnieje również zmiana dotycząca opłat, której wprowadzenie planowane jest na 1 czerwca 2026 roku.</p>",
   "relevans": {
-    "funktion": 1
+    "gdpr": 1,
+    "funktion": 1,
+    "konsument": 1,
+    "integritet": 2
   }
 }

@@ -12,8 +12,10 @@
   "tldr": "A kormány elolvasta egy jelentést, amely arról szól, hogy a hatóságok hogyan ellenőrzik a biztosításokat, amikor az emberek más országokba költöznek. Úgy vélik, hogy jelenleg már elegendő intézkedést tesznek a helytelen kifizetések csökkentése érdekében.",
   "lattlast": "<p>A Riksrevisionen egy olyan szerv, amely felülvizsgálja más szervek működését. Egy vizsgálatot végeztek arról, hogy a Försäkringskassan (szociális biztosító) és a Pensionsmyndigheten (nyugdíjintézet) hogyan ellenőrzi, hogy a megfelelő személyek kapják-e a pénzt, amikor más országokba költöznek. A Riksrevisionen javaslatokat tett több szervnek, többek között a Migrationsverketnek (bevándorlási hatóság) és a Skatteverketnek (adóhatóság).</p><p>A kormány most válaszolt a jelentésre. Úgy vélik, hogy a vizsgálat értékes, mert felhívja a figyelmet a szükséges fejlesztésekre. A cél az, hogy kevesebb ember kapjon helytelenül állami támogatást, és hogy az emberek bízzanak a jóléti rendszereinkben, például a betegségbiztosításban és a nyugdíjban.</p><p>A kormány állítja, hogy már dolgoznak azon, hogy a szervek ellenőrzései hatékonyabbak legyenek. Emellett arra is törekednek, hogy a szervek könnyebben osszák meg egymással az információkat. Ezért a kormány nem tartja szükségesnek, hogy most új, jelentős változtatásokat vezessen be a jelentés javaslatai alapján. Ezért a kormány a kérdést lezártnak tekinti.</p>",
   "relevans": {
+    "b_vard": 1,
+    "b_finans": 1,
     "pensionar": 1,
-    "kollektiv": 1,
-    "ny_i_sverige": 1
+    "sjukskriven": 1,
+    "asyl": 1
   }
 }

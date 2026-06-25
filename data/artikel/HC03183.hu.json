@@ -12,7 +12,8 @@
   "tldr": "Svédország egy uniós irányelvet hajt végre az úgynevezett intelligens közlekedési rendszerekkel kapcsolatban az utakon. Egyre több típusú közlekedési adatot és digitális szolgáltatást kell elérhetővé tenni géppel olvasható formátumban egy országos hozzáférési ponton keresztül, hogy ezek felhasználhatók legyenek az egész Európai Unióban.",
   "lattlast": "<p>Az intelligens közlekedési rendszerek digitális szolgáltatások és adatok, amelyeket a közúti forgalom okosabbá és biztonságosabbá tételére használnak – például valós idejű információk a forgalomról és az utakon.</p><p>A kormány javaslatot tesz a svéd törvény módosítására, hogy egy uniós irányelvet végrehajtson. A módosítások kiterjesztik az adat- és szolgáltatástípusokat, amelyekre vonatkozik.</p><p>Az adatokat géppel olvasható formátumban kell elérhetővé tenni egy országos hozzáférési ponton keresztül, és bizonyos földrajzi területekre kell vonatkoztatni meghatározott időpontokban, hogy a szolgáltatások az egész EU-ban működhessenek.</p>",
   "relevans": {
-    "bil": 1,
+    "b_transport": 3,
+    "eu_marknad": 1,
     "glesbygd": 1
   }
 }

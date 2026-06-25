@@ -12,7 +12,8 @@
   "tldr": "La Svezia sta implementando una direttiva europea relativa ai cosiddetti sistemi di trasporto intelligenti nel traffico stradale. Un numero maggiore di tipi di dati sul traffico e servizi digitali dovrà essere reso disponibile in formato leggibile dalle macchine tramite un punto di accesso nazionale, in modo che possano essere utilizzati in tutta l'Unione Europea.",
   "lattlast": "<p>I sistemi di trasporto intelligenti sono servizi e dati digitali utilizzati per rendere il traffico stradale più efficiente e sicuro, ad esempio fornendo informazioni in tempo reale sul traffico e sulle strade.</p><p>Il governo propone modifiche alla legge svedese per attuare una direttiva europea. Queste modifiche estendono i tipi di dati e i servizi coperti.</p><p>I dati devono essere resi disponibili in formato leggibile dalle macchine tramite un punto di accesso nazionale e devono coprire determinate aree geografiche in momenti specifici, in modo che i servizi possano funzionare in tutta l&#x27;Unione Europea.</p>",
   "relevans": {
-    "bil": 1,
+    "b_transport": 3,
+    "eu_marknad": 1,
     "glesbygd": 1
   }
 }

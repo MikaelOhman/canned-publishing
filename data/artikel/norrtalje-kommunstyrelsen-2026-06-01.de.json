@@ -13,10 +13,20 @@
   "tldr": "Der Gemeinderat von Norrtälje hat mehrere Beschlüsse über Investitionen in die Gebäude, Schulen und die Umwelt der Gemeinde sowie über Änderungen in Bauplänen und Gebühren gefasst.",
   "lattlast": "<p>Der Gemeinderat hat mehrere wichtige Investitionen für das Jahr 2026 beschlossen. Dazu gehören unter anderem der Abriss des Gebäudes Jupiter 1, um Parkplätze und Grünflächen zu schaffen, sowie der Bau eines neuen Gebäudes für die Mülltrennung am Hafenplan im Hafen von Norrtälje. Außerdem sollen Mittel für den Austausch von Alarmanlagen und Zugangssystemen in den kommunalen Gebäuden sowie für die Anpassung von Schulen für Schüler mit besonderen Bedürfnissen bereitgestellt werden.</p><p>Es wurden auch Änderungen in den Vorschriften und Gebühren beschlossen. Dazu gehören neue Preise für Dienstleistungen der Kinder- und Schulverwaltung sowie neue Gebühren für Kultur und Freizeit. Darüber hinaus wurden Änderungen in den Bebauungsplänen für Gebiete in Åkerö und Häverö-Bergby genehmigt, um die Nutzung des Landes zu regeln.</p><p>Die Gemeinde hat außerdem Mittel aus einem speziellen Fonds, dem &quot;Ländlichen Entwicklungs- und Kreativfonds&quot;, erhalten, um die Entwicklung in der Region zu fördern. Gleichzeitig wurden Möglichkeiten untersucht, wie man besser gegen Verbrechen vorgehen kann, die den sozialen Bereich betreffen, beispielsweise durch die Einführung klarerer Verfahren für Polizeianzeigen und die Rückforderung von fälschlicherweise ausgezahlten Geldern.</p><p>Abschließend wurde die Zugänglichkeit aller kommunalen Einrichtungen diskutiert. Ziel ist es, Lösungen zu finden, die es allen Menschen erleichtern, die Dienstleistungen und Gebäude der Gemeinde zu nutzen.</p>",
   "relevans": {
-    "barn": 2,
-    "bil": 1,
+    "b_bygg": 1,
+    "b_vard": 1,
+    "b_kultur": 1,
+    "finansiering": 1,
+    "infrastruktur": 1,
+    "f_landsbygd": 1,
+    "barn": 1,
     "glesbygd": 1,
+    "bil": 1,
+    "funktion": 1,
+    "konsument": 2,
+    "batagare": 1,
     "klimat": 1,
-    "funktion": 1
+    "kultur": 1,
+    "otrygg": 1
   }
 }

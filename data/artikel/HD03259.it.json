@@ -12,10 +12,15 @@
   "tldr": "Il governo ha definito piani a lungo termine per il funzionamento delle strade e delle ferrovie in Svezia, che copriranno il periodo dal 2026 al 2037. Il piano prevede investimenti mirati nei trasporti e un sistema più rispettoso dell'ambiente.",
   "lattlast": "<p>Il governo ha presentato un piano per definire come saranno i trasporti in Svezia nel periodo 2026-2037. Il piano riguarda tutti i tipi di trasporto, come automobili, camion e treni. Allo stesso tempo, è stato deciso quanto denaro sarà utilizzato nelle diverse regioni per migliorare strade e ferrovie in tutto il paese.</p><p>Il lavoro mira anche a rendere i trasporti più efficienti ed ecologici. Il governo si impegna a rendere più facile il trasporto di merci e persone in modo intelligente. Si vuole anche che i veicoli siano migliori e che una maggiore parte del traffico utilizzi l&#x27;elettricità invece di combustibili dannosi per l&#x27;ambiente.</p><p>Una parte importante del piano è il passaggio dai combustibili fossili, come benzina e diesel, a alternative rinnovabili e sostenibili. Questo è una risposta alle precedenti richieste del parlamento affinché la Svezia crei un sistema di trasporti che funzioni a lungo termine senza danneggiare il clima. L&#x27;obiettivo è che la tecnologia ci aiuti a ridurre le emissioni in futuro.</p>",
   "relevans": {
-    "bil": 3,
-    "kollektiv": 1,
+    "b_transport": 3,
+    "arbetsratt": 1,
+    "miljo": 1,
+    "infrastruktur": 1,
     "glesbygd": 1,
-    "klimat": 3,
-    "halsa": 1
+    "bil": 2,
+    "kollektiv": 1,
+    "kronisk": 1,
+    "energikund": 1,
+    "klimat": 3
   }
 }

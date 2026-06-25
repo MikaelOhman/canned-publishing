@@ -12,6 +12,9 @@
   "tldr": "La Suède va modifierer ses lois pour se conformer aux nouvelles réglementations de l'Union européenne concernant un système commun de visas. Cela implique que davantage d'informations sur les visas et les permis de séjour devront être stockées et partagées entre les pays de l'UE.",
   "lattlast": "<p>VIS est un système commun au sein de l&#x27;Union européenne, utilisé pour partager des informations concernant les visas pour les séjours de courte durée. Les règles sont maintenant modifiées pour inclure également des informations sur les visas de longue durée et les permis de séjour. Cette modification vise à améliorer la coopération entre les pays de l&#x27;UE.</p><p>Le gouvernement a présenté des propositions de nouvelles lois en Suède pour mettre cela en œuvre. Un élément important est de clarifier les situations dans lesquelles les personnes qui demandent un visa doivent fournir leurs empreintes digitales et se faire photographier. Cela est requis afin que les autorités puissent vérifier les informations contenues dans le système.</p><p>La proposition concerne également la manière dont les données personnelles sont traitées et protégées. De nouvelles règles régissent la manière dont la police et les autres autorités peuvent utiliser les informations contenues dans le système. L&#x27;objectif est de faciliter l&#x27;utilisation de ces informations par la police pour lutter contre la criminalité.</p><p>Les nouvelles lois modifieront plusieurs lois existantes, notamment la loi sur les étrangers et les lois régissant l&#x27;utilisation des données personnelles par la police. Les nouvelles règles entreront en vigueur à une date fixée par la Commission européenne ou par le gouvernement.</p>",
   "relevans": {
-    "ny_i_sverige": 1
+    "gdpr": 1,
+    "ny_i_sverige": 1,
+    "otrygg": 1,
+    "integritet": 1
   }
 }

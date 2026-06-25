@@ -13,7 +13,12 @@
   "tldr": "Die schwedische Umweltämtsbehörde (Länsstyrelsen) hat den Vormundschaftsbeauftragten (överförmyndaren) in Norrtälje überprüft und dafür Kritik geäußert. Es wurde bemängelt, dass die Finanzkontrolle bei der Beendigung des Mandats eines Betreuers nicht ausreichend durchgeführt wurde.",
   "lattlast": "<p>Das Regierungsamt von Stockholm hat eine Inspektion des Vormundschaftsbeamten in der Gemeinde Norrtälje durchgeführt. Der Vormundschaftsbeamte ist eine Behörde, die dafür zuständig ist, sicherzustellen, dass Personen, die einen Betreuer oder Vormund haben, gut versorgt werden und dass ihr Geld ordnungsgemäß verwendet wird.</p><p>Das Regierungsamt hat dem Vormundschaftsbeamten eine Kritik geäußert, weil dieser eine Schlussabrechnung nicht ausreichend geprüft hat. Es geht um einen Fall, in dem eine Person einen Betreuer hatte, der nicht erreichbar war. Während dieser Zeit stiegen die Schulden der Person von 280.000 Kronen auf fast 379.000 Kronen.</p><p>In der neuen Abrechnung des dritten Betreuers wurde festgestellt, dass kein Geld für den Unterhalt der Kinder ausgezahlt worden war. Außerdem wurde festgestellt, dass keine Wohnbeihilfe an die schwedische Sozialversicherungsanstalt (Försäkringskassan) zurückgezahlt wurde. Das Regierungsamt ist der Meinung, dass der Vormundschaftsbeamte diese Fehler hätte erkennen und die Konten sorgfältiger prüfen müssen.</p><p>Die Aufgabe des Vormundschaftsbeamten ist es, sicherzustellen, dass das Geld, das für eine Person verwendet wird, ordnungsgemäß eingesetzt wird, beispielsweise für die Unterkunft und Lebenshaltungskosten der Person. Er soll kontrollieren, dass kein Geld verschwindet und dass alle Rechnungen korrekt sind. Dieser Bericht zeigt, dass die Kontrolle in diesem Fall nicht ausreichend war.</p>",
   "relevans": {
+    "b_finans": 1,
+    "b_konsult": 1,
     "barn": 1,
-    "hyresgast": 1
+    "ensam_foralder": 1,
+    "sjukskriven": 1,
+    "hyresgast": 1,
+    "lantagare": 1
   }
 }

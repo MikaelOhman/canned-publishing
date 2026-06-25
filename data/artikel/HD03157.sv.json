@@ -12,6 +12,8 @@
   "tldr": "Regeringen vill införa en ny lag som gör det möjligt för grupper av fastighetsägare att ta ut en avgift för att förbättra tryggheten och utvecklingen i ett område. Lagen föreslås börja gälla den 1 augusti 2026.",
   "lattlast": "<p>Regeringen har lagt fram ett förslag på en ny lag om områdessamverkan. Det betyder att grupper av människor eller företag som äger fastigheter kan gå samman för att arbeta med saker som förebygger brott och gör ett område mer attraktivt. Syftet är att skapa mer trygghet och hjälpa det lokala näringslivet att växa.</p><p>Om en sådan grupp får godkänt av kommunen kan de få rätt att ta ut en avgift från de fastighetsägare som påverkas av arbetet. Varje ägare betalar en del av kostnaden baserat på hur mycket nytta de får av arbetet. Denna avgift får bara användas för kostnader som staten eller kommunen inte redan ansvarar för att betala.</p><p>För att få ta ut avgifter måste gruppen vara godkänd av kommunen som en så kallad huvudman. Det krävs också att de som leder arbetet representerar minst två tredjedelar av de fastighetsägare som finns i området. Arbetet får inte heller drivas för att tjäna pengar.</p><p>Om det uppstår ett bråk eller en oenighet om avgiften mellan de som leder arbetet och de som äger fastigheter, ska ärendet avgöras i en vanlig domstol. Förslaget är att den nya lagen ska börja gälla den 1 augusti 2026.</p>",
   "relevans": {
-    "foretagare": 2
+    "b_fastighet": 1,
+    "konsument": 1,
+    "otrygg": 1
   }
 }

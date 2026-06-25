@@ -13,10 +13,18 @@
   "tldr": "El Ayuntamiento de Estocolmo ha tomado muchas decisiones sobre nuevos proyectos de construcción, parques y áreas naturales protegidas. Esto incluye la construcción de nuevas viviendas, la creación de nuevas carreteras y la protección de la naturaleza en varias partes de la ciudad.",
   "lattlast": "<p>El Ayuntamiento de Estocolmo ha aprobado varios proyectos de construcción importantes. Se construirán nuevas viviendas en Aspudden y nuevos centros de atención para personas mayores en Bagarmossen y Gröndal. También hay planes para construir una nueva oficina administrativa en Järva y para desarrollar el paseo marítimo del canal de Karlberg.</p><p>En cuanto al transporte y las carreteras, se han aprobado importantes obras en la parte occidental de los puentes de Liljeholm. También hay planes para construir un nuevo depósito de metro en la zona industrial de Älvsjö. Para facilitar la visita de los turistas durante la Copa Mundial de Fútbol de 202lag, también se han aprobado normas temporales sobre cuánto tiempo los restaurantes y bares pueden servir alcohol.</p><p>La naturaleza se protegerá en varios lugares de la ciudad. Se designarán como &quot;áreas de protección de hábitat&quot; varias nuevas zonas, lo que significa que la naturaleza allí permanecerá intacta. Esto se aplica a lugares como Hemskogen, Vikingaberget, Gökdalen y Åkeslund. También se ha decidido crear una nueva reserva natural en la zona de Kyrkhamn-Riddersvik.</p><p>La ciudad también ha realizado transacciones y acuerdos. Esto incluye la compra de acciones de Kista Utveckling AB y la adquisición de reducciones de emisiones para ayudar al medio ambiente. También se ha firmado un acuerdo para construir el Centro Nobel en Södermalm.</p>",
   "relevans": {
-    "bil": 1,
+    "b_industri": 1,
+    "b_bygg": 1,
+    "b_besok": 1,
+    "b_fastighet": 1,
+    "miljo": 1,
     "glesbygd": 1,
     "storstad": 1,
+    "kronisk": 1,
+    "beroende": 1,
+    "sparare": 1,
+    "friluftsliv": 1,
     "klimat": 2,
-    "halsa": 1
+    "fortroendevald": 1
   }
 }

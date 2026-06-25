@@ -13,10 +13,13 @@
   "tldr": "Az Uddevalla Városépítési Bizottsága döntött arról, hogy elindít egy folyamatot, amelynek célja a Björbäck terület bővítése ipari területtel és új parkolóhelyekkel. Emellett jóváhagyták egy tervet is, amely szerint a Klubban 3 területen 26 új lakóépület épül, amelyhez egy parkolóház is tartozik.",
   "lattlast": "<p>Björbäckben a település tervezi, hogy megváltoztassa a területet, hogy több vállalkozás számára lehessen helyet biztosítani. Ez magában foglalja egy nagyobb ipari terület és üzleti célú területek létrehozását, valamint új parkolóhelyek építését. A tervek továbbá azt is tartalmazzák, hogy egy meglévő utat a területen hivatalosan beépítsék a részletes építési tervbe.</p><p>Ahhoz, hogy ez megvalósuljon, a tervjavaslatot most konzultációra kell küldeni. A konzultáció azt jelenti, hogy azok, akikre a terv hatással van, például a szomszédok vagy más hatóságok, megtekinthetik a javaslatot és véleményt nyújthatnak be. A bizottság úgy ítélte meg, hogy az új tervek nem okoznak súlyos környezeti károkat.</p><p>A bizottság emellett jóváhagyta a Klubban 3 területre vonatkozó tervet. Itt egy nagy lakóépület építését tervezik, amely 26 lakást foglal magában. Az épület alatt egy parkolóházat építenek, hogy megoldják a lakók parkolási igényét.</p><p>Ezen nagy építési projektek mellett a bizottság átnézte a korábbi, a közalkalmazottak által hozott döntésekkel kapcsolatos jelentéseket. Ezeket a döntéseket a város alkalmazottai hozták, akik felhatalmazást kaptak arra, hogy bizonyos döntéseket a bizottság nevében hozzanak, hogy a munka gördülékenyebben zajljon.</p>",
   "relevans": {
-    "foretagare": 1,
-    "bil": 2,
-    "kollektiv": 1,
+    "arbetsgivare": 1,
+    "b_industri": 1,
+    "b_bygg": 1,
+    "mark_bygglov": 1,
+    "bygger": 1,
     "glesbygd": 1,
+    "bil": 1,
     "klimat": 1
   }
 }

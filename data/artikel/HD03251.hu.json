@@ -12,6 +12,9 @@
   "tldr": "A függőség- és a mentális egészségügyi problémákkal küzdő betegek ellátása jobban össze kell kapcsolódnia. A régióknak össze kell hangolni a függőség kezelésével kapcsolatos szolgáltatásokat a többi pszichiátriai ellátással, szigorítani kell az egyéni kezelési tervekkel kapcsolatos követelményeket, és a régió köteles kártérítést fizetni az önkormányzatnak, ha az nem teljesíti a tervben szereplő feladatait.",
   "lattlast": "<p>A javaslat célja, hogy egységesebb és koherensebb legyen az ellátás azoknak a személyeknek, akik káros használati szokásokat vagy függőségeket mutatnak, és akiknek egyéb pszichiátriai problémáik is vannak.</p><p>A régióknak úgy kell megszervezniük a függőség kezelésével foglalkozó ellátást, hogy az összhangban legyen a többi pszichiátriai ellátással. A lakóotthonokban vagy bentlakásos intézményekben tartózkodó személyek számára készülő egyéni kezelési tervekkel kapcsolatos követelmények szigorodnak.</p><p>Ha a régió nem teljesíti a kötelezettségeit az egyéni kezelési tervvel kapcsolatban, akkor kötelezhető a településre való kártérítésre. A szociális bizottság továbbá értesíteni kell a régiót, amikor egy személyt fogadnak be lakóotthonba vagy bentlakásos intézménybe.</p>",
   "relevans": {
-    "halsa": 3
+    "tillstand": 3,
+    "kronisk": 3,
+    "psykisk": 3,
+    "beroende": 3
   }
 }

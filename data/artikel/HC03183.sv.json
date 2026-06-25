@@ -12,7 +12,8 @@
   "tldr": "Sverige genomför ett EU-direktiv om så kallade intelligenta transportsystem i vägtrafiken. Fler typer av trafikdata och digitala tjänster ska göras tillgängliga i maskinläsbart format via en nationell åtkomstpunkt, så att de kan användas i hela EU.",
   "lattlast": "<p>Intelligenta transportsystem är digitala tjänster och data som används för att göra vägtrafiken smartare och säkrare – till exempel realtidsinformation om trafik och vägar.</p><p>Regeringen föreslår ändringar i den svenska lagen för att genomföra ett EU-direktiv. Ändringarna utvidgar vilka datatyper och tjänster som omfattas.</p><p>Data ska göras tillgängliga i maskinläsbart format via en nationell åtkomstpunkt och täcka vissa geografiska områden vid bestämda tidpunkter, så att tjänsterna kan fungera över hela EU.</p>",
   "relevans": {
-    "bil": 1,
+    "b_transport": 3,
+    "eu_marknad": 1,
     "glesbygd": 1
   }
 }

@@ -12,10 +12,20 @@
   "tldr": "Il governo propone modifiche al bilancio statale per l'anno 2026. Le proposte riguardano una vasta gamma di aspetti, dagli acquisti di nuovi immobili e sottomarini a importanti investimenti nell'energia nucleare e nell'attività spaziale.",
   "lattlast": "<p>Il governo intende modificare il modo in cui i fondi statali saranno utilizzati nel 2026. Tra le decisioni più importanti, è stata proposta l&#x27;acquisto di un immobile a Solna per oltre 3,4 miliardi di corone svedesi. Sono inoltre previste proposte per la locazione di un sottomarino di tipo A 17 alla Polonia e per la modifica delle regole relative al sostegno all&#x27;assistenza odontoiatrica.</p><p>Una parte significativa della proposta riguarda l&#x27;energia e l&#x27;energia nucleare. Lo Stato prevede di investire ingenti somme di denaro nell&#x27;azienda Videberg Kraft AB. Ciò include l&#x27;acquisto di azioni per possedere una quota significativa dell&#x27;azienda, nonché il finanziamento di programmi per la gestione delle scorie nucleari. Questi costi potrebbero essere molto elevati nei prossimi anni.</p><p>Sono inoltre previste proposte relative alla sicurezza e alla tecnologia. Il governo desidera poter utilizzare fondi per proteggere le persone che lavorano nel settore dell&#x27;intelligence. È stata proposta anche l&#x27;erogazione di fondi all&#x27;azienda spaziale SSC Space AB per rafforzare l&#x27;attività svedese nel settore spaziale. Per gli agenti di polizia in servizio, sono proposte nuove regole su come gestire i loro prestiti studenteschi.</p><p>Infine, sono previste modifiche minori al bilancio di diverse agenzie e del settore culturale. L&#x27;Opera Reale avrà la possibilità di ottenere prestiti per ristrutturare il suo edificio. Anche agenzie come l&#x27;Agenzia dei Medicinali e l&#x27;Istituto di Radiocomunicazioni delle Forze Armate vedranno i loro bilanci modificati per poter svolgere le loro attività nel 2026.</p>",
   "relevans": {
-    "foretagare": 1,
+    "b_bygg": 1,
+    "b_fastighet": 1,
+    "b_energi": 1,
+    "b_kultur": 1,
+    "b_life": 1,
     "student": 1,
     "hyresgast": 1,
-    "klimat": 1,
-    "halsa": 2
+    "kronisk": 1,
+    "tandvard": 2,
+    "sparare": 1,
+    "lantagare": 1,
+    "energikund": 1,
+    "kultur": 1,
+    "otrygg": 1,
+    "varnpliktig": 1
   }
 }

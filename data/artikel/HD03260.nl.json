@@ -12,8 +12,10 @@
   "tldr": "De regering wil de regels voor de controle van onderzoek bij mensen versoepelen om het proces te vereenvoudigen. Bepaalde onderzoeken die gevoelige persoonlijke gegevens verwerken, zullen in de toekomst geen formele goedkeuring meer nodig hebben, maar de onderzoeker moet zelf controleren of de regels worden nageleefd.",
   "lattlast": "<p>De regering heeft een voorstel ingediend om de wet inzake de ethische beoordeling van onderzoek te wijzigen. Het doel is om de controle op onderzoek dat betrekking heeft op mensen efficiënter en duidelijker te maken. Het voorstel omvat onder meer dat bepaalde soorten onderzoek niet langer een speciale goedkeuring nodig hebben als ze gevoelige persoonlijke gegevens of informatie over strafbare feiten verwerken.</p><p>De persoon die het onderzoek leidt, de zogenaamde onderzoeksleider, is zelf verantwoordelijk voor het beoordelen of het onderzoek onder de nieuwe uitzonderingen valt. Er moet ook de mogelijkheid zijn om vrijwillig een controle aan te vragen als men er zeker van wil zijn dat alles correct verloopt.</p><p>Ook de manier waarop wordt gecontroleerd of de regels worden nageleefd, zal veranderen. De bezwaarnemende commissie voor ethische beoordeling, genaamd Önep, krijgt meer bevoegdheid om een oordeel te geven over onderzoek dat mogelijk fout is gegaan. De commissie kan ook begeleiding bieden, zodat de regels op dezelfde manier worden toegepast in het hele land. Beslissingen over onderzoek kunnen niet langer worden aangevochten, en de commissie hoeft vermoedelijke strafbare feiten niet te melden aan de politie.</p><p>Als het voorstel wordt aangenomen, zullen de nieuwe regels ingaan op 1 juli 2027. Het voorstel omvat ook wijzigingen in wetten die betrekking hebben op de manier waarop persoonsgegevens worden verwerkt bij overheidsinstanties zoals IFAU en de Inspectie voor sociale zekerheid.</p>",
   "relevans": {
-    "bil": 1,
-    "kollektiv": 1,
-    "glesbygd": 1
+    "gdpr": 1,
+    "fou": 3,
+    "glesbygd": 1,
+    "otrygg": 1,
+    "integritet": 1
   }
 }

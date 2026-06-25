@@ -13,9 +13,13 @@
   "tldr": "Az Ånge önkormányzat városi tanácsa egy ülést tartott, ahol áttekintették a pénzügyi jelentéseket és a jövőbeli tervekkel foglalkoztak. A legfontosabb témák közé tartozott a földeladás, a parkolási szabályozás és az új játszótér létrehozása.",
   "lattlast": "<p>Az Ånge önkormányzat közgyűlése számos fontos kérdést tárgyalt az önkormányzat gazdaságával és fejlődésével kapcsolatban. Áttekintették a gazdasági jelentéseket és a következő évek költségvetési terveit, valamint megvizsgálták az önkormányzat adósságait és finanszírozási igényeit.</p><p>Az építkezés és a területekkel kapcsolatban döntés született arról, hogy eladják a területet az Ellevio nevű vállalatnak. Emellett megvitatták, hogy hogyan fejlesszék a Mallberget környéki ipari területeket, és hogyan oldják meg a munkába járók parkolási problémáit.</p><p>A lakosok számára döntés született egy új játszótér építéséről Fränstában, és jóváhagyták a hozzá szükséges költségvetést. Tervezik továbbá, hogy felülvizsgálják a Parkbacken területét, és folynak tárgyalások az Älvgården csoportotthon megszüntetéséről.</p><p>A közgyűlésen áttekintették a különböző vállalatok és szervezetek éves jelentéseit, amelyekhez az önkormányzat kötődik, például az Ångefallen Kraft AB és a Västernorrland régió közlekedési hatósága.</p>",
   "relevans": {
-    "foretagare": 1,
+    "b_industri": 1,
+    "b_bygg": 1,
+    "redovisning": 1,
+    "mark_bygglov": 1,
+    "pendlare": 1,
     "bil": 1,
     "kollektiv": 1,
-    "storstad": 1
+    "lantagare": 1
   }
 }

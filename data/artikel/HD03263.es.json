@@ -12,9 +12,13 @@
   "tldr": "El gobierno quiere mejorar la eficiencia en la ejecución de decisiones de expulsión y deportación. Varias agencias gubernamentales, incluyendo la Seguridad Social (Försäkringskassan), la Agencia Tributaria (Skatteverket) y el Servicio Penitenciario (Kriminalvården), estarán obligadas a informar de forma proactiva a la Policía (Polismyndigheten) sobre personas que puedan no tener derecho a residir en Suecia, y se fortalecerán las normas para los controles migratorios internos.",
   "lattlast": "<p>Un sistema de expulsión eficaz es considerado por el gobierno como un requisito previo para una política de inmigración restrictiva. La propuesta tiene como objetivo proporcionar a la Policía y al Departamento de Migraciones, entre otras entidades, mejores herramientas para ejecutar decisiones de expulsión.</p><p>Se introduce una nueva obligación para varias agencias gubernamentales: el Servicio de Empleo, la Seguridad Social, el Servicio Penitenciario, la Oficina de Ejecuciones, la Agencia de Pensiones y la Agencia Tributaria, para que, por iniciativa propia, proporcionen a la policía información sobre extranjeros que puedan no tener derecho a permanecer en Suecia.</p><p>Las normas sobre control interno de inmigración se modernizan y se fortalecen para permitir un mayor número de controles.</p>",
   "relevans": {
+    "b_finans": 1,
     "pensionar": 1,
     "arbetssokande": 1,
-    "kollektiv": 1,
-    "ny_i_sverige": 1
+    "sjukskriven": 1,
+    "skuldsatt": 1,
+    "asyl": 1,
+    "otrygg": 1,
+    "domd": 1
   }
 }

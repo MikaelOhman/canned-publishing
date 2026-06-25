@@ -12,8 +12,12 @@
   "tldr": "Rząd chce ułatwić i obniżyć koszty remontów domów poprzez zmianę przepisów w ustawie o budynkach. Propozycja zakłada, że nie będzie konieczność remontowania całego domu, jeśli dokonuje się zmian tylko w jego części.",
   "lattlast": "<p>Rząd przedstawił propozycję zmiany przepisów w ustawie o planowaniu przestrzennym i budownictwie, która reguluje zasady budowy i przebudowy budynków w Szwecji. Proponuje się zastąpienie słowa „przebudowa” wyrażeniem „większa zmiana w budynku”, aby uczynić bardziej jasnym, co dotyczy zmian wprowadzanych w budynku.</p><p>W przypadku dokonywania większych zmian w części budynku, należy stosować nowe przepisy tylko do tej konkretnej części. Dotychczas istniała możliwość wymagania, aby cały budynek spełniał nowe przepisy, ale teraz chce się to ograniczyć. Można wymagać zmian w całym budynku tylko wtedy, gdy istnieją poważne zagrożenia dla zdrowia lub bezpieczeństwa ludzi, lub gdy dotyczy to ważnych elementów, takich jak instalacje elektryczne, ogrzewanie i dostęp do Internetu.</p><p>Ułatwione zostaną również zasady dotyczące dostępności. Chodzi o to, aby ułatwić dostosowywanie budynków, aby osoby z trudnościami w poruszaniu się lub orientacji mogły z nich korzystać.</p><p>Jeśli parlament zagłosuje za tą propozycją, nowe przepisy zaczną obowiązywać od 1 stycznia 2027 roku. Propozycja ta wpływa również na inne ustawy dotyczące deklaracji energetycznych i pomiaru zużycia energii w budynkach.</p>",
   "relevans": {
+    "b_bygg": 3,
+    "b_energi": 1,
+    "infrastruktur": 1,
     "glesbygd": 1,
-    "klimat": 1,
-    "funktion": 1
+    "funktion": 1,
+    "energikund": 1,
+    "bredbandsberoende": 1
   }
 }

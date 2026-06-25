@@ -12,6 +12,7 @@
   "tldr": "Svédország célja, hogy megakadályozza az áfa-csalásokat azáltal, hogy a Nemzeti Adóhatóság (Skatteverket) nagyobb hatalommal rendelkezik a csaló vállalatok ellenőrzésére és megakadályozására. Az új szabályok 2026. július 1-jén lépnek életbe.",
   "lattlast": "<p>Számos vállalat helytelen módszereket alkalmaz arra, hogy elkerüljék az áfa fizetését, amikor más országokkal kereskednek az EU-n belül. Ezt általában áfakénylezésnek nevezik, és ez jelentős pénzügyi veszteségeket okoz az állam számára. A kormány most törvényt akar módosítani, hogy megakadályozza ezt.</p><p>A Svédországban a vám- és adóügyekkel foglalkozó hatóság, a Skatteverket, nagyobb felhatalmazást kap. Lehetővé kell tennie, hogy alaposabban ellenőrizzék a vállalatokat, amikor azok áfa-regisztrációra kívánnak jelentkezni. Ha a Skatteverket csalást gyanít, elutasíthatja egy vállalat regisztrációját, vagy eltávolíthatja azt a rendszerből.</p><p>A Skatteverket továbbá jogosult lehet egy regisztrációs számot érvénytelennek jelölni egy közös európai rendszerben, amely a VIES néven ismert. Ezt a rendszert az egész EU-ban használják arra, hogy ellenőrizzék, egy vállalat valóban létezik-e. Ezáltal nehezebb lesz a csalóknak, hogy átverjék a többi európai vállalatot.</p><p>Emellett javaslat van arra, hogy a Skatteverket eldönthesse, hogy a vállalatok nem kapják vissza a pénzt, ha túl magas áfát fizettek. Mindezek új szabályok célja a adócsalás csökkentése és annak biztosítása, hogy mindenki helyesen fizesse az adóit. A javaslat várhatóan 2026. július 1-jén lép hatályba.</p>",
   "relevans": {
-    "foretagare": 2
+    "moms": 3,
+    "konsument": 1
   }
 }

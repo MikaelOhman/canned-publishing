@@ -12,7 +12,9 @@
   "tldr": "Le gouvernement souhaite modifier la loi afin que l'Agence centrale de statistiques (SCB) puisse collecter davantage d'informations sur le niveau d'endettement des ménages, ainsi que sur les taux d'intérêt et les remboursements qu'ils effectuent. Cette mesure vise à mieux comprendre les risques économiques dans la société.",
   "lattlast": "<p>Le gouvernement a présenté une proposition visant à étendre le fonctionnement d&#x27;un système appelé Fasit. Fasit est un outil utilisé par l&#x27;Agence centrale de statistiques (SCB) pour évaluer l&#x27;impact de différentes réglementations économiques sur les individus. En ajoutant des informations sur les dettes et les paiements, il est possible de mieux comprendre la vulnérabilité des ménages face aux changements économiques.</p><p>Pour que cela fonctionne, les banques et autres entreprises qui accordent des prêts immobiliers doivent fournir à la SCB des informations sur les dettes et les paiements des ménages. Il est important de connaître le montant des sommes consacrées au remboursement des dettes afin de pouvoir planifier la politique économique du pays. Cela permet aux autorités de déterminer si des taux d&#x27;intérêt élevés ou d&#x27;autres coûts créent de graves problèmes pour les familles.</p><p>Bien que davantage d&#x27;informations soient collectées, les règles relatives aux données personnelles restent strictes. Seules les informations nécessaires doivent être utilisées, et les informations sensibles, telles que celles relatives à la santé ou à l&#x27;origine ethnique, ne doivent pas être utilisées. L&#x27;objectif est d&#x27;obtenir des statistiques fiables sans porter atteinte à la vie privée des individus.</p><p>Si la proposition est adoptée et que le Parlement vote en faveur, les nouvelles règles entreront en vigueur le 1er août 2026.</p>",
   "relevans": {
-    "barn": 1,
-    "foretagare": 1
+    "b_finans": 1,
+    "gdpr": 1,
+    "lantagare": 3,
+    "integritet": 2
   }
 }

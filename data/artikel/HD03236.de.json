@@ -12,7 +12,11 @@
   "tldr": "Aufgrund der hohen Preise für Treibstoffe und Strom senkt die Regierung die Energiesteuer – Benzin um 82 Cent pro Liter und Diesel um 319 Kronen pro Kubikmeter (auf das EU-Mindestniveau) – und schlägt Unterstützung für die Strom- und Gaspreise der Haushalte vor. Dies ist eine zusätzliche Änderung des Haushaltsplans für 2026.",
   "lattlast": "<p>Die Regierung schlägt Änderungen im Staatshaushalt für 2026 vor. Hintergrund sind die hohen Kraftstoffpreise, die mit dem Konflikt im Nahen Osten zusammenhängen, sowie die hohen Strompreise und die starke Kälte, die die Heizkosten für die Haushalte erhöht haben.</p><p>Die Energiesteuer auf Benzin wird um 82 Cent pro Liter und auf Diesel um 319 Kronen pro Kubikmeter gesenkt – für die Umweltklasse 1 bis zum niedrigsten EU-zulässigen Wert.</p><p>Der Gesetzentwurf enthält außerdem Unterstützung für Strom- und Gaspreise, um die Kosten für die Haushalte zu senken.</p>",
   "relevans": {
+    "b_energi": 1,
+    "punktskatt": 1,
+    "energiintensiv": 1,
     "bil": 2,
-    "klimat": 3
+    "energikund": 3,
+    "klimat": 1
   }
 }

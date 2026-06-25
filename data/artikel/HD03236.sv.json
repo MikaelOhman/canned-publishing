@@ -12,7 +12,11 @@
   "tldr": "På grund av höga drivmedels- och elpriser sänker regeringen energiskatten – bensin med 82 öre per liter och diesel med 319 kronor per kubikmeter (ner till EU:s lägstanivå) – och föreslår stöd för hushållens el- och gaspriser. Det är en extra ändring i 2026 års budget.",
   "lattlast": "<p>Regeringen föreslår ändringar i statens budget för 2026. Bakgrunden är höga drivmedelspriser kopplade till konflikten i Mellanöstern, samt höga elpriser och sträng kyla som gjort uppvärmningen dyr för hushållen.</p><p>Energiskatten på bensin sänks med 82 öre per liter och på diesel med 319 kronor per kubikmeter – för miljöklass 1 ända ner till den lägsta nivå som EU tillåter.</p><p>Propositionen innehåller också stöd för el- och gaspriser för att lindra hushållens kostnader.</p>",
   "relevans": {
+    "b_energi": 1,
+    "punktskatt": 1,
+    "energiintensiv": 1,
     "bil": 2,
-    "klimat": 3
+    "energikund": 3,
+    "klimat": 1
   }
 }

@@ -12,9 +12,9 @@
   "tldr": "Regeringen vill ändra reglerna för att jobba i Sverige. Målet är att göra det svårare att använda felaktig arbetskraft men lättare för experter att komma hit.",
   "lattlast": "<p>Regeringen har lagt fram ett förslag som ska börja gälla den 1 juni 2026. För att få ett arbetstillstånd kommer det att krävas att man har en sjukförsäkring och en viss lön. Det finns dock vissa jobb som inte behöver följa lönekravet.</p><p>Det blir också svårare för företag att anställa personer från länder utanför EU om företaget har gjort fel eller är misstänkt för brott. Man vill också straffa företag hårdare om de anställer personer som inte har rätt att vara i Sverige. Två nya brott ska införas, som handlar om att utnyttja utländska arbetare och att sälja arbetstillstånd.</p><p>Samtidigt vill man göra det enklare för personer med hög utbildning att flytta till Sverige. För de som har ett så kallat EU-blåkort, vilket är ett tillstånd för experter, eller de som kommer för säsongsarbete, ska tiden de får stanna förlängas. Man vill också att experter ska kunna söka sitt tillstånd medan de redan befinner sig i Sverige.</p><p>Förslaget handlar om ändringar i utlänningslagen, vilket är den lag som styr vem som får bo och arbeta i landet. Nu ska riksdagen besluta om de nya reglerna ska bli lag.</p>",
   "relevans": {
+    "arbetskraft_inv": 3,
+    "tillstand": 1,
     "lontagare": 1,
-    "foretagare": 1,
-    "kollektiv": 1,
-    "ny_i_sverige": 1
+    "arbetstillstand": 1
   }
 }

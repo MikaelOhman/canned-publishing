@@ -12,7 +12,7 @@
   "tldr": "A kormány szeretné módosítani az adószabályokat úgy, hogy az külföldön élő személyek is adót fizessenek Svédországban, még akkor is, ha külföldön végeznek munkát, például bérbeadás révén. Ez elsősorban olyan személyekre vonatkozik, akik Dániában vagy olyan országokban élnek, ahol Svédország nem rendelkezik különleges adóegyezményekkel.",
   "lattlast": "<p>A kormány egy módosítást javasol a külföldön élő személyekre vonatkozó különleges jövedelemadó törvényben. Jelenleg olyan szabályok vannak érvényben, amelyek szerint azok a személyek, akik egy másik országban laknak, de egy svéd vállalatnak dolgoznak, esetleg svédországban kell, hogy fizessék az adót. Most azt szeretnék tisztázni, hogy ez a szabály akkor is érvényes, ha egy személy rövid időre egy svédországi munkáltatóhoz kerül kiadósorban.</p><p>Ez a módosítás nem mindenki számára jelentős. Elsősorban azokat az embereket érinti, akik Dániában élnek, a Svédország és Dánia közötti különleges szabályozások miatt. Fontos az olyan személyek számára is, akik olyan országokban élnek, ahol Svédország nem kötött adóügyi megállapodásokat.</p><p>Ha a javaslat törvénytörvénnyé válik, az új szabályok 2025. július 1-jén lépnek életbe. Ez azt jelenti, hogy a 2025. június 30. után kifizetett bérek vagy egyéb juttatások az új szabályok szerint kell, hogy kerüljenek alkalmazásra, amennyiben a munkát ennek a dátumnak a követően végezték.</p>",
   "relevans": {
-    "lontagare": 3,
-    "foretagare": 1
+    "arbetsgivare": 1,
+    "lontagare": 3
   }
 }

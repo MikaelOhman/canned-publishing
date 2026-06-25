@@ -12,6 +12,10 @@
   "tldr": "Regeringen vill ändra lagarna för hur Skatteverket, Tullverket och Kronofogden hanterar personuppgifter. Syftet är att myndigheterna ska kunna använda modern teknik för att kontrollera rättigheter och skatter på ett bättre sätt, samtidigt som ditt personliga skydd bibehålls.",
   "lattlast": "<p>Regeringen har lagt fram ett förslag om att byta ut de gamla reglerna för hur personuppgifter hanteras hos tre stora myndigheter. Det gäller Skatteverket, Tullverket och Kronofogdemyndigheten. De nya lagarna ska göra det möjligt för myndigheterna att använda information på ett mer modernt sätt som passar dagens teknik.</p><p>Förslaget innebär också att myndigheterna ska få tydligare rätt att använda dataanalys. Det betyder att de får använda datorprogram för att leta efter mönster och göra urval i sina register. Detta ska hjälpa dem att arbeta mer effektivt med sina kontroller, till exempel när de letar efter fel i skatter eller tullavgifter.</p><p>Trots att myndigheterna får nya verktyg är målet att skydda människors privatliv. De nya lagarna ska fungera tillsammans med EU:s dataskyddsregler, som kallas GDPR, för att se till att personuppgifter inte används på fel sätt. Lagarna ska skydda individen mot att deras personliga integritet blir kränkt.</p><p>Om riksdagen röstar ja till förslaget kommer de nya reglerna att börja gälla den 2 april 2026. Förslaget innehåller även många mindre ändringar i andra lagar som rör allt från skatt på alkohol och tobak till regler för folkbokföring och studiestöd.</p>",
   "relevans": {
-    "student": 1
+    "gdpr": 3,
+    "import": 3,
+    "beroende": 1,
+    "skuldsatt": 1,
+    "integritet": 2
   }
 }

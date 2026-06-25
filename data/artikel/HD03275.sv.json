@@ -12,11 +12,16 @@
   "tldr": "Regeringen föreslår nya pengar i budgeten för 2026 för att hjälpa Ukraina med militär utrustning och för att stötta svenska hushåll och företag vid höga priser på energi och drivmedel.",
   "lattlast": "<p>Regeringen vill skicka mer militär utrustning till Ukraina på grund av kriget. Det handlar bland annat om att ge stridsflygplan av typen Gripen samt utrustning för marinen. Regeringen vill också kunna sälja fler moderna Gripen-plan till Ukraina för att stärka deras försvar.</p><p>För att hjälpa människor och företag i Sverige föreslår regeringen sänkt skatt på bensin och diesel under en del av 2026. Detta görs för att hantera höga priser på bränsle som beror på kriget i Mellanöstern. Det finns även förslag om att ge stöd till jordbruket och flygbranschen.</p><p>För att hjälpa privatpersoner vill regeringen ge mer pengar till energistöd. Detta ska hjälpa till att hålla nere kostnaderna för el och gas. Det finns även planer på ett så kallat högkostnadsskydd, vilket betyder att det ska finnas ett tak för hur dyrt el och gas får bli.</p><p>Slutligen föreslår regeringen att mer pengar ska gå till kollektivtrafiken för att hjälpa till att hålla priserna nere för resenärer. Genom dessa ändringar i budgeten vill staten hantera de osäkra tiderna och de höga kostnaderna som krigen i Ukraina och Mellanöstern har skapat.</p>",
   "relevans": {
-    "foretagare": 1,
-    "bil": 3,
+    "b_transport": 1,
+    "b_grona": 1,
+    "b_energi": 1,
+    "pendlare": 1,
+    "bil": 2,
     "kollektiv": 1,
-    "storstad": 1,
-    "klimat": 1,
-    "halsa": 1
+    "flygresenar": 1,
+    "kronisk": 1,
+    "energikund": 2,
+    "konsument": 1,
+    "varnpliktig": 1
   }
 }

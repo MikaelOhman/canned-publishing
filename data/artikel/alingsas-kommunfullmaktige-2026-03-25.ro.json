@@ -13,8 +13,17 @@
   "tldr": "Primăria Alingsås a decis să introducă noi taxe pentru serviciile de îngrijire și asistență socială începând cu 2026. Aceasta include, printre altele, faptul că primăria va începe să perceapă taxe pentru transportul persoanelor decedate.",
   "lattlast": "<p>În comuna Alingsås, au fost stabilite noi prețuri pentru diverse servicii din domeniul îngrijirii și asistenței sociale, începând cu anul 2026. Această modificare este rezultatul unor noi legi și a deciziei de a introduce o taxă pentru transportul persoanelor decedate, o practică care nu a fost aplicată până acum.</p><p>Comuna a analizat modul în care alte comune din zona Göteborg funcționează. S-a constatat că majoritatea celorlalte comune percep o taxă pentru aceste transporturi. Conform legii, comuna are dreptul de a percepe o taxă care să corespundă costului real al serviciului pentru comună.</p><p>În plus, au fost stabilite noi reguli pentru eliberarea permiselor de construire și modificări ale regulilor privind gestionarea deșeurilor. De asemenea, au fost adoptate noi instrucțiuni privind modul de conducere a companiei municipale Alingsås Energi.</p><p>În cadrul întâlnirii, au fost discutate și colaborările cu comuna vecină Borås. Aceste colaborări vizează aspecte legate de mediu, sănătate și controlul alimentelor și al alcoolului.</p>",
   "relevans": {
-    "bostadsagare": 1,
-    "klimat": 2,
-    "halsa": 1
+    "b_bygg": 1,
+    "b_transport": 1,
+    "b_vard": 1,
+    "b_energi": 1,
+    "miljo": 1,
+    "mark_bygglov": 1,
+    "bygger": 1,
+    "kronisk": 1,
+    "beroende": 1,
+    "energikund": 1,
+    "konsument": 2,
+    "klimat": 1
   }
 }

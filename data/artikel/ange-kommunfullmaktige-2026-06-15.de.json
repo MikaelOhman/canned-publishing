@@ -15,12 +15,20 @@
   "tldr": "Der Gemeinderat von Ånge hat mehrere wichtige Entscheidungen bezüglich der Finanzen der Gemeinde und zukünftiger Pläne getroffen. Dazu gehören unter anderem Mittel für einen neuen Spielplatz, Straßen und die Steuer für das Jahr 2027.",
   "lattlast": "<p>Bei der Sitzung des Gemeinderats am 15. Juni 2026 wurden mehrere finanzielle Investitionen beschlossen. Die Gemeinde wird Mittel für den Bau eines neuen Spielplatzes in Fränsta verwenden, und es werden zusätzliche Gelder für die Verbesserung von Straßen im Jahr 2026 bereitgestellt.</p><p>Bezüglich der zukünftigen Wirtschaftslage haben die Politiker die Steuer für das Jahr 2027 diskutiert. Sie haben außerdem einen Haushaltsplan für das Jahr 2027 sowie einen langfristigen Finanzplan vorgelegt, der sich bis zum Jahr 2030 erstreckt. Dies ist wichtig, um zu wissen, mit welchen finanziellen Mitteln die Gemeinde in Zukunft verfügen wird.</p><p>Mehrere verschiedene Unternehmen und Organisationen, mit denen die Gemeinde zusammenarbeitet, haben ihre Jahresabschlüsse vorgelegt. Das bedeutet, dass die Politiker die wirtschaftliche Entwicklung von Unternehmen wie Ånge Energi AB, Ånge Fastighets- &amp; Industri AB und der Verkehrsbehörde Kollektivtrafikmyndigheten in der Provinz Västerbottens län geprüft haben.</p><p>Es wurden auch Entscheidungen bezüglich Grundstücken und Verträgen getroffen. Die Gemeinde wird ein Grundstück an das Unternehmen Ellevio verkaufen, und es wurde ein Vertrag zur Erweiterung des Recyclinghofs in Hallsta unterzeichnet. Darüber hinaus wurden die Gebühren für Anträge im Zusammenhang mit Baugenehmigungen und Umweltfragen festgelegt.</p>",
   "relevans": {
-    "foretagare": 1,
-    "bostadsagare": 1,
-    "bil": 1,
-    "kollektiv": 1,
+    "b_industri": 1,
+    "b_bygg": 1,
+    "b_fastighet": 1,
+    "b_energi": 1,
+    "redovisning": 1,
+    "miljo": 1,
+    "mark_bygglov": 1,
+    "bygger": 1,
     "glesbygd": 1,
-    "storstad": 1,
-    "klimat": 2
+    "pendlare": 1,
+    "kollektiv": 1,
+    "energikund": 1,
+    "konsument": 1,
+    "klimat": 1,
+    "fortroendevald": 1
   }
 }

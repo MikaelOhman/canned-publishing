@@ -15,12 +15,20 @@
   "tldr": "Il consiglio comunale di Ånge ha preso diverse decisioni importanti riguardanti l'economia del comune e i suoi piani futuri. Tra queste, sono state stanziate risorse per un nuovo parco giochi, per la manutenzione delle strade e per la definizione delle aliquote fiscali per l'anno 2027.",
   "lattlast": "<p>Durante la riunione del consiglio comunale del 15 giugno 2026, sono state prese diverse decisioni riguardanti investimenti economici. Il comune utilizzerà fondi per costruire un nuovo parco giochi a Fränsta e saranno stanziati ulteriori fondi per migliorare le strade nel corso del 2026.</p><p>Per quanto riguarda le prospettive economiche future, i politici hanno discusso delle tasse per il 2027. Hanno inoltre presentato un bilancio per il 2027 e un piano economico a lungo termine che si estende fino al 2030. Questo è importante per capire quali risorse finanziarie saranno disponibili per il comune in futuro.</p><p>Diverse aziende e organizzazioni con cui il comune collabora hanno presentato i loro bilanci annuali. Ciò significa che i politici hanno esaminato la situazione finanziaria di aziende come Ånge Energi AB, Ånge Fastighets- &amp; Industri AB e dell&#x27;organizzazione di trasporti Kollektivtrafikmyndigheten i Västernorrlands län.</p><p>Sono state prese anche decisioni riguardanti terreni e contratti. Il comune venderà un terreno all&#x27;azienda Ellevio ed è stato firmato un accordo per ampliare il centro di riciclaggio situato a Hallsta. Inoltre, sono state definite le tariffe applicabili alle pratiche relative a permessi di costruzione e questioni ambientali.</p>",
   "relevans": {
-    "foretagare": 1,
-    "bostadsagare": 1,
-    "bil": 1,
-    "kollektiv": 1,
+    "b_industri": 1,
+    "b_bygg": 1,
+    "b_fastighet": 1,
+    "b_energi": 1,
+    "redovisning": 1,
+    "miljo": 1,
+    "mark_bygglov": 1,
+    "bygger": 1,
     "glesbygd": 1,
-    "storstad": 1,
-    "klimat": 2
+    "pendlare": 1,
+    "kollektiv": 1,
+    "energikund": 1,
+    "konsument": 1,
+    "klimat": 1,
+    "fortroendevald": 1
   }
 }

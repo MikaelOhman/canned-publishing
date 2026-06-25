@@ -15,12 +15,20 @@
   "tldr": "El pleno municipal de Ånge ha tomado varias decisiones importantes sobre la economía del municipio y sus planes futuros. Entre ellas, se ha aprobado financiación para un nuevo parque infantil, carreteras y el impuesto para el año 2027.",
   "lattlast": "<p>En la reunión del pleno municipal del 15 de junio de 2026, se tomaron varias decisiones sobre inversiones económicas. El municipio utilizará fondos para construir un nuevo parque infantil en Fränsta, y también se destinarán fondos adicionales para mejorar las carreteras durante el año 2026.</p><p>En cuanto a la economía futura, los políticos han debatido sobre los impuestos para el año 2027. También han presentado un presupuesto para el año 2027 y un plan económico a largo plazo que abarca hasta el año 2030. Esto es importante para saber con qué recursos económicos contará el municipio en el futuro.</p><p>Varias empresas y organizaciones con las que el municipio tiene relación han presentado sus informes anuales. Esto significa que los políticos han revisado el desempeño económico de empresas como Ånge Energi AB, Ånge Fastighets- &amp; Industri AB y la organización de transporte Kollektivtrafikmyndigheten i Västernorrlands län.</p><p>También se tomaron decisiones sobre terrenos y contratos. El municipio venderá terrenos a la empresa Ellevio, y se ha firmado un acuerdo para ampliar el centro de reciclaje ubicado en Hallsta. Además, se han establecido las tarifas que se aplicarán a los trámites relacionados con permisos de construcción y cuestiones medioambientales.</p>",
   "relevans": {
-    "foretagare": 1,
-    "bostadsagare": 1,
-    "bil": 1,
-    "kollektiv": 1,
+    "b_industri": 1,
+    "b_bygg": 1,
+    "b_fastighet": 1,
+    "b_energi": 1,
+    "redovisning": 1,
+    "miljo": 1,
+    "mark_bygglov": 1,
+    "bygger": 1,
     "glesbygd": 1,
-    "storstad": 1,
-    "klimat": 2
+    "pendlare": 1,
+    "kollektiv": 1,
+    "energikund": 1,
+    "konsument": 1,
+    "klimat": 1,
+    "fortroendevald": 1
   }
 }

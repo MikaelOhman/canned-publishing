@@ -12,7 +12,11 @@
   "tldr": "Auditoria Generală a examinat modul în care statul sprijină agricultura în eforturile sale de a reduce emisiile și a constatat că regulile actuale nu sunt suficiente. Guvernul dorește acum să îmbunătățească activitățile pentru a atinge obiectivele climatice.",
   "lattlast": "<p>Riksrevisionen este o autoritate care verifică modul în care statul utilizează banii și își desfășoară activitatea. Aceasta a investigat modul în care statul coordonează eforturile sectorului agricol în ceea ce privește impactul asupra climei. Conform concluziilor, instrumentele existente acoperă doar o mică parte din emisiile generate de agricultură. De asemenea, se consideră că guvernul a ratat oportunități bune de a reduce emisiile.</p><p>Guvernul a răspuns la raport și a declarat că dorește să utilizeze criticile pentru a îmbunătăți activitatea. Acesta a început deja să facă modificări, de exemplu, prin sprijinirea restaurării terenurilor care nu mai sunt utilizate în agricultură. Acest proces este numit &quot;reîngrijirea terenurilor&quot;.</p><p>În ceea ce privește impozitul redus pe motorină pentru agricultori, guvernul analizează posibilitatea de a oferi alte tipuri de sprijin. Scopul este de a identifica modalități mai eficiente de a ajuta sectorul agricol să devină mai ecologic.</p><p>Guvernul este de acord că este necesară o monitorizare mai bună a sprijinului acordat producției de biogaz, un combustibil benefic pentru mediu. În viitor, este necesară o evaluare mai bună a rezultatelor acestor fonduri.</p>",
   "relevans": {
-    "bil": 2,
+    "b_industri": 1,
+    "b_grona": 3,
+    "miljo": 1,
+    "gron_omstallning": 3,
+    "bil": 1,
     "klimat": 3
   }
 }

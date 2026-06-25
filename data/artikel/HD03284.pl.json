@@ -12,7 +12,12 @@
   "tldr": "Riksrevisionen wykryła poważne niedociągnięcia w sposobie, w jaki Agencja Migracyjna kontroluje pozwolenia na pracę. Istnieje duże ryzyko, że błędy i oszustwa związane z pozwoleniami na pracę nie zostaną wykryte, co może prowadzić do przestępstw w miejscu pracy.",
   "lattlast": "<p>Riksrevisionen to instytucja, która kontroluje sposób działania innych instytucji. Przeprowadziła badania dotyczące skuteczności kontroli wydawanych pozwoleń na pracę przez Agencję Migracyjną (Migrationsverket). Wyniki wskazują, że kontrole nie są wystarczająco skuteczne, aby zapobiec oszustwom i nadużyciom.</p><p>Problemy występują zarówno w procesie ubiegania się o nowe pozwolenia na pracę, jak i podczas kontroli osób, które już takie pozwolenia posiadają. Riksrevisionen uważa, że może to prowadzić do wykorzystywania pracowników oraz do nieuczciwej konkurencji między firmami. Istnieje również ryzyko wzrostu przestępczości w sferze zatrudnienia.</p><p>Poważnym problemem jest to, że Agencja Migracyjna przyznaje pozwolenia na pracę pracodawcom, którzy wcześniej zostali przez tę instytucję uznani za nieuczciwych. Nie przeprowadza się wystarczająco szczegółowych badań w nowych wnioskach. Ponadto, kontrole poglądowe, czyli te przeprowadzane po przyznaniu pozwolenia, są zbyt słabe, aby wykryć nieprawidłowości.</p><p>Rząd zgadza się z tą krytyką i chce przeciwdziałać oszustwom związanym z zatrudnianiem pracowników z zagranicy. Rząd zlecił Agencji Migracyjnej intensyfikację kontroli. Instytucja ta otrzymała jasne wytyczne dotyczące raportowania działań podejmowanych w celu zapobiegania nadużyciom przepisów.</p>",
   "relevans": {
-    "foretagare": 1,
-    "ny_i_sverige": 3
+    "arbetsgivare": 1,
+    "arbetskraft_inv": 3,
+    "tillstand": 1,
+    "konkurrens": 1,
+    "beroende": 3,
+    "asyl": 3,
+    "arbetstillstand": 3
   }
 }

@@ -12,7 +12,9 @@
   "tldr": "Rząd zamierza zmienić prawo, aby Urząd Statystyczny (SCB) mógł gromadzić więcej informacji na temat zadłużenia gospodarstw domowych, w tym wysokości spłat odsetek i rat. Ma to na celu lepsze zrozumienie ryzyka gospodarczego w społeczeństwie.",
   "lattlast": "<p>Rząd przedstawił propozycję rozszerzenia działania systemu o nazwie Fasit. Fasit to narzędzie wykorzystywane przez Główny Urząd Statystyczny (SCB) do analizy wpływu różnych regulacji gospodarczych na obywateli. Dzięki dodaniu informacji o zadłużeniu i płatnościach, można lepiej ocenić, jak wrażliwe są gospodarstwa domowe na zmiany w gospodarce.</p><p>Aby to było możliwe, banki i inne firmy zajmujące się kredytami mieszkaniowymi muszą przekazywać do SCB informacje o zadłużeniu i płatnościach gospodarstw domowych. Ważne jest, aby znać wysokość zobowiązań, aby móc planować politykę gospodarczą kraju. Pozwala to organom państwowym ocenić, czy wysokie stopy procentowe lub inne koszty powodują poważne problemy dla rodzin.</p><p>Pomimo gromadzenia większej ilości danych, zasady dotyczące ochrony danych osobowych są rygorystyczne. Należy wykorzystywać tylko te dane, które są niezbędne, a nie wolno wykorzystywać wrażliwych informacji, takich jak dane dotyczące zdrowia lub pochodzenia etnicznego. Celem jest uzyskanie dobrych statystyk bez naruszania prywatności ludzi.</p><p>Jeśli propozycja zostanie przyjęta i Riksdag (parlament) zagłosuje za nią, nowe przepisy wchodzą w życie 1 sierpnia 2026 roku.</p>",
   "relevans": {
-    "barn": 1,
-    "foretagare": 1
+    "b_finans": 1,
+    "gdpr": 1,
+    "lantagare": 3,
+    "integritet": 2
   }
 }

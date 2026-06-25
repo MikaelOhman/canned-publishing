@@ -12,7 +12,10 @@
       "ecb"
     ],
     "relevans": {
-      "klimat": 1
+      "b_energi": 1,
+      "lantagare": 1,
+      "energikund": 1,
+      "konsument": 2
     }
   },
   {
@@ -28,7 +31,7 @@
       "ecb"
     ],
     "relevans": {
-      "foretagare": 1
+      "b_finans": 1
     }
   },
   {
@@ -44,7 +47,6 @@
       "eu-kommissionen"
     ],
     "relevans": {
-      "foretagare": 1,
       "klimat": 1
     }
   },
@@ -59,7 +61,10 @@
     "taggar": [
       "eu",
       "eu-kommissionen"
-    ]
+    ],
+    "relevans": {
+      "otrygg": 1
+    }
   },
   {
     "id": "eu-kommissionen-2026-06-24-daily-news-24-06-2026",
@@ -72,7 +77,12 @@
     "taggar": [
       "eu",
       "eu-kommissionen"
-    ]
+    ],
+    "relevans": {
+      "b_vard": 1,
+      "b_finans": 1,
+      "lantagare": 1
+    }
   },
   {
     "id": "eu-kommissionen-2026-06-24-commission-pays-846-million-to",
@@ -87,7 +97,8 @@
       "eu-kommissionen"
     ],
     "relevans": {
-      "halsa": 3
+      "b_bygg": 1,
+      "kronisk": 3
     }
   },
   {
@@ -103,8 +114,10 @@
       "eu-kommissionen"
     ],
     "relevans": {
-      "foretagare": 1,
-      "klimat": 3
+      "b_bygg": 1,
+      "finansiering": 1,
+      "klimat": 3,
+      "otrygg": 1
     }
   },
   {
@@ -120,6 +133,8 @@
       "eu-kommissionen"
     ],
     "relevans": {
+      "b_industri": 1,
+      "miljo": 1,
       "klimat": 3
     }
   },
@@ -136,7 +151,10 @@
       "grannehorande-skromberga-12-14"
     ],
     "relevans": {
-      "bostadsagare": 1,
+      "b_bygg": 1,
+      "b_fastighet": 1,
+      "mark_bygglov": 2,
+      "bygger": 2,
       "klimat": 1
     }
   },
@@ -153,7 +171,9 @@
       "utbildnings-och-kulturnamndens-arbetsuts"
     ],
     "relevans": {
-      "barn": 1
+      "b_kultur": 3,
+      "barn": 1,
+      "kultur": 3
     }
   },
   {
@@ -183,7 +203,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "klimat": 1
+      "b_bygg": 1,
+      "kompetens": 1,
+      "fou": 1,
+      "klimat": 1,
+      "otrygg": 1
     }
   },
   {
@@ -198,7 +222,7 @@
       "riksdagen"
     ],
     "relevans": {
-      "jagare": 1
+      "otrygg": 3
     }
   },
   {
@@ -214,10 +238,15 @@
       "ecb"
     ],
     "relevans": {
+      "arbetsgivare": 1,
+      "b_energi": 1,
+      "energiintensiv": 1,
       "lontagare": 1,
-      "foretagare": 1,
       "arbetssokande": 2,
-      "klimat": 1
+      "sparare": 1,
+      "lantagare": 1,
+      "energikund": 1,
+      "konsument": 2
     }
   },
   {
@@ -233,7 +262,8 @@
       "eu-kommissionen"
     ],
     "relevans": {
-      "klimat": 3
+      "b_energi": 3,
+      "energikund": 3
     }
   },
   {
@@ -291,7 +321,10 @@
       "eu-ratt"
     ],
     "relevans": {
-      "kollektiv": 1
+      "b_bygg": 1,
+      "b_grona": 1,
+      "tillstand": 1,
+      "import": 1
     }
   },
   {
@@ -312,7 +345,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1
+      "b_finans": 1,
+      "b_kultur": 3
     }
   },
   {
@@ -328,8 +362,11 @@
       "ecb"
     ],
     "relevans": {
-      "foretagare": 1,
-      "klimat": 1
+      "b_energi": 1,
+      "sparare": 1,
+      "lantagare": 1,
+      "energikund": 1,
+      "konsument": 2
     }
   },
   {
@@ -343,7 +380,13 @@
     "taggar": [
       "eu",
       "eu-ratt"
-    ]
+    ],
+    "relevans": {
+      "kultur": 1,
+      "integritet": 1,
+      "fortroendevald": 1,
+      "varnpliktig": 1
+    }
   },
   {
     "id": "eu-32026R1371",
@@ -358,7 +401,9 @@
       "eu-ratt"
     ],
     "relevans": {
-      "foretagare": 1
+      "import": 2,
+      "konsument": 1,
+      "bredbandsberoende": 1
     }
   },
   {
@@ -374,7 +419,9 @@
       "eu-ratt"
     ],
     "relevans": {
-      "foretagare": 1
+      "b_industri": 2,
+      "import": 2,
+      "konsument": 2
     }
   },
   {
@@ -390,7 +437,12 @@
       "ecb"
     ],
     "relevans": {
-      "klimat": 1
+      "smaforetag": 1,
+      "b_finans": 2,
+      "finansiering": 2,
+      "regelborda": 1,
+      "klimat": 1,
+      "varnpliktig": 1
     }
   },
   {
@@ -406,9 +458,9 @@
       "ecb"
     ],
     "relevans": {
-      "foretagare": 1,
-      "kollektiv": 1,
-      "halsa": 1
+      "beroende": 1,
+      "konsument": 1,
+      "digital_ovan": 1
     }
   },
   {
@@ -424,8 +476,11 @@
       "ecb"
     ],
     "relevans": {
+      "b_finans": 3,
+      "bolagsskatt": 1,
+      "finansiering": 1,
       "lontagare": 1,
-      "halsa": 1
+      "beroende": 1
     }
   },
   {
@@ -440,7 +495,9 @@
       "riksdagen"
     ],
     "relevans": {
-      "lontagare": 1
+      "gdpr": 1,
+      "lontagare": 1,
+      "integritet": 1
     }
   },
   {
@@ -456,8 +513,11 @@
       "on-signerat"
     ],
     "relevans": {
-      "kollektiv": 1,
-      "halsa": 1
+      "arbetsgivare": 1,
+      "b_vard": 1,
+      "digitalisering": 1,
+      "kronisk": 1,
+      "digital_ovan": 1
     }
   },
   {
@@ -475,9 +535,12 @@
       "karin-wanngard"
     ],
     "relevans": {
+      "b_fastighet": 2,
+      "gdpr": 1,
+      "pendlare": 1,
       "kollektiv": 2,
-      "storstad": 1,
-      "halsa": 1
+      "kronisk": 1,
+      "integritet": 1
     }
   },
   {
@@ -493,8 +556,9 @@
       "utbildningsnamndens-sprotokoll"
     ],
     "relevans": {
-      "barn": 3,
-      "arbetssokande": 1
+      "arbetsgivare": 1,
+      "b_bygg": 1,
+      "barn": 2
     }
   },
   {
@@ -510,8 +574,8 @@
       "kf"
     ],
     "relevans": {
-      "barn": 2,
-      "foretagare": 1,
+      "b_bygg": 1,
+      "barn": 1,
       "klimat": 1
     }
   },
@@ -528,6 +592,8 @@
       "kommunfullmaktige"
     ],
     "relevans": {
+      "b_bygg": 1,
+      "b_vard": 1,
       "barn": 1
     }
   },
@@ -544,8 +610,8 @@
       "socialnamnden-signerat"
     ],
     "relevans": {
-      "barn": 1,
-      "pensionar": 2
+      "b_vard": 2,
+      "pensionar": 1
     }
   },
   {
@@ -561,8 +627,9 @@
       "socialnamnden"
     ],
     "relevans": {
-      "pensionar": 1,
-      "hyresgast": 1
+      "b_fastighet": 1,
+      "hyresgast": 1,
+      "bygger": 1
     }
   },
   {
@@ -578,8 +645,7 @@
       "kommunstyrelsens"
     ],
     "relevans": {
-      "foretagare": 1,
-      "kollektiv": 1
+      "arbetsgivare": 1
     }
   },
   {
@@ -593,7 +659,12 @@
     "taggar": [
       "gnesta",
       "samhallsbyggnadsnamnden"
-    ]
+    ],
+    "relevans": {
+      "b_fastighet": 1,
+      "regelborda": 1,
+      "konsument": 1
+    }
   },
   {
     "id": "orsa-socialutskottet-2026-06-17",
@@ -609,7 +680,8 @@
     ],
     "relevans": {
       "barn": 1,
-      "pensionar": 1
+      "pensionar": 1,
+      "bidrag": 2
     }
   },
   {
@@ -625,8 +697,10 @@
       "ks"
     ],
     "relevans": {
-      "bil": 1,
-      "glesbygd": 1
+      "b_bygg": 1,
+      "b_fastighet": 1,
+      "glesbygd": 1,
+      "korkort": 1
     }
   },
   {
@@ -642,10 +716,13 @@
       "samhallsbyggnadsnamndens"
     ],
     "relevans": {
-      "foretagare": 1,
-      "bil": 2,
-      "kollektiv": 1,
+      "arbetsgivare": 1,
+      "b_industri": 1,
+      "b_bygg": 1,
+      "mark_bygglov": 1,
+      "bygger": 1,
       "glesbygd": 1,
+      "bil": 1,
       "klimat": 1
     }
   },
@@ -662,8 +739,9 @@
       "an"
     ],
     "relevans": {
-      "pensionar": 3,
-      "foretagare": 2
+      "b_fastighet": 1,
+      "upphandling": 2,
+      "pensionar": 2
     }
   },
   {
@@ -679,10 +757,13 @@
       "kungorelse"
     ],
     "relevans": {
+      "b_bygg": 1,
+      "b_vard": 2,
+      "gdpr": 1,
       "barn": 1,
-      "pensionar": 2,
-      "foretagare": 1,
-      "funktion": 1
+      "pensionar": 1,
+      "funktion": 1,
+      "integritet": 1
     }
   },
   {
@@ -697,8 +778,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "lontagare": 1,
-      "kollektiv": 1
+      "regelborda": 1,
+      "lontagare": 1
     }
   },
   {
@@ -713,8 +794,13 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1,
-      "ny_i_sverige": 3
+      "arbetsgivare": 1,
+      "arbetskraft_inv": 3,
+      "tillstand": 1,
+      "konkurrens": 1,
+      "beroende": 3,
+      "asyl": 3,
+      "arbetstillstand": 3
     }
   },
   {
@@ -729,8 +815,11 @@
       "riksdagen"
     ],
     "relevans": {
+      "b_bygg": 1,
       "barn": 1,
-      "arbetssokande": 1
+      "ung": 3,
+      "arbetssokande": 1,
+      "otrygg": 1
     }
   },
   {
@@ -743,7 +832,12 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03273.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "otrygg": 1,
+      "domd": 1,
+      "varnpliktig": 1
+    }
   },
   {
     "id": "bollebygd-kommunstyrelsen-2026-06-16",
@@ -760,8 +854,14 @@
       "ulf-rapp"
     ],
     "relevans": {
+      "b_bygg": 1,
+      "b_fastighet": 1,
+      "gdpr": 3,
+      "mark_bygglov": 1,
+      "bygger": 1,
       "storstad": 1,
-      "klimat": 1
+      "klimat": 1,
+      "integritet": 1
     }
   },
   {
@@ -777,8 +877,11 @@
       "snau-offentlig"
     ],
     "relevans": {
+      "b_vard": 1,
+      "gdpr": 1,
       "barn": 1,
-      "halsa": 1
+      "kronisk": 1,
+      "integritet": 1
     }
   },
   {
@@ -821,8 +924,13 @@
       "trafik"
     ],
     "relevans": {
+      "b_vard": 1,
+      "b_fastighet": 1,
       "barn": 3,
-      "halsa": 1
+      "skiftarbete": 1,
+      "beroende": 2,
+      "konsument": 1,
+      "fortroendevald": 1
     }
   },
   {
@@ -838,7 +946,11 @@
       "kommunstyrelsen",
       "kommunal-forvaltning",
       "budget"
-    ]
+    ],
+    "relevans": {
+      "b_fastighet": 1,
+      "batagare": 1
+    }
   },
   {
     "id": "gavle-kommunfullmaktige-2026-06-15",
@@ -855,9 +967,18 @@
       "gavle-kommun"
     ],
     "relevans": {
-      "pensionar": 2,
+      "b_bygg": 1,
+      "redovisning": 1,
+      "finansiering": 1,
+      "miljo": 1,
+      "pensionar": 1,
       "bil": 1,
-      "klimat": 1
+      "konsument": 1,
+      "friluftsliv": 2,
+      "idrott": 1,
+      "klimat": 1,
+      "otrygg": 1,
+      "fortroendevald": 1
     }
   },
   {
@@ -875,13 +996,21 @@
       "kommunpolitik"
     ],
     "relevans": {
-      "foretagare": 1,
-      "bostadsagare": 1,
-      "bil": 1,
-      "kollektiv": 1,
+      "b_industri": 1,
+      "b_bygg": 1,
+      "b_fastighet": 1,
+      "b_energi": 1,
+      "redovisning": 1,
+      "miljo": 1,
+      "mark_bygglov": 1,
+      "bygger": 1,
       "glesbygd": 1,
-      "storstad": 1,
-      "klimat": 2
+      "pendlare": 1,
+      "kollektiv": 1,
+      "energikund": 1,
+      "konsument": 1,
+      "klimat": 1,
+      "fortroendevald": 1
     }
   },
   {
@@ -897,7 +1026,10 @@
       "kommunfullmaktige"
     ],
     "relevans": {
-      "glesbygd": 1
+      "b_bygg": 1,
+      "mark_bygglov": 1,
+      "bygger": 1,
+      "idrott": 1
     }
   },
   {
@@ -913,8 +1045,9 @@
       "kommunfullmaktige-inkl-omrostningsbilago"
     ],
     "relevans": {
-      "bil": 1,
-      "glesbygd": 1
+      "finansiering": 1,
+      "glesbygd": 1,
+      "fortroendevald": 1
     }
   },
   {
@@ -933,9 +1066,10 @@
       "tanum"
     ],
     "relevans": {
-      "kollektiv": 1,
-      "ny_i_sverige": 1,
-      "halsa": 2
+      "tillstand": 1,
+      "kronisk": 1,
+      "psykisk": 1,
+      "otrygg": 1
     }
   },
   {
@@ -951,9 +1085,11 @@
       "kultur-och-fritidsnamnden"
     ],
     "relevans": {
+      "b_kultur": 3,
       "barn": 3,
+      "kronisk": 1,
       "husdjur": 1,
-      "halsa": 1
+      "kultur": 3
     }
   },
   {
@@ -972,7 +1108,7 @@
       "polis"
     ],
     "relevans": {
-      "ny_i_sverige": 1
+      "otrygg": 1
     }
   },
   {
@@ -1006,10 +1142,16 @@
       "alingsas-kommun"
     ],
     "relevans": {
-      "foretagare": 1,
-      "bil": 1,
+      "b_bygg": 1,
+      "b_finans": 1,
+      "b_kultur": 1,
       "glesbygd": 1,
-      "klimat": 1
+      "sparare": 1,
+      "lantagare": 1,
+      "idrott": 1,
+      "klimat": 1,
+      "kultur": 1,
+      "fortroendevald": 1
     }
   },
   {
@@ -1025,8 +1167,13 @@
       "kommunfullmaktige"
     ],
     "relevans": {
+      "b_finans": 1,
+      "b_konsult": 1,
       "barn": 1,
-      "hyresgast": 1
+      "ensam_foralder": 1,
+      "sjukskriven": 1,
+      "hyresgast": 1,
+      "lantagare": 1
     }
   },
   {
@@ -1041,7 +1188,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1
+      "arbetsgivare": 3,
+      "b_konsult": 1,
+      "sparare": 1,
+      "lantagare": 1,
+      "otrygg": 1
     }
   },
   {
@@ -1056,8 +1207,9 @@
       "riksdagen"
     ],
     "relevans": {
+      "b_finans": 3,
       "pensionar": 3,
-      "kollektiv": 1
+      "sjukskriven": 3
     }
   },
   {
@@ -1072,7 +1224,9 @@
       "riksdagen"
     ],
     "relevans": {
-      "pensionar": 1
+      "b_finans": 1,
+      "pensionar": 1,
+      "sjukskriven": 1
     }
   },
   {
@@ -1087,7 +1241,9 @@
       "riksdagen"
     ],
     "relevans": {
-      "man": 2
+      "arbetsgivare": 3,
+      "man": 1,
+      "varnpliktig": 3
     }
   },
   {
@@ -1102,7 +1258,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 2
+      "moms": 3,
+      "konsument": 1
     }
   },
   {
@@ -1118,8 +1275,12 @@
       "kf"
     ],
     "relevans": {
+      "b_bygg": 1,
+      "b_fastighet": 1,
+      "redovisning": 1,
+      "finansiering": 1,
       "pensionar": 1,
-      "halsa": 1
+      "fortroendevald": 2
     }
   },
   {
@@ -1137,8 +1298,15 @@
       "kommunal-forvaltning"
     ],
     "relevans": {
-      "glesbygd": 1,
-      "klimat": 2
+      "b_bygg": 1,
+      "b_energi": 2,
+      "infrastruktur": 1,
+      "ung": 1,
+      "energikund": 1,
+      "friluftsliv": 1,
+      "batagare": 1,
+      "idrott": 1,
+      "klimat": 1
     }
   },
   {
@@ -1154,9 +1322,11 @@
       "kommunfullmaktige"
     ],
     "relevans": {
-      "barn": 2,
+      "b_bygg": 1,
+      "barn": 1,
+      "storstad": 1,
       "bil": 1,
-      "storstad": 1
+      "konsument": 1
     }
   },
   {
@@ -1174,9 +1344,14 @@
       "protokoll"
     ],
     "relevans": {
+      "b_bygg": 1,
+      "redovisning": 1,
       "bil": 1,
+      "kronisk": 1,
+      "idrott": 1,
       "klimat": 1,
-      "halsa": 1
+      "kultur": 1,
+      "fortroendevald": 2
     }
   },
   {
@@ -1194,8 +1369,15 @@
       "digitalisering"
     ],
     "relevans": {
-      "foretagare": 1,
-      "kollektiv": 1
+      "arbetsgivare": 1,
+      "storforetag": 1,
+      "b_bygg": 1,
+      "b_fastighet": 1,
+      "infrastruktur": 1,
+      "digitalisering": 1,
+      "sparare": 1,
+      "batagare": 1,
+      "digital_ovan": 1
     }
   },
   {
@@ -1211,11 +1393,17 @@
       "kommunstyrelsen"
     ],
     "relevans": {
+      "arbetsgivare": 1,
+      "b_fastighet": 1,
+      "finansiering": 1,
+      "lokaler": 1,
       "barn": 1,
-      "pensionar": 2,
+      "stor_familj": 1,
+      "pensionar": 1,
       "lontagare": 1,
       "arbetssokande": 1,
-      "funktion": 2
+      "funktion": 2,
+      "idrott": 1
     }
   },
   {
@@ -1242,10 +1430,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "lontagare": 3,
-      "foretagare": 1,
-      "kollektiv": 1,
-      "halsa": 1
+      "arbetsgivare": 1,
+      "arbetsmiljo": 3
     }
   },
   {
@@ -1264,9 +1450,14 @@
       "protokoll"
     ],
     "relevans": {
+      "b_bygg": 1,
+      "b_vard": 1,
+      "b_konsult": 1,
+      "finansiering": 1,
+      "lokaler": 1,
       "barn": 2,
-      "kollektiv": 1,
-      "funktion": 1
+      "funktion": 1,
+      "idrott": 1
     }
   },
   {
@@ -1282,7 +1473,12 @@
       "kommunstyrelsen"
     ],
     "relevans": {
-      "klimat": 1
+      "b_bygg": 1,
+      "b_kultur": 1,
+      "redovisning": 1,
+      "lokaler": 1,
+      "klimat": 1,
+      "kultur": 2
     }
   },
   {
@@ -1298,10 +1494,14 @@
       "kommunstyrelsen"
     ],
     "relevans": {
-      "foretagare": 1,
+      "b_industri": 1,
+      "b_bygg": 1,
+      "redovisning": 1,
+      "mark_bygglov": 1,
+      "pendlare": 1,
       "bil": 1,
       "kollektiv": 1,
-      "storstad": 1
+      "lantagare": 1
     }
   },
   {
@@ -1316,7 +1516,6 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1,
       "klimat": 2
     }
   },
@@ -1333,11 +1532,21 @@
       "kommunstyrelsen"
     ],
     "relevans": {
-      "barn": 2,
-      "bil": 1,
+      "b_bygg": 1,
+      "b_vard": 1,
+      "b_kultur": 1,
+      "finansiering": 1,
+      "infrastruktur": 1,
+      "f_landsbygd": 1,
+      "barn": 1,
       "glesbygd": 1,
+      "bil": 1,
+      "funktion": 1,
+      "konsument": 2,
+      "batagare": 1,
       "klimat": 1,
-      "funktion": 1
+      "kultur": 1,
+      "otrygg": 1
     }
   },
   {
@@ -1353,8 +1562,12 @@
       "kommunstyrelsen"
     ],
     "relevans": {
+      "b_bygg": 1,
+      "b_vard": 1,
+      "b_finans": 1,
+      "finansiering": 1,
       "barn": 1,
-      "halsa": 1
+      "kronisk": 1
     }
   },
   {
@@ -1370,11 +1583,12 @@
       "kommunstyrelsen"
     ],
     "relevans": {
+      "b_bygg": 1,
       "barn": 1,
-      "bil": 1,
+      "glesbygd": 1,
+      "pendlare": 1,
       "kollektiv": 1,
-      "glesbygd": 2,
-      "storstad": 1
+      "idrott": 1
     }
   },
   {
@@ -1389,8 +1603,10 @@
       "riksdagen"
     ],
     "relevans": {
+      "b_konsult": 3,
+      "bolagsskatt": 1,
       "pensionar": 1,
-      "kollektiv": 1
+      "sparare": 3
     }
   },
   {
@@ -1403,7 +1619,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03277.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "gdpr": 1,
+      "integritet": 1
+    }
   },
   {
     "id": "HD03276",
@@ -1417,6 +1637,8 @@
       "riksdagen"
     ],
     "relevans": {
+      "b_it": 1,
+      "kompetens": 1,
       "barn": 1
     }
   },
@@ -1432,12 +1654,17 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1,
-      "bil": 3,
+      "b_transport": 1,
+      "b_grona": 1,
+      "b_energi": 1,
+      "pendlare": 1,
+      "bil": 2,
       "kollektiv": 1,
-      "storstad": 1,
-      "klimat": 1,
-      "halsa": 1
+      "flygresenar": 1,
+      "kronisk": 1,
+      "energikund": 2,
+      "konsument": 1,
+      "varnpliktig": 1
     }
   },
   {
@@ -1453,9 +1680,12 @@
       "sn"
     ],
     "relevans": {
-      "barn": 2,
-      "kollektiv": 1,
-      "halsa": 1,
+      "arbetsgivare": 1,
+      "b_vard": 1,
+      "b_konsult": 1,
+      "lokaler": 1,
+      "barn": 1,
+      "kronisk": 1,
       "funktion": 1
     }
   },
@@ -1470,7 +1700,10 @@
     "taggar": [
       "morakommun",
       "protokoll"
-    ]
+    ],
+    "relevans": {
+      "konsument": 1
+    }
   },
   {
     "id": "malmo-kommunfullmaktige-2026-05-28",
@@ -1485,8 +1718,17 @@
       "kommunfullmaktige"
     ],
     "relevans": {
+      "b_bygg": 1,
+      "b_fastighet": 1,
+      "b_kultur": 1,
+      "redovisning": 1,
+      "lokaler": 1,
       "barn": 3,
-      "pensionar": 1
+      "pensionar": 1,
+      "konsument": 1,
+      "idrott": 1,
+      "kultur": 1,
+      "otrygg": 1
     }
   },
   {
@@ -1502,8 +1744,13 @@
       "kommunstyrelsen"
     ],
     "relevans": {
-      "bil": 1,
-      "glesbygd": 1
+      "arbetsgivare": 1,
+      "b_fastighet": 1,
+      "b_kultur": 1,
+      "glesbygd": 1,
+      "idrott": 1,
+      "kultur": 1,
+      "otrygg": 1
     }
   },
   {
@@ -1518,9 +1765,10 @@
       "riksdagen"
     ],
     "relevans": {
+      "b_life": 1,
+      "gravid": 2,
       "kvinna": 3,
-      "kollektiv": 1,
-      "halsa": 2
+      "kronisk": 2
     }
   },
   {
@@ -1535,6 +1783,9 @@
       "riksdagen"
     ],
     "relevans": {
+      "b_transport": 1,
+      "miljo": 3,
+      "eu_marknad": 3,
       "klimat": 1
     }
   },
@@ -1551,7 +1802,14 @@
       "ukn"
     ],
     "relevans": {
-      "barn": 3
+      "arbetsgivare": 1,
+      "b_utbildning": 1,
+      "b_kultur": 1,
+      "lokaler": 1,
+      "barn": 3,
+      "vuxenstudier": 1,
+      "kultur": 1,
+      "otrygg": 1
     }
   },
   {
@@ -1565,7 +1823,11 @@
     "taggar": [
       "norrtalje",
       "kommunfullmaktige"
-    ]
+    ],
+    "relevans": {
+      "b_bygg": 1,
+      "b_vard": 1
+    }
   },
   {
     "id": "stockholm-kommunfullmaktige-2026-05-25",
@@ -1580,11 +1842,19 @@
       "kommunfullmaktige"
     ],
     "relevans": {
-      "bil": 1,
+      "b_industri": 1,
+      "b_bygg": 1,
+      "b_besok": 1,
+      "b_fastighet": 1,
+      "miljo": 1,
       "glesbygd": 1,
       "storstad": 1,
+      "kronisk": 1,
+      "beroende": 1,
+      "sparare": 1,
+      "friluftsliv": 1,
       "klimat": 2,
-      "halsa": 1
+      "fortroendevald": 1
     }
   },
   {
@@ -1600,9 +1870,12 @@
       "tyreso-bostader-ab"
     ],
     "relevans": {
-      "lontagare": 1,
-      "foretagare": 1,
-      "halsa": 1
+      "b_bygg": 1,
+      "b_vard": 1,
+      "b_it": 1,
+      "finansiering": 1,
+      "arbetsmiljo": 1,
+      "kronisk": 1
     }
   },
   {
@@ -1618,7 +1891,12 @@
       "vn"
     ],
     "relevans": {
-      "funktion": 1
+      "b_transport": 1,
+      "kompetens": 1,
+      "gdpr": 1,
+      "lokaler": 1,
+      "funktion": 1,
+      "integritet": 1
     }
   },
   {
@@ -1634,10 +1912,13 @@
       "kommunstyrelsen"
     ],
     "relevans": {
-      "pensionar": 2,
-      "bil": 1,
+      "b_bygg": 1,
+      "redovisning": 1,
+      "lokaler": 1,
+      "pensionar": 1,
       "glesbygd": 1,
-      "klimat": 1
+      "klimat": 1,
+      "fortroendevald": 1
     }
   },
   {
@@ -1653,8 +1934,16 @@
       "kommunfullmaktige"
     ],
     "relevans": {
+      "b_bygg": 1,
+      "b_energi": 1,
+      "b_kultur": 1,
+      "redovisning": 1,
+      "finansiering": 1,
+      "gdpr": 1,
       "barn": 1,
-      "bil": 1
+      "bil": 1,
+      "idrott": 1,
+      "integritet": 1
     }
   },
   {
@@ -1670,11 +1959,16 @@
       "kommunstyrelsen"
     ],
     "relevans": {
+      "b_bygg": 1,
+      "b_energi": 1,
+      "lokaler": 1,
+      "mark_bygglov": 1,
       "barn": 1,
-      "bil": 1,
-      "kollektiv": 1,
+      "bygger": 1,
       "glesbygd": 1,
-      "klimat": 1
+      "sparare": 1,
+      "lantagare": 1,
+      "energikund": 1
     }
   },
   {
@@ -1690,7 +1984,9 @@
       "kommunstyrelsen"
     ],
     "relevans": {
-      "halsa": 1
+      "b_it": 1,
+      "gdpr": 1,
+      "kronisk": 1
     }
   },
   {
@@ -1715,7 +2011,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03261.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "otrygg": 1
+    }
   },
   {
     "id": "HD03250",
@@ -1745,8 +2044,14 @@
       "kommunfullmaktige"
     ],
     "relevans": {
+      "b_bygg": 1,
+      "redovisning": 1,
+      "miljo": 1,
+      "mark_bygglov": 1,
       "barn": 1,
-      "bostadsagare": 1
+      "bygger": 1,
+      "konsument": 1,
+      "fortroendevald": 1
     }
   },
   {
@@ -1761,7 +2066,9 @@
       "riksdagen"
     ],
     "relevans": {
-      "halsa": 1
+      "b_bygg": 1,
+      "kronisk": 1,
+      "fortroendevald": 1
     }
   },
   {
@@ -1774,7 +2081,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03248.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "b_bygg": 1,
+      "fortroendevald": 1
+    }
   },
   {
     "id": "alingsas-kommunfullmaktige-2026-05-06",
@@ -1789,11 +2100,13 @@
       "kommunfullmaktige"
     ],
     "relevans": {
+      "b_bygg": 1,
+      "redovisning": 1,
+      "arbetsmiljo": 1,
       "kvinna": 1,
-      "lontagare": 1,
-      "foretagare": 1,
-      "klimat": 2,
-      "halsa": 1
+      "kronisk": 1,
+      "idrott": 1,
+      "klimat": 2
     }
   },
   {
@@ -1837,8 +2150,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "barn": 1,
-      "foretagare": 1
+      "b_finans": 1,
+      "gdpr": 1,
+      "lantagare": 3,
+      "integritet": 2
     }
   },
   {
@@ -1854,8 +2169,11 @@
       "kommunfullmaktige"
     ],
     "relevans": {
+      "b_bygg": 1,
+      "b_vard": 1,
+      "b_fastighet": 1,
       "barn": 1,
-      "halsa": 1
+      "kronisk": 1
     }
   },
   {
@@ -1870,7 +2188,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "ny_i_sverige": 1
+      "domd": 1,
+      "integritet": 1
     }
   },
   {
@@ -1885,7 +2204,7 @@
       "riksdagen"
     ],
     "relevans": {
-      "bil": 1,
+      "tillstand": 1,
       "glesbygd": 1,
       "ny_i_sverige": 3
     }
@@ -1902,10 +2221,14 @@
       "riksdagen"
     ],
     "relevans": {
+      "b_finans": 1,
       "pensionar": 1,
       "arbetssokande": 1,
-      "kollektiv": 1,
-      "ny_i_sverige": 1
+      "sjukskriven": 1,
+      "skuldsatt": 1,
+      "asyl": 1,
+      "otrygg": 1,
+      "domd": 1
     }
   },
   {
@@ -1920,7 +2243,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "ny_i_sverige": 3
+      "ny_i_sverige": 3,
+      "asyl": 3
     }
   },
   {
@@ -1935,9 +2259,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "bil": 1,
-      "kollektiv": 1,
-      "glesbygd": 1
+      "gdpr": 1,
+      "fou": 3,
+      "glesbygd": 1,
+      "otrygg": 1,
+      "integritet": 1
     }
   },
   {
@@ -1952,6 +2278,7 @@
       "riksdagen"
     ],
     "relevans": {
+      "kollektivavtal": 1,
       "arbetssokande": 1
     }
   },
@@ -1965,7 +2292,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03254.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "varnpliktig": 1
+    }
   },
   {
     "id": "HD03251",
@@ -1979,7 +2309,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "halsa": 3
+      "tillstand": 3,
+      "kronisk": 3,
+      "psykisk": 3,
+      "beroende": 3
     }
   },
   {
@@ -1994,11 +2327,16 @@
       "riksdagen"
     ],
     "relevans": {
-      "bil": 3,
-      "kollektiv": 1,
+      "b_transport": 3,
+      "arbetsratt": 1,
+      "miljo": 1,
+      "infrastruktur": 1,
       "glesbygd": 1,
-      "klimat": 3,
-      "halsa": 1
+      "bil": 2,
+      "kollektiv": 1,
+      "kronisk": 1,
+      "energikund": 1,
+      "klimat": 3
     }
   },
   {
@@ -2011,7 +2349,12 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03257.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "arbetsgivare": 1,
+      "tillstand": 1,
+      "konsument": 1
+    }
   },
   {
     "id": "HD03247",
@@ -2025,7 +2368,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "halsa": 3
+      "arbetsgivare": 1,
+      "b_konsult": 3,
+      "b_life": 3,
+      "kronisk": 3
     }
   },
   {
@@ -2041,9 +2387,10 @@
       "kommunfullmaktige"
     ],
     "relevans": {
-      "foretagare": 1,
-      "bil": 1,
-      "glesbygd": 2
+      "b_industri": 1,
+      "b_fastighet": 1,
+      "redovisning": 1,
+      "glesbygd": 1
     }
   },
   {
@@ -2059,9 +2406,11 @@
       "kommunfullmaktige"
     ],
     "relevans": {
+      "b_bygg": 1,
+      "b_finans": 1,
+      "redovisning": 1,
+      "miljo": 2,
       "barn": 1,
-      "pensionar": 1,
-      "bil": 1,
       "glesbygd": 1
     }
   },
@@ -2075,7 +2424,14 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03256.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "b_transport": 1,
+      "arbetsratt": 1,
+      "flygresenar": 1,
+      "beroende": 3,
+      "otrygg": 1
+    }
   },
   {
     "id": "HD03253",
@@ -2087,7 +2443,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03253.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "b_finans": 3
+    }
   },
   {
     "id": "HD03252",
@@ -2099,7 +2458,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03252.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "domd": 1,
+      "integritet": 1
+    }
   },
   {
     "id": "HD03104",
@@ -2113,7 +2476,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "kollektiv": 1
+      "lantagare": 3,
+      "konsument": 2
     }
   },
   {
@@ -2127,7 +2491,16 @@
     "taggar": [
       "malmo",
       "kommunfullmaktige"
-    ]
+    ],
+    "relevans": {
+      "b_bygg": 1,
+      "lokaler": 1,
+      "barn": 2,
+      "konsument": 1,
+      "idrott": 1,
+      "klimat": 1,
+      "fortroendevald": 1
+    }
   },
   {
     "id": "HD03246",
@@ -2141,7 +2514,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "barn": 1
+      "gdpr": 1,
+      "barn": 1,
+      "ung": 1,
+      "otrygg": 2,
+      "integritet": 1
     }
   },
   {
@@ -2156,7 +2533,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "halsa": 1
+      "b_fastighet": 3,
+      "gdpr": 2,
+      "kronisk": 1,
+      "integritet": 1
     }
   },
   {
@@ -2171,7 +2551,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "glesbygd": 3,
+      "smaforetag": 1,
+      "b_grona": 3,
+      "b_vard": 1,
+      "miljo": 1,
       "klimat": 1
     }
   },
@@ -2187,7 +2570,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "barn": 1
+      "arbetsgivare": 1,
+      "lokaler": 1
     }
   },
   {
@@ -2214,7 +2598,6 @@
       "riksdagen"
     ],
     "relevans": {
-      "barn": 1,
       "kvinna": 3
     }
   },
@@ -2230,9 +2613,9 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1,
-      "hyresgast": 1,
-      "kollektiv": 1
+      "b_transport": 1,
+      "konkurrens": 1,
+      "hyresgast": 1
     }
   },
   {
@@ -2247,8 +2630,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1,
-      "klimat": 1
+      "b_fastighet": 1,
+      "b_energi": 2,
+      "eu_marknad": 1,
+      "energikund": 1
     }
   },
   {
@@ -2263,7 +2648,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1
+      "b_energi": 3,
+      "bolagsskatt": 1
     }
   },
   {
@@ -2278,6 +2664,7 @@
       "riksdagen"
     ],
     "relevans": {
+      "miljo": 1,
       "klimat": 3
     }
   },
@@ -2294,7 +2681,9 @@
     ],
     "relevans": {
       "arbetssokande": 1,
-      "student": 3
+      "student": 2,
+      "lantagare": 2,
+      "otrygg": 3
     }
   },
   {
@@ -2309,8 +2698,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1,
-      "halsa": 1
+      "aktiebolag": 1,
+      "bolagsskatt": 1,
+      "konkurrens": 1,
+      "infrastruktur": 3,
+      "kronisk": 1,
+      "batagare": 3
     }
   },
   {
@@ -2342,10 +2735,14 @@
       "kommunstyrelsen"
     ],
     "relevans": {
-      "foretagare": 1,
-      "bil": 1,
+      "arbetsgivare": 1,
+      "b_industri": 1,
+      "b_fastighet": 1,
+      "b_energi": 1,
+      "redovisning": 1,
       "glesbygd": 1,
-      "klimat": 1
+      "energikund": 1,
+      "kultur": 1
     }
   },
   {
@@ -2361,9 +2758,16 @@
       "kommunstyrelsen"
     ],
     "relevans": {
-      "pensionar": 1,
-      "bostadsagare": 1,
-      "funktion": 1
+      "arbetsgivare": 1,
+      "b_bygg": 1,
+      "b_fastighet": 1,
+      "miljo": 1,
+      "mark_bygglov": 2,
+      "bygger": 2,
+      "funktion": 1,
+      "konsument": 1,
+      "otrygg": 1,
+      "fortroendevald": 1
     }
   },
   {
@@ -2376,7 +2780,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03241.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "varnpliktig": 1
+    }
   },
   {
     "id": "HD03101",
@@ -2388,7 +2796,14 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03101.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "b_vard": 1,
+      "b_konsult": 1,
+      "redovisning": 3,
+      "lantagare": 1,
+      "konsument": 1
+    }
   },
   {
     "id": "HD03100",
@@ -2402,7 +2817,6 @@
       "riksdagen"
     ],
     "relevans": {
-      "bil": 1,
       "glesbygd": 1
     }
   },
@@ -2418,11 +2832,21 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1,
+      "b_bygg": 1,
+      "b_fastighet": 1,
+      "b_energi": 1,
+      "b_kultur": 1,
+      "b_life": 1,
       "student": 1,
       "hyresgast": 1,
-      "klimat": 1,
-      "halsa": 2
+      "kronisk": 1,
+      "tandvard": 2,
+      "sparare": 1,
+      "lantagare": 1,
+      "energikund": 1,
+      "kultur": 1,
+      "otrygg": 1,
+      "varnpliktig": 1
     }
   },
   {
@@ -2437,8 +2861,9 @@
       "riksdagen"
     ],
     "relevans": {
+      "b_konsult": 3,
       "barn": 1,
-      "halsa": 1
+      "kronisk": 1
     }
   },
   {
@@ -2453,8 +2878,12 @@
       "riksdagen"
     ],
     "relevans": {
+      "b_energi": 1,
+      "punktskatt": 1,
+      "energiintensiv": 1,
       "bil": 2,
-      "klimat": 3
+      "energikund": 3,
+      "klimat": 1
     }
   },
   {
@@ -2470,7 +2899,7 @@
       "kommunstyrelsen"
     ],
     "relevans": {
-      "kollektiv": 1
+      "lokaler": 1
     }
   },
   {
@@ -2483,7 +2912,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03220.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "varnpliktig": 1
+    }
   },
   {
     "id": "HD03218",
@@ -2509,7 +2941,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "kollektiv": 1
+      "beroende": 1,
+      "offentliganstalld": 3
     }
   },
   {
@@ -2524,7 +2957,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "glesbygd": 1,
+      "miljo": 1,
+      "friluftsliv": 1,
       "klimat": 1
     }
   },
@@ -2540,7 +2974,9 @@
       "riksdagen"
     ],
     "relevans": {
-      "halsa": 3
+      "b_life": 1,
+      "kronisk": 1,
+      "tandvard": 3
     }
   },
   {
@@ -2555,7 +2991,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "jagare": 1
+      "miljo": 1,
+      "export": 3,
+      "infrastruktur": 1,
+      "batagare": 1
     }
   },
   {
@@ -2571,7 +3010,10 @@
       "kommunstyrelsen"
     ],
     "relevans": {
-      "barn": 1
+      "b_finans": 1,
+      "b_energi": 1,
+      "barn": 1,
+      "otrygg": 1
     }
   },
   {
@@ -2598,8 +3040,9 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1,
-      "jagare": 1
+      "tillstand": 1,
+      "export": 1,
+      "varnpliktig": 1
     }
   },
   {
@@ -2614,9 +3057,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "pensionar": 2,
-      "kollektiv": 3,
-      "halsa": 3,
+      "pensionar": 1,
+      "kronisk": 1,
       "funktion": 1
     }
   },
@@ -2630,7 +3072,13 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03214.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "b_it": 1,
+      "gdpr": 3,
+      "integritet": 1,
+      "varnpliktig": 1
+    }
   },
   {
     "id": "malmo-kommunstyrelsen-2026-04-01",
@@ -2645,10 +3093,15 @@
       "kommunstyrelsen"
     ],
     "relevans": {
-      "barn": 2,
-      "pensionar": 1,
-      "foretagare": 1,
-      "klimat": 1
+      "b_bygg": 1,
+      "b_kultur": 1,
+      "lokaler": 1,
+      "mark_bygglov": 1,
+      "barn": 1,
+      "bygger": 1,
+      "konsument": 1,
+      "klimat": 1,
+      "kultur": 1
     }
   },
   {
@@ -2664,9 +3117,7 @@
     ],
     "relevans": {
       "barn": 1,
-      "kollektiv": 1,
-      "ny_i_sverige": 1,
-      "halsa": 1
+      "asyl": 1
     }
   },
   {
@@ -2693,8 +3144,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "bil": 1,
-      "glesbygd": 1
+      "glesbygd": 1,
+      "brottsoffer": 2
     }
   },
   {
@@ -2709,7 +3160,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "arbetssokande": 1
+      "b_fastighet": 1,
+      "gdpr": 1,
+      "arbetssokande": 1,
+      "integritet": 1
     }
   },
   {
@@ -2725,10 +3179,15 @@
       "kommunfullmaktige"
     ],
     "relevans": {
-      "barn": 3,
-      "pensionar": 1,
-      "foretagare": 2,
-      "bil": 1
+      "b_energi": 1,
+      "b_kultur": 1,
+      "finansiering": 1,
+      "barn": 2,
+      "ung": 1,
+      "bil": 1,
+      "friluftsliv": 1,
+      "idrott": 1,
+      "kultur": 1
     }
   },
   {
@@ -2744,8 +3203,8 @@
     ],
     "relevans": {
       "barn": 1,
-      "bil": 1,
-      "glesbygd": 1
+      "glesbygd": 1,
+      "otrygg": 2
     }
   },
   {
@@ -2760,7 +3219,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1
+      "b_besok": 3,
+      "tillstand": 1,
+      "lokaler": 1,
+      "beroende": 1
     }
   },
   {
@@ -2776,9 +3238,18 @@
       "kommunfullmaktige"
     ],
     "relevans": {
-      "bostadsagare": 1,
-      "klimat": 2,
-      "halsa": 1
+      "b_bygg": 1,
+      "b_transport": 1,
+      "b_vard": 1,
+      "b_energi": 1,
+      "miljo": 1,
+      "mark_bygglov": 1,
+      "bygger": 1,
+      "kronisk": 1,
+      "beroende": 1,
+      "energikund": 1,
+      "konsument": 2,
+      "klimat": 1
     }
   },
   {
@@ -2791,7 +3262,12 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03226.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "arbetsgivare": 1,
+      "b_konsult": 1,
+      "redovisning": 1
+    }
   },
   {
     "id": "HD03225",
@@ -2803,7 +3279,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03225.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "b_fastighet": 1
+    }
   },
   {
     "id": "HD03224",
@@ -2817,7 +3296,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "barn": 2
+      "b_fastighet": 1,
+      "import": 1,
+      "barn": 1,
+      "lantagare": 1,
+      "skuldsatt": 1
     }
   },
   {
@@ -2832,7 +3315,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1,
+      "b_industri": 1,
+      "b_grona": 1,
       "husdjur": 1
     }
   },
@@ -2848,7 +3332,7 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1
+      "b_bygg": 1
     }
   },
   {
@@ -2863,7 +3347,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "barn": 2
+      "barn": 1,
+      "sambo_gift": 1,
+      "otrygg": 1,
+      "integritet": 1
     }
   },
   {
@@ -2878,6 +3365,7 @@
       "riksdagen"
     ],
     "relevans": {
+      "b_fastighet": 1,
       "hyresgast": 1
     }
   },
@@ -2893,9 +3381,9 @@
       "riksdagen"
     ],
     "relevans": {
-      "kollektiv": 1,
+      "gdpr": 1,
       "jagare": 3,
-      "ny_i_sverige": 1
+      "integritet": 1
     }
   },
   {
@@ -2910,9 +3398,11 @@
       "riksdagen"
     ],
     "relevans": {
+      "b_finans": 1,
       "pensionar": 1,
-      "foretagare": 1,
-      "halsa": 1
+      "sjukskriven": 1,
+      "tandvard": 2,
+      "konsument": 1
     }
   },
   {
@@ -2926,7 +3416,11 @@
     "taggar": [
       "bollebygd",
       "kommunfullmaktige"
-    ]
+    ],
+    "relevans": {
+      "b_fastighet": 1,
+      "infrastruktur": 1
+    }
   },
   {
     "id": "HD03209",
@@ -2940,7 +3434,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "bostadsagare": 1
+      "b_bygg": 1,
+      "b_vard": 1,
+      "mark_bygglov": 1,
+      "bygger": 1,
+      "domd": 3
     }
   },
   {
@@ -2953,7 +3451,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03208.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "integritet": 3
+    }
   },
   {
     "id": "HD03207",
@@ -2967,8 +3468,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "arbetssokande": 1,
-      "halsa": 1
+      "b_vard": 1,
+      "bidrag": 3,
+      "beroende": 1,
+      "konsument": 1
     }
   },
   {
@@ -2983,10 +3486,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "barn": 1,
+      "arbetsgivare": 3,
       "lontagare": 1,
-      "kollektiv": 1,
-      "halsa": 3
+      "kronisk": 2,
+      "tandvard": 1
     }
   },
   {
@@ -3001,7 +3504,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1
+      "smaforetag": 1,
+      "konkurrens": 3
     }
   },
   {
@@ -3016,6 +3520,9 @@
       "riksdagen"
     ],
     "relevans": {
+      "b_bygg": 1,
+      "tillstand": 1,
+      "miljo": 1,
       "klimat": 1
     }
   },
@@ -3031,9 +3538,10 @@
       "riksdagen"
     ],
     "relevans": {
+      "tillstand": 1,
       "lontagare": 1,
-      "hyresgast": 1,
-      "kollektiv": 1
+      "bidrag": 3,
+      "hyresgast": 1
     }
   },
   {
@@ -3048,7 +3556,9 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1
+      "b_finans": 2,
+      "sparare": 2,
+      "konsument": 1
     }
   },
   {
@@ -3061,7 +3571,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03199.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "digital_ovan": 3
+    }
   },
   {
     "id": "HD03198",
@@ -3075,7 +3588,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "barn": 2
+      "b_bygg": 1,
+      "b_utbildning": 1,
+      "kompetens": 3,
+      "barn": 1,
+      "gymnasieelev": 1,
+      "vuxenstudier": 1
     }
   },
   {
@@ -3090,8 +3608,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "barn": 2,
-      "student": 1
+      "b_bygg": 1,
+      "b_utbildning": 1,
+      "barn": 1,
+      "student": 1,
+      "gymnasieelev": 1,
+      "vuxenstudier": 1
     }
   },
   {
@@ -3106,8 +3628,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "barn": 3,
-      "kollektiv": 1
+      "arbetsgivare": 1,
+      "barn": 3
     }
   },
   {
@@ -3123,9 +3645,8 @@
     ],
     "relevans": {
       "barn": 3,
-      "bil": 1,
       "glesbygd": 1,
-      "halsa": 1
+      "kronisk": 1
     }
   },
   {
@@ -3140,7 +3661,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "barn": 3
+      "barn": 3,
+      "otrygg": 3
     }
   },
   {
@@ -3155,7 +3677,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "barn": 2
+      "arbetsgivare": 1,
+      "barn": 1
     }
   },
   {
@@ -3182,9 +3705,9 @@
       "riksdagen"
     ],
     "relevans": {
+      "gdpr": 1,
       "barn": 1,
-      "kollektiv": 1,
-      "ny_i_sverige": 1
+      "integritet": 1
     }
   },
   {
@@ -3215,7 +3738,8 @@
     ],
     "relevans": {
       "hyresgast": 1,
-      "bostadsagare": 1
+      "bostadsagare": 1,
+      "otrygg": 1
     }
   },
   {
@@ -3230,10 +3754,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1,
+      "arbetsgivare": 1,
       "hyresgast": 1,
       "bostadsagare": 1,
-      "kollektiv": 1
+      "beroende": 1
     }
   },
   {
@@ -3248,8 +3772,9 @@
       "riksdagen"
     ],
     "relevans": {
+      "finansiering": 1,
       "pensionar": 1,
-      "foretagare": 1
+      "sparare": 2
     }
   },
   {
@@ -3262,7 +3787,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03185.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "domd": 1
+    }
   },
   {
     "id": "HD03184",
@@ -3276,7 +3804,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1
+      "b_kultur": 2,
+      "konsument": 1
     }
   },
   {
@@ -3291,7 +3820,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1
+      "punktskatt": 3,
+      "beroende": 3
     }
   },
   {
@@ -3306,8 +3836,9 @@
       "riksdagen"
     ],
     "relevans": {
-      "bil": 1,
-      "glesbygd": 1
+      "glesbygd": 1,
+      "otrygg": 3,
+      "integritet": 1
     }
   },
   {
@@ -3322,9 +3853,13 @@
       "riksdagen"
     ],
     "relevans": {
+      "b_bygg": 3,
+      "b_energi": 1,
+      "infrastruktur": 1,
       "glesbygd": 1,
-      "klimat": 1,
-      "funktion": 1
+      "funktion": 1,
+      "energikund": 1,
+      "bredbandsberoende": 1
     }
   },
   {
@@ -3337,7 +3872,13 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03179.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "gdpr": 1,
+      "otrygg": 1,
+      "integritet": 1,
+      "varnpliktig": 3
+    }
   },
   {
     "id": "HD03178",
@@ -3351,8 +3892,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "man": 3,
-      "klimat": 1
+      "tillstand": 3,
+      "miljo": 1,
+      "regelborda": 3,
+      "fou": 3,
+      "klimat": 1,
+      "varnpliktig": 3
     }
   },
   {
@@ -3367,8 +3912,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 3,
-      "halsa": 1
+      "b_vard": 1,
+      "konkurs": 1,
+      "gdpr": 1,
+      "kronisk": 1,
+      "konsument": 1,
+      "integritet": 1
     }
   },
   {
@@ -3395,8 +3944,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1,
-      "halsa": 3
+      "b_vard": 1,
+      "kronisk": 3
     }
   },
   {
@@ -3411,8 +3960,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1,
-      "klimat": 1
+      "b_bygg": 1,
+      "fou": 1,
+      "immaterialratt": 3,
+      "klimat": 1,
+      "kultur": 1
     }
   },
   {
@@ -3443,7 +3995,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "kollektiv": 1
+      "b_vard": 3,
+      "infrastruktur": 1,
+      "batagare": 1,
+      "otrygg": 1
     }
   },
   {
@@ -3458,9 +4013,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1,
+      "b_bygg": 1,
+      "f_landsbygd": 3,
       "glesbygd": 3,
-      "halsa": 1
+      "kronisk": 1
     }
   },
   {
@@ -3526,6 +4082,8 @@
       "riksdagen"
     ],
     "relevans": {
+      "produktsakerhet": 1,
+      "konsumentratt": 1,
       "barn": 3
     }
   },
@@ -3555,7 +4113,22 @@
     "taggar": [
       "alingsas",
       "kommunstyrelsen"
-    ]
+    ],
+    "relevans": {
+      "b_bygg": 1,
+      "b_vard": 1,
+      "b_kultur": 1,
+      "miljo": 1,
+      "mark_bygglov": 1,
+      "ung": 1,
+      "bygger": 1,
+      "kronisk": 1,
+      "beroende": 1,
+      "konsument": 2,
+      "idrott": 1,
+      "klimat": 2,
+      "kultur": 1
+    }
   },
   {
     "id": "HD03175",
@@ -3570,7 +4143,6 @@
     ],
     "relevans": {
       "barn": 1,
-      "kollektiv": 1,
       "ny_i_sverige": 3
     }
   },
@@ -3586,6 +4158,9 @@
       "riksdagen"
     ],
     "relevans": {
+      "b_bygg": 1,
+      "tillstand": 1,
+      "sambo_gift": 3,
       "kvinna": 1
     }
   },
@@ -3613,9 +4188,11 @@
       "riksdagen"
     ],
     "relevans": {
+      "arbetsgivare": 2,
+      "b_utbildning": 1,
       "barn": 3,
-      "pensionar": 1,
-      "kollektiv": 1
+      "vuxenstudier": 1,
+      "otrygg": 1
     }
   },
   {
@@ -3630,6 +4207,7 @@
       "riksdagen"
     ],
     "relevans": {
+      "b_bygg": 1,
       "student": 3
     }
   },
@@ -3645,8 +4223,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1,
-      "bostadsagare": 1
+      "b_bygg": 3,
+      "miljo": 1,
+      "mark_bygglov": 1,
+      "bygger": 1
     }
   },
   {
@@ -3661,6 +4241,8 @@
       "riksdagen"
     ],
     "relevans": {
+      "b_bygg": 3,
+      "miljo": 2,
       "klimat": 1
     }
   },
@@ -3676,8 +4258,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1,
-      "hyresgast": 3
+      "arbetsgivare": 1,
+      "b_finans": 1,
+      "ensam_foralder": 3,
+      "hyresgast": 3,
+      "lantagare": 1
     }
   },
   {
@@ -3692,7 +4277,9 @@
       "riksdagen"
     ],
     "relevans": {
-      "pensionar": 1
+      "bolagsskatt": 3,
+      "pensionar": 1,
+      "lantagare": 1
     }
   },
   {
@@ -3707,7 +4294,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "kollektiv": 1
+      "b_bygg": 1,
+      "b_finans": 1,
+      "tillstand": 1,
+      "miljo": 1
     }
   },
   {
@@ -3737,6 +4327,7 @@
       "riksdagen"
     ],
     "relevans": {
+      "b_bygg": 1,
       "barn": 1
     }
   },
@@ -3752,7 +4343,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "klimat": 1
+      "b_bygg": 2,
+      "b_kultur": 1,
+      "miljo": 1,
+      "klimat": 1,
+      "kultur": 1
     }
   },
   {
@@ -3767,7 +4362,9 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 2
+      "b_fastighet": 1,
+      "konsument": 1,
+      "otrygg": 1
     }
   },
   {
@@ -3780,7 +4377,12 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03152.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "b_bygg": 1,
+      "b_fastighet": 3,
+      "bolagsskatt": 1
+    }
   },
   {
     "id": "HD03137",
@@ -3794,7 +4396,9 @@
       "riksdagen"
     ],
     "relevans": {
-      "ny_i_sverige": 3
+      "asyl": 1,
+      "otrygg": 1,
+      "domd": 1
     }
   },
   {
@@ -3807,7 +4411,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0397.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "b_bygg": 1
+    }
   },
   {
     "id": "lekeberg-kommunstyrelsen-2026-03-10",
@@ -3820,7 +4427,14 @@
     "taggar": [
       "lekeberg",
       "kommunstyrelsen"
-    ]
+    ],
+    "relevans": {
+      "arbetsgivare": 1,
+      "kvinna": 1,
+      "hbtq": 1,
+      "lontagare": 1,
+      "kronisk": 1
+    }
   },
   {
     "id": "HD03155",
@@ -3832,7 +4446,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03155.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "brottsoffer": 1
+    }
   },
   {
     "id": "HD03165",
@@ -3846,7 +4463,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "funktion": 1
+      "gdpr": 1,
+      "funktion": 1,
+      "konsument": 1,
+      "integritet": 2
     }
   },
   {
@@ -3861,9 +4481,12 @@
       "riksdagen"
     ],
     "relevans": {
+      "b_bygg": 3,
+      "b_energi": 3,
       "bil": 1,
-      "klimat": 3,
-      "halsa": 1
+      "beroende": 1,
+      "energikund": 3,
+      "klimat": 1
     }
   },
   {
@@ -3878,7 +4501,7 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1
+      "otrygg": 1
     }
   },
   {
@@ -3891,7 +4514,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03144.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "otrygg": 1,
+      "domd": 1
+    }
   },
   {
     "id": "malmo-kommunstyrelsen-2026-03-04",
@@ -3904,7 +4531,18 @@
     "taggar": [
       "malmo",
       "kommunstyrelsen"
-    ]
+    ],
+    "relevans": {
+      "finansiering": 1,
+      "miljo": 1,
+      "mark_bygglov": 1,
+      "barn": 1,
+      "hbtq": 1,
+      "bygger": 1,
+      "funktion": 1,
+      "idrott": 1,
+      "klimat": 2
+    }
   },
   {
     "id": "HD03156",
@@ -3918,8 +4556,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "kollektiv": 3,
-      "halsa": 3
+      "b_vard": 3,
+      "kronisk": 3
     }
   },
   {
@@ -3934,6 +4572,8 @@
       "riksdagen"
     ],
     "relevans": {
+      "b_energi": 1,
+      "energikund": 1,
       "klimat": 3
     }
   },
@@ -3947,7 +4587,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03150.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "tillstand": 1,
+      "otrygg": 3
+    }
   },
   {
     "id": "HD03149",
@@ -3961,8 +4605,7 @@
       "riksdagen"
     ],
     "relevans": {
-      "barn": 2,
-      "kollektiv": 1
+      "barn": 2
     }
   },
   {
@@ -3977,6 +4620,8 @@
       "riksdagen"
     ],
     "relevans": {
+      "b_fastighet": 1,
+      "eu_marknad": 1,
       "hyresgast": 1,
       "bostadsagare": 1,
       "bil": 2
@@ -3994,7 +4639,7 @@
       "riksdagen"
     ],
     "relevans": {
-      "bil": 1,
+      "arbetsratt": 1,
       "glesbygd": 1
     }
   },
@@ -4010,9 +4655,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1,
+      "b_energi": 1,
+      "moms": 3,
       "kollektiv": 1,
-      "klimat": 1
+      "energikund": 1,
+      "konsument": 1
     }
   },
   {
@@ -4028,7 +4675,10 @@
       "kommunfullmaktige"
     ],
     "relevans": {
-      "barn": 1
+      "b_bygg": 1,
+      "finansiering": 1,
+      "barn": 1,
+      "idrott": 1
     }
   },
   {
@@ -4042,7 +4692,17 @@
     "taggar": [
       "bollebygd",
       "kommunstyrelsen"
-    ]
+    ],
+    "relevans": {
+      "arbetsgivare": 1,
+      "b_bygg": 1,
+      "b_fastighet": 2,
+      "lokaler": 1,
+      "mark_bygglov": 1,
+      "kvinna": 1,
+      "lontagare": 1,
+      "bygger": 1
+    }
   },
   {
     "id": "alingsas-kommunfullmaktige-2026-02-25",
@@ -4057,10 +4717,14 @@
       "kommunfullmaktige"
     ],
     "relevans": {
+      "b_vard": 1,
+      "b_kultur": 1,
       "barn": 1,
-      "pensionar": 2,
-      "glesbygd": 1,
-      "halsa": 1
+      "pensionar": 1,
+      "kronisk": 1,
+      "konsument": 1,
+      "idrott": 1,
+      "kultur": 1
     }
   },
   {
@@ -4075,7 +4739,9 @@
       "riksdagen"
     ],
     "relevans": {
-      "barn": 1,
+      "tillstand": 1,
+      "fou": 1,
+      "beroende": 3,
       "ny_i_sverige": 3
     }
   },
@@ -4089,7 +4755,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03142.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "b_bygg": 1,
+      "varnpliktig": 1
+    }
   },
   {
     "id": "HD03135",
@@ -4101,7 +4771,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03135.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "b_grona": 1,
+      "otrygg": 1
+    }
   },
   {
     "id": "HD03134",
@@ -4115,11 +4789,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "lontagare": 3,
-      "bil": 1,
-      "kollektiv": 1,
-      "glesbygd": 1,
-      "halsa": 3
+      "arbetsgivare": 1,
+      "arbetsmiljo": 3,
+      "kompetens": 1,
+      "gymnasieelev": 1,
+      "glesbygd": 1
     }
   },
   {
@@ -4132,7 +4806,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03133.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "otrygg": 1
+    }
   },
   {
     "id": "HD03131",
@@ -4146,7 +4823,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "barn": 3,
+      "b_grona": 1,
+      "tillstand": 1,
+      "f_landsbygd": 3,
+      "barn": 1,
       "glesbygd": 3
     }
   },
@@ -4162,8 +4842,7 @@
       "riksdagen"
     ],
     "relevans": {
-      "barn": 1,
-      "bil": 1
+      "korkort": 1
     }
   },
   {
@@ -4178,7 +4857,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1
+      "aktiebolag": 1,
+      "b_it": 3,
+      "b_finans": 1,
+      "sparare": 3
     }
   },
   {
@@ -4194,7 +4876,7 @@
     ],
     "relevans": {
       "barn": 1,
-      "kollektiv": 1
+      "otrygg": 1
     }
   },
   {
@@ -4220,7 +4902,14 @@
     "taggar": [
       "lekeberg",
       "kommunfullmaktige"
-    ]
+    ],
+    "relevans": {
+      "b_bygg": 1,
+      "b_fastighet": 1,
+      "glesbygd": 1,
+      "kollektiv": 1,
+      "funktion": 1
+    }
   },
   {
     "id": "HD03145",
@@ -4235,9 +4924,8 @@
     ],
     "relevans": {
       "barn": 1,
-      "kollektiv": 1,
-      "ny_i_sverige": 2,
-      "halsa": 1
+      "ny_i_sverige": 1,
+      "asyl": 1
     }
   },
   {
@@ -4252,7 +4940,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "jagare": 2
+      "b_bygg": 1,
+      "b_finans": 1,
+      "jagare": 1,
+      "varnpliktig": 1
     }
   },
   {
@@ -4268,7 +4959,11 @@
     ],
     "relevans": {
       "barn": 3,
-      "halsa": 1
+      "ung": 1,
+      "kronisk": 1,
+      "otrygg": 1,
+      "domd": 3,
+      "integritet": 1
     }
   },
   {
@@ -4283,7 +4978,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "kollektiv": 3,
+      "arbetsmiljo": 1,
+      "miljo": 1,
       "klimat": 3
     }
   },
@@ -4300,8 +4996,9 @@
       "kommunfullmaktige"
     ],
     "relevans": {
-      "barn": 1,
-      "kollektiv": 1
+      "ung": 1,
+      "kollektiv": 1,
+      "konsument": 1
     }
   },
   {
@@ -4346,7 +5043,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 2
+      "moms": 3,
+      "konsument": 1
     }
   },
   {
@@ -4361,7 +5059,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1
+      "b_finans": 2,
+      "otrygg": 2
     }
   },
   {
@@ -4376,7 +5075,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1
+      "tillstand": 1,
+      "infrastruktur": 1,
+      "batagare": 1,
+      "otrygg": 1,
+      "varnpliktig": 1
     }
   },
   {
@@ -4391,6 +5094,7 @@
       "riksdagen"
     ],
     "relevans": {
+      "miljo": 1,
       "klimat": 3
     }
   },
@@ -4406,9 +5110,9 @@
       "riksdagen"
     ],
     "relevans": {
-      "kollektiv": 1,
-      "husdjur": 1,
-      "halsa": 3
+      "b_grona": 1,
+      "b_life": 3,
+      "kronisk": 3
     }
   },
   {
@@ -4423,7 +5127,7 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1
+      "b_finans": 3
     }
   },
   {
@@ -4436,7 +5140,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03110.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "otrygg": 3
+    }
   },
   {
     "id": "gavle-kommunfullmaktige-2026-02-16",
@@ -4451,10 +5158,13 @@
       "kommunfullmaktige"
     ],
     "relevans": {
+      "b_bygg": 1,
+      "b_finans": 1,
       "barn": 1,
-      "foretagare": 1,
+      "funktion": 2,
+      "idrott": 1,
       "klimat": 1,
-      "funktion": 2
+      "kultur": 1
     }
   },
   {
@@ -4468,7 +5178,14 @@
     "taggar": [
       "ange",
       "kommunstyrelsen"
-    ]
+    ],
+    "relevans": {
+      "b_bygg": 1,
+      "b_energi": 1,
+      "finansiering": 1,
+      "barn": 2,
+      "energikund": 1
+    }
   },
   {
     "id": "HD03124",
@@ -4482,7 +5199,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1,
+      "aktiebolag": 1,
+      "b_bygg": 1,
+      "b_it": 1,
+      "b_finans": 3,
+      "finansiering": 1,
       "klimat": 3
     }
   },
@@ -4498,7 +5219,9 @@
       "riksdagen"
     ],
     "relevans": {
-      "barn": 3
+      "b_finans": 1,
+      "barn": 3,
+      "foraldraledig": 3
     }
   },
   {
@@ -4513,7 +5236,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "bil": 2,
+      "b_industri": 1,
+      "b_grona": 3,
+      "miljo": 1,
+      "gron_omstallning": 3,
+      "bil": 1,
       "klimat": 3
     }
   },
@@ -4529,7 +5256,9 @@
       "riksdagen"
     ],
     "relevans": {
-      "bostadsagare": 3
+      "bostadsagare": 3,
+      "skuldsatt": 1,
+      "otrygg": 1
     }
   },
   {
@@ -4544,8 +5273,11 @@
       "riksdagen"
     ],
     "relevans": {
+      "b_bygg": 1,
+      "b_finans": 1,
       "lontagare": 1,
-      "bostadsagare": 1
+      "bostadsagare": 1,
+      "lantagare": 1
     }
   },
   {
@@ -4560,6 +5292,11 @@
       "riksdagen"
     ],
     "relevans": {
+      "b_bygg": 1,
+      "b_energi": 1,
+      "tillstand": 3,
+      "miljo": 1,
+      "energikund": 1,
       "klimat": 3
     }
   },
@@ -4573,7 +5310,12 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0396.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "b_bygg": 1,
+      "b_konsult": 3,
+      "otrygg": 1
+    }
   },
   {
     "id": "HD03111",
@@ -4587,7 +5329,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1
+      "b_fastighet": 3,
+      "digitalisering": 1,
+      "lantagare": 1,
+      "digital_ovan": 1
     }
   },
   {
@@ -4602,8 +5347,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1,
-      "kollektiv": 1,
+      "b_handel": 1,
+      "b_bygg": 1,
+      "miljo": 3,
+      "konsument": 1,
       "klimat": 1
     }
   },
@@ -4619,7 +5366,6 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1,
       "arbetssokande": 2
     }
   },
@@ -4635,8 +5381,11 @@
       "riksdagen"
     ],
     "relevans": {
+      "ideell": 1,
+      "b_fastighet": 1,
       "hyresgast": 1,
-      "bostadsagare": 3
+      "bostadsagare": 3,
+      "otrygg": 2
     }
   },
   {
@@ -4651,7 +5400,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1
+      "b_bygg": 1,
+      "b_fastighet": 1
     }
   },
   {
@@ -4668,7 +5418,6 @@
     ],
     "relevans": {
       "arbetssokande": 1,
-      "bil": 1,
       "glesbygd": 1
     }
   },
@@ -4683,7 +5432,13 @@
     "taggar": [
       "alingsas",
       "kommunstyrelsen"
-    ]
+    ],
+    "relevans": {
+      "b_bygg": 1,
+      "b_energi": 1,
+      "energikund": 1,
+      "klimat": 1
+    }
   },
   {
     "id": "alingsas-kommunfullmaktige-2026-01-28",
@@ -4696,7 +5451,15 @@
     "taggar": [
       "alingsas",
       "kommunfullmaktige"
-    ]
+    ],
+    "relevans": {
+      "b_bygg": 1,
+      "b_fastighet": 1,
+      "tillstand": 1,
+      "mark_bygglov": 1,
+      "barn": 2,
+      "bygger": 1
+    }
   },
   {
     "id": "HD03102",
@@ -4710,7 +5473,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 3
+      "storforetag": 3,
+      "bolagsskatt": 1
     }
   },
   {
@@ -4725,8 +5489,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1,
-      "halsa": 1
+      "aktiebolag": 1,
+      "bolagsskatt": 1,
+      "kronisk": 1,
+      "sparare": 1
     }
   },
   {
@@ -4740,7 +5506,11 @@
     "taggar": [
       "hylte",
       "kommunfullmaktige"
-    ]
+    ],
+    "relevans": {
+      "barn": 3,
+      "ung": 1
+    }
   },
   {
     "id": "bollebygd-kommunstyrelsen-2026-01-27",
@@ -4753,7 +5523,13 @@
     "taggar": [
       "bollebygd",
       "kommunstyrelsen"
-    ]
+    ],
+    "relevans": {
+      "b_bygg": 1,
+      "b_vard": 1,
+      "lokaler": 1,
+      "klimat": 1
+    }
   },
   {
     "id": "HD0395",
@@ -4765,7 +5541,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0395.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "domd": 3
+    }
   },
   {
     "id": "HD0394",
@@ -4779,7 +5558,9 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1,
+      "b_finans": 3,
+      "b_kultur": 1,
+      "tillstand": 1,
       "klimat": 3
     }
   },
@@ -4795,8 +5576,11 @@
       "riksdagen"
     ],
     "relevans": {
+      "arbetsgivare": 1,
+      "b_vard": 1,
       "pensionar": 3,
-      "halsa": 1
+      "kronisk": 1,
+      "otrygg": 1
     }
   },
   {
@@ -4811,8 +5595,7 @@
       "riksdagen"
     ],
     "relevans": {
-      "barn": 1,
-      "foretagare": 1
+      "b_finans": 1
     }
   },
   {
@@ -4827,8 +5610,9 @@
       "riksdagen"
     ],
     "relevans": {
-      "lontagare": 3,
-      "foretagare": 3
+      "arbetsratt": 3,
+      "upphandling": 3,
+      "lontagare": 3
     }
   },
   {
@@ -4843,7 +5627,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "student": 1
+      "gdpr": 3,
+      "import": 3,
+      "beroende": 1,
+      "skuldsatt": 1,
+      "integritet": 2
     }
   },
   {
@@ -4858,10 +5646,10 @@
       "riksdagen"
     ],
     "relevans": {
+      "arbetskraft_inv": 3,
+      "tillstand": 1,
       "lontagare": 1,
-      "foretagare": 1,
-      "kollektiv": 1,
-      "ny_i_sverige": 1
+      "arbetstillstand": 1
     }
   },
   {
@@ -4876,7 +5664,7 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1
+      "sparare": 1
     }
   },
   {
@@ -4891,7 +5679,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 3
+      "sparare": 3,
+      "pensionssparare": 3
     }
   },
   {
@@ -4904,7 +5693,12 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0384.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "b_handel": 3,
+      "b_finans": 3,
+      "konsumentratt": 1
+    }
   },
   {
     "id": "HD0383",
@@ -4928,7 +5722,13 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0382.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "b_konsult": 3,
+      "tillstand": 1,
+      "otrygg": 2,
+      "integritet": 1
+    }
   },
   {
     "id": "HD0381",
@@ -4940,7 +5740,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0381.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "import": 1,
+      "digital_ovan": 1
+    }
   },
   {
     "id": "HD0380",
@@ -4954,9 +5758,10 @@
       "riksdagen"
     ],
     "relevans": {
+      "arbetsgivare": 1,
       "lontagare": 2,
-      "foretagare": 1,
-      "bil": 2,
+      "bil": 1,
+      "energikund": 3,
       "klimat": 1
     }
   },
@@ -4970,7 +5775,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0370.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "integritet": 3,
+      "varnpliktig": 3
+    }
   },
   {
     "id": "hylte-kommunfullmaktige-2025-12-16",
@@ -4996,7 +5805,18 @@
     "taggar": [
       "gavle",
       "kommunfullmaktige"
-    ]
+    ],
+    "relevans": {
+      "storforetag": 1,
+      "b_bygg": 1,
+      "b_energi": 1,
+      "mark_bygglov": 1,
+      "barn": 1,
+      "bygger": 1,
+      "energikund": 1,
+      "konsument": 1,
+      "klimat": 2
+    }
   },
   {
     "id": "HD0379",
@@ -5021,7 +5841,15 @@
     "taggar": [
       "bollebygd",
       "kommunfullmaktige"
-    ]
+    ],
+    "relevans": {
+      "b_bygg": 1,
+      "b_vard": 1,
+      "miljo": 2,
+      "f_landsbygd": 1,
+      "glesbygd": 1,
+      "kronisk": 1
+    }
   },
   {
     "id": "alingsas-kommunfullmaktige-2025-12-10",
@@ -5034,7 +5862,12 @@
     "taggar": [
       "alingsas",
       "kommunfullmaktige"
-    ]
+    ],
+    "relevans": {
+      "b_bygg": 1,
+      "b_vard": 1,
+      "kronisk": 1
+    }
   },
   {
     "id": "HD0377",
@@ -5046,7 +5879,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0377.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "b_grona": 3
+    }
   },
   {
     "id": "HD0376",
@@ -5060,7 +5896,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1
+      "b_finans": 3,
+      "lantagare": 1
     }
   },
   {
@@ -5075,7 +5912,7 @@
       "riksdagen"
     ],
     "relevans": {
-      "ny_i_sverige": 1
+      "asyl": 1
     }
   },
   {
@@ -5090,7 +5927,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "lontagare": 3
+      "arbetsratt": 3,
+      "sparare": 3
     }
   },
   {
@@ -5122,7 +5960,9 @@
       "riksdagen"
     ],
     "relevans": {
-      "jagare": 3
+      "infrastruktur": 1,
+      "batagare": 1,
+      "otrygg": 1
     }
   },
   {
@@ -5138,7 +5978,8 @@
     ],
     "relevans": {
       "kvinna": 3,
-      "ny_i_sverige": 3
+      "ny_i_sverige": 3,
+      "otrygg": 1
     }
   },
   {
@@ -5151,7 +5992,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0371.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "otrygg": 1
+    }
   },
   {
     "id": "HD0365",
@@ -5165,7 +6009,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "kollektiv": 1
+      "arbetsgivare": 1,
+      "lokaler": 3
     }
   },
   {
@@ -5180,10 +6025,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1,
-      "bil": 1,
       "glesbygd": 1,
-      "jagare": 1
+      "varnpliktig": 1
     }
   },
   {
@@ -5196,7 +6039,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0362.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "b_vard": 1
+    }
   },
   {
     "id": "HD0359",
@@ -5225,7 +6071,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "glesbygd": 3,
+      "b_finans": 1,
+      "b_fastighet": 1,
+      "sparare": 1,
+      "lantagare": 1,
       "klimat": 1
     }
   },
@@ -5241,8 +6090,10 @@
       "riksdagen"
     ],
     "relevans": {
+      "arbetsgivare": 3,
+      "avgifter": 3,
       "lontagare": 1,
-      "foretagare": 3
+      "konsument": 1
     }
   },
   {
@@ -5257,7 +6108,9 @@
       "riksdagen"
     ],
     "relevans": {
-      "glesbygd": 1
+      "b_bygg": 1,
+      "tillstand": 1,
+      "infrastruktur": 1
     }
   },
   {
@@ -5272,6 +6125,7 @@
       "riksdagen"
     ],
     "relevans": {
+      "regelborda": 3,
       "barn": 3
     }
   },
@@ -5287,10 +6141,13 @@
       "riksdagen"
     ],
     "relevans": {
+      "arbetsgivare": 1,
+      "b_vard": 1,
+      "arbetsmiljo": 1,
       "barn": 1,
-      "pensionar": 1,
       "lontagare": 3,
-      "funktion": 1
+      "funktion": 1,
+      "otrygg": 2
     }
   },
   {
@@ -5305,11 +6162,9 @@
       "riksdagen"
     ],
     "relevans": {
-      "barn": 3,
-      "pensionar": 3,
-      "kollektiv": 1,
-      "ny_i_sverige": 1,
-      "halsa": 3,
+      "barn": 2,
+      "anhorigvardare": 3,
+      "kronisk": 3,
       "funktion": 1
     }
   },
@@ -5325,7 +6180,9 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1
+      "b_handel": 1,
+      "moms": 3,
+      "konsument": 1
     }
   },
   {
@@ -5340,7 +6197,7 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1
+      "konsument": 1
     }
   },
   {
@@ -5355,7 +6212,7 @@
       "riksdagen"
     ],
     "relevans": {
-      "halsa": 1
+      "kronisk": 1
     }
   },
   {
@@ -5371,8 +6228,10 @@
       "kommunfullmaktige"
     ],
     "relevans": {
-      "glesbygd": 1,
-      "halsa": 1
+      "b_industri": 1,
+      "b_fastighet": 1,
+      "finansiering": 1,
+      "kronisk": 1
     }
   },
   {
@@ -5386,7 +6245,15 @@
     "taggar": [
       "gavle",
       "kommunfullmaktige"
-    ]
+    ],
+    "relevans": {
+      "b_vard": 1,
+      "kronisk": 1,
+      "konsument": 1,
+      "friluftsliv": 1,
+      "klimat": 1,
+      "fortroendevald": 1
+    }
   },
   {
     "id": "bollebygd-kommunfullmaktige-2025-11-20",
@@ -5399,7 +6266,16 @@
     "taggar": [
       "bollebygd",
       "kommunfullmaktige"
-    ]
+    ],
+    "relevans": {
+      "b_bygg": 1,
+      "lokaler": 1,
+      "barn": 2,
+      "bil": 1,
+      "konsument": 1,
+      "jagare": 1,
+      "idrott": 1
+    }
   },
   {
     "id": "HD0358",
@@ -5413,9 +6289,11 @@
       "riksdagen"
     ],
     "relevans": {
+      "b_vard": 1,
+      "b_finans": 1,
       "pensionar": 1,
-      "kollektiv": 1,
-      "ny_i_sverige": 1
+      "sjukskriven": 1,
+      "asyl": 1
     }
   },
   {
@@ -5430,8 +6308,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "kollektiv": 1,
-      "husdjur": 3
+      "regelborda": 1,
+      "lokaler": 1,
+      "husdjur": 3,
+      "otrygg": 1
     }
   },
   {
@@ -5446,7 +6326,7 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1
+      "produktsakerhet": 1
     }
   },
   {
@@ -5461,8 +6341,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "kollektiv": 3,
-      "halsa": 3
+      "b_bygg": 1,
+      "kronisk": 2
     }
   },
   {
@@ -5475,7 +6355,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0349.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "otrygg": 3
+    }
   },
   {
     "id": "HD0348",
@@ -5487,7 +6370,12 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0348.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "gdpr": 1,
+      "domd": 3,
+      "integritet": 2
+    }
   },
   {
     "id": "HD0344",
@@ -5499,7 +6387,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0344.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "b_finans": 1,
+      "otrygg": 3
+    }
   },
   {
     "id": "hofors-kommunstyrelsen-inkl-bilagor-2025-11-18",
@@ -5514,10 +6406,13 @@
       "kommunstyrelsen-inkl-bilagor"
     ],
     "relevans": {
-      "foretagare": 1,
-      "kollektiv": 1,
-      "klimat": 2,
-      "funktion": 3
+      "b_transport": 1,
+      "b_energi": 3,
+      "regelborda": 1,
+      "funktion": 3,
+      "energikund": 1,
+      "konsument": 1,
+      "klimat": 1
     }
   },
   {
@@ -5532,8 +6427,8 @@
       "riksdagen"
     ],
     "relevans": {
+      "infrastruktur": 1,
       "lontagare": 1,
-      "bil": 1,
       "glesbygd": 1
     }
   },
@@ -5549,8 +6444,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "lontagare": 3,
-      "kollektiv": 3
+      "arbetsgivare": 2,
+      "b_finans": 1,
+      "sjuklon": 3,
+      "sjukskriven": 3
     }
   },
   {
@@ -5565,7 +6462,7 @@
       "riksdagen"
     ],
     "relevans": {
-      "barn": 2
+      "barn": 1
     }
   },
   {
@@ -5578,7 +6475,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0346.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "lantagare": 1
+    }
   },
   {
     "id": "HD0345",
@@ -5592,7 +6492,7 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1
+      "konsumentratt": 1
     }
   },
   {
@@ -5607,7 +6507,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1
+      "moms": 2,
+      "konsument": 2
     }
   },
   {
@@ -5622,8 +6523,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "klimat": 1,
-      "halsa": 1
+      "miljo": 1,
+      "import": 1,
+      "kronisk": 1,
+      "klimat": 1
     }
   },
   {
@@ -5638,7 +6541,7 @@
       "riksdagen"
     ],
     "relevans": {
-      "bil": 3
+      "korkort": 3
     }
   },
   {
@@ -5653,8 +6556,8 @@
       "riksdagen"
     ],
     "relevans": {
+      "fou": 1,
       "student": 3,
-      "bil": 1,
       "glesbygd": 1
     }
   },
@@ -5670,7 +6573,9 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1
+      "b_finans": 3,
+      "tillstand": 1,
+      "otrygg": 2
     }
   },
   {
@@ -5697,8 +6602,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1,
-      "glesbygd": 3
+      "b_grona": 3,
+      "tillstand": 1,
+      "infrastruktur": 1,
+      "glesbygd": 3,
+      "batagare": 1
     }
   },
   {
@@ -5713,7 +6621,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "kollektiv": 3
+      "gdpr": 1,
+      "integritet": 1
     }
   },
   {
@@ -5728,7 +6637,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 2
+      "b_bygg": 3,
+      "upphandling": 1
     }
   },
   {
@@ -5743,8 +6653,7 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1,
-      "kollektiv": 1
+      "konsument": 3
     }
   },
   {
@@ -5760,8 +6669,7 @@
     ],
     "relevans": {
       "lontagare": 1,
-      "arbetssokande": 3,
-      "kollektiv": 1
+      "arbetssokande": 3
     }
   },
   {
@@ -5774,7 +6682,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0330.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "fortroendevald": 1
+    }
   },
   {
     "id": "ange-kommunfullmaktige-2025-10-27",
@@ -5787,7 +6698,11 @@
     "taggar": [
       "ange",
       "kommunfullmaktige"
-    ]
+    ],
+    "relevans": {
+      "b_konsult": 1,
+      "redovisning": 1
+    }
   },
   {
     "id": "HD0333",
@@ -5801,7 +6716,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1
+      "b_it": 1,
+      "b_fastighet": 1,
+      "digitalisering": 3,
+      "digital_ovan": 3
     }
   },
   {
@@ -5814,7 +6732,13 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0334.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "brottsoffer": 1,
+      "otrygg": 1,
+      "domd": 3,
+      "integritet": 1
+    }
   },
   {
     "id": "HD0332",
@@ -5828,10 +6752,10 @@
       "riksdagen"
     ],
     "relevans": {
+      "arbetsgivare": 1,
       "pensionar": 3,
       "lontagare": 2,
-      "kollektiv": 3,
-      "funktion": 3
+      "sjukskriven": 1
     }
   },
   {
@@ -5862,7 +6786,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1
+      "b_it": 1,
+      "gdpr": 3
     }
   },
   {
@@ -5877,7 +6802,7 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 3
+      "storforetag": 3
     }
   },
   {
@@ -5893,9 +6818,10 @@
       "kommunstyrelsen"
     ],
     "relevans": {
-      "glesbygd": 1,
-      "klimat": 1,
-      "halsa": 1
+      "b_bygg": 1,
+      "kronisk": 1,
+      "friluftsliv": 1,
+      "klimat": 1
     }
   },
   {
@@ -5910,8 +6836,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "kollektiv": 1,
-      "halsa": 1
+      "arbetsgivare": 1,
+      "b_transport": 1,
+      "flygresenar": 1,
+      "beroende": 1,
+      "varnpliktig": 3
     }
   },
   {
@@ -5926,7 +6855,6 @@
       "riksdagen"
     ],
     "relevans": {
-      "barn": 1,
       "kvinna": 2
     }
   },
@@ -5942,7 +6870,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "halsa": 3
+      "b_finans": 1,
+      "sjukskriven": 1,
+      "kronisk": 3,
+      "tandvard": 3,
+      "konsument": 1
     }
   },
   {
@@ -5957,8 +6889,7 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1,
-      "kollektiv": 1
+      "konsument": 1
     }
   },
   {
@@ -5973,10 +6904,15 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 2,
+      "arbetsgivare": 2,
+      "b_industri": 1,
+      "avgifter": 2,
+      "konkurrens": 3,
+      "f_landsbygd": 1,
       "glesbygd": 1,
-      "klimat": 1,
-      "halsa": 1
+      "kronisk": 1,
+      "konsument": 1,
+      "klimat": 1
     }
   },
   {
@@ -5991,7 +6927,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 3,
+      "b_finans": 2,
+      "redovisning": 1,
       "klimat": 3
     }
   },
@@ -6007,10 +6944,12 @@
       "riksdagen"
     ],
     "relevans": {
+      "anhorigvardare": 1,
       "lontagare": 1,
-      "foretagare": 1,
       "bostadsagare": 3,
-      "kollektiv": 1
+      "sparare": 1,
+      "lantagare": 2,
+      "kultur": 1
     }
   },
   {
@@ -6025,8 +6964,9 @@
       "riksdagen"
     ],
     "relevans": {
-      "kollektiv": 1,
-      "halsa": 3
+      "kronisk": 3,
+      "psykisk": 1,
+      "tandvard": 1
     }
   },
   {
@@ -6051,7 +6991,14 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0311.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "tillstand": 2,
+      "infrastruktur": 1,
+      "lantagare": 1,
+      "batagare": 1
+    }
   },
   {
     "id": "HD0316",
@@ -6065,7 +7012,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1,
+      "b_energi": 1,
+      "konsument": 2,
       "klimat": 1
     }
   },
@@ -6081,7 +7029,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "lontagare": 2
+      "arbetsgivare": 3,
+      "bolagsskatt": 1,
+      "lontagare": 2,
+      "bygger": 1,
+      "konsument": 1
     }
   },
   {
@@ -6096,10 +7048,15 @@
       "riksdagen"
     ],
     "relevans": {
+      "b_bygg": 1,
+      "b_vard": 1,
+      "b_finans": 3,
+      "b_energi": 1,
       "lontagare": 1,
-      "bil": 2,
       "glesbygd": 1,
-      "klimat": 1
+      "bil": 1,
+      "sparare": 1,
+      "energikund": 1
     }
   },
   {
@@ -6115,10 +7072,7 @@
     ],
     "relevans": {
       "barn": 1,
-      "bil": 1,
-      "kollektiv": 1,
-      "glesbygd": 1,
-      "halsa": 1
+      "glesbygd": 1
     }
   },
   {
@@ -6133,10 +7087,13 @@
       "riksdagen"
     ],
     "relevans": {
+      "b_bygg": 1,
+      "b_finans": 1,
+      "b_energi": 1,
       "lontagare": 1,
-      "bil": 1,
       "glesbygd": 1,
-      "klimat": 1
+      "sparare": 1,
+      "energikund": 1
     }
   },
   {
@@ -6166,8 +7123,9 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1,
-      "halsa": 3,
+      "b_vard": 3,
+      "tillstand": 1,
+      "kronisk": 3,
       "funktion": 2
     }
   },
@@ -6183,6 +7141,7 @@
       "riksdagen"
     ],
     "relevans": {
+      "miljo": 1,
       "klimat": 2
     }
   },
@@ -6198,7 +7157,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "ny_i_sverige": 3
+      "ny_i_sverige": 3,
+      "asyl": 3
     }
   },
   {
@@ -6213,7 +7173,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "halsa": 3
+      "b_vard": 1,
+      "tillstand": 1,
+      "kronisk": 3,
+      "tandvard": 3
     }
   },
   {
@@ -6226,7 +7189,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD035.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "b_industri": 1,
+      "b_finans": 2
+    }
   },
   {
     "id": "HD034",
@@ -6240,7 +7207,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1
+      "b_fastighet": 1,
+      "b_kultur": 3
     }
   },
   {
@@ -6255,8 +7223,16 @@
       "riksdagen"
     ],
     "relevans": {
-      "bil": 3,
-      "klimat": 1
+      "b_transport": 1,
+      "b_energi": 1,
+      "punktskatt": 3,
+      "miljo": 1,
+      "flygresenar": 1,
+      "beroende": 1,
+      "energikund": 1,
+      "batagare": 1,
+      "otrygg": 1,
+      "varnpliktig": 1
     }
   },
   {
@@ -6271,7 +7247,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "kollektiv": 1
+      "b_transport": 1,
+      "varnpliktig": 3
     }
   },
   {
@@ -6286,7 +7263,9 @@
       "riksdagen"
     ],
     "relevans": {
-      "barn": 3
+      "arbetsgivare": 1,
+      "barn": 3,
+      "otrygg": 1
     }
   },
   {
@@ -6301,7 +7280,9 @@
       "riksdagen"
     ],
     "relevans": {
-      "barn": 2,
+      "b_utbildning": 3,
+      "barn": 1,
+      "vuxenstudier": 3,
       "ny_i_sverige": 3
     }
   },
@@ -6315,7 +7296,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD036.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "varnpliktig": 3
+    }
   },
   {
     "id": "HC03208",
@@ -6329,7 +7313,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 3
+      "arbetsgivare": 1,
+      "b_industri": 1,
+      "b_vard": 1,
+      "fou": 1,
+      "otrygg": 1
     }
   },
   {
@@ -6342,7 +7330,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03206.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "varnpliktig": 3
+    }
   },
   {
     "id": "HC03205",
@@ -6354,7 +7345,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03205.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "varnpliktig": 3
+    }
   },
   {
     "id": "HC03204",
@@ -6368,6 +7362,8 @@
       "riksdagen"
     ],
     "relevans": {
+      "arbetsgivare": 3,
+      "kollektivavtal": 1,
       "lontagare": 1
     }
   },
@@ -6383,7 +7379,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1,
+      "tillstand": 1,
+      "miljo": 1,
       "klimat": 1
     }
   },
@@ -6399,10 +7396,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "barn": 1,
+      "b_finans": 1,
       "pensionar": 3,
       "lontagare": 2,
-      "arbetssokande": 1
+      "sparare": 1,
+      "konsument": 1
     }
   },
   {
@@ -6417,7 +7415,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "kollektiv": 1
+      "domd": 1,
+      "integritet": 3
     }
   },
   {
@@ -6432,7 +7431,9 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1
+      "regelborda": 1,
+      "skuldsatt": 1,
+      "otrygg": 1
     }
   },
   {
@@ -6447,7 +7448,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1,
+      "b_industri": 1,
+      "gron_omstallning": 1,
       "klimat": 1
     }
   },
@@ -6463,7 +7465,7 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1
+      "konkurrens": 3
     }
   },
   {
@@ -6478,7 +7480,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1
+      "regelborda": 1,
+      "eu_marknad": 1
     }
   },
   {
@@ -6499,7 +7502,9 @@
       "riksdagen"
     ],
     "relevans": {
-      "ny_i_sverige": 3
+      "tillstand": 1,
+      "asyl": 2,
+      "otrygg": 1
     }
   },
   {
@@ -6539,6 +7544,8 @@
       "riksdagen"
     ],
     "relevans": {
+      "arbetsgivare": 1,
+      "b_bygg": 1,
       "student": 1,
       "klimat": 1
     }
@@ -6560,8 +7567,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1,
-      "kollektiv": 1
+      "produktsakerhet": 1,
+      "eu_marknad": 3
     }
   },
   {
@@ -6581,10 +7588,10 @@
       "riksdagen"
     ],
     "relevans": {
+      "b_bygg": 1,
+      "b_fastighet": 1,
       "lontagare": 1,
-      "foretagare": 1,
-      "hyresgast": 2,
-      "kollektiv": 1
+      "hyresgast": 1
     }
   },
   {
@@ -6602,7 +7609,12 @@
       "lagstiftning",
       "sverige",
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "storforetag": 1,
+      "b_finans": 2,
+      "bolagsskatt": 1
+    }
   },
   {
     "id": "HC03187",
@@ -6621,8 +7633,9 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 3,
-      "halsa": 1
+      "b_vard": 1,
+      "kronisk": 1,
+      "beroende": 1
     }
   },
   {
@@ -6640,7 +7653,11 @@
       "statsbudget",
       "forvaltning",
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "b_fastighet": 1,
+      "b_konsult": 3
+    }
   },
   {
     "id": "HC03190",
@@ -6658,7 +7675,12 @@
       "underrattelseverksamhet",
       "regeringen",
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "gdpr": 1,
+      "otrygg": 3,
+      "integritet": 1
+    }
   },
   {
     "id": "HC03189",
@@ -6678,7 +7700,8 @@
     ],
     "relevans": {
       "barn": 1,
-      "kvinna": 2,
+      "sambo_gift": 1,
+      "kvinna": 1,
       "klimat": 1
     }
   },
@@ -6699,8 +7722,10 @@
       "riksdagen"
     ],
     "relevans": {
+      "b_fastighet": 3,
+      "b_energi": 3,
       "bostadsagare": 3,
-      "klimat": 1
+      "energikund": 1
     }
   },
   {
@@ -6714,7 +7739,13 @@
     "taggar": [
       "ange",
       "kommunfullmaktige"
-    ]
+    ],
+    "relevans": {
+      "b_industri": 1,
+      "b_fastighet": 1,
+      "redovisning": 1,
+      "otrygg": 1
+    }
   },
   {
     "id": "HC03193",
@@ -6732,7 +7763,12 @@
       "nationell-sakerhet",
       "innovation",
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "b_industri": 3,
+      "fou": 3,
+      "varnpliktig": 3
+    }
   },
   {
     "id": "HC03184",
@@ -6746,7 +7782,9 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1
+      "b_finans": 1,
+      "sparare": 1,
+      "lantagare": 1
     }
   },
   {
@@ -6761,7 +7799,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "bil": 1,
+      "b_transport": 3,
+      "eu_marknad": 1,
       "glesbygd": 1
     }
   },
@@ -6777,7 +7816,7 @@
       "riksdagen"
     ],
     "relevans": {
-      "jagare": 1
+      "otrygg": 3
     }
   },
   {
@@ -6792,7 +7831,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "halsa": 3
+      "b_life": 3,
+      "kronisk": 3
     }
   },
   {
@@ -6807,7 +7847,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "kollektiv": 1
+      "kultur": 3,
+      "fortroendevald": 1
     }
   },
   {
@@ -6821,7 +7862,11 @@
     "taggar": [
       "gavle",
       "kommunstyrelsen"
-    ]
+    ],
+    "relevans": {
+      "digitalisering": 1,
+      "digital_ovan": 1
+    }
   },
   {
     "id": "HC03185",
@@ -6835,7 +7880,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "halsa": 1
+      "b_industri": 3,
+      "b_life": 1,
+      "finansiering": 3,
+      "kronisk": 1
     }
   },
   {
@@ -6850,9 +7898,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1,
+      "b_transport": 1,
+      "b_finans": 1,
       "hyresgast": 1,
-      "kollektiv": 1
+      "batagare": 1
     }
   },
   {
@@ -6867,8 +7916,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "kollektiv": 3,
-      "halsa": 3
+      "kronisk": 2,
+      "varnpliktig": 1
     }
   },
   {
@@ -6883,7 +7932,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "funktion": 3
+      "infrastruktur": 1,
+      "ung": 1,
+      "funktion": 3,
+      "batagare": 1
     }
   },
   {
@@ -6898,7 +7950,6 @@
       "riksdagen"
     ],
     "relevans": {
-      "bil": 1,
       "glesbygd": 1
     }
   },
@@ -6914,12 +7965,17 @@
       "riksdagen"
     ],
     "relevans": {
+      "arbetsgivare": 1,
+      "b_finans": 2,
+      "sjuklon": 1,
+      "infrastruktur": 1,
       "pensionar": 1,
       "lontagare": 1,
-      "foretagare": 1,
-      "kollektiv": 1,
-      "halsa": 1,
-      "funktion": 1
+      "sjukskriven": 1,
+      "bidrag": 3,
+      "funktion": 1,
+      "tandvard": 2,
+      "batagare": 1
     }
   },
   {
@@ -6935,7 +7991,8 @@
     ],
     "relevans": {
       "barn": 3,
-      "klimat": 1
+      "klimat": 1,
+      "otrygg": 3
     }
   },
   {
@@ -6950,9 +8007,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "kollektiv": 1,
-      "klimat": 1,
-      "halsa": 1
+      "b_transport": 1,
+      "miljo": 1,
+      "flygresenar": 2,
+      "kronisk": 1,
+      "klimat": 1
     }
   },
   {
@@ -6967,7 +8026,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1
+      "aktiebolag": 1,
+      "ideell": 1
     }
   },
   {
@@ -6982,7 +8042,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "pensionar": 1
+      "b_konsult": 3,
+      "pensionar": 1,
+      "sparare": 3,
+      "konsument": 1
     }
   },
   {
@@ -6997,7 +8060,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "jagare": 1
+      "b_industri": 1,
+      "b_vard": 1,
+      "export": 1,
+      "immaterialratt": 3
     }
   },
   {
@@ -7012,7 +8078,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "ny_i_sverige": 1
+      "gdpr": 1,
+      "ny_i_sverige": 1,
+      "otrygg": 1,
+      "integritet": 1
     }
   },
   {
@@ -7042,7 +8111,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 3
+      "b_finans": 3,
+      "finansiering": 1,
+      "konkurs": 1,
+      "infrastruktur": 1,
+      "lantagare": 1,
+      "batagare": 1
     }
   },
   {
@@ -7057,8 +8131,15 @@
       "riksdagen"
     ],
     "relevans": {
-      "bostadsagare": 3,
-      "klimat": 1
+      "b_bygg": 3,
+      "b_vard": 1,
+      "b_fastighet": 1,
+      "miljo": 1,
+      "lokaler": 1,
+      "mark_bygglov": 3,
+      "bygger": 3,
+      "klimat": 1,
+      "varnpliktig": 1
     }
   },
   {
@@ -7073,7 +8154,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "klimat": 3
+      "miljo": 3,
+      "infrastruktur": 1,
+      "batagare": 1,
+      "klimat": 3,
+      "otrygg": 1
     }
   },
   {
@@ -7088,7 +8173,6 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1,
       "funktion": 1
     }
   },
@@ -7104,8 +8188,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1,
-      "jagare": 1
+      "tillstand": 3,
+      "regelborda": 3,
+      "mark_bygglov": 1,
+      "bygger": 1,
+      "otrygg": 1
     }
   },
   {
@@ -7135,7 +8222,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03164.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "b_vard": 1,
+      "tillstand": 1
+    }
   },
   {
     "id": "HC03159",
@@ -7149,6 +8240,7 @@
       "riksdagen"
     ],
     "relevans": {
+      "solo": 3,
       "foretagare": 3
     }
   },
@@ -7164,7 +8256,7 @@
       "riksdagen"
     ],
     "relevans": {
-      "kollektiv": 1
+      "fortroendevald": 3
     }
   },
   {
@@ -7178,7 +8270,11 @@
     "taggar": [
       "ange",
       "kommunfullmaktige"
-    ]
+    ],
+    "relevans": {
+      "b_energi": 1,
+      "energikund": 1
+    }
   },
   {
     "id": "HC03161",
@@ -7192,7 +8288,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "ny_i_sverige": 1
+      "arbetsgivare": 1,
+      "asyl": 1
     }
   },
   {
@@ -7207,8 +8304,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "barn": 3,
-      "klimat": 1
+      "arbetsgivare": 1,
+      "b_utbildning": 1,
+      "barn": 2,
+      "vuxenstudier": 1,
+      "klimat": 1,
+      "otrygg": 1
     }
   },
   {
@@ -7223,8 +8324,10 @@
       "riksdagen"
     ],
     "relevans": {
+      "gdpr": 1,
       "barn": 3,
-      "halsa": 1
+      "bidrag": 1,
+      "integritet": 1
     }
   },
   {
@@ -7239,7 +8342,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "halsa": 1
+      "b_finans": 3,
+      "kronisk": 1
     }
   },
   {
@@ -7252,7 +8356,13 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03101.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "redovisning": 3,
+      "konsumentratt": 1,
+      "lantagare": 1,
+      "konsument": 1
+    }
   },
   {
     "id": "HC03100",
@@ -7264,7 +8374,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03100.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "finansiering": 1
+    }
   },
   {
     "id": "HC0399",
@@ -7278,8 +8391,9 @@
       "riksdagen"
     ],
     "relevans": {
-      "bil": 1,
-      "glesbygd": 1
+      "glesbygd": 1,
+      "otrygg": 1,
+      "varnpliktig": 1
     }
   },
   {
@@ -7292,7 +8406,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC0398.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "b_konsult": 3
+    }
   },
   {
     "id": "HC03158",
@@ -7318,7 +8435,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1
+      "b_bygg": 1,
+      "bygger": 1
     }
   },
   {
@@ -7331,7 +8449,12 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03154.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "b_finans": 1,
+      "b_kultur": 1,
+      "tillstand": 1
+    }
   },
   {
     "id": "HC03153",
@@ -7345,8 +8468,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "bil": 1,
+      "b_bygg": 1,
+      "infrastruktur": 2,
       "glesbygd": 1,
+      "batagare": 1,
       "klimat": 1
     }
   },
@@ -7374,7 +8499,9 @@
       "riksdagen"
     ],
     "relevans": {
-      "jagare": 1
+      "export": 3,
+      "infrastruktur": 1,
+      "batagare": 1
     }
   },
   {
@@ -7389,9 +8516,10 @@
       "riksdagen"
     ],
     "relevans": {
+      "b_fastighet": 1,
       "pensionar": 1,
-      "foretagare": 3,
-      "kollektiv": 1
+      "sparare": 3,
+      "pensionssparare": 3
     }
   },
   {
@@ -7406,8 +8534,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "kollektiv": 1,
-      "halsa": 3
+      "arbetsgivare": 1,
+      "b_vard": 1,
+      "b_life": 1,
+      "regelborda": 3,
+      "kronisk": 2,
+      "konsument": 1
     }
   },
   {
@@ -7447,7 +8579,12 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03127.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "b_handel": 1,
+      "infrastruktur": 1,
+      "batagare": 1
+    }
   },
   {
     "id": "HC03150",
@@ -7461,9 +8598,13 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1,
-      "kollektiv": 1,
-      "klimat": 1
+      "b_bygg": 1,
+      "b_finans": 3,
+      "b_energi": 1,
+      "bolagsskatt": 1,
+      "finansiering": 3,
+      "energiintensiv": 1,
+      "energikund": 1
     }
   },
   {
@@ -7479,8 +8620,9 @@
     ],
     "relevans": {
       "barn": 1,
-      "pensionar": 3,
-      "funktion": 1
+      "funktion": 1,
+      "psykisk": 1,
+      "varnpliktig": 1
     }
   },
   {
@@ -7493,7 +8635,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03148.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "infrastruktur": 3,
+      "batagare": 3
+    }
   },
   {
     "id": "HC03121",
@@ -7507,7 +8653,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1
+      "b_it": 1,
+      "gdpr": 3
     }
   },
   {
@@ -7522,7 +8669,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "arbetssokande": 3
+      "b_utbildning": 1,
+      "gdpr": 1,
+      "arbetssokande": 3,
+      "vuxenstudier": 1,
+      "integritet": 1
     }
   },
   {
@@ -7537,8 +8688,11 @@
       "riksdagen"
     ],
     "relevans": {
+      "arbetsmiljo": 1,
       "barn": 3,
-      "lontagare": 1
+      "gravid": 1,
+      "hbtq": 1,
+      "foraldraledig": 1
     }
   },
   {
@@ -7553,6 +8707,7 @@
       "riksdagen"
     ],
     "relevans": {
+      "b_bygg": 1,
       "klimat": 1
     }
   },
@@ -7568,8 +8723,11 @@
       "riksdagen"
     ],
     "relevans": {
+      "arbetsgivare": 2,
+      "b_fastighet": 1,
       "barn": 1,
-      "halsa": 1
+      "kronisk": 1,
+      "offentliganstalld": 3
     }
   },
   {
@@ -7584,8 +8742,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "barn": 1,
-      "lontagare": 3
+      "arbetsgivare": 3,
+      "arbetsratt": 3
     }
   },
   {
@@ -7600,7 +8758,13 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1
+      "b_handel": 3,
+      "b_finans": 3,
+      "infrastruktur": 1,
+      "sparare": 1,
+      "lantagare": 2,
+      "skuldsatt": 1,
+      "batagare": 1
     }
   },
   {
@@ -7615,7 +8779,7 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 3
+      "immaterialratt": 1
     }
   },
   {
@@ -7630,6 +8794,11 @@
       "riksdagen"
     ],
     "relevans": {
+      "b_bygg": 2,
+      "b_grona": 1,
+      "tillstand": 1,
+      "miljo": 1,
+      "fiske": 1,
       "klimat": 1
     }
   },
@@ -7645,7 +8814,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 3
+      "aktiebolag": 1,
+      "konkurs": 3,
+      "regelborda": 1,
+      "sparare": 1,
+      "skuldsatt": 1
     }
   },
   {
@@ -7660,7 +8833,9 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1
+      "b_finans": 3,
+      "beroende": 3,
+      "otrygg": 1
     }
   },
   {
@@ -7675,8 +8850,10 @@
       "riksdagen"
     ],
     "relevans": {
+      "b_fastighet": 3,
       "pensionar": 1,
-      "kollektiv": 1
+      "sparare": 1,
+      "konsument": 1
     }
   },
   {
@@ -7691,7 +8868,10 @@
       "riksdagen"
     ],
     "relevans": {
+      "b_bygg": 3,
+      "b_utbildning": 1,
       "student": 2,
+      "vuxenstudier": 1,
       "funktion": 1
     }
   },
@@ -7707,8 +8887,11 @@
       "riksdagen"
     ],
     "relevans": {
+      "b_energi": 1,
+      "miljo": 1,
       "bil": 3,
-      "klimat": 3
+      "energikund": 2,
+      "klimat": 2
     }
   },
   {
@@ -7721,7 +8904,12 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03129.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "import": 1,
+      "beroende": 1,
+      "otrygg": 2
+    }
   },
   {
     "id": "HC03128",
@@ -7735,8 +8923,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "lontagare": 3,
-      "foretagare": 1
+      "arbetsgivare": 1,
+      "lontagare": 3
     }
   },
   {
@@ -7764,7 +8952,10 @@
     ],
     "relevans": {
       "barn": 1,
-      "kvinna": 1
+      "sambo_gift": 1,
+      "kvinna": 1,
+      "brottsoffer": 3,
+      "otrygg": 1
     }
   },
   {
@@ -7779,8 +8970,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "bil": 1,
-      "glesbygd": 2,
+      "arbetsratt": 1,
+      "miljo": 3,
+      "infrastruktur": 1,
+      "glesbygd": 1,
+      "konsument": 1,
       "klimat": 3
     }
   },
@@ -7808,7 +9002,7 @@
       "riksdagen"
     ],
     "relevans": {
-      "kollektiv": 1,
+      "b_energi": 2,
       "klimat": 1
     }
   },
@@ -7860,8 +9054,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "kollektiv": 1,
-      "halsa": 3
+      "b_life": 3,
+      "kronisk": 3,
+      "beroende": 1,
+      "konsument": 1
     }
   },
   {
@@ -7876,8 +9072,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1,
-      "student": 3
+      "konkurs": 1,
+      "student": 1,
+      "lantagare": 1,
+      "skuldsatt": 2
     }
   },
   {
@@ -7892,8 +9090,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1,
-      "bil": 1,
+      "b_transport": 1,
+      "flygresenar": 1,
       "klimat": 1
     }
   },
@@ -7910,7 +9108,8 @@
     ],
     "relevans": {
       "student": 3,
-      "ny_i_sverige": 2
+      "ny_i_sverige": 1,
+      "asyl": 1
     }
   },
   {
@@ -7925,8 +9124,9 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 3,
-      "klimat": 1
+      "b_transport": 1,
+      "b_energi": 1,
+      "energikund": 1
     }
   },
   {
@@ -7956,7 +9156,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "lontagare": 1
+      "arbetsgivare": 1,
+      "arbetsmiljo": 1,
+      "lokaler": 1,
+      "bredbandsberoende": 3
     }
   },
   {
@@ -7969,7 +9172,12 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03126.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "tillstand": 1,
+      "import": 1,
+      "otrygg": 1
+    }
   },
   {
     "id": "HC03115",
@@ -7993,7 +9201,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03113.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "b_transport": 2
+    }
   },
   {
     "id": "HC03111",
@@ -8007,9 +9218,11 @@
       "riksdagen"
     ],
     "relevans": {
+      "ung": 1,
       "pensionar": 1,
-      "kollektiv": 1,
-      "funktion": 1
+      "sjukskriven": 1,
+      "otrygg": 1,
+      "domd": 3
     }
   },
   {
@@ -8024,7 +9237,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1
+      "aktiebolag": 1,
+      "b_finans": 2,
+      "tillstand": 1,
+      "sparare": 1
     }
   },
   {
@@ -8037,7 +9253,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03108.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "immaterialratt": 2
+    }
   },
   {
     "id": "HC03104",
@@ -8049,7 +9268,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03104.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "skuldsatt": 1,
+      "domd": 1
+    }
   },
   {
     "id": "HC03105",
@@ -8063,7 +9286,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1
+      "b_finans": 1,
+      "regelborda": 3
     }
   },
   {
@@ -8094,8 +9318,9 @@
       "ksau"
     ],
     "relevans": {
-      "foretagare": 1,
-      "bil": 1,
+      "b_bygg": 1,
+      "mark_bygglov": 1,
+      "bygger": 1,
       "glesbygd": 1,
       "klimat": 1
     }
@@ -8112,10 +9337,14 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1,
-      "bostadsagare": 3,
-      "kollektiv": 1,
-      "glesbygd": 3,
+      "b_bygg": 1,
+      "b_grona": 2,
+      "tillstand": 1,
+      "miljo": 1,
+      "mark_bygglov": 1,
+      "bygger": 3,
+      "glesbygd": 1,
+      "fiske": 1,
       "klimat": 1
     }
   },
@@ -8131,7 +9360,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 2,
+      "b_bygg": 1,
+      "mindre_ort": 1,
       "klimat": 2
     }
   },
@@ -8147,7 +9377,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "kollektiv": 3,
+      "b_transport": 3,
+      "arbetsratt": 1,
+      "miljo": 3,
+      "infrastruktur": 1,
+      "batagare": 1,
       "klimat": 3
     }
   },
@@ -8175,8 +9409,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "klimat": 1,
-      "halsa": 3
+      "b_finans": 1,
+      "b_konsult": 3,
+      "finansiering": 3,
+      "kronisk": 3,
+      "klimat": 1
     }
   },
   {
@@ -8191,8 +9428,7 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1,
-      "halsa": 1
+      "kronisk": 1
     }
   },
   {
@@ -8207,8 +9443,14 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 3,
-      "klimat": 1
+      "b_energi": 1,
+      "punktskatt": 3,
+      "konkurs": 3,
+      "tillstand": 1,
+      "miljo": 1,
+      "beroende": 1,
+      "lantagare": 1,
+      "energikund": 1
     }
   },
   {
@@ -8223,7 +9465,9 @@
       "riksdagen"
     ],
     "relevans": {
-      "ny_i_sverige": 2
+      "arbetskraft_inv": 1,
+      "asyl": 1,
+      "arbetstillstand": 1
     }
   },
   {
@@ -8236,7 +9480,12 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC0388.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "b_fastighet": 1,
+      "gdpr": 3,
+      "integritet": 2
+    }
   },
   {
     "id": "HC0380",
@@ -8250,8 +9499,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "lontagare": 1,
-      "halsa": 3
+      "arbetsgivare": 1,
+      "arbetsmiljo": 1,
+      "kronisk": 3,
+      "fortroendevald": 3
     }
   },
   {
@@ -8266,6 +9517,9 @@
       "riksdagen"
     ],
     "relevans": {
+      "b_grona": 1,
+      "fiske": 1,
+      "friluftsliv": 1,
       "klimat": 2
     }
   },
@@ -8281,7 +9535,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1
+      "b_industri": 3,
+      "b_besok": 3,
+      "tillstand": 1,
+      "beroende": 3
     }
   },
   {
@@ -8296,6 +9553,10 @@
       "riksdagen"
     ],
     "relevans": {
+      "b_industri": 3,
+      "b_energi": 1,
+      "gron_omstallning": 3,
+      "energikund": 1,
       "klimat": 3
     }
   },
@@ -8311,7 +9572,7 @@
       "riksdagen"
     ],
     "relevans": {
-      "kollektiv": 1
+      "psykisk": 3
     }
   },
   {
@@ -8326,7 +9587,9 @@
       "riksdagen"
     ],
     "relevans": {
-      "barn": 2,
+      "barn": 1,
+      "ensam_foralder": 3,
+      "stor_familj": 1,
       "hyresgast": 3
     }
   },
@@ -8342,7 +9605,9 @@
       "riksdagen"
     ],
     "relevans": {
-      "pensionar": 1
+      "b_finans": 1,
+      "pensionar": 1,
+      "sjukskriven": 1
     }
   },
   {
@@ -8374,7 +9639,9 @@
       "samhallsbyggnadsutskottet"
     ],
     "relevans": {
-      "barn": 1
+      "b_bygg": 1,
+      "barn": 1,
+      "konsument": 2
     }
   }
 ]

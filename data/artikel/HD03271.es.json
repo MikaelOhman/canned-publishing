@@ -12,8 +12,9 @@
   "tldr": "La ley del aborto se moderniza. Se aclara que una mujer embarazada puede abortar hasta la semana 18 de gestación, que el aborto debe proporcionarse de manera urgente, y se elimina el requisito de que el aborto deba realizarse en un hospital, lo que permite interrumpir un embarazo temprano en casa con medicamentos. La ley se adapta al avance de la medicina.",
   "lattlast": "<p>El gobierno propone modificaciones a la ley del aborto de 1974. El objetivo es modernizar el lenguaje y adaptar la ley a la medicina actual y a las necesidades de las mujeres embarazadas.</p><p>Se aclara que el aborto puede realizarse hasta la semana 18 de embarazo, y que el aborto debe ofrecerse de manera rápida. El aborto podrá realizarse en hospitales u otros centros de atención médica autorizados.</p><p>Se elimina el requisito de que el aborto deba realizarse en un hospital. Esto abre la posibilidad de que un aborto temprano se pueda realizar en casa con medicamentos, y permite un uso más flexible de los medicamentos para el aborto.</p>",
   "relevans": {
+    "b_life": 1,
+    "gravid": 2,
     "kvinna": 3,
-    "kollektiv": 1,
-    "halsa": 2
+    "kronisk": 2
   }
 }

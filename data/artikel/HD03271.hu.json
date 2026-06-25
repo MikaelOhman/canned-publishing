@@ -12,8 +12,9 @@
   "tldr": "A megszakítási törvényt modernizálják. Egyértelműsíti, hogy egy terhes nő a terhesség 18. hetéig jogosult a terhesség megszakítására, hogy a megszakítást sürgősen kell elvégezni, és eltörölték a követelményt, hogy a beavatkozás kórházban történjen – ez lehetővé teszi, hogy egy korai terhességet gyógyszerekkel otthon lehessen megszakítani. A törvényt a tudományos fejlődéshez igazítják.",
   "lattlast": "<p>A kormány 1974-ből származó aborttörvény módosítását javasolja. A cél a nyelv modernizálása, valamint a törvény igazítása a mai orvostudományhoz és a terhes nők igényeihez.</p><p>Egyértelművé teszik, hogy az abort lehető, a terhesség 18. hetéig, és hogy az abortot gyorsan kell biztosítani. Az abortot kórházban vagy más, erre jogosult egészségügyi intézményben lehet elvégezni.</p><p>Eltörölték a követelményt, hogy az abortot kórházban kell elvégezni. Ez lehetővé teszi, hogy a korai abortot gyógyszerekkel otthon végezhessék, valamint a terhes szakasz-megszakító gyógyszerek rugalmasabb alkalmazását teszi lehetővé.</p>",
   "relevans": {
+    "b_life": 1,
+    "gravid": 2,
     "kvinna": 3,
-    "kollektiv": 1,
-    "halsa": 2
+    "kronisk": 2
   }
 }

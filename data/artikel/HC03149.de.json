@@ -12,7 +12,11 @@
   "tldr": "Die Regierung arbeitet daran, die Kontrolle von Medizinprodukten, wie beispielsweise medizinischen Geräten, zu verbessern. Sie prüft derzeit, ob die Verantwortlichkeiten für bestimmte Produkte verlagert werden sollen, um die Kontrolle sicherer und transparenter zu gestalten.",
   "lattlast": "<p>Das Riksrevisionen (Rechnungshof) hat eine Prüfung durchgeführt, wie der Staat die Kontrolle von Medizinprodukten ausübt. Dabei wurden Verbesserungspotenziale identifiziert und Vorschläge zur Optimierung der Arbeitsweise erarbeitet. Die Regierung hat diese Vorschläge erhalten und begonnen, Änderungen umzusetzen.</p><p>Die Regierung hat zwei wichtige Behörden mit der Aufgabe betraut: das Läkemedelsverket (Arzneimittelbehörde) und die Inspektionen för vård och omsorg (IVO, Aufsichtsbehörde für Gesundheits- und Sozialwesen). Es wird derzeit geprüft, ob die Zuständigkeit für Produkte, die selbst hergestellt werden, von der IVO auf das Läkemedelsverket übertragen werden soll. Ziel ist es, die Kontrolle dieser Produkte effizienter zu gestalten.</p><p>Das Läkemedelsverket soll außerdem prüfen, wie die Gebühren für seine Tätigkeiten erhoben werden. Darüber hinaus soll die Behörde sicherstellen, dass Personen, die mit Medizinprodukten arbeiten, sowie Mitarbeiter im Gesundheits- und Sozialwesen, bessere Informationen über die geltenden Vorschriften erhalten. Dies soll dazu beitragen, dass alle die Gesetze zur sicheren Verwendung von Geräten einhalten.</p>",
   "relevans": {
-    "kollektiv": 1,
-    "halsa": 3
+    "arbetsgivare": 1,
+    "b_vard": 1,
+    "b_life": 1,
+    "regelborda": 3,
+    "kronisk": 2,
+    "konsument": 1
   }
 }

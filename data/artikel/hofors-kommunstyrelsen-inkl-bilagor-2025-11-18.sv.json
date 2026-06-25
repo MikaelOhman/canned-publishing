@@ -13,9 +13,12 @@
   "tldr": "Kommunstyrelsen i Hofors har hållit ett möte den 18 november 2025. De har diskuterat viktiga frågor som arbetstider för personer med stöd (LSS), nya avgifter för olika tjänster och förslag från medborgare om förbättringar i kommunen.",
   "lattlast": "<p>Kommunstyrelsen i Hofor har gått igenom flera viktiga ärenden. Bland annat har de tagit emot en rapport om hur arbetstiderna ser ut för personer som har stöd enligt LSS, vilket är en lag som ger stöd till personer med vissa funktionsnedsättningar. Tidigare hade man gjort undantag från reglerna om vila, och nu har man fått information om hur arbetet fortskrider för att följa reglerna om vila.</p><p>Det har även diskuterats olika avgifter och taxor som påverkar invånarna. Detta gäller till exempel kostnader för tillsyn av miljö och hälsa, samt regler för livsmedel. Även avgifter för färdtjänst, som är en transporttjänst för de som har svårt att resa på egen hand, har diskuterats.</p><p>Flera förslag från medborgare har tagits upp på mötet. Det handlar bland annat om ett förslag om att införa sandhus och ett annat förslag om att skapa en speciell gångväg, så kallad sparkgång, på trottoarer. Syftet med sådana förslag är ofta att göra kommunen säkrare eller trevligare att leva i.</p><p>Mötet innehöll även information om ekonomi och framtida planer. Man har bland annat tittat på hur elnätet ska skötas av företaget Gävle Energi Elnät AB och diskuterat möjligheten för vindkraft på land och i havet. Dessutom har man pratat om hur kommunens ekonomi och stöd till politiska partier ska se ut under år 2026.</p>",
   "relevans": {
-    "foretagare": 1,
-    "kollektiv": 1,
-    "klimat": 2,
-    "funktion": 3
+    "b_transport": 1,
+    "b_energi": 3,
+    "regelborda": 1,
+    "funktion": 3,
+    "energikund": 1,
+    "konsument": 1,
+    "klimat": 1
   }
 }

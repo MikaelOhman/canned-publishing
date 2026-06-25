@@ -15,8 +15,11 @@
   "tldr": "Komisja transportu w Sztokholmie odpowiedziała na pytania dotyczące terminalu autobusowego w Slussen, przetwarzania danych osobowych oraz zmian w transporcie publicznym.",
   "lattlast": "<p>Zarząd miasta przekazał odpowiedź do Sądu Administracyjnego w Sztokholmie. Dotyczy ona kontroli wcześniejszej decyzji o sprzedaży nieruchomości przy terminalu autobusowym w Slussen.</p><p>Miasto odpowiedziało również na propozycję Rady ds. Zapobiegania Przestępczości. Propozycja dotyczy zmiany przepisów dotyczących wykorzystywania danych osobowych oraz zasad poufności.</p><p>Podjęto również decyzję w sprawie zmian w transporcie publicznym oferowanym przez SL i WÅAB w latach 2026/2027. Była to odpowiedź na komunikat Regionu Sztokholm dotyczący planowanych zmian w transporcie publicznym.</p><p>Członkowie partii Moderaterna i Liberalerna złożyli odrębne oświadczenie w sprawie transportu publicznego. Wyrażyli w nim swoje własne opinie na temat planowanych zmian w transporcie publicznym.</p>",
   "relevans": {
+    "b_fastighet": 2,
+    "gdpr": 1,
+    "pendlare": 1,
     "kollektiv": 2,
-    "storstad": 1,
-    "halsa": 1
+    "kronisk": 1,
+    "integritet": 1
   }
 }

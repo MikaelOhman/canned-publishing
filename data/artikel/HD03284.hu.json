@@ -12,7 +12,12 @@
   "tldr": "A Riksrevisionen (Svéd Számvevőszék) jelentős hiányosságokat talált a Migrationsverket (Migrációs Hivatal) által alkalmazott munkavállalási engedélyekkel kapcsolatos ellenőrzési gyakorlatokban. Nagy a kockázata annak, hogy a munkavállalási engedélyekkel kapcsolatos hibák és csalások nem kerülnek feltárásra, ami munkahelyi bűncselekményekhez vezethet.",
   "lattlast": "<p>A Riksrevisionen egy olyan szerv, amely ellenőrzi, hogy más szervek hogyan működnek. Vizsgálatot indítottak annak érdekében, hogy megvizsgálják, a Migrationsverket (bevándorlási hatóság) munkavállalói engedélyekkel kapcsolatos ellenőrzései megfelelően működnek-e. Az eredmények azt mutatják, hogy az ellenőrzések nem elégségesek a csalások és visszaélések megakadályozására.</p><p>A problémák mind a új munkavállalói engedély iránti kérelmek, mind pedig a már meglévő engedélyekkel kapcsolatos ellenőrzések során jelentkeznek. A Riksrevision úgy véli, hogy ez a helyzet a munkavállalók kizsákmányolásához vezethet, és tisztességtelen versenyhelyzetet teremthet a vállalatok között. Emellett fennáll a kockázata, hogy a munkába való visszaélések száma növekszik.</p><p>Egy jelentős probléma, hogy a Migrationsverket munkavállalói engedélyeket ad ki olyan munkáltatóknak, amelyeket a hatóság korábban már megbízhatatlannak jelölt. A beérkezett új kérelmeket nem vizsgálják eléggé alaposan. Ezenkívül a felülvizsgálatok, azaz az engedély kiadása utáni ellenőrzések túl gyengék ahhoz, hogy feltárják a hibákat.</p><p>A kormány egyetért a kritikával, és szeretné megelőzni a munkavállalói engedélyekkel kapcsolatos csalásokat. A kormány most felkérte a Migrationsverket, hogy erősebbé tegye az ellenőrzéseit. A szervnek világos követelményeket szabtak, hogy jelentésben számoljon be arról, hogyan dolgozik a szabályok visszaéléseinek megakadályozására.</p>",
   "relevans": {
-    "foretagare": 1,
-    "ny_i_sverige": 3
+    "arbetsgivare": 1,
+    "arbetskraft_inv": 3,
+    "tillstand": 1,
+    "konkurrens": 1,
+    "beroende": 3,
+    "asyl": 3,
+    "arbetstillstand": 3
   }
 }

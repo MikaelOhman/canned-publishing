@@ -12,7 +12,8 @@
   "tldr": "Schweden setzt eine EU-Richtlinie zu sogenannten intelligenten Verkehrssystemen im Straßenverkehr um. Eine größere Vielfalt an Verkehrsdaten und digitalen Diensten soll in maschinenlesbarer Form über einen nationalen Zugangspunkt verfügbar gemacht werden, damit sie innerhalb der gesamten Europäischen Union genutzt werden können.",
   "lattlast": "<p>Intelligente Transportsystem sind digitale Dienste und Daten, die dazu verwendet werden, den Straßenverkehr intelligenter und sicherer zu machen – beispielsweise durch Echtzeitinformationen über Verkehr und Straßen.</p><p>Die Regierung schlägt Änderungen im schwedischen Gesetz vor, um eine EU-Richtlinie umzusetzen. Diese Änderungen erweitern die Arten von Daten und Diensten, die davon betroffen sind.</p><p>Die Daten sollen in einem maschinenlesbaren Format über einen nationalen Zugangspunkt verfügbar gemacht werden und bestimmte geografische Gebiete zu festgelegten Zeiten abdecken, damit die Dienste innerhalb der gesamten EU funktionieren können.</p>",
   "relevans": {
-    "bil": 1,
+    "b_transport": 3,
+    "eu_marknad": 1,
     "glesbygd": 1
   }
 }

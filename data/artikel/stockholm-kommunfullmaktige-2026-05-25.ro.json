@@ -13,10 +13,18 @@
   "tldr": "Primăria orașului Stockholm a luat numeroase decizii referitoare la noi proiecte de construcție, parcuri și zone naturale protejate. Aceste decizii includ construirea de noi locuințe, realizarea de noi drumuri și protejarea naturii în diverse zone ale orașului.",
   "lattlast": "<p>Primăria Stockholmului a aprobat mai multe proiecte majore de construcție. Vor fi construite locuințe noi în Aspudden, precum și centre de îngrijire pentru vârstnici în Bagarmossen și Gröndal. De asemenea, există planuri pentru construirea unui nou sediu administrativ în Järva și pentru dezvoltarea zonei de promenadă de pe malul canalului Karlberg.</p><p>În ceea ce privește transportul și infrastructura, au fost aprobate lucrări ample pe partea vestică a podurilor Liljeholmsbron. De asemenea, există planuri pentru construirea unui nou depou de metrou în zona industrială Älvsjö. Pentru a facilita accesul vizitatorilor în timpul Cupei Mondiale de fotbal 202lag, au fost stabilite, de asemenea, reguli temporare privind durata de timp în care restaurantele și barurile pot servi băuturi alcoolice.</p><p>În mai multe zone ale orașului, se vor implementa măsuri de protecție a naturii. Mai multe zone vor deveni zone de protecție a habitatelor, ceea ce înseamnă că natura din acele zone va fi protejată. Aceste zone includ Hemskogen, Vikingaberget, Gökdalen și Åkeslund. De asemenea, a fost decisă crearea unei noi rezervații naturale în zona Kyrkhamn-Riddersviks.</p><p>Primăria a încheiat, de asemenea, diverse tranzacții și acorduri. Acestea includ achiziționarea de acțiuni în Kista Utveckling AB și achiziționarea de reduceri de emisii pentru a contribui la protecția climei. De asemenea, a fost semnat un acord pentru construirea Centrului Nobel în Södermalm.</p>",
   "relevans": {
-    "bil": 1,
+    "b_industri": 1,
+    "b_bygg": 1,
+    "b_besok": 1,
+    "b_fastighet": 1,
+    "miljo": 1,
     "glesbygd": 1,
     "storstad": 1,
+    "kronisk": 1,
+    "beroende": 1,
+    "sparare": 1,
+    "friluftsliv": 1,
     "klimat": 2,
-    "halsa": 1
+    "fortroendevald": 1
   }
 }

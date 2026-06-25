@@ -12,8 +12,8 @@
   "tldr": "A kormány szeretné módosítani a vadászat szabályait annak érdekében, hogy egyszerűbbé tegye a vadászatot és a vadállatok védelmét. A javaslat többek között azt is tartalmazza, hogy könnyebb legyen a vízben vadászni, valamint hogy védve legyenek a személyes adatok a nagyméretű ragadozó állatok vadászata során.",
   "lattlast": "<p>A kormány javaslatot terjesztett be a vadászatról szóló törvény módosítására. A cél az, hogy egyszerűbbé tegyék a vadászatot, és összhangba hozzák azt az EU szabályozásával. Egy fontos része a javaslatnak, hogy könnyebbé váljon a vadállatok védelmére és megőrzésére irányuló tevékenységek végzése, például állatok vizsgálata vagy jelölése mások földjén.</p><p>Emellett a vadászok számára is egyszerűbb lesz a vadászat a közvízeken, például a tavakon és tengereken, amelyek nem tartoznak egyetlen magánszemély tulajdonába, amennyiben előzetes bejelentést tesznek. A kormány azt is szeretné, hogy engedélyezzék a fókavadászatot Svédország gazdasági övezetében, amely az a tengeri terület, amelyen Svédország gyakorolja a szuverenitást. A fókavadászat esetében is szükséges a bejelentés.</p><p>Annak érdekében, hogy megvédjék azokat a személyeket, akik a nagy ragadozókat, például farkasokat vagy medvéket érintő vadászati tevékenységekhez kapcsolódnak, a kormány egy új titoktartási szabályt szeretne bevezetni. Ez azt jelenti, hogy a hatóságok nem adhatnak ki olyan információkat, amelyek kiadnák egy személy kilétét. Ezt azért teszik, hogy megakadályozzák, hogy személyek vagy azok családtagjai szembesüljenek fenyegetéssel vagy erőszakkal.</p><p>Ha a parlament elfogadja az összes javaslatot, az új szabályok 2026. július 1-jén lépnek hatályba.</p>",
   "relevans": {
-    "kollektiv": 1,
+    "gdpr": 1,
     "jagare": 3,
-    "ny_i_sverige": 1
+    "integritet": 1
   }
 }

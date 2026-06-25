@@ -13,6 +13,11 @@
   "tldr": "Komisja wyborcza w Strömstad przygotowuje się do wyborów w 2026 roku, analizując kwestie bezpieczeństwa, transportu głosów oraz dostępności lokali wyborczych. Dwie osoby otrzymały specjalne zadanie związane z obsługą głosów oddawanych przez osoby, których dane osobowe są chronione.",
   "lattlast": "<p>Komisja wyborcza przeanalizowała plany dotyczące nadchodzących wyborów. Sprawdziła kwestie bezpieczeństwa oraz sposób transportu głosów do urzędu wojewódzkiego dzień po wyborach, które odbędą się 14 września 2026 roku. Transport głosów odbędzie się w taki sam sposób, jak w poprzednich wyborach.</p><p>Komisja sprawdziła również wszystkie lokal wyborcze. Zbadano, czy lokalizacje są bezpieczne i czy są dostępne dla osób z trudnościami w poruszaniu się, w tym dla osób korzystających z wózków inwalidzkich. Wszystkie lokalizacje w Strömstad spełniają te wymagania.</p><p>W celu ochrony osób, których dane osobowe są objęte szczególną ochroną, komisja wytypowała dwie osoby: Jessicę Corneliusson i Ulrikę Haugland. Otrzymały one specjalne uprawnienia w systemie wyborczym, oznaczone jako L-SKYAD. Oznacza to, że mają one prawo do bezpiecznego przetwarzania i rejestrowania głosów oddanych przez wyborców, których dane są objęte szczególną ochroną.</p><p>Przedstawiono również informacje dotyczące potencjalnych zagrożeń związanych z wyborami oraz planowane spotkanie z audytorami, którzy kontrolują, czy gmina prawidłowo wykonuje swoje obowiązki. Komisja omówiła również przepisy dotyczące rekrutacji osób do pracy w komisjach wyborczych oraz wpływ czynników zewnętrznych na przebieg wyborów.</p>",
   "relevans": {
-    "funktion": 1
+    "b_transport": 1,
+    "kompetens": 1,
+    "gdpr": 1,
+    "lokaler": 1,
+    "funktion": 1,
+    "integritet": 1
   }
 }

@@ -12,11 +12,16 @@
   "tldr": "A kormány új pénzügyi forrásokat javasol a 2026-os költségvetésbe, hogy segítséget nyújtson Ukrajnának katonai felszerelésekkel, valamint hogy támogatást nyújtson a svéd háztartásoknak és vállalkozásoknak a magas energia- és üzemanyagárak miatt.",
   "lattlast": "<p>A kormány több katonai felszerelést szeretne Ukrajnába küldeni a háború miatt. Ez magában foglalja a Gripen típusú harci repülőgépek, valamint a haditengerészeti felszerelések szállítását. A kormány emellett szeretné, ha több modern Gripen repülőgépet is értékesíteni tudna Ukrajnának, hogy megerősítse azok védelmi képességeit.</p><p>Ahhoz, hogy segítsen a svéd embereknek és vállalatoknak, a kormány javasolja a benzin és a dízel üzemanyagokra kivetett adó csökkentését a 2026-os év egy részében. Ezt azért teszik, hogy kezeljék az üzemanyagok magas árait, amelyek a közel-keleti háború miatt alakultak ki. Emellett javaslatok vannak a mezőgazdaság és a légiközlekedés támogatására.</p><p>A magánszemélyek számára a kormány több pénzt szeretne fordítani az energiaszubsztenciákra. Ez segít abban, hogy alacsonyan tartsák az elektromos áram és a gáz költségeit. Tervezik egy ún. &quot;magas költségű védelem&quot; bevezetését, ami azt jelenti, hogy egy felső határt határoznának meg arra, hogy az elektromos áram és a gáz mennyire lehet drága.</p><p>Végül a kormány javasolja, hogy több pénzt fordítsanak a tömegközlekedésre, hogy segítsék a kedvezményes árak fenntartását az utazóknak. Ezekkel a költségvetési változásokkal az állam arra törekszik, hogy kezelje a bizonytalan időket és a magas költségeket, amelyeket az ukrajnai és a közel-keleti háborúk okoztak.</p>",
   "relevans": {
-    "foretagare": 1,
-    "bil": 3,
+    "b_transport": 1,
+    "b_grona": 1,
+    "b_energi": 1,
+    "pendlare": 1,
+    "bil": 2,
     "kollektiv": 1,
-    "storstad": 1,
-    "klimat": 1,
-    "halsa": 1
+    "flygresenar": 1,
+    "kronisk": 1,
+    "energikund": 2,
+    "konsument": 1,
+    "varnpliktig": 1
   }
 }

@@ -13,9 +13,13 @@
   "tldr": "La junta de gobierno municipal de Ånge celebró una reunión en la que revisó informes económicos y planes para el futuro. Entre los temas más importantes tratados, se tomaron decisiones sobre la venta de terrenos, las normas de aparcamiento y la construcción de nuevas áreas de juego.",
   "lattlast": "<p>La junta de gobierno municipal de Ånge discutió varios temas importantes relacionados con la economía y el desarrollo del municipio. Revisaron informes económicos y planes para el presupuesto de los próximos años, así como la situación de la deuda y las necesidades de financiación del municipio.</p><p>En cuanto a la construcción y el terreno, se tomó la decisión de vender terrenos a la empresa Ellevio. También se discutió cómo se desarrollará la zona industrial de Mallberget y cómo se gestionarán los aparcamientos para los que se desplazan diariamente.</p><p>Para los residentes, se tomó la decisión de construir un nuevo parque infantil en Fränsta, y se aprobaron los fondos necesarios para ello. También hay planes para investigar las posibilidades de desarrollo de Parkbacken, y se están llevando a cabo discusiones sobre el cierre del centro de atención residencial Älvgården.</p><p>La reunión también incluyó la revisión de diferentes informes anuales de empresas y organizaciones con las que el municipio está vinculado, como Ångefallen Kraft AB y la Autoridad de Transporte Público de Västernorrland.</p>",
   "relevans": {
-    "foretagare": 1,
+    "b_industri": 1,
+    "b_bygg": 1,
+    "redovisning": 1,
+    "mark_bygglov": 1,
+    "pendlare": 1,
     "bil": 1,
     "kollektiv": 1,
-    "storstad": 1
+    "lantagare": 1
   }
 }

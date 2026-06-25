@@ -12,8 +12,8 @@
   "tldr": "Regeringen vill ändra reglerna för jakt för att göra det enklare att jaga och skydda vilt. Förslaget innebär bland annat att det ska bli lättare att jaga på vatten och att skydda personuppgifter vid jakt på stora rovdjur.",
   "lattlast": "<p>Regeringen har gjort ett förslag om att ändra jaktlagen. Syftet är att göra det enklare att jaga och att följa de regler som finns inom EU. En viktig del är att det ska bli lättare att utföra arbete för att skydda och bevara vilt, till exempel genom att undersöka eller märka djur på någon annans mark.</p><p>Det blir också enklare för jägare att jaga på allmänt vatten, som till exempel sjöar och hav som inte ägs av någon privatperson, om man gör en anmälan först. Regeringen vill också att det ska vara tillåtet att jaga säl i Sveriges ekonomiska zon, vilket är det område i havet som Sverige har kontroll över. Även för säljakt krävs en anmälan.</p><p>För att skydda människor som är involverade i jakt på stora rovdjur, som varg eller björn, vill regeringen införa en ny regel om sekretess. Det betyder att myndigheter inte får berätta uppgifter som kan avslöja vem en person är. Detta görs för att förhindra att personer eller deras anhöriga utsätts för hot eller våld.</p><p>Om alla förslag blir godkända av riksdagen kommer de nya reglerna att börja gälla den 1 juli 2026.</p>",
   "relevans": {
-    "kollektiv": 1,
+    "gdpr": 1,
     "jagare": 3,
-    "ny_i_sverige": 1
+    "integritet": 1
   }
 }

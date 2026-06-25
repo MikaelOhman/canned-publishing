@@ -12,6 +12,10 @@
   "tldr": "A kormány szeretné módosítani azokat a törvényeket, amelyek szabályozzák, hogy a Nemzeti Adóhatóság, a Vámhivatal és a Bírósági Végrehajtó Hivatal hogyan kezeli a személyes adatokat. A cél az, hogy a hatóságok modern technológiákat használhassanak a jogok és adók hatékonyabb ellenőrzésére, miközben a személyes adatok védelme továbbra is garantált.",
   "lattlast": "<p>A kormány egy javaslatot terjesztett elő, amelynek célja a személyes adatok kezelésére vonatkozó régebbi szabályok módosítása három nagy intézményben. Ez a javaslat a következő intézményeket érinti: a Nemzeti Adóhatóság (Skatteverket), a Vámhivatal (Tullverket) és a Bírósági Végrehajtó Hivatal (Kronofogdemyndigheten). Az új törvények lehetővé teszik az intézmények számára, hogy a mai technológiához igazodva, modern módon használják fel az információkat.</p><p>A javaslat emellett egyértelműsíti az intézmények jogát az adatelemzés alkalmazásához. Ez azt jelenti, hogy a számítógépes programokat felhasználva kereshetnek mintákat és válogathatnak az adatbázisaikban. Ez segíti őket abban, hogy hatékonyabban végezhessék el a feladataikat, például a adók vagy vámok terén elkövetett esetleges hibák felderítésében.</p><p>Annak ellenére, hogy az intézmények új eszközökhöz jutnak, a cél továbbra is az emberek magánéletének védelme. Az új törvények összhangban kell, hogy legyenek az EU adatvédelmi szabályozásával, amelyet GDPR-nak neveznek, annak érdekében, hogy a személyes adatok ne kerüljenek helytelen felhasználás alá. A törvények védik az egyént a személyes adatokkal való visszaélések ellen.</p><p>Ha a parlament megszavazza a javaslatot, az új szabályok 2026. április 2-án lépnek hatályba. A javaslat számos kisebb módosítást is tartalmaz más törvényekben, amelyek témakörükben mindent lefednek, az alkohol- és dohánytermékekre kivetett adóktól kezdve a népesség-nyilvántartási szabályokig, valamint a tanulmányi támogatással kapcsolatos rendelkezésekig.</p>",
   "relevans": {
-    "student": 1
+    "gdpr": 3,
+    "import": 3,
+    "beroende": 1,
+    "skuldsatt": 1,
+    "integritet": 2
   }
 }

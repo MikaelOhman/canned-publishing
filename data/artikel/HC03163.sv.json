@@ -12,7 +12,10 @@
   "tldr": "Regeringen vill ändra lagarna för att minska våldet med sprängmedel. Målet är att göra det svårare för kriminella att använda sprängämnen genom att ge myndigheten MSB mer kontroll och ansvar.",
   "lattlast": "<p>Eftersom det har blivit fler sprängdåd i Sverige vill regeringen skärpa reglerna för hur explosiva varor hanteras. Man vill stoppa att kriminella använder sprängmedel mot människor och bostäder. För att lyckas med detta föreslås nya regler som bör börja gälla den 15 juli 2025.</p><p>Myndigheten för samhällsskydd och beredskap, som ofta förkortas MSB, ska få en viktigare roll. MSB ska nu samordna arbetet som kommunerna gör när de ger tillstånd för sprängning. MSB ska också kontrollera att kommunerna gör sitt jobb rätt. Det ska också bli lättare att ta tillbaka tillstånd om det behövs.</p><p>De som har tillstånd att använda sprängämnen måste nu även anmäla när de använder eller förvarar varorna till kommunen. Om ett företag ska använda sprängämnen i flera olika kommuner ska bara en kommun sköta alla tillstånd. Dessutom ska information i dessa ärenden vara hemlig, så att kriminella inte kan få reda på var sprängämnen finns.</p><p>Det finns även regler för skjutning och vapen. Man får inte spränga eller skjuta med vapen i områden med detaljplan, som till exempel i städer, utan tillstånd från Polismyndigheten. Personer under 18 år får inte heller använda vissa typer av vapen utomhus utan tillstånd, om de inte har en vuxen över 20 år som ser på.</p>",
   "relevans": {
-    "foretagare": 1,
-    "jagare": 1
+    "tillstand": 3,
+    "regelborda": 3,
+    "mark_bygglov": 1,
+    "bygger": 1,
+    "otrygg": 1
   }
 }

@@ -15,8 +15,11 @@
   "tldr": "A stockholmi önkormányzat közlekedési bizottsága válaszolt a következő kérdésekre: a Slussen buszterminál, a személyes adatok kezelése és a tömegközlekedés változásai.",
   "lattlast": "<p>A stockholmi közigazgatási bírósághoz érkezett válasz a városi önkormányzat kommunális bizottságától. A válasz egy korábbi döntés ellenőrzésével kapcsolatos, amely szerint egy ingatlant értékesítenének a Slussen buszpályaudvarnál.</p><p>A város válaszolásra került egy a bűnmegelőzésért felelős tanácstól érkező javaslatra. A javaslat a személyes adatok felhasználásának és a titkosságnak a szabályait érintette.</p><p>Emellett döntést hoztak a SL és a WÅAB közlekedésében tervezett változásokról a 2026/2027-es évben. Ez a döntés válasz volt a Stockholmi Régiótól érkezett bejelentésre a tervezett közlekedési változásokról.</p><p>A Moderaterna és a Liberalerna pártok képviselői külön véleményt fogalmaztak meg a közlekedéssel kapcsolatban. Leírták saját álláspontjukat a tervezett tömegközlekedési változásokkal kapcsolatban.</p>",
   "relevans": {
+    "b_fastighet": 2,
+    "gdpr": 1,
+    "pendlare": 1,
     "kollektiv": 2,
-    "storstad": 1,
-    "halsa": 1
+    "kronisk": 1,
+    "integritet": 1
   }
 }

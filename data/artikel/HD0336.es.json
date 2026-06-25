@@ -12,6 +12,7 @@
   "tldr": "El gobierno quiere otorgar a la Guardia Costera más poder para detener delitos en el mar y modificar las normas sobre cómo manejan la información clasificada. La propuesta entrará en vigor el 1 de marzo de 2026.",
   "lattlast": "<p>El gobierno ha presentado una propuesta al parlamento para que la Guardia Costera pueda trabajar de manera más eficiente en la detección y prevención de delitos en el mar. Esto implica que la autoridad tendrá una misión más amplia para buscar y prevenir de forma independiente actividades ilegales relacionadas con su trabajo en el mar.</p><p>Para lograr esto de manera más efectiva, el gobierno propone nuevas normas sobre cómo se gestiona la información. Esto implica que cierta información en el registro de la Guardia Costera, llamado &quot;Sjöbasis&quot;, podrá ser confidencial. Esto se hace para proteger tanto al público como a las personas individuales.</p><p>También habrá normas más estrictas sobre cómo la Guardia Costera puede utilizar datos personales al realizar análisis de información. El objetivo es proteger la privacidad de las personas y los intereses importantes de la sociedad.</p><p>Si el parlamento aprueba la propuesta, las nuevas leyes entrarán en vigor a partir del 1 de marzo de 2026. La propuesta implica cambios en varias leyes diferentes, incluyendo la ley de la Guardia Costera y la ley de secreto.</p>",
   "relevans": {
-    "kollektiv": 3
+    "gdpr": 1,
+    "integritet": 1
   }
 }

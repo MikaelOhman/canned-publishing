@@ -13,6 +13,11 @@
   "tldr": "La comisión electoral de Strömstad se ha preparado para las elecciones de 2026 revisando la seguridad, el transporte de votos y la accesibilidad en los centros de votación. Dos personas han recibido la responsabilidad específica de gestionar los votos de personas con datos personales protegidos.",
   "lattlast": "<p>La comisión electoral ha revisado los planes para las próximas elecciones. Han analizado las medidas de seguridad y cómo se transportarán los votos a la administración regional el día después de las elecciones, el 14 de septiembre de 2026. Esto se realizará de la misma manera que en elecciones anteriores.</p><p>La comisión también ha inspeccionado todos los centros de votación. Se ha verificado que los locales sean seguros y accesibles para personas con movilidad reducida o que utilicen sillas de ruedas. Todos los locales de Strömstad cumplen con estos requisitos.</p><p>Para proteger a las personas con datos personales protegidos, la comisión ha seleccionado a dos personas, Jessica Corneliusson y Ulrika Haugland. Se les ha otorgado una autorización especial en el sistema electoral, denominada &quot;L-SKYAD&quot;. Esto les permite manejar y registrar de forma segura los votos anticipados de estos votantes.</p><p>También se proporcionó información sobre las posibles amenazas durante las elecciones y sobre una próxima reunión con los auditores, quienes son responsables de verificar que el municipio cumpla con sus obligaciones. La comisión también ha discutido las normas relativas a la contratación de personal electoral y la influencia externa en los centros de votación.</p>",
   "relevans": {
-    "funktion": 1
+    "b_transport": 1,
+    "kompetens": 1,
+    "gdpr": 1,
+    "lokaler": 1,
+    "funktion": 1,
+    "integritet": 1
   }
 }

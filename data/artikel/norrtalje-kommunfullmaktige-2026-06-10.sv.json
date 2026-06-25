@@ -13,7 +13,12 @@
   "tldr": "Länsstyrelsen har granskat överförmyndaren i Norrtälje och gett dem kritik. De har inte kontrollerat ekonomin tillräckligt noga när en god man har avslutat sitt uppdrag.",
   "lattlast": "<p>Länsstyrelsen i Stockholm har gjort en inspektion av överförmyndaren i Norrtälje kommun. Överförmyndaren är den myndighet som ska kontrollera att personer som har en god man eller förvaltare blir väl omhändertagna och att deras pengar används rätt.</p><p>Länsstyrelsen har gett överförmyndaren kritik för att de inte har granskat en sluträkning på ett bra sätt. Det handlar om ett ärende där en person hade en god man som inte gick att få tag på. Under den här tiden växte personens skulder från 280 000 kronor till nästan 379 000 kronor.</p><p>I den nya redovisningen från den tredje god mannen framkom det att pengar för barnens underhåll inte hade betalats ut. Det kom också fram att bostadsbidrag inte hade betalats tillbaka till Försäkringskassan. Länsstyrelsen tycker att överförmyndaren borde ha sett dessa fel och kontrollerat räkenskaperna mer noggrant.</p><p>Överförmyndarens jobb är att se till att pengar som används för en person används på rätt sätt, till exempel för personens boende och levnadskostnader. De ska kontrollera att inga pengar försvinner och att alla räkningar stämmer. Denna rapport visar att kontrollen i detta fall inte var tillräcklig.</p>",
   "relevans": {
+    "b_finans": 1,
+    "b_konsult": 1,
     "barn": 1,
-    "hyresgast": 1
+    "ensam_foralder": 1,
+    "sjukskriven": 1,
+    "hyresgast": 1,
+    "lantagare": 1
   }
 }

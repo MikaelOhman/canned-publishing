@@ -12,7 +12,11 @@
   "tldr": "A Riksrevisionen (a svéd ombudségi intézmény) felülvizsgálta, hogy a svéd állam hogyan támogatja a mezőgazdaságot a kibocsátás csökkentésében, és arra jutott, hogy a jelenlegi szabályozás nem elégséges. A kormány most szeretné javítani a munkát, hogy elérje a klímavédelmi célokat.",
   "lattlast": "<p>A Riksrevisionen egy intézmény, amely ellenőrzi, hogy az állam hogyan használja fel a pénzt és hogyan végez el munkát. Vizsgálatot végeztek arról, hogy az állam hogyan irányítja a mezőgazdaság klímaváltozással kapcsolatos tevékenységét. Következtetésük szerint a jelenleg elérhető eszközök csak egy kis részét fedik le a mezőgazdaság kibocsátásainak. Úgy vélik, hogy a kormány elmulasztotta a lehetőségeket az emissziók csökkentésére.</p><p>A kormány válaszában a jelentésre kijelentette, hogy a kritikát arra használja, hogy a munkát hatékonyabbá tegye. Már el is kezdte a változtatásokat, például azáltal, hogy támogatást nyújt a mezőgazdaságban már nem használt területek helyreállításához. Ezt a folyamatot &quot;visszavízterelésnek&quot; nevezik.</p><p>A mezőgazdasági termelők számára érvényes, alacsonyabb dízeladóval kapcsolatban a kormány vizsgálja, hogy lehet-e más típusú támogatást nyújtani. Meg akarják vizsgálni, hogy vannak-e hatékonyabb módszerek a mezőgazdaság környezetbarátabbá tételének elősegítésére.</p><p>A kormány egyetért abban, hogy jobb ellenőrzésre van szükség a biogáztermelés támogatásával kapcsolatban, mivel ez egy környezetbarát üzemanyag. A jövőben jobban fel kell értékelni, vagy meg kell vizsgálni ezeknek a pénzeszközöknek az eredményeit.</p>",
   "relevans": {
-    "bil": 2,
+    "b_industri": 1,
+    "b_grona": 3,
+    "miljo": 1,
+    "gron_omstallning": 3,
+    "bil": 1,
     "klimat": 3
   }
 }

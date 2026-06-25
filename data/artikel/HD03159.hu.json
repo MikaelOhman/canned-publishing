@@ -12,8 +12,11 @@
   "tldr": "A kormány szeretné módosítani a törvényeket annak érdekében, hogy több energiát takarítsanak meg az épületekben, és hogy egyszerűbb legyen az elektromos autók töltése, valamint a kerékpárok parkolása. A javaslat új követelményeket fog tartalmazni a házakban található fűtés- és szellőzésrendszerek ellenőrzésével kapcsolatban.",
   "lattlast": "<p>A kormány egy javaslatot terjesztett elő, amely módosítja azokat a szabályokat, amelyek szerint energiát használunk épületeinkben. A cél új célok elérése az energiahatékonyság terén, és az EU új szabályainak betartása. A javaslat többek között a energiatakarékossági nyilatkozatokról szóló törvény és a tervezési és építési törvény módosítását tartalmazza.</p><p>Ez azt jelenti, hogy a nagyobb felújítások során különösen fontos lesz az épület külső szerkezetének, az úgynevezett &quot;hőszigetelő rétegnek&quot; ellenőrzése. Minden olyan épület, amely állami vagy önkormányzati tulajdonban van, vagy amelyet ők használnak, rendelkeznie kell energiatakarékossági nyilatkozattal. A fűtés-, szellőzés- és légkondicionáló rendszereket is rendszeresen, három vagy öt évente kell ellenőrizni, a méretüktől függően.</p><p>A házak tulajdonosai számára lehetővé válik, hogy egy energiahatékonysági felújítási tervet használjanak fel arra, hogy bemutassák, hogyan kívánják javítani az otthonaikat. Ezenkívül a elektromos autók töltésével kapcsolatos szabályok is módosulnak, és mostantól &quot;fenntartható mobilitásként&quot; hivatkoznak rájuk. Ez azt jelenti, hogy a jövőben előírhatják, hogy megfelelő helyek legyenek a kerékpárok számára.</p><p>Ha a javaslat elfogadva lesz, az új szabályok 2026. július 1-jén lépnek életbe.</p>",
   "relevans": {
+    "b_bygg": 3,
+    "b_energi": 3,
     "bil": 1,
-    "klimat": 3,
-    "halsa": 1
+    "beroende": 1,
+    "energikund": 3,
+    "klimat": 1
   }
 }

@@ -12,7 +12,8 @@
   "tldr": "La Suède met en œuvre une directive européenne concernant les systèmes de transport intelligents dans le domaine routier.  Un plus grand nombre de types de données de trafic et de services numériques seront mis à disposition dans un format lisible par machine via un point d'accès national, afin de pouvoir être utilisés dans l'ensemble de l'Union européenne.",
   "lattlast": "<p>Les systèmes de transport intelligents sont des services et des données numériques utilisés pour rendre la circulation routière plus intelligente et plus sûre, par exemple grâce à des informations en temps réel sur le trafic et les routes.</p><p>Le gouvernement propose des modifications à la loi suédoise afin de mettre en œuvre une directive européenne. Ces modifications élargissent les types de données et de services concernés.</p><p>Les données doivent être rendues accessibles dans un format lisible par machine via un point d&#x27;accès national et couvrir certaines zones géographiques à des moments précis, afin que les services puissent fonctionner dans toute l&#x27;Union européenne.</p>",
   "relevans": {
-    "bil": 1,
+    "b_transport": 3,
+    "eu_marknad": 1,
     "glesbygd": 1
   }
 }

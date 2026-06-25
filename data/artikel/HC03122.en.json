@@ -12,8 +12,11 @@
   "tldr": "New regulations from the EU mean that a greater number of large trucks and vehicles will be classified as zero-emission vehicles. This requires changes to Swedish laws regarding road tolls and fees for heavy vehicles.",
   "lattlast": "<p>The government has proposed changes to several Swedish laws. The purpose of these changes is to align the new regulations with new rules from the European Union. The changes primarily concern how we view emissions from large vehicles, such as trucks.</p><p>The changes will classify more types of heavy vehicles as zero-emission vehicles. This means they will no longer be considered environmentally harmful in the same way as before. This affects laws related to infrastructure charges on roads and how vehicles are categorized based on their carbon dioxide emissions.</p><p>The proposal also includes changes to how reference values for carbon dioxide emissions are calculated. There are also changes to the regulations that apply during a transition period, which is the time when we move from the old rules to the new ones.</p><p>If the Parliament votes in favor of the proposal, the new regulations will come into effect on July 1, 2025. This applies to the laws concerning road charges and charges for heavy vehicles.</p>",
   "relevans": {
-    "bil": 1,
-    "glesbygd": 2,
+    "arbetsratt": 1,
+    "miljo": 3,
+    "infrastruktur": 1,
+    "glesbygd": 1,
+    "konsument": 1,
     "klimat": 3
   }
 }

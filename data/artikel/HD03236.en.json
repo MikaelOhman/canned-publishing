@@ -12,7 +12,11 @@
   "tldr": "Due to high fuel and electricity prices, the government is reducing energy taxes – gasoline by 82 cents per liter and diesel by 319 Swedish kronor per cubic meter (down to the EU minimum level) – and proposing support for household electricity and gas prices. This is an additional adjustment to the 2026 budget.",
   "lattlast": "<p>The government proposes changes to the state budget for 2026. The background is the high fuel prices linked to the conflict in the Middle East, as well as high electricity prices and severe cold, which have made heating expensive for households.</p><p>The energy tax on gasoline will be reduced by 82 cents per liter, and on diesel by 319 Swedish kronor per cubic meter – for environmental class 1, down to the lowest level allowed by the EU.</p><p>The proposal also includes support for electricity and gas prices to alleviate the costs for households.</p>",
   "relevans": {
+    "b_energi": 1,
+    "punktskatt": 1,
+    "energiintensiv": 1,
     "bil": 2,
-    "klimat": 3
+    "energikund": 3,
+    "klimat": 1
   }
 }

@@ -12,6 +12,10 @@
   "tldr": "Regeringen vill göra det strängare att stjäla eller berätta hemligheter från företag. Det ska bli ett brott även om man har rätt att se informationen genom sitt jobb men ändå använder den felaktigt.",
   "lattlast": "<p>Regeringen har lagt fram ett förslag för att skydda svenska företags och forskningsinstituters hemligheter bättre. Syftet är att stoppa industrispionage, vilket innebär att andra spionerar på svenska industrier för att få fördelar. Genom att stärka skyddet hoppas man att företag ska våga satsa mer på ny teknik och utveckling.</p><p>Förslaget innebär att det ska bli ett brott att använda eller berätta vidare viktiga tekniska hemligheter utan lov. Detta gäller även personer som har laglig rätt att se informationen, till exempel anställda som har tillgång till den genom sitt arbete. Det handlar främst om de hemligheter som är viktigast för teknisk utveckling och för svensk industri.</p><p>För att genomföra detta föreslår regeringen ändringar i flera olika lagar, bland annat i lagen om företagshemligheter och i regler för polisen. Om riksdagen röstar ja till förslaget kommer de nya reglerna att börja gälla den 1 januari 2026.</p>",
   "relevans": {
-    "foretagare": 3
+    "arbetsgivare": 1,
+    "b_industri": 1,
+    "b_vard": 1,
+    "fou": 1,
+    "otrygg": 1
   }
 }

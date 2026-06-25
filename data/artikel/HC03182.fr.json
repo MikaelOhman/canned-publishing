@@ -12,6 +12,7 @@
   "tldr": "Certaines informations obligatoires que les professionnels de santé doivent fournir à la liste nationale des médicaments lors de la prescription électronique (notamment la raison de l'ordonnance et la date de suivi ou de fin du traitement) sont reportées. Le délai passe de décembre 2025 à septembre 2028. Cela offre aux professionnels de santé davantage de temps pour se connecter de manière sécurisée.",
   "lattlast": "<p>La liste nationale des médicaments est un registre qui recense les médicaments prescrits à un patient. Lorsque les médecins établissent des ordonnances électroniques, ils doivent fournir certaines informations à cette liste.</p><p>Le gouvernement propose de reporter l&#x27;obligation de fournir deux de ces informations – la raison de la prescription et la date à laquelle le suivi ou la fin du traitement doit être effectué – de plusieurs années, passant du 1er décembre 2025 au 1er septembre 2028.</p><p>L&#x27;objectif est d&#x27;accorder aux services de santé davantage de temps pour se connecter à cette liste de manière efficace et sécurisée pour les patients.</p>",
   "relevans": {
-    "halsa": 3
+    "b_life": 3,
+    "kronisk": 3
   }
 }

@@ -13,9 +13,12 @@
   "tldr": "The municipality of Ale will hold a meeting of the municipal council on June 17, 2026.  During the meeting, they will make decisions regarding funding for the construction of Ale town square, support for new businesses, and strategies to combat crime within the social welfare system.",
   "lattlast": "<p>The municipal council of Ale municipality will meet on June 17, 2026, at 6:00 PM in the Alafors Community Center. During the meeting, the politicians will make decisions on several important issues related to the municipality&#x27;s finances and future.</p><p>One key item on the agenda is a decision regarding the amount of funding available for the construction and development of Ale Square during the years 2026 and 2027. The politicians will also discuss whether Ale should continue to be a member of the Storgöteborg Fire and Rescue Service, the organization responsible for fire protection in the area.</p><p>A decision will also be made to establish a new company for an area called Nödinge 1:22. In addition, they will discuss how the municipality should work to prevent crimes that affect social welfare, such as the improper disbursement of funds intended for schools or care services.</p><p>The meeting will also address changes to the regulations for various committees, including the committee for people with disabilities and the senior citizens&#x27; committee. They will also review the use of digital signatures and how protected personal data is handled.</p>",
   "relevans": {
+    "b_bygg": 1,
+    "b_vard": 2,
+    "gdpr": 1,
     "barn": 1,
-    "pensionar": 2,
-    "foretagare": 1,
-    "funktion": 1
+    "pensionar": 1,
+    "funktion": 1,
+    "integritet": 1
   }
 }

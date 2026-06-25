@@ -13,9 +13,13 @@
   "tldr": "Consiliul municipal din Ånge a avut o ședință în cadrul căreia au fost analizate rapoartele financiare și planurile pentru viitor. Printre cele mai importante subiecte discutate s-au numărat deciziile privind vânzarea de terenuri, regulile de parcare și construirea de noi locuri de joacă.",
   "lattlast": "<p>Consiliul municipal din Ånge a discutat o serie de probleme importante legate de economia și dezvoltarea localității. Au analizat rapoartele financiare și planurile de buget pentru anii următori, precum și situația datoriilor și a nevoilor de finanțare ale comunei.</p><p>În ceea ce privește construcțiile și terenurile, a fost luată decizia de a vinde terenuri companiei Ellevio. De asemenea, s-a discutat despre modul în care terenurile industriale de la Mallberget ar trebui dezvoltate și despre gestionarea locurilor de parcare pentru cei care se deplasează zilnic.</p><p>Pentru locuitori, a fost luată decizia de a construi o nouă loc de joacă în Fränsta, pentru care au fost alocate și fonduri. De asemenea, există planuri de a investiga posibilitățile legate de zona Parkbacken și discuții despre închiderea căminului grupal Älvgården.</p><p>În cadrul ședinței, s-au analizat, de asemenea, diverse rapoarte anuale ale companiilor și organizațiilor cu care comuna este asociată, cum ar fi Ångefallen Kraft AB și Autoritatea de Transport Public din regiunea Västerbottens län.</p>",
   "relevans": {
-    "foretagare": 1,
+    "b_industri": 1,
+    "b_bygg": 1,
+    "redovisning": 1,
+    "mark_bygglov": 1,
+    "pendlare": 1,
     "bil": 1,
     "kollektiv": 1,
-    "storstad": 1
+    "lantagare": 1
   }
 }

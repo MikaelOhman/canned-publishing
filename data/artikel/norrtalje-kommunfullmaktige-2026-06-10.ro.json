@@ -13,7 +13,12 @@
   "tldr": "Agenția pentru afaceri administrative a inspectat activitatea serviciului de tutelă din Norrtälje și a criticat modul în care acesta funcționează. În special, s-a constatat că nu s-au efectuat verificări suficiente ale situației financiare atunci când un tutore legal își încheia mandatul.",
   "lattlast": "<p>Direcția Regională din Stockholm a efectuat o inspecție a serviciului de tutelă din comuna Norrtälje. Serviciul de tutelă este autoritatea responsabilă de a se asigura că persoanele care au un tutore sau curator sunt îngrijite corespunzător și că banii lor sunt utilizați corect.</p><p>Direcția Regională a criticat serviciul de tutelă pentru că nu a examinat în mod adecvat un raport final. Acest caz se referă la o situație în care o persoană avea un tutore cu care nu s-a putut lua legătura. În această perioadă, datoriile persoanei au crescut de la 280.000 de coroane suedeze la aproape 379.000 de coroane suedeze.</p><p>În noul raport, întocmit de al treilea tutore, s-a constatat că nu au fost efectuate plăți pentru pensia alimentară a copiilor. De asemenea, s-a constatat că subvenția pentru locuință nu a fost rambursată către Agenția Națională de Asigurări Sociale (Försäkringskassan). Direcția Regională consideră că serviciul de tutelă ar fi trebuit să observe aceste erori și să verifice conturile mai atent.</p><p>Rolul serviciului de tutelă este de a se asigura că banii utilizați pentru o persoană sunt folosiți în mod corespunzător, de exemplu, pentru locuință și cheltuieli de trai. Acesta trebuie să verifice dacă nu se pierd bani și dacă toate facturile sunt corecte. Acest raport arată că controlul în acest caz nu a fost suficient.</p>",
   "relevans": {
+    "b_finans": 1,
+    "b_konsult": 1,
     "barn": 1,
-    "hyresgast": 1
+    "ensam_foralder": 1,
+    "sjukskriven": 1,
+    "hyresgast": 1,
+    "lantagare": 1
   }
 }

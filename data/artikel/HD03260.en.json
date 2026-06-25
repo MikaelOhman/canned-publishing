@@ -12,8 +12,10 @@
   "tldr": "The government wants to change the rules for how research involving human subjects is regulated, in order to make the process more streamlined. Certain research projects that handle sensitive personal data will no longer require formal approval, but the researcher must personally ensure that the regulations are followed.",
   "lattlast": "<p>The government has proposed changes to the law governing the ethical review of research. The aim is to make the oversight of research involving humans more efficient and clear. The proposal includes, among other things, that certain types of research will no longer require a specific approval if they handle sensitive personal data or information about criminal offenses.</p><p>The person leading the research, known as the research principal, will be responsible for assessing whether the research falls under the new exemptions. There will also be an option to apply for a voluntary review if one wants to be completely certain that everything is being done correctly.</p><p>The work of ensuring that the rules are followed will also be changed. The Appeals Board for Ethical Review, known as Önep, will be given more power to comment on whether research has gone wrong. The board will also be able to provide guidance to ensure that the rules are applied consistently throughout the country. Decisions regarding research will no longer be appealable, and the board will not be required to report suspected crimes to the police.</p><p>If the proposal is approved, the new rules will come into effect on July 1, 2027. The proposal also includes changes to laws governing how personal data is handled by government agencies such as IFAU and the Swedish Social Insurance Agency.</p>",
   "relevans": {
-    "bil": 1,
-    "kollektiv": 1,
-    "glesbygd": 1
+    "gdpr": 1,
+    "fou": 3,
+    "glesbygd": 1,
+    "otrygg": 1,
+    "integritet": 1
   }
 }

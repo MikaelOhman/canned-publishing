@@ -12,6 +12,7 @@
   "tldr": "Regeringen vill kontrollera personerna som styr företag som gör bilbesiktningar. Syftet är att se till att de som har ansvar är lämpliga för sina uppdrag.",
   "lattlast": "<p>Regeringen har lagt fram ett förslag om att ändra lagen för fordon. Förslaget innebär att alla som sitter i styrelsen eller är ersättare i företag som gör bilbesiktningar ska kontrolleras. Denna kontroll kallas för en lämplighetsprövning och görs för att se att personerna har rätt egenskaper för jobbet.</p><p>Detta gäller för företag som är aktiebolag eller ekonomiska föreningar. En ekonomisk förening är en typ av organisation där medlemmarna äger företaget tillsammans. Kontrollen är viktig för att säkerställa att besiktningen av bilar sker på ett säkert och korrekt sätt.</p><p>Om förslaget går igenom i riksdagen kommer de nya reglerna att börja gälla den 1 januari 2026. Det betyder att alla berörda företag måste ha rätt personer i sin styrelse enligt de nya kraven innan det nya året börjar.</p>",
   "relevans": {
-    "foretagare": 1
+    "aktiebolag": 1,
+    "ideell": 1
   }
 }

@@ -15,8 +15,11 @@
   "tldr": "La Junta Municipal de Estocolmo ha respondido a preguntas sobre la estación de autobuses de Slussen, el manejo de datos personales y los cambios en el transporte público.",
   "lattlast": "<p>La Junta Municipal ha presentado una respuesta al Tribunal Administrativo de Estocolmo. La respuesta se refiere a una revisión de una decisión anterior sobre la venta de una propiedad ubicada cerca de la estación de autobuses de Slussen.</p><p>La ciudad también ha respondido a una propuesta del Consejo para la Prevención del Delito. La propuesta versa sobre la modificación de las normas sobre el uso de datos personales y el funcionamiento de la confidencialidad.</p><p>Además, se ha tomado una postura sobre los cambios en el transporte de SL y WÅAB durante los años 2026/2027. Esto fue una respuesta a un comunicado de la Región de Estocolmo sobre los próximos cambios en el transporte.</p><p>Los miembros de los partidos Moderaterna y Liberalerna han emitido una declaración especial sobre el tema del transporte. Han expresado su propia opinión sobre los cambios planificados en el transporte público.</p>",
   "relevans": {
+    "b_fastighet": 2,
+    "gdpr": 1,
+    "pendlare": 1,
     "kollektiv": 2,
-    "storstad": 1,
-    "halsa": 1
+    "kronisk": 1,
+    "integritet": 1
   }
 }

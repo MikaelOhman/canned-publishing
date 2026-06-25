@@ -12,7 +12,11 @@
   "tldr": "Debido a los altos precios de los combustibles y la electricidad, el gobierno está reduciendo el impuesto a la energía: la gasolina se reducirá en 82 céntimos por litro y el diésel en 319 coronas por metro cúbico (hasta el nivel mínimo de la UE), y se propone un apoyo para los precios de la electricidad y el gas de los hogares. Esto supone un cambio adicional en el presupuesto de 2026.",
   "lattlast": "<p>El Gobierno propone modificaciones en el presupuesto estatal para 2026. El motivo es el elevado precio de los combustibles, vinculado al conflicto en Oriente Medio, así como los altos precios de la electricidad y el intenso frío, que han encarecido la calefacción para los hogares.</p><p>El impuesto a los hidrocarburos para la gasolina se reduce en 82 céntimos por litro y para el diésel en 319 coronas por metro cúbico, hasta el nivel mínimo permitido por la Unión Europea, para la clase de combustible 1.</p><p>La propuesta también incluye ayudas para los precios de la electricidad y el gas, con el objetivo de aliviar los costes para los hogares.</p>",
   "relevans": {
+    "b_energi": 1,
+    "punktskatt": 1,
+    "energiintensiv": 1,
     "bil": 2,
-    "klimat": 3
+    "energikund": 3,
+    "klimat": 1
   }
 }

@@ -13,10 +13,11 @@
   "tldr": "The municipal council of Alingsås has reviewed the municipality's finances for April 2026 and approved plans for various projects, including new pipelines and construction projects. They have also responded to several proposals from politicians regarding a range of issues, from new housing developments to support for local organizations.",
   "lattlast": "<p>The municipal board has reviewed the financial performance of Alingsås municipality. It appears that the municipality is expected to have a surplus of just over 230 million Swedish krona for the entire year 2026. This is partly due to the fact that it costs less than expected to operate preschools, as there are fewer children currently enrolled.</p><p>Several important projects are underway regarding buildings and roads. Plans are in place for new water and sewage pipes to Bjärke, and a competition has been launched for land in the Stadsskogen area. Furthermore, a decision has been made to review a plan for new buildings on Skolgatan in Sollebrunn.</p><p>Several political proposals, known as motions, have been discussed. These include the possibility of building more housing by converting attics in municipal buildings, providing more support to organizations that conduct nighttime patrols, and creating more charging stations for cyclists. Discussions have also focused on how to strengthen support for Ukrainian citizens living in the municipality.</p><p>Information was also received regarding the relocation of the municipal building to a new location. In addition, discussions have taken place on how to improve communication with those responsible for public transportation in the area.</p>",
   "relevans": {
+    "b_bygg": 1,
     "barn": 1,
-    "bil": 1,
+    "glesbygd": 1,
+    "pendlare": 1,
     "kollektiv": 1,
-    "glesbygd": 2,
-    "storstad": 1
+    "idrott": 1
   }
 }

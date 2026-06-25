@@ -12,9 +12,14 @@
   "tldr": "Die Regierung plant, die Regeln für bestimmte Steuervergünstigungen und Zuschüsse so zu ändern, dass sie den EU-Gesetzen über staatliche Beihilfen entsprechen. Der Vorschlag beinhaltet unter anderem neue Möglichkeiten, reduzierte Gebühren für Unternehmen zurückzuerstatten, die neue Mitarbeiter einstellen.",
   "lattlast": "<p>Die Regierung hat einen Vorschlag vorgelegt, um die schwedischen Steuergesetze zu ändern. Ziel ist es, sicherzustellen, dass die wirtschaftlichen Erleichterungen, die der Staat Unternehmen und Privatpersonen gewährt, den EU-Regeln für zulässige staatliche Beihilfen entsprechen. Wenn diese Regeln nicht eingehalten werden, kann dies als unzulässige staatliche Förderung für einzelne Unternehmen angesehen werden.</p><p>Ein wichtiges Beispiel ist die sogenannte &quot;Wachstumsförderung&quot;. Dies ist eine Reduzierung der Arbeitgeberabgaben, die Unternehmen erhalten, wenn sie ihre erste oder zweite Person einstellen. Die Regierung schlägt vor, dass dies stattdessen als Rückerstattung von Geldern erfolgen soll. Damit das schwedische Finanzamt dies kontrollieren kann, müssen Unternehmen auch mehr Informationen einreichen als bisher.</p><p>Änderungen sind auch für den regionalen Abzug geplant. Dies ist eine niedrigere Abgabe für Arbeitgeber, die in bestimmten Teilen Nord- und Westschwedens tätig sind. Die Regeln sollen geändert werden, um den EU-Regeln für regionale Förderungen zu entsprechen. Dies bedeutet auch, dass sich die Arten von Unternehmen, die Abzüge geltend machen können, ändern werden.</p><p>Auch andere Steuererleichterungen, wie z. B. die Förderung für Einwohner ländlicher Gebiete oder für die Produktion erneuerbarer Energien, werden betroffen sein. Für Unternehmen, die Anspruch auf diese Förderungen haben, werden sich die Anforderungen an die Meldung von Daten ändern. Die meisten dieser neuen Gesetze sollen am 1. Januar 2026 in Kraft treten.</p>",
   "relevans": {
-    "foretagare": 2,
+    "arbetsgivare": 2,
+    "b_industri": 1,
+    "avgifter": 2,
+    "konkurrens": 3,
+    "f_landsbygd": 1,
     "glesbygd": 1,
-    "klimat": 1,
-    "halsa": 1
+    "kronisk": 1,
+    "konsument": 1,
+    "klimat": 1
   }
 }

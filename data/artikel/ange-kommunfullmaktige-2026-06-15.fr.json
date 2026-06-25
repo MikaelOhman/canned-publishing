@@ -15,12 +15,20 @@
   "tldr": "Le conseil municipal d'Ånge a pris plusieurs décisions importantes concernant les finances de la commune et ses projets futurs. Parmi ces décisions, figurent des allocations financières pour une nouvelle aire de jeux, des routes, et la taxe pour l'année 2027.",
   "lattlast": "<p>Lors de la réunion du conseil municipal du 15 juin 2026, plusieurs investissements financiers ont été approuvés. La commune utilisera des fonds pour construire une nouvelle aire de jeux à Fränsta, et des sommes supplémentaires seront allouées pour améliorer les routes au cours de l&#x27;année 2026.</p><p>Concernant les finances futures, les élus ont discuté de la fiscalité pour l&#x27;année 2027. Ils ont également présenté un budget pour 2027 ainsi qu&#x27;un plan économique à long terme s&#x27;étendant jusqu&#x27;en 2030. Ceci est essentiel pour connaître les ressources financières dont disposera la commune à l&#x27;avenir.</p><p>Plusieurs entreprises et organisations avec lesquelles la commune travaille ont présenté leurs rapports annuels. Les élus ont examiné les performances financières de sociétés telles que Ånge Energi AB, Ånge Fastighets- &amp; Industri AB, et de l&#x27;organisation de transport Kollektivtrafikmyndigheten i Västernorrlands län.</p><p>Des décisions concernant les terrains et les contrats ont également été prises. La commune va vendre un terrain à l&#x27;entreprise Ellevio, et un accord a été signé pour étendre le centre de recyclage situé à Hallsta. De plus, les tarifs applicables aux demandes de permis de construire et aux questions environnementales ont été approuvés.</p>",
   "relevans": {
-    "foretagare": 1,
-    "bostadsagare": 1,
-    "bil": 1,
-    "kollektiv": 1,
+    "b_industri": 1,
+    "b_bygg": 1,
+    "b_fastighet": 1,
+    "b_energi": 1,
+    "redovisning": 1,
+    "miljo": 1,
+    "mark_bygglov": 1,
+    "bygger": 1,
     "glesbygd": 1,
-    "storstad": 1,
-    "klimat": 2
+    "pendlare": 1,
+    "kollektiv": 1,
+    "energikund": 1,
+    "konsument": 1,
+    "klimat": 1,
+    "fortroendevald": 1
   }
 }

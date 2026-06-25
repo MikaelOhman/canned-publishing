@@ -12,7 +12,10 @@
   "tldr": "A kormány új törvényeket terjesztett elő a környezet védelmének javítása és az energiafogyasztás szabályozása érdekében. Ezek a törvények többek között azt is tartalmazzák, hogy a számítóközpontoknak be kell jelenteniük, mennyi áramot használnak fel, valamint hogy a tüzelőanyagokra vonatkozó szabályokat módosítani kell.",
   "lattlast": "<p>A kormány több törvényt módosít, hogy megfeleljen az új, uniós szabályozásoknak. Egy fontos része ennek az, hogy az adatközpontoknak – azaz a nagy méretű helyiségek, amelyek digitális információkat tárolnak – kezdeniük kell jelenteni, hogy mennyi energiát használnak fel, és ezt egy közös, európai adatbázisba kell bejegyezniük. Ez azért van, hogy jobban nyomon követhető legyen, mennyi áramot fogyasztanak a digitális technológiák.</p><p>Szigorúbb szabályok is bevezetésre kerülnek a fenntartható üzemanyagok tekintetében. Ez azt jelenti, hogy új követelmények vonatkoznak arra, hogy a például újrahasznosított anyagokból vagy más környezetbarát forrásokból származó üzemanyagoknak bizonyos környezetvédelmi előírásokat kell teljesíteniük. A törvények az energiaadóról és az energia-tanúsítványokról is módosításra kerülnek, hogy megfeleljenek az új szabályozásoknak.</p><p>A személygépkocsikban használt üzemanyagok tekintetében javaslatok születtek az úgynevezett csökkentési kötelezettség új szintjeiről. A csökkentési kötelezettség azt jelenti, hogy a benzinnel és a dízelolajjal bizonyos arányban környezetbarátabb üzemanyagot kell keverni. Jelenleg azt is javasolják, hogy ez a kötelezettség fosszilis tüzelőanyagok nélküli elektromos áram használatával is teljesíthető legyen. Ugyanakkor javasolják, hogy eltöröljék azt a követelményt, hogy az üzemanyag-szállítóknak csökkenteniük kell a üvegházhatású gázok kibocsátását.</p><p>A legtöbb új szabályozás várhatóan 2025. július 1-jén lép érvénybe. Egyes, az üzemanyagok környezetvédelmi követelményeivel kapcsolatos részek azonban később lépnek érvénybe, vagy 2026. január 1-jén, vagy 2030. január 1-jén.</p>",
   "relevans": {
+    "b_energi": 1,
+    "miljo": 1,
     "bil": 3,
-    "klimat": 3
+    "energikund": 2,
+    "klimat": 2
   }
 }

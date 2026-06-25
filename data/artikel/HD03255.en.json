@@ -12,7 +12,9 @@
   "tldr": "The government wants to amend the law so that the Central Bureau of Statistics (SCB) can collect more information about the amount of debt held by households, as well as the interest rates and repayments they are making. This is being done to better understand economic risks in society.",
   "lattlast": "<p>The government has proposed expanding the functionality of a system called Fasit. Fasit is a tool used by the Central Bureau of Statistics, also known as SCB, to analyze how various economic regulations affect people. By adding information about debts and payments, it becomes possible to better understand how sensitive households are to changes in the economy.</p><p>To make this work, banks and other companies that provide mortgages must provide SCB with information about household debts and payments. It is important to know how much money is being allocated to debt repayment in order to plan the country&#x27;s economic policy. This helps authorities to assess whether high interest rates or other costs are causing significant problems for families.</p><p>Despite the collection of more information, the rules regarding personal data are strict. Only data that is necessary should be used, and sensitive information such as health or ethnic origin should not be used. The goal is to obtain good statistics without infringing on people&#x27;s privacy.</p><p>If the proposal is approved and the parliament votes in favor, the new rules will come into effect on August 1, 2026.</p>",
   "relevans": {
-    "barn": 1,
-    "foretagare": 1
+    "b_finans": 1,
+    "gdpr": 1,
+    "lantagare": 3,
+    "integritet": 2
   }
 }

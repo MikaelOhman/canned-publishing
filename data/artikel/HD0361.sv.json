@@ -12,9 +12,12 @@
   "tldr": "Regeringen vill att kommuner ska kunna kontrollera brottsregister mer noggrant när de anställer personal. Detta görs för att öka tryggheten för barn, äldre och personer med funktionsnedsättning.",
   "lattlast": "<p>Regeringen har lagt fram förslag på nya regler för att kontrollera personer som ska börja jobba i kommunen. Målet är att förhindra att personer som planerar brott eller skadliga handlingar får jobb inom kommunens verksamheter. Genom att titta i belastningsregistret och misstankeregistret, som är register över tidigare brott och misstankar om brott, vill man minska risken för brottslighet.</p><p>De nya reglerna ska främst gälla för personer som ska arbeta med barn eller som ska jobba i hemmet hos äldre och vuxna med funktionsnedsättning. Det handlar även om personer som ska ha höga och viktiga ledarroller inom kommunen. Syftet är att skapa en säkrare arbetsmiljö och skydda de som behöver extra omsorg.</p><p>Förslaget innebär ändringar i flera olika lagar, till exempel lagen om belastningsregister och socialförsäkringsbalken. Det är riksdagen som ska rösta ja till dessa ändringar för att de ska bli lag.</p><p>Om riksdagen säger ja till förslaget planeras de nya reglerna att börja gälla den 1 mars 2026. Då kommer kommunerna att ha större möjligheter att kontrollera nya medarbetare innan de får börja arbeta.</p>",
   "relevans": {
+    "arbetsgivare": 1,
+    "b_vard": 1,
+    "arbetsmiljo": 1,
     "barn": 1,
-    "pensionar": 1,
     "lontagare": 3,
-    "funktion": 1
+    "funktion": 1,
+    "otrygg": 2
   }
 }

@@ -13,7 +13,12 @@
   "tldr": "The County Administrative Board has reviewed the legal guardian in Norrtälje and issued criticism. They have not conducted thorough enough checks of the finances when a legal guardian has completed their assignment.",
   "lattlast": "<p>The County Administrative Board of Stockholm has conducted an inspection of the guardian authority in the municipality of Norrtälje. The guardian authority is responsible for ensuring that individuals who have a legal guardian or conservator are properly cared for and that their money is used correctly.</p><p>The County Administrative Board has criticized the guardian authority for not properly reviewing a final account. This concerns a case where a person had a legal guardian who was unreachable. During this period, the person&#x27;s debts increased from 280,000 SEK to nearly 379,000 SEK.</p><p>In the new report from the third legal guardian, it was revealed that money intended for the children&#x27;s support had not been paid out. It also emerged that housing benefits had not been reimbursed to the Swedish Social Insurance Agency. The County Administrative Board believes that the guardian authority should have identified these errors and conducted a more thorough review of the accounts.</p><p>The guardian authority&#x27;s role is to ensure that money used for a person is used appropriately, for example, for the person&#x27;s housing and living expenses. They are responsible for ensuring that no money disappears and that all accounts are accurate. This report shows that the oversight in this case was insufficient.</p>",
   "relevans": {
+    "b_finans": 1,
+    "b_konsult": 1,
     "barn": 1,
-    "hyresgast": 1
+    "ensam_foralder": 1,
+    "sjukskriven": 1,
+    "hyresgast": 1,
+    "lantagare": 1
   }
 }

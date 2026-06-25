@@ -12,9 +12,9 @@
   "tldr": "A kormány szeretné csökkenteni az adókat sok svéd állampolgár számára. A javaslat szerint azok, akik teljes munkaidőt dolgoznak, nyugdíjasok vagy betegjáradékot kapnak, több pénzt kaphatnak meg minden évben.",
   "lattlast": "<p>A kormány egy javaslatot terjesztett elő, amelynek célja különböző típusú jövedelmek adójának csökkentése. Azok számára, akik teljes munkaidőt dolgoznak, és alacsony vagy közepes jövedelmük van, a javaslat átlagosan 3800 svéd koronával több pénzt jelent a zsebükben évente. Ezt a &quot;munkahelyi adólevonás&quot; módosításával érik el, amely a fizetésből levont adó egy része.</p><p>Az idősebbek számára is olcsóbb lesz az adófizetés. Azok számára, akik az év elején 66 évesek, a javaslat átlagosan 2300 svéd koronával több pénzt jelent személyenként évente. Ezt a magasabb alaplevonás révén érik el, ami azt jelenti, hogy a pénzükhöz tartozó nagyobb része nem lesz adóköteles.</p><p>A javaslat emellett csökkenti az adókat azok számára, akik betegellátást vagy támogatást kapnak. A cél az, hogy ezek a támogatások ugyanannyi adót vonják be, mint a hagyományos fizetések bizonyos jövedelmi szinteken. Akinek a támogatása meghaladja a körülbelül 54 000 svéd koronát évente, az körülbelül 1800 svéd koronával több pénzt kaphat évente.</p><p>Ha a parlament megszavazza a javaslatot, az új szabályok 2026. január 1-jén lépnek életbe. A javaslat egy ún. &quot;kormányrendelet&quot;, amely a kormány hivatalos javaslata a parlament számára.</p>",
   "relevans": {
+    "arbetsgivare": 1,
     "pensionar": 3,
     "lontagare": 2,
-    "kollektiv": 3,
-    "funktion": 3
+    "sjukskriven": 1
   }
 }

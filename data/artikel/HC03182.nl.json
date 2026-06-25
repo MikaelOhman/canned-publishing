@@ -12,6 +12,7 @@
   "tldr": "Som gevolg van technische problemen wordt de implementatie van bepaalde informatie die zorgverleners moeten verstrekken aan de nationale medicijnenlijst bij elektronische recepten (zoals de reden voor de voorschrijving en wanneer de behandeling moet worden gevolgd of beëindigd) uitgesteld. De oorspronkelijke deadline was december 2025, maar deze is verschoven naar september 2028. Dit geeft zorgverleners meer tijd om op een veilige manier aan te sluiten.",
   "lattlast": "<p>De nationale medicijnenlijst is een register waarin de medicijnen staan die een patiënt voorgeschreven heeft gekregen. Wanneer artsen elektronische recepten uitschrijven, moeten ze bepaalde informatie aan dit register doorgeven.</p><p>De regering stelt voor om de verplichting om twee van deze gegevens door te geven – de reden voor de voorschrijving en de datum waarop de behandeling uiterlijk moet worden geëvalueerd of beëindigd – uit te stellen met enkele jaren, van 1 december 2025 tot 1 september 2028.</p><p>Het doel hiervan is om de zorgsector meer tijd te geven om op een efficiënte en veilige manier aan te sluiten bij dit register.</p>",
   "relevans": {
-    "halsa": 3
+    "b_life": 3,
+    "kronisk": 3
   }
 }

@@ -15,8 +15,11 @@
   "tldr": "Het gemeentebestuur van Stockholm heeft antwoord gegeven op vragen over het busstation in Slussen, de verwerking van persoonsgegevens en wijzigingen in het openbaar vervoer.",
   "lattlast": "<p>Het gemeentebestuur heeft een reactie gegeven aan de Administratieve Rechtbank van Stockholm. Het gaat om een controle van een eerder genomen besluit om een pand te verkopen bij het busstation in Slussen.</p><p>De stad heeft ook geantwoord op een voorstel van het Bureau voor Criminaliteitsbestrijding. Het voorstel betreft wijzigingen in de regels voor het gebruik van persoonsgegevens en de toepassing van geheimhouding.</p><p>Er is ook een standpunt ingenomen over wijzigingen in het openbaar vervoer van SL en WÅAB gedurende het jaar 2026/2027. Dit was een reactie op een mededeling van de regio Stockholm over aankomende wijzigingen in het openbaar vervoer.</p><p>Leden van de partijen Moderaterna en Liberalerna hebben een speciaal standpunt ingenomen over de kwestie van het openbaar vervoer. Zij hebben hun eigen mening genoteerd over de geplande wijzigingen in het openbaar vervoer.</p>",
   "relevans": {
+    "b_fastighet": 2,
+    "gdpr": 1,
+    "pendlare": 1,
     "kollektiv": 2,
-    "storstad": 1,
-    "halsa": 1
+    "kronisk": 1,
+    "integritet": 1
   }
 }

@@ -12,6 +12,9 @@
   "tldr": "La atención a personas con adicciones y problemas de salud mental debe estar mejor integrada. Las regiones deben garantizar que la atención a las adicciones esté coordinada con la atención psiquiátrica general, se endurecen los requisitos para los planes de atención individualizados, y la región estará obligada a compensar al municipio si este no cumple con su parte del plan.",
   "lattlast": "<p>La propuesta tiene como objetivo mejorar la uniformidad y la cohesión de la atención para personas que presentan un consumo perjudicial o una adicción, junto con otras afecciones psiquiátricas.</p><p>Las regiones deben organizar la atención a las adicciones de manera que se coordine con otros servicios de salud mental. Se endurecen los requisitos para el plan individual que debe elaborarse para las personas que reciben atención o alojamiento en residencias.</p><p>Si la región no cumple con sus obligaciones con respecto al plan individual, estará obligada a compensar al municipio. La comisión de servicios sociales también debe informar a la región cuando se recibe a alguien en una residencia de atención o alojamiento.</p>",
   "relevans": {
-    "halsa": 3
+    "tillstand": 3,
+    "kronisk": 3,
+    "psykisk": 3,
+    "beroende": 3
   }
 }
