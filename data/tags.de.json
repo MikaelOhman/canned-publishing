@@ -372,7 +372,7 @@
   "kommunstyrelsen": {
     "etikett": "Der Gemeinderat.",
     "typ": "organisation",
-    "antal": 45
+    "antal": 46
   },
   "kommunal-forvaltning": {
     "etikett": "Kommunale Verwaltung.",
@@ -1107,6 +1107,11 @@
   "overformyndarnamndens": {
     "etikett": "Das Vormundschaftsgericht.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "krokom": {
+    "etikett": "Krokoms",
+    "typ": "plats",
     "antal": 1
   }
 }

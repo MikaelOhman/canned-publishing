@@ -307,7 +307,7 @@
   "kommunstyrelsen": {
     "etikett": "A községi tanács.",
     "typ": "organisation",
-    "antal": 45
+    "antal": 46
   },
   "kommunal-forvaltning": {
     "etikett": "Helyi közigazgatás.",
@@ -1042,6 +1042,11 @@
   "overformyndarnamndens": {
     "etikett": "A gyámhivatal.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "krokom": {
+    "etikett": "Krokoms",
+    "typ": "plats",
     "antal": 1
   }
 }

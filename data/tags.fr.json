@@ -312,7 +312,7 @@
   "kommunstyrelsen": {
     "etikett": "Le conseil municipal.",
     "typ": "organisation",
-    "antal": 45
+    "antal": 46
   },
   "kommunal-forvaltning": {
     "etikett": "Administration municipale.",
@@ -1047,6 +1047,11 @@
   "overformyndarnamndens": {
     "etikett": "Commission de tutelle.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "krokom": {
+    "etikett": "Krokoms.",
+    "typ": "plats",
     "antal": 1
   }
 }

@@ -312,7 +312,7 @@
   "kommunstyrelsen": {
     "etikett": "Het college van burgemeester en wethouders.",
     "typ": "organisation",
-    "antal": 45
+    "antal": 46
   },
   "kommunal-forvaltning": {
     "etikett": "Gemeentelijke administratie.",
@@ -1047,6 +1047,11 @@
   "overformyndarnamndens": {
     "etikett": "De afdeling voor voogdijzaken.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "krokom": {
+    "etikett": "Krokoms",
+    "typ": "plats",
     "antal": 1
   }
 }

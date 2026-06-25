@@ -307,7 +307,7 @@
   "kommunstyrelsen": {
     "etikett": "Zarząd gminy.",
     "typ": "organisation",
-    "antal": 45
+    "antal": 46
   },
   "kommunal-forvaltning": {
     "etikett": "Zarządzanie samorządem lokalnym.",
@@ -1042,6 +1042,11 @@
   "overformyndarnamndens": {
     "etikett": "Komisja Nadzoru Rodzinnego.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "krokom": {
+    "etikett": "Krokoms.",
+    "typ": "plats",
     "antal": 1
   }
 }

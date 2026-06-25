@@ -307,7 +307,7 @@
   "kommunstyrelsen": {
     "etikett": "Consiliul municipal.",
     "typ": "organisation",
-    "antal": 45
+    "antal": 46
   },
   "kommunal-forvaltning": {
     "etikett": "Administrația locală.",
@@ -1042,6 +1042,11 @@
   "overformyndarnamndens": {
     "etikett": "Comisia pentru tutori legali.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "krokom": {
+    "etikett": "Krokoms",
+    "typ": "plats",
     "antal": 1
   }
 }

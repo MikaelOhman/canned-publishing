@@ -362,7 +362,7 @@
   "kommunstyrelsen": {
     "etikett": "Kommunstyrelsen",
     "typ": "organisation",
-    "antal": 48
+    "antal": 49
   },
   "kommunallagen": {
     "etikett": "Kommunallagen",
@@ -1142,6 +1142,11 @@
   "overformyndarnamndens": {
     "etikett": "Överförmyndarnämndens",
     "typ": "organisation",
+    "antal": 1
+  },
+  "krokom": {
+    "etikett": "Krokoms",
+    "typ": "plats",
     "antal": 1
   }
 }
