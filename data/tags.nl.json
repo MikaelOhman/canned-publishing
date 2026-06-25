@@ -492,7 +492,7 @@
   "katrineholm": {
     "etikett": "Katrineholms",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "kommunstyrelsens": {
     "etikett": "Het college van burgemeester en wethouders.",
@@ -1001,6 +1001,11 @@
   },
   "tillvaxt-och-tillsynsnamndens": {
     "etikett": "De commissie voor groei en toezicht.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "service-och-tekniknamndens": {
+    "etikett": "De dienstverlenings- en technieknemer.",
     "typ": "organisation",
     "antal": 1
   }

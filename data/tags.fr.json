@@ -492,7 +492,7 @@
   "katrineholm": {
     "etikett": "Katrineholms.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "kommunstyrelsens": {
     "etikett": "Le conseil municipal.",
@@ -1001,6 +1001,11 @@
   },
   "tillvaxt-och-tillsynsnamndens": {
     "etikett": "Commission de croissance et de supervision.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "service-och-tekniknamndens": {
+    "etikett": "Commission des services et de la technique.",
     "typ": "organisation",
     "antal": 1
   }

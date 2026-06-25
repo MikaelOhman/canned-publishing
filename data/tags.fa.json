@@ -487,7 +487,7 @@
   "katrineholm": {
     "etikett": "کاترین‌هولم.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "kommunstyrelsens": {
     "etikett": "شورا یا هیئت مدیره شهرداری.",
@@ -996,6 +996,11 @@
   },
   "tillvaxt-och-tillsynsnamndens": {
     "etikett": "کمیته رشد و نظارت.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "service-och-tekniknamndens": {
+    "etikett": "کمیته خدمات و فناوری.",
     "typ": "organisation",
     "antal": 1
   }

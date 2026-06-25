@@ -512,7 +512,7 @@
   "katrineholm": {
     "etikett": "كاترينهولم.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "kommunstyrelsens": {
     "etikett": "مجلس البلدية.",
@@ -1011,6 +1011,11 @@
   },
   "tillvaxt-och-tillsynsnamndens": {
     "etikett": "لجنة التنمية والإشراف.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "service-och-tekniknamndens": {
+    "etikett": "لجنة الخدمات والتكنولوجيا.",
     "typ": "organisation",
     "antal": 1
   }

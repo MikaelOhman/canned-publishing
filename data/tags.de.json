@@ -552,7 +552,7 @@
   "katrineholm": {
     "etikett": "Katrineholm",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "kommunstyrelsens": {
     "etikett": "Der Gemeinderat.",
@@ -1061,6 +1061,11 @@
   },
   "tillvaxt-och-tillsynsnamndens": {
     "etikett": "Der Ausschuss für Wachstum und Aufsicht.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "service-och-tekniknamndens": {
+    "etikett": "Der Ausschuss für Dienstleistungen und Technik.",
     "typ": "organisation",
     "antal": 1
   }
