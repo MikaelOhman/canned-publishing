@@ -522,7 +522,7 @@
   "burlov": {
     "etikett": "Burlövs",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "sn": {
     "etikett": "SN",
@@ -556,6 +556,11 @@
   },
   "kommunstyrelsens": {
     "etikett": "Der Gemeinderat.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "ukn": {
+    "etikett": "UKN",
     "typ": "organisation",
     "antal": 1
   }
