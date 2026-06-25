@@ -833,5 +833,15 @@
     "etikett": "Avesta.",
     "typ": "plats",
     "antal": 1
+  },
+  "berg": {
+    "etikett": "Bergs",
+    "typ": "plats",
+    "antal": 1
+  },
+  "utbildningsnamndens": {
+    "etikett": "Der Bildungsausschuss.",
+    "typ": "organisation",
+    "antal": 1
   }
 }

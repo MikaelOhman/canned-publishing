@@ -783,5 +783,15 @@
     "etikett": "أفيستا.",
     "typ": "plats",
     "antal": 1
+  },
+  "berg": {
+    "etikett": "جبال.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "utbildningsnamndens": {
+    "etikett": "لجنة التعليم.",
+    "typ": "organisation",
+    "antal": 1
   }
 }
