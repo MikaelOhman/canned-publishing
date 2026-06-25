@@ -28,7 +28,13 @@ const UIDEF = {sub:"Multilingual news",search_label:"Search",search_ph:"Type a w
   tldr_label:"TL;DR",lattlast_label:"In plain language",fulltext_label:"Full text",loadmore:"Load more",
   status:{title:"By the numbers",articles:"articles",languages:"languages",municipalities:"municipalities covered",
     sources:"sources",updated:"Updated",fresh:"Updated daily",stale:"Updates paused",
-    new30:"new in the last 30 days",coverage:"Language coverage",bytype:"By type"}};
+    new30:"new in the last 30 days",coverage:"Language coverage",bytype:"By type"},
+  sit:{btn:"My situation",none:"My situation",title:"What matters to you?",
+    intro:"Tick what fits your life — articles that affect you most rise to the top (nothing is hidden).",
+    presets:"Quick presets",clear:"Clear",affects:"Affects you",
+    high:"a lot",mid:"somewhat",low:"a little",
+    share:"Save / move to another device",sharehelp:"Copy this code and paste it in the address bar on another device, or bookmark the link.",
+    copy:"Copy link",copied:"Copied!"}};
 const ui = () => state.ui;
 
 async function getJSON(url){ const r = await fetch(url); if(!r.ok) throw new Error(url); return r.json(); }
@@ -62,10 +68,103 @@ function applyUI(){
   $('#foot-ai').textContent = (state.about && state.about.disclosure) || '';
   $('#rsslank').href = `feed.${state.lang}.xml`;
   const alt = $('#rss-alt'); if(alt) alt.href = `feed.${state.lang}.xml`;
+  sitBtn();
+}
+
+/* ── Min situation: livssituations-axlar driver re-rank + relevans-markör ── */
+function sitT(){ return (ui().sit) || UIDEF.sit; }
+function axLabel(id){
+  const o = (ui().axlar && ui().axlar[id]);                 // ev. lokaliserad
+  if(o) return o;
+  const ax = state.axdef.find(a=>a.id===id);
+  return ax ? ax.namn : id;
+}
+function axIkon(id){ const ax = state.axdef.find(a=>a.id===id); return ax?ax.ikon:''; }
+/* högsta relevans bland användarens valda axlar (0 om inga valda / ingen data) */
+function relScore(a){
+  if(!state.axlar.size || !a.relevans) return 0;
+  let m = 0; for(const id of state.axlar){ const v = a.relevans[id]||0; if(v>m) m=v; }
+  return m;
+}
+function sitBtn(){
+  const b = $('#sit-btn'); if(!b) return;
+  const n = state.axlar.size;
+  b.textContent = '⚖ ' + (n ? `${sitT().btn} (${n})` : sitT().none);
+  b.setAttribute('aria-expanded', !$('#sit-panel').classList.contains('hidden'));
+}
+function toggleAxel(id){ state.axlar.has(id)?state.axlar.delete(id):state.axlar.add(id); sparaAxlar(); renderSituation(); sitBtn(); state.visa=PAGE; renderList(); }
+function applyPreset(p){
+  const alla = (p.axlar||[]).every(x=>state.axlar.has(x));
+  (p.axlar||[]).forEach(x=> alla ? state.axlar.delete(x) : state.axlar.add(x));  // toggla bunten
+  sparaAxlar(); renderSituation(); sitBtn(); state.visa=PAGE; renderList();
+}
+function clearSit(){ state.axlar.clear(); sparaAxlar(); renderSituation(); sitBtn(); renderList(); }
+function sparaAxlar(){ LS.set('axlar', [...state.axlar].join('.')); }
+
+function renderSituation(){
+  const el = $('#sit-panel'); const u = sitT();
+  const pres = state.personas.map(p=>{
+    const on = (p.axlar||[]).length && (p.axlar||[]).every(x=>state.axlar.has(x));
+    return `<button class="preset${on?' on':''}" data-p="${esc(p.id)}" title="${esc(p.beskrivning||'')}">${esc(p.ikon||'')} ${esc(p.roll||p.namn)}</button>`;
+  }).join('');
+  const grupper = state.grupper.length ? state.grupper : [...new Set(state.axdef.map(a=>a.grupp))];
+  const chips = grupper.map(g=>{
+    const axs = state.axdef.filter(a=>a.grupp===g);
+    if(!axs.length) return '';
+    return `<div class="ax-grupp">`+axs.map(a=>
+      `<button class="ax${state.axlar.has(a.id)?' on':''}" data-ax="${esc(a.id)}" aria-pressed="${state.axlar.has(a.id)}">${esc(a.ikon)} ${esc(axLabel(a.id))}</button>`).join('')+`</div>`;
+  }).join('');
+  const kod = kodaInst();
+  const lank = location.origin + location.pathname + '?s=' + kod;
+  el.innerHTML = `<div class="sit-head"><h2>${esc(u.title)}</h2>
+      ${state.axlar.size?`<button class="sit-clear">${esc(u.clear)}</button>`:''}</div>
+    <p class="sit-intro">${esc(u.intro)}</p>
+    <div class="sit-sub">${esc(u.presets)}</div><div class="presets">${pres}</div>
+    <div class="ax-chips">${chips}</div>
+    <details class="sit-share"><summary>${esc(u.share)}</summary>
+      <p class="sit-sharehelp">${esc(u.sharehelp)}</p>
+      <div class="share-row"><input id="share-url" readonly value="${esc(lank)}">
+        <button id="share-copy">${esc(u.copy)}</button></div></details>`;
+  el.querySelectorAll('.ax').forEach(c=>c.addEventListener('click',()=>toggleAxel(c.dataset.ax)));
+  el.querySelectorAll('.preset').forEach(c=>c.addEventListener('click',()=>{
+    const p = state.personas.find(x=>x.id===c.dataset.p); if(p) applyPreset(p); }));
+  const clr = el.querySelector('.sit-clear'); if(clr) clr.addEventListener('click',clearSit);
+  const cp = $('#share-copy'); if(cp) cp.addEventListener('click',()=>{
+    const inp=$('#share-url'); inp.select(); navigator.clipboard?.writeText(inp.value);
+    cp.textContent = sitT().copied; setTimeout(()=>cp.textContent=sitT().copy,1500); });
+}
+/* delbar kod: kompakt base64url av {a:[axlar],l,t,x,f} */
+function kodaInst(){
+  const o = {a:[...state.axlar], l:state.lang, t:LS.get('tema','dark'), x:LS.get('text','normal'), f:LS.get('font','standard')};
+  try { return btoa(unescape(encodeURIComponent(JSON.stringify(o)))).replace(/\+/g,'-').replace(/\//g,'_').replace(/=+$/,''); }
+  catch(e){ return ''; }
+}
+function avkodaInst(kod){
+  try {
+    const j = JSON.parse(decodeURIComponent(escape(atob(kod.replace(/-/g,'+').replace(/_/g,'/')))));
+    if(Array.isArray(j.a)) j.a.forEach(x=>state.axlar.add(x));
+    if(j.l) LS.set('lang', j.l);
+    if(j.t){ LS.set('tema', j.t); document.documentElement.setAttribute('data-theme', j.t); }
+    if(j.x){ LS.set('text', j.x); document.documentElement.setAttribute('data-text', j.x); }
+    if(j.f){ LS.set('font', j.f); document.documentElement.setAttribute('data-font', j.f); }
+    return j.l || null;
+  } catch(e){ return null; }
 }
 
 async function boot(){
+  // delbar inställnings-kod i URL (?s=) – applicera FÖRST så lang/tema/axlar slår igenom
+  const sp = new URLSearchParams(location.search);
+  let kodLang = null;
+  if(sp.get('s')){ kodLang = avkodaInst(sp.get('s')); history.replaceState(null,'',location.pathname); }
+  if(!state.axlar.size) LS.get('axlar','').split('.').filter(Boolean).forEach(x=>state.axlar.add(x));
   initPrefAttrs();
+  try { const ax = await getJSON('data/axlar.json'); state.axdef = ax.axlar||[]; state.grupper = ax.grupper||[]; } catch(e){}
+  try { const pj = await getJSON('data/personas.json'); state.personas = pj.personas||[]; } catch(e){}
+  $('#sit-btn').addEventListener('click', ()=>{
+    const p = $('#sit-panel'); p.classList.toggle('hidden');
+    if(!p.classList.contains('hidden')) renderSituation();
+    sitBtn();
+  });
   $('#tema').addEventListener('change', e=>{ document.documentElement.setAttribute('data-theme', e.target.value); LS.set('tema', e.target.value); });
   $('#text').addEventListener('change', e=>{ document.documentElement.setAttribute('data-text', e.target.value); LS.set('text', e.target.value); });
   $('#font').addEventListener('change', e=>{ document.documentElement.setAttribute('data-font', e.target.value); LS.set('font', e.target.value); });
@@ -76,7 +175,7 @@ async function boot(){
   try { state.sprak = await getJSON('data/sprak.json'); } catch(e){ state.sprak = [{kod:'sv',namn:'Svenska',rtl:false}]; }
   const sel = $('#lang');
   sel.innerHTML = state.sprak.map(s=>`<option value="${s.kod}">${esc(s.namn)}</option>`).join('');
-  const saved = LS.get('lang', state.sprak[0].kod);
+  const saved = kodLang || LS.get('lang', state.sprak[0].kod);
   sel.value = state.sprak.some(s=>s.kod===saved) ? saved : state.sprak[0].kod;
   sel.addEventListener('change', ()=>{ LS.set('lang', sel.value); loadLanguage(sel.value); });
 
@@ -142,13 +241,21 @@ function matches(a){
   }
   return true;
 }
+function relMark(a){
+  const r = relScore(a); if(!r) return '';
+  const niv = [sitT().low, sitT().mid, sitT().high][r-1] || '';
+  return `<span class="rel rel${r}" title="${esc(sitT().affects)}: ${esc(niv)}">${'●'.repeat(r)}${'○'.repeat(3-r)}</span>`;
+}
 function renderList(){
-  const u = ui(); const items = state.index.filter(matches);
+  const u = ui(); let items = state.index.filter(matches);
+  if(state.axlar.size){            // re-ranka på relevans (stabilt, behåll datum-ordning vid lika)
+    items = items.map((a,i)=>[a,i]).sort((A,B)=>(relScore(B[0])-relScore(A[0]))||(A[1]-B[1])).map(x=>x[0]);
+  }
   $('#count').textContent = `${items.length} ${u.count}`;
   const vis = items.slice(0, state.visa);
   $('#list').innerHTML = (items.length ? vis.map(a=>{
     return `<button class="card ${KORT_KLASS[a.typ]||''}" data-id="${esc(a.id)}">
-      <span class="toprow"><span class="badge-typ ${BADGE_KLASS[a.typ]||''}">${esc((u.typebadge[a.typ]||u.typebadge.nyhet))}</span><span class="date">${esc(a.datum||'')}</span></span>
+      <span class="toprow"><span class="badge-typ ${BADGE_KLASS[a.typ]||''}">${esc((u.typebadge[a.typ]||u.typebadge.nyhet))}</span>${relMark(a)}<span class="date">${esc(a.datum||'')}</span></span>
       <h2>${esc(a.titel)}</h2>
       <p>${esc(a.ingress||'')}</p>
       ${a.kalla?`<span class="src">${esc(u.kalla)}: <b>${esc(a.kalla)}</b></span>`:''}
@@ -196,7 +303,7 @@ function openAbout(){
   el.innerHTML = `<button class="back">${esc(ui().back)}</button>
     <h1>${esc(a.title||'')}</h1>${a.body||''}${statusHTML()}`;
   el.querySelector('.back').addEventListener('click',()=>{ location.hash=''; });
-  LISTVY.forEach(s=>$(s).classList.add('hidden')); $('#article').classList.add('hidden');
+  LISTVY.forEach(s=>$(s).classList.add('hidden')); $('#article').classList.add('hidden'); $('#sit-panel').classList.add('hidden');
   el.classList.remove('hidden'); el.focus(); window.scrollTo(0,0);
 }
 async function openArticle(id){
@@ -218,7 +325,7 @@ async function openArticle(id){
     ${tldr}${latt}${full}
     ${a.kalla_url?`<div class="source-foot">${esc(u.original)} <a href="${esc(a.kalla_url)}" target="_blank" rel="noopener">${esc(a.kalla||a.kalla_url)}</a>.</div>`:''}`;
   el.querySelector('.back').addEventListener('click',()=>{ location.hash=''; });
-  LISTVY.forEach(s=>$(s).classList.add('hidden')); $('#about').classList.add('hidden');
+  LISTVY.forEach(s=>$(s).classList.add('hidden')); $('#about').classList.add('hidden'); $('#sit-panel').classList.add('hidden');
   el.classList.remove('hidden'); el.focus(); window.scrollTo(0,0);
 }
 boot();

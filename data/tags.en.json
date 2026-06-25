@@ -758,5 +758,15 @@
     "etikett": "Västerås.",
     "typ": "plats",
     "antal": 1
+  },
+  "ale": {
+    "etikett": "Ale",
+    "typ": "plats",
+    "antal": 1
+  },
+  "kungorelse": {
+    "etikett": "Announcement\n\n[Rest of the text would go here, maintaining the paragraph and list structure, and keeping names, numbers, dates, and URLs unchanged.]",
+    "typ": "organisation",
+    "antal": 1
   }
 }

@@ -683,5 +683,15 @@
     "etikett": "Västerås.",
     "typ": "plats",
     "antal": 1
+  },
+  "ale": {
+    "etikett": "Oczywiście. Proszę podać tekst, który mam przetłumaczyć.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "kungorelse": {
+    "etikett": "Ogłoszenie\n\n(Followed by the content of the announcement, which is missing in the prompt.  Please provide the text to be translated.)",
+    "typ": "organisation",
+    "antal": 1
   }
 }

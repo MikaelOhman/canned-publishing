@@ -683,5 +683,15 @@
     "etikett": "Västerås.",
     "typ": "plats",
     "antal": 1
+  },
+  "ale": {
+    "etikett": "Ale.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "kungorelse": {
+    "etikett": "Hirdetés\n\n[A következő szöveg következik, melyet a \"Kungörelse\" szöveg helyettesít.]",
+    "typ": "organisation",
+    "antal": 1
   }
 }

@@ -166,5 +166,33 @@ select:focus-visible,.search input:focus-visible,.chip:focus-visible,.card:focus
 [dir="rtl"] .stat-typ.kommun{border-right-color:var(--kommun)}
 [dir="rtl"] .stat-typ.omv{border-right-color:var(--omvarld)}
 
+/* Min situation – väljare + relevans-markör */
+.meta-row{display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap}
+.sit-btn{background:var(--bg3);color:var(--txt);border:1px solid var(--line);border-radius:99px;padding:5px 14px;cursor:pointer;font-size:.88rem;font-weight:600}
+.sit-btn:hover{border-color:var(--ac)}
+.sit-panel{margin:10px 0 4px;padding:16px;border:1px solid var(--line);border-radius:var(--radius);background:var(--bg2)}
+.sit-head{display:flex;align-items:center;justify-content:space-between;gap:10px}
+.sit-head h2{margin:0;font-size:1rem}
+.sit-clear{background:none;border:1px solid var(--line);color:var(--txt2);border-radius:99px;padding:3px 12px;cursor:pointer;font-size:.8rem}
+.sit-intro{color:var(--txt2);font-size:.86rem;margin:6px 0 12px}
+.sit-sub{font-size:.78rem;color:var(--txt3);text-transform:uppercase;letter-spacing:.04em;margin:8px 0 6px}
+.presets{display:flex;flex-wrap:wrap;gap:7px;margin-bottom:10px}
+.preset{background:var(--bg3);border:1px solid var(--line);color:var(--txt);border-radius:99px;padding:5px 12px;cursor:pointer;font-size:.85rem}
+.preset.on{background:var(--chip-on);border-color:var(--ac)}
+.ax-chips{display:flex;flex-direction:column;gap:8px}
+.ax-grupp{display:flex;flex-wrap:wrap;gap:6px}
+.ax{background:var(--bg3);border:1px solid var(--line);color:var(--txt);border-radius:99px;padding:5px 12px;cursor:pointer;font-size:.85rem}
+.ax.on{background:var(--chip-on);border-color:var(--ac);font-weight:600}
+.sit-share{margin-top:14px;border-top:1px solid var(--line);padding-top:10px}
+.sit-share summary{cursor:pointer;font-size:.86rem;color:var(--ac)}
+.sit-sharehelp{font-size:.8rem;color:var(--txt3);margin:8px 0}
+.share-row{display:flex;gap:8px}
+.share-row input{flex:1;min-width:0;background:var(--bg);border:1px solid var(--line);border-radius:7px;padding:6px 10px;color:var(--txt);font-size:.8rem}
+.share-row button{background:var(--bg3);border:1px solid var(--line);color:var(--txt);border-radius:7px;padding:6px 12px;cursor:pointer;white-space:nowrap}
+.rel{letter-spacing:1px;font-size:.7rem;color:var(--ac)}
+.rel1{color:var(--txt3)}.rel2{color:var(--ac)}.rel3{color:var(--ac2)}
+.card .toprow{display:flex;align-items:center;gap:8px}
+.card .toprow .date{margin-left:auto}
+
 @media (prefers-reduced-motion: reduce){*{transition:none!important;scroll-behavior:auto!important}}
 @media (max-width:560px){.brand{width:100%;margin-bottom:6px}.list{grid-template-columns:1fr}}

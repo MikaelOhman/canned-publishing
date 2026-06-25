@@ -783,5 +783,15 @@
     "etikett": "Västerås",
     "typ": "plats",
     "antal": 1
+  },
+  "ale": {
+    "etikett": "Ale",
+    "typ": "plats",
+    "antal": 1
+  },
+  "kungorelse": {
+    "etikett": "Kungörelse",
+    "typ": "organisation",
+    "antal": 1
   }
 }

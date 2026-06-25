@@ -683,5 +683,15 @@
     "etikett": "Västerås.",
     "typ": "plats",
     "antal": 1
+  },
+  "ale": {
+    "etikett": "Ale.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "kungorelse": {
+    "etikett": "Anunț\n\nVă informăm despre următoarele:",
+    "typ": "organisation",
+    "antal": 1
   }
 }

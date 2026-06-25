@@ -698,5 +698,15 @@
     "etikett": "فيستيروس.",
     "typ": "plats",
     "antal": 1
+  },
+  "ale": {
+    "etikett": "ألي.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "kungorelse": {
+    "etikett": "إعلان\n\n(Keep the paragraph and list structure, and keep names, numbers, dates and URLs unchanged. Translate for meaning.)",
+    "typ": "organisation",
+    "antal": 1
   }
 }

@@ -688,5 +688,15 @@
     "etikett": "Västerås.",
     "typ": "plats",
     "antal": 1
+  },
+  "ale": {
+    "etikett": "Ale.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "kungorelse": {
+    "etikett": "Mededeling\n\nHieronder vindt u een lijst met belangrijke informatie:\n\n*   [Naam/Onderwerp]\n*   [Datum]\n*   [Details/Beschrijving]\n*   [Contactgegevens/Website]",
+    "typ": "organisation",
+    "antal": 1
   }
 }

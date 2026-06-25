@@ -683,5 +683,15 @@
     "etikett": "Västerås.",
     "typ": "plats",
     "antal": 1
+  },
+  "ale": {
+    "etikett": "Ale.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "kungorelse": {
+    "etikett": "Anuncio\n\n(Keep the paragraph and list structure, and keep names, numbers, dates and URLs unchanged. Translate for meaning.)",
+    "typ": "organisation",
+    "antal": 1
   }
 }
