@@ -362,7 +362,7 @@
   "kommunstyrelsen": {
     "etikett": "Kommunstyrelsen",
     "typ": "organisation",
-    "antal": 50
+    "antal": 51
   },
   "kommunallagen": {
     "etikett": "Kommunallagen",
@@ -1272,6 +1272,11 @@
   "kommunfullmaktige-8aa66758-4d20-44d7-e2c": {
     "etikett": "Kommunfullmäktige {8AA66758 4D20 44D7 E2CC3811657C",
     "typ": "organisation",
+    "antal": 1
+  },
+  "nynashamn": {
+    "etikett": "Nynäshamns",
+    "typ": "plats",
     "antal": 1
   }
 }

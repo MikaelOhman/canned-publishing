@@ -372,7 +372,7 @@
   "kommunstyrelsen": {
     "etikett": "The Municipal Board.",
     "typ": "organisation",
-    "antal": 46
+    "antal": 47
   },
   "kommunal-forvaltning": {
     "etikett": "Municipal administration.",
@@ -1247,6 +1247,11 @@
   "kommunfullmaktige-8aa66758-4d20-44d7-e2c": {
     "etikett": "Unfortunately, I cannot translate the provided text because it appears to be a reference ID ({8AA66758 4D20 44D7 E2CC3811657C}) rather than actual text.  To provide a translation, I need the content you want me to translate.  Please provide the Swedish text you would like me to convert into English.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "nynashamn": {
+    "etikett": "Nynäshamns",
+    "typ": "plats",
     "antal": 1
   }
 }

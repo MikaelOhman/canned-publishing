@@ -307,7 +307,7 @@
   "kommunstyrelsen": {
     "etikett": "مجلس البلدية.",
     "typ": "organisation",
-    "antal": 47
+    "antal": 48
   },
   "kommunal-forvaltning": {
     "etikett": "الإدارة المحلية.",
@@ -1187,6 +1187,11 @@
   "kommunfullmaktige-8aa66758-4d20-44d7-e2c": {
     "etikett": "مجلس المدينة {8AA66758 4D20 44D7 E2CC3811657C",
     "typ": "organisation",
+    "antal": 1
+  },
+  "nynashamn": {
+    "etikett": "نونا shamns.",
+    "typ": "plats",
     "antal": 1
   }
 }
