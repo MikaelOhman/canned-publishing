@@ -1138,5 +1138,15 @@
     "etikett": "Kungsörs",
     "typ": "plats",
     "antal": 1
+  },
+  "laholm": {
+    "etikett": "Laholms",
+    "typ": "plats",
+    "antal": 1
+  },
+  "webb": {
+    "etikett": "WEB\n\n*   **WEBB**",
+    "typ": "organisation",
+    "antal": 1
   }
 }
