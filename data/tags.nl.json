@@ -533,5 +533,15 @@
     "etikett": "Gemeenteraad, inclusief bijlagen.",
     "typ": "organisation",
     "antal": 1
+  },
+  "kristianstad": {
+    "etikett": "Kristianstad.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "kultur-och-fritidsnamnden": {
+    "etikett": "de gemeenteraad voor cultuur en recreatie",
+    "typ": "organisation",
+    "antal": 1
   }
 }

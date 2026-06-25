@@ -593,5 +593,15 @@
     "etikett": "Gemeindeausschuss, einschließlich Anlagen.",
     "typ": "organisation",
     "antal": 1
+  },
+  "kristianstad": {
+    "etikett": "Kristianstad",
+    "typ": "plats",
+    "antal": 1
+  },
+  "kultur-och-fritidsnamnden": {
+    "etikett": "Der Kulturausschuss.",
+    "typ": "organisation",
+    "antal": 1
   }
 }

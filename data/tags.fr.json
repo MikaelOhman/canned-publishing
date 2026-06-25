@@ -533,5 +533,15 @@
     "etikett": "Commission municipale, y compris les annexes.",
     "typ": "organisation",
     "antal": 1
+  },
+  "kristianstad": {
+    "etikett": "Kristianstad.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "kultur-och-fritidsnamnden": {
+    "etikett": "la commission de la culture et des loisirs",
+    "typ": "organisation",
+    "antal": 1
   }
 }
