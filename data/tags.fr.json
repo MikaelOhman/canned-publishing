@@ -367,7 +367,7 @@
   "protokoll": {
     "etikett": "Procès-verbal.",
     "typ": "ämne",
-    "antal": 4
+    "antal": 5
   },
   "ulf-rapp": {
     "etikett": "Ulf Rapp",
@@ -1161,6 +1161,11 @@
   },
   "norberg": {
     "etikett": "Norbergs",
+    "typ": "plats",
+    "antal": 1
+  },
+  "norsjo": {
+    "etikett": "Norsjö",
     "typ": "plats",
     "antal": 1
   }

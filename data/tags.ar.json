@@ -362,7 +362,7 @@
   "protokoll": {
     "etikett": "محضر اجتماع.",
     "typ": "ämne",
-    "antal": 4
+    "antal": 5
   },
   "ulf-rapp": {
     "etikett": "أولف راب.",
@@ -1171,6 +1171,11 @@
   },
   "norberg": {
     "etikett": "Norbergs",
+    "typ": "plats",
+    "antal": 1
+  },
+  "norsjo": {
+    "etikett": "Norsjö",
     "typ": "plats",
     "antal": 1
   }
