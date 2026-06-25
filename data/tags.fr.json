@@ -482,7 +482,7 @@
   "gnesta": {
     "etikett": "Gnesta.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "socialnamnden": {
     "etikett": "le conseil des affaires sociales",
@@ -501,6 +501,11 @@
   },
   "ukn": {
     "etikett": "UKN",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "samhallsbyggnadsnamnden": {
+    "etikett": "commission de l'aménagement urbain",
     "typ": "organisation",
     "antal": 1
   }

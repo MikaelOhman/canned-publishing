@@ -482,7 +482,7 @@
   "gnesta": {
     "etikett": "Gnesta.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "socialnamnden": {
     "etikett": "il servizio sociale comunale",
@@ -501,6 +501,11 @@
   },
   "ukn": {
     "etikett": "UKN",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "samhallsbyggnadsnamnden": {
+    "etikett": "commissione per l'edilizia e lo sviluppo urbano",
     "typ": "organisation",
     "antal": 1
   }

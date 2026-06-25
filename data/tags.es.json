@@ -477,7 +477,7 @@
   "gnesta": {
     "etikett": "Gnesta.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "socialnamnden": {
     "etikett": "el departamento de servicios sociales",
@@ -496,6 +496,11 @@
   },
   "ukn": {
     "etikett": "Desconocido.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "samhallsbyggnadsnamnden": {
+    "etikett": "comisión de desarrollo urbano",
     "typ": "organisation",
     "antal": 1
   }

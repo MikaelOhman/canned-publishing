@@ -477,7 +477,7 @@
   "gnesta": {
     "etikett": "Gnesta\n\n(Brak kontekstu, więc nie można dokonać bardziej szczegółowego tłumaczenia. \"Gnesta\" to nazwa własna, prawdopodobnie nazwa miejscowości, więc pozostawiam ją bez tłumaczenia.)",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "socialnamnden": {
     "etikett": "referat från socialnämnden\nprotokół z posiedzenia komisji ds. opieki społecznej",
@@ -496,6 +496,11 @@
   },
   "ukn": {
     "etikett": "UKN",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "samhallsbyggnadsnamnden": {
+    "etikett": "komisja ds. rozwoju społecznego i budownictwa",
     "typ": "organisation",
     "antal": 1
   }

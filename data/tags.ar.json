@@ -502,7 +502,7 @@
   "gnesta": {
     "etikett": "جنستا",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "socialnamnden": {
     "etikett": "لجنة الشؤون الاجتماعية.",
@@ -521,6 +521,11 @@
   },
   "ukn": {
     "etikett": "غير معروف.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "samhallsbyggnadsnamnden": {
+    "etikett": "لجنة التخطيط العمراني والبناء.",
     "typ": "organisation",
     "antal": 1
   }

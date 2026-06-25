@@ -477,7 +477,7 @@
   "gnesta": {
     "etikett": "Gnesta.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "socialnamnden": {
     "etikett": "comisia de asistență socială",
@@ -496,6 +496,11 @@
   },
   "ukn": {
     "etikett": "UKN",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "samhallsbyggnadsnamnden": {
+    "etikett": "comisia de urbanism și construcții",
     "typ": "organisation",
     "antal": 1
   }

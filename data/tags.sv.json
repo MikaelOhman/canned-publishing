@@ -592,7 +592,7 @@
   "gnesta": {
     "etikett": "Gnesta",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "socialnamnden": {
     "etikett": "socialnämnden",
@@ -611,6 +611,11 @@
   },
   "ukn": {
     "etikett": "UKN",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "samhallsbyggnadsnamnden": {
+    "etikett": "samhällsbyggnadsnämnden",
     "typ": "organisation",
     "antal": 1
   }

@@ -477,7 +477,7 @@
   "gnesta": {
     "etikett": "Gnesta egy svéd település.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "socialnamnden": {
     "etikett": "a szociális bizottság",
@@ -496,6 +496,11 @@
   },
   "ukn": {
     "etikett": "Sajnálom, de nem tudom, hogy mit jelent a \"UKN\". Kérlek, adj több információt, hogy segíthessek.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "samhallsbyggnadsnamnden": {
+    "etikett": "településépítési bizottság",
     "typ": "organisation",
     "antal": 1
   }

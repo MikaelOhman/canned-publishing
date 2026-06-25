@@ -562,7 +562,7 @@
   "gnesta": {
     "etikett": "Gnesta is a municipality located in Södermanland County, Sweden. It's known for its beautiful natural landscapes, including forests, lakes, and rolling hills. The municipality offers a variety of outdoor activities, such as hiking, fishing, and boating. Gnesta also has a rich cultural heritage, with several historical sites and museums.\n\nHere are some key facts about Gnesta:\n\n*   **Location:** Södermanland County, Sweden\n*   **Area:** 1,470 square kilometers\n*   **Population:** Approximately 14,000\n*   **Main industries:** Agriculture, forestry, and tourism\n*   **Notable attractions:** Gnesta Canal, Mariefred Castle, and the Vikingaliv museum\n\nFor more information, you can visit the municipality's website: [No URL provided]",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "socialnamnden": {
     "etikett": "the social services board",
@@ -581,6 +581,11 @@
   },
   "ukn": {
     "etikett": "UKN",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "samhallsbyggnadsnamnden": {
+    "etikett": "the committee for urban development",
     "typ": "organisation",
     "antal": 1
   }

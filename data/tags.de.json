@@ -542,7 +542,7 @@
   "gnesta": {
     "etikett": "Gnesta\n\n(No text provided to translate. Please provide the Swedish text you would like me to translate into German.)",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "socialnamnden": {
     "etikett": "Der Sozialausschuss.",
@@ -561,6 +561,11 @@
   },
   "ukn": {
     "etikett": "UKN",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "samhallsbyggnadsnamnden": {
+    "etikett": "Der Ausschuss für Stadtentwicklung.",
     "typ": "organisation",
     "antal": 1
   }
