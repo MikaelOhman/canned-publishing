@@ -258,6 +258,9 @@ select:focus-visible,.search input:focus-visible,.chip:focus-visible,.card:focus
 /* ── Mobil/surfplatta: off-canvas filterlager ── */
 @media (max-width:899px){
   .layout{display:block}
+  /* när drawern är öppen: lyft hela layout-kontexten ÖVER den sticky toppbaren (z-index:5)
+     annars är sidofältets z-index instängt i .wrap-kontexten (z-index:1) och toppbaren döljer drawerns övre del */
+  .layout.filter-open{z-index:60}
   .filter-toggle{display:block;position:sticky;top:8px;z-index:30;margin:0 0 12px;width:100%;
     background:var(--ac);color:#fff;border:none;border-radius:99px;padding:11px;font-size:.95rem;font-weight:700;cursor:pointer;box-shadow:0 2px 10px #0006}
   .sidebar{position:fixed;top:0;left:0;height:100%;width:86%;max-width:360px;max-height:none;border-radius:0;
