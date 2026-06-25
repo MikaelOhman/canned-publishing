@@ -457,7 +457,7 @@
   "burlov": {
     "etikett": "Burlövs",
     "typ": "plats",
-    "antal": 2
+    "antal": 3
   },
   "sn": {
     "etikett": "SN",
@@ -816,6 +816,11 @@
   },
   "socialnamnden-offentlig-signed": {
     "etikett": "Komitet ds. spraw społecznych, podpis elektroniczny.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "jn": {
+    "etikett": "JN",
     "typ": "organisation",
     "antal": 1
   }
