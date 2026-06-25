@@ -1057,7 +1057,7 @@
   "valnamnden": {
     "etikett": "Valnämnden",
     "typ": "organisation",
-    "antal": 2
+    "antal": 3
   },
   "hultsfred": {
     "etikett": "Hultsfreds",
@@ -1432,6 +1432,11 @@
   "kstu-signed": {
     "etikett": "KSTU signed",
     "typ": "organisation",
+    "antal": 1
+  },
+  "stenungsund": {
+    "etikett": "Stenungsunds",
+    "typ": "plats",
     "antal": 1
   }
 }

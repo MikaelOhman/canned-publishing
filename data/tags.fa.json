@@ -957,7 +957,7 @@
   "valnamnden": {
     "etikett": "کمیسیون انتخابات",
     "typ": "organisation",
-    "antal": 2
+    "antal": 3
   },
   "hultsfred": {
     "etikett": "متن ارائه نشده است. لطفاً متن مورد نظر را ارائه دهید تا بتوانم آن را به فارسی ترجمه کنم.",
@@ -1332,6 +1332,11 @@
   "kstu-signed": {
     "etikett": "توافق‌نامه KSTU امضا شد.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "stenungsund": {
+    "etikett": "متن ارائه نشده است. لطفاً متن مورد نظر را ارائه دهید تا بتوانم آن را به فارسی ترجمه کنم.",
+    "typ": "plats",
     "antal": 1
   }
 }

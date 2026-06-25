@@ -972,7 +972,7 @@
   "valnamnden": {
     "etikett": "لجنة الانتخابات.",
     "typ": "organisation",
-    "antal": 2
+    "antal": 3
   },
   "hultsfred": {
     "etikett": "هولتسفريد.",
@@ -1347,6 +1347,11 @@
   "kstu-signed": {
     "etikett": "تم توقيع اتفاقية مع KSTU.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "stenungsund": {
+    "etikett": "Stenungsunds",
+    "typ": "plats",
     "antal": 1
   }
 }
