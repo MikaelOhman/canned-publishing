@@ -432,7 +432,7 @@
   "protokoll": {
     "etikett": "Protokoll",
     "typ": "händelse",
-    "antal": 4
+    "antal": 5
   },
   "alingsas": {
     "etikett": "Alingsås",
@@ -777,6 +777,11 @@
   "ksau": {
     "etikett": "KSAU",
     "typ": "organisation",
+    "antal": 1
+  },
+  "vasteras": {
+    "etikett": "Västerås",
+    "typ": "plats",
     "antal": 1
   }
 }

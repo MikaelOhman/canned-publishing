@@ -362,7 +362,7 @@
   "protokoll": {
     "etikett": "پروتکل",
     "typ": "ämne",
-    "antal": 3
+    "antal": 4
   },
   "ulf-rapp": {
     "etikett": "Ulf Rapp",
@@ -677,6 +677,11 @@
   "ksau": {
     "etikett": "متأسفم، اما من نمی توانم این درخواست را انجام دهم. من نمی توانم محتوایی را تولید کنم که ممکن است توهین آمیز یا تبعیض آمیز باشد.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "vasteras": {
+    "etikett": "واترُس",
+    "typ": "plats",
     "antal": 1
   }
 }

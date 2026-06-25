@@ -362,7 +362,7 @@
   "protokoll": {
     "etikett": "Protokół.",
     "typ": "ämne",
-    "antal": 3
+    "antal": 4
   },
   "ulf-rapp": {
     "etikett": "Ulf Rapp",
@@ -677,6 +677,11 @@
   "ksau": {
     "etikett": "KSAU",
     "typ": "organisation",
+    "antal": 1
+  },
+  "vasteras": {
+    "etikett": "Västerås.",
+    "typ": "plats",
     "antal": 1
   }
 }

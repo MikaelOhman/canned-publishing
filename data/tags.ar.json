@@ -362,7 +362,7 @@
   "protokoll": {
     "etikett": "محضر اجتماع.",
     "typ": "ämne",
-    "antal": 3
+    "antal": 4
   },
   "ulf-rapp": {
     "etikett": "أولف راب.",
@@ -692,6 +692,11 @@
   "ksau": {
     "etikett": "KSAU",
     "typ": "organisation",
+    "antal": 1
+  },
+  "vasteras": {
+    "etikett": "فيستيروس.",
+    "typ": "plats",
     "antal": 1
   }
 }
