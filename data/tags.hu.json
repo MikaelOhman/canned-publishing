@@ -648,5 +648,15 @@
     "etikett": "A településépítési bizottság",
     "typ": "organisation",
     "antal": 1
+  },
+  "umea": {
+    "etikett": "Umeå\n\n(Itt egy lehetséges, de kontextusfüggő fordítás. Ha több szöveg lenne, a kontextus alapján pontosabb fordítás lehetséges.)",
+    "typ": "plats",
+    "antal": 1
+  },
+  "an": {
+    "etikett": "Még.",
+    "typ": "organisation",
+    "antal": 1
   }
 }
