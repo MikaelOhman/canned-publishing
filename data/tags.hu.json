@@ -1392,11 +1392,16 @@
   "regionfullmaktige": {
     "etikett": "Régióközi képviselőtestület.",
     "typ": "organisation",
-    "antal": 2
+    "antal": 3
   },
   "regionstyrelsen": {
     "etikett": "A regionális igazgatóság.",
     "typ": "organisation",
-    "antal": 2
+    "antal": 4
+  },
+  "reg-orebro": {
+    "etikett": "Örebro megye.",
+    "typ": "organisation",
+    "antal": 3
   }
 }

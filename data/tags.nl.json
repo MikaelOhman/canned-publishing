@@ -1402,11 +1402,16 @@
   "regionfullmaktige": {
     "etikett": "Regionale vertegenwoordigers.",
     "typ": "organisation",
-    "antal": 2
+    "antal": 3
   },
   "regionstyrelsen": {
     "etikett": "Regionale bestuursraad.",
     "typ": "organisation",
-    "antal": 2
+    "antal": 4
+  },
+  "reg-orebro": {
+    "etikett": "Regio Örebro län.",
+    "typ": "organisation",
+    "antal": 3
   }
 }

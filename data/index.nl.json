@@ -3002,6 +3002,30 @@
     }
   },
   {
+    "id": "reg-orebro-regionstyrelsen-2026-06-08",
+    "typ": "region",
+    "titel": "Regioraad, Regio Örebro län, 8 juni 2026.",
+    "ingress": "Het Regionale Bestuur van de provincie Örebro heeft beslissingen genomen over verschillende belangrijke investeringen in de gezondheidszorg, waaronder voor kinderen, ouderen en vrouwen. Ze hebben ook plannen gemaakt voor toekomstige budgett",
+    "datum": "2026-06-08",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionstyrelsen/mote-2026-06-08",
+    "taggar": [
+      "reg-orebro",
+      "regionstyrelsen"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_bygg": 3,
+      "b_transport": 3,
+      "b_konsult": 3,
+      "barn": 3,
+      "kvinna": 3,
+      "flygresenar": 5,
+      "kronisk": 8,
+      "tandvard": 3
+    }
+  },
+  {
     "id": "bollebygd-kommunfullmaktige-2026-06-04",
     "typ": "kommunbeslut",
     "titel": "Gemeenteraad, gemeente Bollebygd, 4 juni 2026.",
@@ -3739,6 +3763,22 @@
       "lantagare": 8,
       "skuldsatt": 8,
       "konsument": 3
+    }
+  },
+  {
+    "id": "reg-orebro-regionstyrelsen-2026-05-26",
+    "typ": "region",
+    "titel": "Regioraad, Regio Örebro län, 26 mei 2026.",
+    "ingress": "De regio heeft een voorstel ontvangen om de opleiding van specialisten te verbeteren en de regio aantrekkelijker te maken als werkplek.",
+    "datum": "2026-05-26",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionstyrelsen/mote-2026-05-26",
+    "taggar": [
+      "reg-orebro",
+      "regionstyrelsen"
+    ],
+    "relevans": {
+      "kronisk": 8
     }
   },
   {
@@ -5444,6 +5484,27 @@
       "pensionar": 5,
       "konsument": 4,
       "barn": 3
+    }
+  },
+  {
+    "id": "reg-orebro-regionfullmaktige-2026-04-08",
+    "typ": "region",
+    "titel": "Regionaal volmachtdragende, Regio Örebro län, 8 april 2026.",
+    "ingress": "Het Regionale Parlement van de provincie Örebro heeft beslissingen genomen over belangrijke kwesties met betrekking tot de gezondheidszorg, het openbaar vervoer en de economie van de regio.",
+    "datum": "2026-04-08",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionfullmaktige/mote-2026-04-08",
+    "taggar": [
+      "reg-orebro",
+      "regionfullmaktige"
+    ],
+    "relevans": {
+      "redovisning": 3,
+      "barn": 3,
+      "sjukskriven": 3,
+      "pendlare": 3,
+      "kollektiv": 8,
+      "kronisk": 8
     }
   },
   {

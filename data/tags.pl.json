@@ -1392,11 +1392,16 @@
   "regionfullmaktige": {
     "etikett": "Członkowie regionalnej rady.",
     "typ": "organisation",
-    "antal": 2
+    "antal": 3
   },
   "regionstyrelsen": {
     "etikett": "Regionalna Rada Zarządzająca.",
     "typ": "organisation",
-    "antal": 2
+    "antal": 4
+  },
+  "reg-orebro": {
+    "etikett": "Region Örebro län",
+    "typ": "organisation",
+    "antal": 3
   }
 }

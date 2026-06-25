@@ -2959,6 +2959,30 @@
     }
   },
   {
+    "id": "reg-orebro-regionstyrelsen-2026-06-08",
+    "typ": "region",
+    "titel": "Consiliul Regional, Regiunea Örebro, 8 iunie 2026.",
+    "ingress": "Consiliul regional din Örebro a luat decizii cu privire la mai multe investiții importante în domeniul sănătății, inclusiv pentru copii, persoane vârstnice și sănătatea femeilor. De asemenea, au fost planificate bugete viitoare și reguli pr",
+    "datum": "2026-06-08",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionstyrelsen/mote-2026-06-08",
+    "taggar": [
+      "reg-orebro",
+      "regionstyrelsen"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_bygg": 3,
+      "b_transport": 3,
+      "b_konsult": 3,
+      "barn": 3,
+      "kvinna": 3,
+      "flygresenar": 5,
+      "kronisk": 8,
+      "tandvard": 3
+    }
+  },
+  {
     "id": "bollebygd-kommunfullmaktige-2026-06-04",
     "typ": "kommunbeslut",
     "titel": "Consiliul municipal al comunei Bollebygds, 4 iunie 2026.",
@@ -3678,6 +3702,22 @@
       "b_vard": 3,
       "b_life": 3,
       "kronisk": 5
+    }
+  },
+  {
+    "id": "reg-orebro-regionstyrelsen-2026-05-26",
+    "typ": "region",
+    "titel": "Consiliul Regional, Regiunea Örebro, 26 mai 2026.",
+    "ingress": "Regiunea a primit o propunere de îmbunătățire a formării specialiștilor în medicină și de transformare a regiunii într-un loc de muncă mai atractiv.",
+    "datum": "2026-05-26",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionstyrelsen/mote-2026-05-26",
+    "taggar": [
+      "reg-orebro",
+      "regionstyrelsen"
+    ],
+    "relevans": {
+      "kronisk": 8
     }
   },
   {
@@ -5380,6 +5420,27 @@
       "pensionar": 5,
       "konsument": 4,
       "barn": 3
+    }
+  },
+  {
+    "id": "reg-orebro-regionfullmaktige-2026-04-08",
+    "typ": "region",
+    "titel": "Adresați-vă la:\nConsiliul Regional, Regiunea Örebro, 2026-04-08.",
+    "ingress": "Consiliul regional din regiunea Örebro a luat decizii importante referitoare la serviciile medicale, transportul public și economia regiunii.",
+    "datum": "2026-04-08",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionfullmaktige/mote-2026-04-08",
+    "taggar": [
+      "reg-orebro",
+      "regionfullmaktige"
+    ],
+    "relevans": {
+      "redovisning": 3,
+      "barn": 3,
+      "sjukskriven": 3,
+      "pendlare": 3,
+      "kollektiv": 8,
+      "kronisk": 8
     }
   },
   {

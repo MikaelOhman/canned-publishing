@@ -1402,11 +1402,16 @@
   "regionfullmaktige": {
     "etikett": "Membres du conseil régional.",
     "typ": "organisation",
-    "antal": 2
+    "antal": 3
   },
   "regionstyrelsen": {
     "etikett": "Conseil régional.",
     "typ": "organisation",
-    "antal": 2
+    "antal": 4
+  },
+  "reg-orebro": {
+    "etikett": "Région d'Örebro län.",
+    "typ": "organisation",
+    "antal": 3
   }
 }

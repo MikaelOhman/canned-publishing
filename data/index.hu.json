@@ -2937,6 +2937,30 @@
     }
   },
   {
+    "id": "reg-orebro-regionstyrelsen-2026-06-08",
+    "typ": "region",
+    "titel": "A Regionális Igazgatóság (Regionstyrelsen), az Örebro megyei régió részéről, 2026. június 8.",
+    "ingress": "Az Örebro megyei regionális önkormányzat több fontos beruházást is jóváhagyott az egészségügyi ellátás terén, beleértve a gyermekek, idősek és a női egészségre vonatkozó intézkedéseket. Emellett tervezték a jövőbeli költségvetéseket és szab",
+    "datum": "2026-06-08",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionstyrelsen/mote-2026-06-08",
+    "taggar": [
+      "reg-orebro",
+      "regionstyrelsen"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_bygg": 3,
+      "b_transport": 3,
+      "b_konsult": 3,
+      "barn": 3,
+      "kvinna": 3,
+      "flygresenar": 5,
+      "kronisk": 8,
+      "tandvard": 3
+    }
+  },
+  {
     "id": "bollebygd-kommunfullmaktige-2026-06-04",
     "typ": "kommunbeslut",
     "titel": "Bollebygds község önkormányzati testülete, 2026. június 4.",
@@ -3656,6 +3680,22 @@
       "b_vard": 3,
       "b_life": 3,
       "kronisk": 5
+    }
+  },
+  {
+    "id": "reg-orebro-regionstyrelsen-2026-05-26",
+    "typ": "region",
+    "titel": "A Regionális Igazgatóság (Regionstyrelsen), az Örebro megyei régió részét képező szervezet, 2026. május 26-án kelt.",
+    "ingress": "A régió egy javaslatot kapott, amelynek célja a szakorvosok képzésének javítása és a régió vonzóbbá tétele munkáltatóként.",
+    "datum": "2026-05-26",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionstyrelsen/mote-2026-05-26",
+    "taggar": [
+      "reg-orebro",
+      "regionstyrelsen"
+    ],
+    "relevans": {
+      "kronisk": 8
     }
   },
   {
@@ -5358,6 +5398,27 @@
       "pensionar": 5,
       "konsument": 4,
       "barn": 3
+    }
+  },
+  {
+    "id": "reg-orebro-regionfullmaktige-2026-04-08",
+    "typ": "region",
+    "titel": "Örebro megye regionális képviselője, 2026. április 8.",
+    "ingress": "Az Örebro megyei regionális gyűlés fontos döntéseket hozott a régió egészségügyi ellátásával, tömegközlekedésével és gazdaságával kapcsolatban.",
+    "datum": "2026-04-08",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionfullmaktige/mote-2026-04-08",
+    "taggar": [
+      "reg-orebro",
+      "regionfullmaktige"
+    ],
+    "relevans": {
+      "redovisning": 3,
+      "barn": 3,
+      "sjukskriven": 3,
+      "pendlare": 3,
+      "kollektiv": 8,
+      "kronisk": 8
     }
   },
   {

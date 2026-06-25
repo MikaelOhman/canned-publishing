@@ -3002,6 +3002,30 @@
     }
   },
   {
+    "id": "reg-orebro-regionstyrelsen-2026-06-08",
+    "typ": "region",
+    "titel": "Consiglio regionale, Regione di Örebro, 8 giugno 2026.",
+    "ingress": "La giunta regionale della contea di Örebro ha preso decisioni su importanti investimenti nel settore sanitario, tra cui iniziative specifiche per bambini, anziani e salute femminile. Inoltre, sono state pianificate le future allocazioni di",
+    "datum": "2026-06-08",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionstyrelsen/mote-2026-06-08",
+    "taggar": [
+      "reg-orebro",
+      "regionstyrelsen"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_bygg": 3,
+      "b_transport": 3,
+      "b_konsult": 3,
+      "barn": 3,
+      "kvinna": 3,
+      "flygresenar": 5,
+      "kronisk": 8,
+      "tandvard": 3
+    }
+  },
+  {
     "id": "bollebygd-kommunfullmaktige-2026-06-04",
     "typ": "kommunbeslut",
     "titel": "Al Consiglio Comunale di Bollebygds, 4 giugno 2026.",
@@ -3739,6 +3763,22 @@
       "lantagare": 8,
       "skuldsatt": 8,
       "konsument": 3
+    }
+  },
+  {
+    "id": "reg-orebro-regionstyrelsen-2026-05-26",
+    "typ": "region",
+    "titel": "Giunta regionale, Regione di Örebro, 26 maggio 2026.",
+    "ingress": "La regione ha ricevuto una proposta volta a migliorare la formazione dei medici specializzati e a rendere la regione un luogo di lavoro più attraente.",
+    "datum": "2026-05-26",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionstyrelsen/mote-2026-05-26",
+    "taggar": [
+      "reg-orebro",
+      "regionstyrelsen"
+    ],
+    "relevans": {
+      "kronisk": 8
     }
   },
   {
@@ -5444,6 +5484,27 @@
       "pensionar": 5,
       "konsument": 4,
       "barn": 3
+    }
+  },
+  {
+    "id": "reg-orebro-regionfullmaktige-2026-04-08",
+    "typ": "region",
+    "titel": "Autorizzazione regionale, Regione di Örebro, 8 aprile 2026.",
+    "ingress": "L'assemblea regionale della contea di Örebro ha preso decisioni importanti riguardanti la sanità, il trasporto pubblico e l'economia della regione.",
+    "datum": "2026-04-08",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionfullmaktige/mote-2026-04-08",
+    "taggar": [
+      "reg-orebro",
+      "regionfullmaktige"
+    ],
+    "relevans": {
+      "redovisning": 3,
+      "barn": 3,
+      "sjukskriven": 3,
+      "pendlare": 3,
+      "kollektiv": 8,
+      "kronisk": 8
     }
   },
   {

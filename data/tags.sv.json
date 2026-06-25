@@ -1507,11 +1507,16 @@
   "regionfullmaktige": {
     "etikett": "Regionfullmaktige",
     "typ": "organisation",
-    "antal": 2
+    "antal": 3
   },
   "regionstyrelsen": {
     "etikett": "Regionstyrelsen",
     "typ": "organisation",
-    "antal": 2
+    "antal": 4
+  },
+  "reg-orebro": {
+    "etikett": "Region Örebro län",
+    "typ": "organisation",
+    "antal": 3
   }
 }

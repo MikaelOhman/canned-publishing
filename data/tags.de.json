@@ -1462,11 +1462,16 @@
   "regionfullmaktige": {
     "etikett": "Regionalrät*innen.",
     "typ": "organisation",
-    "antal": 2
+    "antal": 3
   },
   "regionstyrelsen": {
     "etikett": "Regionalrat.",
     "typ": "organisation",
-    "antal": 2
+    "antal": 4
+  },
+  "reg-orebro": {
+    "etikett": "Region Örebro län",
+    "typ": "organisation",
+    "antal": 3
   }
 }

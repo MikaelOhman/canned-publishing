@@ -2988,6 +2988,30 @@
     }
   },
   {
+    "id": "reg-orebro-regionstyrelsen-2026-06-08",
+    "typ": "region",
+    "titel": "هیئت منطقه ای، منطقه اربرو، تاریخ: ۸ ژوئن ۲۰۲۶.",
+    "ingress": "شورای منطقه ای استان اربرو تصمیماتی مهم در مورد سرمایه گذاری ها در حوزه بهداشت و درمان اتخاذ کرده است، از جمله برای کودکان، سالمندان و سلامت زنان. همچنین، برنامه ریزی هایی برای بودجه های آینده و قوانین مربوط به نحوه اداره این منطقه تا سال 2",
+    "datum": "2026-06-08",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionstyrelsen/mote-2026-06-08",
+    "taggar": [
+      "reg-orebro",
+      "regionstyrelsen"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_bygg": 3,
+      "b_transport": 3,
+      "b_konsult": 3,
+      "barn": 3,
+      "kvinna": 3,
+      "flygresenar": 5,
+      "kronisk": 8,
+      "tandvard": 3
+    }
+  },
+  {
     "id": "bollebygd-kommunfullmaktige-2026-06-04",
     "typ": "kommunbeslut",
     "titel": "جلسه شورای شهر، شهرداری بولبیگد، 2026-06-04.",
@@ -3707,6 +3731,22 @@
       "b_vard": 3,
       "b_life": 3,
       "kronisk": 5
+    }
+  },
+  {
+    "id": "reg-orebro-regionstyrelsen-2026-05-26",
+    "typ": "region",
+    "titel": "هیئت منطقه ای، سازمان منطقه ای اربرو، تاریخ: 26 مه 2026.",
+    "ingress": "این منطقه، پیشنهادی را دریافت کرده است که هدف آن بهبود آموزش پزشکان متخصص و تبدیل این منطقه به یک مکان کار بهتر است.",
+    "datum": "2026-05-26",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionstyrelsen/mote-2026-05-26",
+    "taggar": [
+      "reg-orebro",
+      "regionstyrelsen"
+    ],
+    "relevans": {
+      "kronisk": 8
     }
   },
   {
@@ -5383,6 +5423,27 @@
       "pensionar": 5,
       "konsument": 4,
       "barn": 3
+    }
+  },
+  {
+    "id": "reg-orebro-regionfullmaktige-2026-04-08",
+    "typ": "region",
+    "titel": "به اطلاع می‌رساند که این مجوز، توسط اعضای شورای منطقه \"örebro län\" در تاریخ 2026-04-08 صادر شده است.",
+    "ingress": "شورا یا مجلس نمایندگان استان اربرو تصمیماتی مهم در مورد مسائل مربوط به خدمات درمانی، حمل و نقل عمومی و اقتصاد این منطقه اتخاذ کرده است.",
+    "datum": "2026-04-08",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionfullmaktige/mote-2026-04-08",
+    "taggar": [
+      "reg-orebro",
+      "regionfullmaktige"
+    ],
+    "relevans": {
+      "redovisning": 3,
+      "barn": 3,
+      "sjukskriven": 3,
+      "pendlare": 3,
+      "kollektiv": 8,
+      "kronisk": 8
     }
   },
   {

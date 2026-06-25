@@ -1392,11 +1392,16 @@
   "regionfullmaktige": {
     "etikett": "نمایندگان منطقه ای",
     "typ": "organisation",
-    "antal": 2
+    "antal": 3
   },
   "regionstyrelsen": {
     "etikett": "شورای منطقه ای",
     "typ": "organisation",
-    "antal": 2
+    "antal": 4
+  },
+  "reg-orebro": {
+    "etikett": "منطقه: شهرستان اربرو (Örebro län)",
+    "typ": "organisation",
+    "antal": 3
   }
 }

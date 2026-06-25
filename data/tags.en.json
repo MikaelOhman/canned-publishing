@@ -1472,11 +1472,16 @@
   "regionfullmaktige": {
     "etikett": "Regional representatives.",
     "typ": "organisation",
-    "antal": 2
+    "antal": 3
   },
   "regionstyrelsen": {
     "etikett": "Regional Board.",
     "typ": "organisation",
-    "antal": 2
+    "antal": 4
+  },
+  "reg-orebro": {
+    "etikett": "Region Örebro County.",
+    "typ": "organisation",
+    "antal": 3
   }
 }
