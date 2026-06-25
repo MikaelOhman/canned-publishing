@@ -377,7 +377,7 @@
   "kommunfullmaktige": {
     "etikett": "Kommunfullmäktige",
     "typ": "organisation",
-    "antal": 8
+    "antal": 9
   },
   "kommunpolitik": {
     "etikett": "Kommunpolitik",
@@ -562,6 +562,11 @@
   "grannehorande-skromberga-12-14": {
     "etikett": "Grannehörande SKROMBERGA 12 14",
     "typ": "organisation",
+    "antal": 1
+  },
+  "boras": {
+    "etikett": "Borås",
+    "typ": "plats",
     "antal": 1
   }
 }

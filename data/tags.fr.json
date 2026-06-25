@@ -292,7 +292,7 @@
   "kommunfullmaktige": {
     "etikett": "Conseil municipal.",
     "typ": "organisation",
-    "antal": 8
+    "antal": 9
   },
   "kommunpolitik": {
     "etikett": "Politique municipale.",
@@ -452,6 +452,11 @@
   "grannehorande-skromberga-12-14": {
     "etikett": "Consultation avec les voisins concernant le projet SKROMBERGA 12 14.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "boras": {
+    "etikett": "Borås.",
+    "typ": "plats",
     "antal": 1
   }
 }

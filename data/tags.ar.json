@@ -292,7 +292,7 @@
   "kommunfullmaktige": {
     "etikett": "مجلس البلدية.",
     "typ": "organisation",
-    "antal": 7
+    "antal": 8
   },
   "kommunpolitik": {
     "etikett": "سياسة البلديات.",
@@ -472,6 +472,11 @@
   "grannehorande-skromberga-12-14": {
     "etikett": "استطلاع رأي الجيران بشأن مشروع SKROMBERGA 12 14.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "boras": {
+    "etikett": "بوراس",
+    "typ": "plats",
     "antal": 1
   }
 }

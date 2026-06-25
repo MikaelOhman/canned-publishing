@@ -287,7 +287,7 @@
   "kommunfullmaktige": {
     "etikett": "شوراى شهر",
     "typ": "organisation",
-    "antal": 7
+    "antal": 8
   },
   "kommunpolitik": {
     "etikett": "سیاست‌های شهرداری",
@@ -447,6 +447,11 @@
   "grannehorande-skromberga-12-14": {
     "etikett": "جلسه اطلاع‌رسانی به همسایگان، مربوط به پروژه SKROMBERGA 12، تاریخ 14.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "boras": {
+    "etikett": "بوروس\n\n(No further context was provided, so this is a simple translation of the name \"Borås\".)",
+    "typ": "plats",
     "antal": 1
   }
 }
