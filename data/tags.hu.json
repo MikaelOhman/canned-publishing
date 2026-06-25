@@ -503,5 +503,15 @@
     "etikett": "településépítési bizottság",
     "typ": "organisation",
     "antal": 1
+  },
+  "grums": {
+    "etikett": "Grums",
+    "typ": "plats",
+    "antal": 1
+  },
+  "grundlaggande-granskning-av-kommunstyrel": {
+    "etikett": "A kommunális tanács alapvető felülvizsgálata.",
+    "typ": "organisation",
+    "antal": 1
   }
 }
