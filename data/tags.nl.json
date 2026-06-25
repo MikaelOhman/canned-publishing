@@ -457,7 +457,7 @@
   "boras": {
     "etikett": "Borås.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "burlov": {
     "etikett": "Burlövs",
@@ -796,6 +796,11 @@
   },
   "grannehorande-skromberga": {
     "etikett": "Buurtbijeenkomst SKROMBERGA\n\n(Hier volgt waarschijnlijk een lijst met informatie over de bijeenkomst, maar die ontbreekt in de originele tekst. Ik kan deze dus niet vertalen.)",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "s-grundskolenamnden": {
+    "etikett": "S Grundskolenämnden.",
     "typ": "organisation",
     "antal": 1
   }

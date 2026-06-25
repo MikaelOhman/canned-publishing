@@ -477,7 +477,7 @@
   "boras": {
     "etikett": "بوراس",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "burlov": {
     "etikett": "بُورْلُوڤس.",
@@ -806,6 +806,11 @@
   },
   "grannehorande-skromberga": {
     "etikett": "استطلاع رأي الجيران بشأن مشروع \"SKROMBERGA\".",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "s-grundskolenamnden": {
+    "etikett": "S Grundskolenämnden: (هذا الجزء لا يحتاج إلى ترجمة لأنه اسم مؤسسة)",
     "typ": "organisation",
     "antal": 1
   }

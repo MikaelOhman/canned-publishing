@@ -452,7 +452,7 @@
   "boras": {
     "etikett": "Borås.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "burlov": {
     "etikett": "Burlövs",
@@ -791,6 +791,11 @@
   },
   "grannehorande-skromberga": {
     "etikett": "Informacja dla sąsiadów dotycząca projektu SKROMBERGA.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "s-grundskolenamnden": {
+    "etikett": "S Grundskolenämnden.",
     "typ": "organisation",
     "antal": 1
   }

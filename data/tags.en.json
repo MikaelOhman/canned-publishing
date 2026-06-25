@@ -537,7 +537,7 @@
   "boras": {
     "etikett": "Borås is a city located in the southern part of Sweden. It's known for its textile industry and its vibrant cultural scene. Here are some key facts about Borås:\n\n*   **Location:** Southern Sweden\n*   **Industry:** Textile industry\n*   **Culture:** Vibrant cultural scene",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "burlov": {
     "etikett": "Burlövs",
@@ -866,6 +866,11 @@
   },
   "grannehorande-skromberga": {
     "etikett": "Neighbor Consultation: SKROMBERGA",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "s-grundskolenamnden": {
+    "etikett": "S Grundskolenämnden (Elementary School Board)",
     "typ": "organisation",
     "antal": 1
   }
