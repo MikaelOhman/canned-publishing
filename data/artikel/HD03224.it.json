@@ -12,10 +12,13 @@
   "tldr": "Il governo intende modificare le regole su come l'Ufficio di Esecuzione Forzata (Kronofogden) ponga sotto sequestro i beni delle persone indebitate. L'obiettivo è accelerare il processo di pagamento dei debiti e rendere più facile la vendita di case e appartamenti per ottenere liquidità.",
   "lattlast": "<p>Il governo ha presentato una proposta volta a semplificare il lavoro dell&#x27;Ufficio di Esecuzione (Kronofogden). Attraverso la possibilità per un maggior numero di enti pubblici di collaborare alle esecuzioni a distanza, ovvero verificando i beni senza essere fisicamente presenti, si spera di individuare più beni che possono essere venduti. Questo dovrebbe aiutare le persone che hanno diritto a risarcimenti e coloro che attendono di essere pagati per i loro debiti.</p><p>Sono state proposte anche modifiche al modo in cui le case e gli appartamenti vengono venduti quando vengono pignorati per saldare debiti. Si vuole che il processo assomigli di più a una vendita ordinaria, ad esempio attraverso aste online o tramite agenzie immobiliari. L&#x27;idea è che questo porti a una vendita dei beni a un prezzo più alto, consentendo di destinare più denaro al pagamento dei debiti.</p><p>Poiché si tratta di un intervento significativo nella vita delle persone, il governo intende rendere le regole più chiare. Si propone che nella legge sia specificato che l&#x27;Ufficio di Esecuzione deve tenere conto di ciò che è ragionevole e deve sempre dare priorità al benessere del bambino. Questo è importante per proteggere le famiglie che subiscono la confisca dei loro beni da parte delle autorità.</p><p>Se il Parlamento approverà la proposta, le nuove regole entreranno in vigore il 1° luglio 2026. La proposta prevede anche modifiche a diverse altre leggi relative a tasse, dogane e guardia costiera, per garantire che tutto funzioni in modo coerente.</p>",
   "relevans": {
-    "b_fastighet": 1,
-    "import": 1,
-    "barn": 1,
-    "lantagare": 1,
-    "skuldsatt": 1
+    "skuldsatt": 10,
+    "lantagare": 7,
+    "bostadsagare": 7,
+    "hyresgast": 4,
+    "brottsoffer": 5,
+    "barn": 5,
+    "b_finans": 4,
+    "b_fastighet": 4
   }
 }

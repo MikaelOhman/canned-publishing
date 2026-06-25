@@ -12,8 +12,12 @@
   "tldr": "Regeringen vill införa en ny lag för att stoppa folk från att använda lustgas för att bli berusade. Lagen innebär striktare regler för hur mycket lustgas som får säljas och till vem.",
   "lattlast": "<p>Regeringen föreslår en ny lag som ska göra det svårare att använda lustgas som drog. Det ska inte vara tillåtet att sälja lustgas i butiker om det finns en risk att gasen används för att bli berusad.</p><p>Det finns nya regler för hur mycket man får köpa. En person får bara köpa högst 18 gram lustgas åt gången, och det får vara max två behållare. Det är också förbjudet att sälja lustgas till personer som är under 18 år.</p><p>De som säljer lustgas måste berätta detta för Folkhälsomyndigheten, som är den myndighet som kontrollerar att reglerna följs. Om någon säljer lustgas på fel sätt kan man få böter eller hamna i fängelse i upp till sex månader.</p><p>De nya reglerna är tänkta att börja gälla den 1 juli 2025. Butiker som redan säljer lustgas har en övergångsperiod och kan fortsätta sälja utan att ha gjort en anmälan fram till den 1 september 2025.</p>",
   "relevans": {
-    "b_handel": 1,
-    "infrastruktur": 1,
-    "batagare": 1
+    "b_handel": 4,
+    "tillstand": 5,
+    "konsument": 3,
+    "ung": 4,
+    "ung_vuxen": 4,
+    "b_besok": 3,
+    "regelborda": 3
   }
 }

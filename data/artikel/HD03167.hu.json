@@ -12,6 +12,10 @@
   "tldr": "A kormány szeretné módosítani a törvényeket annak érdekében, hogy biztonságosabb legyen a sugárzás és a radioaktív anyagok ellenőrzése. A javaslat célja, hogy pontosabban meghatározza, ki jogosult biztonsági ellenőrzéseket végezni, és hogyan kell ellenőrizni a kis mennyiségű radioaktív anyagot.",
   "lattlast": "<p>A kormány új szabályokat javasol azoknak a vállalkozásoknak, amelyek sugárzást vagy atomtechnológiát használnak. A cél, hogy törvénybe foglalják, hogy olyan ellenőrzéseknek kell lennie, amelyek bizonyítják, hogy minden biztonsági előírás betartásra kerül. Emellett pontosan meghatároznák, hogy ezek az ellenőrzések hogyan történjenek, és hogy mely személyek vagy vállalatok jogosultak ezeket elvégezni.</p><p>Új szabályokat vezetnek be a radioaktív anyagok ellenőrzésére, amelyek az EU-n belüli (Euratom) közös szabályozáson alapulnak. Azok számára, akik csak kis mennyiségű radioaktív anyagot használnak, egy egyszerűbb megoldást javasolnak, amely egy nemzeti LOF (engedély). Ez megkönnyíti a kisebb vállalkozások számára, hogy betartsák a radioaktív anyagok kezelésére vonatkozó szabályokat.</p><p>Egy hatóság feladata lesz ellenőrizni, hogy az új szabályok a radioaktív anyagokkal kapcsolatban betartásra kerülnek-e. Ugyanakkor a kormány javasolja, hogy egy régi, bizonyos szabálysértésekre vonatkozó büntetést megszüntessék, mivel az új szabályok felváltják a régi szabályokat.</p><p>Ha a parlament megszavazza a javaslatot, az új törvények 2026. augusztus 1-jén lépnek hatályba. Az új törvények szabályokat tartalmaznak az atomtechnológiával kapcsolatban, valamint arról, hogy hogyan kell bejelenteni azokat a vállalkozásokat, amelyek radioaktív anyagokkal foglalkoznak.</p>",
   "relevans": {
-    "foretagare": 1
+    "b_energi": 6,
+    "b_life": 4,
+    "b_industri": 4,
+    "miljo": 3,
+    "eu_marknad": 4
   }
 }

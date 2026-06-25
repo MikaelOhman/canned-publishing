@@ -15,11 +15,15 @@
   "tldr": "Consiliul municipal din Stockholm a răspuns unor întrebări referitoare la terminalul de autobuze din Slussen, la gestionarea datelor personale și la modificările din transportul public.",
   "lattlast": "<p>Consiliul municipal a trimis un răspuns către Tribunalul Administrativ din Stockholm. Răspunsul se referă la o verificare a unei decizii anterioare de a vinde o clădire situată lângă stația de autobuze din Slussen.</p><p>De asemenea, orașul a răspuns la o propunere din partea Consiliului pentru Prevenirea Criminalității. Propunerea vizează modificarea regulilor privind utilizarea datelor personale și modul în care trebuie respectată confidențialitatea.</p><p>S-au luat, de asemenea, decizii cu privire la modificările din transportul public SL și WÅAB pe parcursul anului 2026/2027. Aceasta a fost o reacție la un comunicat din partea Regiunii Stockholm privind modificările viitoare ale transportului public.</p><p>Membrii partidelor Moderaterna și Liberalerna au făcut o declarație separată cu privire la problema transportului. Ei și-au exprimat opiniile cu privire la modificările planificate ale transportului public.</p>",
   "relevans": {
-    "b_fastighet": 2,
-    "gdpr": 1,
-    "pendlare": 1,
-    "kollektiv": 2,
-    "kronisk": 1,
-    "integritet": 1
+    "kollektiv": 6,
+    "pendlare": 5,
+    "storstad": 5,
+    "f_storstad": 5,
+    "bostadsagare": 3,
+    "gdpr": 3,
+    "integritet": 3,
+    "f_kommun": 5,
+    "fortroendevald": 4,
+    "offentliganstalld": 3
   }
 }

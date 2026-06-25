@@ -13,11 +13,11 @@
   "tldr": "Alingsås kommun har beslutat om nya regler för hur kommunens alla företag ska arbeta. Man har också godkänt en plan för att bygga en ny förskola i området Ingared.",
   "lattlast": "<p>Kommunfullmäktige har beslutat att ändra företagspolicyn för Alingsås kommunkoncern. En policy är ett dokument som beskriver vilka regler och värderingar som ska gälla när kommunens olika verksamheter och företag arbetar.</p><p>Man har också beslutat att godkänna en detaljplan för Ingared. Det betyder att man nu har gett tillstånd för att bygga en ny förskola vid Kärrbogärdevägen på fastigheten Ingared 5:114.</p><p>Mötet handlade även om att ändra reglerna för bolaget AB Alingsås Rådhus. Man har även diskuterat frågor om vatten och avlopp (VA) samt områden som Lövekulle camping, Noltorp och Edsås.</p><p>Slutligen genomfördes flera val för att ersätta personer som lämnat sina uppdrag i olika nämnder. En nämnd är en grupp politiker som ansvarar för specifika områden, som till exempel skola eller byggfrågor.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_fastighet": 1,
-    "tillstand": 1,
-    "mark_bygglov": 1,
-    "barn": 2,
-    "bygger": 1
+    "f_kommun": 5,
+    "fortroendevald": 7,
+    "b_fastighet": 3,
+    "mark_bygglov": 4,
+    "barn": 4,
+    "bostadsagare": 3
   }
 }

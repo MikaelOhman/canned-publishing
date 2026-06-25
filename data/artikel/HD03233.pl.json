@@ -12,7 +12,16 @@
   "tldr": "Proponowane są nowe przepisy mające na celu powstrzymanie oszustw za pośrednictwem SMS-ów i innych cyfrowych wiadomości. Firmy odpowiedzialne za obsługę Twojej komunikacji powinny być w stanie blokować wiadomości, które wyglądają na potencjalnie szkodliwe.",
   "lattlast": "<p>Rząd chce zmienić prawo dotyczące komunikacji elektronicznej, aby utrudnić oszustwom w przestrzeni cyfrowej. Propozycja ta przewiduje, że firmy świadczące usługi przesyłania wiadomości, takie jak usługi SMS, poniosą większą odpowiedzialność za zapobieganie oszustwom.</p><p>Jeśli firma zauważy informacje techniczne dotyczące wiadomości, które wskazują na to, że jest to oszustwo lub próba wprowadzenia ludzi w błąd, nie powinna przekazywać tej wiadomości dalej. Ważne jest, aby wiedzieć, że firmy nie mogą czytać treści Twoich wiadomości w celu weryfikacji, ale mogą jedynie analizować informacje techniczne dotyczące przesyłanych danych.</p><p>Aby móc wykonywać tę pracę, firmy mogą przetwarzać pewne informacje dotyczące wiadomości, ale tylko tak długo, jak jest to konieczne do powstrzymania oszustwa. Po tym czasie informacje te muszą zostać natychmiast usunięte. Rząd lub inny organ określi dokładnie, jakie zasady będą obowiązywać w tym zakresie.</p><p>Nowe przepisy są częścią działań podejmowanych w Unii Europejskiej w celu stworzenia bezpieczniejszej komunikacji cyfrowej. Jeśli propozycja zostanie przyjęta, nowe przepisy wступą w życie 1 sierpnia 2026 roku.</p>",
   "relevans": {
-    "foretagare": 1,
-    "kollektiv": 1
+    "smaforetag": 4,
+    "b_it": 6,
+    "b_finans": 4,
+    "gdpr": 7,
+    "konsumentratt": 5,
+    "digitalisering": 5,
+    "eu_marknad": 4,
+    "konsument": 5,
+    "integritet": 6,
+    "otrygg": 5,
+    "digital_ovan": 4
   }
 }

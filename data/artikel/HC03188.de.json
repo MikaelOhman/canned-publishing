@@ -15,8 +15,11 @@
   ],
   "html": "<p>---</p><p>Im Gesetzesentwurf wird vorgeschlagen, einen Basistabzug im Gesetz über die Risikobewertung für Kreditinstitute einzuführen. Der Vorschlag sieht vor, dass ein schwedisches oder ein ausländisches Kreditinstitut einen Basistabzug vom Steuerungsgrundlage für die Risikobewertung abziehen soll. Der Basistabzug soll in Höhe des Schwellenwerts für die Steuerpflicht liegen, der für das betreffende Steuerjahr gilt. Wenn ein Kreditinstitut Teil eines Konzerns mit mehreren Kreditinstituten ist, ist der Basistabzug auf die einzelnen Kreditinstitute entsprechend ihrem Anteil am gesamten Steuerungsgrundlage des Konzerns zum Jahresbeginn zu verteilen.</p><p>Um den Zweck der Risikobewertung nicht zu untergraben, soll der Vorschlag haushaltsneutral sein. Im Gesetzesentwurf wird daher auch vorgeschlagen, den Steuersatz für die Risikobewertung von 0,06 auf 0,07 Prozent der Steuerungsgrundlage zum Jahresbeginn anzuheben.</p><p>Es wird vorgeschlagen, dass die neuen Bestimmungen am 1. Januar 2026 in Kraft treten.</p>",
   "relevans": {
-    "storforetag": 1,
-    "b_finans": 2,
-    "bolagsskatt": 1
+    "b_finans": 10,
+    "storforetag": 7,
+    "aktiebolag": 6,
+    "bolagsskatt": 7,
+    "sparare": 4,
+    "pensionssparare": 3
   }
 }

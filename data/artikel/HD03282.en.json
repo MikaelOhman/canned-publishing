@@ -12,10 +12,24 @@
   "tldr": "The Swedish Tax Agency (Skatteverket) wants to gain better control over fraud related to tax deductions for things like cleaning services and solar panels. The proposal would make it easier for the agency to audit companies and detect violations of labor laws.",
   "lattlast": "<p>The government has proposed new regulations to make it more difficult to cheat on taxes. This concerns deductions known as ROT, RUT, and green technology, which are refunds received when purchasing services such as cleaning or the installation of solar panels.</p><p>Companies performing the work must now clearly state whether they have used other companies or staffing agencies to assist. The tax authority (Skatteverket) will also gain greater opportunities to conduct audits and visit companies to ensure everything is being done correctly. It will also become easier to send information digitally to the authorities.</p><p>If a company has received incorrect payments, the tax authority will be able to demand repayment and also calculate an additional cost in the form of interest. It will also be possible to review taxes retroactively if errors are discovered in the application for a tax deduction.</p><p>If all of these changes are approved by the parliament, the new regulations will come into effect on January 1, 2027. The purpose is to stop tax fraud and crime in the workplace by making it easier for the tax authority to monitor what is actually happening.</p>",
   "relevans": {
-    "arbetsgivare": 3,
-    "b_konsult": 1,
-    "sparare": 1,
-    "lantagare": 1,
-    "otrygg": 1
+    "solo": 6,
+    "aktiebolag": 6,
+    "arbetsgivare": 6,
+    "smaforetag": 7,
+    "storforetag": 5,
+    "familjeforetag": 6,
+    "b_bygg": 6,
+    "b_vard": 5,
+    "b_konsult": 6,
+    "b_it": 4,
+    "moms": 5,
+    "redovisning": 6,
+    "regelborda": 6,
+    "tillstand": 4,
+    "upphandling": 4,
+    "bostadsagare": 5,
+    "bygger": 6,
+    "konsument": 4,
+    "foretagare": 6
   }
 }

@@ -13,20 +13,16 @@
   "tldr": "Kommunstyrelsen i Norrtälje har fattat flera beslut om investeringar i kommunens byggnader, skolor och miljö, samt ändringar i byggplaner och avgifter.",
   "lattlast": "<p>Kommunstyrelsen har beslutat om flera viktiga investeringar för år 2026. Det handlar bland annat om att riva byggnaden Jupiter 1 för att skapa parkeringsplatser och gröna ytor, samt att bygga en ny byggnad för källsortering vid Hamnplan i Norrtälje hamn. Man ska även satsa pengar på att byta ut larm och passersystem i kommunens hus samt anpassa skolor för elever med särskilda behov.</p><p>Några ändringar i regler och avgifter har också beslutats. Det gäller bland annat nya priser för tjänster inom barn- och skolnämnden samt nya avgifter för kultur och fritid. Dessutom har man godkänt ändringar i byggplaner för områden i Åkerö och Häverö-Bergby för att styra hur marken får användas.</p><p>Kommunen har även tagit emot pengar från en särskild fond som kallas landsbygds- och skapargpeng för att stödja utvecklingen i området. Samtidigt har man tittat på hur man kan arbeta bättre mot brott som drabbar välfärden, till exempel genom att skapa tydligare rutiner för polisanmälningar och för att kräva tillbaka pengar som betalats ut felaktigt.</p><p>Slutligen har man diskuterat hur tillgängligheten i kommunens alla verksamheter ser ut idag. Målet är att hitta lösningar som gör det lättare för alla människor att använda kommunens tjänster och byggnader.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_vard": 1,
-    "b_kultur": 1,
-    "finansiering": 1,
-    "infrastruktur": 1,
-    "f_landsbygd": 1,
-    "barn": 1,
-    "glesbygd": 1,
-    "bil": 1,
-    "funktion": 1,
-    "konsument": 2,
-    "batagare": 1,
-    "klimat": 1,
-    "kultur": 1,
-    "otrygg": 1
+    "f_kommun": 5,
+    "mark_bygglov": 4,
+    "barn": 4,
+    "funktion": 4,
+    "klimat": 3,
+    "b_fastighet": 3,
+    "b_utbildning": 3,
+    "lokaler": 3,
+    "miljo": 3,
+    "idrott": 3,
+    "glesbygd": 3
   }
 }

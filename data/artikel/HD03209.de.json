@@ -12,10 +12,12 @@
   "tldr": "Um den Ausbau von Gefängnissen und Untersuchungshaftanstalten zu beschleunigen – da die Strafvollzugsbehörden stark überbelegt sind –, wird das Bau- und Planungsrecht geändert. Befristete Baugenehmigungen für Justizvollzugsanstalten und Untersuchungshaftanstalten sollen leichter zu erhalten sein und können bis zu 20 Jahre gültig sein. Darüber hinaus erhält die Regierung die Möglichkeit, bei akuter Raumnot Maßnahmen zu ergreifen.",
   "lattlast": "<p>Die Strafvollzugsbehörde benötigt dringend mehr Plätze in Gefängnissen und Untersuchungshaftanstalten. Der Gesetzentwurf soll den Ausbau beschleunigen, flexibler und effizienter gestalten, indem Änderungen im Bauplanungsrecht vorgenommen werden.</p><p>Die Möglichkeiten zur Erteilung von zeitlich begrenzten Baugenehmigungen für Anstalten und Untersuchungshaftanstalten werden erweitert, und die maximale Dauer solcher Genehmigungen wird auf zwanzig Jahre verlängert.</p><p>Die Regierung soll außerdem die Befugnis erhalten, tätig zu werden, wenn eine akute und spürbare Gefahr einer erheblichen Kapazitätsknappheit im Strafvollzug besteht.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_vard": 1,
-    "mark_bygglov": 1,
-    "bygger": 1,
-    "domd": 3
+    "otrygg": 4,
+    "brottsoffer": 3,
+    "f_kommun": 4,
+    "mark_bygglov": 6,
+    "b_bygg": 5,
+    "b_fastighet": 4,
+    "lokaler": 3
   }
 }

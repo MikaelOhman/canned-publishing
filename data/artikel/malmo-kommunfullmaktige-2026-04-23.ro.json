@@ -13,12 +13,18 @@
   "tldr": "În ultima sa ședință, Consiliul orașului Malmö a luat decizii importante cu privire la viitorul orașului, acoperind subiecte precum construcții noi, planuri de mediu și programe pentru copii și tineri.",
   "lattlast": "<p>În cadrul ședinței consiliului municipal, au fost discutate planurile pentru mediul și natura din Malmö. Se lucrează la un plan pentru spațiile verzi și albastre ale orașului, care vizează îmbunătățirea parcurilor și a zonelor acvatice din Malmö.</p><p>De asemenea, există planuri pentru proiecte de construcție majore. Primăria din Malmö analizează posibilitatea de a construi un nou stadion Malmö în zona Sporthallen. S-a discutat, de asemenea, despre modul în care clădirile orașului vor fi utilizate și distribuite în perioada 2027-2036.</p><p>Este, de asemenea, importantă munca de sprijinire a copiilor și tinerilor. Primăria a primit un raport despre modul în care se poate consolida activitatea preventivă împotriva drogurilor, prin colaborarea mai bună între diferitele părți ale orașului.</p><p>Mai mulți politicieni au prezentat diverse propuneri, numite &quot;moțiuni&quot;. Aceste propuneri acoperă o gamă largă de subiecte, de la modul în care sunt calculate taxele pentru grădinițe, până la modul în care Malmö poate deveni mai democratic și cum se poate îmbunătăți viața de zi cu zi a persoanelor în vârstă.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "lokaler": 1,
-    "barn": 2,
-    "konsument": 1,
-    "idrott": 1,
-    "klimat": 1,
-    "fortroendevald": 1
+    "f_storstad": 6,
+    "storstad": 6,
+    "f_kommun": 7,
+    "barn": 5,
+    "ung": 5,
+    "bostadsagare": 3,
+    "hyresgast": 3,
+    "idrott": 4,
+    "klimat": 4,
+    "offentliganstalld": 4,
+    "fortroendevald": 5,
+    "b_fastighet": 4,
+    "lokaler": 3
   }
 }

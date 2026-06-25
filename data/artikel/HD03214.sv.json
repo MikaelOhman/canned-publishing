@@ -12,9 +12,12 @@
   "tldr": "Sverige vill ändra lagarna för att bättre kunna skydda landet mot it-attacker. Genom att ändra reglerna ska myndigheter lättare kunna dela viktig information med varandra.",
   "lattlast": "<p>Det nationella cybersäkerhetscentret, som kallas NCSC, finns inom Försvarets radioanstalt, även kallat FRA. Deras jobb är att upptäcka och stoppa digitala hot och attacker mot Sveriges datorer och nätverk. För att de ska kunna göra ett bra jobb behöver de kunna prata med andra myndigheter och dela information.</p><p>Idag finns det regler för sekretess som gör det svårt för myndigheterna att dela den information som behövs. Regeringen vill därför införa nya lagar. De föreslår en ny lag som gör att myndigheterna måste dela information med varandra, och en ny lag för hur FRA får hantera personuppgifter i sitt arbete.</p><p>Regeringen vill också ändra i den lag som heter offentlighets- och sekretesslagen. Syftet är att skydda enskilda personer men samtidigt göra det möjligt att samarbeta mot it-hot. Dessa ändringar är viktiga för att göra Sveriges digitala samhälle säkrare.</p><p>Om riksdagen röstar ja till förslaget kommer de nya lagarna att börja gälla den 15 juli 2026.</p>",
   "relevans": {
-    "b_it": 1,
-    "gdpr": 3,
-    "integritet": 1,
-    "varnpliktig": 1
+    "gdpr": 7,
+    "digitalisering": 6,
+    "integritet": 6,
+    "b_it": 6,
+    "bredbandsberoende": 4,
+    "storforetag": 4,
+    "offentliganstalld": 5
   }
 }

@@ -13,8 +13,13 @@
   "tldr": "Der Sozialausschuss von Umeå hat die Entscheidung darüber, wer den Vertrag für die häusliche Pflege erhält, vorerst ausgesetzt. Er möchte, dass die Mitarbeiter, die an dem Fall arbeiten, weitere Informationen einreichen, bevor eine endgültige Entscheidung getroffen wird.",
   "lattlast": "<p>Der Sozialausschuss hat am 17. Juni 2026 eine Sitzung abgehalten, um über die häusliche Pflege in Umeå zu sprechen. Es handelt sich um eine Ausschreibung, was bedeutet, dass die Gemeinde nach dem geeigneten Unternehmen sucht, das die häusliche Pflege für Erwachsene erbringen soll.</p><p>Die Gemeinde hält sich an ein Gesetz namens LOU (Gesetz über öffentliche Aufträge). Dieses Gesetz soll sicherstellen, dass alle Unternehmen die Möglichkeit haben, fair um den Auftrag zu konkurrieren. Zwei verschiedene Ausschüsse der Gemeinde arbeiten bei diesem Prozess zusammen.</p><p>Eine Gruppe, die sich mit Ausschreibungen befasst, hat die Antworten verschiedener Unternehmen geprüft und einen Vorschlag erstellt, welche Unternehmen den Auftrag erhalten sollten. Dieser Vorschlag wird als Beschlussprotokoll bezeichnet.</p><p>Trotz dieses Vorschlags hat der Sozialausschuss sich gegen eine sofortige Entscheidung entschieden. Er hat die Angelegenheit an die Verwaltung zurückgegeben, also an die Stelle, die die Entscheidungen vorbereitet. Die Verwaltung soll zusätzliche Informationen bereitstellen, damit der Ausschuss eine vollständige und klare Grundlage für seine Entscheidung hat, bevor er diese verabschiedet.</p>",
   "relevans": {
-    "b_fastighet": 1,
-    "upphandling": 2,
-    "pensionar": 2
+    "pensionar": 5,
+    "kronisk": 4,
+    "anhorigvardare": 5,
+    "funktion": 4,
+    "offentliganstalld": 4,
+    "f_kommun": 5,
+    "b_vard": 6,
+    "upphandling": 5
   }
 }

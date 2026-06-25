@@ -12,10 +12,12 @@
   "tldr": "Afin d'accélérer la construction de prisons et de centres de détention – le système pénitentiaire est actuellement très saturé – la loi sur l'urbanisme et la construction est modifiée. Les permis de construire temporaires pour les établissements pénitentiaires et les centres de détention seront plus faciles à obtenir et pourront être valables jusqu'à 20 ans, et le gouvernement se verra doté de moyens d'action en cas de pénurie de places.",
   "lattlast": "<p>Le Service pénitentiaire a besoin rapidement de davantage de places en prisons et en centres de détention. La proposition vise à accélérer, à rendre plus flexible et plus efficace l&#x27;extension des infrastructures, grâce à des modifications de la loi sur l&#x27;urbanisme et la construction.</p><p>Les possibilités d&#x27;accorder des permis de construire temporaires pour les établissements pénitentiaires et les centres de détention sont élargies, et la durée maximale de ces permis est prolongée à vingt ans.</p><p>Le gouvernement se voit également conférer le pouvoir d&#x27;agir en cas de risque grave et imminent de pénurie de places dans le système pénitentiaire.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_vard": 1,
-    "mark_bygglov": 1,
-    "bygger": 1,
-    "domd": 3
+    "otrygg": 4,
+    "brottsoffer": 3,
+    "f_kommun": 4,
+    "mark_bygglov": 6,
+    "b_bygg": 5,
+    "b_fastighet": 4,
+    "lokaler": 3
   }
 }

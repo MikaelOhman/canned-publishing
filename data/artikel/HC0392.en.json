@@ -12,8 +12,10 @@
   "tldr": "The government wants to change the rules for foreign nationals who are supposed to leave Sweden, in order to ensure that more people actually return home. The proposal includes measures such as extending the duration of deportation orders and making it more difficult to switch from asylum status to a work permit while already in the country.",
   "lattlast": "<p>The government has proposed new laws that are scheduled to come into effect on April 1, 2025. The aim is to ensure that more individuals who have been ordered to leave Sweden, a process known as &quot;removal,&quot; actually return to their home countries.</p><p>A key element of the proposal is that a decision to remove someone from the country will remain in effect for five years after the individual has returned home. If the person has been issued a re-entry ban, meaning they are prohibited from returning to Sweden, this period could be extended. It will also become possible to impose longer re-entry bans if the person has not voluntarily left the country within the specified timeframe.</p><p>The government also wants to change the rules regarding what is known as &quot;switching tracks.&quot; Currently, individuals whose asylum applications have been rejected may sometimes apply to stay in the country to work. The new rules will eliminate this system, meaning that it will no longer be possible to switch from asylum status to a work permit while already residing in Sweden.</p><p>The proposal also includes clearer rules regarding when a re-entry ban takes effect. This will be calculated from the day the person leaves EU countries or leaves Sweden, if the person is being sent to another EU country.</p>",
   "relevans": {
-    "arbetskraft_inv": 1,
-    "asyl": 1,
-    "arbetstillstand": 1
+    "asyl": 10,
+    "arbetstillstand": 9,
+    "ny_i_sverige": 7,
+    "arbetskraft_inv": 7,
+    "eu_marknad": 3
   }
 }

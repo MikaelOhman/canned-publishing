@@ -12,7 +12,12 @@
   "tldr": "A rendőrség és más hatóságoknak jogot kell kapniuk arra, hogy adatokat szerezzenek be olyan vállalatoktól, amelyek digitális azonosítókat kínálnak. Ez azért szükséges, hogy hatékonyabban lehessen combaítani az olyan bűncselekményeket, amelyek banki szolgáltatásokhoz és kriptovalutákhoz kapcsolódnak.",
   "lattlast": "<p>A kormány egy javaslatot terjesztett be, amely megkönnyíti a bűnmegelőzési munkát végző hatóságok számára az információk megszerzését. Jelenleg a bankoknak és a pénzügyi intézményeknek kötelezettségük van megadni az ügyfelekről szóló adatokat a bűnügyi nyomozások során, még akkor is, ha ez titoktartási kötelezettséggel jár. Most azt szeretnék, hogy az e-aláírás szolgáltatók is ugyanilyen kötelezettségük legyen az információk megadásával.</p><p>Ez különösen igaz akkor, amikor az e-aláírás banki szolgáltatásokhoz való bejelentkezéshez vagy fizetések jóváhagyásához használatos. A változás lehetővé teszi a rendőrség és más hatóságok számára, hogy közvetlenül az e-aláírás szolgáltatókhoz forduljanak, hogy megvizsgálják, hogyan használta egy személy a digitális azonosítóját a pénzügyi intézményekkel szemben. A cél az, hogy a bűnözést hatékonyabban lehessen nyomon követni és megakadályozni.</p><p>A javaslat emellett módosításokat tartalmaz a kriptovalutákkal és más kriptoügyekkel kapcsolatos szabályozásokban. A kriptoaktivumokkal foglalkozó vállalatoknak mostantól kötelezettségük lehet, hogy információkat szolgáltassanak a hatóságoknak a felderítő tevékenységük során. Ez a digitális gazdaság ellenőrzésének és nyomon követésének része.</p><p>Ha a parlament megszavazza a javaslatot, az új szabályok 2026. május 1-jén lépnek életbe. A javaslat több különböző törvényt is módosít, többek között a nemzetközi jogi együttműködést, valamint a fizetésekre és a kriptopiacokra vonatkozó szabályokat.</p>",
   "relevans": {
-    "b_finans": 2,
-    "otrygg": 2
+    "b_finans": 7,
+    "b_it": 5,
+    "gdpr": 6,
+    "integritet": 7,
+    "sparare": 3,
+    "lantagare": 3,
+    "aktiebolag": 3
   }
 }

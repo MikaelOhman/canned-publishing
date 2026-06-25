@@ -12,8 +12,10 @@
   "tldr": "The government wants to change the laws regarding how the Swedish Prison and Probation Service can use personal data. The purpose is to make the work safer and more efficient, for example, by enabling the use of facial recognition technology.",
   "lattlast": "<p>The government has proposed changes to several laws governing how the Swedish Prison and Probation Service (Kriminalvården) handles information about individuals. The goal is to modernize the regulations to better suit current needs, while also protecting people&#x27;s privacy.</p><p>The new regulations will make it easier for the Prison and Probation Service to use the information necessary to carry out sentences safely. This includes giving the agency greater opportunities to use technology, such as facial recognition, to facilitate its work.</p><p>The proposal covers changes to several different laws, including the Prison Act and regulations for electronic monitoring, also known as ankle bracelets. If the Parliament approves the proposal, the new regulations are expected to come into effect on April 1, 2026.</p>",
   "relevans": {
-    "gdpr": 1,
-    "domd": 3,
-    "integritet": 2
+    "domd": 7,
+    "integritet": 6,
+    "gdpr": 4,
+    "offentliganstalld": 4,
+    "otrygg": 3
   }
 }

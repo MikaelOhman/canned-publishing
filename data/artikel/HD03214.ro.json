@@ -12,9 +12,12 @@
   "tldr": "Suedia dorește să modifice legile pentru a putea proteja mai bine țara împotriva atacurilor cibernetice. Prin modificarea regulilor, autoritățile vor putea împărtăși mai ușor informații importante între ele.",
   "lattlast": "<p>Centrul Național de Securitate Cibernetică, cunoscut sub numele de NCSC, este o entitate din cadrul Agenției de Comunicații Militare, cunoscută și sub numele de FRA. Misiunea sa este de a detecta și de a preveni amenințările și atacurile cibernetice împotriva computerelor și rețelelor din Suedia. Pentru a-și îndeplini această misiune în mod eficient, este esențial ca NCSC să poată comunica cu alte autorități și să împărtășească informații.</p><p>În prezent, există reglementări privind confidențialitatea care îngreunează schimbul de informații necesare între autorități. Prin urmare, guvernul intenționează să introducă noi legi. Acesta propune o nouă lege care obligă autoritățile să împărtășească informații între ele și o nouă lege privind modul în care FRA poate gestiona datele personale în activitatea sa.</p><p>Guvernul dorește, de asemenea, să modifice legea privind accesul la informații și confidențialitatea. Scopul este de a proteja persoanele fizice, dar, în același timp, de a facilita cooperarea în combaterea amenințărilor IT. Aceste modificări sunt importante pentru a face societatea digitală a Suediei mai sigură.</p><p>Dacă Parlamentul votează în favoarea propunerii, noile legi vor intra în vigoare la 15 iulie 2026.</p>",
   "relevans": {
-    "b_it": 1,
-    "gdpr": 3,
-    "integritet": 1,
-    "varnpliktig": 1
+    "gdpr": 7,
+    "digitalisering": 6,
+    "integritet": 6,
+    "b_it": 6,
+    "bredbandsberoende": 4,
+    "storforetag": 4,
+    "offentliganstalld": 5
   }
 }

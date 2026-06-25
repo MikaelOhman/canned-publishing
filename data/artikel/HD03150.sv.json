@@ -12,7 +12,13 @@
   "tldr": "Regeringen vill införa en ny lag som låter polisen använda AI för att känna igen ansikten i realtid. Syftet är att lättare kunna hitta personer som är försvunna eller misstänkta för allvarliga brott.",
   "lattlast": "<p>Regeringen har lagt fram ett förslag på en ny lag som gör det möjligt för polisen att använda AI-system för ansiktsigenkänning. Det betyder att polisen kan använda teknik för att identifiera personer direkt när de ses via kameror. Detta ska hjälpa polisen att bekämpa allvarlig brottslighet som skjutningar och sprängningar.</p><p>Tekniken får bara användas i speciella och allvarliga situationer. Det kan handla om att hitta personer som har blivit utsatta för människohandel eller som är försvunna. Det kan också användas för att hitta personer som är misstänkta för mycket allvarliga brott där straffet är minst fyra års fängelse.</p><p>För att skydda människors rättigheter får polisen inte använda tekniken hur som helst. Det krävs ett tillstånd från en åklagare eller en domstol. Om det är en mycket brådskande situation får polisen börja använda tekniken direkt, men de måste då söka tillstånd inom 24 timmar.</p><p>Förslaget innehåller även ändringar i flera andra lagar som rör hur Sverige samarbetar med andra länder vid brott. Om alla ändringar går igenom är planen att den nya lagen ska börja gälla den 1 juli år 2026.</p>",
   "relevans": {
-    "tillstand": 1,
-    "otrygg": 3
+    "otrygg": 6,
+    "brottsoffer": 5,
+    "integritet": 7,
+    "gdpr": 5,
+    "digitalisering": 5,
+    "b_it": 4,
+    "offentliganstalld": 4,
+    "ny_i_sverige": 3
   }
 }

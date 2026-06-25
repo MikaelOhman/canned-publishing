@@ -13,15 +13,15 @@
   "tldr": "Władze gminy Alingsås podjęły decyzję o nowych stawkach procentowych dla spółek komunalnych w roku 2027. Ponadto zatwierdziły nowy plan zagospodarowania przestrzennego dla przedszkola, które ma zostać wybudowane przy ulicy Nolhaga allé.",
   "lattlast": "<p>Zarząd gminy podjął decyzję dotyczącą wysokości dodatkowej odsetki, jaką gmina będzie pobierać, gdy pożycza pieniądze swoim spółkom w roku 2027. Robi się to, aby wszystkie spółki miały takie same warunki, jakie panują na zwykłym rynku. Dla spółek Alingsås Rådhus i Alingsås Energi odsetki zostaną nieznacznie podwyższone, natomiast dla spółek Alingsåshem i Alingsåshem lokaler zostaną nieznacznie obniżone.</p><p>Kolejna ważna decyzja dotyczy budownictwa w mieście. Gmina zatwierdziła plan zagospodarowania przestrzennego dla nowego przedszkola przy ulicy Nolhaga allé w dzielnicy Sörhaga. Plan zagospodarowania przestrzennego to dokument, który określa, w jaki sposób można wykorzystywać tereny i wody, na przykład do budowy szkół lub domów.</p><p>Podczas spotkania omawiano również plany na przyszłość. Wspomniano, że prace przygotowawcze projektu w Stadsskogen, o nazwie etap 5, mają się rozpocząć. Rozmawiano również o informacjach dotyczących wody i o tym, jak jezioro Mjörn jest wykorzystywane jako źródło wody pitnej.</p><p>Dodatkowo, informowano, że politycy będą obecni podczas Festiwalu Ziemniaków. Będą stali wzdłuż drogi przy budynku Teliahuset i w kierunku parku kościelnego, aby spotykać się z mieszkańcami.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_energi": 1,
-    "lokaler": 1,
-    "mark_bygglov": 1,
-    "barn": 1,
-    "bygger": 1,
-    "glesbygd": 1,
-    "sparare": 1,
-    "lantagare": 1,
-    "energikund": 1
+    "b_fastighet": 5,
+    "b_energi": 4,
+    "finansiering": 4,
+    "f_kommun": 5,
+    "mark_bygglov": 4,
+    "lokaler": 3,
+    "barn": 3,
+    "fortroendevald": 5,
+    "offentliganstalld": 3,
+    "energikund": 3
   }
 }

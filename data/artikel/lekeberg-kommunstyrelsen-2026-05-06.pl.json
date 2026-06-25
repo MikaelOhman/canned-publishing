@@ -13,6 +13,11 @@
   "tldr": "E-mail zawiera zaktualizowane dane dotyczące wody i kanalizacji w gminie Lekeberg. Dotyczy on wzrostu kosztów oczyszczania wody, który okazał się wyższy niż pierwotnie przewidywano.",
   "lattlast": "<p>Mårten Frumerie, dyrektor firmy zajmującej się gospodarką wodną Vättern, przesłał informacje dotyczące nowych danych. Wyjaśnił, że koszt oczyszczania wody wzrósł bardziej niż przewidywano wcześniej.</p><p>Ten wzrost jest spowodowany tym, że oczyszczanie ścieków stało się droższe. Jest to ważna zmiana, ponieważ wpływa na ilość pieniędzy potrzebnych do utrzymania infrastruktury wodnej i kanalizacyjnej w gminie.</p><p>Caroline Elfors z gminy Lekeberg otrzymała te informacje i przekazała je odpowiednim osobom. Celem wiadomości e-mail jest zapewnienie, że wszyscy mają dostęp do najnowszych i najdokładniejszych danych, niezbędnych do dalszej pracy.</p>",
   "relevans": {
-    "glesbygd": 1
+    "f_kommun": 5,
+    "energikund": 6,
+    "offentliganstalld": 4,
+    "b_energi": 4,
+    "glesbygd": 3,
+    "mindre_ort": 3
   }
 }

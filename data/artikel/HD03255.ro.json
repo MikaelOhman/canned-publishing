@@ -12,9 +12,16 @@
   "tldr": "Guvernul dorește să modifice legea pentru a permite Biroului Central de Statistică (SCB) să colecteze mai multe informații despre nivelul datoriilor gospodăriilor, precum și despre sumele pe care acestea le plătesc sub formă de dobânzi și rate. Acest lucru se face pentru a înțelege mai bine riscurile economice din societate.",
   "lattlast": "<p>Guvernul a prezentat o propunere de extindere a activității unui sistem numit Fasit. Fasit este un instrument utilizat de Biroul Central de Statistică (SCB) pentru a calcula modul în care diferite reglementări economice afectează oamenii. Prin adăugarea de informații despre datorii și plăți, se poate obține o imagine mai clară a cât de sensibile sunt gospodăriile la schimbările din economie.</p><p>Pentru ca acest lucru să funcționeze, băncile și alte companii care activează în domeniul creditelor ipotecare trebuie să furnizeze SCB informații despre datoriile și plățile gospodăriilor. Este important să se știe cât de mulți bani sunt direcționați către datorii, pentru a putea planifica politica economică a țării. Acest lucru ajută autoritățile să determine dacă ratele mari ale dobânzilor sau alte costuri creează probleme majore pentru familii.</p><p>Chiar dacă se colectează mai multe informații, regulile privind datele personale rămân stricte. Trebuie utilizate doar datele necesare și nu trebuie utilizate informații sensibile, cum ar fi cele referitoare la sănătate sau origine etnică. Scopul este de a obține statistici precise, fără a încălca dreptul la intimitate al oamenilor.</p><p>Dacă propunerea este aprobată și Parlamentul votează în favoare, noile reguli vor intra în vigoare începând cu 1 august 2026.</p>",
   "relevans": {
-    "b_finans": 1,
-    "gdpr": 1,
-    "lantagare": 3,
-    "integritet": 2
+    "lantagare": 6,
+    "skuldsatt": 6,
+    "bostadsagare": 5,
+    "sparare": 4,
+    "pensionssparare": 3,
+    "b_finans": 5,
+    "integritet": 4,
+    "gdpr": 3,
+    "stor_familj": 3,
+    "sambo_gift": 3,
+    "ensam_foralder": 3
   }
 }

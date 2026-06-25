@@ -13,13 +13,17 @@
   "tldr": "Het gemeentebestuur van Bollebygd heeft informatie verstrekt over salarisvergelijkingen en de verkoop van grond, en heeft besloten om eerdere beslissingen met betrekking tot een gedetailleerd bestemmingsplan in Nyhem niet te wijzigen.",
   "lattlast": "<p>Tijdens de vergadering van het gemeentebestuur op 3 maart 2026 ontvingen de politici informatie over hoe de gemeente werkt aan het waarborgen van eerlijke beloning tussen mannen en vrouwen. Dit werk, genaamd salarisvergelijking, wordt elk jaar uitgevoerd om eventuele verschillen in salaris op basis van geslacht te identificeren en te corrigeren.</p><p>Er werd ook gesproken over de mogelijkheid om grond in het gebied Buagärde te verkopen of te ruilen. Dit was een informatiebijeenkomst waarbij experts van de technische dienst van de gemeente uitleg gaven over de plannen voor de betreffende grond.</p><p>Met betrekking tot de bouwplannen in Nyhem, op perceel Flässjum 2:59, heeft het gemeentebestuur een besluit genomen. Zij hebben een voorstel van de werkgroep afgewezen en handhaven daarom hun eerdere besluit van mei 2024. Dit betekent dat de eerdere plannen voor de bouw van woningen, kantoren en winkels in het gebied ongewijzigd blijven.</p><p>Sommige politieke vertegenwoordigers van de partijen FR, C en SD waren het niet eens met dit besluit in de kwestie Nyhem en hebben daarom een oppositiebrief ingediend, wat betekent dat zij schriftelijk hebben aangegeven dat zij een andere mening hebben.</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "b_bygg": 1,
-    "b_fastighet": 2,
-    "lokaler": 1,
-    "mark_bygglov": 1,
-    "kvinna": 1,
-    "lontagare": 1,
-    "bygger": 1
+    "kvinna": 3,
+    "man": 3,
+    "lontagare": 3,
+    "offentliganstalld": 4,
+    "bostadsagare": 3,
+    "bygger": 4,
+    "mark_bygglov": 6,
+    "b_fastighet": 5,
+    "f_kommun": 6,
+    "fortroendevald": 5,
+    "arbetsgivare": 3,
+    "avgifter": 3
   }
 }

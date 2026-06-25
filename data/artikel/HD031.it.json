@@ -12,12 +12,22 @@
   "tldr": "Il governo ha presentato la proposta di bilancio per la Svezia per l'anno 2026. Il documento riguarda l'ammontare di denaro che lo Stato può utilizzare e l'importo che può contrarre in prestito nei prossimi anni.",
   "lattlast": "<p>Il governo propone un piano per l&#x27;utilizzo dei fondi statali nel periodo 2026, 2027 e 2028. Una decisione importante è quella relativa al cosiddetto &quot;tetto di spesa&quot;, che rappresenta il limite massimo che lo Stato può spendere. Per l&#x27;anno 2026, il limite proposto è di 1.936 miliardi di corone svedesi, mentre per il 2027 la proposta è di 2.009 miliardi di corone svedesi.</p><p>Il piano include anche regole su quanto lo Stato deve risparmiare. A partire dal 2027, l&#x27;obiettivo è che lo Stato abbia un risparmio in linea con l&#x27;economia. Questo viene fatto per creare un&#x27;economia stabile anche in periodi di difficoltà per il paese.</p><p>Il governo desidera anche avere la facoltà di contrarre prestiti per finanziare spese importanti. Ciò include, ad esempio, la possibilità di ottenere prestiti fino a 74,9 miliardi di corone svedesi per l&#x27;acquisto di attrezzature e edifici necessari per l&#x27;attività dello Stato. Sono inoltre previste modifiche a diverse imposte, come quelle sull&#x27;energia, sul traffico stradale e sull&#x27;imposta sul reddito.</p><p>Per garantire una gestione efficiente dell&#x27;economia, il governo propone inoltre che l&#x27;Agenzia Nazionale delle Entrate (Riksgäldskontoret), che gestisce i fondi statali, sia autorizzata a gestire prestiti e crediti. Ciò significa che lo Stato ha un piano chiaro sia per l&#x27;utilizzo dei fondi che per il loro rimborso.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_finans": 1,
-    "b_energi": 1,
-    "lontagare": 1,
-    "glesbygd": 1,
-    "sparare": 1,
-    "energikund": 1
+    "solo": 4,
+    "aktiebolag": 4,
+    "arbetsgivare": 4,
+    "smaforetag": 4,
+    "storforetag": 5,
+    "moms": 3,
+    "bolagsskatt": 4,
+    "avgifter": 4,
+    "punktskatt": 3,
+    "lontagare": 3,
+    "foretagare": 4,
+    "pensionar": 3,
+    "energikund": 3,
+    "bil": 3,
+    "konsument": 3,
+    "pensionssparare": 3,
+    "sparare": 3
   }
 }

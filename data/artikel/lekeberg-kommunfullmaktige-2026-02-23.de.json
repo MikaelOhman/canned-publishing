@@ -13,10 +13,18 @@
   "tldr": "In der Gemeinde Lekeberg haben die Politiker neue Ideen von Einwohnern diskutiert, darunter den Vorschlag, das alte Bahnhofsgebäude in Fjugesta in einen Treffpunkt umzuwandeln. Außerdem wurde beschlossen, eine neue Verwaltung für Stadtentwicklung zu gründen.",
   "lattlast": "<p>Bei der Sitzung des Gemeinderats am 23. Februar 2026 wurden mehrere wichtige Fragen diskutiert. Ein Vorschlag eines Bürgers, das alte Bahnhofsgebäude in Fjugesta in einen sozialen Treffpunkt für alle Altersgruppen zu verwandeln, wurde an den Gemeinderat weitergeleitet, der die detaillierteren Entscheidungen in der Gemeinde trifft.</p><p>Die Gemeinde wird nun außerdem eine neue Abteilung für Stadtentwicklung gründen. Das bedeutet, dass eine neue Abteilung innerhalb der Gemeinde eingerichtet wird, die für Fragen im Zusammenhang mit Gebäuden, Straßen und der Planung von Flächen zuständig sein wird.</p><p>Es gab auch mehrere Vorschläge zur Verbesserung der kommunalen Aktivitäten, wie z. B. die Schaffung mehr Naturflächen zur Erholung und die Einführung eines barrierefreien Autos oder Busses für die kommunalen Dienste. Obwohl diese Vorschläge vorgelegt wurden, stehen sie weiterhin auf der Liste zur weiteren Bearbeitung.</p><p>Schließlich ging es bei der Sitzung auch um personelle Veränderungen in den politischen Gruppen. Mehrere Politiker haben ihre Ämter aufgegeben, was bedeutet, dass neue Personen in verschiedene Gremien wie den Wahlausschuss und den Sozialausschuss gewählt werden müssen.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_fastighet": 1,
-    "glesbygd": 1,
-    "kollektiv": 1,
-    "funktion": 1
+    "f_kommun": 6,
+    "fortroendevald": 6,
+    "glesbygd": 4,
+    "mindre_ort": 5,
+    "barn": 4,
+    "ung": 4,
+    "pensionar": 3,
+    "idrott": 3,
+    "volontar": 3,
+    "offentliganstalld": 4,
+    "b_bygg": 4,
+    "mark_bygglov": 4,
+    "infrastruktur": 3
   }
 }

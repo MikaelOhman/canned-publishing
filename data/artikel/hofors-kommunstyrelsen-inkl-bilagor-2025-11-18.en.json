@@ -13,12 +13,13 @@
   "tldr": "The Municipal Board of Hofors held a meeting on November 18, 2025. During the meeting, they discussed important issues including working hours for individuals receiving support under the Swedish Law of Support (LSS), new fees for various services, and proposals from residents regarding improvements within the municipality.",
   "lattlast": "<p>The Hofor municipal council has reviewed several important matters. Among these, they received a report on the working hours of individuals receiving support under the LSS law, which provides support for people with certain disabilities. Previously, exceptions had been made to the rules regarding rest periods, and now they have received information on the progress being made to comply with those rules.</p><p>Various fees and charges that affect residents were also discussed. This includes costs related to environmental and health supervision, as well as regulations for food products. Fees for &quot;färdtjänst,&quot; a transportation service for those who have difficulty traveling independently, were also discussed.</p><p>Several proposals from citizens were raised during the meeting. These include a proposal to introduce &quot;sandhus&quot; (sandboxes) and another proposal to create a designated walkway, often referred to as a &quot;sparkgång&quot; (kick scooter path), on sidewalks. The purpose of such proposals is often to make the municipality safer or more pleasant to live in.</p><p>The meeting also included information about finances and future plans. This included a review of how the electricity grid will be managed by the company Gävle Energi Elnät AB, and a discussion about the possibility of onshore and offshore wind power. Additionally, they discussed the municipality&#x27;s financial situation and support for political parties in the year 2026.</p>",
   "relevans": {
-    "b_transport": 1,
-    "b_energi": 3,
-    "regelborda": 1,
-    "funktion": 3,
-    "energikund": 1,
-    "konsument": 1,
-    "klimat": 1
+    "f_kommun": 7,
+    "funktion": 6,
+    "offentliganstalld": 5,
+    "fortroendevald": 5,
+    "energikund": 4,
+    "pendlare": 3,
+    "miljo": 4,
+    "b_energi": 4
   }
 }

@@ -12,7 +12,20 @@
   "tldr": "Il governo intende modificare le leggi per rendere più sicura la protezione delle persone in caso di guerra o crisi. L'obiettivo è migliorare i rifugi antiaerei e predisporre piani migliori per l'alloggio delle persone qualora si dovesse innalzare il livello di allerta.",
   "lattlast": "<p>La sicurezza in Svezia è peggiorata e, di conseguenza, lo Stato sta lavorando per rafforzare la difesa civile. Ciò significa che abbiamo bisogno di rifugi antiaerei migliori e di altri luoghi sicuri dove rifugiarsi in caso di guerra o di una grave crisi nel paese. Questo è ciò che si chiama &quot;stato di allerta elevato&quot;.</p><p>Il governo ha presentato una proposta al Parlamento per modificare diverse leggi. Intende introdurre una nuova legge sui rifugi antiaerei e modificare le leggi che regolano come le persone devono essere evacuate e ricevere alloggi durante le crisi. Inoltre, intende modificare la legge sull&#x27;urbanistica e l&#x27;edilizia, che è la legge che regola come si possono costruire edifici in Svezia.</p><p>Lo scopo di queste modifiche è quello di avere piani chiari su chi è responsabile di cosa quando le persone devono essere evacuate. Deve essere chiaro anche come organizzare l&#x27;alloggio per coloro che non possono rimanere nelle loro case.</p><p>Se il Parlamento approva la proposta, le nuove regole entreranno in vigore il 1° giugno 2026.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "varnpliktig": 1
+    "bostadsagare": 5,
+    "hyresgast": 5,
+    "bostadslos": 4,
+    "glesbygd": 3,
+    "storstad": 3,
+    "mindre_ort": 3,
+    "varnpliktig": 5,
+    "barn": 4,
+    "pensionar": 4,
+    "kronisk": 3,
+    "funktion": 3,
+    "mark_bygglov": 4,
+    "b_fastighet": 3,
+    "f_kommun": 4,
+    "offentliganstalld": 3
   }
 }

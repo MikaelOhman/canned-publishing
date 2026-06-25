@@ -12,7 +12,13 @@
   "tldr": "The government wants to amend the laws to give the Swedish Tax Agency (Skatteverket) more information about cryptocurrencies and other digital assets. This is being done to make it easier for countries to share information with each other and to prevent tax fraud.",
   "lattlast": "<p>The government proposes new regulations for how information about money and digital assets should be shared between authorities. This primarily concerns cryptocurrencies, which are a type of digital money. The purpose is to comply with new rules from the EU, called DAC 8.</p><p>The proposal also includes the approval of a new international agreement, called CARF. This agreement concerns the automatic exchange of information between countries regarding the ownership of cryptocurrencies. This allows authorities to verify that the correct taxes have been paid.</p><p>There are also proposals to amend the rules for how information about regular bank accounts is shared. This will be done through an amendment to an existing system called CRS. This system is already used to ensure that information about financial accounts reaches the appropriate authorities.</p><p>Finally, new reporting requirements are proposed for the sale of certain types of securities. This applies to assets related to commodities or indexes. The purpose of all these changes is to create better cooperation between tax authorities in different countries.</p>",
   "relevans": {
-    "b_industri": 1,
-    "b_finans": 2
+    "sparare": 7,
+    "b_finans": 7,
+    "b_it": 4,
+    "bolagsskatt": 4,
+    "gdpr": 4,
+    "aktiebolag": 3,
+    "pensionssparare": 5,
+    "eu_marknad": 4
   }
 }

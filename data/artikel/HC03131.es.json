@@ -12,10 +12,19 @@
   "tldr": "El gobierno propone nuevas leyes para mejorar el medio ambiente y controlar el consumo de energía. Estas medidas incluyen, entre otras cosas, la obligación de que los centros de datos informen sobre la cantidad de electricidad que utilizan, así como cambios en las regulaciones sobre combustibles.",
   "lattlast": "<p>El gobierno quiere modificar varias leyes para cumplir con las nuevas regulaciones de la Unión Europea. Una parte importante es que los centros de datos, es decir, grandes instalaciones que almacenan información digital, deberán comenzar a informar sobre la cantidad de energía que utilizan a una base de datos común en Europa. Esto se hace para tener un mejor control sobre la cantidad de electricidad que se utiliza para la tecnología digital.</p><p>También habrá regulaciones más estrictas sobre lo que se considera combustible sostenible. Esto significa que habrá nuevos requisitos para que los combustibles que provienen, por ejemplo, de materiales reciclados u otras fuentes respetuosas con el medio ambiente, cumplan con ciertos criterios ambientales. Además, las leyes sobre impuestos a la energía y los certificados de energía también se modificarán para adaptarse a las nuevas regulaciones.</p><p>En cuanto a los combustibles utilizados en los automóviles, se proponen nuevos niveles para la obligación de reducción. La obligación de reducción es el requisito de mezclar más combustible respetuoso con el medio ambiente en la gasolina y el diésel. Ahora se propone que este requisito también se pueda cumplir utilizando electricidad de origen fósil. Al mismo tiempo, se propone eliminar el requisito de que los proveedores de combustibles deban reducir las emisiones de gases de efecto invernadero.</p><p>La mayoría de estas nuevas regulaciones están previstas para entrar en vigor el 1 de julio de 2025. Sin embargo, algunas partes relacionadas con los requisitos ambientales para los combustibles entrarán en vigor más tarde, ya sea el 1 de enero de 2026 o el 1 de enero de 2030.</p>",
   "relevans": {
-    "b_energi": 1,
-    "miljo": 1,
-    "bil": 3,
-    "energikund": 2,
-    "klimat": 2
+    "b_it": 7,
+    "b_transport": 6,
+    "b_energi": 6,
+    "b_industri": 5,
+    "energiintensiv": 7,
+    "gron_omstallning": 6,
+    "hallbarhetsrapport": 5,
+    "eu_marknad": 5,
+    "miljo": 5,
+    "digitalisering": 5,
+    "bil": 4,
+    "energikund": 4,
+    "klimat": 5,
+    "punktskatt": 4
   }
 }

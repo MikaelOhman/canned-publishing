@@ -12,10 +12,24 @@
   "tldr": "L'Agence fiscale suédoise (Skatteverket) souhaite renforcer le contrôle des fraudes concernant les déductions fiscales, notamment pour les services tels que le nettoyage et les panneaux solaires. La proposition vise à faciliter le travail de l'agence pour examiner les entreprises et détecter les infractions dans le domaine du travail.",
   "lattlast": "<p>Le gouvernement a proposé de nouvelles règles visant à rendre plus difficile la fraude fiscale. Il s&#x27;agit des déductions appelées ROT, RUT et technologies vertes, qui correspondent aux sommes remboursées lors de l&#x27;achat de services tels que le nettoyage ou l&#x27;installation de panneaux solaires.</p><p>Les entreprises qui réalisent les travaux doivent désormais indiquer clairement s&#x27;elles ont fait appel à d&#x27;autres entreprises ou à des sociétés de recrutement pour les aider. L&#x27;administration fiscale (Skatteverket) aura également plus de possibilités de réaliser des contrôles et de visiter les entreprises pour vérifier que tout se déroule correctement. Il sera également plus facile d&#x27;envoyer des informations électroniquement à l&#x27;administration.</p><p>Si une entreprise a reçu des sommes d&#x27;argent de manière incorrecte, l&#x27;administration fiscale pourra les récupérer et également calculer des frais supplémentaires sous forme d&#x27;intérêts. Il sera également possible de vérifier les impôts a posteriori si des erreurs sont détectées dans la demande de réduction d&#x27;impôt.</p><p>Si toutes ces modifications sont approuvées par le Parlement, les nouvelles règles entreront en vigueur le 1er janvier 2027. L&#x27;objectif est de lutter contre la fraude fiscale et la criminalité au travail en facilitant le contrôle de l&#x27;administration fiscale sur ce qui se passe réellement.</p>",
   "relevans": {
-    "arbetsgivare": 3,
-    "b_konsult": 1,
-    "sparare": 1,
-    "lantagare": 1,
-    "otrygg": 1
+    "solo": 6,
+    "aktiebolag": 6,
+    "arbetsgivare": 6,
+    "smaforetag": 7,
+    "storforetag": 5,
+    "familjeforetag": 6,
+    "b_bygg": 6,
+    "b_vard": 5,
+    "b_konsult": 6,
+    "b_it": 4,
+    "moms": 5,
+    "redovisning": 6,
+    "regelborda": 6,
+    "tillstand": 4,
+    "upphandling": 4,
+    "bostadsagare": 5,
+    "bygger": 6,
+    "konsument": 4,
+    "foretagare": 6
   }
 }

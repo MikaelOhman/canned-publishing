@@ -12,10 +12,14 @@
   "tldr": "A kormány új büntetéseket és díjakat vezet be annak érdekében, hogy megakadályozza a helytelen kifizetéseket a Biztosítási Alaptól és a Nyugdíjhatóságtól. A javaslat értelmében, aki hamis információkat szolgáltat, az díjat fizethet, vagy akár teljesen elveszítheti a támogatást.",
   "lattlast": "<p>A kormány egy javaslatot terjesztett be új szabályok bevezetésére a szociális biztosítási pénzek védelme érdekében. Ez azt jelenti, hogy azok a személyek és vállalatok, akik téves fizetések kifizetéséhez vezetnek, adminisztratív bírságot kell, hogy fizessenek. Ez a szabály vonatkozik arra is, akik állami támogatást kapnak fogászati ellátásra.</p><p>A Biztosítási Alap és a Nyugdíjhatóság fogja eldönteni, hogy ezek a díjak fizetendők-e. Ha egy személy szándékosan vagy nagyon gondatlanul szolgáltatott hamis információkat, a hatóságok dönthetnek úgy is, hogy az illető bizonyos támogatásokat nem kaphat egy meghatározott ideig. Ezt &quot;korlátozásnak&quot; nevezik.</p><p>A javaslat azt is tartalmazza, hogy a szabályok megváltoznak abban, hogy mikor kell bejelenteni a feltételezett bűncselekményeket. Ha egy személy már bírságot fizet egy hibáért, nem feltétlenül kell azt bűncselekményként bejelenteni. Ezt azért teszik, hogy ugyanaz a cselekedet ne legyen kétszer büntetve.</p><p>Ha a parlament megszavazza a javaslatot, az új szabályok várhatóan 2026. július 1-jén lépnek életbe. A javaslat több különböző törvény módosítását foglalja magában, amelyek meghatározzák, hogyan működnek a támogatások és a juttatások Svédországban.</p>",
   "relevans": {
-    "b_finans": 1,
-    "pensionar": 1,
-    "sjukskriven": 1,
-    "tandvard": 2,
-    "konsument": 1
+    "bidrag": 8,
+    "sjukskriven": 7,
+    "pensionar": 5,
+    "tandvard": 5,
+    "skuldsatt": 4,
+    "ensam_foralder": 4,
+    "foretagare": 4,
+    "solo": 4,
+    "redovisning": 3
   }
 }

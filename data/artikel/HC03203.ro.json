@@ -12,8 +12,15 @@
   "tldr": "Guvernul dorește să elimine interdicția privind extracția de uraniu în Suedia. Acest lucru ar permite investigarea și exploatarea uraniului pentru a asigura accesul la metale importante în Suedia și în Uniunea Europeană.",
   "lattlast": "<p>Guvernul a prezentat o propunere care ar face legală extragerea de uraniu în minele din Suedia. În prezent, există o interdicție în Codul de mediu care împiedică această activitate, dar, prin modificarea legii, companiile ar putea obține autorizații pentru a căuta și a extrage uraniu din subsol.</p><p>Propunerea implică, de asemenea, modificări ale regulilor pentru activitățile de mai mică amploare. Dacă se manipulează cantități mici de uraniu, guvernul nu va mai fi obligat să efectueze o evaluare obligatorie a activității. Acest lucru înseamnă, de asemenea, că municipalitățile nu vor mai avea dreptul să refuze, adică să exercite un &quot;veto local&quot;, aceste proiecte mai mici.</p><p>Scopul acestor modificări este de a oferi Suediei și UE un acces mai bun la mineralele importante de care va avea nevoie în viitor. Dacă propunerea este adoptată, noile reguli vor intra în vigoare începând cu 1 ianuarie 2026.</p><p>Propunerea implică modificări în două legi importante, și anume Codul de mediu și Legea minerească. Parlamentul trebuie acum să decidă dacă va aproba propunerea guvernului.</p>",
   "relevans": {
-    "tillstand": 1,
-    "miljo": 1,
-    "klimat": 1
+    "b_industri": 7,
+    "b_energi": 5,
+    "b_grona": 4,
+    "miljo": 6,
+    "mark_bygglov": 5,
+    "tillstand": 6,
+    "gron_omstallning": 4,
+    "klimat": 5,
+    "f_landsbygd": 4,
+    "glesbygd": 3
   }
 }

@@ -12,8 +12,14 @@
   "tldr": "Rząd zamierza zmienić przepisy dotyczące budowy elektrowni jądrowych w Szwecji. Nowa propozycja ułatwia uzyskanie zgody, jeśli istnieje gotowy plan i gmina wyraża na to zgodę.",
   "lattlast": "<p>Rząd przedstawił propozycję nowych przepisów, które mają zacząć obowiązywać 17 czerwca 2026 roku. Celem jest zmiana sposobu kontroli i zatwierdzania obiektów związanych z technologią jądrową, czyli miejsc, w których wykorzystuje się energię jądrową.</p><p>Nowy sposób zakłada, że rząd może zatwierdzić obiekt bezpośrednio, jeśli istnieje już plan zagospodarowania dla danego obszaru. Aby ten plan był ważny, gminy, na które plan ma wpływ, muszą wyrazić zgodę na jego przyjęcie. Jeśli nie zastosuje się tego nowego sposobu, obowiązują nadal stare przepisy zawarte w ustawie o ochronie środowiska, która reguluje sposób, w jaki powinniśmy chronić nasze środowisko.</p><p>Propozycja ta przewiduje również, że rząd będzie oceniał, czy korzyści wynikające z działania danego obiektu przewyższają jego wady. Ponadto, będzie możliwe uzyskanie wstępnej decyzji, czyli szybkiej odpowiedzi na temat tego, czy dany projekt może zostać zrealizowany. Propozycja ta wiąże się ze zmianami w wielu różnych ustawach, w tym w ustawach dotyczących ochrony przed promieniowaniem oraz sposobu finansowania składowania odpadów radioaktywnych.</p>",
   "relevans": {
-    "b_bygg": 3,
-    "miljo": 2,
-    "klimat": 1
+    "b_energi": 7,
+    "energiintensiv": 5,
+    "energikund": 4,
+    "miljo": 4,
+    "klimat": 4,
+    "f_kommun": 5,
+    "gron_omstallning": 4,
+    "storforetag": 5,
+    "mark_bygglov": 4
   }
 }

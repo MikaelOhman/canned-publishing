@@ -12,7 +12,13 @@
   "tldr": "Guvernul dorește să modifice legile pentru a oferi Agenției Fiscale (Skatteverket) mai multe informații despre criptomonede și alte active digitale. Acest lucru se face pentru a facilita schimbul de informații între țări și pentru a combate frauda fiscală.",
   "lattlast": "<p>Guvernul propune noi reguli privind modul în care informațiile despre bani și active digitale trebuie să fie împărtășite între autorități. Aceste reguli se referă în mare parte la criptomonede, care sunt un fel de bani digitali. Scopul este de a respecta noile reglementări din UE, numite DAC 8.</p><p>Propunerea include, de asemenea, aprobarea unui nou acord internațional, numit CARF, care vizează schimbul automat de informații între țări despre cine deține criptomonede. În acest fel, autoritățile pot verifica dacă au fost plătite impozitele corecte.</p><p>Există, de asemenea, propuneri de modificare a regulilor privind modul în care informațiile despre conturile bancare obișnuite sunt împărtășite. Acest lucru se va realiza printr-un amendament la un sistem existent, numit CRS. Acest sistem este deja utilizat pentru a se asigura că informațiile despre conturile financiare ajung la autoritatea competentă.</p><p>În cele din urmă, se propun noi cerințe privind raportarea vânzărilor anumitor tipuri de valori mobiliare. Acest lucru se aplică activelor legate de mărfuri sau indici. Scopul tuturor acestor modificări este de a îmbunătăți cooperarea dintre autoritățile fiscale din diferite țări.</p>",
   "relevans": {
-    "b_industri": 1,
-    "b_finans": 2
+    "sparare": 7,
+    "b_finans": 7,
+    "b_it": 4,
+    "bolagsskatt": 4,
+    "gdpr": 4,
+    "aktiebolag": 3,
+    "pensionssparare": 5,
+    "eu_marknad": 4
   }
 }

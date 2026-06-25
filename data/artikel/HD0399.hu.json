@@ -12,20 +12,12 @@
   "tldr": "A kormány javaslatokat terjesztett elő a 2026-os állami költségvetés módosítására. Az előterjesztések a következőkkel kapcsolatosak: új ingatlanok és tengeralattjárók beszerzése, jelentős beruházások az atomenergia és a űrkutatás területén.",
   "lattlast": "<p>A kormány szeretné megváltoztatni, hogy az állami pénzek hogyan kerüljenek felhasználásra 2026-ban. A jelentős döntések közé tartozik egy javaslat, amely szerint egy ingatlant kellene vásárolni Solnában, több mint 3,4 milliárd svéd koronáért. Emellett javaslatok vannak egy A 17-es típusú tengeralattjáró bérbeadására Lengyelország számára, valamint a fogászati támogatások szabályainak módosítására.</p><p>A javaslat jelentős része az energia- és atomenergia-területre vonatkozik. Az állam jelentős összeget tervez fordítani a Videberg Kraft AB vállalatra. Ez magában foglalja a részvények vásárlását annak érdekében, hogy a vállalat jelentős részét állami tulajdonba vehessék, valamint a radioaktív hulladék kezelésére szolgáló programok finanszírását. Ezek a költségek a következő években nagyon magasak lehetnek.</p><p>Szintén vannak javaslatok a biztonság és a technológia területén. A kormány szeretné, ha rendelkezhetne pénzügyi forrásokkal azoknak a személyeknek a védelmére, akik titkos hírszerzési tevékenységgel foglalkoznak. Javaslat van arra is, hogy pénzt utaljanak a SSC Space AB űrcégnek, hogy megerősítsék Svédország űrprogramját. A szolgálatban lévő rendőrök esetében új szabályokat javasolnak a diákhitellel kapcsolatos kérdések kezelésére.</p><p>Végül, kisebb költségvetési módosítások vonatkoznak különböző hatóságokra és a kultúrára. A Királyi Opera lehetőséget kap arra, hogy kölcsönt vegyen fel épületének felújítására. A gyógyszerészeti hatóság (Läkemedelsverket) és a védelmi rádióintézet (Försvarets radioanstalt) is módosítja költségvetését, hogy képes legyen ellátni feladatait 2026-ban.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_fastighet": 1,
-    "b_energi": 1,
-    "b_kultur": 1,
-    "b_life": 1,
-    "student": 1,
-    "hyresgast": 1,
-    "kronisk": 1,
-    "tandvard": 2,
-    "sparare": 1,
-    "lantagare": 1,
-    "energikund": 1,
-    "kultur": 1,
-    "otrygg": 1,
-    "varnpliktig": 1
+    "b_energi": 6,
+    "b_life": 4,
+    "varnpliktig": 6,
+    "offentliganstalld": 4,
+    "tandvard": 5,
+    "fortroendevald": 4,
+    "student": 4
   }
 }

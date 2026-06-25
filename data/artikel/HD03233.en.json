@@ -12,7 +12,16 @@
   "tldr": "New regulations are being proposed to prevent fraud through SMS and other digital messages. Companies that manage your communications should be able to block messages that appear to be malicious.",
   "lattlast": "<p>The government wants to amend the law on electronic communications to make it more difficult to digitally defraud people. The proposal means that companies that provide messaging services, such as SMS services, will have a greater responsibility to prevent fraud.</p><p>If a company sees technical information about a message that suggests it is a scam or an attempt to mislead people, they should not forward the message. It is important to know that companies are not allowed to read the actual content of your messages to check this; they can only look at technical information about the traffic.</p><p>To be able to do this work, companies may process certain information about the messages, but only for as long as it is necessary to stop the fraud. After that, the information must be deleted immediately. The government or another authority will determine exactly which rules will apply to this work.</p><p>The new rules are part of an effort within the EU to create safer digital communication. If the proposal is approved, the new laws will come into effect on August 1, 2026.</p>",
   "relevans": {
-    "foretagare": 1,
-    "kollektiv": 1
+    "smaforetag": 4,
+    "b_it": 6,
+    "b_finans": 4,
+    "gdpr": 7,
+    "konsumentratt": 5,
+    "digitalisering": 5,
+    "eu_marknad": 4,
+    "konsument": 5,
+    "integritet": 6,
+    "otrygg": 5,
+    "digital_ovan": 4
   }
 }

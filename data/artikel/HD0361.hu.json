@@ -12,12 +12,15 @@
   "tldr": "A kormány szeretné, ha a helyi önkormányzatok alaposabban ellenőrizhetnék a bűnügyi hátteret a személyzet alkalmazásakor. Ez azért történik, hogy növeljék a gyermekek, idősek és fogyatékkal élő személyek biztonságát.",
   "lattlast": "<p>A kormány javaslatot terjesztett elő új szabályok bevezetésére, amelyekkel ellenőrizhetőek azok a személyek, akik a községben szeretnének dolgozni. A cél az, hogy megakadályozzák, hogy olyan személyek kapjanak munkát a község intézményeiben, akik bűncselekményeket vagy káros tevékenységeket terveznek. A korábbi bűncselekményekről és bűncselekményekkel kapcsolatos gyanúkról szóló nyilvántartások (belastningsregister és misstankeregister) ellenőrzésével szeretnék csökkenteni a bűnözés kockázatát.</p><p>Az új szabályok elsősorban azoknak a személyeknek vonatkoznak, akik gyermekekkel dolgoznak, vagy idősek és fogyatékkal élő felnőttek otthonában végeznek munkát. Emellett azoknak a személyeknek is vonatkoznak, akik magas és fontos vezetői pozíciókat töltenek be a községben. A cél egy biztonságosabb munkakörnyezet megteremtése és azok védelme, akik különleges gondoskodásra szorulnak.</p><p>A javaslat több különböző törvény módosítását tartalmazza, például a büntetőtörténeti nyilvántartásról szóló törvényt és a szociális biztosításról szóló törvényt. A módosítások akkor válnak hatályos törvényekké, ha a parlament megszavazza őket.</p><p>Ha a parlament megszavazza a javaslatot, az új szabályok várhatóan 2026. március 1-jén lépnek életbe. Ekkor a községek nagyobb lehetősége lesznek a munkába álló új alkalmazottak ellenőrzésére, mielőtt azok megkezdhetik a munkát.</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "b_vard": 1,
-    "arbetsmiljo": 1,
-    "barn": 1,
-    "lontagare": 3,
-    "funktion": 1,
-    "otrygg": 2
+    "arbetsratt": 6,
+    "kompetens": 4,
+    "f_kommun": 7,
+    "offentliganstalld": 7,
+    "barn": 5,
+    "pensionar": 4,
+    "funktion": 4,
+    "brottsoffer": 4,
+    "otrygg": 4,
+    "b_vard": 6
   }
 }

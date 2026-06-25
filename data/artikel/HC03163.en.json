@@ -12,10 +12,13 @@
   "tldr": "The government wants to change the laws to reduce violence involving explosives. The goal is to make it more difficult for criminals to use explosives by giving the authority MSB more control and responsibility.",
   "lattlast": "<p>Due to the increasing number of explosions in Sweden, the government wants to tighten the regulations regarding the handling of explosive materials. The aim is to prevent criminals from using explosives against people and buildings. To achieve this, new regulations are proposed, which should come into effect on July 15, 2025.</p><p>The Swedish Civil Contingency Agency (MSB) is to be given a more important role. MSB will now coordinate the work that municipalities do when issuing permits for blasting. MSB will also ensure that the municipalities are fulfilling their responsibilities correctly. It will also become easier to revoke permits if necessary.</p><p>Those who have permits to use explosives must now also report to the municipality when they use or store the materials. If a company needs to use explosives in multiple municipalities, only one municipality will handle all the permits. Furthermore, information in these cases will be confidential, so that criminals cannot find out where explosives are located.</p><p>There are also regulations regarding shooting and firearms. It is not permitted to use explosives or firearms in areas with detailed development plans, such as in cities, without a permit from the Police Authority. Individuals under the age of 18 are also not allowed to use certain types of firearms outdoors without a permit, unless they are supervised by an adult over the age of 20.</p>",
   "relevans": {
-    "tillstand": 3,
+    "jagare": 4,
+    "otrygg": 5,
+    "brottsoffer": 3,
+    "b_bygg": 4,
+    "tillstand": 6,
+    "f_kommun": 3,
     "regelborda": 3,
-    "mark_bygglov": 1,
-    "bygger": 1,
-    "otrygg": 1
+    "integritet": 3
   }
 }

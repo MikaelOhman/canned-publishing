@@ -12,8 +12,12 @@
   "tldr": "Kommuner som sköter lantmäterifrågor måste från och med 2027 använda samma digitala system som den statliga myndigheten Lantmäteriet. Detta görs för att säkerställa att tekniken fungerar ihop mellan kommuner och staten.",
   "lattlast": "<p>Regeringen har lagt fram ett förslag om att ändra reglerna för kommunala lantmäterimyndigheter. En lantmäterimyndighet är den del av en kommun som sköter frågor om mark och gränser. Från och med den 1 januari 2027 kommer dessa kommunala myndigheter att bli skyldiga att använda samma digitala system för att hantera sina ärenden som den statliga myndigheten Lantmäteriet använder.</p><p>Syftet med ändringen är att se till att de tekniska verktygen och stöden för handläggning är likadana. Det handlar om att information ska kunna delas enkelt och säkert mellan kommunerna och staten. Om kommunen inte använder de rätta systemen kan regeringen dra in deras tillstånd att få driva lantmäteriverksamhet.</p><p>Regeringen eller en myndighet som regeringen bestämmer får också bestämma regler för hur dessa tekniska system ska användas. De får även bestämma om det ska kosta pengar att använda systemen genom olika avgifter.</p><p>Förslaget innebär att kraven på vad en kommun måste visa för att få starta en egen lantmäterimyndighet blir tydligare. Det handlar bland annat om att ha rätt personal, rätt organisation och att tekniken ska fungera för utbyte av information mellan stat och kommun.</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "tillstand": 1,
-    "konsument": 1
+    "f_kommun": 5,
+    "mark_bygglov": 6,
+    "bostadsagare": 3,
+    "bygger": 4,
+    "b_fastighet": 6,
+    "digitalisering": 4,
+    "offentliganstalld": 4
   }
 }

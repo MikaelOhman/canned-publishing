@@ -13,13 +13,17 @@
   "tldr": "El ayuntamiento de Alingsås ha decidido que la organización política y todas las comisiones mantendrán la misma estructura durante el período 2027-2030. Además, se ha aprobado el presupuesto y las diferentes tasas para el año 2026.",
   "lattlast": "<p>Los políticos de Alingsås han revisado cómo se gestionará el municipio en los próximos años. Han llegado a la conclusión de que no se necesitan cambios en la estructura de las comisiones ni en sus responsabilidades durante el período de 2027 a 2030. Esto significa que los grupos políticos y su trabajo continuarán como de costumbre.</p><p>En la reunión, también se tomaron decisiones sobre las normas económicas para el año 2026. Esto incluye las tarifas y tasas para la comisión de cultura y educación, así como el costo del agua y las aguas residuales (tarifa básica). Además, se ha presentado un presupuesto consolidado para los años 2026 a 2028.</p><p>Se han modificado varios reglamentos que rigen el funcionamiento de las diferentes áreas del municipio, incluyendo los relacionados con la atención médica, los servicios sociales, la cultura y otros. También se ha decidido que el consejo municipal de jubilados ya no tendrá su propio reglamento.</p><p>La reunión también incluyó debates y respuestas a diversas propuestas presentadas por los políticos, conocidas como mociones. Había propuestas que iban desde la creación de un banco de objetos de segunda mano hasta la instalación de juegos de agua en Alingsås, y el fortalecimiento del apoyo a las asociaciones a través de un nuevo portal para solicitar subvenciones.</p>",
   "relevans": {
-    "b_vard": 1,
-    "b_kultur": 1,
-    "barn": 1,
-    "pensionar": 1,
-    "kronisk": 1,
-    "konsument": 1,
-    "idrott": 1,
-    "kultur": 1
+    "f_kommun": 6,
+    "fortroendevald": 6,
+    "pensionar": 4,
+    "barn": 3,
+    "idrott": 3,
+    "kultur": 3,
+    "hyresgast": 3,
+    "bostadsagare": 3,
+    "b_vard": 4,
+    "b_utbildning": 4,
+    "ideell": 4,
+    "offentliganstalld": 4
   }
 }

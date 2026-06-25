@@ -12,10 +12,13 @@
   "tldr": "El gobierno propone penas más severas para jóvenes que cometen delitos. La propuesta incluye, entre otras cosas, que niños de 13 años puedan ser considerados responsables de delitos graves durante un período de cinco años.",
   "lattlast": "<p>El gobierno quiere modificar las leyes para frenar el aumento de la delincuencia juvenil. Una de las propuestas más importantes es reducir la edad a partir de la cual se puede ser sancionado por delitos graves a los 13 años. Esta propuesta estará vigente durante un período de cinco años.</p><p>Para los jóvenes adultos que son mayores de edad y que han cometido delitos, el gobierno quiere eliminar la llamada &quot;reducción por menores&quot;. Esto significa que las penas no se reducirán simplemente porque la persona es joven. Para las personas menores de 18 años, también se propone aumentar las penas máximas a 18 años de prisión.</p><p>También se endurecerán otros tipos de sanciones y controles. Esto implica endurecer las normas para la supervisión de menores y ser más estrictos con los jóvenes que no cumplen con sus obligaciones de servicios sociales o trabajos comunitarios. El objetivo es que las normas sean más eficaces contra el crimen organizado.</p><p>Si estas modificaciones son aprobadas por el parlamento, el gobierno planea que las nuevas normas entren en vigor el 2 de agosto de 2026. La propuesta también implica cambios en muchas otras leyes, como las leyes fiscales, el trabajo policial y la gestión de datos personales.</p>",
   "relevans": {
-    "gdpr": 1,
-    "barn": 1,
-    "ung": 1,
-    "otrygg": 2,
-    "integritet": 1
+    "barn": 5,
+    "ung": 7,
+    "ung_vuxen": 6,
+    "otrygg": 6,
+    "brottsoffer": 5,
+    "domd": 7,
+    "offentliganstalld": 3,
+    "fortroendevald": 3
   }
 }

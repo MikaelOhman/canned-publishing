@@ -15,11 +15,15 @@
   "tldr": "La giunta comunale di Stoccolma ha risposto a domande riguardanti la stazione degli autobus di Slussen, la gestione dei dati personali e le modifiche al trasporto pubblico.",
   "lattlast": "<p>La giunta comunale ha fornito una risposta al Tribunale Amministrativo di Stoccolma. La questione riguarda un controllo su una precedente decisione di vendere un immobile situato vicino alla stazione degli autobus di Slussen.</p><p>La città ha inoltre risposto a una proposta del Consiglio per la Prevenzione della Criminalità. La proposta riguarda modifiche alle regole sull&#x27;utilizzo dei dati personali e sulla gestione della riservatezza.</p><p>Sono state inoltre prese decisioni in merito a modifiche al traffico per SL e WÅAB durante l&#x27;anno 2026/2027. Questa è stata una risposta a un avviso della Regione di Stoccolma riguardante le imminenti modifiche al traffico.</p><p>I membri dei partiti Moderaterna e Liberalerna hanno rilasciato una dichiarazione separata sulla questione del traffico. Hanno espresso la loro opinione sulle pianificate modifiche al trasporto pubblico.</p>",
   "relevans": {
-    "b_fastighet": 2,
-    "gdpr": 1,
-    "pendlare": 1,
-    "kollektiv": 2,
-    "kronisk": 1,
-    "integritet": 1
+    "kollektiv": 6,
+    "pendlare": 5,
+    "storstad": 5,
+    "f_storstad": 5,
+    "bostadsagare": 3,
+    "gdpr": 3,
+    "integritet": 3,
+    "f_kommun": 5,
+    "fortroendevald": 4,
+    "offentliganstalld": 3
   }
 }

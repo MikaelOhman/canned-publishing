@@ -12,7 +12,10 @@
   "tldr": "Niektóre informacje, które placówki medyczne mają obowiązek przekazywać do krajowej bazy danych leków w przypadku e-recept, a mianowicie przyczyny przepisania leku oraz terminu kontroli lub zakończenia leczenia, zostają przesunięte – z grudnia 2025 roku na wrzesień 2028 roku.  Dzięki temu placówki medyczne zyskują więcej czasu na bezpieczne wdrożenie tego systemu.",
   "lattlast": "<p>Krajowa lista leków to rejestr leków, które zostały przepisane pacjentowi. Kiedy lekarze wystawiają elektroniczne recepty, muszą przekazywać pewne informacje do tego rejestru.</p><p>Rząd proponuje przesunięcie obowiązków związanych z przekazywaniem dwóch z tych informacji – przyczyny przepisania leku oraz daty, do której leczenie powinno być kontynuowane lub zakończone – o kilka lat, z 1 grudnia 2025 roku na 1 września 2028 roku.</p><p>Celem jest zapewnienie placówkom medycznym więcej czasu na podłączenie się do tego rejestru w sposób efektywny i bezpieczny dla pacjentów.</p>",
   "relevans": {
-    "b_life": 3,
-    "kronisk": 3
+    "kronisk": 6,
+    "b_vard": 6,
+    "b_life": 4,
+    "offentliganstalld": 4,
+    "digitalisering": 3
   }
 }

@@ -15,17 +15,15 @@
   "tldr": "Die Gemeinde Gävle hat eine Sitzung abgehalten, in der Entscheidungen über den Haushalt für zukünftige Bauprojekte und Investitionen sowie die Genehmigung von Berichten zu Umwelt- und Wirtschaftsthemen getroffen wurden.  Es wurden auch Themen wie Parkplätze für Wohnmobile und Naturschutzgebiete diskutiert.",
   "lattlast": "<p>In der Gemeinde Gävle haben die Politiker im Gemeinderat wichtige Pläne für die kommenden Jahre geprüft. Sie haben einen Haushaltsplan für Investitionen und Bauvorhaben in den Jahren 2027 bis 2030 beschlossen. Das bedeutet, dass ein Plan erstellt wurde, wie Mittel für zukünftige Bauprojekte und die Entwicklung von Grundstücken in der Gemeinde verwendet werden sollen.</p><p>Die Politiker haben auch Wirtschaftberichte geprüft. Sie haben die finanzielle Situation der Gemeinde und ihrer Unternehmen im ersten Halbjahr 2026 analysiert. Außerdem wurden die Jahresabschlüsse von Gästrike Räddningstjänst, dem für den Brandschutz zuständigen Unternehmen, und Gästrike Återvinnare, dem Unternehmen für die Abfallentsorgung, genehmigt.</p><p>Auch Themen im Bereich Umwelt und Freizeit standen auf der Tagesordnung. Dazu gehörten unter anderem das Naturschutzgebiet Almkärret und Vorschläge zur Schaffung von Stellplätzen für Wohnmobile im Erholungsgebiet in Hemlingby. Es wurden auch Regeln für die Nutzung öffentlicher Plätze, wie beispielsweise Gehwege und Plätze, überprüft, wobei Gebühren dafür in Betracht gezogen wurden.</p><p>Die Sitzung enthielt auch Vorschläge verschiedener Parteien, sogenannte Anträge. Es gab Vorschläge, mehr in Freizeitaktivitäten zu investieren und betreute Wohnanlagen für Senioren zu bauen. Außerdem wurden die Regeln zur Verwaltung von Renten in den offiziellen Dokumenten der Gemeinde aktualisiert.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "redovisning": 1,
-    "finansiering": 1,
-    "miljo": 1,
-    "pensionar": 1,
-    "bil": 1,
-    "konsument": 1,
-    "friluftsliv": 2,
-    "idrott": 1,
-    "klimat": 1,
-    "otrygg": 1,
-    "fortroendevald": 1
+    "f_kommun": 5,
+    "b_fastighet": 3,
+    "mark_bygglov": 3,
+    "miljo": 4,
+    "klimat": 4,
+    "friluftsliv": 4,
+    "pensionar": 3,
+    "bil": 3,
+    "batagare": 3,
+    "fortroendevald": 3
   }
 }

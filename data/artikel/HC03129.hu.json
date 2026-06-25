@@ -12,8 +12,11 @@
   "tldr": "A kormány egy új bűncselekmény bevezetésével szeretné megakadályozni, hogy ellopott árukat exportálják az országból. Emellett szeretnék megerősíteni a vámhatóság jogkörét, hogy azok hatékonyabban vizsgálhassák és kezelhessék az illegális termékeket.",
   "lattlast": "<p>A kormány javasolja, hogy egy külön bűncselekményt vezessenek be, amelynek neve &quot;kiviteli lopás&quot;. Ez a bűncselekmény akkor követhető el, ha valaki segít lopott áruak kikerítésében Svédországból. Ha a bűncselekmény súlyos, a büntetés akár hat év szabadságvesztés is lehet. A bűncselekmény megkísérlése is illegális.</p><p>A javaslat emellett nagyobb felelősséget ruház a vámhivatalra, amely a határokon átmenő áruk ellenőrzéséért felelős. A vámhivatalnak segítenie kell a nyomozóknak, és több jogkörrel kell rendelkeznie a bűncselekmények megakadályozása érdekében. A vámőrök nyomozásokat indíthatnak, hasonlóan a rendőrséghez.</p><p>Javaslat van arra is, hogy a bűnözéssel foglalkozó hatóságok megtarthassák a lefoglalt tárgyakat, hogy azok felhasználhatók legyenek a képzésben vagy a bizonyítékok vizsgálatában. Ha a lefoglalt tárgyak veszélyesek vagy nehezen tárolhatók, azok gyorsabban megsemmisíthetők lehetnek, mint korábban.</p><p>A kormány emellett módosítani szeretné a szabályokat a továbbértékesítésre szánt, csempészett narkotikumokkal kapcsolatos büntetésekkel kapcsolatban. A legtöbb új szabály várhatóan 2025. szeptember 1-jén lép érvénybe, de egy kisebb módosítás egy adóköteles termékekről szóló törvényben már 2025. július 1-jén hatályba lép.</p>",
   "relevans": {
-    "import": 1,
-    "beroende": 1,
-    "otrygg": 2
+    "b_transport": 4,
+    "b_handel": 4,
+    "otrygg": 5,
+    "brottsoffer": 4,
+    "export": 3,
+    "import": 3
   }
 }

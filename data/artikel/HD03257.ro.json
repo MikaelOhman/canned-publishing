@@ -12,8 +12,12 @@
   "tldr": "Comunele care se ocupă de aspecte legate de cadastru vor trebui să utilizeze, începând cu 2027, același sistem digital ca și agenția guvernamentală Lantmäteriet. Acest lucru se face pentru a asigura compatibilitatea tehnologică între comune și stat.",
   "lattlast": "<p>Guvernul a prezentat o propunere de modificare a regulilor pentru autoritățile locale de cadastru. O autoritate de cadastru este acea parte a unei municipalități care se ocupă de probleme legate de terenuri și limite. Începând cu 1 ianuarie 2027, aceste autorități municipale vor fi obligate să utilizeze același sistem digital pentru a gestiona cazurile lor, același pe care îl utilizează autoritatea de stat Cadastru.</p><p>Scopul acestei modificări este de a asigura că instrumentele și suportul tehnic pentru procesare sunt identice. Scopul este ca informațiile să poată fi partajate ușor și în siguranță între municipalități și stat. Dacă o municipalitate nu utilizează sistemele corecte, guvernul își poate retrage autorizația acesteia de a opera o activitate de cadastru.</p><p>Guvernul sau o autoritate desemnată de guvern poate stabili reguli privind modul în care aceste sisteme tehnice trebuie utilizate. De asemenea, poate stabili dacă utilizarea sistemelor va implica costuri, prin diverse taxe.</p><p>Propunerea implică faptul că cerințele pentru ceea ce o municipalitate trebuie să demonstreze pentru a putea înființa o autoritate de cadastru proprie vor deveni mai clare. Acestea includ, printre altele, personalul adecvat, o structură organizațională corectă și funcționarea tehnologiei pentru schimbul de informații între stat și municipalitate.</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "tillstand": 1,
-    "konsument": 1
+    "f_kommun": 5,
+    "mark_bygglov": 6,
+    "bostadsagare": 3,
+    "bygger": 4,
+    "b_fastighet": 6,
+    "digitalisering": 4,
+    "offentliganstalld": 4
   }
 }

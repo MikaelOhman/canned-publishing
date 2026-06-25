@@ -12,9 +12,10 @@
   "tldr": "The government has released a report detailing how the police and security services have used covert methods to spy on criminals during the year 2024. The report reveals the extent to which they have employed techniques such as wiretapping and video surveillance to solve crimes.",
   "lattlast": "<p>The government has published a report detailing how authorities have used covert methods to investigate crimes during the year 2024. These methods, referred to as &quot;covert measures,&quot; allow the police to use technical tools without the knowledge of the person being monitored.</p><p>The report describes the extent to which the police have employed methods such as telephone wiretapping and camera surveillance. It also covers the reading of digital information and the use of hidden cameras in rooms. Furthermore, it outlines the regulations governing how the police are permitted to search for evidence in locations where they do not have permission to be.</p><p>The text also explains how intelligence agencies have collected information by monitoring electronic communications. This is a means for the state to gather information about events in society in order to prevent crime.</p><p>Finally, the report contains information on how the Swedish Security Service (Säkerhetspolisen), the agency responsible for addressing the most serious threats to Sweden, has utilized these covert methods in its work during the year.</p>",
   "relevans": {
-    "b_konsult": 3,
-    "tillstand": 1,
-    "otrygg": 2,
-    "integritet": 1
+    "integritet": 7,
+    "otrygg": 4,
+    "brottsoffer": 4,
+    "domd": 5,
+    "offentliganstalld": 3
   }
 }

@@ -12,6 +12,11 @@
   "tldr": "Regeringen vill ändra lagen så att myndigheter lättare kan dela information med varandra. Detta ska göras för att bättre kunna stoppa brott och felaktiga utbetalningar av pengar.",
   "lattlast": "<p>Just nu finns det regler som gör att myndigheter inte alltid får berätta vad de vet för varandra på grund av sekretess. Sekretess betyder att information ska hållas hemlig för att skydda privatpersoner. Regeringen vill ändra på detta så att myndigheter kan samarbeta bättre.</p><p>Det nya förslaget innebär att myndigheter får dela information om det behövs för att stoppa brott eller för att upptäcka fusk. Det handlar också om att hitta felaktiga utbetalningar, till exempel om pengar har betalats ut av misstag eller genom fusk. Syftet är att myndigheterna ska kunna göra sitt jobb på ett effektivt sätt.</p><p>Men det betyder inte att all information blir öppen för alla. Innan en myndighet lämnar ut en uppgift måste de kontrollera att det är säkert. De måste väga behovet av att dela information mot behovet av att skydda individens privatliv. Om det finns starka skäl att skydda en person får informationen inte lämnas ut.</p><p>Om riksdagen röstar ja till förslaget kommer den nya lagen att börja gälla den 1 december 2025. Förslaget handlar om en ändring i den lag som heter offentlighets- och sekretesslagen.</p>",
   "relevans": {
-    "glesbygd": 1
+    "integritet": 6,
+    "gdpr": 5,
+    "bidrag": 4,
+    "sjukskriven": 3,
+    "foretagare": 3,
+    "solo": 3
   }
 }

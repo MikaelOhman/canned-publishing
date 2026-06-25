@@ -12,7 +12,10 @@
   "tldr": "Alcune informazioni che le strutture sanitarie devono fornire all'elenco nazionale dei farmaci quando si utilizzano ricette elettroniche (come la motivazione della prescrizione e quando deve essere effettuato un controllo o interrotta la terapia) sono state rinviate: la scadenza passa da dicembre 2025 a settembre 2028. Questo offre alle strutture sanitarie più tempo per effettuare le modifiche necessarie in modo sicuro.",
   "lattlast": "<p>L&#x27;elenco nazionale dei farmaci è un registro che contiene le prescrizioni mediche di un paziente. Quando i medici scrivono ricette elettroniche, devono fornire determinate informazioni a questo elenco.</p><p>Il governo propone di posticipare di diversi anni l&#x27;obbligo di fornire due di queste informazioni – la motivazione della prescrizione e la data entro la quale il trattamento deve essere riesaminato o interrotto – passando dal 1° dicembre 2025 al 1° settembre 2028.</p><p>L&#x27;obiettivo è quello di dare al sistema sanitario più tempo per connettersi all&#x27;elenco in modo efficiente e sicuro per i pazienti.</p>",
   "relevans": {
-    "b_life": 3,
-    "kronisk": 3
+    "kronisk": 6,
+    "b_vard": 6,
+    "b_life": 4,
+    "offentliganstalld": 4,
+    "digitalisering": 3
   }
 }

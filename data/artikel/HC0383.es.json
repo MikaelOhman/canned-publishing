@@ -12,13 +12,12 @@
   "tldr": "El gobierno quiere modificar las leyes relacionadas con los impuestos sobre la energía, el tabaco y el alcohol, de manera que permisos y derechos importantes se transfieran al patrimonio de una empresa en caso de quiebra. Esto también se aplica a ciertas regulaciones sobre los impuestos sobre los productos químicos utilizados en la electrónica.",
   "lattlast": "<p>Cuando una empresa se declara en quiebra, se crea una masa liquidatoria que se encarga de administrar los activos restantes de la empresa. El gobierno propone ahora nuevas normas para que ciertos permisos y aprobaciones sean transferidos a esta masa liquidatoria. Esto se refiere a los permisos para enviar energía, tabaco y alcohol sin pagar impuestos directamente.</p><p>Este cambio también afecta los derechos para recuperar impuestos pagados sobre la electricidad. Si una empresa que tiene derecho a la devolución del impuesto sobre la electricidad se declara en quiebra, este derecho permanecerá en la masa liquidatoria. De manera similar, los permisos para enviar tabaco y alcohol como remitente registrado se transferirán a la masa liquidatoria.</p><p>La propuesta también incluye nuevas normas sobre cómo se pueden modificar o impugnar las decisiones relacionadas con la devolución de impuestos sobre productos químicos en ciertos productos electrónicos. El objetivo es aclarar qué sucede con estas normas fiscales cuando una empresa ya no puede pagar sus deudas.</p><p>Si el parlamento aprueba la propuesta, las nuevas normas entrarán en vigor el 1 de julio de 2025. Esto significa que las normas sobre los impuestos sobre la energía, el tabaco, el alcohol y la electrónica serán más predecibles en caso de quiebra.</p>",
   "relevans": {
-    "b_energi": 1,
-    "punktskatt": 3,
-    "konkurs": 3,
-    "tillstand": 1,
-    "miljo": 1,
-    "beroende": 1,
-    "lantagare": 1,
-    "energikund": 1
+    "konkurs": 9,
+    "b_energi": 6,
+    "punktskatt": 7,
+    "b_industri": 4,
+    "b_handel": 4,
+    "aktiebolag": 5,
+    "smaforetag": 4
   }
 }

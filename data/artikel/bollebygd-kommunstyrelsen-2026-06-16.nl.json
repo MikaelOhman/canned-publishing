@@ -15,13 +15,11 @@
   "tldr": "De gemeente Bollebygds heeft nieuwe regels vastgesteld over hoe de gemeente moet functioneren in geval van oorlog of een hoog niveau van paraatheid. Daarnaast zijn er nieuwe plannen goedgekeurd voor de bouw en architectuur in de gemeente.",
   "lattlast": "<p>Het gemeentebestuur heeft nieuwe richtlijnen vastgesteld voor de manier waarop de gemeente haar activiteiten moet organiseren in geval van oorlog of een hoog niveau van paraatheid. Dit betekent dat er van tevoren is bepaald welke onderdelen van het gemeentelijk werk het belangrijkst zijn om te prioriteren als de situatie in de samenleving onzeker wordt. Het doel is dat de belangrijkste maatschappelijke functies ook tijdens moeilijke tijden kunnen blijven functioneren.</p><p>Er zijn verschillende beslissingen genomen met betrekking tot bouw en stedenbouw. Het gaat onder meer om de opdracht die is gegeven om te werken aan bestemmingsplannen voor gebieden zoals Bollebygds Prästgård en Låddekärrsbu. Een bestemmingsplan is een document dat bepaalt wat er gebouwd mag worden en hoe het land gebruikt mag worden.</p><p>De gemeente heeft ook een nieuwe strategie voor architectuur vastgesteld. Dit is een plan voor hoe gebouwen en omgevingen er in de toekomst uit moeten zien en vorm moeten krijgen. Daarnaast is besloten om een planproces in het gebied Getabrohult te beëindigen en nieuwe opdrachten te starten om het gebied aldaar te plannen.</p><p>Tenslotte heeft het bestuur informatie ontvangen over hoe de gemeente omgaat met gegevensbescherming en veiligheid. De nieuwe functionaris gegevensbescherming van de Boråsregio heeft een presentatie gegeven over hoe wordt voldaan aan de regels voor persoonsgegevens (AVG) om de informatie van de inwoners te beschermen.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_fastighet": 1,
+    "f_kommun": 5,
+    "b_bygg": 4,
+    "mark_bygglov": 4,
     "gdpr": 3,
-    "mark_bygglov": 1,
-    "bygger": 1,
-    "storstad": 1,
-    "klimat": 1,
-    "integritet": 1
+    "bostadsagare": 3,
+    "hyresgast": 3
   }
 }

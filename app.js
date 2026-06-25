@@ -240,10 +240,11 @@ function matches(a){
   if(state._akt.length && relScore(a) < 1) return false;     // filtrera till valda situationer
   return true;
 }
+function relNiv(r){ return r>=7?3:r>=4?2:r>=1?1:0; }   // 0-10 score → 1-3 prickar
 function relMark(a){
-  const r=relScore(a); if(!r) return '';
-  const niv=[sitT().low,sitT().mid,sitT().high][r-1]||'';
-  return `<span class="rel rel${r}" title="${esc(sitT().affects)}: ${esc(niv)}">${'●'.repeat(r)}${'○'.repeat(3-r)}</span>`;
+  const lvl=relNiv(relScore(a)); if(!lvl) return '';
+  const niv=[sitT().low,sitT().mid,sitT().high][lvl-1]||'';
+  return `<span class="rel rel${lvl}" title="${esc(sitT().affects)}: ${esc(niv)}">${'●'.repeat(lvl)}${'○'.repeat(3-lvl)}</span>`;
 }
 function renderList(){
   const u=ui();

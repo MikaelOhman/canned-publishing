@@ -12,6 +12,16 @@
   "tldr": "Új bűncselekményt vezetnek be: a hamis lakcímadatok terjesztése. Ez vonatkozik arra, aki szándékosan hozzájárul ahhoz, hogy helytelen adatok kerüljenek be a lakcímnyilvántartásba, céljául pénznyerés vagy más bűncselekmény lehetővé tétele szolgál. Az adóhatóság (Skatteverket) kiterjesztett lehetőségei lesznek a biometrikus adatok, például az ujjlenyomatok és az arcfelvételek kezelésében.",
   "lattlast": "<p>A lakcímregiszterben való hibás bejegyzések – amikor személyek téves címen vannak bejegyezve – gyakran csalásokhoz és más bűncselekmények lehetővé tételéhez használatos. A kormány szeretné, hogy a Nemzeti Adóhatóság (Skatteverket) rendelkezzen hatékonyabb eszközökkel ennek megelőzésére.</p><p>Egy új bűncselekményt vezetnek be: a helytelen lakcímregisztráció elősegítése. Bűncselekmény lesz, ha valaki szándékosan és jelentős mértékben járul hozzá ahhoz, hogy egy helytelen információ alapján kerüljön sor lakcímregisztrációs döntésre, ha ennek célja a saját előnye vagy más bűncselekmény lehetővé tétele.</p><p>A Nemzeti Adóhatóság (Skatteverket) emellett szélesebb körű lehetőségei lesznek a biometrikus adatok, például az ujjlenyomatok és az arcfelvételek kezelésére a lakcímregiszterben.</p>",
   "relevans": {
-    "otrygg": 1
+    "ny_i_sverige": 5,
+    "asyl": 4,
+    "arbetstillstand": 4,
+    "bidrag": 5,
+    "skuldsatt": 3,
+    "integritet": 5,
+    "otrygg": 3,
+    "offentliganstalld": 3,
+    "gdpr": 4,
+    "b_finans": 3,
+    "redovisning": 3
   }
 }

@@ -12,16 +12,12 @@
   "tldr": "Die Regierung möchte Behörden wie die schwedische Sozialversicherungsanstalt (Försäkringskassan) und die Pensionsbehörde (Pensionsmyndigheten) bessere Möglichkeiten zur Überprüfung von Daten geben. Dies soll dazu beitragen, das Risiko zu verringern, dass fehlerhafte Zahlungen an Personen oder Unternehmen geleistet werden.",
   "lattlast": "<p>Die Regierung hat einen Vorschlag vorgelegt, der darauf abzielt, den Behörden mehr Befugnisse bei der Informationsbeschaffung zu geben. Die &quot;Försäkringskassan&quot; (Sozialversicherungsträger) und die &quot;Pensionsmyndigheten&quot; (Pensionsbehörde) sollen in der Lage sein, mehr Informationen sowohl von Privatpersonen als auch von Unternehmen anzufordern. Auch Banken und Anbieter von persönlicher Assistenz können verpflichtet werden, Informationen preiszugeben, wenn dies von den Behörden verlangt wird.</p><p>Der Vorschlag betrifft auch die Sozialämter der Kommunen, die für finanzielle Unterstützung zuständig sind. Diese sollen das Recht erhalten, Daten vom Finanzamt einzuholen, beispielsweise Informationen über die Gehälter von Angestellten. Ziel ist es, dass die Behörden fundierte Entscheidungen treffen und sicherstellen können, dass Gelder die richtigen Personen erreichen.</p><p>Gleichzeitig wird eine Änderung des Datenschutzes vorgeschlagen. Dies bedeutet, dass die &quot;Försäkringskassan&quot; und die &quot;Pensionsmyndigheten&quot; Informationen darüber, wie Unternehmen geführt werden und welche Geschäfte sie tätigen, schützen können. Dies ist Teil der neuen Regeln, die die Regierung einführen möchte.</p><p>Wenn das Parlament dem Vorschlag zustimmt, treten die neuen Gesetze am 1. Dezember 2025 in Kraft. Der Vorschlag umfasst mehrere verschiedene Gesetze, darunter Gesetze zur Krankengeldzahlung, zur zahnärztlichen Versorgung und zum Sozialgesetz.</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "b_finans": 2,
-    "sjuklon": 1,
-    "infrastruktur": 1,
-    "pensionar": 1,
-    "lontagare": 1,
-    "sjukskriven": 1,
-    "bidrag": 3,
-    "funktion": 1,
-    "tandvard": 2,
-    "batagare": 1
+    "sjukskriven": 5,
+    "bidrag": 6,
+    "kronisk": 4,
+    "funktion": 4,
+    "b_vard": 4,
+    "pensionar": 4,
+    "integritet": 4
   }
 }

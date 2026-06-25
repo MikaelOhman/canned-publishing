@@ -12,6 +12,14 @@
   "tldr": "A kormány szeretné módosítani a törvényeket úgy, hogy az adóhatóság (Skatteverket) modern technológiákat használhasson a vállalatok ellenőrzésére. Ez azt jelenti, hogy könnyebben tudják begyűjteni a digitális információkat, még akkor is, ha azok felhőalapú szolgáltatásokban vagy külföldön találhatók.",
   "lattlast": "<p>A svéd adóhatóság (Skatteverket) szeretne hatékonyabb eszközöket szerezni a vizsgálatokhoz. Jelenleg bizonyos típusú hálózatok használata tilos a vizsgálatok során, de a kormány szeretné eltörölni ezeket a tilalmakat. Ez lehetővé tenné a hatóság számára, hogy saját technikai eszközöket használjon a digitális információk hatékonyabb gyűjtésére.</p><p>Egy fontos javaslat a távoli bizonyítékok megszerzésének lehetőségéről szól. Ez azt jelenti, hogy az adóhatóság kereshet és másolhat digitális dokumentumokat olyan rendszerekben, amelyek a kommunikációhoz vagy fájlok tárolásához használatosak. Ez fontos, mert manapság sok információt úgynevezett felhőszolgáltatásokban tárolnak, ahol az információk nem egy fizikai számítógépen találhatók a vállalatnál, hanem az interneten.</p><p>Az új szabályozás azt is lehetővé teszi az adóhatóság számára, hogy információkat szerezzen be akkor is, ha azok egy másik országban vannak tárolva. A javaslat technikai eszközöket is tartalmaz, amelyek szükségesek a digitális vizsgálatok elvégzéséhez. A cél az, hogy a törvények lépést tartsanak a modern technológiával, anélkül, hogy az veszélyt jelentene a vizsgált személyek számára.</p><p>Ha a parlament elfogadja a javaslatot, az új szabályok 2026. július 1-jén lépnek hatályba. A javaslat módosításokat tartalmaz három különböző törvényben, amelyek az adóellenőrzéseket, bizonyos termékek ellenőrzését és a munkaerőpiaci átalakulás támogatását szabályozzák.</p>",
   "relevans": {
-    "arbetssokande": 2
+    "aktiebolag": 7,
+    "solo": 5,
+    "smaforetag": 6,
+    "storforetag": 6,
+    "redovisning": 6,
+    "gdpr": 5,
+    "integritet": 5,
+    "b_it": 4,
+    "digitalisering": 4
   }
 }

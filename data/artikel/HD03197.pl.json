@@ -12,11 +12,12 @@
   "tldr": "Rząd zamierza zmienić system oceniania w szkołach, aby uczynić go bardziej sprawiedliwym i zapobiec nadmiernie wysokim ocenom. Nowy system będzie uwzględniał zarówno oceny, jak i wyniki egzaminów krajowych, aby pokazać, jak dobrze radzi sobie uczeń.",
   "lattlast": "<p>Rząd przedstawił propozycję zmiany prawa oświatowego. Celem jest uczciwsze ocenianie uczniów oraz zapobieganie nadawaniu ocen, które nie odzwierciedlają rzeczywistej wiedzy. Propozycja ta wprowadza nową skalę ocen, składającą się z dziesięciu stopni, od 1 do 10, w szkołach podstawowych i średnich.</p><p>Do określenia poziomu wiedzy ucznia ma być wykorzystywany tzw. wskaźnik osiągnięć. Wskaźnik ten będzie oparty zarówno na ocenach uczniów, jak i na wynikach nowych, ogólnokrajowych egzaminów końcowych. Egzaminy te będą przeprowadzane w szkołach podstawowych, szkołach specjalnych, szkołach średnich oraz w programach kształcenia dla dorosłych prowadzonych przez gminy. Planowane jest, aby egzaminy te były oceniane w jednym, centralnym miejscu, aby zapewnić jednakowe standardy dla wszystkich.</p><p>Wprowadzane są również nowe zasady przyjmowania do różnych programów i kierunków studiów. Aby rozpocząć studia na programie ogólnokrajowym w szkole średniej, wymagany jest wskaźnik osiągnięć wynoszący co najmniej 4. Uzyskanie świadectwa ukończenia szkoły średniej wymaga średniej ocen co najmniej 4 oraz zdobycia co najmniej 2250 punktów łącznie. Przy rekrutacji na studia wyższe, oprócz ocen, będzie brany pod uwagę nowy wskaźnik osiągnięć.</p><p>Większość tych zmian ma wejść w życie 1 lipca 2028 roku. W przypadku programów kształcenia dla dorosłych prowadzonych przez gminy, obowiązuje późniejszy termin, czyli 1 stycznia 2031 roku.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_utbildning": 1,
-    "barn": 1,
-    "student": 1,
-    "gymnasieelev": 1,
-    "vuxenstudier": 1
+    "gymnasieelev": 9,
+    "barn": 7,
+    "ung_vuxen": 6,
+    "student": 5,
+    "b_utbildning": 7,
+    "offentliganstalld": 4,
+    "ensam_foralder": 3
   }
 }

@@ -12,8 +12,10 @@
   "tldr": "A kormány szeretné módosítani a törvényeket annak érdekében, hogy a Büntetés-végrehajtási Alakulat (Kriminalvården) hatékonyabban használhassa fel a személyes adatokat. A cél az, hogy a munkát biztonságosabbá és hatékonyabbá tegyék, például az arcfelismerő technológia alkalmazásával.",
   "lattlast": "<p>A kormány egy javaslatot terjesztett be, amely több törvényt módosít, amelyek szabályozzák, hogy a Büntetés-végrehajtási Szervezet (Kriminalvården) hogyan kezelheti az emberekkel kapcsolatos információkat. A cél, hogy a szabályok modernizálódjanak, és jobban megfeleljenek a mai igényeknek, miközben továbbra is védik az emberek személyes adatait.</p><p>Az új szabályoknak köszönhetően a Büntetés-végrehajtási Szervezet könnyebben tudhatja fel használni azokat az információkat, amelyek szükségesek a büntetés biztonságos végrehajtásához. Ez többek között azt is jelenti, hogy a szervezet nagyobb lehetősége lesz arra, hogy technológiát használjon, például arcfelismerést, munkájának megkönnyítése érdekében.</p><p>A javaslat több különböző törvény módosítását érinti, többek között a büntetésvégrehajtási törvényt és az elektronikus felügyeletre vonatkozó szabályokat, amelyeket &quot;lábnyomkövető&quot; (fotboja) néven ismerünk. Ha a parlament elfogadja a javaslatot, az új szabályok várhatóan 2026. április 1-jén lépnek életbe.</p>",
   "relevans": {
-    "gdpr": 1,
-    "domd": 3,
-    "integritet": 2
+    "domd": 7,
+    "integritet": 6,
+    "gdpr": 4,
+    "offentliganstalld": 4,
+    "otrygg": 3
   }
 }

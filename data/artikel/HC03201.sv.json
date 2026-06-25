@@ -12,8 +12,13 @@
   "tldr": "Reglerna om näringsförbud utvidgas så att de kan träffa personer som ägnar sig åt organiserad eller systematisk brottslighet – även om de inte drev ett företag när brottet begicks. Tiden för näringsförbud förlängs från högst 10 till högst 15 år, och Kronofogden får bättre verktyg för tillsyn.",
   "lattlast": "<p>Näringsförbud innebär att en person förbjuds att driva näringsverksamhet. I dag krävs i regel en koppling till ett företag vid brottet.</p><p>Regeringen föreslår att reglerna utvidgas så att näringsförbud kan meddelas den som gjort sig skyldig till organiserad eller systematisk brottslighet, även utan koppling till näringsverksamhet vid brottet – om det är motiverat från allmän synpunkt.</p><p>Den längsta tiden för näringsförbud förlängs från 10 till 15 år. Kronofogdemyndigheten får också bättre möjligheter att kontrollera att meddelade näringsförbud följs.</p>",
   "relevans": {
-    "regelborda": 1,
-    "skuldsatt": 1,
-    "otrygg": 1
+    "aktiebolag": 6,
+    "solo": 5,
+    "smaforetag": 5,
+    "storforetag": 4,
+    "foretagare": 6,
+    "konkurs": 4,
+    "otrygg": 4,
+    "brottsoffer": 3
   }
 }

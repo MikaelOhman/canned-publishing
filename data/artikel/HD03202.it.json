@@ -12,9 +12,14 @@
   "tldr": "Il governo intende modificare la legge per facilitare l'utilizzo dell'energia idroelettrica per la produzione di elettricità in Svezia. Ciò potrebbe comportare una riduzione dei requisiti relativi agli adeguamenti che gli impianti idroelettrici devono apportare per proteggere l'ambiente.",
   "lattlast": "<p>Il governo ha presentato una proposta per modificare il codice ambientale, la legge che regola come dobbiamo proteggere la nostra natura. La proposta riguarda il modo in cui bilanciare la necessità di energia pulita prodotta dall&#x27;idroelettrico con la necessità di proteggere la fauna e la flora acquatiche.</p><p>Attualmente, esistono regole rigide per la protezione della natura, chiamate direttive sulla conservazione delle specie e degli habitat. Il governo desidera che sia più facile fare eccezioni a queste regole se ciò è ritenuto importante per l&#x27;intero paese. Ciò significa che, in una nuova valutazione delle centrali idroelettriche, si potrebbe scegliere di avere requisiti ambientali inferiori.</p><p>La proposta implica anche che il governo debba avere maggiori poteri per decidere quando è possibile fare eccezioni ai divieti che proteggono l&#x27;ambiente acquatico. Ciò vale sia per le centrali idroelettriche esistenti che devono rivedere le loro autorizzazioni, sia per le nuove centrali idroelettriche che devono essere costruite.</p><p>Se il parlamento voterà a favore della proposta, le nuove regole entreranno in vigore il 1° luglio 2026. L&#x27;obiettivo è garantire che la Svezia abbia un accesso affidabile e sicuro all&#x27;energia prodotta dall&#x27;idroelettrico.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "tillstand": 1,
-    "miljo": 1,
-    "klimat": 1
+    "b_energi": 8,
+    "energiintensiv": 7,
+    "energikund": 5,
+    "gron_omstallning": 6,
+    "miljo": 6,
+    "klimat": 5,
+    "b_industri": 5,
+    "hallbarhetsrapport": 4,
+    "eu_marknad": 4
   }
 }

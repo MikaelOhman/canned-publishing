@@ -15,11 +15,15 @@
   "tldr": "Der Gemeinderat von Stockholm hat Fragen zum Busbahnhof in Slussen, zur Verarbeitung personenbezogener Daten und zu Änderungen im öffentlichen Nahverkehr beantwortet.",
   "lattlast": "<p>Der Gemeinderat hat eine Antwort an das Verwaltungsgericht in Stockholm geschickt. Es geht um eine Überprüfung einer früheren Entscheidung über den Verkauf eines Grundstücks am Busbahnhof in Slussen.</p><p>Die Stadt hat außerdem auf einen Vorschlag des Rates für Kriminalprävention geantwortet. Der Vorschlag betrifft Änderungen der Regeln für die Verwendung von personenbezogenen Daten und die Geheimhaltung.</p><p>Es wurden auch Änderungen im Fahrplan von SL und WÅAB für das Jahr 2026/2027 geprüft. Dies war eine Antwort auf eine Mitteilung der Region Stockholm über bevorstehende Änderungen im Fahrplan.</p><p>Mitglieder der Parteien Moderaterna und Liberalerna haben eine separate Stellungnahme zu den Verkehrsthemen abgegeben. Sie haben ihre eigene Meinung zu den geplanten Änderungen im öffentlichen Nahverkehr schriftlich festgehalten.</p>",
   "relevans": {
-    "b_fastighet": 2,
-    "gdpr": 1,
-    "pendlare": 1,
-    "kollektiv": 2,
-    "kronisk": 1,
-    "integritet": 1
+    "kollektiv": 6,
+    "pendlare": 5,
+    "storstad": 5,
+    "f_storstad": 5,
+    "bostadsagare": 3,
+    "gdpr": 3,
+    "integritet": 3,
+    "f_kommun": 5,
+    "fortroendevald": 4,
+    "offentliganstalld": 3
   }
 }

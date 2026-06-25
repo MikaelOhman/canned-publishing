@@ -12,10 +12,12 @@
   "tldr": "Rząd zamierza zmienić przepisy, aby ułatwić karanie statków, które nie przestrzegają przepisów Unii Europejskiej dotyczących emisji. Chce wprowadzić możliwość nakładania kar pieniężnych i zatrzymywania statków, które naruszają te przepisy.",
   "lattlast": "<p>Rząd przedstawił propozycję zmian w przepisach mających na celu kontrolowanie emisji zanieczyszczeń z jednostek pływających. Jeśli statek nie przestrzega systemu handlu emisjami Unii Europejskiej, organy władzy powinny mieć możliwość stosowania bardziej stanowczych środków. Może to obejmować zakaz wejścia statku do portu lub zatrzymanie go w porcie.</p><p>W celu zapewnienia przestrzegania przepisów, rząd proponuje wprowadzenie kar finansowych. Kara finansowa to rodzaj grzywny, którą należy zapłacić, jeśli nie przestrzega się ustalonych zasad. W przypadku wątpliwości dotyczących wysokości tych kar, ich wysokość ma być ustalana przez Sąd ds. Spraw Morskich i Środowiska.</p><p>Straż Przybrzeżna i Policja mają pomagać w zapewnieniu przestrzegania decyzji. Powinny mieć możliwość stosowania wszelkich niezbędnych metod w celu zapobiegania naruszeniom przepisów. W pewnych szczególnych sytuacjach, pracownicy Straży Przybrzeżnej powinni mieć również prawo użycia siły w celu realizacji swoich zadań.</p><p>Zmiany w przepisach mają wejść w życie 1 stycznia 2026 roku. Propozycja ta obejmuje zmiany zarówno w ustawie o Straży Przybrzeżnej, jak i w ustawie o emisji gazów cieplarnianych.</p>",
   "relevans": {
-    "miljo": 3,
-    "infrastruktur": 1,
-    "batagare": 1,
-    "klimat": 3,
-    "otrygg": 1
+    "b_transport": 7,
+    "miljo": 6,
+    "klimat": 5,
+    "gron_omstallning": 5,
+    "eu_marknad": 5,
+    "export": 4,
+    "import": 4
   }
 }

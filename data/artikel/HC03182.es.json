@@ -12,7 +12,10 @@
   "tldr": "Algunos datos que los centros de atención médica deben proporcionar a la lista nacional de medicamentos al emitir recetas electrónicas (la razón de la prescripción y cuándo se debe realizar un seguimiento o finalizar el tratamiento) se posponen. El plazo de implementación se extiende desde diciembre de 2025 hasta septiembre de 2028. Esto le da a los centros de atención médica más tiempo para conectarse de forma segura.",
   "lattlast": "<p>El registro nacional de medicamentos es una base de datos que contiene información sobre los medicamentos que un paciente ha sido prescrito. Cuando los médicos emiten recetas electrónicas, deben proporcionar cierta información a este registro.</p><p>El gobierno propone posponer la obligación de proporcionar dos de estos datos – la razón de la prescripción y la fecha en la que se debe realizar el seguimiento o finalizar el tratamiento – durante varios años, desde el 1 de diciembre de 2025 hasta el 1 de septiembre de 2028.</p><p>El objetivo es dar a los servicios de atención médica más tiempo para conectarse al registro de una manera que sea eficiente y segura para los pacientes.</p>",
   "relevans": {
-    "b_life": 3,
-    "kronisk": 3
+    "kronisk": 6,
+    "b_vard": 6,
+    "b_life": 4,
+    "offentliganstalld": 4,
+    "digitalisering": 3
   }
 }

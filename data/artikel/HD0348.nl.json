@@ -12,8 +12,10 @@
   "tldr": "De regering wil de wetten wijzigen met betrekking tot hoe de Dienst Justitiële Inrichtingen (Kriminalvården) persoonsgegevens mag gebruiken. Het doel is om het werk veiliger en efficiënter te maken, bijvoorbeeld door het gebruik van gezichtsherkenning mogelijk te maken.",
   "lattlast": "<p>De regering heeft een voorstel ingediend om verschillende wetten te wijzigen die bepalen hoe de Strafuitvoeringsinstantie (Kriminalvården) omgaat met informatie over mensen. Het doel is om de regels te moderniseren en beter aan te passen aan de behoeften van vandaag, terwijl de privacy van mensen wordt beschermd.</p><p>Met de nieuwe regels moet de Strafuitvoeringsinstantie gemakkelijker toegang krijgen tot de informatie die nodig is om straffen op een veilige manier uit te voeren. Dit betekent onder meer dat de instantie meer mogelijkheden krijgt om technologie, zoals gezichtsherkenning, te gebruiken om haar werk te vergemakkelijken.</p><p>Het voorstel omvat wijzigingen in verschillende wetten, waaronder de wet op de gevangenissen en de regels voor elektronische bewaking, ook wel bekend als enkelband. Als het parlement het voorstel goedkeurt, zullen de nieuwe regels naar verwachting ingaan op 1 april 2026.</p>",
   "relevans": {
-    "gdpr": 1,
-    "domd": 3,
-    "integritet": 2
+    "domd": 7,
+    "integritet": 6,
+    "gdpr": 4,
+    "offentliganstalld": 4,
+    "otrygg": 3
   }
 }

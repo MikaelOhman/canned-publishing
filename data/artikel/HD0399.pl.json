@@ -12,20 +12,12 @@
   "tldr": "Rząd proponuje zmiany w budżecie państwa na rok 2026. Propozycje obejmują szeroki zakres inwestycji, od nowych zakupów nieruchomości i okrętów podwodnych, po duże inwestycje w energetykę jądrową i działalność kosmiczną.",
   "lattlast": "<p>Rząd zamierza zmienić sposób wykorzystania środków publicznych w 2026 roku. Wśród ważnych decyzji znajduje się propozycja zakupu nieruchomości w Solna za około 3,4 miliarda koron szwedzkich. Rozważane jest również wynajęcie okrętu podwodnego typu A 17 dla Polski oraz zmiana zasad dotyczących dofinansowania do usług stomatologicznych.</p><p>Duża część propozycji dotyczy energii i energetyki jądrowej. Państwo planuje zainwestować znaczne środki w firmę Videberg Kraft AB. Obejmuje to zakup akcji w celu posiadania większości udziałów w firmie, a także finansowanie programów związanych z gospodarką odpadami radioaktywnymi. Koszty te mogą być bardzo wysokie w nadchodzących latach.</p><p>Istnieją również propozycje dotyczące bezpieczeństwa i technologii. Rząd chce mieć możliwość przeznaczania środków na ochronę osób pracujących w służbach wywiadu. Proponuje się również przekazanie środków firmie kosmicznej SSC Space AB w celu wzmocnienia działań Szwecji w dziedzinie kosmosu. Dla policjantów pełniących służbę proponowane są nowe zasady dotyczące rozliczania ich pożyczek studenckich.</p><p>Na koniec, przewidziane są mniejsze zmiany budżetowe dla różnych instytucji i kultury. Królewskiej Operze daje się możliwość zaciągnięcia pożyczki na renowację budynku. Również instytucje takie jak Agencja ds. Leków i Instytut Radiowy otrzymują dostosowania budżetowe, aby mogły realizować swoje zadania w 2026 roku.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_fastighet": 1,
-    "b_energi": 1,
-    "b_kultur": 1,
-    "b_life": 1,
-    "student": 1,
-    "hyresgast": 1,
-    "kronisk": 1,
-    "tandvard": 2,
-    "sparare": 1,
-    "lantagare": 1,
-    "energikund": 1,
-    "kultur": 1,
-    "otrygg": 1,
-    "varnpliktig": 1
+    "b_energi": 6,
+    "b_life": 4,
+    "varnpliktig": 6,
+    "offentliganstalld": 4,
+    "tandvard": 5,
+    "fortroendevald": 4,
+    "student": 4
   }
 }

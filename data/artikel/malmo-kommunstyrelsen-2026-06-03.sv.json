@@ -13,16 +13,20 @@
   "tldr": "Kommunstyrelsen i Malmö har hållit ett möte där de gick igenom flera viktiga frågor om stadens ekonomi, personal och framtida planer. Bland annat diskuterades stöd till kvinnojourer och hur Malmö ska växa under de kommande tio åren.",
   "lattlast": "<p>Kommunstyrelsen i Malmö har behandlat många olika ärenden som rör hur staden ska styras. En viktig fråga handlar om att ge extra pengar till barn- och kvinnojourer i Malmö för att ersätta pengar som uteblivit från staten. Det finns även ett beslut om att flytta pengar för att hjälpa unga som lever i riskzonen.</p><p>Staden tittar på sin framtid genom att gå igenom en prognos för hur många som kommer att bo i Malmö mellan år 2026 och 2036. Man har också diskuterat hur man ska köpa in lokaler för boenden för personer med funktionsnedsättning, så kallat LSS-boende. Dessutom har man pratat om hur Malmö ska arbeta med sina investeringar och hur man kan förbättra arbetet med att få fler arbetslösa i jobb.</p><p>När det gäller personal har man diskuterat anställningar av höga chefer, till exempel en stadsdirektör och en förvaltningsdirektör för arbetsmarknad och sociala frågor. Man har även tittat på regler för hur politiker ska få ersättning för sina uppdrag i framtiden.</p><p>Det har även kommit in flera förslag, så kallade motioner, från politiker. Dessa förslag handlar om allt från att undersöka islamistiska rörelser och att skapa ett skönhetsråd, till att se över hyror för barnfamiljer och hur man kan förbättning äldreomsorgen.</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "b_fastighet": 1,
-    "finansiering": 1,
-    "lokaler": 1,
-    "barn": 1,
-    "stor_familj": 1,
-    "pensionar": 1,
-    "lontagare": 1,
-    "arbetssokande": 1,
-    "funktion": 2,
-    "idrott": 1
+    "f_storstad": 5,
+    "storstad": 4,
+    "f_kommun": 5,
+    "kvinna": 5,
+    "barn": 5,
+    "ensam_foralder": 5,
+    "funktion": 5,
+    "bostadslos": 4,
+    "arbetssokande": 5,
+    "bidrag": 4,
+    "pensionar": 4,
+    "ny_i_sverige": 4,
+    "fortroendevald": 5,
+    "offentliganstalld": 4,
+    "ideell": 4
   }
 }

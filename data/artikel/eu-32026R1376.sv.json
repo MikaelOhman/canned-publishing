@@ -13,9 +13,12 @@
   "tldr": "EU har beslutat att tillåta import av vissa blommor från Uganda till Europa. Det finns dock strikta regler för att förhindra att sjukdomar och skadedjur följer med blommorna.",
   "lattlast": "<p>EU-kommissionen har gjort ett undantag i reglerna för att man nu får importera sticklingar av blommorna Calibrachoa och Petunia från Uganda. Tidigare var det förbjudet att ta in dessa växter från landet, men nu har man kommit fram till att det går att göra importen på ett säkert sätt.</p><p>Europeiska myndigheten för livsmedelssäkerhet, som ofta kallas EFSA, har undersökt riskerna. De hittade flera olika typer av virus och skadedjur som kan vara farliga för växter. För att skydda Europas natur och jordbruk måste de som importerar blommorna följa särskilda regler och kontroller.</p><p>För att minska risken ska blommorna odlas på ett sätt som skyddar dem från skadegörare. De växter som skickas till Europa måste komma från godkända anläggningar i Uganda. Varje anläggning måste ha en unik kod så att man kan spåra var blommorna kommer ifrån om man skulle hitta ett problem i framtiden.</p><p>När blommorna väl har kommit till EU måste de planteras och få rötter på speciella platser. Dessa platser måste ha särskilt tillstånd för att kunna kontrollera att växterna är friska och inte sprider några sjukdomar vidare.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_grona": 1,
-    "tillstand": 1,
-    "import": 1
+    "b_grona": 5,
+    "import": 6,
+    "b_handel": 4,
+    "miljo": 4,
+    "produktsakerhet": 4,
+    "eu_marknad": 4,
+    "tillstand": 4
   }
 }

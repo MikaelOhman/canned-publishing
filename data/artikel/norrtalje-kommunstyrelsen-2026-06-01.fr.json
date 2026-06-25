@@ -13,20 +13,16 @@
   "tldr": "Le conseil municipal de Norrtälje a pris plusieurs décisions concernant des investissements dans les bâtiments, les écoles et l'environnement de la commune, ainsi que des modifications des plans de construction et des tarifs.",
   "lattlast": "<p>Le conseil municipal a approuvé plusieurs investissements importants pour l&#x27;année 2026. Ces investissements comprennent notamment la démolition du bâtiment Jupiter 1 afin de créer des places de parking et des espaces verts, ainsi que la construction d&#x27;un nouveau bâtiment pour le tri des déchets à Hamnplan, dans le port de Norrtälje. Des fonds seront également alloués au remplacement des systèmes d&#x27;alarme et de contrôle d&#x27;accès dans les bâtiments municipaux, ainsi qu&#x27;à l&#x27;adaptation des écoles pour les élèves ayant des besoins spécifiques.</p><p>Plusieurs modifications des réglementations et des tarifs ont également été approuvées. Cela comprend de nouveaux tarifs pour les services offerts par le comité de l&#x27;enfance et de l&#x27;éducation, ainsi que de nouveaux tarifs pour les activités culturelles et de loisirs. De plus, des modifications des plans de construction pour les zones d&#x27;Åkerö et de Häverö-Bergby ont été approuvées afin de réglementer l&#x27;utilisation des terrains.</p><p>La commune a également reçu des fonds provenant d&#x27;un fonds spécial appelé &quot;fonds rural et créatif&quot; pour soutenir le développement de la région. Parallèlement, une étude a été menée pour améliorer la lutte contre les crimes qui affectent les services sociaux, par exemple en mettant en place des procédures plus claires pour les dénonciations à la police et pour la récupération des sommes versées de manière incorrecte.</p><p>Enfin, une discussion a eu lieu sur l&#x27;accessibilité actuelle de toutes les activités de la commune. L&#x27;objectif est de trouver des solutions qui facilitent l&#x27;accès aux services et aux bâtiments municipaux pour tous les citoyens.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_vard": 1,
-    "b_kultur": 1,
-    "finansiering": 1,
-    "infrastruktur": 1,
-    "f_landsbygd": 1,
-    "barn": 1,
-    "glesbygd": 1,
-    "bil": 1,
-    "funktion": 1,
-    "konsument": 2,
-    "batagare": 1,
-    "klimat": 1,
-    "kultur": 1,
-    "otrygg": 1
+    "f_kommun": 5,
+    "mark_bygglov": 4,
+    "barn": 4,
+    "funktion": 4,
+    "klimat": 3,
+    "b_fastighet": 3,
+    "b_utbildning": 3,
+    "lokaler": 3,
+    "miljo": 3,
+    "idrott": 3,
+    "glesbygd": 3
   }
 }

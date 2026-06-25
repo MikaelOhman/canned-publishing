@@ -13,13 +13,15 @@
   "tldr": "The municipal council of Ånge held a meeting where they reviewed financial reports and plans for the future. Key topics discussed included decisions regarding land sales, parking regulations, and the construction of new playgrounds.",
   "lattlast": "<p>The municipal council in Ånge discussed several important issues related to the municipality&#x27;s finances and development. They reviewed financial reports and plans for the budget in the coming years, and also examined the municipality&#x27;s debts and borrowing needs.</p><p>Regarding construction and land, a decision was made to sell land to the company Ellevio. They also discussed how to develop the industrial land at Mallberget and how to manage parking spaces for commuters.</p><p>For residents, a decision was made to build a new playground in Fränsta, and funding for the project was approved. There are also plans to investigate possibilities for Parkbacken, and discussions are ongoing regarding the closure of the group home Älvgården.</p><p>The meeting also included a review of various annual reports for companies and organizations that the municipality is affiliated with, such as Ångefallen Kraft AB and the Public Transport Authority of Västerbotten.</p>",
   "relevans": {
-    "b_industri": 1,
-    "b_bygg": 1,
-    "redovisning": 1,
-    "mark_bygglov": 1,
-    "pendlare": 1,
-    "bil": 1,
-    "kollektiv": 1,
-    "lantagare": 1
+    "mark_bygglov": 4,
+    "b_energi": 5,
+    "b_fastighet": 4,
+    "f_landsbygd": 4,
+    "f_kommun": 5,
+    "infrastruktur": 3,
+    "pendlare": 3,
+    "glesbygd": 3,
+    "barn": 3,
+    "bostadsagare": 3
   }
 }

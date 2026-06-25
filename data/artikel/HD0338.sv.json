@@ -12,10 +12,12 @@
   "tldr": "Regeringen vill ändra lagen så att företag och organisationer behöver tillstånd för att ärva jordbruksmark. Syftet är att se till att privatpersoner och företag har en bra balans när de äger mark.",
   "lattlast": "<p>Regeringen har lagt fram ett förslag om att ändra lagen för jordförvärv. Det betyder att juridiska personer, som är namn på företag eller föreningar, inte längre bara kan få lantbruksmark genom arv eller testamente utan att det krävs ett särskilt tillstånd.</p><p>Om ett företag eller en organisation får ny mark genom ett testamente eller från Allmänna arvsfonden, måste de också ge bort annan lantbruksmark. Detta görs för att reglerna ska vara rättvisa och för att förhindra att för mycket mark hamnar hos stora organisationer istället för hos privatpersoner.</p><p>Förslaget innebär att man måste balansera sitt ägande av mark. Om man tar emot ny mark måste man lämna ifrån sig annan mark för att behålla rätt jämvikt i landskapet.</p><p>Om riksdagen röstar ja till förslaget kommer de nya reglerna att börja gälla den 1 januari 2027.</p>",
   "relevans": {
-    "b_grona": 3,
-    "tillstand": 1,
-    "infrastruktur": 1,
-    "glesbygd": 3,
-    "batagare": 1
+    "b_grona": 7,
+    "b_fastighet": 4,
+    "mark_bygglov": 5,
+    "ideell": 4,
+    "aktiebolag": 4,
+    "glesbygd": 5,
+    "f_landsbygd": 5
   }
 }

@@ -13,9 +13,14 @@
   "tldr": "La giunta comunale di Perstorp ha preso visione delle informazioni riguardanti la prosecuzione dei lavori sulla strada 21 e le modalità per migliorare la sicurezza stradale in città. Inoltre, ha deliberato l'acquisto di ulteriori terreni e ha approvato un piano per garantire la disponibilità di alloggi nel comune.",
   "lattlast": "<p>Trafikverket, l&#x27;ente statale responsabile delle strade, ha informato il comune sui piani di intervento sulla strada 21 durante gli anni 2026 e 2027. I lavori si basano su una precedente indagine volta a rendere la strada più sicura e migliorare la viabilità, sia per chi percorre lunghe distanze che per i residenti di Perstorp.</p><p>Il comune ha deciso di stipulare un contratto di acquisto per acquisire ulteriore terreno per le proprietà Silversmeden 1, 2 e 3. Ciò significa che il comune assumerà la proprietà di una maggiore superficie di terreno per poterla utilizzare in futuro. È stato inoltre stipulato un accordo supplementare per l&#x27;area Låssmeden 4, situata in Elektrodvägen.</p><p>Per garantire la disponibilità di alloggi nel futuro, il comune ha approvato un piano d&#x27;azione per l&#x27;edilizia residenziale. Questo piano descrive come il comune intende promuovere la costruzione e l&#x27;offerta di alloggi ai suoi cittadini.</p><p>Durante la riunione, è stata discussa anche la situazione finanziaria del comune e del servizio sociale. Sono state esaminate le relazioni finanziarie del primo trimestre del 2026 e si è discusso dell&#x27;ammontare dei fondi disponibili per le attività del servizio sociale durante l&#x27;anno.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_fastighet": 1,
-    "glesbygd": 1,
-    "korkort": 1
+    "b_bygg": 5,
+    "b_fastighet": 5,
+    "mark_bygglov": 5,
+    "lokaler": 4,
+    "f_kommun": 5,
+    "bostadsagare": 3,
+    "hyresgast": 3,
+    "pendlare": 3,
+    "bil": 3
   }
 }

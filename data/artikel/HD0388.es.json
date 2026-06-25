@@ -12,10 +12,16 @@
   "tldr": "El gobierno quiere modificar las leyes sobre cómo la Agencia Tributaria, la Aduana y la Oficina Nacional de Ejecuciones gestionan los datos personales. El objetivo es que las autoridades puedan utilizar la tecnología moderna para controlar los derechos y los impuestos de una manera más eficiente, al tiempo que se mantiene la protección de su privacidad.",
   "lattlast": "<p>El gobierno ha presentado una propuesta para reemplazar las antiguas normas sobre cómo se gestionan los datos personales en tres grandes organismos gubernamentales: la Agencia Tributaria, la Aduana y la Oficina Nacional de Ejecuciones. Las nuevas leyes permitirán a los organismos utilizar la información de una manera más moderna, adaptada a la tecnología actual.</p><p>La propuesta también implica que los organismos tendrán una autoridad más clara para utilizar el análisis de datos. Esto significa que podrán utilizar programas informáticos para buscar patrones y realizar selecciones en sus registros. Esto les ayudará a trabajar de manera más eficiente en sus controles, por ejemplo, al buscar errores en los impuestos o aranceles.</p><p>A pesar de que los organismos recibirán nuevas herramientas, el objetivo es proteger la privacidad de las personas. Las nuevas leyes funcionarán en conjunto con las normas de protección de datos de la UE, conocidas como GDPR, para garantizar que los datos personales no se utilicen de manera incorrecta. Las leyes protegerán a los individuos de que se viole su privacidad personal.</p><p>Si el Parlamento aprueba la propuesta, las nuevas normas entrarán en vigor el 2 de abril de 2026. La propuesta también incluye muchos cambios menores en otras leyes que afectan a todo, desde los impuestos sobre el alcohol y el tabaco hasta las normas de registro civil y las ayudas para estudios.</p>",
   "relevans": {
-    "gdpr": 3,
-    "import": 3,
-    "beroende": 1,
-    "skuldsatt": 1,
-    "integritet": 2
+    "gdpr": 7,
+    "integritet": 7,
+    "redovisning": 5,
+    "moms": 4,
+    "bolagsskatt": 4,
+    "skuldsatt": 4,
+    "lantagare": 3,
+    "digitalisering": 5,
+    "solo": 4,
+    "aktiebolag": 4,
+    "storforetag": 4
   }
 }

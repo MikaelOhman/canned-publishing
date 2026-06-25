@@ -12,9 +12,16 @@
   "tldr": "De regering wil de wet wijzigen zodat het Centraal Bureau voor de Statistiek (SCB) meer informatie kan verzamelen over de hoeveelheid schulden die huishoudens hebben, en over de rentepercentages en aflossingen die ze betalen. Dit wordt gedaan om een beter inzicht te krijgen in de economische risico's in de samenleving.",
   "lattlast": "<p>De regering heeft een voorstel ingediend om het werk van een systeem genaamd Fasit uit te breiden. Fasit is een tool die door het Centraal Bureau voor de Statistiek (CBS) wordt gebruikt om te berekenen hoe verschillende economische regels mensen beïnvloeden. Door informatie toe te voegen over schulden en betalingen, kan beter inzicht worden verkregen in hoe gevoelig huishoudens zijn voor veranderingen in de economie.</p><p>Om dit te laten werken, moeten banken en andere bedrijven die actief zijn met hypotheken informatie verstrekken over de schulden en betalingen van huishoudens aan het CBS. Het is belangrijk om te weten hoeveel geld naar aflossingen gaat, zodat het economisch beleid van het land kan worden gepland. Dit helpt de overheid te zien of hoge rentetarieven of andere kosten grote problemen veroorzaken voor gezinnen.</p><p>Ondanks dat er meer informatie wordt verzameld, zijn de regels voor persoonsgegevens streng. Er mogen alleen gegevens worden gebruikt die noodzakelijk zijn, en er mogen geen gevoelige gegevens worden gebruikt, zoals informatie over gezondheid of etnische afkomst. Het doel is om goede statistieken te verkrijgen zonder de privacy van mensen te schenden.</p><p>Als het voorstel wordt aangenomen en het parlement instemt, zullen de nieuwe regels ingaan op 1 augustus 2026.</p>",
   "relevans": {
-    "b_finans": 1,
-    "gdpr": 1,
-    "lantagare": 3,
-    "integritet": 2
+    "lantagare": 6,
+    "skuldsatt": 6,
+    "bostadsagare": 5,
+    "sparare": 4,
+    "pensionssparare": 3,
+    "b_finans": 5,
+    "integritet": 4,
+    "gdpr": 3,
+    "stor_familj": 3,
+    "sambo_gift": 3,
+    "ensam_foralder": 3
   }
 }

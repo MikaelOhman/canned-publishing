@@ -13,12 +13,24 @@
   "tldr": "La giunta comunale di Bollebygd ha preso diverse decisioni riguardanti una vasta gamma di argomenti, dalle nuove normative sulla sicurezza alla pianificazione di spazi e infrastrutture per il futuro. Inoltre, ha approvato finanziamenti a diversi partiti politici.",
   "lattlast": "<p>Il comune ha elaborato nuove normative per la protezione delle informazioni e la gestione della sicurezza digitale. È stata inoltre sviluppata una nuova pianificazione della mobilità urbana, nonché un programma per creare un ambiente sicuro e vivibile per tutti i cittadini.</p><p>Per quanto riguarda gli edifici e il territorio, è stata discussa una fase preliminare per la realizzazione della prima fase di un nuovo edificio comunale. È stato inoltre esaminato un piano per l&#x27;utilizzo degli spazi comunali tra il 2027 e il 2036, nonché una transazione di terreni in un&#x27;area chiamata Buagärde.</p><p>Diversi partiti politici, tra cui i Verdi, il Partito Popolare, la Voce del Popolo e i Moderati, hanno ricevuto l&#x27;approvazione dei finanziamenti per il 2026. Sono stati inoltre esaminati i bilanci annuali di diverse organizzazioni, ad esempio della fondazione che gestisce le case popolari a Bollebygd e dei servizi di emergenza della zona.</p><p>Sono state sollevate anche questioni relative alle proposte dei cittadini, come la realizzazione di una struttura per attività dedicate agli anziani o di una nuova pista ciclabile lungo il lago Viaredssjön. Inoltre, è stata discussa una nuova normativa relativa alla compensazione economica per coloro che ricoprono incarichi politici nel comune durante il nuovo periodo, fino al 2030.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "redovisning": 1,
-    "lokaler": 1,
-    "pensionar": 1,
-    "glesbygd": 1,
-    "klimat": 1,
-    "fortroendevald": 1
+    "ideell": 4,
+    "b_fastighet": 4,
+    "mark_bygglov": 4,
+    "f_kommun": 6,
+    "gdpr": 3,
+    "digitalisering": 3,
+    "lokaler": 4,
+    "pensionar": 3,
+    "pendlare": 3,
+    "bil": 3,
+    "kollektiv": 3,
+    "fortroendevald": 7,
+    "offentliganstalld": 5,
+    "glesbygd": 3,
+    "mindre_ort": 4,
+    "friluftsliv": 3,
+    "idrott": 3,
+    "otrygg": 3,
+    "integritet": 3
   }
 }

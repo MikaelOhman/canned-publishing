@@ -12,14 +12,15 @@
   "tldr": "Regeringen vill ändra reglerna för vissa skatteförmåner och bidrag så att de följer EU:s lagar om statsstöd. Förslaget innebär bland annat nya sätt att betala tillbaka nedsatta avgifter för företag som anställer nya personer.",
   "lattlast": "<p>Regeringen har lagt fram ett förslag för att ändra svenska skatteregler. Syftet är att se till att de ekonomiska lättnader som staten ger till företag och privatpersoner följer EU:s regler för vad som är tillåtet stöd. Om reglerna inte följs kan det ses som otillåtet statsstöd från staten till enskilda företag.</p><p>Ett viktigt exempel är det så kallade växa-stödet. Det är en nedsättning av arbetsgivaravgifter som företag får när de anställer sin första eller andra person. Regeringen föreslår att detta istället ska fungera som en återbetalning av pengar. För att Skatteverket ska kunna kontrollera detta måste företag även börja lämna in mer information än vad de gör idag.</p><p>Förändringar planeras även för det regionala avdraget. Det är en lägre avgift för arbetsgivare som jobbar i vissa delar av Norrland och västra Sverige. Nu ska reglerna ändras så att de passar EU:s regler för regionalt stöd. Det innebär också att vilka typer av verksamheter som får dra av pengar kommer att ändras.</p><p>Även andra skattereduktioner, som stöd för boende i glesbygd eller för produktion av förnybar el, kommer att påverkas. För de som har företag och har rätt till dessa stöd kommer kraven på att rapportera uppgifter att ändras. De flesta av dessa nya lagar är tänkta att börja gälla den 1 januari 2026.</p>",
   "relevans": {
-    "arbetsgivare": 2,
-    "b_industri": 1,
-    "avgifter": 2,
-    "konkurrens": 3,
-    "f_landsbygd": 1,
-    "glesbygd": 1,
-    "kronisk": 1,
-    "konsument": 1,
-    "klimat": 1
+    "solo": 6,
+    "smaforetag": 7,
+    "arbetsgivare": 7,
+    "avgifter": 8,
+    "f_landsbygd": 5,
+    "glesbygd": 4,
+    "b_grona": 4,
+    "aktiebolag": 4,
+    "regelborda": 5,
+    "eu_marknad": 5
   }
 }

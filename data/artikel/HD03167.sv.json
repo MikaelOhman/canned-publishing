@@ -12,6 +12,10 @@
   "tldr": "Regeringen vill ändra lagarna för att göra det säkrare att kontrollera strålning och kärnmaterial. Förslaget handlar om att tydligare bestämma vem som får göra säkerhetskontroller och hur man ska kontrollera små mängder kärnmaterial.",
   "lattlast": "<p>Regeringen föreslår nya regler för verksamheter som använder strålning eller kärnteknik. Syftet är att skriva in i lagen att det måste finnas kontroller som visar att alla säkerhetskrav följs. Det ska också bestämmas exakt hur dessa kontroller ska gå till och vilka personer eller företag som får utföra dem.</p><p>Det kommer även att införas nya regler för att kontrollera kärnmaterial, baserat på gemensamma regler inom EU (Euratom). För de som bara har små mängder av kärnmaterial vill man skapa en enklare lösning som kallas för en nationell LOF. Detta ska göra det lättare för mindre verksamheter att följa reglerna för kärnämneskontroll.</p><p>En myndighet kommer att få i uppgift att kontrollera att de nya reglerna för kärnmaterial följs. Samtidigt föreslår regeringen att ett gammalt straff för vissa regelbrott ska tas bort, eftersom de nya reglerna ersätter de gamla.</p><p>Om riksdagen röstar ja till förslaget kommer de nya lagarna att börja gälla den 1 augusti 2026. De nya lagarna kommer att innehålla regler om både kärnteknik och hur man ska rapportera verksamheter som har med kärnmaterial att göra.</p>",
   "relevans": {
-    "foretagare": 1
+    "b_energi": 6,
+    "b_life": 4,
+    "b_industri": 4,
+    "miljo": 3,
+    "eu_marknad": 4
   }
 }

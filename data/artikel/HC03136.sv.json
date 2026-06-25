@@ -12,11 +12,13 @@
   "tldr": "Regeringen vill ändra lagarna för att göra det enklare att driva fiskodlingar. Målet är att alla regler för miljön ska samlas på ett och samma ställe.",
   "lattlast": "<p>Regeringen har gjort ett förslag om att ändra två viktiga lagar, fiskelagen och miljöbalken. Just nu finns det regler på olika ställen, men man vill att alla regler för hur fiskodlingar påverkar naturen ska följa samma lag, som kallas miljöbalken. Miljöbalken är den lag som styr hur vi ska skydda vår miljö.</p><p>Det betyder att myndigheterna inte längre ska använda fiskelagen för att bestämma vilka tillstånd som behövs för att odla fisk, kräftdjur eller musslor. Om de nya reglerna går igenom kommer det inte längre att vara ett brott enligt fiskelagen att odla dessa djur utan ett speciellt tillstånd, eftersom allt istället ska kontrolleras genom miljöreglerna.</p><p>Förslaget innebär också att man inte behöver söka ett särskilt tillstånd för att bygga anläggningar för vattenbruk, så länge man följer miljöreglerna. Regeringen eller en annan myndighet som de bestämmer ska få rätt att skriva ner exakt vilka krav som gäller för att ta hänsyn till miljön vid odlingar.</p><p>Om riksdagen säger ja till förslaget kommer de nya reglerna att börja gälla den 1 juli 2026. Detta är en del av ett arbete för att skapa bättre förutsättningar för ett hållbart vattenbruk, det vill säga en fiskodling som inte skadar naturen på lång sikt.</p>",
   "relevans": {
-    "b_bygg": 2,
-    "b_grona": 1,
-    "tillstand": 1,
-    "miljo": 1,
-    "fiske": 1,
-    "klimat": 1
+    "b_grona": 7,
+    "miljo": 5,
+    "tillstand": 5,
+    "regelborda": 5,
+    "fiske": 4,
+    "mark_bygglov": 3,
+    "f_landsbygd": 4,
+    "gron_omstallning": 3
   }
 }

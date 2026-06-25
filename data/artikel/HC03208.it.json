@@ -12,10 +12,15 @@
   "tldr": "Il governo intende inasprire le leggi relative al furto o alla divulgazione di segreti aziendali. Sarà considerato un reato anche nel caso in cui una persona, pur avendo il diritto di accedere a determinate informazioni in virtù del proprio lavoro, le utilizzi in modo improprio.",
   "lattlast": "<p>Il governo ha presentato una proposta per proteggere meglio i segreti delle aziende e degli istituti di ricerca svedesi. L&#x27;obiettivo è quello di contrastare lo spionaggio industriale, ovvero quando altre entità spiano le industrie svedesi per ottenere vantaggi. Rafforzando la protezione, si spera che le aziende siano più propense a investire in nuove tecnologie e sviluppo.</p><p>La proposta prevede che sia considerato un reato utilizzare o divulgare informazioni tecniche riservate senza autorizzazione. Ciò si applica anche a persone che hanno legalmente accesso a tali informazioni, ad esempio dipendenti che vi accedono nell&#x27;ambito del loro lavoro. Si tratta principalmente dei segreti più importanti per lo sviluppo tecnologico e per l&#x27;industria svedese.</p><p>Per att attuare questa proposta, il governo suggerisce modifiche a diverse leggi, tra cui la legge sui segreti aziendali e le normative relative alla polizia. Se il Parlamento approverà la proposta, le nuove regole entreranno in vigore il 1° gennaio 2026.</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "b_industri": 1,
-    "b_vard": 1,
-    "fou": 1,
-    "otrygg": 1
+    "aktiebolag": 6,
+    "smaforetag": 5,
+    "storforetag": 6,
+    "b_it": 5,
+    "b_industri": 5,
+    "immaterialratt": 8,
+    "fou": 6,
+    "digitalisering": 4,
+    "arbetsratt": 4,
+    "kompetens": 3
   }
 }

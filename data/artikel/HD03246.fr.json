@@ -12,10 +12,13 @@
   "tldr": "Le gouvernement propose des sanctions plus sévères pour les jeunes qui commettent des crimes. Cette proposition prévoit notamment que les enfants âgés de 13 ans puissent être tenus responsables de crimes graves pendant une période de cinq ans.",
   "lattlast": "<p>Le gouvernement souhaite modifier les lois afin de lutter contre la criminalité croissante chez les jeunes. L&#x27;une des propositions les plus importantes est de abaisser l&#x27;âge auquel une personne peut être punie pour des crimes graves à 13 ans. Cette proposition serait applicable pendant une période de cinq ans.</p><p>Pour les jeunes adultes qui ont atteint l&#x27;âge de la majorité mais qui ont commis des crimes, le gouvernement souhaite supprimer ce qu&#x27;on appelle la &quot;réduction pour mineur&quot;. Cela signifie que les peines ne seront pas diminuées simplement parce que la personne est jeune. Pour les personnes de moins de 18 ans, il est également proposé d&#x27;augmenter les peines maximales à 18 ans de prison.</p><p>D&#x27;autres types de sanctions et de contrôles seront également renforcés. Il s&#x27;agit de durcir les règles concernant la surveillance des jeunes et d&#x27;être plus strict envers les jeunes qui ne respectent pas leur probation ou leurs travaux d&#x27;intérêt général. L&#x27;objectif est que ces règles soient plus efficaces contre la criminalité organisée.</p><p>Si ces modifications sont adoptées par le Parlement, le gouvernement prévoit que les nouvelles règles entreront en vigueur le 2 août 2026. Cette proposition implique également des modifications de nombreuses autres lois, notamment les lois fiscales, le fonctionnement de la police et la manière dont les données personnelles sont traitées.</p>",
   "relevans": {
-    "gdpr": 1,
-    "barn": 1,
-    "ung": 1,
-    "otrygg": 2,
-    "integritet": 1
+    "barn": 5,
+    "ung": 7,
+    "ung_vuxen": 6,
+    "otrygg": 6,
+    "brottsoffer": 5,
+    "domd": 7,
+    "offentliganstalld": 3,
+    "fortroendevald": 3
   }
 }

@@ -12,10 +12,12 @@
   "tldr": "A kormány nehezíteni szeretné a bűnözők számára, hogy robbanószereket használjanak, szigorítva azokat a vállalatokat ellenőrzését, amelyek veszélyes anyagokkal foglalkoznak. A javaslat célja, hogy megakadályozza, hogy a robbanószerek a rossz kezekbe kerüljenek.",
   "lattlast": "<p>A robbantások egyre gyakoribbá váltak Svédországban, ahol a bűnözők robbanószereket használnak emberek és lakások ellen. Gyakran olyan robbanószerek kerülnek felhasználásra, amelyek eredetileg legálisak, de ellopták őket, vagy valahogy a helytelen kezekbe kerültek. Ennek megakadályozása érdekében a kormány szeretné megváltoztatni azokat a szabályokat, amelyek a tűzveszélyes és robbanó anyagokkal foglalkozó vállalatokra vonatkoznak.</p><p>Az egyik javaslat az, hogy azoknak a vállalatoknak, amelyek engedélyt kaptak ilyen anyagok kezelésére, gyorsan kell bejelenteniük a hatóságoknak, ha fontos személyek, például vezetők vagy tulajdonosok távoznak a vállalatból. A rendőrségnek nagyobb jogkörrel kell rendelkeznie a vállalatok és személyek által robbanószerek kezelésére adott döntések ellen való fellebbezés terén. Ez megkönnyítené a veszélyes anyagokhoz jutó személyek nyomon követését.</p><p>A kormány szeretné módosítani a titoktartási törvényt, amely azokat a szabályokat határozza meg, hogy mi tekinthető titkosnak. Könnyebbé kell tenni a Honvédelmi Hírszerző Ügynökség (FRA) és más hatóságok számára, hogy megosszák egymással a fontos információkat a nemzetközi együttműködések során. Ez a digitális tevékenységek biztonságának növelése érdekében történik.</p><p>Ha a parlament megszavazza a javaslatokat, az új szabályok 2026. július 1-jén lépnek hatályba. A javaslatok két különböző törvény módosítását jelentik, amelyek a biztonsággal és a veszélyes anyagok kezelésével kapcsolatosak.</p>",
   "relevans": {
-    "tillstand": 1,
-    "infrastruktur": 1,
-    "batagare": 1,
-    "otrygg": 1,
-    "varnpliktig": 1
+    "b_bygg": 5,
+    "b_industri": 4,
+    "tillstand": 7,
+    "arbetsmiljo": 5,
+    "otrygg": 6,
+    "brottsoffer": 3,
+    "integritet": 3
   }
 }

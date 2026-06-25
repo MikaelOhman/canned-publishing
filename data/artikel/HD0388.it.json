@@ -12,10 +12,16 @@
   "tldr": "Il governo intende modificare le leggi che regolano il modo in cui l'Agenzia delle Entrate, la Dogana e l'Ufficio di Esecuzione forzata gestiscono i dati personali. L'obiettivo è consentire alle autorità di utilizzare tecnologie moderne per controllare in modo più efficace i diritti e le imposte, garantendo al contempo la protezione della privacy individuale.",
   "lattlast": "<p>Il governo ha presentato una proposta per sostituire le vecchie normative su come vengono gestiti i dati personali in tre importanti enti pubblici: l&#x27;Agenzia delle Entrate, la Dogana e l&#x27;Ufficio di Esecuzione. Le nuove leggi dovrebbero consentire agli enti di utilizzare le informazioni in modo più moderno, in linea con le tecnologie attuali.</p><p>La proposta prevede inoltre che gli enti abbiano una maggiore chiarezza sui loro diritti nell&#x27;utilizzo dell&#x27;analisi dei dati. Ciò significa che potranno utilizzare programmi informatici per individuare modelli e effettuare selezioni nei loro registri. Questo dovrebbe aiutarli a lavorare in modo più efficiente nei loro controlli, ad esempio quando cercano errori nelle imposte o nelle tariffe doganali.</p><p>Nonostante gli enti ricevano nuovi strumenti, l&#x27;obiettivo è proteggere la privacy delle persone. Le nuove leggi devono essere conformi alle normative europee sulla protezione dei dati, note come GDPR, per garantire che i dati personali non vengano utilizzati in modo improprio. Le leggi devono proteggere l&#x27;individuo da violazioni della sua privacy.</p><p>Se il Parlamento approva la proposta, le nuove normative entreranno in vigore il 2 aprile 2026. La proposta include anche numerose modifiche minori ad altre leggi che riguardano argomenti che vanno dalle imposte su alcol e tabacco alle normative sulla registrazione delle persone e sui sussidi per gli studi.</p>",
   "relevans": {
-    "gdpr": 3,
-    "import": 3,
-    "beroende": 1,
-    "skuldsatt": 1,
-    "integritet": 2
+    "gdpr": 7,
+    "integritet": 7,
+    "redovisning": 5,
+    "moms": 4,
+    "bolagsskatt": 4,
+    "skuldsatt": 4,
+    "lantagare": 3,
+    "digitalisering": 5,
+    "solo": 4,
+    "aktiebolag": 4,
+    "storforetag": 4
   }
 }

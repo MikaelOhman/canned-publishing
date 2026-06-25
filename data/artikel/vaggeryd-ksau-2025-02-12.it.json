@@ -13,10 +13,11 @@
   "tldr": "Il comune ha deciso di presentare ai residenti e alle aziende una nuova proposta riguardante un'area di Stödstorp. La proposta riguarda una modifica delle regole relative all'accesso all'area LogPoint South Sweden verso la strada 846.",
   "lattlast": "<p>La commissione esecutiva del comune ha approvato una modifica a un piano particolareggiato relativo all&#x27;area denominata Stödstorp 2:1 LogPoint South Sweden. Un piano particolareggiato è un documento che definisce cosa è permesso fare in un determinato luogo, ad esempio come possono essere utilizzate strade o edifici.</p><p>L&#x27;obiettivo principale della modifica è eliminare un divieto attualmente in vigore. Attualmente, è vietato uscire dall&#x27;area verso la strada 8akt, ma si intende modificare questa disposizione. È stata inoltre effettuata un&#x27;indagine per valutare se il nuovo piano possa avere un impatto significativo sull&#x27;ambiente, e si è concluso che non vi è alcun rischio di tale portata.</p><p>Prima di prendere la decisione, è stata condotta una consultazione nel dicembre 2024 e nel gennaio 2025. Una consultazione è un incontro o un periodo di tempo durante il quale si chiede alle parti interessate di esprimere le proprie opinioni. Dopo aver ascoltato le opinioni, sono stati elaborati nuovi documenti che illustrano la proposta aggiornata.</p><p>Ora, la nuova proposta sarà resa pubblica per la consultazione. Ciò significa che chiunque lo desideri può consultare i documenti e vedere cosa è previsto. Questa procedura è conforme alla legge svedese che disciplina l&#x27;edilizia e la pianificazione, nota anche come Legge sull&#x27;urbanistica e l&#x27;edilizia.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "mark_bygglov": 1,
-    "bygger": 1,
-    "glesbygd": 1,
-    "klimat": 1
+    "b_transport": 6,
+    "b_industri": 5,
+    "f_kommun": 6,
+    "mark_bygglov": 5,
+    "lokaler": 4,
+    "bil": 3
   }
 }

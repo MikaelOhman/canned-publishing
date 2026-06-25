@@ -12,13 +12,12 @@
   "tldr": "Guvernul dorește să modifice legile referitoare la taxele pe energie, tutun și alcool, astfel încât permisele și drepturile importante să fie transferate către lichidatorul judiciar atunci când o companie intră în faliment. Acest lucru se aplică și pentru anumite reguli referitoare la taxele pe substanțele chimice din electronice.",
   "lattlast": "<p>Când o companie intră în faliment, se creează un fond de insolvență care trebuie să gestioneze activele rămase ale companiei. Guvernul propune acum noi reguli pentru a atribui anumite licențe și aprobări acestui fond de insolvență. Acestea se referă la licențele pentru a transporta energie, tutun și alcool fără a plăti direct taxele.</p><p>Modificarea se aplică și drepturilor de a recupera taxele plătite pentru energie electrică. Dacă o companie care are dreptul la rambursarea taxelor pentru energie electrică intră în faliment, acest drept va rămâne în cadrul fondului de insolvență. În mod similar, licențele pentru transportul de tutun și alcool ca expeditor înregistrat vor fi transferate în fondul de insolvență.</p><p>Propunerea include, de asemenea, noi reguli privind modul în care se pot modifica sau contesta deciziile de rambursare a taxelor pentru anumite substanțe chimice utilizate în electronice. Scopul este de a clarifica ce se întâmplă cu aceste reguli fiscale atunci când o companie nu mai poate plăti datoriile.</p><p>Dacă Parlamentul aprobă propunerea, noile reguli vor intra în vigoare începând cu 1 iulie 2025. Acest lucru înseamnă că regulile privind taxele pentru energie, tutun, alcool și electronice vor deveni mai previzibile în cazul unui faliment.</p>",
   "relevans": {
-    "b_energi": 1,
-    "punktskatt": 3,
-    "konkurs": 3,
-    "tillstand": 1,
-    "miljo": 1,
-    "beroende": 1,
-    "lantagare": 1,
-    "energikund": 1
+    "konkurs": 9,
+    "b_energi": 6,
+    "punktskatt": 7,
+    "b_industri": 4,
+    "b_handel": 4,
+    "aktiebolag": 5,
+    "smaforetag": 4
   }
 }

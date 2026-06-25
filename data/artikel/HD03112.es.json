@@ -12,8 +12,12 @@
   "tldr": "El gobierno quiere crear un nuevo registro de todas las propiedades inmobiliarias que será gestionado por la Oficina de Cadastro y Cartografía (Lantmäteriet). Esto facilitará y hará más seguro tener préstamos hipotecarios para su apartamento, y ayudará a la policía a combatir el crimen.",
   "lattlast": "<p>El gobierno ha presentado una propuesta para crear un nuevo registro de todas las propiedades inmobiliarias en Suecia. La agencia Lantmäteriet será responsable de llevar un registro de los apartamentos, los residentes, las asociaciones de propietarios y los préstamos asociados a cada apartamento.</p><p>El propósito de este nuevo registro es facilitar el acceso a la información correcta tanto para las asociaciones como para las autoridades. También se busca aumentar la seguridad al utilizar una propiedad como garantía para un préstamo, lo que se conoce como &quot;hipoteca&quot;. Al tener un mejor control de quién es propietario de qué, la agencia de ejecución y la policía podrán detectar y prevenir delitos de manera más eficiente.</p><p>La propuesta también implica cambios en las normas sobre cómo se notifica a una asociación de propietarios cuando se vende un apartamento o se contrata un préstamo. En lugar de enviar notificaciones, la información estará disponible directamente en el nuevo sistema. Esto se denomina &quot;sistema unificado de derechos reales&quot;, lo que significa que las normas sobre los derechos asociados a la propiedad serán las mismas para todos.</p><p>Si la propuesta es aprobada y el parlamento vota a favor, el gobierno planea que las nuevas leyes entren en vigor el 1 de enero de 2027. El gobierno propone modificaciones a varias leyes, como la ley de propiedad horizontal y la ley de ejecución, para que el nuevo sistema pueda funcionar.</p>",
   "relevans": {
-    "bostadsagare": 3,
-    "skuldsatt": 1,
-    "otrygg": 1
+    "bostadsagare": 8,
+    "hyresgast": 5,
+    "lantagare": 7,
+    "sparare": 5,
+    "b_fastighet": 8,
+    "aktiebolag": 3,
+    "ideell": 4
   }
 }

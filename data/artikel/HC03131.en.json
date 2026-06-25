@@ -12,10 +12,19 @@
   "tldr": "The government is proposing new laws to improve the environment and regulate energy consumption. These proposals include requirements for data centers to disclose their electricity usage and changes to regulations regarding fuel.",
   "lattlast": "<p>The government intends to amend several laws to comply with new regulations from the EU. A key aspect is that data centers, which are large facilities that store digital information, will be required to report their energy consumption to a common database in Europe. This is being done to gain better insight into the amount of electricity used for digital technology.</p><p>There will also be stricter regulations regarding what qualifies as sustainable fuels. This means that new requirements will be imposed on fuels derived from, for example, recycled materials or other environmentally friendly sources, requiring them to meet certain environmental standards. Laws related to energy taxes and electricity certificates will also be amended to align with these new regulations.</p><p>Regarding fuels used in cars, proposals are being made for new levels for the biofuel blending mandate. The biofuel blending mandate is the requirement to blend more environmentally friendly fuels into gasoline and diesel. It is now proposed that this requirement can be met by using fossil-free electricity. At the same time, it is proposed that the requirement for fuel suppliers to reduce greenhouse gas emissions be removed.</p><p>Most of these new regulations are intended to come into effect on July 1, 2025. However, certain aspects related to environmental requirements for fuels will take effect later, either on January 1, 2026, or January 1, 2030.</p>",
   "relevans": {
-    "b_energi": 1,
-    "miljo": 1,
-    "bil": 3,
-    "energikund": 2,
-    "klimat": 2
+    "b_it": 7,
+    "b_transport": 6,
+    "b_energi": 6,
+    "b_industri": 5,
+    "energiintensiv": 7,
+    "gron_omstallning": 6,
+    "hallbarhetsrapport": 5,
+    "eu_marknad": 5,
+    "miljo": 5,
+    "digitalisering": 5,
+    "bil": 4,
+    "energikund": 4,
+    "klimat": 5,
+    "punktskatt": 4
   }
 }

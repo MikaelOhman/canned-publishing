@@ -12,7 +12,16 @@
   "tldr": "A kormány terve egy új intézmény létrehozása, amely 2027. július 1-jétől kezdi el a környezetvédelmi engedélyezési eljárásokat. Az új intézmény átveszi azokat a feladatokat, amelyeket jelenleg a megyei önkormányzatok látják el.",
   "lattlast": "<p>A kormány megbízott egy személyt egy új intézmény létrehozásának előkészítésével. Ez az intézmény lesz felelős a környezetvédelmi engedélyezési feladatokért, ami azt jelenti, hogy ellenőrizni fogja, hogy a különböző projektek és tevékenységek megfelelnek-e a környezetvédelmi törvényeknek. A tervek szerint az új intézmény 2027. július 1-jén kezdheti meg a működést.</p><p>Jelenleg a megyei kormányhivatalok környezetvédelmi engedélyezési csoportjai végzik ezeket az ellenőrzéseket. Ez azt jelenti, hogy a helyi hatóságok minden megyében felelősek a környezetvédelmi kérdések elbírálásáért. Az új intézmény átveszi ezt a teljes munkakört a megyei kormányhivataloktól.</p><p>Ahhoz, hogy ez megvalósulhasson, a parlamentnek több törvényt kell módosítania, többek között a környezetvédelmi törvényt. A környezetvédelmi törvény az a törvény, amely tartalmazza a legfontosabb szabályokat arra vonatkozóan, hogyan kell védeni a természetet és a környezetet Svédországban. A kormány egy javaslatot nyújtott be a parlamentnek, hogy ezeket a módosításokat jóváhagyni.</p><p>A javaslatok egy része szerint az új szabályok már 2026. szeptember 1-jén lépnek hatályba. A többi törvénymódosítás akkor lép hatályba, amikor az új intézmény elindul, azaz 2027. július 1-jén.</p>",
   "relevans": {
-    "miljo": 1,
-    "klimat": 3
+    "b_industri": 6,
+    "b_bygg": 5,
+    "b_grona": 6,
+    "b_energi": 5,
+    "miljo": 8,
+    "mark_bygglov": 5,
+    "tillstand": 7,
+    "regelborda": 5,
+    "gron_omstallning": 4,
+    "klimat": 5,
+    "friluftsliv": 3
   }
 }

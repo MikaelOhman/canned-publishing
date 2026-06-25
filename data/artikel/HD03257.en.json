@@ -12,8 +12,12 @@
   "tldr": "Municipalities that handle land surveying matters will be required to use the same digital system as the national authority, Lantmäteriet, starting in 2027. This is being implemented to ensure that the technology functions seamlessly between municipalities and the national government.",
   "lattlast": "<p>The government has proposed changes to the regulations governing municipal land surveying authorities. A land surveying authority is the part of a municipality that handles matters related to land and boundaries. Starting January 1, 2027, these municipal authorities will be required to use the same digital systems to manage their cases as the national authority, Lantmäteriet, uses.</p><p>The purpose of this change is to ensure that the technical tools and support for processing are the same. This is about making it possible to share information easily and securely between municipalities and the state. If a municipality does not use the correct systems, the government may revoke its permission to operate a land surveying service.</p><p>The government, or an authority designated by the government, may also determine the rules for how these technical systems should be used. They may also determine whether there will be costs associated with using the systems through various fees.</p><p>The proposal means that the requirements for what a municipality must demonstrate in order to start its own land surveying authority will be clearer. This includes having the right personnel, the right organization, and ensuring that the technology functions for the exchange of information between the state and the municipality.</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "tillstand": 1,
-    "konsument": 1
+    "f_kommun": 5,
+    "mark_bygglov": 6,
+    "bostadsagare": 3,
+    "bygger": 4,
+    "b_fastighet": 6,
+    "digitalisering": 4,
+    "offentliganstalld": 4
   }
 }

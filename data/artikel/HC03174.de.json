@@ -12,10 +12,12 @@
   "tldr": "Die Regierung plant, die Gesetze so zu ändern, dass es einfacher wird, Schiffe zu bestrafen, die die EU-Vorschriften für Emissionen nicht einhalten. Ziel ist es, Bußgelder zu verhängen und Schiffe, die gegen die Vorschriften verstoßen, zu stoppen.",
   "lattlast": "<p>Die Regierung hat einen Vorschlag vorgelegt, die Gesetze zur Kontrolle von Emissionen von Schiffen zu ändern. Wenn ein Schiff das EU-Emissionshandelssystem nicht einhält, sollen die Behörden stärkere Maßnahmen ergreifen können. Dies kann das Verbot beinhalten, dass ein Schiff einen Hafen anläuft, oder die Zurückhaltung des Schiffes im Hafen.</p><p>Um die Einhaltung der Regeln sicherzustellen, schlägt die Regierung vor, dass Bußgelder verhängt werden können. Ein Bußgeld ist eine Art Geldstrafe, die gezahlt werden muss, wenn man nicht das tut, was man sich vorgenommen hat. Wenn Fragen darüber entstehen, wie hoch diese Bußgelder sein sollen, entscheidet das Verwaltungsgericht für Umweltfragen.</p><p>Die Küstenwache und die Polizei sollen bei der Durchsetzung der Entscheidungen helfen. Sie sollen die notwendigen Methoden einsetzen können, um Verstöße zu unterbinden. In bestimmten Sonderfällen sollen die Mitarbeiter der Küstenwache auch das Recht haben, Gewalt anzuwenden, um ihre Aufgaben zu erfüllen.</p><p>Diese Änderungen der Gesetze sollen ab dem 1. Januar 2026 in Kraft treten. Der Vorschlag beinhaltet Änderungen sowohl im Küstenwachegesetz als auch im Gesetz über Emissionen von Treibhausgasen.</p>",
   "relevans": {
-    "miljo": 3,
-    "infrastruktur": 1,
-    "batagare": 1,
-    "klimat": 3,
-    "otrygg": 1
+    "b_transport": 7,
+    "miljo": 6,
+    "klimat": 5,
+    "gron_omstallning": 5,
+    "eu_marknad": 5,
+    "export": 4,
+    "import": 4
   }
 }

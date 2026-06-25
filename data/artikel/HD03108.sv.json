@@ -12,10 +12,17 @@
   "tldr": "Sverige vill ändra lagarna om avfall för att vi ska bli bättre på att återvinna material. Förslaget innebär att företag får mer ansvar för sitt eget skräp och att reglerna för kommunerna blir enklare.",
   "lattlast": "<p>Regeringen vill ändra miljöbalken, som är den lag som bestämmer hur vi ska skydda naturen. Målet är att minska mängden skräp och se till att mer material kan användas igen. Detta är viktigt för att Sverige ska nå de miljömål som bestämts inom EU.</p><p>En stor förändring är att de som säljer varor i butiker får ett eget ansvar för sitt avfall. Det gäller även de som skapar avfall från exempelvis matfett eller papper. Tidigare har kommunerna haft ett större ansvar för detta, men nu ska producenterna själva se till att det hanteras rätt. Kommunerna kommer att ha ett reservansvar om de som skapar avfallet inte gör sitt jobb.</p><p>Det blir också enklare för kommunerna att planera sitt arbete med avfall. De ska inte längre behöva kontrollera att alla regler följs på samma sätt, och reglerna för avgifter ska bli modernare. Regeringen eller en annan myndighet ska istället bestämma de stora nationella planerna för hur avfall ska hanteras i hela landet.</p><p>Förslaget innehåller även nya regler för hur man hanterar jord och sten från byggprojekt, så kallade schaktmassor. Man vill också att staten och kommunerna ska slippa vissa ekonomiska krav när de lägger avfall på deponi, vilket är platser där man gräver ner skräp. Om förslaget går igenom börjar de nya reglerna gälla den 1 juli 2026.</p>",
   "relevans": {
-    "b_handel": 1,
-    "b_bygg": 1,
-    "miljo": 3,
-    "konsument": 1,
-    "klimat": 1
+    "miljo": 6,
+    "klimat": 5,
+    "gron_omstallning": 5,
+    "b_bygg": 6,
+    "b_handel": 4,
+    "b_industri": 5,
+    "aktiebolag": 4,
+    "smaforetag": 4,
+    "f_kommun": 4,
+    "regelborda": 5,
+    "eu_marknad": 4,
+    "konsument": 3
   }
 }

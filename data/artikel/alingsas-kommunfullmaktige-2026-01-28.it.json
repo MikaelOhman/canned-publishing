@@ -13,11 +13,11 @@
   "tldr": "Il comune di Alingsås ha approvato nuove normative che regolano il funzionamento di tutte le aziende comunali. Inoltre, è stato approvato un piano per la costruzione di un nuovo asilo nido nella zona di Ingared.",
   "lattlast": "<p>Il consiglio comunale ha deciso di modificare la politica aziendale del gruppo comunale di Alingsås. Una politica è un documento che descrive le regole e i valori che devono essere applicati quando le diverse attività e aziende del comune operano.</p><p>È stata inoltre approvata una planimetria dettagliata per Ingared. Ciò significa che è stato ora concesso il permesso di costruire un nuovo asilo in Kärrbogärdevägen, sulla proprietà Ingared 5:114.</p><p>La riunione ha riguardato anche la modifica delle regole per la società AB Alingsås Rådhus. Sono state inoltre discusse questioni relative all&#x27;acqua e alle fognature (VA), nonché aree come il campeggio di Lövekulle, Noltorp ed Edsås.</p><p>Infine, si sono svolte diverse elezioni per sostituire le persone che hanno lasciato i loro incarichi in diverse commissioni. Una commissione è un gruppo di politici responsabili di aree specifiche, come ad esempio l&#x27;istruzione o le questioni edilizie.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_fastighet": 1,
-    "tillstand": 1,
-    "mark_bygglov": 1,
-    "barn": 2,
-    "bygger": 1
+    "f_kommun": 5,
+    "fortroendevald": 7,
+    "b_fastighet": 3,
+    "mark_bygglov": 4,
+    "barn": 4,
+    "bostadsagare": 3
   }
 }

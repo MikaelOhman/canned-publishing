@@ -12,7 +12,8 @@
   "tldr": "Personen, die eine Freiheitsstrafe mit elektronischer Überwachung in einer kontrollierten Einrichtung verbüßt oder sich in einer Sicherungsverwahrung befindet, hat nur einen eingeschränkten Anspruch auf bestimmte Sozialversicherungsleistungen und ist verpflichtet, die Kosten für seinen Aufenthalt zu tragen. Dies gilt für die neuen Vollzugsformen und tritt am 1. August 2026 in Kraft.",
   "lattlast": "<p>Schweden führt neue Möglichkeiten zur Strafvollstreckung ein: elektronische Überwachung in betreuten Wohnheimen und eine neue Strafmaßnahme namens &quot;Sicherheitsverwahrung&quot;. Der Gesetzentwurf passt die Sozialversicherungsbestimmungen an diese Änderungen an.</p><p>Der Vorschlag sieht vor, dass Personen, die ihre Strafe auf diese Weise verbüßen, einen eingeschränkten Anspruch auf bestimmte Leistungen haben und verpflichtet sind, die Kosten für ihren Aufenthalt zu tragen.</p><p>Die Änderungen im Sozialversicherungsgesetz sollen am 1. August 2026 in Kraft treten.</p>",
   "relevans": {
-    "domd": 1,
-    "integritet": 1
+    "domd": 9,
+    "beroende": 4,
+    "skuldsatt": 3
   }
 }

@@ -12,7 +12,16 @@
   "tldr": "La Svezia introdurrà una nuova legge per proteggere i sistemi digitali essenziali da attacchi informatici. La legge renderà la società più sicura, richiedendo una migliore protezione e segnalazione degli attacchi informatici.",
   "lattlast": "<p>Il governo propone una nuova legge sulla sicurezza informatica. La proposta deriva da una decisione presa dall&#x27;UE nel 2022 ed è denominata direttiva NIS 2. L&#x27;obiettivo è creare un livello più elevato e uniforme di sicurezza contro le minacce digitali in tutta Europa.</p><p>Secondo la nuova legge, le aziende che gestiscono attività essenziali, sia pubbliche che private, devono adottare misure per proteggere le proprie reti e i propri sistemi informatici. In caso di eventi gravi, come un attacco informatico di grandi dimensioni, devono inoltre segnalare l&#x27;accaduto alle autorità. Sarà inoltre più facile per le autorità verificare il rispetto delle norme e sanzionare coloro che non adempiono alle proprie responsabilità.</p><p>La proposta prevede anche modifiche ad altre leggi relative agli indirizzi internet, alle comunicazioni e alle norme sulla riservatezza delle informazioni. Queste modifiche fanno parte di un ampio lavoro volto a rafforzare la sicurezza in Svezia.</p><p>Se il Parlamento approva la proposta, si prevede che la nuova legge e le altre modifiche entreranno in vigore il 15 gennaio 2026.</p>",
   "relevans": {
-    "b_it": 1,
-    "gdpr": 3
+    "gdpr": 8,
+    "digitalisering": 7,
+    "b_it": 8,
+    "storforetag": 6,
+    "smaforetag": 5,
+    "aktiebolag": 4,
+    "b_finans": 5,
+    "b_energi": 4,
+    "b_vard": 4,
+    "integritet": 5,
+    "bredbandsberoende": 3
   }
 }

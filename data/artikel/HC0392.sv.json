@@ -12,8 +12,10 @@
   "tldr": "Regeringen vill ändra reglerna för utlänningar som ska lämna Sverige för att se till att fler faktiskt åker hem. Förslaget innebär bland annat att beslut om utvisning ska gälla längre och att det ska bli svårare att byta från asyl till arbetstillstånd när man redan är i landet.",
   "lattlast": "<p>Regeringen har lagt fram ett förslag på nya lagar som ska börja gälla den 1 april 2025. Syftet är att fler personer som har fått ett beslut om att de ska lämna Sverige, så kallat avlägsnande, faktiskt ska återvända till sina hemländer.</p><p>En viktig del i förslaget är att ett beslut om att någon ska lämna landet ska gälla i fem år efter att personen har rest hem. Om personen har fått ett återreseförbud, vilket betyder att man inte får komma tillbaka till Sverige, kan tiden bli ännu längre. Det blir också möjligt att ge längre förbud mot att resa tillbaka om personen inte har lämnat landet frivilligt i tid.</p><p>Regeringen vill också ändra reglerna för vad som kallas spårbyte. Idag kan en person som har fått nej på sin asylansökan ibland ansöka om att få stanna för att arbeta istället. Med de nya reglerna ska det systemet tas bort, vilket innebär att man inte längre kan byta från asyl till arbetstillstånd när man redan befinner sig i Sverige.</p><p>Förslaget innebär även tydligare regler för när ett återreseförbud börjar gälla. Det ska räknas från den dag personen lämnar EU-länderna eller lämnar Sverige om personen ska skickas till ett annat EU-land.</p>",
   "relevans": {
-    "arbetskraft_inv": 1,
-    "asyl": 1,
-    "arbetstillstand": 1
+    "asyl": 10,
+    "arbetstillstand": 9,
+    "ny_i_sverige": 7,
+    "arbetskraft_inv": 7,
+    "eu_marknad": 3
   }
 }

@@ -12,6 +12,9 @@
   "tldr": "A kormány szeretné módosítani a törvényt úgy, hogy a rendőrség vagy más hatóságok által egy házkutatás során lefoglalt dokumentumok ne számítanak közérdekű információknak. Ez azt jelenti, hogy a nagyközönség nem rendelkezik közvetlen hozzáféréssel ezekhez a dokumentumokhoz.",
   "lattlast": "<p>A kormány egy új szabálytervezetet terjesztett elő a sajtószabályozási törvényhez, amely a törvény, amely meghatározza, hogy a polgárok milyen információkhoz juthatnak hozzá a hatóságoknál. A javaslat a digitális fájlokra és felvételekre vonatkozik, amelyekhez a hatóságok jutnak hozzá házkutatások során vagy tárgyak lefoglalásakor bűnügyi nyomozások során.</p><p>Ha egy hatóság átveszi a felelősséget a másolt vagy lefoglalt fájlokért, ezek a fájlok többé nem minősülnek közérdekű dokumentumnak. A közérdekű dokumentum olyan, amelyet bárki kérhet, hogy megtekinthesse. Ez a módosítás megnehezíti a magánszemélyek számára, hogy betekinthessenek ezekbe a konkrét fájlokba.</p><p>A javaslatban azonban van egy kivétel. Ha a fájlok egy folyamatban lévő bűnügyi nyomozás részeivé válnak, akkor továbbra is közérdekű dokumentumnak kell tekinteni őket. A cél az, hogy szabályozza, hogyan kell kezelni azokat az információkat, amelyeket a rendőrségi beavatkozások során gyűjtöttek össze.</p><p>Ha a parlament megszavazza a javaslatot, az új szabály január 1-jétől lép érvénybe.</p>",
   "relevans": {
-    "otrygg": 1
+    "integritet": 6,
+    "domd": 4,
+    "fortroendevald": 3,
+    "offentliganstalld": 3
   }
 }

@@ -12,8 +12,13 @@
   "tldr": "A kormány javítani akar a fogyatékkal élő személyek számára nyújtott támogatáson, miután a Riksrevision (a svéd ombudsmani intézmény) kritikát fogalmazott meg az Arbetsförmedlingen (a foglalkoztatási hatóság) munkájával kapcsolatban, amiért az nem végzi eléggé jó munkát. A cél az, hogy több ember számára legyen könnyebb állást találni.",
   "lattlast": "<p>A Riksrevisionen egy intézmény, amely ellenőrzi, hogy az állam megfelelően végezze feladatait. Egy felülvizsgálatot végzett, amelyből kiderült, hogy a munkaügyi központ (Arbetsförmedlingen) nem elég hatékonyan segíti a fogyatékkal élő személyeket a munkába állásban. Ezenkívül azt is megállapították, hogy a kormány nem elég jól irányítja ezt az intézményt.</p><p>A kormány rendkívül fontosnak tartja, hogy a munkaügyi központ által nyújtott támogatás minden egyes személyre szabott legyen. Ha a támogatás hatékony, akkor több olyan személy, aki a fogyatékossága miatt nehezen tud dolgozni, tud munkába állni és állást szerezni.</p><p>A kormány most átvizsgálta a jelentést, és úgy látja, hogy több intézkedésre van szükség a munkaerőpiaci helyzet javítása érdekében. Folyamatosan figyelemmel kíséri a munkaügyi központ munkáját, hogy megállapíthassa, szükségesek-e további változások a jövőben.</p><p>Ezzel a dokumentummal a kormány bejelenti, hogy befejezte a Riksrevisionen jelentésének kezelését. A jelentést fontos eszközként tartják, amely segít abban, hogy elvégezhessék a szükséges munkát a támogatás javítása érdekében.</p>",
   "relevans": {
-    "lontagare": 1,
-    "arbetssokande": 3,
-    "funktion": 3
+    "funktion": 8,
+    "arbetssokande": 6,
+    "sjukskriven": 4,
+    "kronisk": 4,
+    "psykisk": 4,
+    "arbetsgivare": 3,
+    "kompetens": 3,
+    "arbetskraft_inv": 3
   }
 }

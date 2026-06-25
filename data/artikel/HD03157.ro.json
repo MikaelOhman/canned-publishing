@@ -12,8 +12,17 @@
   "tldr": "Guvernul dorește să introducă o nouă lege care să permită grupurilor de proprietari să perceapă o taxă pentru a îmbunătăți siguranța și dezvoltarea într-o anumită zonă. Se propune ca această lege să intre în vigoare începând cu 1 august 2026.",
   "lattlast": "<p>Guvernul a prezentat o propunere pentru o nouă lege privind colaborarea în cadrul unor zone geografice. Aceasta înseamnă că grupuri de persoane sau companii care dețin proprietăți pot colabora pentru a lucra la aspecte care previn infracțiunile și fac o zonă mai atractivă. Scopul este de a crea mai multă siguranță și de a ajuta afacerile locale să se dezvolte.</p><p>Dacă un astfel de grup primește aprobarea de la primărie, acesta poate avea dreptul de a percepe o taxă de la proprietarii de imobile afectați de activitate. Fiecare proprietar plătește o parte din costuri, în funcție de beneficiile pe care le obține din această activitate. Această taxă poate fi utilizată doar pentru cheltuieli pentru care statul sau primăria nu sunt deja responsabile.</p><p>Pentru a putea percepe taxe, grupul trebuie să fie aprobat de primărie ca un &quot;administrator principal&quot;. De asemenea, este necesar ca persoanele care conduc activitatea să reprezinte cel puțin două treimi dintre proprietarii de imobile din zonă. Activitatea nu trebuie desfășurată în scopul de a genera profit.</p><p>În cazul în care apar dispute sau dezacorduri cu privire la taxă între persoanele care conduc activitatea și proprietarii de imobile, problema va fi soluționată de o instanță judecătorească obișnuită. Propunerea este ca noua lege să intre în vigoare pe 1 august 2026.</p>",
   "relevans": {
-    "b_fastighet": 1,
-    "konsument": 1,
-    "otrygg": 1
+    "b_fastighet": 8,
+    "f_kommun": 7,
+    "mark_bygglov": 6,
+    "lokaler": 5,
+    "b_handel": 4,
+    "smaforetag": 4,
+    "storforetag": 3,
+    "ideell": 5,
+    "upphandling": 3,
+    "bostadsagare": 5,
+    "otrygg": 4,
+    "fortroendevald": 4
   }
 }

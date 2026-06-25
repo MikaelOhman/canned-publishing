@@ -12,7 +12,19 @@
   "tldr": "The government proposes new rules for VAT (Value Added Tax) in cross-border trade to comply with the EU's new laws. The proposal aims to clarify how taxes should be paid in the context of digital commerce and purchases from countries outside the EU.",
   "lattlast": "<p>The government wants to amend the law regarding Value Added Tax (VAT), which is commonly known as sales tax. The purpose is to align Swedish regulations with new decisions from the EU. These changes are necessary to ensure that the rules function effectively in the digital world, where much trade occurs across borders.</p><p>A key part of the proposal concerns digital commerce. This means that if a company uses a website or app to facilitate the sale of goods from countries outside the EU to customers within the EU, the rules regarding who is responsible for the VAT will be clarified. This involves regulating how the tax is reported when goods are sold through electronic systems.</p><p>The proposal also includes changes for trade with countries that are not members of the EU. The aim is to expand and clarify the special rules for handling goods originating from countries outside the EU. This is being done to create a more fair and consistent approach to tax administration.</p><p>If the proposal is approved by the Parliament, the new rules will come into effect on January 1, 2027. This means that companies that trade with other countries must prepare for the new ways of calculating and paying VAT.</p>",
   "relevans": {
-    "moms": 3,
-    "konsument": 1
+    "aktiebolag": 6,
+    "smaforetag": 6,
+    "storforetag": 7,
+    "b_handel": 7,
+    "b_it": 5,
+    "b_finans": 5,
+    "moms": 8,
+    "export": 6,
+    "import": 7,
+    "eu_marknad": 7,
+    "redovisning": 5,
+    "digitalisering": 4,
+    "foretagare": 5,
+    "konsument": 3
   }
 }

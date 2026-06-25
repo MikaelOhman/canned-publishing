@@ -12,10 +12,11 @@
   "tldr": "The government wants to ban gambling that is financed with loans or credit. The purpose is to prevent people from accumulating large debts due to gambling.",
   "lattlast": "<p>The government has proposed a change to the law regarding gambling. The new proposal states that those who are licensed to operate gambling services or sell gambling products, known as licensees and gaming agents, are not allowed to allow customers to gamble with money they have borrowed.</p><p>Those who offer gambling services must also do everything they can to ensure that no one uses credit to gamble. This applies to all types of legal gambling in Sweden, whether it is played online or in a physical location.</p><p>There is a possibility to obtain an exemption from this rule, but the authority, the Swedish Gambling Authority, must approve it. The Swedish Gambling Authority is the authority that ensures that everyone complies with the rules for gambling in Sweden.</p><p>If the Parliament votes in favor of the proposal, the new rules will come into effect on April 1, 2026.</p>",
   "relevans": {
-    "b_finans": 3,
-    "tillstand": 2,
-    "infrastruktur": 1,
-    "lantagare": 1,
-    "batagare": 1
+    "beroende": 8,
+    "skuldsatt": 7,
+    "bidrag": 4,
+    "ung_vuxen": 4,
+    "konsument": 5,
+    "b_it": 3
   }
 }

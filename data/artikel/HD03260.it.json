@@ -12,10 +12,12 @@
   "tldr": "Il governo intende modificare le normative relative al controllo della ricerca che coinvolge esseri umani, al fine di semplificare la procedura. Alcune ricerche che trattano dati personali sensibili non richiederanno più un'approvazione formale, ma il ricercatore dovrà personalmente verificare il rispetto delle normative.",
   "lattlast": "<p>Il governo ha presentato una proposta per modificare la legge sull&#x27;etica nella ricerca. L&#x27;obiettivo è rendere più efficiente e trasparente il controllo della ricerca che coinvolge persone. La proposta prevede, tra l&#x27;altro, che alcuni tipi di ricerca non debbano più richiedere un&#x27;approvazione specifica se trattano dati personali sensibili o informazioni relative a reati.</p><p>Il responsabile della ricerca, definito &quot;responsabile della ricerca&quot;, sarà responsabile di valutare se la ricerca rientra nelle nuove esenzioni. Sarà inoltre possibile richiedere un controllo volontario per chi desidera essere assolutamente certo che tutto sia conforme alle normative.</p><p>Anche il processo di controllo del rispetto delle regole sarà modificato. Il comitato di revisione etica, chiamato &quot;Önep&quot;, avrà maggiori poteri per esprimersi in caso di errori nella ricerca. Il comitato potrà anche fornire indicazioni per garantire che le regole siano applicate in modo uniforme in tutto il paese. Le decisioni relative alla ricerca non potranno più essere impugnate, e il comitato non sarà più tenuto a segnalare sospetti reati alla polizia.</p><p>Se la proposta verrà approvata, le nuove regole entreranno in vigore il 1° luglio 2027. La proposta include anche modifiche alle leggi che riguardano la gestione dei dati personali presso enti come l&#x27;IFAU e l&#x27;Ispettorato per la sicurezza sociale.</p>",
   "relevans": {
-    "gdpr": 1,
-    "fou": 3,
-    "glesbygd": 1,
-    "otrygg": 1,
-    "integritet": 1
+    "gdpr": 5,
+    "integritet": 4,
+    "b_life": 5,
+    "fou": 6,
+    "b_it": 3,
+    "offentliganstalld": 3,
+    "digitalisering": 3
   }
 }

@@ -12,15 +12,18 @@
   "tldr": "Rząd opracował długoterminowe plany dotyczące funkcjonowania dróg i kolei w Szwecji w latach 2026-2037. Plan zakłada inwestycje w transport i uczynienie systemu bardziej przyjaznego dla środowiska.",
   "lattlast": "<p>Rząd przedstawił plan, który określa, jak powinny wyglądać i funkcjonować transporty w Szwecji w latach 2026-2037. Plan dotyczy wszystkich rodzajów transportu, takich jak samochody, ciężarówki i pociągi. Jednocześnie ustalono, ile pieniędzy zostanie przeznaczonych w różnych regionach na poprawę dróg i kolei w całym kraju.</p><p>Prace te mają na celu uczynienie transportu bardziej efektywnym i przyjaznym dla środowiska. Rząd ma zapewnić, że transport towarów i osób będzie łatwiejszy i bardziej inteligentny. Chodzi również o to, aby pojazdy były lepsze, a większa część ruchu wykorzystywała energię elektryczną zamiast paliw, które szkodzą środowisku.</p><p>Kluczowym elementem planu jest przejście z paliw kopalnych, takich jak benzyna i diesel, na odnawialne i zrównoważone alternatywy. Jest to odpowiedź na wcześniejsze żądania Riksdagu (szwedzkiego parlamentu), aby Szwecja stworzyła system transportowy, który będzie działał w długim okresie bez niszczenia klimatu. Celem jest, aby technologia pomogła nam zmniejszyć emisję w przyszłości.</p>",
   "relevans": {
-    "b_transport": 3,
-    "arbetsratt": 1,
-    "miljo": 1,
-    "infrastruktur": 1,
-    "glesbygd": 1,
-    "bil": 2,
-    "kollektiv": 1,
-    "kronisk": 1,
-    "energikund": 1,
-    "klimat": 3
+    "bil": 5,
+    "pendlare": 6,
+    "kollektiv": 5,
+    "glesbygd": 4,
+    "b_transport": 8,
+    "b_industri": 5,
+    "b_bygg": 4,
+    "b_energi": 5,
+    "energikund": 4,
+    "klimat": 5,
+    "gron_omstallning": 6,
+    "infrastruktur": 7,
+    "f_landsbygd": 4
   }
 }

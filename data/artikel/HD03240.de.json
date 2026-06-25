@@ -12,9 +12,17 @@
   "tldr": "Die Regierung schlägt neue Gesetze vor, um die Funktionsweise des Strommarktes in Schweden zu modernisieren. Die Vorschläge erleichtern den Austausch von Strom zwischen Gebäuden und ändern die Regeln darüber, wer für die Sicherheit des Stromnetzes verantwortlich ist.",
   "lattlast": "<p>Die Regierung hat einen Vorschlag für neue Gesetze vorgelegt, die das alte Stromgesetz von 1997 ersetzen sollen. Ziel ist es, die schwedischen Vorschriften an die Gesetze der Europäischen Union anzupassen und klarer zu definieren, welche Regeln für die Unternehmen gelten, die die Stromleitungen besitzen.</p><p>Eine wesentliche Änderung ist, dass der Austausch von Strom zwischen verschiedenen Standorten erleichtert wird. Mit den neuen Regeln für die Stromgemeinschaft kann eine Person, die Strom in einem Gebäude verbraucht, für Strom bezahlt, der in einem anderen Gebäude erzeugt wurde. Dies wird als Stromgemeinschaft bezeichnet und ist Teil einer neuen EU-Richtlinie.</p><p>Die Verantwortung für den sicheren Betrieb des Stromsystems soll ebenfalls geändert werden. Bisher gab es eine spezielle Behörde, die für die Betriebssicherheit verantwortlich war, aber nun wird vorgeschlagen, dass die Unternehmen, die die großen Stromleitungen betreiben, diese Verantwortung übernehmen sollen. Es werden auch neue Rollen eingeführt, um die Balance im Stromsystem aufrechtzuerhalten.</p><p>Die meisten der neuen Regeln sollen am 1. Januar 2027 in Kraft treten. Ein Teil des Vorschlags, der sich auf die Unternehmen bezieht, die verpflichtet sind, Strom zu liefern, tritt etwas später in Kraft, nämlich am 1. Juli 2027.</p>",
   "relevans": {
-    "b_fastighet": 1,
-    "b_energi": 2,
-    "eu_marknad": 1,
-    "energikund": 1
+    "aktiebolag": 4,
+    "smaforetag": 3,
+    "storforetag": 5,
+    "b_energi": 9,
+    "b_fastighet": 6,
+    "b_industri": 5,
+    "energiintensiv": 7,
+    "eu_marknad": 5,
+    "gron_omstallning": 4,
+    "energikund": 7,
+    "bostadsagare": 5,
+    "f_kommun": 3
   }
 }

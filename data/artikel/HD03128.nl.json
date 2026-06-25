@@ -12,7 +12,17 @@
   "tldr": "Zweden wil fraude met btw tegengaan door de belastingdienst meer bevoegdheden te geven om bedrijven die fraude plegen te controleren en te stoppen. De nieuwe regels zullen ingaan op 1 juli 2026.",
   "lattlast": "<p>Veel bedrijven gebruiken onjuiste methoden om te voorkomen dat ze omzetbelasting (BTW) betalen bij transacties met andere landen binnen de EU. Dit wordt mervatdbedrog genoemd en zorgt ervoor dat de staat veel geld verliest. De regering wil nu de wet wijzigen om dit te stoppen.</p><p>De Belastingdienst, de instantie die belastingen controleert in Zweden, krijgt meer bevoegdheid. Ze moeten bedrijven nauwkeuriger kunnen controleren wanneer ze zich willen registreren voor de omzetbelasting. Als de Belastingdienst fraude vermoedt, moet ze een bedrijf de registratie kunnen weigeren of ze uit het systeem kunnen verwijderen.</p><p>De Belastingdienst moet ook een registratienummer als ongeldig kunnen markeren in een gemeenschappelijk Europees systeem genaamd VIES. Dit systeem wordt in de hele EU gebruikt om te controleren of een bedrijf legitiem is. Hierdoor wordt het moeilijker voor fraudeurs om andere bedrijven in Europa te misleiden.</p><p>Er is ook een voorstel dat de Belastingdienst kan bepalen dat bedrijven geen geld terugkrijgen als ze te veel omzetbelasting hebben betaald. Het doel van al deze nieuwe regels is om belastingfraude te verminderen en ervoor te zorgen dat iedereen de juiste belasting betaalt. Het voorstel moet ingaan op 1 juli 2026.</p>",
   "relevans": {
-    "moms": 3,
-    "konsument": 1
+    "moms": 9,
+    "aktiebolag": 5,
+    "solo": 4,
+    "smaforetag": 5,
+    "storforetag": 6,
+    "b_handel": 6,
+    "b_finans": 4,
+    "export": 5,
+    "eu_marknad": 7,
+    "redovisning": 5,
+    "gdpr": 3,
+    "regelborda": 4
   }
 }

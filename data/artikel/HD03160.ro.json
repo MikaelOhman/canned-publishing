@@ -12,10 +12,17 @@
   "tldr": "Guvernul dorește să modifice legea pentru a permite construirea de noi centrale nucleare în mai multe locații de-a lungul coastei Suediei. Propunerea implică eliminarea unor interdicții anterioare privind construcția de centrale nucleare în zonele de coastă.",
   "lattlast": "<p>Guvernul a prezentat o propunere de modificare a legii privind protecția mediului, legea care protejează natura noastră. Scopul este de a facilita extinderea energiei nucleare în Suedia, prin eliminarea interdicțiilor din anumite locații de-a lungul coastei și în arhipelaguri.</p><p>Modificarea se aplică zonelor din Bohuslän, Småland, Östergötland, Ångermanland și pe insula Öland. De asemenea, anumite părți ale insulei Gotland, precum Östergarn, Storsudret și Fårö, sunt incluse în propunere. Acest lucru înseamnă că va fi posibil să se planifice centrale nucleare în locuri unde anterior nu era permis.</p><p>Chiar dacă interdicțiile sunt eliminate, acest lucru nu înseamnă că oricine poate construi oriunde. Toate noile instalații trebuie să fie supuse unei verificări și aprobări riguroase de către autorități. De asemenea, trebuie continuat efortul de a proteja natura și valorile culturale importante.</p><p>Dacă Parlamentul votează în favoarea propunerii, noile reguli vor intra în vigoare la 15 iulie 2026.</p>",
   "relevans": {
-    "b_bygg": 2,
-    "b_kultur": 1,
-    "miljo": 1,
-    "klimat": 1,
-    "kultur": 1
+    "b_energi": 8,
+    "b_bygg": 6,
+    "b_fastighet": 4,
+    "mark_bygglov": 5,
+    "energiintensiv": 5,
+    "miljo": 6,
+    "gron_omstallning": 5,
+    "eu_marknad": 3,
+    "f_kommun": 4,
+    "energikund": 5,
+    "klimat": 6,
+    "glesbygd": 3
   }
 }

@@ -13,11 +13,14 @@
   "tldr": "În comuna Bollebygd, politicienii au primit o propunere de extindere a căminului pentru vârstnici Bollegården. Propunerea va fi acum trimisă către comisia executivă a comunei pentru o analiză mai detaliată.",
   "lattlast": "<p>Primăria a primit o propunere de la un cetățean. Propunerea vizează extinderea căminului pentru persoane vârstnice Bollegården, pe o parte a parcului Skattegårdsparken. Scopul este de a crea mai multe locuri pentru îngrijire și asistență, deoarece se preconizează că nevoia de locuri în căminele pentru persoane vârstnice va crește în viitor.</p><p>Consiliul municipal, care este cel mai înalt organ de decizie al primăriei, a decis să trimită propunerea către comisia executivă a primăriei. Comisia executivă este grupul care conduce și coordonează activitatea primăriei. Acesta va analiza propunerea și va investiga dacă este posibilă implementarea acesteia.</p><p>În timpul întâlnirii, asociația Leader Sjuhärad a prezentat informații. Leader Sjuhärad este o asociație care contribuie la dezvoltarea rurală din opt comune, prin acordarea de fonduri pentru diverse proiecte.</p><p>De asemenea, au fost prezentate informații despre situația financiară a proiectelor Tyftet și Bergadalen. S-a discutat, de asemenea, despre viitoarea proprietate a companiei Gryaab AB, care se ocupă de gestionarea deșeurilor și reciclare.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_vard": 1,
-    "miljo": 2,
-    "f_landsbygd": 1,
-    "glesbygd": 1,
-    "kronisk": 1
+    "pensionar": 6,
+    "anhorigvardare": 5,
+    "kronisk": 4,
+    "funktion": 4,
+    "f_kommun": 5,
+    "glesbygd": 3,
+    "mindre_ort": 4,
+    "fortroendevald": 6,
+    "f_landsbygd": 4
   }
 }

@@ -12,8 +12,12 @@
   "tldr": "Les communes qui gèrent les questions relatives au cadastre doivent, à partir de 2027, utiliser le même système numérique que l'agence gouvernementale Lantmäteriet. Cela est mis en place pour garantir la compatibilité des technologies entre les communes et l'État.",
   "lattlast": "<p>Le gouvernement a présenté une proposition visant à modifier les règles relatives aux services fonciers municipaux. Un service foncier municipal est la division d&#x27;une commune qui gère les questions relatives aux terrains et aux frontières. À partir du 1er janvier 2027, ces services municipaux seront tenus d&#x27;utiliser le même système numérique que l&#x27;agence gouvernementale Lantmäteriet pour gérer leurs dossiers.</p><p>L&#x27;objectif de ce changement est de garantir que les outils et les supports techniques utilisés pour le traitement des dossiers soient identiques. Il s&#x27;agit de permettre le partage facile et sécurisé des informations entre les communes et l&#x27;État. Si une commune n&#x27;utilise pas les systèmes appropriés, le gouvernement peut retirer son autorisation d&#x27;exploiter un service foncier.</p><p>Le gouvernement, ou une agence désignée par le gouvernement, peut également établir des règles sur la manière dont ces systèmes techniques doivent être utilisés. Il peut également déterminer s&#x27;il y aura des coûts associés à l&#x27;utilisation de ces systèmes, par le biais de différentes redevances.</p><p>Cette proposition clarifie les exigences que doit remplir une commune pour pouvoir créer son propre service foncier. Cela comprend notamment la nécessité de disposer du personnel approprié, d&#x27;une organisation adéquate et de technologies fonctionnelles pour l&#x27;échange d&#x27;informations entre l&#x27;État et la commune.</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "tillstand": 1,
-    "konsument": 1
+    "f_kommun": 5,
+    "mark_bygglov": 6,
+    "bostadsagare": 3,
+    "bygger": 4,
+    "b_fastighet": 6,
+    "digitalisering": 4,
+    "offentliganstalld": 4
   }
 }

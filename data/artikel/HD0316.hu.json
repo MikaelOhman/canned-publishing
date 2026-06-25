@@ -12,8 +12,13 @@
   "tldr": "A kormány szeretné megváltoztatni az elektromosenergia-piac szabályait, hogy biztonságosabb és egyszerűbb legyen az elektromos áram felhasználóinak. A javaslat többek között azt is tartalmazza, hogy könnyebben érthetőek legyenek az elektromosenergia-szerződések, és hogy a nagy energiavállalatok rögzített árakat is kínálhassanak.",
   "lattlast": "<p>A kormány egy új szabályrendeletet terjesztett elő az elektromosenergia-piacra vonatkozóan, amely 2026. január 1-jén lép hatályba. A cél az, hogy megfeleljen az új uniós szabályozásoknak, és javítsa az elektromosenergia-piacot mindenki számára, aki áramot vásárol.</p><p>Azok számára, akik elektromosenergia-szerződéssel rendelkeznek, a javaslat azt jelenti, hogy a szerződés legfontosabb szabályainak egy egyszerű összefoglalóját kell kapniuk, mielőtt aláírják vagy meghosszabbítják azt. A 200 000-nál több ügyfélnek eladást végző nagyvállalatoknak továbbá olyan szerződéseket is kínálniuk kell, amelyek fix árat biztosítanak meghatározott időszakra.</p><p>Szigorúbb követelmények lesznek érvényben azokkal a vállalatokkal szemben, amelyek elektromos energiát szállítanak, és azokkal, amelyek az elektromos hálózatot üzemeltetik. Az áramszolgáltatóknak tervekkel kell rendelkezniük annak biztosítása érdekében, hogy az áram valóban eljusson a fogyasztókhoz, és nem zárhatják le a szerződést, ha jogi viták folynak az ügyben. A vezetékek üzemeltetéséért felelős hálózati vállalatoknak is jobban kell együttműködniük, és igazságosabban kell bánniuk minden szolgáltatóval.</p><p>A kormány emellett módosítani szeretné a villamosenergia-tanúsítványokkal kapcsolatos törvényt. A villamosenergia-tanúsítvány egy olyan rendszer, amely a megújuló energiaforrások előmozdítását szolgálja. A javaslat célja, hogy kevesebb vállalatnak kelljen részt vennie ebben a rendszerben, és hogy a fiókokat kezelő hatóság bizonyos díjakat szedhessen.</p>",
   "relevans": {
-    "b_energi": 1,
-    "konsument": 2,
-    "klimat": 1
+    "energikund": 8,
+    "konsument": 6,
+    "bostadsagare": 4,
+    "b_energi": 7,
+    "energiintensiv": 5,
+    "storforetag": 4,
+    "smaforetag": 3,
+    "eu_marknad": 5
   }
 }

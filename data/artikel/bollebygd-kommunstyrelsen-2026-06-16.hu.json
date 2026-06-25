@@ -15,13 +15,11 @@
   "tldr": "A Bollebygds önkormányzat új szabályokat vezetett be arról, hogyan kell működnie az önkormányzatnak háború vagy magas készültségi állapot esetén. Emellett új tervek készültek az önkormányzat építési és építészeti vonatkozású kérdéseire.",
   "lattlast": "<p>A városi önkormányzat új irányelveket fogadott el arról, hogyan szervezze a működését válság esetén vagy magas készültségi szinten. Ez azt jelenti, hogy előre meghatározták, mely területek a legfontosabbak, és melyekre kell prioritást adni, ha a társadalmi helyzet bizonytalanná válik. A cél az, hogy a legfontosabb közszolgáltatások a nehéz időkben is működhessenek.</p><p>Az építészet és a városrendezés terén több döntés is született. Ezek között szerepel, hogy feladatot adtak ki részletes tervek készítésére olyan területekre, mint a Bollebygds Prästgård és a Låddekärrsbu. Egy részletes terv egy dokumentum, amely meghatározza, mit szabad építeni, és hogyan lehet a területet használni.</p><p>Az önkormányzat új stratégiai tervet is elfogadott az építészet terén. Ez egy terv arról, hogy hogyan kell kinéznie és hogyan kell megtervezni az épületeket és a környezetet a jövőben. Emellett döntést hoztak arról, hogy lezárják a tervezési munkát a Getabrohult területen, és új feladatokat indítanak el a terület tervezéséhez.</p><p>Végül, az önkormányzat tájékoztatást kapott arról, hogyan védi az adatokat és a biztonságot. A Borås régióból érkező új adatvédelmi tisztviselő bemutatta, hogyan tartják be a személyes adatok védelmét szabályozó (GDPR) előírásokat a lakosok adatainak védelme érdekében.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_fastighet": 1,
+    "f_kommun": 5,
+    "b_bygg": 4,
+    "mark_bygglov": 4,
     "gdpr": 3,
-    "mark_bygglov": 1,
-    "bygger": 1,
-    "storstad": 1,
-    "klimat": 1,
-    "integritet": 1
+    "bostadsagare": 3,
+    "hyresgast": 3
   }
 }

@@ -12,9 +12,14 @@
   "tldr": "Guvernul dorește să modifice legea pentru a facilita utilizarea energiei hidroelectrice în producerea de electricitate în Suedia. Acest lucru ar putea implica reducerea cerințelor privind gradul de adaptare necesar al centralelor hidroelectrice pentru a proteja mediul înconjurător.",
   "lattlast": "<p>Guvernul a făcut o propunere de modificare a legii privind protecția mediului, care este legea care stabilește modul în care trebuie să protejăm natura noastră. Propunerea se referă la modul în care trebuie echilibrat necesitatea de energie electrică curată provenită de la hidrocentrale cu necesitatea de a proteja animalele și plantele din apă.</p><p>În prezent, există reguli stricte pentru protejarea naturii, așa-numitele directive privind speciile și habitatele. Guvernul dorește să fie mai ușor să se facă excepții de la aceste reguli dacă se consideră că este important pentru întreaga țară. Aceasta înseamnă că, în cazul unei noi evaluări a hidrocentralelor, se poate alege să se impună cerințe mai mici privind adaptarea la mediu.</p><p>Propunerea implică, de asemenea, că guvernul va avea mai multă putere de a decide când se pot face excepții de la interdicțiile care protejează mediul acvatic. Acest lucru se aplică atât pentru hidrocentralele existente, a căror autorizație trebuie reexaminată, cât și pentru hidrocentralele complet noi care urmează să fie construite.</p><p>Dacă Parlamentul votează în favoarea propunerii, noile reguli vor intra în vigoare începând cu 1 iulie 2026. Scopul este de a asigura că Suedia are un acces bun și sigur la energie electrică provenită de la hidrocentrale.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "tillstand": 1,
-    "miljo": 1,
-    "klimat": 1
+    "b_energi": 8,
+    "energiintensiv": 7,
+    "energikund": 5,
+    "gron_omstallning": 6,
+    "miljo": 6,
+    "klimat": 5,
+    "b_industri": 5,
+    "hallbarhetsrapport": 4,
+    "eu_marknad": 4
   }
 }

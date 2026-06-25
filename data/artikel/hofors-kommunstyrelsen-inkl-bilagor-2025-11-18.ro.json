@@ -13,12 +13,13 @@
   "tldr": "Consiliul municipal din Hofors a avut o ședință pe 18 noiembrie 2025. În cadrul acestei ședințe, au fost discutate aspecte importante, precum programul de lucru pentru persoanele asistate conform Legii privind sprijinul pentru persoane cu dizabilități (LSS), noile taxe pentru diverse servicii și propuneri din partea cetățenilor privind îmbunătățiri în cadrul comunei.",
   "lattlast": "<p>Consiliul municipal din Hofor a analizat mai multe aspecte importante. Printre acestea, a primit un raport despre programul de lucru al persoanelor care beneficiază de sprijin conform legii LSS, o lege care oferă sprijin persoanelor cu anumite dizabilități. Anterior, s-au făcut excepții de la regulile privind odihna, iar acum s-a primit informații despre progresul lucrărilor pentru a respecta regulile privind odihna.</p><p>De asemenea, s-au discutat diferite taxe și tarife care afectează locuitorii. Acestea includ costurile pentru supravegherea mediului și a sănătății, precum și reglementările privind alimentele. S-au discutat și tarifele pentru serviciul de transport special, destinat persoanelor care au dificultăți în a călători singure.</p><p>Mai multe propuneri din partea cetățenilor au fost discutate în cadrul întâlnirii. Printre acestea, se numără o propunere de a introduce locuri de joacă cu nisip și o altă propunere de a crea o pistă specială pentru role, pe trotuare. Scopul acestor propuneri este adesea de a face orașul mai sigur sau mai plăcut pentru a trăi.</p><p>Întâlnirea a inclus, de asemenea, informații despre finanțe și planuri viitoare. S-a analizat modul în care rețeaua electrică va fi gestionată de compania Gävle Energi Elnät AB și s-a discutat despre posibilitatea dezvoltării energiei eoliene, atât pe uscat, cât și în mare. De asemenea, s-a discutat despre modul în care va arăta finanțarea municipalității și sprijinul acordat partidelor politice în anul 2026.</p>",
   "relevans": {
-    "b_transport": 1,
-    "b_energi": 3,
-    "regelborda": 1,
-    "funktion": 3,
-    "energikund": 1,
-    "konsument": 1,
-    "klimat": 1
+    "f_kommun": 7,
+    "funktion": 6,
+    "offentliganstalld": 5,
+    "fortroendevald": 5,
+    "energikund": 4,
+    "pendlare": 3,
+    "miljo": 4,
+    "b_energi": 4
   }
 }

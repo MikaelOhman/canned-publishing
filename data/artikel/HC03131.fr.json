@@ -12,10 +12,19 @@
   "tldr": "Le gouvernement propose de nouvelles lois visant à améliorer l'environnement et à contrôler la consommation d'énergie. Ces mesures comprennent notamment l'obligation pour les centres de données de déclarer leur consommation électrique, ainsi que des modifications des réglementations relatives aux combustibles.",
   "lattlast": "<p>Le gouvernement souhaite modifier plusieurs lois afin de se conformer aux nouvelles réglementations de l&#x27;Union européenne. Un élément important est l&#x27;obligation pour les centres de données, c&#x27;est-à-dire les grandes installations qui stockent des informations numériques, de commencer à déclarer leur consommation d&#x27;énergie à une base de données européenne commune. Cela vise à mieux contrôler la quantité d&#x27;électricité utilisée par les technologies numériques.</p><p>Les règles concernant les carburants considérés comme durables seront également renforcées. Cela signifie que de nouveaux critères doivent être respectés pour les carburants provenant, par exemple, de matériaux recyclés ou d&#x27;autres sources respectueuses de l&#x27;environnement. Les lois relatives aux taxes sur l&#x27;énergie et aux certificats d&#x27;énergie seront également modifiées pour s&#x27;aligner sur ces nouvelles réglementations.</p><p>Concernant les carburants utilisés dans les voitures, des propositions de nouveaux niveaux d&#x27;obligation de réduction ont été formulées. L&#x27;obligation de réduction est l&#x27;exigence qui impose de mélanger davantage de carburants respectueux de l&#x27;environnement à l&#x27;essence et au diesel. Il est désormais proposé que cette exigence puisse être satisfaite en utilisant de l&#x27;électricité produite à partir de sources non fossiles. Parallèlement, il est proposé de supprimer l&#x27;obligation pour les fournisseurs de carburants de réduire les émissions de gaz à effet de serre.</p><p>La plupart de ces nouvelles réglementations devraient entrer en vigueur le 1er juillet 2025. Certaines dispositions relatives aux exigences environnementales pour les carburants entreront en vigueur ultérieurement, soit le 1er janvier 2026, soit le 1er janvier 2030.</p>",
   "relevans": {
-    "b_energi": 1,
-    "miljo": 1,
-    "bil": 3,
-    "energikund": 2,
-    "klimat": 2
+    "b_it": 7,
+    "b_transport": 6,
+    "b_energi": 6,
+    "b_industri": 5,
+    "energiintensiv": 7,
+    "gron_omstallning": 6,
+    "hallbarhetsrapport": 5,
+    "eu_marknad": 5,
+    "miljo": 5,
+    "digitalisering": 5,
+    "bil": 4,
+    "energikund": 4,
+    "klimat": 5,
+    "punktskatt": 4
   }
 }

@@ -12,10 +12,13 @@
   "tldr": "Será más fácil para las personas que viven en apartamentos o condominios instalar un punto de carga para vehículos eléctricos en su plaza de aparcamiento. La propuesta entrará en vigor el 29 de mayo de 2026.",
   "lattlast": "<p>El Gobierno ha presentado una propuesta que modifica varias leyes, como el Código Civil y la Ley de Propiedad Horizontal. El objetivo es que más personas puedan cargar sus vehículos eléctricos cerca de sus hogares. Esta propuesta proviene de la Unión Europea y se conoce como una directiva de la UE.</p><p>Si vives en un apartamento y tienes una plaza de aparcamiento en el mismo edificio o muy cerca, deberías tener derecho a solicitar la instalación de un punto de carga. Esto significa que tu propietario o la comunidad de vecinos no pueden negarse sin una razón muy justificada.</p><p>Es importante saber que la persona que desea el punto de carga debe pagar todos los costes que se generen durante su instalación. Por lo tanto, no es el propietario ni la comunidad los que deben asumir el gasto.</p><p>Se prevé que las nuevas normas entren en vigor el 29 de mayo de 2026. El Parlamento debe votar la propuesta antes de que se convierta en una nueva ley.</p>",
   "relevans": {
-    "b_fastighet": 1,
-    "eu_marknad": 1,
-    "hyresgast": 1,
-    "bostadsagare": 1,
-    "bil": 2
+    "hyresgast": 8,
+    "bostadsagare": 6,
+    "bil": 7,
+    "gron_omstallning": 5,
+    "eu_marknad": 4,
+    "b_fastighet": 4,
+    "energikund": 4,
+    "pendlare": 5
   }
 }

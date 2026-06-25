@@ -12,16 +12,12 @@
   "tldr": "El gobierno quiere dar a las agencias gubernamentales, como la Seguridad Social (Försäkringskassan) y la Agencia de Pensiones (Pensionsmyndigheten), mejores herramientas para verificar la información. Esto se hará para reducir el riesgo de que se paguen fondos incorrectos a personas o empresas.",
   "lattlast": "<p>El gobierno ha presentado una propuesta que otorga a las autoridades mayor poder para recopilar información. La Seguridad Social (Försäkringskassan) y la Agencia de Pensiones (Pensionsmyndigheten) podrán solicitar más datos tanto de particulares como de empresas. Además, los bancos y los proveedores de asistencia personal podrían estar obligados a proporcionar información cuando las autoridades lo soliciten.</p><p>La propuesta también se refiere a los servicios sociales de los municipios, que son responsables de la asistencia económica. Estos tendrán el derecho de obtener información de la Agencia Tributaria (Skatteverket), por ejemplo, datos sobre los salarios de los empleados. El objetivo es que las autoridades puedan tomar decisiones correctas y garantizar que el dinero llegue a las personas adecuadas.</p><p>Al mismo tiempo, se propone modificar la protección de la confidencialidad. Esto significa que la Seguridad Social y la Agencia de Pensiones podrán proteger la información sobre cómo se gestionan las empresas y sus operaciones. Esto forma parte de las nuevas normas que el gobierno quiere introducir.</p><p>Si el Parlamento aprueba la propuesta, las nuevas leyes entrarán en vigor el 1 de diciembre de 2025. La propuesta abarca varias leyes diferentes, incluyendo leyes sobre bajas por enfermedad, subsidios para atención dental y la ley de servicios sociales.</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "b_finans": 2,
-    "sjuklon": 1,
-    "infrastruktur": 1,
-    "pensionar": 1,
-    "lontagare": 1,
-    "sjukskriven": 1,
-    "bidrag": 3,
-    "funktion": 1,
-    "tandvard": 2,
-    "batagare": 1
+    "sjukskriven": 5,
+    "bidrag": 6,
+    "kronisk": 4,
+    "funktion": 4,
+    "b_vard": 4,
+    "pensionar": 4,
+    "integritet": 4
   }
 }

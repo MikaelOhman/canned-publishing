@@ -12,9 +12,12 @@
   "tldr": "La legge sull'abort viene modernizzata. Viene chiarito che una donna incinta può abortire fino alla diciottesima settimana di gravidanza, che l'aborto deve essere fornito tempestivamente e che il requisito che l'aborto debba essere eseguito in ospedale viene eliminato, rendendo possibile interrompere una gravidanza precoce a casa con farmaci. La legge viene aggiornata in base ai progressi della medicina.",
   "lattlast": "<p>Il governo propone modifiche alla legge sull&#x27;aborto del 1974. L&#x27;obiettivo è modernizzare il linguaggio e adattare la legge alla medicina odierna e alle esigenze delle donne in gravidanza.</p><p>Viene chiarito che l&#x27;aborto può essere praticato fino alla diciottesima settimana di gravidanza e che l&#x27;aborto deve essere offerto tempestivamente. L&#x27;aborto può essere eseguito in ospedale o in altra struttura sanitaria autorizzata.</p><p>Viene eliminata la condizione che l&#x27;aborto debba essere eseguito in ospedale. Questo apre la possibilità di effettuare un aborto precoce a domicilio con farmaci e consente un utilizzo più flessibile dei farmaci per l&#x27;aborto.</p>",
   "relevans": {
-    "b_life": 1,
-    "gravid": 2,
-    "kvinna": 3,
-    "kronisk": 2
+    "gravid": 10,
+    "kvinna": 8,
+    "kronisk": 4,
+    "b_vard": 5,
+    "b_life": 4,
+    "hbtq": 4,
+    "offentliganstalld": 3
   }
 }

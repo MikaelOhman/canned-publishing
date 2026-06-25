@@ -12,10 +12,14 @@
   "tldr": "A családok számára egyszerűbb lesz a mezőgazdasági földek megvásárlása, mivel a testvéreknek és a szülőknek nem kell többé külön engedélyt kérniük. A javaslat 2026. július 1-jén lép hatályba.",
   "lattlast": "<p>A kormány javaslatot terjesztett be egy törvénytervezetre, amely módosítja a földvásárlási törvényt. A földvásárlási törvény az a jogszabály, amely meghatározza, ki vásárolhat földet és gazdasági építményeket. A javaslat célja, hogy bizonyos vásárlások gyorsabbak és egyszerűbbek legyenek.</p><p>Ez azt jelenti, hogy ha egy farmot vagy gazdasági területet egy szülő vagy testvér vásárol, akkor nem kell többé speciális engedélyre várni. Ugyanez vonatkozik arra az esetre, ha egy pár közösen vásárol egy farmot, és az egyikük szülő vagy testvér a tulajdonosnak.</p><p>A javaslat foglalkozik azzal is, hogy mi történik, ha az állam megtagadja valakitől egy farm megvásárlását. Az állam ugyanis bizonyos esetekben köteles kifizetni a föld értékét, ha egy vásárlás nem valósul meg.</p><p>Ha a parlament megszavazza a javaslatot, az új szabályok 2026. július 1-jén lépnek életbe.</p>",
   "relevans": {
-    "b_grona": 1,
-    "tillstand": 1,
-    "f_landsbygd": 3,
-    "barn": 1,
-    "glesbygd": 3
+    "glesbygd": 7,
+    "b_grona": 7,
+    "familjeforetag": 7,
+    "solo": 4,
+    "bostadsagare": 5,
+    "mark_bygglov": 5,
+    "f_landsbygd": 7,
+    "sambo_gift": 4,
+    "barn": 3
   }
 }

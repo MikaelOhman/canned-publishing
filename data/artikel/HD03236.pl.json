@@ -12,11 +12,17 @@
   "tldr": "Ze względu na wysokie ceny paliw i energii, rząd obniża podatek energetyczny – benzyna o 82 centy za litr, a olej napędowy o 319 koron za metr sześcienny (do poziomu minimalnego w UE) – i proponuje wsparcie dla cen energii elektrycznej i gazu dla gospodarstw domowych. Jest to dodatkowa zmiana w budżecie na rok 2026.",
   "lattlast": "<p>Rząd proponuje zmiany w budżecie państwa na rok 2026. Przyczyną są wysokie ceny paliw, związane z konfliktem na Bliskim Wschodzie, a także wysokie ceny energii elektrycznej i silne mrozy, które podniosły koszty ogrzewania dla gospodarstw domowych.</p><p>Podatek energetyczny od benzyny zostanie obniżony o 82 centy za litr, a od oleju napędowego o 319 koron za metr sześcienny – w przypadku paliw o klasie środowiskowej 1, aż do najniższego dopuszczalnego poziomu przez Unię Europejską.</p><p>Propozycja zawiera również wsparcie dla cen energii elektrycznej i gazu, mające na celu złagodzenie kosztów dla gospodarstw domowych.</p>",
   "relevans": {
-    "b_energi": 1,
-    "punktskatt": 1,
-    "energiintensiv": 1,
-    "bil": 2,
-    "energikund": 3,
-    "klimat": 1
+    "solo": 5,
+    "smaforetag": 5,
+    "b_transport": 8,
+    "b_grona": 5,
+    "punktskatt": 8,
+    "energiintensiv": 5,
+    "bil": 8,
+    "pendlare": 7,
+    "glesbygd": 6,
+    "energikund": 7,
+    "konsument": 6,
+    "foretagare": 5
   }
 }

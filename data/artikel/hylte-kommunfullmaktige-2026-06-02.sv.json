@@ -16,13 +16,14 @@
   "tldr": "Det här protokollet från mötet i Hylte kommun den 2 juni 2026 visar på flera planerade investeringar och förändringar i kommunens verksamheter, bland annat kring skolor och lokaler.",
   "lattlast": "<p>Vid mötet diskuterades flera viktiga ekonomiska beslut. Det handlar bland annat om investeringar i en mottagning för slam och planer för att bygga om eller använda lokaler i Forum och Centrumhuset. Man tittade även på hur pengar ska flyttas från räddningstjänsten till kommunstyrelsen.</p><p>När det gäller skolor och omsorg fanns information om den färdiga redovisningen för ombyggnaden av Sörgårdens förskola. Man diskuterade också vad som ska hända med lokaler vid Rydö skola, som inkluderar en gymnastiksal och omklädningsrum.</p><p>Det fanns även frågor om hur färdtjänsten ska skötas i framtiden och att man ska avsluta ett avtal om hur vissa uppgifter inom färdtjänsten och riksfärdstjänsten hanteras. Flera förslag, så kallade motioner, diskuterades också, till exempel om politiker ska synas mer i skolorna och om man ska kontrollera belastningsregistret vid nyanställningar.</p><p>Slutligen informerade revisorerna, som är de som kontrollerar att kommunen sköter sin ekonomi, om att de kommer att granska kommunens arbete under oktober 2026.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_vard": 1,
-    "b_konsult": 1,
-    "finansiering": 1,
-    "lokaler": 1,
-    "barn": 2,
-    "funktion": 1,
-    "idrott": 1
+    "f_kommun": 6,
+    "mark_bygglov": 4,
+    "barn": 4,
+    "funktion": 4,
+    "pendlare": 4,
+    "glesbygd": 4,
+    "fortroendevald": 5,
+    "offentliganstalld": 4,
+    "kompetens": 3
   }
 }

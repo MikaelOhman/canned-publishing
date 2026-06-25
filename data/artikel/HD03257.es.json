@@ -12,8 +12,12 @@
   "tldr": "Municipios que gestionan asuntos relacionados con la cartografía y el registro de la propiedad deberán utilizar, a partir de 2027, el mismo sistema digital que la agencia estatal Lantmäteriet. Esto se hace para garantizar que la tecnología funcione de manera compatible entre los municipios y el estado.",
   "lattlast": "<p>El gobierno ha presentado una propuesta para modificar las normas de las oficinas municipales de catastro. Una oficina de catastro es la parte de un municipio que se encarga de asuntos relacionados con el terreno y los límites. A partir del 1 de enero de 2027, estas oficinas municipales estarán obligadas a utilizar el mismo sistema digital que la agencia estatal de catastro, Lantmäteriet, para gestionar sus expedientes.</p><p>El objetivo de este cambio es garantizar que las herramientas y los recursos técnicos para la gestión sean los mismos. Se trata de facilitar el intercambio de información de forma segura entre los municipios y el estado. Si un municipio no utiliza los sistemas adecuados, el gobierno puede revocar su autorización para operar una oficina de catastro.</p><p>El gobierno, o una agencia designada por el gobierno, también puede establecer las normas sobre cómo se deben utilizar estos sistemas técnicos. Además, pueden determinar si el uso de estos sistemas implica un costo a través de diversas tarifas.</p><p>La propuesta implica que los requisitos para que un municipio pueda establecer su propia oficina de catastro serán más claros. Esto incluye, entre otras cosas, contar con el personal adecuado, una organización correcta y que la tecnología funcione para el intercambio de información entre el estado y el municipio.</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "tillstand": 1,
-    "konsument": 1
+    "f_kommun": 5,
+    "mark_bygglov": 6,
+    "bostadsagare": 3,
+    "bygger": 4,
+    "b_fastighet": 6,
+    "digitalisering": 4,
+    "offentliganstalld": 4
   }
 }

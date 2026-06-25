@@ -13,16 +13,21 @@
   "tldr": "Primăria orașului Malmö a luat o serie de decizii importante, acoperind o gamă largă de subiecte, de la taxele din grădinițe până la noile reguli pentru străzile și proiectele de construcție din oraș. De asemenea, s-au purtat discuții despre modul în care orașul ar trebui să planifice construcția de noi locuințe și să asigure siguranța locuitorilor în viitor.",
   "lattlast": "<p>În cadrul ședinței, au fost luate decizii privind modificarea tarifelor pentru grădinițe, centre de plasament și alte activități educaționale. Această modificare este rezultatul schimbărilor din reglementările guvernamentale referitoare la suma maximă pe care un părinte trebuie să o plătească. De asemenea, s-a decis modificarea regulilor privind costurile utilizării spațiilor publice din oraș.</p><p>În ceea ce privește construcțiile și terenurile din oraș, a fost aprobat un proiect important pe strada Södra Förstadsgatan. Mai mult, s-a decis achiziționarea proprietății Forskaren 3 și s-a analizat modul în care se vor stabili prețurile pentru terenurile pe care municipalitatea le închiriază altor entități. De asemenea, s-a discutat despre găsirea de noi locații pentru serviciile de asistență la domiciliu și îngrijire medicală în zona Fosie.</p><p>Orașul a analizat, de asemenea, planuri importante pentru viitor. Acestea includ un program privind asigurarea locuințelor în Malmö în perioada 2026-2030. S-a examinat, de asemenea, modul în care orașul promovează integrarea romilor în societate și modul în care se pot coordona diferite evenimente din Malmö.</p><p>În final, au fost analizate rapoartele financiare și situațiile financiare anuale ale orașului Malmö și ale serviciilor de urgență Syd. De asemenea, au fost prezentate mai multe propuneri, numite &quot;moțiuni&quot;, care acoperă o gamă largă de subiecte, de la muzee și patrimoniu cultural până la modalități de a crea o viață de zi cu zi mai activă pentru locuitori.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_fastighet": 1,
-    "b_kultur": 1,
-    "redovisning": 1,
-    "lokaler": 1,
-    "barn": 3,
-    "pensionar": 1,
-    "konsument": 1,
-    "idrott": 1,
-    "kultur": 1,
-    "otrygg": 1
+    "f_kommun": 5,
+    "barn": 5,
+    "ensam_foralder": 5,
+    "stor_familj": 4,
+    "ny_i_sverige": 4,
+    "kronisk": 4,
+    "pensionar": 4,
+    "funktion": 4,
+    "hyresgast": 4,
+    "bostadsagare": 4,
+    "storstad": 5,
+    "idrott": 3,
+    "kultur": 3,
+    "offentliganstalld": 4,
+    "b_fastighet": 4,
+    "b_vard": 4
   }
 }

@@ -12,8 +12,11 @@
   "tldr": "El gobierno quiere introducir un nuevo delito para evitar que los bienes robados se vendan fuera del país. También quiere otorgar a la Aduana más poder para investigar y gestionar mercancías ilegales.",
   "lattlast": "<p>El gobierno propone que se cree un delito específico para aquellos que ayudan a transportar bienes robados fuera de Suecia. Este delito se denominará &quot;tráfico ilícito de bienes sustraídos&quot;.  En caso de cometer un delito grave, la pena de prisión puede alcanzar hasta seis años.  Incluso el intento de cometer este delito deberá ser considerado ilegal.</p><p>Esta propuesta también implica que la Aduana, es decir, la autoridad que controla las mercancías en la frontera, tendrá una mayor responsabilidad.  Deberá poder ayudar a los fiscales en las investigaciones y tener más poder para detener delitos.  Los funcionarios de aduanas podrán iniciar investigaciones de manera similar a como lo hace la policía.</p><p>También existen propuestas para que las autoridades que trabajan contra el crimen puedan retener los bienes confiscados para utilizarlos en su formación o para investigar pruebas.  Si los bienes confiscados son peligrosos o difíciles de almacenar, podrán ser destruidos más rápidamente de lo que se hacía anteriormente.</p><p>El gobierno también desea modificar las normas sobre las penas por el contrabando de drogas destinadas a la venta. La mayoría de estas nuevas normas están previstas para entrar en vigor en septiembre de 2025, pero un cambio menor en una ley sobre bienes sujetos a impuestos entrará en vigor el 1 de julio de 2025.</p>",
   "relevans": {
-    "import": 1,
-    "beroende": 1,
-    "otrygg": 2
+    "b_transport": 4,
+    "b_handel": 4,
+    "otrygg": 5,
+    "brottsoffer": 4,
+    "export": 3,
+    "import": 3
   }
 }

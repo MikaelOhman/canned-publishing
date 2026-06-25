@@ -12,9 +12,12 @@
   "tldr": "Schweden möchte die Gesetze ändern, um das Land besser vor Cyberangriffen zu schützen. Durch die Änderung der Regeln sollen Behörden leichter wichtige Informationen untereinander austauschen können.",
   "lattlast": "<p>Das nationale Zentrum für Cybersicherheit, bekannt als NCSC, ist Teil der Schwedischen Militärischen Informations- und Sicherheitseinrichtung (FRA). Ihre Aufgabe ist es, digitale Bedrohungen und Angriffe gegen schwedische Computer und Netzwerke zu erkennen und zu verhindern. Um ihre Arbeit effektiv ausführen zu können, müssen sie mit anderen Behörden kommunizieren und Informationen austauschen.</p><p>Derzeit gibt es Datenschutzbestimmungen, die es den Behörden erschweren, die notwendigen Informationen auszutauschen. Die Regierung möchte daher neue Gesetze erlassen. Sie schlägt ein neues Gesetz vor, das die Behörden verpflichtet, Informationen miteinander zu teilen, sowie ein neues Gesetz zur Regelung der Verarbeitung personenbezogener Daten durch die FRA im Rahmen ihrer Arbeit.</p><p>Die Regierung möchte auch Änderungen an dem Gesetz zur Informationsfreiheit und zum Datenschutz vornehmen. Ziel ist es, Einzelpersonen zu schützen und gleichzeitig die Zusammenarbeit im Kampf gegen IT-Bedrohungen zu ermöglichen. Diese Änderungen sind wichtig, um die digitale Gesellschaft Schwedens sicherer zu machen.</p><p>Wenn das Parlament dem Vorschlag zustimmt, treten die neuen Gesetze am 15. Juli 2026 in Kraft.</p>",
   "relevans": {
-    "b_it": 1,
-    "gdpr": 3,
-    "integritet": 1,
-    "varnpliktig": 1
+    "gdpr": 7,
+    "digitalisering": 6,
+    "integritet": 6,
+    "b_it": 6,
+    "bredbandsberoende": 4,
+    "storforetag": 4,
+    "offentliganstalld": 5
   }
 }

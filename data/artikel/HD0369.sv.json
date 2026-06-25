@@ -12,10 +12,15 @@
   "tldr": "Regeringen vill ändra reglerna för skatt på skog för att göra det enklare att skydda naturen. Förslaget innebär att det ska bli lättare att spara pengar för naturvård och att reglerna ska följa EU:s lagar.",
   "lattlast": "<p>Regeringen har lagt fram ett förslag som ska göra skattereglerna för skog bättre. Målet är att det ska bli mer lockande för skogsägare att avsätta mark för att skydda naturen. Ett av förslagen handlar om att pengar som används för naturvård ska kunna betalas tillbaka till skogsägaren efter tio år.</p><p>Det blir också möjligt att skapa ett speciellt konto som kallas naturvårdskonto. Genom att använda ett sådant konto kan skogsägare sprida ut sina kostnader över flera år, vilket kallas för periodisering. Detta gör att skatten inte blir lika hög på en gång när man får ersättning för naturvård.</p><p>För att följa EU:s regler föreslår regeringen att dessa konton ska kunna skötas av banker även i andra länder inom EU och EES. Det innebär att man ska kunna använda banker från andra länder i Europa för att hantera sina skogskonton. Även möjligheten att göra skatteavdrag för skog ska kunna utökas till att gälla fastigheter inom EU.</p><p>Om riksdagen röstar ja till förslagen planerar de nya reglerna att börja gälla den 1 april 2026. Förslaget innebär även att en gammal lag om skatt på ränta för skogskonton ska tas bort.</p>",
   "relevans": {
-    "b_finans": 1,
-    "b_fastighet": 1,
-    "sparare": 1,
-    "lantagare": 1,
-    "klimat": 1
+    "b_grona": 10,
+    "bolagsskatt": 6,
+    "miljo": 6,
+    "eu_marknad": 5,
+    "gron_omstallning": 6,
+    "hallbarhetsrapport": 3,
+    "f_landsbygd": 6,
+    "glesbygd": 4,
+    "klimat": 5,
+    "friluftsliv": 3
   }
 }

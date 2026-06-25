@@ -12,10 +12,15 @@
   "tldr": "Il governo intende modificare il calcolo dell'assegno per l'affitto al fine di ridurre il rischio che le persone ricevano importi errati e debbano poi restituirli. La proposta prevede di considerare i redditi mensilmente, anziché annualmente.",
   "lattlast": "<p>Il governo ha proposto una riforma volta a rendere più equo il sussidio per l&#x27;alloggio. L&#x27;obiettivo è ridurre il numero di persone che ricevono importi eccessivi, il che spesso porta all&#x27;accumulo di debiti quando le autorità richiedono il rimborso.</p><p>Il nuovo sistema prevede che il sussidio venga calcolato in base alle entrate mensili. Si considera il reddito derivante dal lavoro nei primi tre mesi di un periodo di quattro mesi. Queste informazioni vengono ottenute dai dati forniti dai datori di lavoro allo Stato.</p><p>Per chi ha redditi derivanti da attività autonoma o per chi ha difficoltà a fornire informazioni sulle entrate mensili, continuerà ad essere utilizzato il vecchio sistema, che calcola il sussidio sulla base dell&#x27;intero anno. Le entrate derivanti da depositi bancari o da altre proprietà vengono ancora calcolate sulla base dell&#x27;anno precedente, poiché tali informazioni non possono essere aggiornate mensilmente.</p><p>Se il tuo reddito cambia durante l&#x27;anno, il sussidio per l&#x27;alloggio verrà ricalcolato immediatamente. Se la proposta verrà approvata, le nuove regole entreranno in vigore il 1° gennaio 2027.</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "b_finans": 1,
-    "ensam_foralder": 3,
-    "hyresgast": 3,
-    "lantagare": 1
+    "bidrag": 8,
+    "hyresgast": 7,
+    "bostadslos": 6,
+    "student": 5,
+    "ung_vuxen": 5,
+    "ensam_foralder": 6,
+    "barn": 5,
+    "skuldsatt": 5,
+    "lontagare": 4,
+    "foretagare": 3
   }
 }

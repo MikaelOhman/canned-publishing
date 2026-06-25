@@ -12,7 +12,17 @@
   "tldr": "La Suède souhaite lutter contre les fraudes à la TVA en accordant à l'administration fiscale davantage de pouvoirs pour contrôler et arrêter les entreprises qui commettent des fraudes. Les nouvelles règles entreront en vigueur le 1er juillet 2026.",
   "lattlast": "<p>De nombreuses entreprises utilisent des méthodes incorrectes pour éviter de payer la TVA lorsqu&#x27;elles effectuent des transactions avec d&#x27;autres pays au sein de l&#x27;Union européenne. Cela s&#x27;appelle des fraudes à la TVA et entraîne des pertes importantes pour l&#x27;État. Le gouvernement souhaite maintenant modifier la loi pour mettre fin à cela.</p><p>L&#x27;Agence fiscale suédoise (Skatteverket), qui est l&#x27;organisme chargé de contrôler les impôts en Suède, doit recevoir davantage de pouvoirs. Elle devra pouvoir contrôler les entreprises de manière plus approfondie lorsqu&#x27;elles souhaitent s&#x27;enregistrer pour la TVA. Si l&#x27;Agence fiscale soupçonne une fraude, elle pourra refuser l&#x27;enregistrement d&#x27;une entreprise ou la supprimer du système.</p><p>L&#x27;Agence fiscale devra également pouvoir marquer un numéro d&#x27;enregistrement comme invalide dans un système européen commun appelé VIES. Ce système est utilisé dans toute l&#x27;UE pour vérifier qu&#x27;une entreprise est légitime. Cela rendra plus difficile pour les fraudeurs de tromper d&#x27;autres entreprises en Europe.</p><p>Il existe également une proposition selon laquelle l&#x27;Agence fiscale pourrait décider que les entreprises ne doivent pas recevoir de remboursement si elles ont payé trop de TVA. L&#x27;objectif de toutes ces nouvelles règles est de réduire la fraude fiscale et de veiller à ce que tout le monde paie les impôts correctement. La proposition devrait entrer en vigueur le 1er juillet 2026.</p>",
   "relevans": {
-    "moms": 3,
-    "konsument": 1
+    "moms": 9,
+    "aktiebolag": 5,
+    "solo": 4,
+    "smaforetag": 5,
+    "storforetag": 6,
+    "b_handel": 6,
+    "b_finans": 4,
+    "export": 5,
+    "eu_marknad": 7,
+    "redovisning": 5,
+    "gdpr": 3,
+    "regelborda": 4
   }
 }

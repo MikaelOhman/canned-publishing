@@ -12,7 +12,13 @@
   "tldr": "Regeringen vill ändra lagarna så att Skatteverket får mer information om kryptovalutor och andra digitala tillgångar. Detta görs för att det ska bli lättare för länder att dela information med varandra och stoppa skattefusk.",
   "lattlast": "<p>Regeringen föreslår nya regler för hur information om pengar och digitala tillgångar ska delas mellan myndigheter. Det handlar mycket om kryptovalutor, som är en sorts digitala pengar. Syftet är att följa nya regler från EU som kallas DAC 8.</p><p>Förslaget innebär också att ett nytt internationellt avtal ska godkännas. Detta avtal kallas CARF och handlar om att länder automatiskt ska skicka information till varandra om vem som äger kryptovalutor. På så sätt kan myndigheter se om rätt skatt har betalats.</p><p>Det finns även förslag om att ändra regler för hur information om vanliga bankkonton delas. Detta sker genom ett tillägg till ett befintligt system som kallas CRS. Systemet används redan för att kontrollera att information om finansiella konton når fram till rätt myndighet.</p><p>Slutligen föreslås det nya krav på att man måste rapportera när man säljer vissa typer av värdepapper. Detta gäller tillgångar som rör råvaror eller index. Syftet med alla dessa ändringar är att skapa ett bättre samarbete mellan skattemyndigheter i olika länder.</p>",
   "relevans": {
-    "b_industri": 1,
-    "b_finans": 2
+    "sparare": 7,
+    "b_finans": 7,
+    "b_it": 4,
+    "bolagsskatt": 4,
+    "gdpr": 4,
+    "aktiebolag": 3,
+    "pensionssparare": 5,
+    "eu_marknad": 4
   }
 }

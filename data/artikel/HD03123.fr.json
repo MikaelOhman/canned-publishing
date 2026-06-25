@@ -12,10 +12,12 @@
   "tldr": "Le gouvernement souhaite rendre plus difficile l'utilisation d'explosifs par des criminels en renforçant le contrôle des entreprises qui manipulent des matières dangereuses. Cette proposition vise à empêcher que des explosifs ne tombent entre de mauvaises mains.",
   "lattlast": "<p>Il est devenu plus fréquent de constater des actes de sabotage en Suède, où des criminels utilisent des explosifs contre des personnes et des habitations. Souvent, ces explosifs sont légaux, mais ont été volés ou détournés. Pour endiguer ce phénomène, le gouvernement souhaite modifier les règles applicables aux entreprises qui travaillent avec des substances inflammables et explosives.</p><p>L&#x27;une des propositions est que les entreprises autorisées à manipuler ces substances doivent informer rapidement les autorités du départ de personnes importantes, telles que les dirigeants ou les propriétaires. La police devra également avoir plus de possibilités de contester les décisions accordant à des entreprises ou à des personnes le droit de manipuler des explosifs. Cela devrait faciliter le contrôle de l&#x27;accès aux matières dangereuses.</p><p>Le gouvernement souhaite également modifier la loi sur le secret, qui définit les règles concernant les informations confidentielles. Il sera plus facile pour l&#x27;Agence suédoise de renseignement militaire (FRA) et d&#x27;autres autorités de partager des informations importantes entre elles dans le cadre de collaborations internationales. Cela vise à renforcer la sécurité dans le domaine numérique.</p><p>Si le Parlement vote en faveur de ces propositions, les nouvelles règles entreront en vigueur le 1er juillet 2026. Ces propositions impliquent des modifications de deux lois différentes concernant la sécurité et la manipulation de substances dangereuses.</p>",
   "relevans": {
-    "tillstand": 1,
-    "infrastruktur": 1,
-    "batagare": 1,
-    "otrygg": 1,
-    "varnpliktig": 1
+    "b_bygg": 5,
+    "b_industri": 4,
+    "tillstand": 7,
+    "arbetsmiljo": 5,
+    "otrygg": 6,
+    "brottsoffer": 3,
+    "integritet": 3
   }
 }

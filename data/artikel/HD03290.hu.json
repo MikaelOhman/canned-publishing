@@ -15,8 +15,12 @@
   "tldr": "Svédország egy új intézményt indít, amelynek a neve Svédország külügyi hírszerző szolgálata (UND) lesz. Ez az intézmény 2027. január 1-jén kezdheti meg a működését.",
   "lattlast": "<p>A kormány egy új intézmény létrehozásáról tett javaslatot, amelynek a neve Svédország külügyi hírszerzési szolgálata lenne, rövidítve UND. A cél az, hogy ez az új intézmény 2027. január 1-jén kezdhesse meg a működését.</p><p>Az új intézmény elindításához számos módosítás szükséges a meglévő törvényekben. A kormány többek között új szabályokat javasol arra vonatkozóan, hogy az intézmény hogyan kezelheti a személyes adatokat, azaz az olyan információkat, amelyek egy adott személyhez vezethetők. Ez magában foglalja a törvények módosítását olyan területeken, mint a biztonság, a fegyverek, a környezetvédelem és az építési szabályozás.</p><p>A javaslat egy hosszú listát tartalmaz 23 különböző törvénymódosításról, amelyeket a parlamentnek kell elfogadnia. Ezek a módosítások számos más intézményt és területet érintenek, például a Honvédelmi Erőket, a Biztonsági Ügynökséget, valamint a szélessávú internet és az elektronikai eszközök használatára vonatkozó szabályokat.</p><p>Ha a parlament jóváhagyja a javaslatot, az új szabályok akkor lépnek hatályba, amikor az új intézmény elindul, azaz 2027. január 1-jén.</p>",
   "relevans": {
-    "gdpr": 1,
-    "lontagare": 1,
-    "integritet": 1
+    "integritet": 7,
+    "gdpr": 4,
+    "offentliganstalld": 5,
+    "fortroendevald": 4,
+    "varnpliktig": 4,
+    "b_it": 3,
+    "digitalisering": 3
   }
 }

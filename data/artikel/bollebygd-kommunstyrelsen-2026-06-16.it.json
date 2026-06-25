@@ -15,13 +15,11 @@
   "tldr": "Il comune di Bollebygds ha approvato nuove normative che regolano il funzionamento dell'amministrazione comunale in caso di guerra o di elevata prontezza operativa. Sono state inoltre approvate nuove pianificazioni riguardanti l'edilizia e l'architettura nel comune.",
   "lattlast": "<p>La giunta comunale ha approvato nuove linee guida su come l&#x27;amministrazione comunale deve organizzare le proprie attività in caso di guerra o di elevata prontezza operativa. Ciò significa che sono state definite in anticipo le aree prioritarie dell&#x27;attività comunale da proteggere qualora la situazione sociale dovesse diventare incerta. L&#x27;obiettivo è che le funzioni essenziali della comunità possano continuare a operare anche in periodi difficili.</p><p>Sono state prese diverse decisioni in merito a edilizia e pianificazione urbana. Tra queste, è stato assegnato un incarico per la redazione di piani dettagliati per aree come Bollebygds Prästgård e Låddekärrsbu. Un piano dettagliato è un documento che stabilisce cosa è permesso costruire e come può essere utilizzata la terra.</p><p>Il comune ha inoltre approvato una nuova strategia per l&#x27;architettura, un piano che definisce come gli edifici e gli ambienti dovrebbero apparire e essere progettati in futuro. È stata inoltre decisa la conclusione di un&#x27;attività di pianificazione nell&#x27;area di Getabrohult e l&#x27;avvio di nuovi incarichi per la pianificazione del territorio in quella zona.</p><p>Infine, è stata esaminata l&#x27;informazione relativa al modo in cui il comune gestisce la protezione dei dati e la sicurezza. Il nuovo responsabile della protezione dei dati della regione di Borås ha presentato le modalità con cui vengono rispettate le normative sulla protezione dei dati personali (GDPR) per tutelare le informazioni dei cittadini.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_fastighet": 1,
+    "f_kommun": 5,
+    "b_bygg": 4,
+    "mark_bygglov": 4,
     "gdpr": 3,
-    "mark_bygglov": 1,
-    "bygger": 1,
-    "storstad": 1,
-    "klimat": 1,
-    "integritet": 1
+    "bostadsagare": 3,
+    "hyresgast": 3
   }
 }

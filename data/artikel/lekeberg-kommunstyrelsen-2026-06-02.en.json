@@ -13,11 +13,15 @@
   "tldr": "The municipal council of Lekeberg has made decisions regarding new plans for the municipality's growth and development, and has approved new regulations for how citizens can submit proposals. They have also reviewed financial reports from municipal companies and collaborations.",
   "lattlast": "<p>The municipal board has adopted a new comprehensive plan for the municipality of Lekeberg. This is an important plan that outlines how land and water resources should be used in the future. In conjunction with this, old plans for nature conservation and cultural heritage have been removed to make the new work clearer.</p><p>Regarding libraries, a new library plan has been approved, which will be in effect from 2026 to 2028. New guidelines have also been developed for how citizens can submit proposals to the municipality, known as citizen initiatives, as well as regulations for how crisis support and first aid should be handled within the municipality.</p><p>The municipality has also reviewed financial reports. This includes examining the annual report for Vätternvatten AB, a company that manages water-related issues. They have also reviewed reports on the finances of the FINSAM collaboration between Örebro and Lekeberg.</p><p>Finally, discussions were held regarding housing and premises. A survey has been conducted to identify potential locations for specialized housing, which provides accommodation for individuals who require additional support in their daily lives. The municipality has also examined how it can improve its management of its own buildings and premises.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_kultur": 1,
-    "redovisning": 1,
-    "lokaler": 1,
-    "klimat": 1,
-    "kultur": 2
+    "f_kommun": 6,
+    "mark_bygglov": 5,
+    "b_fastighet": 4,
+    "glesbygd": 5,
+    "pensionar": 4,
+    "funktion": 5,
+    "anhorigvardare": 4,
+    "bostadsagare": 4,
+    "hyresgast": 3,
+    "fortroendevald": 5
   }
 }

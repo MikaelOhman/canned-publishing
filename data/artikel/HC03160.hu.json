@@ -12,11 +12,14 @@
   "tldr": "A kormány szeretné módosítani a törvényt az iskolák és óvodák biztonságának növelése érdekében. A javaslat célja a bűncselekmények megelőzése, valamint a diákok és a személyzet védelme a violência és a fenyegetés ellen.",
   "lattlast": "<p>A kormány egy javaslatot terjesztett elő, amely módosítja a törvény előírásait az oktatási intézményekben. A cél az, hogy mindenki, aki dolgozik vagy tanul az iskolában, biztonságban érezze magát. Az új javaslat értelmében az iskoláknak világos tervekkel kell rendelkezniük arról, hogyan kezelik a súlyos erőszakot vagy a fenyegetéseket.</p><p>Azok, akik felelősek az iskolák működtetéséért, más néven &quot;fenntartók&quot;, biztosítaniuk kell, hogy azok, akiknek nincs joga tartózkodni ott, ne léphessenek be az iskola területére a tanítási idő alatt. Emellett folyamatosan zajlania kell a munkának a bűnözés megelőzése és egy biztonságos, jó környezet megteremtése érdekében.</p><p>A rektor mostantól jogosult elrendelni, hogy a tanulók által behozott táskákat vagy egyéb tárgyakat átvizsgálják. Ezt csak akkor lehet megtenni, ha erre megfelelő ok van, például a bűnözés megakadályozása vagy annak biztosítása, hogy senki ne kerüljön bántalmazás alá. Az átvizsgálás nem lehet átfogóbb annál, ami feltétlenül szükséges.</p><p>Ha egy tanulót bűncselekmény elkövetésével gyanúsítanak, a rektornak be kell jelentenie ezt a rendőrségnek. Ez minden típusú iskolára vonatkozik, a bölcsodától a középiskolaig és a felnőttképzésig. Ugyanakkor vannak kivételek, ha nagyon erős indokok vannak a bejelentés mellőzése mellett.</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "b_utbildning": 1,
-    "barn": 2,
-    "vuxenstudier": 1,
-    "klimat": 1,
-    "otrygg": 1
+    "barn": 7,
+    "gymnasieelev": 7,
+    "ung": 6,
+    "student": 3,
+    "offentliganstalld": 5,
+    "otrygg": 5,
+    "brottsoffer": 3,
+    "b_utbildning": 6,
+    "f_kommun": 4
   }
 }

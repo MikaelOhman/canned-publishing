@@ -13,12 +13,13 @@
   "tldr": "La junta de gobierno de Estocolmo ha tomado decisiones sobre varios proyectos relacionados con temas que van desde la seguridad en Kista hasta la cultura y los árboles de la ciudad. No se iniciarán grandes proyectos de inversión de inmediato, pero las decisiones políticas necesarias para los próximos pasos ya están tomadas.",
   "lattlast": "<p>La Junta de Gobierno de Estocolmo celebró una reunión el 27 de mayo de 2026. Durante la reunión, se discutieron varias propuestas, conocidas como mociones y solicitudes, que versaban sobre cómo debía desarrollarse la ciudad.</p><p>Uno de los temas tratados fue la situación en Kista. Los políticos decidieron responder a una carta sobre este asunto siguiendo la propuesta elaborada por la administración. Sin embargo, el partido Moderaterna no estuvo de acuerdo con esta decisión y manifestó su desacuerdo.</p><p>También se discutió la posibilidad de instalar más baños y vestuarios en los campos de fútbol. La Junta de Gobierno ha enviado ahora su respuesta al Ayuntamiento, que es el grupo de políticos que toma las decisiones finales en la ciudad. Incluso aquí, hubo políticos de varios partidos que querían una solución diferente.</p><p>Finalmente, se trataron cuestiones relacionadas con la vida cultural y nocturna de la ciudad, así como una propuesta para plantar más árboles móviles en Estocolmo. En todas estas cuestiones, la Junta de Gobierno decidió seguir las propuestas elaboradas por los funcionarios (la Comisión de Concejales).</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "b_fastighet": 1,
-    "b_kultur": 1,
-    "glesbygd": 1,
-    "idrott": 1,
-    "kultur": 1,
-    "otrygg": 1
+    "f_kommun": 4,
+    "storstad": 4,
+    "otrygg": 4,
+    "idrott": 3,
+    "kultur": 3,
+    "offentliganstalld": 3,
+    "b_kultur": 3,
+    "klimat": 3
   }
 }

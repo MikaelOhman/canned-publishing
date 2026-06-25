@@ -12,7 +12,17 @@
   "tldr": "Vengono proposte nuove regole per proteggere agricoltori e fornitori di cibo dall'improvvisa cancellazione di ordini da parte degli acquirenti. Sarà vietato annullare un ordine se il fornitore non ha la possibilità di trovare un altro cliente per la merce.",
   "lattlast": "<p>Il governo intende modificare la legge sul commercio di prodotti agricoli e alimentari. L&#x27;obiettivo è rendere le regole più chiare e conformi alle normative europee per contrastare pratiche scorrette nell&#x27;acquisto di alimenti e prodotti agricoli.</p><p>Attualmente, è vietato annullare un ordine se mancano meno di 30 giorni alla consegna. La nuova proposta prevede che sia vietato annullare un ordine anche con un tempo maggiore residuo, se il venditore non è in grado di trovare un altro acquirente in tempo.</p><p>La proposta mira a creare sicurezza per coloro che producono alimenti. Se un acquirente annulla un ordine troppo tardi, ciò può causare ingenti perdite per chi consegna i prodotti.</p><p>Se la proposta verrà approvata dal parlamento, la nuova legge entrerà in vigore il 1° giugno 2026.</p>",
   "relevans": {
-    "b_grona": 1,
-    "otrygg": 1
+    "b_grona": 8,
+    "b_handel": 5,
+    "b_transport": 4,
+    "import": 5,
+    "export": 4,
+    "eu_marknad": 6,
+    "solo": 4,
+    "smaforetag": 5,
+    "storforetag": 4,
+    "familjeforetag": 5,
+    "konkurrens": 4,
+    "konsumentratt": 3
   }
 }

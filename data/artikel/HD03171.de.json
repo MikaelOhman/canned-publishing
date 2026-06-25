@@ -12,8 +12,14 @@
   "tldr": "Die Regierung möchte die Regeln ändern, wie Kernkraftwerke in Schweden gebaut werden dürfen. Der neue Vorschlag erleichtert die Genehmigung, wenn ein fertiger Plan vorliegt und die Kommune zustimmt.",
   "lattlast": "<p>Die Regierung hat einen Vorschlag für neue Gesetze vorgelegt, die am 17. Juni 2026 in Kraft treten sollen. Ziel ist es, die Art und Weise zu ändern, wie nukleare Anlagen kontrolliert und genehmigt werden, also Standorte, an denen Kernenergie eingesetzt wird.</p><p>Die neue Vorgehensweise sieht vor, dass die Regierung eine Anlage direkt genehmigen kann, wenn bereits ein Plan für das Gebiet vorliegt. Damit dieser Plan Gültigkeit hat, müssen die betroffenen Gemeinden dem Vorschlag zugestimmt haben. Wenn diese neue Vorgehensweise nicht angewendet wird, gelten weiterhin die alten Bestimmungen im Umweltgesetz, das die Regeln für den Schutz unserer Umwelt festlegt.</p><p>Der Vorschlag sieht auch vor, dass die Regierung prüfen soll, ob die Vorteile einer Anlage größer sind als die Nachteile. Es wird auch möglich sein, eine Vorabgenehmigung zu erhalten, was eine frühe Antwort darauf ist, ob ein Projekt realisierbar ist. Der Vorschlag beinhaltet Änderungen in verschiedenen Gesetzen, beispielsweise in Gesetzen zum Strahlenschutz und zur Finanzierung von radioaktivem Abfall.</p>",
   "relevans": {
-    "b_bygg": 3,
-    "miljo": 2,
-    "klimat": 1
+    "b_energi": 7,
+    "energiintensiv": 5,
+    "energikund": 4,
+    "miljo": 4,
+    "klimat": 4,
+    "f_kommun": 5,
+    "gron_omstallning": 4,
+    "storforetag": 5,
+    "mark_bygglov": 4
   }
 }

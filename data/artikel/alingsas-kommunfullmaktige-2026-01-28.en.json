@@ -13,11 +13,11 @@
   "tldr": "The municipality of Alingsås has decided on new regulations for how all businesses within the municipality should operate. They have also approved a plan to build a new preschool in the Ingared area.",
   "lattlast": "<p>The municipal council has decided to revise the corporate policy for the Alingsås municipal group. A policy is a document that outlines the rules and values that should govern the various operations and companies within the municipality.</p><p>They have also approved a detailed development plan for Ingared. This means that permission has now been granted to build a new preschool at Kärrbogärdevägen, on property Ingared 5:114.</p><p>The meeting also addressed changes to the regulations for the company AB Alingsås Rådhus. Discussions were also held regarding water and sewage (VA) systems, as well as areas such as Lövekulle camping, Noltorp, and Edsås.</p><p>Finally, several elections were held to replace individuals who have resigned from their positions on various committees. A committee is a group of politicians responsible for specific areas, such as schools or construction.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_fastighet": 1,
-    "tillstand": 1,
-    "mark_bygglov": 1,
-    "barn": 2,
-    "bygger": 1
+    "f_kommun": 5,
+    "fortroendevald": 7,
+    "b_fastighet": 3,
+    "mark_bygglov": 4,
+    "barn": 4,
+    "bostadsagare": 3
   }
 }

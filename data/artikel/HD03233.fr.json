@@ -12,7 +12,16 @@
   "tldr": "De nouvelles réglementations sont proposées pour lutter contre les fraudes par SMS et autres messages numériques. Les entreprises qui gèrent vos communications doivent être en mesure de bloquer les messages qui semblent malveillants.",
   "lattlast": "<p>Le gouvernement souhaite modifier la loi sur les communications électroniques afin de rendre plus difficile la tromperie des personnes en ligne. La proposition prévoit que les entreprises fournissant des services de messagerie, tels que les services SMS, assument une plus grande responsabilité pour prévenir les fraudes.</p><p>Si une entreprise détecte des informations techniques concernant un message qui suggèrent qu&#x27;il s&#x27;agit d&#x27;une fraude ou d&#x27;une tentative de tromperie, elle ne doit pas transmettre le message. Il est important de savoir que les entreprises ne sont pas autorisées à lire le contenu de vos messages pour effectuer ce contrôle ; elles ne peuvent examiner que les informations techniques relatives au trafic.</p><p>Afin de mener à bien ce travail, les entreprises peuvent traiter certaines informations relatives aux messages, mais uniquement aussi longtemps que cela est nécessaire pour prévenir la fraude. Après cela, les informations doivent être immédiatement supprimées. Le gouvernement ou une autre autorité déterminera les règles précises qui s&#x27;appliqueront à ce travail.</p><p>Ces nouvelles règles font partie d&#x27;un effort au sein de l&#x27;UE visant à créer une communication numérique plus sûre. Si la proposition est adoptée, les nouvelles lois entreront en vigueur le 1er août 2026.</p>",
   "relevans": {
-    "foretagare": 1,
-    "kollektiv": 1
+    "smaforetag": 4,
+    "b_it": 6,
+    "b_finans": 4,
+    "gdpr": 7,
+    "konsumentratt": 5,
+    "digitalisering": 5,
+    "eu_marknad": 4,
+    "konsument": 5,
+    "integritet": 6,
+    "otrygg": 5,
+    "digital_ovan": 4
   }
 }

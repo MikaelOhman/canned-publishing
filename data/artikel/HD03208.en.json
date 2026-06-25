@@ -12,6 +12,11 @@
   "tldr": "The government has completed its review of a report on how new technologies are impacting our personal privacy. The work on this report is now finished.",
   "lattlast": "<p>The government has issued a statement indicating that they have reviewed and commented on a report. The report, titled &quot;Privacy and Emerging Technologies 2020-2024,&quot; examines how the development of new technologies impacts the protection of our personal information.</p><p>The report was written by the Swedish Data Protection Authority, the agency responsible for ensuring compliance with laws regarding personal privacy. In the report, the authority has examined, analyzed, and described the developments in technology from 2020 to 2024.</p><p>Through this statement, the government indicates that they now consider the work on the report to be complete. This means that they have reviewed the information and that the process for this specific report is now concluded.</p>",
   "relevans": {
-    "integritet": 3
+    "integritet": 6,
+    "gdpr": 5,
+    "digital_ovan": 3,
+    "bredbandsberoende": 3,
+    "b_it": 5,
+    "digitalisering": 5
   }
 }

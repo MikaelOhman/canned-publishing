@@ -12,8 +12,12 @@
   "tldr": "Kommunen, die sich um Vermessungsfragen kümmern, müssen ab 2027 das gleiche digitale System wie die staatliche Behörde Lantmäteriet verwenden. Dies dient dazu, sicherzustellen, dass die Technik reibungslos zwischen den Kommunen und dem Staat zusammenarbeitet.",
   "lattlast": "<p>Die Regierung hat einen Vorschlag vorgelegt, die Regeln für die kommunalen Katasterämter zu ändern. Ein Katasteramt ist der Teil einer Gemeinde, der sich mit Fragen der Flächen und Grenzen befasst. Ab dem 1. Januar 2027 müssen diese kommunalen Behörden das gleiche digitale System zur Bearbeitung ihrer Fälle verwenden wie das staatliche Amt Katasteramt.</p><p>Ziel dieser Änderung ist es, sicherzustellen, dass die technischen Werkzeuge und Unterstützungsleistungen für die Bearbeitung einheitlich sind. Es geht darum, dass Informationen einfach und sicher zwischen den Gemeinden und dem Staat ausgetauscht werden können. Wenn eine Gemeinde die richtigen Systeme nicht verwendet, kann die Regierung ihre Genehmigung zum Betrieb eines Katasteramtes widerrufen.</p><p>Die Regierung oder eine von der Regierung benannte Behörde kann auch Regeln dafür festlegen, wie diese technischen Systeme verwendet werden sollen. Sie kann auch bestimmen, ob die Nutzung der Systeme mit Kosten durch verschiedene Gebühren verbunden ist.</p><p>Der Vorschlag bedeutet, dass die Anforderungen, die eine Gemeinde erfüllen muss, um ein eigenes Katasteramt zu gründen, klarer werden. Dazu gehören unter anderem die Verfügbarkeit von qualifiziertem Personal, eine geeignete Organisation und die Funktionsfähigkeit der Technik für den Austausch von Informationen zwischen Staat und Gemeinde.</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "tillstand": 1,
-    "konsument": 1
+    "f_kommun": 5,
+    "mark_bygglov": 6,
+    "bostadsagare": 3,
+    "bygger": 4,
+    "b_fastighet": 6,
+    "digitalisering": 4,
+    "offentliganstalld": 4
   }
 }

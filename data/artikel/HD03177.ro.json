@@ -12,11 +12,11 @@
   "tldr": "Guvernul dorește să simplifice procesul prin care autoritățile pot verifica companiile care doresc să ofere servicii statului și municipalităților. Scopul este de a evalua rapid dacă o companie are antecedente penale, datorii fiscale neplătite sau probleme financiare majore.",
   "lattlast": "<p>Guvernul propune noi reguli care simplifică procesul de verificare a companiilor care participă la licitații publice. O licitație publică este atunci când autoritățile achiziționează servicii sau bunuri de la companii private. Noul sistem ar trebui să permită coordonarea controalelor pentru a determina dacă o companie are motive să fie exclusă de la participarea la contracte.</p><p>Controalele ar trebui să poată identifica dacă o companie a săvârșit infracțiuni, nu a plătit impozitele sau contribuțiile la sistemul de asigurări sociale, sau dacă are probleme financiare majore, cum ar fi falimentul. Aceste informații ar trebui să fie disponibile atât în momentul selectării contractorului, cât și în timpul monitorizării contractelor în curs.</p><p>Propunerea implică, de asemenea, uniformizarea regulilor pentru diferite tipuri de sisteme. Acest lucru se aplică atât licitațiilor publice obișnuite, cât și sistemelor de &quot;libertate de alegere&quot;, în care operatorii privați pot oferi servicii în domenii precum asistența medicală și îngrijirea persoanelor. Scopul este ca regulile privind excluderea unei companii să fie aceleași, indiferent de tipul de serviciu.</p><p>Dacă propunerea este adoptată de Parlament, noile reguli vor intra în vigoare la 1 iulie 2026. Propunerea include, de asemenea, reguli privind modul în care datele personale pot fi gestionate și modul în care confidențialitatea trebuie respectată în timpul acestor controale.</p>",
   "relevans": {
-    "b_vard": 1,
-    "konkurs": 1,
-    "gdpr": 1,
-    "kronisk": 1,
-    "konsument": 1,
-    "integritet": 1
+    "upphandling": 9,
+    "smaforetag": 6,
+    "aktiebolag": 5,
+    "konkurs": 5,
+    "regelborda": 5,
+    "gdpr": 4
   }
 }

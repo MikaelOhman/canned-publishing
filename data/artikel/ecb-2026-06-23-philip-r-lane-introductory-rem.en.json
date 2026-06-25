@@ -13,14 +13,18 @@
   "tldr": "The situation in the Middle East and high energy prices are creating uncertainty for Europe's economy. To protect the economy from rising prices, a slight interest rate increase has been implemented.",
   "lattlast": "<p>Philip R. Lane, from the European Central Bank, stated that the war in the Middle East is negatively impacting Europe&#x27;s economy. Even with a peace agreement in place, the situation remains uncertain, which could lead to continued increases in energy prices. This, in turn, risks causing prices for goods and services (inflation) to rise more than desired.</p><p>The European economy, also known as the Eurozone, has struggled to grow at the beginning of the year. This is partly due to a contraction in the Irish economy. At the same time, the labor market remains strong with low unemployment, but businesses and individuals are more cautious with their spending due to the high energy costs.</p><p>Regarding price increases, or inflation, it currently stands at 3.2 percent, which is higher than the target of 2 percent. There are risks that food and energy prices could remain high for an extended period. However, wages are expected to increase at a rate that will strengthen people&#x27;s purchasing power in the coming years.</p><p>To address these risks, the interest rate was raised by 0.25 percent (or 25 basis points) in June. The purpose of this interest rate hike is to curb price increases and ensure that inflation eventually stabilizes at the target level.</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "b_energi": 1,
-    "energiintensiv": 1,
-    "lontagare": 1,
-    "arbetssokande": 2,
-    "sparare": 1,
-    "lantagare": 1,
-    "energikund": 1,
-    "konsument": 2
+    "energikund": 6,
+    "konsument": 5,
+    "lantagare": 6,
+    "sparare": 5,
+    "pensionssparare": 4,
+    "lontagare": 5,
+    "b_finans": 5,
+    "b_energi": 5,
+    "storforetag": 4,
+    "smaforetag": 4,
+    "energiintensiv": 5,
+    "export": 4,
+    "foretagare": 4
   }
 }

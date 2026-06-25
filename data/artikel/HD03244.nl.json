@@ -12,9 +12,13 @@
   "tldr": "De regering wil een nieuwe wet invoeren die het voor overheidsinstanties en gemeenten gemakkelijker maakt om digitale informatie met elkaar te delen. Het doel is om het papiergebruik te verminderen en nieuwe technologieën, zoals AI, op een slimmere manier te gebruiken.",
   "lattlast": "<p>De regering heeft een voorstel ingediend voor een nieuwe wet die regelt hoe informatie wordt gedeeld tussen verschillende overheidsinstanties in Zweden. De wet gaat over zogenaamde interoperabiliteit, een lastig woord om te beschrijven dat verschillende datasystemen met elkaar moeten kunnen communiceren en elkaars informatie moeten begrijpen. Door dit te vereenvoudigen, hoopt men de hoeveelheid administratie te verminderen en moderne technologie, zoals AI, efficiënter te kunnen gebruiken.</p><p>De instanties die de nieuwe regels moeten naleven, zijn overheidsinstanties, gemeenten, regio&#x27;s en bepaalde gemeentelijke bedrijven. De regels zijn van toepassing wanneer informatie vaak of in grote hoeveelheden wordt gedeeld. De regering heeft echter het recht om te bepalen dat bepaalde groepen de wet niet hoeven na te leven, en kan ook precies bepalen welke technische eisen van toepassing zijn op de gegevensuitwisseling.</p><p>Er zijn belangrijke uitzonderingen om burgers en het land te beschermen. De nieuwe eisen hoeven niet te worden nageleefd als dit de veiligheid van Zweden zou bedreigen, of als het te onveilig is voor persoonlijke gegevens en cyberveiligheid. Ook hoeven de eisen niet te worden nageleefd als de kosten te hoog zijn in verhouding tot de voordelen van het delen van de informatie.</p><p>Als het parlement instemt met het voorstel, zal de nieuwe wet ingaan op 15 augustus 2026.</p>",
   "relevans": {
-    "b_fastighet": 3,
-    "gdpr": 2,
-    "kronisk": 1,
-    "integritet": 1
+    "f_kommun": 5,
+    "offentliganstalld": 5,
+    "digitalisering": 7,
+    "gdpr": 5,
+    "integritet": 4,
+    "digital_ovan": 3,
+    "b_it": 6,
+    "regelborda": 4
   }
 }

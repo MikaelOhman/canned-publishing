@@ -13,16 +13,21 @@
   "tldr": "The city of Malmö has made several important decisions covering a wide range of issues, from preschool fees to new regulations for the city's streets and construction projects. Discussions have also focused on how the city should plan for new housing and ensure the safety of its residents in the future.",
   "lattlast": "<p>At the meeting, decisions were made regarding changes to fees for preschool, after-school care, and other educational activities. This is due to changes in the national regulations regarding the maximum amount parents should pay.  They also decided to change the rules regarding the cost of using public spaces in the city.</p><p>Regarding the city&#x27;s construction and land, a larger project on Södra Förstadsgatan was approved.  Furthermore, they decided to purchase the property located at Forskaren 3, and they discussed how to price land that the municipality lends to others.  They also discussed how to find new premises for home care and home healthcare services in the Fosie area.</p><p>The city also reviewed important plans for the future. This included a program outlining how Malmö will ensure there are enough housing units between 2026 and 2030. They also examined how the city works to integrate Roma people into society and how to coordinate various events in Malmö.</p><p>Finally, they reviewed financial reports and annual reports for the City of Malmö and the South Rescue Service. There were also several proposals, known as motions, covering a wide range of topics, from museums and cultural heritage to how to create a more active daily life for residents.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_fastighet": 1,
-    "b_kultur": 1,
-    "redovisning": 1,
-    "lokaler": 1,
-    "barn": 3,
-    "pensionar": 1,
-    "konsument": 1,
-    "idrott": 1,
-    "kultur": 1,
-    "otrygg": 1
+    "f_kommun": 5,
+    "barn": 5,
+    "ensam_foralder": 5,
+    "stor_familj": 4,
+    "ny_i_sverige": 4,
+    "kronisk": 4,
+    "pensionar": 4,
+    "funktion": 4,
+    "hyresgast": 4,
+    "bostadsagare": 4,
+    "storstad": 5,
+    "idrott": 3,
+    "kultur": 3,
+    "offentliganstalld": 4,
+    "b_fastighet": 4,
+    "b_vard": 4
   }
 }

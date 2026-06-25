@@ -13,8 +13,10 @@
   "tldr": "Samhällsbyggnadsnämnden i Gnesta har föreslagit nya avgifter för kontroll av strålning, till exempel från solarier. Nämnden har också godkänt ekonomisk rapport för april där det visas ett underskott i förvaltningen.",
   "lattlast": "<p>Samhällsbyggnadsnämnden har lagt fram ett förslag om nya avgifter för kontroll och tillsyn enligt strålskyddslagen. Det betyder att kommunen kan ta ut avgifter för att kontrollera saker som kosmetiska solarier och radon. Förslaget ska nu vidare till kommunstyrelsen och kommunfullmäktige för ett slutgiltigt beslut.</p><p>Den nya taxan, som är en lista över vad olika tjänster kostar, behövs för att rätta till gamla fel i dokumenten. En viktig ändring är att tiden som räknas för att handlägga anmälningar om solarier ändras från tre till sex timmar. När det nya beslutet börjar gälla, upphör den gamla taxan att gälla direkt.</p><p>Nämnden har också tittat på ekonomin för samhällsbyggnadsförvaltningen under april månad. Rapporten visar att förvaltningen har ett underskott på 514 600 kronor fram till april. Man tror att det totala underskottet för hela året kan landa på 850 000 kronor.</p><p>Trots de ekonomiska siffrorna har nämnden godkänt rapporten. Man ser att flera viktiga uppdrag går enligt plan, även om vissa projekt kan komma att ta längre tid än man först tänkt sig.</p>",
   "relevans": {
-    "b_fastighet": 1,
-    "regelborda": 1,
-    "konsument": 1
+    "b_besok": 4,
+    "tillstand": 5,
+    "avgifter": 3,
+    "f_kommun": 4,
+    "mark_bygglov": 3
   }
 }

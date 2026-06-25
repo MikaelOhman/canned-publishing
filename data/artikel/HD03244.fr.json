@@ -12,9 +12,13 @@
   "tldr": "Le gouvernement souhaite introduire une nouvelle loi qui faciliterait le partage d'informations numériques entre les administrations et les municipalités. L'objectif est de réduire la paperasserie et d'utiliser les nouvelles technologies, comme l'IA, de manière plus efficace.",
   "lattlast": "<p>Le gouvernement a présenté une proposition de loi visant à réglementer la manière dont l&#x27;information est partagée entre les différentes parties du secteur public suédois. Cette loi concerne ce qu&#x27;on appelle l&#x27;interopérabilité, un terme complexe qui décrit la capacité de différents systèmes de données à communiquer entre eux et à comprendre les informations de chacun. L&#x27;objectif est de simplifier ce processus, ce qui devrait permettre de réduire la quantité de travail administratif et d&#x27;utiliser plus efficacement les technologies modernes, telles que l&#x27;IA.</p><p>Les entités qui doivent se conformer aux nouvelles règles sont les administrations publiques, les municipalités, les régions et certaines entreprises municipales. Ces règles s&#x27;appliquent lorsque le partage d&#x27;informations est fréquent ou effectué en grande quantité. Le gouvernement a le droit de décider que certains groupes ne sont pas tenus de respecter la loi, et il peut également déterminer les exigences techniques précises qui s&#x27;appliquent au partage d&#x27;informations.</p><p>Des exceptions importantes sont prévues pour protéger les citoyens et le pays. Il n&#x27;est pas nécessaire de se conformer aux nouvelles exigences si cela menace la sécurité de la Suède, ou si cela présente un risque excessif pour la protection des données personnelles et la cybersécurité. De même, il n&#x27;est pas nécessaire de se conformer aux exigences si le coût est disproportionné par rapport aux avantages tirés du partage d&#x27;informations.</p><p>Si le Riksdag (parlement suédois) vote en faveur de la proposition, la nouvelle loi entrera en vigueur le 15 août 2026.</p>",
   "relevans": {
-    "b_fastighet": 3,
-    "gdpr": 2,
-    "kronisk": 1,
-    "integritet": 1
+    "f_kommun": 5,
+    "offentliganstalld": 5,
+    "digitalisering": 7,
+    "gdpr": 5,
+    "integritet": 4,
+    "digital_ovan": 3,
+    "b_it": 6,
+    "regelborda": 4
   }
 }

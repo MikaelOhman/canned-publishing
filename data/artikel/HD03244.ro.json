@@ -12,9 +12,13 @@
   "tldr": "Guvernul dorește să introducă o nouă lege care să faciliteze schimbul de informații digitale între autoritățile publice și municipalități. Scopul este de a reduce volumul de hârtie și de a utiliza tehnologii noi, cum ar fi inteligența artificială, într-un mod mai eficient.",
   "lattlast": "<p>Guvernul a prezentat o propunere de lege nouă, care va reglementa modul în care informațiile sunt partajate între diferitele entități din sectorul public suedez. Legea se referă la așa-numita interoperabilitate, un termen complex care descrie capacitatea diferitelor sisteme de date de a comunica între ele și de a înțelege informațiile reciproce. Prin simplificarea acestui proces, se speră să se reducă volumul de birocrație și să se utilizeze tehnologiile moderne, cum ar fi inteligența artificială, într-un mod mai eficient.</p><p>Entitățile care trebuie să respecte noile reguli sunt agențiile guvernamentale, municipalitățile, regiunile și anumite companii municipale. Regulile se aplică atunci când informațiile sunt partajate frecvent sau în cantități mari. Cu toate acestea, guvernul are dreptul de a decide că anumite grupuri nu trebuie să respecte legea, și poate, de asemenea, să stabilească cerințele tehnice specifice care trebuie respectate pentru partajarea informațiilor.</p><p>Există excepții importante pentru a proteja cetățenii și țara. Nu este necesar să se respecte noile cerințe dacă acest lucru ar amenința securitatea Suediei sau dacă ar exista riscuri prea mari pentru confidențialitatea datelor și securitatea cibernetică. De asemenea, nu este necesar să se respecte cerințele dacă costurile ar fi disproporționat de mari în raport cu beneficiile obținute prin partajarea informațiilor.</p><p>Dacă Parlamentul votează în favoarea propunerii, noua lege va intra în vigoare la 15 august 2026.</p>",
   "relevans": {
-    "b_fastighet": 3,
-    "gdpr": 2,
-    "kronisk": 1,
-    "integritet": 1
+    "f_kommun": 5,
+    "offentliganstalld": 5,
+    "digitalisering": 7,
+    "gdpr": 5,
+    "integritet": 4,
+    "digital_ovan": 3,
+    "b_it": 6,
+    "regelborda": 4
   }
 }

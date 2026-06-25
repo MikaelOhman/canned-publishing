@@ -12,12 +12,14 @@
   "tldr": "Agenția Națională de Imigrație prezintă deficiențe majore în modul în care controlează permisele de muncă. Există un risc semnificativ ca erorile și fraudele legate de permisele de muncă să nu fie detectate, ceea ce poate duce la infracțiuni în domeniul muncii.",
   "lattlast": "<p>Riksrevisionen este o autoritate care examinează modul în care funcționează alte autorități. Aceasta a investigat dacă controalele efectuate de Agenția pentru Imigrație (Migrationsverket) privind permisele de muncă sunt eficiente. Rezultatele arată că aceste controale nu sunt suficiente pentru a preveni fraudele și abuzurile.</p><p>Problemele există atât în momentul în care cineva solicită un nou permis de muncă, cât și în momentul în care se verifică persoanele care dețin deja un astfel de permis. Riksrevisionen consideră că acest lucru poate duce la exploatarea oamenilor în mediul de lucru și la o concurență neloială între companii. Există, de asemenea, riscul ca criminalitatea în domeniul muncii să crească.</p><p>O problemă majoră este că Agenția pentru Imigrație acordă permise de muncă angajatorilor care au fost anterior identificați de autoritate ca fiind neserioși. Nu se efectuează investigații suficient de amănunțite în cadrul noilor cereri. În plus, controalele ulterioare, adică cele efectuate după acordarea unui permis, sunt prea superficiale pentru a detecta eventualele probleme.</p><p>Guvernul este de acord cu această critică și dorește să combată fraudele în domeniul imigrației pe bază de muncă. Guvernul a însărcinat acum Agenția pentru Imigrație să își intensifice controalele. Autoritatea a primit cerințe clare de a raporta modul în care lucrează pentru a preveni abuzurile de reguli.</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "arbetskraft_inv": 3,
-    "tillstand": 1,
-    "konkurrens": 1,
-    "beroende": 3,
-    "asyl": 3,
-    "arbetstillstand": 3
+    "arbetsratt": 6,
+    "arbetskraft_inv": 8,
+    "arbetstillstand": 7,
+    "ny_i_sverige": 5,
+    "arbetsgivare": 5,
+    "smaforetag": 4,
+    "kompetens": 4,
+    "regelborda": 4,
+    "konkurrens": 4
   }
 }

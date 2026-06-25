@@ -12,9 +12,11 @@
   "tldr": "Die Regierung möchte das Gesetz ändern, sodass ausländische Staaten und ähnliche Organisationen keine Steuern auf Dividenden von schwedischen Unternehmen zahlen müssen. Dies gilt für Länder, die mit Schweden in Steuerfragen zusammenarbeiten.",
   "lattlast": "<p>Die Regierung hat einen Vorschlag vorgelegt, das Gesetz zur Quponsteuer zu ändern. Die Quponsteuer ist eine Steuer, die bei Dividendenzahlungen erhoben wird, also bei Geldeingaben von einem Unternehmen. Der Vorschlag sieht vor, dass ausländische Staaten und Organisationen, die schwedischen Kommunen oder Regionen ähneln, diese Steuer nicht zahlen müssen, wenn sie Gelder von schwedischen Aktiengesellschaften oder Fonds erhalten.</p><p>Dieses Ausnahmeregelung gilt nicht für alle Länder der Welt. Sie gilt nur für Länder, die dem europäischen Wirtschaftsraum (EWR) angehören oder mit denen Schweden eine entsprechende Vereinbarung hat. Eine wichtige Voraussetzung ist, dass diese Länder in der Lage sein müssen, Informationen über Steuerfragen mit Schweden auszutauschen. Das bedeutet, dass sie mit schwedischen Behörden zusammenarbeiten müssen, um sicherzustellen, dass alles korrekt abläuft.</p><p>Wenn das Parlament (Riksdag) den Vorschlag annimmt, tritt die neue Regelung am 1. Juli 2026 in Kraft. Der Vorschlag wird in einem sogenannten Gesetzesentwurf (Proposition) vorgelegt, einem Dokument, in dem die Regierung dem Parlament neue Gesetze zur Abstimmung vorschlägt.</p>",
   "relevans": {
-    "aktiebolag": 1,
-    "bolagsskatt": 1,
-    "kronisk": 1,
-    "sparare": 1
+    "storforetag": 6,
+    "aktiebolag": 5,
+    "bolagsskatt": 6,
+    "b_finans": 7,
+    "sparare": 5,
+    "eu_marknad": 5
   }
 }

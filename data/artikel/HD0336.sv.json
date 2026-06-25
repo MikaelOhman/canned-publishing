@@ -12,7 +12,10 @@
   "tldr": "Regeringen vill ge Kustbevakningen mer makt att stoppa brott till sjöss och ändra reglerna för hur de hanterar hemlig information. Förslaget ska börja gälla den 1 mars 2026.",
   "lattlast": "<p>Regeringen har gjort ett förslag till riksdagen för att Kustbevakningen ska kunna arbeta bättre med att upptäcka och stoppa brott på havet. Det innebär att myndigheten ska få ett bredare uppdrag att självständigt leta efter och förhindra olagliga saker som rör deras arbete på sjön.</p><p>För att kunna göra detta bättre föreslår regeringen nya regler för hur information hanteras. Det handlar om att vissa uppgifter i Kustbevakningens register, som kallas Sjöbasis, ska kunna vara hemliga. Detta görs för att skydda både allmänheten och enskilda personer.</p><p>Det kommer också att finnas striktare regler för hur Kustbevakningen får använda personuppgifter när de gör analyser av information. Syftet är att skydda människors privatliv och viktiga intressen i samhället.</p><p>Om riksdagen säger ja till förslaget kommer de nya lagarna att börja gälla från den 1 mars 2026. Förslaget innebär ändringar i flera olika lagar, bland annat lagen om kustbevakning och lagen om sekretess.</p>",
   "relevans": {
-    "gdpr": 1,
-    "integritet": 1
+    "batagare": 5,
+    "integritet": 4,
+    "fiske": 3,
+    "otrygg": 3,
+    "gdpr": 3
   }
 }

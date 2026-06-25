@@ -13,9 +13,10 @@
   "tldr": "A Bollebygds önkormányzat tervezi, hogy felújítja a községi ház egy részét, hogy új irodai helyiségeket hozzon létre. Emellett engedélyt is kell kérni egy épületrész lebontására a Göteborgsvägen 19. szám alatt.",
   "lattlast": "<p>A városi tanács úgy döntött, hogy továbblép a városi ház építésével kapcsolatos munkák első szakaszában. A tervek szerint új irodákat hoznak létre, amelyeket azokat a munkatársakat fogják használni, akik az egyéni és családi ellátással foglalkoznak. Ennek érdekében a város most engedélyt kér a Göteborgsvägen 19. szám alatti épület egy részének lebontására.</p><p>A felújítás célja, hogy megoldják a városban meglévő találkozóhelyek hiányát. Sok városi osztály jelezte, hogy több helyre van szükségük a találkozókhoz. Ugyanakkor kihívást jelent, hogy a régi épület kialakítása megnehezíti a teljesen ideális találkozótermek létrehozását.</p><p>Mielőtt pontosan meghatározható lenne, hogy minden hogyan fog kinézni, egy műszaki felmérést végeztek, és számításokat készítettek a költségekről. Ennek a célja az volt, hogy pontosabb képet kapjanak arról, hogyan lehet a legjobban használni az épületet a jövőben.</p><p>A városi ház kérdései mellett a megbeszélésen szóba kerültek a környezetvédelmi kérdések és a város jövőbeli tervei is. A Flügger AB vállalat például bemutatta, hogy a tevékenységük milyen hatással van a környezetre, és mennyi szennyező anyagot bocsátanak ki.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_vard": 1,
-    "lokaler": 1,
-    "klimat": 1
+    "f_kommun": 4,
+    "lokaler": 4,
+    "mark_bygglov": 4,
+    "miljo": 3,
+    "offentliganstalld": 4
   }
 }

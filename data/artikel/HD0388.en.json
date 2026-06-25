@@ -12,10 +12,16 @@
   "tldr": "The government wants to change the laws regarding how the Swedish Tax Agency (Skatteverket), the Customs Agency (Tullverket), and the National Enforcement Agency (Kronofogden) handle personal data. The purpose is for these agencies to be able to use modern technology to better control rights and taxes, while still maintaining your personal privacy.",
   "lattlast": "<p>The government has proposed replacing the existing rules for how personal data is handled by three major government agencies: the Swedish Tax Agency, the Swedish Customs, and the National Enforcement Agency. The new laws aim to enable the agencies to use information in a more modern way, adapted to today&#x27;s technology.</p><p>The proposal also clarifies the agencies&#x27; right to use data analysis. This means they can use computer programs to identify patterns and make selections within their databases. This will help them work more efficiently with their controls, for example, when searching for errors in taxes or customs duties.</p><p>Despite the agencies gaining new tools, the goal is to protect people&#x27;s privacy. The new laws will work in conjunction with the EU&#x27;s data protection regulations, known as GDPR, to ensure that personal data is not used inappropriately. The laws are designed to protect individuals from violations of their personal privacy.</p><p>If the Parliament votes in favor of the proposal, the new rules will come into effect on April 2, 2026. The proposal also includes several smaller amendments to other laws, covering everything from taxes on alcohol and tobacco to regulations for population registration and student financial aid.</p>",
   "relevans": {
-    "gdpr": 3,
-    "import": 3,
-    "beroende": 1,
-    "skuldsatt": 1,
-    "integritet": 2
+    "gdpr": 7,
+    "integritet": 7,
+    "redovisning": 5,
+    "moms": 4,
+    "bolagsskatt": 4,
+    "skuldsatt": 4,
+    "lantagare": 3,
+    "digitalisering": 5,
+    "solo": 4,
+    "aktiebolag": 4,
+    "storforetag": 4
   }
 }

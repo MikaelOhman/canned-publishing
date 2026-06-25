@@ -12,9 +12,12 @@
   "tldr": "Vården för personer med beroende och psykisk ohälsa ska hänga ihop bättre. Regionerna ska ge beroendevården samordnat med övrig psykiatrisk vård, kraven på individuella vårdplaner skärps, och regionen blir skyldig att ersätta kommunen om den inte sköter sin del av planen.",
   "lattlast": "<p>Propositionen ska göra vården mer enhetlig och sammanhållen för personer som har ett skadligt bruk eller beroende tillsammans med andra psykiatriska tillstånd.</p><p>Regionerna ska organisera beroendevården så att den ges samordnat med annan psykiatrisk vård. Kraven på den individuella plan som ska upprättas för personer i hem för vård eller boende skärps.</p><p>Om regionen inte fullgör sina skyldigheter kring den individuella planen ska den bli skyldig att ersätta kommunen. Socialnämnden ska också underrätta regionen när någon tas emot i ett hem för vård eller boende.</p>",
   "relevans": {
-    "tillstand": 3,
-    "kronisk": 3,
-    "psykisk": 3,
-    "beroende": 3
+    "beroende": 9,
+    "psykisk": 8,
+    "kronisk": 5,
+    "anhorigvardare": 6,
+    "sjukskriven": 4,
+    "offentliganstalld": 4,
+    "b_vard": 7
   }
 }

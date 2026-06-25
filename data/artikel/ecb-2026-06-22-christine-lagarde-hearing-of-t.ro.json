@@ -13,10 +13,22 @@
   "tldr": "Banca Centrală Europeană (BCE) a decis să majoreze ratele dobânzii pentru a combate creșterea prețurilor. Această măsură este luată pentru a proteja economia, având în vedere impactul războiului din Orientul Mijlociu, care a dus la creșterea prețurilor la energie.",
   "lattlast": "<p>Christine Lagarde, președinta Băncii Centrale Europene (BCE), a vorbit despre situația economică din Europa. În urma izbucnirii unui război în Orientul Mijlociu, prețurile la energie au crescut, ceea ce a dus la o creștere a inflației – adică a ratei cu care cresc prețurile – până la 3,2% în luna mai.</p><p>Pentru a contracara acest lucru, BCE a decis să majoreze rata dobânzii cu 0,25 de puncte procentuale. O majorare a ratei dobânzii face ca împrumuturile să fie mai scumpe, ceea ce ajută la controlul creșterii prețurilor. BCE își propune ca, pe termen lung, inflația să se mențină la un nivel stabil de 2%.</p><p>Economia europeană este încă în creștere, dar într-un ritm mai lent decât se anticipase. Războiul a generat incertitudine cu privire la viitor și a făcut ca traiul să devină mai scump. În același timp, situația financiară a companiilor și a gospodăriilor rămâne relativ stabilă.</p><p>Viitorul rămâne incert din cauza războiului și a riscurilor legate de prețurile mari ale energiei. Prin urmare, BCE va continua să monitorizeze cu atenție informațiile noi și va lua decizii noi la fiecare întâlnire. BCE nu a decis încă dacă va majora sau va reduce în continuare ratele dobânzilor în viitor, ci va face acest lucru treptat, în funcție de evoluția economiei.</p>",
   "relevans": {
-    "b_energi": 1,
-    "sparare": 1,
-    "lantagare": 1,
-    "energikund": 1,
-    "konsument": 2
+    "sparare": 5,
+    "lantagare": 7,
+    "skuldsatt": 6,
+    "bostadsagare": 6,
+    "pensionssparare": 5,
+    "energikund": 5,
+    "konsument": 5,
+    "lontagare": 4,
+    "foretagare": 5,
+    "aktiebolag": 5,
+    "smaforetag": 5,
+    "finansiering": 6,
+    "b_finans": 6,
+    "b_fastighet": 5,
+    "b_energi": 5,
+    "export": 4,
+    "import": 4
   }
 }

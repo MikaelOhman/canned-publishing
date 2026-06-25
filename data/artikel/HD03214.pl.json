@@ -12,9 +12,12 @@
   "tldr": "Szwecja chce zmienić przepisy, aby lepiej chronić kraj przed cyberatakami. Zmiana przepisów ma umożliwić organom państwowym łatwiejsze dzielenie się ważnymi informacjami.",
   "lattlast": "<p>Krajowe Centrum Bezpieczeństwa Cybernetycznego, zwane NCSC, działa w ramach Agencji Łączności Bezpieczeństwa (FRA). Ich zadaniem jest wykrywanie i neutralizacja zagrożeń cyfrowych oraz ataków na komputery i sieci w Szwecji. Aby mogli skutecznie wykonywać swoją pracę, muszą mieć możliwość komunikacji z innymi organami i wymiany informacji.</p><p>Obecnie obowiązujące przepisy dotyczące poufności utrudniają organom wymiaru sprawiedliwości udostępnianie niezbędnych informacji. Dlatego też rząd zamierza wprowadzić nowe przepisy. Proponuje nową ustawę, która nakazuje organom wymiaru sprawiedliwości wymianę informacji, oraz nową ustawę regulującą sposób, w jaki FRA może przetwarzać dane osobowe w swojej pracy.</p><p>Rząd chce również zmodyfikować ustawę o dostępie do informacji publicznej i tajemnicy. Celem jest ochrona prywatności jednostek, a jednocześnie umożliwienie współpracy w walce z zagrożeniami cybernetycznymi. Te zmiany są ważne dla zwiększenia bezpieczeństwa cyfrowego społeczeństwa w Szwecji.</p><p>Jeśli parlament zagłosuje za propozycją, nowe przepisy wejdą w życie 15 lipca 2026 roku.</p>",
   "relevans": {
-    "b_it": 1,
-    "gdpr": 3,
-    "integritet": 1,
-    "varnpliktig": 1
+    "gdpr": 7,
+    "digitalisering": 6,
+    "integritet": 6,
+    "b_it": 6,
+    "bredbandsberoende": 4,
+    "storforetag": 4,
+    "offentliganstalld": 5
   }
 }

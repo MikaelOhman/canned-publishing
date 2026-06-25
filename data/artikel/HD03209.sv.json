@@ -12,10 +12,12 @@
   "tldr": "För att snabbare kunna bygga ut fängelser och häkten – kriminalvården är hårt trångbodd – ändras plan- och bygglagen. Tidsbegränsade bygglov för anstalter och häkten blir lättare att få och kan gälla i upp till 20 år, och regeringen får verktyg att agera vid akut platsbrist.",
   "lattlast": "<p>Kriminalvården behöver snabbt fler platser i fängelser och häkten. Propositionen ska göra utbyggnaden snabbare, mer flexibel och effektiv genom ändringar i plan- och bygglagen.</p><p>Möjligheterna att ge tidsbegränsade bygglov för anstalter och häkten utökas, och den längsta tiden för sådana lov förlängs till tjugo år.</p><p>Regeringen föreslås också få befogenhet att agera om det uppstår en akut och påtaglig risk för allvarlig platsbrist i kriminalvården.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_vard": 1,
-    "mark_bygglov": 1,
-    "bygger": 1,
-    "domd": 3
+    "otrygg": 4,
+    "brottsoffer": 3,
+    "f_kommun": 4,
+    "mark_bygglov": 6,
+    "b_bygg": 5,
+    "b_fastighet": 4,
+    "lokaler": 3
   }
 }

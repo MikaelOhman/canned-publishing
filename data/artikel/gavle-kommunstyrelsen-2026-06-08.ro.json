@@ -15,14 +15,19 @@
   "tldr": "Consiliul municipal din Gävle a avut o ședință în cadrul căreia s-au discutat diverse subiecte, de la finanțe și noi proiecte de construcție, până la sponsorizări și probleme de mediu. Printre punctele importante s-a aflat modul în care banii municipalității vor fi utilizați și modul în care terenurile vor fi folosite pentru noile proiecte.",
   "lattlast": "<p>Consiliul municipal din Gävle a analizat o serie de aspecte importante pentru viitorul orașului. Printre acestea, au fost examinate rapoartele financiare și suma de bani care trebuie alocată în bugetul pentru următorii ani, din 2027 până în 2030. De asemenea, s-a discutat despre modul în care trebuie gestionate și controlate diferitele companii ale municipiului.</p><p>În ceea ce privește terenurile și construcțiile, politicienii au discutat despre acorduri pentru noi zone, precum Skogmur și Kungsbäck. Aceste discuții au vizat cine are dreptul să utilizeze terenurile municipale și ce reguli se aplică pentru construcții în aceste zone. S-a mai discutat despre aspecte legate de energia eoliană și despre modul în care trebuie gestionate nevoile companiei Vattenfall de teren în Överhärde.</p><p>Au fost abordate și numeroase probleme legate de viața și mediul înconjurător al orașului. Acestea includ sprijinirea evenimentelor precum Gävle Pride și Brynäs IF, precum și discuții despre rezervații naturale și activități de protecție a mediului. S-a mai discutat despre modul în care trebuie gestionate condițiile de muncă și siguranța în locuri precum portul Gävle și Gävle Energikoncern.</p><p>În final, întâlnirea a avut ca scop alocarea de fonduri pentru diverse scopuri. Acestea pot include sprijin pentru tineri și sport, precum și finanțarea întreținerii unor locuri precum Stortorget și Kasthallen. De asemenea, s-au discutat aspecte legate de costurile utilizării spațiilor publice.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_energi": 2,
-    "infrastruktur": 1,
-    "ung": 1,
-    "energikund": 1,
-    "friluftsliv": 1,
-    "batagare": 1,
-    "idrott": 1,
-    "klimat": 1
+    "f_kommun": 6,
+    "mark_bygglov": 5,
+    "b_fastighet": 5,
+    "b_energi": 5,
+    "energiintensiv": 4,
+    "energikund": 4,
+    "gron_omstallning": 4,
+    "miljo": 4,
+    "infrastruktur": 4,
+    "idrott": 4,
+    "hbtq": 4,
+    "fortroendevald": 5,
+    "ideell": 4,
+    "lokaler": 4
   }
 }

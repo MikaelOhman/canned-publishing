@@ -13,9 +13,23 @@
   "tldr": "Az Ånge önkormányzat képviselőtestülete fontos gazdasági döntéseket hozott, többek között jóváhagyta a 2026-os költségvetést és a jövő évi adókat. Emellett megvitatták a vízellátással kapcsolatos kérdéseket, valamint új szabályokat fogadtak el a szociális szolgáltatások terén.",
   "lattlast": "<p>A 2025. június 16-i ülésen Ånge önkormányzatának politikusai számos fontos kérdést tárgyaltak a jövő kapcsán. A legfontosabb döntések közé tartozik a 2026-os költségvetés és a 2027-től 202ss-ig terjedő gazdasági terv kidolgozása, valamint a 2026-os adó mértékének meghatározása.</p><p>A találkozó központi témája a víz- és szennyvízgazdálkodás volt. Beszéltek a Hjältan területén tervezett vízellátási projektről, valamint egy új szennyvíztisztító telep létrehozásáról ugyanazon a helyen. Emellett döntéseket hoztak a víz- és szennyvíz-infrastruktúra fejlesztésére fordított pénzeszközökkel kapcsolatban, például egy új vízkioszk és egy Ljungaverk és Fränsta közötti vezeték építésével kapcsolatban.</p><p>A szociális szolgáltatások és az önkormányzat biztonsága is szóba került. A politikusok megvitatták, hogy a szociális szolgáltatások hogyan működjenek egy új törvény életbe léptetése után, és hogyan lehet együttműködni a régióban működő szociális szolgálatokkal. Emellett felmerült a javaslat, hogy világos szabályokat hozzanak létre a közben dolgozó személyek védelme érdekében, a fenyegetés és az erőszak ellen.</p><p>Végül áttekintettek több éves jelentést, amelyek arról adnak tájékoztatást, hogy a különböző szervezetek hogyan teljesítettek gazdaságilag az elmúlt évben. Emellett megvitatták a közben működő ingatlanok átruházását az önkormányzat és az Ånge Fastighets- och Industri AB vállalat között.</p>",
   "relevans": {
-    "b_industri": 1,
-    "b_fastighet": 1,
-    "redovisning": 1,
-    "otrygg": 1
+    "f_kommun": 8,
+    "b_fastighet": 6,
+    "lontagare": 5,
+    "hyresgast": 5,
+    "bostadsagare": 5,
+    "energikund": 6,
+    "glesbygd": 7,
+    "mindre_ort": 8,
+    "pendlare": 4,
+    "offentliganstalld": 6,
+    "fortroendevald": 7,
+    "barn": 4,
+    "pensionar": 4,
+    "infrastruktur": 6,
+    "f_landsbygd": 6,
+    "aktiebolag": 4,
+    "smaforetag": 4,
+    "b_vard": 5
   }
 }

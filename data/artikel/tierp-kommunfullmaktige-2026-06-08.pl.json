@@ -13,10 +13,16 @@
   "tldr": "Rada miejska w Tierp podjęła szereg decyzji dotyczących różnych spraw, od transportu i edukacji po przyszłe planowanie przestrzenne. Obejmowały one m.in. nowe przepisy dotyczące opłat za parkowanie, bezpieczeństwa na stacjach oraz strategii rozwoju gminy do roku 2050.",
   "lattlast": "<p>Na spotkaniu omówiono ważne kwestie dla mieszkańców Tierp. Jednym z proponowanych rozwiązań było zainstalowanie kamer przy miejscach parkingowych dla rowerów w pobliżu stacji kolejowej w Örbyhus, w celu zwiększenia bezpieczeństwa. Rozważano również możliwość zapewnienia transportu szkolnego również dla uczniów szkół średnich z niepełnosprawnościami.</p><p>W zakresie finansów i przepisów, gmina podjęła decyzje dotyczące nowych opłat. Dotyczy to m.in. kosztów korzystania z terenów gminnych oraz opłaty za parkowanie przy jeziorze Trollsjön. Podjęto również decyzję dotyczącą wysokości cen, po których gmina będzie sprzedawać działki w obszarze Siggbo Trädgårdsstad.</p><p>W perspektywie długoterminowej, gmina przyjęła plan zagospodarowania przestrzennego na rok 2050. Jest to plan długoterminowy, który określa, w jaki sposób gmina ma być wykorzystywana i rozbudowywana w nadchodzących dziesięcioleciach. Podjęto również decyzje dotyczące zasad, których powinni przestrzegać politycy, aby uniknąć korupcji i innych nieprawidłowości.</p><p>Na koniec, podjęto decyzje dotyczące współpracy i organizacji. Obejmuje to współpracę z gminą Heby w celu wspólnego, bardziej efektywnego zakupu towarów i usług, oraz nowe przepisy dotyczące funkcjonowania różnych komisji w gminie.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "barn": 1,
-    "storstad": 1,
-    "bil": 1,
-    "konsument": 1
+    "f_kommun": 6,
+    "mark_bygglov": 5,
+    "bil": 4,
+    "pendlare": 5,
+    "funktion": 5,
+    "barn": 4,
+    "gymnasieelev": 4,
+    "bostadsagare": 4,
+    "glesbygd": 4,
+    "fortroendevald": 5,
+    "upphandling": 3
   }
 }

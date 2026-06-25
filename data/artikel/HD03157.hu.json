@@ -12,8 +12,17 @@
   "tldr": "A kormány egy új törvény bevezetését tervezi, amely lehetővé teszi a ingatlantulajdonosok csoportjainak, hogy díjat szedjenek be egy terület biztonságának és fejlesztésének javítása érdekében. A törvény várhatóan 2026. augusztus 1-jén lép érvénybe.",
   "lattlast": "<p>A kormány egy új törvénytervezetet terjesztett elő a területi együttműködésről. Ez azt jelenti, hogy ingatlanokat tulajdonosok csoportjai egyesülhetnek annak érdekében, hogy olyan tevékenységeken dolgozzanak, amelyek a bűnözés megelőzésére irányulnak, és egy terület vonzóbbá tétele. A cél a biztonság növelése és a helyi vállalkozások fejlődésének támogatása.</p><p>Ha egy ilyen csoportot a község jóváhagy, akkor jogosult lehet díjat szedni azoktól az ingatlantulajdonosoktól, akikre a tevékenység hatással van. Minden tulajdonos egy részét fizeti a költségeknek, attól függően, hogy mennyi hasznot élvez a tevékenységből. Ezt a díjat csak olyan költségekre lehet felhasználni, amelyekért az állam vagy a község egyébként nem vállalja a fedezetet.</p><p>Ahhoz, hogy egy csoport díjat szedhessen, a községnek jóvá kell hagynia &quot;fő szervezőként&quot;. Ezenkívül az a feltétel, hogy azokat, akik a munkát irányítják, legalább két harmadát kell képviselnie a területen található ingatlantulajdonosok közül. A tevékenységet nem lehet arra használni, hogy pénzt keressenek.</p><p>Ha viták vagy nézeteltérések merülnek fel a díjjal kapcsolatban a munkát irányító és az ingatlanokat tulajdonosok között, az ügyet egy hagyományos bíróságon kell rendezni. A tervezet szerint az új törvény 2026. augusztus 1-jén lép érvénybe.</p>",
   "relevans": {
-    "b_fastighet": 1,
-    "konsument": 1,
-    "otrygg": 1
+    "b_fastighet": 8,
+    "f_kommun": 7,
+    "mark_bygglov": 6,
+    "lokaler": 5,
+    "b_handel": 4,
+    "smaforetag": 4,
+    "storforetag": 3,
+    "ideell": 5,
+    "upphandling": 3,
+    "bostadsagare": 5,
+    "otrygg": 4,
+    "fortroendevald": 4
   }
 }

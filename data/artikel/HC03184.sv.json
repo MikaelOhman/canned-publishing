@@ -12,8 +12,15 @@
   "tldr": "Riksrevisionen har granskat de tillfälliga skatteanstånd som företag kunde få under finanskrisen och pandemin (att skjuta upp inbetalning av skatt mot ränta). Slutsatsen är att åtgärden var ganska effektiv för att hjälpa i grunden sunda företag, men att den hade vissa brister. Fem rekommendationer lämnas till regeringen.",
   "lattlast": "<p>Tillfälliga anstånd med skatt innebär att företag får skjuta upp inbetalningen av vissa skatter, och i stället betala senare med ränta och avgift. Det har använts som krisåtgärd under finanskrisen och under pandemin.</p><p>Riksrevisionen har granskat om åtgärden varit effektiv. Den övergripande slutsatsen är att de tillfälliga anstånden fungerade förhållandevis väl för att hjälpa sunda företag med tillfälliga likviditetsproblem – men att det fanns vissa brister.</p><p>Riksrevisionen lämnar fem rekommendationer till regeringen att tänka på vid framtida liknande åtgärder.</p>",
   "relevans": {
-    "b_finans": 1,
-    "sparare": 1,
-    "lantagare": 1
+    "solo": 8,
+    "smaforetag": 9,
+    "aktiebolag": 8,
+    "arbetsgivare": 7,
+    "storforetag": 5,
+    "familjeforetag": 7,
+    "redovisning": 6,
+    "finansiering": 6,
+    "konkurs": 5,
+    "foretagare": 7
   }
 }

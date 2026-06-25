@@ -16,8 +16,11 @@
   ],
   "html": "<p>A crucial aspect of the Swedish Police Authority&#x27;s intelligence operations involves gathering, processing, and analyzing information. This information is often vital for the Police Authority to prevent and deter serious crimes. However, the current regulations regarding the Police Authority&#x27;s handling of personal data create unjustified obstacles to the authority&#x27;s intelligence activities. Therefore, the government proposes the following changes to the regulations:</p><p>*   The so-called &quot;limited access&quot; rule will be expanded, so that information is not considered jointly accessible if only a specifically defined group of individuals within the authority have the right to access it.\n*   More information will be allowed to be made jointly accessible in the Police Authority&#x27;s intelligence operations.\n*   The requirement that jointly accessible information in certain cases must be accompanied by specific disclosures will only apply to the extent possible. Furthermore, a general exception will be introduced for when such a disclosure requirement should not apply.</p><p>The proposed legislative changes are scheduled to come into effect on December 1, 2025.</p>",
   "relevans": {
-    "gdpr": 1,
-    "otrygg": 3,
-    "integritet": 1
+    "integritet": 7,
+    "otrygg": 5,
+    "brottsoffer": 4,
+    "gdpr": 4,
+    "offentliganstalld": 6,
+    "fortroendevald": 3
   }
 }

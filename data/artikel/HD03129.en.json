@@ -12,6 +12,16 @@
   "tldr": "Sweden is going to change the rules regarding who has access to information about the actual owners of a company. The purpose is to comply with new EU regulations aimed at preventing money laundering.",
   "lattlast": "<p>The government proposes new laws that will change how information can be accessed from the register of beneficial owners. Beneficial owners are the individuals who ultimately control or own a company. The change is being implemented to comply with new EU regulations aimed at preventing crime and money laundering.</p><p>Currently, the register is too openly accessible to anyone. Following a ruling by the EU Court of Justice, the rules must be changed so that the information is not completely accessible to everyone. This means that there will be stricter rules about which individuals or companies can access the data.</p><p>Those who have a legitimate reason, also known as a legitimate interest, should still be able to access the information digitally. There will also be new rules on how to prove that one has such a legitimate reason. An electronic system should be available for searching for the information.</p><p>The new rules are proposed to come into effect on July 1, 2026. The proposal involves changes to several laws, including the Act on the Registration of Beneficial Owners and the Act on Public Access and Secrecy.</p>",
   "relevans": {
-    "foretagare": 1
+    "aktiebolag": 7,
+    "storforetag": 6,
+    "smaforetag": 6,
+    "b_finans": 7,
+    "redovisning": 6,
+    "gdpr": 5,
+    "eu_marknad": 6,
+    "konkurrens": 5,
+    "upphandling": 4,
+    "solo": 4,
+    "familjeforetag": 4
   }
 }

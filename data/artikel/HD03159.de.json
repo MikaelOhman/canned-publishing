@@ -12,11 +12,20 @@
   "tldr": "Die Regierung plant, Gesetze zu ändern, um mehr Energie in Gebäuden zu sparen und das Laden von Elektroautos sowie das Abstellen von Fahrrädern zu erleichtern. Der Vorschlag beinhaltet neue Anforderungen an die Überprüfung von Heizung und Lüftung in Häusern.",
   "lattlast": "<p>Die Regierung hat einen Vorschlag vorgelegt, der die Regeln für die Nutzung von Energie in unseren Gebäuden ändern soll. Ziel ist es, neue Energiesparziele zu erreichen und neue Vorschriften der Europäischen Union umzusetzen. Der Vorschlag umfasst unter anderem Änderungen des Gesetzes über Energieausweise und des Gesetzes über Planung und Bauwesen.</p><p>Dies bedeutet, dass es bei größeren Umbauten wichtiger wird, die Gebäudehülle, auch bekannt als Klimaschutzschicht, zu überprüfen. Alle Gebäude, die im Besitz von oder von Behörden und Gemeinden genutzt werden, müssen ebenfalls einen Energieausweis haben. Darüber hinaus sollen die Systeme für Heizung, Lüftung und Klimatisierung in regelmäßigen Abständen, entweder alle drei oder fünf Jahre, je nach Größe, überprüft werden.</p><p>Es wird auch möglich sein, dass Hauseigentümer einen Plan für die energetische Sanierung verwenden können, um zu zeigen, wie sie ihre Häuser verbessern wollen. Darüber hinaus werden die Regeln für das Aufladen von Elektroautos geändert, sodass sie nun unter dem Begriff &quot;nachhaltige Mobilität&quot; zusammengefasst werden. Dies bedeutet, dass in Zukunft möglicherweise auch Anforderungen an geeignete Fahrradstellplätze gestellt werden.</p><p>Wenn der Vorschlag angenommen wird, treten die neuen Regeln am 1. Juli 2026 in Kraft.</p>",
   "relevans": {
-    "b_bygg": 3,
-    "b_energi": 3,
-    "bil": 1,
-    "beroende": 1,
-    "energikund": 3,
-    "klimat": 1
+    "b_fastighet": 7,
+    "b_energi": 7,
+    "b_bygg": 7,
+    "energiintensiv": 6,
+    "gron_omstallning": 6,
+    "miljo": 5,
+    "eu_marknad": 5,
+    "mark_bygglov": 5,
+    "lokaler": 5,
+    "bostadsagare": 6,
+    "bil": 5,
+    "energikund": 6,
+    "klimat": 5,
+    "bygger": 6,
+    "hallbarhetsrapport": 4
   }
 }

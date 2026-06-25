@@ -12,8 +12,10 @@
   "tldr": "Le gouvernement souhaite modifier les lois régissant l'utilisation des données personnelles par l'administration pénitentiaire. L'objectif est de rendre le travail plus sûr et plus efficace, par exemple en permettant l'utilisation de la reconnaissance faciale.",
   "lattlast": "<p>Le gouvernement a présenté une proposition visant à modifier plusieurs lois régissant la manière dont l&#x27;administration pénitentiaire gère les informations concernant les individus. L&#x27;objectif est de moderniser les règles et de les adapter aux besoins actuels, tout en protégeant la vie privée des personnes.</p><p>Les nouvelles règles permettraient à l&#x27;administration pénitentiaire d&#x27;utiliser plus facilement les informations nécessaires pour exécuter les peines de manière sécurisée. Cela comprend, notamment, une plus grande possibilité pour l&#x27;administration d&#x27;utiliser des technologies de reconnaissance faciale pour faciliter son travail.</p><p>La proposition concerne des modifications de plusieurs lois différentes, notamment la loi sur les prisons et les réglementations relatives à la surveillance électronique, communément appelée bracelet électronique. Si le Parlement approuve la proposition, les nouvelles règles devraient entrer en vigueur le 1er avril 2026.</p>",
   "relevans": {
-    "gdpr": 1,
-    "domd": 3,
-    "integritet": 2
+    "domd": 7,
+    "integritet": 6,
+    "gdpr": 4,
+    "offentliganstalld": 4,
+    "otrygg": 3
   }
 }

@@ -12,12 +12,14 @@
   "tldr": "The Swedish National Audit Agency has identified significant shortcomings in how the Swedish Migration Agency controls work permits. There is a high risk that errors and fraud related to work permits will not be detected, which could lead to crimes in the workplace.",
   "lattlast": "<p>The Swedish National Audit Office is an agency that reviews how other government agencies operate. They have investigated whether the Swedish Migration Agency&#x27;s controls on work permits are effective. The results show that the controls are not sufficient to prevent fraud and abuse.</p><p>The problems exist both when someone is applying for a new work permit and when checking those who already have a permit. The National Audit Office believes that this can lead to people being exploited in the workplace and that it creates unfair competition between companies. There is also a risk that labor-related crime will increase.</p><p>A major shortcoming is that the Swedish Migration Agency grants work permits to employers who the agency has previously identified as unreliable. Insufficient in-depth investigations are conducted in the new applications. In addition, follow-up checks, i.e., the controls that take place after a permit has been granted, are too weak to detect errors.</p><p>The government agrees with the criticism and wants to prevent fraud in labor immigration. The government has now instructed the Swedish Migration Agency to work harder on its controls. The agency has been given clear requirements to report on how it is working to prevent abuse of the rules.</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "arbetskraft_inv": 3,
-    "tillstand": 1,
-    "konkurrens": 1,
-    "beroende": 3,
-    "asyl": 3,
-    "arbetstillstand": 3
+    "arbetsratt": 6,
+    "arbetskraft_inv": 8,
+    "arbetstillstand": 7,
+    "ny_i_sverige": 5,
+    "arbetsgivare": 5,
+    "smaforetag": 4,
+    "kompetens": 4,
+    "regelborda": 4,
+    "konkurrens": 4
   }
 }

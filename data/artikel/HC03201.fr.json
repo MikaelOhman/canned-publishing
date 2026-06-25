@@ -12,8 +12,13 @@
   "tldr": "Les règles concernant l'interdiction d'exercer une activité professionnelle sont étendues pour inclure les personnes impliquées dans des activités criminelles organisées ou systématiques, même si elles n'étaient pas propriétaires d'une entreprise au moment de la commission de l'infraction. La durée de l'interdiction d'exercer une activité professionnelle est prolongée, passant de 10 à 15 ans maximum, et l'Agence des Exécutions (Kronofogden) se voit doter de meilleurs outils de contrôle.",
   "lattlast": "<p>L&#x27;interdiction d&#x27;exercer une activité commerciale implique qu&#x27;une personne est interdite d&#x27;exercer une activité commerciale. Actuellement, une connexion avec une entreprise est généralement requise pour que cette interdiction soit prononcée en cas de violation.</p><p>Le gouvernement propose d&#x27;étendre ces règles afin que l&#x27;interdiction d&#x27;exercer une activité commerciale puisse être prononcée à l&#x27;encontre de toute personne ayant commis des actes de criminalité organisée ou systématique, même en l&#x27;absence de lien avec une activité commerciale au moment de l&#x27;infraction, si cela est justifié du point de vue de l&#x27;intérêt général.</p><p>La durée maximale de l&#x27;interdiction d&#x27;exercer une activité commerciale est prolongée de 10 à 15 ans. L&#x27;Agence des recouvrements fiscaux (Kronofogdemyndigheten) se voit également accorder de meilleures possibilités de contrôler le respect des interdictions d&#x27;exercer une activité commerciale prononcées.</p>",
   "relevans": {
-    "regelborda": 1,
-    "skuldsatt": 1,
-    "otrygg": 1
+    "aktiebolag": 6,
+    "solo": 5,
+    "smaforetag": 5,
+    "storforetag": 4,
+    "foretagare": 6,
+    "konkurs": 4,
+    "otrygg": 4,
+    "brottsoffer": 3
   }
 }

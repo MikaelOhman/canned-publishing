@@ -12,11 +12,11 @@
   "tldr": "The government wants to make it easier for government agencies to verify companies that want to provide services to the state and municipalities. The purpose is to quickly determine whether a company has a criminal record, unpaid taxes, or significant financial problems.",
   "lattlast": "<p>The government proposes new regulations that will make it easier to monitor companies participating in procurement processes. A procurement process is when government agencies purchase services or goods from private companies. The new system aims to facilitate coordination of checks to determine if a company has grounds for being excluded from bidding on contracts.</p><p>The checks should reveal whether a company has committed crimes, failed to pay its taxes, or has not paid its social security contributions. It should also be possible to identify if a company has significant financial problems, such as having gone bankrupt. This information should be available both when selecting a company to award a contract to and when monitoring ongoing contracts.</p><p>The proposal also aims to standardize the rules for different types of systems. This applies to both regular procurements and so-called &quot;choice systems,&quot; where private providers are allowed to offer services, such as in healthcare and social care. The goal is to ensure that the rules for when a company should be excluded are the same, regardless of the type of service involved.</p><p>If the proposal is approved by the parliament, the new regulations will come into effect on July 1, 2026. The proposal also includes rules on how personal data can be handled and how confidentiality should be maintained during these checks.</p>",
   "relevans": {
-    "b_vard": 1,
-    "konkurs": 1,
-    "gdpr": 1,
-    "kronisk": 1,
-    "konsument": 1,
-    "integritet": 1
+    "upphandling": 9,
+    "smaforetag": 6,
+    "aktiebolag": 5,
+    "konkurs": 5,
+    "regelborda": 5,
+    "gdpr": 4
   }
 }

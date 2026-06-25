@@ -13,16 +13,20 @@
   "tldr": "Zarząd miasta Malmö odbył posiedzenie, podczas którego omówiono szereg ważnych kwestii dotyczących finansów miasta, personelu oraz przyszłych planów. Dyskusja dotyczyła m.in. wsparcia dla ośrodków pomocy dla kobiet oraz tego, jak Malmö będzie się rozwijać w ciągu najbliższych dziesięciu lat.",
   "lattlast": "<p>Komisja ds spraw miejskich w Malmö rozpatrywała wiele różnych spraw dotyczących zarządzania miastem. Jednym z ważnych tematów było przyznanie dodatkowych środków finansowych ośrodkom pomocy dla dzieci i kobiet w Malmö, w celu zrekompensowania brakujących środków z budżetu państwa. Podjęto również decyzję o przydzieleniu środków na pomoc młodzieży znajdującej się w grupie ryzyka.</p><p>Miasto analizuje swoją przyszłość, opracowując prognozy dotyczące liczby mieszkańców Malmö w latach 2026-2036. Rozważano również sposób zakupu lokali pod mieszkania dla osób niepełnosprawnych, tzw. mieszkań LSS. Ponadto, omawiano strategie inwestycyjne dla Malmö oraz sposoby poprawy działań mających na celu zwiększenie zatrudnienia wśród osób bezrobotnych.</p><p>W kwestiach personalnych, dyskutowano o zatrudnieniu wysokich rangą urzędników, takich jak dyrektor miasta oraz dyrektor ds. rynku pracy i spraw socjalnych. Rozważano również zasady dotyczące odszkodowań dla polityków za ich obowiązki.</p><p>Nadesłano również szereg propozycji, tzw. interpelacji, od polityków. Propozycje te obejmują szeroki zakres tematów, od analizy ruchów islamskich i utworzenia rady ds. estetyki, po przegląd cen najmu dla rodzin z dziećmi i sposoby poprawy opieki nad osobami starszymi.</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "b_fastighet": 1,
-    "finansiering": 1,
-    "lokaler": 1,
-    "barn": 1,
-    "stor_familj": 1,
-    "pensionar": 1,
-    "lontagare": 1,
-    "arbetssokande": 1,
-    "funktion": 2,
-    "idrott": 1
+    "f_storstad": 5,
+    "storstad": 4,
+    "f_kommun": 5,
+    "kvinna": 5,
+    "barn": 5,
+    "ensam_foralder": 5,
+    "funktion": 5,
+    "bostadslos": 4,
+    "arbetssokande": 5,
+    "bidrag": 4,
+    "pensionar": 4,
+    "ny_i_sverige": 4,
+    "fortroendevald": 5,
+    "offentliganstalld": 4,
+    "ideell": 4
   }
 }

@@ -12,10 +12,12 @@
   "tldr": "A kormány új szabályokat terjesztett elő, amelyek megkönnyítik a diáklakások építését azáltal, hogy csökkentik a hozzáférhetőséggel kapcsolatos követelményeket. A javaslat várhatóan 2025. július 1-jén lép érvénybe.",
   "lattlast": "<p>A kormány szeretné módosítani az épületekre vonatkozó törvényt, amelyet építési törvénynek hívnak. A javaslat értelmében bizonyos szabályoktól lehet eltérni a könnyűszerkezetes lakások használhatóságával kapcsolatban. Ez a szabály a lakóépületben található akár 80 százaléknyi diáklakásra is vonatkozhat.</p><p>A diáklakás olyan lakóhelyiség, amelyet egyetemi, főiskolai vagy felnőttképzési intézményben tanuló személyek számára szánnak. Bár a szabályok enyhülnek, továbbra is biztosítani kell, hogy azok a személyek, akiknek mozgási vagy tájékozódási nehézségeik vannak, is igénybe tudják venni a lakásokat.</p><p>Az új szabályok célja, hogy megkönnyítsék a diákok számára készült lakások építését. Ha a javaslat elfogadva lesz, az új törvények 2025. július 1-jétől lépnek hatályba.</p>",
   "relevans": {
-    "b_bygg": 3,
-    "b_utbildning": 1,
-    "student": 2,
-    "vuxenstudier": 1,
-    "funktion": 1
+    "b_bygg": 6,
+    "mark_bygglov": 5,
+    "f_kommun": 4,
+    "student": 6,
+    "funktion": 6,
+    "bostadslos": 4,
+    "hyresgast": 3
   }
 }

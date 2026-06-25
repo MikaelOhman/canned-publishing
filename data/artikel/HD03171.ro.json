@@ -12,8 +12,14 @@
   "tldr": "Guvernul dorește să modifice regulile privind construcția de centrale nucleare în Suedia. Noua propunere simplifică procesul de aprobare, făcându-l mai ușor de obținut dacă există deja un plan și dacă municipalitatea este de acord.",
   "lattlast": "<p>Guvernul a prezentat o propunere de noi legi care vor intra în vigoare pe 17 iunie 2026. Scopul este de a modifica modul în care sunt controlate și aprobate instalațiile nucleare, adică locurile unde se utilizează energia nucleară.</p><p>Noua procedură prevede că guvernul poate aproba direct o instalație dacă există deja un plan pentru zona respectivă. Pentru ca planul să fie valabil, municipalitățile afectate de plan trebuie să fie de acord cu propunerea. Dacă nu se utilizează această nouă procedură, se aplică în continuare regulile vechi din Codul mediului, care este legea care reglementează modul în care trebuie să protejăm mediul înconjurător.</p><p>Propunerea include, de asemenea, faptul că guvernul va analiza dacă beneficiile unei instalații depășesc dezavantajele. De asemenea, va fi posibil să se obțină o aprobare preliminară, care este un răspuns inițial cu privire la dacă un proiect poate deveni realitate. Propunerea implică modificări în mai multe legi diferite, cum ar fi legile privind protecția împotriva radiațiilor și modul în care se plătește pentru deșeurile nucleare.</p>",
   "relevans": {
-    "b_bygg": 3,
-    "miljo": 2,
-    "klimat": 1
+    "b_energi": 7,
+    "energiintensiv": 5,
+    "energikund": 4,
+    "miljo": 4,
+    "klimat": 4,
+    "f_kommun": 5,
+    "gron_omstallning": 4,
+    "storforetag": 5,
+    "mark_bygglov": 4
   }
 }

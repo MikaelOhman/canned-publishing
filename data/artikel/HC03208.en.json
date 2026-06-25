@@ -12,10 +12,15 @@
   "tldr": "The government wants to make it more difficult to steal or disclose confidential information from companies. It should become a crime even if a person has the right to access the information through their job, but uses it inappropriately.",
   "lattlast": "<p>The government has proposed a plan to better protect the confidential information of Swedish companies and research institutions. The aim is to combat industrial espionage, which involves other entities spying on Swedish industries to gain an advantage. By strengthening the protection, the hope is that companies will be more willing to invest in new technology and development.</p><p>The proposal would make it a crime to use or disclose important technical secrets without permission. This applies even to individuals who have a legitimate right to access the information, such as employees who have access to it through their work. This primarily concerns the secrets that are most important for technological development and for Swedish industry.</p><p>To implement this, the government proposes amendments to several laws, including the law on trade secrets and regulations for the police. If the parliament votes in favor of the proposal, the new rules will come into effect on January 1, 2026.</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "b_industri": 1,
-    "b_vard": 1,
-    "fou": 1,
-    "otrygg": 1
+    "aktiebolag": 6,
+    "smaforetag": 5,
+    "storforetag": 6,
+    "b_it": 5,
+    "b_industri": 5,
+    "immaterialratt": 8,
+    "fou": 6,
+    "digitalisering": 4,
+    "arbetsratt": 4,
+    "kompetens": 3
   }
 }

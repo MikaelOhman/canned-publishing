@@ -13,9 +13,13 @@
   "tldr": "Nel comune di Ånge, i politici hanno preso decisioni riguardanti nuove nomine nella giunta comunale, modifiche al processo di elaborazione del bilancio e piani per i servizi di emergenza. Sono state inoltre discusse le future spese relative all'acqua e alle fognature.",
   "lattlast": "<p>Durante la riunione del consiglio comunale del 24 novembre 2025, sono state approvate diverse modifiche riguardanti i membri della giunta comunale, l&#x27;organo politico che guida l&#x27;amministrazione comunale. Diversi membri hanno lasciato le loro posizioni e nuove persone, come Mats-Erik Nordin ed Elisabet Larsson, sono state elette per sostituirli.</p><p>I consiglieri hanno inoltre esaminato importanti piani per il futuro, tra cui investimenti per le stazioni dei vigili del fuoco e discussioni sull&#x27;importo che i cittadini dovranno pagare per l&#x27;utilizzo di acqua e fognature (tariffe dei servizi idrici) nel 2026. Sono state inoltre analizzate le proiezioni economiche per gli anni 2026-2029.</p><p>Nella riunione è stato discusso anche il modo in cui il comune gestirà il proprio bilancio. È stata presentata una proposta per creare regole più chiare su come pianificare e gestire le finanze del comune in futuro. Sono state inoltre fornite informazioni relative alle verifiche delle scuole comunali e alla situazione finanziaria per l&#x27;anno 2025.</p><p>Infine, sono state esaminate informazioni provenienti da diverse autorità e commissioni. Ciò includeva rapporti sui diritti dei pazienti e informazioni su come la società comunale Ånge Fastighets- och Industri AB prevede di investire capitali nel 2026 e negli anni successivi.</p>",
   "relevans": {
-    "b_industri": 1,
-    "b_fastighet": 1,
-    "finansiering": 1,
-    "kronisk": 1
+    "f_kommun": 7,
+    "offentliganstalld": 5,
+    "fortroendevald": 6,
+    "hyresgast": 4,
+    "bostadsagare": 4,
+    "b_fastighet": 5,
+    "energikund": 4,
+    "barn": 3
   }
 }

@@ -13,13 +13,17 @@
   "tldr": "A Bollebygd önkormányzat közgyűlése tájékoztatást nyújtott a bérezési rendszer felülvizsgálatáról és a földterületek értékesítéséről, valamint úgy döntött, hogy nem módosítja a korábbi döntéseket a Nyhem település részletes tervezési tervével kapcsolatban.",
   "lattlast": "<p>A 2026. március 3-i önkormányzati bizottsági ülésen a politikusok tájékoztatást kaptak arról, hogyan dolgozik az önkormányzat annak érdekében, hogy biztosítsa a férfiak és nők közötti igazságos bérezést. Ezt a munkát béremelési felmérésnek nevezik, és minden évben végzik annak érdekében, hogy feltárják és korrigálják a nem szerinti bérezési különbségeket.</p><p>Ezenkívül megvitatták a Buagärde területén található ingatlanok cseréjének vagy eladásának lehetőségét. Ez egy tájékoztató ülés volt, ahol a városi technikai igazgatóság szakértői elmagyarázták, hogy milyen tervek vannak a területre vonatkozóan.</p><p>A Nyhem városrészben, a Flässjum 2:59 ingatlanon tervezett építési tervekkel kapcsolatban az önkormányzati bizottság döntést hozott. Elutasították a munkabizottság javaslatát, és ezáltal fenntartották a 2024 májusában hozott korábbi döntésüket. Ez azt jelenti, hogy a korábbi tervek, amelyek szerint lakóépületeket, irodákat és üzleteket építenének a területen, továbbra is érvényben maradnak.</p><p>A FR, C és SD pártok néhány képviselője nem értett egyet a Nyhem-ügyben hozott döntéssel, ezért ellenzéki szavazást nyújtanak be, ami azt jelenti, hogy leírták, hogy más véleményen vannak.</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "b_bygg": 1,
-    "b_fastighet": 2,
-    "lokaler": 1,
-    "mark_bygglov": 1,
-    "kvinna": 1,
-    "lontagare": 1,
-    "bygger": 1
+    "kvinna": 3,
+    "man": 3,
+    "lontagare": 3,
+    "offentliganstalld": 4,
+    "bostadsagare": 3,
+    "bygger": 4,
+    "mark_bygglov": 6,
+    "b_fastighet": 5,
+    "f_kommun": 6,
+    "fortroendevald": 5,
+    "arbetsgivare": 3,
+    "avgifter": 3
   }
 }

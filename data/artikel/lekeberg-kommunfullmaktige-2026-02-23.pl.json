@@ -13,10 +13,18 @@
   "tldr": "W gminie Lekeberg politycy rozważali nowe pomysły zgłaszane przez mieszkańców, w tym propozycję przekształcenia starego budynku dworca w Fjugesta w miejsce spotkań. Podjęto również decyzję o utworzeniu nowego wydziału odpowiedzialnego za rozwój społeczny i budownictwo.",
   "lattlast": "<p>Podczas posiedzenia rady miejskiej w dniu 23 lutego 2026 roku, omówiono szereg ważnych kwestii. Propozycja mieszkańca, dotycząca przekształcenia starego budynku dworca w Fjugesta w miejsce spotkań dla osób w każdym wieku, została przekazana do zarządu gminy, który jest organem gminy odpowiedzialnym za podejmowanie bardziej szczegółowych decyzji.</p><p>Gmina ma również utworzyć nową jednostkę organizacyjną ds. rozwoju społecznego. Oznacza to powstanie nowego działu w strukturze gminy, który będzie odpowiedzialny za sprawy związane z budynkami, drogami i planowaniem przestrzeni.</p><p>Rozważano również szereg propozycji mających na celu poprawę funkcjonowania gminy, takich jak tworzenie większej ilości terenów zielonych do rekreacji oraz wprowadzenie pojazdu, np. samochodu lub autobusu, dostosowanego do potrzeb osób niepełnosprawnych, do użytku gminy. Chociaż te propozycje zostały przedstawione, pozostają one na liście do dalszej analizy.</p><p>Na koniec, podczas spotkania poruszono kwestie dotyczące zmian personalnych w grupach politycznych. Kilku polityków zrezygnowało ze swoich stanowisk, co oznacza, że konieczne jest wybranie nowych osób do takich organów jak komisja wyborcza i komisja ds. opieki społecznej.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_fastighet": 1,
-    "glesbygd": 1,
-    "kollektiv": 1,
-    "funktion": 1
+    "f_kommun": 6,
+    "fortroendevald": 6,
+    "glesbygd": 4,
+    "mindre_ort": 5,
+    "barn": 4,
+    "ung": 4,
+    "pensionar": 3,
+    "idrott": 3,
+    "volontar": 3,
+    "offentliganstalld": 4,
+    "b_bygg": 4,
+    "mark_bygglov": 4,
+    "infrastruktur": 3
   }
 }

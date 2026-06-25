@@ -12,8 +12,11 @@
   "tldr": "Az iskoláknak a tudásra kell nagyobb hangsúlyt fektetniük. A törvényeket és a tanterveket át kell alakítani úgy, hogy a tudás átadása kerüljön a középpontba, és a tanár egyértelműbben irányítsa a tanítást. A tanulók tényleges tudása – nem csupán a teljesített értékelési szempontok – legyen fontosabb a jegyek kiosztásakor.",
   "lattlast": "<p>A javaslat módosításokat tartalmaz a törvényben, valamint új tanterveket, amelyek célja a tudásközpontú oktatás erősítése.</p><p>Egyértelművé kell tenni, hogy az iskola célja a tudás és értékek közvetítése, és hogy az oktatást a tanár határozza meg és irányítja. A szülők befolyása a gyermek oktatására bizonyos mértékben korlátozott.</p><p>A jegyek kiosztásakor a tanuló tényleges tudása kerül előtérbe, a jegyértékek feltételeinek teljesítése mellett, és minden jegyfokozat esetében egy átfogó értékelést kell alkalmazni.</p>",
   "relevans": {
-    "barn": 3,
-    "glesbygd": 1,
-    "kronisk": 1
+    "barn": 8,
+    "gymnasieelev": 6,
+    "offentliganstalld": 7,
+    "b_utbildning": 7,
+    "student": 4,
+    "ensam_foralder": 3
   }
 }

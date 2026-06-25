@@ -12,8 +12,18 @@
   "tldr": "Rząd zamierza obniżyć podatek od żywności z 12% do 6%. Propozycja ta ma na celu uczynienie zakupów spożywczych bardziej przystępnymi cenowo przez ograniczony czas.",
   "lattlast": "<p>Rząd przedstawił propozycję zmiany przepisów dotyczących podatku od wartości dodanej, powszechnie znanego jako VAT. Obecnie podatek od żywności wynosi 12%, ale propozycja zakłada jego obniżenie do 6%.</p><p>Jeśli parlament zagłosuje za tą propozycją, obniżona stawka podatku zacznie obowiązywać od 1 kwietnia 2026 roku. Oznacza to, że żywność może stać się tańsza dla wszystkich osób robiących zakupy w sklepach.</p><p>Obniżka ta nie jest stała i ma obowiązywać tylko przez określony czas. Zgodnie z planem, nowa stawka podatku ma obowiązywać do 31 grudnia 2027 roku.</p>",
   "relevans": {
-    "b_handel": 1,
-    "moms": 3,
-    "konsument": 1
+    "konsument": 9,
+    "moms": 8,
+    "b_handel": 7,
+    "lontagare": 6,
+    "bidrag": 7,
+    "pensionar": 6,
+    "ensam_foralder": 6,
+    "stor_familj": 7,
+    "b_besok": 5,
+    "b_grona": 4,
+    "foretagare": 5,
+    "solo": 4,
+    "smaforetag": 5
   }
 }

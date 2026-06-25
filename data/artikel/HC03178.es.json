@@ -12,9 +12,10 @@
   "tldr": "El gobierno quiere modificar las regulaciones para facilitar el alquiler de buques extranjeros y el alquiler de buques suecos. El objetivo es ayudar a las navieras suecas a gestionar mejor sus empresas y a obtener préstamos para nuevos barcos.",
   "lattlast": "<p>El gobierno ha presentado una propuesta para modificar las leyes que regulan el alquiler y la subarrendación de grandes buques. Esto se refiere a lo que se conoce como &quot;alquiler de buques&quot;, que implica el alquiler de un buque completo sin incluir a la tripulación.</p><p>La propuesta implica la creación de una nueva sección en el registro marítimo sueco, que es la lista oficial de todas las embarcaciones registradas en Suecia. Esta nueva sección facilitará el seguimiento de los buques extranjeros que se alquilan en Suecia.</p><p>Al aclarar las normas, se espera que las navieras suecas, es decir, las empresas que poseen y operan buques, puedan planificar sus operaciones de manera más eficiente. También se facilitará el acceso a financiación para la adquisición de nuevos buques.</p><p>Si el parlamento aprueba la propuesta, las nuevas normas entrarán en vigor el 1 de febrero de 2026. La propuesta implica modificaciones en varias leyes relacionadas con la navegación marítima, como la ley marítima y la ley de registro de embarcaciones.</p>",
   "relevans": {
-    "b_transport": 1,
-    "b_finans": 1,
-    "hyresgast": 1,
-    "batagare": 1
+    "b_transport": 7,
+    "finansiering": 5,
+    "export": 4,
+    "import": 4,
+    "eu_marknad": 3
   }
 }

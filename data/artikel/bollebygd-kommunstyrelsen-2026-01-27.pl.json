@@ -13,9 +13,10 @@
   "tldr": "Gmina Bollebygd planuje przebudowę części budynku administracyjnego w celu stworzenia nowych powierzchni biurowych. Dodatkowo, gmina zamierza uzyskać pozwolenie na rozbiórkę fragmentu budynku przy ul. Göteborgsvägen 19.",
   "lattlast": "<p>Zarząd gminy podjął decyzję o rozpoczęciu pierwszego etapu prac związanych z budową domu gminy. Plan zakłada stworzenie nowych powierzchni biurowych, które będą wykorzystywane przez pracowników zajmujących się opieką społeczną nad osobami i rodzinami. W celu realizacji tego celu, gmina zamierza złożyć wniosek o pozwolenie na rozbiórkę części budynku przy ul. Göteborgsvägen 19.</p><p>Celem przebudowy jest rozwiązanie problemu braku sal konferencyjnych w gminie. Wiele wydziałów gminy zgłosiło potrzebę posiadania większej liczby miejsc do spotkań. Jednakże, ze względu na konstrukcję starego budynku, stworzenie idealnych sal konferencyjnych jest trudne.</p><p>Przed podjęciem ostatecznych decyzji dotyczących wyglądu budynku, przeprowadzono badania techniczne i oszacowano koszty. Celem tych działań było uzyskanie lepszych danych, które pozwolą określić, w jaki sposób budynek może być najlepiej wykorzystany w przyszłości.</p><p>Oprócz kwestii związanych z domem gminy, podczas spotkania poruszono również tematy związane z ochroną środowiska oraz przyszłymi planami rozwoju gminy. Firma Flügger AB, na przykład, została poproszona o przedstawienie informacji na temat wpływu jej działalności na środowisko oraz o ilości emitowanych przez nią zanieczyszczeń.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_vard": 1,
-    "lokaler": 1,
-    "klimat": 1
+    "f_kommun": 4,
+    "lokaler": 4,
+    "mark_bygglov": 4,
+    "miljo": 3,
+    "offentliganstalld": 4
   }
 }

@@ -12,9 +12,17 @@
   "tldr": "De regering stelt nieuwe wetten voor om de werking van de elektriciteitsmarkt in Zweden te moderniseren. De voorstellen maken het eenvoudiger om elektriciteit te delen tussen gebouwen en veranderen de regels over wie verantwoordelijk is voor de veiligheid van het elektriciteitsnet.",
   "lattlast": "<p>De regering heeft een voorstel voor nieuwe wetten ingediend die de oude elektriciteitswet uit 1997 zal vervangen. Het doel is om de Zweedse regels aan te passen aan de Europese wetgeving en om duidelijker te maken welke regels van toepassing zijn op de bedrijven die de elektriciteitsleidingen bezitten.</p><p>Een belangrijke verandering is dat het gemakkelijker wordt om elektriciteit te delen tussen verschillende locaties. Met de nieuwe regels voor energiedeling kan een persoon die elektriciteit gebruikt in een gebouw, een rekening krijgen voor elektriciteit die is opgewekt in een ander gebouw. Dit wordt energiedeling genoemd en is onderdeel van een nieuwe Europese richtlijn.</p><p>De verantwoordelijkheid voor de veilige werking van het elektriciteitsnet moet ook veranderen. Voorheen was er een speciale instantie die verantwoordelijk was voor de operationele veiligheid, maar nu wordt voorgesteld dat de bedrijven die de grote elektriciteitsleidingen exploiteren, deze verantwoordelijkheid overnemen. Er zullen ook nieuwe functies worden ingevoerd om de balans in het elektriciteitsnet te handhaven.</p><p>De meeste van de nieuwe regels zijn gepland om op 1 januari 2027 in werking te treden. Een deel van het voorstel, dat betrekking heeft op de bedrijven die verplicht zijn om elektriciteit te leveren, treedt iets later in werking, namelijk op 1 juli 2027.</p>",
   "relevans": {
-    "b_fastighet": 1,
-    "b_energi": 2,
-    "eu_marknad": 1,
-    "energikund": 1
+    "aktiebolag": 4,
+    "smaforetag": 3,
+    "storforetag": 5,
+    "b_energi": 9,
+    "b_fastighet": 6,
+    "b_industri": 5,
+    "energiintensiv": 7,
+    "eu_marknad": 5,
+    "gron_omstallning": 4,
+    "energikund": 7,
+    "bostadsagare": 5,
+    "f_kommun": 3
   }
 }

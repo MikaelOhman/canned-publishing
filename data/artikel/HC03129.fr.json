@@ -12,8 +12,11 @@
   "tldr": "Le gouvernement souhaite introduire une nouvelle infraction afin de lutter contre la vente de biens volés à l'étranger. Il souhaite également accorder à la douane davantage de pouvoirs pour enquêter et gérer les marchandises illégales.",
   "lattlast": "<p>Le gouvernement propose de créer une infraction spécifique pour toute personne qui facilite le transport de biens volés hors de la Suède. Cette infraction sera appelée &quot;trafic illégal transfrontalier&quot;. Les infractions les plus graves peuvent être punies d&#x27;une peine de prison pouvant aller jusqu&#x27;à six ans. Toute tentative de commettre cette infraction sera également illégale.</p><p>Cette proposition implique également une plus grande responsabilité pour les douanes, l&#x27;organisme chargé de contrôler les marchandises aux frontières. Elles pourront aider les procureurs dans les enquêtes et auront plus de pouvoir pour prévenir les crimes. Les agents des douanes pourront mener des enquêtes de manière similaire à celle de la police.</p><p>Il existe également des propositions permettant aux autorités chargées de lutter contre la criminalité de conserver les biens saisis afin de les utiliser dans leur formation ou pour examiner les preuves. Si les biens saisis sont dangereux ou difficiles à stocker, ils pourront être détruits plus rapidement qu&#x27;auparavant.</p><p>Le gouvernement souhaite également modifier les règles relatives aux sanctions en cas de contrebande de drogues destinées à la revente. La plupart de ces nouvelles règles devraient entrer en vigueur en septembre 2025, mais une modification mineure d&#x27;une loi concernant les marchandises soumises à la taxe sera applicable à partir du 1er juillet 2025.</p>",
   "relevans": {
-    "import": 1,
-    "beroende": 1,
-    "otrygg": 2
+    "b_transport": 4,
+    "b_handel": 4,
+    "otrygg": 5,
+    "brottsoffer": 4,
+    "export": 3,
+    "import": 3
   }
 }

@@ -12,9 +12,12 @@
   "tldr": "Regeringen ska göra det enklare och snabbare att hantera dödsbon genom att bland annat införa digitala lösningar. Detta sker efter förslag från Riksrevisionen, som granskar hur staten arbetar.",
   "lattlast": "<p>Riksrevisionen är en myndighet som kontrollerar hur staten använder pengar och följer regler. De har skrivit en rapport om hur man hanterar dödsbon, vilket är de tillgångar och skulder som finns kvar efter en person som har dött. Riksrevisionen vill att reglerna ändras så att processen går snabbare och blir smidigare för de som är berörda.</p><p>En viktig del i förslaget är att man ska kunna skicka in bouppteckningar digitalt. En bouppteckning är ett dokument som visar vad den avlidna ägde och vad hen var skyldig. Idag är systemet inte tillräckligt modernt, och regeringen vill att man ska kunna använda elektroniska tjänster för att lämna in dessa papper.</p><p>Regeringen håller med om att mycket behöver förbättras. De har redan börjat arbeta med nya lagförslag som gör det möjligt för både privatpersoner och företag att skicka in information digitalt. Man arbetar också med att se över ärvdabalken, som är den lag som bestämmer hur arv ska fördelas.</p><p>Utöver digitaliseringen vill Riksrevisionen att man ska ha bättre kontroll på de personer som sköter dödsbon. Man vill också att det ska bli lättare att lösa konflikter och bråk om varor eller tjänster utan att behöva gå till domstol.</p>",
   "relevans": {
-    "b_fastighet": 3,
-    "digitalisering": 1,
-    "lantagare": 1,
-    "digital_ovan": 1
+    "sambo_gift": 5,
+    "skild": 4,
+    "pensionar": 6,
+    "barn": 5,
+    "bostadsagare": 4,
+    "skuldsatt": 4,
+    "digital_ovan": 4
   }
 }

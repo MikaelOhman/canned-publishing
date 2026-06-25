@@ -12,7 +12,13 @@
   "tldr": "Personas que residen cerca de parques eólicos recibirán dinero de las empresas que operan estos parques. Este dinero se distribuirá como parte de las ganancias y estará exento de impuestos para aquellos que vivan en sus propias viviendas.",
   "lattlast": "<p>El gobierno ha presentado una propuesta de una nueva ley que trata sobre la distribución de los ingresos generados por la energía eólica. Esto significa que las personas que viven cerca de los parques eólicos recibirán una compensación, denominada &quot;compensación por energía eólica&quot;. Esta compensación será pagada por la empresa que opera los parques eólicos.</p><p>Para recibir esta compensación, es necesario residir en una vivienda unifamiliar ubicada cerca de los parques eólicos. La distancia se calcula multiplicando nueve veces la altura de los aerogeneradores. Cuanto más cerca se viva del parque eólico, mayor será la compensación recibida.</p><p>También existe una propuesta para modificar las reglas fiscales. Si una persona recibe una compensación por vivir en su propia vivienda, no deberá pagar impuestos sobre esa parte de la compensación. Esto se conoce como &quot;compensación exenta de impuestos&quot;.</p><p>Si el parlamento aprueba la propuesta, se prevé que las nuevas normas entren en vigor el 1 de julio de 2026.</p>",
   "relevans": {
-    "b_energi": 3,
-    "bolagsskatt": 1
+    "b_energi": 8,
+    "b_fastighet": 4,
+    "gron_omstallning": 5,
+    "f_landsbygd": 5,
+    "glesbygd": 6,
+    "bostadsagare": 8,
+    "energikund": 4,
+    "klimat": 4
   }
 }

@@ -13,10 +13,16 @@
   "tldr": "The municipal council of Tierp has made several decisions covering a wide range of topics, from transportation and schools to future urban planning. These decisions include new regulations for parking fees, safety measures at train stations, and a plan for how the municipality will develop until the year 2050.",
   "lattlast": "<p>The meeting addressed important issues for the residents of Tierp. One of the proposals involved installing cameras at bicycle parking areas near Örbyhus station to improve safety.  The possibility of offering school transportation to high school students with disabilities was also considered.</p><p>Regarding finances and regulations, the municipality has decided on new fees. This includes the cost of using municipal land and the parking fee at Trollsjön.  They have also decided on the price for when the municipality sells plots of land in the Siggbo Trädgårdsstad area.</p><p>Looking ahead, the municipality has adopted a comprehensive plan for the year 2050. This long-term plan outlines how the municipality should be used and developed over the coming decades.  They have also established rules for how politicians should behave to prevent bribery and other forms of misconduct.</p><p>Finally, decisions were made regarding collaborations and organizational structure. This includes a collaboration with Heby municipality to jointly purchase goods and services more efficiently, as well as new regulations for how various committees within the municipality should operate.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "barn": 1,
-    "storstad": 1,
-    "bil": 1,
-    "konsument": 1
+    "f_kommun": 6,
+    "mark_bygglov": 5,
+    "bil": 4,
+    "pendlare": 5,
+    "funktion": 5,
+    "barn": 4,
+    "gymnasieelev": 4,
+    "bostadsagare": 4,
+    "glesbygd": 4,
+    "fortroendevald": 5,
+    "upphandling": 3
   }
 }

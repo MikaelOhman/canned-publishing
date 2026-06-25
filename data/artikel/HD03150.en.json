@@ -12,7 +12,13 @@
   "tldr": "The government wants to introduce a new law that would allow the police to use AI to recognize faces in real-time. The purpose is to more easily locate people who are missing or suspected of serious crimes.",
   "lattlast": "<p>The government has proposed a new law that would allow the police to use AI-powered facial recognition systems. This means that the police could use technology to identify individuals directly from camera footage. This is intended to help the police combat serious crime, such as shootings and bombings.</p><p>The technology can only be used in specific and serious situations. This could include locating individuals who have been victims of human trafficking or who are missing. It could also be used to identify individuals suspected of very serious crimes where the penalty is at least four years in prison.</p><p>To protect people&#x27;s rights, the police cannot use the technology indiscriminately. A permit from a prosecutor or a court is required. If the situation is very urgent, the police may begin using the technology immediately, but they must then apply for a permit within 24 hours.</p><p>The proposal also includes changes to several other laws related to how Sweden cooperates with other countries in criminal investigations. If all the changes are approved, the plan is for the new law to come into effect on July 1, 2026.</p>",
   "relevans": {
-    "tillstand": 1,
-    "otrygg": 3
+    "otrygg": 6,
+    "brottsoffer": 5,
+    "integritet": 7,
+    "gdpr": 5,
+    "digitalisering": 5,
+    "b_it": 4,
+    "offentliganstalld": 4,
+    "ny_i_sverige": 3
   }
 }

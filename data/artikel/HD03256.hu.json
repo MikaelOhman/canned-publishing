@@ -12,10 +12,11 @@
   "tldr": "A kormány új törvényeket akar bevezetni annak érdekében, hogy megakadályozza a tachográfokkal való csalást a teherautókban és más járművekben. A cél az, hogy a rendőrség és a felügyelők számára könnyebbé váljon a berendezések manipulálásának észlelése és a felelősök megbüntetése.",
   "lattlast": "<p>Egy tachográf egy olyan készülék járművekben, amely rögzíti a megtett távolságot és a vezetési időt. A kormány most egy új törvényt terjeszt elő, amely megnehezíti ennek a berendezésnek a manipulálását. Azok, akik olyan eszközöket használnak vagy gyártanak, amelyekkel a tachográf manipulálható, büntethetők lehetnek.</p><p>A javaslat azt is tartalmazza, hogy a rendőrség és a járműfelügyeleti szakemberek nagyobb jogkörrel rendelkezzenek. Joguk lesz ellenőrizni a magánterületeket is, hogy biztosítsák a járművek megfelelőségét. Ezt &quot;repülő ellenőrzésként&quot; említik, ami azt jelenti, hogy ellenőrizhetik a berendezést előzetes figyelmeztetés nélkül.</p><p>A javaslat egyéb jogszabályok módosítását is tartalmazza, beleértve a földrajzi információk védelméről szóló törvényt. Ez azért van, hogy a szabályok összhangban legyenek az új ellenőrzési lehetőségekkel. Ha a javaslatot elfogadják a parlamentben, az új szabályok 2026. július 1-jén lépnek életbe.</p>",
   "relevans": {
-    "b_transport": 1,
-    "arbetsratt": 1,
-    "flygresenar": 1,
-    "beroende": 3,
-    "otrygg": 1
+    "b_transport": 9,
+    "b_industri": 4,
+    "arbetsratt": 3,
+    "arbetsmiljo": 4,
+    "tillstand": 5,
+    "regelborda": 5
   }
 }

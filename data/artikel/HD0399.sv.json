@@ -12,20 +12,12 @@
   "tldr": "Regeringen föreslår ändringar i statens budget för år 2026. Förslagen handlar om allt från nya inköp av fastigheter och ubåtar till stora satsningar på kärnkraft och rymdverksamhet.",
   "lattlast": "<p>Regeringen vill ändra hur statens pengar ska användas under 2026. Bland de stora besluten finns ett förslag om att köpa en fastighet i Solna för drygt 3,4 miljarder kronor. Det finns även förslag om att hyra ut en ubåt av typen A 17 till Polen och att ändra reglerna för tandvårdsstödet.</p><p>En stor del av förslaget handlar om energi och kärnkraft. Staten planerar att satsa mycket pengar på företaget Videberg Kraft AB. Detta inkluderar att köpa aktier för att äga en stor del av företaget samt att betala för program som hanterar kärnavfall. Dessa kostnader kan bli mycket höga under de kommande åren.</p><p>Det finns även förslag som rör säkerhet och teknik. Regeringen vill kunna använda pengar för att skydda personer som arbetar med hemlig underrättelsetjänst. Det föreslås också att ge pengar till rymdbolaget SSC Space AB för att stärka Sveriges arbete inom rymden. För poliser som arbetar i tjänst föreslås nya regler för hur deras studielån ska hanteras.</p><p>Slutligen finns mindre budgetändringar för olika myndigheter och kultur. Kungliga Operan får möjlighet att låna pengar för att renovera sin byggnad. Även myndigheter som Läkemedelsverket och Försvarets radioanstalt får sina budgetar justerade för att kunna genomföra sina uppdrag under 2026.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_fastighet": 1,
-    "b_energi": 1,
-    "b_kultur": 1,
-    "b_life": 1,
-    "student": 1,
-    "hyresgast": 1,
-    "kronisk": 1,
-    "tandvard": 2,
-    "sparare": 1,
-    "lantagare": 1,
-    "energikund": 1,
-    "kultur": 1,
-    "otrygg": 1,
-    "varnpliktig": 1
+    "b_energi": 6,
+    "b_life": 4,
+    "varnpliktig": 6,
+    "offentliganstalld": 4,
+    "tandvard": 5,
+    "fortroendevald": 4,
+    "student": 4
   }
 }

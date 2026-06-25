@@ -13,14 +13,18 @@
   "tldr": "Situationen i Mellanöstern och höga energipriser skapar osäkerhet för Europas ekonomi. För att skydda ekonomin mot stigande priser har man valt att höja räntan något.",
   "lattlast": "<p>Philip R. Lane från den europeiska centralbanken berättar att kriget i Mellanöstern påverkar Europas ekonomi negativt. Även om det finns ett fredsavtal är läget osäkert, vilket kan leda till att energipriserna fortsätter att stiga. Detta gör att priserna på varor och tjänster (inflation) riskerar att öka mer än vad som är önskat.</p><p>Ekonomin i Europa, det som kallas euroområdet, har haft svårt att växa under början av året. Det beror bland annat på att ekonomin i Irland minskade. Samtidigt är arbetsmarknaden fortfarande stark med låg arbetslöshet, men företag och människor är mer försiktiga med sina pengar på grund av de höga energikostnaderna.</p><p>När det gäller prishöjningar, eller inflation, så ligger den nu på 3,2 procent. Det är högre än målet på 2 procent. Man ser risker för att priserna på mat och energi kan hålla sig höga under en lång tid framöver. Samtidigt förväntas lönerna öka i en takt som gör att människors köpkraft stärks under de kommande åren.</p><p>För att möta dessa risker har man gjort en räntehöjning på 0,25 procent (vilket kallas 25 baspunkter) i juni. Syftet med att höja räntan är att bromsa prisökningarna och se till att inflationen på sikt landar på den stabila nivå som man har bestämt.</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "b_energi": 1,
-    "energiintensiv": 1,
-    "lontagare": 1,
-    "arbetssokande": 2,
-    "sparare": 1,
-    "lantagare": 1,
-    "energikund": 1,
-    "konsument": 2
+    "energikund": 6,
+    "konsument": 5,
+    "lantagare": 6,
+    "sparare": 5,
+    "pensionssparare": 4,
+    "lontagare": 5,
+    "b_finans": 5,
+    "b_energi": 5,
+    "storforetag": 4,
+    "smaforetag": 4,
+    "energiintensiv": 5,
+    "export": 4,
+    "foretagare": 4
   }
 }

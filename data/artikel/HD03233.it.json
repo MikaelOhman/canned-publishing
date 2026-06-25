@@ -12,7 +12,16 @@
   "tldr": "Vengono proposte nuove regole per contrastare le frodi tramite SMS e altri messaggi digitali. Le aziende che gestiscono le vostre comunicazioni dovrebbero essere in grado di bloccare i messaggi che sembrano dannosi.",
   "lattlast": "<p>Il governo intende modificare la legge sulle comunicazioni elettroniche per rendere più difficile ingannare le persone online. La proposta prevede che le aziende che forniscono servizi di messaggistica, come i servizi SMS, abbiano maggiori responsabilità nel prevenire le frodi.</p><p>Se un&#x27;azienda rileva informazioni tecniche su un messaggio che suggeriscono che si tratti di una frode o di un tentativo di inganno, non deve inoltrare il messaggio. È importante sottolineare che le aziende non possono leggere il contenuto dei messaggi per effettuare questo controllo, ma possono esaminare solo le informazioni tecniche relative al traffico.</p><p>Per poter svolgere questo lavoro, le aziende possono trattare determinate informazioni sui messaggi, ma solo per il tempo necessario per prevenire la frode. Successivamente, queste informazioni devono essere eliminate immediatamente. Il governo o un&#x27;altra autorità stabiliranno le regole precise che devono essere applicate per questo lavoro.</p><p>Le nuove regole fanno parte di un&#x27;iniziativa a livello europeo per creare comunicazioni digitali più sicure. Se la proposta verrà approvata, le nuove leggi entreranno in vigore il 1° agosto 2026.</p>",
   "relevans": {
-    "foretagare": 1,
-    "kollektiv": 1
+    "smaforetag": 4,
+    "b_it": 6,
+    "b_finans": 4,
+    "gdpr": 7,
+    "konsumentratt": 5,
+    "digitalisering": 5,
+    "eu_marknad": 4,
+    "konsument": 5,
+    "integritet": 6,
+    "otrygg": 5,
+    "digital_ovan": 4
   }
 }

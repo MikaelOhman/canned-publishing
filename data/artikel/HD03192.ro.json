@@ -12,7 +12,11 @@
   "tldr": "Când un elev își schimbă școala, vechea școală trebuie să transmită informații despre elev către noua școală – dacă există un risc concret ca elevul să comită sau să fie victima unei infracțiuni, iar informațiile sunt necesare pentru a preveni acest lucru. Scopul este de a crea un mediu școlar mai sigur și de a oferi sprijinul adecvat.",
   "lattlast": "<p>Propunerea include modificări ale legii educației, care vizează crearea unui mediu școlar sigur și protejat pentru elevi și personal, precum și asigurarea faptului că elevii primesc sprijinul adecvat.</p><p>Propunerea prevede că o școală care transferă un elev are obligația de a transmite informații către școala care îl primește, atunci când elevul își schimbă școala sau forma de învățământ.</p><p>Această obligație se aplică atunci când există circumstanțe concrete care sugerează riscul ca elevul să comită sau să fie victima unei infracțiuni, iar informațiile sunt necesare pentru ca noua școală să poată preveni astfel de situații.</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "barn": 1
+    "barn": 7,
+    "ung": 6,
+    "gymnasieelev": 5,
+    "b_utbildning": 6,
+    "brottsoffer": 5,
+    "otrygg": 4
   }
 }

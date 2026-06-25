@@ -12,10 +12,14 @@
   "tldr": "A kormány szeretné olcsóbbá és egyszerűbbé tenni a környezetbarát autók használatát azáltal, hogy a munkahelyen történő töltés adómentességét véglegesíti, és jobb lehetőségeket biztosít a üzemanyagköltségek levonására.",
   "lattlast": "<p>A kormány egy javaslatot terjesztett be, amely szerint a jövőben is adómentes lesz az elektromos autó töltése a munkahelyen. Korábban ez csak ideiglenes szabály volt, de most azt szeretnék, hogy ez állandó legyen, hogy segítsék a vállalatokat és a munkavállalókat a fosszilis üzemanyagú autókra való áttérésben.</p><p>Emellett könnyebb lesz visszatérítést kapni a benzin- vagy dízelüzemanyaggal kapcsolatos kiadásokért, amikor üzleti utakra használják az autót. Ha egy adómentes, hibrid hajtású céges autóval rendelkezik, akkor is jogosult lehet a üzemanyagköltségek levonására, még akkor is, ha az autót elektromos árammal töltötte a munkahelyén. A cél az, hogy az előírásokat egyszerűbbé tegyék, és ösztönözzék az embereket, hogy amennyire csak lehetséges, elektromos árammal közlekedjenek.</p><p>A javaslat a jövedelemadó törvényében történő változásokat érinti, amely a törvény, amely meghatározza, hogy mennyi adót kell fizetni a fizetésére. Ha a parlament megszavazza a javaslatot, az új szabályok 2026. július 1-jén lépnek életbe. Az új szabályok az üzemanyagköltségek levonásával kapcsolatban azokra az utakra vonatkoznak, amelyek az új törvény életbe lépése után történnek.</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "lontagare": 2,
-    "bil": 1,
-    "energikund": 3,
-    "klimat": 1
+    "bil": 6,
+    "lontagare": 6,
+    "foretagare": 5,
+    "arbetsgivare": 4,
+    "smaforetag": 4,
+    "klimat": 4,
+    "gron_omstallning": 5,
+    "b_transport": 3,
+    "energikund": 3
   }
 }

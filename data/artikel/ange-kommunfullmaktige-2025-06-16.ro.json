@@ -13,9 +13,23 @@
   "tldr": "Consiliul municipal din Ånge a adoptat planuri economice importante, printre care bugetul pentru 2026 și impozitele pentru anul următor. De asemenea, s-au discutat aspecte legate de alimentarea cu apă și noi reguli pentru serviciile sociale.",
   "lattlast": "<p>În cadrul întâlnirii din 16 iunie 2025, politicienii din comuna Ånge au discutat o serie de probleme importante pentru viitor. Printre cele mai importante decizii se numără elaborarea bugetului pentru anul 2026 și a planului economic pentru anii 2027-202ss. De asemenea, s-a decis nivelul impozitelor pentru anul 2026.</p><p>Problemele legate de apă și canalizare au fost centrale în cadrul discuțiilor. S-au discutat planurile pentru alimentarea cu apă din zona Hjältan și construirea unei noi stații de tratare a apei în același loc. S-au luat, de asemenea, decizii privind alocarea de fonduri pentru apă și canalizare, de exemplu, pentru o nouă stație de distribuție a apei și o conductă între Ljungaverk și Fränsta.</p><p>Serviciile sociale și siguranța în comună au fost, de asemenea, subiecte de discuție. Politicienii au analizat modul în care serviciile sociale vor funcționa odată cu intrarea în vigoare a unei noi legi și modul în care se va realiza colaborarea în domeniul serviciilor sociale la nivelul regiunii. S-au purtat discuții despre crearea unor reguli clare pentru a proteja persoanele care lucrează în comună împotriva amenințărilor și violenței.</p><p>În final, s-au analizat mai multe rapoarte financiare, documente care prezintă situația financiară a diferitelor organizații din ultimul an. S-a discutat, de asemenea, despre transferul de proprietăți între comună și compania Ånge Fastighets- och Industri AB.</p>",
   "relevans": {
-    "b_industri": 1,
-    "b_fastighet": 1,
-    "redovisning": 1,
-    "otrygg": 1
+    "f_kommun": 8,
+    "b_fastighet": 6,
+    "lontagare": 5,
+    "hyresgast": 5,
+    "bostadsagare": 5,
+    "energikund": 6,
+    "glesbygd": 7,
+    "mindre_ort": 8,
+    "pendlare": 4,
+    "offentliganstalld": 6,
+    "fortroendevald": 7,
+    "barn": 4,
+    "pensionar": 4,
+    "infrastruktur": 6,
+    "f_landsbygd": 6,
+    "aktiebolag": 4,
+    "smaforetag": 4,
+    "b_vard": 5
   }
 }

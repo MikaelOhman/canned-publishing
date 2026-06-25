@@ -13,11 +13,11 @@
   "tldr": "Gmina Alingsås podjęła decyzję o wprowadzeniu nowych zasad, które określają sposób działania wszystkich przedsiębiorstw działających na terenie gminy. Ponadto, zatwierdzono plan budowy nowego przedszkola w dzielnicy Ingared.",
   "lattlast": "<p>Rada miejska podjęła decyzję o zmianie polityki korporacyjnej dla grupy przedsiębiorstw gminy Alingsås. Polityka to dokument, który określa zasady i wartości, które powinny obowiązywać w różnych działaniach i przedsiębiorstwach gminy.</p><p>Podjęto również decyzję o zatwierdzeniu szczegółowego planu zagospodarowania dla miejscowości Ingared. Oznacza to, że wyrażono zgodę na budowę nowego przedszkola przy ulicy Kärrbogärdevägen na działce o numerze ewidencyjnym Ingared 5:114.</p><p>Spotkanie dotyczyło również zmian w regulaminie spółki AB Alingsås Rådhus. Rozmowy dotyczyły również kwestii związanych z wodociągami i kanalizacją (VA), a także obszarów takich jak kemping Lövekulle, Noltorp i Edsås.</p><p>Na koniec przeprowadzono kilka wyborów w celu zastąpienia osób, które zrezygnowały ze swoich funkcji w różnych komisjach. Komisja to grupa polityków odpowiedzialna za konkretne obszary, takie jak edukacja lub sprawy budowlane.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_fastighet": 1,
-    "tillstand": 1,
-    "mark_bygglov": 1,
-    "barn": 2,
-    "bygger": 1
+    "f_kommun": 5,
+    "fortroendevald": 7,
+    "b_fastighet": 3,
+    "mark_bygglov": 4,
+    "barn": 4,
+    "bostadsagare": 3
   }
 }

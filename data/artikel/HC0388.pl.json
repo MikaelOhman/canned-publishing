@@ -12,8 +12,10 @@
   "tldr": "Rząd chce ułatwić uzyskiwanie odpowiedzi, gdy Urząd Ochrony Danych Osobowych (IMY) zbyt długo zajmuje się rozpatrywaniem skarg dotyczących danych osobowych. Jeśli upłynie trzy miesiące, powinno być możliwe żądanie informacji na temat postępów w rozpatrywaniu złożonej skargi.",
   "lattlast": "<p>Obecnie uzyskanie odpowiedzi po zgłoszeniu sprawy do Urzędu Ochrony Danych, który jest odpowiedzialny za nadzór nad przestrzeganiem przepisów dotyczących danych osobowych, może zająć bardzo dużo czasu. Rząd chce więc zmienić prawo, aby urząd ten miał więcej możliwości uzyskiwania odpowiedzi na zadawane pytania.</p><p>Jeśli od momentu złożenia skargi minęły trzy miesiące, masz prawo zażądać od urzędu informacji. Urząd musi wówczas w ciągu dwóch tygodni poinformować, czy rozpocznie kontrolę, czy też nie. Jeśli urząd nie odpowie w tym czasie, uważa się, że odmówił rozpatrzenia Twojego wniosku.</p><p>Jeśli urząd odrzuci wniosek o przeprowadzenie kontroli w sprawie Twojej skargi, masz prawo odwołać się od tej decyzji do sądu administracyjnego. Jeśli sąd uzna, że urząd powinien odpowiedzieć na Twoje pytanie, może nakazać mu udzielenie odpowiedzi w jak najkrótszym czasie.</p><p>Nowe przepisy mają zacząć obowiązywać 1 maja 2025 roku. Celem jest zapewnienie, że urząd będzie działał bardziej efektywnie i nie będzie opóźniał rozpatrywania spraw, nie informując jednocześnie osób zainteresowanych.</p>",
   "relevans": {
-    "b_fastighet": 1,
-    "gdpr": 3,
-    "integritet": 2
+    "gdpr": 7,
+    "integritet": 6,
+    "konsumentratt": 3,
+    "regelborda": 4,
+    "digitalisering": 3
   }
 }

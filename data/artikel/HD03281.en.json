@@ -12,8 +12,13 @@
   "tldr": "The Swedish National Audit Agency has identified shortcomings in how the Swedish Social Insurance Agency (Försäkringskassan) and the Swedish Pensions Agency (Pensionsmyndigheten) handle changes in circumstances, which can lead to incorrect payments. The government has read the report and considers it important, but does not want to change the laws at this time.",
   "lattlast": "<p>The Swedish National Audit Office is an agency that ensures the state is doing its job correctly. They have investigated how the Swedish Social Insurance Agency (Försäkringskassan) and the Swedish Pensions Agency (Pensionsmyndigheten) operate when people&#x27;s lives change, for example, when applying for disability benefits or housing allowances. They have found that the work is not efficient enough, and there is a risk that the wrong amounts of money are paid out to the wrong people.</p><p>The government has now read the report and responded to it. They believe the audit is good because it highlights areas that need improvement. The goal is for the agencies to work better so that fewer incorrect payments are made within the Swedish social security system.</p><p>Despite the identified problems, the government does not want to start changing the laws at this time. They argue that they have already taken steps to help the agencies detect errors and share information with each other. Therefore, the government does not believe that new laws are needed to solve the problems that the Swedish National Audit Office has identified.</p>",
   "relevans": {
-    "b_finans": 3,
-    "pensionar": 3,
-    "sjukskriven": 3
+    "pensionar": 6,
+    "sjukskriven": 5,
+    "bidrag": 5,
+    "pensionssparare": 4,
+    "anhorigvardare": 4,
+    "funktion": 4,
+    "skuldsatt": 3,
+    "offentliganstalld": 3
   }
 }

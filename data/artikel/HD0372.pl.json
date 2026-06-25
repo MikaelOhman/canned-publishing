@@ -12,8 +12,13 @@
   "tldr": "Rząd zamierza poprawić wsparcie dla osób z niepełnosprawnościami, po tym jak NIK (Narodowy Kontroler Rachunkowy) skrytykował Urząd Pracy za niewystarczające działania w tym zakresie. Celem jest ułatwienie większej liczbie osób znalezienia pracy.",
   "lattlast": "<p>Riksrevisionen to instytucja, która kontroluje, czy państwo prawidłowo wykonuje swoje obowiązki. Przeprowadziła audyt, który wykazał, że Agencja Zatrudnienia (Arbetsförmedlingen) nie do końca skutecznie pomaga osobom z niepełnosprawnościami w znalezieniu pracy. Uważa się również, że rząd nie prowadził tej instytucji w odpowiedni sposób.</p><p>Rząd uważa, że bardzo ważne jest, aby wsparcie oferowane przez Agencję Zatrudnienia było dostosowane do indywidualnych potrzeb każdej osoby. Skuteczne wsparcie może umożliwić większej liczbie osób z trudnościami w pracy z powodu niepełnosprawności wejście na rynek pracy i zdobycie zatrudnienia.</p><p>Teraz rząd przeanalizował raport i stwierdził, że konieczne są różne działania w celu poprawy sytuacji na rynku pracy. Będzie kontynuować monitorowanie działalności Agencji Zatrudnienia, aby sprawdzić, czy w przyszłości będą potrzebne dalsze zmiany.</p><p>Niniejszym dokumentem rząd informuje, że zakończył proces analizy raportu Riksrevisionen. Uważa ten raport za ważne narzędzie, które pomoże w realizacji działań niezbędnych do poprawy wsparcia.</p>",
   "relevans": {
-    "lontagare": 1,
-    "arbetssokande": 3,
-    "funktion": 3
+    "funktion": 8,
+    "arbetssokande": 6,
+    "sjukskriven": 4,
+    "kronisk": 4,
+    "psykisk": 4,
+    "arbetsgivare": 3,
+    "kompetens": 3,
+    "arbetskraft_inv": 3
   }
 }

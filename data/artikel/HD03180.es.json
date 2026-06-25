@@ -12,12 +12,12 @@
   "tldr": "El gobierno quiere facilitar y abaratar la renovación de viviendas, modificando las normas de la ley de construcción. La propuesta implica que no será necesario reformar toda la casa cuando solo se realice una modificación en una parte de ella.",
   "lattlast": "<p>El gobierno ha presentado una propuesta para modificar las normas de la ley de planificación y construcción, que es la ley que regula cómo se pueden construir y modificar edificios en Suecia. Se propone sustituir la palabra &quot;reforma&quot; por &quot;modificación estructural importante&quot; para aclarar qué se aplica cuando se realizan cambios en un edificio.</p><p>Cuando se realiza una modificación importante en una parte de un edificio, solo se deben seguir las nuevas normas para esa parte específica. Anteriormente, existía la posibilidad de exigir que todo el edificio cumpliera con las nuevas normas, pero ahora se busca limitar esto. Solo se pueden exigir cambios en todo el edificio si existen riesgos importantes para la salud o la seguridad de las personas, o si se trata de aspectos importantes como la electricidad, la calefacción y la conexión a internet.</p><p>También se facilitará el cumplimiento de las normas de accesibilidad. Esto implica que será más fácil adaptar los edificios para que las personas con dificultades para moverse o orientarse puedan utilizarlos.</p><p>Si el parlamento aprueba la propuesta, las nuevas normas entrarán en vigor el 1 de enero de 2027. La propuesta también afecta a otras leyes relacionadas con las declaraciones de eficiencia energética y la medición de la energía en los edificios.</p>",
   "relevans": {
-    "b_bygg": 3,
-    "b_energi": 1,
-    "infrastruktur": 1,
-    "glesbygd": 1,
-    "funktion": 1,
-    "energikund": 1,
-    "bredbandsberoende": 1
+    "bygger": 8,
+    "bostadsagare": 6,
+    "b_bygg": 8,
+    "b_fastighet": 7,
+    "regelborda": 6,
+    "mark_bygglov": 7,
+    "lokaler": 5
   }
 }

@@ -12,10 +12,14 @@
   "tldr": "Die Regierung möchte es einfacher und kostengünstiger machen, umweltfreundliche Autos zu fahren, indem sie die steuerfreie Lademöglichkeit am Arbeitsplatz dauerhaft einführt und bessere Möglichkeiten zur Absetzung von Kraftstoffkosten bietet.",
   "lattlast": "<p>Die Regierung hat einen Vorschlag vorgelegt, der besagt, dass das Aufladen von Elektrofahrzeugen am Arbeitsplatz auch in Zukunft steuerfrei sein soll. Bisher war dies nur eine vorübergehende Regelung, aber jetzt möchte man, dass sie dauerhaft gilt, um Unternehmen und Arbeitnehmer bei der Umstellung auf emissionsfreie Fahrzeuge zu unterstützen.</p><p>Es wird auch einfacher, Erstattungen für Ausgaben im Zusammenhang mit Kraftstoffen für Dienstfahrten zu erhalten. Wenn Sie ein Firmenfahrzeug besitzen, das ein Ladhybrid ist, sollten Sie die Kosten für den Kraftstoff absetzen können, auch wenn Sie das Fahrzeug mit Strom an Ihrem Arbeitsplatz aufgeladen haben. Ziel ist es, die Regeln zu vereinfachen und die Menschen zu ermutigen, so viel wie möglich mit Strom zu fahren.</p><p>Der Vorschlag betrifft Änderungen im Einkommensteuergesetz, dem Gesetz, das bestimmt, wie viel Steuern Sie auf Ihr Gehalt zahlen müssen. Wenn das Parlament dem Vorschlag zustimmt, treten die neuen Regeln am 1. Juli 2026 in Kraft. Die neuen Regeln für Abzüge für Kraftstoffe gelten für Fahrten, die nach Inkrafttreten des neuen Gesetzes unternommen werden.</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "lontagare": 2,
-    "bil": 1,
-    "energikund": 3,
-    "klimat": 1
+    "bil": 6,
+    "lontagare": 6,
+    "foretagare": 5,
+    "arbetsgivare": 4,
+    "smaforetag": 4,
+    "klimat": 4,
+    "gron_omstallning": 5,
+    "b_transport": 3,
+    "energikund": 3
   }
 }

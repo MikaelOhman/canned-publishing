@@ -12,15 +12,18 @@
   "tldr": "Die Regierung hat langfristige Pläne für den Betrieb von Straßen und Eisenbahnen in Schweden zwischen den Jahren 2026 und 2037 festgelegt. Der Plan zielt darauf ab, die richtigen Investitionen in den Verkehrssektor zu tätigen und das System umweltfreundlicher zu gestalten.",
   "lattlast": "<p>Die Regierung hat nun einen Plan vorgelegt, der darlegt, wie der Verkehr in Schweden in der Zeit von 2026 bis 2037 aussehen und funktionieren soll. Der Plan gilt für alle Arten von Transporten, wie z. B. Autos, Lastwagen und Züge. Gleichzeitig wurde festgelegt, wie viel Geld in den verschiedenen Regionen für die Verbesserung von Straßen und Eisenbahnen im ganzen Land verwendet werden soll.</p><p>Die Arbeit zielt auch darauf ab, den Verkehr effizienter und umweltfreundlicher zu gestalten. Die Regierung wird dafür sorgen, dass es einfacher wird, Güter und Menschen auf intelligente Weise zu transportieren. Es soll auch erreicht werden, dass Fahrzeuge besser werden und dass ein größerer Teil des Verkehrs Strom anstelle von Kraftstoffen nutzt, die die Umwelt schädigen.</p><p>Ein wichtiger Bestandteil des Plans ist der Übergang von fossilen Brennstoffen, wie Benzin und Diesel, zu erneuerbaren und nachhaltigen Alternativen. Dies ist eine Antwort auf frühere Forderungen des Reichstags, dass Schweden ein Verkehrssystem schaffen muss, das langfristig funktioniert, ohne das Klima zu zerstören. Ziel ist es, dass die Technologie uns hilft, die Emissionen in der Zukunft zu reduzieren.</p>",
   "relevans": {
-    "b_transport": 3,
-    "arbetsratt": 1,
-    "miljo": 1,
-    "infrastruktur": 1,
-    "glesbygd": 1,
-    "bil": 2,
-    "kollektiv": 1,
-    "kronisk": 1,
-    "energikund": 1,
-    "klimat": 3
+    "bil": 5,
+    "pendlare": 6,
+    "kollektiv": 5,
+    "glesbygd": 4,
+    "b_transport": 8,
+    "b_industri": 5,
+    "b_bygg": 4,
+    "b_energi": 5,
+    "energikund": 4,
+    "klimat": 5,
+    "gron_omstallning": 6,
+    "infrastruktur": 7,
+    "f_landsbygd": 4
   }
 }

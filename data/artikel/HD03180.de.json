@@ -12,12 +12,12 @@
   "tldr": "Die Regierung möchte es einfacher und kostengünstiger machen, Häuser zu renovieren, indem sie die Regeln im Baugesetzbuch ändert. Der Vorschlag sieht vor, dass nicht das gesamte Haus renoviert werden muss, wenn nur ein Teil davon verändert wird.",
   "lattlast": "<p>Die Regierung hat einen Vorschlag vorgelegt, die Regeln des Bau- und Planungsgesetzes zu ändern. Dieses Gesetz regelt, wie man in Schweden bauen und Gebäude verändern darf. Es soll das Wort &quot;Umbau&quot; durch &quot;größere Bauänderung&quot; ersetzt werden, um klarer zu definieren, welche Regeln gelten, wenn Änderungen an einem Gebäude vorgenommen werden.</p><p>Bei größeren Änderungen an einem Teil eines Gebäudes sollen nur die neuen Regeln für diesen spezifischen Bereich gelten. Bisher gab es die Möglichkeit, zu verlangen, dass das gesamte Gebäude den neuen Vorschriften entsprechen müsse, aber nun soll dies eingeschränkt werden. Änderungen am gesamten Gebäude dürfen nur dann gefordert werden, wenn es erhebliche Risiken für die Gesundheit oder Sicherheit von Menschen gibt oder wenn es sich um wichtige Aspekte wie Elektrizität, Heizung und Breitband handelt.</p><p>Es wird auch etwas einfacher, die Regeln zur Barrierefreiheit einzuhalten. Dies bedeutet, dass es einfacher sein soll, Gebäude so anzupassen, dass sie für Personen mit eingeschränkter Mobilität oder Orientierungsfähigkeit zugänglich sind.</p><p>Wenn das Parlament für den Vorschlag stimmt, treten die neuen Regeln am 1. Januar 2027 in Kraft. Der Vorschlag hat auch Auswirkungen auf andere Gesetze, die sich auf Energieausweise und die Messung von Energie in Gebäuden beziehen.</p>",
   "relevans": {
-    "b_bygg": 3,
-    "b_energi": 1,
-    "infrastruktur": 1,
-    "glesbygd": 1,
-    "funktion": 1,
-    "energikund": 1,
-    "bredbandsberoende": 1
+    "bygger": 8,
+    "bostadsagare": 6,
+    "b_bygg": 8,
+    "b_fastighet": 7,
+    "regelborda": 6,
+    "mark_bygglov": 7,
+    "lokaler": 5
   }
 }

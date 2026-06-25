@@ -12,8 +12,14 @@
   "tldr": "Regeringen vill ändra reglerna för hur man får bygga kärnkraftsanläggningar i Sverige. Det nya förslaget gör det enklare att få godkänt om det finns en färdig plan och kommunen säger ja.",
   "lattlast": "<p>Regeringen har gjort ett förslag på nya lagar som ska börja gälla den 17 juni 2026. Målet är att ändra hur man kontrollerar och godkänner kärntekniska anläggningar, det vill säga platser där man använder kärnkraft.</p><p>Det nya sättet innebär att regeringen kan godkänna en anläggning direkt om det redan finns en plan för området. För att planen ska gälla måste de kommuner som påverkas av planen ha sagt ja till förslaget. Om man inte använder detta nya sätt gäller fortfarande de gamla reglerna i miljöbalken, som är den lag som styr hur vi ska skydda vår miljö.</p><p>Förslaget innebär också att regeringen ska titta på om fördelarna med en anläggning är större än nackdelarna. Det blir också möjligt att få ett förhandsbesked, vilket är ett tidigt svar på om ett projekt kan bli verklighet. Förslaget innebär ändringar i flera olika lagar, till exempel lagar om strålskydd och hur man betalar för kärntekniskt avfall.</p>",
   "relevans": {
-    "b_bygg": 3,
-    "miljo": 2,
-    "klimat": 1
+    "b_energi": 7,
+    "energiintensiv": 5,
+    "energikund": 4,
+    "miljo": 4,
+    "klimat": 4,
+    "f_kommun": 5,
+    "gron_omstallning": 4,
+    "storforetag": 5,
+    "mark_bygglov": 4
   }
 }

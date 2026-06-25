@@ -12,8 +12,15 @@
   "tldr": "Szwecja wdraża dyrektywę Unii Europejskiej dotyczącą tzw. inteligentnych systemów transportowych w ruchu drogowym. Większa ilość danych o ruchu drogowym oraz usług cyfrowych ma być udostępniana w formacie czytelnym dla maszyn za pośrednictwem krajowego punktu dostępu, aby mogły być wykorzystywane w całej Unii Europejskiej.",
   "lattlast": "<p>Inteligentne system transportowe to cyfrowe usługi i dane wykorzystywane do poprawy bezpieczeństwa i efektywności ruchu drogowego – na przykład informacje w czasie rzeczywistym o natężeniu ruchu i stanie dróg.</p><p>Rząd proponuje zmiany w szwedzkim prawie, mające na celu wdrożenie dyrektywy UE. Zmiany te rozszerzają zakres danych i usług, które podlegają regulacji.</p><p>Dane mają być udostępniane w formacie umożliwiającym odczyt przez maszyny, za pośrednictwem krajowego punktu dostępu, i obejmować określone obszary geograficzne w określonych terminach, aby zapewnić działanie tych usług na terenie całej Unii Europejskiej.</p>",
   "relevans": {
-    "b_transport": 3,
-    "eu_marknad": 1,
-    "glesbygd": 1
+    "b_transport": 8,
+    "b_it": 7,
+    "digitalisering": 6,
+    "eu_marknad": 6,
+    "infrastruktur": 6,
+    "pendlare": 5,
+    "bil": 4,
+    "kollektiv": 4,
+    "storforetag": 4,
+    "smaforetag": 3
   }
 }

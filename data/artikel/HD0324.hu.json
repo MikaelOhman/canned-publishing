@@ -12,14 +12,15 @@
   "tldr": "A kormány szeretné módosítani bizonyos adóelőnyök és támogatások szabályait úgy, hogy azok összhangban legyenek az EU állami támogatásokról szóló jogszabályaival. A javaslat többek között új lehetőségeket tartalmaz arra, hogy a vállalatok visszatérítsék azokat a díjakat, amelyeket azért kaptak, mert új munkavállalókat alkalmaztak.",
   "lattlast": "<p>A kormány egy javaslatot terjesztett be a svéd adószabályok módosítására. A cél az, hogy biztosítsák, hogy az állami támogatások, amelyeket a vállalatok és magánszemélyek kapnak, megfeleljenek az EU szabályainak a megengedett támogatások tekintetében. Ha a szabályok nem kerülnek betartásra, az illegális állami támogatásként minősülhet az állam részéről egyes vállalatok számára.</p><p>Egy fontos példa a &quot;növekedési támogatás&quot;. Ez a munkáltatói járulékok csökkentése, amelyet a vállalatok kapnak, amikor első vagy második alkalmazottat alkalmaznak. A kormány javasolja, hogy ezt a támogatást a pénz visszatérítése formájában kellene nyújtani. Ahhoz, hogy a Nemzeti Adóhatóság ellenőrizhesse ezt, a vállalatoknak több információt kellene benyújtaniuk, mint eddig.</p><p>Változásokat terveznek a regionális adókedvezmények terén is. Ez egy alacsonyabb járulék a munkáltatók számára, akik Észak-Svédország és Nyugat-Svédország egyes részein tevékenykednek. A szabályokat most úgy módosítják, hogy azok megfeleljenek az EU regionális támogatásokra vonatkozó szabályainak. Ez azt is jelenti, hogy azoknak a tevékenységeknek a köre, amelyek számára adókedvezmény igényelhető, megváltozik.</p><p>Egyéb adókedvezmények is érintettek lesznek, például a vidéki területeken élők támogatása vagy a megújuló energia termelése. Azok számára, akik vállalkozást működtetnek és jogosultak ezekre a támogatásokra, a közzétételi követelmények változnak. A legtöbb új törvény várhatóan 2026. január 1-jén lép hatályba.</p>",
   "relevans": {
-    "arbetsgivare": 2,
-    "b_industri": 1,
-    "avgifter": 2,
-    "konkurrens": 3,
-    "f_landsbygd": 1,
-    "glesbygd": 1,
-    "kronisk": 1,
-    "konsument": 1,
-    "klimat": 1
+    "solo": 6,
+    "smaforetag": 7,
+    "arbetsgivare": 7,
+    "avgifter": 8,
+    "f_landsbygd": 5,
+    "glesbygd": 4,
+    "b_grona": 4,
+    "aktiebolag": 4,
+    "regelborda": 5,
+    "eu_marknad": 5
   }
 }

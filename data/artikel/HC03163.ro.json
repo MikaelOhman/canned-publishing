@@ -12,10 +12,13 @@
   "tldr": "Guvernul dorește să modifice legile pentru a reduce violența cauzată de explozivi. Scopul este de a face mai dificilă utilizarea explozivilor de către infractori, prin acordarea unui control și responsabilități mai mari agenției MSB.",
   "lattlast": "<p>Având în vedere creșterea numărului de atentate cu explozivi în Suedia, guvernul dorește să înăsprească regulile privind manipularea substanțelor explozive. Scopul este de a preveni utilizarea explozivilor de către infractori împotriva oamenilor și a locuințelor. Pentru a atinge acest obiectiv, se propun noi reguli care ar trebui să intre în vigoare începând cu 15 iulie 2025.</p><p>Agenția pentru protecția civilă și pregătire, adesea abreviată MSB, va avea un rol mai important. MSB va coordona activitatea pe care o desfășoară municipalitățile atunci când acordă permise pentru lucrări cu explozivi. MSB va, de asemenea, verifica dacă municipalitățile își îndeplinesc corect atribuțiile și va facilita revocarea permiselor, dacă este necesar.</p><p>Persoanele care au permise pentru utilizarea substanțelor explozive trebuie acum să notifice municipalitatea de fiecare dată când utilizează sau depozitează aceste substanțe. Dacă o companie trebuie să utilizeze explozivi în mai multe municipalități, o singură municipalitate va gestiona toate permisele. În plus, informațiile din aceste cazuri vor fi confidențiale, astfel încât infractorii să nu poată afla unde se află explozivii.</p><p>Există, de asemenea, reguli privind utilizarea armelor de foc. Nu este permisă utilizarea explozivilor sau a armelor de foc în zonele cu plan urbanistic, cum ar fi orașele, fără o autorizație de la Poliție. Persoanele sub 18 ani nu pot utiliza anumite tipuri de arme în aer liber fără o autorizație, cu excepția cazului în care sunt supravegheate de un adult de peste 20 de ani.</p>",
   "relevans": {
-    "tillstand": 3,
+    "jagare": 4,
+    "otrygg": 5,
+    "brottsoffer": 3,
+    "b_bygg": 4,
+    "tillstand": 6,
+    "f_kommun": 3,
     "regelborda": 3,
-    "mark_bygglov": 1,
-    "bygger": 1,
-    "otrygg": 1
+    "integritet": 3
   }
 }

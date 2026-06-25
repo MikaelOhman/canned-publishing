@@ -12,8 +12,10 @@
   "tldr": "El gobierno quiere facilitar que los ciudadanos obtengan respuestas cuando la Autoridad de Protección de Datos (IMY) tarda demasiado en procesar las quejas relacionadas con datos personales. Si han transcurrido tres meses, se deberá poder exigir una respuesta sobre el estado de la queja.",
   "lattlast": "<p>Actualmente, puede llevar mucho tiempo obtener una respuesta cuando se informa algo a la Autoridad de Protección de Datos, el organismo encargado de supervisar el cumplimiento de las normas sobre datos personales. Por lo tanto, el gobierno quiere modificar la ley para otorgar a los ciudadanos más poder para obtener respuestas a sus preguntas.</p><p>Si han transcurrido tres meses desde que presentó una queja, usted tiene derecho a solicitar a la autoridad una respuesta. La autoridad debe informar, en un plazo de dos semanas, si va a iniciar una investigación o no. Si no responden dentro de ese plazo, se considerará que han rechazado su solicitud.</p><p>Si la autoridad rechaza investigar su queja, tiene derecho a apelar la decisión ante un tribunal llamado &quot;förvaltningsrätten&quot;. Si el tribunal considera que la autoridad debería haber respondido a su pregunta, puede obligar a la autoridad a proporcionarle una respuesta lo antes posible.</p><p>Las nuevas normas están previstas para entrar en vigor el 1 de mayo de 2025. El objetivo es garantizar que la autoridad funcione de manera más eficiente y no deje que los casos permanezcan sin respuesta durante demasiado tiempo, sin proporcionar información.</p>",
   "relevans": {
-    "b_fastighet": 1,
-    "gdpr": 3,
-    "integritet": 2
+    "gdpr": 7,
+    "integritet": 6,
+    "konsumentratt": 3,
+    "regelborda": 4,
+    "digitalisering": 3
   }
 }

@@ -12,10 +12,13 @@
   "tldr": "Guvernul dorește să modifice regulile privind modul în care serviciul de executare silită (Kronofogden) preia bunuri de la persoanele cu datorii. Scopul este de a accelera procesul de achitare a datoriilor și de a facilita vânzarea de case și apartamente pentru a obține lichidități.",
   "lattlast": "<p>Guvernul a prezentat o propunere care vizează simplificarea activității Biroului de Execuții (Kronofogden). Prin permiterea unui număr mai mare de instituții să participe la confiscare la distanță, adică verificarea activelor fără a fi prezenți fizic, se speră că se vor putea identifica mai multe bunuri care pot fi vândute. Acest lucru ar trebui să ajute persoanele care au dreptul la despăgubiri și pe cele care așteaptă să fie plătite pentru datoriile lor.</p><p>Există, de asemenea, propuneri de modificare a modului în care casele și apartamentele sunt vândute atunci când sunt confiscate pentru a plăti datoriile. Se dorește ca acest proces să funcționeze mai mult ca o vânzare obișnuită, de exemplu, prin licitații online sau prin intermediul agenților imobiliari. Ideea este că acest lucru ar trebui să ducă la vânzarea bunurilor la un preț mai mare, ceea ce ar permite alocarea unei sume mai mari pentru plata datoriilor.</p><p>Având în vedere că aceasta reprezintă o intervenție semnificativă în viața oamenilor, guvernul dorește, de asemenea, să clarifice regulile. Se propune ca în lege să fie stipulat în mod explicit că Biroul de Execuții trebuie să țină cont de ceea ce este rezonabil și să acorde întotdeauna prioritate interesului superior al copilului. Acest lucru este important pentru a proteja familiile care sunt afectate de confiscare.</p><p>Dacă Parlamentul votează în favoarea propunerii, noile reguli vor intra în vigoare începând cu 1 iulie 2026. Propunerea implică, de asemenea, modificări în mai multe alte legi care vizează impozitele, vama și garda de coastă, pentru a asigura coerența.</p>",
   "relevans": {
-    "b_fastighet": 1,
-    "import": 1,
-    "barn": 1,
-    "lantagare": 1,
-    "skuldsatt": 1
+    "skuldsatt": 10,
+    "lantagare": 7,
+    "bostadsagare": 7,
+    "hyresgast": 4,
+    "brottsoffer": 5,
+    "barn": 5,
+    "b_finans": 4,
+    "b_fastighet": 4
   }
 }

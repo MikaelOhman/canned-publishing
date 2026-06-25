@@ -12,9 +12,16 @@
   "tldr": "Regeringen vill ge myndigheten IVO mer makt att kontrollera att vård och omsorg fungerar bra. Syftet är att skydda människor som får hjälp av socialtjänsten eller LSS (stöd för personer med funktionsnedsättning).",
   "lattlast": "<p>Regeringen har gjort ett förslag på nya lagar som ska börja gälla den 1 januari 2026. Myndigheten IVO, som kallas Inspektionen för vård och omsorg, ska få bättre verktyg för att kontrollera att alla som jobbar med vård och omsorg följer reglerna. Om en verksamhet inte sköter sig ska IVO kunna ge böter eller förbjuda dem att fortsätta arbeta.</p><p>Det innebär också att företag eller organisationer som har ett tillstånd men inte har använt det på länge kan förlora sin rätt att driva verksamhet. Om någon fortsätter att driva en verksamhet trots att de har fått ett förbud, föreslår regeringen att det ska bli ett straff för detta. Man vill också kontrollera noga att även de företag som ägs av andra personer är lämpliga att driva vård.</p><p>För att hjälpa IVO att hitta fel ska kommunerna bli skyldiga att rapportera in mer information till myndigheten. Detta gäller både för kommunens egna verksamheter och för privata företag som erbjuder hjälp enligt socialtjänstlagen eller LSS. LSS är en lag som ger stöd till personer med vissa funktionsnedsättningar.</p><p>Slutligen föreslår regeringen att avgiften för felaktiga beslut ska höjas. En avgift ska betalas om beslut om hjälp inte genomförs i rätt tid. Syftet med alla dessa ändringar är att se till att kvaliteten på vården och omsorgen blir högre och att rättigheterna för de som behöver hjälp skyddas bättre.</p>",
   "relevans": {
-    "b_vard": 3,
-    "tillstand": 1,
-    "kronisk": 3,
-    "funktion": 2
+    "b_vard": 8,
+    "b_utbildning": 3,
+    "tillstand": 7,
+    "kronisk": 4,
+    "funktion": 6,
+    "pensionar": 4,
+    "anhorigvardare": 4,
+    "ideell": 4,
+    "regelborda": 4,
+    "f_kommun": 4,
+    "offentliganstalld": 4
   }
 }

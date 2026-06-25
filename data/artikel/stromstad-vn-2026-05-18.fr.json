@@ -13,11 +13,12 @@
   "tldr": "La commission électorale de Strömstad s'est préparée aux élections de 2026 en examinant les questions de sécurité, de transport des bulletins de vote et d'accessibilité des bureaux de vote. Deux personnes ont été spécialement désignées pour gérer les votes des personnes dont les données personnelles sont protégées.",
   "lattlast": "<p>La commission électorale a examiné les plans pour les prochaines élections. Elle a évalué les mesures de sécurité et la manière dont les votes seront transportés à la préfecture le jour suivant les élections, le 14 septembre 2026. Le processus sera le même que lors des élections précédentes.</p><p>La commission a également vérifié tous les bureaux de vote. Elle a examiné si les locaux sont sûrs et accessibles aux personnes à mobilité réduite, notamment celles qui utilisent un fauteuil roulant. Tous les bureaux de vote de Strömstad répondent à ces exigences.</p><p>Afin de protéger les personnes dont les données personnelles sont soumises à des restrictions, la commission a sélectionné deux personnes, Jessica Corneliusson et Ulrika Haugland. Elles ont reçu une autorisation spéciale dans le système électoral, appelée &quot;L-SKYAD&quot;. Cela leur permet de gérer et d&#x27;enregistrer les votes anticipés de ces électeurs de manière sécurisée.</p><p>Des informations ont également été présentées concernant les menaces potentielles liées aux élections, ainsi qu&#x27;un prochain entretien avec les auditeurs, chargés de vérifier que la commune respecte ses obligations. La commission a également discuté des règles relatives au recrutement des agents de bureau de vote et de l&#x27;influence exercée en dehors des bureaux de vote.</p>",
   "relevans": {
-    "b_transport": 1,
-    "kompetens": 1,
-    "gdpr": 1,
-    "lokaler": 1,
-    "funktion": 1,
-    "integritet": 1
+    "f_kommun": 4,
+    "integritet": 4,
+    "funktion": 4,
+    "fortroendevald": 5,
+    "offentliganstalld": 3,
+    "digital_ovan": 3,
+    "ny_i_sverige": 3
   }
 }

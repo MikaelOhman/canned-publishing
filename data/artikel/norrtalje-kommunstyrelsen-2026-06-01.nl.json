@@ -13,20 +13,16 @@
   "tldr": "Het gemeentebestuur van Norrtälje heeft verschillende beslissingen genomen over investeringen in de gebouwen, scholen en het milieu van de gemeente, evenals wijzigingen in bouwplannen en tarieven.",
   "lattlast": "<p>Het gemeentebestuur heeft een aantal belangrijke investeringen goedgekeurd voor 2026. Dit omvat onder andere de sloop van het gebouw Jupiter 1 om parkeerplaatsen en groene zones te creëren, en de bouw van een nieuw sorteercentrum voor restafval bij Hamnplan in de haven van Norrtälje. Er wordt ook geïnvesteerd in de vervanging van alarm- en toegangscontrolesystemen in gemeentelijke gebouwen, en in aanpassingen aan scholen voor leerlingen met speciale behoeften.</p><p>Er zijn ook wijzigingen doorgevoerd in regels en tarieven. Dit betreft onder andere nieuwe prijzen voor diensten aangeboden door de afdeling jeugd en onderwijs, en nieuwe tarieven voor cultuur en recreatie. Daarnaast zijn wijzigingen in bestemmingsplannen voor gebieden in Åkerö en Häverö-Bergby goedgekeurd, om te bepalen hoe het land mag worden gebruikt.</p><p>De gemeente heeft ook financiële steun ontvangen uit een speciaal fonds, de &quot;landschaps- en creatie-fond&quot;, om de ontwikkeling in het gebied te ondersteunen. Tegelijkertijd is er gekeken hoe de bestrijding van criminaliteit die de sociale voorzieningen aantast, kan worden verbeterd, bijvoorbeeld door duidelijke procedures voor aangiftes bij de politie te implementeren en door het terugvorderen van onterecht betaalde bedragen.</p><p>Tenslotte is er gesproken over de toegankelijkheid van alle gemeentelijke diensten. Het doel is om oplossingen te vinden die het voor alle mensen gemakkelijker maken om gebruik te maken van de gemeentelijke diensten en gebouwen.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_vard": 1,
-    "b_kultur": 1,
-    "finansiering": 1,
-    "infrastruktur": 1,
-    "f_landsbygd": 1,
-    "barn": 1,
-    "glesbygd": 1,
-    "bil": 1,
-    "funktion": 1,
-    "konsument": 2,
-    "batagare": 1,
-    "klimat": 1,
-    "kultur": 1,
-    "otrygg": 1
+    "f_kommun": 5,
+    "mark_bygglov": 4,
+    "barn": 4,
+    "funktion": 4,
+    "klimat": 3,
+    "b_fastighet": 3,
+    "b_utbildning": 3,
+    "lokaler": 3,
+    "miljo": 3,
+    "idrott": 3,
+    "glesbygd": 3
   }
 }

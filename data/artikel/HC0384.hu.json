@@ -12,10 +12,14 @@
   "tldr": "A Riksrevisionen (Svéd Számvevőszék) hiányosságokat talált abban, ahogyan az állam támogatja az ipari szektor klímaváltozás elleni átalakulását az \"Industriklivet\" (Iparágak ugrása) program keretében. A kormány most felülvizsgálja a támogatások működését, hogy elkerülje a felesleges duplikációt.",
   "lattlast": "<p>A Riksrevisionen egy intézmény, amely felügyeli, hogy az állam hogyan használja fel pénzeit. Készítettek egy jelentést az &quot;Industriklivet&quot; programról, amelynek célja, hogy segítséget nyújtson az iparnak a környezetbarátabbá válásban. A jelentés rámutat arra, hogy problémák merültek fel abban, ahogyan a kormány és az Energimyndigheten (Energiaügyi Hatóság) tervezte és irányította ezt a munkát.</p><p>Mivel vannak hiányosságok, fennáll a veszély, hogy a pénzek nem segítenek Svédországnak abban, hogy hatékonyan elérje a klímavédelmi céljait. A kormány egyetért abban, hogy vannak olyan területek, ahol javításra van szükség, és elfogadja a kritika bizonyos részeit.</p><p>A problémák megoldása érdekében a kormány felkérte a Naturvårdsverket (Természetvédelmi Hatóság) és az Energimyndigheten-t, hogy vizsgálják felül két különböző támogatási programot. Meg kell vizsgálniuk, hogy a &quot;Klimatklivet&quot; és az &quot;Industriklivet&quot; programok ugyanazt a célt szolgálják-e, és hogy szükség van-e módosításokra annak érdekében, hogy ne ütközzenek egymással.</p><p>A kormány befejezte a jelentés kezelését. Ez azt jelenti, hogy elolvasták a kritikát, és döntöttek arról, hogy milyen lépéseket kell tenni a hibák kijavítása érdekében.</p>",
   "relevans": {
-    "b_industri": 3,
-    "b_energi": 1,
-    "gron_omstallning": 3,
-    "energikund": 1,
-    "klimat": 3
+    "b_industri": 8,
+    "b_energi": 6,
+    "gron_omstallning": 7,
+    "miljo": 5,
+    "fou": 4,
+    "energiintensiv": 7,
+    "storforetag": 5,
+    "hallbarhetsrapport": 4,
+    "klimat": 4
   }
 }

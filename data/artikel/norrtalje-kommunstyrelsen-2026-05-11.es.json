@@ -13,8 +13,14 @@
   "tldr": "La Asociación de Municipios y Regiones de Suecia (SKR) ofrece a la municipalidad de Norrtälje una colaboración para fortalecer la protección contra ataques informáticos, es decir, la ciberseguridad. La municipalidad debe responder a esta oferta a más tardar el 15 de junio de 2026.",
   "lattlast": "<p>La organización SKR, que representa a los municipios y regiones de Suecia, ha enviado una propuesta para colaborar en la mejora de la seguridad de los sistemas digitales. Esta iniciativa, denominada &quot;esfuerzo conjunto en ciberseguridad&quot;, tiene como objetivo proteger información importante contra amenazas digitales.</p><p>La propuesta forma parte de un proyecto más amplio de desarrollo digital. Se dirige a la dirección del municipio y a aquellos responsables de asuntos de TI. También se ofrecen reuniones virtuales gratuitas donde se puede obtener más información sobre cómo funciona la colaboración.</p><p>Para avanzar con la propuesta, el municipio debe responder antes del 15 de junio de 2026. Si el municipio no desea participar, también debe responder y explicar las razones de su negativa.</p><p>La primera reunión virtual para presentar la propuesta tendrá lugar el 13 de mayo de 2026. También existe la posibilidad de hacer preguntas en una reunión virtual el 19 de mayo de 2026.</p>",
   "relevans": {
-    "b_it": 1,
-    "gdpr": 1,
-    "kronisk": 1
+    "gdpr": 5,
+    "digitalisering": 5,
+    "f_kommun": 5,
+    "b_it": 4,
+    "infrastruktur": 3,
+    "offentliganstalld": 4,
+    "fortroendevald": 4,
+    "integritet": 4,
+    "bredbandsberoende": 3
   }
 }

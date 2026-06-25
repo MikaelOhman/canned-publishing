@@ -12,9 +12,12 @@
   "tldr": "Sweden aims to amend its laws to better protect the country against cyberattacks. By changing the regulations, government agencies will be able to more easily share important information with each other.",
   "lattlast": "<p>The National Cyber Security Centre, known as NCSC, is part of the Swedish Defence Radio Agency, also known as FRA. Their job is to detect and stop digital threats and attacks against Sweden&#x27;s computers and networks. To do a good job, they need to be able to communicate with other authorities and share information.</p><p>Currently, there are regulations regarding confidentiality that make it difficult for authorities to share the information needed. Therefore, the government wants to introduce new laws. They propose a new law that requires authorities to share information with each other, and a new law regarding how FRA can handle personal data in its work.</p><p>The government also wants to amend the law called the Public Access and Secrecy Act. The purpose is to protect individuals while also enabling cooperation against IT threats. These changes are important for making Sweden&#x27;s digital society more secure.</p><p>If the Parliament votes in favor of the proposal, the new laws will come into effect on July 15, 2026.</p>",
   "relevans": {
-    "b_it": 1,
-    "gdpr": 3,
-    "integritet": 1,
-    "varnpliktig": 1
+    "gdpr": 7,
+    "digitalisering": 6,
+    "integritet": 6,
+    "b_it": 6,
+    "bredbandsberoende": 4,
+    "storforetag": 4,
+    "offentliganstalld": 5
   }
 }

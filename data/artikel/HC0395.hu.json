@@ -12,9 +12,10 @@
   "tldr": "A Rikrevision (a svéd ellenőrző szerv) felülvizsgálta, hogy a kormányzati szervekben dolgozó alkalmazottak hogyan teljesítenek, amikor otthonról dolgoznak. Az eredmények azt mutatják, hogy a távmunka nem rontotta a munkavégzést, de továbbra is figyelni kell arra, hogy ez hogyan befolyásolja a munkakörülményeket.",
   "lattlast": "<p>A Riksrevisionen egy intézmény, amely ellenőrzi, hogy a kormány megfelelően végezze feladatait. Egy jelentést készítettek arról, hogyan teljesítenek a kormányzati szervek, amikor az alkalmazottak távmunkában dolgoznak, azaz amikor nem az irodában tartózkodnak. Vizsgálat tárgya volt, hogy a munka továbbra is jó minőségű-e, annak ellenére, hogy az emberek otthonról dolgoznak.</p><p>Az eredmények azt mutatják, hogy a szervek jól kezelték ezt a helyzetet, és a munka hatékonyan zajlik a távmunkában is. Betartották a szabályokat, és megfelelően ellenőrizték a folyamatokat. Tehát a kormányzati szervek feladatai nem szenvedtek csorbát az alkalmazottak otthoni munkavégzése miatt.</p><p>Annak ellenére, hogy a rendszer jól működik, a Riksrevisionen bizonyos problémákat lát, amelyek a jövőben felmerülhetnek. Ezért úgy vélik, hogy továbbra is figyelni kell arra, hogy a távmunka hogyan befolyásolja a teljesített munka mennyiségét és az alkalmazottak munkakörülményeit. Fontos, hogy a munkavégzés ne legyen kevésbé biztonságos.</p><p>A kormány egyetért a Riksrevisionen által közölt állításokkal. Ők is úgy vélik, hogy fontos továbbra is nyomon követni, hogy a távmunka hogyan befolyásolja a kormányzati szervek működését és az alkalmazottak egészségét. A jelentés most elkészült, és a kormány továbbra is figyelemmel kíséri ezt a kérdést.</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "arbetsmiljo": 1,
-    "lokaler": 1,
-    "bredbandsberoende": 3
+    "offentliganstalld": 7,
+    "lontagare": 5,
+    "arbetsmiljo": 6,
+    "pendlare": 4,
+    "arbetsratt": 4
   }
 }

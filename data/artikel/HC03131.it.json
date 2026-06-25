@@ -12,10 +12,19 @@
   "tldr": "Il governo propone nuove leggi per migliorare l'ambiente e controllare il consumo di energia. Queste misure includono, tra l'altro, l'obbligo per i data center di dichiarare il loro consumo di elettricità e la modifica delle normative sui carburanti.",
   "lattlast": "<p>Il governo intende modificare diverse leggi per conformarsi alle nuove normative dell&#x27;UE. Un aspetto fondamentale è che i data center, ovvero le grandi strutture che immagazzinano informazioni digitali, dovranno iniziare a segnalare il consumo energetico a un database europeo comune. Questo è necessario per avere un quadro più preciso della quantità di energia impiegata nelle tecnologie digitali.</p><p>Inoltre, verranno introdotte normative più rigorose per definire cosa si considera combustibile sostenibile. Ciò significa che saranno stabiliti nuovi requisiti affinché i combustibili derivati, ad esempio, da materiali riciclati o da altre fonti ecocompatibili, soddisfino determinati standard ambientali. Anche le leggi relative alla tassazione dell&#x27;energia e ai certificati di energia saranno modificate per essere conformi alle nuove normative.</p><p>Per quanto riguarda i carburanti utilizzati nelle automobili, sono state proposte nuove soglie per l&#x27;obbligo di riduzione. L&#x27;obbligo di riduzione è la quota di carburante più ecologico che deve essere miscelato con la benzina e il diesel. Ora si propone che questo requisito possa essere soddisfatto anche utilizzando elettricità prodotta da fonti non fossili. Allo stesso tempo, si propone di eliminare l&#x27;obbligo per i fornitori di carburante di ridurre le emissioni di gas serra.</p><p>La maggior parte di queste nuove normative dovrebbe entrare in vigore il 1° luglio 2025. Tuttavia, alcune parti relative ai requisiti ambientali per i combustibili entreranno in vigore in un secondo momento, rispettivamente il 1° gennaio 2026 o il 1° gennaio 2030.</p>",
   "relevans": {
-    "b_energi": 1,
-    "miljo": 1,
-    "bil": 3,
-    "energikund": 2,
-    "klimat": 2
+    "b_it": 7,
+    "b_transport": 6,
+    "b_energi": 6,
+    "b_industri": 5,
+    "energiintensiv": 7,
+    "gron_omstallning": 6,
+    "hallbarhetsrapport": 5,
+    "eu_marknad": 5,
+    "miljo": 5,
+    "digitalisering": 5,
+    "bil": 4,
+    "energikund": 4,
+    "klimat": 5,
+    "punktskatt": 4
   }
 }

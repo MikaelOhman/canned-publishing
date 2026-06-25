@@ -12,11 +12,11 @@
   "tldr": "Nya regler från EU gör att fler stora lastbilar och fordon ska räknas som utsläppsfria. Detta innebär att svenska lagar om vägavgifter och avgifter för tunga fordon behöver ändras.",
   "lattlast": "<p>Regeringen har lagt fram ett förslag om att ändra flera svenska lagar. Syftet är att de nya reglerna ska stämma överens med nya regler från EU. Det handlar främst om hur vi ser på utsläpp från stora fordon, som lastbilar.</p><p>Genom ändringarna kommer fler typer av tunga fordon att räknas som utsläppsfria. Det betyder att de inte ska räknas som miljöfarliga på samma sätt som tidigare. Det påverkar lagar som handlar om infrastrukturavgifter på väg och hur fordon delas in i olika klasser baserat på hur mycket koldioxid de släpper ut.</p><p>Förslaget innebär också ändringar i hur man räknar ut referensvärden för koldioxidutsläpp. Det finns även ändringar i de regler som gäller under en övergångsperiod, det vill säga tiden när man går från de gamla reglerna till de nya.</p><p>Om riksdagen röstar ja till förslaget kommer de nya reglerna att börja gälla den 1 juli 2025. Detta gäller för de lagar som rör vägavgifter och avgifter för tunga fordon.</p>",
   "relevans": {
-    "arbetsratt": 1,
-    "miljo": 3,
-    "infrastruktur": 1,
-    "glesbygd": 1,
-    "konsument": 1,
-    "klimat": 3
+    "b_transport": 8,
+    "b_industri": 5,
+    "gron_omstallning": 5,
+    "eu_marknad": 5,
+    "miljo": 4,
+    "klimat": 4
   }
 }

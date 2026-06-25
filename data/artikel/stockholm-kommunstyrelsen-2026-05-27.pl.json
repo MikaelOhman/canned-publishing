@@ -13,12 +13,13 @@
   "tldr": "Komisja ds. spraw miejskich w Sztokholmie podjęła decyzję w sprawie odpowiedzi na szereg propozycji, obejmujących tematy od bezpieczeństwa w dzielnicy Kista, po kulturę i drzewa w mieście. Bezpośrednio nie zostaną uruchomione żadne nowe, duże inwestycje, ale decyzje polityczne dotyczące kolejnych etapów są już podjęte.",
   "lattlast": "<p>Komisja ds spraw miejskich w Sztokholmie odbyła posiedzenie 27 maja 2026 roku. Podczas spotkania omawiano różne propozycje, nazywane wnioskami i pismami, dotyczące rozwoju miasta.</p><p>Jednym z tematów była sytuacja w dzielnicy Kista. Politycy zdecydowali się odpowiedzieć na list dotyczący tego problemu, opierając się na propozycji przygotowanej przez administrację. Partia Moderaterna nie była jednak zadowolona z tej decyzji i wyraziła swoje odmienne zdanie.</p><p>Rozważano również możliwość zwiększenia liczby toalet i szatni przy boiskach piłkarskich. Komisja ds spraw miejskich przekazała swoją odpowiedź do rady miejskiej, która jest gremium polityków podejmujących ostateczne decyzje w mieście. Również tutaj politycy z różnych partii chcieli innego rozwiązania.</p><p>Na koniec poruszono kwestie życia kulturalnego i nocnego w mieście, a także propozycję posadzenia większej liczby mobilnych drzew w Sztokholmie. W wszystkich tych sprawach komisja ds spraw miejskich zdecydowała się postępować zgodnie z propozycjami przygotowanymi przez urzędników (rady miejskiej).</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "b_fastighet": 1,
-    "b_kultur": 1,
-    "glesbygd": 1,
-    "idrott": 1,
-    "kultur": 1,
-    "otrygg": 1
+    "f_kommun": 4,
+    "storstad": 4,
+    "otrygg": 4,
+    "idrott": 3,
+    "kultur": 3,
+    "offentliganstalld": 3,
+    "b_kultur": 3,
+    "klimat": 3
   }
 }

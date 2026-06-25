@@ -12,10 +12,24 @@
   "tldr": "La Agencia Tributaria (Skatteverket) quiere mejorar el control sobre el fraude relacionado con las deducciones fiscales, por ejemplo, para servicios de limpieza y paneles solares. La propuesta implica que será más fácil para la agencia fiscalizar a las empresas y detectar delitos en el ámbito laboral.",
   "lattlast": "<p>El gobierno ha presentado una propuesta de nuevas normas que buscan dificultar el fraude fiscal. Se trata de las deducciones conocidas como &quot;ROT&quot;, &quot;RUT&quot; y &quot;tecnología verde&quot;, que son cantidades que se devuelven al adquirir servicios como limpieza o instalación de paneles solares.</p><p>Ahora, las empresas que realizan el trabajo deberán informar de manera más clara si han utilizado otras empresas o agencias de personal para prestar asistencia. La Agencia Tributaria tendrá mayores posibilidades de realizar controles y visitar empresas para verificar que todo se esté llevando a cabo correctamente. También será más fácil enviar información digitalmente a la administración.</p><p>Si una empresa ha recibido fondos incorrectamente, la Agencia Tributaria podrá reclamarlos y calcular un costo adicional en forma de intereses. También será posible verificar los impuestos posteriormente si se detectan errores en la solicitud de deducción fiscal.</p><p>Si todas estas modificaciones son aprobadas por el Parlamento, las nuevas normas entrarán en vigor el 1 de enero de 2027. El objetivo es detener el fraude fiscal y la delincuencia laboral, facilitando a la Agencia Tributaria la verificación de lo que realmente está sucediendo.</p>",
   "relevans": {
-    "arbetsgivare": 3,
-    "b_konsult": 1,
-    "sparare": 1,
-    "lantagare": 1,
-    "otrygg": 1
+    "solo": 6,
+    "aktiebolag": 6,
+    "arbetsgivare": 6,
+    "smaforetag": 7,
+    "storforetag": 5,
+    "familjeforetag": 6,
+    "b_bygg": 6,
+    "b_vard": 5,
+    "b_konsult": 6,
+    "b_it": 4,
+    "moms": 5,
+    "redovisning": 6,
+    "regelborda": 6,
+    "tillstand": 4,
+    "upphandling": 4,
+    "bostadsagare": 5,
+    "bygger": 6,
+    "konsument": 4,
+    "foretagare": 6
   }
 }

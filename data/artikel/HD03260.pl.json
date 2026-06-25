@@ -12,10 +12,12 @@
   "tldr": "Rząd zamierza zmienić przepisy dotyczące kontroli badań na ludziach, aby uprościć ten proces. Niektóre badania, które dotyczą wrażliwych danych osobowych, nie będą już wymagały formalnej zgody, ale badacz musi sam upewnić się, że przepisy są przestrzegane.",
   "lattlast": "<p>Rząd przedstawił propozycję zmiany przepisów dotyczących etycznej oceny badań naukowych. Celem jest uczynienie kontroli badań dotyczących ludzi bardziej efektywną i przejrzystą. Propozycja ta obejmuje m.in. zmiany, które pozwolą niektórym rodzajom badań uniknąć konieczności uzyskiwania specjalnej zgody, jeśli dotyczą one wrażliwych danych osobowych lub informacji o przestępstwach.</p><p>Osoba prowadząca badania, zwana głównym badaczem, będzie odpowiedzialna za ocenę, czy dane badania podlegają nowym wyłączeniom. Istnieje również możliwość złożenia wniosku o dobrowolną kontrolę, jeśli chcemy mieć pewność, że wszystko przebiega zgodnie z przepisami.</p><p>Zmiany obejmują również sposób kontroli przestrzegania przepisów. Komisja odwoławcza ds. etycznej oceny badań, zwana &quot;Önep&quot;, otrzyma większe uprawnienia do wyrażania opinii na temat błędów w badaniach. Komisja będzie również mogła udzielać wskazówek, aby przepisy były stosowane w ten sam sposób w całym kraju. Decyzje dotyczące badań nie będą mogły być odwołane, a komisja nie będzie zobowiązana do zgłaszania podejranych przestępstw policji.</p><p>Jeśli propozycja zostanie przyjęta, nowe przepisy wejdą w życie 1 lipca 2027 roku. Propozycja ta zawiera również zmiany w przepisach dotyczących przetwarzania danych osobowych w instytucjach takich jak IFAU i Inspektionen för socialförsäkringen.</p>",
   "relevans": {
-    "gdpr": 1,
-    "fou": 3,
-    "glesbygd": 1,
-    "otrygg": 1,
-    "integritet": 1
+    "gdpr": 5,
+    "integritet": 4,
+    "b_life": 5,
+    "fou": 6,
+    "b_it": 3,
+    "offentliganstalld": 3,
+    "digitalisering": 3
   }
 }

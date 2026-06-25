@@ -12,12 +12,15 @@
   "tldr": "A kormány egy új törvényt akar bevezetni, amely lehetővé teszi az állam számára, hogy anyagi támogatást nyújtson az új atomerőművek építéséhez Svédországban. Ennek célja, hogy csökkentsék a reaktorokat építő vállalatok kockázatait.",
   "lattlast": "<p>A kormány egy új törvénytervezetet dolgozott ki, amely 2025. augusztus 1-jén lép hatályba. A törvény arról szól, hogyan nyújthat az állam pénzügyi támogatást azoknak a vállalatoknak, amelyek új atomerőműveket kívánnak építeni Svédországban. Ez fontos annak érdekében, hogy biztonságosabb és egyszerűbb legyen a nagyméretű beruházások végrehajtása az energia termelés terén.</p><p>A támogatás kétféleképpen nyújtható. Először is, az állam kölcsönöket nyújthat a vállalatoknak az építés és a felkészülési költségek fedezésére. Másodszor, egy olyan mechanizmus javasolásra kerül, amelyet &quot;kétirányú különbségkontraktusnak&quot; neveznek. Ez egy megállapodás az állam és a vállalat között, amely egyfajta biztosítást jelent. Ha az áram ára túl alacsony, a vállalat kártérítést kap, de ha az áram ára nagyon magas, a vállalatnak egy részét a nyereségéből vissza kell fizetnie az államnak.</p><p>Szabályok határozzák meg, hogy mikor lehet támogatást nyújtani. Az új atomerőműveknek ugyanazon a helyen kell lenniük, és együttesen legalább 300 MW kapacitással kell rendelkezniük, ami azt mutatja, hogy mennyi áramot képesek termelni. Ha különleges indokok vannak, a kormány dönthet úgy, hogy kisebb projektek is jogosultak támogatásra. Minden pénzügyi megállapodás világos feltételeket tartalmaz, amelyeket az állam és a vállalat közösen határoznak meg.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_finans": 3,
-    "b_energi": 1,
-    "bolagsskatt": 1,
-    "finansiering": 3,
-    "energiintensiv": 1,
-    "energikund": 1
+    "b_energi": 8,
+    "energiintensiv": 6,
+    "energikund": 5,
+    "storforetag": 6,
+    "aktiebolag": 4,
+    "finansiering": 5,
+    "gron_omstallning": 4,
+    "klimat": 4,
+    "f_kommun": 3,
+    "mark_bygglov": 3
   }
 }

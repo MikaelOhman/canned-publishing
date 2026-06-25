@@ -13,17 +13,13 @@
   "tldr": "Gmina Alingsås podjęła decyzję o wprowadzeniu nowych opłat za opiekę zdrowotną i socjalną, które będą obowiązywać od 2026 roku. Oznacza to, między innymi, że gmina zacznie pobierać opłaty za transport osób zmarłych.",
   "lattlast": "<p>W gminie Alingsås podjęto decyzję o nowych cenach za różne usługi w zakresie opieki zdrowotnej i społecznej, które będą obowiązywać od 2026 roku. Zmiana ta wynika z nowych przepisów prawa oraz wprowadzenia opłat za transport osób zmarłych, co do tej pory nie było praktykowane.</p><p>Gmina przeprowadziła badania, analizując, jak działają inne gminy w regionie goteborskim. Okazało się, że większość z nich pobiera opłaty za tego typu transporty. Zgodnie z prawem, gmina ma prawo pobierać opłaty, które odpowiadają rzeczywistym kosztom świadczenia tej usługi dla gminy.</p><p>Oprócz tego, podjęto nowe przepisy dotyczące pozwoleń na budowę oraz zmiany w regulaminach dotyczących gospodarki odpadami. Ponadto, przyjęto nowe instrukcje dotyczące zarządzania spółką komunalną Alingsås Energi.</p><p>Podczas spotkania omawiano również współpracę z sąsiednią gminą Borås. Dotyczy to wspólnych działań w obszarach takich jak ochrona środowiska, zdrowie oraz kontrola żywności i alkoholu.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_transport": 1,
-    "b_vard": 1,
-    "b_energi": 1,
-    "miljo": 1,
-    "mark_bygglov": 1,
-    "bygger": 1,
-    "kronisk": 1,
-    "beroende": 1,
-    "energikund": 1,
-    "konsument": 2,
-    "klimat": 1
+    "f_kommun": 6,
+    "pensionar": 5,
+    "anhorigvardare": 4,
+    "kronisk": 4,
+    "b_fastighet": 4,
+    "miljo": 3,
+    "b_vard": 5,
+    "mark_bygglov": 4
   }
 }

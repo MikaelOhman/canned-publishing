@@ -12,9 +12,20 @@
   "tldr": "La Suède souhaite introduire des réglementations plus strictes concernant les produits chimiques et les déchets, afin de se conformer aux nouvelles lois européennes. Il pourrait devenir passible de sanctions de ne pas étiqueter correctement les substances dangereuses lors de leur transvasement dans des récipients.",
   "lattlast": "<p>Le gouvernement a présenté une proposition visant à modifier le code de l&#x27;environnement, la loi qui régit la manière dont nous devons protéger la nature. Cette proposition vise à compléter de nouvelles réglementations de l&#x27;Union européenne concernant les produits chimiques, les emballages et le transport des déchets.</p><p>Une proposition importante est de considérer comme une infraction le non-respect des règles relatives à l&#x27;étiquetage des substances dangereuses. Par exemple, lorsqu&#x27;on fait le plein de produits chimiques dans un réservoir sur une station, il doit y avoir des informations claires sur le contenu et sur la sécurité de l&#x27;emballage. Le non-respect de ces règles peut entraîner des sanctions.</p><p>Il est également proposé que les autorités soient autorisées à prendre en charge ou à retenir des déchets si nécessaire. Ceci afin de garantir le respect des règles régissant le transport des déchets entre les pays. Les autorités doivent pouvoir intervenir en cas de risque de non-respect des règles.</p><p>De plus, le gouvernement ou une autre autorité sera autorisé à décider s&#x27;il existe des exceptions à certaines règles relatives aux emballages. Il peut également s&#x27;agir de permettre à d&#x27;autres que les fabricants d&#x27;emballages de percevoir un acompte lors de la vente de produits. Les nouvelles règles devraient entrer en vigueur le 2 janvier 2027.</p>",
   "relevans": {
-    "b_transport": 1,
-    "miljo": 3,
-    "eu_marknad": 3,
-    "klimat": 1
+    "miljo": 6,
+    "klimat": 5,
+    "gron_omstallning": 5,
+    "konsument": 4,
+    "b_industri": 6,
+    "b_transport": 4,
+    "b_bygg": 4,
+    "b_handel": 4,
+    "hallbarhetsrapport": 5,
+    "produktsakerhet": 6,
+    "regelborda": 4,
+    "eu_marknad": 5,
+    "import": 4,
+    "export": 3,
+    "tillstand": 4
   }
 }

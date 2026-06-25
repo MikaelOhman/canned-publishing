@@ -12,8 +12,11 @@
   "tldr": "Regeringen har gjort en rapport om reglerna för att sälja vapen och teknik som kan användas både till fredliga och militära ändamål under 2024. Rapporten visar vad som har sålts och hur Sverige samarbetar med andra länder.",
   "lattlast": "<p>Regeringen har skrivit en rapport om hur Sverige kontrollerar försäljning till andra länder under år 2024. Det handlar om krigsmateriel, alltså vapen och militär utrustning, men också om produkter med dubbla användningsområden. Det är produkter som kan användas för både vanliga saker och för krig.</p><p>I rapporten berättar regeringen hur mycket av dessa varor som har sålts från Sverige under året. Detta kallas för exportkontroll och är ett sätt att se till att känslig teknik inte hamnar i fel händer.</p><p>Texten beskriver också hur Sverige arbetar tillsammans med andra länder i Europeiska unionen, även kallat EU. Sverige samarbetar även i andra internationella grupper för att ha gemensamma regler kring vad som får säljas till vilka länder.</p>",
   "relevans": {
-    "export": 3,
-    "infrastruktur": 1,
-    "batagare": 1
+    "export": 6,
+    "b_industri": 5,
+    "storforetag": 4,
+    "eu_marknad": 4,
+    "b_it": 3,
+    "fortroendevald": 3
   }
 }

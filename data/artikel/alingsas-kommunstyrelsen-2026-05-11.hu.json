@@ -13,15 +13,15 @@
   "tldr": "Az Alingsås önkormányzat közgyűlése határozatot hozott az önkormányzati vállalatok számára érvényes új kamatokról, amely 2027-től lép érvénybe. Emellett jóváhagyták egy új részletes tervet egy óvodai létesítményhez a Nolhaga allé-n.",
   "lattlast": "<p>A városi tanács döntést hozott arról, hogy a város mennyi pótdíjat számít fel, amikor pénzt kölcsönöz saját vállalatainak 2027-ben. Ezt azért teszik, hogy minden vállalatnak ugyanazok legyenek a feltételei, mint a hagyományos piacon. Az Alingsås Rådhus és az Alingsås Energi vállalatok esetében a kamatot valamivel megemelik, míg az Alingsåshem és az Alingsåshem lokaler vállalatok esetében a kamatot valamivel csökkentik.</p><p>Egy másik fontos döntés a városban zajló építkezésekkel kapcsolatos. A városi önkormányzat jóváhagyta egy új óvodának a részletes tervezési tervét, amely a Nolhaga allé-n, a Sörhaga területen található. A részletes tervezési terv egy olyan dokumentum, amely meghatározza, hogy a föld és a vízre milyen célokra lehet használni, például iskolák vagy lakások építésére.</p><p>A megbeszélésen a jövőbeli tervekről is szóltak. Említették, hogy elindul az előkészületek a Stadsskogen területen, az úgynevezett 5. fázissal kapcsolatban. Beszéltek arról is, hogy milyen információk állnak rendelkezésre a vízről, és arról, hogy a Mjörn-tó hogyan szolgál ivóvízként.</p><p>Emellett értesülést kaptak arról, hogy a politikusok jelen lesznek a Sárgarépafesztiválon. Ők állnak majd egy úton, a Teliahuset-től a templomi parkig, hogy találkozhassanak az emberekkel.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_energi": 1,
-    "lokaler": 1,
-    "mark_bygglov": 1,
-    "barn": 1,
-    "bygger": 1,
-    "glesbygd": 1,
-    "sparare": 1,
-    "lantagare": 1,
-    "energikund": 1
+    "b_fastighet": 5,
+    "b_energi": 4,
+    "finansiering": 4,
+    "f_kommun": 5,
+    "mark_bygglov": 4,
+    "lokaler": 3,
+    "barn": 3,
+    "fortroendevald": 5,
+    "offentliganstalld": 3,
+    "energikund": 3
   }
 }

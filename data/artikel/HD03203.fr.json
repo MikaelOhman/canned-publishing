@@ -12,7 +12,16 @@
   "tldr": "Le gouvernement souhaite modifier les lois afin de faciliter la concurrence entre les entreprises. L'objectif est de créer un marché plus équitable où les entreprises, qu'elles soient privées ou publiques, peuvent prospérer.",
   "lattlast": "<p>Le gouvernement a présenté une proposition visant à modifier les règles régissant la concurrence entre les entreprises en Suède. En modifiant la loi sur la concurrence, l&#x27;autorité Konkurrensverket se verra conférer davantage de pouvoirs pour enquêter et empêcher les pratiques qui nuisent à une concurrence saine. Cela devrait contribuer à stimuler la croissance et à augmenter les revenus dans la société.</p><p>Une partie importante de la proposition est une toute nouvelle loi sur les activités de vente publiques. Cette loi vise à garantir que les entreprises privées ne soient pas traitées moins favorablement que les entreprises appartenant au secteur public, telles que les municipalités ou l&#x27;État, lorsqu&#x27;elles vendent des produits sur le même marché. Il s&#x27;agit de créer des règles équitables pour tous ceux qui vendent des biens ou des services.</p><p>Le gouvernement souhaite également modifier les règles relatives aux acquisitions d&#x27;entreprises par de grandes entreprises, ce qu&#x27;on appelle les concentrations d&#x27;entreprises. L&#x27;objectif est de permettre à Konkurrensverket de détecter et de bloquer plus facilement les acquisitions qui risquent de faire disparaître la concurrence. Cela rendra plus difficile pour un petit nombre de grandes entreprises de contrôler l&#x27;ensemble du marché.</p><p>Si le Riksdag (parlement suédois) vote en faveur de la proposition, les nouvelles règles devraient entrer en vigueur le 1er août 2026. Certaines parties de la nouvelle loi, concernant la manière de contrôler et de rendre compte des résultats, devraient entrer en vigueur le 1er janvier 2027.</p>",
   "relevans": {
-    "smaforetag": 1,
-    "konkurrens": 3
+    "solo": 6,
+    "aktiebolag": 6,
+    "smaforetag": 7,
+    "storforetag": 7,
+    "konkurrens": 9,
+    "upphandling": 5,
+    "f_kommun": 5,
+    "b_handel": 5,
+    "b_konsult": 5,
+    "eu_marknad": 6,
+    "regelborda": 5
   }
 }

@@ -12,8 +12,15 @@
   "tldr": "Regeringen vill införa ett nytt brott för att stoppa företag som hanterar pengar utan tillstånd. Det nya straffet ska göra det lättare att bekämpa brott som penningtvätt.",
   "lattlast": "<p>Det är viktigt att alla som jobbar med pengar och finans har ett tillstånd eller är registrerade hos Finansinspektionen. Finansinspektionen är den myndighet som kontrollerar att alla följer reglerna. Om företag inte har tillstånd är det svårt att se till att pengar inte används för brott, som till exempel penningtvätt.</p><p>Ett exempel på riskfylld verksamhet är så kallad hawala, vilket är ett system för att skicka pengar mellan länder utan att använda vanliga banker. Ofta saknar sådana system rätt tillstånd, vilket gör det svårt att kontrollera var pengarna kommer ifrån.</p><p>Regeringen föreslår därför en ny lag som gör det straffbart att driva finansiell verksamhet utan tillstånd. Detta gäller om man gör det med flit eller om man är väldigt slarvig. Lagen ska också göra det lättare för polisen och åklagare att samarbeta med Finansinspektionen när de utreder brott.</p><p>Om förslaget går igenom i riksdagen kommer den nya lagen att börja gälla den 1 mars 2026. Syftet är att öka tryggheten och förtroendet för det ekonomiska systemet i Sverige.</p>",
   "relevans": {
-    "b_finans": 3,
-    "tillstand": 1,
-    "otrygg": 2
+    "b_finans": 7,
+    "aktiebolag": 4,
+    "solo": 3,
+    "smaforetag": 4,
+    "tillstand": 6,
+    "konkurrens": 4,
+    "gdpr": 3,
+    "ny_i_sverige": 3,
+    "skuldsatt": 3,
+    "otrygg": 4
   }
 }

@@ -13,13 +13,13 @@
   "tldr": "El municipio de Burlöv tiene un déficit económico en sus áreas de educación y cultura. Esto se debe principalmente a que hay más estudiantes de los que se habían previsto, lo que obliga al municipio a comprar más plazas en otras escuelas.",
   "lattlast": "<p>La comisión ha revisado las finanzas del inicio del año 2026. Los resultados indican que el municipio ha incurrido en pérdidas de 0,6 millones de coronas suecas entre enero y abril. Se estima que el déficit total para el año podría alcanzar los 8,1 millones de coronas suecas.</p><p>La razón de esta falta de fondos se debe a que el número de alumnos matriculados en la escuela primaria y secundaria ha sido mayor de lo previsto. Cuando aumenta el número de alumnos, el municipio debe pagar por plazas en otras escuelas, lo que supone un gasto considerable. Además, la educación para adultos también ha tenido costes superiores a los previstos.</p><p>Por otro lado, la situación en la educación infantil es diferente. En este ámbito, hay menos niños de lo esperado, lo que ha permitido ahorrar en personal e instalaciones, generando un superávit en la educación infantil.</p><p>El acta también incluye otros eventos importantes. Por ejemplo, se informa sobre la &quot;Fiesta de Burlöv&quot;, que se celebrará el 5 de septiembre en las afueras del centro de Burlöv, así como sobre el trabajo del equipo de apoyo socioeducativo escolar, que contribuye a la seguridad en las escuelas.</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "b_utbildning": 1,
-    "b_kultur": 1,
-    "lokaler": 1,
-    "barn": 3,
-    "vuxenstudier": 1,
-    "kultur": 1,
-    "otrygg": 1
+    "f_kommun": 4,
+    "barn": 5,
+    "ung": 4,
+    "gymnasieelev": 4,
+    "student": 3,
+    "vuxenstudier": 3,
+    "offentliganstalld": 4,
+    "b_utbildning": 4
   }
 }

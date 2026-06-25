@@ -12,9 +12,12 @@
   "tldr": "Rząd zamierza ułatwić i przyspieszyć proces zarządzania spadkami, wprowadzając m.in. rozwiązania cyfrowe. Dzieje się to w odpowiedzi na propozycje Najwyższej Izby Kontroli, która bada sposób działania państwa.",
   "lattlast": "<p>Riksrevisionen to instytucja, która kontroluje, w jaki sposób państwo wykorzystuje środki finansowe i przestrzega przepisów. Opublikowała raport na temat zarządzania spadkami, czyli majątkiem i zobowiązaniami pozostawionymi po osobie zmarłej. Riksrevisionen uważa, że przepisy powinny zostać zmienione, aby proces ten przebiegał szybciej i był bardziej komfortowy dla osób, których to dotyczy.</p><p>Kluczowym elementem propozycji jest możliwość składania dokumentów spadkowych w formie elektronicznej. Dokument spadkowy to dokument, który pokazuje, co zmarły posiadał i jakie miał zobowiązania. Obecnie system jest niewystarczająco nowoczesny, a rząd chce, aby można było korzystać z usług elektronicznych do składania tych dokumentów.</p><p>Rząd zgadza się, że wiele aspektów wymaga poprawy. Już rozpoczęto pracę nad nowymi projektami ustaw, które umożliwią zarówno osobom prywatnym, jak i firmom składanie informacji w formie elektronicznej. Trwa również przegląd kodeksu spadkowego, który reguluje zasady podziału spadku.</p><p>Oprócz digitalizacji, Riksrevisionen chce wprowadzić lepszą kontrolę nad osobami zarządzającymi spadkami. Chce również ułatwić rozwiązywanie konfliktów i sporów dotyczących majątku lub usług bez konieczności wnoszenia sprawy do sądu.</p>",
   "relevans": {
-    "b_fastighet": 3,
-    "digitalisering": 1,
-    "lantagare": 1,
-    "digital_ovan": 1
+    "sambo_gift": 5,
+    "skild": 4,
+    "pensionar": 6,
+    "barn": 5,
+    "bostadsagare": 4,
+    "skuldsatt": 4,
+    "digital_ovan": 4
   }
 }

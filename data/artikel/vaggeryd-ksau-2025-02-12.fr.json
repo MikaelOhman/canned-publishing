@@ -13,10 +13,11 @@
   "tldr": "La commune a décidé de permettre aux résidents et aux entreprises de consulter une nouvelle proposition concernant un secteur de Stödstorp. Cette proposition porte sur la modification des règles concernant l'accès à la zone LogPoint South Sweden depuis la route 846.",
   "lattlast": "<p>Le comité de travail du conseil municipal a pris une décision concernant une modification du plan de détail pour une zone appelée Stödstorp 2:1 LogPoint South Sweden. Un plan de détail est un document qui définit les activités autorisées dans un lieu donné, par exemple, l&#x27;utilisation des routes ou des bâtiments.</p><p>L&#x27;objectif principal de cette modification est de supprimer une interdiction existante. Actuellement, il est interdit de sortir de la zone en direction de la route 8akt, mais on souhaite modifier cette règle. Une étude a également été menée pour déterminer si le nouveau plan pourrait avoir un impact environnemental significatif, et il a été conclu qu&#x27;il n&#x27;existe aucun risque de ce type.</p><p>Avant de prendre cette décision, une consultation a eu lieu en décembre 2024 et janvier 2025. Une consultation est une réunion ou une période pendant laquelle les personnes concernées sont invitées à exprimer leurs opinions. Après avoir pris en compte ces opinions, de nouveaux documents ont été élaborés pour présenter la proposition mise à jour.</p><p>Maintenant, cette nouvelle proposition sera mise à disposition pour consultation publique. Cela signifie que toute personne intéressée peut consulter les documents et prendre connaissance des projets. Cette démarche est conforme à la loi suédoise régissant la construction et l&#x27;urbanisme, également appelée &quot;Plan- och bygglagen&quot;.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "mark_bygglov": 1,
-    "bygger": 1,
-    "glesbygd": 1,
-    "klimat": 1
+    "b_transport": 6,
+    "b_industri": 5,
+    "f_kommun": 6,
+    "mark_bygglov": 5,
+    "lokaler": 4,
+    "bil": 3
   }
 }

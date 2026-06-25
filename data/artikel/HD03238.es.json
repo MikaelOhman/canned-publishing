@@ -12,7 +12,16 @@
   "tldr": "El gobierno planea crear una nueva agencia que se encargará de los estudios de impacto ambiental a partir del 1 de julio de 2027. Esta nueva agencia asumirá las funciones que actualmente realizan las oficinas regionales.",
   "lattlast": "<p>El gobierno ha encargado a una persona que prepare la creación de una nueva agencia. Esta agencia será responsable de la evaluación de impacto ambiental, lo que significa que se encargará de verificar que diferentes proyectos y actividades cumplan con las leyes ambientales. El plan es que la nueva agencia comience a operar el 1 de julio de 2027.</p><p>Actualmente, son las delegaciones de evaluación de impacto ambiental de las administraciones regionales (länsstyrelser) las que realizan estas verificaciones. Esto significa que las autoridades locales de cada región son responsables de evaluar cuestiones ambientales. La nueva agencia asumirá todas estas tareas de las administraciones regionales.</p><p>Para que esto sea posible, el parlamento deberá modificar varias leyes, incluyendo el Código del Medio Ambiente (miljöbalken). El Código del Medio Ambiente es la ley que contiene las normas más importantes sobre cómo proteger la naturaleza y el medio ambiente en Suecia. El gobierno ha enviado una propuesta al parlamento para que se aprueben estos cambios.</p><p>Una parte de las nuevas normas se propone que entren en vigor el 1 de septiembre de 2026. Los demás cambios en las leyes entrarán en vigor al mismo tiempo que la nueva agencia comience a operar, es decir, el 1 de julio de 2027.</p>",
   "relevans": {
-    "miljo": 1,
-    "klimat": 3
+    "b_industri": 6,
+    "b_bygg": 5,
+    "b_grona": 6,
+    "b_energi": 5,
+    "miljo": 8,
+    "mark_bygglov": 5,
+    "tillstand": 7,
+    "regelborda": 5,
+    "gron_omstallning": 4,
+    "klimat": 5,
+    "friluftsliv": 3
   }
 }

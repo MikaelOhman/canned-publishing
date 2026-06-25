@@ -13,6 +13,16 @@
   "tldr": "Europeiska kommissionen vill göra det enklare för företag att driva verksamhet genom att förenkla skattereglerna.",
   "lattlast": "<p>Europeiska kommissionen är en myndighet i EU som arbetar för att alla länder i unionen ska följa samma regler. Kommissionären Hoekstra har sagt att det är mycket viktigt att förbättra förutsättningarna för företag att arbeta och växa.</p><p>För att lyckas med detta vill man titta på nya förslag som ska göra skattereglerna mindre krångliga. Om reglerna för skatt blir enklare blir det lättare för företag att planera sin ekonomi och driva sin verksamhet i Europa.</p><p>Målet med de nya förslagen är att skapa en bättre miljö för affärer och handel mellan de olika länderna. Detta är ett viktigt arbete som pågår inom EU för att stärka ekonomin.</p>",
   "relevans": {
-    "klimat": 1
+    "solo": 4,
+    "aktiebolag": 4,
+    "smaforetag": 5,
+    "storforetag": 4,
+    "familjeforetag": 4,
+    "moms": 4,
+    "bolagsskatt": 5,
+    "redovisning": 4,
+    "regelborda": 6,
+    "eu_marknad": 5,
+    "foretagare": 4
   }
 }

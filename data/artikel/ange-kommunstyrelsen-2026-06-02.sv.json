@@ -13,13 +13,15 @@
   "tldr": "Kommunstyrelsen i Ånge har hållit ett möte där de gått igenom ekonomiska rapporter och planer för framtiden. Bland de viktigaste frågorna fanns beslut om markförsäljning, parkeringsregler och nya lekplatser.",
   "lattlast": "<p>Kommunstyrelsen i Ånge diskuterade flera viktiga frågor för kommunens ekonomi och utveckling. De gick igenom ekonomiska rapporter och planer för budgeten under de kommande åren, samt tittade på hur kommunens skulder och lånebehov ser ut.</p><p>När det gäller byggande och mark finns det beslut om att sälja mark till företaget Ellevio. Man diskuterade även hur industrimark vid Mallberget ska utvecklas och hur man ska hantera parkeringsplatser för de som pendlar.</p><p>För invånarna finns det beslut om en ny lekplats i Fränsta, där man även har godkänt pengar för att bygga den. Det finns även planer på att utreda möjligheter kring Parkbacken och diskussioner om att avveckla gruppbostaden Älvgården.</p><p>Mötet innebar även att man tittade på olika årsredovisningar för företag och organisationer som kommunen är kopplad till, till exempel Ångefallen Kraft AB och Kollektivtrafikmyndigheten i Västernorrland.</p>",
   "relevans": {
-    "b_industri": 1,
-    "b_bygg": 1,
-    "redovisning": 1,
-    "mark_bygglov": 1,
-    "pendlare": 1,
-    "bil": 1,
-    "kollektiv": 1,
-    "lantagare": 1
+    "mark_bygglov": 4,
+    "b_energi": 5,
+    "b_fastighet": 4,
+    "f_landsbygd": 4,
+    "f_kommun": 5,
+    "infrastruktur": 3,
+    "pendlare": 3,
+    "glesbygd": 3,
+    "barn": 3,
+    "bostadsagare": 3
   }
 }

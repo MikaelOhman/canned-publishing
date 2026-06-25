@@ -12,8 +12,12 @@
   "tldr": "Die Regierung plant, ein neues Gesetz zu erlassen, um den Missbrauch von Lachgas als Rauschmittel zu unterbinden. Das Gesetz sieht strengere Regeln für den Verkauf von Lachgas vor, insbesondere hinsichtlich der Menge, die verkauft werden darf, und der Personen, an die es verkauft werden darf.",
   "lattlast": "<p>Die Regierung schlägt ein neues Gesetz vor, das den Gebrauch von Lachgas als Droge erschweren soll. Der Verkauf von Lachgas in Geschäften soll nicht erlaubt sein, wenn besteht die Gefahr, dass das Gas zur Berauschung verwendet wird.</p><p>Es gibt neue Regeln für die erlaubten Mengen. Eine Person darf pro Einkauf maximal 18 Gramm Lachgas kaufen, und es dürfen maximal zwei Behälter sein. Es ist außerdem verboten, Lachgas an Personen unter 18 Jahren zu verkaufen.</p><p>Verkäufer von Lachgas müssen dies der Gesundheitsbehörde melden, die dafür zuständig ist, die Einhaltung der Regeln zu überwachen. Wer Lachgas gegen die Regeln verkauft, kann mit einer Geldstrafe belegt oder bis zu sechs Monate ins Gefängnis kommen.</p><p>Die neuen Regeln sollen am 1. Juli 2025 in Kraft treten. Geschäfte, die bereits Lachgas verkaufen, haben eine Übergangsfrist und dürfen den Verkauf ohne vorherige Anmeldung bis zum 1. September 2025 fortsetzen.</p>",
   "relevans": {
-    "b_handel": 1,
-    "infrastruktur": 1,
-    "batagare": 1
+    "b_handel": 4,
+    "tillstand": 5,
+    "konsument": 3,
+    "ung": 4,
+    "ung_vuxen": 4,
+    "b_besok": 3,
+    "regelborda": 3
   }
 }

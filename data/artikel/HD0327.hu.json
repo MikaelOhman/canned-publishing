@@ -12,10 +12,11 @@
   "tldr": "A kormány egy új pénzügyi támogatással szeretné olcsóbbá tenni a fogorvosi kezeléseket. A cél az, hogy ne kelljen többletet fizetned, ha a fogorvos magasabb árat számít fel, mint amit az állam előír.",
   "lattlast": "<p>A kormány egy javaslatot terjesztett be, amely megkönnyíti a fogászati kezelések finanszírozását. Az új támogatást &quot;különleges fogászati támogatásnak&quot; nevezik. Ha fogászati kezelésre van szüksége, nem kell fizetnie a fogorvos által kértek és az állami által meghatározott ár (&quot;referenciaár&quot;) közötti különbséget.</p><p>Ahhoz, hogy ez működjön, a kormány javasolja, hogy a törvényben módosítsák az árképzési szabályokat. Ez azt jelenti, hogy egyértelműbb lesz, hogy mi vonatkozik a költségekre. Azt is szeretnék, hogy a Biztosítási Alaphoz (Försäkringskassan) tartozó fogorvosok kötelezettek legyenek arra, hogy a megfelelő ellátást nyújtsák azoknak a betegeknek, akik jogosultak a támogatásra.</p><p>A javaslat egyik fontos célja, hogy azok, akiknek a legnagyobb szükségük van a fogászati ellátásra, részesüljenek először a segítségből. Ezt a fogászati törvénybe kell beírni. Így azok, akiknek a legnagyobb szükségük van a kezelésre, részesülnek előnyben.</p><p>Ha a javaslatot elfogadják a parlamentben, az új szabályok 2026. január 1-jén lépnek életbe. Ez azt jelenti, hogy több különböző törvény a fogászati ellátásról és a más EU-országokbeli egészségügyi szolgáltatásokhoz kapcsolódó támogatásokról módosul.</p>",
   "relevans": {
-    "b_finans": 1,
-    "sjukskriven": 1,
-    "kronisk": 3,
-    "tandvard": 3,
-    "konsument": 1
+    "tandvard": 10,
+    "kronisk": 6,
+    "pensionar": 5,
+    "funktion": 5,
+    "bidrag": 4,
+    "sjukskriven": 4
   }
 }

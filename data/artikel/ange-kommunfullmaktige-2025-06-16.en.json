@@ -13,9 +13,23 @@
   "tldr": "The municipal council of Ånge has made important decisions regarding financial plans, including the budget for 2026 and the tax rate for next year. They have also discussed water supply and new regulations for social services.",
   "lattlast": "<p>At the meeting on June 16, 2025, the politicians in Ånge municipality discussed several important issues for the future. Among the most significant decisions were the work on the budget for 2026 and the financial plan for the years 2027 to 202ss. They also decided on the tax rate for the year 2026.</p><p>Issues related to water and sewage were central to the meeting. This included plans for the water supply in the Hjältan area and a new treatment plant at the same location. Decisions were also made regarding changes to the funds allocated for water and sewage, such as for a new water kiosk and a pipeline between Ljungaverk and Fränsta.</p><p>The social services and the safety of the municipality were also discussed. The politicians examined how the social services should operate when a new law comes into force and how cooperation should be organized regarding social emergency services in the region. There were also discussions about establishing clear rules to protect employees in the municipality from threats and violence.</p><p>Finally, several annual reports were reviewed. These reports show the financial performance of various organizations over the past year. Discussions also took place regarding the transfer of properties between the municipality and the company Ånge Fastighets- och Industri AB.</p>",
   "relevans": {
-    "b_industri": 1,
-    "b_fastighet": 1,
-    "redovisning": 1,
-    "otrygg": 1
+    "f_kommun": 8,
+    "b_fastighet": 6,
+    "lontagare": 5,
+    "hyresgast": 5,
+    "bostadsagare": 5,
+    "energikund": 6,
+    "glesbygd": 7,
+    "mindre_ort": 8,
+    "pendlare": 4,
+    "offentliganstalld": 6,
+    "fortroendevald": 7,
+    "barn": 4,
+    "pensionar": 4,
+    "infrastruktur": 6,
+    "f_landsbygd": 6,
+    "aktiebolag": 4,
+    "smaforetag": 4,
+    "b_vard": 5
   }
 }

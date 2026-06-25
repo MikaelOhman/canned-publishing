@@ -12,9 +12,13 @@
   "tldr": "Rząd zamierza wprowadzić nową ustawę, która ułatwi organom państwowym i samorządom wymianę cyfrowych informacji. Celem jest ograniczenie biurokracji i wykorzystanie nowych technologii, takich jak sztuczna inteligencja, w bardziej efektywny sposób.",
   "lattlast": "<p>Rząd przedstawił propozycję nowej ustawy, która ma regulować sposób udostępniania informacji pomiędzy różnymi jednostkami administracji publicznej w Szwecji. Ustawa dotyczy tzw. interoperacyjności, czyli procesu umożliwiającego różnym systemom informatycznym komunikację i wzajemne zrozumienie danych. Dzięki uproszczeniu tego procesu, oczekuje się zmniejszenia obciążenia administracyjnego i bardziej efektywnego wykorzystania nowoczesnych technologii, takich jak sztuczna inteligencja.</p><p>Nowe przepisy będą obowiązywać dla agencji rządowych, gmin, regionów oraz niektórych spółek komunalnych. Dotyczą one sytuacji, w których informacje są udostępniane często lub w dużych ilościach. Rząd ma jednak prawo do określenia, które podmioty nie muszą przestrzegać ustawy, a także może precyzyjnie określić wymagania techniczne dotyczące udostępniania danych.</p><p>Istnieją ważne wyjątki mające na celu ochronę obywateli i państwa. Przepisy te nie muszą być przestrzegane, jeśli grozi to bezpieczeństwu Szwecji, lub jeśli istnieje zbyt duże ryzyko dla bezpieczeństwa danych osobowych i cyberbezpieczeństwa. Ponadto, nie ma obowiązku przestrzegania tych wymagań, jeśli koszty związane z udostępnianiem informacji są zbyt wysokie w porównaniu do korzyści, jakie z tego wynikają.</p><p>Jeśli parlament zagłosuje pozytywnie za propozycją, nowa ustawa zacznie obowiązywać 15 sierpnia 2026 roku.</p>",
   "relevans": {
-    "b_fastighet": 3,
-    "gdpr": 2,
-    "kronisk": 1,
-    "integritet": 1
+    "f_kommun": 5,
+    "offentliganstalld": 5,
+    "digitalisering": 7,
+    "gdpr": 5,
+    "integritet": 4,
+    "digital_ovan": 3,
+    "b_it": 6,
+    "regelborda": 4
   }
 }

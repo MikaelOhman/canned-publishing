@@ -12,10 +12,11 @@
   "tldr": "Regeringen vill införa nya lagar för att stoppa fusk med färdskrivare i lastbilar och andra fordon. Syftet är att det ska bli lättare för polisen och inspektörer att upptäcka och straffa de som manipulerar utrustningen.",
   "lattlast": "<p>En färdskrivare är en maskin i fordon som registrerar körsträcka och körtider. Regeringen föreslår nu en ny lag som ska göra det svårare att fuska med denna utrustning. De som använder eller tillverkar verktyg för att manipulera färdskrivaren ska kunna straffas.</p><p>Förslaget innebär också att polisen och bilinspektörer ska få mer makt. De ska få rätt att göra kontroller på privata områden för att se till att fordonen följer reglerna. Detta kallas för flygande inspektioner och innebär att de kan kontrollera utrustningen utan förvarning.</p><p>Förslaget innehåller även ändringar i andra lagar, som lagen om skydd för geografisk information. Detta är för att reglerna ska hänga ihop med de nya kontrollmöjligheterna. Om förslaget går igenom i riksdagen börjar de nya reglerna gälla den 1 juli 2026.</p>",
   "relevans": {
-    "b_transport": 1,
-    "arbetsratt": 1,
-    "flygresenar": 1,
-    "beroende": 3,
-    "otrygg": 1
+    "b_transport": 9,
+    "b_industri": 4,
+    "arbetsratt": 3,
+    "arbetsmiljo": 4,
+    "tillstand": 5,
+    "regelborda": 5
   }
 }

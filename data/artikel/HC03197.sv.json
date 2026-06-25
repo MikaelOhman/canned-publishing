@@ -12,7 +12,12 @@
   "tldr": "En ny lag kompletterar EU:s mediefrihetsförordning så att den fungerar i Sverige. Bland annat ska medieaktörer lämna viss information till en tillsynsmyndighet, och det införs regler om granskning av företagskoncentrationer på mediemarknaden.",
   "lattlast": "<p>EU har antagit en mediefrihetsförordning som ska skydda mediers oberoende och mångfald. För att den ska fungera fullt ut i Sverige föreslår regeringen en ny kompletterande lag.</p><p>Lagen innebär bland annat att aktörer som tillhandahåller information enligt EU-förordningen ska lämna den, och uppgift om var den finns, till en tillsynsmyndighet.</p><p>Det införs också regler om hur sammanslagningar av medieföretag ska bedömas, och om myndighetens tillsyn och hur dess beslut kan överklagas.</p>",
   "relevans": {
-    "regelborda": 1,
-    "eu_marknad": 1
+    "b_kultur": 8,
+    "storforetag": 5,
+    "aktiebolag": 4,
+    "eu_marknad": 5,
+    "gdpr": 3,
+    "integritet": 4,
+    "kultur": 5
   }
 }

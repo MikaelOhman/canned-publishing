@@ -12,9 +12,20 @@
   "tldr": "Sverige vill införa strängare regler för kemikalier och avfall för att följa nya EU-lagar. Det kan bli straffbart att inte märka farliga ämnen på rätt sätt när de fylls på i behållare.",
   "lattlast": "<p>Regeringen har lagt fram ett förslag om att ändra miljöbalken, vilket är den lag som styr hur vi ska skydda naturen. Förslaget handlar om att komplettera nya regler från EU som rör kemikalier, förpackningar och transporter av avfall.</p><p>Ett viktigt förslag är att det ska bli ett brott om man inte följer reglerna för märkning av farliga ämnen. Om man till exempel fyller på kemikalier i behållare på en station måste det finnas tydlig information om vad innehållet är och att förpackningen är säker. Om man inte gör detta kan man bli straffad.</p><p>Det föreslås också att myndigheter ska få rätt att ta hand om eller hålla kvar avfall om det behövs. Detta för att se till att reglerna för hur avfall får transporteras mellan länder följs. Myndigheterna ska kunna ingripa om det finns risk för att reglerna bryts.</p><p>Dessutom ska regeringen eller en annan myndighet få bestämma om det finns undantag från vissa regler för förpackningar. Det kan också handla om att andra än de som tillverkar förpackningar ska kunna ta ut en pantavgift när varor säljs. De nya reglerna är tänkta att börja gälla den 2 januari 2027.</p>",
   "relevans": {
-    "b_transport": 1,
-    "miljo": 3,
-    "eu_marknad": 3,
-    "klimat": 1
+    "miljo": 6,
+    "klimat": 5,
+    "gron_omstallning": 5,
+    "konsument": 4,
+    "b_industri": 6,
+    "b_transport": 4,
+    "b_bygg": 4,
+    "b_handel": 4,
+    "hallbarhetsrapport": 5,
+    "produktsakerhet": 6,
+    "regelborda": 4,
+    "eu_marknad": 5,
+    "import": 4,
+    "export": 3,
+    "tillstand": 4
   }
 }

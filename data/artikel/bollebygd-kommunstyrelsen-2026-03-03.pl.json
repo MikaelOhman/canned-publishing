@@ -13,13 +13,17 @@
   "tldr": "Zarząd gminy Bollebygd poinformował o przeprowadzeniu analizy wynagrodzeń oraz sprzedaży gruntów. Ponadto podjęto decyzję o utrzymaniu dotychczasowych postanowień dotyczących planu zagospodarowania przestrzennego w dzielnicy Nyhem.",
   "lattlast": "<p>Podczas posiedzenia zarządu gminy w dniu 3 marca 2026 roku, politycy otrzymali informacje na temat działań podejmowanych przez gminę w celu zapewnienia sprawiedliwości płacowej między mężczyznami a kobietami. Te działania, zwane analizą płacową, są przeprowadzane corocznie w celu wykrywania i korygowania ewentualnych różnic w wynagrodzeniach wynikających z płci.</p><p>Rozważano również możliwość wymiany lub sprzedaży działki w obszarze Buagärde. Było to spotkanie informacyjne, podczas którego eksperci z wydziału technicznego gminy wyjaśnili, jakie plany dotyczą tej działki.</p><p>W odniesieniu do planów budowlanych w Nyhem, na działce Flässjum 2:59, zarząd gminy podjął decyzję. Odrzucili propozycję komisji roboczej i utrzymali swoje poprzednie postanowienie z maja 2024 roku. Oznacza to, że wcześniejsze plany budowy mieszkań, biur i obiektów handlowych w tym obszarze pozostają bez zmian.</p><p>Niektórzy przedstawiciele partii FR, C i SD nie zgodzili się z decyzją w sprawie Nyhem i złożyli w związku z tym &quot;rezerwę&quot;, czyli oficjalnie wyrażyli swoje odmienne zdanie na piśmie.</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "b_bygg": 1,
-    "b_fastighet": 2,
-    "lokaler": 1,
-    "mark_bygglov": 1,
-    "kvinna": 1,
-    "lontagare": 1,
-    "bygger": 1
+    "kvinna": 3,
+    "man": 3,
+    "lontagare": 3,
+    "offentliganstalld": 4,
+    "bostadsagare": 3,
+    "bygger": 4,
+    "mark_bygglov": 6,
+    "b_fastighet": 5,
+    "f_kommun": 6,
+    "fortroendevald": 5,
+    "arbetsgivare": 3,
+    "avgifter": 3
   }
 }

@@ -12,9 +12,14 @@
   "tldr": "Die Regierung plant, die Regeln für die Arbeitsaufnahme in Schweden zu ändern. Ziel ist es, die Ausnutzung von unqualifiziertem Arbeitskräften zu erschweren, während gleichzeitig der Zugang für Fachkräfte erleichtert werden soll.",
   "lattlast": "<p>Die Regierung hat einen Vorschlag vorgelegt, der ab dem 1. Juni 2026 in Kraft treten soll. Um eine Arbeitserlaubnis zu erhalten, wird es erforderlich sein, eine Krankenversicherung und ein bestimmtes Gehalt nachzuweisen. Es gibt jedoch bestimmte Berufe, für die diese Gehaltsanforderungen nicht gelten.</p><p>Es wird auch schwieriger für Unternehmen, Personen aus Ländern außerhalb der EU einzustellen, wenn das Unternehmen Fehler gemacht hat oder des Verbrechens verdächtigt wird. Außerdem sollen Unternehmen härter bestraft werden, wenn sie Personen beschäftigen, die nicht das Recht haben, sich in Schweden aufzuhalten. Zwei neue Straftatbestände sollen eingeführt werden, die sich auf die Ausbeutung ausländischer Arbeitskräfte und den Verkauf von Arbeitserlaubnissen beziehen.</p><p>Gleichzeitig möchte man es für Personen mit hoher Qualifikation einfacher machen, nach Schweden zu ziehen. Für diejenigen, die ein sogenanntes EU-Blaue-Karte besitzen, eine Erlaubnis für Fachkräfte, oder für diejenigen, die zu Saisonarbeit kommen, soll die Aufenthaltsdauer verlängert werden. Außerdem sollen Fachkräfte ihre Erlaubnis beantragen können, während sie sich bereits in Schweden befinden.</p><p>Der Vorschlag betrifft Änderungen im Ausländergesetz, dem Gesetz, das regelt, wer in dem Land leben und arbeiten darf. Nun soll das Parlament über die neuen Regeln abstimmen, ob diese Gesetz werden sollen.</p>",
   "relevans": {
-    "arbetskraft_inv": 3,
-    "tillstand": 1,
-    "lontagare": 1,
-    "arbetstillstand": 1
+    "arbetskraft_inv": 9,
+    "arbetsratt": 7,
+    "arbetsgivare": 7,
+    "kompetens": 6,
+    "smaforetag": 5,
+    "storforetag": 5,
+    "ny_i_sverige": 7,
+    "arbetstillstand": 9,
+    "lontagare": 4
   }
 }

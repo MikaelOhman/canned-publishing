@@ -13,6 +13,11 @@
   "tldr": "Island has signed an agreement that will allow for the direct transfer of funds in Icelandic krona, available 24/7. This will become effective in 2028 through a new system for fast payments.",
   "lattlast": "<p>Iceland and the European Central Bank have agreed to connect the country to a system called TIPS. This system allows for direct payments between banks, businesses, and individuals. Starting in 2028, it will be possible to send Icelandic krona instantly.</p><p>This means that the Icelandic krona will be the fifth currency that can be used in this fast system. Previously, it has been possible to use the euro, Swedish krona, and Danish krona, and soon Norwegian krona will also be available. The goal is to make payments in Europe more secure and efficient.</p><p>The governor of the Central Bank of Iceland, Seðlabanki Íslands, is Ásgeir Jónsson. He says that this is an important step in modernizing Iceland&#x27;s payment system. By using the European system TARGET, payments become more resilient and follow the same rules as the rest of Europe.</p><p>The TARGET system is operated by the Eurosystem, which is a collaboration between the European central banks. They use funds from the central banks to help banks send money to each other. With TIPS, banks can offer their customers the ability to send money in real-time, meaning instantly, regardless of the time of day.</p>",
   "relevans": {
-    "b_finans": 1
+    "b_finans": 5,
+    "b_handel": 3,
+    "b_it": 3,
+    "export": 3,
+    "import": 3,
+    "digitalisering": 3
   }
 }

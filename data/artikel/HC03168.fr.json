@@ -15,9 +15,15 @@
   ],
   "html": "<p>- Proposition concernant l&#x27;augmentation de la taxe foncière sur les éoliennes, passant de 0,2 % à 0,5 % de la valeur imposable. La taxe foncière est due, entre autres, pour les biens classés comme unités de production d&#x27;électricité lors de l&#x27;évaluation foncière. Pour les unités de production d&#x27;électricité constituées d&#x27;une unité d&#x27;évaluation comprenant une éolienne, la taxe foncière est de 0,2 % de la valeur imposable. Pour les autres unités de production d&#x27;électricité, la taxe foncière est de 0,5 % de la valeur imposable. Cette proposition vise à uniformiser le taux de taxe pour toutes les unités de production d&#x27;électricité.</p><p>La modification législative proposée entrerait en vigueur le 1er janvier 2026.</p>",
   "relevans": {
-    "b_fastighet": 3,
-    "b_energi": 3,
-    "bostadsagare": 3,
-    "energikund": 1
+    "b_energi": 10,
+    "energiintensiv": 7,
+    "energikund": 6,
+    "gron_omstallning": 6,
+    "b_industri": 5,
+    "storforetag": 6,
+    "aktiebolag": 5,
+    "f_landsbygd": 5,
+    "glesbygd": 4,
+    "klimat": 5
   }
 }

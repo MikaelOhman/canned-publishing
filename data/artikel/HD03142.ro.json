@@ -12,7 +12,20 @@
   "tldr": "Guvernul dorește să modifice legile pentru a oferi oamenilor mai multă siguranță în situații de război sau criză. Aceasta implică îmbunătățirea adăposturilor și elaborarea unor planuri mai bune privind locuințele pentru populație în cazul unei stări de alertă sporită.",
   "lattlast": "<p>Siguranța în Suedia s-a deteriorat, iar de aceea statul lucrează pentru a consolida apărarea civilă. Aceasta înseamnă că avem nevoie de adăposturi mai bune și de alte locuri sigure unde să ne putem refugia în cazul unui război sau al unei crize majore în țară. Acest lucru se numește stare de alertă sporită.</p><p>Guvernul a elaborat o propunere pentru Parlament, cu scopul de a modifica mai multe legi. Acesta dorește să introducă o nouă lege privind adăposturile și să modifice legile care reglementează modul în care oamenii trebuie evacuați și găsesc locuințe în timpul crizelor. De asemenea, dorește să modifice legea urbanismului și a construcțiilor, care este legea care reglementează modul în care se pot construi clădiri în Suedia.</p><p>Scopul acestor modificări este de a exista planuri clare cu privire la cine este responsabil pentru ce atunci când oamenii trebuie evacuați. De asemenea, trebuie să fie clar modul în care se va organiza locuința pentru cei care nu pot rămâne în casele lor.</p><p>Dacă Parlamentul aprobă propunerea, noile reguli vor intra în vigoare începând cu 1 iunie 2026.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "varnpliktig": 1
+    "bostadsagare": 5,
+    "hyresgast": 5,
+    "bostadslos": 4,
+    "glesbygd": 3,
+    "storstad": 3,
+    "mindre_ort": 3,
+    "varnpliktig": 5,
+    "barn": 4,
+    "pensionar": 4,
+    "kronisk": 3,
+    "funktion": 3,
+    "mark_bygglov": 4,
+    "b_fastighet": 3,
+    "f_kommun": 4,
+    "offentliganstalld": 3
   }
 }

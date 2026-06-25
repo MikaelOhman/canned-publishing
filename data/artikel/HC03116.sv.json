@@ -12,8 +12,13 @@
   "tldr": "Regeringen vill ändra lagarna för hur stat och kommun köper in varor och tjänster. Syftet är att göra det tydligare vad som gäller och att företag som drabbas av fel ska kunna få ersättning.",
   "lattlast": "<p>Regeringen har lagt fram ett förslag om att ändra flera lagar som styr hur myndigheter och andra organisationer gör inköp. Det handlar om regler för allt från vanliga offentliga köp till transporter och avtal för vatten och energi. Förslaget beror på nya EU-regler som kallas IPI-förordningen.</p><p>En viktig del i förslaget är att det ska bli tydligare vad företag har rätt att göra om en myndighet gör fel. Om en myndighet inte följer reglerna ska de som säljer varor eller tjänster kunna använda sina rättigheter för att klaga och få rättelse. Det ska också bli klart att en speciell kontrollmyndighet har ansvar för att se till att de nya EU-reglerna följs.</p><p>Om en myndighet gör fel så att ett företag skadas ska myndigheten betala skadestånd. Detta innebär att företaget kan få pengar tillbaka för de kostnader de haft för att skicka in sina bud och delta i processen. Detta gäller om myndighetens fel har gjort det svårare för företaget att vinna kontraktet.</p><p>Om riksdagen säger ja till förslaget kommer de nya reglerna att börja gälla den 1 juli 2025. Förslaget påverkar flera olika lagar som styr hur offentliga upphandlingar, alltså när staten köper saker, ska gå till.</p>",
   "relevans": {
-    "b_transport": 1,
-    "b_energi": 1,
-    "energikund": 1
+    "upphandling": 8,
+    "eu_marknad": 6,
+    "f_kommun": 5,
+    "smaforetag": 5,
+    "storforetag": 4,
+    "aktiebolag": 4,
+    "regelborda": 4,
+    "konkurrens": 5
   }
 }

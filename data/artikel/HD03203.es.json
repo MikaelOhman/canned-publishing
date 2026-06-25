@@ -12,7 +12,16 @@
   "tldr": "El gobierno quiere modificar las leyes para facilitar la competencia entre empresas. El objetivo es crear un mercado más justo donde tanto las empresas privadas como las públicas puedan prosperar.",
   "lattlast": "<p>El gobierno ha presentado una propuesta para modificar las reglas sobre cómo las empresas pueden competir en Suecia. Al modificar la ley de competencia, la autoridad Konkurrensverket tendrá más poder para investigar y detener prácticas que perjudican la competencia justa. Esto ayudará a fomentar el crecimiento y generar más ingresos para la sociedad.</p><p>Una parte importante de la propuesta es una ley completamente nueva sobre la actividad de venta pública. Esta ley garantizará que las empresas privadas no sean tratadas de manera diferente a las empresas propiedad del sector público, como municipios o el estado, cuando vendan productos en el mismo mercado. Se trata de crear reglas equitativas para todos los que venden bienes o servicios.</p><p>El gobierno también quiere cambiar las reglas sobre cuándo las grandes empresas adquieren otras empresas, lo que se conoce como concentraciones empresariales. El objetivo es que la autoridad Konkurrensverket pueda detectar y detener más fácilmente las adquisiciones que corren el riesgo de eliminar la competencia. De esta manera, será más difícil para unas pocas grandes empresas dominar todo el mercado.</p><p>Si el parlamento vota a favor de la propuesta, se planea que las nuevas reglas entren en vigor el 1 de agosto de 2026. Algunas partes de la nueva ley, que tratan sobre cómo controlar y reportar resultados, se propone que entren en vigor a partir del 1 de enero de 2027.</p>",
   "relevans": {
-    "smaforetag": 1,
-    "konkurrens": 3
+    "solo": 6,
+    "aktiebolag": 6,
+    "smaforetag": 7,
+    "storforetag": 7,
+    "konkurrens": 9,
+    "upphandling": 5,
+    "f_kommun": 5,
+    "b_handel": 5,
+    "b_konsult": 5,
+    "eu_marknad": 6,
+    "regelborda": 5
   }
 }

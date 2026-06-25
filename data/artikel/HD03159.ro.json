@@ -12,11 +12,20 @@
   "tldr": "Guvernul dorește să modifice legile pentru a economisi mai multă energie în clădiri și pentru a facilita încărcarea vehiculelor electrice și parcarea bicicletelor. Propunerea include noi cerințe privind controlul sistemelor de încălzire și ventilație din locuințe.",
   "lattlast": "<p>Guvernul a prezentat o propunere de modificare a regulilor privind modul în care utilizăm energia în clădirile noastre. Scopul este de a atinge noi obiective de economisire a energiei și de a respecta noile reglementări din partea UE. Propunerea include modificări ale legii privind certificările energetice și ale legii privind planificarea și construcțiile.</p><p>Aceasta înseamnă că este mai important să se verifice structura clădirii, ceea ce se numește &quot;anvelopă&quot;, atunci când se efectuează renovări majore. Toate clădirile deținute sau utilizate de autorități și municipalități trebuie, de asemenea, să aibă o certificare energetică. De asemenea, sistemele de încălzire, ventilație și aer condiționat trebuie verificate periodic, fie la fiecare trei, fie la fiecare cinci ani, în funcție de dimensiunea lor.</p><p>De asemenea, devine posibil ca proprietarii de case să utilizeze un plan de renovare energetică pentru a demonstra modul în care intenționează să îmbunătățească casele lor. În plus, regulile privind încărcarea vehiculelor electrice sunt modificate, fiind acum denumite &quot;mobilitate durabilă&quot;. Acest lucru înseamnă că, în viitor, ar putea fi impuse cerințe pentru a exista locuri adecvate pentru parcarea bicicletelor.</p><p>Dacă propunerea este adoptată, noile reguli vor intra în vigoare începând cu 1 iulie 2026.</p>",
   "relevans": {
-    "b_bygg": 3,
-    "b_energi": 3,
-    "bil": 1,
-    "beroende": 1,
-    "energikund": 3,
-    "klimat": 1
+    "b_fastighet": 7,
+    "b_energi": 7,
+    "b_bygg": 7,
+    "energiintensiv": 6,
+    "gron_omstallning": 6,
+    "miljo": 5,
+    "eu_marknad": 5,
+    "mark_bygglov": 5,
+    "lokaler": 5,
+    "bostadsagare": 6,
+    "bil": 5,
+    "energikund": 6,
+    "klimat": 5,
+    "bygger": 6,
+    "hallbarhetsrapport": 4
   }
 }

@@ -15,13 +15,16 @@
   "tldr": "A Bollebygds önkormányzat közgyűlése 2026. június 4-én tartott ülésén számos fontos kérdést vitattak meg, többek között új tervekkel kapcsolatban a közlekedés, a biztonság és a gazdaság területén. Emellett lakossági javaslatokat is fogadtak, amelyek témái a gördeszkaparkoktól kezdve az új gyalogos átkelőhelyekig terjedtek.",
   "lattlast": "<p>Az önkormányzat számos lakossági javaslatot fogadott be, melyek olyan ötleteket tartalmaznak, amelyeket a polgárok küldtek el a politikusoknak. Ezek között szerepel egy skatepark építése Bollebygdben, egy műfüves pályának létrehozása az Örelundskolan iskolában, valamint egy új gyalogos átkelőhely építése a Tingshuset épület közelében.</p><p>Számos fontos terv és szabályzás fogja irányítani az önkormányzat működését a jövőben. Ezek közé tartozik egy új tervezet a közlekedésről az önkormányzat területén (mobilitási terv), egy társadalmi fenntarthatósági terv, valamint új szabályok a digitális információk és adatok védelmére. Emellett megvitatták a gazdasági szabályokat, amelyek meghatározzák, hogy az önkormányzat hogyan kezeli a pénzügyeit.</p><p>Szintén vannak javaslatok az önkormányzat berendezéseinek és épületeinek módosítására. A Centerpartiet nevű párt egy indítványt nyújtott be, amelynek célja, hogy elegendő töltőállomás legyen az elektromos autók számára az egész önkormányzat területén. Ezenkívül felülvizsgálták egy előzetes tanulmányt, amely az új önkormányzati ház építésének első lépéseit tartalmazza.</p><p>A politikusok továbbá áttanulmányozták az éves jelentéseket, amelyek arról adnak tájékoztatást, hogy az egyes szervezetek és szövetségek hogyan teljesítettek 2025-ben. Ezek között szerepelnek jelentések a tűzoltóságról és a különböző regionális együttműködési szervezetekről. Végül pedig döntést hoztak a pártok támogatásáról, amely az összeg, amelyet az önkormányzat a politikai pártoknak nyújt, hogy azok munkájukat végezhessék.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "redovisning": 1,
-    "bil": 1,
-    "kronisk": 1,
-    "idrott": 1,
-    "klimat": 1,
-    "kultur": 1,
-    "fortroendevald": 2
+    "f_kommun": 6,
+    "mark_bygglov": 4,
+    "bil": 4,
+    "barn": 5,
+    "ung": 5,
+    "idrott": 5,
+    "pendlare": 4,
+    "gdpr": 4,
+    "fortroendevald": 5,
+    "ideell": 3,
+    "energikund": 3
   }
 }

@@ -13,9 +13,23 @@
   "tldr": "Der Gemeinderat von Ånge hat wichtige finanzielle Pläne beschlossen, darunter den Haushalt für 2026 und die Steuersätze für das kommende Jahr. Außerdem wurden Themen wie die Wasserversorgung und neue Regelungen für den Sozialdienst diskutiert.",
   "lattlast": "<p>Bei der Sitzung am 16. Juni 2025 diskutierten die Politiker der Gemeinde Ånge verschiedene wichtige Fragen für die Zukunft. Zu den wichtigsten Beschlüssen gehören die Arbeiten am Haushalt für das Jahr 2026 und dem Finanzplan für die Jahre 2027 bis 202ss. Es wurde auch beschlossen, wie hoch die Steuer im Jahr 2026 sein soll.</p><p>Fragen zu Wasser und Abwasser standen im Mittelpunkt der Sitzung. Es ging um Pläne für die Wasserversorgung im Gebiet Hjältan und ein neues Klärwerk am selben Ort. Es wurden auch Änderungen bei den für Wasser und Abwasser vorgesehenen Geldern beschlossen, beispielsweise für eine neue Wasserstation und eine Leitung zwischen Ljungaverk und Fränsta.</p><p>Die Sozialdienste und die Sicherheit in der Gemeinde wurden ebenfalls diskutiert. Die Politiker betrachteten, wie die Sozialdienste arbeiten sollen, wenn ein neues Gesetz in Kraft tritt, und wie die Zusammenarbeit im Bereich der sozialen Notfallhilfe im Landkreis erfolgen soll. Es gab auch Diskussionen über die Schaffung klarer Regeln zum Schutz der in der Gemeinde arbeitenden Personen vor Bedrohungen und Gewalt.</p><p>Abschließend wurden mehrere Jahresberichte durchgesehen, bei denen es sich um Berichte handelt, die zeigen, wie die Wirtschaft in verschiedenen Organisationen im vergangenen Jahr aussah. Es wurden auch Umzüge von Immobilien zwischen der Gemeinde und dem Unternehmen Ånge Fastighets- och Industri AB besprochen.</p>",
   "relevans": {
-    "b_industri": 1,
-    "b_fastighet": 1,
-    "redovisning": 1,
-    "otrygg": 1
+    "f_kommun": 8,
+    "b_fastighet": 6,
+    "lontagare": 5,
+    "hyresgast": 5,
+    "bostadsagare": 5,
+    "energikund": 6,
+    "glesbygd": 7,
+    "mindre_ort": 8,
+    "pendlare": 4,
+    "offentliganstalld": 6,
+    "fortroendevald": 7,
+    "barn": 4,
+    "pensionar": 4,
+    "infrastruktur": 6,
+    "f_landsbygd": 6,
+    "aktiebolag": 4,
+    "smaforetag": 4,
+    "b_vard": 5
   }
 }

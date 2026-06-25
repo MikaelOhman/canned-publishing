@@ -12,20 +12,12 @@
   "tldr": "The government is proposing changes to the state budget for the year 2026. The proposals cover a wide range of areas, from new acquisitions of properties and submarines to significant investments in nuclear power and space exploration.",
   "lattlast": "<p>The government wants to change how state funds will be used in 2026. Among the major decisions is a proposal to purchase a property in Solna for just over 3.4 billion Swedish krona. There are also proposals to lease a submarine of the A 17 type to Poland and to change the rules for dental care subsidies.</p><p>A significant part of the proposal concerns energy and nuclear power. The state plans to invest a large amount of money in the company Videberg Kraft AB. This includes purchasing shares to own a significant portion of the company, as well as paying for programs that manage nuclear waste. These costs could be very high in the coming years.</p><p>There are also proposals related to security and technology. The government wants to be able to use funds to protect individuals working in secret intelligence services. It is also proposed to provide funds to the space company SSC Space AB to strengthen Sweden&#x27;s work in space. New rules are proposed for how student loans for police officers working in service should be handled.</p><p>Finally, there are smaller budget changes for various agencies and culture. The Royal Opera is given the opportunity to borrow money to renovate its building. Agencies such as the Swedish Medical Products Agency and the Swedish Defence Radio Agency will also have their budgets adjusted to enable them to carry out their tasks in 2026.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_fastighet": 1,
-    "b_energi": 1,
-    "b_kultur": 1,
-    "b_life": 1,
-    "student": 1,
-    "hyresgast": 1,
-    "kronisk": 1,
-    "tandvard": 2,
-    "sparare": 1,
-    "lantagare": 1,
-    "energikund": 1,
-    "kultur": 1,
-    "otrygg": 1,
-    "varnpliktig": 1
+    "b_energi": 6,
+    "b_life": 4,
+    "varnpliktig": 6,
+    "offentliganstalld": 4,
+    "tandvard": 5,
+    "fortroendevald": 4,
+    "student": 4
   }
 }

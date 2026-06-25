@@ -12,9 +12,9 @@
   "tldr": "A kormány egy új törvényt akar bevezetni, amely megkönnyíti a Svéd Hadsereg Rádióügynökségének (Försvarets radioanstalt) a rádiójelekben rejlő információk felderítését háború vagy háborús helyzet esetén. A cél a svéd biztonság erősítése és olyan veszélyek felderítése, mint a terrorizmus és a súlyos bűnözés.",
   "lattlast": "<p>A kormány egy új törvénytervezetet nyújtott be a jelalak-felderítésről. A jelalak-felderítés azt jelenti, hogy digitális információkat és rádiójeleket hallgatnak le és analizálnak, hogy fontos információkat szerezzenek. Ez az új törvény segíteni fog a Försvarets radioanstalt (a svéd védelmi rádióügynökség) hatékony munkájában, amikor Svédország háborúban van, vagy amikor háborús veszély áll fenn.</p><p>A javaslat tartalmaz módosításokat a meglévő törvényekben is. Lehetővé kell tenni a jelalak-felderítés használatát katonai gyakorlatok során is. Emellett hatékonyabban kellene lehet felderíteni a nemzetközi terrorizmust és más súlyos bűncselekményeket, amelyek károsíthatják Svédország érdekeit. Emellett könnyebbé kell tenni a tájékoztatás kezelését vészhelyzetekben, ahol korábban bizonyos típusú jelek tárolása nem volt megengedett.</p><p>Ahhoz, hogy ez működjön, a kormány javaslatot tesz a Försvarsunderrättelsedomstolen (a védelmi hírszerzési bíróság) szabályzataira vonatkozó módosításokra, amely bíróság felügyeli a felderítést. Emellett módosítani kell a szabályokat arra vonatkozóan, hogy a Försvarets radioanstalt hogyan kezelheti a személyes adatokat, amikor az új feladatait végzi.</p><p>Ha a parlament megszavazza a javaslatot, az új törvények 2026. augusztus 1-jén lépnek hatályba.</p>",
   "relevans": {
-    "gdpr": 1,
-    "otrygg": 1,
-    "integritet": 1,
-    "varnpliktig": 3
+    "integritet": 5,
+    "varnpliktig": 4,
+    "offentliganstalld": 3,
+    "b_it": 3
   }
 }

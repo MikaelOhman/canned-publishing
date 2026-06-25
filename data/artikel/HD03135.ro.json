@@ -12,7 +12,17 @@
   "tldr": "Se propun noi reguli pentru a proteja fermierii și furnizorii de alimente de anularea bruscă a comenzilor. Va fi interzisă anularea unei comenzi dacă furnizorul nu are timp să găsească un alt client pentru produsele respective.",
   "lattlast": "<p>Guvernul dorește să modifice legea privind comerțul cu produse agricole și alimentare. Scopul este de a face regulile mai clare și de a respecta reglementările UE pentru a opri practicile nedrepte în achiziționarea de alimente și produse agricole.</p><p>În prezent, există o interdicție de a anula o comandă dacă mai puțin de 30 de zile rămân până la livrare. Noua propunere prevede că va fi interzisă și anularea unei comenzi chiar dacă mai mult timp rămâne până la livrare, dacă este imposibil pentru cel care vinde produsele să găsească un alt cumpărător în timp util.</p><p>Propunerea vizează crearea unei siguranțe pentru cei care produc alimente. Dacă un cumpărător anulează o comandă prea târziu, acest lucru poate duce la pierderi semnificative pentru cel care livrează produsele.</p><p>Dacă propunerea este adoptată de Parlament, noua lege va intra în vigoare la 1 iunie 2026.</p>",
   "relevans": {
-    "b_grona": 1,
-    "otrygg": 1
+    "b_grona": 8,
+    "b_handel": 5,
+    "b_transport": 4,
+    "import": 5,
+    "export": 4,
+    "eu_marknad": 6,
+    "solo": 4,
+    "smaforetag": 5,
+    "storforetag": 4,
+    "familjeforetag": 5,
+    "konkurrens": 4,
+    "konsumentratt": 3
   }
 }

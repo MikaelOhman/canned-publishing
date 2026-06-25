@@ -12,9 +12,16 @@
   "tldr": "Regeringen vill ändra lagen så att Statistiska centralbyrån (SCB) kan samla in mer information om hur mycket hushåll har i skulder och vad de betalar i räntor och avbetalningar. Detta görs för att bättre kunna förstå ekonomiska risker i samhället.",
   "lattlast": "<p>Regeringen har lagt fram ett förslag om att utöka arbetet i ett system som heter Fasit. Fasit är ett verktyg som används av Statistiska centralbyrån, även kallat SCB, för att räkna på hur olika ekonomiska regler påverkar människor. Genom att lägga till information om skulder och betalningar kan man bättre se hur känsliga hushåll är för förändringar i ekonomin.</p><p>För att detta ska fungera måste banker och andra företag som arbetar med bostadskrediter lämna ut information om hushållens skulder och betalningar till SCB. Det är viktigt att veta hur mycket pengar som går till skulder för att kunna planera den ekonomiska politiken i landet. Detta hjälper myndigheter att se om höga räntor eller andra kostnader skapar stora problem för familjer.</p><p>Trots att mer information samlas in är reglerna för personuppgifter strikta. Man ska bara använda de uppgifter som är nödvändiga och man får inte använda känsliga uppgifter om till exempel hälsa eller etniskt ursprung. Syftet är att få bra statistik utan att kränka människors integritet.</p><p>Om förslaget går igenom och riksdagen röstar ja, kommer de nya reglerna att börja gälla den 1 augusti 2026.</p>",
   "relevans": {
-    "b_finans": 1,
-    "gdpr": 1,
-    "lantagare": 3,
-    "integritet": 2
+    "lantagare": 6,
+    "skuldsatt": 6,
+    "bostadsagare": 5,
+    "sparare": 4,
+    "pensionssparare": 3,
+    "b_finans": 5,
+    "integritet": 4,
+    "gdpr": 3,
+    "stor_familj": 3,
+    "sambo_gift": 3,
+    "ensam_foralder": 3
   }
 }

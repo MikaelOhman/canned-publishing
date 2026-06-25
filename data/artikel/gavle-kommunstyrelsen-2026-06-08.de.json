@@ -15,14 +15,19 @@
   "tldr": "Der Gemeinderat von Gävle hat eine Sitzung abgehalten, in der eine Vielzahl von Themen diskutiert wurden, darunter Finanzen, neue Bauprojekte, Sponsoring und Umweltfragen. Wichtige Punkte waren die Verwendung der kommunalen Mittel und die Nutzung von Flächen für neue Projekte.",
   "lattlast": "<p>Der Gemeinderat von Gävle hat eine Reihe wichtiger Fragen für die Zukunft der Stadt behandelt. Dazu gehörten unter anderem die Prüfung von Wirtschaftsnachrichten und die Festlegung der Höhe der Mittel, die in den Budgets für die kommenden Jahre, von 2027 bis 2030, vorgesehen sind. Es wurden auch die Steuerung und Überprüfung der verschiedenen städtischen Unternehmen diskutiert.</p><p>Im Bereich Land und Bauwesen haben die Politiker Vereinbarungen für neue Gebiete wie Skogmur und Kungsbäck erörtert. Dabei ging es um die Frage, wer die städtischen Flächen nutzen darf und welche Regeln für den Bau dort gelten. Es wurden auch Fragen im Zusammenhang mit Windkraft und der Bewältigung des Bedarfs des Energieunternehmens Vattenfall an Flächen in Överhärde behandelt.</p><p>Eine Reihe von Fragen zum städtischen Leben und zur Umwelt wurden ebenfalls angesprochen. Dazu gehörten sowohl die Unterstützung von Veranstaltungen wie Gävle Pride und Brynäs IF als auch die Diskussion über Naturschutzgebiete und Umweltmaßnahmen. Es wurden auch die Arbeitsbedingungen und die Sicherheit an Orten wie dem Hafen von Gävle und der Gävle Energikoncern erörtert.</p><p>Abschließend ging es bei der Sitzung um die Verteilung von Geldern für verschiedene Zwecke. Dies konnte von der Unterstützung von Jugendlichen und Sport bis zur Finanzierung der Instandhaltung von Orten wie dem Stortorget und der Kasthallen reichen. Auch Fragen zur Kosten für die Nutzung öffentlicher Plätze wurden diskutiert.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_energi": 2,
-    "infrastruktur": 1,
-    "ung": 1,
-    "energikund": 1,
-    "friluftsliv": 1,
-    "batagare": 1,
-    "idrott": 1,
-    "klimat": 1
+    "f_kommun": 6,
+    "mark_bygglov": 5,
+    "b_fastighet": 5,
+    "b_energi": 5,
+    "energiintensiv": 4,
+    "energikund": 4,
+    "gron_omstallning": 4,
+    "miljo": 4,
+    "infrastruktur": 4,
+    "idrott": 4,
+    "hbtq": 4,
+    "fortroendevald": 5,
+    "ideell": 4,
+    "lokaler": 4
   }
 }

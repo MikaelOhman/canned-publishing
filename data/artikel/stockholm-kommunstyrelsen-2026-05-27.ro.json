@@ -13,12 +13,13 @@
   "tldr": "Consiliul municipal din Stockholm a luat decizii cu privire la mai multe propuneri, care acoperă o gamă largă de subiecte, de la siguranța din zona Kista, până la cultură și spații verzi în oraș. Nu vor fi lansate imediat noi proiecte majore, dar deciziile politice pentru următorii pași sunt acum stabilite.",
   "lattlast": "<p>Consiliul municipal din Stockholm a avut o ședință pe 27 mai 2026. În timpul ședinței, au fost discutate diverse propuneri, numite &quot;moțiuni&quot; și &quot;cererii&quot;, care vizează modul în care orașul ar trebui să se dezvolte.</p><p>Unul dintre subiectele discutate a fost problema din Kista. Politicienii au decis să răspundă unei scrisori referitoare la aceasta, urmând propunerea elaborată de administrație. Cu toate acestea, Partidul Moderat nu a fost mulțumit de această decizie și a exprimat o opinie diferită.</p><p>De asemenea, a fost discutată posibilitatea de a construi mai multe toalete și vestiare lângă terenurile de fotbal. Consiliul municipal a trimis acum răspunsul său către consiliul local, care este grupul de politicieni care ia deciziile finale în oraș. Chiar și aici, politicieni din mai multe partide au dorit o soluție diferită.</p><p>În cele din urmă, au fost discutate probleme legate de viața culturală și viața de noapte a orașului, precum și o propunere de a planta mai mulți copaci mobili în Stockholm. În toate aceste aspecte, consiliul municipal a ales să urmeze propunerile elaborate de funcționarii publici (cabinetul primarului).</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "b_fastighet": 1,
-    "b_kultur": 1,
-    "glesbygd": 1,
-    "idrott": 1,
-    "kultur": 1,
-    "otrygg": 1
+    "f_kommun": 4,
+    "storstad": 4,
+    "otrygg": 4,
+    "idrott": 3,
+    "kultur": 3,
+    "offentliganstalld": 3,
+    "b_kultur": 3,
+    "klimat": 3
   }
 }

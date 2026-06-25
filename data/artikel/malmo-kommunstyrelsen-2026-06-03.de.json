@@ -13,16 +13,20 @@
   "tldr": "Der Gemeinderat von Malmö hat eine Sitzung abgehalten, in der verschiedene wichtige Fragen bezüglich der Stadtfinanzen, des Personals und der zukünftigen Pläne besprochen wurden. Unter anderem wurden die Unterstützung von Frauenhäusern und die zukünftige Entwicklung von Malmö in den nächsten zehn Jahren diskutiert.",
   "lattlast": "<p>Der Gemeinderat von Malmö hat eine Vielzahl von Angelegenheiten behandelt, die die Verwaltung der Stadt betreffen. Eine wichtige Frage ist die Bereitstellung zusätzlicher Mittel für Frauen- und Kinderhäuser in Malmö, um fehlende staatliche Zuschüsse auszugleichen. Es gibt außerdem eine Entscheidung, Mittel umzuleiten, um jungen Menschen in gefährdeten Situationen zu helfen.</p><p>Die Stadt blickt in die Zukunft, indem sie eine Prognose erstellt, wie viele Menschen zwischen 2026 und 2036 in Malmö leben werden. Es wurden auch Diskussionen über den Erwerb von Räumlichkeiten für betreutes Wohnen für Menschen mit Behinderung, sogenannte LSS-Wohnungen, geführt. Darüber hinaus wurde darüber gesprochen, wie Malmö seine Investitionen gestalten und wie die Arbeit zur Integration von Arbeitslosen in den Arbeitsmarkt verbessert werden kann.</p><p>Bezüglich des Personals wurden Einstellungen von Führungskräften, wie z.B. einem Stadtverwalter und einem Verwaltungsdirektor für Arbeitsmarkt- und Sozialfragen, diskutiert. Es wurden auch Regelungen darüber erörtert, wie Politiker in Zukunft für ihre Aufgaben entschädigt werden sollen.</p><p>Es wurden außerdem mehrere Vorschläge, sogenannte Anträge, von Politikern eingereicht. Diese Vorschläge umfassen ein breites Spektrum, von der Untersuchung islamistischer Bewegungen und der Einrichtung eines Schönheitsrats bis hin zur Überprüfung von Mietpreisen für Familien mit Kindern und der Verbesserung der Altenpflege.</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "b_fastighet": 1,
-    "finansiering": 1,
-    "lokaler": 1,
-    "barn": 1,
-    "stor_familj": 1,
-    "pensionar": 1,
-    "lontagare": 1,
-    "arbetssokande": 1,
-    "funktion": 2,
-    "idrott": 1
+    "f_storstad": 5,
+    "storstad": 4,
+    "f_kommun": 5,
+    "kvinna": 5,
+    "barn": 5,
+    "ensam_foralder": 5,
+    "funktion": 5,
+    "bostadslos": 4,
+    "arbetssokande": 5,
+    "bidrag": 4,
+    "pensionar": 4,
+    "ny_i_sverige": 4,
+    "fortroendevald": 5,
+    "offentliganstalld": 4,
+    "ideell": 4
   }
 }

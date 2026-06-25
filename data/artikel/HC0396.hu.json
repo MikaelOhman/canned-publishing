@@ -12,8 +12,13 @@
   "tldr": "A svéd kormány egy új tervet dolgozott ki arról, hogyan építsék és fejlesszék a svéd városokat. A cél egy biztonságosabb és fenntarthatóbb életkörnyezet megteremtése, amely a társadalom különböző csoportjai közötti együttműködésen alapul.",
   "lattlast": "<p>A svéd kormány egy új tervet mutatott be arról, hogyan kell a svéd városokat és településeket a jövőben fejleszteni. Ezt a tervet &quot;iratnak&quot; nevezik, ami egy olyan dokumentum, amelyben a kormány ismerteti céljait és politikáját. A fő cél olyan környezetek megteremtése, amelyek biztonságosak és élhetőek minden ott élő ember számára.</p><p>A kormány céljainak elérése érdekében a helyi önkormányzatoknak, a hatóságoknak és a vállalatoknak együtt kell működniük. Ez nem csupán az önkormányzatok tevékenységéről szól, hanem arról is, hogy a vállalkozásoknak és a helyi szervezeteknek is lehetőséget kell kapniuk, hogy részt vegyenek a jó városok építésével kapcsolatos munkában.</p><p>Svédország az, amely élen jár a fenntartható fejlődés terén. Ez azt jelenti, hogy olyan városokat kell építeni, amelyek hosszú távon is jól működnek, például figyelembe véve a környezetet és a klímát.</p><p>Az új tervben egy fontos, országos cél szerepel a városfejlesztéssel kapcsolatban. Ezen kívül tizenhárom különböző terület van, amelyekre a kormány különösen nagy hangsúlyt fektet a városfejlesztési célok elérése érdekében.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "mindre_ort": 1,
-    "klimat": 2
+    "f_storstad": 5,
+    "storstad": 4,
+    "otrygg": 5,
+    "bostadsagare": 3,
+    "hyresgast": 3,
+    "klimat": 4,
+    "b_fastighet": 4,
+    "f_kommun": 5
   }
 }

@@ -13,6 +13,11 @@
   "tldr": "Island har skrivit under ett avtal som gör att man kan skicka pengar i isländska kronor direkt, dygnet runt. Detta börjar gälla år 2028 genom ett nytt system för snabba betalningar.",
   "lattlast": "<p>Island och Europeiska centralbanken har kommit överens om att ansluta landet till ett system som heter TIPS. Det är ett system som gör att betalningar kan ske direkt mellan banker, företag och privatpersoner. Från och med år 2028 kommer det att gå att skicka isländska kronor på ett ögonblick.</p><p>Detta innebär att den isländska kronan blir den femte valutan som kan användas i detta snabba system. Tidigare har man kunnat använda euro, svenska kronor och danska kronor, och snart kommer även norska kronor att kunna användas. Målet är att göra betalningar i Europa säkrare och mer effektiva.</p><p>Guvernören på Islands centralbank, Seðlabanki Íslands, heter Ásgeir Jónsson. Han säger att detta är ett viktigt steg för att modernisera Islands sätt att betala. Genom att använda det europeiska systemet TARGET blir betalningarna mer motståndskraftiga och följer samma regler som i resten av Europa.</p><p>Systemet TARGET drivs av Eurosystemet, vilket är ett samarbete mellan de europeiska centralbankerna. De använder pengar från centralbankerna för att hjälpa banker att skicka pengar mellan varandra. Med TIPS kan banker erbjuda sina kunder att skicka pengar i realtid, det vill säga direkt, oavsett om det är dag eller natt.</p>",
   "relevans": {
-    "b_finans": 1
+    "b_finans": 5,
+    "b_handel": 3,
+    "b_it": 3,
+    "export": 3,
+    "import": 3,
+    "digitalisering": 3
   }
 }

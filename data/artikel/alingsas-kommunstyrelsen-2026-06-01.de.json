@@ -13,11 +13,16 @@
   "tldr": "Der Gemeinderat von Alingsås hat die finanzielle Situation der Gemeinde für April 2026 geprüft und Pläne für verschiedene Projekte, darunter neue Leitungen und Bauvorhaben, genehmigt. Darüber hinaus wurden mehrere Vorschläge von Politikern zu Themen wie Neubau von Wohnungen und Unterstützung für Vereine behandelt.",
   "lattlast": "<p>Der Gemeinderat hat die wirtschaftliche Situation der Gemeinde Alingsås geprüft. Es zeigt sich, dass die Gemeinde für das gesamte Jahr 2026 einen Überschuss von über 230 Millionen Kronen erwartet. Dies liegt unter anderem daran, dass der Betrieb von Kindergärten weniger kostet als erwartet, da es derzeit weniger Kinder gibt.</p><p>Bezüglich Gebäude und Straßen laufen mehrere wichtige Arbeiten. Es sind neue Leitungen für Wasser und Abwasser für Bjärke geplant, und ein Wettbewerb für Grundstücke im Gebiet Stadsskogen wurde gestartet. Außerdem wurde beschlossen, einen Plan für neue Gebäude in der Skolgatan in Sollebrunn zu überprüfen.</p><p>Mehrere politische Vorschläge, sogenannte Anträge, wurden diskutiert. Es ging um die Möglichkeit, mehr Wohnungen zu schaffen, indem Dachböden in Gemeindegebäuden ausgebaut werden, um mehr Unterstützung für Vereine zu gewähren, die nächtliche Streifendienste durchführen, und um mehr Ladestationen für Fahrradfahrer zu schaffen. Es wurde auch darüber gesprochen, wie die Unterstützung für die ukrainischen Bürger, die in der Gemeinde leben, verbessert werden kann.</p><p>Es wurden auch Informationen darüber gegeben, dass das Gemeindehaus in einen neuen Standort verlegt wird. Darüber hinaus wurde diskutiert, wie die Kommunikation mit den Betreibern des öffentlichen Nahverkehrs in der Region verbessert werden kann.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "barn": 1,
-    "glesbygd": 1,
-    "pendlare": 1,
-    "kollektiv": 1,
-    "idrott": 1
+    "f_kommun": 5,
+    "mark_bygglov": 4,
+    "barn": 4,
+    "infrastruktur": 3,
+    "kollektiv": 4,
+    "ny_i_sverige": 3,
+    "b_fastighet": 3,
+    "bygger": 3,
+    "idrott": 3,
+    "volontar": 3,
+    "bil": 3
   }
 }

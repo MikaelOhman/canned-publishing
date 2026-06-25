@@ -13,16 +13,20 @@
   "tldr": "Consiliul municipal din Malmö a avut o ședință în cadrul căreia s-au discutat mai multe aspecte importante legate de economia orașului, personal și planurile de viitor. Printre subiectele abordate s-au numărat sprijinul acordat centrelor de ajutor pentru femei și modul în care Malmö se va dezvolta în următorii zece ani.",
   "lattlast": "<p>Consiliul municipal din Malmö a analizat numeroase aspecte legate de modul în care orașul ar trebui condus. O problemă importantă este alocarea de fonduri suplimentare către centrele de ajutor pentru copii și femei din Malmö, pentru a compensa sumele care nu au fost primite de la stat. De asemenea, a fost luată o decizie de a realoca fonduri pentru a sprijini tinerii care se află în situații de risc.</p><p>Orașul își analizează viitorul, examinând o prognoză privind numărul de locuitori din Malmö între anii 2026 și 2036. S-a discutat, de asemenea, despre modul în care vor fi achiziționate spații pentru locuințe pentru persoanele cu dizabilități, numite &quot;locuințe LSS&quot;. În plus, s-a discutat despre modul în care Malmö va gestiona investițiile sale și despre cum se poate îmbunătăți munca de integrare a șomerilor pe piața muncii.</p><p>În ceea ce privește personalul, s-au discutat angajările pentru funcții de conducere, cum ar fi cea de director municipal și cea de director administrativ pentru problemele pieței muncii și sociale. De asemenea, s-au analizat regulile privind compensațiile pe care politicienii le vor primi pentru activitatea lor în viitor.</p><p>Au fost depuse, de asemenea, mai multe propuneri, numite &quot;moțiuni&quot;, de către politicieni. Aceste propuneri acoperă o gamă largă de subiecte, de la investigarea mișcărilor islamiste și crearea unui consiliu pentru frumusețe, până la revizuirea chiriilor pentru familiile cu copii și îmbunătățirea serviciilor de îngrijire a persoanelor vârstnice.</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "b_fastighet": 1,
-    "finansiering": 1,
-    "lokaler": 1,
-    "barn": 1,
-    "stor_familj": 1,
-    "pensionar": 1,
-    "lontagare": 1,
-    "arbetssokande": 1,
-    "funktion": 2,
-    "idrott": 1
+    "f_storstad": 5,
+    "storstad": 4,
+    "f_kommun": 5,
+    "kvinna": 5,
+    "barn": 5,
+    "ensam_foralder": 5,
+    "funktion": 5,
+    "bostadslos": 4,
+    "arbetssokande": 5,
+    "bidrag": 4,
+    "pensionar": 4,
+    "ny_i_sverige": 4,
+    "fortroendevald": 5,
+    "offentliganstalld": 4,
+    "ideell": 4
   }
 }

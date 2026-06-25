@@ -12,8 +12,12 @@
   "tldr": "Guvernul dorește să introducă o nouă lege pentru a împiedica oamenii să folosească oxidul de azot (lustgas) pentru a se îmbăta. Legea va impune reguli mai stricte privind cantitatea de oxid de azot care poate fi vândută și către cine.",
   "lattlast": "<p>Guvernul propune o nouă lege care să facă mai dificilă utilizarea oxizului de azot (lustgas) ca drog. Nu va mai fi permisă vânzarea de oxizi de azot în magazine dacă există riscul ca gazul să fie utilizat pentru a induce stări de euforie.</p><p>Există noi reguli privind cantitatea pe care o persoană poate achiziționa. O persoană poate cumpăra maximum 18 grame de oxizi de azot o dată, și numărul de recipiente este limitat la maximum două. De asemenea, este interzisă vânzarea de oxizi de azot persoanelor sub 18 ani.</p><p>Cei care vând oxizi de azot trebuie să informeze Autoritatea Națională pentru Sănătate Publică, care este instituția responsabilă cu verificarea respectării regulilor. Persoanele care vând oxizi de azot în mod necorespunzător pot fi amendate sau pot primi o pedeapsă cu închisoarea de până la șase luni.</p><p>Noile reguli sunt prevăzute să intre în vigoare începând cu 1 iulie 2025. Magazinele care vând deja oxizi de azot au o perioadă de tranziție și pot continua să vândă fără a fi necesar să facă o notificare până la 1 septembrie 2025.</p>",
   "relevans": {
-    "b_handel": 1,
-    "infrastruktur": 1,
-    "batagare": 1
+    "b_handel": 4,
+    "tillstand": 5,
+    "konsument": 3,
+    "ung": 4,
+    "ung_vuxen": 4,
+    "b_besok": 3,
+    "regelborda": 3
   }
 }

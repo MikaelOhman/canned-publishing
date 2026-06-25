@@ -13,11 +13,12 @@
   "tldr": "The election authority in Strömstad has prepared for the 2026 election by reviewing security measures, the transportation of ballots, and accessibility in the polling stations. Two individuals have been assigned special responsibility for handling ballots from people with protected personal information.",
   "lattlast": "<p>The Election Committee has reviewed the plans for the upcoming election. They have examined the security arrangements and how the votes will be transported to the regional administrative board the day after the election on September 14, 2026. This will be done in the same way as in previous elections.</p><p>The committee has also inspected all polling stations. They have checked whether the locations are secure and whether they are accessible to people with mobility issues, including those who use wheelchairs. All polling stations in Strömstad meet these requirements.</p><p>To protect individuals with protected personal data, the committee has selected two people, Jessica Corneliusson and Ulrika Haugland. They have been granted a special authorization within the election system, called &quot;L-SKYAD.&quot; This allows them to securely handle and register advance votes for these voters.</p><p>There was also information about the potential security threats leading up to the election, and about an upcoming meeting with the auditors, who are responsible for ensuring that the municipality is fulfilling its duties correctly. The committee has also discussed regulations regarding the recruitment of election officials and activities outside the polling stations.</p>",
   "relevans": {
-    "b_transport": 1,
-    "kompetens": 1,
-    "gdpr": 1,
-    "lokaler": 1,
-    "funktion": 1,
-    "integritet": 1
+    "f_kommun": 4,
+    "integritet": 4,
+    "funktion": 4,
+    "fortroendevald": 5,
+    "offentliganstalld": 3,
+    "digital_ovan": 3,
+    "ny_i_sverige": 3
   }
 }

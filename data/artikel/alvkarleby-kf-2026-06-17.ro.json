@@ -13,8 +13,16 @@
   "tldr": "Compania Gästrike Vatten intenționează să construiască o nouă stație de tratare a apei lângă Mon, pentru a asigura aprovizionarea cu apă a orașelor Gävle și Älvkarleby. În același timp, există provocări financiare în sistemul de învățământ, printre care bugete incorecte și costuri ridicate pentru elevii care au nevoie de sprijin suplimentar.",
   "lattlast": "<p>În cadrul întâlnirii, locuitorii au primit informații despre un nou proiect al companiei Gästrike Vatten. Aceasta intenționează să construiască o nouă stație de tratare a apei și să creeze o zonă protejată în apropierea localității Mon. Scopul este de a utiliza apa din râul Dalälven pentru a asigura aprovizionarea cu apă atât pentru Gävle, cât și pentru Älvkarleby.</p><p>Consiliul municipal, care este partea din administrație responsabilă de conducerea activităților, a prezentat situația din sistemul de învățământ. Există probleme în cadrul comitetului de educație, de exemplu, faptul că fondurile alocate nu sunt suficiente. De asemenea, costurile pentru municipalitate au crescut, deoarece unii elevi trebuie plasați în școli din afara municipiului.</p><p>S-a mai menționat că există dificultăți în alocarea resurselor și că anumite intervenții pentru elevi au fost implementate prea târziu. De asemenea, au existat erori în modul în care au fost calculate costurile.</p><p>În ceea ce privește modificările în cadrul grupurilor din administrație, Gunilla Höghielm a fost înlocuită cu Klara Tivert ca membru supleant în comisia de dezvoltare urbană. Această comisie este responsabilă, printre altele, de aspecte legate de clădiri și mediu.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "barn": 1,
-    "klimat": 1
+    "barn": 5,
+    "gymnasieelev": 4,
+    "ung": 5,
+    "glesbygd": 4,
+    "f_landsbygd": 4,
+    "f_kommun": 6,
+    "offentliganstalld": 4,
+    "energikund": 4,
+    "b_utbildning": 4,
+    "bredbandsberoende": 3,
+    "infrastruktur": 4
   }
 }

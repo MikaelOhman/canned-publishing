@@ -12,10 +12,16 @@
   "tldr": "Rząd zamierza zmienić przepisy dotyczące sposobu, w jaki Urząd Podatkowy, Urząd Celny i Krajowy Urząd Egzekucyjny przetwarzają dane osobowe. Celem jest umożliwienie tym instytucjom wykorzystania nowoczesnych technologii do skuteczniejszej kontroli praw i podatków, przy jednoczesnym zachowaniu ochrony prywatności obywateli.",
   "lattlast": "<p>Rząd przedstawił propozycję zmiany dotychczasowych przepisów dotyczących przetwarzania danych osobowych w trzech dużych urzędach: Urzędzie Podatkowym, Urzędzie Celnym i Krajowym Urzędzie Egzekucyjnym. Nowe przepisy mają umożliwić tym urzędom wykorzystanie informacji w bardziej nowoczesny sposób, dostosowany do współczesnych technologii.</p><p>Propozycja ta przewiduje również, że urzędy otrzymają wyraźniejsze uprawnienia do wykorzystywania analizy danych. Oznacza to, że będą mogły wykorzystywać programy komputerowe do wyszukiwania wzorców i dokonywania selekcji w swoich rejestrach. Ma to pomóc im w bardziej efektywnej pracy, na przykład podczas poszukiwania błędów w podatkach lub cłach.</p><p>Pomimo wprowadzenia nowych narzędzi, celem jest ochrona prywatności obywateli. Nowe przepisy mają być zgodne z przepisami dotyczącymi ochrony danych osobowych Unii Europejskiej, znanymi jako RODO (GDPR), aby zapewnić, że dane osobowe nie będą wykorzystywane w niewłaściwy sposób. Przepisy te mają chronić jednostkę przed naruszeniem jej prywatności.</p><p>Jeśli parlament zagłosuje za przyjęciem tej propozycji, nowe przepisy wejdą w życie 2 kwietnia 2026 roku. Propozycja ta zawiera również wiele mniejszych zmian w innych przepisach, które dotyczą szerokiego zakresu kwestii, od podatków od alkoholu i tytoniu, po przepisy dotyczące rejestracji ludności i wsparcia dla studentów.</p>",
   "relevans": {
-    "gdpr": 3,
-    "import": 3,
-    "beroende": 1,
-    "skuldsatt": 1,
-    "integritet": 2
+    "gdpr": 7,
+    "integritet": 7,
+    "redovisning": 5,
+    "moms": 4,
+    "bolagsskatt": 4,
+    "skuldsatt": 4,
+    "lantagare": 3,
+    "digitalisering": 5,
+    "solo": 4,
+    "aktiebolag": 4,
+    "storforetag": 4
   }
 }

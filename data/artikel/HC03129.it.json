@@ -12,8 +12,11 @@
   "tldr": "Il governo intende introdurre un nuovo reato per contrastare la vendita di beni rubati all'estero. Inoltre, desidera conferire alla Dogana maggiori poteri per indagare e gestire merci illegali.",
   "lattlast": "<p>Il governo propone di introdurre un reato specifico per chi aiuta a trasportare beni rubati fuori dalla Svezia. Questo reato si chiamerà &quot;esportazione di beni illeciti&quot;. Chi commette un reato grave rischia una pena detentiva fino a sei anni. Anche il tentativo di commettere questo reato dovrà essere considerato illegale.</p><p>La proposta implica anche un maggiore coinvolgimento della dogana, l&#x27;autorità che controlla le merci alla frontiera. La dogana dovrà poter assistere i pubblici ministeri nelle indagini e avrà maggiori poteri per prevenire i crimini. I funzionari della dogana potranno avviare indagini in modo simile alla polizia.</p><p>Sono previste anche modifiche che consentono alle autorità che combattono la criminalità di trattenere beni sequestrati per utilizzarli nella formazione o per l&#x27;analisi delle prove. Se i beni sequestrati sono pericolosi o difficili da conservare, potranno essere distrutti più rapidamente rispetto a quanto previsto in precedenza.</p><p>Il governo intende inoltre modificare le norme relative alle pene per il contrabbando di sostanze stupefacenti destinate alla vendita. La maggior parte di queste nuove norme dovrebbe entrare in vigore a settembre 2025, ma una piccola modifica a una legge relativa a beni soggetti a tassazione entrerà in vigore già il 1° luglio 2025.</p>",
   "relevans": {
-    "import": 1,
-    "beroende": 1,
-    "otrygg": 2
+    "b_transport": 4,
+    "b_handel": 4,
+    "otrygg": 5,
+    "brottsoffer": 4,
+    "export": 3,
+    "import": 3
   }
 }

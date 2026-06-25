@@ -12,9 +12,9 @@
   "tldr": "The government intends to introduce a new law that would make it easier for the Swedish Defence Radio Agency to monitor radio signals for information in the event of war or a threat of war. The purpose is to strengthen Sweden's security and to be able to detect threats such as terrorism and serious crime.",
   "lattlast": "<p>The government has proposed a new law regarding signal intelligence. Signal intelligence involves listening to and analyzing digital information and radio signals to identify important information. This new law aims to help the Swedish Defense Radio Agency (FRA) operate effectively when Sweden is at war or when there is a risk of war.</p><p>The proposal also includes changes to existing laws. It will become possible to use signal intelligence even during military exercises. The goal is also to be able to conduct more effective surveillance to detect international terrorism and other serious crimes that could harm Sweden&#x27;s interests. It will also become easier to handle information in emergency situations where certain types of signals could not previously be stored.</p><p>To achieve this, the government also proposes changes to the rules governing the Defense Intelligence Court, which is the court that oversees the surveillance activities. They also want to change the rules regarding how personal data can be handled by the FRA when carrying out its new tasks.</p><p>If the Parliament votes in favor of the proposal, the new laws will come into effect on August 1, 2026.</p>",
   "relevans": {
-    "gdpr": 1,
-    "otrygg": 1,
-    "integritet": 1,
-    "varnpliktig": 3
+    "integritet": 5,
+    "varnpliktig": 4,
+    "offentliganstalld": 3,
+    "b_it": 3
   }
 }

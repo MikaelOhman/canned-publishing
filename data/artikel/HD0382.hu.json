@@ -12,9 +12,10 @@
   "tldr": "A kormány egy jelentést készített arról, hogy a rendőrség és a biztonsági szolgálatok milyen titkos módszereket alkalmaztak a bűnözők megfigyelésére 2024-ben. A jelentés bemutatja, hogy mennyire használták a lehallgatás és a kamerás megfigyelés módszereit a bűnügyek felderítésére.",
   "lattlast": "<p>A kormány egy jelentést készített arról, hogy a hatóságok milyen titkos módszereket alkalmaztak bűncselekmények kivizsgálásához 2024-ben. Ezek a módszerek &quot;titkos kényszerintézkedések&quot; néven ismertek, és azt jelentik, hogy a rendőrség technikai eszközöket használhat anélkül, hogy az érintett személy tudná, hogy megfigyelés alatt áll.</p><p>A jelentés részletezi, hogy a rendőrség milyen mértékben alkalmazott olyan módszereket, mint a telefonbeszélgetések felvétele és a kamerás megfigyelés. Emellett a digitális információk olvasását és a rejtett kamerák használatát is tárgyalja, akár beltérben. A jelentés emellett foglalkozik azzal is, hogy a rendőrség milyen szabályok szerint kereshet bizonyítékokat olyan helyeken, ahol nincs engedélye tartózkodni.</p><p>A szöveg azt is elmondja, hogy a hírszerző tevékenységgel foglalkozó hatóságok hogyan gyűjtöttek információkat az elektronikus kommunikáció elemzésével. Ez egy olyan módja a államnak, hogy információt szerezzen a társadalomban zajló eseményekről, hogy megelőzhesse a bűnözést.</p><p>Végül a jelentés tartalmazza azt is, hogy a Biztonsági Polgárőrség, amely az a hatóság, amely a legkomolyabb veszélyekkel szemben végez munkát, hogyan alkalmazta ezeket a titkos módszereket a munkájában az év során.</p>",
   "relevans": {
-    "b_konsult": 3,
-    "tillstand": 1,
-    "otrygg": 2,
-    "integritet": 1
+    "integritet": 7,
+    "otrygg": 4,
+    "brottsoffer": 4,
+    "domd": 5,
+    "offentliganstalld": 3
   }
 }

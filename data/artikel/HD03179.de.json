@@ -12,9 +12,9 @@
   "tldr": "Die Regierung plant, ein neues Gesetz zu verabschieden, das es der schwedischen Nachrichtenüberwachungsbehörde (Försvarets radioanstalt) erleichtert, Informationen in Funksignalen während eines Krieges oder Kriegsgefahr zu sammeln. Ziel ist es, die Sicherheit Schwedens zu stärken und Bedrohungen wie Terrorismus und schwere Kriminalität aufzudecken.",
   "lattlast": "<p>Die Regierung hat einen Vorschlag für ein neues Gesetz zur Nachrichtenüberwachung vorgelegt. Nachrichtenüberwachung bedeutet, digitale Informationen und Funksignale abzufangen und zu analysieren, um wichtige Informationen zu erhalten. Dieses neue Gesetz soll der Behörde &quot;Försvarets radioanstalt&quot; (Nachrichtenüberwachungsdienst der schwedischen Streitkräfte) helfen, effektiv zu arbeiten, wenn Schweden sich in einem Krieg befindet oder wenn die Gefahr eines Krieges besteht.</p><p>Der Vorschlag enthält auch Änderungen bestehender Gesetze. Es soll möglich sein, die Nachrichtenüberwachung auch bei militärischen Übungen einzusetzen. Ziel ist es, die Überwachung effizienter zu gestalten, um internationale Terrorismus und andere schwere Verbrechen zu bekämpfen, die die Interessen Schwedens gefährden könnten. Es soll auch einfacher werden, Informationen in Notfallsituationen zu verarbeiten, bei denen bestimmte Arten von Signalen bisher nicht gespeichert werden durften.</p><p>Um dies zu ermöglichen, schlägt die Regierung auch Änderungen der Regeln für das &quot;Försvarsunderrättelsedomstolen&quot; (Militärisches Geheimdienstgericht) vor, das die Überwachung kontrolliert. Es sollen auch Änderungen an den Regeln vorgenommen werden, wie die &quot;Försvarets radioanstalt&quot; personenbezogene Daten verarbeiten darf, wenn sie ihre neuen Aufgaben wahrnimmt.</p><p>Wenn das Parlament dem Vorschlag zustimmt, treten die neuen Gesetze am 1. August 2026 in Kraft.</p>",
   "relevans": {
-    "gdpr": 1,
-    "otrygg": 1,
-    "integritet": 1,
-    "varnpliktig": 3
+    "integritet": 5,
+    "varnpliktig": 4,
+    "offentliganstalld": 3,
+    "b_it": 3
   }
 }

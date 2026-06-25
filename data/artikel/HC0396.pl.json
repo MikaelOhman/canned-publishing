@@ -12,8 +12,13 @@
   "tldr": "Rząd opracował nowy plan dotyczący budowy i rozwoju miast w Szwecji. Celem jest stworzenie bezpieczniejszych i bardziej zrównoważonych miejsc do życia poprzez współpracę różnych grup w społeczeństwie.",
   "lattlast": "<p>Rząd przedstawił nowy plan rozwoju miast i miejscowości w Szwecji. Plan ten, nazywany &quot;skrivelse&quot;, jest dokumentem, w którym rząd określa swoje cele i politykę. Głównym celem jest stworzenie środowisk, które będą bezpieczne i atrakcyjne dla wszystkich mieszkańców.</p><p>Aby osiągnąć ten cel, rząd chce, aby gminy, urzędy i przedsiębiorstwa współpracowały. Chodzi nie tylko o działania podejmowane przez gminy, ale także o to, aby przedsiębiorstwa i organizacje społeczne miały możliwość wsparcia w budowaniu dobrych miast.</p><p>Szwecja ma stać się krajem, który jest liderem w zakresie zrównoważonego rozwoju. Oznacza to budowanie miast, które będą dobrze funkcjonować również w przyszłości, na przykład poprzez uwzględnianie aspektów środowiskowych i klimatycznych.</p><p>W nowym planie znajduje się główny, krajowy cel dotyczący rozwoju miast. Oprócz tego, rząd wyznaczył trzynaście obszarów, na które kładzie szczególny nacisk, aby osiągnąć swoje cele w zakresie rozwoju miast.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "mindre_ort": 1,
-    "klimat": 2
+    "f_storstad": 5,
+    "storstad": 4,
+    "otrygg": 5,
+    "bostadsagare": 3,
+    "hyresgast": 3,
+    "klimat": 4,
+    "b_fastighet": 4,
+    "f_kommun": 5
   }
 }

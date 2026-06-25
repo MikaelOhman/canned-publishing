@@ -12,8 +12,10 @@
   "tldr": "Regeringen vill göra det lättare att få svar när Integritetsskyddsmyndigheten (IMY) är för långsam med att hantera klagomål om personuppgifter. Om det har gått tre månader ska man kunna kräva ett besked om vad som händer med ens klagomål.",
   "lattlast": "<p>Just nu kan det ta lång tid att få svar när man har anmält något till Integritetsskyddsmyndigheten, som är den myndighet som kontrollerar att regler för personuppgifter följs. Regeringen vill därför ändra lagen så att man får mer makt att få svar på sina frågor.</p><p>Om det har gått tre månader sedan du skickade in ett klagomål ska du ha rätt att be myndigheten om ett besked. Myndigheten måste då inom två veckor berätta om de ska starta en kontroll eller inte. Om de inte svarar inom den tiden räknas det som att de har sagt nej till din begäran.</p><p>Om myndigheten säger nej till att kontrollera ditt klagomål har du rätt att överklaga beslutet till en domstol som heter förvaltningsrätten. Om domstolen tycker att myndigheten borde ha svarat på din fråga kan de tvinga myndigheten att ge dig ett besked så snabbt som möjligt.</p><p>De nya reglerna är tänkta att börja gälla den 1 maj 2025. Syftet är att se till att myndigheten arbetar effektivare och inte låter ärenden ligga för länge utan att ge någon information.</p>",
   "relevans": {
-    "b_fastighet": 1,
-    "gdpr": 3,
-    "integritet": 2
+    "gdpr": 7,
+    "integritet": 6,
+    "konsumentratt": 3,
+    "regelborda": 4,
+    "digitalisering": 3
   }
 }

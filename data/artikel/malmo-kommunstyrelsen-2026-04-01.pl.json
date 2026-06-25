@@ -13,14 +13,19 @@
   "tldr": "Spotkanie w ratuszu w Malmö dotyczyło omówienia różnych propozycji, dotacji finansowych i planów dotyczących przyszłości miasta, takich jak nowe projekty budowlane oraz wsparcie dla kultury i wydarzeń.",
   "lattlast": "<p>Komisja ds. spraw miejskich w Malmö rozpatrzyła szereg zagadnień związanych z funkcjonowaniem miasta. Dotyczyło to m.in. przyznawania dotacji różnym organizacjom, takim jak Fryshuset, oraz wspierania różnych wydarzeń, takich jak Malmö Dance Week i Europe Smash.</p><p>Omówiono również kilka ważnych planów dotyczących przyszłości Malmö. Planowane jest wybudowanie nowego stadionu w Malmö oraz opracowanie planu zagospodarowania przestrzennego dla obszaru w Sofielund, znanego jako Malmkrossen. Rozważano również, w jaki sposób miasto powinno planować przestrzenie oraz jak można poprawić środowisko, na przykład poprzez inwestycje w tereny zielone i wodne.</p><p>Spotkanie dotyczyło również tego, jak Malmö ma funkcjonować dla wszystkich mieszkańców. Dyskutowano o tym, jak uczynić miasto bardziej przyjaznym dla osób starszych oraz jak zapobiegać używaniu narkotyków wśród dzieci i młodzieży. Rozważano również propozycje zmiany przepisów dotyczących opłat w przedszkolach, gdy rodzice nie mieszkają razem.</p><p>Na koniec omówiono ważne kwestie związane z regulacjami i kontrolą. Obejmowało to wszystko, od tego, jak wdrażane są nowe przepisy UE dotyczące opakowań i jakości powietrza, po to, jak sprawdzane jest, czy prywatne firmy współpracujące z miastem przestrzegają przepisów. Poruszono również kwestię znaczenia możliwości zgłaszania nieprawidłowości za pośrednictwem specjalnych kanałów, tzw. mechanizmów sygnalistowskich.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_kultur": 1,
-    "lokaler": 1,
-    "mark_bygglov": 1,
-    "barn": 1,
-    "bygger": 1,
-    "konsument": 1,
-    "klimat": 1,
-    "kultur": 1
+    "f_kommun": 6,
+    "barn": 4,
+    "pensionar": 4,
+    "ung": 4,
+    "kultur": 5,
+    "hyresgast": 4,
+    "bostadsagare": 3,
+    "mark_bygglov": 4,
+    "ensam_foralder": 4,
+    "miljo": 4,
+    "b_fastighet": 5,
+    "b_kultur": 4,
+    "ideell": 4,
+    "storstad": 5
   }
 }

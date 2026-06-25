@@ -12,8 +12,10 @@
   "tldr": "Regeringen vill ändra lagarna för hur Kriminalvården får använda personuppgifter. Syftet är att göra arbetet säkrare och effektivare, till exempel genom att kunna använda ansiktsigenkänning.",
   "lattlast": "<p>Regeringen har lagt fram ett förslag om att ändra flera lagar som styr hur Kriminalvården får hantera information om människor. Målet är att reglerna ska bli modernare och passa bättre för dagens behov, samtidigt som man skyddar människors privatliv.</p><p>Genom de nya reglerna ska Kriminalvården få lättare att använda den information som behövs för att genomföra straff på ett säkert sätt. Det innebär bland annat att myndigheten får större möjlighet att använda teknik för ansiktsigenkänning för att underlätta sitt arbete.</p><p>Förslaget gäller ändringar i flera olika lagar, bland annat fängelselagen och regler för elektronisk övervakning, som kallas fotboja. Om riksdagen säger ja till förslaget bör de nya reglerna börja gälla den 1 april 2026.</p>",
   "relevans": {
-    "gdpr": 1,
-    "domd": 3,
-    "integritet": 2
+    "domd": 7,
+    "integritet": 6,
+    "gdpr": 4,
+    "offentliganstalld": 4,
+    "otrygg": 3
   }
 }

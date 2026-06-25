@@ -12,11 +12,17 @@
   "tldr": "A causa degli elevati prezzi dei carburanti e dell'elettricità, il governo sta riducendo le tasse sull'energia: la benzina sarà scontata di 82 centesimi al litro e il diesel di 319 corone per metro cubo (fino al livello minimo previsto dall'UE), e si propone un sostegno per i prezzi dell'elettricità e del gas per le famiglie. Si tratta di una modifica aggiuntiva al bilancio del 2026.",
   "lattlast": "<p>Il governo propone modifiche al bilancio statale per il 2026. Le ragioni alla base di queste modifiche sono gli alti prezzi dei carburanti, legati al conflitto in Medio Oriente, e gli elevati costi dell&#x27;elettricità, aggravati dal rigido clima invernale, che ha reso più costosi i riscaldamenti per le famiglie.</p><p>L&#x27;imposta energetica sulla benzina sarà ridotta di 82 centesimi di euro al litro e sul gasolio di 319 corone svedesi per metro cubo, fino al livello minimo consentito dall&#x27;UE per la classe ambientale 1.</p><p>La proposta include anche misure di sostegno per i prezzi dell&#x27;elettricità e del gas, al fine di alleviare i costi per le famiglie.</p>",
   "relevans": {
-    "b_energi": 1,
-    "punktskatt": 1,
-    "energiintensiv": 1,
-    "bil": 2,
-    "energikund": 3,
-    "klimat": 1
+    "solo": 5,
+    "smaforetag": 5,
+    "b_transport": 8,
+    "b_grona": 5,
+    "punktskatt": 8,
+    "energiintensiv": 5,
+    "bil": 8,
+    "pendlare": 7,
+    "glesbygd": 6,
+    "energikund": 7,
+    "konsument": 6,
+    "foretagare": 5
   }
 }

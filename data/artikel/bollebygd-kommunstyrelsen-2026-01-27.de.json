@@ -13,9 +13,10 @@
   "tldr": "Die Gemeinde Bollebygd plant, Teile des Gemeindehauses umzubauen, um neue Büroräume zu schaffen. Außerdem soll ein Bauantrag für den Abriss eines Teils des Gebäudes in der Göteborgsvägen 19 gestellt werden.",
   "lattlast": "<p>Der Gemeinderat hat beschlossen, mit dem ersten Schritt im Projekt für das Gemeindehaus fortzufahren. Der Plan sieht die Schaffung neuer Büroräume vor, die von Mitarbeitern im Bereich der Sozialarbeit für Einzelpersonen und Familien genutzt werden sollen. Um dies umzusetzen, beantragt die Gemeinde nun eine Genehmigung zum Abriss eines Teils des Gebäudes in der Göteborgsvägen 19.</p><p>Ziel der Umbauarbeiten ist es, das Problem der fehlenden Besprechungsräume in der Gemeinde zu lösen. Viele Abteilungen der Gemeinde haben berichtet, dass sie mehr Räumlichkeiten für Treffen benötigen. Es gibt jedoch die Herausforderung, dass die alte Gebäudestruktur es erschwert, ideal geeignete Besprechungsräume zu schaffen.</p><p>Bevor genau festgelegt werden kann, wie alles aussehen soll, wurden technische Untersuchungen durchgeführt und die Kosten kalkuliert. Ziel dieser Untersuchungen war es, eine bessere Grundlage zu schaffen, um zu beurteilen, wie das Gebäude zukünftig am besten genutzt werden kann.</p><p>Neben Fragen zum Gemeindehaus wurden auf der Sitzung auch Umweltfragen und zukünftige Pläne für die Gemeinde behandelt. Das Unternehmen Flügger AB wurde beispielsweise gebeten, über die Auswirkungen seiner Geschäftstätigkeit auf die Umwelt und die damit verbundenen Emissionen zu berichten.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_vard": 1,
-    "lokaler": 1,
-    "klimat": 1
+    "f_kommun": 4,
+    "lokaler": 4,
+    "mark_bygglov": 4,
+    "miljo": 3,
+    "offentliganstalld": 4
   }
 }

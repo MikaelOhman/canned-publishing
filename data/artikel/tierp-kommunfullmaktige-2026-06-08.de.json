@@ -13,10 +13,16 @@
   "tldr": "Der Gemeinderat von Tierp hat mehrere Beschlüsse gefasst, die verschiedene Bereiche betreffen, von Verkehr und Schulen bis hin zur zukünftigen Stadtplanung. Dazu gehören unter anderem neue Regelungen für Parkgebühren, Sicherheitsmaßnahmen an Bahnhöfen und die strategische Ausrichtung des kommunalen Wachstums bis zum Jahr 2050.",
   "lattlast": "<p>In der Sitzung wurden wichtige Fragen für die Einwohner von Tierp diskutiert. Einer der Vorschläge betraf die Installation von Überwachungskameras an Fahrradstellplätzen in der Nähe des Bahnhofs Örbyhus, um die Sicherheit zu erhöhen. Außerdem wurde die Möglichkeit geprüft, auch Schülern der Oberstufe mit Behinderungen einen Schulbusdienst anzubieten.</p><p>In Bezug auf Finanzen und Vorschriften hat die Gemeinde neue Gebühren beschlossen. Dazu gehören unter anderem die Kosten für die Nutzung von Gemeindegebiet und die Parkgebühren am Trollsjön. Es wurde auch festgelegt, zu welchen Preisen die Gemeinde Grundstücke im Gebiet Siggbo Trädgårdsstad verkaufen wird.</p><p>Für die Zukunft hat die Gemeinde einen Flächennutzungsplan für das Jahr 2050 verabschiedet. Dies ist ein langfristiger Plan, der zeigt, wie die Gemeinde in den kommenden Jahrzehnten genutzt und bebaut werden soll. Außerdem wurden Regeln für das Verhalten von Politikern festgelegt, um Korruption und andere Fehlverhalten zu vermeiden.</p><p>Abschließend wurden Entscheidungen über Kooperationen und Organisationen getroffen. Dazu gehören eine Zusammenarbeit mit der Gemeinde Heby, um Waren und Dienstleistungen gemeinsam und effizienter einzukaufen, sowie neue Regeln für die Arbeitsweise der verschiedenen Ausschüsse in der Gemeinde.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "barn": 1,
-    "storstad": 1,
-    "bil": 1,
-    "konsument": 1
+    "f_kommun": 6,
+    "mark_bygglov": 5,
+    "bil": 4,
+    "pendlare": 5,
+    "funktion": 5,
+    "barn": 4,
+    "gymnasieelev": 4,
+    "bostadsagare": 4,
+    "glesbygd": 4,
+    "fortroendevald": 5,
+    "upphandling": 3
   }
 }

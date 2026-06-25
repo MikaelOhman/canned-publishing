@@ -13,10 +13,11 @@
   "tldr": "Az önkormányzat döntött úgy, hogy a lakosok és a vállalkozások számára lehetőséget biztosít, hogy megtekinthessék az új javaslatot a Stödstorp területére vonatkozóan. A javaslat a LogPoint South Sweden területéről a 846-os útra történő behajtási szabályok módosításáról szól.",
   "lattlast": "<p>A kommunális tanács munkabizottsága döntést hozott egy részletes terv módosításáról, amely a Stödstorp 2:1 LogPoint South Sweden területre vonatkozik. A részletes terv egy olyan dokumentum, amely meghatározza, hogy mit szabad egy adott helyen csinálni, például hogyan lehet az utakat vagy az épületeket használni.</p><p>A módosítás fő célja egy meglévő korlátozás eltörlése. Jelenleg tilos a területből a 8-as útra kimenni, de ezt szeretnék megváltoztatni. Emellett felmérték, hogy az új terv jelentős környezeti károkat okozhat-e, és arra jutottak, hogy ilyen kockázat nem áll fenn.</p><p>A döntés meghozatala előtt konzultációt tartottak 2024 decemberében és 2025 januárjában. A konzultáció egy olyan találkozó vagy időszak, amikor az érintettektől kikérik a véleményüket. A vélemények figyelembevétele után új dokumentumokat készítettek, amelyek a frissített javaslatot mutatják be.</p><p>Most a javaslat nyilvánosan megtekinthető. Ez azt jelenti, hogy mindenki, aki szeretné, elolvashatja a dokumentumokat és megismerheti a tervezett változásokat. Ez a svéd építési és tervezési szabályozást (Plan- och bygglagen) tartalmazó törvénynek megfelelően történik.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "mark_bygglov": 1,
-    "bygger": 1,
-    "glesbygd": 1,
-    "klimat": 1
+    "b_transport": 6,
+    "b_industri": 5,
+    "f_kommun": 6,
+    "mark_bygglov": 5,
+    "lokaler": 4,
+    "bil": 3
   }
 }

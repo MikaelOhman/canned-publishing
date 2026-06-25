@@ -12,8 +12,10 @@
   "tldr": "Guvernul dorește să simplifice procesul de obținere a răspunsurilor atunci când Autoritatea de Protecție a Datelor Personale (IMY) este prea lentă în a trata reclamațiile referitoare la datele personale. Dacă au trecut trei luni, ar trebui să fie posibil să se solicite o informație despre stadiul în care se află reclamația.",
   "lattlast": "<p>În prezent, poate dura foarte mult timp pentru a primi un răspuns atunci când se face o sesizare către Autoritatea de Supraveghere a Protecției Datelor, instituția responsabilă cu verificarea respectării regulilor privind datele personale. Prin urmare, guvernul dorește să modifice legea pentru a oferi mai multă putere persoanelor de a obține răspunsuri la întrebările lor.</p><p>Dacă au trecut trei luni de la trimiterea unei reclamații, aveți dreptul de a solicita autorității un răspuns. Autoritatea trebuie să informeze, în termen de două săptămâni, dacă va iniția sau nu o investigație. Dacă autoritatea nu răspunde în acest interval, se consideră că a refuzat cererea dumneavoastră.</p><p>Dacă autoritatea refuză să investigheze reclamația dumneavoastră, aveți dreptul de a contesta decizia în fața unei instanțe numită &quot;förvaltningsrätten&quot;. Dacă instanța consideră că autoritatea ar fi trebuit să răspundă la întrebarea dumneavoastră, aceasta poate obliga autoritatea să vă ofere un răspuns cât mai curând posibil.</p><p>Noile reguli sunt menite să intre în vigoare începând cu 1 mai 2025. Scopul este de a asigura că autoritatea funcționează mai eficient și nu lasă cazurile să aștepte prea mult timp fără a oferi informații.</p>",
   "relevans": {
-    "b_fastighet": 1,
-    "gdpr": 3,
-    "integritet": 2
+    "gdpr": 7,
+    "integritet": 6,
+    "konsumentratt": 3,
+    "regelborda": 4,
+    "digitalisering": 3
   }
 }

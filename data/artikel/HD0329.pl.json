@@ -12,6 +12,12 @@
   "tldr": "Najwyższy audytor (Riksrevisionen) wykrył problemy związane z tym, jak organy państwowe ustalają i wykorzystują opłaty za usługi świadczone przedsiębiorstwom. Istnieje ryzyko, że środki te nie są wykorzystywane w sposób najbardziej efektywny.",
   "lattlast": "<p>Riksrevisionen to instytucja, która kontroluje, w jaki sposób państwo wykorzystuje swoje pieniądze. Opublikowała raport, który wykazuje problemy z tym, jak niektóre instytucje pobierają opłaty od przedsiębiorstw. Problem polega na tym, że ta sama instytucja określa zarówno wysokość opłaty, jak i sposób wykorzystania zebranych środków.</p><p>Kiedy instytucje zatrzymują swoje własne dochody, narusza to ważne zasady dotyczące zarządzania budżetem państwa. Riksrevisionen uważa, że może to prowadzić do nieefektywności, co oznacza, że pieniądze nie są wykorzystywane w sposób, w jaki powinny być. Instytucja zwraca również uwagę, że Ekonomistyrningsverket, instytucja kontrolująca finanse państwa, może wnieść większy wkład w tę pracę.</p><p>Rząd zapoznał się z raportem i zgadza się z niektórymi jego zarzutami. Chce kontynuować prace nad poprawą sposobu rozliczania opłat, aby ułatwić ich kontrolę. Rząd ma również zbadać, czy rzeczywiście konieczne jest, aby instytucje nadal korzystały z obecnych wyjątków od zasad budżetowych.</p>",
   "relevans": {
-    "konsument": 3
+    "foretagare": 5,
+    "solo": 4,
+    "aktiebolag": 4,
+    "smaforetag": 4,
+    "regelborda": 5,
+    "avgifter": 4,
+    "upphandling": 4
   }
 }

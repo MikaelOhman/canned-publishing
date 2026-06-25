@@ -12,7 +12,13 @@
   "tldr": "A Riksrevisionen (Svédország fővizsgálója) megállapította, hogy a IVO (svéd egészségügyi felügyeleti hatóság) nem elég hatékony a betegek panaszainak kezelésében. A kormány most felkérte a IVO-t, hogy készítsen egy tervet a munkájának felgyorsítására és a hatékonyságának javítására.",
   "lattlast": "<p>A Riksrevisionen egy olyan szerv, amely ellenőrzi, hogy más szervek megfelelően végzik-e a feladatukat. Felülvizsgálatot végzett az Inspektionen för vård och omsorg (IVO) nevű szervezettel, amelyet gyakran csak IVO-ként rövidítenek. Az IVO egy olyan szerv, amelynek feladata, hogy biztosítsa a megfelelő egészségügyi ellátást, és amely fogadja a panaszokat azoktól, akik nem elégedettek az ellátásukkal.</p><p>A felülvizsgálat eredményei azt mutatják, hogy az IVO nem működik hatékonyan, amikor egyéni panaszokat kezel. Ez azt jelenti, hogy a rendszer nem működik olyan jól, ahogy kellene, amikor az emberek arról számolnak be, hogy hibák történtek az egészségügyi ellátás során. A Riksrevisionen ezért javaslatokat tett arra, hogy milyen változtatásokra van szükség.</p><p>A kormány egyetért abban, hogy problémák vannak. Ennek megoldására a kormány fontos feladatot adott az IVO-nak. A szervnek most egy tervet kell készítenie arról, hogyan csökkentheti a várakozási idejét, és hogyan biztosíthatja, hogy minden beérkező ügyet időben el tudja látni.</p><p>Ezzel a döntéssel a kormány úgy véli, hogy a jelentéshez kapcsolódó munka befejeződött. A cél az, hogy mindenki, aki segítségért fordul, vagy panaszolja az egészségügyi ellátást, megbízhat abban, hogy a szerv igazságos és színvonalas munkát végez.</p>",
   "relevans": {
-    "b_vard": 3,
-    "kronisk": 3
+    "kronisk": 6,
+    "funktion": 5,
+    "anhorigvardare": 5,
+    "pensionar": 5,
+    "sjukskriven": 4,
+    "b_vard": 6,
+    "offentliganstalld": 4,
+    "brottsoffer": 3
   }
 }

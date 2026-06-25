@@ -12,9 +12,10 @@
   "tldr": "Guvernul dorește să modifice regulile pentru a simplifica procesul de închiriere a navelor străine și de închiriere a navelor suedeze. Scopul este de a ajuta companiile de transport maritim suedeze să își gestioneze afacerile mai eficient și să obțină împrumuturi pentru achiziționarea de nave noi.",
   "lattlast": "<p>Guvernul a prezentat o propunere de modificare a legilor referitoare la închirierea și subînchirierea navelor mari. Aceasta se referă la un concept numit &quot;închiriere de navă&quot;, care înseamnă închirierea unei nave întregi, fără a include echipajul.</p><p>Propunerea prevede crearea unei noi secțiuni în registrul navelor suedez, care este lista oficială a tuturor ambarcațiunilor înregistrate în Suedia. Această nouă secțiune va facilita monitorizarea navelor străine închiriate în Suedia.</p><p>Prin clarificarea regulilor, se speră că companiile de transport maritim suedeze (adică, companiile care dețin și operează nave) vor putea să-și planifice activitatea într-un mod mai eficient. De asemenea, va fi mai ușor pentru ele să obțină finanțare pentru a achiziționa nave noi.</p><p>Dacă Parlamentul va vota în favoarea propunerii, noile reguli vor intra în vigoare începând cu 1 februarie 2026. Propunerea implică modificări în mai multe legi diferite care reglementează transportul maritim, cum ar fi legea maritimă și legea privind înregistrarea ambarcațiunilor.</p>",
   "relevans": {
-    "b_transport": 1,
-    "b_finans": 1,
-    "hyresgast": 1,
-    "batagare": 1
+    "b_transport": 7,
+    "finansiering": 5,
+    "export": 4,
+    "import": 4,
+    "eu_marknad": 3
   }
 }

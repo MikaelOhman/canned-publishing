@@ -12,11 +12,12 @@
   "tldr": "A kormány szeretné megváltoztatni az iskolai értékelési rendszert, hogy az igazságosabb legyen, és megakadályozza, hogy a jegyek túl magasak legyenek. Az új rendszer mind a jegyeket, mind a országos vizsgákat fogja használni annak megítélésére, hogy egy diák mennyire teljesít.",
   "lattlast": "<p>A kormány egy javaslatot terjesztett elő a törvénybe, amely a törvényt módosít. A cél az, hogy a diákok tudása igazságosabban jelenjen meg, és hogy elkerüljék azt, hogy a jegyek túl jók legyenek, annak ellenére, hogy a diákok valójában nem rendelkeznek a megfelelő tudással. A javaslat egy új, tíztartományos skálát vezet be az általános iskolában és a középiskolában, 1-től 10-ig.</p><p>A diákok teljesítményének értékelésére úgynevezett &quot;teljesítményérték&quot; kerül alkalmazásra. Ez az érték a diákok jegyein és az új, országos vizsgákon elért eredményeken alapul. Ezek a vizsgák az általános iskolában, a speciális iskolákban, a középiskolában és a önkormányzat által működtetett felnőttképzésben lesznek elérhetők. A vizsgák központilag lesznek értékelve, hogy mindenki számára azonos feltételek mellett történjen.</p><p>Új szabályok is vannak a különböző programokba és képzésekbe való bekerüléshez. A középiskolai programokba való felvételhez legalább 4-es teljesítményérték szükséges. A középiskolai diploma megszerzéséhez legalább 4-es átlagra és legalább 2250 pontra van szükség. A felsőoktatásba való jelentkezéskor a jelentkezők jegyei mellett a teljesítményértéket is figyelembe veszik.</p><p>A legtöbb változás 2028. július 1-jén lép hatályba. A község által működtetett felnőttképzésre azonban később, 2031. január 1-jén lépnek érvénybe.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_utbildning": 1,
-    "barn": 1,
-    "student": 1,
-    "gymnasieelev": 1,
-    "vuxenstudier": 1
+    "gymnasieelev": 9,
+    "barn": 7,
+    "ung_vuxen": 6,
+    "student": 5,
+    "b_utbildning": 7,
+    "offentliganstalld": 4,
+    "ensam_foralder": 3
   }
 }

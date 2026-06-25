@@ -12,14 +12,13 @@
   "tldr": "Regeringen vill ändra reglerna för bygglov för att göra det enklare och snabbare att bygga och ändra på hus. Målet är att det ska bli lättare att skapa fler bostäder och att ägare får mer makt över sina egna tomter.",
   "lattlast": "<p>Regeringen har lagt fram ett förslag om att ändra lagen för planering och byggande. Om förslaget går igenom den 1 december 2025 kommer det att bli lättare att göra vissa saker på sin fastighet utan att behöva söka bygglov först. Detta gäller bland annat att bygga större tillbyggnader eller att ändra på fasaden på småhus.</p><p>För de som bor i områden som inte har en detaljplan, vilket är en karta som bestämmer vad man får bygga, föreslås det att man får bygga mer utan lov. Det kan handla om mindre hus på tomten, som till exempel ett förråd eller ett gästhus. Det finns dock undantag för områden som är viktiga för landets försvar eller områden som är särskilt värdefulla för miljön.</p><p>Det blir också enklare att ändra utseendet på huset utan att fråga kommunen. Du ska kunna byta material på fasaden, måla om eller sätta upp solceller och takfönster utan att behöva söka bygglov. Även reglerna för att använda vindar och att starta små lokaler i gamla byggnader ska bli mer flexibla.</p><p>Förslaget innebär även ändringar i flera andra lagar, som till exempel miljöbalken och regler för skyltning. Syftet med alla dessa ändringar är att minska krånglet med myndigheter och göra det smidigare för privatpersoner att utveckla sina fastigheter.</p>",
   "relevans": {
-    "b_bygg": 3,
-    "b_vard": 1,
-    "b_fastighet": 1,
-    "miljo": 1,
-    "lokaler": 1,
-    "mark_bygglov": 3,
-    "bygger": 3,
-    "klimat": 1,
-    "varnpliktig": 1
+    "bostadsagare": 8,
+    "bygger": 8,
+    "b_bygg": 6,
+    "b_fastighet": 5,
+    "mark_bygglov": 7,
+    "glesbygd": 5,
+    "regelborda": 5,
+    "smaforetag": 4
   }
 }

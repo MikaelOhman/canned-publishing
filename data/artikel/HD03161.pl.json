@@ -12,9 +12,13 @@
   "tldr": "Rząd chce, aby Agencja Płatności (Utbetalningsmyndigheten) mogła kontrolować środki finansowe przekazywane gminom, w celu powstrzymania nieprawidłowych wypłat i przestępstw. Ma to być realizowane poprzez umożliwienie agencji wglądu w dane i przegląd decyzji podejmowanych przez gminy.",
   "lattlast": "<p>Rząd przedstawił propozycję, która ma ułatwić wykrywanie nieprawidłowości w wypłatach świadczeń socjalnych. Agencja ds. Wypłat (Utbetalningsmyndigheten) ma otrzymać uprawnienia do wykorzystywania analizy danych w celu weryfikacji wsparcia finansowego udzielanego przez gminy poszczególnym osobom. Celem jest zwalczanie przestępczości finansowej i zapewnienie, że pieniądze trafiają do właściwych osób.</p><p>Aby to było możliwe, rząd proponuje, aby gminy udostępniały informacje niezbędne do przeprowadzenia kontroli. Jeśli agencja potrzebuje bardziej szczegółowych danych podczas szczegółowej weryfikacji, gminy również powinny w tym pomóc. Gmina, która podjęła decyzję o wypłacie, powinna być informowana o rozpoczęciu, zakończeniu i wynikach kontroli.</p><p>Propozycja ma służyć jako dodatkowe wsparcie dla kontroli, które gminy już same przeprowadzają. Nie chodzi o zastąpienie pracy gmin, ale o dodanie dodatkowej warstwy bezpieczeństwa w celu ochrony systemu opieki społecznej.</p><p>Nowe przepisy dotyczące kontroli mają obowiązywać od 1 lipca 2026 roku. Jednak w przypadku zasady, zgodnie z którą gminy muszą automatycznie przekazywać informacje bez pytania agencji, proponuje się, aby zasada ta zaczęła obowiązywać dopiero od 1 lipca 2029 roku.</p>",
   "relevans": {
-    "b_vard": 3,
-    "infrastruktur": 1,
-    "batagare": 1,
-    "otrygg": 1
+    "bidrag": 5,
+    "lontagare": 3,
+    "pensionar": 4,
+    "barn": 3,
+    "skuldsatt": 4,
+    "offentliganstalld": 4,
+    "f_kommun": 6,
+    "fortroendevald": 4
   }
 }

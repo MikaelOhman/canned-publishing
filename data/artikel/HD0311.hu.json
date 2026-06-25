@@ -12,10 +12,11 @@
   "tldr": "A kormány szeretné tiltani a pénzes játékokat, amelyek hitel vagy hitelkártya segítségével fizethetők. A cél az, hogy megakadályozzák, hogy az emberek nagy adósságokba kerüljenek a szerencsejáték miatt.",
   "lattlast": "<p>A kormány egy javaslatot terjesztett elő a szerencsejátékokra vonatkozó törvény módosításáról. Az új javaslat értelmében azok, akik engedélyt kaptak szerencsejátékok üzemeltetésére vagy értékesítésére, azaz a licencjogosítványosok és a játékügynökök, nem engedhetik, hogy az ügyfelek olyan pénzzel játsszanak, amelyet felvettek kölcsön.</p><p>A játékokat kínálóknak mindent meg kell tenniük annak érdekében, hogy senki ne használjon hitelt a játék során. Ez vonatkozik minden típusú, legális szerencsejátékra Svédországban, függetlenül attól, hogy online vagy egy fizikai helyszínen játsszák.</p><p>Lehetőség van a szabály alól kivételt kérni, de ehhez a Spelinspektionen (Szerencsejáték Felügyeleti Hatóság) jóváhagyása szükséges. A Spelinspektionen az a hatóság, amely ellenőrzi, hogy mindenki betartja-e a svéd szerencsejátékokra vonatkozó szabályokat.</p><p>Ha a parlament megszavazza a javaslatot, az új szabályok 2026. április 1-jén lépnek hatályba.</p>",
   "relevans": {
-    "b_finans": 3,
-    "tillstand": 2,
-    "infrastruktur": 1,
-    "lantagare": 1,
-    "batagare": 1
+    "beroende": 8,
+    "skuldsatt": 7,
+    "bidrag": 4,
+    "ung_vuxen": 4,
+    "konsument": 5,
+    "b_it": 3
   }
 }

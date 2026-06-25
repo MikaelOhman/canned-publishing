@@ -15,15 +15,18 @@
   "tldr": "Alingsås önkormányzatban a politikusok fontos gazdasági szabályokat fogadtak el a helyi vállalatok számára, és kiosztották a 2025-ös környezetvédelmi díjat. Emellett számos javaslatot (kezdeményezést) kaptak, amelyek témái a legkülönbözőbbek, az új lakásoktól a kerékpárutakig.",
   "lattlast": "<p>A közgyűlésen a Építési és Környezetvédelmi Bizottság átadta a környezetvédelmi díjat a Vikaryds Egendoms AB vállalatnak a 2027-es évre. Emellett megvitatták, hogy milyen legyen a kamat, amikor a község pénzt kölcsönöz saját vállalatainak 2027-ben. Fontos, hogy a kamat piaci árfolyamon legyen, azaz olyan, mint egy hagyományos banknál, hogy a vállalatok ne élvezzenek igazságtalan előnyt.</p><p>A politikusok több javaslatot is kaptak, amelyeket &quot;indítványoknak&quot; neveznek. Ezek között szerepelnek javaslatok a lakások számának növelésére az Alingsåshem épületeinek padlásszobáinak beépítésével, kerékpáros töltőállomások telepítésére, valamint annak a lehetőségének vizsgálatára, hogy gyalogos- és kerékpárutakat építsenek bizonyos utakon. Emellett voltak javaslatok olyan szervezetek támogatására, amelyek éjszakai járőrözést végeznek, valamint Ukrajna támogatásának erősítésére.</p><p>A közgyűlésen megvitattak néhány más fontos kérdést is, többek között azt, hogy hogyan változtassák meg a szabályokat a politikusok számára járó támogatások tekintetében, és hogy vezessenek be vitákat a közgyűlésen. Új tagokat is választottak különböző bizottságokba, például a kulturális és oktatási bizottságba és a műszaki bizottságba, miután a korábbi tagok befejezték a munkájukat.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_finans": 1,
-    "b_kultur": 1,
-    "glesbygd": 1,
-    "sparare": 1,
-    "lantagare": 1,
-    "idrott": 1,
-    "klimat": 1,
-    "kultur": 1,
-    "fortroendevald": 1
+    "f_kommun": 6,
+    "f_fastighet": 4,
+    "mark_bygglov": 5,
+    "b_fastighet": 4,
+    "hyresgast": 4,
+    "bostadsagare": 4,
+    "bygger": 4,
+    "pendlare": 4,
+    "bil": 3,
+    "kollektiv": 4,
+    "fortroendevald": 5,
+    "ideell": 4,
+    "volontar": 4
   }
 }

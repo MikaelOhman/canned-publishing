@@ -12,9 +12,14 @@
   "tldr": "Regeringen vill ändra reglerna för hyror i nybyggda hyreshus för att det ska bli lättare att bygga nya bostäder. Förslaget innebär att hyrorna ska kunna ändras på ett enklare sätt och att konflikter om hyran ska kunna lösas snabbare.",
   "lattlast": "<p>Regeringen har gjort ett förslag om att ändra reglerna för så kallade presumtionshyror. Det är en speciell typ av hyra som används i nybyggda hyreshus. Målet med ändringen är att det ska bli mer lönsamt för företag att bygga nya hyresbostäder, vilket kan leda till att fler bostäder skapas.</p><p>En viktig del i förslaget är att det ska bli lättare att justera hyran under tiden som man bor i huset. Hyran ska i framtiden kunna följa den allmänna prisutvecklingen på den plats där huset ligger. Det ska också gå att ändra hyran om en hyresgäst själv väljer att lägga till eller ta bort något i sin lägenhet, till exempel extra utrustning.</p><p>Om hyresvärden och de som företräder hyresgästerna inte kommer överens om hyran, vill regeringen införa ett nytt sätt att lösa bråk. Man föreslår att man kan använda en särskild person, som kallas skiljeman, för att snabbt och enkelt avgöra tvister. Detta ska göra förhandlingarna mer effektiva och mindre krångliga.</p><p>Om alla dessa ändringar blir godkända av riksdagen, planerar man att de nya reglerna ska börja gälla den 1 januari 2026. Förslaget innebär också ändringar i flera olika lagar som styr hur hyror och tvister ska hanteras i Sverige.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_fastighet": 1,
-    "lontagare": 1,
-    "hyresgast": 1
+    "hyresgast": 7,
+    "bostadsagare": 4,
+    "b_fastighet": 9,
+    "bygger": 5,
+    "aktiebolag": 5,
+    "smaforetag": 4,
+    "storstad": 5,
+    "lantagare": 4,
+    "f_storstad": 5
   }
 }

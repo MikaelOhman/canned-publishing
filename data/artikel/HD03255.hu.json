@@ -12,9 +12,16 @@
   "tldr": "A kormány szeretné módosítani a törvényt úgy, hogy a Központi Statisztikai Hivatal (SCB) több információt gyűjthessen a háztartások tartozásairól, azokról a kamatokról és a visszafizetésekről, amelyeket fizetnek. Ezt azért teszik, hogy jobban megérthessék a társadalom gazdasági kockázatait.",
   "lattlast": "<p>A kormány egy javaslatot terjesztett elő, amelynek célja a Fasit nevű rendszer működésének bővítése. A Fasit egy olyan eszköz, amelyet a Központi Statisztikai Hivatal (SCB) használ a különböző gazdasági szabályozások hatásának elemzésére a lakosságra. A háztartások tartozásait és fizetéseit tartalmazó adatok hozzáadásával pontosabban meg lehet mérni, hogy a háztartások mennyire érzékenyek a gazdasági változásokra.</p><p>Ahhoz, hogy ez a rendszer megfelelően működjön, a bankoknak és más, lakáshitel-szolgáltatásban tevékenykedő vállalatoknak adatokat kell átadniuk a háztartások tartozásairól és fizetéseiről az SCB-nek. Fontos tudni, hogy a háztartások mennyit fordítanak a tartozásokra, hogy a kormány képes legyen megfelelő gazdaságpolitikát kidolgozni. Ez segít a hatóságoknak abban, hogy felmérjék, a magas kamatok vagy más költségek jelentős problémákat okoznak-e a családok számára.</p><p>Annak ellenére, hogy több adatot gyűjtenek, a személyes adatok védelmére vonatkozó szabályok szigorúak. Csak azokat az adatokat szabad használni, amelyek feltétlenül szükségesek, és tilos olyan érzékeny adatokat használni, mint például az egészségügyi állapot vagy az etnikai hovatartozás. A cél, hogy jó minőségű statisztikákat kapjunk, anélkül, hogy megsértjük az emberek magánéletét.</p><p>Ha a javaslatot elfogadják, és a parlament megszavazza, az új szabályok 2026. augusztus 1-jén lépnek életbe.</p>",
   "relevans": {
-    "b_finans": 1,
-    "gdpr": 1,
-    "lantagare": 3,
-    "integritet": 2
+    "lantagare": 6,
+    "skuldsatt": 6,
+    "bostadsagare": 5,
+    "sparare": 4,
+    "pensionssparare": 3,
+    "b_finans": 5,
+    "integritet": 4,
+    "gdpr": 3,
+    "stor_familj": 3,
+    "sambo_gift": 3,
+    "ensam_foralder": 3
   }
 }

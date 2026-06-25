@@ -15,9 +15,15 @@
   ],
   "html": "<p>---</p><p>W propozycji prawa przewiduje się podwyższenie podatku od nieruchomości na rzecz elektrowni wiatrowych z 0,2% do 0,5% wartości opodatkowania. Podatek od nieruchomości należy płacić m.in. za nieruchomości, które w trakcie wyceny są klasyfikowane jako jednostki wytwarzania energii elektrycznej. Dla jednostek wytwarzania energii elektrycznej, w skład których wchodzi jednostka wyceny z elektrownią wiatrową, podatek od nieruchomości wynosi 0,2% wartości opodatkowania. Dla pozostałych jednostek wytwarzania energii elektrycznej podatek od nieruchomości wynosi 0,5% wartości opodatkowania. Propozycja ta przewiduje wprowadzenie jednolitej stawki podatkowej dla wszystkich jednostek wytwarzania energii elektrycznej.</p><p>Proponowane zmiany w prawie mają wejść w życie 1 stycznia 2026 roku.</p>",
   "relevans": {
-    "b_fastighet": 3,
-    "b_energi": 3,
-    "bostadsagare": 3,
-    "energikund": 1
+    "b_energi": 10,
+    "energiintensiv": 7,
+    "energikund": 6,
+    "gron_omstallning": 6,
+    "b_industri": 5,
+    "storforetag": 6,
+    "aktiebolag": 5,
+    "f_landsbygd": 5,
+    "glesbygd": 4,
+    "klimat": 5
   }
 }

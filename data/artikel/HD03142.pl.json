@@ -12,7 +12,20 @@
   "tldr": "Rząd zamierza zmienić przepisy, aby zwiększyć bezpieczeństwo obywateli w sytuacjach kryzysowych i w czasie wojny. Planowane działania obejmują poprawę infrastruktury schronów oraz opracowanie lepszych planów dotyczących zakwaterowania ludności w przypadku podniesienia poziomu gotowości.",
   "lattlast": "<p>Bezpieczeństwo w Szwecji pogorszyło się, dlatego też państwo pracuje nad wzmocnieniem obrony cywilnej. Oznacza to, że potrzebujemy lepszych schronów i innych bezpiecznych miejsc, w których można się schronić w przypadku wojny lub poważnego kryzysu w kraju. Nazywa się to podniesieniem gotowości.</p><p>Rząd przedstawił parlamentowi propozycję zmian w kilku ustawach. Chce wprowadzić nową ustawę o schronach i zmienić przepisy określające, w jaki sposób ludzie mają być ewakuowani i zapewnieni z miejscem zamieszkania w sytuacjach kryzysowych. Chce również zmienić ustawę o planowaniu przestrzennym i budownictwie, która reguluje zasady budowy w Szwecji.</p><p>Celem tych zmian jest stworzenie jasnych planów, kto jest odpowiedzialny za co, gdy konieczna jest ewakuacja. Ma to również jasno określić, jak zapewnić zakwaterowanie dla osób, które nie mogą pozostać w swoich domach.</p><p>Jeśli parlament zatwierdzi propozycję, nowe przepisy zaczną obowiązywać 1 czerwca 2026 roku.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "varnpliktig": 1
+    "bostadsagare": 5,
+    "hyresgast": 5,
+    "bostadslos": 4,
+    "glesbygd": 3,
+    "storstad": 3,
+    "mindre_ort": 3,
+    "varnpliktig": 5,
+    "barn": 4,
+    "pensionar": 4,
+    "kronisk": 3,
+    "funktion": 3,
+    "mark_bygglov": 4,
+    "b_fastighet": 3,
+    "f_kommun": 4,
+    "offentliganstalld": 3
   }
 }

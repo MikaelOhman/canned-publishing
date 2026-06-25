@@ -12,12 +12,22 @@
   "tldr": "Guvernul a prezentat propunerea de buget al Suediei pentru anul 2026. Documentul stabilește suma de bani pe care statul o poate utiliza și suma pe care o poate împrumuta în următorii ani.",
   "lattlast": "<p>Guvernul propune un plan privind modul în care fondurile statului vor fi utilizate în perioada 2026, 2027 și 2028. O decizie importantă este așa-numita limită maximă de cheltuieli, care reprezintă plafonul maxim pe care statul îl poate cheltui. Pentru anul 2026, limita propusă este de 1.936 miliarde de coroane suedeze, iar pentru anul 2027, propunerea este de 2.009 miliarde de coroane suedeze.</p><p>Planul include, de asemenea, reguli privind suma de bani pe care statul trebuie să o economisească. Începând cu anul 2027, obiectivul este ca statul să aibă o economie echilibrată cu economia țării. Acest lucru se face pentru a asigura o economie stabilă, chiar și în perioadele dificile.</p><p>Guvernul dorește, de asemenea, să aibă dreptul de a împrumuta bani pentru a acoperi cheltuieli importante. Printre acestea se numără posibilitatea de a împrumuta până la 74,9 miliarde de coroane suedeze pentru a achiziționa echipamente și clădiri necesare activității statului. De asemenea, există propuneri de modificare a diferitelor taxe, cum ar fi taxa pe energie, taxa de autostradă și impozitul pe venit.</p><p>Pentru a menține o gestionare eficientă a economiei, guvernul propune, de asemenea, ca Agenția Națională pentru Finanțe (Riksgäldskontoret), care gestionează fondurile statului, să aibă autoritatea de a gestiona împrumuturi și credite. Acest lucru înseamnă că statul are un plan clar atât pentru modul în care sunt utilizate banii, cât și pentru modul în care aceștia vor fi rambursați.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_finans": 1,
-    "b_energi": 1,
-    "lontagare": 1,
-    "glesbygd": 1,
-    "sparare": 1,
-    "energikund": 1
+    "solo": 4,
+    "aktiebolag": 4,
+    "arbetsgivare": 4,
+    "smaforetag": 4,
+    "storforetag": 5,
+    "moms": 3,
+    "bolagsskatt": 4,
+    "avgifter": 4,
+    "punktskatt": 3,
+    "lontagare": 3,
+    "foretagare": 4,
+    "pensionar": 3,
+    "energikund": 3,
+    "bil": 3,
+    "konsument": 3,
+    "pensionssparare": 3,
+    "sparare": 3
   }
 }

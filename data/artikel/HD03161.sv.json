@@ -12,9 +12,13 @@
   "tldr": "Regeringen vill att Utbetalningsmyndigheten ska kunna kontrollera kommunernas pengar för att stoppa felaktiga utbetalningar och brott. Detta ska göras genom att myndigheten får titta på data och granska kommunernas beslut.",
   "lattlast": "<p>Regeringen har lagt fram ett förslag som gör det lättare att upptäcka när pengar betalas ut felaktigt i välfärden. Myndigheten Utbetalningsmyndigheten ska få rätt att använda dataanalys för att granska de ekonomiska stöd som kommunerna ger till enskilda personer. Syftet är att stoppa ekonomisk brottslighet och se till att pengarna hamnar hos rätt personer.</p><p>För att detta ska fungera föreslår regeringen att kommunerna måste lämna ut den information som behövs för granskningen. Om myndigheten behöver mer detaljer vid en djupare kontroll måste kommunerna också hjälpa till med det. Kommunen som har beslutat om en utbetalning ska få veta när en granskning startar, när den slutar och vad resultatet blev.</p><p>Förslaget är tänkt att fungera som ett extra stöd till de kontroller som kommunerna redan gör själva. Det handlar alltså inte om att ersätta kommunernas arbete, utan om att lägga till ett extra lager av säkerhet för att skydda välfärdssystemet.</p><p>De nya reglerna för granskning föreslöts börja gälla den 1 juli 2026. Men när det gäller regeln att kommuner automatiskt måste skicka information utan att myndigheten frågar, så föreslås det att den börjar gälla först den 1 juli 2029.</p>",
   "relevans": {
-    "b_vard": 3,
-    "infrastruktur": 1,
-    "batagare": 1,
-    "otrygg": 1
+    "bidrag": 5,
+    "lontagare": 3,
+    "pensionar": 4,
+    "barn": 3,
+    "skuldsatt": 4,
+    "offentliganstalld": 4,
+    "f_kommun": 6,
+    "fortroendevald": 4
   }
 }

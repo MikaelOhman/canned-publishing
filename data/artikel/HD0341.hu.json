@@ -12,9 +12,14 @@
   "tldr": "A kormány szigorítani szeretné a szabályozást azokkal a fajokkal kapcsolatban, amelyek károsítják a természetet, és behozatalukra vonatkozik. Ha valaki szándékosan vagy súlyos hanyagsággal hoz be ilyen fajokat, bírságot szabhatnak ki rá, vagy akár börtönbüntetést is kiszabhatnak.",
   "lattlast": "<p>A kormány javaslatot terjesztett be új törvényekre, amelyek célja a természet védelme a betelepített, idegen fajoktól. Ezek olyan fajok, amelyek nem tartoznak ide, és károsíthatják a környezetünket. A javaslat értelmében Svédország saját listát vezetne be arról, hogy mely fajok behozása tilos az országba.</p><p>Amennyiben valaki szándékosan vagy súlyos gondatlansággal hoz be ilyen fajt egy másik EU-országból, az büntetést vonhat maga után. A büntetés pénzbírság vagy akár két évig tartó szabadságvesztés is lehet. Emellett kötelezővé válik, hogy be kell jelenteni a vámhivatalnak, ha valaki ilyen fajt hoz be egy másik EU-országból.</p><p>A vámhivatal, amely a határátlépő áruk ellenőrzését végzi, több felhatalmazást kap. Képesek lesznek ellenőrizni, hogy mindenki betartja-e a szabályokat, és bizonyos esetekben átvehetik a tiltott állatok vagy növények kezelését. Ez annak érdekében történik, hogy a veszélyes fajok ne kerüljenek be Svédországba.</p><p>Az új szabályok várhatóan 2026. május 1-jén lépnek életbe. A javaslat két különböző törvény módosítását tartalmazza, nevezetesen a környezetvédelmi törvényt és a belső határellenőrzési törvényt.</p>",
   "relevans": {
-    "miljo": 1,
-    "import": 1,
-    "kronisk": 1,
-    "klimat": 1
+    "klimat": 5,
+    "friluftsliv": 4,
+    "husdjur": 3,
+    "import": 4,
+    "miljo": 6,
+    "b_grona": 4,
+    "b_transport": 3,
+    "b_handel": 3,
+    "eu_marknad": 4
   }
 }

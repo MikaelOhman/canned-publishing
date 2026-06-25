@@ -15,8 +15,11 @@
   ],
   "html": "<p>The proposal suggests introducing a basic deduction in the law regarding the risk tax for credit institutions. The proposal stipulates that a Swedish credit institution, or a foreign credit institution, must make a basic deduction from the tax base for the risk tax. The basic deduction should correspond to the threshold for tax liability applicable for the relevant tax year. If a credit institution is part of a group consisting of several credit institutions, a basic deduction must be distributed among the constituent credit institutions according to their share of the group&#x27;s total tax base at the beginning of the year.</p><p>To avoid undermining the purpose of the risk tax, the proposal should be fiscally neutral. Therefore, the proposal also suggests increasing the tax rate for the risk tax from 0.06% to 0.07% of the tax base at the beginning of the year.</p><p>The new provisions are proposed to come into force on January 1, 2026.</p>",
   "relevans": {
-    "storforetag": 1,
-    "b_finans": 2,
-    "bolagsskatt": 1
+    "b_finans": 10,
+    "storforetag": 7,
+    "aktiebolag": 6,
+    "bolagsskatt": 7,
+    "sparare": 4,
+    "pensionssparare": 3
   }
 }

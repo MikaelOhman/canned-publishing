@@ -12,7 +12,12 @@
   "tldr": "Die Regierung möchte das Gesetz ändern, um zu verhindern, dass wichtige Immobilien an Personen oder Unternehmen verkauft werden, die die Sicherheit Schwedens gefährden könnten. Ab Juli 2026 müssen Prüfungen durchgeführt werden, bevor wichtige Gebäude oder Grundstücke ihren Eigentümer wechseln.",
   "lattlast": "<p>Die Regierung hat einen Vorschlag vorgelegt, das Gesetz zum Schutz der Sicherheit zu ändern. Ziel ist es, die Sicherheit Schwedens zu erhöhen, indem kontrolliert wird, wer wichtige Immobilien erwirbt, beispielsweise Gebäude oder Grundstücke, die für den Schutz des Landes von Bedeutung sind.</p><p>Wenn ein Unternehmen, das für die Sicherheit Schwedens wichtig ist, eine Immobilie verkaufen möchte, muss zunächst eine spezielle Untersuchung durchgeführt werden. Es muss geprüft werden, ob der neue Eigentümer geeignet ist, und es muss mit der Behörde gesprochen werden, die für die Sicherheitsüberprüfung zuständig ist. Diese Behörde kann auch den Verkauf ablehnen, wenn er als gefährlich für das Land angesehen wird.</p><p>Der Vorschlag gilt auch bei Änderungen der Grundstückseinteilung durch sogenannte Grundstücksbildung. Das bedeutet, dass die Regeln auch dann gelten, wenn neue Grundstücke geschaffen oder Grundstücksgrenzen so verändert werden, dass sich die Eigentumsverhältnisse ändern.</p><p>Wenn der Vorschlag umgesetzt wird, treten die neuen Regeln am 1. Juli 2026 in Kraft. Die Regierung kann in bestimmten Sonderfällen festlegen, dass von diesen Regeln Ausnahmen gelten.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_fastighet": 1
+    "b_fastighet": 8,
+    "mark_bygglov": 6,
+    "tillstand": 6,
+    "upphandling": 3,
+    "f_kommun": 3,
+    "bostadsagare": 4,
+    "sparare": 3
   }
 }

@@ -12,8 +12,11 @@
   "tldr": "A kormány szeretné megváltoztatni a bankok és pénzintézetek kockázat alapú adózásának szabályait. A javaslat szerint a nyereség egy részét nem kell adózni, de az adó százalékos mértékét enyhén megemelik, hogy az állam továbbra is ugyanolyan mennyiségű bevételt szerezzen, mint korábban.",
   "lattlast": "<p>A kormány egy javaslatot terjesztett be egy törvénytervezetre, amely a kockázati adóról szóló törvényt módosítaná. A kockázati adó egy olyan adó, amelyet a bankoknak és más hitelintézeteknek kell fizetniük. Az új javaslat egy alaplevonást vezet be. Az alaplevonás azt jelenti, hogy a számítás alapul szolgáló összeg egy bizonyos részét levonják, mielőtt az adót kiszámítják.</p><p>Annak érdekében, hogy az állam ne szenvedjen anyagi veszteséget ezen a változás következtében, a kormány javasolja, hogy az adót emeljék. Az adó 0,06%-ról 0,07%-ra emelkedne a beszedendő összeg arányában. A cél az, hogy az állam által bevont teljes összeg ugyanaz maradjon, még akkor is, ha a szabályok megváltoznak.</p><p>Ha egy bank egy nagyobb bankcsoport tagja, amelyet &quot;konzernnek&quot; nevezünk, akkor az alaplevonást a különböző bankok között kell elosztani. Az, hogy minden egyes bank mennyi összeget vonhat le, attól függ, hogy a csoport teljes vagyona arányában mennyi a bank saját vagyona.</p><p>Ha a javaslatot elfogadják a parlamentben, az új szabályok 2026. január 1-jén lépnek hatályba.</p>",
   "relevans": {
-    "storforetag": 1,
-    "b_finans": 2,
-    "bolagsskatt": 1
+    "b_finans": 10,
+    "storforetag": 7,
+    "aktiebolag": 6,
+    "bolagsskatt": 7,
+    "sparare": 4,
+    "pensionssparare": 3
   }
 }

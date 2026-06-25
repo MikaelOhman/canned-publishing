@@ -12,11 +12,15 @@
   "tldr": "Regeringen vill ändra flera lagar för att göra det enklare och snabbare att bygga ut förnybar energi i Sverige. Förslaget ska hjälpa till att följa EU:s regler och minska krångel vid tillstånd för exempelvis vind- och solkraft.",
   "lattlast": "<p>Regeringen har lagt fram ett förslag som innebär ändringar i flera viktiga lagar, som miljöbalken och ellagen. Syftet är att göra processen för att få tillstånd till projekt med förnybar energi smidigare. Om förslaget går igenom kan de nya reglerna börja gälla den 1 juli 2026.</p><p>En viktig del är att länsstyrelsen, som är den myndighet som kontrollerar miljöfrågor i varje län, ska få en större roll tidigt i processen. Genom att länsstyrelsen får titta på underlaget innan man börjar prata med andra parter, kan man undvika onödiga fel. Det ska också bli lättare att avgöra hur stora miljöutredningar som behövs och hur man får bygga i skyddade naturområden som kallas Natura 2akt 2000.</p><p>Förslaget ska också minska mängden dubbelarbete. Om man redan har gjort en ordentlig miljöutredning enligt miljöbalken, ska man inte behöva göra en helt ny utredning för andra lagar om samma projekt. Detta ska spara tid och resurser för de som vill satsa på grön energi.</p><p>Slutligen föreslås det att det ska finnas tydliga tidsgränser för hur länge myndigheterna får vänta med att besluta i ärenden som rör förnybar energi enligt plan- och bygglagen. Detta är för att förhindra att viktiga projekt fastnar i långa väntetider.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_energi": 1,
-    "tillstand": 3,
-    "miljo": 1,
-    "energikund": 1,
-    "klimat": 3
+    "b_energi": 9,
+    "gron_omstallning": 8,
+    "klimat": 6,
+    "miljo": 6,
+    "b_bygg": 6,
+    "energiintensiv": 6,
+    "energikund": 5,
+    "mark_bygglov": 6,
+    "tillstand": 7,
+    "regelborda": 5
   }
 }

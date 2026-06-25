@@ -12,11 +12,13 @@
   "tldr": "Le gouvernement s'efforce d'améliorer le contrôle des dispositifs médicaux, tels que les équipements médicaux. Il étudie actuellement la possibilité de transférer la responsabilité de certains produits afin de rendre le contrôle plus sûr et plus clair.",
   "lattlast": "<p>L&#x27;Agence de contrôle des finances publiques (Riksrevisionen) a mené un audit sur la manière dont l&#x27;État contrôle les dispositifs médicaux. Elle a identifié des points à améliorer et a formulé des propositions pour optimiser les processus. Le gouvernement a reçu ces propositions et a commencé à travailler sur les changements nécessaires.</p><p>Le gouvernement a confié des missions importantes à deux organismes clés : l&#x27;Agence suédoise des médicaments (Läkemedelsverket) et l&#x27;Inspection pour les soins et l&#x27;assistance (Inspektionen för vård och omsorg), souvent abrégée en IVO. Ces organismes étudient actuellement la possibilité de transférer la responsabilité des produits fabriqués en interne de l&#x27;IVO à l&#x27;Agence suédoise des médicaments, afin de rendre le contrôle de ces produits plus efficace.</p><p>L&#x27;Agence suédoise des médicaments doit également examiner la manière dont elle fixe ses tarifs. De plus, cet organisme doit veiller à ce que les personnes travaillant avec des dispositifs médicaux, ainsi que le personnel des secteurs de la santé et des services sociaux, reçoivent de meilleures informations sur les réglementations en vigueur. Cela permettra à tous de respecter les lois relatives aux équipements de sécurité.</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "b_vard": 1,
-    "b_life": 1,
-    "regelborda": 3,
-    "kronisk": 2,
-    "konsument": 1
+    "b_vard": 6,
+    "b_life": 6,
+    "kronisk": 3,
+    "funktion": 3,
+    "offentliganstalld": 3,
+    "tillstand": 4,
+    "regelborda": 4,
+    "avgifter": 3
   }
 }

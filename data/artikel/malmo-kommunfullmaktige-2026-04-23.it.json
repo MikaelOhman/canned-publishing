@@ -13,12 +13,18 @@
   "tldr": "Durante la sua ultima riunione, il comune di Malmö ha preso decisioni importanti riguardanti il futuro della città, tra cui la costruzione di nuovi edifici, i piani ambientali e le iniziative a favore di bambini e giovani.",
   "lattlast": "<p>Durante la riunione del consiglio comunale, sono stati discussi i piani per l&#x27;ambiente e la natura di Malmö. Si sta lavorando a un piano per gli ambienti verdi e blu della città, che mira a migliorare parchi e aree acquatiche a Malmö.</p><p>Sono inoltre previsti importanti progetti di costruzione. Il comune di Malmö sta valutando la possibilità di costruire un nuovo stadio di Malmö nell&#x27;area di Sporthallen. È stato inoltre discusso come verranno utilizzati e distribuiti gli edifici comunali negli anni dal 2027 al 2036.</p><p>Anche il lavoro di supporto a bambini e giovani è di grande importanza. Il comune ha ricevuto un rapporto su come rafforzare il lavoro preventivo contro le droghe, migliorando la collaborazione tra le diverse aree della città.</p><p>Diversi progetti, chiamati &quot;mozioni&quot;, sono stati presentati dai politici. Questi progetti riguardano tutto, dal calcolo delle tariffe per l&#x27;asilo nido a come rendere Malmö più democratica e creare una vita migliore per gli anziani.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "lokaler": 1,
-    "barn": 2,
-    "konsument": 1,
-    "idrott": 1,
-    "klimat": 1,
-    "fortroendevald": 1
+    "f_storstad": 6,
+    "storstad": 6,
+    "f_kommun": 7,
+    "barn": 5,
+    "ung": 5,
+    "bostadsagare": 3,
+    "hyresgast": 3,
+    "idrott": 4,
+    "klimat": 4,
+    "offentliganstalld": 4,
+    "fortroendevald": 5,
+    "b_fastighet": 4,
+    "lokaler": 3
   }
 }

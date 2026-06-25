@@ -12,10 +12,14 @@
   "tldr": "Il governo intende introdurre nuove sanzioni e tariffe per contrastare gli errati pagamenti da parte dell'Agenzia Svedese per le Pensioni e i Sussidi (Försäkringskassan) e dell'Agenzia Pensionistica (Pensionsmyndigheten). La proposta prevede che chi fornisca informazioni errate possa essere tenuto a pagare una tariffa o che i suoi sussidi possano essere sospesi.",
   "lattlast": "<p>Il governo ha presentato una proposta per introdurre nuove regole volte a proteggere i fondi della previdenza sociale. Ciò significa che persone e aziende che causano l&#x27;erogazione di pagamenti errati potrebbero essere tenuti a pagare una sanzione amministrativa. Questo vale anche per coloro che ricevono sussidi statali per le cure dentali.</p><p>L&#x27;Agenzia delle Entrate e l&#x27;Agenzia Pensionistica saranno autorizzate a determinare se queste sanzioni devono essere pagate. Se una persona ha fornito informazioni errate intenzionalmente o è stata estremamente negligente, le autorità possono anche decidere che la persona non potrà ricevere determinati sussidi per un certo periodo di tempo. Questo è chiamato &quot;blocco&quot;.</p><p>La proposta prevede anche modifiche alle regole relative alla segnalazione di sospetti reati. Se una persona è già soggetta a una sanzione per un errore, non è sempre necessario denunciarlo come reato. Questo viene fatto per evitare che la stessa azione venga punita due volte.</p><p>Se il Parlamento approva la proposta, si prevede che le nuove regole entreranno in vigore il 1° luglio 2026. La proposta comprende modifiche a diverse leggi che regolano il funzionamento dei sussidi e delle indennità in Svezia.</p>",
   "relevans": {
-    "b_finans": 1,
-    "pensionar": 1,
-    "sjukskriven": 1,
-    "tandvard": 2,
-    "konsument": 1
+    "bidrag": 8,
+    "sjukskriven": 7,
+    "pensionar": 5,
+    "tandvard": 5,
+    "skuldsatt": 4,
+    "ensam_foralder": 4,
+    "foretagare": 4,
+    "solo": 4,
+    "redovisning": 3
   }
 }

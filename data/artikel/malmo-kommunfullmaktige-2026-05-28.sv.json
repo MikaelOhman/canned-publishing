@@ -13,16 +13,21 @@
   "tldr": "Malmö stad har fattat flera viktiga beslut om allt från avgifter i förskolan till nya regler för stadens gator och byggprojekt. Man har även diskuterat hur staden ska planera för nya bostäder och trygghet för invånarna framöver.",
   "lattlast": "<p>I mötet beslutades det om ändrade avgifter för förskola, fritidshem och annan pedagogisk verksamhet. Detta beror på att de statliga reglerna för hur mycket en förälder ska betala i maxavgift har ändrats. Man har även beslutat att ändra reglerna för vad det kostar att använda offentliga platser i staden.</p><p>När det gäller stadens byggande och mark har man godkänt ett större projekt på Södra Förstadsgatan. Dessutom har man beslutat att köpa fastigheten Forskaren 3 och tittat på hur man ska prissätta mark som kommunen lånar ut till andra. Man har även diskuterade hur man ska hitta nya lokaler för hemtjänst och hemsjukvård i området Fosie.</p><p>Staden har även gått igenom viktiga planer för framtiden. Det handlar bland annat om ett program för hur Malmö ska se till att det finns bostäder mellan åren 2026 och 2030. Man har även tittat på hur staden arbetar med att inkludera romer i samhället och hur man ska samordna olika evenemang i Malmö.</p><p>Slutligen har man gått igenom ekonomiska rapporter och årsredovisningar för Malmö stad och Räddningstjänsten Syd. Det har även funnits flera förslag, så kallade motioner, som handlar om allt från museer och kulturarv till hur man kan skapa en mer aktiv vardag för invånarna.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_fastighet": 1,
-    "b_kultur": 1,
-    "redovisning": 1,
-    "lokaler": 1,
-    "barn": 3,
-    "pensionar": 1,
-    "konsument": 1,
-    "idrott": 1,
-    "kultur": 1,
-    "otrygg": 1
+    "f_kommun": 5,
+    "barn": 5,
+    "ensam_foralder": 5,
+    "stor_familj": 4,
+    "ny_i_sverige": 4,
+    "kronisk": 4,
+    "pensionar": 4,
+    "funktion": 4,
+    "hyresgast": 4,
+    "bostadsagare": 4,
+    "storstad": 5,
+    "idrott": 3,
+    "kultur": 3,
+    "offentliganstalld": 4,
+    "b_fastighet": 4,
+    "b_vard": 4
   }
 }

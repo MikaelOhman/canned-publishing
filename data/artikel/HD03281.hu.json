@@ -12,8 +12,13 @@
   "tldr": "A Riksrevisionen (svéd állami ellenőrző szerv) hibákat talált abban, hogy a Försäkringskassan (svéd biztosítási alap) és a Pensionsmyndigheten (svéd nyugdíjhatóság) hogyan kezeli a változó körülményeket, ami helytelen kifizetésekhez vezethet. A kormány elolvasta a jelentést, és úgy véli, hogy fontos, de jelenleg nem szeretné a törvényeket módosítani.",
   "lattlast": "<p>A Riksrevisionen egy intézmény, amely ellenőrzi, hogy az állam megfelelően végzi-e a feladatait. Vizsgálatot indítottak a Försäkringskassan (szociális biztosító) és a Pensionsmyndigheten (nyugdíjintézmény) működésével kapcsolatban, különösen abban a helyzetben, amikor az emberek élete változik, például betegjáradék vagy lakhatási támogatás iránti ügyekben. Megállapították, hogy a működés nem elég hatékony, és fennáll a veszélye, hogy helytelen összegű támogatást fizetnek ki a megfelelő személyeknek.</p><p>A kormány most elolvasta a jelentést és válaszolt rá. Úgy vélik, hogy az ellenőrzés értékes, mert felhívja a figyelmet arra, hogy hol kell javítani. A cél az, hogy az intézmények hatékonyabban működjenek, így kevesebb hibás kifizetés történjen a svéd szociális biztosítási rendszerben.</p><p>Annak ellenére, hogy a problémákat feltárták, a kormány nem akar mostonnan törvényeket módosítani. Úgy vélik, hogy már tették meg a szükséges lépéseket annak érdekében, hogy az intézmények fel tudják fedezni a hibákat és információkat osszanak meg egymással. A kormány ezért nem tartja szükségesnek új törvényeket ahhoz, hogy megoldják azokat a problémákat, amelyeket a Riksrevisionen feltárt.</p>",
   "relevans": {
-    "b_finans": 3,
-    "pensionar": 3,
-    "sjukskriven": 3
+    "pensionar": 6,
+    "sjukskriven": 5,
+    "bidrag": 5,
+    "pensionssparare": 4,
+    "anhorigvardare": 4,
+    "funktion": 4,
+    "skuldsatt": 3,
+    "offentliganstalld": 3
   }
 }

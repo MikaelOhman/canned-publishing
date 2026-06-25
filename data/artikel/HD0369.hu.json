@@ -12,10 +12,15 @@
   "tldr": "A kormány szeretné módosítani az erdőkre vonatkozó adózási szabályokat, hogy megkönnyítse a természet védelmét. A javaslat célja, hogy egyszerűbb legyen a pénzügyi források biztosítása a természetvédelem számára, és hogy a szabályozás összhangban legyen az EU jogszabályaival.",
   "lattlast": "<p>A kormány egy javaslatot terjesztett elő, amelynek célja a erdőgazdálkodási adószabályok javítása. A cél az, hogy vonzóbb legyen az erdőgazdáknak olyan területeket fenntartani, amelyek védik a természetet. Az egyik javaslat szerint az a pénz, amelyet a természetvédelemre fordítanak, tíz év után visszafizethető lenne az erdőgazdának.</p><p>Lehetőség lesz egy különleges számlát létrehozni, amelyet &quot;természetvédelmi számlaként&quot; neveznek. Az ilyen számlák használatával az erdőgazdák költségeiket több évre eloszthatják, ami a &quot;számlavezetés&quot; elven alapul. Ez azt jelenti, hogy az adó nem lesz olyan magas egyszerre, amikor a természetvédelmi tevékenységért járó támogatást kapják.</p><p>Az EU szabályainak megfelelően a kormány javasolja, hogy ezek a számlák kezelhetők legyenek bankok által, akár más EU-s és EGT-s országokban is. Ez azt jelenti, hogy az erdőgazdák más európai bankokat is használhatnak erdőgazdálkodási számláik kezelésére. Emellett a lehetőség, hogy adókedvezményt kapjanak az erdőért, kiterjeszthető lenne az EU-n belüli ingatlanokra is.</p><p>Ha a parlament megszavazza a javaslatokat, az új szabályok várhatóan 2026. április 1-jén lépnek életbe. A javaslat emellett azt is tartalmazza, hogy egy régi törvényt, amely a kamatadóval kapcsolatos, az erdőgazdálkodási számlák esetében, eltörlik.</p>",
   "relevans": {
-    "b_finans": 1,
-    "b_fastighet": 1,
-    "sparare": 1,
-    "lantagare": 1,
-    "klimat": 1
+    "b_grona": 10,
+    "bolagsskatt": 6,
+    "miljo": 6,
+    "eu_marknad": 5,
+    "gron_omstallning": 6,
+    "hallbarhetsrapport": 3,
+    "f_landsbygd": 6,
+    "glesbygd": 4,
+    "klimat": 5,
+    "friluftsliv": 3
   }
 }

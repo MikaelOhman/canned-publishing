@@ -13,16 +13,21 @@
   "tldr": "A malmöi önkormányzat számos fontos döntést hozott, amelyek témakörök széles skáláját ölelik fel, a bölcsődék díjaitól kezdve a városi utcákra és építési projektekre vonatkozó új szabályokig. Emellett megvitatták, hogyan tervezze a város az új lakások építését és a lakosok biztonságát a jövőben.",
   "lattlast": "<p>A gyűlésen döntést hoztak a bölcsődék, óvodák és egyéb oktatási intézmények díjairól. Ez azért történt, mert a kormányzati szabályozás megváltozott abban, hogy egy szülőnek mennyi a maximális díjfizetési kötelezettsége. Emellett döntést hoztak a városi közterületek használatának költségeiről is.</p><p>A város építkezése és területei tekintetében jóváhagytak egy nagyobb projektet a Södra Förstadsgatan utcában. Ezenkívül döntést hoztak arról, hogy megvásárolják a Forskaren 3 nevű ingatlant, és felvetették, hogyan kell árazni a területeket, amelyeket a város másoknak ad bérbe. Emellett megvitatták, hogyan lehet új helyszínt találni a házi segítségnyújtás és a járóbeteg-ellátás számára a Fosie városrészben.</p><p>A város áttekintette a fontos jövőbeli terveknek egy részét. Ezek közé tartozik egy program arról, hogyan biztosítja Malmö, hogy elegendő lakás álljon rendelkezésre 2026 és 2030 között. Emellett felvetették, hogyan működik a város a romák társadalmi integrációja érdekében, és hogyan lehet összehangolni a különböző rendezvényeket Malmöben.</p><p>Végül áttekintették a Malmö Város és a &quot;Räddningstjänsten Syd&quot; (tűzoltóság) gazdasági jelentéseit és éves kimutatásait. Számos javaslat is felmerült, amelyek a múzeumoktól és a kulturális örökségtől kezdve egészen a lakosok számára egy aktívabb mindennapok megteremtéséig terjedtek.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_fastighet": 1,
-    "b_kultur": 1,
-    "redovisning": 1,
-    "lokaler": 1,
-    "barn": 3,
-    "pensionar": 1,
-    "konsument": 1,
-    "idrott": 1,
-    "kultur": 1,
-    "otrygg": 1
+    "f_kommun": 5,
+    "barn": 5,
+    "ensam_foralder": 5,
+    "stor_familj": 4,
+    "ny_i_sverige": 4,
+    "kronisk": 4,
+    "pensionar": 4,
+    "funktion": 4,
+    "hyresgast": 4,
+    "bostadsagare": 4,
+    "storstad": 5,
+    "idrott": 3,
+    "kultur": 3,
+    "offentliganstalld": 4,
+    "b_fastighet": 4,
+    "b_vard": 4
   }
 }

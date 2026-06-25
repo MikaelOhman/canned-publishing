@@ -12,9 +12,14 @@
   "tldr": "A kormány célja, hogy javítsa a kormányzat működését a nagyméretű digitális projektek és az IT-beszerzések terén. A cél az, hogy a munka hatékonyabb legyen, és hogy könnyebben lehessen mérni az eredményeket.",
   "lattlast": "<p>A Riksrevisionen (a svéd állam ellenőrző szerve) felülvizsgálta, hogy a nagyobb állami digitális projektek hogyan működnek. Problémákat találtak abban, hogy a munka nem elég hatékony. Ezenkívül úgy vélik, hogy a hatóságoknak jobb támogatásra van szükségük, amikor IT-szolgáltatásokat vásárolnak, és hogy nehéz a célok nyomon követése, mert azok nem elég világosak.</p><p>A kormány egyetért a kritika egyes részeivel, és változtatni szeretné a hatóságok irányítási rendszerében. A problémák megoldása érdekében a kormány egy új digitális átalakítási tervet dolgozott ki. Ez a terv segíteni fog az államnak abban, hogy a jövőben hatékonyabban használja a digitális technológiákat.</p><p>A kormány emellett szeretné összehangolni a támogatást az IT-szolgáltatások beszerzésekor. Ennek érdekében bizonyos feladatokat a Kammarkollegiet-ből és a Myndigheten för digital förvaltning-ből az Upphandlingsmyndigheten-re helyeznek át. Az Upphandlingsmyndigheten feladata, hogy vezesse ezt a munkát, és egy fórumot hozzon létre, ahol lehetőség van az IT-beszerzésekhez való támogatás összehangolására.</p><ol><li>október 2-án a kormány határozatot hozott a közigazgatási ügyekről szóló tervről. Ez a terv segíteni fog abban, hogy az állam hogyan végez üzleti tevékenységet és vásárol. Ezzel a döntéssel a kormány úgy véli, hogy a Riksrevisionen által végzett felülvizsgálat befejeződött.</li></ol>",
   "relevans": {
-    "b_it": 1,
-    "b_fastighet": 1,
-    "digitalisering": 3,
-    "digital_ovan": 3
+    "digitalisering": 7,
+    "b_it": 6,
+    "upphandling": 6,
+    "offentliganstalld": 4,
+    "regelborda": 4,
+    "gdpr": 3,
+    "aktiebolag": 3,
+    "smaforetag": 3,
+    "bredbandsberoende": 3
   }
 }

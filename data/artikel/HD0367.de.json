@@ -12,7 +12,9 @@
   "tldr": "Der Rechnungshof hat eine Untersuchung der Vorschulen durchgeführt und festgestellt, dass der Staat nicht genug unternimmt, um sicherzustellen, dass alle Kinder die gleichen guten Bildungsangebote erhalten. Die Regierung hat sich entschieden, derzeit keine Änderungen vorzunehmen, da bereits eine Untersuchung zu diesem Thema läuft.",
   "lattlast": "<p>Die Riksrevisionen ist eine Behörde, die überprüft, ob der Staat seine Aufgaben korrekt erfüllt. Sie hat untersucht, ob die Schulbehörde (Skolverket) und die Schulinspektion (Skolinspektionen) ausreichend arbeiten, um sicherzustellen, dass alle Vorschulen in Schweden gleich gut sind. Sie kommt zu dem Schluss, dass das derzeitige System nicht gut funktioniert, da die Verantwortung für die Kontrolle der Vorschulen zwischen den Kommunen und der Schulinspektion aufgeteilt ist.</p><p>Um die Vorschulen gerechter zu gestalten, schlägt die Riksrevisionen vor, die Art und Weise der Kontrollen zu ändern. Sie ist der Meinung, dass es ein einheitliches System geben sollte, bei dem beispielsweise die Schulinspektion die Verantwortung dafür trägt, alle Vorschulen auf die gleiche Weise zu kontrollieren. Dies könnte die Sicherheit und Gerechtigkeit für alle Kinder erhöhen.</p><p>Die Regierung hat sich jedoch entschieden, die von der Riksrevisionen vorgeschlagenen Änderungen vorerst nicht umzusetzen. Der Grund dafür ist, dass die Regierung bereits eine Untersuchung eingeleitet hat, die prüfen soll, wie eine gleichwertige Vorschule mit guter Qualität erreicht werden kann. Sie wartet auf die Ergebnisse dieser Untersuchung, bevor sie über die nächsten Schritte entscheidet.</p>",
   "relevans": {
-    "regelborda": 3,
-    "barn": 3
+    "barn": 6,
+    "b_utbildning": 7,
+    "f_kommun": 5,
+    "offentliganstalld": 4
   }
 }

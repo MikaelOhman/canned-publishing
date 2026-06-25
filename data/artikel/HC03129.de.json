@@ -12,8 +12,11 @@
   "tldr": "Die Regierung plant, eine neue Straftat einzuführen, um den illegalen Export von Diebesgut zu verhindern. Außerdem möchte sie dem Zoll mehr Befugnisse zur Untersuchung und Verfolgung illegaler Waren einräumen.",
   "lattlast": "<p>Die Regierung schlägt vor, eine eigene Straftat einzuführen, nämlich die des &quot;Ausfuhrhehlerei&quot;, also der Unterstützung beim Abtransport von gestohlenen Gütern aus Schweden. Bei schweren Vergehen droht eine Freiheitsstrafe von bis zu sechs Jahren. Auch der Versuch, eine solche Tat zu begehen, soll illegal sein.</p><p>Der Vorschlag beinhaltet außerdem eine größere Verantwortung für das Zollamt, die Behörde, die Waren an den Grenzen kontrolliert. Das Zollamt soll die Staatsanwaltschaft bei Ermittlungen unterstützen und mehr Befugnisse erhalten, um Straftaten zu verhindern. Zollbeamte sollen Ermittlungen auf ähnliche Weise wie die Polizei durchführen können.</p><p>Es gibt auch Vorschläge, dass Behörden, die gegen Kriminalität vorgehen, beschlagnahmte Gegenstände behalten dürfen, um sie für Schulungen zu verwenden oder als Beweismittel zu untersuchen. Wenn beschlagnahmte Gegenstände gefährlich oder schwer zu lagern sind, können sie schneller vernichtet werden als bisher.</p><p>Die Regierung möchte auch die Regeln für die Strafen bei Schmuggel von Drogen, die weiterverkauft werden sollen, ändern. Die meisten dieser neuen Regelungen sollen ab September 2025 in Kraft treten, während eine kleinere Änderung in einem Gesetz über steuerpflichtige Waren bereits am 1. Juli 2025 in Kraft tritt.</p>",
   "relevans": {
-    "import": 1,
-    "beroende": 1,
-    "otrygg": 2
+    "b_transport": 4,
+    "b_handel": 4,
+    "otrygg": 5,
+    "brottsoffer": 4,
+    "export": 3,
+    "import": 3
   }
 }

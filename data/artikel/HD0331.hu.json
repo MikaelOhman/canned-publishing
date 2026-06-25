@@ -12,7 +12,11 @@
   "tldr": "A munkába járással kapcsolatos adókedvezményre jogosító összeg felső határát emelik. Ez azt jelenti, hogy 2026-tól kezdődően egyre több ember tudja a munkába járással kapcsolatos költségeit levonni a jövedelemnyilvánításból.",
   "lattlast": "<p>A kormány egy javaslatot terjesztett be, amely módosítja azokat a szabályokat, amelyek szerint mennyit lehet levonni a jövedelemadóból a utazási költségek tekintetében. Jelenleg 11 000 svéd koronás egy plafon, de a javaslat szerint ezt a plafont 15 000 svéd koronára kellene emelni.</p><p>Ez a szabály vonatkozik az otthonról a munkahelyre, illetve a munkahelyről a lakóhelyre történő utazásokra, valamint az oktatási intézménybe és onnan történő utazásokra. Tehát ez azokkal a költségekkel kapcsolatos, amelyekkel a munkahelyre vagy az iskolába kell eljutni.</p><p>Ha a javaslatot elfogadják, az új szabály 2026. január 1-jén lépne életbe. Ez azt jelenti, hogy ettől az évtől kezdve a magasabb plafon vonatkozik a utazási költségekre.</p><p>A javaslatot most a parlamenthez (Riksdag) küldik, amely a statusz része, és amely eldönti, hogy megszavazzák-e a módosítást a jövedelemadó törvényében.</p>",
   "relevans": {
-    "barn": 1,
-    "lontagare": 1
+    "pendlare": 8,
+    "bil": 5,
+    "kollektiv": 5,
+    "lontagare": 4,
+    "student": 4,
+    "glesbygd": 5
   }
 }

@@ -12,9 +12,11 @@
   "tldr": "A kormány szeretné módosítani a törvényt úgy, hogy a külföldi államok és hasonló szervezetek ne kelljen adót fizetni a svéd vállalatok által kifizetett osztalékokra. Ez a rendelkezés azokra az országokra vonatkozik, amelyek együttműködnek Svédországgal adóügyi kérdésekben.",
   "lattlast": "<p>A kormány egy javaslatot terjesztett elő a kuponadókra vonatkozó törvény módosításáról. A kuponadó egy olyan adó, amelyet akkor kell fizetni, amikor egy vállalat által kifizetett osztalékot kapunk, azaz pénzt egy vállalkozástól. A javaslat szerint a külföldi államoknak és olyan szervezeteknek, amelyek hasonlóak a svéd önkormányzatokhoz vagy régiókhoz, nem kellene ezt az adót fizetniük, ha pénzt kapnak svéd részvénytársaságoktól vagy befektetési alapoktól.</p><p>Ez a mentesség nem vonatkozik minden országra a világon. Csak azokra az országokra vonatkozik, amelyek tagjai az európai együttműködési térségnek (EES), vagy amelyeknek megállapodása van Svédországgal. Fontos feltétel, hogy ezeknek az országoknak információt kell megosztaniuk Svédországgal a adózási kérdésekkel kapcsolatban. Ez azt jelenti, hogy együtt kell működniük a svéd hatóságokkal annak érdekében, hogy ellenőrizzék, minden rendben van-e.</p><p>Ha a parlament megszavazza a javaslatot, az új szabály 2026. július 1-jén lép érvénybe. A javaslat egy ún. törvényjavaslat formájában kerül benyújtásra, amely egy olyan dokumentum, amelyben a kormány javaslatokat tesz a parlamentnek új törvények elfogadása érdekében.</p>",
   "relevans": {
-    "aktiebolag": 1,
-    "bolagsskatt": 1,
-    "kronisk": 1,
-    "sparare": 1
+    "storforetag": 6,
+    "aktiebolag": 5,
+    "bolagsskatt": 6,
+    "b_finans": 7,
+    "sparare": 5,
+    "eu_marknad": 5
   }
 }

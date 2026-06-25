@@ -12,7 +12,13 @@
   "tldr": "Riksrevisionen har hittat att myndigheten IVO är dålig på att hantera klagomål från patienter. Nu har regeringen gett IVO i uppdrag att göra en plan för att bli snabbare och bättre på sitt arbete.",
   "lattlast": "<p>Riksrevisionen är en myndighet som kontrollerar att andra myndigheter gör sitt jobb rätt. De har granskat Inspektionen för vård och omsorg, som ofta förkortas IVO. IVO är den myndighet som ska se till att vården fungerar och som tar emot klagomål från människor som inte är nöjda med sin vård.</p><p>Resultatet av granskningen visar att IVO inte arbetar effektivt när de hanterar klagomål från privatpersoner. Det betyder att det inte fungerar så bra som det borde när människor berättar om fel i vården. Riksrevisionen har därför gett förslag på hur saker och ting behöver ändras.</p><p>Regeringen håller med om att det finns problem. För att lösa detta har regeringen gett IVO ett viktigt uppdrag. Myndigheten måste nu skriva en plan för hur de ska korta ner sin väntetid och se till att de hinner med alla ärenden som kommer in till dem.</p><p>Med detta beslut tycker regeringen att arbetet med den här rapporten är klart. Målet är att se till att alla som söker hjälp eller klagar på vården kan lita på att myndigheten gör ett rättvist och bra jobb.</p>",
   "relevans": {
-    "b_vard": 3,
-    "kronisk": 3
+    "kronisk": 6,
+    "funktion": 5,
+    "anhorigvardare": 5,
+    "pensionar": 5,
+    "sjukskriven": 4,
+    "b_vard": 6,
+    "offentliganstalld": 4,
+    "brottsoffer": 3
   }
 }

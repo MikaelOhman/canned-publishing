@@ -12,6 +12,11 @@
   "tldr": "Le gouvernement a terminé la lecture d'un rapport sur l'impact des nouvelles technologies sur notre vie privée. Les travaux sur ce rapport sont maintenant achevés.",
   "lattlast": "<p>Le gouvernement a publié un communiqué indiquant qu&#x27;il a lu et commenté un rapport. Le rapport, intitulé &quot;Confidentialité et nouvelles technologies 2020-2024&quot;, traite de l&#x27;impact du développement des nouvelles technologies sur la protection de nos informations personnelles.</p><p>Ce rapport a été rédigé par l&#x27;Autorité suédoise de protection des données, qui est l&#x27;organisme chargé de veiller au respect des lois sur la protection de la vie privée en Suède. Dans ce rapport, l&#x27;autorité a examiné, analysé et décrit les évolutions technologiques survenues entre 2020 et 2024.</p><p>Par ce communiqué, le gouvernement indique qu&#x27;il considère désormais que le travail sur ce rapport est terminé. Cela signifie qu&#x27;il a examiné les informations et que la procédure relative à ce rapport est désormais clôturée.</p>",
   "relevans": {
-    "integritet": 3
+    "integritet": 6,
+    "gdpr": 5,
+    "digital_ovan": 3,
+    "bredbandsberoende": 3,
+    "b_it": 5,
+    "digitalisering": 5
   }
 }

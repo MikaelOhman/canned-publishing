@@ -12,10 +12,11 @@
   "tldr": "Il governo intende vietare i giochi d'azzardo che vengono finanziati con prestiti o carte di credito. L'obiettivo è quello di prevenire che le persone si indebitino eccessivamente a causa del gioco.",
   "lattlast": "<p>Il governo ha presentato una proposta per modificare la legge sui giochi d&#x27;azzardo. La nuova proposta prevede che coloro che hanno la licenza per gestire giochi o venderli, ovvero i titolari di licenza e gli agenti di gioco, non possano consentire ai clienti di giocare con denaro che hanno preso in prestito.</p><p>Gli operatori di giochi devono fare tutto il possibile per garantire che nessuno utilizzi credito durante il gioco. Questo vale per tutti i tipi di giochi legali in Svezia, sia online che in sedi fisiche.</p><p>È possibile ottenere un&#x27;esenzione da questa regola, ma solo previa approvazione dell&#x27;autorità Spelinspektionen. Spelinspektionen è l&#x27;autorità che verifica il rispetto delle regole sui giochi in Svezia.</p><p>Se il Parlamento approverà la proposta, le nuove regole entreranno in vigore il 1° aprile 2026.</p>",
   "relevans": {
-    "b_finans": 3,
-    "tillstand": 2,
-    "infrastruktur": 1,
-    "lantagare": 1,
-    "batagare": 1
+    "beroende": 8,
+    "skuldsatt": 7,
+    "bidrag": 4,
+    "ung_vuxen": 4,
+    "konsument": 5,
+    "b_it": 3
   }
 }

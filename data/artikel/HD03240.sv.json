@@ -12,9 +12,17 @@
   "tldr": "Regeringen föreslår nya lagar för att modernisera hur elmarknaden i Sverige fungerar. Förslagen gör det enklare att dela el mellan fastigheter och ändrar reglerna för vem som ansvarar för elnätets säkerhet.",
   "lattlast": "<p>Regeringen har lagt fram ett förslag på nya lagar som ska ersätta den gamla ellagen från 1997. Syftet är att anpassa svenska regler till EU:s lagar och göra det tydligare vilka regler som gäller för de företag som äger elledningarna.</p><p>En stor förändring är att det blir lättare att dela el mellan olika platser. Med de nya reglerna för energidelning kan en person som använder el på en fastighet få räkning för el som har producerats på en annan fastighet. Detta kallas för energidelning och är en del av ett nytt EU-direktiv.</p><p>Ansvaret för att elsystemet fungerar säkert ska också ändras. Tidigare fanns en speciell myndighet som hade ansvar för driftssäkerheten, men nu föreslås det att de som driver de stora elledningarna ska ta över det ansvaret. Det kommer också att införas nya roller för att hålla ordning på balansen i elsystemet.</p><p>De flesta av de nya reglerna planeras att börja gälla den 1 januari 2027. En del av förslaget, som handlar om de företag som är skyldiga att leverera el, börjar gälla lite senare, nämligen den 1 juli 2027.</p>",
   "relevans": {
-    "b_fastighet": 1,
-    "b_energi": 2,
-    "eu_marknad": 1,
-    "energikund": 1
+    "aktiebolag": 4,
+    "smaforetag": 3,
+    "storforetag": 5,
+    "b_energi": 9,
+    "b_fastighet": 6,
+    "b_industri": 5,
+    "energiintensiv": 7,
+    "eu_marknad": 5,
+    "gron_omstallning": 4,
+    "energikund": 7,
+    "bostadsagare": 5,
+    "f_kommun": 3
   }
 }

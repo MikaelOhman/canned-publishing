@@ -12,8 +12,15 @@
   "tldr": "Die Regierung möchte das in Schweden geltende Verbot des Uranabbaus aufheben. Dies würde es ermöglichen, Uranvorkommen zu untersuchen und Uran abzubauen, um die Verfügbarkeit wichtiger Metalle in Schweden und der EU zu gewährleisten.",
   "lattlast": "<p>Die Regierung hat einen Vorschlag vorgelegt, der die Legalisierung des Uranabbaus in schwedischen Bergwerken vorsieht. Derzeit gibt es ein Verbot im Umweltgesetz, das dies verhindert. Durch eine Änderung des Gesetzes könnten Unternehmen Genehmigungen erhalten, sowohl nach Uran zu suchen als auch es aus dem Gestein zu gewinnen.</p><p>Der Vorschlag beinhaltet auch Änderungen der Regeln für kleinere Betriebe. Wenn nur geringe Mengen Uran gehandhabt werden, ist für die Regierung keine obligatorische Prüfung des Betriebs mehr erforderlich. Das bedeutet auch, dass die Kommunen nicht mehr das Recht haben, kleinere Projekte abzulehnen, ein sogenanntes kommunales Veto.</p><p>Ziel der Änderungen ist es, dass Schweden und die EU einen besseren Zugang zu wichtigen Mineralien erhalten, die in Zukunft benötigt werden. Wenn der Vorschlag angenommen wird, treten die neuen Regeln am 1. Januar 2026 in Kraft.</p><p>Der Vorschlag beinhaltet Änderungen in zwei wichtigen Gesetzen, nämlich dem Umweltgesetz und dem Bergbaugesetz. Das Parlament muss nun entscheiden, ob es den Vorschlag der Regierung genehmigt.</p>",
   "relevans": {
-    "tillstand": 1,
-    "miljo": 1,
-    "klimat": 1
+    "b_industri": 7,
+    "b_energi": 5,
+    "b_grona": 4,
+    "miljo": 6,
+    "mark_bygglov": 5,
+    "tillstand": 6,
+    "gron_omstallning": 4,
+    "klimat": 5,
+    "f_landsbygd": 4,
+    "glesbygd": 3
   }
 }

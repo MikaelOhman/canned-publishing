@@ -12,9 +12,9 @@
   "tldr": "El gobierno quiere introducir una nueva ley que facilite a la Agencia de Radiocomunicaciones de las Fuerzas Armadas la recopilación de información a partir de señales de radio en caso de guerra o amenaza de guerra. El objetivo es fortalecer la seguridad de Suecia y poder detectar amenazas como el terrorismo y la delincuencia grave.",
   "lattlast": "<p>El gobierno ha presentado una propuesta de una nueva ley sobre la interceptación de comunicaciones. La interceptación de comunicaciones se refiere a la escucha y el análisis de información digital y señales de radio para obtener información importante. Esta nueva ley ayudará a la agencia &quot;Försvarets radioanstalt&quot; a trabajar de manera eficiente cuando Suecia se encuentre en guerra o cuando exista el riesgo de una guerra.</p><p>La propuesta también incluye cambios en las leyes existentes. Será posible utilizar la interceptación de comunicaciones incluso durante ejercicios militares. También se busca poder realizar una vigilancia más eficiente para detectar el terrorismo internacional y otros delitos graves que puedan dañar los intereses de Suecia. Además, será más fácil gestionar la información en situaciones de emergencia, donde anteriormente no se permitía almacenar ciertos tipos de señales.</p><p>Para que esto funcione, el gobierno también propone cambios en las normas del &quot;Försvarsunderrättelsedomstolen&quot;, que es el tribunal que supervisa la vigilancia. También se busca modificar las normas sobre cómo los datos personales pueden ser tratados por &quot;Försvarets radioanstalt&quot; cuando realicen sus nuevas tareas.</p><p>Si el parlamento vota a favor de la propuesta, las nuevas leyes entrarán en vigor el 1 de agosto de 2026.</p>",
   "relevans": {
-    "gdpr": 1,
-    "otrygg": 1,
-    "integritet": 1,
-    "varnpliktig": 3
+    "integritet": 5,
+    "varnpliktig": 4,
+    "offentliganstalld": 3,
+    "b_it": 3
   }
 }

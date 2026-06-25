@@ -12,7 +12,20 @@
   "tldr": "Regeringen vill ändra lagarna för att göra det säkrare för människor att skydda sig vid krig eller kris. Det handlar om att förbättra skyddsrum och ha bättre planer för var folk ska bo om det blir höjd beredskap.",
   "lattlast": "<p>Säkerheten i Sverige har blivit sämre och därför arbetar staten med att stärka det civila försvaret. Det betyder att vi behöver bättre skyddsrum och andra säkra platser att vara på om det blir krig eller en stor kris i landet. Det kallas för höjd beredskap.</p><p>Regeringen har skrivit ett förslag till riksdagen för att ändra flera lagar. De vill införa en ny lag om skyddsrum och ändra de lagar som bestämmer hur människor ska flyttas och få boende under kriser. De vill också ändra i plan- och bygglagen, som är den lag som bestämmer hur man får bygga hus i Sverige.</p><p>Syftet med ändringarna är att det ska finnas tydliga planer för vem som ansvarar för vad när människor behöver evakueras. Det ska också vara tydligt hur man ska ordna boende för de som inte kan vara kvar i sina hem.</p><p>Om riksdagen säger ja till förslaget kommer de nya reglerna att börja gälla den 1 juni 2026.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "varnpliktig": 1
+    "bostadsagare": 5,
+    "hyresgast": 5,
+    "bostadslos": 4,
+    "glesbygd": 3,
+    "storstad": 3,
+    "mindre_ort": 3,
+    "varnpliktig": 5,
+    "barn": 4,
+    "pensionar": 4,
+    "kronisk": 3,
+    "funktion": 3,
+    "mark_bygglov": 4,
+    "b_fastighet": 3,
+    "f_kommun": 4,
+    "offentliganstalld": 3
   }
 }

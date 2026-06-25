@@ -12,7 +12,16 @@
   "tldr": "Se proponen nuevas normas para combatir las estafas a través de mensajes de texto y otros medios digitales. Las empresas que gestionan tus comunicaciones deben ser capaces de bloquear los mensajes que parezcan perjudiciales.",
   "lattlast": "<p>El gobierno quiere modificar la ley de comunicaciones electrónicas para dificultar el fraude digital. La propuesta implica que las empresas que ofrecen servicios de mensajería, como servicios de SMS, tendrán una mayor responsabilidad para detener los fraudes.</p><p>Si una empresa detecta información técnica sobre un mensaje que sugiera que se trata de un fraude o un intento de engaño, no debe reenviar el mensaje. Es importante saber que las empresas no pueden leer el contenido de sus mensajes para verificar esto, sino que solo pueden analizar la información técnica relacionada con la transmisión.</p><p>Para llevar a cabo este trabajo, las empresas pueden procesar cierta información sobre los mensajes, pero solo durante el tiempo necesario para detener el fraude. Después de eso, la información debe borrarse inmediatamente. El gobierno o una autoridad competente determinarán las reglas específicas que se aplicarán a este proceso.</p><p>Estas nuevas normas son parte de un esfuerzo dentro de la Unión Europea para crear una comunicación digital más segura. Si la propuesta se aprueba, las nuevas leyes entrarán en vigor el 1 de agosto de 2026.</p>",
   "relevans": {
-    "foretagare": 1,
-    "kollektiv": 1
+    "smaforetag": 4,
+    "b_it": 6,
+    "b_finans": 4,
+    "gdpr": 7,
+    "konsumentratt": 5,
+    "digitalisering": 5,
+    "eu_marknad": 4,
+    "konsument": 5,
+    "integritet": 6,
+    "otrygg": 5,
+    "digital_ovan": 4
   }
 }

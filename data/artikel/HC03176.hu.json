@@ -12,9 +12,10 @@
   "tldr": "Svédország törvényeit módosítani kell, hogy azok összhangban legyenek az új, uniós szabályozásokkal, amelyek egy közös vízumrendszert irányozzák elő. Ez azt jelenti, hogy több információt kell tárolni a vízumokkal és az engedélyekkel kapcsolatban, és ezeket az információkat meg kell osztani az EU tagállamai között.",
   "lattlast": "<p>A VIS egy közös uniós rendszer, amely rövid távú vízumokról szóló információk megosztására szolgál. Most a szabályok változnak, így a rendszer tartalmazni fogja hosszabb távú vízumokról és tartózkodási engedélyekről szóló információkat is. Ez azért történik, hogy javítsák az együttműködést az EU-országai között.</p><p>A svéd kormány javaslatokat terjesztett be új törvényekre, hogy ez a rendszer megfelelően működjön. Egy fontos része, hogy egyértelműbb legyen, mikor kell a vízumkérelmezőknek ujjlenyomatot adniuk és fényképet készíttetniük. Ez szükséges ahhoz, hogy a hatóságok ellenőrizhessék a rendszerben szereplő adatokat.</p><p>A javaslat foglalkozik azzal is, hogyan kell kezelni és védeni a személyes adatokat. Új szabályok vannak arra vonatkozóan, hogy a rendőrség és más hatóságok hogyan használhatják a rendszerben található információkat. A cél az, hogy a rendőrség könnyebben tudja használni az információkat a bűnözés elleni küzdelem érdekében.</p><p>Az új törvények több különböző törvényt módosítanak, például az idegenlény-törvényt és azokat a törvényeket, amelyek szabályozzák, hogy a rendőrség hogyan használhatja a személyes adatokat. Az új szabályok akkor lépnek érvénybe, amikor az Európai Bizottság vagy a svéd kormány határozza meg.</p>",
   "relevans": {
-    "gdpr": 1,
-    "ny_i_sverige": 1,
-    "otrygg": 1,
-    "integritet": 1
+    "ny_i_sverige": 6,
+    "asyl": 6,
+    "arbetstillstand": 6,
+    "integritet": 4,
+    "eu_marknad": 3
   }
 }

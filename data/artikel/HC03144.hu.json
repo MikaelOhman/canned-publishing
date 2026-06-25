@@ -12,9 +12,17 @@
   "tldr": "Az új javaslat értelmében drágább lesz a gyógyszerek beszerzése azok számára, akik a magas költségek elleni védelmi rendszerbe tartoznak. A rendszerben résztvevőknek évente fizetniük kellő maximum összeg 2900 svéd koronáról 3800 svéd koronára emelkedik, ami 2025. július 1-jétől lép érvénybe.",
   "lattlast": "<p>A kormány egy javaslatot terjesztett be a gyógyszerekre vonatkozó magas költséghatár szabályainak módosításáról. A magas költséghatár egy olyan rendszer, amely biztosítja, hogy egy év során nem kell túlzott összeget fizetnie a gyógyszerekért. A javaslat szerint a fizetendő maximális összeg 900 svéd koronával nő.</p><p>A javaslat emellett a &quot;magas költséghatár lépcsőzettség&quot; árait is módosítja. A lépcsőzettség egy olyan rendszer, amely meghatározza, hogy mennyi kedvezményt kap a gyógyszereire attól függően, hogy az év során eddig mennyiért vásárolt. Az első lépcsőzettség változásával önnek 75%-át kell fizetnie a költségnek, a korábbi 50% helyett.</p><p>A változás célja, hogy biztosítsa, hogy elegendő pénz álljon rendelkezésre a jövőbeni gyógyszerköltségek fedezésére. Azok számára, akik gyógyszereket vásárolnak, ez azt jelenti, hogy a svédországi összes beteg által fizetett teljes költség várhatóan több milliárd svéd koronával nő a következő években.</p><p>Ha a javaslatot elfogadják, az új szabályok 2025. július 1-jén lépnek érvénybe. Ha Ön már elkezdte a magas költséghatár időszakát, a régebbi, alacsonyabb árak érvényesek a periódus végéig.</p>",
   "relevans": {
-    "b_life": 3,
-    "kronisk": 3,
-    "beroende": 1,
-    "konsument": 1
+    "kronisk": 9,
+    "pensionar": 7,
+    "funktion": 7,
+    "psykisk": 6,
+    "sjukskriven": 6,
+    "anhorigvardare": 5,
+    "barn": 5,
+    "ensam_foralder": 5,
+    "konsument": 5,
+    "b_vard": 5,
+    "b_life": 5,
+    "b_finans": 3
   }
 }

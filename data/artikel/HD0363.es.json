@@ -12,8 +12,10 @@
   "tldr": "El gobierno quiere modificar la ley para proteger información importante. Esto implica mantener en secreto detalles sobre transacciones de armas e información que se comparte entre policías en Europa.",
   "lattlast": "<p>El gobierno quiere modificar la ley de transparencia y secreto. Esto significa que cierta información deberá mantenerse confidencial y no podrá ser proporcionada a cualquiera. La primera propuesta se refiere a las armas. Se busca proteger la información que la policía tiene sobre la compra y venta de armas de fuego. Esto incluye las listas y notificaciones que las personas que comercian con armas deben enviar a la policía.</p><p>La segunda propuesta se relaciona con la cooperación entre policías en Europa. En un sistema llamado Sistema de Información Schengen, las policías comparten información entre sí. El gobierno quiere que la información que se comparte allí esté mejor protegida. Esto se aplica especialmente a la información sobre investigaciones criminales en otros países y a la información sobre la vida privada de las personas.</p><p>El objetivo de estos cambios es proteger la información sensible para que no caiga en manos equivocadas. Se propone que los primeros cambios relacionados con las armas entren en vigor el 1 de abril de 2026. Para los demás cambios, el gobierno determinará una fecha más adelante.</p>",
   "relevans": {
-    "infrastruktur": 1,
-    "batagare": 1,
-    "otrygg": 1
+    "integritet": 5,
+    "jagare": 4,
+    "otrygg": 3,
+    "b_handel": 3,
+    "fortroendevald": 3
   }
 }

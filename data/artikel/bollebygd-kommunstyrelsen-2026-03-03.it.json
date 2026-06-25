@@ -13,13 +13,17 @@
   "tldr": "La giunta comunale di Bollebygd ha fornito informazioni relative alla valutazione delle retribuzioni e alla vendita di terreni, e ha deciso di non modificare le decisioni precedenti riguardanti un piano particolareggiato a Nyhem.",
   "lattlast": "<p>Durante la riunione della giunta comunale del 3 marzo 2026, i politici hanno ricevuto informazioni su come il comune si impegna a garantire l&#x27;equità salariale tra uomini e donne. Questo lavoro, chiamato &quot;analisi delle retribuzioni&quot;, viene svolto ogni anno per individuare e correggere eventuali disparità salariali basate sul genere.</p><p>È stata inoltre discussa la possibilità di scambiare o vendere terreni nella zona di Buagärde. Si è trattato di una riunione informativa in cui esperti del dipartimento tecnico del comune hanno spiegato i progetti previsti per tali terreni.</p><p>Riguardo ai piani di costruzione a Nyhem, nella proprietà Flässjum 2:59, la giunta comunale ha preso una decisione. Hanno scelto di respingere una proposta della commissione dei lavori pubblici, mantenendo quindi la loro decisione precedente del maggio 2024. Ciò significa che i piani precedenti per la costruzione di abitazioni, uffici e negozi nella zona rimangono invariati.</p><p>Alcuni rappresentanti politici dei partiti FR, C e SD non erano d&#x27;accordo con la decisione relativa alla questione di Nyhem e hanno quindi presentato una &quot;riserva&quot;, ovvero hanno formalmente espresso la loro opinione contraria per iscritto.</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "b_bygg": 1,
-    "b_fastighet": 2,
-    "lokaler": 1,
-    "mark_bygglov": 1,
-    "kvinna": 1,
-    "lontagare": 1,
-    "bygger": 1
+    "kvinna": 3,
+    "man": 3,
+    "lontagare": 3,
+    "offentliganstalld": 4,
+    "bostadsagare": 3,
+    "bygger": 4,
+    "mark_bygglov": 6,
+    "b_fastighet": 5,
+    "f_kommun": 6,
+    "fortroendevald": 5,
+    "arbetsgivare": 3,
+    "avgifter": 3
   }
 }

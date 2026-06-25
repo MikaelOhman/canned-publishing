@@ -13,14 +13,19 @@
   "tldr": "Întâlnirea din Malmö a avut ca scop discutarea diferitelor propuneri, a granturilor financiare și a planurilor pentru viitorul orașului, incluzând, de exemplu, noi proiecte de construcție și sprijin pentru cultură și evenimente.",
   "lattlast": "<p>Consiliul municipal din Malmö a analizat o serie de probleme legate de activitatea orașului. Printre acestea se numără gestionarea subvențiilor acordate diferitelor organizații, cum ar fi sprijinul pentru Fryshuset, precum și diverse evenimente, precum Malmö Dance Week și Europe Smash.</p><p>Au fost discutate mai multe planuri importante pentru viitorul Malmö. Există planuri de construcție a unui nou stadion Malmö și de elaborare a unui plan urbanistic detaliat pentru o zonă din Sofielund, numită Malmkrossen. S-a analizat, de asemenea, modul în care orașul trebuie să planifice spațiile și cum se poate îmbunătăți mediul, de exemplu, prin investiții în spații verzi și albastre.</p><p>Întâlnirea a abordat, de asemenea, aspecte legate de modul în care Malmö poate funcționa pentru toți locuitorii. S-a discutat despre modul în care orașul poate deveni mai accesibil pentru persoanele în vârstă și despre modalitățile de a preveni consumul de droguri în rândul copiilor și tinerilor. De asemenea, au existat propuneri de modificare a regulilor privind taxele în grădinițe, în cazul în care părinții nu locuiesc împreună.</p><p>În cele din urmă, au fost discutate reglementări și controale importante. Acestea includ aspecte, de la modul în care sunt implementate noile legi ale UE privind ambalajele și calitatea aerului, până la modul în care se verifică dacă companiile private care lucrează pentru municipalitate respectă regulile. S-a discutat, de asemenea, despre importanța existenței unor mecanisme de raportare a erorilor sau a neregulilor, cunoscute sub numele de funcții de denunțare.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_kultur": 1,
-    "lokaler": 1,
-    "mark_bygglov": 1,
-    "barn": 1,
-    "bygger": 1,
-    "konsument": 1,
-    "klimat": 1,
-    "kultur": 1
+    "f_kommun": 6,
+    "barn": 4,
+    "pensionar": 4,
+    "ung": 4,
+    "kultur": 5,
+    "hyresgast": 4,
+    "bostadsagare": 3,
+    "mark_bygglov": 4,
+    "ensam_foralder": 4,
+    "miljo": 4,
+    "b_fastighet": 5,
+    "b_kultur": 4,
+    "ideell": 4,
+    "storstad": 5
   }
 }

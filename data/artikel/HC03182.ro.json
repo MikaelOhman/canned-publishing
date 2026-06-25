@@ -12,7 +12,10 @@
   "tldr": "Implementarea anumitor informații pe care sistemul de sănătate trebuie să le furnizeze registrului național de medicamente în cazul rețetelor electronice (motivul prescripției și momentul în care tratamentul trebuie monitorizat sau întrerupt) a fost amânată – de la decembrie 2025 la septembrie 2028. Această amânare oferă sistemului de sănătate mai mult timp pentru a se conecta în mod sigur.",
   "lattlast": "<p>Lista națională de medicamente este un registru care conține informații despre medicamentele pe care un pacient le-a primit pe rețetă. Când medicii prescriu medicamente electronic, ei trebuie să furnizeze anumite informații acestui registru.</p><p>Guvernul propune amânarea obligației de a furniza două dintre aceste informații – motivul prescripției și data la care tratamentul trebuie reevaluat sau întrerupt – cu câțiva ani, de la 1 decembrie 2025 la 1 septembrie 2028.</p><p>Scopul acestei amânări este de a oferi sistemului de sănătate mai mult timp pentru a se conecta la acest registru într-un mod eficient și sigur pentru pacienți.</p>",
   "relevans": {
-    "b_life": 3,
-    "kronisk": 3
+    "kronisk": 6,
+    "b_vard": 6,
+    "b_life": 4,
+    "offentliganstalld": 4,
+    "digitalisering": 3
   }
 }

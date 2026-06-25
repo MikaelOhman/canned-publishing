@@ -13,9 +13,23 @@
   "tldr": "Il consiglio comunale di Ånge ha approvato importanti piani economici, tra cui il bilancio per il 2026 e le tasse per il prossimo anno. Sono state inoltre discusse questioni relative all'approvvigionamento idrico e nuove normative per i servizi sociali.",
   "lattlast": "<p>Durante la riunione del 16 giugno 2025, i politici del comune di Ånge hanno discusso diverse questioni importanti per il futuro. Tra le decisioni più significative, vi sono i lavori relativi al bilancio per l&#x27;anno 2026 e al piano economico per gli anni 2027-202ss. È stata inoltre stabilita l&#x27;aliquota fiscale per l&#x27;anno 2026.</p><p>Le questioni relative all&#x27;acqua e alle fognature sono state al centro della discussione. Sono state esaminate le pianificazioni per l&#x27;approvvigionamento idrico nella zona di Hjältan e la costruzione di un nuovo impianto di depurazione nello stesso luogo. Sono state inoltre approvate modifiche alle risorse finanziarie destinate all&#x27;acqua e alle fognature, ad esempio per la realizzazione di una nuova fontanella e di una tubatura tra Ljungaverk e Fränsta.</p><p>Anche i servizi sociali e la sicurezza nel comune sono stati oggetto di discussione. I politici hanno valutato come i servizi sociali dovranno operare con l&#x27;entrata in vigore di una nuova legge e come sarà possibile collaborare per i servizi di assistenza sociale a livello regionale. Sono state inoltre avviate discussioni per creare regole chiare per proteggere i dipendenti del comune da minacce e violenze.</p><p>Infine, sono stati esaminati diversi bilanci, che sono rapporti che illustrano l&#x27;andamento economico di diverse organizzazioni nell&#x27;ultimo anno. È stata inoltre discussa la possibile cessione di immobili tra il comune e la società Ånge Fastighets- och Industri AB.</p>",
   "relevans": {
-    "b_industri": 1,
-    "b_fastighet": 1,
-    "redovisning": 1,
-    "otrygg": 1
+    "f_kommun": 8,
+    "b_fastighet": 6,
+    "lontagare": 5,
+    "hyresgast": 5,
+    "bostadsagare": 5,
+    "energikund": 6,
+    "glesbygd": 7,
+    "mindre_ort": 8,
+    "pendlare": 4,
+    "offentliganstalld": 6,
+    "fortroendevald": 7,
+    "barn": 4,
+    "pensionar": 4,
+    "infrastruktur": 6,
+    "f_landsbygd": 6,
+    "aktiebolag": 4,
+    "smaforetag": 4,
+    "b_vard": 5
   }
 }

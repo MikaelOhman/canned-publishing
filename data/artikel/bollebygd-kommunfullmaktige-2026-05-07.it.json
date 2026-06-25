@@ -13,13 +13,22 @@
   "tldr": "Nel comune di Bollebygd, i politici hanno discusso nuove proposte riguardanti una vasta gamma di progetti, che vanno dalle palestre all'aperto e dalle aree ricreative alla costruzione di una nuova sede comunale. Sono state inoltre approvate modifiche alle tariffe per la raccolta dei rifiuti e per i permessi di costruzione.",
   "lattlast": "<p>Durante la riunione del consiglio comunale del 7 maggio 2026, sono state discusse diverse proposte provenienti da cittadini e politici. Tra queste, vi sono proposte per la costruzione di una palestra all&#x27;aperto vicino a una serie di luci decorative a Rinna, per la creazione di una nuova area ricreativa a Varpå e per lo sviluppo della piazza di Bollebygd. Sono state inoltre presentate proposte sull&#x27;utilizzo di pozzi privati in caso di danni alle fonti d&#x27;acqua comunali.</p><p>I politici hanno anche discusso questioni relative a edifici e tariffe. È stata valutata la possibilità di costruire una nuova sede comunale e i costi associati all&#x27;ottenimento di permessi di costruzione. Inoltre, sono state esaminate le normative relative alla raccolta dei rifiuti presso le abitazioni e le tariffe per lo smaltimento.</p><p>Alcuni partiti politici hanno ricevuto l&#x27;approvazione del loro finanziamento pubblico per l&#x27;anno 202kommit. Il finanziamento pubblico è l&#x27;importo che il comune eroga ai partiti politici per consentire loro di portare avanti le proprie attività politiche. Questo finanziamento è stato approvato per i partiti Liberali, Democratici Svedesi, Socialdemocratici e del Partito di Sinistra.</p><p>Infine, il comune ha esaminato la situazione economica e i risultati del lavoro svolto nell&#x27;anno trascorso. Sono state analate le relazioni finanziarie annuali e verificate le attività delle diverse commissioni, responsabili, ad esempio, di scuole e servizi tecnici, per garantire che abbiano svolto il loro lavoro correttamente.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "redovisning": 1,
-    "miljo": 1,
-    "mark_bygglov": 1,
-    "barn": 1,
-    "bygger": 1,
-    "konsument": 1,
-    "fortroendevald": 1
+    "f_kommun": 5,
+    "mark_bygglov": 4,
+    "b_fastighet": 3,
+    "b_bygg": 3,
+    "lokaler": 3,
+    "friluftsliv": 4,
+    "pensionar": 4,
+    "idrott": 3,
+    "pendlare": 3,
+    "bil": 3,
+    "kollektiv": 3,
+    "fortroendevald": 6,
+    "offentliganstalld": 3,
+    "glesbygd": 3,
+    "mindre_ort": 4,
+    "bygger": 3,
+    "klimat": 3
   }
 }

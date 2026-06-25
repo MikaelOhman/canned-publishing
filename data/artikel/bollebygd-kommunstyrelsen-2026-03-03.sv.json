@@ -13,13 +13,17 @@
   "tldr": "Kommunstyrelsen i Bollebygd har informerat om lönekartläggning och markförsäljning, samt beslutat att inte ändra tidigare beslut gällande en detaljplan i Nyhem.",
   "lattlast": "<p>I kommunstyrelsens möte den 3 mars 2026 fick politikerna information om hur kommunen arbetar för att kontrollera att lönerna är rättvisa mellan män och kvinnor. Detta arbete kallas lönekartläggning och görs varje år för att upptäcka och rätta till eventuella skillnader i lön baserat på kön.</p><p>Man diskuterade även möjligheten att byta eller sälja mark i området Buagärde. Det var ett informationsmöte där experter från kommunens tekniska förvaltning förklarade vad som planeras för marken.</p><p>När det gäller byggplaner i Nyhem, på fastigheten Flässjum 2:59, fattade kommunstyrelsen ett beslut. De valde att säga nej till ett förslag från arbetsutskottet och behåller därför sitt gamla beslut från maj 2024. Det innebär att de tidigare planerna för att bygga bostäder, kontor och handel i området ligger kvar som de var.</p><p>Några av de politiska representanterna från partierna FR, C och SD ville inte hålla med om beslutet i Nyhem-frågan och har därför lämnat en reservation, vilket betyder att de skrivit ner att de tycker annorlunda.</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "b_bygg": 1,
-    "b_fastighet": 2,
-    "lokaler": 1,
-    "mark_bygglov": 1,
-    "kvinna": 1,
-    "lontagare": 1,
-    "bygger": 1
+    "kvinna": 3,
+    "man": 3,
+    "lontagare": 3,
+    "offentliganstalld": 4,
+    "bostadsagare": 3,
+    "bygger": 4,
+    "mark_bygglov": 6,
+    "b_fastighet": 5,
+    "f_kommun": 6,
+    "fortroendevald": 5,
+    "arbetsgivare": 3,
+    "avgifter": 3
   }
 }

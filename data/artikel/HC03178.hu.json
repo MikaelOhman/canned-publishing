@@ -12,9 +12,10 @@
   "tldr": "A kormány szeretné módosítani a szabályokat, hogy egyszerűbb legyen külföldi hajók bérlése és svéd hajók kiadásának lehetősége. A cél az, hogy segítsük a svéd hajózási vállalatokat abban, hogy hatékonyabban működjenek, és könnyebben hozzájussanak finanszírozáshoz új hajók beszerzéséhez.",
   "lattlast": "<p>A kormány egy javaslatot terjesztett elő, amely módosítja a nagy hajók bérlése és kiadására vonatkozó szabályokat. Ez a &quot;hajóbérlés&quot; fogalmát érinti, ami azt jelenti, hogy egy teljes hajót bérelnek anélkül, hogy a legénységet is bérelnék.</p><p>A javaslat értelmében a svéd hajóregiszter, amely a Svédországban bejegyzett összes hajó hivatalos listája, egy új részlegre lesz bővítve. Ez az új részleg megkönnyíti a külföldről behozott hajók nyomon követését.</p><p>A szabályok pontosítása révén a svéd hajózási vállalatok (azaz azok a cégek, amelyek hajókat birtokolnak és üzemeltetnek) remélhetőleg hatékonyabban tudják tervezni tevékenységüket. Emellett könnyebbé válik számukra, hogy pénzügyi támogatást és finanszírozást szerezzenek új hajók vásárlásához.</p><p>Ha a parlament megszavazza a javaslatot, az új szabályok 2026. február 1-jén lépnek életbe. A javaslat számos különböző, a hajózással kapcsolatos törvényt módosít, többek között a tengerjogi törvényt és a hajók bejegyzésére vonatkozó törvényt.</p>",
   "relevans": {
-    "b_transport": 1,
-    "b_finans": 1,
-    "hyresgast": 1,
-    "batagare": 1
+    "b_transport": 7,
+    "finansiering": 5,
+    "export": 4,
+    "import": 4,
+    "eu_marknad": 3
   }
 }

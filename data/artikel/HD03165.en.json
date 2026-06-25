@@ -12,9 +12,13 @@
   "tldr": "The government wants to introduce a new law to collect information about social services. The purpose is for the Swedish National Board of Health and Welfare (Socialstyrelsen) to use this data to improve the support provided to people, while also protecting people's privacy.",
   "lattlast": "<p>The government has proposed a new law called the &quot;Social Data Registry Act.&quot; This law aims to help the Swedish National Board of Health and Welfare (Socialstyrelsen) manage personal data effectively. By collecting information, it will be possible to learn more about how social services function and how to improve support for people.</p><p>The proposal also stipulates that those working in social services and providing support to people with disabilities must provide necessary information to Socialstyrelsen. This means that organizations providing services under the laws governing social services and support for people with disabilities will be obligated to submit data to the new registry.</p><p>It is important to note that the law also includes regulations to protect people&#x27;s privacy. This means that care must be taken to ensure that personal data is not used in a way that violates privacy. The goal is to create a secure system for managing all collected information.</p><p>If the proposal is approved, the new law will come into effect on August 1, 2026. The requirement for organizations to provide data will take effect one year later, on August 1, 2027. There is also a change regarding fees that is proposed to take effect on June 1, 2026.</p>",
   "relevans": {
-    "gdpr": 1,
-    "funktion": 1,
-    "konsument": 1,
-    "integritet": 2
+    "kronisk": 4,
+    "funktion": 6,
+    "anhorigvardare": 4,
+    "b_vard": 6,
+    "gdpr": 5,
+    "integritet": 6,
+    "offentliganstalld": 4,
+    "f_kommun": 3
   }
 }

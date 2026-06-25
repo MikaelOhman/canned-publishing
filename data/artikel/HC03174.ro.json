@@ -12,10 +12,12 @@
   "tldr": "Guvernul dorește să modifice legile pentru a facilita sancționarea navelor care nu respectă reglementările UE privind emisiile. Scopul este de a putea aplica amenzi și de a opri navele care încalcă aceste reguli.",
   "lattlast": "<p>Guvernul a prezentat o propunere de modificare a legilor pentru a controla emisiile provenite de la nave. Dacă o navă nu respectă sistemul de comercializare a emisiilor al Uniunii Europene, autoritățile vor putea utiliza măsuri mai severe. Acestea pot include interzicerea accesului navei într-un port sau reținerea navei în port.</p><p>Pentru a asigura respectarea regulilor, guvernul propune utilizarea de amenzi. O amendă este un fel de penalitate financiară pe care trebuie să o plătească cineva dacă nu respectă prevederile stabilite. În cazul în care apar întrebări cu privire la valoarea acestor amenzi, este Curtea Administrativă și de Mediu care va decide.</p><p>Garda de Coastă și Poliția vor contribui la asigurarea respectării deciziilor. Acestea vor putea utiliza metodele necesare pentru a preveni încălcările regulilor. În anumite situații speciale, personalul din cadrul Gărzii de Coastă va avea, de asemenea, dreptul de a utiliza forța pentru a-și îndeplini sarcinile.</p><p>Aceste modificări legislative sunt menite să intre în vigoare începând cu 1 ianuarie 2026. Propunerea implică modificări atât în Legea Gărzii de Coastă, cât și în legea privind emisiile de gaze cu efect de seră.</p>",
   "relevans": {
-    "miljo": 3,
-    "infrastruktur": 1,
-    "batagare": 1,
-    "klimat": 3,
-    "otrygg": 1
+    "b_transport": 7,
+    "miljo": 6,
+    "klimat": 5,
+    "gron_omstallning": 5,
+    "eu_marknad": 5,
+    "export": 4,
+    "import": 4
   }
 }

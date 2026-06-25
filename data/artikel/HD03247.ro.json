@@ -12,9 +12,13 @@
   "tldr": "Mai multe medicamente ar putea deveni disponibile fără prescripție medicală, dacă pacienții au posibilitatea de a discuta cu un specialist în farmacie. Această propunere își propune să faciliteze accesul la medicamente, dar să asigure în același timp siguranța pentru oameni și animale.",
   "lattlast": "<p>Regiunea a făcut o propunere de modificare a regulilor privind vânzarea medicamentelor. Scopul este ca mai multe medicamente să poată fi achiziționate fără rețetă, dar cu o condiție importantă. Când achiziționați aceste medicamente, personalul farmaciei, numit farmacist, trebuie să vă ofere sfaturi specifice pentru a vă asigura că utilizați medicamentul în mod sigur.</p><p>Această asistență suplimentară este necesară pentru a proteja sănătatea oamenilor și a animalelor. Aceasta include, de asemenea, reducerea riscului ca medicamentele să înceteze să mai funcționeze, ceea ce se numește rezistență la medicamente. Agenția Națională a Medicamentelor, care este autoritatea responsabilă de medicamente în Suedia, va putea decide ce medicamente vor trebui să aibă această cerință specială de consiliere.</p><p>Este important de reținut că aceste medicamente pot fi vândute doar în farmaciile obișnuite, unde există personal prezent. Acestea nu pot fi vândute prin intermediari farmaceutici, care sunt locuri care nu sunt o farmacie reală, dar care ajută la vânzare. Acest lucru este pentru a se asigura că primiți întotdeauna informațiile corecte atunci când achiziționați medicamentul.</p><p>Dacă Parlamentul votează în favoarea propunerii, noile reguli vor intra în vigoare începând cu 1 ianuarie 2027. Propunerea provine dintr-un acord între guvern și partidul Sverigedemokraterna.</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "b_konsult": 3,
-    "b_life": 3,
-    "kronisk": 3
+    "kronisk": 5,
+    "beroende": 4,
+    "pensionar": 4,
+    "barn": 4,
+    "b_vard": 5,
+    "b_life": 7,
+    "tillstand": 4,
+    "konsument": 5
   }
 }

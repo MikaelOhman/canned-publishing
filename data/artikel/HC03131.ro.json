@@ -12,10 +12,19 @@
   "tldr": "Guvernul propune noi legi pentru a îmbunătăți mediul înconjurător și pentru a controla consumul de energie. Aceste legi includ, printre altele, cerința ca centrele de date să declare cantitatea de energie electrică pe care o utilizează și modificări ale reglementărilor privind combustibilii.",
   "lattlast": "<p>Guvernul dorește să modifice mai multe legi pentru a se conforma noilor reguli din partea Uniunii Europene. Un aspect important este că centrele de date, adică clădirile mari care stochează informații digitale, vor trebui să înceapă să raporteze cantitatea de energie pe care o consumă într-o bază de date comună europeană. Acest lucru se face pentru a avea o imagine mai clară a cantității de energie electrică utilizată pentru tehnologia digitală.</p><p>De asemenea, vor fi introduse reguli mai stricte privind ceea ce este considerat combustibil sustenabil. Acest lucru înseamnă că vor exista noi cerințe pentru ca combustibilii proveniți, de exemplu, din materiale reciclate sau din alte surse ecologice să respecte anumite standarde de mediu. De asemenea, legile privind taxele pe energie și certificatele de energie vor fi modificate pentru a se alinia cu noile reguli.</p><p>În ceea ce privește combustibilii utilizați în automobile, există propuneri pentru noi niveluri ale obligației de reducere. Obligația de reducere este cerința de a amesteca o cantitate mai mare de combustibil ecologic în benzină și motorină. Acum se propune, de asemenea, că această cerință poate fi îndeplinită utilizând electricitate provenită din surse regenerabile. În același timp, se propune eliminarea cerinței ca furnizorii de combustibili să reducă emisiile de gaze cu efect de seră.</p><p>Majoritatea acestor noi reguli sunt menite să intre în vigoare începând cu 1 iulie 2025. Cu toate acestea, anumite aspecte referitoare la cerințele de mediu pentru combustibili vor intra în vigoare ulterior, fie la 1 ianuarie 2026, fie la 1 ianuarie 2030.</p>",
   "relevans": {
-    "b_energi": 1,
-    "miljo": 1,
-    "bil": 3,
-    "energikund": 2,
-    "klimat": 2
+    "b_it": 7,
+    "b_transport": 6,
+    "b_energi": 6,
+    "b_industri": 5,
+    "energiintensiv": 7,
+    "gron_omstallning": 6,
+    "hallbarhetsrapport": 5,
+    "eu_marknad": 5,
+    "miljo": 5,
+    "digitalisering": 5,
+    "bil": 4,
+    "energikund": 4,
+    "klimat": 5,
+    "punktskatt": 4
   }
 }

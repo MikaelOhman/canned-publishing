@@ -12,15 +12,18 @@
   "tldr": "Guvernul a stabilit planuri pe termen lung pentru modul în care drumurile și căile ferate din Suedia vor funcționa între anii 2026 și 2037. Planul vizează investiții inteligente în transporturi și transformarea sistemului într-unul mai ecologic.",
   "lattlast": "<p>Guvernul a prezentat un plan privind modul în care transporturile din Suedia vor arăta și vor funcționa în perioada 2026-2037. Planul se aplică tuturor tipurilor de transport, cum ar fi automobilele, camioanele și trenurile. În același timp, a fost stabilită suma de bani care va fi alocată în diferitele regiuni pentru a îmbunătăți drumurile și căile ferate din întreaga țară.</p><p>Acest demers vizează, de asemenea, îmbunătățirea eficienței și a sustenabilității transporturilor. Guvernul se va asigura că va fi mai ușor să transportăm mărfuri și persoane într-un mod inteligent. De asemenea, se dorește ca vehiculele să devină mai performante și ca o proporție mai mare a traficului să utilizeze electricitate în loc de combustibili care dăunează mediului.</p><p>O parte importantă a planului este trecerea de la combustibili fosili, cum ar fi benzina și motorina, la alternative regenerabile și durabile. Acesta este un răspuns la cerințele anterioare ale Parlamentului, conform cărora Suedia trebuie să creeze un sistem de transport care să funcționeze pe termen lung, fără a distruge clima. Obiectivul este ca tehnologia să ne ajute să reducem emisiile în viitor.</p>",
   "relevans": {
-    "b_transport": 3,
-    "arbetsratt": 1,
-    "miljo": 1,
-    "infrastruktur": 1,
-    "glesbygd": 1,
-    "bil": 2,
-    "kollektiv": 1,
-    "kronisk": 1,
-    "energikund": 1,
-    "klimat": 3
+    "bil": 5,
+    "pendlare": 6,
+    "kollektiv": 5,
+    "glesbygd": 4,
+    "b_transport": 8,
+    "b_industri": 5,
+    "b_bygg": 4,
+    "b_energi": 5,
+    "energikund": 4,
+    "klimat": 5,
+    "gron_omstallning": 6,
+    "infrastruktur": 7,
+    "f_landsbygd": 4
   }
 }

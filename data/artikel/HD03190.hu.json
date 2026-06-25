@@ -12,8 +12,10 @@
   "tldr": "A kormány egy új törvényt akar bevezetni, amely lehetővé teszi az öngyilkosságként bejegyzett halálesetek alaposabb kivizsgálását, annak érdekében, hogy megtanulhassuk, hogyan lehet megakadályozni, hogy hasonló tragédiák ne történjenek meg újra. A cél az, hogy a társadalom hatékonyabban végezzen megelőző munkát.",
   "lattlast": "<p>A kormány egy új törvényt terjesztett elő, amely szerint egy országos vizsgálati szerv foglalkozik az öngyilkosság következtében bekövetkezett halálesetekkel. Ha egy gyermek öngyilkosság következtében hal meg, akkor mindig el kell végezni egy vizsgálatot. A felnőttek esetében a vizsgálatokat akkor kell elvégezni, ha úgy ítélik, hogy segíthetnek a jövőbeli öngyilkosságok megelőzésében, vagy ha nem ismert a halál pontos körülménye.</p><p>Egy különleges hatóság, amelynek nevét a kormány határozza meg, végzi majd a munkát. Ez a hatóság vizsgálja a haláleset körülményeit, és felméri, hogy milyen intézkedéseket tettek, vagy lettek volna tehetők az illető életének megmentésére. A hozzátartozóknak lehetősége lesz részt venni a vizsgálatban, ha úgy érzik, hogy ez számukra megfelelő.</p><p>A vizsgálat hatékonysága érdekében más hatóságoknak és szakértőknek kötelező együttműködniük, és a szükséges információkat kell, hogy biztosítsák. A vizsgálatokban részt vevők kötelesek a titoktartásra, ami azt jelenti, hogy nem szabad információkat közölni a megszerzett adatokról. Emellett módosítások lesznek a személyes adatok kezelésére és a titkossággal kapcsolatos törvényekben.</p><p>Ha a parlament megszavazza a javaslatot, az új szabályok 2026. július 2-án lépnek hatályba.</p>",
   "relevans": {
-    "gdpr": 1,
-    "barn": 1,
-    "integritet": 1
+    "psykisk": 7,
+    "anhorigvardare": 6,
+    "barn": 5,
+    "offentliganstalld": 4,
+    "b_vard": 4
   }
 }

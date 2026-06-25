@@ -13,12 +13,13 @@
   "tldr": "Le conseil social de la commune de Burlöva a approuvé un rapport financier concernant le début de l'année 2026. Ce rapport révèle un excédent de plus de 650 000 couronnes suédoises pour la période allant de janvier à avril.",
   "lattlast": "<p>La commission des affaires sociales a examiné la situation financière de la commune entre janvier et avril 2026. Elle a décidé d&#x27;approuver le rapport et de le transmettre au conseil municipal, qui est l&#x27;organe dirigeant de l&#x27;ensemble de la commune.</p><p>La situation financière de la commission des affaires sociales est actuellement bonne, avec un excédent de 658 000 couronnes. Cela est principalement dû au fait que le nombre de placements coûteux pour les enfants et les familles a été inférieur aux prévisions. De plus, les coûts de personnel ont été inférieurs à ce qui était prévu, grâce à une gestion active des effectifs.</p><p>Cependant, certaines parties de la situation financière présentent des déficits. Pour l&#x27;administration centrale, c&#x27;est-à-dire les services chargés des tâches administratives et de la planification, le chiffre est de moins 1 000 000 et 156 000 couronnes. Cela est dû, entre autres, à une réorganisation en cours, où les coûts et le budget n&#x27;ont pas encore été correctement réaffectés.</p><p>Dans le domaine des soins et de l&#x27;aide sociale, qui comprend notamment la psychiatrie sociale et les services de transport adaptés, il existe un excédent de 1 000 000 et 245 000 couronnes. L&#x27;excédent le plus important dans ce secteur d&#x27;activité se trouve dans le domaine de la psychiatrie sociale, qui affiche un excédent de 1,1 million de couronnes.</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "b_vard": 1,
-    "b_konsult": 1,
-    "lokaler": 1,
-    "barn": 1,
-    "kronisk": 1,
-    "funktion": 1
+    "f_kommun": 4,
+    "barn": 4,
+    "ensam_foralder": 4,
+    "offentliganstalld": 4,
+    "kronisk": 3,
+    "psykisk": 4,
+    "funktion": 3,
+    "b_vard": 3
   }
 }

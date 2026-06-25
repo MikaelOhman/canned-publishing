@@ -12,12 +12,15 @@
   "tldr": "Die Regierung möchte, dass Kommunen bei der Einstellung von Personal die Strafregister genauer prüfen können. Dies soll die Sicherheit von Kindern, älteren Menschen und Menschen mit Behinderungen erhöhen.",
   "lattlast": "<p>Die Regierung hat Vorschläge für neue Regeln vorgelegt, um Personen zu überprüfen, die in der Gemeinde eine Tätigkeit aufnehmen sollen. Ziel ist es, zu verhindern, dass Personen, die Straftaten oder schädliche Handlungen planen, eine Anstellung innerhalb der Gemeindeerrichtungen erhalten. Durch die Einsicht in das Vorstrafenregister und das Verdachtsregister, die Register über frühere Straftaten und Verdachtsmomente, soll das Risiko von Straftaten verringert werden.</p><p>Die neuen Regeln sollen vor allem für Personen gelten, die mit Kindern arbeiten oder in Privathaushalten bei älteren und erwachsenen Menschen mit Behinderung tätig sind. Sie betreffen auch Personen, die wichtige Führungspositionen innerhalb der Gemeinde bekleiden sollen. Ziel ist es, ein sichereres Arbeitsumfeld zu schaffen und diejenigen zu schützen, die besondere Betreuung benötigen.</p><p>Der Vorschlag beinhaltet Änderungen in verschiedenen Gesetzen, beispielsweise im Gesetz über das Vorstrafenregister und im Sozialgesetzbuch. Das Parlament muss diesen Änderungen zustimmen, damit sie Gesetz werden.</p><p>Wenn das Parlament den Vorschlag annimmt, sollen die neuen Regeln am 1. März 2026 in Kraft treten. Ab diesem Zeitpunkt haben die Gemeinden größere Möglichkeiten, neue Mitarbeiter zu überprüfen, bevor diese ihre Tätigkeit aufnehmen.</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "b_vard": 1,
-    "arbetsmiljo": 1,
-    "barn": 1,
-    "lontagare": 3,
-    "funktion": 1,
-    "otrygg": 2
+    "arbetsratt": 6,
+    "kompetens": 4,
+    "f_kommun": 7,
+    "offentliganstalld": 7,
+    "barn": 5,
+    "pensionar": 4,
+    "funktion": 4,
+    "brottsoffer": 4,
+    "otrygg": 4,
+    "b_vard": 6
   }
 }

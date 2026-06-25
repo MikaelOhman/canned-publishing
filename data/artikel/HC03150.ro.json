@@ -12,12 +12,15 @@
   "tldr": "Guvernul dorește să introducă o nouă lege care să permită statului să contribuie la finanțarea construcției de centrale nucleare în Suedia. Scopul este de a reduce riscul pentru companiile care construiesc reactoarele.",
   "lattlast": "<p>Guvernul a prezentat o propunere de lege nouă, care va intra în vigoare pe 1 august 2025. Legea se referă la modul în care statul poate oferi sprijin financiar companiilor care doresc să construiască noi reactoare nucleare în Suedia. Acest lucru este important pentru a face investițiile majore în producția de energie electrică mai sigure și mai ușor de realizat.</p><p>Sprijinul poate fi acordat în două moduri. În primul rând, statul poate oferi împrumuturi companiilor pentru a acoperi costurile de construcție și pregătire. În al doilea rând, se propune un sistem numit &quot;contracte diferențiale bilaterale&quot;. Acesta este un acord între stat și companie, care funcționează ca o asigurare. Dacă prețul energiei electrice este prea scăzut, compania primește o compensație, dar dacă prețul energiei electrice este foarte ridicat, compania trebuie să returneze o parte din profit statului.</p><p>Există anumite reguli cu privire la momentul în care poate fi acordat sprijinul. Noile centrale nucleare trebuie să fie situate în același loc și, împreună, să aibă o capacitate de cel puțin 300 MW, ceea ce reprezintă o măsură a cantității de energie electrică pe care o pot produce. Cu toate acestea, dacă există motive speciale, guvernul poate decide să acorde sprijin și pentru proiecte mai mici. Toate acordurile financiare vor avea condiții clare, la care statul și compania vor ajunge împreună.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_finans": 3,
-    "b_energi": 1,
-    "bolagsskatt": 1,
-    "finansiering": 3,
-    "energiintensiv": 1,
-    "energikund": 1
+    "b_energi": 8,
+    "energiintensiv": 6,
+    "energikund": 5,
+    "storforetag": 6,
+    "aktiebolag": 4,
+    "finansiering": 5,
+    "gron_omstallning": 4,
+    "klimat": 4,
+    "f_kommun": 3,
+    "mark_bygglov": 3
   }
 }

@@ -12,10 +12,12 @@
   "tldr": "A kormány szeretné módosítani a törvényt úgy, hogy a vállalatoknak és szervezeteknek engedélyre kellene venniük, ha mezőgazdasági földet örökölnek. A cél az, hogy biztosítsák a magánszemélyek és a vállalatok közötti egyensúlyt a földtulajdon terén.",
   "lattlast": "<p>A kormány egy javaslatot terjesztett elő a földtulajdonnal kapcsolatos törvény módosítására. Ez azt jelenti, hogy a jogi személyek, azaz a vállalatok és egyesületek, nem csak öröklés vagy végrendelet útján szerezhetnek mezőgazdasági területeket, hanem ehhez speciális engedélyre van szükség.</p><p>Ha egy vállalat vagy szervezet új földet szerez meg végrendelet alapján vagy az Általános Örökségi Alapból, akkor más mezőgazdasági területet is át kell adnia. Ez azért van, hogy a szabályok igazságosak legyenek, és megakadályozzák, hogy túl sok föld kerüljön nagy szervezetekhez ahelyett, hogy magánszemélyekhez tartozna.</p><p>A javaslat azt jelenti, hogy a földtulajdon arányát ki kell egyensúlyozni. Ha valaki új földet szerez, akkor más földet is át kell adnia, hogy a tájban megmaradjon a megfelelő egyensúly.</p><p>Ha a parlament megszavazza a javaslatot, az új szabályok 2027. január 1-jén lépnek életbe.</p>",
   "relevans": {
-    "b_grona": 3,
-    "tillstand": 1,
-    "infrastruktur": 1,
-    "glesbygd": 3,
-    "batagare": 1
+    "b_grona": 7,
+    "b_fastighet": 4,
+    "mark_bygglov": 5,
+    "ideell": 4,
+    "aktiebolag": 4,
+    "glesbygd": 5,
+    "f_landsbygd": 5
   }
 }

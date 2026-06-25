@@ -12,6 +12,14 @@
   "tldr": "The government wants to change the laws so that the Swedish Tax Agency (Skatteverket) can use modern technology to audit companies. This means that they will be able to more easily access digital information, even if it is stored in cloud services or abroad.",
   "lattlast": "<p>The Swedish Tax Agency (Skatteverket) wants to acquire better tools to conduct its audits. Currently, there are restrictions on using certain types of networks during investigations, but the government wants to remove these restrictions. This would allow the agency to use its own technical equipment to collect digital information more efficiently.</p><p>An important proposal concerns the ability to secure evidence remotely. This means that the Tax Agency should be able to search for and copy digital documents in systems used for communication or file storage. This is important because much information is now stored in so-called cloud services, where the information is not stored on a physical computer within the company, but on the internet.</p><p>The new rules also mean that the Tax Agency should be able to retrieve information even if it is stored in another country. The proposal also covers technical aids needed to carry out these digital audits. The purpose is to ensure that the laws are adapted to modern technology without compromising the security of those being audited.</p><p>If the Swedish Parliament approves the proposal, the new rules will come into effect on July 1, 2026. The proposal involves changes to three different laws related to tax audits, the control of certain goods, and support for structural changes in the labor market.</p>",
   "relevans": {
-    "arbetssokande": 2
+    "aktiebolag": 7,
+    "solo": 5,
+    "smaforetag": 6,
+    "storforetag": 6,
+    "redovisning": 6,
+    "gdpr": 5,
+    "integritet": 5,
+    "b_it": 4,
+    "digitalisering": 4
   }
 }

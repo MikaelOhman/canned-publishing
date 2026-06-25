@@ -12,10 +12,14 @@
   "tldr": "A kormány szeretné megváltoztatni azokat a szabályokat, amelyek meghatározzák, mennyit lehet kölcsönözni lakásvásárlásra, és mennyi kell havonta visszafizetni. A cél az, hogy több ember számára legyen elérhető a lakásvásárlás, anélkül, hogy az veszélyt jelentene a gazdaságra.",
   "lattlast": "<p>A kormány egy új törvénytervezetet terjesztett elő, amely 2026. április 1-jén lép hatályba. A legfontosabb, hogy eltörlik a hitel visszafizetésére vonatkozó, a szokásosnál magasabb követelményt (amortizáció). Ez azt jelenti, hogy nem kell többé évente legalább egy százalék extra összeget fizetned, ha a hitelid a jövedelmedhez képest magas.</p><p>Új szabályok is bevezetésre kerülnek arra vonatkozóan, hogy mennyit lehet a bankoktól kölcsönözni. Ha új lakást vásárolsz, a lakás értékének legfeljebb 90 százalékát lehet kölcsönözni. Ha viszont több pénzt szeretnél felvenni a meglévő lakás bővítésére vagy átalakítására, akkor csak a lakás értékének legfeljebb 80 százalékát lehet kölcsönözni.</p><p>A javaslat a Svéd Nemzeti Bank (Riksbank) hatáskörének bővítéséről is szól. A Nemzeti Bank nagyobb felelősséget kap a bankok ellenőrzésében, hogy azok rendelkezzenek elegendő tőkével a gazdasági válságok kezelésére. Ez a cél egy biztonságosabb gazdaság megteremtése az egész országban.</p><p>A javaslat most a parlament elé kerül. Ha a parlament elfogadja, több különböző törvényt módosítanak egyszerre, hogy létrehozzák az új szabályokat a bankokkal és a lakáshitelekkel kapcsolatban.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_finans": 1,
-    "lontagare": 1,
-    "bostadsagare": 1,
-    "lantagare": 1
+    "bostadsagare": 9,
+    "hyresgast": 5,
+    "lantagare": 8,
+    "bygger": 7,
+    "sparare": 6,
+    "b_fastighet": 6,
+    "b_finans": 5,
+    "skuldsatt": 7,
+    "pensionssparare": 4
   }
 }

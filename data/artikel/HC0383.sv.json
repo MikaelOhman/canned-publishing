@@ -12,13 +12,12 @@
   "tldr": "Regeringen vill ändra lagarna för skatt på energi, tobak och alkohol så att viktiga tillstånd och rättigheter flyttar med till ett konkursbo när ett företag går i konkurs. Detta gäller även för vissa regler kring skatt på kemikalier i elektronik.",
   "lattlast": "<p>När ett företag går i konkurs skapas ett konkursbo som ska sköta företagets kvarvarande värden. Regeringen föreslår nu nya regler för att vissa tillstånd och godkännanden ska tillhöra detta konkursbo. Det handlar om tillstånd för att skicka energi, tobak och alkohol utan att betala skatt direkt.</p><p>Förändringen gäller även rättigheter att få tillbaka betald skatt på el. Om ett företag som har rätt till återbetalning av elskatt går i konkurs, ska denna rättighet finnas kvar i konkursboet. På samma sätt ska tillstånd för att skicka tobak och alkohol som registrerad avsändare flyttas till konkursboet.</p><p>Förslaget innehåller även nya regler för hur man kan ändra eller klaga på beslut om återbetalning av skatt på kemikalier i viss elektronik. Syftet är att göra det tydligt vad som händer med dessa skatteregler när ett företag inte längre kan betala sina skulder.</p><p>Om riksdagen säger ja till förslaget kommer de nya reglerna att börja gälla den 1 juli 2025. Detta innebär att reglerna för skatt på energi, tobak, alkohol och elektronik blir mer förutsägbara vid en konkurs.</p>",
   "relevans": {
-    "b_energi": 1,
-    "punktskatt": 3,
-    "konkurs": 3,
-    "tillstand": 1,
-    "miljo": 1,
-    "beroende": 1,
-    "lantagare": 1,
-    "energikund": 1
+    "konkurs": 9,
+    "b_energi": 6,
+    "punktskatt": 7,
+    "b_industri": 4,
+    "b_handel": 4,
+    "aktiebolag": 5,
+    "smaforetag": 4
   }
 }

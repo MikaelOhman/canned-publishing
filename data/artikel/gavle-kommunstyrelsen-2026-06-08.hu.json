@@ -15,14 +15,19 @@
   "tldr": "A Gävle városi önkormányzat közgyűlése megtartott egy ülést, ahol számos témát tárgyaltak, többek között a gazdaságot, az új építési projekteket, a szponzorációt és a környezetvédelmi kérdéseket. A legfontosabb pontok közé tartozik, hogy hogyan kell felhasználni a város pénzeit, és hogyan lehet a területeket új projektek számára hasznosítani.",
   "lattlast": "<p>A Gävle városi önkormányzat vezetősége számos fontos kérdést vett fel a város jövőjét illetően. Közül is a legfontosabbak közé tartozik a város gazdasági helyzete, és az, hogy milyen költségvetéssel kell számolni a következő években, 2027-től 2030-ig. Emellett megvitatták, hogy a város különböző vállalatai hogyan legyenek irányítva és ellenőrizve.</p><p>A területekkel és építkezéssel kapcsolatosan a politikusok új területekkel, például Skogmurral és Kungsbäckkel kapcsolatos szerződésekről tárgyaltak. Ez a kérdés érinti, hogy ki használhatja a város tulajdonában lévő területeket, és milyen szabályok vonatkoznak az ott történő építkezésre. Emellett szóba került a szélerőművekkel kapcsolatos kérdés, valamint a Vattenfall nevű áramszolgáltató cég földterületekhez való hozzáférésének kezelése Överhärde területén.</p><p>Számos kérdés merült fel a város életével és környezetével kapcsolatban is. Ez magában foglalja mindent, a Gävle Pride és a Brynäs IF nevű sportegyesület támogatásától kezdve a természetvédelmi területekkel és a környezetvédelemmel kapcsolatos kérdésekig. Emellett megvitatták a munkakörülményeket és a biztonságot olyan helyeken, mint a Gävle kikötő és a Gävle Energikoncern.</p><p>Végül a megbeszélés középpontjában az állt, hogy milyen célokra oszszák el a pénzt. Ez magában foglalhatja mindent, a fiatalok és a sport támogatásától kezdve a Stortorget és a Kasthallen nevű helyszínek karbantartásának finanszírozásáig. Emellett megvitatták, hogy mennyibe kerül a nyilvános területek használata.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_energi": 2,
-    "infrastruktur": 1,
-    "ung": 1,
-    "energikund": 1,
-    "friluftsliv": 1,
-    "batagare": 1,
-    "idrott": 1,
-    "klimat": 1
+    "f_kommun": 6,
+    "mark_bygglov": 5,
+    "b_fastighet": 5,
+    "b_energi": 5,
+    "energiintensiv": 4,
+    "energikund": 4,
+    "gron_omstallning": 4,
+    "miljo": 4,
+    "infrastruktur": 4,
+    "idrott": 4,
+    "hbtq": 4,
+    "fortroendevald": 5,
+    "ideell": 4,
+    "lokaler": 4
   }
 }

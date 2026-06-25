@@ -13,6 +13,11 @@
   "tldr": "Ett mejl rör uppdaterade siffror för vatten och avlopp i Lekebergs kommun. Det handlar om att kostnaderna för att rena vatten har ökat mer än man först trott.",
   "lattlast": "<p>Mårten Frumerie, som är chef på vattenbolaget Vättern, har skickat information om nya siffror. Han förklarar att kostnaden för att rena vatten har blivit högre än vad man tidigare räknat med.</p><p>Denna ökning beror på att det har blivit dyrare att rena avloppsvatten. Det är en viktig förändring eftersom det påverkar hur mycket pengar som behövs för att sköta vatten och avlopp i kommunen.</p><p>Caroline Elfors från Lekebergs kommun har tagit emot informationen och skickat den vidare till berörda personer. Syftet med mejlen är att se till att alla har de senaste och mest korrekta siffrorna för det fortsatta arbetet.</p>",
   "relevans": {
-    "glesbygd": 1
+    "f_kommun": 5,
+    "energikund": 6,
+    "offentliganstalld": 4,
+    "b_energi": 4,
+    "glesbygd": 3,
+    "mindre_ort": 3
   }
 }

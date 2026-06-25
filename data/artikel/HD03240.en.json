@@ -12,9 +12,17 @@
   "tldr": "The government proposes new laws to modernize the electricity market in Sweden. The proposals aim to make it easier to share electricity between properties and change the rules regarding who is responsible for the safety of the electricity grid.",
   "lattlast": "<p>The government has proposed new legislation to replace the old electricity law from 1997. The purpose is to align Swedish regulations with EU laws and to clarify which rules apply to companies that own the power lines.</p><p>A major change is that it will be easier to share electricity between different locations. With the new rules for energy sharing, a person who uses electricity in a building can be billed for electricity that has been produced in another building. This is called energy sharing and is part of a new EU directive.</p><p>The responsibility for ensuring the safe operation of the electricity system will also be changed. Previously, there was a special authority responsible for operational safety, but now it is proposed that the companies that operate the major power lines take over that responsibility. New roles will also be introduced to maintain balance in the electricity system.</p><p>Most of the new rules are planned to come into effect on January 1, 2027. Part of the proposal, which concerns companies that are obligated to supply electricity, will come into effect slightly later, namely on July 1, 2027.</p>",
   "relevans": {
-    "b_fastighet": 1,
-    "b_energi": 2,
-    "eu_marknad": 1,
-    "energikund": 1
+    "aktiebolag": 4,
+    "smaforetag": 3,
+    "storforetag": 5,
+    "b_energi": 9,
+    "b_fastighet": 6,
+    "b_industri": 5,
+    "energiintensiv": 7,
+    "eu_marknad": 5,
+    "gron_omstallning": 4,
+    "energikund": 7,
+    "bostadsagare": 5,
+    "f_kommun": 3
   }
 }

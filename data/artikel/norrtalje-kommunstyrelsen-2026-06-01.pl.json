@@ -13,20 +13,16 @@
   "tldr": "Komisja ds. spraw miejskich w Norrtälje podjęła szereg decyzji dotyczących inwestycji w budynki, szkoły i środowisko naturalne gminy, a także zmian w planach zagospodarowania przestrzennego oraz w opłatach.",
   "lattlast": "<p>Zarząd gminy podjął szereg ważnych decyzji inwestycyjnych na rok 2026. Obejmują one m.in. rozbiórkę budynku Jupiter 1 w celu utworzenia miejsc parkingowych i terenów zielonych, a także budowę nowego budynku do segregacji odpadów w pobliżu portu w Norrtälje. Planowane są również inwestycje w wymianę systemów alarmowych i kontroli dostępu w budynkach gminy oraz dostosowanie szkół do potrzeb uczniów ze specjalnymi potrzebami.</p><p>Zdecydowano również o zmianach w przepisach i opłatach. Dotyczy to m.in. nowych cen usług oferowanych przez wydział ds. dzieci i szkół oraz nowych opłat za działalność kulturalną i rekreacyjną. Ponadto zatwierdzono zmiany w planach zagospodarowania przestrzennego dla obszarów w Åkerö i Häverö-Bergby, mające na celu określenie zasad wykorzystania terenu.</p><p>Gmina otrzymała również środki z funduszu o nazwie &quot;fundusz rozwoju obszarów wiejskich i kreatywności&quot;, przeznaczonych na wsparcie rozwoju regionu. Równolegle analizowano, jak można skuteczniej zwalczać przestępstwa szkodzące społeczeństwu, na przykład poprzez wprowadzenie jasnych procedur zgłaszania przestępstw i odzyskiwania nieprawidłowo wypłaconych środków.</p><p>Na koniec podjęto dyskusję na temat dostępności wszystkich usług oferowanych przez gminę. Celem jest znalezienie rozwiązań, które ułatwią wszystkim mieszkańcom korzystanie z usług i budynków gminy.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_vard": 1,
-    "b_kultur": 1,
-    "finansiering": 1,
-    "infrastruktur": 1,
-    "f_landsbygd": 1,
-    "barn": 1,
-    "glesbygd": 1,
-    "bil": 1,
-    "funktion": 1,
-    "konsument": 2,
-    "batagare": 1,
-    "klimat": 1,
-    "kultur": 1,
-    "otrygg": 1
+    "f_kommun": 5,
+    "mark_bygglov": 4,
+    "barn": 4,
+    "funktion": 4,
+    "klimat": 3,
+    "b_fastighet": 3,
+    "b_utbildning": 3,
+    "lokaler": 3,
+    "miljo": 3,
+    "idrott": 3,
+    "glesbygd": 3
   }
 }

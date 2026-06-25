@@ -13,13 +13,17 @@
   "tldr": "Consiliul municipal din Bollebygd a informat despre evaluarea salariilor și vânzarea de terenuri, și a decis să nu modifice deciziile anterioare referitoare la un plan urbanistic detaliat în Nyhem.",
   "lattlast": "<p>În cadrul ședinței consiliului local din 3 martie 2026, politicienii au primit informații despre modul în care municipalitatea lucrează pentru a asigura egalitatea salarială între bărbați și femei. Acest proces, numit cartografierea salariilor, este realizat anual pentru a identifica și corecta eventualele diferențe salariale bazate pe gen.</p><p>De asemenea, s-a discutat despre posibilitatea de a schimba sau vinde terenuri în zona Buagärde. Aceasta a fost o sesiune informativă în care experți din cadrul departamentului tehnic al municipalității au explicat planurile pentru aceste terenuri.</p><p>În ceea ce privește planurile de construcție din Nyhem, pe proprietatea Flässjum 2:59, consiliul local a luat o decizie. Acesta a respins o propunere din partea comitetului de lucru, menținând astfel decizia sa anterioară din mai 2024. Aceasta înseamnă că planurile inițiale pentru construirea de locuințe, birouri și spații comerciale în zonă rămân neschimbate.</p><p>Unii dintre reprezentanții politici din partidele FR, C și SD nu au fost de acord cu decizia luată în cazul Nyhem și au depus o obiecție, ceea ce înseamnă că au înregistrat oficial faptul că au o opinie diferită.</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "b_bygg": 1,
-    "b_fastighet": 2,
-    "lokaler": 1,
-    "mark_bygglov": 1,
-    "kvinna": 1,
-    "lontagare": 1,
-    "bygger": 1
+    "kvinna": 3,
+    "man": 3,
+    "lontagare": 3,
+    "offentliganstalld": 4,
+    "bostadsagare": 3,
+    "bygger": 4,
+    "mark_bygglov": 6,
+    "b_fastighet": 5,
+    "f_kommun": 6,
+    "fortroendevald": 5,
+    "arbetsgivare": 3,
+    "avgifter": 3
   }
 }

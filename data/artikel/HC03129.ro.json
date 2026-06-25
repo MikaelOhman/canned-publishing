@@ -12,8 +12,11 @@
   "tldr": "Guvernul dorește să introducă o nouă infracțiune pentru a opri vânzarea de bunuri furate în afara țării. De asemenea, intenționează să ofere Autorității Vamale mai multe puteri pentru a investiga și a gestiona bunurile ilegale.",
   "lattlast": "<p>Guvernul propune introducerea unei noi infracțiuni, care va viza persoanele care ajută la transportul bunurilor furate în afara țării. Această infracțiune se numește &quot;trafic internațional de bunuri furate&quot;. Persoanele care comit infracțiuni grave pot primi o pedeapsă cu închisoarea de până la șase ani. De asemenea, tentativa de a comite această infracțiune va fi considerată ilegală.</p><p>Propunerea implică, de asemenea, o creștere a responsabilităților Vamii, adică a autorității care controlează mărfurile la frontieră. Aceasta va putea sprijini procurorii în investigații și va avea mai multe puteri pentru a preveni infracțiunile. Funcționarii vamali vor putea iniția investigații într-un mod similar cu cel al poliției.</p><p>Există, de asemenea, propuneri prin care autoritățile care lucrează împotriva criminalității să poată păstra bunurile confiscate pentru a le utiliza în scopuri de instruire sau pentru a analiza probele. Dacă bunurile confiscate sunt periculoase sau dificil de depozitat, acestea pot fi distruse mai rapid decât în prezent.</p><p>Guvernul dorește, de asemenea, să modifice regulile privind pedepsele pentru contrabanda de droguri destinate revânzării. Majoritatea acestor noi reguli sunt prevăzute să intre în vigoare în septembrie 2025, dar o modificare minoră într-o lege referitoare la mărfurile supuse taxelor va intra în vigoare deja pe 1 iulie 2025.</p>",
   "relevans": {
-    "import": 1,
-    "beroende": 1,
-    "otrygg": 2
+    "b_transport": 4,
+    "b_handel": 4,
+    "otrygg": 5,
+    "brottsoffer": 4,
+    "export": 3,
+    "import": 3
   }
 }

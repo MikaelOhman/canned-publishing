@@ -12,7 +12,10 @@
   "tldr": "The deadline for certain information that healthcare providers are required to submit to the national medication registry when issuing electronic prescriptions (specifically, the reason for the prescription and when the treatment should be reviewed or discontinued) has been postponed.  Originally scheduled for December 2025, the new deadline is September 2028. This provides healthcare providers with more time to securely implement the necessary systems.",
   "lattlast": "<p>The national medication list is a registry that records the medications a patient has been prescribed. When doctors write electronic prescriptions, they are required to provide certain information to this list.</p><p>The government proposes postponing the requirement to provide two of these pieces of information – the reason for the prescription and the date by which the treatment should be reviewed or discontinued – for several years, from December 1, 2025, to September 1, 2028.</p><p>The purpose of this postponement is to give healthcare providers more time to connect to the list in a way that is both efficient and ensures patient safety.</p>",
   "relevans": {
-    "b_life": 3,
-    "kronisk": 3
+    "kronisk": 6,
+    "b_vard": 6,
+    "b_life": 4,
+    "offentliganstalld": 4,
+    "digitalisering": 3
   }
 }

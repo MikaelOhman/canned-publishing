@@ -13,14 +13,17 @@
   "tldr": "Politicienii din comuna Gävle au avut o ședință pe 30 martie 2026 pentru a lua decizii privind diverse aspecte, printre care energia eoliană, școlile și finanțele. De asemenea, au primit mai multe propuneri, numite \"moțiuni\", care acoperă o gamă largă de subiecte, de la energia solară până la parcuri.",
   "lattlast": "<p>În comuna Gävle, consiliul municipal, care este cel mai înalt organism decizional al comunei, a discutat mai multe probleme importante. Printre deciziile majore se numără aspecte legate de parcurile eoliene din Hamrånge și Gävle Norra, precum și modul în care comuna își va utiliza banii pentru diverse investiții în 2025.</p><p>Politicienii au stabilit, de asemenea, reguli privind transportul elevilor către școli și călătoriile acestora. Există, de asemenea, planuri de a lucra la proiecte pentru gestionarea apei pluviale și a ploilor abundente, numite &quot;inundații&quot;, în Gävson. În plus, s-a discutat despre modul în care comuna poate deveni mai prietenoasă pentru persoanele în vârstă.</p><p>Au fost prezentate mai multe propuneri de către diferite partide politice. Partidul de Stânga a propus mai multă energie solară, parcuri comestibile și investiții în activități în aer liber. Partidul Democrați Suedezi a prezentat propuneri privind locuri de parcare pentru autorulote în Hemlingby, reguli muzicale în centrele de activități pentru tineri și alocarea a mai multor fonduri pentru artă în cadrul investițiilor.</p><p>Întâlnirea a avut, de asemenea, ca scop stabilirea regulilor privind modul în care vor fi gestionate activitățile comunei și modul în care se va sprijini economia locală printr-o așa-zisă &quot;garanție de servicii&quot;. S-au analizat, de asemenea, regulile privind serviciile de sănătate ocupațională și ajutoarele pentru persoane.</p>",
   "relevans": {
-    "b_energi": 1,
-    "b_kultur": 1,
-    "finansiering": 1,
-    "barn": 2,
-    "ung": 1,
-    "bil": 1,
-    "friluftsliv": 1,
-    "idrott": 1,
-    "kultur": 1
+    "f_kommun": 6,
+    "barn": 5,
+    "glesbygd": 4,
+    "klimat": 4,
+    "energikund": 4,
+    "b_energi": 5,
+    "idrott": 3,
+    "friluftsliv": 4,
+    "pendlare": 4,
+    "fortroendevald": 5,
+    "offentliganstalld": 4,
+    "mark_bygglov": 3
   }
 }

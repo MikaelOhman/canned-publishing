@@ -15,9 +15,15 @@
   ],
   "html": "<p>I propositionen föreslås att fastighetsskatten på vindkraftverk ska höjas från 0,2 till 0,5 procent av taxeringsvärdet. Fastighetsskatt ska betalas bl.a. för sådana fastigheter som vid fastighetstaxeringen betecknas som elproduktionsenheter. För elproduktionsenheter som utgörs av taxeringsenhet med vindkraftverk är fastighetsskatten 0,2 procent av taxeringsvärdet. För övriga elproduktionsenheter är fastighetsskatten 0,5 procent av taxeringsvärdet. Förslaget innebär att skattesatsen blir enhetlig för samtliga elproduktionsenheter.</p><p>Lagändringen föreslås träda i kraft den 1 januari 2026.</p>",
   "relevans": {
-    "b_fastighet": 3,
-    "b_energi": 3,
-    "bostadsagare": 3,
-    "energikund": 1
+    "b_energi": 10,
+    "energiintensiv": 7,
+    "energikund": 6,
+    "gron_omstallning": 6,
+    "b_industri": 5,
+    "storforetag": 6,
+    "aktiebolag": 5,
+    "f_landsbygd": 5,
+    "glesbygd": 4,
+    "klimat": 5
   }
 }

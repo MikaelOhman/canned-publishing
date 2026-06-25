@@ -13,9 +13,13 @@
   "tldr": "Europejski Bank Centralny (EBC) informuje, że kraje dążące do przyjęcia euro mają trudności z osiągnięciem celów. Wojna i niepewność na świecie powodują, że gospodarka tych krajów nie rozwija się w takim samym tempie, jak gospodarka krajów, które już korzystają z euro.",
   "lattlast": "<p>Europejski Bank Centralny (EBC) przeprowadził badania, aby ocenić, jak blisko niektóre kraje UE są do wprowadzenia euro jako swojej waluty. Wyniki pokazują, że postępy są niewielkie. Wynika to głównie z trudności związanych z sytuacją międzynarodową, takich jak wojna w Ukrainie i konflikt na Bliskim Wschodzie, które podniosły ceny energii i wywołały niepokój o przyszłość.</p><p>Analizując ceny i inflację, czyli to, jak bardzo drożeją produkty, Rumunia, Węgry i Polska miały trudności z utrzymaniem cen na odpowiednim poziomie. W Szwecji i Czechach wzrost cen był natomiast niższy niż dopuszczalne wartości. Oznacza to, że ceny w tych trzech krajach wzrosły zbyt szybko w porównaniu z krajami, które już przyjęły euro.</p><p>Istnieją również problemy z gospodarką i zadłużeniem w niektórych krajach. W Węgrach, Polsce i Rumunii deficyt budżetowy, czyli sytuacja, w której wydatki są wyższe niż dochody, jest zbyt wysoki. W związku z tym Unia Europejska uruchomiła procedurę nadmiernego deficytu, która jest rodzajem ostrzeżenia, nakazującego tym krajom zmniejszenie deficytu w celu ustabilizowania gospodarki.</p><p>Podsumowując, raport wskazuje, że żaden z pięciu badanych krajów nie spełnia wszystkich wymogów niezbędnych do wprowadzenia euro. Chodzi nie tylko o kwestie finansowe, ale także o zgodność prawa krajowego z przepisami UE. Raport podkreśla również, że kraje takie jak Węgry i Rumunia muszą poprawić funkcjonowanie swoich instytucji i prawa, aby stworzyć stabilną gospodarkę.</p>",
   "relevans": {
-    "b_energi": 1,
-    "lantagare": 1,
-    "energikund": 1,
-    "konsument": 2
+    "sparare": 4,
+    "pensionssparare": 3,
+    "b_finans": 4,
+    "export": 3,
+    "storforetag": 3,
+    "eu_marknad": 4,
+    "energikund": 3,
+    "konsument": 3
   }
 }

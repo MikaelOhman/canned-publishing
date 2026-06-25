@@ -13,11 +13,16 @@
   "tldr": "Die Gemeinde Örebro hat Anfang 2026 eine angespannte wirtschaftliche Situation und erwartet erhebliche Defizite. Der Gemeinderat hat daher beschlossen, Maßnahmen zu ergreifen, um Geld zu sparen und den Haushalt zu stabilisieren.",
   "lattlast": "<p>Die Gemeinde Örebro hat einen Bericht erhalten, der die wirtschaftliche Lage für die ersten vier Monate des Jahres 2026 darstellt. Der Bericht zeigt, dass die Gemeinde deutlich weniger Geld zur Verfügung haben wird als ursprünglich geplant. Das erwartete Jahresergebnis beträgt 242 Millionen Kronen, was weit unter dem Ziel von 478 Millionen Kronen liegt.</p><p>Das größte Problem ist, dass die finanziellen Defizite hauptsächlich im Bereich der Finanzverwaltung der Gemeinde auftreten. Das bedeutet, dass die Kosten für die Verwaltung von Geld und Krediten höher sind als erwartet. Auch die großen Investitionen in der Gemeinde, wie geplante Bauprojekte, werden voraussichtlich deutlich günstiger sein als ursprünglich angenommen.</p><p>Die Bereiche der Gemeinde, die die größten wirtschaftlichen Probleme haben, sind Bildung, Gesundheits- und Pflegebereich sowie der Sozialdienst. Aufgrund der erheblichen finanziellen Defizite ist es schwierig, im Laufe dieses Jahres eine vollständig ausgeglichene Wirtschaft zu erreichen. Es kann erforderlich sein, dass die Gemeinde ihre Prioritäten neu ordnet oder ihre Pläne ändert, um die Situation zu bewältigen.</p><p>Um die Situation zu verbessern, hat der Gemeinderat verschiedene Sparmaßnahmen beschlossen und die Arbeitsweise effizienter gestalten wollen. Ziel dieser Maßnahmen ist es, die wirtschaftliche Stabilität der Gemeinde wiederherzustellen. Die Mitglieder des Gemeinderats werden diese Maßnahmen im Laufe des Jahres überprüfen, um festzustellen, ob sie die gewünschte Wirkung erzielen.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_vard": 1,
-    "b_finans": 1,
-    "finansiering": 1,
-    "barn": 1,
-    "kronisk": 1
+    "f_kommun": 5,
+    "barn": 4,
+    "lontagare": 3,
+    "offentliganstalld": 5,
+    "pensionar": 3,
+    "kronisk": 4,
+    "funktion": 3,
+    "b_vard": 4,
+    "b_utbildning": 4,
+    "hyresgast": 3,
+    "bostadsagare": 3
   }
 }

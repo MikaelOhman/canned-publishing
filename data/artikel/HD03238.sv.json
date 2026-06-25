@@ -12,7 +12,16 @@
   "tldr": "Regeringen planerar att starta en ny myndighet som ska sköta miljöprövningar från och med den 1 juli 2027. Den nya myndigheten ska ta över de uppgifter som idag sköts av länsstyrelserna.",
   "lattlast": "<p>Regeringen har gett en person i uppdrag att förbereda skapandet av en ny myndighet. Denna myndighet ska ansvara för miljöprövning, vilket betyder att de ska kontrollera att olika projekt och verksamheter följer miljölagarna. Planen är att den nya myndigheten ska börja arbeta den 1 juli 2027.</p><p>Idag är det länsstyrelsernas miljöprövningsdelegationer som gör dessa kontroller. Det betyder att de lokala myndigheterna i varje län har ansvaret för att pröva miljöfrågor. Den nya myndigheten ska ta över allt detta arbete från länsstyrelserna.</p><p>För att detta ska kunna hända måste riksdagen ändra i flera lagar, bland annat i miljöbalken. Miljöbalken är den lag som innehåller de viktigaste reglerna för hur vi ska skydda naturen och miljön i Sverige. Regeringen har skickat ett förslag till riksdagen för att få dessa ändringar godkända.</p><p>En del av de nya reglerna föreslås börja gälla redan den 1 september 2026. De övriga ändringarna i lagarna ska börja gälla samtidigt som den nya myndigheten startar, det vill säga den 1 juli 2027.</p>",
   "relevans": {
-    "miljo": 1,
-    "klimat": 3
+    "b_industri": 6,
+    "b_bygg": 5,
+    "b_grona": 6,
+    "b_energi": 5,
+    "miljo": 8,
+    "mark_bygglov": 5,
+    "tillstand": 7,
+    "regelborda": 5,
+    "gron_omstallning": 4,
+    "klimat": 5,
+    "friluftsliv": 3
   }
 }

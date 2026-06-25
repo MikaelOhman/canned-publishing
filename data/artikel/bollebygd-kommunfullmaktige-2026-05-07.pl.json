@@ -13,13 +13,22 @@
   "tldr": "W gminie Bollebygd politycy debatowali nad nowymi propozycjami, obejmującymi szeroki zakres tematów, od siłowni na świeżym powietrzu i terenów rekreacyjnych, po budowę nowego budynku administracyjnego gminy. Podjęto również decyzje dotyczące zmian w opłatach za odpady i pozwolenia na budowę.",
   "lattlast": "<p>Podczas posiedzenia rady gminy, które odbyło się 7 maja 2026 roku, rozważono szereg propozycji zgłoszonych przez mieszkańców i polityków. Propozycje obejmują budowę siłowni na świeżym powietrzu w pobliżu oświetlenia w Rinna, stworzenie nowego terenu rekreacyjnego w Varpå oraz rozwój rynku w Bollebygd. Rozważano również możliwość wykorzystania prywatnych studni w przypadku uszkodzenia źródeł wody komunalnej.</p><p>Politycy debatowali również nad kwestiami związanymi z budynkami i opłatami. Dyskusje dotyczyły budowy nowego budynku gminy oraz kosztów uzyskania pozwolenia na budowę. Ponadto analizowano przepisy dotyczące zbiórki odpadów przy domach oraz wysokość opłaty za wywóz śmieci.</p><p>Dla niektórych partii politycznych ustalono wysokość dotacji partyjnych na rok 202kommit. Dotacje partyjne to środki finansowe, które gmina przekazuje partiom politycznym, aby umożliwić im realizację swoich programów. Dotyczyło to partii Liberali, Szwedzkich Demokratów, Socjaldemokratów i Lewicy.</p><p>Na koniec, gmina przeanalizowała sytuację finansową i działalność za miniony rok. Przeprowadzono audyt sprawozdań finansowych i sprawdzono, czy poszczególne komisje, odpowiedzialne na przykład za szkoły i technologię, wykonywały swoje obowiązki zgodnie z przepisami.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "redovisning": 1,
-    "miljo": 1,
-    "mark_bygglov": 1,
-    "barn": 1,
-    "bygger": 1,
-    "konsument": 1,
-    "fortroendevald": 1
+    "f_kommun": 5,
+    "mark_bygglov": 4,
+    "b_fastighet": 3,
+    "b_bygg": 3,
+    "lokaler": 3,
+    "friluftsliv": 4,
+    "pensionar": 4,
+    "idrott": 3,
+    "pendlare": 3,
+    "bil": 3,
+    "kollektiv": 3,
+    "fortroendevald": 6,
+    "offentliganstalld": 3,
+    "glesbygd": 3,
+    "mindre_ort": 4,
+    "bygger": 3,
+    "klimat": 3
   }
 }

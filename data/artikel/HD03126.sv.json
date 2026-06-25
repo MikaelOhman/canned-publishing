@@ -12,7 +12,12 @@
   "tldr": "Polisen och andra myndigheter ska få rätt att hämta information från företag som erbjuder digitala ID-handlingar. Detta görs för att lättare kunna bekämpa brott som rör banktjänster och kryptovalutor.",
   "lattlast": "<p>Regeringen har lagt fram ett förslag som gör det lättare för myndigheter som arbetar mot brott att få information. Idag har banker och finansiella företag en skyldighet att lämna ut uppgifter om kunder vid brottsutredningar, även om de har tystnadsplikt. Nu vill man att även de företag som tillhandahåller e-legitimationer, alltså digitala ID-handlingar, ska ha samma skyldighet att lämna ut information.</p><p>Detta gäller särskilt när e-legitimationen används för att logga in på banktjänster eller för att godkänna betalningar. Genom ändringen kan polisen och andra myndigheter vända sig direkt till e-legitimationsföretagen för att se hur en person har använt sin digitala legitimation mot finansiella företag. Syftet är att kunna spåra och stoppa brottslighet mer effektivt.</p><p>Förslaget innebär också att regler kring kryptovalutor och andra kryptorelaterade tjänster ändras. Företag som arbetar med kryptotillgångar ska nu även kunna bli skyldiga att lämna ut information till myndigheternas underrättelseverksamhet. Detta är en del av arbetet med att kontrollera och övervaka den digitala ekonomin.</p><p>Om riksdagen röstar ja till förslaget kommer de nya reglerna att börja gälla den 1 maj 2026. Förslaget innebär ändringar i flera olika lagar som rör bland annat internationell rättslig hjälp och regler för betalningar och kryptomarknader.</p>",
   "relevans": {
-    "b_finans": 2,
-    "otrygg": 2
+    "b_finans": 7,
+    "b_it": 5,
+    "gdpr": 6,
+    "integritet": 7,
+    "sparare": 3,
+    "lantagare": 3,
+    "aktiebolag": 3
   }
 }

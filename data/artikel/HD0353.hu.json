@@ -12,9 +12,12 @@
   "tldr": "2026 márciusától kezdődően könnyebb lesz a munkavállalóknak tesztelni a munkát betegség esetén. Azok a személyek, akik teljes betegellátást kapnak, lehetőséget kapnak arra, hogy kipróbálják a munkát a munkáltatójuknál anélkül, hogy elveszítenék a Svéd Biztosítóintézet (Försäkringskassan) által nyújtott támogatást.",
   "lattlast": "<p>A kormány egy javaslatot terjesztett elő, amely módosítja a szociális biztosítás törvényét, amely a betegellátás szabályait határozza meg. A cél az, hogy segítsék a betegek visszatérését a munkába, lehetővé téve számukra, hogy rövid időn keresztül teszteljék a munkaképességüket.</p><p>Az új rendszer a &quot;munkakörülmények tesztelése&quot; néven ismert. Ez azt jelenti, hogy egy olyan személy, aki jogosult a teljes betegellátásra, rövid időszakon keresztül dolgozhat a munkáltatójánál. Ezek alatt a időszakok alatt a személy továbbra is megőrizheti a betegellátását, így nem veszti el a megélhetését a munkát tesztelve.</p><p>A munkakörülmények tesztelése két különböző időszak alatt zajlik, összesen 365 napig. Minden időszak legfeljebb 14 napig tart. A két időszak között legalább 30 napnak eltelnie kell. Ahhoz, hogy ez alkalmazható legyen, mind a munkavállalónak, mind a munkáltatóknak alá kell írniuk egy nyomtatványt a &quot;Försäkringskassan&quot; (Szociális Biztosító Intézet) számára, legkésőbb a tesztidőszak kezdete előtt 14 nappal.</p><p>A javaslat várhatóan 2026. március 1-jén lép érvénybe. Amikor a &quot;Försäkringskassan&quot; később felméri, hogy egy személy mennyit képes dolgozni, figyelembe veszi azokat az eredményeket is, amelyek a munkakörülmények tesztelése során elérték.</p>",
   "relevans": {
-    "arbetsgivare": 2,
-    "b_finans": 1,
-    "sjuklon": 3,
-    "sjukskriven": 3
+    "sjukskriven": 10,
+    "lontagare": 6,
+    "kronisk": 6,
+    "arbetsgivare": 5,
+    "sjuklon": 7,
+    "arbetsratt": 5,
+    "psykisk": 4
   }
 }

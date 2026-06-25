@@ -12,9 +12,17 @@
   "tldr": "Der neue Vorschlag sieht vor, dass die Kosten für Medikamente, die unter das Höchstkostendach fallen, steigen. Der maximale Betrag, den Sie innerhalb eines Jahres zahlen müssen, wird ab Juli 2025 von 2.900 Kronen auf 3.800 Kronen erhöht.",
   "lattlast": "<p>Die Regierung hat einen Vorschlag vorgelegt, die Regeln für den Selbstbeteiligungsabschlag bei Medikamenten zu ändern. Der Selbstbeteiligungsabschlag ist ein System, das sicherstellt, dass Sie nicht übermäßig viel für Ihre Medikamente innerhalb eines Jahres ausgeben müssen. Derzeit wird vorgeschlagen, die Obergrenze für die Ausgaben um 900 schwedische Kronen zu erhöhen.</p><p>Der Vorschlag beinhaltet auch Änderungen an den Preisen in der sogenannten Selbstbeteiligungsskala. Diese Skala bestimmt, welchen Rabatt Sie auf Ihre Medikamente erhalten, abhängig davon, wie viel Sie bereits im Laufe des Jahres gekauft haben. Der erste Schritt in der Skala wird geändert, sodass Sie 75 Prozent der Kosten selbst tragen müssen, anstatt bisher 50 Prozent.</p><p>Ziel dieser Änderung ist es, sicherzustellen, dass genügend Mittel vorhanden sind, um zukünftig alle Medikamente zu finanzieren. Für diejenigen, die Medikamente einnehmen, bedeutet dies, dass die Gesamtkosten für alle Patienten in Schweden in den kommenden Jahren voraussichtlich um mehrere Milliarden schwedische Kronen steigen werden.</p><p>Wenn der Vorschlag angenommen wird, treten die neuen Regeln am 1. Juli 2025 in Kraft. Wenn Sie Ihren Zeitraum für den Selbstbeteiligungsabschlag vor diesem Datum begonnen haben, gelten die alten, niedrigeren Preise, bis Ihr Zeitraum endet.</p>",
   "relevans": {
-    "b_life": 3,
-    "kronisk": 3,
-    "beroende": 1,
-    "konsument": 1
+    "kronisk": 9,
+    "pensionar": 7,
+    "funktion": 7,
+    "psykisk": 6,
+    "sjukskriven": 6,
+    "anhorigvardare": 5,
+    "barn": 5,
+    "ensam_foralder": 5,
+    "konsument": 5,
+    "b_vard": 5,
+    "b_life": 5,
+    "b_finans": 3
   }
 }

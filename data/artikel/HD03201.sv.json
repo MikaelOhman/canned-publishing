@@ -12,9 +12,15 @@
   "tldr": "Regeringen vill ändra reglerna för försörjningsstöd för att få fler i arbete. De föreslår ett tak för hur mycket pengar man kan få i bidrag och hårdare krav för att få stöd vid sjukdom.",
   "lattlast": "<p>Regeringen vill göra det mer lönsamt att börja jobba genom att införa ett bidragstak. Det betyder att man inte ska kunna få så mycket bidrag att det inte lönar sig att arbeta. De vill också ändra hur man räknar ut hur mycket pengar ett hushåll behöver för sina mest grundläggande behov.</p><p>För personer som är sjuka och inte kan arbeta kommer nya krav på läkarintyg. Socialnämnden, som är den myndighet i kommunen som ansvarar för ekonomiskt stöd, ska kunna kräva att sjuka personer deltar i program för att komma tillbaka till arbetslivet. Flera myndigheter ska också hjälpas åt att skapa en personlig plan för den som behöver stöd.</p><p>Det kommer också att bli svårare att få pengar för hyra om man hyr en bostad i andra hand. Man måste då kunna visa att det finns ett tillstånd eller ett godkännande för att hyra den bostaden. Dessutom föreslår regeringen att bara personer som har rätt att bo i Sverige lagligt ska kunna få ekonomiskt bistånd.</p><p>De nya reglerna om läkarintyg föreslås börja gälla den 1 juli 2026. De andra ändringarna i lagen förväntas börja gälla den 1 januari 2027.</p>",
   "relevans": {
-    "tillstand": 1,
-    "lontagare": 1,
-    "bidrag": 3,
-    "hyresgast": 1
+    "bidrag": 10,
+    "arbetssokande": 8,
+    "sjukskriven": 7,
+    "hyresgast": 6,
+    "ny_i_sverige": 6,
+    "ensam_foralder": 6,
+    "skuldsatt": 5,
+    "bostadslos": 5,
+    "f_kommun": 5,
+    "offentliganstalld": 4
   }
 }

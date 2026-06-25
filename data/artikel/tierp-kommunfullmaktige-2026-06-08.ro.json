@@ -13,10 +13,16 @@
   "tldr": "Consiliul municipal din Tierp a luat o serie de decizii cu privire la diverse aspecte, de la transport și educație până la planificarea urbană viitoare. Printre acestea se numără noi reguli privind taxele de parcare, măsurile de siguranță la stații și modul în care comuna se va dezvolta până în anul 2050.",
   "lattlast": "<p>În cadrul întâlnirii, au fost discutate aspecte importante pentru locuitorii din Tierp. Una dintre propuneri a fost instalarea de camere de supraveghere în zonele de biciclete de lângă gara Örbyhus, pentru a crește siguranța. De asemenea, s-a analizat posibilitatea de a oferi transport școlar și elevilor de liceu cu dizabilități.</p><p>În ceea ce privește aspectele economice și reglementările, municipalitatea a decis stabilirea unor noi taxe. Acestea includ costurile pentru utilizarea terenurilor municipale și taxa de parcare de la Trollsjön. De asemenea, a fost decis prețul la care municipalitatea va vinde terenuri în zona Siggbo Trädgårdsstad.</p><p>Pentru viitor, municipalitatea a adoptat un plan general pentru anul 2050. Acesta este un plan pe termen lung, care prezintă modul în care municipalitatea va fi utilizată și dezvoltată în deceniile următoare. De asemenea, au fost stabilite reguli privind comportamentul politicienilor, pentru a preveni corupția și alte practici incorecte.</p><p>În final, au fost luate decizii privind colaborările și organizarea. Acestea includ un parteneriat cu municipalitatea Heby, pentru a achiziționa împreună bunuri și servicii într-un mod mai eficient, precum și noi reguli privind modul în care diferite comitete din municipalitate vor funcționa.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "barn": 1,
-    "storstad": 1,
-    "bil": 1,
-    "konsument": 1
+    "f_kommun": 6,
+    "mark_bygglov": 5,
+    "bil": 4,
+    "pendlare": 5,
+    "funktion": 5,
+    "barn": 4,
+    "gymnasieelev": 4,
+    "bostadsagare": 4,
+    "glesbygd": 4,
+    "fortroendevald": 5,
+    "upphandling": 3
   }
 }

@@ -16,13 +16,14 @@
   "tldr": "This meeting protocol from the meeting held in the municipality of Hylte on June 2, 2026, outlines several planned investments and changes within the municipality's operations, including those related to schools and facilities.",
   "lattlast": "<p>At the meeting, several important financial decisions were discussed. These included investments in a wastewater treatment facility, and plans for renovating or utilizing spaces in the Forum and Centrumhuset buildings. There was also a discussion about how funds will be transferred from the fire department to the municipal council.</p><p>Regarding schools and childcare, there was information presented about the completed report for the renovation of the Sörgården preschool. Discussions also took place about the future use of facilities at Rydö school, including a gymnasium and changing rooms.</p><p>There were also questions about how transportation services will be managed in the future, and about terminating an agreement regarding the handling of certain tasks within transportation services and national transportation services. Several proposals, referred to as motions, were also discussed, such as proposals to increase the visibility of politicians in schools and to conduct background checks for new hires.</p><p>Finally, the auditors, who are responsible for overseeing the municipality&#x27;s finances, announced that they will be auditing the municipality&#x27;s operations in October 2026.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_vard": 1,
-    "b_konsult": 1,
-    "finansiering": 1,
-    "lokaler": 1,
-    "barn": 2,
-    "funktion": 1,
-    "idrott": 1
+    "f_kommun": 6,
+    "mark_bygglov": 4,
+    "barn": 4,
+    "funktion": 4,
+    "pendlare": 4,
+    "glesbygd": 4,
+    "fortroendevald": 5,
+    "offentliganstalld": 4,
+    "kompetens": 3
   }
 }

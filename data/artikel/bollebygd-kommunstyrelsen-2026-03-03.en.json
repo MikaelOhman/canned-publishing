@@ -13,13 +13,17 @@
   "tldr": "The municipal council of Bollebygd has provided information regarding salary surveys and land sales, and has decided not to alter previous decisions concerning a detailed development plan in Nyhem.",
   "lattlast": "<p>At the municipal board meeting on March 3, 2026, politicians received information about how the municipality is working to ensure fair wages between men and women. This work, called salary mapping, is conducted annually to identify and correct any differences in pay based on gender.</p><p>The possibility of exchanging or selling land in the Buagärde area was also discussed. This was an informational meeting where experts from the municipality&#x27;s technical department explained the plans for the land.</p><p>Regarding building plans in Nyhem, on property Flässjum 2:59, the municipal board made a decision. They rejected a proposal from the working committee and therefore maintained their previous decision from May 2024. This means that the previous plans to build housing, offices, and retail in the area remain unchanged.</p><p>Some political representatives from the parties FR, C, and SD disagreed with the decision regarding Nyhem and have therefore submitted a dissenting opinion, meaning they have written down that they hold a different view.</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "b_bygg": 1,
-    "b_fastighet": 2,
-    "lokaler": 1,
-    "mark_bygglov": 1,
-    "kvinna": 1,
-    "lontagare": 1,
-    "bygger": 1
+    "kvinna": 3,
+    "man": 3,
+    "lontagare": 3,
+    "offentliganstalld": 4,
+    "bostadsagare": 3,
+    "bygger": 4,
+    "mark_bygglov": 6,
+    "b_fastighet": 5,
+    "f_kommun": 6,
+    "fortroendevald": 5,
+    "arbetsgivare": 3,
+    "avgifter": 3
   }
 }

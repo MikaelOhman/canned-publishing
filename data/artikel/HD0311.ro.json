@@ -12,10 +12,11 @@
   "tldr": "Guvernul dorește să interzică jocurile de noroc care sunt plătite cu bani împrumutați sau cu cardul de credit. Scopul este de a preveni ca oamenii să se îndatoreze excesiv din cauza jocurilor de noroc.",
   "lattlast": "<p>Guvernul a prezentat o propunere de modificare a legii privind jocurile de noroc. Noua propunere prevede că cei care au autorizație să opereze jocuri de noroc sau să le vândă, numiți &quot;licențiati&quot; și &quot;agenți de jocuri de noroc&quot;, nu au voie să permită clienților să joace cu bani pe care i-au împrumutat.</p><p>Cei care oferă jocuri de noroc trebuie, de asemenea, să facă tot posibilul pentru a se asigura că nimeni nu folosește credite atunci când joacă. Această regulă se aplică tuturor tipurilor de jocuri de noroc legale în Suedia, indiferent dacă se joacă online sau într-un loc fizic.</p><p>Există posibilitatea de a obține o excepție de la această regulă, dar numai dacă autoritatea &quot;Spelinspektionen&quot; o aprobă. &quot;Spelinspektionen&quot; este autoritatea care supraveghează respectarea regulilor privind jocurile de noroc în Suedia.</p><p>Dacă Parlamentul votează în favoarea propunerii, noile reguli vor intra în vigoare începând cu 1 aprilie 2026.</p>",
   "relevans": {
-    "b_finans": 3,
-    "tillstand": 2,
-    "infrastruktur": 1,
-    "lantagare": 1,
-    "batagare": 1
+    "beroende": 8,
+    "skuldsatt": 7,
+    "bidrag": 4,
+    "ung_vuxen": 4,
+    "konsument": 5,
+    "b_it": 3
   }
 }

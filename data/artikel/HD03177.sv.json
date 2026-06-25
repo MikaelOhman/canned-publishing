@@ -12,11 +12,11 @@
   "tldr": "Regeringen vill göra det enklare för myndigheter att kontrollera företag som vill sälja tjänster till stat och kommun. Syftet är att snabbt se om ett företag har brottslig bakgrund, obetalda skatter eller stora ekonomiska problem.",
   "lattlast": "<p>Regeringen föreslår nya regler som gör det lättare att kontrollera företag som deltar i upphandlingar. En upphandling är när myndigheter köper tjänster eller varor från privata företag. Det nya systemet ska göra det möjligt att samordna kontroller så att man ser om ett företag har skäl att uteslutas från att få jobb.</p><p>Kontrollen ska kunna visa om ett företag har begått brott, inte betalat sina skatter eller sina avgifter till socialförsäkringen. Man ska även kunna se om företaget har stora ekonomiska problem, till exempel om de har gått i konkurs. Detta ska kunna göras både när man väljer vem som ska få jobbet och när man kontrollerar pågående avtal.</p><p>Förslaget innebär också att reglerna ska bli likadana för olika typer av system. Det gäller både vanliga upphandlingar och så kallade valfrihetssystem, vilket är när privata aktörer får erbjuda tjänster inom exempelvis vård och omsorg. Målet är att reglerna för när ett företag ska stoppas ska vara desamma oavsett vilken typ av tjänst det gäller.</p><p>Om förslaget går igenom i riksdagen börjar de nya reglerna gälla den 1 juli 2026. Förslaget innehåller även regler om hur personuppgifter får hanteras och hur sekretess ska fungera vid dessa kontroller.</p>",
   "relevans": {
-    "b_vard": 1,
-    "konkurs": 1,
-    "gdpr": 1,
-    "kronisk": 1,
-    "konsument": 1,
-    "integritet": 1
+    "upphandling": 9,
+    "smaforetag": 6,
+    "aktiebolag": 5,
+    "konkurs": 5,
+    "regelborda": 5,
+    "gdpr": 4
   }
 }

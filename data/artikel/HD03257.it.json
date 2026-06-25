@@ -12,8 +12,12 @@
   "tldr": "I partire dal 2027, i comuni che si occupano di questioni catastali dovranno utilizzare lo stesso sistema digitale dell'agenzia governativa Lantmäteriet. Questo viene fatto per garantire che la tecnologia sia compatibile tra i comuni e lo stato.",
   "lattlast": "<p>Il governo ha presentato una proposta per modificare le normative relative agli uffici catastali comunali. Un ufficio catastale comunale è la sezione di un comune che si occupa di questioni riguardanti il territorio e i confini. A partire dal 1° gennaio 2027, questi uffici comunali saranno tenuti a utilizzare lo stesso sistema digitale per gestire le loro pratiche che utilizza l&#x27;ente statale &quot;Lantmäteriet&quot;.</p><p>L&#x27;obiettivo di questa modifica è garantire che gli strumenti e i sistemi di supporto per l&#x27;elaborazione delle pratiche siano uniformi. Si tratta di consentire la condivisione di informazioni in modo semplice e sicuro tra i comuni e lo Stato. Se un comune non utilizza i sistemi corretti, il governo può revocare l&#x27;autorizzazione a gestire l&#x27;attività catastale.</p><p>Il governo o un ente designato dal governo potranno stabilire le regole per l&#x27;utilizzo di questi sistemi tecnologici. Potranno inoltre decidere se l&#x27;utilizzo dei sistemi comporterà dei costi attraverso diverse tariffe.</p><p>La proposta implica che i requisiti necessari per dimostrare che un comune può avviare un proprio ufficio catastale saranno più chiari. Questi requisiti includono, tra l&#x27;altro, la presenza di personale qualificato, una struttura organizzativa adeguata e la funzionalità della tecnologia per lo scambio di informazioni tra lo Stato e il comune.</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "tillstand": 1,
-    "konsument": 1
+    "f_kommun": 5,
+    "mark_bygglov": 6,
+    "bostadsagare": 3,
+    "bygger": 4,
+    "b_fastighet": 6,
+    "digitalisering": 4,
+    "offentliganstalld": 4
   }
 }

@@ -12,10 +12,11 @@
   "tldr": "Rząd zamierza zakazać gier hazardowych, w których stawki są płacone z kredytów lub pożyczek. Celem jest zapobieganie sytuacjom, w których ludzie popadają w poważne długi z powodu hazardu.",
   "lattlast": "<p>Rząd przedstawił propozycję zmiany przepisów dotyczących gier hazardowych. Nowa propozycja przewiduje, że podmioty posiadające licencję na prowadzenie gier lub sprzedaż, zwane licencjobiorcami i agentami hazardowymi, nie mogą zezwalać klientom na grę za pieniądze, które pożyczyli.</p><p>Podmioty oferujące gry hazardowe muszą również dołożyć wszelkich starań, aby upewnić się, że nikt nie korzysta z kredytów podczas gry. Dotyczy to wszystkich rodzajów legalnych gier w Szwecji, niezależnie od tego, czy grasz online, czy w fizycznym miejscu.</p><p>Istnieje możliwość uzyskania wyjątku od tej zasady, ale wymaga to zgody urzędu Spelinspektionen. Spelinspektionen jest urzędem odpowiedzialnym za kontrolę przestrzegania przepisów dotyczących gier hazardowych w Szwecji.</p><p>Jeśli parlament zagłosuje za tą propozycją, nowe przepisy wступią w życie 1 kwietnia 2026 roku.</p>",
   "relevans": {
-    "b_finans": 3,
-    "tillstand": 2,
-    "infrastruktur": 1,
-    "lantagare": 1,
-    "batagare": 1
+    "beroende": 8,
+    "skuldsatt": 7,
+    "bidrag": 4,
+    "ung_vuxen": 4,
+    "konsument": 5,
+    "b_it": 3
   }
 }

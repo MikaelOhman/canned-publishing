@@ -13,11 +13,16 @@
   "tldr": "Kommunstyrelsen i Alingsås har gått igenom kommunens ekonomi för april 2026 och godkänt planer för bland annat nya ledningar och byggprojekt. Man har även svarat på flera förslag från politiker om allt från nya bostäder till stöd till föreningar.",
   "lattlast": "<p>Kommunstyrelsen har tittat på hur det går för Alingsås kommuns ekonomi. Det visar sig att kommunen förväntas få ett överskott på drygt 230 miljoner kronor under hela år 2026. Det beror bland annat på att det kostar mindre än väntat att driva förskolor eftersom det finns färre barn just nu.</p><p>När det gäller byggnader och vägar pågår flera viktiga arbeten. Man planerar nya ledningar för vatten och avlopp till Bjärke och har startat en tävling om mark i området Stadsskogen. Man har också beslutat att granska en plan för nya byggnader på Skolgatan i Sollebrunn.</p><p>Flera politiska förslag, så kallade motioner, har diskuterats. Det handlar om möjligheten att bygga fler bostäder genom att inreda vindar i kommunens hus, att ge mer stöd till föreningar som nattvandrar och att skapa fler laddstationer för de som cyklar. Man har även pratat om hur man kan stärka stödet till de ukrainska medborgarna som bor i kommunen.</p><p>Det kom även information om att kommunhuset håller på att flyttas till en ny lokal. Dessutom har man diskuterat hur man kan förbättra samtalet med de som sköter kollektivtrafiken i området.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "barn": 1,
-    "glesbygd": 1,
-    "pendlare": 1,
-    "kollektiv": 1,
-    "idrott": 1
+    "f_kommun": 5,
+    "mark_bygglov": 4,
+    "barn": 4,
+    "infrastruktur": 3,
+    "kollektiv": 4,
+    "ny_i_sverige": 3,
+    "b_fastighet": 3,
+    "bygger": 3,
+    "idrott": 3,
+    "volontar": 3,
+    "bil": 3
   }
 }

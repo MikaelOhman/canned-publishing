@@ -13,9 +13,10 @@
   "tldr": "Bollebygds kommun planerar att bygga om delar av kommunhuset för att skapa nya kontorslokaler. Man ska även söka lov för att riva en del av byggnaden på Göteborgsvägen 19.",
   "lattlast": "<p>Kommunstyrelsen har beslutat att gå vidare med det första steget i arbetet med kommunhuset. Planen är att skapa nya kontorslokaler som ska användas av de som arbetar med individ- och familjeomsorg. För att kunna göra detta ska kommunen nu ansöka om rivningslov för en del av byggnaden på Göteborgsvägen 19.</p><p>Tanken med ombyggnationen är att lösa problemet med att det saknas mötesrum i kommunen. Många av kommunens avdelningar har rapporterat att de behöver fler platser att träffas på. Det finns dock en utmaning med att den gamla byggnaden har en utformning som gör det svårt att skapa helt perfekta mötesrum.</p><p>Innan man kan bestämma exakt hur allt ska se ut har man gjort en teknisk undersökning och räknat på vad det kommer att kosta. Syftet med detta var att få ett bättre underlag för att se hur byggnaden bäst kan användas i framtiden.</p><p>Utöver frågor om kommunhuset har mötet även handlat om miljöfrågor och framtida planer för kommunen. Företaget Flügger AB fick till exempel berätta om hur deras verksamhet påverkar miljön och hur mycket de släpper ut.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_vard": 1,
-    "lokaler": 1,
-    "klimat": 1
+    "f_kommun": 4,
+    "lokaler": 4,
+    "mark_bygglov": 4,
+    "miljo": 3,
+    "offentliganstalld": 4
   }
 }

@@ -12,6 +12,12 @@
   "tldr": "Riksrevisionen har hittat stora brister i hur staten arbetar för att stoppa ekonomiskt våld i familjer. Regeringen ska nu arbeta med en ny plan för att förbättra skyddet och kunskapen om detta våld.",
   "lattlast": "<p>Riksrevisionen är en myndighet som granskar hur staten sköter sina uppgifter. De har undersökt om staten gör tillräckligt för att stoppa ekonomiskt våld, vilket är när en person använder pengar för att kontrollera eller skada en annan person i en nära relation. Rapporten visar att det finns stora problem och att staten inte har gjort tillräckligt för att lösa situationen.</p><p>Enligt rapporten har regeringen och andra myndigheter inte gjort tillräckligt för att motverka våldet. Det saknas också bra koll på hur stort problemet faktiskt är. Regeringen har inte heller kontrollerat tillräckligt om det behövs nya lagar för att stoppa våldet.</p><p>Regeringen säger att de tycker att granskningen är viktig för att de ska kunna förbättra sitt arbete. De arbetar redan med att stoppa olika former av våld, som våld mot kvinnor och människohandel. Ekonomiskt våld är en viktig del i det arbetet.</p><p>Nu ska regeringen skapa en långsiktig strategi, vilket betyder en långtidsplan, för att bekämpa alla typer av våld i nära relationer. De har redan börjat göra förändringar som de rekommenderas att göra efter den här rapporten.</p>",
   "relevans": {
-    "kvinna": 2
+    "kvinna": 6,
+    "sambo_gift": 5,
+    "skild": 7,
+    "ensam_foralder": 6,
+    "brottsoffer": 7,
+    "skuldsatt": 4,
+    "anhorigvardare": 3
   }
 }

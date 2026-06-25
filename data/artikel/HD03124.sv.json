@@ -12,11 +12,14 @@
   "tldr": "EU skapar en gemensam digital plats för att samla viktig information om ekonomi och miljö. Detta gör det lättare för alla att hitta fakta om företag och investeringar på ett och samma ställe.",
   "lattlast": "<p>EU planerar att starta en ny digital tjänst som kallas Esap. Det är en gemensam plats i Europa där man ska kunna hitta information om ekonomi, finansmarknaden och hur företag arbetar med hållbarhet. Syftet är att all viktig information ska finnas samlad på ett ställe så att den är lätt att hitta.</p><p>För att detta ska fungera måste svenska lagar ändras. Regeringen föreslår ändringar i många olika lagar, till exempel lagar om aktiebolag, bankverksamhet och försäkringar. Det innebär att företag får ett krav på sig att lämna in viss information så att den kan visas upp i den nya tjänsten. Det blir också möjligt för företag att frivilligt lägga till mer information som de vill dela med sig av.</p><p>Det är den europeiska myndigheten Esma som har ansvaret för att bygga och driva den här tjänsten. Den nya tjänsten ska vara klar och fungera senast den 10 juli 2027. Det är en stor förändring som påverkar många olika typer av företag och regler inom EU.</p><p>Införandet av de nya reglerna kommer att ske i tre olika steg. De första ändringarna föreslås börja gälla den 10 juli 2026. Därefter kommer nya regler på plats den 10 januari 2028 och sist den 10 januari 2030.</p>",
   "relevans": {
-    "aktiebolag": 1,
-    "b_bygg": 1,
-    "b_it": 1,
-    "b_finans": 3,
-    "finansiering": 1,
-    "klimat": 3
+    "aktiebolag": 7,
+    "storforetag": 7,
+    "smaforetag": 5,
+    "b_finans": 7,
+    "hallbarhetsrapport": 8,
+    "eu_marknad": 8,
+    "redovisning": 6,
+    "sparare": 5,
+    "pensionssparare": 4
   }
 }

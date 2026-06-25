@@ -12,9 +12,14 @@
   "tldr": "Regeringen vill ändra lagen för att göra det lättare att använda vattenkraft för att göra el i Sverige. Det kan innebära att man sänker kraven på hur mycket vattenkraftverk måste anpassas för att skydda naturen.",
   "lattlast": "<p>Regeringen har gjort ett förslag om att ändra miljöbalken, som är den lag som bestämmer hur vi ska skydda vår natur. Förslaget handlar om hur man ska balansera behovet av ren el från vattenkraft med behovet av att skydda djur och växter i vattnet.</p><p>Just nu finns det hårda regler för att skydda naturen, så kallade art- och habitatdirektiv. Regeringen vill att det ska bli lättare att göra undantag från dessa regler om det anses vara viktigt för hela landet. Det betyder att man vid en ny prövning av vattenkraftverk kan välja att ha lägre krav på miljöanpassning.</p><p>Förslaget innebär också att regeringen ska få mer makt att bestämma när man får göra undantag från förbud som skyddar vattenmiljön. Detta gäller både för gamla vattenkraftverk som ska se över sina tillstånd och för helt nya vattenkraftverk som ska byggas.</p><p>Om riksdagen röstar ja till förslaget kommer de nya reglerna att börja gälla den 1 juli 2026. Syftet är att se till att Sverige har en bra och säker tillgång till el från vattenkraft.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "tillstand": 1,
-    "miljo": 1,
-    "klimat": 1
+    "b_energi": 8,
+    "energiintensiv": 7,
+    "energikund": 5,
+    "gron_omstallning": 6,
+    "miljo": 6,
+    "klimat": 5,
+    "b_industri": 5,
+    "hallbarhetsrapport": 4,
+    "eu_marknad": 4
   }
 }

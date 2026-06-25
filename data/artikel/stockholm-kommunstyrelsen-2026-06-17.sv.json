@@ -15,11 +15,15 @@
   "tldr": "Kommunstyrelsen i Stockholm har svarat på frågor om bussterminalen i Slussen, hantering av personuppgifter och ändringar i kollektivtrafiken.",
   "lattlast": "<p>Kommunstyrelsen har lämnat ett svar till Förvaltningsrätten i Stockholm. Det handlar om en kontroll av ett tidigare beslut om att sälja en fastighet vid bussterminalen i Slussen.</p><p>Staden har också svarat på ett förslag från Brottsförebyggande rådet. Förslaget handlar om att ändra reglerna för hur man får använda personuppgifter och hur sekretess ska fungera.</p><p>Det har även tagits ställning till ändringar i trafiken för SL och WÅAB under året 202kom6/2027. Detta var ett svar på ett meddelande från Region Stockholm om kommande trafikförändringar.</p><p>Ledamöter från partierna Moderaterna och Liberalerna har gjort ett särskilt uttalande i frågan om trafiken. De har skrivit ner sin egen åsikt om de planerade förändringarna i kollektivtrafiken.</p>",
   "relevans": {
-    "b_fastighet": 2,
-    "gdpr": 1,
-    "pendlare": 1,
-    "kollektiv": 2,
-    "kronisk": 1,
-    "integritet": 1
+    "kollektiv": 6,
+    "pendlare": 5,
+    "storstad": 5,
+    "f_storstad": 5,
+    "bostadsagare": 3,
+    "gdpr": 3,
+    "integritet": 3,
+    "f_kommun": 5,
+    "fortroendevald": 4,
+    "offentliganstalld": 3
   }
 }

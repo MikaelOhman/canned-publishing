@@ -13,11 +13,16 @@
   "tldr": "Komisja ds. spraw gminnych w Alingsås przeanalizowała sytuację finansową gminy za kwiecień 2026 roku i zatwierdziła plany dotyczące m.in. nowych rurociągów i projektów budowlanych. Komisja rozpatrzyła również szereg propozycji zgłoszonych przez polityków, obejmujących tematy od budowy nowych mieszkań po wsparcie dla organizacji.",
   "lattlast": "<p>Zarząd gminy przeanalizował sytuację finansową gminy Alingsås. Wynika z tego, że gmina oczekuje nadwyżki budżetowej w wysokości ponad 230 milionów koron szwedzkich w całym roku 2026. Wynika to m.in. z faktu, że prowadzenie przedszkoli jest tańsze niż przewidywano, ponieważ obecnie jest mniej dzieci.</p><p>W zakresie budynków i dróg trwają liczne ważne prace. Planowane jest budowa nowych rurociągów wodociągowych i kanalizacyjnych w Bjärke, a rozpoczęto konkurs na teren w obszarze Stadsskogen. Podjęto również decyzję o przeanalizowaniu planu budowy nowych budynków przy Skolgatan w Sollebrunn.</p><p>Rozważano kilka propozycji politycznych, zwanych wnioskami. Dotyczyły one możliwości budowy większej liczby mieszkań poprzez adaptację poddaszy w budynkach gminy, zwiększenia wsparcia dla organizacji, które organizują nocne patrole, oraz stworzenia większej liczby stacji ładowania dla rowerzystów. Omówiono również sposób wzmocnienia wsparcia dla obywateli Ukrainy mieszkających w gminie.</p><p>Otrzymano również informacje o tym, że budynek gminy jest przenoszony do nowej lokalizacji. Ponadto dyskutowano o tym, jak można poprawić komunikację z podmiotami odpowiedzialnymi za transport publiczny w regionie.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "barn": 1,
-    "glesbygd": 1,
-    "pendlare": 1,
-    "kollektiv": 1,
-    "idrott": 1
+    "f_kommun": 5,
+    "mark_bygglov": 4,
+    "barn": 4,
+    "infrastruktur": 3,
+    "kollektiv": 4,
+    "ny_i_sverige": 3,
+    "b_fastighet": 3,
+    "bygger": 3,
+    "idrott": 3,
+    "volontar": 3,
+    "bil": 3
   }
 }

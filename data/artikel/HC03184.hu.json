@@ -12,8 +12,15 @@
   "tldr": "A Riksgruppen felülvizsgálta azokat a ideiglenes adóelengedményeket, amelyeket a vállalatok a pénzügyi válság és a járvány idején élvezhettek (azaz az adófizetések késleltetése kamattal). A vizsgálat arra jutott, hogy a rendelkezés viszonylag hatékony volt a alapvetően stabil vállalatok támogatásában, de bizonyos hiányosságokkal rendelkezett. Öt javaslatot fogalmaztak meg a kormány számára.",
   "lattlast": "<p>A határozott ideig engedélyezett adóhalasztások lehetővé teszik a vállalatok számára, hogy későbbre halasszák bizonyos adók befizetését, és a későbbi fizetéshez kamat- és díjfizetést kell vállalniuk. Ezt a megoldást válszituációkban alkalmazták, például a pénzügyi válság idején és a járvány alatt.</p><p>A Riksrevisionen (Svéd Számvevőszék) felülvizsgálta, hogy ez az intézkedés mennyire volt hatékony. A fő következtetés az, hogy a határozott ideig engedélyezett adóhalasztások viszonylag jól működtek abban, hogy segítséget nyújtsanak azoknak a stabil vállalatoknak, amelyeknek átmeneti likviditási problémáik voltak – azonban voltak bizonyos hiányosságok.</p><p>A Riksrevisionen öt ajánlást fogalmazott meg a kormány számára, amelyeket érdemes figyelembe venni a jövőbeli, hasonló intézkedések esetében.</p>",
   "relevans": {
-    "b_finans": 1,
-    "sparare": 1,
-    "lantagare": 1
+    "solo": 8,
+    "smaforetag": 9,
+    "aktiebolag": 8,
+    "arbetsgivare": 7,
+    "storforetag": 5,
+    "familjeforetag": 7,
+    "redovisning": 6,
+    "finansiering": 6,
+    "konkurs": 5,
+    "foretagare": 7
   }
 }

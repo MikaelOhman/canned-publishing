@@ -12,7 +12,16 @@
   "tldr": "Nya regler föreslås för att stoppa bedrägerier via sms och andra digitala meddelanden. Företag som sköter din kommunikation ska kunna stoppa meddelanden som ser ut att vara skadliga.",
   "lattlast": "<p>Regeringen vill ändra lagen om elektronisk kommunikation för att göra det svårare att lura människor digitalt. Förslaget innebär att företag som tillhandahåller tjänster för meddelanden, till exempel sms-tjänster, får ett större ansvar att stoppa bedrägerier.</p><p>Om ett företag ser teknisk information om ett meddelande som tyder på att det är ett bedrägeri eller ett försök att vilseleda folk, ska de inte skicka vidare meddelandet. Det är viktigt att veta att företagen inte får läsa själva innehållet i dina meddelanden för att kontrollera detta, utan de får bara titta på teknisk information om trafiken.</p><p>För att kunna göra detta arbete får företagen behandla viss information om meddelandena, men bara så länge det behövs för att stoppa bedrägeriet. Efter det måste informationen raderas direkt. Regeringen eller en annan myndighet kommer att bestämma exakt vilka regler som ska gälla för detta arbete.</p><p>De nya reglerna är en del av ett arbete inom EU för att skapa säkrare digital kommunikation. Om förslaget går igenom kommer de nya lagarna att börja gälla den 1 augusti 2026.</p>",
   "relevans": {
-    "foretagare": 1,
-    "kollektiv": 1
+    "smaforetag": 4,
+    "b_it": 6,
+    "b_finans": 4,
+    "gdpr": 7,
+    "konsumentratt": 5,
+    "digitalisering": 5,
+    "eu_marknad": 4,
+    "konsument": 5,
+    "integritet": 6,
+    "otrygg": 5,
+    "digital_ovan": 4
   }
 }

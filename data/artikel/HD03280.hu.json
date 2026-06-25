@@ -12,8 +12,13 @@
   "tldr": "A kormány elolvasta egy jelentést, amely bemutatja, hogyan javíthatják a hatóságok a nem svédül beszélő személyekkel való kommunikációt. A cél az, hogy mindenki megértse az államtól kapott döntéseket, hogy azok igazak és igazságosak legyenek.",
   "lattlast": "<p>A Riksrevisionen (Svédország Független Ellenőrző Hivatala) vizsgálatot végzett a Försäkringskassan (Szociális Biztosító Alap), a Pensionsmyndigheten (Nyugdíjhatóság) és a Skatteverket (Adóhatóság) által végzett munkáról, amely érinti azokat a személyeket, akik nem beszélik a svéd nyelvet. A vizsgálat azt mutatta, hogy a munka sok tekintetben jól működik, de számos olyan terület van, ahol jelentős fejlesztésekre van szükség a hatékonyság növelése érdekében.</p><p>A hatóságoknak nagyobb felelősséget kell vállalniuk a folyamatok helyes működésének biztosítása terén. A Riksrevisionen több javaslatot is tett, többek között azt, hogy a fontos információkat több nyelvre fordítsák le, hogy azok, akiknek szüksége van rá, megérthessék. Emellett a hatóságoknak jobban fel kell készülniük a tolmácsok és a fordítások költségeinek kezelésére.</p><p>A kormány úgy véli, hogy a jelentés fontos a jogbiztonság megteremtése szempontjából. A jogbiztonság azt jelenti, hogy mindenki számára biztosítani kell a lehetőséget, hogy megértse és reagálhasson a hatóságok által hozott döntésekre. Ha az emberek megértik az információkat, csökken a kockázat, hogy a hatóságok helytelen döntéseket hozzanak, vagy helytelenül fizessenek ki pénzt.</p><p>A kormány reméli, hogy a javaslatok betartásával a hatóságok hatékonyabban tudják kezelni azokat az ügyeket, amelyek érintik azokat a személyeket, akik nem beszélik a svéd nyelvet. A kormány jelenleg lezárta a jelentés kezelését.</p>",
   "relevans": {
-    "b_finans": 1,
-    "pensionar": 1,
-    "sjukskriven": 1
+    "ny_i_sverige": 8,
+    "asyl": 6,
+    "arbetstillstand": 6,
+    "pensionar": 4,
+    "sjukskriven": 4,
+    "bidrag": 5,
+    "funktion": 4,
+    "digital_ovan": 4
   }
 }

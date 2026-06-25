@@ -12,8 +12,13 @@
   "tldr": "El Gobierno quiere modificar las normas del mercado eléctrico para hacerlo más seguro y sencillo para los usuarios. La propuesta incluye, entre otras cosas, facilitar la comprensión de los contratos de suministro eléctrico y permitir que las grandes compañías eléctricas ofrezcan tarifas fijas.",
   "lattlast": "<p>El Gobierno ha presentado una propuesta de nuevas normas para el mercado eléctrico que entrarán en vigor el 1 de enero de 2026. El objetivo es cumplir con las nuevas regulaciones de la Unión Europea y mejorar el mercado eléctrico para todos los que compran electricidad.</p><p>Para aquellos que tienen un contrato de suministro eléctrico, la propuesta implica que recibirán un resumen sencillo de las reglas más importantes de su contrato antes de firmarlo o renovarlo. Las grandes empresas que venden electricidad a más de 200.000 clientes también deberán poder ofrecer contratos con un precio fijo durante un período determinado.</p><p>También se endurecerán los requisitos para las empresas que suministran electricidad y para las que son propietarias de las redes eléctricas. Las compañías eléctricas deben tener planes para garantizar que la electricidad se suministre realmente y no pueden cancelar un contrato si existe una disputa legal al respecto. Las empresas de redes eléctricas, que son responsables de las líneas, también deben mejorar la transparencia y ser justas con todos los proveedores.</p><p>El Gobierno también quiere modificar la ley de certificados de energía. Los certificados de energía son un sistema que se utiliza para promover la energía renovable. La propuesta consiste en que menos empresas tengan que participar en este sistema y que la autoridad que gestiona las cuentas pueda cobrar ciertas tarifas.</p>",
   "relevans": {
-    "b_energi": 1,
-    "konsument": 2,
-    "klimat": 1
+    "energikund": 8,
+    "konsument": 6,
+    "bostadsagare": 4,
+    "b_energi": 7,
+    "energiintensiv": 5,
+    "storforetag": 4,
+    "smaforetag": 3,
+    "eu_marknad": 5
   }
 }

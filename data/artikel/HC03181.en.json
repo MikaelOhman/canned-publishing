@@ -12,9 +12,10 @@
   "tldr": "The government wants to change the rules for elections to make them more secure and easier for people to vote. The proposal includes measures to make it easier for more people to vote, and to allow digital voting cards to be issued.",
   "lattlast": "<p>The government has proposed changes to the electoral law, which governs how elections are conducted in Sweden. The aim is to protect the integrity of the elections and ensure that everyone who is eligible to vote can do so without difficulty. The proposed changes are scheduled to take effect on December 1, 2025.</p><p>A key element is that the Swedish Electoral Authority, the agency responsible for elections, will be given a clearer responsibility to protect the electoral process. If any errors or problems occur during the voting process, municipalities and other authorities must promptly report them to the Electoral Authority. This is to ensure that any incidents that could affect the election can be addressed quickly.</p><p>It will also become easier for certain groups to vote. For example, individuals residing in specific youth homes will be able to receive assistance from poll workers who will visit them at their homes. For Swedes living abroad, there will be new opportunities to vote in Sweden if they are not included on the list of eligible voters.</p><p>Finally, the government wants to make it easier to access information. They propose allowing voting cards to be sent digitally to individuals who use a secure digital mailbox. A digital mailbox is a secure online platform where government agencies can send important messages to individuals.</p>",
   "relevans": {
-    "infrastruktur": 1,
-    "ung": 1,
-    "funktion": 3,
-    "batagare": 1
+    "fortroendevald": 6,
+    "utlandssvensk": 6,
+    "funktion": 4,
+    "digital_ovan": 3,
+    "integritet": 3
   }
 }

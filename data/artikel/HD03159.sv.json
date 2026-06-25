@@ -12,11 +12,20 @@
   "tldr": "Regeringen vill ändra lagarna för att spara mer energi i byggnader och göra det lättare att ladda elbilar och parkera cyklar. Förslaget innebär nya krav på kontroll av värme och ventilation i hus.",
   "lattlast": "<p>Regeringen har lagt fram ett förslag om att ändra reglerna för hur vi använder energi i våra byggnader. Syftet är att nå nya mål för att spara energi och följa nya regler från EU. Förslaget handlar bland annat om att ändra lagen om energideklarationer och lagen för planering och byggande.</p><p>Det innebär att det blir viktigare att kontrollera husets skal, det som kallas klimatskärm, när man gör stora ombyggnader. Alla byggnader som ägs eller används av myndigheter och kommuner måste också ha en energideklaration. Man ska även kontrollera system för värme, ventilation och luftkonditionering med jämna mellanrum, antingen var tredje eller var femte år beroende på hur stora de är.</p><p>Det blir också möjligt för husägare att använda en plan för energirenovering för att visa hur de ska förbättra sina hus. Dessutom ändras reglerna för laddning av elbilar så att de nu kallas för hållbar mobilitet. Det betyder att man i framtiden även kan ställa krav på att det ska finnas bra platser att parkera cyklar på.</p><p>Om förslaget blir verklighet börjar de nya reglerna gälla den 1 juli år 202kommer 2026.</p>",
   "relevans": {
-    "b_bygg": 3,
-    "b_energi": 3,
-    "bil": 1,
-    "beroende": 1,
-    "energikund": 3,
-    "klimat": 1
+    "b_fastighet": 7,
+    "b_energi": 7,
+    "b_bygg": 7,
+    "energiintensiv": 6,
+    "gron_omstallning": 6,
+    "miljo": 5,
+    "eu_marknad": 5,
+    "mark_bygglov": 5,
+    "lokaler": 5,
+    "bostadsagare": 6,
+    "bil": 5,
+    "energikund": 6,
+    "klimat": 5,
+    "bygger": 6,
+    "hallbarhetsrapport": 4
   }
 }

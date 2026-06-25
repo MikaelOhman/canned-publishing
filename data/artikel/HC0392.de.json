@@ -12,8 +12,10 @@
   "tldr": "Die Regierung plant, die Regeln für Ausländer, die das Land verlassen müssen, zu ändern, um sicherzustellen, dass mehr Personen tatsächlich nach Hause zurückkehren. Der Vorschlag umfasst unter anderem, dass Ausweisungsverfügungen länger gültig sein sollen und dass es schwieriger wird, von einem Asylstatus zu einer Arbeitserlaubnis zu wechseln, wenn man sich bereits im Land befindet.",
   "lattlast": "<p>Die Regierung hat einen Vorschlag für neue Gesetze vorgelegt, die ab dem 1. April 2025 in Kraft treten sollen. Ziel ist es, dass mehr Personen, denen die Ausweisung aus Schweden angeordnet wurde, tatsächlich in ihre Herkunftsländer zurückkehren.</p><p>Ein wichtiger Bestandteil des Vorschlags ist, dass eine Anordnung zur Ausreise fünf Jahre gültig sein soll, nachdem die Person in ihr Heimatland zurückgekehrt ist. Wenn die Person ein Einreiseverbot erhalten hat, d.h. sie darf nicht nach Schweden zurückkehren, kann diese Frist noch länger sein. Es wird auch möglich sein, längere Einreiseverbote zu verhängen, wenn die Person sich nicht freiwillig rechtzeitig aus dem Land entfernt hat.</p><p>Die Regierung möchte auch die Regeln für das sogenannte &quot;Statuswechselverfahren&quot; ändern. Derzeit kann eine Person, der mit ihrem Asylantrag abgelehnt wurde, manchmal beantragen, in Schweden eine Arbeitserlaubnis zu erhalten. Mit den neuen Regeln soll dieses System abgeschafft werden, was bedeutet, dass es nicht mehr möglich sein wird, von einem Asylantrag zu einer Arbeitserlaubnis zu wechseln, während man sich bereits in Schweden befindet.</p><p>Der Vorschlag beinhaltet auch klarere Regeln dafür, wann ein Einreiseverbot in Kraft tritt. Es soll ab dem Tag gelten, an dem die Person die EU-Länder verlässt oder Schweden, wenn die Person in ein anderes EU-Land zurückgeführt werden soll.</p>",
   "relevans": {
-    "arbetskraft_inv": 1,
-    "asyl": 1,
-    "arbetstillstand": 1
+    "asyl": 10,
+    "arbetstillstand": 9,
+    "ny_i_sverige": 7,
+    "arbetskraft_inv": 7,
+    "eu_marknad": 3
   }
 }

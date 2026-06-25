@@ -12,7 +12,12 @@
   "tldr": "Regeringen föreslår nya regler för att stora företag och internationella koncerner ska dela skatteinformation med varandra. Syftet är att det ska bli lättare att kontrollera att stora företag betalar rätt mängd skatt i olika länder.",
   "lattlast": "<p>Regeringen vill ändra flera lagar för att följa nya EU-regler som kallas DAC 9. Dessa regler handlar om att länder ska automatiskt skicka information till varandra om hur mycket skatt stora företag betalar. Detta görs för att se till att stora företag inte undviker skatt genom att flytta vinster mellan länder.</p><p>Förslaget innehåller också nya sätt att arbeta med skatteinformation enligt internationella avtal från organisationen OECD. Det handlar om att myndigheter ska kunna utbyta information om så kallad GloBE-information, vilket är en del av ett globalt arbete för att skapa en rättvis minimiskatt för stora företag.</p><p>Förslaget innebär även ändringar i hur skatteprocessen går till för stora koncerner. Bland annat föreslås en tillfällig lättnad för företag som får böter eller andra straff, så kallade sanktioner, för att underlätta övergången till de nya reglerna.</p><p>De flesta av de nya reglerna föreslås börja gälla den 1 maj 2026. Vissa delar som rör sekretess och hur information hanteras ska istället börja gälla den 1 augusti 2026. Riksdagen ska nu besluta om alla dessa lagändringar.</p>",
   "relevans": {
-    "storforetag": 3,
-    "bolagsskatt": 1
+    "storforetag": 9,
+    "aktiebolag": 6,
+    "bolagsskatt": 9,
+    "redovisning": 7,
+    "eu_marknad": 7,
+    "export": 5,
+    "hallbarhetsrapport": 3
   }
 }

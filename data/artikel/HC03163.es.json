@@ -12,10 +12,13 @@
   "tldr": "El gobierno quiere modificar las leyes para reducir la violencia relacionada con los explosivos. El objetivo es dificultar que los delincuentes utilicen explosivos, otorgando a la agencia MSB mayor control y responsabilidad.",
   "lattlast": "<p>Debido al aumento de actos explosivos en Suecia, el gobierno quiere endurecer las normas sobre el manejo de sustancias explosivas. El objetivo es evitar que los delincuentes utilicen explosivos contra personas y viviendas. Para lograrlo, se proponen nuevas normas que deberían entrar en vigor el 15 de julio de 2025.</p><p>La Agencia Sueca de Protección Civil y Preparación para Emergencias (MSB, por sus siglas en sueco) tendrá un papel más importante. La MSB coordinará el trabajo que realizan los municipios al otorgar permisos para explosiones. También supervisará que los municipios cumplan con sus responsabilidades. Además, será más fácil revocar los permisos si es necesario.</p><p>Las personas que tienen permiso para utilizar explosivos ahora también deben notificar al municipio cada vez que utilicen o almacenen estos productos. Si una empresa necesita utilizar explosivos en varios municipios, solo un municipio se encargará de todos los permisos. Además, la información relacionada con estos casos será confidencial, para evitar que los delincuentes puedan averiguar dónde se almacenan los explosivos.</p><p>También existen normas sobre el uso de armas de fuego. No se puede realizar explosiones ni disparar con armas de fuego en áreas con planes urbanísticos, como en ciudades, sin un permiso de la Policía. Las personas menores de 18 años tampoco pueden utilizar ciertos tipos de armas al aire libre sin un permiso, a menos que estén supervisadas por un adulto mayor de 20 años.</p>",
   "relevans": {
-    "tillstand": 3,
+    "jagare": 4,
+    "otrygg": 5,
+    "brottsoffer": 3,
+    "b_bygg": 4,
+    "tillstand": 6,
+    "f_kommun": 3,
     "regelborda": 3,
-    "mark_bygglov": 1,
-    "bygger": 1,
-    "otrygg": 1
+    "integritet": 3
   }
 }

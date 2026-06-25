@@ -12,9 +12,12 @@
   "tldr": "La Svezia intende modificare le leggi per proteggere meglio il paese dagli attacchi informatici. Attraverso queste modifiche, le autorità potranno condividere più facilmente informazioni importanti tra di loro.",
   "lattlast": "<p>Il Centro Nazionale per la Sicurezza Cibernetica, noto come NCSC, fa parte dell&#x27;Agenzia di Comunicazioni Militari, anche conosciuta come FRA. La sua missione è individuare e contrastare le minacce e gli attacchi digitali contro i computer e le reti della Svezia. Per svolgere efficacemente questo compito, è necessario che possa comunicare con altre autorità e condividere informazioni.</p><p>Attualmente, le normative sulla riservatezza rendono difficile per le autorità condividere le informazioni necessarie. Il governo intende quindi introdurre nuove leggi. Propone una nuova legge che obbliga le autorità a condividere informazioni tra loro e una nuova legge che disciplina il modo in cui la FRA può gestire i dati personali nel suo lavoro.</p><p>Il governo desidera inoltre modificare la legge sulla trasparenza e la riservatezza. L&#x27;obiettivo è proteggere i singoli individui, garantendo al contempo la possibilità di collaborare contro le minacce informatiche. Queste modifiche sono fondamentali per rendere la società digitale svedese più sicura.</p><p>Se il Parlamento approva la proposta, le nuove leggi entreranno in vigore il 15 luglio 2026.</p>",
   "relevans": {
-    "b_it": 1,
-    "gdpr": 3,
-    "integritet": 1,
-    "varnpliktig": 1
+    "gdpr": 7,
+    "digitalisering": 6,
+    "integritet": 6,
+    "b_it": 6,
+    "bredbandsberoende": 4,
+    "storforetag": 4,
+    "offentliganstalld": 5
   }
 }

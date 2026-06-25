@@ -12,10 +12,13 @@
   "tldr": "Die Regierung plant, die Regeln dafür zu ändern, wie das Inkassobüro (Kronofogden) Gegenstände von Personen mit Schulden beschlagnahmt. Ziel ist es, die Rückzahlung von Schulden zu beschleunigen und den Verkauf von Häusern und Wohnungen zu erleichtern, um an Geld zu gelangen.",
   "lattlast": "<p>Die Regierung hat einen Vorschlag vorgelegt, der es dem Gerichtsvollzieher (Kronofogden) erleichtern soll, seine Arbeit zu verrichten. Durch die Einbeziehung weiterer Behörden bei der Fernumsetzung, d.h. der Überprüfung von Vermögenswerten ohne Vor-Ort-Besuch, hofft man, mehr Vermögenswerte zu finden, die verkauft werden können. Dies soll Personen helfen, die Anspruch auf Schadensersatz haben, und solchen, die auf die Begleichung ihrer Schulden warten.</p><p>Es gibt auch Vorschläge zur Änderung der Art und Weise, wie Häuser und Wohnungen verkauft werden, wenn diese zur Begleichung von Schulden zwangsversteuert werden. Man möchte, dass dies eher wie ein normaler Verkauf funktioniert, beispielsweise durch Online-Auktionen oder über Immobilienmakler. Die Idee ist, dass dadurch die Vermögenswerte zu einem höheren Preis verkauft werden, wodurch mehr Geld zur Verfügung steht, um die Schulden zu begleichen.</p><p>Da es sich um einen erheblichen Eingriff in das Leben der Menschen handelt, möchte die Regierung die Regeln auch klarer gestalten. Es wird vorgeschlagen, dass im Gesetz direkt festgelegt wird, dass der Gerichtsvollzieher berücksichtigen muss, was angemessen ist, und immer das Wohl des Kindes priorisieren muss. Dies ist wichtig, um Familien zu schützen, die davon betroffen sind, dass ihre Sachen von der Behörde beschlagnahmt werden.</p><p>Wenn das Parlament für den Vorschlag stimmt, treten die neuen Regeln am 1. Juli 2026 in Kraft. Der Vorschlag beinhaltet auch Änderungen in mehreren anderen Gesetzen, die sich auf Steuern, Zoll und Küstenwache beziehen, um sicherzustellen, dass alles zusammenpasst.</p>",
   "relevans": {
-    "b_fastighet": 1,
-    "import": 1,
-    "barn": 1,
-    "lantagare": 1,
-    "skuldsatt": 1
+    "skuldsatt": 10,
+    "lantagare": 7,
+    "bostadsagare": 7,
+    "hyresgast": 4,
+    "brottsoffer": 5,
+    "barn": 5,
+    "b_finans": 4,
+    "b_fastighet": 4
   }
 }

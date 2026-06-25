@@ -12,14 +12,15 @@
   "tldr": "Le gouvernement souhaite modifier les règles concernant certaines exonérations fiscales et subventions afin de les aligner sur les lois européennes relatives aux aides d'État. La proposition prévoit notamment de nouvelles modalités de remboursement des réductions de frais pour les entreprises qui embauchent de nouveaux employés.",
   "lattlast": "<p>Le gouvernement a présenté une proposition visant à modifier les règles fiscales suédoises. L&#x27;objectif est de garantir que les allégements fiscaux accordés par l&#x27;État aux entreprises et aux particuliers soient conformes aux règles de l&#x27;UE concernant les aides autorisées. Le non-respect de ces règles peut être considéré comme une aide illégale de l&#x27;État à des entreprises individuelles.</p><p>Un exemple important est ce qu&#x27;on appelle l&#x27;aide &quot;croissance&quot;. Il s&#x27;agit d&#x27;une réduction des cotisations patronales que les entreprises peuvent obtenir lorsqu&#x27;elles embauchent leur premier ou leur deuxième employé. Le gouvernement propose que cela fonctionne désormais sous forme de remboursement. Pour que l&#x27;Agence fiscale suédoise puisse contrôler cela, les entreprises devront également fournir plus d&#x27;informations qu&#x27;actuellement.</p><p>Des modifications sont également prévues pour la déduction régionale. Il s&#x27;agit d&#x27;une cotisation plus faible pour les employeurs travaillant dans certaines régions du nord de la Suède et de l&#x27;ouest du pays. Les règles seront modifiées pour être conformes aux règles de l&#x27;UE concernant les aides régionales. Cela signifie également que les types d&#x27;activités pouvant bénéficier de cette déduction seront modifiés.</p><p>D&#x27;autres réductions d&#x27;impôts, telles que les aides aux personnes vivant dans les zones rurales ou pour la production d&#x27;électricité renouvelable, seront également affectées. Pour les entreprises qui ont droit à ces aides, les exigences en matière de déclaration de données seront modifiées. La plupart de ces nouvelles lois devraient entrer en vigueur le 1er janvier 2026.</p>",
   "relevans": {
-    "arbetsgivare": 2,
-    "b_industri": 1,
-    "avgifter": 2,
-    "konkurrens": 3,
-    "f_landsbygd": 1,
-    "glesbygd": 1,
-    "kronisk": 1,
-    "konsument": 1,
-    "klimat": 1
+    "solo": 6,
+    "smaforetag": 7,
+    "arbetsgivare": 7,
+    "avgifter": 8,
+    "f_landsbygd": 5,
+    "glesbygd": 4,
+    "b_grona": 4,
+    "aktiebolag": 4,
+    "regelborda": 5,
+    "eu_marknad": 5
   }
 }

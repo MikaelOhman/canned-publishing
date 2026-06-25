@@ -12,8 +12,15 @@
   "tldr": "Suedia implementează o directivă a Uniunii Europene privind așa-numitele sisteme inteligente de transport în traficul rutier. Un număr mai mare de tipuri de date despre trafic și servicii digitale vor fi puse la dispoziție într-un format ușor de citit de către mașini, printr-un punct de acces național, astfel încât să poată fi utilizate în întreaga Uniune Europeană.",
   "lattlast": "<p>Sistemele inteligente de transport sunt servicii și date digitale utilizate pentru a face traficul rutier mai inteligent și mai sigur – de exemplu, informații în timp real despre trafic și drumuri.</p><p>Guvernul propune modificări ale legii suedeze pentru a implementa o directivă a UE. Aceste modificări extind tipurile de date și serviciile care sunt acoperite.</p><p>Datele trebuie să fie disponibile într-un format ușor de citit de către mașini, printr-un punct de acces național, și să acopere anumite zone geografice la anumite momente, astfel încât serviciile să poată funcționa în întreaga UE.</p>",
   "relevans": {
-    "b_transport": 3,
-    "eu_marknad": 1,
-    "glesbygd": 1
+    "b_transport": 8,
+    "b_it": 7,
+    "digitalisering": 6,
+    "eu_marknad": 6,
+    "infrastruktur": 6,
+    "pendlare": 5,
+    "bil": 4,
+    "kollektiv": 4,
+    "storforetag": 4,
+    "smaforetag": 3
   }
 }

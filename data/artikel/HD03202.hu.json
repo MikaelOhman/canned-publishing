@@ -12,9 +12,14 @@
   "tldr": "A kormány szeretné módosítani a törvényt annak érdekében, hogy megkönnyítse a vízerőművek használatát az elektromos áram termelésére Svédországban. Ez azt jelentheti, hogy csökkentik azokat a követelményeket, amelyek szerint a vízerőműveknek mennyire kell alkalmazkodniuk a természet védelmének érdekében.",
   "lattlast": "<p>A kormány javaslatot terjesztett be a környezetvédelmi törvény módosítására, amely az a jogszabály, amely meghatározza, hogyan kell védeni a természetünket. A javaslat a vízerőművek által termelt tiszta energia szükségességének és a vízi állatok és növények védelmének egyensúlyáról szól.</p><p>Jelenleg szigorú szabályok vonatkoznak a természet védelmére, úgynevezett faj- és élőhelyvédelmi irányelvek. A kormány szeretné, ha könnyebbé válna a kivételek alkalmazása ezekből a szabályokból, ha ez az egész ország számára fontosnak ítéltetik. Ez azt jelenti, hogy egy új vízerőmű-engedélyezési eljárás során alacsonyabb környezetvédelmi követelményeket lehetne előírni.</p><p>A javaslat azt is tartalmazza, hogy a kormány nagyobb hatalommal rendelkezhetne abban, hogy mikor lehet kivételt tenni a vízi környezetet védő tilalmakról. Ez vonatkozik mind a meglévő vízerőművekre, amelyek engedélyeinek felülvizsgálatára kerülnek sor, mind pedig azokra az új vízerőművekre, amelyeket építeni kell.</p><p>Ha a parlament megszavazza a javaslatot, az új szabályok 2026. július 1-jén lépnek hatályba. A cél az, hogy biztosítani lehessen, hogy Svédország rendelkezzen egy megbízható és biztonságos vízerőmű-alapú energiaellátással.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "tillstand": 1,
-    "miljo": 1,
-    "klimat": 1
+    "b_energi": 8,
+    "energiintensiv": 7,
+    "energikund": 5,
+    "gron_omstallning": 6,
+    "miljo": 6,
+    "klimat": 5,
+    "b_industri": 5,
+    "hallbarhetsrapport": 4,
+    "eu_marknad": 4
   }
 }

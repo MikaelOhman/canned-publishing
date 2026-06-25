@@ -15,11 +15,15 @@
   "tldr": "Le conseil municipal de Stockholm a répondu à des questions concernant le terminal de bus de Slussen, la gestion des données personnelles et les modifications apportées aux transports en commun.",
   "lattlast": "<p>Le conseil municipal a répondu à la Cour administrative de Stockholm. La réponse concerne un contrôle d&#x27;une décision antérieure de vendre un immeuble situé près de la gare routière de Slussen.</p><p>La ville a également répondu à une proposition du Conseil pour la prévention du crime. Cette proposition porte sur la modification des règles concernant l&#x27;utilisation des données personnelles et le fonctionnement du secret.</p><p>Une position a également été prise concernant les modifications prévues pour les transports publics SL et WÅAB au cours de l&#x27;année 2026/2027. Il s&#x27;agissait d&#x27;une réponse à une communication de la région de Stockholm concernant les changements à venir dans les transports.</p><p>Des membres des partis Modérés et Libéraux ont fait une déclaration spécifique concernant les transports. Ils ont exprimé leur propre opinion sur les changements prévus dans les transports en commun.</p>",
   "relevans": {
-    "b_fastighet": 2,
-    "gdpr": 1,
-    "pendlare": 1,
-    "kollektiv": 2,
-    "kronisk": 1,
-    "integritet": 1
+    "kollektiv": 6,
+    "pendlare": 5,
+    "storstad": 5,
+    "f_storstad": 5,
+    "bostadsagare": 3,
+    "gdpr": 3,
+    "integritet": 3,
+    "f_kommun": 5,
+    "fortroendevald": 4,
+    "offentliganstalld": 3
   }
 }

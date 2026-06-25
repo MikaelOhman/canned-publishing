@@ -12,6 +12,14 @@
   "tldr": "Regeringen vill ändra lagarna så att Skatteverket kan använda modern teknik för att kontrollera företag. Det betyder att de lättare ska kunna hämta digital information, även om den ligger i molntjänster eller utomlands.",
   "lattlast": "<p>Skatteverket vill få bättre verktyg för att göra sina kontroller. Idag finns det förbud mot att använda vissa typer av nätverk vid granskningar, men regeringen vill ta bort dessa förbud. Det ska göra det möjligt för myndigheten att använda egen teknisk utrustning för att samla in digital information på ett effektivare sätt.</p><p>Ett viktigt förslag handlar om att kunna säkra bevis på distans. Det betyder att Skatteverket ska kunna leta efter och kopiera digitala dokument i system som används för kommunikation eller lagring av filer. Detta är viktigt eftersom mycket information idag sparas i så kallade molntjänster, där informationen inte ligger på en fysisk dator i företaget utan på internet.</p><p>De nya reglerna innebär också att Skatteverket ska kunna hämta information även om den är lagrad i ett annat land. Förslaget gäller även tekniska hjälpmedel som behövs för att genomföra dessa digitala kontroller. Syftet är att lagarna ska passa den moderna tekniken utan att det blir osäkert för de som kontrolleras.</p><p>Om riksdagen säger ja till förslaget kommer de nya reglerna att börja gälla den 1 juli 2026. Förslaget innebär ändringar i tre olika lagar som rör skattekontroller, kontroll av vissa varor och stöd vid omställning på arbetsmarknaden.</p>",
   "relevans": {
-    "arbetssokande": 2
+    "aktiebolag": 7,
+    "solo": 5,
+    "smaforetag": 6,
+    "storforetag": 6,
+    "redovisning": 6,
+    "gdpr": 5,
+    "integritet": 5,
+    "b_it": 4,
+    "digitalisering": 4
   }
 }

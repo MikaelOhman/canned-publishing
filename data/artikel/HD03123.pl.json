@@ -12,10 +12,12 @@
   "tldr": "Rząd zamierza utrudnić przestępcom dostęp do materiałów wybuchowych poprzez zaostrzenie kontroli nad firmami, które zajmują się niebezpiecznymi substancjami. Propozycja ma na celu zapobieganie przedostawaniu się materiałów wybuchowych w niepowołane ręce.",
   "lattlast": "<p>W Szwecji coraz częściej dochodzi do aktów terroru, w których przestępcy wykorzystują materiały wybuchowe zarówno przeciwko ludziom, jak i budynkom. Często używane są materiały wybuchowe, które są legalne, ale zostały skradzione lub trafiły w niepowołane ręce. Aby temu zapobiec, rząd zamierza zmienić przepisy dotyczące firm, które zajmują się materiałami łatwopalnymi i wybuchowymi.</p><p>Jedną z propozycji jest wprowadzenie obowiązku, aby firmy posiadające pozwolenie na obrót tymi materiałami niezwłocznie informowały władze o zmianach w składzie personalnym, takich jak odejście dyrektorów lub właścicieli. Policja ma również uzyskać większe możliwości odwoływania się od decyzji zezwalających firmom lub osobom na obrót materiałami wybuchowymi. Ma to ułatwić kontrolę nad tym, kto ma dostęp do niebezpiecznych substancji.</p><p>Rząd chce również zmienić prawo o tajemnicy, czyli przepisy określające, jakie informacje są traktowane jako poufne. Ma to ułatwić Agencji Wywiadu Radiowego (FRA) oraz innym organom wymiaru sprawiedliwości wymianę ważnych informacji w ramach współpracy międzynarodowej. Ma to na celu zwiększenie bezpieczeństwa w obszarze cybernetycznym.</p><p>Jeśli parlament (Riksdag) zagłosuje za tymi propozycjami, nowe przepisy zaczną obowiązywać od 1 lipca 2026 roku. Propozycje te wiążą się ze zmianami w dwóch różnych ustawach, które dotyczą zarówno bezpieczeństwa, jak i postępowania z niebezpiecznymi substancjami.</p>",
   "relevans": {
-    "tillstand": 1,
-    "infrastruktur": 1,
-    "batagare": 1,
-    "otrygg": 1,
-    "varnpliktig": 1
+    "b_bygg": 5,
+    "b_industri": 4,
+    "tillstand": 7,
+    "arbetsmiljo": 5,
+    "otrygg": 6,
+    "brottsoffer": 3,
+    "integritet": 3
   }
 }

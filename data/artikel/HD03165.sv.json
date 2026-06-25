@@ -12,9 +12,13 @@
   "tldr": "Regeringen vill införa en ny lag för att samla in information om socialtjänsten. Syftet är att Socialstyrelsen ska kunna använda uppgifter för att göra hjälpen till människor bättre, samtidigt som man skyddar människors privatliv.",
   "lattlast": "<p>Regeringen har lagt fram ett förslag om en ny lag som kallas för socialdataregisterlag. Denna lag ska hjälpa myndigheten Socialstyrelsen att kunna hantera personuppgifter på ett bra sätt. Genom att samla in information kan man lära sig mer om hur socialtjänsten fungerar och hur man kan förbättra stödet till människor.</p><p>Förslaget innebär också att de som arbetar inom socialtjänsten och med stöd till personer med funktionsnedsättning måste lämna ut nödvändig information till Socialstyrelsen. Det betyder att de verksamheter som ger stöd enligt lagarna om socialtjänst och stöd till personer med funktionshinder blir skyldiga att skicka in uppgifter till det nya registret.</p><p>Det är viktigt att nämna att lagen även innehåller regler för att skydda människors integritet. Det betyder att man ska vara försiktig så att personliga uppgifter inte används på ett sätt som kränker privatlivet. Målet är att skapa en trygg hantering av all information som samlas in.</p><p>Om förslaget blir beslutat kommer den nya lagen att börja gälla den 1 augusti 2026. Regeln om att verksamheter måste lämna ut uppgifter börjar gälla ett år senare, den 1 augusti 2027. Det finns även en ändring som gäller avgifter som föreslås börja gälla den 1 juni 2026.</p>",
   "relevans": {
-    "gdpr": 1,
-    "funktion": 1,
-    "konsument": 1,
-    "integritet": 2
+    "kronisk": 4,
+    "funktion": 6,
+    "anhorigvardare": 4,
+    "b_vard": 6,
+    "gdpr": 5,
+    "integritet": 6,
+    "offentliganstalld": 4,
+    "f_kommun": 3
   }
 }

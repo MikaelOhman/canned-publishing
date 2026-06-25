@@ -13,17 +13,13 @@
   "tldr": "El ayuntamiento de Alingsås ha decidido establecer nuevas tarifas para servicios de atención y cuidado a partir de 2026. Esto incluye, entre otras cosas, que el ayuntamiento comenzará a cobrar por el transporte de personas fallecidas.",
   "lattlast": "<p>En el municipio de Alingsås, se han tomado nuevas decisiones sobre los precios de diversos servicios de atención y cuidado para el año 2026. Este cambio se debe a nuevas leyes y a la introducción de una tarifa por el transporte de personas fallecidas, algo que no se había hecho anteriormente.</p><p>El municipio ha investigado cómo otros municipios de la región de Gotemburgo abordan esta cuestión. Se ha observado que la mayoría de los demás municipios cobran una tarifa por estos traslados. Según la ley, el municipio tiene derecho a cobrar una tarifa que corresponda al costo real que el servicio implica para el municipio.</p><p>Además de esto, se han establecido nuevas normas para los permisos de construcción y se han realizado cambios en las regulaciones sobre la gestión de residuos. También se han aprobado nuevas directrices para la gestión de la empresa municipal Alingsås Energi.</p><p>Durante la reunión, también se discutieron colaboraciones con el municipio vecino de Borås. Estas colaboraciones se centran en trabajar juntos en temas relacionados con el medio ambiente, la salud y el control de alimentos y bebidas alcohólicas.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_transport": 1,
-    "b_vard": 1,
-    "b_energi": 1,
-    "miljo": 1,
-    "mark_bygglov": 1,
-    "bygger": 1,
-    "kronisk": 1,
-    "beroende": 1,
-    "energikund": 1,
-    "konsument": 2,
-    "klimat": 1
+    "f_kommun": 6,
+    "pensionar": 5,
+    "anhorigvardare": 4,
+    "kronisk": 4,
+    "b_fastighet": 4,
+    "miljo": 3,
+    "b_vard": 5,
+    "mark_bygglov": 4
   }
 }

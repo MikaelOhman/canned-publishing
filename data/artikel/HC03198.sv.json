@@ -12,6 +12,14 @@
   "tldr": "EU kräver att så kallat stöd av mindre betydelse till företag registreras i ett centralt register. Sverige ändrar sin lag så att sådant stöd även i fortsättningen kan ges på ett sätt som följer EU:s statsstödsregler. Ändringen föreslås gälla från 1 januari 2026.",
   "lattlast": "<p>EU har regler om statsstöd för att hindra att stöd snedvrider konkurrensen. För mindre stödbelopp – så kallat stöd av mindre betydelse – har EU infört ett krav på att stödet ska registreras i ett centralt register.</p><p>Regeringen föreslår därför ändringar i den svenska lagen om tillämpning av EU:s statsstödsregler.</p><p>Syftet är att säkerställa att sådant stöd även fortsättningsvis kan lämnas på ett sätt som är förenligt med EU-rätten. Ändringen föreslås träda i kraft den 1 januari 2026.</p>",
   "relevans": {
-    "konkurrens": 3
+    "smaforetag": 7,
+    "solo": 6,
+    "aktiebolag": 6,
+    "arbetsgivare": 5,
+    "storforetag": 5,
+    "eu_marknad": 6,
+    "konkurrens": 5,
+    "finansiering": 4,
+    "f_kommun": 3
   }
 }

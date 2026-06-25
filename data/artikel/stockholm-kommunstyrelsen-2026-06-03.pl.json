@@ -15,14 +15,15 @@
   "tldr": "Miasto Sztokholm wprowadza system cyfrowych akt osobowych dla wszystkich swoich wydziałów i przeznacza na ten cel 70 milionów koron szwedzkich. Dodatkowo, budynek Magasin 5 w dzielnicy Frihamnen zmieni właściciela za około 400 milionów koron szwedzkich.",
   "lattlast": "<p>Miasto Sztokholm rozpocznie wdrażanie cyfrowych akt pracowniczych zamiast tradycyjnych dokumentów papierowych we wszystkich swoich wydziałach. Oznacza to, że stare dokumenty papierowe zostaną zeskanowane, aby wszystkie informacje były zgromadzone w formie cyfrowej. Projekt ten będzie koordynowany przez zarząd miasta we współpracy z archiwum miejskim i będzie kosztował 70 milionów koron szwedzkich w latach 2026-2031.</p><p>Podjęto również decyzję o sprzedaży budynku w dzielnicy Frihamnen. Budynek o nazwie Magasin 5 zmieni właściciela. Firma St Erik Markutveckling AB ma zamiar kupić wszystkie udziały w spółce Nya Lagerbolaget Y AB, która jest właścicielem tego budynku. Szacowana wartość transakcji wynosi około 400 milionów koron szwedzkich.</p><p>W celu realizacji tej transakcji zostaną utworzone dwie nowe spółki. Jedna to tzw. holding, który będzie pełnił rolę spółki matki, a druga to spółka zależna, która będzie właścicielem samego budynku magazynowego. Transakcja ta oznacza, że spółka Stockholms Hamn AB sprzedaje budynek firmie St Erik Markutveckling AB.</p><p>Decyzje te zostały podjęte przez zarząd miasta Sztokholm. Propozycje te zostały przedstawione Radzie Miasta, która jest najwyższym organem decyzyjnym w mieście, w celu zatwierdzenia ostatecznych planów.</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "storforetag": 1,
-    "b_bygg": 1,
-    "b_fastighet": 1,
-    "infrastruktur": 1,
-    "digitalisering": 1,
-    "sparare": 1,
-    "batagare": 1,
-    "digital_ovan": 1
+    "f_storstad": 5,
+    "storstad": 4,
+    "f_fastighet": 6,
+    "b_fastighet": 6,
+    "f_kommun": 5,
+    "offentliganstalld": 6,
+    "gdpr": 4,
+    "digitalisering": 4,
+    "mark_bygglov": 4,
+    "fortroendevald": 4
   }
 }

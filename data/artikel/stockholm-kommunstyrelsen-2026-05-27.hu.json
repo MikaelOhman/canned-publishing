@@ -13,12 +13,13 @@
   "tldr": "A stockholmi önkormányzat vezetősége döntéseket hozott számos javaslattal kapcsolatban, amelyek témái a következők: a biztonság a Kista kerületben, a kulturális élet és a város fái. Bár azonnal nem indulnak el új, jelentős beruházások, a politikai döntések meghozatalra kerültek a következő lépésekhez.",
   "lattlast": "<p>Stockholm városi tanácsa 2026. május 27-én tartott ülést. Az ülésen számos javaslatot, úgynevezett indítványt és beadványt vitattak meg, amelyek Stockholm városának fejlesztésével kapcsolatosak.</p><p>Az egyik napirendi pont Kista városrész problémáival foglalkozott. A politikusok úgy döntöttek, hogy a kérdésre egy levelet küldenek, amelyben a városi adminisztráció által kidolgozott javaslatot fogadják el. A Moderaterna párt azonban nem volt elégedett ezzel a döntéssel, és jelezték, hogy más véleményen vannak.</p><p>Emellett megvitatták a labdarúgópályák melletti további mosdók és öltözők kialakításának lehetőségét. A városi tanács most továbbította válaszát a városi közgyűlésnek, amely a városban a végleges döntéseket meghozó politikusok csoportja. Itt is voltak olyan politikusok különböző pártokból, akik más megoldást szeretnének.</p><p>Végül a város kulturális és éjszakai életével, valamint egy olyan javaslattal foglalkoztak, amely szerint Stockholmon több mozgatható fát kellene ültetni. Minden ezekben a kérdésekben a városi tanács úgy döntött, hogy a munkavállaló, magas rangú tisztviselőkből (polgármesteri kabinet) álló csoport által kidolgozott javaslatokat fogadja el.</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "b_fastighet": 1,
-    "b_kultur": 1,
-    "glesbygd": 1,
-    "idrott": 1,
-    "kultur": 1,
-    "otrygg": 1
+    "f_kommun": 4,
+    "storstad": 4,
+    "otrygg": 4,
+    "idrott": 3,
+    "kultur": 3,
+    "offentliganstalld": 3,
+    "b_kultur": 3,
+    "klimat": 3
   }
 }

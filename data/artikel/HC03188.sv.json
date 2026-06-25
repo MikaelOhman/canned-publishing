@@ -12,8 +12,11 @@
   "tldr": "Regeringen vill ändra reglerna för riskskatt för banker och kreditinstitut. Förslaget innebär att en del av vinsten inte ska beskattas, men att skatten i procent höjs något för att staten ska få in lika mycket pengar som förut.",
   "lattlast": "<p>Regeringen har lagt fram ett förslag om att ändra lagen för riskskatt. Riskskatt är en skatt som banker och andra kreditinstitut måste betala. Det nya förslaget innebär att man inför ett grundavdrag. Ett grundavdrag betyder att en viss del av pengarna man räknar skatten på dras bort innan skatten beräknas.</p><p>För att staten inte ska förlora pengar på denna ändring föreslår regeringen att skatten höjs. Skatten ska gå från 0,06 procent till 0,07 procent av det belopp som ska beskattas. Syftet är att den totala summan som staten får in ska vara densamma som tidigare, även om reglerna ändras.</p><p>Om en bank tillhör en större grupp av banker, som kallas för en koncern, ska grundavdraget delas upp mellan de olika bankerna. Hur mycket varje bank får dra av beror på hur stor del av gruppens totala pengar varje enskild bank har.</p><p>Om förslaget går igenom i riksdagen ska de nya reglerna börja gälla den 1 januari 202kommandet 2026.</p>",
   "relevans": {
-    "storforetag": 1,
-    "b_finans": 2,
-    "bolagsskatt": 1
+    "b_finans": 10,
+    "storforetag": 7,
+    "aktiebolag": 6,
+    "bolagsskatt": 7,
+    "sparare": 4,
+    "pensionssparare": 3
   }
 }

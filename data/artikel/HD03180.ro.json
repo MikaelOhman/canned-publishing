@@ -12,12 +12,12 @@
   "tldr": "Guvernul dorește să facă renovarea locuințelor mai ușoară și mai ieftină, modificând regulile din legea privind construcțiile. Propunerea prevede că nu este necesar să se renoveze întreaga casă atunci când se efectuează modificări doar într-o parte a acesteia.",
   "lattlast": "<p>Guvernul a făcut o propunere de modificare a regulilor din legea privind planificarea urbană și construcțiile, legea care reglementează modul în care se pot construi și modifica clădirile în Suedia. Se dorește înlocuirea termenului &quot;remodelare&quot; cu &quot;modificare majoră a construcției&quot; pentru a clarifica ce se aplică atunci când se fac modificări într-o clădire.</p><p>Când se face o modificare majoră într-o parte a unei clădiri, aceasta trebuie să respecte doar noile reguli aplicabile acelei părți specifice. Anterior, existau posibilități de a impune ca întreaga clădire să respecte noile reguli, dar acum se dorește limitarea acestei posibilități. Se pot solicita modificări la întreaga clădire doar dacă există riscuri majore pentru sănătatea sau siguranța oamenilor, sau dacă este vorba de aspecte importante precum electricitatea, încălzirea și internetul.</p><p>De asemenea, va fi puțin mai ușor de respectat regulile privind accesibilitatea. Aceasta înseamnă că va fi mai simplu să se adapteze clădirile pentru ca persoanele cu dificultăți de mobilitate sau de orientare să le poată utiliza.</p><p>Dacă Parlamentul votează în favoarea propunerii, noile reguli vor intra în vigoare începând cu 1 ianuarie 2027. Propunerea afectează, de asemenea, alte legi care se referă la declarațiile de eficiență energetică și la măsurarea energiei în clădiri.</p>",
   "relevans": {
-    "b_bygg": 3,
-    "b_energi": 1,
-    "infrastruktur": 1,
-    "glesbygd": 1,
-    "funktion": 1,
-    "energikund": 1,
-    "bredbandsberoende": 1
+    "bygger": 8,
+    "bostadsagare": 6,
+    "b_bygg": 8,
+    "b_fastighet": 7,
+    "regelborda": 6,
+    "mark_bygglov": 7,
+    "lokaler": 5
   }
 }

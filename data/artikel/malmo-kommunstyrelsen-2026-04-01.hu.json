@@ -13,14 +13,19 @@
   "tldr": "A Malmö városházán tartott találkozó témája a város jövőjét érintő különböző javaslatok, pénzügyi támogatások és tervek áttekintése volt, többek között új építkezési projektek, valamint a kultúra és a rendezvények támogatása.",
   "lattlast": "<p>A malmöi önkormányzat több fontos kérdést is felvetett a város működésével kapcsolatban. Ezek közé tartozik a különböző szervezeteknek nyújtott támogatás, például a Fryshusetnek, valamint olyan rendezvények támogatása, mint a Malmö Dance Week és a Europe Smash.</p><p>Számos fontos terv került megvitatásra Malmö jövőjét illetően. Tervezik egy új Malmö Stadion építését, valamint egy részletes tervet készítenek a Sofielund városrészben található Malmkrossen területre. Emellett megvizsgálták, hogyan kell a városnak terveznie a helyi infrastruktúrát, és hogyan lehet javítani a környezetet, például zöld és kék területek létrehozásával.</p><p>A találkozón olyan kérdések is szóba kerültek, amelyekkel kapcsolatban Malmönek minden lakosának hasznára kell lennie. Megvitatták, hogyan lehet a várost vonzóbbá tenni az idősek számára, és hogyan lehet megelőzni a kábítószer-használatot a gyermekek és a fiatalok körében. Emellett javaslatok születtek a bölcsődék díjairól, különösen abban az esetben, ha a szülők nem élnek együtt.</p><p>Végül fontos szabályok és ellenőrzési mechanizmusok kerültek megvitatásra. Ez magában foglalja mindazt, hogyan kezelik az EU-ból származó új törvényeket a csomagolással és a levegőminőséggel kapcsolatban, valamint hogyan ellenőrzik, hogy a magánvállalatok, amelyek a város számára dolgoznak, betartják-e a szabályokat. Kiemelték a hibák vagy visszaélések bejelentésének fontosságát a &quot;whistleblower&quot; funkciók révén.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_kultur": 1,
-    "lokaler": 1,
-    "mark_bygglov": 1,
-    "barn": 1,
-    "bygger": 1,
-    "konsument": 1,
-    "klimat": 1,
-    "kultur": 1
+    "f_kommun": 6,
+    "barn": 4,
+    "pensionar": 4,
+    "ung": 4,
+    "kultur": 5,
+    "hyresgast": 4,
+    "bostadsagare": 3,
+    "mark_bygglov": 4,
+    "ensam_foralder": 4,
+    "miljo": 4,
+    "b_fastighet": 5,
+    "b_kultur": 4,
+    "ideell": 4,
+    "storstad": 5
   }
 }

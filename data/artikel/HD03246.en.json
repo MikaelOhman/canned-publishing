@@ -12,10 +12,13 @@
   "tldr": "The government proposes stricter penalties for young people who commit crimes. The proposal includes, among other things, that children as young as 13 years old can be held responsible for serious crimes for a period of five years.",
   "lattlast": "<p>The government wants to change the laws to curb the increasing crime among young people. One of the most important proposals is to lower the age at which someone can be punished for serious crimes to 13 years old. This proposal would be in effect for a period of five years.</p><p>For young adults who are of legal age but have committed crimes, the government wants to abolish the so-called youth discount. This means that the penalties should not be reduced simply because the person is young. For individuals under 18 years old, it is also proposed to increase the maximum possible sentences to 18 years in prison.</p><p>Other types of penalties and controls will also become stricter. This includes tightening the rules for youth supervision and being stricter if young people do not comply with their community service or youth care requirements. The aim is for the rules to be more effective against organized crime.</p><p>If these changes are approved by the parliament, the government plans for the new rules to come into effect on August 2, 2026. The proposal also includes changes to many other laws, such as laws regarding taxes, police work, and how personal data is handled.</p>",
   "relevans": {
-    "gdpr": 1,
-    "barn": 1,
-    "ung": 1,
-    "otrygg": 2,
-    "integritet": 1
+    "barn": 5,
+    "ung": 7,
+    "ung_vuxen": 6,
+    "otrygg": 6,
+    "brottsoffer": 5,
+    "domd": 7,
+    "offentliganstalld": 3,
+    "fortroendevald": 3
   }
 }

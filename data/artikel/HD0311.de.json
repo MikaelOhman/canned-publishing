@@ -12,10 +12,11 @@
   "tldr": "Die Regierung möchte Glücksspiele verbieten, die mit Krediten oder Darlehen bezahlt werden. Ziel ist es, zu verhindern, dass Menschen aufgrund von Glücksspiel in große Schulden geraten.",
   "lattlast": "<p>Die Regierung hat einen Vorschlag vorgelegt, das Gesetz über Glücksspiele zu ändern. Der neue Vorschlag besagt, dass Betreiber von Spielstätten oder Verkäufer von Spielangeboten, sogenannte Lizenznehmer und Spielvertreter, ihren Kunden nicht erlauben dürfen, mit Geld zu spielen, das sie sich geliehen haben.</p><p>Diejenigen, die Glücksspiele anbieten, müssen alles tun, um sicherzustellen, dass niemand bei der Teilnahme an Spielen Kredite verwendet. Dies gilt für alle Arten von legalen Spielen in Schweden, unabhängig davon, ob man online oder an einem physischen Ort spielt.</p><p>Es besteht die Möglichkeit, eine Ausnahme von dieser Regel zu erhalten, aber dafür muss die Behörde Spelinspektionen dies genehmigen. Spelinspektionen ist die Behörde, die dafür sorgt, dass alle die Regeln für Glücksspiele in Schweden einhalten.</p><p>Wenn das Parlament dem Vorschlag zustimmt, treten die neuen Regeln am 1. April 2026 in Kraft.</p>",
   "relevans": {
-    "b_finans": 3,
-    "tillstand": 2,
-    "infrastruktur": 1,
-    "lantagare": 1,
-    "batagare": 1
+    "beroende": 8,
+    "skuldsatt": 7,
+    "bidrag": 4,
+    "ung_vuxen": 4,
+    "konsument": 5,
+    "b_it": 3
   }
 }

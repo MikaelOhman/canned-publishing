@@ -12,7 +12,9 @@
   "tldr": "A Riksrevisionen (svéd állami ellenőrző szerv) felülvizsgálta a bölcsődék működését, és azt állapította, hogy az állam nem tesz elég erőfeszítést annak érdekében, hogy minden gyermek hozzáférjen ugyanaz a magas színvonalú bölcsődei ellátáshoz. A kormány úgy döntött, hogy jelenleg nem változtat semmin, mivel egy vizsgálat már folyamatban van.",
   "lattlast": "<p>A Riksrevisionen egy olyan intézmény, amely ellenőrzi, hogy az állam megfelelően végezze feladatait. Vizsgálatot végeztek annak érdekében, hogy megállapítsák, a Skolverket (Oktatási Hivatal) és a Skolinspektionen (Iskolai Felügyeleti Hatóság) megfelelően működik-e annak érdekében, hogy minden svéd óvodában azonos színvonalú legyen a szolgáltatás. Úgy vélik, hogy a jelenlegi rendszer nem működik megfelelően, mivel az óvodák ellenőrzéséért felelősök feladatai a községek és a Skolinspektionen között oszlanak meg.</p><p>Az óvodák igazságosabbá tételének érdekében a Riksrevisionen azt javasolja, hogy megváltoztassák az ellenőrzések módját. Úgy vélik, hogy egy egységes rendszerre van szükség, amelyben például a Skolinspektionen lenne felelős azért, hogy minden óvodát ugyanazon a módon ellenőrizzen. Ez biztonságosabbá és igazságosabbá tehetné a helyzetet minden gyermek számára.</p><p>A kormány azonban úgy döntött, hogy jelenleg nem hajtja végre a Riksrevisionen által javasolt változtatásokat. Ennek oka, hogy a kormány már elindított egy vizsgálatot, amelynek célja, hogy megvizsgálja, hogyan lehetne egy olyan, magas színvonalú óvodát létrehozni, amely minden gyermek számára egyenlő esélyeket biztosít. A kormány a vizsgálat eredményeire vár, mielőtt döntést hozna a következő lépésekről.</p>",
   "relevans": {
-    "regelborda": 3,
-    "barn": 3
+    "barn": 6,
+    "b_utbildning": 7,
+    "f_kommun": 5,
+    "offentliganstalld": 4
   }
 }

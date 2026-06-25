@@ -15,8 +15,12 @@
   "tldr": "Suedia va înființa o nouă agenție, care se va numi Serviciul de Informații Externe al Suediei (UND). Această agenție va începe să funcționeze la 1 ianuarie 2027.",
   "lattlast": "<p>Guvernul a prezentat o propunere de creare a unei noi agenții, numită Serviciul de Informații Externe al Suediei, prescurtat UND. Scopul acestei noi agenții este de a începe activitatea la 1 ianuarie 2027.</p><p>Pentru ca noua agenție să poată începe activitatea, sunt necesare numeroase modificări ale legislației existente. Guvernul propune, printre altele, noi reguli privind modul în care agenția poate gestiona datele personale, adică informații care pot fi asociate cu persoane individuale. Aceasta implică, de asemenea, modificarea legilor care reglementează aspecte diverse, de la securitate și arme până la mediu și reglementări de construcție.</p><p>Propunerea include o listă lungă de 23 de modificări legislative pe care Parlamentul trebuie să le aprobe. Aceste modificări afectează mai multe alte agenții și domenii, cum ar fi Forțele Armate, Poliția de Securitate și regulile privind utilizarea internetului și a dispozitivelor electronice.</p><p>Dacă Parlamentul aprobă propunerea, noile reguli vor intra în vigoare simultan cu începerea activității noii agenții, adică la 1 ianuarie 2027.</p>",
   "relevans": {
-    "gdpr": 1,
-    "lontagare": 1,
-    "integritet": 1
+    "integritet": 7,
+    "gdpr": 4,
+    "offentliganstalld": 5,
+    "fortroendevald": 4,
+    "varnpliktig": 4,
+    "b_it": 3,
+    "digitalisering": 3
   }
 }

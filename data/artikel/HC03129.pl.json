@@ -12,8 +12,11 @@
   "tldr": "Rząd zamierza wprowadzić nowe przestępstwo, aby powstrzymać wywóz skradzionych towarów poza granice kraju. Chce również nadać służbie celnej większe uprawnienia do prowadzenia dochodzeń i zajmowania nielegalnych towarów.",
   "lattlast": "<p>Rząd proponuje wprowadzenie nowego przestępstwa, jakim jest pomoc w transporcie skradzionych towarów poza granice Szwecji. Przestępstwo to nazywane jest &quot;wywozem pochodzenia przestępczego&quot;. Za popełnienie poważnego przestępstwa grozi kara do sześciu lat więzienia. Również próby popełnienia tego przestępstwa mają być nielegalne.</p><p>Propozycja ta wiąże się również z większą odpowiedzialnością dla Urzędu Celnego, czyli instytucji kontrolującej towary na granicach. Urząd ten ma wspierać prokuratorów w śledztwach i uzyskać większe uprawnienia do zwalczania przestępczości. Funkcjonariusze celni będą mogli prowadzić dochodzenia w sposób podobny do policji.</p><p>Istnieją również propozycje, aby organy zajmujące się zwalczaniem przestępczości mogły zatrzymywać przedmioty, które zostały skonfiskowane, w celu wykorzystania ich w szkoleniach lub do analizy dowodów. Jeśli przedmioty skonfiskowane są niebezpieczne lub trudne do przechowywania, można je niszczyć szybciej niż dotychczas.</p><p>Rząd zamierza również zmienić przepisy dotyczące kar za przemyt narkotyków, które mają być sprzedawane. Większość tych nowych przepisów ma wejść w życie we wrześniu 2025 roku, ale drobna zmiana w ustawie dotyczącej towarów podlegających opodatkowaniu zacznie obowiązywać już 1 lipca 2025 roku.</p>",
   "relevans": {
-    "import": 1,
-    "beroende": 1,
-    "otrygg": 2
+    "b_transport": 4,
+    "b_handel": 4,
+    "otrygg": 5,
+    "brottsoffer": 4,
+    "export": 3,
+    "import": 3
   }
 }

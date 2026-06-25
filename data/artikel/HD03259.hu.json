@@ -12,15 +12,18 @@
   "tldr": "A svéd kormány hosszú távú terveket dolgozott ki arról, hogyan fogják működtetni az ország utakat és vasútjait 2026 és 2037 között. A tervek célja, hogy a megfelelő területekre fókuszáljanak a közlekedés terén, és hogy a rendszert környezetbarátabbá tegyék.",
   "lattlast": "<p>A kormány most egy tervet mutatott be arról, hogyan kellene, hogy kinézzenek és működjenek Svédország közlekedési rendszerei 2026 és 2037 között. A tervezet minden közlekedési módra vonatkozik, beleértve az autókat, teherautókat és vonatok. Emellett meghatározták, hogy mennyi pénzt kell elkülöníteni az egyes régiókban az ország egész területén lévő utak és vasutak fejlesztésére.</p><p>A munka célja, hogy a közlekedés hatékonyabb és környezetbarátabb legyen. A kormány biztosítja, hogy könnyebb legyen az áruk és emberek okos módon történő szállítását. Emellett szeretnék, ha a járművek jobb minőségűek lennének, és hogy a forgalom nagyobb része elektromos energia helyett olyan üzemanyagot használjon, amely károsítja a környezetet.</p><p>A tervezet egyik fontos része a fosszilis üzemanyagokról, például a benzinnel és a dízelről való átállás megújuló és fenntartható alternatívákra. Ez a válasz a Riksdag korábbi követelményeire, amelyek szerint Svédországnak olyan közlekedési rendszert kell létrehoznia, amely hosszú távon is működik, anélkül, hogy a klímát károsítaná. A cél, hogy a technológia segítse minket a kibocsátás csökkentésében a jövőben.</p>",
   "relevans": {
-    "b_transport": 3,
-    "arbetsratt": 1,
-    "miljo": 1,
-    "infrastruktur": 1,
-    "glesbygd": 1,
-    "bil": 2,
-    "kollektiv": 1,
-    "kronisk": 1,
-    "energikund": 1,
-    "klimat": 3
+    "bil": 5,
+    "pendlare": 6,
+    "kollektiv": 5,
+    "glesbygd": 4,
+    "b_transport": 8,
+    "b_industri": 5,
+    "b_bygg": 4,
+    "b_energi": 5,
+    "energikund": 4,
+    "klimat": 5,
+    "gron_omstallning": 6,
+    "infrastruktur": 7,
+    "f_landsbygd": 4
   }
 }

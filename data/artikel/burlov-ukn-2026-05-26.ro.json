@@ -13,13 +13,13 @@
   "tldr": "Comuna Burlöv înregistrează un deficit financiar în domeniile educației și culturii. Acest lucru se datorează, în principal, faptului că numărul de elevi este mai mare decât cel estimat, ceea ce obligă comuna să achiziționeze locuri suplimentare în alte școli.",
   "lattlast": "<p>Comisia a analizat situația financiară a începutului anului 2026. S-a constatat că municipalitatea a înregistrat pierderi de 0,6 milioane de coroane suedeze în perioada ianuarie-aprilie. Se estimează că deficitul total pentru întregul an ar putea ajunge la 8,1 milioane de coroane suedeze.</p><p>Motivul pentru care fondurile sunt insuficiente este că numărul de elevi înscriși în școlile primare și liceale a depășit estimările. Când numărul de elevi crește, municipalitatea trebuie să plătească pentru locuri în alte școli, ceea ce implică costuri semnificative. De asemenea, programele de educație pentru adulți au costuri mai mari decât cele estimate.</p><p>În schimb, situația este diferită în cazul grădinițelor. Acolo, numărul de copii este mai mic decât cel planificat, ceea ce a permis economii de personal și de spații, creând un surplus financiar în cadrul grădinițelor.</p><p>În protocol mai sunt menționate și alte evenimente importante. De exemplu, se anunță organizarea &quot;Burlövsfesten&quot; pe 5 septembrie, în apropierea centrului Burlöv, și se prezintă activitatea echipei de asistență socială școlară, care contribuie la asigurarea siguranței în școli.</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "b_utbildning": 1,
-    "b_kultur": 1,
-    "lokaler": 1,
-    "barn": 3,
-    "vuxenstudier": 1,
-    "kultur": 1,
-    "otrygg": 1
+    "f_kommun": 4,
+    "barn": 5,
+    "ung": 4,
+    "gymnasieelev": 4,
+    "student": 3,
+    "vuxenstudier": 3,
+    "offentliganstalld": 4,
+    "b_utbildning": 4
   }
 }

@@ -13,16 +13,20 @@
   "tldr": "Het college van burgemeester en wethouders van Malmö heeft een vergadering gehouden waarin verschillende belangrijke kwesties over de financiën van de stad, het personeel en de toekomstige plannen zijn besproken. Onderwerpen die aan bod kwamen waren onder meer de steun aan vrouwenopvangcentra en hoe Malmö zich de komende tien jaar zal ontwikkelen.",
   "lattlast": "<p>Het college van burgemeester en wethouders van Malmö heeft diverse onderwerpen behandeld die betrekking hebben op het bestuur van de stad. Een belangrijk punt is het verstrekken van extra geld aan opvangcentra voor kinderen en vrouwen in Malmö, om het te compenseren dat er geld ontbreekt vanuit de staat. Er is ook een besluit genomen om geld te verplaatsen om jonge mensen te helpen die in een risicovolle situatie verkeren.</p><p>De stad kijkt naar haar toekomst door een prognose te analyseren van het aantal inwoners van Malmö tussen 2026 en 2036. Er is ook discussie geweest over de aankoop van locaties voor woonvoorzieningen voor mensen met een functiebeperking, zogenaamde LSS-woningen. Bovendien is er gesproken over hoe Malmö haar investeringen moet aanpakken en hoe het werk om meer werklozen aan een baan te helpen kan worden verbeterd.</p><p>Wat betreft personeel is er gesproken over de aanstelling van hoge functionarissen, zoals een stadsdirecteur en een directeur van de afdeling arbeidsmarkt en sociale zaken. Er is ook gekeken naar regels voor de vergoedingen die politici in de toekomst ontvangen voor hun taken.</p><p>Er zijn ook verschillende voorstellen, zogenaamde moties, ingediend door politici. Deze voorstellen gaan over uiteenlopende onderwerpen, van het onderzoeken van islamitische bewegingen en het oprichten van een schoonheidsraad, tot het herzien van huurprijzen voor gezinnen met kinderen en het verbeteren van de zorg voor ouderen.</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "b_fastighet": 1,
-    "finansiering": 1,
-    "lokaler": 1,
-    "barn": 1,
-    "stor_familj": 1,
-    "pensionar": 1,
-    "lontagare": 1,
-    "arbetssokande": 1,
-    "funktion": 2,
-    "idrott": 1
+    "f_storstad": 5,
+    "storstad": 4,
+    "f_kommun": 5,
+    "kvinna": 5,
+    "barn": 5,
+    "ensam_foralder": 5,
+    "funktion": 5,
+    "bostadslos": 4,
+    "arbetssokande": 5,
+    "bidrag": 4,
+    "pensionar": 4,
+    "ny_i_sverige": 4,
+    "fortroendevald": 5,
+    "offentliganstalld": 4,
+    "ideell": 4
   }
 }

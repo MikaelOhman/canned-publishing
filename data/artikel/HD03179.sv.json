@@ -12,9 +12,9 @@
   "tldr": "Regeringen vill införa en ny lag som gör det lättare för Försvarets radioanstalt att spana efter information i radiosignaler vid krig eller krigsfara. Syftet är att stärka Sveriges säkerhet och kunna upptäcka hot som terrorism och allvarlig brottslighet.",
   "lattlast": "<p>Regeringen har lagt fram ett förslag på en ny lag om signalspaning. Signalspaning betyder att man lyssnar på och analyserar digital information och radiosignaler för att hitta viktig information. Denna nya lag ska hjälpa myndigheten Försvarets radioanstalt att arbeta effektivt när Sverige befinner sig i krig eller när det finns en risk för krig.</p><p>Förslaget innehåller också ändringar i befintliga lagar. Det ska bli möjligt att använda signalspaning även vid militära övningar. Man vill också kunna spana mer effektivt för att hitta internationell terrorism och andra stora brott som kan skada Sveriges intressen. Det blir även lättare att hantera information i nödsituationer där man tidigare inte fått spara vissa typer av signaler.</p><p>För att detta ska fungera föreslår regeringen även ändringar i reglerna för Försvarsunderrättelsedomstolen, som är den domstol som kontrollerar spårningen. Man vill också ändra reglerna för hur personuppgifter får hanteras av Försvarets radioanstalt när de arbetar med sina nya uppdrag.</p><p>Om riksdagen röstar ja till förslaget kommer de nya lagarna att börja gälla den 1 augusti 2026.</p>",
   "relevans": {
-    "gdpr": 1,
-    "otrygg": 1,
-    "integritet": 1,
-    "varnpliktig": 3
+    "integritet": 5,
+    "varnpliktig": 4,
+    "offentliganstalld": 3,
+    "b_it": 3
   }
 }

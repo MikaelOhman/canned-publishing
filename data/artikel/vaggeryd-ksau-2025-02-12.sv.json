@@ -13,10 +13,11 @@
   "tldr": "Kommunen har beslutat att låta boende och företag få titta på ett nytt förslag för ett område i Stödstorp. Förslaget handlar om att ändra reglerna för hur man får köra ut från området LogPoint South Sweden mot väg 846.",
   "lattlast": "<p>Kommunstyrelsens arbetsutskott har tagit ett beslut om en ändring av en detaljplan för ett område som heter Stödstorp 2:1 LogPoint South Sweden. En detaljplan är ett dokument som bestämmer vad man får göra på en viss plats, till exempel hur vägar eller byggnader får användas.</p><p>Det stora målet med ändringen är att ta bort ett förbud som finns idag. Idag är det förbjudet att köra ut från området mot väg 8akt, men man vill ändra på detta. Man har också undersökt om den nya planen kan skada miljön på ett stort sätt och kommit fram till att det inte finns någon sådan risk.</p><p>Innan beslutet togs har man haft ett samråd under december 2024 och januari 2025. Ett samråd är ett möte eller en period där man frågar de som berörs vad de tycker. Efter att ha lyssnat på åsikterna har man nu skapat nya dokument som visar det uppdaterade förslaget.</p><p>Nu ska det nya förslaget ställas ut för granskning. Det betyder att alla som vill kan läsa dokumenten och se vad som planeras. Detta görs enligt den lag som styr byggande och planering i Sverige, även kallad Plan- och bygglagen.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "mark_bygglov": 1,
-    "bygger": 1,
-    "glesbygd": 1,
-    "klimat": 1
+    "b_transport": 6,
+    "b_industri": 5,
+    "f_kommun": 6,
+    "mark_bygglov": 5,
+    "lokaler": 4,
+    "bil": 3
   }
 }

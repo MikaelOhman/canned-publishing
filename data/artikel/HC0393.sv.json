@@ -12,9 +12,12 @@
   "tldr": "Regeringen vill ändra lagen för att polisen och Säkerhetspolisen ska kunna använda kameror lättare för att bekämpa brott. De nya reglerna föreslås börja gälla den 1 maj 2025.",
   "lattlast": "<p>Regeringen har gjort ett förslag på nya regler för kamerabevakning. Målet är att polisen och Säkerhetspolisen ska kunna använda kameror på ett mer effektivt sätt för att stoppa allvarlig brottslighet. Det innebär bland annat att myndigheterna inte längre behöver söka tillstånd för att använda kameror på vissa sätt.</p><p>Polisen ska nu få använda kameror på fler platser, även på platser som är viktiga för att motverka brott men där det inte finns en direkt risk för brott just nu. Det blir också enklare för polisen att använda kameror i akuta situationer som kräver snabba beslut. Dessutom får polisen använda teknik som automatiskt kan läsa av registreringsnummer på bilar i hela landet.</p><p>Förslaget innebär också att det blir lättare för polisen att använda drönare och kameror monterade på bilar utan att de alltid måste informera alla som ser dem. Dessa ändringar handlar om att ändra flera olika lagar som styr hur polisen och Säkerhetspolisen får hantera personuppgifter och arbeta med brottsförebyggande åtgärder.</p><p>Om riksdagen röstar ja till förslaget kommer de nya reglerna att börja gälla från den 1 maj 2025. Detta är en del av regeringens arbete med att stärka brottsbekämpningen i Sverige.</p>",
   "relevans": {
-    "tillstand": 1,
-    "gdpr": 1,
-    "otrygg": 2,
-    "integritet": 1
+    "otrygg": 6,
+    "brottsoffer": 5,
+    "integritet": 7,
+    "bil": 5,
+    "pendlare": 3,
+    "gdpr": 5,
+    "offentliganstalld": 4
   }
 }

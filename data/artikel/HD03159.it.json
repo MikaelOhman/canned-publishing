@@ -12,11 +12,20 @@
   "tldr": "Il governo intende modificare le leggi per risparmiare più energia negli edifici e per facilitare la ricarica di veicoli elettrici e il parcheggio di biciclette. La proposta prevede nuovi requisiti per il controllo del riscaldamento e della ventilazione negli edifici.",
   "lattlast": "<p>Il governo ha presentato una proposta per modificare le regole sull&#x27;utilizzo dell&#x27;energia negli edifici. L&#x27;obiettivo è raggiungere nuovi obiettivi di risparmio energetico e conformarsi a nuove normative dell&#x27;UE. La proposta riguarda, tra l&#x27;altro, la modifica della legge sulle certificazioni energetiche e della legge sulla pianificazione e costruzione.</p><p>Ciò significa che sarà più importante controllare l&#x27;involucro dell&#x27;edificio, ovvero la cosiddetta &quot;barriera climatica&quot;, durante importanti ristrutturazioni. Tutti gli edifici di proprietà o utilizzati da enti pubblici e comuni devono avere una certificazione energetica. Inoltre, i sistemi di riscaldamento, ventilazione e condizionamento dell&#x27;aria devono essere controllati a intervalli regolari, ogni tre o cinque anni a seconda delle loro dimensioni.</p><p>Sarà inoltre possibile per i proprietari di immobili utilizzare un piano di efficientamento energetico per dimostrare come intendono migliorare le loro abitazioni. Inoltre, le regole relative alla ricarica dei veicoli elettrici sono state modificate e ora sono denominate &quot;mobilità sostenibile&quot;. Ciò significa che in futuro potrebbero essere previste anche disposizioni che richiedano la presenza di aree di parcheggio adeguate per le biciclette.</p><p>Se la proposta sarà approvata, le nuove regole entreranno in vigore il 1° luglio 2026.</p>",
   "relevans": {
-    "b_bygg": 3,
-    "b_energi": 3,
-    "bil": 1,
-    "beroende": 1,
-    "energikund": 3,
-    "klimat": 1
+    "b_fastighet": 7,
+    "b_energi": 7,
+    "b_bygg": 7,
+    "energiintensiv": 6,
+    "gron_omstallning": 6,
+    "miljo": 5,
+    "eu_marknad": 5,
+    "mark_bygglov": 5,
+    "lokaler": 5,
+    "bostadsagare": 6,
+    "bil": 5,
+    "energikund": 6,
+    "klimat": 5,
+    "bygger": 6,
+    "hallbarhetsrapport": 4
   }
 }

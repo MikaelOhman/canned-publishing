@@ -12,7 +12,17 @@
   "tldr": "La Svezia intende contrastare le frodi sull'IVA, conferendo all'Agenzia delle Entrate maggiori poteri per controllare e bloccare le aziende che commettono irregolarità. Le nuove norme entreranno in vigore il 1° luglio 2026.",
   "lattlast": "<p>Molte aziende utilizzano metodi scorretti per evitare di pagare l&#x27;IVA quando effettuano transazioni commerciali con altri paesi all&#x27;interno dell&#x27;UE. Questo viene definito frode IVA e causa ingenti perdite di denaro per lo Stato. Il governo intende ora modificare la legge per porre fine a questa pratica.</p><p>L&#x27;Agenzia delle Entrate, l&#x27;ente che controlla le imposte in Svezia, dovrà acquisire maggiori poteri. Dovrà essere in grado di controllare le aziende in modo più approfondito quando queste desiderano registrarsi per l&#x27;IVA. Se l&#x27;Agenzia delle Entrate sospetta frode, dovrà poter negare la registrazione a un&#x27;azienda o revocarla.</p><p>L&#x27;Agenzia delle Entrate dovrà inoltre poter contrassegnare un numero di registrazione come non valido in un sistema europeo comune chiamato VIES. Questo sistema viene utilizzato in tutta l&#x27;UE per verificare che un&#x27;azienda sia legittima. In questo modo, diventerà più difficile per i truffatori ingannare altre aziende in Europa.</p><p>È inoltre prevista una proposta secondo cui l&#x27;Agenzia delle Entrate potrebbe decidere che le aziende non debbano ricevere rimborsi se hanno pagato troppa IVA. Lo scopo di tutte queste nuove regole è ridurre le frodi fiscali e garantire che tutti paghino le tasse corrette. La proposta dovrebbe entrare in vigore il 1° luglio 2026.</p>",
   "relevans": {
-    "moms": 3,
-    "konsument": 1
+    "moms": 9,
+    "aktiebolag": 5,
+    "solo": 4,
+    "smaforetag": 5,
+    "storforetag": 6,
+    "b_handel": 6,
+    "b_finans": 4,
+    "export": 5,
+    "eu_marknad": 7,
+    "redovisning": 5,
+    "gdpr": 3,
+    "regelborda": 4
   }
 }

@@ -12,10 +12,15 @@
   "tldr": "A kormány szeretné megváltoztatni a lakhatási támogatás számítási módját annak érdekében, hogy csökkentsék a kockázatot, hogy az emberek helytelen összeget kapják meg, majd később vissza kell fizetniük. A javaslat szerint a jövedelmet havonta, nem pedig évente kellene figyelembe venni.",
   "lattlast": "<p>A kormány egy javaslatot tett, amelynek célja a lakhatási támogatás igazságosabbá tétele. A cél az, hogy kevesebb ember kapjon túl sok pénzt, ami gyakran ahhoz vezet, hogy a lakosok adósságot halmoz fel, amikor a hatóságok visszakövetelik a pénzt.</p><p>Az új rendszer szerint a támogatást a havonta szerzett jövedelem alapján számítják. Négy hónapos időszakban a három hónapban szerzett munkajövedelmet vizsgálják, felhasználva a munkáltatók által a statisztikák számára nyújtott adatokat.</p><p>Ha valaki egyéni vállalkozó, vagy ha nehéz a havi jövedelem meghatározása, akkor továbbra is a régi rendszert alkalmazzák, amely a teljes évre vonatkozik. A banki számlákon vagy más vagyonszerzéseken szerzett jövedelmet továbbra is az előző év alapján számolják, mivel ezek az adatok nem módosíthatók havonta.</p><p>Ha a jövedelem az év során megváltozik, a lakhatási támogatást azonnal újra kell számítani. Ha a javaslatot elfogadják, az új szabályok 2027. január 1-jén lépnek életbe.</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "b_finans": 1,
-    "ensam_foralder": 3,
-    "hyresgast": 3,
-    "lantagare": 1
+    "bidrag": 8,
+    "hyresgast": 7,
+    "bostadslos": 6,
+    "student": 5,
+    "ung_vuxen": 5,
+    "ensam_foralder": 6,
+    "barn": 5,
+    "skuldsatt": 5,
+    "lontagare": 4,
+    "foretagare": 3
   }
 }

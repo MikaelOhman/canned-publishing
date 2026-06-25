@@ -12,10 +12,15 @@
   "tldr": "Guvernul dorește să înăsprească pedepsele pentru furtul sau divulgarea de informații confidențiale din companii. Va deveni o infracțiune chiar și în situația în care o persoană are dreptul să acceseze informațiile prin intermediul activității sale, dar le utilizează în mod abuziv.",
   "lattlast": "<p>Guvernul a prezentat o propunere pentru a proteja mai bine secretele companiilor și instituțiilor de cercetare suedeze. Scopul este de a combate spionajul industrial, adică situația în care alte entități spionează industriile suedeze pentru a obține avantaje. Prin consolidarea protecției, se speră că companiile vor fi mai dispuse să investească mai mult în tehnologii noi și dezvoltare.</p><p>Propunerea prevede că va fi considerată infracțiune utilizarea sau divulgarea de informații tehnice importante fără autorizație. Acest lucru se aplică chiar și persoanelor care au drept legal de a accesa aceste informații, cum ar fi angajații care au acces la ele în cadrul activității lor. Se referă în principal la acele secrete care sunt cele mai importante pentru dezvoltarea tehnologică și pentru industria suedeză.</p><p>Pentru a implementa acest lucru, guvernul propune modificări în mai multe legi, inclusiv în legea privind secretele comerciale și în reglementările pentru poliție. Dacă Parlamentul va vota în favoarea propunerii, noile reguli vor intra în vigoare începând cu 1 ianuarie 2026.</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "b_industri": 1,
-    "b_vard": 1,
-    "fou": 1,
-    "otrygg": 1
+    "aktiebolag": 6,
+    "smaforetag": 5,
+    "storforetag": 6,
+    "b_it": 5,
+    "b_industri": 5,
+    "immaterialratt": 8,
+    "fou": 6,
+    "digitalisering": 4,
+    "arbetsratt": 4,
+    "kompetens": 3
   }
 }

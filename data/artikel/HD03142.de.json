@@ -12,7 +12,20 @@
   "tldr": "Die Regierung plant, Gesetze zu ändern, um es den Menschen sicherer zu machen, sich im Falle von Krieg oder einer Krise zu schützen. Dazu gehören die Verbesserung von Schutzräumen und die Entwicklung besserer Pläne für die Unterbringung von Menschen, falls die Alarmbereitschaft erhöht wird.",
   "lattlast": "<p>Die Sicherheit in Schweden hat sich verschlechtert, und deshalb arbeitet der Staat daran, die zivilen Verteidigungsmaßnahmen zu verstärken. Das bedeutet, dass wir bessere Schutzräume und andere sichere Orte benötigen, an denen wir im Falle eines Krieges oder einer großen Krise im Land sein können. Dies wird als erhöhte Bereitschaft bezeichnet.</p><p>Die Regierung hat einen Vorschlag an das Parlament (Riksdag) zur Änderung mehrerer Gesetze vorgelegt. Sie möchte ein neues Gesetz über Schutzräume einführen und die Gesetze ändern, die regeln, wie Menschen im Falle von Krisen evakuiert und untergebracht werden. Sie möchte auch Änderungen im Baugesetzbuch (Plan- och bygglagen) vornehmen, dem Gesetz, das regelt, wie Häuser in Schweden gebaut werden dürfen.</p><p>Ziel der Änderungen ist es, klare Pläne dafür zu haben, wer für was verantwortlich ist, wenn Menschen evakuiert werden müssen. Es soll auch klar sein, wie Unterkünfte für diejenigen organisiert werden, die nicht in ihren Häusern bleiben können.</p><p>Wenn das Parlament den Vorschlag annimmt, treten die neuen Regeln am 1. Juni 2026 in Kraft.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "varnpliktig": 1
+    "bostadsagare": 5,
+    "hyresgast": 5,
+    "bostadslos": 4,
+    "glesbygd": 3,
+    "storstad": 3,
+    "mindre_ort": 3,
+    "varnpliktig": 5,
+    "barn": 4,
+    "pensionar": 4,
+    "kronisk": 3,
+    "funktion": 3,
+    "mark_bygglov": 4,
+    "b_fastighet": 3,
+    "f_kommun": 4,
+    "offentliganstalld": 3
   }
 }

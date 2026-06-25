@@ -12,8 +12,12 @@
   "tldr": "Azok az önkormányzatok, amelyek a földméréshez kapcsolódó feladatokat látják el, 2027-től kezdve az állami Lantmäteriet hatóság által használt digitális rendszert kell, hogy alkalmazzák. Ez azért történik, hogy biztosítsák a technológiák összehangolását az önkormányzatok és az állam között.",
   "lattlast": "<p>A kormány egy javaslatot terjesztett elő a helyi földmérési hatóságok szabályozásának módosítására. A helyi földmérési hatóság egy önkormányzat azon részlege, amely a földekkel és a határokkal kapcsolatos kérdésekkel foglalkozik. 2027. január 1-jétől ezeknek az önkormányzati hatóságoknak kötelező lesz ugyanazt a digitális rendszert használniuk ügyeik intézéséhez, mint amelyet az állami földmérési hivatal (Lantmäteriet) használ.</p><p>A változás célja, hogy biztosítsa a technikai eszközök és a folyamat támogatásának egységességét. A cél az, hogy az információk egyszerűen és biztonságosan oszthatók legyenek meg az önkormányzatok és az állam között. Ha egy önkormányzat nem használja a megfelelő rendszereket, a kormány visszavonhatja a földmérési tevékenység folytatásához szükséges engedélyt.</p><p>A kormány, vagy a kormány által meghatározott hatóság is előírhatja, hogy ezek a technikai rendszerek hogyan használhatók. Emellett eldöntheti, hogy a rendszerek használata díjköteles-e, különböző díjak formájában.</p><p>A javaslat egyértelművé teszi azokat a követelményeket, amelyeknek egy önkormányzatnak meg kell felelnie ahhoz, hogy saját földmérési hatóságot indíthasson. Ezek közé tartozik a megfelelő személyzet, a megfelelő szervezeti struktúra, valamint az a technológia, amely lehetővé teszi az információk átvitelét az állam és az önkormányzat között.</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "tillstand": 1,
-    "konsument": 1
+    "f_kommun": 5,
+    "mark_bygglov": 6,
+    "bostadsagare": 3,
+    "bygger": 4,
+    "b_fastighet": 6,
+    "digitalisering": 4,
+    "offentliganstalld": 4
   }
 }

@@ -12,8 +12,15 @@
   "tldr": "Regeringen vill ta bort förbudet mot att bryta uran i Sverige. Detta gör det möjligt att undersöka och utvinna uran för att säkra tillgången på viktiga metaller i Sverige och EU.",
   "lattlast": "<p>Regeringen har lagt fram ett förslag som innebär att det ska bli lagligt att bryta uran i svenska gruvor. Idag finns ett förbud i miljöbalken som stoppar detta, men genom att ändra lagen kan företag få tillstånd att både leta efter och utvinna uran i berggrunden.</p><p>Förslaget innebär också att reglerna för mindre verksamheter ändras. Om man hanterar små mängder uran kommer regeringen inte längre att behöva göra en obligatorisk prövning av verksamheten. Det betyder också att kommunerna inte längre har rätt att säga nej, så kallat kommunalt veto, till dessa mindre projekt.</p><p>Syftet med ändringarna är att Sverige och EU ska få bättre tillgång till viktiga mineraler som behövs i framtiden. Om förslaget går igenom kommer de nya reglerna att börja gälla den 1 januari 2026.</p><p>Förslaget innebär ändringar i två viktiga lagar, nämligen miljöbalken och minerallagen. Riksdagen ska nu besluta om de ska godkänna regeringens förslag.</p>",
   "relevans": {
-    "tillstand": 1,
-    "miljo": 1,
-    "klimat": 1
+    "b_industri": 7,
+    "b_energi": 5,
+    "b_grona": 4,
+    "miljo": 6,
+    "mark_bygglov": 5,
+    "tillstand": 6,
+    "gron_omstallning": 4,
+    "klimat": 5,
+    "f_landsbygd": 4,
+    "glesbygd": 3
   }
 }

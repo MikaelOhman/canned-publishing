@@ -15,17 +15,15 @@
   "tldr": "A Gävle önkormányzat egy ülésen döntött a jövőbeli építkezések és beruházások költségvetéséről, valamint jóváhagyta a környezetvédelmi és gazdasági jelentéseket. Emellett a lakókocsik számára kijelölt parkolóhelyekről és a természetvédelmi területekről is tárgyaltak.",
   "lattlast": "<p>A Gävle önkormányzatban a közgyűlésben ülő politikusok áttekintették a következő évek fontos terveit. Döntést hoztak egy beruházási és fejlesztési költségvetésről, amely 2027 és 2030 között érvényes. Ez azt jelenti, hogy egy tervet készítettek arról, hogyan kell a pénzt jövőbeli építési projektekre és a településen található területek fejlesztésére fordítani.</p><p>A politikusok gazdasági jelentéseket is vizsgáltak. Áttekintették, hogy az önkormányzat és annak vállalatainak hogyan teljesített 2026 első felében. Emellett jóváhagyták a Gästrike Mentőszolgálat (ami a tűzvédelmet látja el) és a Gästrike Újrahasznosító (ami az újrahasznosítással foglalkozik) éves jelentéseit.</p><p>A környezetvédelemmel és a szabadidős tevékenységekkel kapcsolatos kérdések is napirenden voltak. Ezek között szerepelt az Almkärret természetvédelmi terület, valamint javaslatok a lakóautók számára parkolóhelyek létrehozására a Hemlingby szabadidőterületen. Emellett megvitatták a nyilvános területek, például a járdák és a tervek használatára vonatkozó szabályokat, és felülvizsgálták az ezzel kapcsolatos díjakat.</p><p>A gyűlésen különböző pártok által benyújtott javaslatokat, úgynevezett indítványokat is tárgyaltak. Ezek között szerepelt egy javaslat a szabadidős tevékenységek támogatására és idősek számára biztonságos lakhatási lehetőségek kiépítésére. Emellett dolgoztak azon, hogy frissítsék a nyugdíjak kezelésére vonatkozó szabályokat az önkormányzat irányelveiben.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "redovisning": 1,
-    "finansiering": 1,
-    "miljo": 1,
-    "pensionar": 1,
-    "bil": 1,
-    "konsument": 1,
-    "friluftsliv": 2,
-    "idrott": 1,
-    "klimat": 1,
-    "otrygg": 1,
-    "fortroendevald": 1
+    "f_kommun": 5,
+    "b_fastighet": 3,
+    "mark_bygglov": 3,
+    "miljo": 4,
+    "klimat": 4,
+    "friluftsliv": 4,
+    "pensionar": 3,
+    "bil": 3,
+    "batagare": 3,
+    "fortroendevald": 3
   }
 }

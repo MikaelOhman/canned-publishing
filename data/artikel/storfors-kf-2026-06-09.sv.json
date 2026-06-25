@@ -13,11 +13,10 @@
   "tldr": "Kommunfullmäktige i Storfors har beslutat om bland annat ekonomiskt stöd till partier och att köpa en fastighet. De har även godkänt årsredovisningar och ansvarsfrihet för flera nämnder för år 2025.",
   "lattlast": "<p>I mötet den 9 juni 2026 fattade politikerna i Storfors flera viktiga beslut. Bland annat beslutades det om partistöd för år 2026, vilket är de pengar som kommunen ger till de politiska partierna för att de ska kunna arbeta. Kommunen har också beslutat att använda investeringsmedel för att köpa en fastighet.</p><p>Politikerna har gått igenom och godkänt årsredovisningar för både Storfors kommun och Stiftelsen Björkåsen för år 202kommande 2025. En årsredovisning är ett dokument som visar hur ekonomin har sett ut under det gångna året. I samband med detta har de även gett ansvarsfrihet till flera olika nämnder. Att ge ansvarsfrihet betyder att politikerna i dessa nämnder har gjort sitt jobb på ett korrekt sätt under året.</p><p>De nämnder som nämns är bland annat kommunstyrelsen, valnämnden, administrativa nämnden och drifts- och servicenämnden. Även andra organisationer som Bergslagens räddningstjänst och Värmlands läns kalkningsförbund har fått sin ansvarsfrihet godkänd för året 2025.</p><p>Det fanns även andra punkter på listan, som ett medborgarförslag om att bygga en hälsotrappa i Storfors och ett beslut om nya regler för pension och stöd till förtroendevalda politiker.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_fastighet": 1,
-    "redovisning": 1,
-    "finansiering": 1,
-    "pensionar": 1,
-    "fortroendevald": 2
+    "f_kommun": 5,
+    "b_fastighet": 4,
+    "fortroendevald": 6,
+    "pensionar": 3,
+    "ideell": 3
   }
 }

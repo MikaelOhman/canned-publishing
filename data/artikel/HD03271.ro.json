@@ -12,9 +12,12 @@
   "tldr": "Legea privind avortul este modernizată. Se clarifică faptul că o femeie însărcinată poate face un avort până la sfârșitul săptămânii a 18-a de sarcină, că avortul trebuie efectuat prompt și că cerința ca avortul să fie realizat într-un spital este eliminată – ceea ce face posibilă întreruperea unei sarcini incipiente acasă, cu medicamente. Legea este adaptată progreselor medicale.",
   "lattlast": "<p>Guvernul propune modificări ale legii avortului din 1974. Scopul este de a moderniza limbajul și de a adapta legea la practica medicală actuală și la nevoile femeilor însărcinate.</p><p>Se clarifică faptul că avortul poate fi efectuat până la sfârșitul săptămânii a 18-a de sarcină și că avortul trebuie oferit rapid. Avortul trebuie să poată fi efectuat într-un spital sau într-o altă unitate medicală autorizată.</p><p>Cerința ca avortul să fie efectuat obligatoriu într-un spital este eliminată. Acest lucru deschide posibilitatea ca un avort precoce să poată fi efectuat acasă, cu medicamente, și permite o utilizare mai flexibilă a medicamentelor pentru avort.</p>",
   "relevans": {
-    "b_life": 1,
-    "gravid": 2,
-    "kvinna": 3,
-    "kronisk": 2
+    "gravid": 10,
+    "kvinna": 8,
+    "kronisk": 4,
+    "b_vard": 5,
+    "b_life": 4,
+    "hbtq": 4,
+    "offentliganstalld": 3
   }
 }

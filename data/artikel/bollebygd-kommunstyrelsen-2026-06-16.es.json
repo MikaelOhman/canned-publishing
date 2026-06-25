@@ -15,13 +15,11 @@
   "tldr": "El ayuntamiento de Bollebygds ha tomado decisiones sobre nuevas normas que regirán el funcionamiento del municipio en caso de guerra o estado de alerta elevado. También se han aprobado nuevos planes para la construcción y la arquitectura en el municipio.",
   "lattlast": "<p>La junta de gobierno municipal ha aprobado nuevas directrices sobre cómo el municipio debe organizar sus actividades en caso de guerra o estado de alerta elevado. Esto significa que se han establecido de antemano las áreas más importantes del trabajo municipal que deben tener prioridad si la situación en la sociedad se vuelve incierta. El objetivo es que las funciones esenciales de la sociedad puedan seguir operando incluso en tiempos difíciles.</p><p>En relación con la construcción y la planificación urbana, se han tomado varias decisiones. Entre ellas, se ha encomendado a un equipo el trabajo de elaboración de planes detallados para áreas como Bollebygds Prästgård y Låddekärrsbu. Un plan detallado es un documento que determina qué se puede construir y cómo se puede utilizar el terreno.</p><p>El municipio también ha aprobado una nueva estrategia de arquitectura. Se trata de un plan sobre cómo deben ser y diseñarse los edificios y los entornos en el futuro. Además, se ha decidido suspender un proyecto de planificación en la zona de Getabrohult y se han iniciado nuevos proyectos para planificar el uso del suelo en esa área.</p><p>Finalmente, se ha recibido información sobre cómo el municipio trabaja en materia de protección de datos y seguridad. El nuevo responsable de protección de datos de la región de Borås ha presentado cómo se cumplen las normas sobre datos personales (RGPD) para proteger la información de los residentes.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_fastighet": 1,
+    "f_kommun": 5,
+    "b_bygg": 4,
+    "mark_bygglov": 4,
     "gdpr": 3,
-    "mark_bygglov": 1,
-    "bygger": 1,
-    "storstad": 1,
-    "klimat": 1,
-    "integritet": 1
+    "bostadsagare": 3,
+    "hyresgast": 3
   }
 }

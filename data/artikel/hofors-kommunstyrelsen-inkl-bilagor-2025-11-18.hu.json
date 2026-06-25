@@ -13,12 +13,13 @@
   "tldr": "A Hofors önkormányzat közgyűlése 2025. november 18-án tartott ülést. Az ülésen fontos témák kerültek megvitatásra, többek között a LSS (Szakmai Rehabilitációs Törvény) alapján támogatást nyújtó személyek munkavégzési időtartama, a különböző szolgáltatások új díjszabása, valamint a polgárok javaslatai a település fejlesztésével kapcsolatban.",
   "lattlast": "<p>A Hofor önbíróság több fontos ügyet tárgyalt. Egyebek mellett egy jelentést fogadtak el a LSS (Lag om stöd och service till personer med funktionsnedsättning) szerint támogatást nyújtó személyek munkavégzési időtartamáról, amely törvény a bizonyos fogyatékossággal élő személyek támogatását szolgálja. Korábban kivételeket alkalmaztak a pihenési szabályokból, és most információt kaptak arról, hogy a munka hogyan halad a pihenési szabályoknak való megfelelés terén.</p><p>Különböző, a lakosokat érintő díjak és adók is szóba kerültek. Ez magában foglalja a környezet- és egészségvédelmi felügyelet költségeit, valamint az élelmiszer-szabályozást. A &quot;färdtjänst&quot; (személyszállítási szolgáltatás) díjairól is tárgyaltak, amely szolgáltatás a saját mobilitásukban korlátozottak számára biztosított.</p><p>Több polgári javaslatot is felvittek a megbeszélésre. Ezek között szerepel egy javaslat homokozó létesítésére, valamint egy másik javaslat egy külön sétány (híresen &quot;sparkgång&quot;) létrehozására a járdákon. Az ilyen javaslatok célja gyakran az, hogy a települést biztonságosabbá vagy élhetőbbé tegyék.</p><p>A megbeszélésen információkat is közöltek a gazdaságról és a jövőbeli tervekről. Egyebek mellett megvizsgálták, hogyan fogja a Gävle Energi Elnät AB vállalat kezelni az elektromos hálózatot, és megvitatták a szárazföldi és tengeri szélerőművek lehetőségét. Emellett arról is szóltak, hogyan fog kinézni a település gazdasága és a politikai pártok támogatása 2026-ban.</p>",
   "relevans": {
-    "b_transport": 1,
-    "b_energi": 3,
-    "regelborda": 1,
-    "funktion": 3,
-    "energikund": 1,
-    "konsument": 1,
-    "klimat": 1
+    "f_kommun": 7,
+    "funktion": 6,
+    "offentliganstalld": 5,
+    "fortroendevald": 5,
+    "energikund": 4,
+    "pendlare": 3,
+    "miljo": 4,
+    "b_energi": 4
   }
 }

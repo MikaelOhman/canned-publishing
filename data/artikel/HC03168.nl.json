@@ -15,9 +15,15 @@
   ],
   "html": "<p>In de voorstellen wordt voorgesteld de onroerendheidsbelasting op windturbines te verhogen van 0,2% naar 0,5% van de belastbare waarde. Onroerendheidsbelasting moet onder andere worden betaald voor onroerend goed dat bij de onroerendheidsbelasting wordt aangemerkt als een energieproductie-eenheid. Voor energieproductie-eenheden die bestaan uit een belastbaar onderdeel met een windturbine, is de onroerendheidsbelasting 0,2% van de belastbare waarde. Voor andere energieproductie-eenheden is de onroerendheidsbelasting 0,5% van de belastbare waarde. Het voorstel betekent dat het belastingtarief uniform wordt voor alle energieproductie-eenheden.</p><p>De voorgestelde wijziging van de wet zou op 1 januari 2026 in werking moeten treden.</p>",
   "relevans": {
-    "b_fastighet": 3,
-    "b_energi": 3,
-    "bostadsagare": 3,
-    "energikund": 1
+    "b_energi": 10,
+    "energiintensiv": 7,
+    "energikund": 6,
+    "gron_omstallning": 6,
+    "b_industri": 5,
+    "storforetag": 6,
+    "aktiebolag": 5,
+    "f_landsbygd": 5,
+    "glesbygd": 4,
+    "klimat": 5
   }
 }

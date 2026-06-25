@@ -12,10 +12,14 @@
       "ecb"
     ],
     "relevans": {
-      "b_energi": 1,
-      "lantagare": 1,
-      "energikund": 1,
-      "konsument": 2
+      "sparare": 4,
+      "pensionssparare": 3,
+      "b_finans": 4,
+      "export": 3,
+      "storforetag": 3,
+      "eu_marknad": 4,
+      "energikund": 3,
+      "konsument": 3
     }
   },
   {
@@ -31,7 +35,12 @@
       "ecb"
     ],
     "relevans": {
-      "b_finans": 1
+      "b_finans": 5,
+      "b_handel": 3,
+      "b_it": 3,
+      "export": 3,
+      "import": 3,
+      "digitalisering": 3
     }
   },
   {
@@ -47,7 +56,17 @@
       "eu-kommissionen"
     ],
     "relevans": {
-      "klimat": 1
+      "solo": 4,
+      "aktiebolag": 4,
+      "smaforetag": 5,
+      "storforetag": 4,
+      "familjeforetag": 4,
+      "moms": 4,
+      "bolagsskatt": 5,
+      "redovisning": 4,
+      "regelborda": 6,
+      "eu_marknad": 5,
+      "foretagare": 4
     }
   },
   {
@@ -79,9 +98,9 @@
       "eu-kommissionen"
     ],
     "relevans": {
-      "b_vard": 1,
-      "b_finans": 1,
-      "lantagare": 1
+      "sparare": 3,
+      "b_finans": 3,
+      "pensionssparare": 3
     }
   },
   {
@@ -97,8 +116,8 @@
       "eu-kommissionen"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "kronisk": 3
+      "klimat": 3,
+      "konsument": 3
     }
   },
   {
@@ -114,10 +133,11 @@
       "eu-kommissionen"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "finansiering": 1,
-      "klimat": 3,
-      "otrygg": 1
+      "export": 4,
+      "storforetag": 3,
+      "b_finans": 3,
+      "gron_omstallning": 3,
+      "eu_marknad": 3
     }
   },
   {
@@ -133,9 +153,13 @@
       "eu-kommissionen"
     ],
     "relevans": {
-      "b_industri": 1,
-      "miljo": 1,
-      "klimat": 3
+      "klimat": 5,
+      "gron_omstallning": 5,
+      "energikund": 3,
+      "b_energi": 5,
+      "b_industri": 4,
+      "miljo": 4,
+      "hallbarhetsrapport": 4
     }
   },
   {
@@ -151,11 +175,14 @@
       "grannehorande-skromberga-12-14"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "b_fastighet": 1,
-      "mark_bygglov": 2,
-      "bygger": 2,
-      "klimat": 1
+      "bostadsagare": 5,
+      "hyresgast": 3,
+      "mark_bygglov": 6,
+      "lokaler": 4,
+      "f_kommun": 5,
+      "bygger": 4,
+      "glesbygd": 3,
+      "mindre_ort": 4
     }
   },
   {
@@ -171,9 +198,13 @@
       "utbildnings-och-kulturnamndens-arbetsuts"
     ],
     "relevans": {
-      "b_kultur": 3,
-      "barn": 1,
-      "kultur": 3
+      "barn": 3,
+      "ung": 3,
+      "gymnasieelev": 3,
+      "offentliganstalld": 3,
+      "f_kommun": 3,
+      "fortroendevald": 3,
+      "b_utbildning": 3
     }
   },
   {
@@ -188,7 +219,15 @@
       "riksdagen"
     ],
     "relevans": {
-      "funktion": 3
+      "funktion": 8,
+      "kronisk": 4,
+      "anhorigvardare": 6,
+      "pensionar": 4,
+      "offentliganstalld": 5,
+      "b_vard": 5,
+      "f_kommun": 5,
+      "fortroendevald": 4,
+      "regelborda": 4
     }
   },
   {
@@ -203,11 +242,15 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "kompetens": 1,
-      "fou": 1,
-      "klimat": 1,
-      "otrygg": 1
+      "otrygg": 6,
+      "brottsoffer": 5,
+      "barn": 5,
+      "ung": 6,
+      "ung_vuxen": 5,
+      "fortroendevald": 4,
+      "offentliganstalld": 4,
+      "ny_i_sverige": 3,
+      "volontar": 3
     }
   },
   {
@@ -222,7 +265,14 @@
       "riksdagen"
     ],
     "relevans": {
-      "otrygg": 3
+      "otrygg": 6,
+      "brottsoffer": 5,
+      "integritet": 4,
+      "ung": 5,
+      "fortroendevald": 4,
+      "offentliganstalld": 4,
+      "gdpr": 3,
+      "b_finans": 3
     }
   },
   {
@@ -238,15 +288,19 @@
       "ecb"
     ],
     "relevans": {
-      "arbetsgivare": 1,
-      "b_energi": 1,
-      "energiintensiv": 1,
-      "lontagare": 1,
-      "arbetssokande": 2,
-      "sparare": 1,
-      "lantagare": 1,
-      "energikund": 1,
-      "konsument": 2
+      "energikund": 6,
+      "konsument": 5,
+      "lantagare": 6,
+      "sparare": 5,
+      "pensionssparare": 4,
+      "lontagare": 5,
+      "b_finans": 5,
+      "b_energi": 5,
+      "storforetag": 4,
+      "smaforetag": 4,
+      "energiintensiv": 5,
+      "export": 4,
+      "foretagare": 4
     }
   },
   {
@@ -262,8 +316,14 @@
       "eu-kommissionen"
     ],
     "relevans": {
-      "b_energi": 3,
-      "energikund": 3
+      "konsument": 6,
+      "bil": 5,
+      "energikund": 4,
+      "b_handel": 4,
+      "konsumentratt": 5,
+      "eu_marknad": 4,
+      "gron_omstallning": 4,
+      "b_transport": 3
     }
   },
   {
@@ -277,7 +337,13 @@
     "taggar": [
       "eu",
       "eu-kommissionen"
-    ]
+    ],
+    "relevans": {
+      "sparare": 4,
+      "pensionssparare": 3,
+      "b_finans": 4,
+      "eu_marknad": 3
+    }
   },
   {
     "id": "eu-32026R1380",
@@ -290,7 +356,14 @@
     "taggar": [
       "eu",
       "eu-ratt"
-    ]
+    ],
+    "relevans": {
+      "b_handel": 3,
+      "import": 3,
+      "eu_marknad": 3,
+      "konsument": 3,
+      "produktsakerhet": 4
+    }
   },
   {
     "id": "eu-32026R1378",
@@ -305,7 +378,13 @@
       "eu-ratt"
     ],
     "relevans": {
-      "foretagare": 1
+      "konsument": 4,
+      "b_handel": 4,
+      "b_grona": 3,
+      "import": 3,
+      "produktsakerhet": 5,
+      "eu_marknad": 3,
+      "konkurrens": 3
     }
   },
   {
@@ -321,10 +400,13 @@
       "eu-ratt"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "b_grona": 1,
-      "tillstand": 1,
-      "import": 1
+      "b_grona": 5,
+      "import": 6,
+      "b_handel": 4,
+      "miljo": 4,
+      "produktsakerhet": 4,
+      "eu_marknad": 4,
+      "tillstand": 4
     }
   },
   {
@@ -345,8 +427,14 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_finans": 1,
-      "b_kultur": 3
+      "b_kultur": 8,
+      "b_finans": 4,
+      "digitalisering": 3,
+      "fou": 3,
+      "eu_marknad": 3,
+      "ideell": 4,
+      "f_storstad": 3,
+      "kultur": 6
     }
   },
   {
@@ -362,11 +450,23 @@
       "ecb"
     ],
     "relevans": {
-      "b_energi": 1,
-      "sparare": 1,
-      "lantagare": 1,
-      "energikund": 1,
-      "konsument": 2
+      "sparare": 5,
+      "lantagare": 7,
+      "skuldsatt": 6,
+      "bostadsagare": 6,
+      "pensionssparare": 5,
+      "energikund": 5,
+      "konsument": 5,
+      "lontagare": 4,
+      "foretagare": 5,
+      "aktiebolag": 5,
+      "smaforetag": 5,
+      "finansiering": 6,
+      "b_finans": 6,
+      "b_fastighet": 5,
+      "b_energi": 5,
+      "export": 4,
+      "import": 4
     }
   },
   {
@@ -401,9 +501,11 @@
       "eu-ratt"
     ],
     "relevans": {
-      "import": 2,
-      "konsument": 1,
-      "bredbandsberoende": 1
+      "b_industri": 5,
+      "import": 6,
+      "export": 3,
+      "eu_marknad": 5,
+      "produktsakerhet": 3
     }
   },
   {
@@ -419,12 +521,14 @@
       "ecb"
     ],
     "relevans": {
-      "smaforetag": 1,
-      "b_finans": 2,
-      "finansiering": 2,
-      "regelborda": 1,
-      "klimat": 1,
-      "varnpliktig": 1
+      "b_finans": 7,
+      "aktiebolag": 4,
+      "smaforetag": 4,
+      "finansiering": 5,
+      "eu_marknad": 5,
+      "digitalisering": 4,
+      "sparare": 4,
+      "lantagare": 3
     }
   },
   {
@@ -440,9 +544,13 @@
       "ecb"
     ],
     "relevans": {
-      "beroende": 1,
-      "konsument": 1,
-      "digital_ovan": 1
+      "b_finans": 6,
+      "digitalisering": 5,
+      "eu_marknad": 5,
+      "gdpr": 3,
+      "konsument": 4,
+      "sparare": 3,
+      "integritet": 4
     }
   },
   {
@@ -458,11 +566,9 @@
       "ecb"
     ],
     "relevans": {
-      "b_finans": 3,
-      "bolagsskatt": 1,
-      "finansiering": 1,
-      "lontagare": 1,
-      "beroende": 1
+      "b_finans": 6,
+      "sparare": 3,
+      "pensionssparare": 3
     }
   },
   {
@@ -480,9 +586,13 @@
       "riksdagen"
     ],
     "relevans": {
-      "gdpr": 1,
-      "lontagare": 1,
-      "integritet": 1
+      "integritet": 7,
+      "gdpr": 4,
+      "offentliganstalld": 5,
+      "fortroendevald": 4,
+      "varnpliktig": 4,
+      "b_it": 3,
+      "digitalisering": 3
     }
   },
   {
@@ -498,11 +608,14 @@
       "on-signerat"
     ],
     "relevans": {
-      "arbetsgivare": 1,
-      "b_vard": 1,
-      "digitalisering": 1,
-      "kronisk": 1,
-      "digital_ovan": 1
+      "offentliganstalld": 5,
+      "digitalisering": 4,
+      "kronisk": 3,
+      "funktion": 3,
+      "pensionar": 3,
+      "anhorigvardare": 3,
+      "f_kommun": 4,
+      "gdpr": 3
     }
   },
   {
@@ -520,12 +633,16 @@
       "karin-wanngard"
     ],
     "relevans": {
-      "b_fastighet": 2,
-      "gdpr": 1,
-      "pendlare": 1,
-      "kollektiv": 2,
-      "kronisk": 1,
-      "integritet": 1
+      "kollektiv": 6,
+      "pendlare": 5,
+      "storstad": 5,
+      "f_storstad": 5,
+      "bostadsagare": 3,
+      "gdpr": 3,
+      "integritet": 3,
+      "f_kommun": 5,
+      "fortroendevald": 4,
+      "offentliganstalld": 3
     }
   },
   {
@@ -541,9 +658,14 @@
       "utbildningsnamndens-sprotokoll"
     ],
     "relevans": {
-      "arbetsgivare": 1,
-      "b_bygg": 1,
-      "barn": 2
+      "barn": 6,
+      "gymnasieelev": 5,
+      "ung": 6,
+      "offentliganstalld": 4,
+      "f_kommun": 5,
+      "b_utbildning": 5,
+      "fortroendevald": 3,
+      "digitalisering": 3
     }
   },
   {
@@ -559,9 +681,17 @@
       "kf"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "barn": 1,
-      "klimat": 1
+      "barn": 5,
+      "gymnasieelev": 4,
+      "ung": 5,
+      "glesbygd": 4,
+      "f_landsbygd": 4,
+      "f_kommun": 6,
+      "offentliganstalld": 4,
+      "energikund": 4,
+      "b_utbildning": 4,
+      "bredbandsberoende": 3,
+      "infrastruktur": 4
     }
   },
   {
@@ -577,9 +707,7 @@
       "kommunfullmaktige"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "b_vard": 1,
-      "barn": 1
+      "fortroendevald": 4
     }
   },
   {
@@ -595,8 +723,17 @@
       "socialnamnden-signerat"
     ],
     "relevans": {
-      "b_vard": 2,
-      "pensionar": 1
+      "pensionar": 5,
+      "kronisk": 4,
+      "funktion": 5,
+      "anhorigvardare": 5,
+      "offentliganstalld": 4,
+      "f_kommun": 5,
+      "b_vard": 6,
+      "ny_i_sverige": 3,
+      "vuxenstudier": 3,
+      "bidrag": 4,
+      "lontagare": 3
     }
   },
   {
@@ -612,9 +749,15 @@
       "socialnamnden"
     ],
     "relevans": {
-      "b_fastighet": 1,
-      "hyresgast": 1,
-      "bygger": 1
+      "pensionar": 7,
+      "kronisk": 5,
+      "anhorigvardare": 5,
+      "funktion": 4,
+      "offentliganstalld": 3,
+      "f_kommun": 5,
+      "b_fastighet": 4,
+      "b_vard": 5,
+      "lokaler": 3
     }
   },
   {
@@ -630,7 +773,15 @@
       "kommunstyrelsens"
     ],
     "relevans": {
-      "arbetsgivare": 1
+      "f_kommun": 6,
+      "smaforetag": 5,
+      "aktiebolag": 4,
+      "digitalisering": 6,
+      "infrastruktur": 4,
+      "offentliganstalld": 4,
+      "fortroendevald": 4,
+      "otrygg": 3,
+      "b_konsult": 3
     }
   },
   {
@@ -646,9 +797,11 @@
       "samhallsbyggnadsnamnden"
     ],
     "relevans": {
-      "b_fastighet": 1,
-      "regelborda": 1,
-      "konsument": 1
+      "b_besok": 4,
+      "tillstand": 5,
+      "avgifter": 3,
+      "f_kommun": 4,
+      "mark_bygglov": 3
     }
   },
   {
@@ -664,9 +817,11 @@
       "socialutskottet"
     ],
     "relevans": {
-      "barn": 1,
-      "pensionar": 1,
-      "bidrag": 2
+      "bidrag": 6,
+      "arbetsratt": 3,
+      "barn": 4,
+      "offentliganstalld": 4,
+      "f_kommun": 3
     }
   },
   {
@@ -682,10 +837,15 @@
       "ks"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "b_fastighet": 1,
-      "glesbygd": 1,
-      "korkort": 1
+      "b_bygg": 5,
+      "b_fastighet": 5,
+      "mark_bygglov": 5,
+      "lokaler": 4,
+      "f_kommun": 5,
+      "bostadsagare": 3,
+      "hyresgast": 3,
+      "pendlare": 3,
+      "bil": 3
     }
   },
   {
@@ -701,14 +861,14 @@
       "samhallsbyggnadsnamndens"
     ],
     "relevans": {
-      "arbetsgivare": 1,
-      "b_industri": 1,
-      "b_bygg": 1,
-      "mark_bygglov": 1,
-      "bygger": 1,
-      "glesbygd": 1,
-      "bil": 1,
-      "klimat": 1
+      "b_bygg": 6,
+      "b_fastighet": 5,
+      "mark_bygglov": 6,
+      "lokaler": 5,
+      "f_kommun": 5,
+      "f_storstad": 3,
+      "hyresgast": 4,
+      "bostadsagare": 3
     }
   },
   {
@@ -724,9 +884,14 @@
       "an"
     ],
     "relevans": {
-      "b_fastighet": 1,
-      "upphandling": 2,
-      "pensionar": 2
+      "pensionar": 5,
+      "kronisk": 4,
+      "anhorigvardare": 5,
+      "funktion": 4,
+      "offentliganstalld": 4,
+      "f_kommun": 5,
+      "b_vard": 6,
+      "upphandling": 5
     }
   },
   {
@@ -742,13 +907,13 @@
       "kungorelse"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "b_vard": 2,
-      "gdpr": 1,
-      "barn": 1,
-      "pensionar": 1,
-      "funktion": 1,
-      "integritet": 1
+      "f_kommun": 6,
+      "ideell": 3,
+      "gdpr": 3,
+      "offentliganstalld": 3,
+      "pensionar": 3,
+      "funktion": 3,
+      "fortroendevald": 6
     }
   },
   {
@@ -763,8 +928,9 @@
       "riksdagen"
     ],
     "relevans": {
-      "regelborda": 1,
-      "lontagare": 1
+      "fortroendevald": 4,
+      "integritet": 3,
+      "offentliganstalld": 3
     }
   },
   {
@@ -779,13 +945,15 @@
       "riksdagen"
     ],
     "relevans": {
-      "arbetsgivare": 1,
-      "arbetskraft_inv": 3,
-      "tillstand": 1,
-      "konkurrens": 1,
-      "beroende": 3,
-      "asyl": 3,
-      "arbetstillstand": 3
+      "arbetsratt": 6,
+      "arbetskraft_inv": 8,
+      "arbetstillstand": 7,
+      "ny_i_sverige": 5,
+      "arbetsgivare": 5,
+      "smaforetag": 4,
+      "kompetens": 4,
+      "regelborda": 4,
+      "konkurrens": 4
     }
   },
   {
@@ -800,11 +968,15 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "barn": 1,
-      "ung": 3,
-      "arbetssokande": 1,
-      "otrygg": 1
+      "ung": 7,
+      "ung_vuxen": 7,
+      "barn": 5,
+      "gymnasieelev": 6,
+      "student": 6,
+      "arbetssokande": 5,
+      "psykisk": 5,
+      "idrott": 4,
+      "volontar": 3
     }
   },
   {
@@ -819,9 +991,9 @@
       "riksdagen"
     ],
     "relevans": {
-      "otrygg": 1,
-      "domd": 1,
-      "varnpliktig": 1
+      "offentliganstalld": 5,
+      "integritet": 4,
+      "fortroendevald": 3
     }
   },
   {
@@ -839,14 +1011,12 @@
       "ulf-rapp"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "b_fastighet": 1,
+      "f_kommun": 5,
+      "b_bygg": 4,
+      "mark_bygglov": 4,
       "gdpr": 3,
-      "mark_bygglov": 1,
-      "bygger": 1,
-      "storstad": 1,
-      "klimat": 1,
-      "integritet": 1
+      "bostadsagare": 3,
+      "hyresgast": 3
     }
   },
   {
@@ -862,11 +1032,8 @@
       "snau-offentlig"
     ],
     "relevans": {
-      "b_vard": 1,
-      "gdpr": 1,
-      "barn": 1,
-      "kronisk": 1,
-      "integritet": 1
+      "barn": 4,
+      "offentliganstalld": 3
     }
   },
   {
@@ -880,7 +1047,15 @@
     "taggar": [
       "vasteras",
       "protokoll"
-    ]
+    ],
+    "relevans": {
+      "pensionar": 4,
+      "kronisk": 3,
+      "funktion": 3,
+      "anhorigvardare": 3,
+      "offentliganstalld": 3,
+      "b_vard": 4
+    }
   },
   {
     "id": "HD03285",
@@ -892,7 +1067,12 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03285.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "fortroendevald": 3,
+      "integritet": 4,
+      "utlandssvensk": 3
+    }
   },
   {
     "id": "stockholm-kommunfullmaktige-2026-06-15",
@@ -909,13 +1089,17 @@
       "trafik"
     ],
     "relevans": {
-      "b_vard": 1,
-      "b_fastighet": 1,
-      "barn": 3,
-      "skiftarbete": 1,
-      "beroende": 2,
-      "konsument": 1,
-      "fortroendevald": 1
+      "barn": 7,
+      "foraldraledig": 5,
+      "ensam_foralder": 5,
+      "stor_familj": 5,
+      "lontagare": 4,
+      "skiftarbete": 5,
+      "f_storstad": 5,
+      "storstad": 5,
+      "b_utbildning": 5,
+      "b_besok": 4,
+      "f_kommun": 5
     }
   },
   {
@@ -933,8 +1117,9 @@
       "budget"
     ],
     "relevans": {
-      "b_fastighet": 1,
-      "batagare": 1
+      "f_kommun": 5,
+      "offentliganstalld": 3,
+      "fortroendevald": 3
     }
   },
   {
@@ -952,18 +1137,16 @@
       "gavle-kommun"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "redovisning": 1,
-      "finansiering": 1,
-      "miljo": 1,
-      "pensionar": 1,
-      "bil": 1,
-      "konsument": 1,
-      "friluftsliv": 2,
-      "idrott": 1,
-      "klimat": 1,
-      "otrygg": 1,
-      "fortroendevald": 1
+      "f_kommun": 5,
+      "b_fastighet": 3,
+      "mark_bygglov": 3,
+      "miljo": 4,
+      "klimat": 4,
+      "friluftsliv": 4,
+      "pensionar": 3,
+      "bil": 3,
+      "batagare": 3,
+      "fortroendevald": 3
     }
   },
   {
@@ -981,21 +1164,14 @@
       "kommunpolitik"
     ],
     "relevans": {
-      "b_industri": 1,
-      "b_bygg": 1,
-      "b_fastighet": 1,
-      "b_energi": 1,
-      "redovisning": 1,
-      "miljo": 1,
-      "mark_bygglov": 1,
-      "bygger": 1,
-      "glesbygd": 1,
-      "pendlare": 1,
-      "kollektiv": 1,
-      "energikund": 1,
-      "konsument": 1,
-      "klimat": 1,
-      "fortroendevald": 1
+      "f_kommun": 5,
+      "b_energi": 4,
+      "energikund": 4,
+      "lontagare": 3,
+      "glesbygd": 4,
+      "mark_bygglov": 3,
+      "fortroendevald": 3,
+      "b_bygg": 3
     }
   },
   {
@@ -1011,10 +1187,14 @@
       "kommunfullmaktige"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "mark_bygglov": 1,
-      "bygger": 1,
-      "idrott": 1
+      "f_kommun": 5,
+      "b_bygg": 4,
+      "mark_bygglov": 4,
+      "b_grona": 4,
+      "glesbygd": 3,
+      "lontagare": 3,
+      "barn": 3,
+      "fortroendevald": 3
     }
   },
   {
@@ -1030,9 +1210,11 @@
       "kommunfullmaktige-inkl-omrostningsbilago"
     ],
     "relevans": {
-      "finansiering": 1,
-      "glesbygd": 1,
-      "fortroendevald": 1
+      "f_kommun": 5,
+      "fortroendevald": 5,
+      "lontagare": 3,
+      "ideell": 3,
+      "b_handel": 3
     }
   },
   {
@@ -1048,11 +1230,14 @@
       "kultur-och-fritidsnamnden"
     ],
     "relevans": {
-      "b_kultur": 3,
-      "barn": 3,
-      "kronisk": 1,
-      "husdjur": 1,
-      "kultur": 3
+      "ideell": 6,
+      "f_kommun": 4,
+      "barn": 4,
+      "ung": 5,
+      "idrott": 6,
+      "kultur": 6,
+      "friluftsliv": 4,
+      "fortroendevald": 5
     }
   },
   {
@@ -1071,7 +1256,10 @@
       "polis"
     ],
     "relevans": {
-      "otrygg": 1
+      "otrygg": 5,
+      "brottsoffer": 4,
+      "ny_i_sverige": 3,
+      "integritet": 3
     }
   },
   {
@@ -1088,7 +1276,13 @@
       "manniskohandel",
       "religion",
       "hallefors"
-    ]
+    ],
+    "relevans": {
+      "otrygg": 4,
+      "brottsoffer": 3,
+      "integritet": 3,
+      "fortroendevald": 3
+    }
   },
   {
     "id": "alingsas-kommunfullmaktige-2026-06-10",
@@ -1105,16 +1299,19 @@
       "alingsas-kommun"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "b_finans": 1,
-      "b_kultur": 1,
-      "glesbygd": 1,
-      "sparare": 1,
-      "lantagare": 1,
-      "idrott": 1,
-      "klimat": 1,
-      "kultur": 1,
-      "fortroendevald": 1
+      "f_kommun": 6,
+      "f_fastighet": 4,
+      "mark_bygglov": 5,
+      "b_fastighet": 4,
+      "hyresgast": 4,
+      "bostadsagare": 4,
+      "bygger": 4,
+      "pendlare": 4,
+      "bil": 3,
+      "kollektiv": 4,
+      "fortroendevald": 5,
+      "ideell": 4,
+      "volontar": 4
     }
   },
   {
@@ -1130,13 +1327,15 @@
       "kommunfullmaktige"
     ],
     "relevans": {
-      "b_finans": 1,
-      "b_konsult": 1,
-      "barn": 1,
-      "ensam_foralder": 1,
-      "sjukskriven": 1,
-      "hyresgast": 1,
-      "lantagare": 1
+      "f_kommun": 4,
+      "anhorigvardare": 5,
+      "pensionar": 4,
+      "funktion": 5,
+      "barn": 4,
+      "skuldsatt": 4,
+      "bidrag": 4,
+      "hyresgast": 3,
+      "fortroendevald": 4
     }
   },
   {
@@ -1151,11 +1350,25 @@
       "riksdagen"
     ],
     "relevans": {
-      "arbetsgivare": 3,
-      "b_konsult": 1,
-      "sparare": 1,
-      "lantagare": 1,
-      "otrygg": 1
+      "solo": 6,
+      "aktiebolag": 6,
+      "arbetsgivare": 6,
+      "smaforetag": 7,
+      "storforetag": 5,
+      "familjeforetag": 6,
+      "b_bygg": 6,
+      "b_vard": 5,
+      "b_konsult": 6,
+      "b_it": 4,
+      "moms": 5,
+      "redovisning": 6,
+      "regelborda": 6,
+      "tillstand": 4,
+      "upphandling": 4,
+      "bostadsagare": 5,
+      "bygger": 6,
+      "konsument": 4,
+      "foretagare": 6
     }
   },
   {
@@ -1170,9 +1383,14 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_finans": 3,
-      "pensionar": 3,
-      "sjukskriven": 3
+      "pensionar": 6,
+      "sjukskriven": 5,
+      "bidrag": 5,
+      "pensionssparare": 4,
+      "anhorigvardare": 4,
+      "funktion": 4,
+      "skuldsatt": 3,
+      "offentliganstalld": 3
     }
   },
   {
@@ -1187,9 +1405,14 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_finans": 1,
-      "pensionar": 1,
-      "sjukskriven": 1
+      "ny_i_sverige": 8,
+      "asyl": 6,
+      "arbetstillstand": 6,
+      "pensionar": 4,
+      "sjukskriven": 4,
+      "bidrag": 5,
+      "funktion": 4,
+      "digital_ovan": 4
     }
   },
   {
@@ -1204,9 +1427,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "arbetsgivare": 3,
-      "man": 1,
-      "varnpliktig": 3
+      "varnpliktig": 10,
+      "man": 6,
+      "ung_vuxen": 7,
+      "lontagare": 4,
+      "offentliganstalld": 5,
+      "arbetsratt": 4
     }
   },
   {
@@ -1221,8 +1447,20 @@
       "riksdagen"
     ],
     "relevans": {
-      "moms": 3,
-      "konsument": 1
+      "aktiebolag": 6,
+      "smaforetag": 6,
+      "storforetag": 7,
+      "b_handel": 7,
+      "b_it": 5,
+      "b_finans": 5,
+      "moms": 8,
+      "export": 6,
+      "import": 7,
+      "eu_marknad": 7,
+      "redovisning": 5,
+      "digitalisering": 4,
+      "foretagare": 5,
+      "konsument": 3
     }
   },
   {
@@ -1238,12 +1476,11 @@
       "kf"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "b_fastighet": 1,
-      "redovisning": 1,
-      "finansiering": 1,
-      "pensionar": 1,
-      "fortroendevald": 2
+      "f_kommun": 5,
+      "b_fastighet": 4,
+      "fortroendevald": 6,
+      "pensionar": 3,
+      "ideell": 3
     }
   },
   {
@@ -1261,15 +1498,20 @@
       "kommunal-forvaltning"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "b_energi": 2,
-      "infrastruktur": 1,
-      "ung": 1,
-      "energikund": 1,
-      "friluftsliv": 1,
-      "batagare": 1,
-      "idrott": 1,
-      "klimat": 1
+      "f_kommun": 6,
+      "mark_bygglov": 5,
+      "b_fastighet": 5,
+      "b_energi": 5,
+      "energiintensiv": 4,
+      "energikund": 4,
+      "gron_omstallning": 4,
+      "miljo": 4,
+      "infrastruktur": 4,
+      "idrott": 4,
+      "hbtq": 4,
+      "fortroendevald": 5,
+      "ideell": 4,
+      "lokaler": 4
     }
   },
   {
@@ -1285,11 +1527,17 @@
       "kommunfullmaktige"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "barn": 1,
-      "storstad": 1,
-      "bil": 1,
-      "konsument": 1
+      "f_kommun": 6,
+      "mark_bygglov": 5,
+      "bil": 4,
+      "pendlare": 5,
+      "funktion": 5,
+      "barn": 4,
+      "gymnasieelev": 4,
+      "bostadsagare": 4,
+      "glesbygd": 4,
+      "fortroendevald": 5,
+      "upphandling": 3
     }
   },
   {
@@ -1307,14 +1555,17 @@
       "protokoll"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "redovisning": 1,
-      "bil": 1,
-      "kronisk": 1,
-      "idrott": 1,
-      "klimat": 1,
-      "kultur": 1,
-      "fortroendevald": 2
+      "f_kommun": 6,
+      "mark_bygglov": 4,
+      "bil": 4,
+      "barn": 5,
+      "ung": 5,
+      "idrott": 5,
+      "pendlare": 4,
+      "gdpr": 4,
+      "fortroendevald": 5,
+      "ideell": 3,
+      "energikund": 3
     }
   },
   {
@@ -1332,15 +1583,16 @@
       "digitalisering"
     ],
     "relevans": {
-      "arbetsgivare": 1,
-      "storforetag": 1,
-      "b_bygg": 1,
-      "b_fastighet": 1,
-      "infrastruktur": 1,
-      "digitalisering": 1,
-      "sparare": 1,
-      "batagare": 1,
-      "digital_ovan": 1
+      "f_storstad": 5,
+      "storstad": 4,
+      "f_fastighet": 6,
+      "b_fastighet": 6,
+      "f_kommun": 5,
+      "offentliganstalld": 6,
+      "gdpr": 4,
+      "digitalisering": 4,
+      "mark_bygglov": 4,
+      "fortroendevald": 4
     }
   },
   {
@@ -1356,17 +1608,21 @@
       "kommunstyrelsen"
     ],
     "relevans": {
-      "arbetsgivare": 1,
-      "b_fastighet": 1,
-      "finansiering": 1,
-      "lokaler": 1,
-      "barn": 1,
-      "stor_familj": 1,
-      "pensionar": 1,
-      "lontagare": 1,
-      "arbetssokande": 1,
-      "funktion": 2,
-      "idrott": 1
+      "f_storstad": 5,
+      "storstad": 4,
+      "f_kommun": 5,
+      "kvinna": 5,
+      "barn": 5,
+      "ensam_foralder": 5,
+      "funktion": 5,
+      "bostadslos": 4,
+      "arbetssokande": 5,
+      "bidrag": 4,
+      "pensionar": 4,
+      "ny_i_sverige": 4,
+      "fortroendevald": 5,
+      "offentliganstalld": 4,
+      "ideell": 4
     }
   },
   {
@@ -1379,7 +1635,15 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03269.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "beroende": 7,
+      "psykisk": 5,
+      "skuldsatt": 4,
+      "barn": 4,
+      "pensionar": 3,
+      "lontagare": 3
+    }
   },
   {
     "id": "HD03266",
@@ -1393,8 +1657,21 @@
       "riksdagen"
     ],
     "relevans": {
-      "arbetsgivare": 1,
-      "arbetsmiljo": 3
+      "lontagare": 7,
+      "arbetsgivare": 6,
+      "arbetsratt": 6,
+      "arbetsmiljo": 8,
+      "sjukskriven": 6,
+      "sjuklon": 5,
+      "offentliganstalld": 6,
+      "smaforetag": 5,
+      "storforetag": 5,
+      "kompetens": 5,
+      "skiftarbete": 6,
+      "funktion": 5,
+      "psykisk": 5,
+      "foretagare": 5,
+      "kollektivavtal": 5
     }
   },
   {
@@ -1413,14 +1690,15 @@
       "protokoll"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "b_vard": 1,
-      "b_konsult": 1,
-      "finansiering": 1,
-      "lokaler": 1,
-      "barn": 2,
-      "funktion": 1,
-      "idrott": 1
+      "f_kommun": 6,
+      "mark_bygglov": 4,
+      "barn": 4,
+      "funktion": 4,
+      "pendlare": 4,
+      "glesbygd": 4,
+      "fortroendevald": 5,
+      "offentliganstalld": 4,
+      "kompetens": 3
     }
   },
   {
@@ -1436,12 +1714,16 @@
       "kommunstyrelsen"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "b_kultur": 1,
-      "redovisning": 1,
-      "lokaler": 1,
-      "klimat": 1,
-      "kultur": 2
+      "f_kommun": 6,
+      "mark_bygglov": 5,
+      "b_fastighet": 4,
+      "glesbygd": 5,
+      "pensionar": 4,
+      "funktion": 5,
+      "anhorigvardare": 4,
+      "bostadsagare": 4,
+      "hyresgast": 3,
+      "fortroendevald": 5
     }
   },
   {
@@ -1457,14 +1739,16 @@
       "kommunstyrelsen"
     ],
     "relevans": {
-      "b_industri": 1,
-      "b_bygg": 1,
-      "redovisning": 1,
-      "mark_bygglov": 1,
-      "pendlare": 1,
-      "bil": 1,
-      "kollektiv": 1,
-      "lantagare": 1
+      "mark_bygglov": 4,
+      "b_energi": 5,
+      "b_fastighet": 4,
+      "f_landsbygd": 4,
+      "f_kommun": 5,
+      "infrastruktur": 3,
+      "pendlare": 3,
+      "glesbygd": 3,
+      "barn": 3,
+      "bostadsagare": 3
     }
   },
   {
@@ -1479,7 +1763,15 @@
       "riksdagen"
     ],
     "relevans": {
-      "klimat": 2
+      "klimat": 4,
+      "friluftsliv": 3,
+      "glesbygd": 3,
+      "export": 3,
+      "f_landsbygd": 3,
+      "miljo": 4,
+      "gron_omstallning": 4,
+      "b_grona": 3,
+      "b_energi": 3
     }
   },
   {
@@ -1495,21 +1787,17 @@
       "kommunstyrelsen"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "b_vard": 1,
-      "b_kultur": 1,
-      "finansiering": 1,
-      "infrastruktur": 1,
-      "f_landsbygd": 1,
-      "barn": 1,
-      "glesbygd": 1,
-      "bil": 1,
-      "funktion": 1,
-      "konsument": 2,
-      "batagare": 1,
-      "klimat": 1,
-      "kultur": 1,
-      "otrygg": 1
+      "f_kommun": 5,
+      "mark_bygglov": 4,
+      "barn": 4,
+      "funktion": 4,
+      "klimat": 3,
+      "b_fastighet": 3,
+      "b_utbildning": 3,
+      "lokaler": 3,
+      "miljo": 3,
+      "idrott": 3,
+      "glesbygd": 3
     }
   },
   {
@@ -1525,12 +1813,17 @@
       "kommunstyrelsen"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "b_vard": 1,
-      "b_finans": 1,
-      "finansiering": 1,
-      "barn": 1,
-      "kronisk": 1
+      "f_kommun": 5,
+      "barn": 4,
+      "lontagare": 3,
+      "offentliganstalld": 5,
+      "pensionar": 3,
+      "kronisk": 4,
+      "funktion": 3,
+      "b_vard": 4,
+      "b_utbildning": 4,
+      "hyresgast": 3,
+      "bostadsagare": 3
     }
   },
   {
@@ -1546,12 +1839,17 @@
       "kommunstyrelsen"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "barn": 1,
-      "glesbygd": 1,
-      "pendlare": 1,
-      "kollektiv": 1,
-      "idrott": 1
+      "f_kommun": 5,
+      "mark_bygglov": 4,
+      "barn": 4,
+      "infrastruktur": 3,
+      "kollektiv": 4,
+      "ny_i_sverige": 3,
+      "b_fastighet": 3,
+      "bygger": 3,
+      "idrott": 3,
+      "volontar": 3,
+      "bil": 3
     }
   },
   {
@@ -1566,10 +1864,14 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_konsult": 3,
-      "bolagsskatt": 1,
-      "pensionar": 1,
-      "sparare": 3
+      "pensionssparare": 8,
+      "pensionar": 6,
+      "sparare": 5,
+      "lontagare": 5,
+      "b_finans": 5,
+      "storforetag": 3,
+      "aktiebolag": 3,
+      "foretagare": 3
     }
   },
   {
@@ -1584,8 +1886,16 @@
       "riksdagen"
     ],
     "relevans": {
-      "gdpr": 1,
-      "integritet": 1
+      "bidrag": 5,
+      "sjukskriven": 4,
+      "pensionar": 4,
+      "foraldraledig": 4,
+      "lontagare": 3,
+      "ny_i_sverige": 3,
+      "asyl": 3,
+      "gdpr": 4,
+      "integritet": 4,
+      "regelborda": 3
     }
   },
   {
@@ -1600,9 +1910,16 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_it": 1,
-      "kompetens": 1,
-      "barn": 1
+      "barn": 6,
+      "ung": 7,
+      "ung_vuxen": 6,
+      "otrygg": 6,
+      "brottsoffer": 5,
+      "integritet": 4,
+      "gdpr": 4,
+      "b_it": 5,
+      "digitalisering": 5,
+      "b_kultur": 3
     }
   },
   {
@@ -1617,17 +1934,26 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_transport": 1,
-      "b_grona": 1,
-      "b_energi": 1,
-      "pendlare": 1,
-      "bil": 2,
-      "kollektiv": 1,
-      "flygresenar": 1,
-      "kronisk": 1,
-      "energikund": 2,
-      "konsument": 1,
-      "varnpliktig": 1
+      "bil": 7,
+      "pendlare": 6,
+      "energikund": 7,
+      "konsument": 6,
+      "lontagare": 5,
+      "foretagare": 5,
+      "kollektiv": 5,
+      "flygresenar": 5,
+      "b_transport": 6,
+      "b_grona": 5,
+      "b_energi": 6,
+      "b_besok": 5,
+      "punktskatt": 6,
+      "energiintensiv": 5,
+      "export": 4,
+      "gron_omstallning": 4,
+      "varnpliktig": 4,
+      "f_landsbygd": 4,
+      "skuldsatt": 3,
+      "lantagare": 3
     }
   },
   {
@@ -1643,13 +1969,14 @@
       "sn"
     ],
     "relevans": {
-      "arbetsgivare": 1,
-      "b_vard": 1,
-      "b_konsult": 1,
-      "lokaler": 1,
-      "barn": 1,
-      "kronisk": 1,
-      "funktion": 1
+      "f_kommun": 4,
+      "barn": 4,
+      "ensam_foralder": 4,
+      "offentliganstalld": 4,
+      "kronisk": 3,
+      "psykisk": 4,
+      "funktion": 3,
+      "b_vard": 3
     }
   },
   {
@@ -1665,7 +1992,13 @@
       "protokoll"
     ],
     "relevans": {
-      "konsument": 1
+      "f_kommun": 4,
+      "glesbygd": 3,
+      "f_landsbygd": 3,
+      "bostadsagare": 3,
+      "hyresgast": 3,
+      "offentliganstalld": 3,
+      "b_fastighet": 3
     }
   },
   {
@@ -1681,17 +2014,22 @@
       "kommunfullmaktige"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "b_fastighet": 1,
-      "b_kultur": 1,
-      "redovisning": 1,
-      "lokaler": 1,
-      "barn": 3,
-      "pensionar": 1,
-      "konsument": 1,
-      "idrott": 1,
-      "kultur": 1,
-      "otrygg": 1
+      "f_kommun": 5,
+      "barn": 5,
+      "ensam_foralder": 5,
+      "stor_familj": 4,
+      "ny_i_sverige": 4,
+      "kronisk": 4,
+      "pensionar": 4,
+      "funktion": 4,
+      "hyresgast": 4,
+      "bostadsagare": 4,
+      "storstad": 5,
+      "idrott": 3,
+      "kultur": 3,
+      "offentliganstalld": 4,
+      "b_fastighet": 4,
+      "b_vard": 4
     }
   },
   {
@@ -1707,13 +2045,14 @@
       "kommunstyrelsen"
     ],
     "relevans": {
-      "arbetsgivare": 1,
-      "b_fastighet": 1,
-      "b_kultur": 1,
-      "glesbygd": 1,
-      "idrott": 1,
-      "kultur": 1,
-      "otrygg": 1
+      "f_kommun": 4,
+      "storstad": 4,
+      "otrygg": 4,
+      "idrott": 3,
+      "kultur": 3,
+      "offentliganstalld": 3,
+      "b_kultur": 3,
+      "klimat": 3
     }
   },
   {
@@ -1728,10 +2067,13 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_life": 1,
-      "gravid": 2,
-      "kvinna": 3,
-      "kronisk": 2
+      "gravid": 10,
+      "kvinna": 8,
+      "kronisk": 4,
+      "b_vard": 5,
+      "b_life": 4,
+      "hbtq": 4,
+      "offentliganstalld": 3
     }
   },
   {
@@ -1746,10 +2088,21 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_transport": 1,
-      "miljo": 3,
-      "eu_marknad": 3,
-      "klimat": 1
+      "miljo": 6,
+      "klimat": 5,
+      "gron_omstallning": 5,
+      "konsument": 4,
+      "b_industri": 6,
+      "b_transport": 4,
+      "b_bygg": 4,
+      "b_handel": 4,
+      "hallbarhetsrapport": 5,
+      "produktsakerhet": 6,
+      "regelborda": 4,
+      "eu_marknad": 5,
+      "import": 4,
+      "export": 3,
+      "tillstand": 4
     }
   },
   {
@@ -1765,14 +2118,14 @@
       "ukn"
     ],
     "relevans": {
-      "arbetsgivare": 1,
-      "b_utbildning": 1,
-      "b_kultur": 1,
-      "lokaler": 1,
-      "barn": 3,
-      "vuxenstudier": 1,
-      "kultur": 1,
-      "otrygg": 1
+      "f_kommun": 4,
+      "barn": 5,
+      "ung": 4,
+      "gymnasieelev": 4,
+      "student": 3,
+      "vuxenstudier": 3,
+      "offentliganstalld": 4,
+      "b_utbildning": 4
     }
   },
   {
@@ -1788,8 +2141,10 @@
       "kommunfullmaktige"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "b_vard": 1
+      "f_kommun": 3,
+      "kronisk": 3,
+      "funktion": 3,
+      "pensionar": 3
     }
   },
   {
@@ -1805,19 +2160,23 @@
       "kommunfullmaktige"
     ],
     "relevans": {
-      "b_industri": 1,
-      "b_bygg": 1,
-      "b_besok": 1,
-      "b_fastighet": 1,
-      "miljo": 1,
-      "glesbygd": 1,
-      "storstad": 1,
-      "kronisk": 1,
-      "beroende": 1,
-      "sparare": 1,
-      "friluftsliv": 1,
-      "klimat": 2,
-      "fortroendevald": 1
+      "storstad": 5,
+      "f_kommun": 5,
+      "bostadsagare": 5,
+      "hyresgast": 5,
+      "bygger": 4,
+      "mark_bygglov": 5,
+      "kollektiv": 4,
+      "pendlare": 4,
+      "klimat": 4,
+      "bil": 3,
+      "b_fastighet": 5,
+      "b_bygg": 4,
+      "b_besok": 4,
+      "b_kultur": 3,
+      "energikund": 3,
+      "friluftsliv": 4,
+      "offentliganstalld": 3
     }
   },
   {
@@ -1833,12 +2192,14 @@
       "tyreso-bostader-ab"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "b_vard": 1,
-      "b_it": 1,
-      "finansiering": 1,
-      "arbetsmiljo": 1,
-      "kronisk": 1
+      "f_kommun": 4,
+      "hyresgast": 5,
+      "bostadsagare": 3,
+      "b_fastighet": 5,
+      "kronisk": 3,
+      "pensionar": 3,
+      "gdpr": 3,
+      "arbetsmiljo": 3
     }
   },
   {
@@ -1854,12 +2215,13 @@
       "vn"
     ],
     "relevans": {
-      "b_transport": 1,
-      "kompetens": 1,
-      "gdpr": 1,
-      "lokaler": 1,
-      "funktion": 1,
-      "integritet": 1
+      "f_kommun": 4,
+      "integritet": 4,
+      "funktion": 4,
+      "fortroendevald": 5,
+      "offentliganstalld": 3,
+      "digital_ovan": 3,
+      "ny_i_sverige": 3
     }
   },
   {
@@ -1875,13 +2237,25 @@
       "kommunstyrelsen"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "redovisning": 1,
-      "lokaler": 1,
-      "pensionar": 1,
-      "glesbygd": 1,
-      "klimat": 1,
-      "fortroendevald": 1
+      "ideell": 4,
+      "b_fastighet": 4,
+      "mark_bygglov": 4,
+      "f_kommun": 6,
+      "gdpr": 3,
+      "digitalisering": 3,
+      "lokaler": 4,
+      "pensionar": 3,
+      "pendlare": 3,
+      "bil": 3,
+      "kollektiv": 3,
+      "fortroendevald": 7,
+      "offentliganstalld": 5,
+      "glesbygd": 3,
+      "mindre_ort": 4,
+      "friluftsliv": 3,
+      "idrott": 3,
+      "otrygg": 3,
+      "integritet": 3
     }
   },
   {
@@ -1897,16 +2271,23 @@
       "kommunfullmaktige"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "b_energi": 1,
-      "b_kultur": 1,
-      "redovisning": 1,
-      "finansiering": 1,
-      "gdpr": 1,
-      "barn": 1,
-      "bil": 1,
-      "idrott": 1,
-      "integritet": 1
+      "b_energi": 4,
+      "gron_omstallning": 4,
+      "mark_bygglov": 3,
+      "f_kommun": 5,
+      "gdpr": 4,
+      "digitalisering": 4,
+      "lokaler": 3,
+      "fortroendevald": 6,
+      "offentliganstalld": 4,
+      "ny_i_sverige": 3,
+      "pendlare": 3,
+      "bil": 3,
+      "friluftsliv": 3,
+      "student": 3,
+      "barn": 3,
+      "digital_ovan": 3,
+      "klimat": 4
     }
   },
   {
@@ -1922,16 +2303,16 @@
       "kommunstyrelsen"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "b_energi": 1,
-      "lokaler": 1,
-      "mark_bygglov": 1,
-      "barn": 1,
-      "bygger": 1,
-      "glesbygd": 1,
-      "sparare": 1,
-      "lantagare": 1,
-      "energikund": 1
+      "b_fastighet": 5,
+      "b_energi": 4,
+      "finansiering": 4,
+      "f_kommun": 5,
+      "mark_bygglov": 4,
+      "lokaler": 3,
+      "barn": 3,
+      "fortroendevald": 5,
+      "offentliganstalld": 3,
+      "energikund": 3
     }
   },
   {
@@ -1947,9 +2328,15 @@
       "kommunstyrelsen"
     ],
     "relevans": {
-      "b_it": 1,
-      "gdpr": 1,
-      "kronisk": 1
+      "gdpr": 5,
+      "digitalisering": 5,
+      "f_kommun": 5,
+      "b_it": 4,
+      "infrastruktur": 3,
+      "offentliganstalld": 4,
+      "fortroendevald": 4,
+      "integritet": 4,
+      "bredbandsberoende": 3
     }
   },
   {
@@ -1962,7 +2349,15 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03267.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "asyl": 8,
+      "ny_i_sverige": 6,
+      "arbetstillstand": 6,
+      "otrygg": 4,
+      "integritet": 4,
+      "offentliganstalld": 3
+    }
   },
   {
     "id": "HD03261",
@@ -1976,7 +2371,17 @@
       "riksdagen"
     ],
     "relevans": {
-      "otrygg": 1
+      "ny_i_sverige": 5,
+      "asyl": 4,
+      "arbetstillstand": 4,
+      "bidrag": 5,
+      "skuldsatt": 3,
+      "integritet": 5,
+      "otrygg": 3,
+      "offentliganstalld": 3,
+      "gdpr": 4,
+      "b_finans": 3,
+      "redovisning": 3
     }
   },
   {
@@ -1991,7 +2396,19 @@
       "riksdagen"
     ],
     "relevans": {
-      "ny_i_sverige": 1
+      "digital_ovan": 6,
+      "ny_i_sverige": 5,
+      "pensionar": 4,
+      "funktion": 4,
+      "student": 3,
+      "ung_vuxen": 3,
+      "integritet": 4,
+      "eu_marknad": 4,
+      "digitalisering": 6,
+      "gdpr": 4,
+      "b_it": 4,
+      "offentliganstalld": 3,
+      "barn": 3
     }
   },
   {
@@ -2007,14 +2424,23 @@
       "kommunfullmaktige"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "redovisning": 1,
-      "miljo": 1,
-      "mark_bygglov": 1,
-      "barn": 1,
-      "bygger": 1,
-      "konsument": 1,
-      "fortroendevald": 1
+      "f_kommun": 5,
+      "mark_bygglov": 4,
+      "b_fastighet": 3,
+      "b_bygg": 3,
+      "lokaler": 3,
+      "friluftsliv": 4,
+      "pensionar": 4,
+      "idrott": 3,
+      "pendlare": 3,
+      "bil": 3,
+      "kollektiv": 3,
+      "fortroendevald": 6,
+      "offentliganstalld": 3,
+      "glesbygd": 3,
+      "mindre_ort": 4,
+      "bygger": 3,
+      "klimat": 3
     }
   },
   {
@@ -2029,9 +2455,14 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "kronisk": 1,
-      "fortroendevald": 1
+      "export": 5,
+      "import": 4,
+      "eu_marknad": 6,
+      "storforetag": 4,
+      "smaforetag": 3,
+      "b_industri": 3,
+      "b_transport": 3,
+      "utlandssvensk": 3
     }
   },
   {
@@ -2046,8 +2477,14 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "fortroendevald": 1
+      "export": 5,
+      "import": 4,
+      "eu_marknad": 6,
+      "storforetag": 4,
+      "smaforetag": 3,
+      "b_industri": 3,
+      "b_transport": 3,
+      "utlandssvensk": 3
     }
   },
   {
@@ -2063,13 +2500,17 @@
       "kommunfullmaktige"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "redovisning": 1,
-      "arbetsmiljo": 1,
-      "kvinna": 1,
-      "kronisk": 1,
-      "idrott": 1,
-      "klimat": 2
+      "f_kommun": 5,
+      "offentliganstalld": 4,
+      "fortroendevald": 6,
+      "b_vard": 3,
+      "ideell": 4,
+      "arbetsmiljo": 3,
+      "kvinna": 3,
+      "foretagare": 3,
+      "klimat": 3,
+      "gron_omstallning": 3,
+      "b_fastighet": 3
     }
   },
   {
@@ -2083,7 +2524,17 @@
     "taggar": [
       "lekeberg",
       "kommunfullmaktige"
-    ]
+    ],
+    "relevans": {
+      "f_kommun": 6,
+      "energikund": 6,
+      "offentliganstalld": 4,
+      "fortroendevald": 6,
+      "glesbygd": 4,
+      "mindre_ort": 4,
+      "b_energi": 4,
+      "finansiering": 3
+    }
   },
   {
     "id": "lekeberg-kommunstyrelsen-2026-05-06",
@@ -2098,7 +2549,12 @@
       "kommunstyrelsen"
     ],
     "relevans": {
-      "glesbygd": 1
+      "f_kommun": 5,
+      "energikund": 6,
+      "offentliganstalld": 4,
+      "b_energi": 4,
+      "glesbygd": 3,
+      "mindre_ort": 3
     }
   },
   {
@@ -2113,10 +2569,17 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_finans": 1,
-      "gdpr": 1,
-      "lantagare": 3,
-      "integritet": 2
+      "lantagare": 6,
+      "skuldsatt": 6,
+      "bostadsagare": 5,
+      "sparare": 4,
+      "pensionssparare": 3,
+      "b_finans": 5,
+      "integritet": 4,
+      "gdpr": 3,
+      "stor_familj": 3,
+      "sambo_gift": 3,
+      "ensam_foralder": 3
     }
   },
   {
@@ -2132,11 +2595,17 @@
       "kommunfullmaktige"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "b_vard": 1,
-      "b_fastighet": 1,
-      "barn": 1,
-      "kronisk": 1
+      "f_kommun": 5,
+      "offentliganstalld": 4,
+      "fortroendevald": 6,
+      "b_bygg": 4,
+      "b_vard": 3,
+      "barn": 3,
+      "ny_i_sverige": 3,
+      "gron_omstallning": 3,
+      "glesbygd": 3,
+      "mindre_ort": 4,
+      "klimat": 3
     }
   },
   {
@@ -2151,8 +2620,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "domd": 1,
-      "integritet": 1
+      "asyl": 9,
+      "ny_i_sverige": 7,
+      "arbetstillstand": 7,
+      "integritet": 5,
+      "otrygg": 4,
+      "offentliganstalld": 3
     }
   },
   {
@@ -2167,9 +2640,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "tillstand": 1,
-      "glesbygd": 1,
-      "ny_i_sverige": 3
+      "asyl": 9,
+      "ny_i_sverige": 7,
+      "arbetstillstand": 8,
+      "integritet": 4,
+      "otrygg": 3
     }
   },
   {
@@ -2184,14 +2659,13 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_finans": 1,
-      "pensionar": 1,
-      "arbetssokande": 1,
-      "sjukskriven": 1,
-      "skuldsatt": 1,
-      "asyl": 1,
-      "otrygg": 1,
-      "domd": 1
+      "asyl": 9,
+      "ny_i_sverige": 7,
+      "arbetstillstand": 8,
+      "bidrag": 5,
+      "offentliganstalld": 4,
+      "integritet": 5,
+      "otrygg": 3
     }
   },
   {
@@ -2206,8 +2680,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "ny_i_sverige": 3,
-      "asyl": 3
+      "asyl": 10,
+      "ny_i_sverige": 8,
+      "arbetstillstand": 8,
+      "integritet": 4,
+      "eu_marknad": 3,
+      "otrygg": 3
     }
   },
   {
@@ -2222,11 +2700,13 @@
       "riksdagen"
     ],
     "relevans": {
-      "gdpr": 1,
-      "fou": 3,
-      "glesbygd": 1,
-      "otrygg": 1,
-      "integritet": 1
+      "gdpr": 5,
+      "integritet": 4,
+      "b_life": 5,
+      "fou": 6,
+      "b_it": 3,
+      "offentliganstalld": 3,
+      "digitalisering": 3
     }
   },
   {
@@ -2241,8 +2721,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "kollektivavtal": 1,
-      "arbetssokande": 1
+      "kollektivavtal": 3,
+      "ideell": 4,
+      "fortroendevald": 8,
+      "volontar": 3,
+      "integritet": 4,
+      "lontagare": 3
     }
   },
   {
@@ -2257,7 +2741,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "varnpliktig": 1
+      "varnpliktig": 7,
+      "offentliganstalld": 4,
+      "fortroendevald": 3,
+      "b_it": 3,
+      "infrastruktur": 3
     }
   },
   {
@@ -2272,10 +2760,13 @@
       "riksdagen"
     ],
     "relevans": {
-      "tillstand": 3,
-      "kronisk": 3,
-      "psykisk": 3,
-      "beroende": 3
+      "beroende": 9,
+      "psykisk": 8,
+      "kronisk": 5,
+      "anhorigvardare": 6,
+      "sjukskriven": 4,
+      "offentliganstalld": 4,
+      "b_vard": 7
     }
   },
   {
@@ -2290,16 +2781,19 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_transport": 3,
-      "arbetsratt": 1,
-      "miljo": 1,
-      "infrastruktur": 1,
-      "glesbygd": 1,
-      "bil": 2,
-      "kollektiv": 1,
-      "kronisk": 1,
-      "energikund": 1,
-      "klimat": 3
+      "bil": 5,
+      "pendlare": 6,
+      "kollektiv": 5,
+      "glesbygd": 4,
+      "b_transport": 8,
+      "b_industri": 5,
+      "b_bygg": 4,
+      "b_energi": 5,
+      "energikund": 4,
+      "klimat": 5,
+      "gron_omstallning": 6,
+      "infrastruktur": 7,
+      "f_landsbygd": 4
     }
   },
   {
@@ -2314,10 +2808,14 @@
       "riksdagen"
     ],
     "relevans": {
-      "arbetsgivare": 1,
-      "b_konsult": 3,
-      "b_life": 3,
-      "kronisk": 3
+      "kronisk": 5,
+      "beroende": 4,
+      "pensionar": 4,
+      "barn": 4,
+      "b_vard": 5,
+      "b_life": 7,
+      "tillstand": 4,
+      "konsument": 5
     }
   },
   {
@@ -2332,9 +2830,13 @@
       "riksdagen"
     ],
     "relevans": {
-      "arbetsgivare": 1,
-      "tillstand": 1,
-      "konsument": 1
+      "f_kommun": 5,
+      "mark_bygglov": 6,
+      "bostadsagare": 3,
+      "bygger": 4,
+      "b_fastighet": 6,
+      "digitalisering": 4,
+      "offentliganstalld": 4
     }
   },
   {
@@ -2350,10 +2852,16 @@
       "kommunfullmaktige"
     ],
     "relevans": {
-      "b_industri": 1,
-      "b_fastighet": 1,
-      "redovisning": 1,
-      "glesbygd": 1
+      "glesbygd": 4,
+      "f_landsbygd": 4,
+      "f_kommun": 7,
+      "bostadsagare": 3,
+      "hyresgast": 3,
+      "digitalisering": 3,
+      "offentliganstalld": 5,
+      "fortroendevald": 6,
+      "b_fastighet": 4,
+      "energikund": 3
     }
   },
   {
@@ -2369,12 +2877,17 @@
       "kommunfullmaktige"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "b_finans": 1,
-      "redovisning": 1,
-      "miljo": 2,
-      "barn": 1,
-      "glesbygd": 1
+      "f_kommun": 7,
+      "glesbygd": 3,
+      "pensionar": 4,
+      "barn": 4,
+      "ung": 4,
+      "idrott": 4,
+      "friluftsliv": 3,
+      "konsument": 4,
+      "bostadsagare": 3,
+      "offentliganstalld": 4,
+      "fortroendevald": 5
     }
   },
   {
@@ -2389,11 +2902,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_transport": 1,
-      "arbetsratt": 1,
-      "flygresenar": 1,
-      "beroende": 3,
-      "otrygg": 1
+      "b_transport": 9,
+      "b_industri": 4,
+      "arbetsratt": 3,
+      "arbetsmiljo": 4,
+      "tillstand": 5,
+      "regelborda": 5
     }
   },
   {
@@ -2408,7 +2922,14 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_finans": 3
+      "b_finans": 9,
+      "sparare": 4,
+      "lantagare": 4,
+      "eu_marknad": 6,
+      "tillstand": 5,
+      "storforetag": 5,
+      "aktiebolag": 4,
+      "gdpr": 3
     }
   },
   {
@@ -2423,8 +2944,9 @@
       "riksdagen"
     ],
     "relevans": {
-      "domd": 1,
-      "integritet": 1
+      "domd": 9,
+      "beroende": 4,
+      "skuldsatt": 3
     }
   },
   {
@@ -2439,8 +2961,12 @@
       "riksdagen"
     ],
     "relevans": {
+      "sparare": 4,
+      "pensionssparare": 4,
       "lantagare": 3,
-      "konsument": 2
+      "b_finans": 5,
+      "bolagsskatt": 3,
+      "finansiering": 4
     }
   },
   {
@@ -2456,13 +2982,19 @@
       "kommunfullmaktige"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "lokaler": 1,
-      "barn": 2,
-      "konsument": 1,
-      "idrott": 1,
-      "klimat": 1,
-      "fortroendevald": 1
+      "f_storstad": 6,
+      "storstad": 6,
+      "f_kommun": 7,
+      "barn": 5,
+      "ung": 5,
+      "bostadsagare": 3,
+      "hyresgast": 3,
+      "idrott": 4,
+      "klimat": 4,
+      "offentliganstalld": 4,
+      "fortroendevald": 5,
+      "b_fastighet": 4,
+      "lokaler": 3
     }
   },
   {
@@ -2477,11 +3009,14 @@
       "riksdagen"
     ],
     "relevans": {
-      "gdpr": 1,
-      "barn": 1,
-      "ung": 1,
-      "otrygg": 2,
-      "integritet": 1
+      "barn": 5,
+      "ung": 7,
+      "ung_vuxen": 6,
+      "otrygg": 6,
+      "brottsoffer": 5,
+      "domd": 7,
+      "offentliganstalld": 3,
+      "fortroendevald": 3
     }
   },
   {
@@ -2496,10 +3031,14 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_fastighet": 3,
-      "gdpr": 2,
-      "kronisk": 1,
-      "integritet": 1
+      "f_kommun": 5,
+      "offentliganstalld": 5,
+      "digitalisering": 7,
+      "gdpr": 5,
+      "integritet": 4,
+      "digital_ovan": 3,
+      "b_it": 6,
+      "regelborda": 4
     }
   },
   {
@@ -2514,11 +3053,16 @@
       "riksdagen"
     ],
     "relevans": {
-      "smaforetag": 1,
-      "b_grona": 3,
-      "b_vard": 1,
-      "miljo": 1,
-      "klimat": 1
+      "b_grona": 9,
+      "glesbygd": 5,
+      "f_landsbygd": 5,
+      "bostadsagare": 3,
+      "mark_bygglov": 4,
+      "miljo": 5,
+      "klimat": 4,
+      "gron_omstallning": 4,
+      "regelborda": 6,
+      "friluftsliv": 3
     }
   },
   {
@@ -2533,8 +3077,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "arbetsgivare": 1,
-      "lokaler": 1
+      "fortroendevald": 4,
+      "utlandssvensk": 3
     }
   },
   {
@@ -2547,7 +3091,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03231.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "fortroendevald": 4,
+      "utlandssvensk": 3
+    }
   },
   {
     "id": "HD03245",
@@ -2561,7 +3109,15 @@
       "riksdagen"
     ],
     "relevans": {
-      "kvinna": 3
+      "kvinna": 8,
+      "brottsoffer": 7,
+      "hbtq": 5,
+      "ny_i_sverige": 5,
+      "otrygg": 5,
+      "anhorigvardare": 3,
+      "offentliganstalld": 4,
+      "b_vard": 4,
+      "volontar": 4
     }
   },
   {
@@ -2576,10 +3132,18 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_fastighet": 1,
-      "b_energi": 2,
-      "eu_marknad": 1,
-      "energikund": 1
+      "aktiebolag": 4,
+      "smaforetag": 3,
+      "storforetag": 5,
+      "b_energi": 9,
+      "b_fastighet": 6,
+      "b_industri": 5,
+      "energiintensiv": 7,
+      "eu_marknad": 5,
+      "gron_omstallning": 4,
+      "energikund": 7,
+      "bostadsagare": 5,
+      "f_kommun": 3
     }
   },
   {
@@ -2594,8 +3158,14 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_energi": 3,
-      "bolagsskatt": 1
+      "b_energi": 8,
+      "b_fastighet": 4,
+      "gron_omstallning": 5,
+      "f_landsbygd": 5,
+      "glesbygd": 6,
+      "bostadsagare": 8,
+      "energikund": 4,
+      "klimat": 4
     }
   },
   {
@@ -2610,8 +3180,17 @@
       "riksdagen"
     ],
     "relevans": {
-      "miljo": 1,
-      "klimat": 3
+      "b_industri": 6,
+      "b_bygg": 5,
+      "b_grona": 6,
+      "b_energi": 5,
+      "miljo": 8,
+      "mark_bygglov": 5,
+      "tillstand": 7,
+      "regelborda": 5,
+      "gron_omstallning": 4,
+      "klimat": 5,
+      "friluftsliv": 3
     }
   },
   {
@@ -2626,10 +3205,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "arbetssokande": 1,
-      "student": 2,
-      "lantagare": 2,
-      "otrygg": 3
+      "lontagare": 4,
+      "student": 6,
+      "ung_vuxen": 5,
+      "offentliganstalld": 6,
+      "integritet": 4
     }
   },
   {
@@ -2644,12 +3224,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "aktiebolag": 1,
-      "bolagsskatt": 1,
-      "konkurrens": 1,
-      "infrastruktur": 3,
-      "kronisk": 1,
-      "batagare": 3
+      "aktiebolag": 6,
+      "storforetag": 4,
+      "b_transport": 5,
+      "eu_marknad": 6,
+      "konkurrens": 5,
+      "f_kommun": 7
     }
   },
   {
@@ -2664,8 +3244,17 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1,
-      "kollektiv": 1
+      "smaforetag": 4,
+      "b_it": 6,
+      "b_finans": 4,
+      "gdpr": 7,
+      "konsumentratt": 5,
+      "digitalisering": 5,
+      "eu_marknad": 4,
+      "konsument": 5,
+      "integritet": 6,
+      "otrygg": 5,
+      "digital_ovan": 4
     }
   },
   {
@@ -2680,9 +3269,13 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_transport": 1,
-      "konkurrens": 1,
-      "hyresgast": 1
+      "storforetag": 7,
+      "b_transport": 8,
+      "bolagsskatt": 7,
+      "export": 6,
+      "eu_marknad": 6,
+      "konkurrens": 6,
+      "energiintensiv": 4
     }
   },
   {
@@ -2698,14 +3291,14 @@
       "kommunstyrelsen"
     ],
     "relevans": {
-      "arbetsgivare": 1,
-      "b_industri": 1,
-      "b_fastighet": 1,
-      "b_energi": 1,
-      "redovisning": 1,
-      "glesbygd": 1,
-      "energikund": 1,
-      "kultur": 1
+      "f_kommun": 6,
+      "b_fastighet": 4,
+      "digitalisering": 4,
+      "offentliganstalld": 6,
+      "fortroendevald": 7,
+      "energikund": 4,
+      "glesbygd": 4,
+      "mindre_ort": 5
     }
   },
   {
@@ -2721,16 +3314,15 @@
       "kommunstyrelsen"
     ],
     "relevans": {
-      "arbetsgivare": 1,
-      "b_bygg": 1,
-      "b_fastighet": 1,
-      "miljo": 1,
-      "mark_bygglov": 2,
-      "bygger": 2,
-      "funktion": 1,
-      "konsument": 1,
-      "otrygg": 1,
-      "fortroendevald": 1
+      "f_kommun": 7,
+      "b_fastighet": 5,
+      "b_vard": 4,
+      "mark_bygglov": 6,
+      "offentliganstalld": 6,
+      "fortroendevald": 7,
+      "bostadsagare": 4,
+      "bygger": 5,
+      "funktion": 4
     }
   },
   {
@@ -2745,8 +3337,9 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_finans": 3,
-      "varnpliktig": 1
+      "storforetag": 3,
+      "bolagsskatt": 3,
+      "fortroendevald": 5
     }
   },
   {
@@ -2761,11 +3354,9 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_vard": 1,
-      "b_konsult": 1,
-      "redovisning": 3,
-      "lantagare": 1,
-      "konsument": 1
+      "storforetag": 3,
+      "bolagsskatt": 3,
+      "fortroendevald": 5
     }
   },
   {
@@ -2780,7 +3371,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "glesbygd": 1
+      "storforetag": 3,
+      "smaforetag": 3,
+      "bolagsskatt": 3,
+      "fortroendevald": 5,
+      "lontagare": 3,
+      "arbetssokande": 3
     }
   },
   {
@@ -2795,21 +3391,13 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "b_fastighet": 1,
-      "b_energi": 1,
-      "b_kultur": 1,
-      "b_life": 1,
-      "student": 1,
-      "hyresgast": 1,
-      "kronisk": 1,
-      "tandvard": 2,
-      "sparare": 1,
-      "lantagare": 1,
-      "energikund": 1,
-      "kultur": 1,
-      "otrygg": 1,
-      "varnpliktig": 1
+      "b_energi": 6,
+      "b_life": 4,
+      "varnpliktig": 6,
+      "offentliganstalld": 4,
+      "tandvard": 5,
+      "fortroendevald": 4,
+      "student": 4
     }
   },
   {
@@ -2824,9 +3412,13 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_konsult": 3,
-      "barn": 1,
-      "kronisk": 1
+      "storforetag": 4,
+      "smaforetag": 3,
+      "aktiebolag": 3,
+      "bolagsskatt": 5,
+      "moms": 4,
+      "punktskatt": 4,
+      "fortroendevald": 4
     }
   },
   {
@@ -2841,12 +3433,18 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_energi": 1,
-      "punktskatt": 1,
-      "energiintensiv": 1,
-      "bil": 2,
-      "energikund": 3,
-      "klimat": 1
+      "solo": 5,
+      "smaforetag": 5,
+      "b_transport": 8,
+      "b_grona": 5,
+      "punktskatt": 8,
+      "energiintensiv": 5,
+      "bil": 8,
+      "pendlare": 7,
+      "glesbygd": 6,
+      "energikund": 7,
+      "konsument": 6,
+      "foretagare": 5
     }
   },
   {
@@ -2862,7 +3460,13 @@
       "kommunstyrelsen"
     ],
     "relevans": {
-      "lokaler": 1
+      "f_kommun": 6,
+      "fortroendevald": 7,
+      "offentliganstalld": 5,
+      "funktion": 5,
+      "pensionar": 4,
+      "anhorigvardare": 4,
+      "mindre_ort": 4
     }
   },
   {
@@ -2877,7 +3481,9 @@
       "riksdagen"
     ],
     "relevans": {
-      "varnpliktig": 1
+      "varnpliktig": 8,
+      "offentliganstalld": 5,
+      "fortroendevald": 4
     }
   },
   {
@@ -2890,7 +3496,14 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03218.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "otrygg": 7,
+      "brottsoffer": 6,
+      "domd": 7,
+      "offentliganstalld": 4,
+      "fortroendevald": 4
+    }
   },
   {
     "id": "HD03217",
@@ -2904,8 +3517,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "beroende": 1,
-      "offentliganstalld": 3
+      "offentliganstalld": 8,
+      "fortroendevald": 7,
+      "otrygg": 4,
+      "brottsoffer": 4,
+      "integritet": 4
     }
   },
   {
@@ -2920,9 +3536,18 @@
       "riksdagen"
     ],
     "relevans": {
-      "miljo": 1,
-      "friluftsliv": 1,
-      "klimat": 1
+      "b_grona": 7,
+      "b_fastighet": 6,
+      "mark_bygglov": 6,
+      "miljo": 7,
+      "gron_omstallning": 4,
+      "glesbygd": 6,
+      "f_landsbygd": 6,
+      "bostadsagare": 5,
+      "klimat": 5,
+      "friluftsliv": 4,
+      "fiske": 3,
+      "jagare": 3
     }
   },
   {
@@ -2937,9 +3562,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_life": 1,
-      "kronisk": 1,
-      "tandvard": 3
+      "tandvard": 10,
+      "kronisk": 4,
+      "pensionar": 5,
+      "konsument": 4,
+      "barn": 3
     }
   },
   {
@@ -2954,10 +3581,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "miljo": 1,
-      "export": 3,
-      "infrastruktur": 1,
-      "batagare": 1
+      "export": 7,
+      "b_industri": 5,
+      "eu_marknad": 4,
+      "storforetag": 4,
+      "b_it": 3,
+      "immaterialratt": 3
     }
   },
   {
@@ -2973,10 +3602,13 @@
       "kommunstyrelsen"
     ],
     "relevans": {
-      "b_finans": 1,
-      "b_energi": 1,
-      "barn": 1,
-      "otrygg": 1
+      "f_kommun": 5,
+      "barn": 4,
+      "b_besok": 5,
+      "b_transport": 3,
+      "fortroendevald": 6,
+      "glesbygd": 3,
+      "moins_ort": 3
     }
   },
   {
@@ -2989,7 +3621,15 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03235.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "ny_i_sverige": 8,
+      "asyl": 7,
+      "arbetstillstand": 7,
+      "brottsoffer": 4,
+      "otrygg": 4,
+      "fortroendevald": 3
+    }
   },
   {
     "id": "HD03228",
@@ -3003,9 +3643,13 @@
       "riksdagen"
     ],
     "relevans": {
-      "tillstand": 1,
-      "export": 1,
-      "varnpliktig": 1
+      "export": 8,
+      "b_industri": 7,
+      "storforetag": 6,
+      "eu_marknad": 5,
+      "tillstand": 6,
+      "smaforetag": 4,
+      "arbetsratt": 3
     }
   },
   {
@@ -3020,9 +3664,13 @@
       "riksdagen"
     ],
     "relevans": {
-      "pensionar": 1,
-      "kronisk": 1,
-      "funktion": 1
+      "pensionar": 7,
+      "kronisk": 6,
+      "funktion": 6,
+      "anhorigvardare": 5,
+      "b_vard": 7,
+      "offentliganstalld": 5,
+      "f_kommun": 5
     }
   },
   {
@@ -3037,10 +3685,13 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_it": 1,
-      "gdpr": 3,
-      "integritet": 1,
-      "varnpliktig": 1
+      "gdpr": 7,
+      "digitalisering": 6,
+      "integritet": 6,
+      "b_it": 6,
+      "bredbandsberoende": 4,
+      "storforetag": 4,
+      "offentliganstalld": 5
     }
   },
   {
@@ -3056,15 +3707,20 @@
       "kommunstyrelsen"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "b_kultur": 1,
-      "lokaler": 1,
-      "mark_bygglov": 1,
-      "barn": 1,
-      "bygger": 1,
-      "konsument": 1,
-      "klimat": 1,
-      "kultur": 1
+      "f_kommun": 6,
+      "barn": 4,
+      "pensionar": 4,
+      "ung": 4,
+      "kultur": 5,
+      "hyresgast": 4,
+      "bostadsagare": 3,
+      "mark_bygglov": 4,
+      "ensam_foralder": 4,
+      "miljo": 4,
+      "b_fastighet": 5,
+      "b_kultur": 4,
+      "ideell": 4,
+      "storstad": 5
     }
   },
   {
@@ -3079,8 +3735,13 @@
       "riksdagen"
     ],
     "relevans": {
-      "barn": 1,
-      "asyl": 1
+      "asyl": 10,
+      "ny_i_sverige": 8,
+      "arbetstillstand": 6,
+      "barn": 4,
+      "bostadslos": 5,
+      "bidrag": 6,
+      "student": 3
     }
   },
   {
@@ -3093,7 +3754,19 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03223.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "konsument": 8,
+      "skuldsatt": 7,
+      "lantagare": 7,
+      "b_finans": 7,
+      "konsumentratt": 8,
+      "smaforetag": 5,
+      "solo": 4,
+      "eu_marknad": 5,
+      "tillstand": 5,
+      "regelborda": 4
+    }
   },
   {
     "id": "HD03222",
@@ -3107,8 +3780,9 @@
       "riksdagen"
     ],
     "relevans": {
-      "glesbygd": 1,
-      "brottsoffer": 2
+      "brottsoffer": 10,
+      "otrygg": 5,
+      "skuldsatt": 3
     }
   },
   {
@@ -3123,10 +3797,13 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_fastighet": 1,
-      "gdpr": 1,
-      "arbetssokande": 1,
-      "integritet": 1
+      "ny_i_sverige": 9,
+      "asyl": 7,
+      "arbetstillstand": 6,
+      "lontagare": 4,
+      "bostadslos": 5,
+      "f_landsbygd": 4,
+      "f_kommun": 5
     }
   },
   {
@@ -3142,15 +3819,18 @@
       "kommunfullmaktige"
     ],
     "relevans": {
-      "b_energi": 1,
-      "b_kultur": 1,
-      "finansiering": 1,
-      "barn": 2,
-      "ung": 1,
-      "bil": 1,
-      "friluftsliv": 1,
-      "idrott": 1,
-      "kultur": 1
+      "f_kommun": 6,
+      "barn": 5,
+      "glesbygd": 4,
+      "klimat": 4,
+      "energikund": 4,
+      "b_energi": 5,
+      "idrott": 3,
+      "friluftsliv": 4,
+      "pendlare": 4,
+      "fortroendevald": 5,
+      "offentliganstalld": 4,
+      "mark_bygglov": 3
     }
   },
   {
@@ -3165,9 +3845,13 @@
       "riksdagen"
     ],
     "relevans": {
-      "barn": 1,
-      "glesbygd": 1,
-      "otrygg": 2
+      "barn": 7,
+      "ung": 8,
+      "brottsoffer": 5,
+      "otrygg": 6,
+      "fortroendevald": 3,
+      "ensam_foralder": 4,
+      "stor_familj": 3
     }
   },
   {
@@ -3182,10 +3866,14 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_besok": 3,
-      "tillstand": 1,
-      "lokaler": 1,
-      "beroende": 1
+      "b_besok": 9,
+      "tillstand": 8,
+      "solo": 5,
+      "smaforetag": 6,
+      "regelborda": 6,
+      "b_handel": 4,
+      "aktiebolag": 4,
+      "konsument": 4
     }
   },
   {
@@ -3214,18 +3902,14 @@
       "kommunfullmaktige"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "b_transport": 1,
-      "b_vard": 1,
-      "b_energi": 1,
-      "miljo": 1,
-      "mark_bygglov": 1,
-      "bygger": 1,
-      "kronisk": 1,
-      "beroende": 1,
-      "energikund": 1,
-      "konsument": 2,
-      "klimat": 1
+      "f_kommun": 6,
+      "pensionar": 5,
+      "anhorigvardare": 4,
+      "kronisk": 4,
+      "b_fastighet": 4,
+      "miljo": 3,
+      "b_vard": 5,
+      "mark_bygglov": 4
     }
   },
   {
@@ -3240,9 +3924,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "arbetsgivare": 1,
-      "b_konsult": 1,
-      "redovisning": 1
+      "klimat": 3,
+      "fortroendevald": 3
     }
   },
   {
@@ -3257,7 +3940,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_fastighet": 1
+      "bostadsagare": 8,
+      "hyresgast": 5,
+      "konsument": 6,
+      "konsumentratt": 6,
+      "lantagare": 4,
+      "b_fastighet": 5
     }
   },
   {
@@ -3272,11 +3960,14 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_fastighet": 1,
-      "import": 1,
-      "barn": 1,
-      "lantagare": 1,
-      "skuldsatt": 1
+      "skuldsatt": 10,
+      "lantagare": 7,
+      "bostadsagare": 7,
+      "hyresgast": 4,
+      "brottsoffer": 5,
+      "barn": 5,
+      "b_finans": 4,
+      "b_fastighet": 4
     }
   },
   {
@@ -3291,9 +3982,14 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_industri": 1,
-      "b_grona": 1,
-      "husdjur": 1
+      "konsument": 6,
+      "b_grona": 7,
+      "b_handel": 5,
+      "b_industri": 4,
+      "miljo": 4,
+      "produktsakerhet": 6,
+      "konsumentratt": 5,
+      "eu_marknad": 4
     }
   },
   {
@@ -3308,7 +4004,13 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_bygg": 1
+      "b_grona": 6,
+      "b_transport": 3,
+      "b_handel": 4,
+      "b_industri": 3,
+      "upphandling": 5,
+      "f_kommun": 3,
+      "klimat": 3
     }
   },
   {
@@ -3323,10 +4025,14 @@
       "riksdagen"
     ],
     "relevans": {
-      "barn": 1,
-      "sambo_gift": 1,
-      "otrygg": 1,
-      "integritet": 1
+      "kvinna": 6,
+      "barn": 5,
+      "ung": 5,
+      "ny_i_sverige": 5,
+      "brottsoffer": 6,
+      "otrygg": 4,
+      "hbtq": 3,
+      "offentliganstalld": 3
     }
   },
   {
@@ -3341,8 +4047,15 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_fastighet": 1,
-      "hyresgast": 1
+      "hyresgast": 7,
+      "bostadslos": 8,
+      "skuldsatt": 5,
+      "bidrag": 5,
+      "f_kommun": 6,
+      "ensam_foralder": 5,
+      "ny_i_sverige": 5,
+      "b_fastighet": 5,
+      "lontagare": 3
     }
   },
   {
@@ -3357,9 +4070,13 @@
       "riksdagen"
     ],
     "relevans": {
-      "gdpr": 1,
-      "jagare": 3,
-      "integritet": 1
+      "jagare": 9,
+      "fiske": 4,
+      "glesbygd": 5,
+      "friluftsliv": 4,
+      "b_grona": 5,
+      "integritet": 4,
+      "f_landsbygd": 4
     }
   },
   {
@@ -3374,11 +4091,15 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_finans": 1,
-      "pensionar": 1,
-      "sjukskriven": 1,
-      "tandvard": 2,
-      "konsument": 1
+      "bidrag": 8,
+      "sjukskriven": 7,
+      "pensionar": 5,
+      "tandvard": 5,
+      "skuldsatt": 4,
+      "ensam_foralder": 4,
+      "foretagare": 4,
+      "solo": 4,
+      "redovisning": 3
     }
   },
   {
@@ -3394,8 +4115,15 @@
       "kommunfullmaktige"
     ],
     "relevans": {
-      "b_fastighet": 1,
-      "infrastruktur": 1
+      "pendlare": 6,
+      "bil": 4,
+      "kollektiv": 5,
+      "glesbygd": 4,
+      "mindre_ort": 6,
+      "f_kommun": 7,
+      "b_bygg": 4,
+      "infrastruktur": 6,
+      "fortroendevald": 7
     }
   },
   {
@@ -3410,11 +4138,13 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "b_vard": 1,
-      "mark_bygglov": 1,
-      "bygger": 1,
-      "domd": 3
+      "otrygg": 4,
+      "brottsoffer": 3,
+      "f_kommun": 4,
+      "mark_bygglov": 6,
+      "b_bygg": 5,
+      "b_fastighet": 4,
+      "lokaler": 3
     }
   },
   {
@@ -3429,7 +4159,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "integritet": 3
+      "integritet": 6,
+      "gdpr": 5,
+      "digital_ovan": 3,
+      "bredbandsberoende": 3,
+      "b_it": 5,
+      "digitalisering": 5
     }
   },
   {
@@ -3444,10 +4179,15 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_vard": 1,
-      "bidrag": 3,
-      "beroende": 1,
-      "konsument": 1
+      "bidrag": 9,
+      "arbetssokande": 8,
+      "ny_i_sverige": 6,
+      "lontagare": 4,
+      "vuxenstudier": 5,
+      "f_kommun": 6,
+      "ensam_foralder": 5,
+      "skuldsatt": 4,
+      "offentliganstalld": 4
     }
   },
   {
@@ -3462,10 +4202,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "arbetsgivare": 3,
-      "lontagare": 1,
-      "kronisk": 2,
-      "tandvard": 1
+      "offentliganstalld": 8,
+      "utlandssvensk": 7,
+      "kronisk": 4,
+      "tandvard": 5,
+      "barn": 4,
+      "sambo_gift": 4
     }
   },
   {
@@ -3480,8 +4222,17 @@
       "riksdagen"
     ],
     "relevans": {
-      "smaforetag": 1,
-      "konkurrens": 3
+      "solo": 6,
+      "aktiebolag": 6,
+      "smaforetag": 7,
+      "storforetag": 7,
+      "konkurrens": 9,
+      "upphandling": 5,
+      "f_kommun": 5,
+      "b_handel": 5,
+      "b_konsult": 5,
+      "eu_marknad": 6,
+      "regelborda": 5
     }
   },
   {
@@ -3496,10 +4247,15 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "tillstand": 1,
-      "miljo": 1,
-      "klimat": 1
+      "b_energi": 8,
+      "energiintensiv": 7,
+      "energikund": 5,
+      "gron_omstallning": 6,
+      "miljo": 6,
+      "klimat": 5,
+      "b_industri": 5,
+      "hallbarhetsrapport": 4,
+      "eu_marknad": 4
     }
   },
   {
@@ -3514,10 +4270,16 @@
       "riksdagen"
     ],
     "relevans": {
-      "tillstand": 1,
-      "lontagare": 1,
-      "bidrag": 3,
-      "hyresgast": 1
+      "bidrag": 10,
+      "arbetssokande": 8,
+      "sjukskriven": 7,
+      "hyresgast": 6,
+      "ny_i_sverige": 6,
+      "ensam_foralder": 6,
+      "skuldsatt": 5,
+      "bostadslos": 5,
+      "f_kommun": 5,
+      "offentliganstalld": 4
     }
   },
   {
@@ -3532,9 +4294,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_finans": 2,
-      "sparare": 2,
-      "konsument": 1
+      "b_finans": 9,
+      "sparare": 5,
+      "storforetag": 6,
+      "aktiebolag": 4,
+      "eu_marknad": 7,
+      "pensionssparare": 4
     }
   },
   {
@@ -3549,7 +4314,16 @@
       "riksdagen"
     ],
     "relevans": {
-      "digital_ovan": 3
+      "pensionar": 7,
+      "digital_ovan": 8,
+      "funktion": 6,
+      "konsument": 7,
+      "glesbygd": 6,
+      "b_handel": 7,
+      "b_besok": 4,
+      "solo": 4,
+      "smaforetag": 5,
+      "lantagare": 3
     }
   },
   {
@@ -3564,12 +4338,15 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "b_utbildning": 1,
-      "kompetens": 3,
-      "barn": 1,
-      "gymnasieelev": 1,
-      "vuxenstudier": 1
+      "gymnasieelev": 8,
+      "ung_vuxen": 6,
+      "vuxenstudier": 7,
+      "arbetssokande": 5,
+      "kompetens": 6,
+      "b_utbildning": 8,
+      "arbetsratt": 4,
+      "offentliganstalld": 4,
+      "barn": 4
     }
   },
   {
@@ -3584,12 +4361,13 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "b_utbildning": 1,
-      "barn": 1,
-      "student": 1,
-      "gymnasieelev": 1,
-      "vuxenstudier": 1
+      "gymnasieelev": 9,
+      "barn": 7,
+      "ung_vuxen": 6,
+      "student": 5,
+      "b_utbildning": 7,
+      "offentliganstalld": 4,
+      "ensam_foralder": 3
     }
   },
   {
@@ -3604,8 +4382,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "arbetsgivare": 1,
-      "barn": 3
+      "barn": 7,
+      "gymnasieelev": 5,
+      "offentliganstalld": 7,
+      "b_utbildning": 7,
+      "kompetens": 4,
+      "fortroendevald": 3
     }
   },
   {
@@ -3620,9 +4402,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "barn": 3,
-      "glesbygd": 1,
-      "kronisk": 1
+      "barn": 8,
+      "gymnasieelev": 6,
+      "offentliganstalld": 7,
+      "b_utbildning": 7,
+      "student": 4,
+      "ensam_foralder": 3
     }
   },
   {
@@ -3637,8 +4422,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "barn": 3,
-      "otrygg": 3
+      "barn": 8,
+      "ung": 8,
+      "gymnasieelev": 7,
+      "b_utbildning": 7,
+      "lontagare": 3,
+      "offentliganstalld": 4
     }
   },
   {
@@ -3653,8 +4442,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "arbetsgivare": 1,
-      "barn": 1
+      "barn": 7,
+      "ung": 6,
+      "gymnasieelev": 5,
+      "b_utbildning": 6,
+      "brottsoffer": 5,
+      "otrygg": 4
     }
   },
   {
@@ -3667,7 +4460,14 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03191.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "b_utbildning": 8,
+      "regelborda": 5,
+      "gdpr": 4,
+      "smaforetag": 4,
+      "solo": 3
+    }
   },
   {
     "id": "HD03190",
@@ -3681,9 +4481,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "gdpr": 1,
-      "barn": 1,
-      "integritet": 1
+      "psykisk": 7,
+      "anhorigvardare": 6,
+      "barn": 5,
+      "offentliganstalld": 4,
+      "b_vard": 4
     }
   },
   {
@@ -3698,7 +4500,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "lontagare": 3
+      "ny_i_sverige": 8,
+      "barn": 5,
+      "stor_familj": 4,
+      "bidrag": 6
     }
   },
   {
@@ -3713,9 +4518,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "hyresgast": 1,
-      "bostadsagare": 1,
-      "otrygg": 1
+      "hyresgast": 6,
+      "bostadsagare": 7,
+      "lantagare": 5,
+      "sambo_gift": 4,
+      "b_fastighet": 6,
+      "bygger": 5
     }
   },
   {
@@ -3730,10 +4538,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "arbetsgivare": 1,
-      "hyresgast": 1,
-      "bostadsagare": 1,
-      "beroende": 1
+      "hyresgast": 7,
+      "bostadsagare": 6,
+      "bostadslos": 5,
+      "b_fastighet": 7,
+      "lontagare": 3
     }
   },
   {
@@ -3748,9 +4557,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "finansiering": 1,
-      "pensionar": 1,
-      "sparare": 2
+      "sparare": 7,
+      "pensionssparare": 6,
+      "b_finans": 8,
+      "eu_marknad": 5,
+      "regelborda": 4
     }
   },
   {
@@ -3765,7 +4576,9 @@
       "riksdagen"
     ],
     "relevans": {
-      "domd": 1
+      "domd": 8,
+      "offentliganstalld": 4,
+      "integritet": 3
     }
   },
   {
@@ -3780,8 +4593,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_kultur": 2,
-      "konsument": 1
+      "konsument": 5,
+      "b_handel": 5,
+      "b_kultur": 6,
+      "eu_marknad": 4
     }
   },
   {
@@ -3796,8 +4611,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "punktskatt": 3,
-      "beroende": 3
+      "b_besok": 8,
+      "b_grona": 6,
+      "smaforetag": 7,
+      "punktskatt": 8,
+      "solo": 4,
+      "familjeforetag": 6
     }
   },
   {
@@ -3812,9 +4631,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "glesbygd": 1,
-      "otrygg": 3,
-      "integritet": 1
+      "otrygg": 6,
+      "brottsoffer": 5,
+      "domd": 7,
+      "offentliganstalld": 3
     }
   },
   {
@@ -3829,13 +4649,13 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_bygg": 3,
-      "b_energi": 1,
-      "infrastruktur": 1,
-      "glesbygd": 1,
-      "funktion": 1,
-      "energikund": 1,
-      "bredbandsberoende": 1
+      "bygger": 8,
+      "bostadsagare": 6,
+      "b_bygg": 8,
+      "b_fastighet": 7,
+      "regelborda": 6,
+      "mark_bygglov": 7,
+      "lokaler": 5
     }
   },
   {
@@ -3850,10 +4670,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "gdpr": 1,
-      "otrygg": 1,
-      "integritet": 1,
-      "varnpliktig": 3
+      "integritet": 5,
+      "varnpliktig": 4,
+      "offentliganstalld": 3,
+      "b_it": 3
     }
   },
   {
@@ -3868,12 +4688,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "tillstand": 3,
-      "miljo": 1,
-      "regelborda": 3,
-      "fou": 3,
-      "klimat": 1,
-      "varnpliktig": 3
+      "miljo": 4,
+      "offentliganstalld": 3
     }
   },
   {
@@ -3888,12 +4704,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_vard": 1,
-      "konkurs": 1,
-      "gdpr": 1,
-      "kronisk": 1,
-      "konsument": 1,
-      "integritet": 1
+      "upphandling": 9,
+      "smaforetag": 6,
+      "aktiebolag": 5,
+      "konkurs": 5,
+      "regelborda": 5,
+      "gdpr": 4
     }
   },
   {
@@ -3906,7 +4722,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03176.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "f_kommun": 4,
+      "fortroendevald": 4
+    }
   },
   {
     "id": "HD03164",
@@ -3920,8 +4740,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_vard": 1,
-      "kronisk": 3
+      "f_kommun": 6,
+      "fortroendevald": 7,
+      "b_vard": 5,
+      "ideell": 4,
+      "digitalisering": 4
     }
   },
   {
@@ -3936,11 +4759,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "fou": 1,
-      "immaterialratt": 3,
-      "klimat": 1,
-      "kultur": 1
+      "b_kultur": 6,
+      "b_konsult": 4,
+      "kultur": 5,
+      "storstad": 3,
+      "fou": 3
     }
   },
   {
@@ -3955,8 +4778,9 @@
       "riksdagen"
     ],
     "relevans": {
-      "arbetssokande": 1,
-      "jagare": 1
+      "varnpliktig": 5,
+      "fortroendevald": 3,
+      "klimat": 3
     }
   },
   {
@@ -3971,10 +4795,14 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_vard": 3,
-      "infrastruktur": 1,
-      "batagare": 1,
-      "otrygg": 1
+      "bidrag": 5,
+      "lontagare": 3,
+      "pensionar": 4,
+      "barn": 3,
+      "skuldsatt": 4,
+      "offentliganstalld": 4,
+      "f_kommun": 6,
+      "fortroendevald": 4
     }
   },
   {
@@ -3989,10 +4817,16 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "f_landsbygd": 3,
-      "glesbygd": 3,
-      "kronisk": 1
+      "glesbygd": 7,
+      "mindre_ort": 5,
+      "f_landsbygd": 7,
+      "ideell": 5,
+      "smaforetag": 4,
+      "solo": 4,
+      "b_utbildning": 4,
+      "f_kommun": 5,
+      "mark_bygglov": 4,
+      "regelborda": 4
     }
   },
   {
@@ -4005,7 +4839,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03151.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "varnpliktig": 6,
+      "fortroendevald": 3
+    }
   },
   {
     "id": "HD03103",
@@ -4019,7 +4857,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "kollektiv": 1
+      "fortroendevald": 4,
+      "offentliganstalld": 3
     }
   },
   {
@@ -4032,7 +4871,12 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0390.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "fortroendevald": 3,
+      "export": 3,
+      "eu_marknad": 3
+    }
   },
   {
     "id": "HD0375",
@@ -4044,7 +4888,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0375.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "fortroendevald": 4,
+      "offentliganstalld": 3
+    }
   },
   {
     "id": "HD03182",
@@ -4058,7 +4906,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1
+      "b_it": 5,
+      "gdpr": 4,
+      "storforetag": 6,
+      "upphandling": 5,
+      "eu_marknad": 4
     }
   },
   {
@@ -4074,19 +4926,22 @@
       "kommunstyrelsen"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "b_vard": 1,
-      "b_kultur": 1,
-      "miljo": 1,
-      "mark_bygglov": 1,
-      "ung": 1,
-      "bygger": 1,
-      "kronisk": 1,
-      "beroende": 1,
-      "konsument": 2,
-      "idrott": 1,
-      "klimat": 2,
-      "kultur": 1
+      "f_kommun": 7,
+      "bostadsagare": 4,
+      "hyresgast": 4,
+      "bygger": 5,
+      "mark_bygglov": 5,
+      "pensionar": 4,
+      "kronisk": 4,
+      "anhorigvardare": 4,
+      "miljo": 4,
+      "ideell": 4,
+      "b_bygg": 5,
+      "b_fastighet": 4,
+      "b_vard": 4,
+      "smaforetag": 3,
+      "ung_vuxen": 3,
+      "b_kultur": 3
     }
   },
   {
@@ -4101,8 +4956,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "barn": 1,
-      "ny_i_sverige": 3
+      "ny_i_sverige": 9,
+      "asyl": 7,
+      "arbetstillstand": 8,
+      "utlandssvensk": 5
     }
   },
   {
@@ -4117,10 +4974,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "tillstand": 1,
-      "sambo_gift": 3,
-      "kvinna": 1
+      "kvinna": 6,
+      "sambo_gift": 5,
+      "barn": 4,
+      "ny_i_sverige": 5,
+      "skild": 3
     }
   },
   {
@@ -4133,7 +4991,15 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03115.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "fortroendevald": 4,
+      "export": 4,
+      "eu_marknad": 5,
+      "import": 4,
+      "b_finans": 3,
+      "storforetag": 3
+    }
   },
   {
     "id": "HD03174",
@@ -4147,11 +5013,13 @@
       "riksdagen"
     ],
     "relevans": {
-      "arbetsgivare": 2,
-      "b_utbildning": 1,
-      "barn": 3,
-      "vuxenstudier": 1,
-      "otrygg": 1
+      "barn": 6,
+      "ung": 6,
+      "gymnasieelev": 5,
+      "b_utbildning": 7,
+      "offentliganstalld": 4,
+      "kompetens": 4,
+      "arbetsratt": 3
     }
   },
   {
@@ -4166,8 +5034,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "student": 3
+      "student": 7,
+      "ung_vuxen": 6,
+      "vuxenstudier": 7,
+      "arbetssokande": 5,
+      "b_utbildning": 6,
+      "kompetens": 5
     }
   },
   {
@@ -4182,9 +5054,15 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_bygg": 3,
-      "miljo": 2,
-      "klimat": 1
+      "b_energi": 7,
+      "energiintensiv": 5,
+      "energikund": 4,
+      "miljo": 4,
+      "klimat": 4,
+      "f_kommun": 5,
+      "gron_omstallning": 4,
+      "storforetag": 5,
+      "mark_bygglov": 4
     }
   },
   {
@@ -4199,11 +5077,16 @@
       "riksdagen"
     ],
     "relevans": {
-      "arbetsgivare": 1,
-      "b_finans": 1,
-      "ensam_foralder": 3,
-      "hyresgast": 3,
-      "lantagare": 1
+      "bidrag": 8,
+      "hyresgast": 7,
+      "bostadslos": 6,
+      "student": 5,
+      "ung_vuxen": 5,
+      "ensam_foralder": 6,
+      "barn": 5,
+      "skuldsatt": 5,
+      "lontagare": 4,
+      "foretagare": 3
     }
   },
   {
@@ -4218,9 +5101,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "bolagsskatt": 3,
-      "pensionar": 1,
-      "lantagare": 1
+      "pensionar": 9,
+      "pensionssparare": 7,
+      "lontagare": 5,
+      "sparare": 4
     }
   },
   {
@@ -4235,10 +5119,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "b_finans": 1,
-      "tillstand": 1,
-      "miljo": 1
+      "b_energi": 6,
+      "b_grona": 4,
+      "b_industri": 4,
+      "miljo": 4,
+      "klimat": 3,
+      "gron_omstallning": 4
     }
   },
   {
@@ -4253,7 +5139,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1
+      "b_energi": 6,
+      "b_life": 4,
+      "b_industri": 4,
+      "miljo": 3,
+      "eu_marknad": 4
     }
   },
   {
@@ -4268,8 +5158,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "barn": 1
+      "barn": 6,
+      "ung": 6,
+      "gymnasieelev": 5,
+      "b_utbildning": 6,
+      "offentliganstalld": 4,
+      "kompetens": 4
     }
   },
   {
@@ -4284,11 +5178,18 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_bygg": 2,
-      "b_kultur": 1,
-      "miljo": 1,
-      "klimat": 1,
-      "kultur": 1
+      "b_energi": 8,
+      "b_bygg": 6,
+      "b_fastighet": 4,
+      "mark_bygglov": 5,
+      "energiintensiv": 5,
+      "miljo": 6,
+      "gron_omstallning": 5,
+      "eu_marknad": 3,
+      "f_kommun": 4,
+      "energikund": 5,
+      "klimat": 6,
+      "glesbygd": 3
     }
   },
   {
@@ -4303,9 +5204,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "b_fastighet": 3,
-      "bolagsskatt": 1
+      "b_fastighet": 5,
+      "upphandling": 3,
+      "offentliganstalld": 4,
+      "fortroendevald": 3
     }
   },
   {
@@ -4320,9 +5222,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "asyl": 1,
-      "otrygg": 1,
-      "domd": 1
+      "ny_i_sverige": 5,
+      "asyl": 8,
+      "arbetstillstand": 5,
+      "offentliganstalld": 3
     }
   },
   {
@@ -4337,7 +5240,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_bygg": 1
+      "klimat": 4,
+      "export": 3,
+      "gron_omstallning": 3,
+      "volontar": 3,
+      "fortroendevald": 3
     }
   },
   {
@@ -4352,10 +5259,15 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_bygg": 3,
-      "miljo": 1,
-      "mark_bygglov": 1,
-      "bygger": 1
+      "bygger": 7,
+      "bostadsagare": 5,
+      "mark_bygglov": 7,
+      "b_bygg": 8,
+      "b_fastighet": 6,
+      "smaforetag": 5,
+      "aktiebolag": 4,
+      "regelborda": 5,
+      "f_kommun": 5
     }
   },
   {
@@ -4370,9 +5282,18 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_fastighet": 1,
-      "konsument": 1,
-      "otrygg": 1
+      "b_fastighet": 8,
+      "f_kommun": 7,
+      "mark_bygglov": 6,
+      "lokaler": 5,
+      "b_handel": 4,
+      "smaforetag": 4,
+      "storforetag": 3,
+      "ideell": 5,
+      "upphandling": 3,
+      "bostadsagare": 5,
+      "otrygg": 4,
+      "fortroendevald": 4
     }
   },
   {
@@ -4388,11 +5309,14 @@
       "kommunstyrelsen"
     ],
     "relevans": {
-      "arbetsgivare": 1,
-      "kvinna": 1,
-      "hbtq": 1,
-      "lontagare": 1,
-      "kronisk": 1
+      "arbetsratt": 5,
+      "kollektivavtal": 4,
+      "avgifter": 3,
+      "b_vard": 5,
+      "offentliganstalld": 6,
+      "kvinna": 6,
+      "lontagare": 5,
+      "f_kommun": 5
     }
   },
   {
@@ -4407,7 +5331,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "brottsoffer": 1
+      "brottsoffer": 7,
+      "otrygg": 4,
+      "domd": 5,
+      "integritet": 4,
+      "offentliganstalld": 3,
+      "gdpr": 3
     }
   },
   {
@@ -4422,10 +5351,14 @@
       "riksdagen"
     ],
     "relevans": {
-      "gdpr": 1,
-      "funktion": 1,
-      "konsument": 1,
-      "integritet": 2
+      "kronisk": 4,
+      "funktion": 6,
+      "anhorigvardare": 4,
+      "b_vard": 6,
+      "gdpr": 5,
+      "integritet": 6,
+      "offentliganstalld": 4,
+      "f_kommun": 3
     }
   },
   {
@@ -4440,12 +5373,21 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_bygg": 3,
-      "b_energi": 3,
-      "bil": 1,
-      "beroende": 1,
-      "energikund": 3,
-      "klimat": 1
+      "b_fastighet": 7,
+      "b_energi": 7,
+      "b_bygg": 7,
+      "energiintensiv": 6,
+      "gron_omstallning": 6,
+      "miljo": 5,
+      "eu_marknad": 5,
+      "mark_bygglov": 5,
+      "lokaler": 5,
+      "bostadsagare": 6,
+      "bil": 5,
+      "energikund": 6,
+      "klimat": 5,
+      "bygger": 6,
+      "hallbarhetsrapport": 4
     }
   },
   {
@@ -4460,7 +5402,14 @@
       "riksdagen"
     ],
     "relevans": {
-      "otrygg": 1
+      "b_it": 7,
+      "gdpr": 7,
+      "eu_marknad": 6,
+      "storforetag": 5,
+      "smaforetag": 4,
+      "regelborda": 4,
+      "integritet": 5,
+      "digitalisering": 6
     }
   },
   {
@@ -4475,8 +5424,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "otrygg": 1,
-      "domd": 1
+      "domd": 7,
+      "offentliganstalld": 3
     }
   },
   {
@@ -4492,15 +5441,21 @@
       "kommunstyrelsen"
     ],
     "relevans": {
-      "finansiering": 1,
-      "miljo": 1,
-      "mark_bygglov": 1,
-      "barn": 1,
-      "hbtq": 1,
-      "bygger": 1,
-      "funktion": 1,
-      "idrott": 1,
-      "klimat": 2
+      "ideell": 7,
+      "idrott": 5,
+      "barn": 5,
+      "volontar": 5,
+      "f_storstad": 5,
+      "f_kommun": 6,
+      "storstad": 5,
+      "b_kultur": 4,
+      "miljo": 4,
+      "gron_omstallning": 3,
+      "otrygg": 4,
+      "fortroendevald": 5,
+      "b_fastighet": 4,
+      "mark_bygglov": 4,
+      "kollektiv": 3
     }
   },
   {
@@ -4515,9 +5470,13 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_energi": 1,
-      "energikund": 1,
-      "klimat": 3
+      "klimat": 6,
+      "gron_omstallning": 5,
+      "miljo": 5,
+      "export": 4,
+      "b_energi": 4,
+      "hallbarhetsrapport": 4,
+      "fortroendevald": 3
     }
   },
   {
@@ -4532,8 +5491,14 @@
       "riksdagen"
     ],
     "relevans": {
-      "tillstand": 1,
-      "otrygg": 3
+      "otrygg": 6,
+      "brottsoffer": 5,
+      "integritet": 7,
+      "gdpr": 5,
+      "digitalisering": 5,
+      "b_it": 4,
+      "offentliganstalld": 4,
+      "ny_i_sverige": 3
     }
   },
   {
@@ -4548,7 +5513,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "barn": 2
+      "offentliganstalld": 5,
+      "kompetens": 4,
+      "b_utbildning": 6,
+      "f_kommun": 3
     }
   },
   {
@@ -4563,11 +5531,14 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_fastighet": 1,
-      "eu_marknad": 1,
-      "hyresgast": 1,
-      "bostadsagare": 1,
-      "bil": 2
+      "hyresgast": 8,
+      "bostadsagare": 6,
+      "bil": 7,
+      "gron_omstallning": 5,
+      "eu_marknad": 4,
+      "b_fastighet": 4,
+      "energikund": 4,
+      "pendlare": 5
     }
   },
   {
@@ -4582,8 +5553,13 @@
       "riksdagen"
     ],
     "relevans": {
-      "arbetsratt": 1,
-      "glesbygd": 1
+      "b_transport": 8,
+      "smaforetag": 4,
+      "storforetag": 5,
+      "export": 5,
+      "import": 5,
+      "eu_marknad": 5,
+      "regelborda": 3
     }
   },
   {
@@ -4598,11 +5574,14 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_energi": 1,
-      "moms": 3,
-      "kollektiv": 1,
-      "energikund": 1,
-      "konsument": 1
+      "moms": 7,
+      "b_besok": 8,
+      "b_kultur": 7,
+      "smaforetag": 5,
+      "ideell": 4,
+      "konsument": 5,
+      "kultur": 6,
+      "idrott": 3
     }
   },
   {
@@ -4617,8 +5596,14 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_vard": 3,
-      "kronisk": 3
+      "kronisk": 6,
+      "funktion": 5,
+      "anhorigvardare": 5,
+      "pensionar": 5,
+      "sjukskriven": 4,
+      "b_vard": 6,
+      "offentliganstalld": 4,
+      "brottsoffer": 3
     }
   },
   {
@@ -4653,14 +5638,18 @@
       "kommunstyrelsen"
     ],
     "relevans": {
-      "arbetsgivare": 1,
-      "b_bygg": 1,
-      "b_fastighet": 2,
-      "lokaler": 1,
-      "mark_bygglov": 1,
-      "kvinna": 1,
-      "lontagare": 1,
-      "bygger": 1
+      "kvinna": 3,
+      "man": 3,
+      "lontagare": 3,
+      "offentliganstalld": 4,
+      "bostadsagare": 3,
+      "bygger": 4,
+      "mark_bygglov": 6,
+      "b_fastighet": 5,
+      "f_kommun": 6,
+      "fortroendevald": 5,
+      "arbetsgivare": 3,
+      "avgifter": 3
     }
   },
   {
@@ -4676,14 +5665,18 @@
       "kommunfullmaktige"
     ],
     "relevans": {
-      "b_vard": 1,
-      "b_kultur": 1,
-      "barn": 1,
-      "pensionar": 1,
-      "kronisk": 1,
-      "konsument": 1,
-      "idrott": 1,
-      "kultur": 1
+      "f_kommun": 6,
+      "fortroendevald": 6,
+      "pensionar": 4,
+      "barn": 3,
+      "idrott": 3,
+      "kultur": 3,
+      "hyresgast": 3,
+      "bostadsagare": 3,
+      "b_vard": 4,
+      "b_utbildning": 4,
+      "ideell": 4,
+      "offentliganstalld": 4
     }
   },
   {
@@ -4698,10 +5691,16 @@
       "riksdagen"
     ],
     "relevans": {
-      "tillstand": 1,
-      "fou": 1,
-      "beroende": 3,
-      "ny_i_sverige": 3
+      "arbetstillstand": 7,
+      "ny_i_sverige": 6,
+      "asyl": 5,
+      "student": 5,
+      "fou": 6,
+      "kompetens": 5,
+      "arbetskraft_inv": 7,
+      "eu_marknad": 4,
+      "b_utbildning": 4,
+      "digitalisering": 3
     }
   },
   {
@@ -4716,8 +5715,21 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "varnpliktig": 1
+      "bostadsagare": 5,
+      "hyresgast": 5,
+      "bostadslos": 4,
+      "glesbygd": 3,
+      "storstad": 3,
+      "mindre_ort": 3,
+      "varnpliktig": 5,
+      "barn": 4,
+      "pensionar": 4,
+      "kronisk": 3,
+      "funktion": 3,
+      "mark_bygglov": 4,
+      "b_fastighet": 3,
+      "f_kommun": 4,
+      "offentliganstalld": 3
     }
   },
   {
@@ -4732,8 +5744,18 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_grona": 1,
-      "otrygg": 1
+      "b_grona": 8,
+      "b_handel": 5,
+      "b_transport": 4,
+      "import": 5,
+      "export": 4,
+      "eu_marknad": 6,
+      "solo": 4,
+      "smaforetag": 5,
+      "storforetag": 4,
+      "familjeforetag": 5,
+      "konkurrens": 4,
+      "konsumentratt": 3
     }
   },
   {
@@ -4748,11 +5770,19 @@
       "riksdagen"
     ],
     "relevans": {
-      "arbetsgivare": 1,
-      "arbetsmiljo": 3,
-      "kompetens": 1,
-      "gymnasieelev": 1,
-      "glesbygd": 1
+      "lontagare": 6,
+      "arbetsratt": 7,
+      "arbetsmiljo": 8,
+      "kollektivavtal": 6,
+      "arbetsgivare": 6,
+      "sjuklon": 5,
+      "kvinna": 5,
+      "offentliganstalld": 5,
+      "b_vard": 4,
+      "b_bygg": 4,
+      "b_industri": 4,
+      "b_besok": 4,
+      "kompetens": 4
     }
   },
   {
@@ -4767,7 +5797,17 @@
       "riksdagen"
     ],
     "relevans": {
-      "otrygg": 1
+      "otrygg": 5,
+      "brottsoffer": 4,
+      "fortroendevald": 5,
+      "idrott": 4,
+      "kultur": 4,
+      "volontar": 4,
+      "integritet": 4,
+      "f_storstad": 3,
+      "b_besok": 4,
+      "b_kultur": 4,
+      "tillstand": 5
     }
   },
   {
@@ -4782,11 +5822,15 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_grona": 1,
-      "tillstand": 1,
-      "f_landsbygd": 3,
-      "barn": 1,
-      "glesbygd": 3
+      "glesbygd": 7,
+      "b_grona": 7,
+      "familjeforetag": 7,
+      "solo": 4,
+      "bostadsagare": 5,
+      "mark_bygglov": 5,
+      "f_landsbygd": 7,
+      "sambo_gift": 4,
+      "barn": 3
     }
   },
   {
@@ -4801,7 +5845,14 @@
       "riksdagen"
     ],
     "relevans": {
-      "korkort": 1
+      "korkort": 9,
+      "ung_vuxen": 7,
+      "ung": 6,
+      "barn": 5,
+      "bil": 5,
+      "glesbygd": 4,
+      "pendlare": 3,
+      "foretagare": 3
     }
   },
   {
@@ -4816,10 +5867,17 @@
       "riksdagen"
     ],
     "relevans": {
-      "aktiebolag": 1,
-      "b_it": 3,
-      "b_finans": 1,
-      "sparare": 3
+      "aktiebolag": 7,
+      "smaforetag": 7,
+      "finansiering": 7,
+      "sparare": 5,
+      "b_finans": 6,
+      "eu_marknad": 5,
+      "storforetag": 4,
+      "bolagsskatt": 3,
+      "redovisning": 4,
+      "b_it": 4,
+      "b_konsult": 3
     }
   },
   {
@@ -4834,8 +5892,18 @@
       "riksdagen"
     ],
     "relevans": {
-      "barn": 1,
-      "otrygg": 1
+      "kvinna": 7,
+      "man": 3,
+      "barn": 5,
+      "ensam_foralder": 5,
+      "sambo_gift": 5,
+      "skild": 6,
+      "brottsoffer": 8,
+      "otrygg": 5,
+      "psykisk": 6,
+      "hbtq": 5,
+      "integritet": 4,
+      "arbetsratt": 3
     }
   },
   {
@@ -4848,7 +5916,20 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD03136.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "ny_i_sverige": 8,
+      "asyl": 7,
+      "bidrag": 7,
+      "arbetssokande": 6,
+      "lontagare": 5,
+      "pensionar": 4,
+      "anhorigvardare": 4,
+      "sjukskriven": 4,
+      "foraldraledig": 4,
+      "barn": 3,
+      "arbetstillstand": 6
+    }
   },
   {
     "id": "lekeberg-kommunfullmaktige-2026-02-23",
@@ -4863,11 +5944,19 @@
       "kommunfullmaktige"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "b_fastighet": 1,
-      "glesbygd": 1,
-      "kollektiv": 1,
-      "funktion": 1
+      "f_kommun": 6,
+      "fortroendevald": 6,
+      "glesbygd": 4,
+      "mindre_ort": 5,
+      "barn": 4,
+      "ung": 4,
+      "pensionar": 3,
+      "idrott": 3,
+      "volontar": 3,
+      "offentliganstalld": 4,
+      "b_bygg": 4,
+      "mark_bygglov": 4,
+      "infrastruktur": 3
     }
   },
   {
@@ -4882,9 +5971,15 @@
       "riksdagen"
     ],
     "relevans": {
-      "barn": 1,
-      "ny_i_sverige": 1,
-      "asyl": 1
+      "ny_i_sverige": 7,
+      "asyl": 8,
+      "arbetstillstand": 6,
+      "brottsoffer": 4,
+      "otrygg": 4,
+      "bidrag": 6,
+      "kronisk": 3,
+      "barn": 3,
+      "integritet": 5
     }
   },
   {
@@ -4899,10 +5994,15 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "b_finans": 1,
-      "jagare": 1,
-      "varnpliktig": 1
+      "varnpliktig": 6,
+      "sparare": 3,
+      "pensionssparare": 3,
+      "energikund": 3,
+      "fortroendevald": 4,
+      "offentliganstalld": 4,
+      "b_energi": 3,
+      "b_industri": 3,
+      "export": 3
     }
   },
   {
@@ -4917,12 +6017,18 @@
       "riksdagen"
     ],
     "relevans": {
-      "barn": 3,
-      "ung": 1,
-      "kronisk": 1,
-      "otrygg": 1,
-      "domd": 3,
-      "integritet": 1
+      "barn": 7,
+      "ung": 8,
+      "ung_vuxen": 5,
+      "ensam_foralder": 5,
+      "brottsoffer": 6,
+      "otrygg": 5,
+      "psykisk": 5,
+      "domd": 8,
+      "b_vard": 4,
+      "b_utbildning": 4,
+      "offentliganstalld": 4,
+      "fortroendevald": 3
     }
   },
   {
@@ -4937,9 +6043,17 @@
       "riksdagen"
     ],
     "relevans": {
-      "arbetsmiljo": 1,
-      "miljo": 1,
-      "klimat": 3
+      "klimat": 6,
+      "friluftsliv": 4,
+      "fiske": 5,
+      "batagare": 5,
+      "b_transport": 5,
+      "b_grona": 4,
+      "b_energi": 3,
+      "miljo": 7,
+      "gron_omstallning": 5,
+      "hallbarhetsrapport": 4,
+      "f_landsbygd": 3
     }
   },
   {
@@ -4955,9 +6069,16 @@
       "kommunfullmaktige"
     ],
     "relevans": {
-      "ung": 1,
-      "kollektiv": 1,
-      "konsument": 1
+      "f_kommun": 5,
+      "barn": 5,
+      "ung": 6,
+      "gymnasieelev": 6,
+      "fortroendevald": 5,
+      "kollektiv": 4,
+      "offentliganstalld": 3,
+      "b_handel": 3,
+      "glesbygd": 3,
+      "pendlare": 3
     }
   },
   {
@@ -4972,7 +6093,15 @@
       "riksdagen"
     ],
     "relevans": {
-      "jagare": 3
+      "jagare": 9,
+      "idrott": 7,
+      "friluftsliv": 5,
+      "otrygg": 4,
+      "brottsoffer": 3,
+      "tillstand": 7,
+      "b_grona": 4,
+      "regelborda": 5,
+      "eu_marknad": 4
     }
   },
   {
@@ -4987,7 +6116,17 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 1
+      "aktiebolag": 7,
+      "storforetag": 6,
+      "smaforetag": 6,
+      "b_finans": 7,
+      "redovisning": 6,
+      "gdpr": 5,
+      "eu_marknad": 6,
+      "konkurrens": 5,
+      "upphandling": 4,
+      "solo": 4,
+      "familjeforetag": 4
     }
   },
   {
@@ -5002,8 +6141,18 @@
       "riksdagen"
     ],
     "relevans": {
-      "moms": 3,
-      "konsument": 1
+      "moms": 9,
+      "aktiebolag": 5,
+      "solo": 4,
+      "smaforetag": 5,
+      "storforetag": 6,
+      "b_handel": 6,
+      "b_finans": 4,
+      "export": 5,
+      "eu_marknad": 7,
+      "redovisning": 5,
+      "gdpr": 3,
+      "regelborda": 4
     }
   },
   {
@@ -5018,8 +6167,13 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_finans": 2,
-      "otrygg": 2
+      "b_finans": 7,
+      "b_it": 5,
+      "gdpr": 6,
+      "integritet": 7,
+      "sparare": 3,
+      "lantagare": 3,
+      "aktiebolag": 3
     }
   },
   {
@@ -5034,11 +6188,13 @@
       "riksdagen"
     ],
     "relevans": {
-      "tillstand": 1,
-      "infrastruktur": 1,
-      "batagare": 1,
-      "otrygg": 1,
-      "varnpliktig": 1
+      "b_bygg": 5,
+      "b_industri": 4,
+      "tillstand": 7,
+      "arbetsmiljo": 5,
+      "otrygg": 6,
+      "brottsoffer": 3,
+      "integritet": 3
     }
   },
   {
@@ -5053,8 +6209,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "miljo": 1,
-      "klimat": 3
+      "klimat": 7,
+      "gron_omstallning": 6,
+      "b_grona": 5,
+      "b_energi": 4,
+      "hallbarhetsrapport": 5,
+      "miljo": 6
     }
   },
   {
@@ -5069,9 +6229,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_grona": 1,
-      "b_life": 3,
-      "kronisk": 3
+      "b_grona": 8,
+      "b_vard": 4,
+      "husdjur": 5,
+      "eu_marknad": 5,
+      "produktsakerhet": 6
     }
   },
   {
@@ -5086,7 +6248,13 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_finans": 3
+      "b_finans": 8,
+      "aktiebolag": 4,
+      "storforetag": 5,
+      "sparare": 5,
+      "lantagare": 4,
+      "konsument": 4,
+      "digitalisering": 4
     }
   },
   {
@@ -5101,7 +6269,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "otrygg": 3
+      "otrygg": 6,
+      "brottsoffer": 4,
+      "offentliganstalld": 5,
+      "fortroendevald": 4
     }
   },
   {
@@ -5117,13 +6288,14 @@
       "kommunfullmaktige"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "b_finans": 1,
-      "barn": 1,
-      "funktion": 2,
-      "idrott": 1,
-      "klimat": 1,
-      "kultur": 1
+      "klimat": 4,
+      "kultur": 3,
+      "funktion": 4,
+      "f_kommun": 5,
+      "fortroendevald": 6,
+      "b_utbildning": 3,
+      "ideell": 3,
+      "smaforetag": 3
     }
   },
   {
@@ -5139,11 +6311,13 @@
       "kommunstyrelsen"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "b_energi": 1,
-      "finansiering": 1,
-      "barn": 2,
-      "energikund": 1
+      "f_kommun": 6,
+      "f_landsbygd": 5,
+      "fortroendevald": 6,
+      "glesbygd": 4,
+      "barn": 3,
+      "b_energi": 4,
+      "offentliganstalld": 4
     }
   },
   {
@@ -5158,12 +6332,15 @@
       "riksdagen"
     ],
     "relevans": {
-      "aktiebolag": 1,
-      "b_bygg": 1,
-      "b_it": 1,
-      "b_finans": 3,
-      "finansiering": 1,
-      "klimat": 3
+      "aktiebolag": 7,
+      "storforetag": 7,
+      "smaforetag": 5,
+      "b_finans": 7,
+      "hallbarhetsrapport": 8,
+      "eu_marknad": 8,
+      "redovisning": 6,
+      "sparare": 5,
+      "pensionssparare": 4
     }
   },
   {
@@ -5178,9 +6355,13 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_finans": 1,
-      "barn": 3,
-      "foraldraledig": 3
+      "barn": 7,
+      "gravid": 8,
+      "foraldraledig": 9,
+      "ensam_foralder": 6,
+      "sambo_gift": 5,
+      "lontagare": 5,
+      "arbetsratt": 4
     }
   },
   {
@@ -5195,12 +6376,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_industri": 1,
-      "b_grona": 3,
-      "miljo": 1,
-      "gron_omstallning": 3,
-      "bil": 1,
-      "klimat": 3
+      "b_grona": 9,
+      "klimat": 6,
+      "gron_omstallning": 6,
+      "miljo": 6,
+      "f_landsbygd": 5,
+      "glesbygd": 4
     }
   },
   {
@@ -5215,9 +6396,13 @@
       "riksdagen"
     ],
     "relevans": {
-      "bostadsagare": 3,
-      "skuldsatt": 1,
-      "otrygg": 1
+      "bostadsagare": 8,
+      "hyresgast": 5,
+      "lantagare": 7,
+      "sparare": 5,
+      "b_fastighet": 8,
+      "aktiebolag": 3,
+      "ideell": 4
     }
   },
   {
@@ -5245,11 +6430,15 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "b_finans": 1,
-      "lontagare": 1,
-      "bostadsagare": 1,
-      "lantagare": 1
+      "bostadsagare": 9,
+      "hyresgast": 5,
+      "lantagare": 8,
+      "bygger": 7,
+      "sparare": 6,
+      "b_fastighet": 6,
+      "b_finans": 5,
+      "skuldsatt": 7,
+      "pensionssparare": 4
     }
   },
   {
@@ -5264,12 +6453,16 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "b_energi": 1,
-      "tillstand": 3,
-      "miljo": 1,
-      "energikund": 1,
-      "klimat": 3
+      "b_energi": 9,
+      "gron_omstallning": 8,
+      "klimat": 6,
+      "miljo": 6,
+      "b_bygg": 6,
+      "energiintensiv": 6,
+      "energikund": 5,
+      "mark_bygglov": 6,
+      "tillstand": 7,
+      "regelborda": 5
     }
   },
   {
@@ -5284,9 +6477,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "b_konsult": 3,
-      "otrygg": 1
+      "sparare": 3,
+      "pensionssparare": 3,
+      "b_finans": 4,
+      "export": 3
     }
   },
   {
@@ -5314,10 +6508,13 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_fastighet": 3,
-      "digitalisering": 1,
-      "lantagare": 1,
-      "digital_ovan": 1
+      "sambo_gift": 5,
+      "skild": 4,
+      "pensionar": 6,
+      "barn": 5,
+      "bostadsagare": 4,
+      "skuldsatt": 4,
+      "digital_ovan": 4
     }
   },
   {
@@ -5332,11 +6529,18 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_handel": 1,
-      "b_bygg": 1,
-      "miljo": 3,
-      "konsument": 1,
-      "klimat": 1
+      "miljo": 6,
+      "klimat": 5,
+      "gron_omstallning": 5,
+      "b_bygg": 6,
+      "b_handel": 4,
+      "b_industri": 5,
+      "aktiebolag": 4,
+      "smaforetag": 4,
+      "f_kommun": 4,
+      "regelborda": 5,
+      "eu_marknad": 4,
+      "konsument": 3
     }
   },
   {
@@ -5351,7 +6555,15 @@
       "riksdagen"
     ],
     "relevans": {
-      "arbetssokande": 2
+      "aktiebolag": 7,
+      "solo": 5,
+      "smaforetag": 6,
+      "storforetag": 6,
+      "redovisning": 6,
+      "gdpr": 5,
+      "integritet": 5,
+      "b_it": 4,
+      "digitalisering": 4
     }
   },
   {
@@ -5366,11 +6578,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "ideell": 1,
-      "b_fastighet": 1,
-      "hyresgast": 1,
-      "bostadsagare": 3,
-      "otrygg": 2
+      "bostadsagare": 8,
+      "hyresgast": 6,
+      "b_fastighet": 8,
+      "aktiebolag": 4,
+      "ideell": 5,
+      "otrygg": 4
     }
   },
   {
@@ -5385,8 +6598,13 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "b_fastighet": 1
+      "b_fastighet": 8,
+      "mark_bygglov": 6,
+      "tillstand": 6,
+      "upphandling": 3,
+      "f_kommun": 3,
+      "bostadsagare": 4,
+      "sparare": 3
     }
   },
   {
@@ -5402,8 +6620,11 @@
       "kommunstyrelsen"
     ],
     "relevans": {
-      "arbetssokande": 1,
-      "glesbygd": 1
+      "f_kommun": 4,
+      "arbetssokande": 8,
+      "bidrag": 6,
+      "vuxenstudier": 4,
+      "ny_i_sverige": 5
     }
   },
   {
@@ -5419,10 +6640,9 @@
       "kommunstyrelsen"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "b_energi": 1,
-      "energikund": 1,
-      "klimat": 1
+      "f_kommun": 5,
+      "fortroendevald": 8,
+      "mark_bygglov": 3
     }
   },
   {
@@ -5438,12 +6658,12 @@
       "kommunfullmaktige"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "b_fastighet": 1,
-      "tillstand": 1,
-      "mark_bygglov": 1,
-      "barn": 2,
-      "bygger": 1
+      "f_kommun": 5,
+      "fortroendevald": 7,
+      "b_fastighet": 3,
+      "mark_bygglov": 4,
+      "barn": 4,
+      "bostadsagare": 3
     }
   },
   {
@@ -5458,8 +6678,13 @@
       "riksdagen"
     ],
     "relevans": {
-      "storforetag": 3,
-      "bolagsskatt": 1
+      "storforetag": 9,
+      "aktiebolag": 6,
+      "bolagsskatt": 9,
+      "redovisning": 7,
+      "eu_marknad": 7,
+      "export": 5,
+      "hallbarhetsrapport": 3
     }
   },
   {
@@ -5474,10 +6699,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "aktiebolag": 1,
-      "bolagsskatt": 1,
-      "kronisk": 1,
-      "sparare": 1
+      "storforetag": 6,
+      "aktiebolag": 5,
+      "bolagsskatt": 6,
+      "b_finans": 7,
+      "sparare": 5,
+      "eu_marknad": 5
     }
   },
   {
@@ -5493,8 +6720,13 @@
       "kommunfullmaktige"
     ],
     "relevans": {
-      "barn": 3,
-      "ung": 1
+      "f_kommun": 5,
+      "barn": 6,
+      "pensionar": 6,
+      "ung": 6,
+      "kollektiv": 5,
+      "b_utbildning": 4,
+      "funktion": 4
     }
   },
   {
@@ -5510,10 +6742,11 @@
       "kommunstyrelsen"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "b_vard": 1,
-      "lokaler": 1,
-      "klimat": 1
+      "f_kommun": 4,
+      "lokaler": 4,
+      "mark_bygglov": 4,
+      "miljo": 3,
+      "offentliganstalld": 4
     }
   },
   {
@@ -5528,7 +6761,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "domd": 3
+      "brottsoffer": 7,
+      "otrygg": 6,
+      "domd": 9,
+      "psykisk": 4
     }
   },
   {
@@ -5543,10 +6779,15 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_finans": 3,
-      "b_kultur": 1,
-      "tillstand": 1,
-      "klimat": 3
+      "storforetag": 6,
+      "smaforetag": 5,
+      "aktiebolag": 5,
+      "hallbarhetsrapport": 9,
+      "b_finans": 6,
+      "eu_marknad": 7,
+      "sparare": 4,
+      "klimat": 5,
+      "gron_omstallning": 6
     }
   },
   {
@@ -5561,11 +6802,14 @@
       "riksdagen"
     ],
     "relevans": {
-      "arbetsgivare": 1,
-      "b_vard": 1,
-      "pensionar": 3,
-      "kronisk": 1,
-      "otrygg": 1
+      "b_vard": 8,
+      "arbetsgivare": 6,
+      "arbetsratt": 6,
+      "kompetens": 6,
+      "arbetskraft_inv": 7,
+      "pensionar": 5,
+      "anhorigvardare": 5,
+      "ny_i_sverige": 5
     }
   },
   {
@@ -5580,7 +6824,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_finans": 1
+      "pensionar": 6,
+      "funktion": 8,
+      "psykisk": 6,
+      "kronisk": 5,
+      "anhorigvardare": 7,
+      "offentliganstalld": 3
     }
   },
   {
@@ -5595,9 +6844,14 @@
       "riksdagen"
     ],
     "relevans": {
-      "arbetsratt": 3,
-      "upphandling": 3,
-      "lontagare": 3
+      "upphandling": 9,
+      "arbetsratt": 6,
+      "kollektivavtal": 5,
+      "arbetsmiljo": 5,
+      "smaforetag": 4,
+      "storforetag": 4,
+      "f_kommun": 3,
+      "lontagare": 4
     }
   },
   {
@@ -5612,11 +6866,17 @@
       "riksdagen"
     ],
     "relevans": {
-      "gdpr": 3,
-      "import": 3,
-      "beroende": 1,
-      "skuldsatt": 1,
-      "integritet": 2
+      "gdpr": 7,
+      "integritet": 7,
+      "redovisning": 5,
+      "moms": 4,
+      "bolagsskatt": 4,
+      "skuldsatt": 4,
+      "lantagare": 3,
+      "digitalisering": 5,
+      "solo": 4,
+      "aktiebolag": 4,
+      "storforetag": 4
     }
   },
   {
@@ -5631,10 +6891,15 @@
       "riksdagen"
     ],
     "relevans": {
-      "arbetskraft_inv": 3,
-      "tillstand": 1,
-      "lontagare": 1,
-      "arbetstillstand": 1
+      "arbetskraft_inv": 9,
+      "arbetsratt": 7,
+      "arbetsgivare": 7,
+      "kompetens": 6,
+      "smaforetag": 5,
+      "storforetag": 5,
+      "ny_i_sverige": 7,
+      "arbetstillstand": 9,
+      "lontagare": 4
     }
   },
   {
@@ -5649,7 +6914,13 @@
       "riksdagen"
     ],
     "relevans": {
-      "sparare": 1
+      "aktiebolag": 7,
+      "smaforetag": 7,
+      "finansiering": 8,
+      "b_finans": 6,
+      "eu_marknad": 7,
+      "sparare": 4,
+      "regelborda": 6
     }
   },
   {
@@ -5664,8 +6935,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "sparare": 3,
-      "pensionssparare": 3
+      "b_finans": 6,
+      "pensionssparare": 8,
+      "sparare": 6,
+      "upphandling": 5
     }
   },
   {
@@ -5680,9 +6953,13 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_handel": 3,
-      "b_finans": 3,
-      "konsumentratt": 1
+      "konsument": 7,
+      "konsumentratt": 8,
+      "b_finans": 6,
+      "lantagare": 5,
+      "eu_marknad": 5,
+      "digital_ovan": 4,
+      "sparare": 4
     }
   },
   {
@@ -5695,7 +6972,14 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0383.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "klimat": 5,
+      "gron_omstallning": 4,
+      "hallbarhetsrapport": 4,
+      "volontar": 3,
+      "fortroendevald": 3
+    }
   },
   {
     "id": "HD0382",
@@ -5709,10 +6993,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_konsult": 3,
-      "tillstand": 1,
-      "otrygg": 2,
-      "integritet": 1
+      "integritet": 7,
+      "otrygg": 4,
+      "brottsoffer": 4,
+      "domd": 5,
+      "offentliganstalld": 3
     }
   },
   {
@@ -5727,8 +7012,15 @@
       "riksdagen"
     ],
     "relevans": {
-      "import": 1,
-      "digital_ovan": 1
+      "bil": 4,
+      "sparare": 3,
+      "utlandssvensk": 5,
+      "export": 3,
+      "import": 3,
+      "b_handel": 3,
+      "b_transport": 4,
+      "konsument": 3,
+      "foretagare": 3
     }
   },
   {
@@ -5743,11 +7035,15 @@
       "riksdagen"
     ],
     "relevans": {
-      "arbetsgivare": 1,
-      "lontagare": 2,
-      "bil": 1,
-      "energikund": 3,
-      "klimat": 1
+      "bil": 6,
+      "lontagare": 6,
+      "foretagare": 5,
+      "arbetsgivare": 4,
+      "smaforetag": 4,
+      "klimat": 4,
+      "gron_omstallning": 5,
+      "b_transport": 3,
+      "energikund": 3
     }
   },
   {
@@ -5762,8 +7058,9 @@
       "riksdagen"
     ],
     "relevans": {
-      "integritet": 3,
-      "varnpliktig": 3
+      "integritet": 6,
+      "fortroendevald": 3,
+      "offentliganstalld": 3
     }
   },
   {
@@ -5777,7 +7074,15 @@
     "taggar": [
       "hylte",
       "kommunfullmaktige"
-    ]
+    ],
+    "relevans": {
+      "fortroendevald": 8,
+      "offentliganstalld": 4,
+      "barn": 3,
+      "f_kommun": 5,
+      "glesbygd": 3,
+      "mindre_ort": 4
+    }
   },
   {
     "id": "ange-kommunstyrelsen-2025-12-16",
@@ -5805,15 +7110,17 @@
       "kommunfullmaktige"
     ],
     "relevans": {
-      "storforetag": 1,
-      "b_bygg": 1,
-      "b_energi": 1,
-      "mark_bygglov": 1,
-      "barn": 1,
-      "bygger": 1,
-      "energikund": 1,
-      "konsument": 1,
-      "klimat": 2
+      "fortroendevald": 7,
+      "offentliganstalld": 4,
+      "f_kommun": 6,
+      "barn": 4,
+      "energikund": 5,
+      "b_energi": 5,
+      "mark_bygglov": 4,
+      "klimat": 4,
+      "gron_omstallning": 4,
+      "storstad": 3,
+      "bygger": 3
     }
   },
   {
@@ -5839,7 +7146,18 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0379.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "lontagare": 4,
+      "foretagare": 5,
+      "solo": 4,
+      "smaforetag": 5,
+      "b_bygg": 4,
+      "b_besok": 4,
+      "b_transport": 3,
+      "arbetsgivare": 4,
+      "redovisning": 4
+    }
   },
   {
     "id": "bollebygd-kommunfullmaktige-2025-12-10",
@@ -5854,12 +7172,15 @@
       "kommunfullmaktige"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "b_vard": 1,
-      "miljo": 2,
-      "f_landsbygd": 1,
-      "glesbygd": 1,
-      "kronisk": 1
+      "pensionar": 6,
+      "anhorigvardare": 5,
+      "kronisk": 4,
+      "funktion": 4,
+      "f_kommun": 5,
+      "glesbygd": 3,
+      "mindre_ort": 4,
+      "fortroendevald": 6,
+      "f_landsbygd": 4
     }
   },
   {
@@ -5875,9 +7196,9 @@
       "kommunfullmaktige"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "b_vard": 1,
-      "kronisk": 1
+      "fortroendevald": 6,
+      "f_kommun": 5,
+      "offentliganstalld": 3
     }
   },
   {
@@ -5892,7 +7213,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_grona": 3
+      "b_grona": 7,
+      "b_handel": 4,
+      "export": 4,
+      "eu_marknad": 5,
+      "konsument": 3,
+      "f_landsbygd": 4
     }
   },
   {
@@ -5907,8 +7233,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_finans": 3,
-      "lantagare": 1
+      "fortroendevald": 5,
+      "foretagare": 3,
+      "sparare": 3,
+      "lontagare": 3,
+      "pensionssparare": 3
     }
   },
   {
@@ -5923,7 +7252,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "asyl": 1
+      "ny_i_sverige": 5,
+      "asyl": 7,
+      "arbetstillstand": 5,
+      "integritet": 3,
+      "fortroendevald": 3,
+      "otrygg": 3
     }
   },
   {
@@ -5938,8 +7272,9 @@
       "riksdagen"
     ],
     "relevans": {
-      "arbetsratt": 3,
-      "sparare": 3
+      "sparare": 4,
+      "utlandssvensk": 5,
+      "b_finans": 4
     }
   },
   {
@@ -5954,9 +7289,14 @@
       "riksdagen"
     ],
     "relevans": {
-      "lontagare": 1,
-      "arbetssokande": 3,
-      "funktion": 3
+      "funktion": 8,
+      "arbetssokande": 6,
+      "sjukskriven": 4,
+      "kronisk": 4,
+      "psykisk": 4,
+      "arbetsgivare": 3,
+      "kompetens": 3,
+      "arbetskraft_inv": 3
     }
   },
   {
@@ -5971,9 +7311,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "infrastruktur": 1,
-      "batagare": 1,
-      "otrygg": 1
+      "integritet": 5,
+      "jagare": 4,
+      "otrygg": 3,
+      "b_handel": 3,
+      "fortroendevald": 3
     }
   },
   {
@@ -5988,9 +7330,14 @@
       "riksdagen"
     ],
     "relevans": {
-      "kvinna": 3,
-      "ny_i_sverige": 3,
-      "otrygg": 1
+      "kvinna": 7,
+      "gravid": 6,
+      "hbtq": 5,
+      "barn": 3,
+      "ny_i_Sverige": 4,
+      "otrygg": 4,
+      "fortroendevald": 4,
+      "integritet": 3
     }
   },
   {
@@ -6005,7 +7352,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "otrygg": 1
+      "integritet": 6,
+      "domd": 4,
+      "fortroendevald": 3,
+      "offentliganstalld": 3
     }
   },
   {
@@ -6020,8 +7370,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "arbetsgivare": 1,
-      "lokaler": 3
+      "offentliganstalld": 5,
+      "fortroendevald": 4,
+      "storstad": 3,
+      "lontagare": 3
     }
   },
   {
@@ -6036,8 +7388,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "glesbygd": 1,
-      "varnpliktig": 1
+      "fortroendevald": 5,
+      "kultur": 4,
+      "b_kultur": 4,
+      "b_konsult": 3,
+      "integritet": 4,
+      "foretagare": 3
     }
   },
   {
@@ -6052,7 +7408,14 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_vard": 1
+      "ny_i_sverige": 5,
+      "ung": 4,
+      "gymnasieelev": 4,
+      "student": 4,
+      "vuxenstudier": 4,
+      "fortroendevald": 4,
+      "kultur": 4,
+      "glesbygd": 3
     }
   },
   {
@@ -6067,7 +7430,15 @@
       "riksdagen"
     ],
     "relevans": {
-      "funktion": 3
+      "funktion": 9,
+      "kronisk": 5,
+      "psykisk": 5,
+      "digital_ovan": 5,
+      "konsument": 5,
+      "b_handel": 4,
+      "b_kultur": 4,
+      "b_utbildning": 3,
+      "eu_marknad": 4
     }
   },
   {
@@ -6095,11 +7466,16 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_finans": 1,
-      "b_fastighet": 1,
-      "sparare": 1,
-      "lantagare": 1,
-      "klimat": 1
+      "b_grona": 10,
+      "bolagsskatt": 6,
+      "miljo": 6,
+      "eu_marknad": 5,
+      "gron_omstallning": 6,
+      "hallbarhetsrapport": 3,
+      "f_landsbygd": 6,
+      "glesbygd": 4,
+      "klimat": 5,
+      "friluftsliv": 3
     }
   },
   {
@@ -6114,10 +7490,15 @@
       "riksdagen"
     ],
     "relevans": {
-      "arbetsgivare": 3,
-      "avgifter": 3,
-      "lontagare": 1,
-      "konsument": 1
+      "arbetsgivare": 9,
+      "smaforetag": 8,
+      "solo": 5,
+      "aktiebolag": 6,
+      "familjeforetag": 6,
+      "avgifter": 10,
+      "ung_vuxen": 6,
+      "arbetssokande": 5,
+      "kompetens": 5
     }
   },
   {
@@ -6132,9 +7513,15 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "tillstand": 1,
-      "infrastruktur": 1
+      "b_it": 6,
+      "infrastruktur": 7,
+      "eu_marknad": 5,
+      "digitalisering": 5,
+      "bredbandsberoende": 6,
+      "f_landsbygd": 4,
+      "glesbygd": 4,
+      "mark_bygglov": 3,
+      "tillstand": 5
     }
   },
   {
@@ -6149,8 +7536,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "regelborda": 3,
-      "barn": 3
+      "barn": 6,
+      "b_utbildning": 7,
+      "f_kommun": 5,
+      "offentliganstalld": 4
     }
   },
   {
@@ -6165,13 +7554,16 @@
       "riksdagen"
     ],
     "relevans": {
-      "arbetsgivare": 1,
-      "b_vard": 1,
-      "arbetsmiljo": 1,
-      "barn": 1,
-      "lontagare": 3,
-      "funktion": 1,
-      "otrygg": 2
+      "arbetsratt": 6,
+      "kompetens": 4,
+      "f_kommun": 7,
+      "offentliganstalld": 7,
+      "barn": 5,
+      "pensionar": 4,
+      "funktion": 4,
+      "brottsoffer": 4,
+      "otrygg": 4,
+      "b_vard": 6
     }
   },
   {
@@ -6186,10 +7578,14 @@
       "riksdagen"
     ],
     "relevans": {
-      "barn": 2,
-      "anhorigvardare": 3,
-      "kronisk": 3,
-      "funktion": 1
+      "anhorigvardare": 10,
+      "pensionar": 8,
+      "barn": 6,
+      "kronisk": 6,
+      "funktion": 7,
+      "offentliganstalld": 5,
+      "b_vard": 7,
+      "f_kommun": 5
     }
   },
   {
@@ -6204,9 +7600,19 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_handel": 1,
-      "moms": 3,
-      "konsument": 1
+      "konsument": 9,
+      "moms": 8,
+      "b_handel": 7,
+      "lontagare": 6,
+      "bidrag": 7,
+      "pensionar": 6,
+      "ensam_foralder": 6,
+      "stor_familj": 7,
+      "b_besok": 5,
+      "b_grona": 4,
+      "foretagare": 5,
+      "solo": 4,
+      "smaforetag": 5
     }
   },
   {
@@ -6221,7 +7627,16 @@
       "riksdagen"
     ],
     "relevans": {
-      "konsument": 1
+      "aktiebolag": 9,
+      "smaforetag": 8,
+      "solo": 6,
+      "familjeforetag": 7,
+      "storforetag": 6,
+      "konkurs": 8,
+      "redovisning": 7,
+      "bolagsskatt": 5,
+      "foretagare": 7,
+      "arbetsratt": 3
     }
   },
   {
@@ -6236,7 +7651,9 @@
       "riksdagen"
     ],
     "relevans": {
-      "kronisk": 1
+      "f_kommun": 6,
+      "offentliganstalld": 5,
+      "fortroendevald": 5
     }
   },
   {
@@ -6252,10 +7669,14 @@
       "kommunfullmaktige"
     ],
     "relevans": {
-      "b_industri": 1,
-      "b_fastighet": 1,
-      "finansiering": 1,
-      "kronisk": 1
+      "f_kommun": 7,
+      "offentliganstalld": 5,
+      "fortroendevald": 6,
+      "hyresgast": 4,
+      "bostadsagare": 4,
+      "b_fastighet": 5,
+      "energikund": 4,
+      "barn": 3
     }
   },
   {
@@ -6271,12 +7692,16 @@
       "kommunfullmaktige"
     ],
     "relevans": {
-      "b_vard": 1,
-      "kronisk": 1,
-      "konsument": 1,
-      "friluftsliv": 1,
-      "klimat": 1,
-      "fortroendevald": 1
+      "f_kommun": 7,
+      "pensionar": 5,
+      "funktion": 5,
+      "offentliganstalld": 4,
+      "fortroendevald": 5,
+      "miljo": 4,
+      "klimat": 3,
+      "friluftsliv": 3,
+      "anhorigvardare": 4,
+      "b_vard": 4
     }
   },
   {
@@ -6305,13 +7730,15 @@
       "kommunfullmaktige"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "lokaler": 1,
-      "barn": 2,
-      "bil": 1,
-      "konsument": 1,
-      "jagare": 1,
-      "idrott": 1
+      "f_kommun": 7,
+      "barn": 5,
+      "fortroendevald": 5,
+      "offentliganstalld": 4,
+      "hyresgast": 3,
+      "bostadsagare": 3,
+      "b_utbildning": 4,
+      "idrott": 4,
+      "mark_bygglov": 4
     }
   },
   {
@@ -6326,11 +7753,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_vard": 1,
-      "b_finans": 1,
-      "pensionar": 1,
-      "sjukskriven": 1,
-      "asyl": 1
+      "ny_i_sverige": 6,
+      "utlandssvensk": 7,
+      "arbetstillstand": 5,
+      "pensionssparare": 5,
+      "lontagare": 4,
+      "foretagare": 4
     }
   },
   {
@@ -6345,10 +7773,9 @@
       "riksdagen"
     ],
     "relevans": {
-      "regelborda": 1,
-      "lokaler": 1,
-      "husdjur": 3,
-      "otrygg": 1
+      "husdjur": 9,
+      "glesbygd": 4,
+      "friluftsliv": 3
     }
   },
   {
@@ -6363,7 +7790,13 @@
       "riksdagen"
     ],
     "relevans": {
-      "produktsakerhet": 1
+      "b_grona": 8,
+      "miljo": 5,
+      "eu_marknad": 6,
+      "produktsakerhet": 7,
+      "regelborda": 5,
+      "smaforetag": 5,
+      "b_industri": 4
     }
   },
   {
@@ -6378,8 +7811,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "kronisk": 2
+      "b_vard": 6,
+      "offentliganstalld": 5,
+      "kompetens": 5,
+      "kronisk": 3
     }
   },
   {
@@ -6394,7 +7829,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "otrygg": 3
+      "otrygg": 7,
+      "brottsoffer": 5,
+      "domd": 6,
+      "integritet": 4,
+      "offentliganstalld": 3
     }
   },
   {
@@ -6409,9 +7848,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "gdpr": 1,
-      "domd": 3,
-      "integritet": 2
+      "domd": 7,
+      "integritet": 6,
+      "gdpr": 4,
+      "offentliganstalld": 4,
+      "otrygg": 3
     }
   },
   {
@@ -6426,8 +7867,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_finans": 1,
-      "otrygg": 3
+      "offentliganstalld": 5,
+      "otrygg": 5,
+      "ung_vuxen": 4,
+      "student": 3,
+      "fortroendevald": 3
     }
   },
   {
@@ -6443,13 +7887,14 @@
       "kommunstyrelsen-inkl-bilagor"
     ],
     "relevans": {
-      "b_transport": 1,
-      "b_energi": 3,
-      "regelborda": 1,
-      "funktion": 3,
-      "energikund": 1,
-      "konsument": 1,
-      "klimat": 1
+      "f_kommun": 7,
+      "funktion": 6,
+      "offentliganstalld": 5,
+      "fortroendevald": 5,
+      "energikund": 4,
+      "pendlare": 3,
+      "miljo": 4,
+      "b_energi": 4
     }
   },
   {
@@ -6464,9 +7909,16 @@
       "riksdagen"
     ],
     "relevans": {
-      "infrastruktur": 1,
-      "lontagare": 1,
-      "glesbygd": 1
+      "bil": 4,
+      "pendlare": 3,
+      "kollektiv": 3,
+      "klimat": 4,
+      "glesbygd": 3,
+      "friluftsliv": 3,
+      "gron_omstallning": 3,
+      "infrastruktur": 3,
+      "f_landsbygd": 3,
+      "b_transport": 3
     }
   },
   {
@@ -6481,10 +7933,13 @@
       "riksdagen"
     ],
     "relevans": {
-      "arbetsgivare": 2,
-      "b_finans": 1,
-      "sjuklon": 3,
-      "sjukskriven": 3
+      "sjukskriven": 10,
+      "lontagare": 6,
+      "kronisk": 6,
+      "arbetsgivare": 5,
+      "sjuklon": 7,
+      "arbetsratt": 5,
+      "psykisk": 4
     }
   },
   {
@@ -6499,7 +7954,13 @@
       "riksdagen"
     ],
     "relevans": {
-      "barn": 1
+      "barn": 4,
+      "gymnasieelev": 4,
+      "ung": 5,
+      "offentliganstalld": 5,
+      "b_utbildning": 6,
+      "kompetens": 4,
+      "fortroendevald": 3
     }
   },
   {
@@ -6514,7 +7975,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "lantagare": 1
+      "pensionar": 5,
+      "sambo_gift": 3,
+      "digital_ovan": 4,
+      "redovisning": 3,
+      "foretagare": 3
     }
   },
   {
@@ -6529,7 +7994,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "konsumentratt": 1
+      "konsument": 6,
+      "flygresenar": 5,
+      "b_besok": 5,
+      "b_handel": 3,
+      "eu_marknad": 4,
+      "konsumentratt": 5
     }
   },
   {
@@ -6544,8 +8014,14 @@
       "riksdagen"
     ],
     "relevans": {
-      "moms": 2,
-      "konsument": 2
+      "moms": 7,
+      "bolagsskatt": 5,
+      "redovisning": 5,
+      "solo": 5,
+      "aktiebolag": 5,
+      "smaforetag": 5,
+      "foretagare": 6,
+      "b_finans": 4
     }
   },
   {
@@ -6560,10 +8036,15 @@
       "riksdagen"
     ],
     "relevans": {
-      "miljo": 1,
-      "import": 1,
-      "kronisk": 1,
-      "klimat": 1
+      "klimat": 5,
+      "friluftsliv": 4,
+      "husdjur": 3,
+      "import": 4,
+      "miljo": 6,
+      "b_grona": 4,
+      "b_transport": 3,
+      "b_handel": 3,
+      "eu_marknad": 4
     }
   },
   {
@@ -6578,7 +8059,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "korkort": 3
+      "korkort": 7,
+      "ny_i_sverige": 6,
+      "arbetstillstand": 5,
+      "bil": 4
     }
   },
   {
@@ -6606,9 +8090,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "fou": 1,
-      "student": 3,
-      "glesbygd": 1
+      "student": 7,
+      "ung_vuxen": 6,
+      "gymnasieelev": 5,
+      "vuxenstudier": 4,
+      "kompetens": 3,
+      "b_utbildning": 4
     }
   },
   {
@@ -6622,7 +8109,26 @@
     "taggar": [
       "alingsas",
       "kommunfullmaktige"
-    ]
+    ],
+    "relevans": {
+      "barn": 5,
+      "gymnasieelev": 5,
+      "ung": 5,
+      "lontagare": 4,
+      "offentliganstalld": 5,
+      "hyresgast": 4,
+      "bostadsagare": 4,
+      "bygger": 3,
+      "kollektiv": 4,
+      "glesbygd": 4,
+      "pendlare": 3,
+      "fortroendevald": 5,
+      "idrott": 3,
+      "f_kommun": 6,
+      "b_utbildning": 4,
+      "mark_bygglov": 4,
+      "infrastruktur": 3
+    }
   },
   {
     "id": "HD0342",
@@ -6636,9 +8142,16 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_finans": 3,
-      "tillstand": 1,
-      "otrygg": 2
+      "b_finans": 7,
+      "aktiebolag": 4,
+      "solo": 3,
+      "smaforetag": 4,
+      "tillstand": 6,
+      "konkurrens": 4,
+      "gdpr": 3,
+      "ny_i_sverige": 3,
+      "skuldsatt": 3,
+      "otrygg": 4
     }
   },
   {
@@ -6651,7 +8164,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0339.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "fortroendevald": 3
+    }
   },
   {
     "id": "HD0338",
@@ -6665,11 +8181,13 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_grona": 3,
-      "tillstand": 1,
-      "infrastruktur": 1,
-      "glesbygd": 3,
-      "batagare": 1
+      "b_grona": 7,
+      "b_fastighet": 4,
+      "mark_bygglov": 5,
+      "ideell": 4,
+      "aktiebolag": 4,
+      "glesbygd": 5,
+      "f_landsbygd": 5
     }
   },
   {
@@ -6684,8 +8202,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "gdpr": 1,
-      "integritet": 1
+      "batagare": 5,
+      "integritet": 4,
+      "fiske": 3,
+      "otrygg": 3,
+      "gdpr": 3
     }
   },
   {
@@ -6700,8 +8221,16 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_bygg": 3,
-      "upphandling": 1
+      "b_bygg": 8,
+      "bygger": 5,
+      "mark_bygglov": 5,
+      "b_fastighet": 5,
+      "upphandling": 6,
+      "eu_marknad": 6,
+      "produktsakerhet": 6,
+      "regelborda": 4,
+      "smaforetag": 4,
+      "aktiebolag": 4
     }
   },
   {
@@ -6716,7 +8245,13 @@
       "riksdagen"
     ],
     "relevans": {
-      "konsument": 3
+      "foretagare": 5,
+      "solo": 4,
+      "aktiebolag": 4,
+      "smaforetag": 4,
+      "regelborda": 5,
+      "avgifter": 4,
+      "upphandling": 4
     }
   },
   {
@@ -6731,8 +8266,14 @@
       "riksdagen"
     ],
     "relevans": {
-      "lontagare": 1,
-      "arbetssokande": 3
+      "b_industri": 6,
+      "b_energi": 5,
+      "gron_omstallning": 6,
+      "offentliganstalld": 4,
+      "glesbygd": 4,
+      "f_landsbygd": 4,
+      "energiintensiv": 5,
+      "klimat": 4
     }
   },
   {
@@ -6747,7 +8288,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "fortroendevald": 1
+      "fortroendevald": 3,
+      "integritet": 3
     }
   },
   {
@@ -6763,8 +8305,14 @@
       "kommunfullmaktige"
     ],
     "relevans": {
-      "b_konsult": 1,
-      "redovisning": 1
+      "lontagare": 3,
+      "offentliganstalld": 4,
+      "glesbygd": 5,
+      "f_landsbygd": 4,
+      "pendlare": 3,
+      "fortroendevald": 5,
+      "f_kommun": 5,
+      "klimat": 3
     }
   },
   {
@@ -6792,10 +8340,15 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_it": 1,
-      "b_fastighet": 1,
-      "digitalisering": 3,
-      "digital_ovan": 3
+      "digitalisering": 7,
+      "b_it": 6,
+      "upphandling": 6,
+      "offentliganstalld": 4,
+      "regelborda": 4,
+      "gdpr": 3,
+      "aktiebolag": 3,
+      "smaforetag": 3,
+      "bredbandsberoende": 3
     }
   },
   {
@@ -6823,10 +8376,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "brottsoffer": 1,
-      "otrygg": 1,
-      "domd": 3,
-      "integritet": 1
+      "otrygg": 6,
+      "brottsoffer": 7,
+      "domd": 10,
+      "fortroendevald": 4
     }
   },
   {
@@ -6841,10 +8394,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "arbetsgivare": 1,
-      "pensionar": 3,
-      "lontagare": 2,
-      "sjukskriven": 1
+      "lontagare": 7,
+      "pensionar": 7,
+      "sjukskriven": 6,
+      "foretagare": 5,
+      "sparare": 3
     }
   },
   {
@@ -6859,8 +8413,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "barn": 1,
-      "lontagare": 1
+      "pendlare": 8,
+      "bil": 5,
+      "kollektiv": 5,
+      "lontagare": 4,
+      "student": 4,
+      "glesbygd": 5
     }
   },
   {
@@ -6875,8 +8433,17 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_it": 1,
-      "gdpr": 3
+      "gdpr": 8,
+      "digitalisering": 7,
+      "b_it": 8,
+      "storforetag": 6,
+      "smaforetag": 5,
+      "aktiebolag": 4,
+      "b_finans": 5,
+      "b_energi": 4,
+      "b_vard": 4,
+      "integritet": 5,
+      "bredbandsberoende": 3
     }
   },
   {
@@ -6891,7 +8458,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "storforetag": 3
+      "storforetag": 8,
+      "bolagsskatt": 7,
+      "aktiebolag": 4,
+      "redovisning": 5,
+      "export": 4,
+      "eu_marknad": 6
     }
   },
   {
@@ -6907,10 +8479,16 @@
       "kommunstyrelsen"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "kronisk": 1,
-      "friluftsliv": 1,
-      "klimat": 1
+      "bostadsagare": 4,
+      "hyresgast": 3,
+      "mark_bygglov": 5,
+      "klimat": 4,
+      "friluftsliv": 3,
+      "f_kommun": 7,
+      "b_bygg": 5,
+      "b_fastighet": 5,
+      "lokaler": 3,
+      "fortroendevald": 6
     }
   },
   {
@@ -6925,11 +8503,9 @@
       "riksdagen"
     ],
     "relevans": {
-      "arbetsgivare": 1,
-      "b_transport": 1,
-      "flygresenar": 1,
-      "beroende": 1,
-      "varnpliktig": 3
+      "varnpliktig": 7,
+      "offentliganstalld": 5,
+      "fortroendevald": 4
     }
   },
   {
@@ -6944,7 +8520,13 @@
       "riksdagen"
     ],
     "relevans": {
-      "kvinna": 2
+      "kvinna": 6,
+      "sambo_gift": 5,
+      "skild": 7,
+      "ensam_foralder": 6,
+      "brottsoffer": 7,
+      "skuldsatt": 4,
+      "anhorigvardare": 3
     }
   },
   {
@@ -6959,11 +8541,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_finans": 1,
-      "sjukskriven": 1,
-      "kronisk": 3,
-      "tandvard": 3,
-      "konsument": 1
+      "tandvard": 10,
+      "kronisk": 6,
+      "pensionar": 5,
+      "funktion": 5,
+      "bidrag": 4,
+      "sjukskriven": 4
     }
   },
   {
@@ -6978,7 +8561,14 @@
       "riksdagen"
     ],
     "relevans": {
-      "konsument": 1
+      "energikund": 7,
+      "b_energi": 8,
+      "energiintensiv": 6,
+      "b_it": 3,
+      "storforetag": 4,
+      "smaforetag": 3,
+      "regelborda": 4,
+      "eu_marknad": 5
     }
   },
   {
@@ -6993,15 +8583,16 @@
       "riksdagen"
     ],
     "relevans": {
-      "arbetsgivare": 2,
-      "b_industri": 1,
-      "avgifter": 2,
-      "konkurrens": 3,
-      "f_landsbygd": 1,
-      "glesbygd": 1,
-      "kronisk": 1,
-      "konsument": 1,
-      "klimat": 1
+      "solo": 6,
+      "smaforetag": 7,
+      "arbetsgivare": 7,
+      "avgifter": 8,
+      "f_landsbygd": 5,
+      "glesbygd": 4,
+      "b_grona": 4,
+      "aktiebolag": 4,
+      "regelborda": 5,
+      "eu_marknad": 5
     }
   },
   {
@@ -7016,9 +8607,13 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_finans": 2,
-      "redovisning": 1,
-      "klimat": 3
+      "storforetag": 7,
+      "aktiebolag": 5,
+      "smaforetag": 4,
+      "hallbarhetsrapport": 9,
+      "redovisning": 6,
+      "b_finans": 5,
+      "eu_marknad": 5
     }
   },
   {
@@ -7033,12 +8628,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "anhorigvardare": 1,
-      "lontagare": 1,
-      "bostadsagare": 3,
-      "sparare": 1,
-      "lantagare": 2,
-      "kultur": 1
+      "storforetag": 7,
+      "aktiebolag": 6,
+      "bolagsskatt": 7,
+      "redovisning": 5,
+      "eu_marknad": 6,
+      "finansiering": 5
     }
   },
   {
@@ -7053,9 +8648,15 @@
       "riksdagen"
     ],
     "relevans": {
-      "kronisk": 3,
-      "psykisk": 1,
-      "tandvard": 1
+      "kronisk": 7,
+      "funktion": 6,
+      "psykisk": 6,
+      "pensionar": 5,
+      "anhorigvardare": 6,
+      "barn": 4,
+      "glesbygd": 4,
+      "b_vard": 6,
+      "offentliganstalld": 4
     }
   },
   {
@@ -7068,7 +8669,13 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HD0318.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "varnpliktig": 6,
+      "offentliganstalld": 5,
+      "fortroendevald": 4,
+      "integritet": 4
+    }
   },
   {
     "id": "HD0311",
@@ -7082,11 +8689,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_finans": 3,
-      "tillstand": 2,
-      "infrastruktur": 1,
-      "lantagare": 1,
-      "batagare": 1
+      "beroende": 8,
+      "skuldsatt": 7,
+      "bidrag": 4,
+      "ung_vuxen": 4,
+      "konsument": 5,
+      "b_it": 3
     }
   },
   {
@@ -7101,9 +8709,14 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_energi": 1,
-      "konsument": 2,
-      "klimat": 1
+      "energikund": 8,
+      "konsument": 6,
+      "bostadsagare": 4,
+      "b_energi": 7,
+      "energiintensiv": 5,
+      "storforetag": 4,
+      "smaforetag": 3,
+      "eu_marknad": 5
     }
   },
   {
@@ -7118,11 +8731,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "arbetsgivare": 3,
-      "bolagsskatt": 1,
-      "lontagare": 2,
-      "bygger": 1,
-      "konsument": 1
+      "kultur": 3,
+      "fortroendevald": 3
     }
   },
   {
@@ -7137,15 +8747,13 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "b_vard": 1,
-      "b_finans": 3,
-      "b_energi": 1,
-      "lontagare": 1,
-      "glesbygd": 1,
-      "bil": 1,
-      "sparare": 1,
-      "energikund": 1
+      "fortroendevald": 6,
+      "lontagare": 3,
+      "pensionar": 3,
+      "bil": 3,
+      "energikund": 3,
+      "storforetag": 3,
+      "smaforetag": 3
     }
   },
   {
@@ -7160,8 +8768,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "barn": 1,
-      "glesbygd": 1
+      "fortroendevald": 5,
+      "lontagare": 3,
+      "pensionar": 3,
+      "offentliganstalld": 3
     }
   },
   {
@@ -7176,13 +8786,23 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "b_finans": 1,
-      "b_energi": 1,
-      "lontagare": 1,
-      "glesbygd": 1,
-      "sparare": 1,
-      "energikund": 1
+      "solo": 4,
+      "aktiebolag": 4,
+      "arbetsgivare": 4,
+      "smaforetag": 4,
+      "storforetag": 5,
+      "moms": 3,
+      "bolagsskatt": 4,
+      "avgifter": 4,
+      "punktskatt": 3,
+      "lontagare": 3,
+      "foretagare": 4,
+      "pensionar": 3,
+      "energikund": 3,
+      "bil": 3,
+      "konsument": 3,
+      "pensionssparare": 3,
+      "sparare": 3
     }
   },
   {
@@ -7197,7 +8817,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "pensionar": 3
+      "pensionar": 7,
+      "anhorigvardare": 5,
+      "ideell": 4,
+      "volontar": 3,
+      "b_vard": 4
     }
   },
   {
@@ -7212,10 +8836,17 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_vard": 3,
-      "tillstand": 1,
-      "kronisk": 3,
-      "funktion": 2
+      "b_vard": 8,
+      "b_utbildning": 3,
+      "tillstand": 7,
+      "kronisk": 4,
+      "funktion": 6,
+      "pensionar": 4,
+      "anhorigvardare": 4,
+      "ideell": 4,
+      "regelborda": 4,
+      "f_kommun": 4,
+      "offentliganstalld": 4
     }
   },
   {
@@ -7230,8 +8861,16 @@
       "riksdagen"
     ],
     "relevans": {
-      "miljo": 1,
-      "klimat": 2
+      "miljo": 7,
+      "b_industri": 6,
+      "b_energi": 5,
+      "b_bygg": 4,
+      "gron_omstallning": 5,
+      "eu_marknad": 5,
+      "tillstand": 5,
+      "klimat": 6,
+      "energiintensiv": 5,
+      "produktsakerhet": 4
     }
   },
   {
@@ -7246,8 +8885,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "ny_i_sverige": 3,
-      "asyl": 3
+      "ny_i_sverige": 7,
+      "asyl": 6,
+      "arbetstillstand": 5,
+      "offentliganstalld": 3
     }
   },
   {
@@ -7262,10 +8903,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_vard": 1,
-      "tillstand": 1,
-      "kronisk": 3,
-      "tandvard": 3
+      "tandvard": 9,
+      "b_vard": 7,
+      "tillstand": 7,
+      "kronisk": 4,
+      "pensionar": 4,
+      "regelborda": 4
     }
   },
   {
@@ -7280,8 +8923,14 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_industri": 1,
-      "b_finans": 2
+      "sparare": 7,
+      "b_finans": 7,
+      "b_it": 4,
+      "bolagsskatt": 4,
+      "gdpr": 4,
+      "aktiebolag": 3,
+      "pensionssparare": 5,
+      "eu_marknad": 4
     }
   },
   {
@@ -7296,8 +8945,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_fastighet": 1,
-      "b_kultur": 3
+      "fortroendevald": 7,
+      "b_kultur": 5,
+      "b_it": 3,
+      "ideell": 4,
+      "integritet": 4,
+      "eu_marknad": 4
     }
   },
   {
@@ -7312,16 +8965,14 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_transport": 1,
-      "b_energi": 1,
-      "punktskatt": 3,
-      "miljo": 1,
-      "flygresenar": 1,
-      "beroende": 1,
-      "energikund": 1,
-      "batagare": 1,
-      "otrygg": 1,
-      "varnpliktig": 1
+      "punktskatt": 6,
+      "b_transport": 5,
+      "b_energi": 4,
+      "flygresenar": 4,
+      "batagare": 4,
+      "b_besok": 3,
+      "varnpliktig": 4,
+      "offentliganstalld": 3
     }
   },
   {
@@ -7336,8 +8987,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_transport": 1,
-      "varnpliktig": 3
+      "varnpliktig": 7,
+      "offentliganstalld": 4,
+      "b_industri": 4,
+      "fortroendevald": 3,
+      "klimat": 3
     }
   },
   {
@@ -7352,9 +9006,14 @@
       "riksdagen"
     ],
     "relevans": {
-      "arbetsgivare": 1,
-      "barn": 3,
-      "otrygg": 1
+      "barn": 8,
+      "ensam_foralder": 6,
+      "stor_familj": 5,
+      "offentliganstalld": 5,
+      "brottsoffer": 4,
+      "gymnasieelev": 3,
+      "ung": 5,
+      "f_kommun": 4
     }
   },
   {
@@ -7369,10 +9028,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_utbildning": 3,
-      "barn": 1,
-      "vuxenstudier": 3,
-      "ny_i_sverige": 3
+      "ny_i_sverige": 9,
+      "vuxenstudier": 7,
+      "arbetssokande": 5,
+      "f_kommun": 5,
+      "bidrag": 4
     }
   },
   {
@@ -7387,7 +9047,9 @@
       "riksdagen"
     ],
     "relevans": {
-      "varnpliktig": 3
+      "varnpliktig": 8,
+      "fortroendevald": 6,
+      "offentliganstalld": 4
     }
   },
   {
@@ -7402,11 +9064,16 @@
       "riksdagen"
     ],
     "relevans": {
-      "arbetsgivare": 1,
-      "b_industri": 1,
-      "b_vard": 1,
-      "fou": 1,
-      "otrygg": 1
+      "aktiebolag": 6,
+      "smaforetag": 5,
+      "storforetag": 6,
+      "b_it": 5,
+      "b_industri": 5,
+      "immaterialratt": 8,
+      "fou": 6,
+      "digitalisering": 4,
+      "arbetsratt": 4,
+      "kompetens": 3
     }
   },
   {
@@ -7421,7 +9088,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "varnpliktig": 3
+      "varnpliktig": 6,
+      "fortroendevald": 5,
+      "offentliganstalld": 5,
+      "f_kommun": 3
     }
   },
   {
@@ -7436,7 +9106,9 @@
       "riksdagen"
     ],
     "relevans": {
-      "varnpliktig": 3
+      "varnpliktig": 5,
+      "offentliganstalld": 4,
+      "fortroendevald": 3
     }
   },
   {
@@ -7451,9 +9123,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "arbetsgivare": 3,
-      "kollektivavtal": 1,
-      "lontagare": 1
+      "offentliganstalld": 9,
+      "arbetsratt": 7,
+      "kollektivavtal": 5,
+      "lontagare": 4
     }
   },
   {
@@ -7468,9 +9141,16 @@
       "riksdagen"
     ],
     "relevans": {
-      "tillstand": 1,
-      "miljo": 1,
-      "klimat": 1
+      "b_industri": 7,
+      "b_energi": 5,
+      "b_grona": 4,
+      "miljo": 6,
+      "mark_bygglov": 5,
+      "tillstand": 6,
+      "gron_omstallning": 4,
+      "klimat": 5,
+      "f_landsbygd": 4,
+      "glesbygd": 3
     }
   },
   {
@@ -7485,11 +9165,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_finans": 1,
-      "pensionar": 3,
-      "lontagare": 2,
-      "sparare": 1,
-      "konsument": 1
+      "pensionssparare": 8,
+      "pensionar": 7,
+      "sparare": 5,
+      "b_finans": 5,
+      "bolagsskatt": 3
     }
   },
   {
@@ -7504,8 +9184,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "domd": 1,
-      "integritet": 3
+      "domd": 10,
+      "brottsoffer": 4,
+      "otrygg": 3,
+      "lontagare": 3
     }
   },
   {
@@ -7520,9 +9202,14 @@
       "riksdagen"
     ],
     "relevans": {
-      "regelborda": 1,
-      "skuldsatt": 1,
-      "otrygg": 1
+      "aktiebolag": 6,
+      "solo": 5,
+      "smaforetag": 5,
+      "storforetag": 4,
+      "foretagare": 6,
+      "konkurs": 4,
+      "otrygg": 4,
+      "brottsoffer": 3
     }
   },
   {
@@ -7537,9 +9224,16 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_industri": 1,
-      "gron_omstallning": 1,
-      "klimat": 1
+      "b_industri": 8,
+      "b_energi": 7,
+      "gron_omstallning": 7,
+      "storforetag": 6,
+      "eu_marknad": 6,
+      "hallbarhetsrapport": 5,
+      "miljo": 5,
+      "fou": 4,
+      "aktiebolag": 3,
+      "smaforetag": 3
     }
   },
   {
@@ -7554,7 +9248,15 @@
       "riksdagen"
     ],
     "relevans": {
-      "konkurrens": 3
+      "smaforetag": 7,
+      "solo": 6,
+      "aktiebolag": 6,
+      "arbetsgivare": 5,
+      "storforetag": 5,
+      "eu_marknad": 6,
+      "konkurrens": 5,
+      "finansiering": 4,
+      "f_kommun": 3
     }
   },
   {
@@ -7569,8 +9271,13 @@
       "riksdagen"
     ],
     "relevans": {
-      "regelborda": 1,
-      "eu_marknad": 1
+      "b_kultur": 8,
+      "storforetag": 5,
+      "aktiebolag": 4,
+      "eu_marknad": 5,
+      "gdpr": 3,
+      "integritet": 4,
+      "kultur": 5
     }
   },
   {
@@ -7590,7 +9297,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "foretagare": 3
+      "sparare": 4,
+      "pensionssparare": 3,
+      "storforetag": 5,
+      "aktiebolag": 4,
+      "b_transport": 3,
+      "b_industri": 3
     }
   },
   {
@@ -7605,9 +9317,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "tillstand": 1,
-      "asyl": 2,
-      "otrygg": 1
+      "asyl": 9,
+      "ny_i_sverige": 7,
+      "arbetstillstand": 6,
+      "b_konsult": 4,
+      "lontagare": 3
     }
   },
   {
@@ -7627,10 +9341,14 @@
       "riksdagen"
     ],
     "relevans": {
-      "arbetsgivare": 1,
-      "b_bygg": 1,
-      "student": 1,
-      "klimat": 1
+      "student": 8,
+      "vuxenstudier": 6,
+      "gymnasieelev": 4,
+      "ung_vuxen": 6,
+      "kompetens": 5,
+      "arbetssokande": 4,
+      "b_utbildning": 6,
+      "b_vard": 5
     }
   },
   {
@@ -7650,8 +9368,19 @@
       "riksdagen"
     ],
     "relevans": {
-      "produktsakerhet": 1,
-      "eu_marknad": 3
+      "b_handel": 7,
+      "b_industri": 6,
+      "konsumentratt": 5,
+      "produktsakerhet": 8,
+      "eu_marknad": 6,
+      "miljo": 4,
+      "aktiebolag": 4,
+      "smaforetag": 4,
+      "import": 5,
+      "export": 4,
+      "regelborda": 4,
+      "gron_omstallning": 4,
+      "konsument": 4
     }
   },
   {
@@ -7671,10 +9400,15 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "b_fastighet": 1,
-      "lontagare": 1,
-      "hyresgast": 1
+      "hyresgast": 7,
+      "bostadsagare": 4,
+      "b_fastighet": 9,
+      "bygger": 5,
+      "aktiebolag": 5,
+      "smaforetag": 4,
+      "storstad": 5,
+      "lantagare": 4,
+      "f_storstad": 5
     }
   },
   {
@@ -7694,9 +9428,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "storforetag": 1,
-      "b_finans": 2,
-      "bolagsskatt": 1
+      "b_finans": 10,
+      "storforetag": 7,
+      "aktiebolag": 6,
+      "bolagsskatt": 7,
+      "sparare": 4,
+      "pensionssparare": 3
     }
   },
   {
@@ -7716,9 +9453,17 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_vard": 1,
-      "kronisk": 1,
-      "beroende": 1
+      "solo": 7,
+      "smaforetag": 8,
+      "aktiebolag": 7,
+      "arbetsgivare": 7,
+      "storforetag": 6,
+      "finansiering": 6,
+      "upphandling": 5,
+      "eu_marknad": 5,
+      "redovisning": 5,
+      "f_kommun": 4,
+      "foretagare": 6
     }
   },
   {
@@ -7738,8 +9483,14 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_fastighet": 1,
-      "b_konsult": 3
+      "ideell": 7,
+      "barn": 5,
+      "ung": 5,
+      "funktion": 5,
+      "pensionar": 4,
+      "volontar": 6,
+      "idrott": 4,
+      "kultur": 4
     }
   },
   {
@@ -7760,9 +9511,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "gdpr": 1,
-      "otrygg": 3,
-      "integritet": 1
+      "integritet": 7,
+      "otrygg": 5,
+      "brottsoffer": 4,
+      "gdpr": 4,
+      "offentliganstalld": 6,
+      "fortroendevald": 3
     }
   },
   {
@@ -7782,10 +9536,14 @@
       "riksdagen"
     ],
     "relevans": {
-      "barn": 1,
-      "sambo_gift": 1,
-      "kvinna": 1,
-      "klimat": 1
+      "kvinna": 9,
+      "barn": 7,
+      "ung": 7,
+      "ny_i_sverige": 5,
+      "brottsoffer": 6,
+      "hbtq": 4,
+      "otrygg": 3,
+      "offentliganstalld": 3
     }
   },
   {
@@ -7805,10 +9563,16 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_fastighet": 3,
-      "b_energi": 3,
-      "bostadsagare": 3,
-      "energikund": 1
+      "b_energi": 10,
+      "energiintensiv": 7,
+      "energikund": 6,
+      "gron_omstallning": 6,
+      "b_industri": 5,
+      "storforetag": 6,
+      "aktiebolag": 5,
+      "f_landsbygd": 5,
+      "glesbygd": 4,
+      "klimat": 5
     }
   },
   {
@@ -7824,10 +9588,24 @@
       "kommunfullmaktige"
     ],
     "relevans": {
-      "b_industri": 1,
-      "b_fastighet": 1,
-      "redovisning": 1,
-      "otrygg": 1
+      "f_kommun": 8,
+      "b_fastighet": 6,
+      "lontagare": 5,
+      "hyresgast": 5,
+      "bostadsagare": 5,
+      "energikund": 6,
+      "glesbygd": 7,
+      "mindre_ort": 8,
+      "pendlare": 4,
+      "offentliganstalld": 6,
+      "fortroendevald": 7,
+      "barn": 4,
+      "pensionar": 4,
+      "infrastruktur": 6,
+      "f_landsbygd": 6,
+      "aktiebolag": 4,
+      "smaforetag": 4,
+      "b_vard": 5
     }
   },
   {
@@ -7848,9 +9626,18 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_industri": 3,
-      "fou": 3,
-      "varnpliktig": 3
+      "b_industri": 9,
+      "storforetag": 8,
+      "aktiebolag": 6,
+      "smaforetag": 6,
+      "fou": 8,
+      "export": 6,
+      "b_it": 5,
+      "digitalisering": 5,
+      "eu_marknad": 5,
+      "varnpliktig": 5,
+      "offentliganstalld": 4,
+      "upphandling": 6
     }
   },
   {
@@ -7865,9 +9652,16 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_finans": 1,
-      "sparare": 1,
-      "lantagare": 1
+      "solo": 8,
+      "smaforetag": 9,
+      "aktiebolag": 8,
+      "arbetsgivare": 7,
+      "storforetag": 5,
+      "familjeforetag": 7,
+      "redovisning": 6,
+      "finansiering": 6,
+      "konkurs": 5,
+      "foretagare": 7
     }
   },
   {
@@ -7882,9 +9676,16 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_transport": 3,
-      "eu_marknad": 1,
-      "glesbygd": 1
+      "b_transport": 8,
+      "b_it": 7,
+      "digitalisering": 6,
+      "eu_marknad": 6,
+      "infrastruktur": 6,
+      "pendlare": 5,
+      "bil": 4,
+      "kollektiv": 4,
+      "storforetag": 4,
+      "smaforetag": 3
     }
   },
   {
@@ -7899,7 +9700,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "otrygg": 3
+      "otrygg": 5,
+      "brottsoffer": 4,
+      "offentliganstalld": 7,
+      "integritet": 4,
+      "domd": 4,
+      "fortroendevald": 3
     }
   },
   {
@@ -7914,8 +9720,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_life": 3,
-      "kronisk": 3
+      "kronisk": 6,
+      "b_vard": 6,
+      "b_life": 4,
+      "offentliganstalld": 4,
+      "digitalisering": 3
     }
   },
   {
@@ -7930,8 +9739,9 @@
       "riksdagen"
     ],
     "relevans": {
-      "kultur": 3,
-      "fortroendevald": 1
+      "fortroendevald": 5,
+      "offentliganstalld": 4,
+      "varnpliktig": 4
     }
   },
   {
@@ -7947,8 +9757,11 @@
       "kommunstyrelsen"
     ],
     "relevans": {
-      "digitalisering": 1,
-      "digital_ovan": 1
+      "f_kommun": 4,
+      "digitalisering": 3,
+      "offentliganstalld": 5,
+      "upphandling": 4,
+      "b_it": 4
     }
   },
   {
@@ -7963,10 +9776,9 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_industri": 3,
-      "b_life": 1,
-      "finansiering": 3,
-      "kronisk": 1
+      "kronisk": 4,
+      "b_life": 5,
+      "b_vard": 3
     }
   },
   {
@@ -7981,10 +9793,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_transport": 1,
-      "b_finans": 1,
-      "hyresgast": 1,
-      "batagare": 1
+      "b_transport": 7,
+      "finansiering": 5,
+      "export": 4,
+      "import": 4,
+      "eu_marknad": 3
     }
   },
   {
@@ -7999,8 +9812,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "kronisk": 2,
-      "varnpliktig": 1
+      "b_vard": 7,
+      "kronisk": 5,
+      "funktion": 4,
+      "offentliganstalld": 5,
+      "varnpliktig": 4
     }
   },
   {
@@ -8015,10 +9831,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "infrastruktur": 1,
-      "ung": 1,
-      "funktion": 3,
-      "batagare": 1
+      "fortroendevald": 6,
+      "utlandssvensk": 6,
+      "funktion": 4,
+      "digital_ovan": 3,
+      "integritet": 3
     }
   },
   {
@@ -8033,7 +9850,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "glesbygd": 1
+      "integritet": 6,
+      "gdpr": 5,
+      "bidrag": 4,
+      "sjukskriven": 3,
+      "foretagare": 3,
+      "solo": 3
     }
   },
   {
@@ -8048,17 +9870,13 @@
       "riksdagen"
     ],
     "relevans": {
-      "arbetsgivare": 1,
-      "b_finans": 2,
-      "sjuklon": 1,
-      "infrastruktur": 1,
-      "pensionar": 1,
-      "lontagare": 1,
-      "sjukskriven": 1,
-      "bidrag": 3,
-      "funktion": 1,
-      "tandvard": 2,
-      "batagare": 1
+      "sjukskriven": 5,
+      "bidrag": 6,
+      "kronisk": 4,
+      "funktion": 4,
+      "b_vard": 4,
+      "pensionar": 4,
+      "integritet": 4
     }
   },
   {
@@ -8073,9 +9891,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "barn": 3,
-      "klimat": 1,
-      "otrygg": 3
+      "barn": 5,
+      "otrygg": 5,
+      "brottsoffer": 4,
+      "fortroendevald": 3
     }
   },
   {
@@ -8090,11 +9909,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_transport": 1,
-      "miljo": 1,
-      "flygresenar": 2,
-      "kronisk": 1,
-      "klimat": 1
+      "flygresenar": 5,
+      "b_transport": 5,
+      "miljo": 3,
+      "eu_marknad": 3
     }
   },
   {
@@ -8109,8 +9927,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "aktiebolag": 1,
-      "ideell": 1
+      "bil": 4,
+      "aktiebolag": 4,
+      "b_transport": 3,
+      "regelborda": 3
     }
   },
   {
@@ -8125,10 +9945,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_konsult": 3,
-      "pensionar": 1,
-      "sparare": 3,
-      "konsument": 1
+      "pensionar": 7,
+      "pensionssparare": 7,
+      "sparare": 5,
+      "lontagare": 4
     }
   },
   {
@@ -8143,10 +9963,13 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_industri": 1,
-      "b_vard": 1,
-      "export": 1,
-      "immaterialratt": 3
+      "immaterialratt": 7,
+      "b_industri": 5,
+      "b_grona": 4,
+      "export": 4,
+      "eu_marknad": 4,
+      "aktiebolag": 3,
+      "smaforetag": 3
     }
   },
   {
@@ -8161,10 +9984,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "gdpr": 1,
-      "ny_i_sverige": 1,
-      "otrygg": 1,
-      "integritet": 1
+      "ny_i_sverige": 6,
+      "asyl": 6,
+      "arbetstillstand": 6,
+      "integritet": 4,
+      "eu_marknad": 3
     }
   },
   {
@@ -8179,7 +10003,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "glesbygd": 3
+      "bostadsagare": 5,
+      "hyresgast": 4,
+      "glesbygd": 5,
+      "f_landsbygd": 4,
+      "f_kommun": 5,
+      "klimat": 3
     }
   },
   {
@@ -8194,12 +10023,13 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_finans": 3,
-      "finansiering": 1,
-      "konkurs": 1,
-      "infrastruktur": 1,
-      "lantagare": 1,
-      "batagare": 1
+      "b_finans": 7,
+      "sparare": 4,
+      "pensionssparare": 4,
+      "storforetag": 6,
+      "aktiebolag": 4,
+      "eu_marknad": 5,
+      "lantagare": 3
     }
   },
   {
@@ -8214,15 +10044,14 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_bygg": 3,
-      "b_vard": 1,
-      "b_fastighet": 1,
-      "miljo": 1,
-      "lokaler": 1,
-      "mark_bygglov": 3,
-      "bygger": 3,
-      "klimat": 1,
-      "varnpliktig": 1
+      "bostadsagare": 8,
+      "bygger": 8,
+      "b_bygg": 6,
+      "b_fastighet": 5,
+      "mark_bygglov": 7,
+      "glesbygd": 5,
+      "regelborda": 5,
+      "smaforetag": 4
     }
   },
   {
@@ -8237,11 +10066,13 @@
       "riksdagen"
     ],
     "relevans": {
-      "miljo": 3,
-      "infrastruktur": 1,
-      "batagare": 1,
-      "klimat": 3,
-      "otrygg": 1
+      "b_transport": 7,
+      "miljo": 6,
+      "klimat": 5,
+      "gron_omstallning": 5,
+      "eu_marknad": 5,
+      "export": 4,
+      "import": 4
     }
   },
   {
@@ -8256,7 +10087,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "funktion": 1
+      "funktion": 6,
+      "kultur": 5,
+      "digital_ovan": 4,
+      "b_kultur": 6,
+      "bredbandsberoende": 3,
+      "fortroendevald": 3
     }
   },
   {
@@ -8271,11 +10107,14 @@
       "riksdagen"
     ],
     "relevans": {
-      "tillstand": 3,
+      "jagare": 4,
+      "otrygg": 5,
+      "brottsoffer": 3,
+      "b_bygg": 4,
+      "tillstand": 6,
+      "f_kommun": 3,
       "regelborda": 3,
-      "mark_bygglov": 1,
-      "bygger": 1,
-      "otrygg": 1
+      "integritet": 3
     }
   },
   {
@@ -8290,9 +10129,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "lontagare": 1,
-      "arbetssokande": 3,
-      "funktion": 1
+      "arbetssokande": 8,
+      "funktion": 7,
+      "sjukskriven": 4,
+      "lontagare": 3,
+      "vuxenstudier": 3
     }
   },
   {
@@ -8307,8 +10148,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_vard": 1,
-      "tillstand": 1
+      "b_kultur": 7,
+      "b_it": 3,
+      "tillstand": 5,
+      "regelborda": 4,
+      "avgifter": 3,
+      "eu_marknad": 3
     }
   },
   {
@@ -8323,8 +10168,16 @@
       "riksdagen"
     ],
     "relevans": {
-      "solo": 3,
-      "foretagare": 3
+      "solo": 6,
+      "aktiebolag": 6,
+      "smaforetag": 6,
+      "foretagare": 6,
+      "storforetag": 4,
+      "redovisning": 5,
+      "regelborda": 4,
+      "export": 4,
+      "eu_marknad": 3,
+      "gron_omstallning": 3
     }
   },
   {
@@ -8339,7 +10192,9 @@
       "riksdagen"
     ],
     "relevans": {
-      "fortroendevald": 3
+      "fortroendevald": 8,
+      "integritet": 5,
+      "offentliganstalld": 3
     }
   },
   {
@@ -8355,8 +10210,12 @@
       "kommunfullmaktige"
     ],
     "relevans": {
-      "b_energi": 1,
-      "energikund": 1
+      "f_kommun": 5,
+      "fortroendevald": 6,
+      "b_energi": 3,
+      "b_bygg": 3,
+      "idrott": 3,
+      "ideell": 3
     }
   },
   {
@@ -8371,8 +10230,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "arbetsgivare": 1,
-      "asyl": 1
+      "ny_i_sverige": 7,
+      "asyl": 9,
+      "arbetstillstand": 5,
+      "integritet": 4,
+      "offentliganstalld": 3
     }
   },
   {
@@ -8387,12 +10249,15 @@
       "riksdagen"
     ],
     "relevans": {
-      "arbetsgivare": 1,
-      "b_utbildning": 1,
-      "barn": 2,
-      "vuxenstudier": 1,
-      "klimat": 1,
-      "otrygg": 1
+      "barn": 7,
+      "gymnasieelev": 7,
+      "ung": 6,
+      "student": 3,
+      "offentliganstalld": 5,
+      "otrygg": 5,
+      "brottsoffer": 3,
+      "b_utbildning": 6,
+      "f_kommun": 4
     }
   },
   {
@@ -8407,10 +10272,15 @@
       "riksdagen"
     ],
     "relevans": {
-      "gdpr": 1,
-      "barn": 3,
-      "bidrag": 1,
-      "integritet": 1
+      "barn": 8,
+      "ung": 8,
+      "stor_familj": 6,
+      "ensam_foralder": 6,
+      "bidrag": 5,
+      "idrott": 6,
+      "ideell": 5,
+      "b_kultur": 3,
+      "kultur": 4
     }
   },
   {
@@ -8425,8 +10295,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_finans": 3,
-      "kronisk": 1
+      "fortroendevald": 5,
+      "offentliganstalld": 3,
+      "sparare": 3,
+      "pensionssparare": 3
     }
   },
   {
@@ -8441,10 +10313,9 @@
       "riksdagen"
     ],
     "relevans": {
-      "redovisning": 3,
-      "konsumentratt": 1,
-      "lantagare": 1,
-      "konsument": 1
+      "fortroendevald": 4,
+      "sparare": 3,
+      "pensionssparare": 3
     }
   },
   {
@@ -8459,7 +10330,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "finansiering": 1
+      "fortroendevald": 4,
+      "lontagare": 3,
+      "sparare": 3,
+      "pensionssparare": 3,
+      "arbetssokande": 3
     }
   },
   {
@@ -8474,9 +10349,9 @@
       "riksdagen"
     ],
     "relevans": {
-      "glesbygd": 1,
-      "otrygg": 1,
-      "varnpliktig": 1
+      "fortroendevald": 4,
+      "offentliganstalld": 3,
+      "lontagare": 3
     }
   },
   {
@@ -8491,7 +10366,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_konsult": 3
+      "fortroendevald": 4,
+      "foretagare": 3,
+      "solo": 3,
+      "aktiebolag": 3,
+      "bolagsskatt": 3,
+      "moms": 3
     }
   },
   {
@@ -8504,7 +10384,14 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03158.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "f_landsbygd": 4,
+      "eu_marknad": 4,
+      "finansiering": 3,
+      "f_kommun": 3,
+      "regelborda": 3
+    }
   },
   {
     "id": "HC03156",
@@ -8518,8 +10405,16 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "bygger": 1
+      "bygger": 8,
+      "bostadsagare": 6,
+      "b_bygg": 8,
+      "solo": 5,
+      "smaforetag": 6,
+      "aktiebolag": 5,
+      "b_fastighet": 5,
+      "b_konsult": 4,
+      "konsument": 5,
+      "foretagare": 5
     }
   },
   {
@@ -8534,9 +10429,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_finans": 1,
-      "b_kultur": 1,
-      "tillstand": 1
+      "fortroendevald": 5,
+      "ideell": 4,
+      "konsument": 3,
+      "kultur": 3
     }
   },
   {
@@ -8551,11 +10447,17 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "infrastruktur": 2,
-      "glesbygd": 1,
-      "batagare": 1,
-      "klimat": 1
+      "miljo": 7,
+      "klimat": 6,
+      "gron_omstallning": 5,
+      "b_bygg": 5,
+      "b_energi": 5,
+      "b_industri": 4,
+      "hallbarhetsrapport": 4,
+      "eu_marknad": 4,
+      "mark_bygglov": 4,
+      "friluftsliv": 3,
+      "f_kommun": 3
     }
   },
   {
@@ -8568,7 +10470,13 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03151.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "fortroendevald": 5,
+      "integritet": 5,
+      "otrygg": 3,
+      "offentliganstalld": 4
+    }
   },
   {
     "id": "HC03114",
@@ -8582,9 +10490,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "export": 3,
-      "infrastruktur": 1,
-      "batagare": 1
+      "export": 6,
+      "b_industri": 5,
+      "storforetag": 4,
+      "eu_marknad": 4,
+      "b_it": 3,
+      "fortroendevald": 3
     }
   },
   {
@@ -8599,10 +10510,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_fastighet": 1,
-      "pensionar": 1,
-      "sparare": 3,
-      "pensionssparare": 3
+      "pensionssparare": 4,
+      "upphandling": 3,
+      "b_finans": 3,
+      "aktiebolag": 3
     }
   },
   {
@@ -8617,12 +10528,14 @@
       "riksdagen"
     ],
     "relevans": {
-      "arbetsgivare": 1,
-      "b_vard": 1,
-      "b_life": 1,
-      "regelborda": 3,
-      "kronisk": 2,
-      "konsument": 1
+      "b_vard": 6,
+      "b_life": 6,
+      "kronisk": 3,
+      "funktion": 3,
+      "offentliganstalld": 3,
+      "tillstand": 4,
+      "regelborda": 4,
+      "avgifter": 3
     }
   },
   {
@@ -8637,7 +10550,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "funktion": 1
+      "funktion": 7,
+      "anhorigvardare": 4,
+      "offentliganstalld": 3,
+      "b_vard": 4,
+      "ideell": 3
     }
   },
   {
@@ -8650,7 +10567,15 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03146.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "offentliganstalld": 3,
+      "varnpliktig": 5,
+      "b_energi": 3,
+      "energikund": 3,
+      "klimat": 3,
+      "fortroendevald": 3
+    }
   },
   {
     "id": "HC03127",
@@ -8664,9 +10589,13 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_handel": 1,
-      "infrastruktur": 1,
-      "batagare": 1
+      "b_handel": 4,
+      "tillstand": 5,
+      "konsument": 3,
+      "ung": 4,
+      "ung_vuxen": 4,
+      "b_besok": 3,
+      "regelborda": 3
     }
   },
   {
@@ -8681,13 +10610,16 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "b_finans": 3,
-      "b_energi": 1,
-      "bolagsskatt": 1,
-      "finansiering": 3,
-      "energiintensiv": 1,
-      "energikund": 1
+      "b_energi": 8,
+      "energiintensiv": 6,
+      "energikund": 5,
+      "storforetag": 6,
+      "aktiebolag": 4,
+      "finansiering": 5,
+      "gron_omstallning": 4,
+      "klimat": 4,
+      "f_kommun": 3,
+      "mark_bygglov": 3
     }
   },
   {
@@ -8702,10 +10634,15 @@
       "riksdagen"
     ],
     "relevans": {
-      "barn": 1,
-      "funktion": 1,
-      "psykisk": 1,
-      "varnpliktig": 1
+      "barn": 5,
+      "kvinna": 6,
+      "ung": 4,
+      "funktion": 5,
+      "psykisk": 4,
+      "brottsoffer": 6,
+      "otrygg": 5,
+      "pensionar": 4,
+      "skuldsatt": 3
     }
   },
   {
@@ -8720,8 +10657,12 @@
       "riksdagen"
     ],
     "relevans": {
+      "b_transport": 5,
+      "b_industri": 3,
+      "b_handel": 3,
       "infrastruktur": 3,
-      "batagare": 3
+      "tillstand": 3,
+      "f_storstad": 3
     }
   },
   {
@@ -8736,8 +10677,18 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_it": 1,
-      "gdpr": 3
+      "gdpr": 7,
+      "b_it": 7,
+      "digitalisering": 7,
+      "storforetag": 5,
+      "smaforetag": 4,
+      "aktiebolag": 4,
+      "offentliganstalld": 4,
+      "bredbandsberoende": 3,
+      "integritet": 5,
+      "eu_marknad": 4,
+      "b_finans": 5,
+      "b_vard": 4
     }
   },
   {
@@ -8752,11 +10703,13 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_utbildning": 1,
-      "gdpr": 1,
-      "arbetssokande": 3,
-      "vuxenstudier": 1,
-      "integritet": 1
+      "arbetssokande": 7,
+      "vuxenstudier": 6,
+      "student": 4,
+      "ny_i_sverige": 5,
+      "bidrag": 4,
+      "offentliganstalld": 3,
+      "gdpr": 3
     }
   },
   {
@@ -8771,11 +10724,15 @@
       "riksdagen"
     ],
     "relevans": {
-      "arbetsmiljo": 1,
-      "barn": 3,
-      "gravid": 1,
-      "hbtq": 1,
-      "foraldraledig": 1
+      "barn": 8,
+      "gravid": 5,
+      "ensam_foralder": 5,
+      "stor_familj": 6,
+      "sambo_gift": 4,
+      "foraldraledig": 4,
+      "b_utbildning": 6,
+      "offentliganstalld": 4,
+      "arbetsratt": 3
     }
   },
   {
@@ -8790,8 +10747,13 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "klimat": 1
+      "friluftsliv": 6,
+      "fiske": 5,
+      "batagare": 5,
+      "klimat": 5,
+      "glesbygd": 3,
+      "b_grona": 3,
+      "f_landsbygd": 3
     }
   },
   {
@@ -8806,11 +10768,15 @@
       "riksdagen"
     ],
     "relevans": {
-      "arbetsgivare": 2,
-      "b_fastighet": 1,
-      "barn": 1,
-      "kronisk": 1,
-      "offentliganstalld": 3
+      "offentliganstalld": 8,
+      "brottsoffer": 5,
+      "otrygg": 4,
+      "b_vard": 5,
+      "b_utbildning": 5,
+      "fortroendevald": 5,
+      "integritet": 3,
+      "arbetsratt": 3,
+      "arbetsmiljo": 6
     }
   },
   {
@@ -8825,8 +10791,8 @@
       "riksdagen"
     ],
     "relevans": {
-      "arbetsgivare": 3,
-      "arbetsratt": 3
+      "fortroendevald": 3,
+      "offentliganstalld": 3
     }
   },
   {
@@ -8841,13 +10807,15 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_handel": 3,
-      "b_finans": 3,
-      "infrastruktur": 1,
-      "sparare": 1,
-      "lantagare": 2,
-      "skuldsatt": 1,
-      "batagare": 1
+      "skuldsatt": 8,
+      "lantagare": 8,
+      "ung_vuxen": 6,
+      "bidrag": 4,
+      "arbetssokande": 4,
+      "konsument": 5,
+      "b_finans": 5,
+      "solo": 3,
+      "regelborda": 3
     }
   },
   {
@@ -8862,7 +10830,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "immaterialratt": 1
+      "b_kultur": 6,
+      "b_media": 5,
+      "immaterialratt": 4,
+      "eu_marknad": 4,
+      "konsument": 3
     }
   },
   {
@@ -8877,12 +10849,14 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_bygg": 2,
-      "b_grona": 1,
-      "tillstand": 1,
-      "miljo": 1,
-      "fiske": 1,
-      "klimat": 1
+      "b_grona": 7,
+      "miljo": 5,
+      "tillstand": 5,
+      "regelborda": 5,
+      "fiske": 4,
+      "mark_bygglov": 3,
+      "f_landsbygd": 4,
+      "gron_omstallning": 3
     }
   },
   {
@@ -8897,11 +10871,15 @@
       "riksdagen"
     ],
     "relevans": {
-      "aktiebolag": 1,
-      "konkurs": 3,
-      "regelborda": 1,
-      "sparare": 1,
-      "skuldsatt": 1
+      "konkurs": 8,
+      "aktiebolag": 6,
+      "smaforetag": 5,
+      "solo": 4,
+      "b_finans": 5,
+      "redovisning": 4,
+      "arbetsratt": 3,
+      "finansiering": 3,
+      "skuldsatt": 3
     }
   },
   {
@@ -8916,9 +10894,15 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_finans": 3,
-      "beroende": 3,
-      "otrygg": 1
+      "b_finans": 7,
+      "aktiebolag": 4,
+      "smaforetag": 4,
+      "solo": 3,
+      "gdpr": 4,
+      "integritet": 4,
+      "b_handel": 3,
+      "export": 3,
+      "import": 3
     }
   },
   {
@@ -8933,10 +10917,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_fastighet": 3,
-      "pensionar": 1,
-      "sparare": 1,
-      "konsument": 1
+      "pensionssparare": 6,
+      "pensionar": 4,
+      "b_finans": 5,
+      "sparare": 4,
+      "lontagare": 3,
+      "aktiebolag": 3
     }
   },
   {
@@ -8951,11 +10937,13 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_bygg": 3,
-      "b_utbildning": 1,
-      "student": 2,
-      "vuxenstudier": 1,
-      "funktion": 1
+      "b_bygg": 6,
+      "mark_bygglov": 5,
+      "f_kommun": 4,
+      "student": 6,
+      "funktion": 6,
+      "bostadslos": 4,
+      "hyresgast": 3
     }
   },
   {
@@ -8970,11 +10958,20 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_energi": 1,
-      "miljo": 1,
-      "bil": 3,
-      "energikund": 2,
-      "klimat": 2
+      "b_it": 7,
+      "b_transport": 6,
+      "b_energi": 6,
+      "b_industri": 5,
+      "energiintensiv": 7,
+      "gron_omstallning": 6,
+      "hallbarhetsrapport": 5,
+      "eu_marknad": 5,
+      "miljo": 5,
+      "digitalisering": 5,
+      "bil": 4,
+      "energikund": 4,
+      "klimat": 5,
+      "punktskatt": 4
     }
   },
   {
@@ -8989,9 +10986,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "import": 1,
-      "beroende": 1,
-      "otrygg": 2
+      "b_transport": 4,
+      "b_handel": 4,
+      "otrygg": 5,
+      "brottsoffer": 4,
+      "export": 3,
+      "import": 3
     }
   },
   {
@@ -9006,8 +11006,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "arbetsgivare": 1,
-      "lontagare": 3
+      "utlandssvensk": 8,
+      "arbetstillstand": 4,
+      "lontagare": 3,
+      "foretagare": 3
     }
   },
   {
@@ -9020,7 +11022,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03125.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "fortroendevald": 3
+    }
   },
   {
     "id": "HC03123",
@@ -9034,11 +11039,13 @@
       "riksdagen"
     ],
     "relevans": {
-      "barn": 1,
-      "sambo_gift": 1,
-      "kvinna": 1,
-      "brottsoffer": 3,
-      "otrygg": 1
+      "kvinna": 7,
+      "barn": 6,
+      "brottsoffer": 8,
+      "ensam_foralder": 6,
+      "skild": 5,
+      "otrygg": 4,
+      "anhorigvardare": 3
     }
   },
   {
@@ -9053,12 +11060,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "arbetsratt": 1,
-      "miljo": 3,
-      "infrastruktur": 1,
-      "glesbygd": 1,
-      "konsument": 1,
-      "klimat": 3
+      "b_transport": 8,
+      "b_industri": 5,
+      "gron_omstallning": 5,
+      "eu_marknad": 5,
+      "miljo": 4,
+      "klimat": 4
     }
   },
   {
@@ -9071,7 +11078,12 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03112.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "fortroendevald": 3,
+      "varnpliktig": 5,
+      "offentliganstalld": 3
+    }
   },
   {
     "id": "HC03109",
@@ -9085,8 +11097,14 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_energi": 2,
-      "klimat": 1
+      "bostadsagare": 7,
+      "bygger": 5,
+      "energikund": 5,
+      "sparare": 4,
+      "gron_omstallning": 5,
+      "klimat": 5,
+      "b_bygg": 4,
+      "b_energi": 5
     }
   },
   {
@@ -9099,7 +11117,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03103.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "fortroendevald": 3
+    }
   },
   {
     "id": "HC0390",
@@ -9111,7 +11132,10 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC0390.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "fortroendevald": 3
+    }
   },
   {
     "id": "HC0375",
@@ -9123,7 +11147,11 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC0375.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "fortroendevald": 3,
+      "offentliganstalld": 3
+    }
   },
   {
     "id": "HC03144",
@@ -9137,10 +11165,18 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_life": 3,
-      "kronisk": 3,
-      "beroende": 1,
-      "konsument": 1
+      "kronisk": 9,
+      "pensionar": 7,
+      "funktion": 7,
+      "psykisk": 6,
+      "sjukskriven": 6,
+      "anhorigvardare": 5,
+      "barn": 5,
+      "ensam_foralder": 5,
+      "konsument": 5,
+      "b_vard": 5,
+      "b_life": 5,
+      "b_finans": 3
     }
   },
   {
@@ -9155,10 +11191,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "konkurs": 1,
-      "student": 1,
-      "lantagare": 1,
-      "skuldsatt": 2
+      "skuldsatt": 6,
+      "student": 5,
+      "konkurs": 5,
+      "arbetssokande": 3
     }
   },
   {
@@ -9173,9 +11209,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_transport": 1,
-      "flygresenar": 1,
-      "klimat": 1
+      "b_transport": 7,
+      "flygresenar": 5,
+      "gron_omstallning": 5,
+      "eu_marknad": 6,
+      "miljo": 4,
+      "klimat": 4
     }
   },
   {
@@ -9190,9 +11229,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "student": 3,
-      "ny_i_sverige": 1,
-      "asyl": 1
+      "student": 6,
+      "ny_i_sverige": 5,
+      "arbetstillstand": 4,
+      "b_utbildning": 5
     }
   },
   {
@@ -9207,9 +11247,14 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_transport": 1,
-      "b_energi": 1,
-      "energikund": 1
+      "upphandling": 8,
+      "eu_marknad": 6,
+      "f_kommun": 5,
+      "smaforetag": 5,
+      "storforetag": 4,
+      "aktiebolag": 4,
+      "regelborda": 4,
+      "konkurrens": 5
     }
   },
   {
@@ -9224,7 +11269,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "kollektiv": 1
+      "b_transport": 6,
+      "finansiering": 6,
+      "lantagare": 4,
+      "batagare": 3
     }
   },
   {
@@ -9239,10 +11287,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "arbetsgivare": 1,
-      "arbetsmiljo": 1,
-      "lokaler": 1,
-      "bredbandsberoende": 3
+      "offentliganstalld": 7,
+      "lontagare": 5,
+      "arbetsmiljo": 6,
+      "pendlare": 4,
+      "arbetsratt": 4
     }
   },
   {
@@ -9257,9 +11306,13 @@
       "riksdagen"
     ],
     "relevans": {
-      "tillstand": 1,
-      "import": 1,
-      "otrygg": 1
+      "export": 5,
+      "import": 5,
+      "storforetag": 5,
+      "eu_marknad": 6,
+      "b_finans": 4,
+      "fortroendevald": 3,
+      "offentliganstalld": 3
     }
   },
   {
@@ -9272,7 +11325,12 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC03115.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "eu_marknad": 5,
+      "export": 3,
+      "fortroendevald": 4
+    }
   },
   {
     "id": "HC03113",
@@ -9286,7 +11344,9 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_transport": 2
+      "varnpliktig": 6,
+      "offentliganstalld": 4,
+      "fortroendevald": 3
     }
   },
   {
@@ -9301,11 +11361,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "ung": 1,
-      "pensionar": 1,
-      "sjukskriven": 1,
-      "otrygg": 1,
-      "domd": 3
+      "domd": 8,
+      "bidrag": 6,
+      "sjukskriven": 5,
+      "pensionar": 4
     }
   },
   {
@@ -9333,10 +11392,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "aktiebolag": 1,
-      "b_finans": 2,
-      "tillstand": 1,
-      "sparare": 1
+      "b_finans": 8,
+      "sparare": 5,
+      "aktiebolag": 6,
+      "eu_marknad": 5,
+      "redovisning": 4,
+      "smaforetag": 4
     }
   },
   {
@@ -9351,7 +11412,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "immaterialratt": 2
+      "immaterialratt": 7,
+      "b_handel": 4,
+      "b_industri": 4,
+      "eu_marknad": 5,
+      "export": 3,
+      "import": 3
     }
   },
   {
@@ -9366,8 +11432,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "skuldsatt": 1,
-      "domd": 1
+      "domd": 7,
+      "offentliganstalld": 4,
+      "ny_i_sverige": 4,
+      "skuldsatt": 3
     }
   },
   {
@@ -9382,8 +11450,10 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_finans": 1,
-      "regelborda": 3
+      "b_besok": 3,
+      "beroende": 5,
+      "otrygg": 3,
+      "fortroendevald": 3
     }
   },
   {
@@ -9398,7 +11468,9 @@
       "riksdagen"
     ],
     "relevans": {
-      "barn": 1
+      "fou": 4,
+      "b_it": 3,
+      "offentliganstalld": 3
     }
   },
   {
@@ -9414,11 +11486,12 @@
       "ksau"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "mark_bygglov": 1,
-      "bygger": 1,
-      "glesbygd": 1,
-      "klimat": 1
+      "b_transport": 6,
+      "b_industri": 5,
+      "f_kommun": 6,
+      "mark_bygglov": 5,
+      "lokaler": 4,
+      "bil": 3
     }
   },
   {
@@ -9433,15 +11506,17 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "b_grona": 2,
-      "tillstand": 1,
-      "miljo": 1,
-      "mark_bygglov": 1,
-      "bygger": 3,
-      "glesbygd": 1,
-      "fiske": 1,
-      "klimat": 1
+      "b_grona": 7,
+      "bostadsagare": 6,
+      "bygger": 6,
+      "glesbygd": 6,
+      "friluftsliv": 5,
+      "miljo": 5,
+      "klimat": 4,
+      "b_fastighet": 5,
+      "mark_bygglov": 6,
+      "f_landsbygd": 6,
+      "gron_omstallning": 3
     }
   },
   {
@@ -9456,9 +11531,14 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "mindre_ort": 1,
-      "klimat": 2
+      "f_storstad": 5,
+      "storstad": 4,
+      "otrygg": 5,
+      "bostadsagare": 3,
+      "hyresgast": 3,
+      "klimat": 4,
+      "b_fastighet": 4,
+      "f_kommun": 5
     }
   },
   {
@@ -9471,7 +11551,14 @@
     "kalla_url": "https://data.riksdagen.se/dokument/HC0397.html",
     "taggar": [
       "riksdagen"
-    ]
+    ],
+    "relevans": {
+      "bostadsagare": 9,
+      "lantagare": 8,
+      "b_finans": 6,
+      "sparare": 4,
+      "konsument": 6
+    }
   },
   {
     "id": "HC0382",
@@ -9485,11 +11572,9 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_finans": 1,
-      "b_konsult": 3,
-      "finansiering": 3,
-      "kronisk": 3,
-      "klimat": 1
+      "sparare": 3,
+      "pensionssparare": 3,
+      "fortroendevald": 3
     }
   },
   {
@@ -9504,7 +11589,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "kronisk": 1
+      "b_vard": 7,
+      "b_life": 8,
+      "kronisk": 5,
+      "funktion": 4,
+      "eu_marknad": 5,
+      "produktsakerhet": 7
     }
   },
   {
@@ -9519,14 +11609,13 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_energi": 1,
-      "punktskatt": 3,
-      "konkurs": 3,
-      "tillstand": 1,
-      "miljo": 1,
-      "beroende": 1,
-      "lantagare": 1,
-      "energikund": 1
+      "konkurs": 9,
+      "b_energi": 6,
+      "punktskatt": 7,
+      "b_industri": 4,
+      "b_handel": 4,
+      "aktiebolag": 5,
+      "smaforetag": 4
     }
   },
   {
@@ -9541,9 +11630,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "arbetskraft_inv": 1,
-      "asyl": 1,
-      "arbetstillstand": 1
+      "asyl": 10,
+      "arbetstillstand": 9,
+      "ny_i_sverige": 7,
+      "arbetskraft_inv": 7,
+      "eu_marknad": 3
     }
   },
   {
@@ -9558,9 +11649,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_fastighet": 1,
-      "gdpr": 3,
-      "integritet": 2
+      "gdpr": 7,
+      "integritet": 6,
+      "konsumentratt": 3,
+      "regelborda": 4,
+      "digitalisering": 3
     }
   },
   {
@@ -9575,10 +11668,11 @@
       "riksdagen"
     ],
     "relevans": {
-      "arbetsgivare": 1,
-      "arbetsmiljo": 1,
-      "kronisk": 3,
-      "fortroendevald": 3
+      "fortroendevald": 10,
+      "offentliganstalld": 6,
+      "otrygg": 4,
+      "f_kommun": 5,
+      "arbetsmiljo": 4
     }
   },
   {
@@ -9593,10 +11687,12 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_grona": 1,
-      "fiske": 1,
-      "friluftsliv": 1,
-      "klimat": 2
+      "b_grona": 9,
+      "miljo": 6,
+      "klimat": 5,
+      "fiske": 5,
+      "gron_omstallning": 4,
+      "hallbarhetsrapport": 3
     }
   },
   {
@@ -9611,10 +11707,16 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_industri": 3,
-      "b_besok": 3,
-      "tillstand": 1,
-      "beroende": 3
+      "b_besok": 9,
+      "b_grona": 7,
+      "tillstand": 8,
+      "moms": 5,
+      "f_landsbygd": 6,
+      "solo": 5,
+      "smaforetag": 6,
+      "familjeforetag": 5,
+      "regelborda": 4,
+      "glesbygd": 4
     }
   },
   {
@@ -9629,11 +11731,15 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_industri": 3,
-      "b_energi": 1,
-      "gron_omstallning": 3,
-      "energikund": 1,
-      "klimat": 3
+      "b_industri": 8,
+      "b_energi": 6,
+      "gron_omstallning": 7,
+      "miljo": 5,
+      "fou": 4,
+      "energiintensiv": 7,
+      "storforetag": 5,
+      "hallbarhetsrapport": 4,
+      "klimat": 4
     }
   },
   {
@@ -9648,7 +11754,14 @@
       "riksdagen"
     ],
     "relevans": {
-      "psykisk": 3
+      "psykisk": 9,
+      "kronisk": 5,
+      "b_vard": 7,
+      "offentliganstalld": 4,
+      "barn": 4,
+      "ung": 5,
+      "ung_vuxen": 5,
+      "anhorigvardare": 4
     }
   },
   {
@@ -9663,10 +11776,13 @@
       "riksdagen"
     ],
     "relevans": {
-      "barn": 1,
-      "ensam_foralder": 3,
-      "stor_familj": 1,
-      "hyresgast": 3
+      "barn": 8,
+      "ensam_foralder": 9,
+      "stor_familj": 7,
+      "bidrag": 8,
+      "hyresgast": 6,
+      "skuldsatt": 4,
+      "ny_i_sverige": 3
     }
   },
   {
@@ -9681,9 +11797,13 @@
       "riksdagen"
     ],
     "relevans": {
-      "b_finans": 1,
-      "pensionar": 1,
-      "sjukskriven": 1
+      "ny_i_sverige": 7,
+      "arbetstillstand": 8,
+      "lontagare": 5,
+      "pensionar": 6,
+      "pensionssparare": 4,
+      "utlandssvensk": 6,
+      "arbetskraft_inv": 5
     }
   },
   {
@@ -9699,7 +11819,9 @@
       "grundlaggande-granskning-av-kommunstyrel"
     ],
     "relevans": {
-      "foretagare": 1
+      "fortroendevald": 7,
+      "offentliganstalld": 5,
+      "f_kommun": 6
     }
   },
   {
@@ -9715,9 +11837,15 @@
       "samhallsbyggnadsutskottet"
     ],
     "relevans": {
-      "b_bygg": 1,
-      "barn": 1,
-      "konsument": 2
+      "b_fastighet": 8,
+      "mark_bygglov": 9,
+      "f_kommun": 7,
+      "bygger": 7,
+      "bostadsagare": 6,
+      "lokaler": 5,
+      "smaforetag": 4,
+      "b_bygg": 6,
+      "hyresgast": 3
     }
   }
 ]

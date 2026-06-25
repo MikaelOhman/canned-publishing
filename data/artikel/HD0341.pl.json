@@ -12,9 +12,14 @@
   "tldr": "Rząd chce zaostrzyć przepisy dotyczące wprowadzania do Szwecji gatunków, które szkodzą środowisku. Osoby, które celowo lub przez niedbalstwo wprowadzą takie gatunki, mogą zostać ukarane grzywną lub więzieniem.",
   "lattlast": "<p>Rząd przedstawił propozycję nowych przepisów mających na celu ochronę przyrody przed inwazyjnymi gatunkami obcymi. Są to gatunki, które nie są naturalne dla naszego ekosystemu i mogą wyrządzać szkody w środowisku. Propozycja zakłada, że Szwecja będzie posiadała własną listę gatunków, których import do kraju jest zabroniony.</p><p>Osoba, która celowo lub z powodu rażącego niedbalstwa wprowadzi taki gatunek z innego kraju UE, może zostać ukarana. Kara może obejmować grzywnę lub karę pozbawienia wolności do dwóch lat. Dodatkowo, będzie obowiązek zgłaszania do służb celnych przy wwozie takiego gatunku z innego kraju UE.</p><p>Służby celne, czyli instytucja odpowiedzialna za kontrolę towarów na granicach, otrzymają więcej uprawnień. Będą mogły kontrolować, czy wszyscy przestrzegają przepisów, a w niektórych przypadkach mogą przejmować zwierzęta lub rośliny, których import jest zabroniony. Ma to na celu zapobieganie przedostawaniu się niebezpiecznych gatunków do Szwecji.</p><p>Nowe przepisy mają zacząć obowiązywać 1 maja 2026 roku. Propozycja ta wprowadza zmiany w dwóch różnych ustawach: ustawie o ochronie środowiska i ustawie o granicach wewnętrznych.</p>",
   "relevans": {
-    "miljo": 1,
-    "import": 1,
-    "kronisk": 1,
-    "klimat": 1
+    "klimat": 5,
+    "friluftsliv": 4,
+    "husdjur": 3,
+    "import": 4,
+    "miljo": 6,
+    "b_grona": 4,
+    "b_transport": 3,
+    "b_handel": 3,
+    "eu_marknad": 4
   }
 }

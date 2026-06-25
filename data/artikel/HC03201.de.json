@@ -12,8 +12,13 @@
   "tldr": "Die Regeln bezüglich des Berufsverbots werden erweitert, um Personen zu erfassen, die sich an organisierter oder systematischer Kriminalität beteiligen – auch wenn sie zum Zeitpunkt der Tat kein Unternehmen betrieben. Die Dauer des Berufsverbots wird von maximal 10 auf maximal 15 Jahre verlängert, und das Mahn- und Inkassobüro (Kronofogden) erhält bessere Instrumente zur Überwachung.",
   "lattlast": "<p>Ein Berufsverbot bedeutet, dass eine Person daran gehindert wird, eine gewerbliche Tätigkeit auszuüben. Derzeit ist in der Regel eine Verbindung zu einem Unternehmen bei der Begehung der Straftat erforderlich.</p><p>Die Regierung schlägt vor, die Regeln zu erweitern, sodass ein Berufsverbot auch gegen Personen verhängt werden kann, die sich an organisierter oder systematischer Kriminalität beteiligt haben, auch wenn diese keine Verbindung zu einer gewerblichen Tätigkeit bei der Begehung der Straftat hatten – sofern dies aus allgemeiner Sicht gerechtfertigt ist.</p><p>Die maximale Dauer eines Berufsverbots wird von 10 auf 15 Jahre verlängert. Außerdem erhält die Vollstreckungsbehörde Kronofogdemyndigheten bessere Möglichkeiten, die Einhaltung der verhängten Berufsverbote zu kontrollieren.</p>",
   "relevans": {
-    "regelborda": 1,
-    "skuldsatt": 1,
-    "otrygg": 1
+    "aktiebolag": 6,
+    "solo": 5,
+    "smaforetag": 5,
+    "storforetag": 4,
+    "foretagare": 6,
+    "konkurs": 4,
+    "otrygg": 4,
+    "brottsoffer": 3
   }
 }

@@ -12,9 +12,14 @@
   "tldr": "Die Regierung möchte es schwieriger machen, schädliche Arten nach Schweden einzuführen. Wer absichtlich oder durch grobe Fahrlässigkeit solche Arten einschleppt, kann mit Geldstrafen oder einer Freiheitsstrafe belegt werden.",
   "lattlast": "<p>Die Regierung hat einen Vorschlag für neue Gesetze vorgelegt, um die Natur vor invasiven, fremden Arten zu schützen. Dies sind Arten, die nicht heimisch sind und unsere Umwelt schädigen können. Der Vorschlag sieht vor, dass Schweden eine eigene Liste von Arten haben soll, deren Einfuhr in das Land verboten ist.</p><p>Wer vorsätzlich oder durch grobe Fahrlässigkeit eine solche Art aus einem anderen EU-Land einschleppt, kann bestraft werden. Die Strafe kann eine Geldstrafe oder eine Freiheitsstrafe von bis zu zwei Jahren sein. Es wird außerdem eine Meldepflicht beim Zoll eingeführt, wenn eine solche Art aus einem anderen EU-Land eingeführt wird.</p><p>Der Zoll, die Behörde, die Waren an der Grenze kontrolliert, soll mehr Befugnisse erhalten. Er soll sicherstellen können, dass alle die Regeln einhalten, und er kann in bestimmten Fällen Tiere oder Pflanzen, deren Einfuhr verboten ist, beschlagnahmen. Dies soll sicherstellen, dass gefährliche Arten nicht nach Schweden gelangen.</p><p>Die neuen Regeln sollen ab dem 1. Mai 2026 in Kraft treten. Der Vorschlag beinhaltet Änderungen in zwei verschiedenen Gesetzen, nämlich dem Umweltgesetz und dem Gesetz über die Landesgrenze.</p>",
   "relevans": {
-    "miljo": 1,
-    "import": 1,
-    "kronisk": 1,
-    "klimat": 1
+    "klimat": 5,
+    "friluftsliv": 4,
+    "husdjur": 3,
+    "import": 4,
+    "miljo": 6,
+    "b_grona": 4,
+    "b_transport": 3,
+    "b_handel": 3,
+    "eu_marknad": 4
   }
 }

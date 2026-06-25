@@ -13,8 +13,10 @@
   "tldr": "EU rättar ett fel i reglerna för extra tull på glasfiber från Bahrain, Egypten och Thailand. Syftet är att beskrivningen av produkterna och deras koder ska bli rätt och stämma överens med tidigare beslut.",
   "lattlast": "<p>Europeiska kommissionen har upptäckt fel i de tidigare reglerna för extra tull på vissa typer av glasfiber. En extra tull, som kallas antidumpningstull, används för att skydda EU:s marknad när varor säljs för låga priser från länder utanför EU.</p><p>Felet handlar om att beskrivningen av produkterna inte var helt rätt skriven. Det fanns också fel på de så kallade Taric-numren. Det är speciella koder som tullmyndigheterna använder för att veta exakt vilken vara som ska få vilken tull.</p><p>Nu har kommissionen ändrat texten så att produkterna stämmer överens med den undersökning som gjordes. De har också rättat numren så att de matchar de regler som redan finns för import från Egypten. Detta görs för att tullen ska kunna arbeta på ett korrekt sätt.</p><p>De nya rättelserna börjar gälla från den 15 april 2026. Reglerna gäller för import av bland annat glasfiber i små bitar och mattor av glasfiber från företagen Jushi Egypt för Fiberglass Industry S.A.E. och Asia Composite Materials (Thailand) Co., Ltd.</p>",
   "relevans": {
-    "import": 2,
-    "konsument": 1,
-    "bredbandsberoende": 1
+    "b_industri": 5,
+    "import": 6,
+    "export": 3,
+    "eu_marknad": 5,
+    "produktsakerhet": 3
   }
 }

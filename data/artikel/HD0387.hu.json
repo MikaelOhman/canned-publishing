@@ -12,9 +12,14 @@
   "tldr": "A kormány szeretné megváltoztatni a Svédországban való munkavégzés szabályait. A cél az, hogy nehezebbé tegyék a helytelen munkaerő alkalmazását, ugyanakkor könnyebbé tegyék a szakértők számára, hogy ide érkezzenek.",
   "lattlast": "<p>A kormány egy javaslatot terjesztett elő, amely 2026. június 1-jén lép hatályba. A munkavállalási engedélyhez a jövőben kötelező lesz a betegségbiztosítás és egy bizonyos fizetés. Ugyanakkor vannak olyan munkakörök, amelyek nem tartoznak a fizetési követelmények hatálya alá.</p><p>A vállalatok számára is nehezebb lesz olyan személyeket alkalmazni, akik az EU-n kívüli országokból érkeznek, ha a vállalat szabálysértést követett el, vagy bűncselekmény gyanúja merül fel. Emellett a vállalatokat szigorúbb büntetések várhatók, ha olyan személyeket alkalmaznak, akiknek nincs joga tartózkodni Svédországban. Két új bűncselekményt vezetnek be, amelyek a külföldi munkavállalók kizsákmányolását és a munkavállalási engedélyek értékesítését érintik.</p><p>Ugyanakkor a kormány szeretné megkönnyíteni a magas végzettségű személyek számára, hogy Svédországba költözzenek. Azok számára, akik rendelkeznek úgynevezett EU-s szakértői kártyával, amely egy szakértők számára szóló engedély, vagy akik szezonális munkavégzés céljából érkeznek, a tartózkodási idő meghosszabbítására törekszenek. A szakértőknek lehetővé kell tenni, hogy még Svédországban tartózkodva is igényelhessék az engedélyüket.</p><p>A javaslat a bevándorlási törvény módosításáról szól, amely a törvény, amely meghatározza, hogy ki élhet és dolgozhat az országban. Most a parlamentnek kell döntenie arról, hogy az új szabályok törvénybe kerüljenek-e.</p>",
   "relevans": {
-    "arbetskraft_inv": 3,
-    "tillstand": 1,
-    "lontagare": 1,
-    "arbetstillstand": 1
+    "arbetskraft_inv": 9,
+    "arbetsratt": 7,
+    "arbetsgivare": 7,
+    "kompetens": 6,
+    "smaforetag": 5,
+    "storforetag": 5,
+    "ny_i_sverige": 7,
+    "arbetstillstand": 9,
+    "lontagare": 4
   }
 }

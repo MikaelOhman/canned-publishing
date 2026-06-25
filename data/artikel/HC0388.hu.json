@@ -12,8 +12,10 @@
   "tldr": "A kormány szeretné megkönnyíteni a válaszadást abban az esetben, ha a személyes adatokkal kapcsolatos panaszok kezelése túl hosszú időt vesz igénybe az Integritetsskyddsmyndigheten (IMY) részéről. Ha három hónap eltelt, akkor lehetőség kell, hogy tájékoztatást kérjen az illető arról, hogy a panaszával mit tesznek.",
   "lattlast": "<p>Jelenleg nagyon hosszú időbe telhet, amíg válaszut lehet kapni a személyes adatok védelmétől érintett ügyekben a felügyeleti hatóságtól, amely felelős azért, hogy a személyes adatokkal kapcsolatos szabályok betartásra kerüljenek. A kormány ezért szeretné módosítani a törvényt, hogy a felügyeleti hatóság nagyobb jogkörrel rendelkezzen a kérdésekre való válaszadás terén.</p><p>Ha három hónap eltelt azóta, hogy beadtad a panaszt, jognak kell lennie annak, hogy kérd a hatóságot egy tájékoztatásra. A hatóságnak ezt követően két héten belül válaszolnia kell, és közölnie kell, hogy eljárást indít-e a panaszra vonatkozóan, vagy sem. Ha a hatóság nem válaszol ezen időn belül, azt úgy kell tekinteni, mintha elutasította a kérésedet.</p><p>Ha a hatóság elutasítja a panaszodra vonatkozó vizsgálatot, jognak kell lennie annak, hogy fellebbezni tudsz a döntést egy &quot;förvaltningsrätten&quot; nevű bíróságnál. Ha a bíróság úgy ítéli meg, hogy a hatóságnak válaszolnia kellett a kérdésedre, akkor a bíróság kötelezheti a hatóságot, hogy a lehető leghamarabb adjon neked választ.</p><p>Az új szabályok várhatóan 2025. május 1-jén lépnek életbe. A cél az, hogy biztosítsák a hatóság hatékonyabb működését, és hogy az ügyek ne maradjanak túl hosszú ideig kezelés nélkül, információ nélkül.</p>",
   "relevans": {
-    "b_fastighet": 1,
-    "gdpr": 3,
-    "integritet": 2
+    "gdpr": 7,
+    "integritet": 6,
+    "konsumentratt": 3,
+    "regelborda": 4,
+    "digitalisering": 3
   }
 }

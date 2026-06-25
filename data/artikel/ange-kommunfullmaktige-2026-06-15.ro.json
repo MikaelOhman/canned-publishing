@@ -15,20 +15,13 @@
   "tldr": "Consiliul municipal din Ånge a luat mai multe decizii importante cu privire la economia orașului și planurile sale de viitor. Printre acestea, s-a decis alocarea de fonduri pentru o nouă loc de joacă, pentru drumuri și pentru impozitul din 2027.",
   "lattlast": "<p>În cadrul ședinței consiliului local din 15 iunie 2026, au fost luate mai multe decizii privind investiții financiare. Primăria va utiliza fonduri pentru construirea unui nou loc de joacă în Fränsta, iar, de asemenea, vor fi alocate fonduri suplimentare pentru îmbunătățirea drumurilor în cursul anului 2026.</p><p>În ceea ce privește situația financiară viitoare, politicienii au discutat despre impozitele pentru anul 2027. De asemenea, au prezentat un buget pentru anul 2027 și un plan economic pe termen lung, care se întinde până în anul 2030. Acest lucru este important pentru a cunoaște resursele financiare de care primăria va dispune în viitor.</p><p>Mai multe companii și organizații cu care primăria are legături au finalizat rapoartele anuale. Acest lucru înseamnă că politicienii au analizat situația financiară a unor entități precum Ånge Energi AB, Ånge Fastighets- &amp; Industri AB și organizația de transport Kollektivtrafikmyndigheten din regiunea Västerbottens län.</p><p>Au fost luate, de asemenea, decizii privind terenurile și contractele. Primăria va vinde un teren companiei Ellevio, iar a fost semnat un contract pentru extinderea centrului de reciclare din Hallsta. În plus, au fost stabilite tarifele care vor fi aplicate pentru procedurile legate de autorizații de construcție și probleme de mediu.</p>",
   "relevans": {
-    "b_industri": 1,
-    "b_bygg": 1,
-    "b_fastighet": 1,
-    "b_energi": 1,
-    "redovisning": 1,
-    "miljo": 1,
-    "mark_bygglov": 1,
-    "bygger": 1,
-    "glesbygd": 1,
-    "pendlare": 1,
-    "kollektiv": 1,
-    "energikund": 1,
-    "konsument": 1,
-    "klimat": 1,
-    "fortroendevald": 1
+    "f_kommun": 5,
+    "b_energi": 4,
+    "energikund": 4,
+    "lontagare": 3,
+    "glesbygd": 4,
+    "mark_bygglov": 3,
+    "fortroendevald": 3,
+    "b_bygg": 3
   }
 }

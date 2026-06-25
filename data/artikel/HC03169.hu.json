@@ -12,14 +12,13 @@
   "tldr": "A kormány szeretné megváltoztatni az építési engedélyekkel kapcsolatos szabályokat, hogy az építés és a meglévő épületek átalakítása egyszerűbb és gyorsabb legyen. A cél az, hogy könnyebbé tegyék az új lakások építését, és hogy a tulajdonosok nagyobb befolyással rendelkezzenek saját telkeik felett.",
   "lattlast": "<p>A kormány egy javaslatot terjesztett elő a tervezési és építési törvény módosítására. Ha a javaslatot december 1-jén, 2025-ben elfogadják, bizonyos dolgok egyszerűbbé válnak a tulajdonosok számára a saját ingatlanukon, anélkül, hogy előzetesen építési engedélyt kellene kérniük. Ez többek között vonatkozik a nagyobb méretű építményekhez való toldalékokra, valamint a családi házak homlokzatának megváltoztatására.</p><p>Azok számára, akik olyan területeken élnek, ahol nincs részletes építési terv (ami egy térkép, amely meghatározza, hogy mit szabad építeni), a javaslat szerint több építési lehetőséget kínálnak engedély nélkül. Ez kisebb építményeket is jelenthet a telken, például egy tárolóhelyiséget vagy egy vendégházat. Ugyanakkor vannak kivételek olyan területek esetében, amelyek fontosak az ország védelméhez, vagy amelyek különösen értékesek a környezet szempontjából.</p><p>Emellett egyszerűbb lesz a ház külső megjelenésének megváltoztatása anélkül, hogy a helyi önkormányzattól kérnék jóváhagyást. Lehetővé válik a homlokzat anyaga cseréje, a festés, valamint a napelemek és tetőablakok felszerelése építési engedély nélkül. A padlásterek használatára vonatkozó szabályok is rugalmasabbak lesznek, valamint a régi épületekben található kisebb üzlethelyiségek indítása is egyszerűbbé válik.</p><p>A javaslat további módosításokat tartalmaz más törvényekben is, például a környezetvédelmi törvényben és a reklámok elhelyezésére vonatkozó szabályokban. A céljuk, hogy csökkentsék a bürokráciát, és megkönnyítsék a magánszemélyek számára az ingatlanfejlesztést.</p>",
   "relevans": {
-    "b_bygg": 3,
-    "b_vard": 1,
-    "b_fastighet": 1,
-    "miljo": 1,
-    "lokaler": 1,
-    "mark_bygglov": 3,
-    "bygger": 3,
-    "klimat": 1,
-    "varnpliktig": 1
+    "bostadsagare": 8,
+    "bygger": 8,
+    "b_bygg": 6,
+    "b_fastighet": 5,
+    "mark_bygglov": 7,
+    "glesbygd": 5,
+    "regelborda": 5,
+    "smaforetag": 4
   }
 }

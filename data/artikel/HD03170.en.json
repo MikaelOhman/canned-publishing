@@ -12,10 +12,15 @@
   "tldr": "The government wants to change how housing benefits are calculated to reduce the risk of people receiving incorrect amounts and having to repay them later. The proposal involves looking at income on a monthly basis instead of annually.",
   "lattlast": "<p>The government has proposed a change to housing benefits to make them more equitable. The goal is to ensure that fewer people receive excessive payments, which often leads to debt when the authorities demand repayment.</p><p>The new system will calculate benefits based on monthly earnings. It will consider income from employment during the first three months of a four-month period. This information will be obtained from data provided by employers to the government.</p><p>For individuals with income from self-employment or those who find it difficult to determine their monthly income, the previous system, which calculates based on the entire year, will still be used. Income from bank accounts or other assets will continue to be calculated based on the previous year, as this information cannot be updated monthly.</p><p>If your income changes during the year, your housing benefit will be recalculated immediately. If the proposal is approved, the new rules will come into effect on January 1, 2027.</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "b_finans": 1,
-    "ensam_foralder": 3,
-    "hyresgast": 3,
-    "lantagare": 1
+    "bidrag": 8,
+    "hyresgast": 7,
+    "bostadslos": 6,
+    "student": 5,
+    "ung_vuxen": 5,
+    "ensam_foralder": 6,
+    "barn": 5,
+    "skuldsatt": 5,
+    "lontagare": 4,
+    "foretagare": 3
   }
 }

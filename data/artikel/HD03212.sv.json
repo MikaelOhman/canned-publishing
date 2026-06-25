@@ -12,7 +12,14 @@
   "tldr": "Regeringen vill kunna ålägga kommuner att hjälpa hushåll som saknar bostad genom så kallade hyresgarantier – att kommunen går i borgen för att hyran betalas. Det ska göra det lättare för utsatta att få ett förstahandskontrakt. Sekretess införs för uppgifterna i sådana ärenden.",
   "lattlast": "<p>Många hushåll har svårt att få ett eget hyreskontrakt, till exempel för att hyresvärden tvekar inför deras ekonomi. En hyresgaranti innebär att kommunen går i borgen för att hyran betalas.</p><p>Regeringen föreslår att den ska kunna besluta om en skyldighet för kommuner att erbjuda sådana hyresgarantier till enskilda hushåll.</p><p>Syftet är att fler ska kunna få tillträde till en bostad. Samtidigt införs sekretess som skyddar uppgifter om enskildas personliga förhållanden i ärenden om hyresgarantier.</p>",
   "relevans": {
-    "b_fastighet": 1,
-    "hyresgast": 1
+    "hyresgast": 7,
+    "bostadslos": 8,
+    "skuldsatt": 5,
+    "bidrag": 5,
+    "f_kommun": 6,
+    "ensam_foralder": 5,
+    "ny_i_sverige": 5,
+    "b_fastighet": 5,
+    "lontagare": 3
   }
 }

@@ -12,8 +12,18 @@
   "tldr": "A kormány szeretné csökkenteni az élelmiszerekre kivetett adót 12%-ról 6%-ra. Ez a javaslat célja, hogy korlátozott ideig olcsóbb legyen a vásárlás.",
   "lattlast": "<p>A kormány egy javaslatot terjesztett elő az áfa (Általános Körülményadó) szabályainak módosítására. Jelenleg a bizonyos élelmiszerekre alkalmazott adó 12 százalék, de a javaslat szerint ezt 6 százalékra csökkentenék.</p><p>Ha a parlament megszavazza a javaslatot, az alacsonyabb adó 2026. április 1-jén lépne életbe, ami azt jelenti, hogy az élelmiszerek ára olcsóbb lehet azok számára, akik élelmiszert vásárolnak.</p><p>Ez a csökkentés nem állandó, hanem csak egy bizonyos időtartamra vonatkozna. A tervek szerint az új adómérték 2027. december 31-ig érvényes lenne.</p>",
   "relevans": {
-    "b_handel": 1,
-    "moms": 3,
-    "konsument": 1
+    "konsument": 9,
+    "moms": 8,
+    "b_handel": 7,
+    "lontagare": 6,
+    "bidrag": 7,
+    "pensionar": 6,
+    "ensam_foralder": 6,
+    "stor_familj": 7,
+    "b_besok": 5,
+    "b_grona": 4,
+    "foretagare": 5,
+    "solo": 4,
+    "smaforetag": 5
   }
 }

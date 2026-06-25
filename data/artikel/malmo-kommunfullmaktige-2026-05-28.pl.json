@@ -13,16 +13,21 @@
   "tldr": "Miasto Malmö podjęło szereg ważnych decyzji dotyczących różnych spraw, od opłat w przedszkolach, po nowe przepisy dotyczące ulic i projektów budowlanych w mieście. Rozważano również, w jaki sposób miasto powinno planować budowę nowych mieszkań i zapewnić bezpieczeństwo mieszkańcom w przyszłości.",
   "lattlast": "<p>Na spotkaniu podjęto decyzje dotyczące zmian w opłatach za przedszkola, świetlice i inne placówki edukacyjne. Zmiany te wynikają z modyfikacji przepisów państwowych określających maksymalną wysokość opłat, jakie rodzice muszą ponosić. Podjęto również decyzję o zmianie zasad dotyczących opłat za korzystanie z przestrzeni publicznych w mieście.</p><p>W zakresie budownictwa i gruntów miejskich, zatwierdzono duży projekt przy Södra Förstadsgatan. Ponadto, podjęto decyzję o zakupie nieruchomości Forskaren 3 oraz rozważano sposób wyceny gruntów, które miasto udostępnia innym podwładnym. Rozważano również, jak znaleźć nowe lokalizacje dla usług opiekuńczych i pielęgnacyjnych w dzielnicy Fosie.</p><p>Miasto przeanalizowało również ważne plany dotyczące przyszłości. Obejmowały one m.in. program, który określa, w jaki sposób Malmö zapewni dostęp do mieszkań w latach 2026-2030. Przeanalizowano również sposób, w jaki miasto pracuje nad integracją Romów ze społeczeństwem oraz jak skoordynować różne wydarzenia odbywające się w Malmö.</p><p>Na koniec, przeanalizowano raporty finansowe i roczne sprawozdania miasta Malmö oraz służb ratowniczych Syd. Rozważano również szereg propozycji, tzw. wniosków, które dotyczyły różnorodnych tematów, od muzeów i dziedzictwa kulturowego po sposoby na zwiększenie aktywności mieszkańców.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_fastighet": 1,
-    "b_kultur": 1,
-    "redovisning": 1,
-    "lokaler": 1,
-    "barn": 3,
-    "pensionar": 1,
-    "konsument": 1,
-    "idrott": 1,
-    "kultur": 1,
-    "otrygg": 1
+    "f_kommun": 5,
+    "barn": 5,
+    "ensam_foralder": 5,
+    "stor_familj": 4,
+    "ny_i_sverige": 4,
+    "kronisk": 4,
+    "pensionar": 4,
+    "funktion": 4,
+    "hyresgast": 4,
+    "bostadsagare": 4,
+    "storstad": 5,
+    "idrott": 3,
+    "kultur": 3,
+    "offentliganstalld": 4,
+    "b_fastighet": 4,
+    "b_vard": 4
   }
 }

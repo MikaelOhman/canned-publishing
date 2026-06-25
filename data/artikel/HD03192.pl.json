@@ -12,7 +12,11 @@
   "tldr": "Kiedy uczeń zmienia szkołę, stara szkoła powinna przekazać nowej szkole informacje o uczniu, jeśli istnieje konkretne ryzyko, że uczeń popełni przestępstwo lub padnie ofiarą przestępstwa, a te informacje są potrzebne do zapobieżenia temu. Celem jest stworzenie bezpieczniejszego środowiska szkolnego i zapewnienie odpowiedniego wsparcia.",
   "lattlast": "<p>Propozycja zawiera zmiany w ustawie o edukacji, mające na celu zapewnienie bezpiecznego i komfortowego środowiska szkolnego dla uczniów i personelu, a także zapewnienie uczniom odpowiedniego wsparcia.</p><p>Propozycja ta przewiduje, że szkoła, z której uczeń odchodzi, będzie zobowiązana do przekazania informacji do szkoły przyjmującej, gdy uczeń zmienia szkołę lub rodzaj placówki edukacyjnej.</p><p>Dotyczy to sytuacji, gdy istnieją konkretne okoliczności wskazujące na ryzyko, że uczeń może popełnić przestępstwo lub stać się ofiarą przestępstwa, a informacje te są niezbędne, aby nowa szkoła mogła temu zapobiec.</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "barn": 1
+    "barn": 7,
+    "ung": 6,
+    "gymnasieelev": 5,
+    "b_utbildning": 6,
+    "brottsoffer": 5,
+    "otrygg": 4
   }
 }

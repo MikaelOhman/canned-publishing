@@ -12,9 +12,9 @@
   "tldr": "Il governo intende introdurre una nuova legge che semplifichi il lavoro dell'Agenzia di Comunicazioni Militare (Försvarets radioanstalt) nella raccolta di informazioni contenute nei segnali radio in caso di guerra o situazione di pericolo bellico. L'obiettivo è rafforzare la sicurezza della Svezia e poter individuare minacce come il terrorismo e la criminalità organizzata.",
   "lattlast": "<p>Il governo ha presentato una proposta di una nuova legge sull&#x27;intercettazione delle comunicazioni. L&#x27;intercettazione delle comunicazioni significa ascoltare e analizzare informazioni digitali e segnali radio per trovare informazioni importanti. Questa nuova legge dovrebbe aiutare l&#x27;agenzia governativa Försvarets radioanstalt a operare in modo efficace quando la Svezia si trova in guerra o quando esiste il rischio di guerra.</p><p>La proposta include anche modifiche alle leggi esistenti. Dovrebbe essere possibile utilizzare l&#x27;intercettazione delle comunicazioni anche durante le esercitazioni militari. Si desidera anche poter effettuare intercettazioni in modo più efficace per individuare il terrorismo internazionale e altri gravi crimini che potrebbero danneggiare gli interessi della Svezia. Sarà inoltre più facile gestire le informazioni in situazioni di emergenza in cui, in precedenza, non era possibile archiviare determinati tipi di segnali.</p><p>Per consentire ciò, il governo propone anche modifiche alle regole del Tribunale di intelligence militare (Försvarsunderrättelsedomstolen), che è il tribunale che controlla le attività di intercettazione. Si desidera inoltre modificare le regole su come i dati personali possono essere gestiti da Försvarets radioanstalt quando svolge le sue nuove attività.</p><p>Se il Parlamento vota a favore della proposta, le nuove leggi entreranno in vigore il 1° agosto 2026.</p>",
   "relevans": {
-    "gdpr": 1,
-    "otrygg": 1,
-    "integritet": 1,
-    "varnpliktig": 3
+    "integritet": 5,
+    "varnpliktig": 4,
+    "offentliganstalld": 3,
+    "b_it": 3
   }
 }

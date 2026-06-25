@@ -12,7 +12,16 @@
   "tldr": "Suedia va introduce o nouă lege pentru a proteja sistemele digitale esențiale împotriva atacurilor cibernetice. Legea va spori siguranța societății, impunând măsuri de protecție mai bune și raportarea incidentelor de securitate IT.",
   "lattlast": "<p>Guvernul propune o nouă lege privind securitatea cibernetică. Propunerea provine dintr-o decizie luată de UE în 2022 și se numește Directiva NIS 2. Scopul este de a crea un nivel mai ridicat și mai uniform de securitate împotriva amenințărilor digitale în întreaga Europă.</p><p>Conform noii legi, entitățile care operează activități esențiale, atât publice, cât și private, trebuie să ia măsuri pentru a-și proteja rețelele și sistemele informatice. În cazul în care are loc un incident grav, cum ar fi un atac informatic major, acestea trebuie să raporteze incidentul autorităților. De asemenea, va fi mai ușor pentru autorități să verifice dacă regulile sunt respectate și să sancționeze pe cei care nu își îndeplinesc responsabilitățile.</p><p>Propunerea implică, de asemenea, modificări ale altor legi care se referă la adresele de internet, comunicații și reglementări privind informațiile confidențiale. Aceste modificări fac parte dintr-un efort amplu de a consolida securitatea în Suedia.</p><p>Dacă Parlamentul votează în favoarea propunerii, se prevede ca noua lege și celelalte modificări să intre în vigoare la 15 ianuarie 2026.</p>",
   "relevans": {
-    "b_it": 1,
-    "gdpr": 3
+    "gdpr": 8,
+    "digitalisering": 7,
+    "b_it": 8,
+    "storforetag": 6,
+    "smaforetag": 5,
+    "aktiebolag": 4,
+    "b_finans": 5,
+    "b_energi": 4,
+    "b_vard": 4,
+    "integritet": 5,
+    "bredbandsberoende": 3
   }
 }

@@ -13,14 +13,18 @@
   "tldr": "Die Situation im Nahen Osten und die hohen Energiepreise schaffen Unsicherheit für die europäische Wirtschaft. Um die Wirtschaft vor steigenden Preisen zu schützen, wurde beschlossen, die Zinsen leicht zu erhöhen.",
   "lattlast": "<p>Philip R. Lane von der Europäischen Zentralbank erklärt, dass der Krieg im Nahen Osten negative Auswirkungen auf die europäische Wirtschaft hat. Auch wenn es ein Friedensabkommen gibt, ist die Lage unsicher, was dazu führen könnte, dass die Energiepreise weiterhin steigen. Dies birgt das Risiko, dass die Preise für Waren und Dienstleistungen (Inflation) stärker steigen als gewünscht.</p><p>Die Wirtschaft in Europa, auch bekannt als Eurozone, hatte zu Beginn des Jahres Schwierigkeiten, zu wachsen. Dies ist unter anderem auf eine Verlangsamung der Wirtschaft in Irland zurückzuführen. Gleichzeitig ist der Arbeitsmarkt weiterhin stark mit niedriger Arbeitslosigkeit, aber Unternehmen und Privatpersonen sind aufgrund der hohen Energiekosten vorsichtiger mit ihrem Geld.</p><p>Die Inflation liegt derzeit bei 3,2 Prozent, was höher ist als das Ziel von 2 Prozent. Es besteht das Risiko, dass die Preise für Lebensmittel und Energie über einen längeren Zeitraum hoch bleiben. Gleichzeitig wird erwartet, dass die Löhne in den kommenden Jahren in einem Tempo steigen werden, das die Kaufkraft der Menschen stärkt.</p><p>Um diesen Risiken zu begegnen, wurde im Juni eine Erhöhung des Leitzinses um 0,25 Prozent (was 25 Basispunkten entspricht) beschlossen. Ziel dieser Zinserhöhung ist es, die Preissteigerungen zu bremsen und sicherzustellen, dass die Inflation langfristig auf dem festgelegten stabilen Niveau verbleibt.</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "b_energi": 1,
-    "energiintensiv": 1,
-    "lontagare": 1,
-    "arbetssokande": 2,
-    "sparare": 1,
-    "lantagare": 1,
-    "energikund": 1,
-    "konsument": 2
+    "energikund": 6,
+    "konsument": 5,
+    "lantagare": 6,
+    "sparare": 5,
+    "pensionssparare": 4,
+    "lontagare": 5,
+    "b_finans": 5,
+    "b_energi": 5,
+    "storforetag": 4,
+    "smaforetag": 4,
+    "energiintensiv": 5,
+    "export": 4,
+    "foretagare": 4
   }
 }

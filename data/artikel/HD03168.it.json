@@ -12,9 +12,11 @@
   "tldr": "Il governo intende modificare le normative relative all'estrazione e alla lavorazione di materiali nucleari come l'uranio. L'obiettivo è che i requisiti di sicurezza siano adeguati ai rischi effettivi e che le attività siano simili all'estrazione di altri metalli.",
   "lattlast": "<p>Il governo ha presentato una proposta per modificare la legge sull&#x27;attività nucleare. Attualmente, i siti in cui vengono estratti e lavorati materiali nucleari sono considerati impianti nucleari. La nuova proposta prevede che questi siti siano invece considerati parte dell&#x27;attività nucleare, ma non come impianti nucleari in sé.</p><p>Lo scopo della modifica è rendere le norme sulla radioprotezione e sulla sicurezza più adatte ai rischi specifici associati a questo tipo di attività. Con questa proposta, l&#x27;estrazione e la lavorazione dell&#x27;uranio saranno trattate in modo simile ad altri metalli e minerali quando si richiedono autorizzazioni per avviare l&#x27;attività.</p><p>La proposta prevede anche modifiche ad altre leggi. Si intende che la legge sulla responsabilità e il risarcimento in caso di incidenti radiologici non si applichi agli incidenti che si verificano durante l&#x27;estrazione e la lavorazione di materiali nucleari. Inoltre, i rifiuti derivanti da questo tipo di attività non saranno più considerati sottoprodotti ai sensi della legge sul finanziamento dei sottoprodotti nucleari.</p><p>Se il parlamento approva la proposta, le nuove norme entreranno in vigore il 15 luglio 2026.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_finans": 1,
-    "tillstand": 1,
-    "miljo": 1
+    "b_energi": 6,
+    "b_grona": 4,
+    "b_industri": 4,
+    "miljo": 4,
+    "klimat": 3,
+    "gron_omstallning": 4
   }
 }

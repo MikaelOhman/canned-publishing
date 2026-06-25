@@ -12,11 +12,15 @@
   "tldr": "El Gobierno quiere modificar varias leyes para facilitar y acelerar la expansión de las energías renovables en Suecia. La propuesta tiene como objetivo ayudar a cumplir con las normas de la UE y reducir la burocracia en los permisos, por ejemplo, para la energía eólica y solar.",
   "lattlast": "<p>El Gobierno ha presentado una propuesta que implica cambios en varias leyes importantes, como la Ley de Medio Ambiente y la Ley de Electricidad. El objetivo es simplificar el proceso para obtener permisos para proyectos de energía renovable. Si la propuesta es aprobada, las nuevas normas podrían entrar en vigor el 1 de julio de 2026.</p><p>Una parte importante es que las oficinas regionales (equivalentes a las &quot;länsstyrelser&quot;), que son las autoridades que supervisan las cuestiones medioambientales en cada región, deben tener un papel más importante desde el principio del proceso. Al permitir que las oficinas regionales revisen la documentación antes de comenzar a hablar con otras partes, se pueden evitar errores innecesarios. También será más fácil determinar el tamaño de los estudios de impacto ambiental necesarios y cómo se puede construir en áreas naturales protegidas llamadas &quot;Natura 2000&quot;.</p><p>La propuesta también busca reducir la duplicación de esfuerzos. Si ya se ha realizado un estudio de impacto ambiental exhaustivo según la Ley de Medio Ambiente, no será necesario realizar un estudio completamente nuevo para otras leyes relacionadas con el mismo proyecto. Esto ahorrará tiempo y recursos para aquellos que deseen invertir en energía verde.</p><p>Finalmente, se propone que existan plazos claros para el tiempo que las autoridades pueden tardar en tomar decisiones sobre asuntos relacionados con la energía renovable según la Ley de Planificación y Construcción. Esto es para evitar que proyectos importantes queden atrapados en largas esperas.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_energi": 1,
-    "tillstand": 3,
-    "miljo": 1,
-    "energikund": 1,
-    "klimat": 3
+    "b_energi": 9,
+    "gron_omstallning": 8,
+    "klimat": 6,
+    "miljo": 6,
+    "b_bygg": 6,
+    "energiintensiv": 6,
+    "energikund": 5,
+    "mark_bygglov": 6,
+    "tillstand": 7,
+    "regelborda": 5
   }
 }

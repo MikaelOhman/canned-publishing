@@ -12,8 +12,10 @@
   "tldr": "Il governo intende modificare la legge per proteggere informazioni sensibili. Ciò include la riservatezza di dettagli relativi a transazioni di armi e informazioni condivise tra le forze di polizia in Europa.",
   "lattlast": "<p>Il governo intende modificare la legge sull&#x27;accesso alle informazioni e sulla riservatezza. Ciò significa che determinate informazioni dovranno essere considerate segrete e non potranno essere divulgate a chiunque. La prima proposta riguarda le armi. Si intende proteggere le informazioni che la polizia possiede in merito all&#x27;acquisto e alla vendita di armi da fuoco. Ciò include le liste e le segnalazioni che coloro che commerciano armi devono inviare alla polizia.</p><p>La seconda proposta riguarda la collaborazione tra le forze di polizia in Europa. All&#x27;interno di un sistema chiamato Sistema di Informazione Schengen, le forze di polizia condividono informazioni tra loro. Il governo desidera che le informazioni condivise in questo sistema siano meglio protette. Ciò riguarda in particolare le informazioni relative alle indagini penali in altri paesi e le informazioni sulla vita privata delle persone.</p><p>Lo scopo di queste modifiche è proteggere informazioni sensibili affinché non finiscano nelle mani sbagliate. Si propone che le prime modifiche relative alle armi entrino in vigore il 1° aprile 2026. Per le altre modifiche, il governo stabilirà una data in seguito.</p>",
   "relevans": {
-    "infrastruktur": 1,
-    "batagare": 1,
-    "otrygg": 1
+    "integritet": 5,
+    "jagare": 4,
+    "otrygg": 3,
+    "b_handel": 3,
+    "fortroendevald": 3
   }
 }

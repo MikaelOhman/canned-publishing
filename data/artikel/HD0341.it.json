@@ -12,9 +12,14 @@
   "tldr": "Il governo intende rendere più rigorose le procedure per l'introduzione in Svezia di specie che danneggiano l'ambiente. Chi introduce intenzionalmente o per grave negligenza tali specie può incorrere in multe o in reclusione.",
   "lattlast": "<p>Il governo ha presentato una proposta di nuove leggi per proteggere la natura dalle specie invasive aliene. Si tratta di specie che non sono originarie di questo luogo e che possono danneggiare il nostro ambiente. La proposta prevede che la Svezia abbia un proprio elenco delle specie la cui importazione nel paese è vietata.</p><p>Chiunque introduca intenzionalmente o con grave negligenza una tale specie proveniente da un altro paese dell&#x27;UE può essere punito. La pena può essere una multa o la reclusione fino a due anni. Sarà inoltre obbligatorio segnalare alla dogana l&#x27;importazione di una tale specie proveniente da un altro paese dell&#x27;UE.</p><p>La dogana, l&#x27;autorità che controlla le merci alla frontiera, dovrà acquisire maggiori poteri. Dovrà essere in grado di verificare che tutti rispettino le regole e, in alcuni casi, potrà occuparsi degli animali o delle piante vietate. Questo per garantire che le specie pericolose non entrino in Svezia.</p><p>Le nuove regole dovrebbero entrare in vigore il 1° maggio 2026. La proposta prevede modifiche a due leggi diverse, ovvero il codice ambientale e la legge sulle frontiere interne.</p>",
   "relevans": {
-    "miljo": 1,
-    "import": 1,
-    "kronisk": 1,
-    "klimat": 1
+    "klimat": 5,
+    "friluftsliv": 4,
+    "husdjur": 3,
+    "import": 4,
+    "miljo": 6,
+    "b_grona": 4,
+    "b_transport": 3,
+    "b_handel": 3,
+    "eu_marknad": 4
   }
 }

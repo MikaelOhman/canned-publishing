@@ -12,7 +12,10 @@
   "tldr": "Guvernul dorește să ofere Garda de Coastă mai multe puteri pentru a preveni infracțiunile pe mare și să modifice regulile privind modul în care aceasta gestionează informațiile confidențiale. Propunerea ar trebui să intre în vigoare începând cu 1 martie 2026.",
   "lattlast": "<p>Guvernul a prezentat Parlamentului o propunere pentru a permite Gărzii de Coastă să lucreze mai eficient în detectarea și prevenirea infracțiunilor pe mare. Aceasta înseamnă că autoritatea va primi un mandat mai larg pentru a căuta și preveni în mod independent activități ilegale legate de activitatea sa pe mare.</p><p>Pentru a realiza acest lucru mai bine, guvernul propune noi reguli privind modul în care sunt gestionate informațiile. Aceste reguli vizează faptul că anumite date din registrul Gărzii de Coastă, numit Sjöbasis, ar trebui să poată fi considerate confidențiale. Acest lucru se face pentru a proteja atât publicul, cât și persoanele individuale.</p><p>De asemenea, vor exista reguli mai stricte privind modul în care Garda de Coastă poate utiliza datele personale atunci când efectuează analize ale informațiilor. Scopul este de a proteja viața privată a oamenilor și interesele importante ale societății.</p><p>Dacă Parlamentul aprobă propunerea, noile legi vor intra în vigoare începând cu 1 martie 2026. Propunerea implică modificări în mai multe legi diferite, inclusiv legea privind Garda de Coastă și legea privind secretul.</p>",
   "relevans": {
-    "gdpr": 1,
-    "integritet": 1
+    "batagare": 5,
+    "integritet": 4,
+    "fiske": 3,
+    "otrygg": 3,
+    "gdpr": 3
   }
 }

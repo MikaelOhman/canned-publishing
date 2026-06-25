@@ -12,11 +12,13 @@
   "tldr": "Il governo sta lavorando per migliorare il controllo dei dispositivi medici, come ad esempio le apparecchiature mediche. Attualmente, sta valutando se spostare la responsabilità per alcuni prodotti, al fine di rendere il controllo più sicuro e trasparente.",
   "lattlast": "<p>La Corte dei Conti ha condotto un&#x27;indagine su come lo Stato controlla i dispositivi medici. Sono state individuate aree di miglioramento e sono state formulate proposte per ottimizzare il processo. Il governo ha ricevuto queste proposte e ha iniziato a lavorare per implementare le modifiche.</p><p>Il governo ha incaricato due importanti enti, l&#x27;Agenzia dei Medicinali (Läkemedelsverket) e l&#x27;Ispettorato per l&#x27;Assistenza e la Cura (Inspektionen för vård och omsorg, spesso abbreviato in IVO), di svolgere un&#x27;indagine. Si sta valutando la possibilità di trasferire la responsabilità per i prodotti fabbricati internamente dall&#x27;IVO all&#x27;Agenzia dei Medicinali, con l&#x27;obiettivo di rendere il controllo di questi prodotti più efficiente.</p><p>L&#x27;Agenzia dei Medicinali dovrà inoltre esaminare le modalità di determinazione delle tariffe per le proprie attività. Inoltre, l&#x27;ente dovrà garantire che coloro che lavorano con i dispositivi medici, nonché il personale del settore sanitario e dei servizi sociali, ricevano informazioni più complete sulle normative applicabili. Questo dovrebbe aiutare tutti a rispettare le leggi relative alla sicurezza delle apparecchiature.</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "b_vard": 1,
-    "b_life": 1,
-    "regelborda": 3,
-    "kronisk": 2,
-    "konsument": 1
+    "b_vard": 6,
+    "b_life": 6,
+    "kronisk": 3,
+    "funktion": 3,
+    "offentliganstalld": 3,
+    "tillstand": 4,
+    "regelborda": 4,
+    "avgifter": 3
   }
 }

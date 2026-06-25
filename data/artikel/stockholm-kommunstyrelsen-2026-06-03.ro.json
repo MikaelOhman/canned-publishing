@@ -15,14 +15,15 @@
   "tldr": "Primăria din Stockholm va introduce dosare electronice pentru toți angajații din cadrul diferitelor instituții subordonate, investind 70 de milioane de coroane suedeze în acest scop. De asemenea, o clădire din zona Frihamnen, Magasin 5, va schimba proprietarul, tranzacția fiind estimată la aproximativ 400 de milioane de coroane suedeze.",
   "lattlast": "<p>Primăria Stockholm va începe să utilizeze dosare electronice pentru toți angajații, înlocuind documentele pe hârtie. Acest lucru implică scanarea tuturor documentelor vechi pentru a le digitaliza și a le centraliza. Proiectul va fi condus de comisia municipală, împreună cu arhiva orașului, și va costa 70 de milioane de coroane suedeze, în perioada 2026-2031.</p><p>De asemenea, a fost luată decizia de a vinde o clădire din zona Frihamnen. Clădirea, numită Magasin 5, își va schimba proprietarul. Compania St Erik Markutveckling AB va achiziționa toate acțiunile din compania Nya Lagerbolaget Y AB, care deține clădirea. Prețul tranzacției este estimat la aproximativ 400 de milioane de coroane suedeze.</p><p>Pentru a realiza această achiziție, vor fi create două noi companii. Una este o companie holding, care va funcționa ca o companie mamă, iar cealaltă este o filială, care va deține efectiv clădirea de depozitare. Tranzacția implică faptul că compania Stockholms Hamn AB vinde clădirea către St Erik Markutveckling AB.</p><p>Deciziile au fost luate de comisia municipală din Stockholm. Aceste propuneri au fost prezentate consiliului municipal, care este cel mai înalt organism decizional din oraș, pentru a aproba planurile finale.</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "storforetag": 1,
-    "b_bygg": 1,
-    "b_fastighet": 1,
-    "infrastruktur": 1,
-    "digitalisering": 1,
-    "sparare": 1,
-    "batagare": 1,
-    "digital_ovan": 1
+    "f_storstad": 5,
+    "storstad": 4,
+    "f_fastighet": 6,
+    "b_fastighet": 6,
+    "f_kommun": 5,
+    "offentliganstalld": 6,
+    "gdpr": 4,
+    "digitalisering": 4,
+    "mark_bygglov": 4,
+    "fortroendevald": 4
   }
 }

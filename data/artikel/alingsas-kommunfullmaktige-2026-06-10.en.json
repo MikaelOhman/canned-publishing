@@ -15,15 +15,18 @@
   "tldr": "In the municipality of Alingsås, politicians have made important decisions regarding the financial regulations for municipal companies and have awarded the Environmental Prize for 2025. They have also received several proposals (motions) covering a wide range of topics, from new housing developments to bicycle paths.",
   "lattlast": "<p>At the municipal council meeting, the Building and Environment Committee awarded the environmental prize for the year 2027 to the company Vikaryds Egendoms AB. The committee also discussed the interest rate that the municipality should apply when lending money to its own companies in 2027. It is important that the interest rate is market-based, meaning it should be comparable to rates offered by a regular bank, so that the companies do not receive an unfair advantage.</p><p>The politicians also received several proposals, known as motions. These include proposals to build more housing by converting attics in Alingsåshem buildings, to install charging stations for cyclists, and to investigate the possibility of building pedestrian and bicycle paths on certain roads. There were also proposals to support organizations that provide nighttime patrols and to strengthen support for Ukraine.</p><p>Other important items on the agenda included changes to the rules regarding compensation for politicians and the introduction of debates in the municipal council. Decisions were also made regarding new members for various committees, such as the Culture and Education Committee and the Technical Committee, following the departure of previous members.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_finans": 1,
-    "b_kultur": 1,
-    "glesbygd": 1,
-    "sparare": 1,
-    "lantagare": 1,
-    "idrott": 1,
-    "klimat": 1,
-    "kultur": 1,
-    "fortroendevald": 1
+    "f_kommun": 6,
+    "f_fastighet": 4,
+    "mark_bygglov": 5,
+    "b_fastighet": 4,
+    "hyresgast": 4,
+    "bostadsagare": 4,
+    "bygger": 4,
+    "pendlare": 4,
+    "bil": 3,
+    "kollektiv": 4,
+    "fortroendevald": 5,
+    "ideell": 4,
+    "volontar": 4
   }
 }

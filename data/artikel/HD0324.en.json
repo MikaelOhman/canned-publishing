@@ -12,14 +12,15 @@
   "tldr": "The government wants to change the rules for certain tax benefits and subsidies to ensure they comply with EU laws on state aid. The proposal includes new ways for companies to reimburse reduced fees for hiring new employees.",
   "lattlast": "<p>The government has proposed changes to Swedish tax regulations. The aim is to ensure that the economic benefits provided by the state to companies and individuals comply with EU rules regarding permissible subsidies. Failure to comply with these rules could be considered illegal state aid to individual companies.</p><p>An important example is the so-called &quot;growth support&quot; program. This is a reduction in employer contributions that companies receive when they hire their first or second employee. The government proposes that this be changed to a reimbursement of funds. To enable the Swedish Tax Agency to monitor this, companies will also need to submit more information than they do currently.</p><p>Changes are also planned for the regional allowance. This is a lower contribution for employers operating in certain parts of northern and western Sweden. The rules will be amended to align with EU regulations for regional support. This also means that the types of businesses eligible for the allowance will change.</p><p>Other tax deductions, such as support for residents in rural areas or for the production of renewable energy, will also be affected. For businesses that are eligible for these benefits, the requirements for reporting information will be changed. Most of these new laws are intended to come into effect on January 1, 2026.</p>",
   "relevans": {
-    "arbetsgivare": 2,
-    "b_industri": 1,
-    "avgifter": 2,
-    "konkurrens": 3,
-    "f_landsbygd": 1,
-    "glesbygd": 1,
-    "kronisk": 1,
-    "konsument": 1,
-    "klimat": 1
+    "solo": 6,
+    "smaforetag": 7,
+    "arbetsgivare": 7,
+    "avgifter": 8,
+    "f_landsbygd": 5,
+    "glesbygd": 4,
+    "b_grona": 4,
+    "aktiebolag": 4,
+    "regelborda": 5,
+    "eu_marknad": 5
   }
 }

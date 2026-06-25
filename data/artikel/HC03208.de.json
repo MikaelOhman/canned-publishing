@@ -12,10 +12,15 @@
   "tldr": "Die Regierung plant, die Gesetze zum Schutz von Unternehmensgeheimnissen zu verschärfen. Es soll eine Straftat werden, Informationen aus einem Unternehmen zu entwenden oder preiszugeben, selbst wenn die Person aufgrund ihrer beruflichen Tätigkeit berechtigt ist, diese Informationen einzusehen, diese aber dennoch missbraucht.",
   "lattlast": "<p>Die Regierung hat einen Vorschlag vorgelegt, um den Schutz von Geschäfts- und Forschungsgeheimnissen schwedischer Unternehmen und Forschungsinstitute zu verbessern. Ziel ist es, Industriespionage zu bekämpfen, bei der andere Unternehmen schwedische Industrien ausspionieren, um sich Vorteile zu verschaffen. Durch eine Stärkung des Schutzes hofft man, dass Unternehmen eher bereit sein werden, in neue Technologien und Entwicklung zu investieren.</p><p>Der Vorschlag sieht vor, dass die unbefugte Nutzung oder Weitergabe wichtiger technischer Geheimnisse strafbar sein soll. Dies gilt auch für Personen, die rechtmäßig Zugang zu diesen Informationen haben, beispielsweise Mitarbeiter, die im Rahmen ihrer Arbeit Zugriff darauf haben. Es geht vor allem um die Geheimnisse, die für die technologische Entwicklung und für die schwedische Industrie am wichtigsten sind.</p><p>Um dies umzusetzen, schlägt die Regierung Änderungen in verschiedenen Gesetzen vor, darunter im Gesetz über Geschäftsgeheimnisse und in den Vorschriften für die Polizei. Wenn das Parlament dem Vorschlag zustimmt, sollen die neuen Regeln ab dem 1. Januar 2026 in Kraft treten.</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "b_industri": 1,
-    "b_vard": 1,
-    "fou": 1,
-    "otrygg": 1
+    "aktiebolag": 6,
+    "smaforetag": 5,
+    "storforetag": 6,
+    "b_it": 5,
+    "b_industri": 5,
+    "immaterialratt": 8,
+    "fou": 6,
+    "digitalisering": 4,
+    "arbetsratt": 4,
+    "kompetens": 3
   }
 }

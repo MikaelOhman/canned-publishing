@@ -12,8 +12,10 @@
   "tldr": "Guvernul dorește să modifice legile privind modul în care Administrația Penitenciarelor poate utiliza datele personale. Scopul este de a face munca mai sigură și mai eficientă, de exemplu, prin utilizarea recunoașterii faciale.",
   "lattlast": "<p>Guvernul a prezentat o propunere de modificare a mai multor legi care reglementează modul în care Administrația Penitenciarelor gestionează informațiile despre persoane. Scopul este ca regulile să devină mai moderne și să se potrivească mai bine nevoilor actuale, protejând în același timp viața privată a oamenilor.</p><p>Prin noile reguli, Administrația Penitenciarelor ar trebui să poată utiliza mai ușor informațiile necesare pentru a executa pedepsele într-un mod sigur. Acest lucru include, de exemplu, faptul că autoritatea va avea mai multe posibilități de a utiliza tehnologia de recunoaștere facială pentru a-și facilita activitatea.</p><p>Propunerea vizează modificări în mai multe legi diferite, inclusiv legea penitenciarelor și regulile pentru supravegherea electronică, cunoscută sub numele de brățară electronică. Dacă Parlamentul va aproba propunerea, noile reguli ar trebui să intre în vigoare începând cu 1 aprilie 2026.</p>",
   "relevans": {
-    "gdpr": 1,
-    "domd": 3,
-    "integritet": 2
+    "domd": 7,
+    "integritet": 6,
+    "gdpr": 4,
+    "offentliganstalld": 4,
+    "otrygg": 3
   }
 }

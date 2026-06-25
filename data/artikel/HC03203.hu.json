@@ -12,8 +12,15 @@
   "tldr": "A svéd kormány szeretné eltörölni a Svédországban érvényben lévő uránbányászat tilalmát. Ez lehetővé teszi az uránlelőhelyek feltárását és az uránkitermelést, nhằm biztosítva a fontos ásványi anyagokhoz való hozzáférést Svédországban és az Európai Unióban.",
   "lattlast": "<p>A kormány egy javaslatot terjesztett be, amely szerint legális lenne uránt bányászni a svéd bányákban. Jelenleg a környezetvédelmi törvény tiltja ezt, de a törvény módosításával a vállalatok engedélyt kaphatnak arra, hogy mind uránércet találjanak, mind uránt nyerjenek ki a föld alól.</p><p>A javaslat emellett módosítja a kisebb vállalkozásokra vonatkozó szabályokat. Ha egy vállalkozás kis mennyiségű uránt kezel, a kormány nem fog többé kötelező ellenőrzést végezni a tevékenységükre. Ez azt is jelenti, hogy az önkormányzatoknak többé nincs joga elutasítani ezeket a kisebb projekteket, az úgynevezett önkormányzati vétót.</p><p>A módosítások célja, hogy Svédország és az EU könnyebben hozzáférjen a jövőben szükséges fontos ásványi anyagokhoz. Ha a javaslatot elfogadják, az új szabályok 2026. január 1-jén lépnek életbe.</p><p>A javaslat két fontos törvényt módosít: a környezetvédelmi törvényt és az ásványbányászati törvényt. A parlamentnek most döntenie kell, hogy jóváhagyja-e a kormány javaslatát.</p>",
   "relevans": {
-    "tillstand": 1,
-    "miljo": 1,
-    "klimat": 1
+    "b_industri": 7,
+    "b_energi": 5,
+    "b_grona": 4,
+    "miljo": 6,
+    "mark_bygglov": 5,
+    "tillstand": 6,
+    "gron_omstallning": 4,
+    "klimat": 5,
+    "f_landsbygd": 4,
+    "glesbygd": 3
   }
 }

@@ -12,11 +12,11 @@
   "tldr": "De nouvelles réglementations de l'Union européenne entraînent une classification accrue de véhicules lourds et de camions comme véhicules à zéro émission. Cela implique que les lois suédoises relatives aux péages et aux taxes pour les véhicules lourds doivent être modifiées.",
   "lattlast": "<p>Le gouvernement a présenté une proposition visant à modifier plusieurs lois suédoises. L&#x27;objectif est que les nouvelles réglementations soient conformes aux nouvelles règles de l&#x27;Union européenne. Cela concerne principalement la manière dont nous évaluons les émissions des véhicules lourds, tels que les camions.</p><p>Grâce à ces modifications, davantage de types de véhicules lourds seront considérés comme véhicules à zéro émission. Cela signifie qu&#x27;ils ne seront plus classés comme dangereux pour l&#x27;environnement de la même manière qu&#x27;auparavant. Cela affecte les lois relatives aux taxes d&#x27;infrastructure routière et à la classification des véhicules en différentes catégories en fonction de la quantité de dioxyde de carbone qu&#x27;ils émettent.</p><p>La proposition comprend également des modifications de la manière dont les valeurs de référence des émissions de dioxyde de carbone sont calculées. Il existe également des modifications des règles applicables pendant une période de transition, c&#x27;est-à-dire la période pendant laquelle on passe des anciennes règles aux nouvelles.</p><p>Si le Riksdag (Parlement suédois) vote en faveur de la proposition, les nouvelles règles entreront en vigueur le 1er juillet 2025. Cela s&#x27;applique aux lois relatives aux taxes routières et aux taxes sur les véhicules lourds.</p>",
   "relevans": {
-    "arbetsratt": 1,
-    "miljo": 3,
-    "infrastruktur": 1,
-    "glesbygd": 1,
-    "konsument": 1,
-    "klimat": 3
+    "b_transport": 8,
+    "b_industri": 5,
+    "gron_omstallning": 5,
+    "eu_marknad": 5,
+    "miljo": 4,
+    "klimat": 4
   }
 }

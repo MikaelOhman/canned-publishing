@@ -12,11 +12,17 @@
   "tldr": "A kormány a magas üzemanyag- és áramárak miatt csökkenti az energiaadót: a benzin esetében literenként 82 svéd koronával, a dízel esetében pedig köbméterenként 319 svéd koronával (az EU legalacsonyabb szintjére), és javaslatot tesz a háztartások áram- és gázköltségeinek támogatására. Ez egy kiegészítő módosítás a 2026-os költségvetésben.",
   "lattlast": "<p>A kormány 2026-os állami költségvetésében módosításokat javasol. Ennek hátterében a közel-keleti konfliktussal összefüggő magas üzemanyagárak, valamint a magas villamosenergia-árak és a rendkívül hideg időjárás állnak, amelyek miatt a háztartások számára drága volt a fűtés.</p><p>A benzinre vonatkozó energiaadót literenként 82 svéd koronával, a dízelre pedig köbméterenként 319 svéd koronával csökkentik – a környezetvédelmi osztály 1-es kategóriában a lehető legalacsonyabb, az EU által engedélyezett szintre.</p><p>A javaslat tartalmaz emellett támogatást a villamosenergia- és gázárakra is, hogy enyhítsék a háztartások költségeit.</p>",
   "relevans": {
-    "b_energi": 1,
-    "punktskatt": 1,
-    "energiintensiv": 1,
-    "bil": 2,
-    "energikund": 3,
-    "klimat": 1
+    "solo": 5,
+    "smaforetag": 5,
+    "b_transport": 8,
+    "b_grona": 5,
+    "punktskatt": 8,
+    "energiintensiv": 5,
+    "bil": 8,
+    "pendlare": 7,
+    "glesbygd": 6,
+    "energikund": 7,
+    "konsument": 6,
+    "foretagare": 5
   }
 }

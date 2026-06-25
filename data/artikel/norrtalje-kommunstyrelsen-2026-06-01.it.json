@@ -13,20 +13,16 @@
   "tldr": "La giunta comunale di Norrtälje ha preso diverse decisioni riguardanti investimenti in edifici comunali, scuole e ambiente, nonché modifiche ai piani di costruzione e alle tariffe.",
   "lattlast": "<p>La giunta comunale ha approvato diversi importanti investimenti per l&#x27;anno 2026. Questi includono la demolizione dell&#x27;edificio Jupiter 1 per creare posti auto e aree verdi, nonché la costruzione di un nuovo edificio per la raccolta differenziata presso Hamnplan, nel porto di Norrtälje. Sono previsti anche investimenti per la sostituzione di sistemi di allarme e di controllo accessi negli edifici comunali, nonché per l&#x27;adeguamento delle scuole per studenti con bisogni speciali.</p><p>Sono state inoltre approvate alcune modifiche a regolamenti e tariffe. Queste riguardano, tra l&#x27;altro, nuovi prezzi per i servizi offerti dalla commissione per l&#x27;infanzia e la scuola, nonché nuove tariffe per cultura e tempo libero. Inoltre, sono state approvate modifiche ai piani di costruzione per aree situate a Åkerö e Häverö-Bergby, al fine di regolamentare l&#x27;uso del territorio.</p><p>Il comune ha ricevuto fondi da un fondo speciale denominato &quot;fondo per lo sviluppo rurale e la creatività&quot; per sostenere lo sviluppo della zona. Parallelamente, si è valutato come migliorare la lotta contro i crimini che colpiscono il benessere sociale, ad esempio attraverso la creazione di procedure più chiare per le denunce alla polizia e per il recupero di somme pagate erroneamente.</p><p>Infine, è stata discussa la questione dell&#x27;accessibilità in tutte le attività comunali. L&#x27;obiettivo è trovare soluzioni che rendano più facile per tutti i cittadini usufruire dei servizi e degli edifici comunali.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_vard": 1,
-    "b_kultur": 1,
-    "finansiering": 1,
-    "infrastruktur": 1,
-    "f_landsbygd": 1,
-    "barn": 1,
-    "glesbygd": 1,
-    "bil": 1,
-    "funktion": 1,
-    "konsument": 2,
-    "batagare": 1,
-    "klimat": 1,
-    "kultur": 1,
-    "otrygg": 1
+    "f_kommun": 5,
+    "mark_bygglov": 4,
+    "barn": 4,
+    "funktion": 4,
+    "klimat": 3,
+    "b_fastighet": 3,
+    "b_utbildning": 3,
+    "lokaler": 3,
+    "miljo": 3,
+    "idrott": 3,
+    "glesbygd": 3
   }
 }

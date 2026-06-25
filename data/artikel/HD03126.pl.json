@@ -12,7 +12,12 @@
   "tldr": "Policja i inne organy państwowe powinny mieć prawo do pobierania informacji od firm oferujących cyfrowe dokumenty tożsamości. Ma to ułatwić zwalczanie przestępstw związanych z usługami bankowymi i kryptowalutami.",
   "lattlast": "<p>Rząd przedstawił propozycję, która ma ułatwić organom ścigania dostęp do informacji. Obecnie banki i instytucje finansowe mają obowiązek udostępniać dane dotyczące klientów w śledztwach, nawet jeśli obowiązuje ich tajemnica bankowa. Teraz proponuje się, aby te same obowiązki zostały nałożone również na firmy, które udostępniają e-podpisy, czyli cyfrowe dokumenty tożsamości.</p><p>Dotyczy to szczególnie sytuacji, gdy e-podpis jest wykorzystywany do logowania się do usług bankowych lub do autoryzacji płatności. Dzięki tej zmianie policja i inne organy mogą bezpośrednio kontaktować się z firmami oferującymi e-podpisy, aby sprawdzić, w jaki sposób dana osoba wykorzystała swój cyfrowy identyfikator w relacji z instytucjami finansowymi. Celem jest skuteczniejsze śledzenie i zwalczanie przestępczości.</p><p>Propozycja ta obejmuje również zmiany w przepisach dotyczących kryptowalut i innych usług związanych z kryptowalutami. Firmy działające w obszarze aktywów cyfrowych mogą teraz zostać zobowiązane do udostępniania informacji organom wywiadowczym. Jest to część działań mających na celu kontrolę i nadzór nad cyfrową gospodarką.</p><p>Jeśli parlament zagłosuje za przyjęciem tej propozycji, nowe przepisy wступią w życie 1 maja 2026 roku. Propozycja ta wiąże się ze zmianami w wielu różnych ustawach, które dotyczą m.in. międzynarodowej pomocy prawnej oraz przepisów dotyczących płatności i rynków kryptowalut.</p>",
   "relevans": {
-    "b_finans": 2,
-    "otrygg": 2
+    "b_finans": 7,
+    "b_it": 5,
+    "gdpr": 6,
+    "integritet": 7,
+    "sparare": 3,
+    "lantagare": 3,
+    "aktiebolag": 3
   }
 }

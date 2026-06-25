@@ -12,12 +12,15 @@
   "tldr": "Regeringen vill införa en ny lag som gör det möjligt för staten att hjälpa till att betala för nya kärnkraftverk i Sverige. Syftet är att minska risken för företagen som bygger reaktorerna.",
   "lattlast": "<p>Regeringen har lagt fram ett förslag på en ny lag som ska börja gälla den 1 augusti 2025. Lagen handlar om hur staten kan ge ekonomiskt stöd till företag som vill bygga nya kärnkraftsreaktorer i Sverige. Det här är viktigt för att det ska bli säkrare och lättare att genomföra stora investeringar i elproduktion.</p><p>Stödet kan ges på två sätt. För det första kan staten ge lån till företagen för att betala för själva bygget och förberedelserna. För det andra föreslås något som kallas dubbelriktade differenskontrakt. Det är ett avtal mellan staten och företaget som fungerar som en försäkring. Om elpriset blir för lågt får företaget en ersättning, men om elpriset blir väldigt högt måste företaget betala tillbaka en del av vinsten till staten.</p><p>Det finns vissa regler för när stöd får ges. De nya kärnkraftverken måste ligga på samma plats och tillsammans ha en kapacitet på minst 300 MW, vilket är ett mått på hur mycket el de kan producera. Om det finns speciella anledningar kan regeringen dock bestämma att även mindre projekt får stöd. Alla avtal om pengar kommer att ha tydliga villkor som staten och företaget kommer överens om.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_finans": 3,
-    "b_energi": 1,
-    "bolagsskatt": 1,
-    "finansiering": 3,
-    "energiintensiv": 1,
-    "energikund": 1
+    "b_energi": 8,
+    "energiintensiv": 6,
+    "energikund": 5,
+    "storforetag": 6,
+    "aktiebolag": 4,
+    "finansiering": 5,
+    "gron_omstallning": 4,
+    "klimat": 4,
+    "f_kommun": 3,
+    "mark_bygglov": 3
   }
 }

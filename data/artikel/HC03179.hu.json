@@ -12,16 +12,12 @@
   "tldr": "A kormány célja, hogy olyan lehetőségeket biztosítson a hatóságok számára, mint például a Försäkringskassan (szociális biztosítási intézet) és a Pensionsmyndigheten (nyugdíjintézet), hogy hatékonyabban ellenőrizzék az adatokat. Ennek a célja, hogy csökkentsék a kockázatot, amely abból fakad, hogy helytelenül fizetnek ki pénzt személyeknek vagy vállalatoknak.",
   "lattlast": "<p>A kormány egy javaslatot terjesztett be, amely szerint a hatóságoknak több jogkörrel kell rendelkezniük az adatok gyűjtése terén. A Biztosítási Alap (Försäkringskassan) és a Nyugdíjhatóság (Pensionsmyndigheten) több információt kérhetnek magánszemélyekről és vállalkozásokról egyaránt. A bankoknak és azoknak a szervezeteknek is, amelyek személyes asszisztenciát nyújtanak, kötelezővé válhat, hogy információt szolgáltassanak a hatóságok kérésére.</p><p>A javaslat a helyi önkormányzatok szociális bizottságaira is vonatkozik, amelyek a pénzügyi támogatásért felelősek. Ezeknek a bizottságoknak jogot kell kapniuk arra, hogy adatokat szerezzenek be a Nemzeti Adóhatóságtól (Skatteverket), például információkat a munkavállalók béreiről. A cél az, hogy a hatóságok helyes döntéseket hozhassanak, és biztosítsák, hogy a pénz a megfelelő emberekhez kerüljön.</p><p>Ugyanakkor a javaslat tartalmazza a titoktartási szabályok módosítását. Ez azt jelenti, hogy a Biztosítási Alap és a Nyugdíjhatóság védheti azokat az információkat, amelyek a vállalkozások működéséről és üzleti tevékenységéről szólnak. Ez része az új szabályoknak, amelyeket a kormány szeretne bevezetni.</p><p>Ha a parlament megszavazza a javaslatot, az új törvények 2025. december 1-jén lépnek hatályba. A javaslat több különböző törvényre vonatkozik, többek között a betegszabadsággal, a fogászati ellátással és a szociális törvényekkel kapcsolatosakra.</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "b_finans": 2,
-    "sjuklon": 1,
-    "infrastruktur": 1,
-    "pensionar": 1,
-    "lontagare": 1,
-    "sjukskriven": 1,
-    "bidrag": 3,
-    "funktion": 1,
-    "tandvard": 2,
-    "batagare": 1
+    "sjukskriven": 5,
+    "bidrag": 6,
+    "kronisk": 4,
+    "funktion": 4,
+    "b_vard": 4,
+    "pensionar": 4,
+    "integritet": 4
   }
 }

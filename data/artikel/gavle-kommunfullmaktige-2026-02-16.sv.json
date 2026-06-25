@@ -13,12 +13,13 @@
   "tldr": "Det här protokollet från Gävle kommuns möte den 16 februari 2026 visar en lista på alla ärenden som politikerna diskuterade, till exempel klimatplaner, bibliotek och ekonomi. Inga slutgiltiga beslut om pengar eller byggen framgår i just denna del av texten.",
   "lattlast": "<p>På mötet i kommunfullmäktige i Gävle gick politikerna igenom flera viktiga frågor för kommunen. Bland de ärenden som togs upp fanns planer för ett klimatneutralt Gävle år 2ng30 och en ny plan för biblioteken som ska gälla mellan 2026 och 2029.</p><p>Politikerna diskuterade även frågor som rör skydd i området Rörberg och hur kommunens bidrag ska fördelas under år 2026. Det fanns även frågor om försäkringar och regler för mat på särskilda boenden för vuxna med funktionsnedsättning, så kallad LSS.</p><p>Under mötet ställde olika partier frågor till de ansvariga i kommunen, så kallade interpellationer. Frågorna handlade om allt från hur det är för företag i Gävle och hur det går med simkunnighet, till vikten av bibliotekarier i skolan.</p><p>Listan visar också att nya förslag, som kallas motioner, har lagts fram för att politikerna ska kunna ta ställning till dem i framtiden.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_finans": 1,
-    "barn": 1,
-    "funktion": 2,
-    "idrott": 1,
-    "klimat": 1,
-    "kultur": 1
+    "klimat": 4,
+    "kultur": 3,
+    "funktion": 4,
+    "f_kommun": 5,
+    "fortroendevald": 6,
+    "b_utbildning": 3,
+    "ideell": 3,
+    "smaforetag": 3
   }
 }

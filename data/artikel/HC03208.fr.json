@@ -12,10 +12,15 @@
   "tldr": "Le gouvernement souhaite renforcer les lois concernant le vol ou la divulgation de secrets commerciaux. Il deviendra un crime, même si une personne a le droit d'accéder à certaines informations dans le cadre de son travail, mais utilise ces informations de manière inappropriée.",
   "lattlast": "<p>Le gouvernement a présenté une proposition visant à mieux protéger les secrets des entreprises et des instituts de recherche suédois. L&#x27;objectif est de lutter contre l&#x27;espionnage industriel, qui consiste pour des tiers à espionner les industries suédoises afin d&#x27;en tirer des avantages. En renforçant cette protection, on espère que les entreprises oseront investir davantage dans les nouvelles technologies et le développement.</p><p>La proposition prévoit qu&#x27;il deviendra illégal d&#x27;utiliser ou de divulguer des informations techniques sensibles sans autorisation. Cela s&#x27;applique également aux personnes qui ont légitimement accès à ces informations, par exemple les employés qui y ont accès dans le cadre de leur travail. Il s&#x27;agit principalement des secrets les plus importants pour le développement technologique et pour l&#x27;industrie suédoise.</p><p>Pour mettre en œuvre cette proposition, le gouvernement suggère des modifications à plusieurs lois, notamment la loi sur les secrets commerciaux et les réglementations relatives à la police. Si le Parlement vote en faveur de la proposition, les nouvelles règles entreront en vigueur le 1er janvier 2026.</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "b_industri": 1,
-    "b_vard": 1,
-    "fou": 1,
-    "otrygg": 1
+    "aktiebolag": 6,
+    "smaforetag": 5,
+    "storforetag": 6,
+    "b_it": 5,
+    "b_industri": 5,
+    "immaterialratt": 8,
+    "fou": 6,
+    "digitalisering": 4,
+    "arbetsratt": 4,
+    "kompetens": 3
   }
 }

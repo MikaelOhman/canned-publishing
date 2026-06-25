@@ -12,8 +12,13 @@
   "tldr": "Regulile privind interdicția de activitate comercială sunt extinse, astfel încât să poată viza persoane care se ocupă de activități criminale organizate sau sistematice – chiar dacă acestea nu au condus o afacere în momentul comiterii infracțiunii. Durata interdicției de activitate comercială este prelungită de la maximum 10 ani la maximum 15 ani, iar Oficiul de Execuții (Kronofogden) primește instrumente îmbunătățite pentru supraveghere.",
   "lattlast": "<p>Interdicția de activitate comercială presupune că unei persoane i se interzice să desfășoare activități comerciale. În prezent, de obicei, este necesară o legătură cu o companie pentru ca această interdicție să fie aplicabilă în cazul unei infracțiuni.</p><p>Guvernul propune extinderea regulilor, astfel încât interdicția de activitate comercială să poată fi aplicată persoanelor care au comis infracțiuni organizate sau sistematice, chiar și în lipsa unei legături cu o activitate comercială în momentul comiterii infracțiunii – dacă acest lucru este justificat din punct de vedere general.</p><p>Durata maximă a interdicției de activitate comercială este prelungită de la 10 la 15 ani. De asemenea, Autoritatea de recuperare a creanțelor (Kronofogdemyndigheten) va avea posibilități mai bune de a verifica dacă interdicțiile de activitate comercială sunt respectate.</p>",
   "relevans": {
-    "regelborda": 1,
-    "skuldsatt": 1,
-    "otrygg": 1
+    "aktiebolag": 6,
+    "solo": 5,
+    "smaforetag": 5,
+    "storforetag": 4,
+    "foretagare": 6,
+    "konkurs": 4,
+    "otrygg": 4,
+    "brottsoffer": 3
   }
 }

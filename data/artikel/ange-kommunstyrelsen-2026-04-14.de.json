@@ -13,13 +13,13 @@
   "tldr": "Der Gemeinderat von Ånge hat am 14. April 2026 eine Sitzung abgehalten. Dabei wurden die Finanzen geprüft, Pläne für zukünftige Wartungsarbeiten erstellt und wichtige Jahresberichte für die verschiedenen Bereiche der Gemeinde verabschiedet.",
   "lattlast": "<p>Der Gemeinderat von Ånge hat eine Sitzung abgehalten, um die Finanzen der Gemeinde und laufende Projekte zu überprüfen. Er hat den neuesten Finanzbericht für das Jahr 2026 genehmigt und sich einen Überblick über die Maßnahmen zur Krisenvorsorge verschafft.</p><p>Zu den wichtigsten Beschlüssen gehören Maßnahmen zur Instandhaltung und zukünftige Planungen. Es sind zusätzliche Arbeiten an den Gebäuden in der Hemskogsvägen 7 und 9 geplant. Die Gemeinde arbeitet außerdem an einem neuen Plan für die Bibliotheken, der für die Jahre 2027 bis 2031 gelten soll. Es gibt auch Pläne, die Vorgehensweise bei Erdarbeiten in kommunalen Straßen zu ändern, um bessere Abläufe zu gewährleisten.</p><p>Die Sitzung umfasste auch die Genehmigung mehrerer Jahresabschlüsse. Dies bedeutet, dass die Finanzberichte von Unternehmen wie Ånge Energi, Ånge Fastighets- und Industri AB sowie dem Rettungsdienstverband Medelpad auf ihre Richtigkeit überprüft wurden. Es wurde auch geprüft, ob diese Unternehmen in Übereinstimmung mit den von der Gemeinde festgelegten Zielen arbeiten.</p><p>Abschließend wurden Kooperationen und neue Regelungen diskutiert. Unter anderem wurde eine digitale Zusammenarbeit zwischen fünf verschiedenen Gemeinden zur Modernisierung der Technik besprochen. Es wurden auch Regelungen geprüft, die festlegen, inwieweit Mitarbeiter neben ihrer Tätigkeit in der Gemeinde weitere Beschäftigungen ausüben dürfen.</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "b_industri": 1,
-    "b_fastighet": 1,
-    "b_energi": 1,
-    "redovisning": 1,
-    "glesbygd": 1,
-    "energikund": 1,
-    "kultur": 1
+    "f_kommun": 6,
+    "b_fastighet": 4,
+    "digitalisering": 4,
+    "offentliganstalld": 6,
+    "fortroendevald": 7,
+    "energikund": 4,
+    "glesbygd": 4,
+    "mindre_ort": 5
   }
 }

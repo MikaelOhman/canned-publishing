@@ -12,8 +12,10 @@
   "tldr": "Rząd zamierza zmienić przepisy dotyczące sposobu, w jaki Służba Więzienna może wykorzystywać dane osobowe. Celem jest zwiększenie bezpieczeństwa i efektywności pracy, na przykład poprzez możliwość wykorzystania technologii rozpoznawania twarzy.",
   "lattlast": "<p>Rząd przedstawił propozycję zmian w kilku przepisach prawa, które regulują sposób, w jaki Służba Więzienna może przetwarzać informacje o osobach. Celem jest, aby zasady te stały się bardziej nowoczesne i lepiej odpowiadały współczesnym potrzebom, jednocześnie chroniąc prywatność obywateli.</p><p>Zgodnie z nowymi przepisami, Służba Więzienna będzie miała łatwiejszy dostęp do informacji niezbędnych do bezpiecznego wykonywania kar. Obejmuje to, między innymi, zwiększenie możliwości wykorzystania technologii rozpoznawania twarzy w celu ułatwienia pracy.</p><p>Propozycja dotyczy zmian w wielu różnych ustawach, w tym w ustawie o więziennictwie oraz w przepisach dotyczących elektronicznego nadzoru, znanego jako bransoleta. Jeśli parlament zatwierdzi propozycję, nowe przepisy powinny wejść w życie 1 kwietnia 2026 roku.</p>",
   "relevans": {
-    "gdpr": 1,
-    "domd": 3,
-    "integritet": 2
+    "domd": 7,
+    "integritet": 6,
+    "gdpr": 4,
+    "offentliganstalld": 4,
+    "otrygg": 3
   }
 }

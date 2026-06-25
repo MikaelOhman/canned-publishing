@@ -12,9 +12,13 @@
   "tldr": "Guvernul dorește să introducă o nouă lege pentru a colecta informații despre serviciile sociale. Scopul este ca Agenția Națională pentru Servicii Sociale (Socialstyrelsen) să poată utiliza aceste date pentru a îmbunătăți asistența acordată oamenilor, protejând în același timp viața privată a acestora.",
   "lattlast": "<p>Guvernul a prezentat o propunere pentru o nouă lege, numită &quot;Legea registrului de date sociale&quot;. Această lege ar trebui să ajute agenția Socialstyrelsen să gestioneze datele personale într-un mod adecvat. Prin colectarea informațiilor, se pot obține mai multe informații despre modul în care funcționează serviciile sociale și despre cum se poate îmbunătăți sprijinul acordat oamenilor.</p><p>Propunerea implică, de asemenea, că cei care lucrează în serviciile sociale și în domeniul sprijinului pentru persoanele cu dizabilități trebuie să furnizeze informații necesare către Socialstyrelsen. Aceasta înseamnă că organizațiile care oferă sprijin în conformitate cu legile privind serviciile sociale și sprijinul pentru persoanele cu dizabilități vor fi obligate să trimită date către noul registru.</p><p>Este important de menționat că legea include, de asemenea, reguli pentru a proteja intimitatea oamenilor. Aceasta înseamnă că trebuie avută grijă ca datele personale să nu fie utilizate într-un mod care încalcă viața privată. Scopul este de a crea o gestionare sigură a tuturor informațiilor colectate.</p><p>Dacă propunerea este adoptată, noua lege va intra în vigoare pe 1 august 2026. Regula conform căreia organizațiile trebuie să furnizeze date va intra în vigoare un an mai târziu, pe 1 august 2027. Există, de asemenea, o modificare referitoare la taxe, a cărei aplicare este propusă să înceapă pe 1 iunie 2026.</p>",
   "relevans": {
-    "gdpr": 1,
-    "funktion": 1,
-    "konsument": 1,
-    "integritet": 2
+    "kronisk": 4,
+    "funktion": 6,
+    "anhorigvardare": 4,
+    "b_vard": 6,
+    "gdpr": 5,
+    "integritet": 6,
+    "offentliganstalld": 4,
+    "f_kommun": 3
   }
 }

@@ -13,10 +13,22 @@
   "tldr": "Az Európai Központi Bank (EKB) emeli a kamatot, hogy megfékezze az emelkedő árakat. Ez azért történik, hogy megvédje a gazdaságot a közel-keleti háború következményeitől, amely miatt az energia ára drágább lett.",
   "lattlast": "<p>Christine Lagarde, az Európai Központi Bank (EKB) vezetője, beszélt Európa gazdasági helyzetéről. A közel-keleti háború kirobbanása óta az energiaárak emelkedtek, ami miatt a májusi infláció – azaz az árak emelkedésének mértéke – 3,2 százalékra nőtt.</p><p>Ennek ellensúlyozására az EKB úgy döntött, hogy 0,25 százalékponttal emeli a kamatot. A kamatemelés megnehezíti a pénzhiányosok helyzetét, ami segít fékezni az áremelkedést. Az EKB célja, hogy a hosszú távon a stabil inflációs szint 2 százalék legyen.</p><p>Európa gazdasága továbbra is növekszik, de lassabban, mint amire számítottak. A háború miatt az emberek nagyobb bizonytalanságot érzik a jövővel kapcsolatban, és az élet drágább lett. Ugyanakkor a vállalatok gazdasági helyzete és a háztartások pénzügyi helyzete továbbra is viszonylag stabil.</p><p>A jövő továbbra is bizonytalan a háború és a magas energiaárak kockázatai miatt. Az EKB ezért továbbra is figyelmesen figyeli az új információkat, és minden ülésen új döntéseket hoz. Nem döntötték el, hogy a jövőben a kamatot tovább emelik vagy csökkentik, hanem lépésről lépésre, a gazdaság fejlődésének függvényében alakítják.</p>",
   "relevans": {
-    "b_energi": 1,
-    "sparare": 1,
-    "lantagare": 1,
-    "energikund": 1,
-    "konsument": 2
+    "sparare": 5,
+    "lantagare": 7,
+    "skuldsatt": 6,
+    "bostadsagare": 6,
+    "pensionssparare": 5,
+    "energikund": 5,
+    "konsument": 5,
+    "lontagare": 4,
+    "foretagare": 5,
+    "aktiebolag": 5,
+    "smaforetag": 5,
+    "finansiering": 6,
+    "b_finans": 6,
+    "b_fastighet": 5,
+    "b_energi": 5,
+    "export": 4,
+    "import": 4
   }
 }

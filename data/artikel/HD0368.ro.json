@@ -12,8 +12,14 @@
   "tldr": "Suedia dorește să modifice regulile referitoare la momentul în care o autorizație este aprobată automat, în cazul în care autoritățile nu răspund în termenul stabilit. Aceasta se aplică extinderii rețelelor de internet de mare viteză, cunoscută sub numele de infrastructură gigabit.",
   "lattlast": "<p>Există o regulă din UE care stipulează că, dacă o autoritate, de exemplu o instanță, nu a răspuns la o cerere într-un anumit interval de timp, cererea este considerată aprobată. Acest lucru se numește &quot;aprobare implicită&quot;. Regula a fost introdusă pentru a accelera procesul de extindere a internetului de mare viteză în întreaga Europă.</p><p>Acum, guvernul suedez dorește ca Suedia să utilizeze o posibilitate prevăzută în regulile UE pentru a nu respecta această regulă specifică. Acest lucru înseamnă că o autorizație nu va fi aprobată automat doar pentru că a trecut termenul, dacă instanța nu a avut timp să ia o decizie.</p><p>Guvernul intenționează să realizeze acest lucru prin elaborarea unei noi legi care să completeze regulile UE. Scopul este de a modifica modul în care sunt gestionate cererile de autorizație pentru infrastructura esențială a internetului de mare viteză.</p><p>Noua lege este prevăzută să intre în vigoare la 12 martie 2026. Acest lucru înseamnă că regulile privind modul în care autoritățile trebuie să ia decizii cu privire la extinderea internetului vor fi diferite în Suedia după această dată.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "tillstand": 1,
-    "infrastruktur": 1
+    "b_it": 6,
+    "infrastruktur": 7,
+    "eu_marknad": 5,
+    "digitalisering": 5,
+    "bredbandsberoende": 6,
+    "f_landsbygd": 4,
+    "glesbygd": 4,
+    "mark_bygglov": 3,
+    "tillstand": 5
   }
 }

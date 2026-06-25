@@ -13,13 +13,13 @@
   "tldr": "A Burlövs önkormányzatnak hiány van a költségvetésében az oktatási és kulturális területeken. Ennek fő oka, hogy több diák van, mint amit előre számítottak, ami miatt az önkormányzatnak több helyet kell vásárolnia más iskolákban.",
   "lattlast": "<p>A bizottság felülvizsgálta a 2026. év elejének pénzügyi helyzetét. Kiderült, hogy a település 2026. január és április között 0,6 millió svéd koronát veszített. Becslések szerint az év teljes hiánya elérheti a 8,1 millió svéd koronát.</p><p>Az ok, ami miatt a pénz nem elegendő, az az, hogy több diák jelentkezett az általános és középiskolákba, mint amennyit előre láttak. Amikor több a diák, a településnek fizetnie kell más iskolákban lévő helyekért, ami jelentős költségeket von maga után. A felnőttképzés költségei is magasabbak, mint amit számítottak.</p><p>A bölcsődék helyzete viszont más. Ott kevesebb gyermek van, mint amennyit terveztek, ami lehetővé tette a személyzet és a helyiségek terén történő költségcsökkentést. Ez a bölcsődékben egy pluszkeresetre vezetett.</p><p>A jegyzőkönyvben szerepelnek egyéb fontos események is. Például tájékoztatást adnak a Burlövsfest nevű rendezvényről, amely 2026. szeptember 5-én kerül megrendezésre a Burlöv center közelében, valamint a &quot;skolsocialt närvaroteamet&quot; nevű csapat munkájáról, amely segít a biztonság fenntartásában az iskolákban.</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "b_utbildning": 1,
-    "b_kultur": 1,
-    "lokaler": 1,
-    "barn": 3,
-    "vuxenstudier": 1,
-    "kultur": 1,
-    "otrygg": 1
+    "f_kommun": 4,
+    "barn": 5,
+    "ung": 4,
+    "gymnasieelev": 4,
+    "student": 3,
+    "vuxenstudier": 3,
+    "offentliganstalld": 4,
+    "b_utbildning": 4
   }
 }

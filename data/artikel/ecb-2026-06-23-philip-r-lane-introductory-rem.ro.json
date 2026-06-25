@@ -13,14 +13,18 @@
   "tldr": "Situația din Orientul Mijlociu și prețurile mari la energie creează incertitudine pentru economia Europei. Pentru a proteja economia de creșterea prețurilor, s-a decis o ușoară majorare a ratelor dobânzilor.",
   "lattlast": "<p>Philip R. Lane, de la Banca Centrală Europeană, a declarat că războiul din Orientul Mijlociu are un impact negativ asupra economiei europene. Chiar dacă există un acord de pace, situația rămâne incertă, ceea ce ar putea duce la creșterea continuă a prețurilor la energie. Acest lucru face ca prețurile bunurilor și serviciilor (inflația) să riscă să crească mai mult decât este dorit.</p><p>Economia Europei, cunoscută sub numele de zona euro, a avut dificultăți în a se dezvolta la începutul anului. Acest lucru se datorează, printre altele, scăderii activității economice din Irlanda. În același timp, piața muncii rămâne puternică, cu un nivel scăzut al șomajului, dar companiile și oamenii sunt mai precauți în ceea ce privește cheltuielile, din cauza costurilor ridicate ale energiei.</p><p>În ceea ce privește creșterea prețurilor, sau inflația, aceasta se situează în prezent la 3,2%. Aceasta este o valoare mai mare decât ținta de 2%. Există riscul ca prețurile la alimente și energie să rămână ridicate pentru o perioadă îndelungată. În același timp, se așteaptă ca salariile să crească într-un ritm care va consolida puterea de cumpărare a oamenilor în următorii ani.</p><p>Pentru a face față acestor riscuri, a fost implementată o majorare a ratei dobânzii de 0,25%, echivalentă cu 25 de puncte de bază, în luna iunie. Scopul acestei majorări a ratei dobânzii este de a reduce creșterea prețurilor și de a asigura că inflația ajunge, pe termen lung, la nivelul stabil dorit.</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "b_energi": 1,
-    "energiintensiv": 1,
-    "lontagare": 1,
-    "arbetssokande": 2,
-    "sparare": 1,
-    "lantagare": 1,
-    "energikund": 1,
-    "konsument": 2
+    "energikund": 6,
+    "konsument": 5,
+    "lantagare": 6,
+    "sparare": 5,
+    "pensionssparare": 4,
+    "lontagare": 5,
+    "b_finans": 5,
+    "b_energi": 5,
+    "storforetag": 4,
+    "smaforetag": 4,
+    "energiintensiv": 5,
+    "export": 4,
+    "foretagare": 4
   }
 }

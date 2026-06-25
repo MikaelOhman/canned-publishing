@@ -12,9 +12,13 @@
   "tldr": "Regeringen vill införa en ny lag som gör det lättare för myndigheter och kommuner att dela digital information med varandra. Syftet är att minska pappersarbete och använda ny teknik som AI på ett smartare sätt.",
   "lattlast": "<p>Regeringen har lagt fram ett förslag på en ny lag som ska styra hur information delas mellan olika delar av det offentliga Sverige. Lagen handlar om så kallad interoperabilitet, vilket är ett svårt ord för att beskriva att olika datasystem ska kunna prata med varandra och förstå varandras information. Genom att göra detta enklare hoppas man kunna minska mängden administration och använda modern teknik som AI mer effektivt.</p><p>De som måste följa de nya reglerna är statliga myndigheter, kommuner, regioner och vissa kommunala bolag. Reglerna gäller när man delar information som sker ofta eller i stora mängder. Regeringen har dock rätt att bestämma att vissa grupper inte behöver följa lagen, och de kan också bestämma exakt vilka tekniska krav som ska gälla för delningen.</p><p>Det finns viktiga undantag för att skydda medborgarna och landet. Man behöver inte följa de nya kraven om det skulle hota Sveriges säkerhet eller om det blir för osäkert för personuppgifter och cybersäkerhet. Man ska inte heller behöva följa kraven om det blir alldeles för dyrt i förhållande till nyttan man får av att dela informationen.</p><p>Om riksdagen röstar ja till förslaget kommer den nya lagen att börja gälla den 15 augusti 2026.</p>",
   "relevans": {
-    "b_fastighet": 3,
-    "gdpr": 2,
-    "kronisk": 1,
-    "integritet": 1
+    "f_kommun": 5,
+    "offentliganstalld": 5,
+    "digitalisering": 7,
+    "gdpr": 5,
+    "integritet": 4,
+    "digital_ovan": 3,
+    "b_it": 6,
+    "regelborda": 4
   }
 }

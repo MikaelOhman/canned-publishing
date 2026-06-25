@@ -13,12 +13,14 @@
   "tldr": "La Länsstyrelsen (administration régionale) a examiné le travail du tuteur légal de Norrtälje et lui a adressé des critiques. Elle a constaté que des contrôles insuffisants étaient effectués sur les finances lorsqu'un tuteur légal mettait fin à sa mission.",
   "lattlast": "<p>La préfecture de Stockholm a effectué une inspection auprès du tuteur public de la commune de Norrtälje. Le tuteur public est l&#x27;organisme chargé de veiller à ce que les personnes ayant un curateur ou un administrateur légal soient bien prises en charge et que leurs fonds soient utilisés de manière appropriée.</p><p>La préfecture a reproché au tuteur public de ne pas avoir examiné correctement un règlement de compte. Il s&#x27;agit d&#x27;une affaire où une personne avait un curateur dont on ne pouvait joindre. Pendant cette période, les dettes de cette personne ont augmenté de 280 000 couronnes à près de 379 000 couronnes.</p><p>Dans le nouveau rapport du troisième curateur, il a été constaté que des fonds destinés à la pension alimentaire des enfants n&#x27;avaient pas été versés. Il a également été révélé que les allocations de logement n&#x27;avaient pas été remboursées à l&#x27;Agence suédoise des assurances sociales (Försäkringskassan). La préfecture estime que le tuteur public aurait dû détecter ces erreurs et contrôler les comptes de manière plus approfondie.</p><p>Le rôle du tuteur public est de s&#x27;assurer que les fonds utilisés pour une personne sont employés de manière appropriée, par exemple pour son logement et ses dépenses courantes. Il doit vérifier qu&#x27;aucun fonds ne disparaisse et que toutes les factures soient correctes. Ce rapport montre que le contrôle dans ce cas n&#x27;était pas suffisant.</p>",
   "relevans": {
-    "b_finans": 1,
-    "b_konsult": 1,
-    "barn": 1,
-    "ensam_foralder": 1,
-    "sjukskriven": 1,
-    "hyresgast": 1,
-    "lantagare": 1
+    "f_kommun": 4,
+    "anhorigvardare": 5,
+    "pensionar": 4,
+    "funktion": 5,
+    "barn": 4,
+    "skuldsatt": 4,
+    "bidrag": 4,
+    "hyresgast": 3,
+    "fortroendevald": 4
   }
 }

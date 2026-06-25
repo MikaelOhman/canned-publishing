@@ -15,13 +15,11 @@
   "tldr": "Die Gemeinde Bollebygd hat neue Regeln für den Betrieb der Gemeinde im Falle eines Krieges oder eines erhöhten Ausnahmezustands beschlossen. Außerdem wurden neue Pläne für den Bau und die Architektur in der Gemeinde verabschiedet.",
   "lattlast": "<p>Der Gemeinderat hat neue Richtlinien für die Organisation der kommunalen Arbeit im Falle eines Krieges oder eines erhöhten Alarmzustands beschlossen. Dies bedeutet, dass im Voraus festgelegt wurde, welche Bereiche der kommunalen Arbeit im Falle einer unsicheren Lage Priorität haben. Ziel ist es, dass die wichtigsten gesellschaftlichen Funktionen auch in schwierigen Zeiten weiterhin funktionieren können.</p><p>Im Bereich Bauwesen und Stadtplanung wurden mehrere Entscheidungen getroffen. Dazu gehört beispielsweise der Auftrag zur Erstellung von Bebauungsplänen für Gebiete wie das Pfarrhaus von Bollebygd und Låddekärrsbu. Ein Bebauungsplan ist ein Dokument, das festlegt, was gebaut werden darf und wie das Land genutzt werden kann.</p><p>Die Gemeinde hat außerdem eine neue Strategie für die Architektur beschlossen. Dies ist ein Plan, der festlegt, wie Gebäude und Umgebungen in Zukunft aussehen und gestaltet werden sollen. Darüber hinaus wurde beschlossen, ein Planungsvorhaben im Gebiet Getabrohult einzustellen und neue Aufträge zur Planung des Geländes zu starten.</p><p>Abschließend wurden Informationen darüber erhalten, wie die Gemeinde Datenschutz und Sicherheit handhabt. Der neue Datenschutzbeauftragte aus der Region Borås hat erläutert, wie die Regeln für personenbezogene Daten (DSGVO) eingehalten werden, um die Informationen der Einwohner zu schützen.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_fastighet": 1,
+    "f_kommun": 5,
+    "b_bygg": 4,
+    "mark_bygglov": 4,
     "gdpr": 3,
-    "mark_bygglov": 1,
-    "bygger": 1,
-    "storstad": 1,
-    "klimat": 1,
-    "integritet": 1
+    "bostadsagare": 3,
+    "hyresgast": 3
   }
 }

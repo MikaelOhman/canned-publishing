@@ -12,7 +12,16 @@
   "tldr": "La Suède va introduire une nouvelle loi pour protéger les systèmes numériques essentiels contre les cyberattaques. Cette loi rendra la société plus sûre en exigeant une meilleure protection et une meilleure déclaration des attaques informatiques.",
   "lattlast": "<p>Le gouvernement propose une nouvelle loi sur la cybersécurité. Cette proposition découle d&#x27;une décision prise par l&#x27;Union européenne en 2022, et s&#x27;appelle la directive NIS 2. L&#x27;objectif est de créer un niveau de sécurité plus élevé et commun contre les menaces numériques dans toute l&#x27;Europe.</p><p>Les entreprises qui exploitent des infrastructures critiques, qu&#x27;elles soient publiques ou privées, doivent, selon cette nouvelle loi, prendre des mesures pour protéger leurs réseaux et leurs systèmes informatiques. En cas d&#x27;incident grave, comme une importante cyberattaque, elles doivent également le signaler aux autorités. Il sera également plus facile pour les autorités de vérifier le respect des règles et de sanctionner ceux qui ne remplissent pas leurs obligations.</p><p>Cette proposition implique également des modifications d&#x27;autres lois concernant les adresses internet, les communications et les règles relatives aux informations confidentielles. Ces modifications font partie d&#x27;un vaste effort visant à renforcer la sécurité en Suède.</p><p>Si le Parlement vote en faveur de cette proposition, la nouvelle loi et les autres modifications devraient entrer en vigueur le 15 janvier 2026.</p>",
   "relevans": {
-    "b_it": 1,
-    "gdpr": 3
+    "gdpr": 8,
+    "digitalisering": 7,
+    "b_it": 8,
+    "storforetag": 6,
+    "smaforetag": 5,
+    "aktiebolag": 4,
+    "b_finans": 5,
+    "b_energi": 4,
+    "b_vard": 4,
+    "integritet": 5,
+    "bredbandsberoende": 3
   }
 }

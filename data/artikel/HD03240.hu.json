@@ -12,9 +12,17 @@
   "tldr": "A kormány új törvényeket terjesztett elő, amelyek célja a svéd elektromos piac működésének modernizálása. A javaslatok egyszerűbbé teszik az elektromos energia megosztását a különböző épületek között, és módosítják azokat a szabályokat, amelyek meghatározzák, ki felel a villamos hálózat biztonságáért.",
   "lattlast": "<p>A kormány egy új törvénytervezetet terjesztett elő, amely a 1997-es régi villamosenergia-törvényt váltja majd fel. A cél az, hogy a svéd szabályozást az EU jogszabályainak megfelelően igazítsák, és egyértelműbbé tegyék, mely szabályok vonatkoznak azokra a vállalatokra, amelyek a villamos vezetékeket üzemeltetik.</p><p>Egy jelentős változás, hogy könnyebb lesz a villamos energia megosztása különböző helyek között. Az új energiaosztás szabályok értelmében az a személy, aki egy ingatlanon fogyaszt villamos energiát, számlát kaphat olyan energiáért, amely egy másik ingatlanon termelődött. Ezt energiaosztásnak nevezik, és része egy új EU-s direktívának.</p><p>A villamos hálózat biztonságos működéséért való felelősség is változni fog. Korábban egy külön hatóság volt felelős a működésbiztonságért, de most javasolják, hogy azok a vállalatok, amelyek a nagy villamos vezetékeket üzemeltetik, vegyék át ezt a felelősséget. Új szerepkörök is bevezetése várható a villamos hálózat egyensúlyának fenntartása érdekében.</p><p>A legtöbb új szabály várhatóan 2027. január 1-jén lép érvénybe. A tervezet egy része, amely azokat a vállalatokat érinti, amelyek kötelesek villamos energiát szállítani, később, 2027. július 1-jén lép érvénybe.</p>",
   "relevans": {
-    "b_fastighet": 1,
-    "b_energi": 2,
-    "eu_marknad": 1,
-    "energikund": 1
+    "aktiebolag": 4,
+    "smaforetag": 3,
+    "storforetag": 5,
+    "b_energi": 9,
+    "b_fastighet": 6,
+    "b_industri": 5,
+    "energiintensiv": 7,
+    "eu_marknad": 5,
+    "gron_omstallning": 4,
+    "energikund": 7,
+    "bostadsagare": 5,
+    "f_kommun": 3
   }
 }

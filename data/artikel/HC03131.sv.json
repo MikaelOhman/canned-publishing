@@ -12,10 +12,19 @@
   "tldr": "Regeringen föreslår nya lagar för att förbättra miljön och kontrollera energianvändning. Det handlar bland annat om att datacenter måste visa hur mycket el de använder och att reglerna för bränsle ska ändras.",
   "lattlast": "<p>Regeringen vill ändra flera lagar för att följa nya regler från EU. En viktig del är att datacenter, alltså stora hallar som lagrar digital information, måste börja rapportera hur mycket energi de använder till en gemensam databas i Europa. Detta görs för att man ska ha bättre koll på hur mycket el som går åt till digital teknik.</p><p>Det kommer också att bli strängare regler för vad som räknas som hållbara bränslen. Det betyder att det finns nya krav på att bränslen som kommer från exempelvis återvunnet material eller andra miljövänliga källor måste uppfylla vissa miljökrav. Även lagar om skatt på energi och elcertifikat kommer att ändras för att passa de nya reglerna.</p><p>När det gäller drivmedel som används i bilar finns förslag på nya nivåer för reduktionsplikten. Reduktionsplikten är det krav som finns på att blanda in mer miljövänligt bränsle i bensinen och dieseln. Nu föreslås det också att man kan uppfylla detta krav genom att använda fossilfri el. Samtidigt föreslås det att kravet på att leverantörer av drivmedel måste minska utsläppen av växthusgaser ska tas bort.</p><p>De flesta av dessa nya regler är tänkta att börja gälla den 1 juli 2025. Vissa delar som handlar om miljökrav för bränslen kommer dock att börja gälla senare, antingen den 1 januari 2026 eller den 1 januari 2030.</p>",
   "relevans": {
-    "b_energi": 1,
-    "miljo": 1,
-    "bil": 3,
-    "energikund": 2,
-    "klimat": 2
+    "b_it": 7,
+    "b_transport": 6,
+    "b_energi": 6,
+    "b_industri": 5,
+    "energiintensiv": 7,
+    "gron_omstallning": 6,
+    "hallbarhetsrapport": 5,
+    "eu_marknad": 5,
+    "miljo": 5,
+    "digitalisering": 5,
+    "bil": 4,
+    "energikund": 4,
+    "klimat": 5,
+    "punktskatt": 4
   }
 }

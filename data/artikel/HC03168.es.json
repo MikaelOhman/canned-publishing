@@ -15,9 +15,15 @@
   ],
   "html": "<p>- Propuesta para aumentar el impuesto sobre la propiedad de los aerogeneradores del 0,2 al 0,5 por ciento del valor catastral. El impuesto sobre la propiedad se debe pagar, entre otros, por aquellos bienes que, en la valoración de la propiedad, se clasifican como unidades de producción de electricidad. Para las unidades de producción de electricidad que consisten en una unidad catastral con aerogeneradores, el impuesto sobre la propiedad es del 0,2 por ciento del valor catastral. Para otras unidades de producción de electricidad, el impuesto sobre la propiedad es del 0,5 por ciento del valor catastral. La propuesta implica que la tasa impositiva será uniforme para todas las unidades de producción de electricidad.</p><p>Se propone que la modificación de la ley entre en vigor el 1 de enero de 2026.</p>",
   "relevans": {
-    "b_fastighet": 3,
-    "b_energi": 3,
-    "bostadsagare": 3,
-    "energikund": 1
+    "b_energi": 10,
+    "energiintensiv": 7,
+    "energikund": 6,
+    "gron_omstallning": 6,
+    "b_industri": 5,
+    "storforetag": 6,
+    "aktiebolag": 5,
+    "f_landsbygd": 5,
+    "glesbygd": 4,
+    "klimat": 5
   }
 }

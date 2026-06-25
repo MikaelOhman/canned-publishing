@@ -12,8 +12,10 @@
   "tldr": "Die Regierung möchte das Gesetz ändern, um wichtige Informationen zu schützen. Es geht darum, Informationen über Waffenverkäufe und Informationen, die zwischen Polizisten in Europa ausgetauscht werden, geheim zu halten.",
   "lattlast": "<p>Die Regierung möchte das Gesetz über Transparenz und Geheimhaltung ändern. Das bedeutet, dass bestimmte Informationen geheim gehalten werden und nicht an jeden weitergegeben werden dürfen. Der erste Vorschlag betrifft Waffen. Es geht darum, Informationen zu schützen, die die Polizei über den Kauf und Verkauf von Schusswaffen besitzt. Dies betrifft insbesondere die Listen und Meldungen, die Personen, die mit Waffen handeln, an die Polizei senden müssen.</p><p>Der zweite Vorschlag betrifft die Zusammenarbeit zwischen Polizeibeamten in Europa. In einem System namens Schengen-Informationssystem tauschen die Polizeien Informationen aus. Die Regierung möchte, dass die dort ausgetauschten Informationen besser geschützt werden. Dies gilt insbesondere für Informationen über Strafuntersuchungen in anderen Ländern und Informationen über das Privatleben von Personen.</p><p>Ziel der Änderungen ist es, sensible Informationen zu schützen, damit sie nicht in die falschen Hände geraten. Die ersten Änderungen bezüglich Waffen sollen voraussichtlich am 1. April 2026 in Kraft treten. Für die anderen Änderungen wird die Regierung einen Termin zu einem späteren Zeitpunkt festlegen.</p>",
   "relevans": {
-    "infrastruktur": 1,
-    "batagare": 1,
-    "otrygg": 1
+    "integritet": 5,
+    "jagare": 4,
+    "otrygg": 3,
+    "b_handel": 3,
+    "fortroendevald": 3
   }
 }

@@ -12,10 +12,15 @@
   "tldr": "Rząd zamierza zaostrzyć przepisy dotyczące kradzieży lub ujawniania tajemnic firmowych.  Nawet jeśli osoba ma prawo do wglądu w dane w ramach wykonywanej pracy, ale wykorzystuje je w niewłaściwy sposób, będzie to stanowić przestępstwo.",
   "lattlast": "<p>Rząd przedstawił propozycję mającą na celu lepszą ochronę tajemnic firm i instytucji badawczych w Szwecji. Celem jest powstrzymanie szpiegostwa przemysłowego, czyli działań, w których inne podmioty nielegalnie zbierają informacje o szwedzkich przedsiębiorstwach, aby uzyskać przewagę. Wzmocnienie ochrony ma zachęcić firmy do większych inwestycji w nowe technologie i rozwój.</p><p>Propozycja ta przewiduje, że wykorzystywanie lub przekazywanie poufnych informacji technicznych bez pozwolenia będzie stanowiło przestępstwo. Dotyczy to również osób, które legalnie mają dostęp do tych informacji, na przykład pracowników, którzy uzyskują do nich dostęp w ramach swojej pracy. Chodzi przede wszystkim o te tajemnice, które są najważniejsze dla rozwoju technologii i dla szwedzkiego przemysłu.</p><p>W celu wdrożenia tej propozycji, rząd proponuje zmiany w kilku różnych ustawach, w tym w ustawie o tajemnicach handlowych oraz w przepisach dotyczących policji. Jeśli parlament zagłosuje za przyjęciem tej propozycji, nowe przepisy wejdą w życie 1 stycznia 2026 roku.</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "b_industri": 1,
-    "b_vard": 1,
-    "fou": 1,
-    "otrygg": 1
+    "aktiebolag": 6,
+    "smaforetag": 5,
+    "storforetag": 6,
+    "b_it": 5,
+    "b_industri": 5,
+    "immaterialratt": 8,
+    "fou": 6,
+    "digitalisering": 4,
+    "arbetsratt": 4,
+    "kompetens": 3
   }
 }

@@ -12,8 +12,11 @@
   "tldr": "The government intends to introduce a new crime to prevent stolen goods from being sold abroad. They also want to give the Customs Agency more authority to investigate and handle illegal goods.",
   "lattlast": "<p>The government proposes creating a new crime specifically for assisting in the transportation of stolen goods out of Sweden. This crime is called &quot;export handling.&quot;  Individuals convicted of a serious offense could face a prison sentence of up to six years.  Attempting to commit this crime will also be illegal.</p><p>The proposal also increases the responsibility of the Swedish Customs Administration (Tullverket), the agency responsible for controlling goods at the border. They will be able to assist prosecutors with investigations and will have greater authority to prevent crime. Customs officials will be able to initiate investigations in a manner similar to that of the police.</p><p>There are also proposals that would allow authorities working to combat crime to retain seized items for use in training or for evidentiary examination.  If seized items are dangerous or difficult to store, they can be destroyed more quickly than previously allowed.</p><p>The government also wants to change the rules regarding penalties for smuggling narcotics intended for resale. Most of these new regulations are intended to come into effect in September 2025, but a minor amendment to a law regarding taxable goods will take effect on July 1, 2025.</p>",
   "relevans": {
-    "import": 1,
-    "beroende": 1,
-    "otrygg": 2
+    "b_transport": 4,
+    "b_handel": 4,
+    "otrygg": 5,
+    "brottsoffer": 4,
+    "export": 3,
+    "import": 3
   }
 }

@@ -12,9 +12,12 @@
   "tldr": "Opieka nad osobami z problemami uzależnień i zaburzeniami psychicznymi powinna być lepiej zintegrowana. Regiony powinny zapewnić, aby opieka nad uzależnieniami była skoordynowana z pozostałą opieką psychiatryczną, a wymagania dotyczące indywidualnych planów leczenia zostaną zaostrzone. Region będzie zobowiązany do rekompensaty dla gminy, jeśli ta nie wywiąże się ze swojego udziału w planie.",
   "lattlast": "<p>Propozycja ma na celu uczynienie opieki bardziej spójną i zintegrowaną dla osób z problemami związanymi z używaniem substancji lub uzależnieniem, które występują w połączeniu z innymi zaburzeniami psychicznymi.</p><p>Regiony powinny zorganizować opiekę dla osób uzależnionych w taki sposób, aby była ona koordynowana z innymi formami opieki psychiatrycznej. Zwiększono wymagania dotyczące indywidualnych planów opieki, które muszą być opracowywane dla osób przebywających w placówkach opiekuńczych.</p><p>Jeśli region nie wywiązuje się ze swoich obowiązków związanych z indywidualnym planem opieki, będzie zobowiązany do odszkodowania dla gminy. Komisja ds. spraw społecznych powinna również informować region o przyjęciu osoby do placówki opiekuńczej.</p>",
   "relevans": {
-    "tillstand": 3,
-    "kronisk": 3,
-    "psykisk": 3,
-    "beroende": 3
+    "beroende": 9,
+    "psykisk": 8,
+    "kronisk": 5,
+    "anhorigvardare": 6,
+    "sjukskriven": 4,
+    "offentliganstalld": 4,
+    "b_vard": 7
   }
 }

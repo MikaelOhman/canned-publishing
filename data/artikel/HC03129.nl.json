@@ -12,8 +12,11 @@
   "tldr": "De regering wil een nieuw strafbare feit invoeren om te voorkomen dat gestolen goederen het land uit worden gesmokkeld. Ze willen ook de douane meer bevoegdheden geven om illegale goederen te onderzoeken en in beslag te nemen.",
   "lattlast": "<p>De regering stelt voor dat het een apart strafbaar feit wordt om te helpen bij het vervoeren van gestolen goederen uit Zweden. Dit strafbare feit wordt &quot;uitvoerfraude&quot; genoemd. Bij ernstige delicten kan een gevangenisstraf van maximaal zes jaar worden opgelegd. Ook pogingen om dit te doen, moeten illegaal zijn.</p><p>Het voorstel betekent ook dat de Douane, de overheidsinstantie die goederen controleert bij de grens, een grotere verantwoordelijkheid krijgt. Zij moeten de officieren van justitie kunnen helpen bij onderzoeken en meer bevoegdheden krijgen om misdrijven te stoppen. Douaneambtenaren moeten in staat zijn om onderzoeken te starten, vergelijkbaar met hoe de politie dat kan doen.</p><p>Er zijn ook voorstellen om overheidsinstanties die tegen criminaliteit strijden, in staat te stellen goederen die in beslag zijn genomen te behouden, zodat ze deze kunnen gebruiken voor hun opleiding of om bewijsmateriaal te onderzoeken. Als goederen die in beslag zijn genomen gevaarlijk zijn of moeilijk op te slaan, kunnen ze sneller worden vernietigd dan voorheen.</p><p>De regering wil ook de regels wijzigen voor straffen bij het smokkelen van drugs die bedoeld zijn voor verdere verkoop. De meeste van deze nieuwe regels moeten in september 2025 van kracht worden, maar een kleinere wijziging in een wet over belastbare goederen treedt al in werking op 1 juli 2025.</p>",
   "relevans": {
-    "import": 1,
-    "beroende": 1,
-    "otrygg": 2
+    "b_transport": 4,
+    "b_handel": 4,
+    "otrygg": 5,
+    "brottsoffer": 4,
+    "export": 3,
+    "import": 3
   }
 }

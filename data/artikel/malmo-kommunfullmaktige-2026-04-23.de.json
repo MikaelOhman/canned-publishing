@@ -13,12 +13,18 @@
   "tldr": "Die Stadt Malmö hat in ihrer jüngsten Sitzung Beschlüsse zu mehreren wichtigen Fragen bezüglich der Zukunft der Stadt gefasst, darunter neue Bauprojekte, Umweltpläne und Maßnahmen für Kinder und Jugendliche.",
   "lattlast": "<p>Bei der Sitzung des Stadtrats wurden Pläne für die Umwelt und Natur von Malmö diskutiert. Es wird ein Plan für die grünen und blauen Bereiche der Stadt entwickelt, der darauf abzielt, Parks und Wasserflächen in Malmö zu verbessern.</p><p>Es gibt auch Pläne für große Bauprojekte. Die Stadt Malmö prüft den Bau eines neuen Malmö-Stadions im Bereich Sporthallen. Außerdem wurde diskutiert, wie die städtischen Gebäude in den Jahren 2027 bis 2036 genutzt und verteilt werden sollen.</p><p>Die Arbeit zur Unterstützung von Kindern und Jugendlichen ist ebenfalls von großer Bedeutung. Die Kommune hat einen Bericht erhalten, der untersucht, wie die präventive Arbeit gegen Drogen durch eine bessere Zusammenarbeit zwischen verschiedenen Bereichen der Stadt gestärkt werden kann.</p><p>Mehrere Vorschläge, sogenannte Anträge, wurden von Politikern vorgelegt. Diese Vorschläge umfassen alles von der Berechnung der Gebühren für Kindergärten bis hin zu Maßnahmen, um Malmö demokratischer zu gestalten und den Alltag älterer Menschen zu verbessern.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "lokaler": 1,
-    "barn": 2,
-    "konsument": 1,
-    "idrott": 1,
-    "klimat": 1,
-    "fortroendevald": 1
+    "f_storstad": 6,
+    "storstad": 6,
+    "f_kommun": 7,
+    "barn": 5,
+    "ung": 5,
+    "bostadsagare": 3,
+    "hyresgast": 3,
+    "idrott": 4,
+    "klimat": 4,
+    "offentliganstalld": 4,
+    "fortroendevald": 5,
+    "b_fastighet": 4,
+    "lokaler": 3
   }
 }

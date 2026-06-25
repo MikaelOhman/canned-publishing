@@ -12,13 +12,12 @@
   "tldr": "Il governo intende modificare le leggi relative alle imposte sull'energia, sul tabacco e sull'alcol, in modo che permessi e diritti importanti vengano trasferiti alla procedura di liquidazione aziendale quando un'azienda fallisce. Ciò si applica anche ad alcune normative riguardanti le imposte sui prodotti chimici utilizzati nell'elettronica.",
   "lattlast": "<p>Quando un&#x27;azienda fallisce, si crea una massa fallimentare che deve gestire i beni rimanenti dell&#x27;azienda. Il governo propone ora nuove regole per cui determinate licenze e autorizzazioni debbano essere trasferite a questa massa fallimentare. Si tratta di autorizzazioni per l&#x27;esportazione di energia, tabacco e alcol senza dover pagare immediatamente le tasse.</p><p>La modifica riguarda anche i diritti di ottenere il rimborso delle imposte sull&#x27;elettricità. Se un&#x27;azienda che ha diritto al rimborso delle imposte sull&#x27;elettricità fallisce, questo diritto deve rimanere nella massa fallimentare. Allo stesso modo, le autorizzazioni per l&#x27;esportazione di tabacco e alcol come speditori registrati devono essere trasferite alla massa fallimentare.</p><p>La proposta include anche nuove regole su come modificare o contestare le decisioni relative al rimborso delle imposte sui prodotti chimici presenti in alcuni dispositivi elettronici. L&#x27;obiettivo è rendere chiaro cosa succede a queste regole fiscali quando un&#x27;azienda non è più in grado di pagare i propri debiti.</p><p>Se il Parlamento approva la proposta, le nuove regole entreranno in vigore il 1° luglio 2025. Ciò significa che le regole relative alle imposte sull&#x27;energia, sul tabacco, sull&#x27;alcol e sull&#x27;elettronica diventeranno più prevedibili in caso di fallimento.</p>",
   "relevans": {
-    "b_energi": 1,
-    "punktskatt": 3,
-    "konkurs": 3,
-    "tillstand": 1,
-    "miljo": 1,
-    "beroende": 1,
-    "lantagare": 1,
-    "energikund": 1
+    "konkurs": 9,
+    "b_energi": 6,
+    "punktskatt": 7,
+    "b_industri": 4,
+    "b_handel": 4,
+    "aktiebolag": 5,
+    "smaforetag": 4
   }
 }

@@ -12,6 +12,11 @@
   "tldr": "Guvernul a finalizat citirea unui raport despre modul în care noile tehnologii afectează intimitatea noastră personală. Acum, lucrul la acest raport este finalizat.",
   "lattlast": "<p>Guvernul a trimis un comunicat prin care anunță că a citit și a comentat un raport. Raportul se numește &quot;Confidențialitate și tehnologii noi 2020–2024&quot; și tratează modul în care dezvoltarea noilor tehnologii afectează protecția informațiilor noastre personale.</p><p>Raportul a fost scris de Autoritatea de Supraveghere a Protecției Datelor, care este instituția din Suedia responsabilă de asigurarea respectării legilor privind protecția datelor personale. În raport, autoritatea a analizat și a descris evoluțiile tehnologice din perioada 2020-2024.</p><p>Prin acest comunicat, guvernul declară că consideră că lucrul la raport este finalizat. Aceasta înseamnă că au examinat informațiile și că procesul pentru acest raport specific este acum încheiat.</p>",
   "relevans": {
-    "integritet": 3
+    "integritet": 6,
+    "gdpr": 5,
+    "digital_ovan": 3,
+    "bredbandsberoende": 3,
+    "b_it": 5,
+    "digitalisering": 5
   }
 }

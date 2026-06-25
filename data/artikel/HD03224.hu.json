@@ -12,10 +12,13 @@
   "tldr": "A kormány szeretné megváltoztatni azokat a szabályokat, amelyek szerint a bírósági fogadós (Kronofogden) veti le a tartozással rendelkező személyektől a vagyont. A cél az, hogy a tartozások rendezése gyorsabb legyen, és hogy könnyebbé váljon a házak és lakások értékesítése a pénz megszerezése érdekében.",
   "lattlast": "<p>A kormány egy javaslatot terjesztett elő, amelynek célja, hogy megkönnyítse a fogadószervek (Kronofogden) munkáját. A javaslat szerint több hatóság is segíthet a távoli helyről történő követelés behajtásban, ami azt jelenti, hogy a vagyontárgyakat helyszínre érkezés nélkül ellenőrzik, remélve, hogy több értéket lehet eladni. Ez segítene azoknak a személyeknek, akiknek kártérítésre van jogosultságuk, és azoknak, akik a tartozásaik rendezésére várnak.</p><p>Javaslatok vannak arra is, hogy megváltoztassák a házak és lakások értékesítésének módját, amikor azok a tartozások rendezésére kerülnek sorba. A cél az, hogy az értékesítés hasonló legyen egy hagyományos eladáséhoz, például digitális aukciók útján vagy ingatlanközvetítők segítségével. A cél az, hogy a vagyontárgy magasabb áron értékesüljön, ami több pénzt eredményez a tartozások kiegyenlítésére.</p><p>Mivel a javaslat jelentős beavatkozást jelent az emberek életébe, a kormány szeretné, ha a szabályok világosabbak lennének. Javaslatot tesznek arra, hogy a törvényben közvetlenül szerepeljen, hogy a fogadószerveknek figyelembe kell venniük, mi az ésszerű, és mindig a gyermek érdekeit kell előtérbe helyezniük. Ez fontos a családok védelme érdekében, amelyekre az érinti, hogy a hatóság elszámolással járó intézkedéseket foganatosít.</p><p>Ha a parlament megszavazza a javaslatot, az új szabályok 2026. július 1-jén lépnek hatályba. A javaslat további módosításokat is tartalmaz több más törvényben, amelyek az adózást, a vámügyeket és a tengeri mentést érintik, hogy minden összhangban működjön.</p>",
   "relevans": {
-    "b_fastighet": 1,
-    "import": 1,
-    "barn": 1,
-    "lantagare": 1,
-    "skuldsatt": 1
+    "skuldsatt": 10,
+    "lantagare": 7,
+    "bostadsagare": 7,
+    "hyresgast": 4,
+    "brottsoffer": 5,
+    "barn": 5,
+    "b_finans": 4,
+    "b_fastighet": 4
   }
 }

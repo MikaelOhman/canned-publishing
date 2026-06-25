@@ -12,9 +12,11 @@
   "tldr": "Guvernul dorește să modifice regulile privind extragerea și procesarea materialelor nucleare, cum ar fi uraniul. Scopul este ca cerințele de siguranță să fie adaptate riscurilor reale și ca activitatea să semene mai mult cu exploatarea minieră pentru alte metale.",
   "lattlast": "<p>Guvernul a prezentat o propunere de modificare a legii privind activitățile nucleare. În prezent, locurile unde se extrag și se procesează materiale nucleare sunt considerate instalații nucleare. Noua propunere prevede că aceste locuri ar trebui considerate parte a activității nucleare, dar nu ca instalații nucleare în sine.</p><p>Scopul acestei modificări este ca regulile privind protecția împotriva radiațiilor și siguranța să fie mai potrivite pentru riscurile specifice acestui tip de activitate. Prin această propunere, extracția și procesarea uraniului vor fi tratate într-un mod similar cu alte metale și minerale atunci când se solicită autorizația pentru a începe activitatea.</p><p>Propunerea implică, de asemenea, modificări în alte legi. Se dorește ca legea privind răspunderea și compensațiile în cazul accidentelor radiologice să nu se aplice accidentelor care au loc în timpul extracției și procesării materialelor nucleare. În plus, deșeurile rezultate din acest tip de activitate nu vor mai fi considerate produse reziduale în conformitate cu legea privind finanțarea produselor reziduale nucleare.</p><p>Dacă Parlamentul votează în favoarea propunerii, noile reguli vor intra în vigoare la 15 iulie 2026.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_finans": 1,
-    "tillstand": 1,
-    "miljo": 1
+    "b_energi": 6,
+    "b_grona": 4,
+    "b_industri": 4,
+    "miljo": 4,
+    "klimat": 3,
+    "gron_omstallning": 4
   }
 }

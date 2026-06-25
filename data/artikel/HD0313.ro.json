@@ -12,7 +12,15 @@
   "tldr": "Guvernul intenționează să introducă pedepse mai severe pentru a proteja mediul împotriva gazelor periculoase. Va deveni ilegal să emite gaze cu efect de seră și substanțe care dăunează stratului de ozon într-un mod necorespunzător.",
   "lattlast": "<p>Guvernul a propus modificări ale regulilor din codul de mediu, legea care reglementează modul în care protejăm natura. Scopul este de a respecta noile reglementări ale Uniunii Europene privind așa-numitele gaze fluorurate și substanțele care distrug stratul de ozon. Aceste gaze sunt periculoase deoarece contribuie la schimbările climatice și dăunează stratului de ozon din jurul Pământului.</p><p>Încălcarea noilor reguli ar trebui să atragă sancțiuni. De exemplu, se propune ca emisiile acestor gaze în atmosferă să fie considerate infracțiuni. De asemenea, manipularea acestor gaze va fi supusă unor controale mai stricte pentru a preveni deteriorarea mediului. Dacă documentația nu este completată corect la utilizarea gazului sulfurilfluorură, se pot aplica amenzi.</p><p>Majoritatea noilor reguli ar trebui să intre în vigoare începând cu 1 ianuarie 2026. Anumite părți ale propunerii vizează interzicerea utilizării anumitor gaze în timpul întreținerii echipamentelor de răcire și a echipamentelor electrice. Aceste interdicții specifice vor intra în vigoare ulterior, respectiv la 1 ianuarie 2032 și la 1 ianuarie 2035.</p>",
   "relevans": {
-    "miljo": 1,
-    "klimat": 2
+    "miljo": 7,
+    "b_industri": 6,
+    "b_energi": 5,
+    "b_bygg": 4,
+    "gron_omstallning": 5,
+    "eu_marknad": 5,
+    "tillstand": 5,
+    "klimat": 6,
+    "energiintensiv": 5,
+    "produktsakerhet": 4
   }
 }

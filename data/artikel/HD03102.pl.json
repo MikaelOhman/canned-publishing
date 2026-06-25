@@ -12,7 +12,12 @@
   "tldr": "Rząd proponuje nowe przepisy, które mają na celu wymóg udostępniania informacji podatkowych przez duże przedsiębiorstwa i międzynarodowe koncerny. Celem jest ułatwienie kontroli, czy duże firmy płacą odpowiednią kwotę podatków w różnych krajach.",
   "lattlast": "<p>Rząd zamierza zmienić kilka przepisów prawnych, aby dostosować się do nowych regulacji UE, zwanych DAC 9. Regulacje te dotyczą automatycznej wymiany informacji między krajami na temat wysokości podatków płaconych przez duże przedsiębiorstwa. Ma to na celu zapewnienie, że duże firmy nie unikają płacenia podatków poprzez przenoszenie zysków między krajami.</p><p>Propozycja zawiera również nowe sposoby pracy z informacjami podatkowymi zgodnie z międzynarodowymi umowami organizacji OECD. Dotyczy to wymiany informacji na temat tzw. danych GloBE, które są częścią globalnych działań mających na celu stworzenie sprawiedliwego minimalnego podatku dla dużych przedsiębiorstw.</p><p>Propozycja ta wiąże się również ze zmianami w sposobie postępowania w sprawach podatkowych dotyczących dużych koncernów. W szczególności proponowane jest tymczasowe złagodzenie przepisów dla firm, które otrzymują grzywny lub inne kary, tzw. sankcje, w celu ułatwienia przejścia na nowe przepisy.</p><p>Większość nowych przepisów ma obowiązywać od 1 maja 2026 roku. Niektóre aspekty dotyczące poufności i sposobu przetwarzania informacji mają obowiązywać od 1 sierpnia 2026 roku. Parlament ma teraz podjąć decyzję w sprawie wszystkich tych zmian w prawie.</p>",
   "relevans": {
-    "storforetag": 3,
-    "bolagsskatt": 1
+    "storforetag": 9,
+    "aktiebolag": 6,
+    "bolagsskatt": 9,
+    "redovisning": 7,
+    "eu_marknad": 7,
+    "export": 5,
+    "hallbarhetsrapport": 3
   }
 }

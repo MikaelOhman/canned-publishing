@@ -13,11 +13,13 @@
   "tldr": "Zarząd spółki Tyresö Bostäder AB odbył posiedzenie, podczas którego ustalono zasady funkcjonowania firmy w roku 2026. Zatwierdzono nowe przepisy dotyczące pracy, finansów i bezpieczeństwa, a także przeanalizowano postępy w realizacji dużych projektów budowlanych.",
   "lattlast": "<p>Zarząd spółki komunalnej Tyresö Bostäder AB podczas posiedzenia w dniu 22 maja 2026 roku podjął ważne decyzje dotyczące funkcjonowania firmy. Zatwierdził nowe instrukcje dla dyrektora generalnego (CEO) oraz określił, kto ma uprawnienia do podpisywania ważnych dokumentów w imieniu spółki. Oznacza to, że kilku członków zarządu, wraz z p.o. dyrektora generalnego, ma prawo podejmować decyzje i podpisywać umowy.</p><p>W celu zapewnienia bezpieczeństwa i sprawiedliwości w działaniu, zarząd zatwierdził również szereg różnych polityk. Są to regulacje dotyczące szerokiego zakresu zagadnień, od bezpieczeństwa i higieny pracy oraz bezpieczeństwa IT, po zasady zakupu towarów i wynajmu mieszkań. Określono również procedury zatwierdzania płatności oraz liczbę posiedzeń zarządu w ciągu roku.</p><p>Zarząd przeanalizował również raport finansowy, który przedstawia wyniki działalności spółki oraz planowane inwestycje. Raport ten zawiera również prognozę, czyli przewidywanie przyszłego stanu gospodarki.</p><p>Na koniec, zarząd otrzymał informacje na temat postępów w realizacji różnych projektów budowlanych. Przedstawiono najnowsze informacje na temat rozwoju obszaru Björkarna, nowego ośrodka opiekuńczego o nazwie Strand oraz prac w Krusboda. Zarząd zapoznał się z tymi informacjami, ale nie podjął żadnych nowych decyzji w tych konkretnych sprawach.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_vard": 1,
-    "b_it": 1,
-    "finansiering": 1,
-    "arbetsmiljo": 1,
-    "kronisk": 1
+    "f_kommun": 4,
+    "hyresgast": 5,
+    "bostadsagare": 3,
+    "b_fastighet": 5,
+    "kronisk": 3,
+    "pensionar": 3,
+    "gdpr": 3,
+    "arbetsmiljo": 3
   }
 }

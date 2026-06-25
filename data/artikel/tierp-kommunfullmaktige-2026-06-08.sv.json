@@ -13,10 +13,16 @@
   "tldr": "Kommunfullmäktige i Tierp har fattat flera beslut om allt från trafik och skola till framtida stadsplanering. Bland annat rör det nya regler för parkeringsavgifter, säkerhet vid stationer och hur kommunen ska växa fram till år 2050.",
   "lattlast": "<p>I mötet diskuterades viktiga frågor för invånarna i Tierp. Ett av förslagen handlade om att sätta upp kameror vid cykelställen vid Örbyhus station för att öka säkerheten. Man tittade även på möjligheten att erbjuda skoltaxi även för elever på gymnasiet som har funktionshinder.</p><p>När det gäller ekonomi och regler har kommunen beslutat om nya avgifter. Det gäller bland annat vad det kostar att använda kommunens mark och parkeringsavgiften vid Trollsjön. Man har även beslutat om hur mycket det ska kosta när kommunen säljer tomter i området Siggbo Trädgårdsstad.</p><p>För framtiden har kommunen antagit en översiktsplan för år 2050. Det är en långsiktig plan som visar hur kommunen ska användas och byggas under de kommande decennierna. Man har även beslutat om regler för hur politiker ska bete sig för att undvika mutor och andra felaktiga förmålar.</p><p>Slutligen har man beslutat om samarbeten och organisation. Detta inkluderar ett samarbete med Heby kommun för att tillsammans köpa in varor och tjänster mer effektivt, samt nya regler för hur olika nämnder i kommunen ska arbeta.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "barn": 1,
-    "storstad": 1,
-    "bil": 1,
-    "konsument": 1
+    "f_kommun": 6,
+    "mark_bygglov": 5,
+    "bil": 4,
+    "pendlare": 5,
+    "funktion": 5,
+    "barn": 4,
+    "gymnasieelev": 4,
+    "bostadsagare": 4,
+    "glesbygd": 4,
+    "fortroendevald": 5,
+    "upphandling": 3
   }
 }

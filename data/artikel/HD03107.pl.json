@@ -12,6 +12,14 @@
   "tldr": "Rząd zamierza zmienić przepisy, aby umożliwić Krajowej Agencji Podatkowej (Skatteverket) wykorzystanie nowoczesnych technologii do kontroli przedsiębiorstw. Oznacza to, że agencja będzie mogła łatwiej uzyskiwać dostęp do danych cyfrowych, nawet jeśli są one przechowywane w chmurze lub za granicą.",
   "lattlast": "<p>Skatteverket chce uzyskać lepsze narzędzia do przeprowadzania kontroli. Obecnie istnieją ograniczenia dotyczące wykorzystania niektórych rodzajów sieci podczas kontroli, ale rząd chce je usunąć. Ma to umożliwić organowi wykorzystanie własnego sprzętu technicznego do bardziej efektywnego zbierania informacji cyfrowych.</p><p>Kluczową propozycją jest możliwość zdalnego zabezpieczania dowodów. Oznacza to, że Skatteverket będzie mógł wyszukiwać i kopiować dokumenty cyfrowe w systemach wykorzystywanych do komunikacji lub przechowywania plików. Jest to ważne, ponieważ duża ilość informacji jest obecnie przechowywana w tzw. usługach chmurowych, gdzie dane nie są przechowywane na fizycznym komputerze w firmie, a w Internecie.</p><p>Nowe przepisy pozwalają również Skatteverket na pobieranie informacji, nawet jeśli są one przechowywane w innym kraju. Propozycja dotyczy również urządzeń technicznych niezbędnych do przeprowadzenia tych cyfrowych kontroli. Celem jest dostosowanie przepisów do nowoczesnych technologii, jednocześnie zapewniając bezpieczeństwo osobom, które są kontrolowane.</p><p>Jeśli Riksdag (szwedzki parlament) zatwierdzi propozycję, nowe przepisy wejdą w życie 1 lipca 2026 roku. Propozycja ta wprowadza zmiany w trzech różnych ustawach dotyczących kontroli podatkowych, kontroli niektórych towarów oraz wsparcia w procesie transformacji na rynku pracy.</p>",
   "relevans": {
-    "arbetssokande": 2
+    "aktiebolag": 7,
+    "solo": 5,
+    "smaforetag": 6,
+    "storforetag": 6,
+    "redovisning": 6,
+    "gdpr": 5,
+    "integritet": 5,
+    "b_it": 4,
+    "digitalisering": 4
   }
 }

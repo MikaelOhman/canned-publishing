@@ -12,10 +12,11 @@
   "tldr": "Regeringen vill förbjuda spel om pengar som betalas med lån eller kredit. Syftet är att stoppa att människor hamnar i stora skulder på grund av spelande.",
   "lattlast": "<p>Regeringen har lagt fram ett förslag om att ändra lagen för spel om pengar. Det nya förslaget innebär att de som har tillstånd att driva spel eller sälja spel, så kallade licenshavare och spelombud, inte får låta kunder spela med pengar som de har lånat.</p><p>De som erbjuder spel måste också göra vad de kan för att se till att ingen använder krediter när de spelar. Detta gäller alla typer av lagliga spel i Sverige, oavsett om man spelar på nätet eller på en fysisk plats.</p><p>Det finns en möjlighet att få undantag från regeln, men då måste myndigheten Spelinspektionen godkänna det. Spelinspektionen är den myndighet som kontrollerar att alla följer reglerna för spel i Sverige.</p><p>Om riksdagen röstar ja till förslaget kommer de nya reglerna att börja gälla den 1 april 2026.</p>",
   "relevans": {
-    "b_finans": 3,
-    "tillstand": 2,
-    "infrastruktur": 1,
-    "lantagare": 1,
-    "batagare": 1
+    "beroende": 8,
+    "skuldsatt": 7,
+    "bidrag": 4,
+    "ung_vuxen": 4,
+    "konsument": 5,
+    "b_it": 3
   }
 }

@@ -15,20 +15,13 @@
   "tldr": "Az Ånge önkormányzat közgyűlése számos fontos döntést hozott az önkormányzat gazdaságáról és jövőbeli terveiről. Ezek közé tartozik a döntés egy új játszótér, utak és a 2027-es adó mértéke terén történő beruházásokról.",
   "lattlast": "<p>A 2026. június 15-i közgyűlésen több fontos gazdasági döntés született. A település pénzt fog fordítani egy új játszótér építésére Fränstäben, valamint további összegeket különítenek el az utak fejlesztésére 2026-ban.</p><p>A jövőbeli gazdasági kilátások tekintetében a politikusok megvitatták a 2027-es adókat. Emellett egy 2027-es költségvetést és egy hosszú távú gazdasági tervet is elfogadtak, amely 2030-ig terjed. Ez fontos, hogy tisztában legyünk a település jövőbeli pénzügyi forrásaival.</p><p>Számos olyan vállalkozás és szervezet, amelyekkel a település kapcsolatban áll, elkészítette éves jelentéseit. Ez azt jelenti, hogy a politikusok áttekintették a következő szervezetek gazdasági eredményeit: Ånge Energi AB, Ånge Fastighets- &amp; Industri AB és a Västernorrland megyei közlekedési hatóság (Kollektivtrafikmyndigheten).</p><p>Szintén születtek döntések a területekkel és szerződésekkel kapcsolatban. A település eladja a területet az Ellevio nevű vállalatnak, és aláírtak egy megállapodást a Hallstäben található szelektív gyűjtőhely bővítéséről. Ezenkívül döntést hoztak arról, hogy milyen díjak lesznek érvényesek az építési engedélyekkel és a környezetvédelmi ügyekkel kapcsolatos ügyekre.</p>",
   "relevans": {
-    "b_industri": 1,
-    "b_bygg": 1,
-    "b_fastighet": 1,
-    "b_energi": 1,
-    "redovisning": 1,
-    "miljo": 1,
-    "mark_bygglov": 1,
-    "bygger": 1,
-    "glesbygd": 1,
-    "pendlare": 1,
-    "kollektiv": 1,
-    "energikund": 1,
-    "konsument": 1,
-    "klimat": 1,
-    "fortroendevald": 1
+    "f_kommun": 5,
+    "b_energi": 4,
+    "energikund": 4,
+    "lontagare": 3,
+    "glesbygd": 4,
+    "mark_bygglov": 3,
+    "fortroendevald": 3,
+    "b_bygg": 3
   }
 }

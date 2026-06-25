@@ -13,12 +13,14 @@
   "tldr": "A Norrtälje-i gondnokhivatal munkatársai ellen vizsgálatot indított a Länsstyrelsen (régióhivatal), és kritikát fogalmaztak meg. A vizsgálat során kiderült, hogy a gondnokhivatal nem ellenőrizte megfelelően a pénzügyi helyzetet abban az esetben, amikor egy gondnok befejezte a munkáját.",
   "lattlast": "<p>A stockholmi regionális hatóság (Länsstyrelsen) ellenőrzést végzett a Norrtälje önkormányzat gondnokjának (överförmyndare) tevékenységével kapcsolatban. A gondnok feladata, hogy ellenőrizze, hogy azok, akiknek gondviselője vagy gyámja van, megfelelően vannak gondozva, és hogy pénzeik helyesen kerülnek felhasználásra.</p><p>A regionális hatóság kritikát fogalmazott meg a gondnokkal szemben azért, mert nem végezte el megfelelően egy zárt számla ellenőrzését. Az ügy egy olyan személyt érintett, akinek gondviselője nem volt elérhető. Ennek során a személy tartozásai 280 000 koronáról közel 379 000 koronára emelkedtek.</p><p>Az új jelentés, amelyet a harmadik gondviselő készített, azt mutatta, hogy a gyermekek tartási díja nem került kifizetésre. Ezenkívül kiderült, hogy a lakhatási támogatás nem került visszafizetésre a Biztosítási Alapnak (Försäkringskassan). A regionális hatóság úgy véli, hogy a gondnoknak kellett volna észrevennie ezeket a hibákat, és alaposabban kellett volna ellenőriznie a számadásokat.</p><p>A gondnok feladata, hogy gondoskodjon arról, hogy egy személy számára felhasznált pénzeket megfelelően fordítsák, például a személy lakására és életszükségleteire. Biztosítaniuk kell, hogy a pénz ne tűnjön el, és hogy minden számla helyes legyen. Ez a jelentés azt mutatja, hogy ebben az esetben az ellenőrzés nem volt megfelelő.</p>",
   "relevans": {
-    "b_finans": 1,
-    "b_konsult": 1,
-    "barn": 1,
-    "ensam_foralder": 1,
-    "sjukskriven": 1,
-    "hyresgast": 1,
-    "lantagare": 1
+    "f_kommun": 4,
+    "anhorigvardare": 5,
+    "pensionar": 4,
+    "funktion": 5,
+    "barn": 4,
+    "skuldsatt": 4,
+    "bidrag": 4,
+    "hyresgast": 3,
+    "fortroendevald": 4
   }
 }

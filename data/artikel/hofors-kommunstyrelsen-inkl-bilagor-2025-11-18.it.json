@@ -13,12 +13,13 @@
   "tldr": "Il consiglio comunale di Hofors si è riunito il 18 novembre 2025. Durante la riunione, sono stati discussi temi importanti come gli orari di lavoro per le persone che usufruiscono dell'assistenza sociale (LSS), le nuove tariffe per diversi servizi e le proposte dei cittadini volte a migliorare il comune.",
   "lattlast": "<p>La giunta comunale di Hofor ha esaminato diverse questioni importanti. Tra queste, è stata ricevuta una relazione sulle condizioni di lavoro delle persone che ricevono supporto secondo la LSS (una legge che fornisce assistenza a persone con determinate disabilità). In precedenza, erano state concesse deroghe alle norme relative ai periodi di riposo, e ora sono state fornite informazioni sui progressi compiuti per conformarsi a tali norme.</p><p>Sono state inoltre discusse diverse tariffe e tasse che influenzano i residenti. Ciò include, ad esempio, i costi per la supervisione ambientale e sanitaria, nonché le normative sugli alimenti. Sono state discusse anche le tariffe per il servizio di trasporto speciale (färdtjänst), un servizio di trasporto per coloro che hanno difficoltà a viaggiare autonomamente.</p><p>Diverse proposte provenienti dai cittadini sono state discusse durante la riunione. Tra queste, una proposta per l&#x27;introduzione di aree gioco con sabbia e un&#x27;altra per la creazione di una speciale corsia pedonale, chiamata &quot;sparkgång&quot;, sui marciapiedi. L&#x27;obiettivo di tali proposte è spesso quello di rendere il comune più sicuro o più piacevole in cui vivere.</p><p>La riunione ha incluso anche informazioni sull&#x27;economia e sui piani futuri. È stato esaminato, ad esempio, come la società Gävle Energi Elnät AB gestirà la rete elettrica, e sono state discusse le possibilità di installazione di parchi eolici sia sulla terraferma che in mare. Inoltre, si è parlato di come sarà la situazione economica del comune e dei finanziamenti ai partiti politici nel 2026.</p>",
   "relevans": {
-    "b_transport": 1,
-    "b_energi": 3,
-    "regelborda": 1,
-    "funktion": 3,
-    "energikund": 1,
-    "konsument": 1,
-    "klimat": 1
+    "f_kommun": 7,
+    "funktion": 6,
+    "offentliganstalld": 5,
+    "fortroendevald": 5,
+    "energikund": 4,
+    "pendlare": 3,
+    "miljo": 4,
+    "b_energi": 4
   }
 }

@@ -12,8 +12,10 @@
   "tldr": "Il governo intende modificare le leggi che regolano l'utilizzo dei dati personali da parte del servizio penitenziario. L'obiettivo è rendere il lavoro più sicuro ed efficiente, ad esempio attraverso l'utilizzo del riconoscimento facciale.",
   "lattlast": "<p>Il governo ha presentato una proposta per modificare diverse leggi che regolano il modo in cui il Dipartimento di Giustizia può gestire le informazioni riguardanti le persone. L&#x27;obiettivo è rendere le regole più moderne e adatte alle esigenze odierne, proteggendo al contempo la privacy delle persone.</p><p>Con le nuove regole, il Dipartimento di Giustizia dovrebbe avere più facilità nell&#x27;utilizzare le informazioni necessarie per eseguire le pene in modo sicuro. Ciò include, tra l&#x27;altro, una maggiore possibilità per l&#x27;autorità di utilizzare tecnologie di riconoscimento facciale per facilitare il proprio lavoro.</p><p>La proposta riguarda modifiche a diverse leggi, tra cui la legge sulle carceri e le normative sulla sorveglianza elettronica, comunemente chiamata &quot;braccialetto elettronico&quot;. Se il Parlamento approva la proposta, le nuove regole dovrebbero entrare in vigore il 1° aprile 2026.</p>",
   "relevans": {
-    "gdpr": 1,
-    "domd": 3,
-    "integritet": 2
+    "domd": 7,
+    "integritet": 6,
+    "gdpr": 4,
+    "offentliganstalld": 4,
+    "otrygg": 3
   }
 }

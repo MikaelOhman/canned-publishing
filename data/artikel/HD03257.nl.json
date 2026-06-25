@@ -12,8 +12,12 @@
   "tldr": "Gemeenten die verantwoordelijk zijn voor kadastrale zaken, moeten vanaf 2027 hetzelfde digitale systeem gebruiken als de overheidsinstantie Kadaster. Dit wordt gedaan om ervoor te zorgen dat de technologie goed samenwerkt tussen gemeenten en de overheid.",
   "lattlast": "<p>De regering heeft een voorstel ingediend om de regels voor gemeentelijke kadastrale diensten te wijzigen. Een kadastrale dienst is het onderdeel van een gemeente dat verantwoordelijk is voor zaken met betrekking tot grond en grenzen. Vanaf 1 januari 2027 zullen deze gemeentelijke diensten verplicht zijn om hetzelfde digitale systeem te gebruiken voor de afhandeling van hun zaken als het overheidsagentschap Kadaster.</p><p>Het doel van deze wijziging is om ervoor te zorgen dat de technische hulpmiddelen en ondersteuning voor de afhandeling gelijk zijn. Het gaat erom dat informatie eenvoudig en veilig kan worden gedeeld tussen de gemeenten en de overheid. Als een gemeente de juiste systemen niet gebruikt, kan de regering hun vergunning om een kadastrale dienst te exploiteren intrekken.</p><p>De regering, of een door de regering aangewezen instantie, kan regels vaststellen over hoe deze technische systemen moeten worden gebruikt. Zij kunnen ook bepalen of het gebruik van de systemen kosten met zich meebrengt via verschillende vergoedingen.</p><p>Het voorstel betekent dat de eisen waaraan een gemeente moet voldoen om een eigen kadastrale dienst te mogen starten, duidelijker worden. Dit omvat onder meer het hebben van het juiste personeel, de juiste organisatie en dat de technologie functioneert voor de uitwisseling van informatie tussen de overheid en de gemeente.</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "tillstand": 1,
-    "konsument": 1
+    "f_kommun": 5,
+    "mark_bygglov": 6,
+    "bostadsagare": 3,
+    "bygger": 4,
+    "b_fastighet": 6,
+    "digitalisering": 4,
+    "offentliganstalld": 4
   }
 }

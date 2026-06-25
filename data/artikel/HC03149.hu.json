@@ -12,11 +12,13 @@
   "tldr": "A kormány azon dolgozik, hogy szigorítsa a orvosi eszközök, például a orvosi berendezések, ellenőrzését. Jelenleg vizsgálják, hogy bizonyos termékek esetében érdemes-e áthelyezni a felelősséget, hogy az ellenőrzés biztonságosabb és átláthatóbb legyen.",
   "lattlast": "<p>A Riksrevisionen (Svédország ellenőrző intézménye) felülvizsgálatot végzett arról, hogy a svéd állam hogyan ellenőrzi az orvosi eszközöket. Az ellenőrzés során olyan területeket azonosítottak, ahol fejlesztésre van szükség, és javaslatokat fogalmaztak meg a folyamatok javítására. A kormány most megkapta ezeket a javaslatokat, és elkezdte a szükséges változtatások végrehajtását.</p><p>A kormány feladatot adott két fontos intézménynek: a Läkemedelsverketnek (Gyógyszerészeti Hatóság) és az Inspektionen för vård och omsorgnak (IVO, Szociális és Egészségügyi Felügyeleti Hatóság). Jelenleg vizsgálják, hogy a saját gyártású termékek felelősségét át kell-e helyezni az IVO-tól a Läkemedelsverket-hez. A cél az, hogy az ilyen termékek ellenőrzése hatékonyabb legyen.</p><p>A Läkemedelsverket feladata továbbá, hogy felülvizsgálja a tevékenységeiért szánt díjakat. Ezenkívül az intézménynek gondoskodnia kell arról, hogy azok, akik orvosi eszközökkel dolgoznak, valamint az egészségügyi és szociális szektorban dolgozók, megfelelő információkat kapjanak a vonatkozó szabályozásokról. Ez segít mindenkinek abban, hogy betartsák a biztonságos eszközökkel kapcsolatos törvényeket.</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "b_vard": 1,
-    "b_life": 1,
-    "regelborda": 3,
-    "kronisk": 2,
-    "konsument": 1
+    "b_vard": 6,
+    "b_life": 6,
+    "kronisk": 3,
+    "funktion": 3,
+    "offentliganstalld": 3,
+    "tillstand": 4,
+    "regelborda": 4,
+    "avgifter": 3
   }
 }

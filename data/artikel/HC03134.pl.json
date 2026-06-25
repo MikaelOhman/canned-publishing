@@ -12,8 +12,14 @@
   "tldr": "Rząd zamierza zmienić przepisy prawne, aby uniemożliwić przestępcom wykorzystywanie przelewów bankowych do popełniania przestępstw. Nowe przepisy mają ułatwić bankom i policji wykrywanie i zwalczanie prania brudnych pieniędzy.",
   "lattlast": "<p>Rząd przedstawił propozycję mającą na celu zapobieganie wykorzystywaniu systemów płatności przez przestępcze sieci. Obecnie banki muszą kontrolować swoich klientów i informować policję o wszelkich podejrzanych transakcjach. Teraz rząd chce, aby firmy rozliczeniowe, które przesyłają pieniądze między różnymi bankami, również ponosiły odpowiedzialność za kontrolowanie płatności i zgłaszanie podejrzanych przestępstw policji.</p><p>W Szwecji działa również około 1200 pośredników, którzy pomagają zagranicznym firmom w dokonywaniu płatności. Niektóre z tych pośredników są wykorzystywane do przesyłania pieniędzy między krajami, co może być wykorzystywane przez przestępców. W celu zmniejszenia tego ryzyka, rząd chce, aby Finansinspektionen, czyli urząd kontrolujący przestrzeganie przepisów przez firmy, dokładniej kontrolował tych pośredników. Finansinspektionen powinna również mieć możliwość sprawdzania, czy osoby stojące za tymi pośrednikami nie mają wyroku za przestępstwa.</p><p>Nowe przepisy dotyczą zmian w wielu różnych ustawach regulujących sposób, w jaki pieniądze i płatności mogą być przetwarzane w Szwecji. Celem jest powstrzymanie zarówno prania brudnych pieniędzy, jak i finansowania terroryzmu. Jeśli propozycja zostanie przyjęta i Riksdag (szwedzki parlament) zagłosuje za nią, nowe przepisy wejdą w życie 1 lipca 2025 roku.</p>",
   "relevans": {
-    "b_finans": 3,
-    "beroende": 3,
-    "otrygg": 1
+    "b_finans": 7,
+    "aktiebolag": 4,
+    "smaforetag": 4,
+    "solo": 3,
+    "gdpr": 4,
+    "integritet": 4,
+    "b_handel": 3,
+    "export": 3,
+    "import": 3
   }
 }

@@ -12,7 +12,13 @@
   "tldr": "A kormány egy új törvényt akar bevezetni, amely lehetővé teszi a rendőrség számára, hogy mesterséges intelligenciát (AI) használjon arcfelismerésre valós időben. A cél az, hogy könnyebben megtalálják az eltűnt személyeket vagy azokat, akik súlyos bűncselekmények gyanúsítottjai.",
   "lattlast": "<p>A kormány egy új törvénytervezetet terjesztett elő, amely lehetővé teszi a rendőrség számára, hogy mesterséges intelligencia (AI) rendszereket használjon arcfelismerésre. Ez azt jelenti, hogy a rendőrség technológiát használhat arra, hogy azonosítsa az embereket közvetlenül a kamerákon keresztül látható képek alapján. Ez a cél a súlyos bűncselekmények, például a lövöldözések és robbantások elleni küzdelem.</p><p>A technológiát csak különleges és súlyos helyzetekben szabad használni. Ez vonatkozhat például arra, hogy megtalálják azokat a személyeket, akik emberkereskedelem áldatai, vagy akik eltűntek. Ezenkívül használható arra is, hogy megtalálják azokat a személyeket, akik súlyos bűncselekmények gyanúsítottjai, amelyekért legalább négy év szabadszabtárság jár.</p><p>Az emberek jogainak védelme érdekében a rendőrség nem használhatja a technológiát szabadon. Ehhez egy ügyész vagy egy bíróság engedélye szükséges. Ha egy nagyon sürgős helyzetről van szó, a rendőrség közvetlenül elkezdheti a technológia használatát, de ebben az esetben 24 órán belül engedélyt kell kérnie.</p><p>A tervezet több más törvényben is módosításokat tartalmaz, amelyek érintik Svédország más országokkal való együttműködését a bűnüldözés terén. Ha minden módosítás elfogadott lesz, a tervek szerint az új törvény 2026. július 1-jén lép hatályba.</p>",
   "relevans": {
-    "tillstand": 1,
-    "otrygg": 3
+    "otrygg": 6,
+    "brottsoffer": 5,
+    "integritet": 7,
+    "gdpr": 5,
+    "digitalisering": 5,
+    "b_it": 4,
+    "offentliganstalld": 4,
+    "ny_i_sverige": 3
   }
 }

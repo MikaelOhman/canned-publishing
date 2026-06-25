@@ -12,9 +12,13 @@
   "tldr": "Il governo intende introdurre una nuova legge per raccogliere informazioni sui servizi sociali. L'obiettivo è che l'Agenzia Svedese per l'Assistenza Sociale (Socialstyrelsen) possa utilizzare questi dati per migliorare l'assistenza alle persone, tutelando al contempo la privacy dei cittadini.",
   "lattlast": "<p>Il governo ha presentato una proposta di una nuova legge, denominata &quot;legge sul registro dei dati sociali&quot;. Questa legge mira ad aiutare l&#x27;agenzia Socialstyrelsen a gestire i dati personali in modo efficace. Raccogliendo informazioni, è possibile comprendere meglio il funzionamento dei servizi sociali e come migliorare il supporto alle persone.</p><p>La proposta prevede inoltre che coloro che lavorano nei servizi sociali e nell&#x27;assistenza a persone con disabilità debbano fornire le informazioni necessarie a Socialstyrelsen. Ciò significa che le strutture che forniscono assistenza in base alle leggi sui servizi sociali e sull&#x27;assistenza a persone con disabilità saranno tenute a inviare dati al nuovo registro.</p><p>È importante sottolineare che la legge include anche disposizioni per proteggere la privacy delle persone. Ciò significa che è necessario prestare attenzione affinché i dati personali non vengano utilizzati in modo da violare la privacy. L&#x27;obiettivo è creare una gestione sicura di tutte le informazioni raccolte.</p><p>Se la proposta verrà approvata, la nuova legge entrerà in vigore il 1° agosto 2026. La disposizione che impone alle strutture di fornire dati entrerà in vigore un anno dopo, il 1° agosto 2027. È inoltre prevista una modifica relativa alle tariffe, che dovrebbe entrare in vigore il 1° giugno 2026.</p>",
   "relevans": {
-    "gdpr": 1,
-    "funktion": 1,
-    "konsument": 1,
-    "integritet": 2
+    "kronisk": 4,
+    "funktion": 6,
+    "anhorigvardare": 4,
+    "b_vard": 6,
+    "gdpr": 5,
+    "integritet": 6,
+    "offentliganstalld": 4,
+    "f_kommun": 3
   }
 }

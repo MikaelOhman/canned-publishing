@@ -16,8 +16,11 @@
   ],
   "html": "<p>O parte importantă a activității de informații a Poliției constă în colectarea, procesarea și analiza informațiilor. Aceste informații sunt adesea cruciale pentru ca Poliția să poată preveni și împiedica infracțiunile grave. În același timp, pe măsură ce volumul de informații crește constant, reglementările actuale privind gestionarea datelor personale de către Poliție reprezintă obstacole nejustificate pentru activitatea de informații a acestei instituții. Prin urmare, guvernul propune următoarele modificări ale reglementărilor:</p><p>• &quot;Regula numărului minim&quot; va fi extinsă, astfel încât informațiile să nu fie considerate accesibile în comun dacă doar un grup restrâns de persoane din cadrul instituției au dreptul să le acceseze.</p><p>• Un număr mai mare de informații vor putea fi puse la dispoziție în activitatea de informații a Poliției.</p><p>• Cerința ca informațiile accesibile în comun să fie însoțite, în anumite cazuri, de informații suplimentare, va fi aplicată doar în măsura în care este posibil. De asemenea, va fi introdusă o regulă generală de excepție care să stabilească în ce situații această obligație de informare nu va fi aplicabilă.</p><p>Modificările legislative propuse vor intra în vigoare la 1 decembrie 2025.</p>",
   "relevans": {
-    "gdpr": 1,
-    "otrygg": 3,
-    "integritet": 1
+    "integritet": 7,
+    "otrygg": 5,
+    "brottsoffer": 4,
+    "gdpr": 4,
+    "offentliganstalld": 6,
+    "fortroendevald": 3
   }
 }

@@ -12,9 +12,14 @@
   "tldr": "Regeringen vill göra det strängare att ta in arter som skadar naturen till Sverige. Om man med vilja eller genom stor slarv tar in sådana arter kan man få böter eller fängelse.",
   "lattlast": "<p>Regeringen har gjort ett förslag på nya lagar för att skydda naturen mot invasiva främmande arter. Det är arter som inte hör hemma här och som kan skada vår miljö. Förslaget innebär att Sverige ska ha en egen lista på vilka arter som är förbjudna att ta in i landet.</p><p>Om någon medvetet eller genom stor vårdslöshet tar in en sådan art från ett annat EU-land kan man straffas. Straffet kan bli böter eller fängelse i upp till två år. Det blir också ett krav på att man måste anmäla till Tullverket när man för in en sådan art från ett annat EU-land.</p><p>Tullverket, som är myndigheten som kontrollerar varor vid gränsen, ska få mer makt. De ska kunna kontrollera att alla följer reglerna och de kan i vissa fall ta hand om de djur eller växter som är förbjudna. Detta för att se till att de farliga arterna inte kommer in i Sverige.</p><p>De nya reglerna är tänkta att börja gälla den 1 maj år 2026. Förslaget innebär ändringar i två olika lagar, nämligen miljöbalken och inregränslagen.</p>",
   "relevans": {
-    "miljo": 1,
-    "import": 1,
-    "kronisk": 1,
-    "klimat": 1
+    "klimat": 5,
+    "friluftsliv": 4,
+    "husdjur": 3,
+    "import": 4,
+    "miljo": 6,
+    "b_grona": 4,
+    "b_transport": 3,
+    "b_handel": 3,
+    "eu_marknad": 4
   }
 }

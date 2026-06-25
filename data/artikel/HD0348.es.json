@@ -12,8 +12,10 @@
   "tldr": "El gobierno quiere modificar las leyes sobre cómo el Servicio Penitenciario puede utilizar datos personales. El objetivo es hacer que el trabajo sea más seguro y eficiente, por ejemplo, mediante el uso de reconocimiento facial.",
   "lattlast": "<p>El gobierno ha presentado una propuesta para modificar varias leyes que regulan cómo el Servicio Penitenciario puede manejar información sobre personas. El objetivo es que las normas sean más modernas y se adapten mejor a las necesidades actuales, al tiempo que se protege la privacidad de las personas.</p><p>Según las nuevas reglas, el Servicio Penitenciario tendrá más facilidad para utilizar la información necesaria para llevar a cabo las penas de manera segura. Esto incluye, entre otras cosas, que la autoridad tendrá una mayor capacidad para utilizar tecnología de reconocimiento facial para facilitar su trabajo.</p><p>La propuesta abarca modificaciones en varias leyes diferentes, incluyendo la ley de prisiones y las normas para la supervisión electrónica, conocida como tobillera. Si el parlamento aprueba la propuesta, las nuevas normas entrarán en vigor el 1 de abril de 2026.</p>",
   "relevans": {
-    "gdpr": 1,
-    "domd": 3,
-    "integritet": 2
+    "domd": 7,
+    "integritet": 6,
+    "gdpr": 4,
+    "offentliganstalld": 4,
+    "otrygg": 3
   }
 }

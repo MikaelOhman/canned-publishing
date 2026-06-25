@@ -12,10 +12,13 @@
   "tldr": "Rząd proponuje zaostrzenie kar dla młodych osób dopuszczających się przestępstw. Propozycja ta obejmuje m.in. możliwość pociągania do odpowiedzialności dzieci w wieku 13 lat za poważne przestępstwa, z możliwością wymierzania kary przez okres pięciu lat.",
   "lattlast": "<p>Rząd zamierza zmienić przepisy prawne, aby powstrzymać rosnącą przestępczość wśród młodzieży. Jednym z najważniejszych propozycji jest obniżenie progu wiekowego, od którego można zostać ukarany za poważne przestępstwa, do 13 lat. Propozycja ta ma obowiązywać przez okres pięciu lat.</p><p>W przypadku młodych dorosłych, którzy osiągnęli pełnoletność, ale dopuścili się przestępstw, rząd zamierza usunąć tzw. obniżki kary dla młodocianych. Oznacza to, że kary nie powinny być łagodzone tylko dlatego, że sprawca jest młody. Dla osób poniżej 18 roku życia proponuje się również podniesienie maksymalnych kar do 18 lat pozbawienia wolności.</p><p>Również inne rodzaje kar i kontroli mają stać się bardziej surowe. Chodzi o zaostrzenie zasad dotyczących nadzoru nad młodzieżą oraz o bardziej rygorystyczne traktowanie młodzieży, która nie przestrzega warunków pobytu w ośrodku wychowawczym lub prac społecznych. Celem jest, aby zasady te były skuteczniejsze w zwalczaniu zorganizowanej przestępczości.</p><p>Jeśli zmiany te zostaną zatwierdzone przez parlament, rząd planuje, że nowe przepisy wступią w życie 2 sierpnia 2026 roku. Propozycja ta obejmuje również zmiany w wielu innych ustawach, na przykład w ustawach dotyczących podatków, pracy policji oraz sposobu przetwarzania danych osobowych.</p>",
   "relevans": {
-    "gdpr": 1,
-    "barn": 1,
-    "ung": 1,
-    "otrygg": 2,
-    "integritet": 1
+    "barn": 5,
+    "ung": 7,
+    "ung_vuxen": 6,
+    "otrygg": 6,
+    "brottsoffer": 5,
+    "domd": 7,
+    "offentliganstalld": 3,
+    "fortroendevald": 3
   }
 }

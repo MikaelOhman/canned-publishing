@@ -13,12 +13,14 @@
   "tldr": "Województwo Sztokholm przeprowadziło kontrolę w urzędzie opieki społecznej w Norrtälje i wyraziło krytykę. Urząd nie przeprowadzał wystarczających kontroli finansowych, gdy opiekun prawny kończył swoje obowiązki.",
   "lattlast": "<p>Województwo Sztokholm przeprowadziło inspekcję pracy opiekuna prawnego w gminie Norrtälje. Opiekun prawny to organ, którego zadaniem jest kontrolowanie, czy osoby, które mają ustanowionego opiekuna prawnego lub kuratora, są odpowiednio traktowane i czy ich pieniądze są wykorzystywane prawidłowo.</p><p>Województwo Sztokholm zwróciło uwagę opiekunowi prawnemu na niedociągnięcia w kontroli jednego z rozliczeń. Dotyczyło to sprawy, w której osoba miała opiekuna prawnego, z którym nie można było się skontaktować. W tym czasie długi tej osoby wzrosły z 280 000 koron szwedzkich do prawie 379 000 koron szwedzkich.</p><p>W nowym rozliczeniu, przedstawionym przez trzeciego opiekuna prawnego, okazało się, że nie wypłacano środków na utrzymanie dzieci. Ponadto stwierdzono, że dopłaty do mieszkania nie zostały zwrócone do Ubezpieczalni Społecznej. Województwo Sztokholm uważa, że opiekun prawny powinien był zauważyć te błędy i dokładniej kontrolować rozliczenia.</p><p>Zadaniem opiekuna prawnego jest zapewnienie, że pieniądze przeznaczone dla danej osoby są wykorzystywane w odpowiedni sposób, na przykład na jej mieszkanie i utrzymanie. Opiekun prawny ma kontrolować, czy żadne pieniądze nie znikają i czy wszystkie rachunki są zgodne. Niniejszy raport pokazuje, że w tym przypadku kontrola nie była wystarczająca.</p>",
   "relevans": {
-    "b_finans": 1,
-    "b_konsult": 1,
-    "barn": 1,
-    "ensam_foralder": 1,
-    "sjukskriven": 1,
-    "hyresgast": 1,
-    "lantagare": 1
+    "f_kommun": 4,
+    "anhorigvardare": 5,
+    "pensionar": 4,
+    "funktion": 5,
+    "barn": 4,
+    "skuldsatt": 4,
+    "bidrag": 4,
+    "hyresgast": 3,
+    "fortroendevald": 4
   }
 }

@@ -12,9 +12,14 @@
   "tldr": "El gobierno quiere endurecer las medidas para la introducción de especies que dañan el medio ambiente en Suecia. Si alguien introduce intencionalmente o por extrema negligencia estas especies, podría enfrentarse a multas o incluso a prisión.",
   "lattlast": "<p>El gobierno ha presentado una propuesta de nuevas leyes para proteger la naturaleza contra especies invasoras. Estas son especies que no son originarias de aquí y que pueden dañar nuestro medio ambiente. La propuesta implica que Suecia tendrá su propia lista de especies cuya importación al país está prohibida.</p><p>Si alguien introduce intencionadamente o por negligencia grave una de estas especies desde otro país de la UE, puede ser sancionado. La sanción puede ser una multa o una pena de prisión de hasta dos años. También será obligatorio notificar a la Aduana cuando se introduzca una de estas especies desde otro país de la UE.</p><p>La Aduana, que es la autoridad que controla las mercancías en la frontera, tendrá más poder. Podrá controlar que se cumplan las normas y, en algunos casos, podrá hacerse cargo de los animales o plantas que estén prohibidos. Esto se hace para garantizar que estas especies peligrosas no entren en Suecia.</p><p>Las nuevas normas están previstas que entren en vigor el 1 de mayo de 2026. La propuesta implica cambios en dos leyes diferentes: el Código de Medio Ambiente y la Ley de Fronteras Internas.</p>",
   "relevans": {
-    "miljo": 1,
-    "import": 1,
-    "kronisk": 1,
-    "klimat": 1
+    "klimat": 5,
+    "friluftsliv": 4,
+    "husdjur": 3,
+    "import": 4,
+    "miljo": 6,
+    "b_grona": 4,
+    "b_transport": 3,
+    "b_handel": 3,
+    "eu_marknad": 4
   }
 }

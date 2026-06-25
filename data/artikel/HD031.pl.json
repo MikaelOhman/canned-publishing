@@ -12,12 +12,22 @@
   "tldr": "Rząd przedstawił projekt budżetu Szwecji na rok 2026. Dotyczy on tego, ile pieniędzy państwo może przeznaczyć i ile może zaciągnąć długów w nadchodzących latach.",
   "lattlast": "<p>Rząd proponuje plan, który określa, w jaki sposób środki państwa mają być wykorzystywane w latach 2026, 2027 i 2028. Jedną z kluczowych decyzji jest tzw. limit wydatków, czyli maksymalna kwota, jaką państwo może wydać. Proponowany limit na rok 2026 wynosi 1 936 miliardów koron, a na rok 2027 – 2 009 miliardów koron.</p><p>Plan zawiera również zasady dotyczące oszczędności państwa. Od roku 2027 celem jest osiągnięcie poziomu oszczędności zrównoważonego z sytuacją gospodarczą. Ma to na celu zapewnienie stabilnej gospodarki, nawet w sytuacjach trudnych dla kraju.</p><p>Rząd chce również mieć możliwość zaciągania pożyczek w celu finansowania ważnych przedsięwzięć. Dotyczy to m.in. możliwości zaciągnięcia pożyczek do wysokości 74,9 miliardów koron na zakup sprzętu i budynków niezbędnych do funkcjonowania państwa. Proponowane są również zmiany w różnych podatkach, takich jak podatek od energii, podatek od ruchu drogowego oraz podatek dochodowy.</p><p>W celu utrzymania porządku finansowego, rząd proponuje również, aby Krajowy Urząd Zarządzania Finansami, który zajmuje się finansami państwa, mógł zarządzać pożyczkami i kredytami. Oznacza to, że państwo ma jasny plan zarówno dotyczący tego, na co zostaną przeznaczone środki, jak i w jaki sposób zostaną one spłacone.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_finans": 1,
-    "b_energi": 1,
-    "lontagare": 1,
-    "glesbygd": 1,
-    "sparare": 1,
-    "energikund": 1
+    "solo": 4,
+    "aktiebolag": 4,
+    "arbetsgivare": 4,
+    "smaforetag": 4,
+    "storforetag": 5,
+    "moms": 3,
+    "bolagsskatt": 4,
+    "avgifter": 4,
+    "punktskatt": 3,
+    "lontagare": 3,
+    "foretagare": 4,
+    "pensionar": 3,
+    "energikund": 3,
+    "bil": 3,
+    "konsument": 3,
+    "pensionssparare": 3,
+    "sparare": 3
   }
 }

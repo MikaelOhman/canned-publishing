@@ -12,8 +12,10 @@
   "tldr": "The government wants to make it easier to obtain a response when the Swedish Authority for Data Protection (IMY) is too slow in handling complaints about personal data. After three months, individuals should be able to demand an update on the status of their complaints.",
   "lattlast": "<p>Currently, it can take a long time to receive a response when something is reported to the Swedish Authority for Data Protection (Smyndigheten), which is the agency responsible for ensuring that regulations regarding personal data are followed. The government therefore wants to amend the law to give it more power to obtain answers to its questions.</p><p>If three months have passed since you submitted a complaint, you should have the right to request an update from the agency. The agency must then, within two weeks, inform you whether or not they will initiate an investigation. If they do not respond within that time, it is considered that they have declined your request.</p><p>If the agency refuses to investigate your complaint, you have the right to appeal the decision to a court called the Administrative Court of Appeal (förvaltningsrätten). If the court believes that the agency should have responded to your question, they can compel the agency to provide you with an answer as soon as possible.</p><p>The new rules are intended to come into effect on May 1, 2025. The purpose is to ensure that the agency operates more efficiently and does not allow cases to remain unresolved for too long without providing any information.</p>",
   "relevans": {
-    "b_fastighet": 1,
-    "gdpr": 3,
-    "integritet": 2
+    "gdpr": 7,
+    "integritet": 6,
+    "konsumentratt": 3,
+    "regelborda": 4,
+    "digitalisering": 3
   }
 }

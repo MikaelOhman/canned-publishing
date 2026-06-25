@@ -13,9 +13,23 @@
   "tldr": "Kommunfullmäktige i Ånge har beslutat om viktiga ekonomiska planer, bland annat budgeten för 2026 och skatten för nästa år. Man har även diskuterat vattenförsörjning och nya regler för socialtjänsten.",
   "lattlast": "<p>I mötet den 16 juni 2025 diskuterade politikerna i Ånge kommun flera viktiga frågor för framtiden. Bland de största besluten finns arbetet med budgeten för år 2026 och den ekonomiska planen för åren 2027 till 202ss. Man har även beslutat om hur hög skatten ska vara under år 2026.</p><p>Frågor om vatten och avlopp var centrala i mötet. Det handlar om planer för vattenförsörjningen i området Hjältan och ett nytt reningsverk på samma plats. Man har även beslutat om ändringar i pengarna som ska användas för vatten och avlopp, till exempel för en ny vattenkiosk och en ledning mellan Ljungaverk och Fränsta.</p><p>Socialtjänsten och tryggheten i kommunen diskuterades också. Politikerna tittade på hur socialtjänsten ska arbeta när en ny lag träder i kraft och hur man ska samarbeta kring socialjour i länet. Det fanns även diskussioner om att skapa tydliga regler för att skydda de personer som arbetar i kommunen mot hot och våld.</p><p>Slutligen gick man igenom flera årsredovisningar, vilket är rapporter som visar hur ekonomin har sett ut i olika organisationer under det senaste året. Man diskuterade även flytt av fastigheter mellan kommunen och företaget Ånge Fastighets- och Industri AB.</p>",
   "relevans": {
-    "b_industri": 1,
-    "b_fastighet": 1,
-    "redovisning": 1,
-    "otrygg": 1
+    "f_kommun": 8,
+    "b_fastighet": 6,
+    "lontagare": 5,
+    "hyresgast": 5,
+    "bostadsagare": 5,
+    "energikund": 6,
+    "glesbygd": 7,
+    "mindre_ort": 8,
+    "pendlare": 4,
+    "offentliganstalld": 6,
+    "fortroendevald": 7,
+    "barn": 4,
+    "pensionar": 4,
+    "infrastruktur": 6,
+    "f_landsbygd": 6,
+    "aktiebolag": 4,
+    "smaforetag": 4,
+    "b_vard": 5
   }
 }

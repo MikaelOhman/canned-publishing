@@ -13,11 +13,13 @@
   "tldr": "The board of directors of Tyresö Bostäder AB held a meeting to determine how the company will be managed in 2026. They approved new regulations regarding work practices, finances, and safety, and also reviewed the progress of major construction projects.",
   "lattlast": "<p>At its meeting on May 22, 2026, the board of directors of the municipal company Tyresö Bostäder AB made important decisions regarding the company&#x27;s operations. They approved new guidelines for the CEO and determined who is authorized to sign important documents on behalf of the company. This means that several board members, along with the acting CEO, have the authority to make decisions and sign agreements.</p><p>To ensure safe and fair operations, the board also approved several policies. These policies cover a wide range of areas, from workplace safety and IT security to procurement procedures and rental practices. They also determined the process for approving financial payments and the number of board meetings to be held during the year.</p><p>The board also reviewed a financial report that provides an overview of the company&#x27;s performance and outlines planned investments. This report also includes a forecast, which is an estimate of the company&#x27;s future financial performance.</p><p>Finally, the board received information about the progress of various construction projects. They were updated on the development of the Björkarna area, the new care and housing facility called Strand, and the work being done in Krusboda. The board reviewed this information but did not make any new decisions regarding these specific projects.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_vard": 1,
-    "b_it": 1,
-    "finansiering": 1,
-    "arbetsmiljo": 1,
-    "kronisk": 1
+    "f_kommun": 4,
+    "hyresgast": 5,
+    "bostadsagare": 3,
+    "b_fastighet": 5,
+    "kronisk": 3,
+    "pensionar": 3,
+    "gdpr": 3,
+    "arbetsmiljo": 3
   }
 }

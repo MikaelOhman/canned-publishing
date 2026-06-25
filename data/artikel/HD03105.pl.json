@@ -12,7 +12,12 @@
   "tldr": "Rząd zamierza zmienić prawo, aby zapobiec sprzedaży ważnych nieruchomości osobom lub firmom, które mogą zagrażać bezpieczeństwu Szwecji. Od lipca 2026 roku, przed każdą zmianą właściciela ważnych budynków lub gruntów, konieczne będą przeprowadzone kontrole.",
   "lattlast": "<p>Rząd przedstawił propozycję zmiany ustawy o ochronie bezpieczeństwa. Celem jest wzmocnienie bezpieczeństwa Szwecji poprzez kontrolowanie, kto kupuje ważne nieruchomości, takie jak budynki lub grunty, które są istotne dla obrony kraju.</p><p>Jeśli ktoś posiada działalność ważną dla bezpieczeństwa Szwecji i chce sprzedać nieruchomość, musi najpierw przeprowadzić szczegółowe badania. Należy sprawdzić, czy nowy właściciel jest odpowiedni i porozmawiać z odpowiednią instytucją kontrolującą bezpieczeństwo. Ta instytucja może również odmówić sprzedaży, jeśli uzna ją za niebezpieczną dla kraju.</p><p>Propozycja dotyczy również zmian w podziale gruntów, czyli tzw. podziału nieruchomości. Oznacza to, że zasady te mają zastosowanie również w przypadku tworzenia nowych działek lub zmiany granic gruntów w sposób, który zmienia to, kto jest właścicielem czego.</p><p>Jeśli propozycja zostanie przyjęta, nowe przepisy zaczną obowiązywać od 1 lipca 2026 roku. Rząd może w pewnych szczególnych przypadkach określić, że istnieją wyjątki od tych przepisów.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_fastighet": 1
+    "b_fastighet": 8,
+    "mark_bygglov": 6,
+    "tillstand": 6,
+    "upphandling": 3,
+    "f_kommun": 3,
+    "bostadsagare": 4,
+    "sparare": 3
   }
 }

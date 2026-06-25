@@ -12,7 +12,20 @@
   "tldr": "Le gouvernement souhaite modifier les lois afin de renforcer la sécurité des citoyens en cas de guerre ou de crise. Cela implique d'améliorer les abris de protection et de mettre en place de meilleurs plans concernant les lieux de résidence en cas d'alerte accrue.",
   "lattlast": "<p>La sécurité en Suède s&#x27;est détériorée, et c&#x27;est pourquoi l&#x27;État travaille à renforcer la défense civile. Cela signifie que nous avons besoin de meilleurs abris et d&#x27;autres endroits sûrs où se réfugier en cas de guerre ou d&#x27;une crise majeure dans le pays. On parle de &quot;niveau de préparation élevé&quot;.</p><p>Le gouvernement a soumis une proposition au Riksdag (Parlement suédois) pour modifier plusieurs lois. Il souhaite introduire une nouvelle loi sur les abris et modifier les lois qui régissent la manière dont les personnes doivent être évacuées et logées en cas de crise. Il souhaite également modifier la loi sur l&#x27;urbanisme et la construction, qui est la loi qui régit la manière dont les bâtiments peuvent être construits en Suède.</p><p>L&#x27;objectif de ces modifications est de disposer de plans clairs sur qui est responsable de quoi lorsque les personnes doivent être évacuées. Il doit également être clair comment organiser le logement pour ceux qui ne peuvent pas rester chez eux.</p><p>Si le Riksdag approuve la proposition, les nouvelles règles entreront en vigueur le 1er juin 2026.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "varnpliktig": 1
+    "bostadsagare": 5,
+    "hyresgast": 5,
+    "bostadslos": 4,
+    "glesbygd": 3,
+    "storstad": 3,
+    "mindre_ort": 3,
+    "varnpliktig": 5,
+    "barn": 4,
+    "pensionar": 4,
+    "kronisk": 3,
+    "funktion": 3,
+    "mark_bygglov": 4,
+    "b_fastighet": 3,
+    "f_kommun": 4,
+    "offentliganstalld": 3
   }
 }

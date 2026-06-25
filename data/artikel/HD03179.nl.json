@@ -12,9 +12,9 @@
   "tldr": "De regering wil een nieuwe wet invoeren die het voor de Zweedse militaire inlichtingendienst (Försvarets radioanstalt) gemakkelijker maakt om informatie te verzamelen uit radiosignalen in geval van oorlog of oorlogsdreiging. Het doel is om de veiligheid van Zweden te versterken en bedreigingen zoals terrorisme en ernstige criminaliteit op te sporen.",
   "lattlast": "<p>De regering heeft een voorstel ingediend voor een nieuwe wet over signaalbewaking. Signaalbewaking betekent het afluisteren en analyseren van digitale informatie en radiosignalen om belangrijke informatie te verkrijgen. Deze nieuwe wet moet de overheidsinstantie Försvarets radioanstalt helpen effectief te werken wanneer Zweden in oorlog is of wanneer er een risico op oorlog bestaat.</p><p>Het voorstel omvat ook wijzigingen in bestaande wetten. Het moet mogelijk worden gemaakt om signaalbewaking ook te gebruiken tijdens militaire oefeningen. Men wil ook efficiënter kunnen spioneren om internationale terrorisme en andere grote misdrijven te identificeren die de belangen van Zweden kunnen schaden. Het wordt ook gemakkelijker om informatie te verwerken in noodsituaties, waarbij bepaalde soorten signalen voorheen niet konden worden opgeslagen.</p><p>Om dit mogelijk te maken, stelt de regering ook wijzigingen voor in de regels voor de Försvarsunderrättelsedomstolen, de rechtbank die de bewaking controleert. Men wil ook de regels wijzigen over hoe persoonlijke gegevens door Försvarets radioanstalt mogen worden behandeld wanneer zij hun nieuwe taken uitvoeren.</p><p>Als het parlement instemt met het voorstel, zullen de nieuwe wetten in werking treden op 1 augustus 2026.</p>",
   "relevans": {
-    "gdpr": 1,
-    "otrygg": 1,
-    "integritet": 1,
-    "varnpliktig": 3
+    "integritet": 5,
+    "varnpliktig": 4,
+    "offentliganstalld": 3,
+    "b_it": 3
   }
 }

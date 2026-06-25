@@ -13,12 +13,12 @@
   "tldr": "Ale kommun har ett möte i kommunfullmäktige den 17 juni 2026. De ska bland annat besluta om pengar till bygget av Ale torg, nya företag och hur man ska jobba mot brott i välfärden.",
   "lattlast": "<p>Kommunfullmäktige i Ale kommun ska träffas den 17 juni 2026 klockan 18:00 i Medborgarhuset Alafors. Under mötet ska politikerna ta beslut om flera viktiga frågor som rör kommunens ekonomi och framtid.</p><p>En viktig punkt på listan är att man ska ändra hur mycket pengar som finns att använda för att bygga och utveckla Ale torg under åren 2026 och 2027. Politikerna ska också diskutera om Ale ska fortsätta vara med i Räddningstjänsten Storgöteborg, vilket är den organisation som sköter brandförsvaret i området.</p><p>Det ska även tas beslut om att starta ett nytt företag för ett område som kallas Nödinge 1:22. Dessutom ska man prata om hur kommunen ska arbeta för att stoppa brott som drabbar välfärden, till exempel när pengar som ska gå till skola eller omsorg betalas ut felaktigt.</p><p>Mötet handlar även om att ändra regler för olika råd, som rådet för personer med funktionsnedsättning och pensionärsrådet. Man ska också titta på hur man använder digitala underskrifter och hur man hanterar personuppgifter som är skyddade.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_vard": 2,
-    "gdpr": 1,
-    "barn": 1,
-    "pensionar": 1,
-    "funktion": 1,
-    "integritet": 1
+    "f_kommun": 6,
+    "ideell": 3,
+    "gdpr": 3,
+    "offentliganstalld": 3,
+    "pensionar": 3,
+    "funktion": 3,
+    "fortroendevald": 6
   }
 }

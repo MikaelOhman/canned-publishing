@@ -13,6 +13,11 @@
   "tldr": "Egy e-mailben frissített adatokat közöltek a Lekebergs önkormányzat vízellátásáról és szennyvízelvezetéséről. A levélben azt írták, hogy a víz tisztításának költségei magasabbak, mint amit korábban feltételeztek.",
   "lattlast": "<p>Mårten Frumerie, a Vättern víztársaság vezetője, új számokkal kapcsolatos információkat küldött. Elmagyarázta, hogy a víz tisztításának költsége magasabb lett, mint amit korábban feltételeztek.</p><p>Ez az emelkedés azzal függ össze, hogy az szennyvíz tisztítása drágább lett. Ez egy fontos változás, mivel befolyásolja, hogy mennyi pénzre van szükség a településen a víz- és szennyvízgazdálkodáshoz.</p><p>Caroline Elfors, a Lekebergs önkormányzatának munkatársa, átvette az információt, és továbbította az érintetteknek. Az e-mail célja, hogy mindenki hozzájusson a legfrissebb és legpontosabb adatokhoz a további munkához.</p>",
   "relevans": {
-    "glesbygd": 1
+    "f_kommun": 5,
+    "energikund": 6,
+    "offentliganstalld": 4,
+    "b_energi": 4,
+    "glesbygd": 3,
+    "mindre_ort": 3
   }
 }

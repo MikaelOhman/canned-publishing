@@ -12,10 +12,24 @@
   "tldr": "Die schwedische Steuerbehörde (Skatteverket) möchte eine bessere Kontrolle über Betrug im Zusammenhang mit Steuerabzügen für beispielsweise Reinigungsarbeiten und Solaranlagen erreichen. Der Vorschlag sieht vor, dass es für die Behörde einfacher wird, Unternehmen zu überprüfen und Verstöße im Arbeitsleben aufzudecken.",
   "lattlast": "<p>Die Regierung hat einen Vorschlag für neue Regeln vorgelegt, die es schwieriger machen sollen, Steuerbetrug zu begehen. Es geht um die Abzüge, die als &quot;ROT&quot;, &quot;RUT&quot; und &quot;grüne Technologie&quot; bezeichnet werden, und die Geld zurückerstatten, wenn Dienstleistungen wie Reinigung oder die Installation von Solarmodulen in Anspruch genommen werden.</p><p>Die Unternehmen, die die Arbeiten ausführen, müssen nun klarer angeben, ob sie andere Unternehmen oder Personalvermittlungsagenturen zur Unterstützung hinzugezogen haben. Das Finanzamt soll außerdem größere Möglichkeiten erhalten, Kontrollen durchzuführen und Unternehmen zu besuchen, um sicherzustellen, dass alles korrekt abläuft. Es soll auch einfacher werden, Informationen digital an die Behörde zu übermitteln.</p><p>Wenn ein Unternehmen unrechtmäßig Geld erhalten hat, kann das Finanzamt es zurückfordern und zusätzlich Zinsen berechnen. Es wird auch möglich sein, die Steuer nachträglich zu prüfen, wenn Fehler im Antrag auf Steuererleichterung festgestellt werden.</p><p>Wenn alle diese Änderungen vom Parlament verabschiedet werden, treten die neuen Regeln am 1. Januar 2027 in Kraft. Ziel ist es, Steuerbetrug und Kriminalität im Arbeitsleben zu bekämpfen, indem es dem Finanzamt erleichtert wird, zu überprüfen, was tatsächlich geschieht.</p>",
   "relevans": {
-    "arbetsgivare": 3,
-    "b_konsult": 1,
-    "sparare": 1,
-    "lantagare": 1,
-    "otrygg": 1
+    "solo": 6,
+    "aktiebolag": 6,
+    "arbetsgivare": 6,
+    "smaforetag": 7,
+    "storforetag": 5,
+    "familjeforetag": 6,
+    "b_bygg": 6,
+    "b_vard": 5,
+    "b_konsult": 6,
+    "b_it": 4,
+    "moms": 5,
+    "redovisning": 6,
+    "regelborda": 6,
+    "tillstand": 4,
+    "upphandling": 4,
+    "bostadsagare": 5,
+    "bygger": 6,
+    "konsument": 4,
+    "foretagare": 6
   }
 }

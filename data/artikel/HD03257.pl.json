@@ -12,8 +12,12 @@
   "tldr": "Gminy odpowiedzialne za sprawy geodezyjne muszą od 2027 roku korzystać z tego samego systemu cyfrowego, co państwowa agencja geodezyjna, Lantmäteriet. Jest to konieczne, aby zapewnić kompatybilność technologii między gminami a państwem.",
   "lattlast": "<p>Rząd przedstawił propozycję zmian w przepisach dotyczących lokalnych urzędów geodezyjnych. Urząd geodezyjny to jednostka w ramach gminy, która zajmuje się sprawami związanymi z gruntem i granicami. Od 1 stycznia 2027 roku, te lokalne urzędy będą zobowiązane do korzystania z tych samych systemów cyfrowych do obsługi spraw, jak krajowy urząd geodezyjny, Lantmäteriet.</p><p>Celem tej zmiany jest zapewnienie, że narzędzia i wsparcie techniczne dla procesów administracyjnych będą takie same. Chodzi o to, aby informacje mogły być łatwo i bezpiecznie udostępniane między gminami a państwem. Jeśli gmina nie będzie korzystać z odpowiednich systemów, rząd może odebrać jej pozwolenie na prowadzenie działalności geodezyjnej.</p><p>Rząd lub wyznaczona przez niego instytucja może również określać zasady korzystania z tych systemów technicznych. Mogą również ustalać opłaty za korzystanie z tych systemów.</p><p>Propozycja ta oznacza, że wymagania dotyczące tego, co gmina musi wykazać, aby uzyskać pozwolenie na utworzenie własnego urzędu geodezyjnego, staną się bardziej jasne. Obejmuje to m.in. posiadanie odpowiedniego personelu, odpowiedniej organizacji oraz sprawne działanie technologii umożliwiającej wymianę informacji między państwem a gminą.</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "tillstand": 1,
-    "konsument": 1
+    "f_kommun": 5,
+    "mark_bygglov": 6,
+    "bostadsagare": 3,
+    "bygger": 4,
+    "b_fastighet": 6,
+    "digitalisering": 4,
+    "offentliganstalld": 4
   }
 }

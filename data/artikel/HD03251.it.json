@@ -12,9 +12,12 @@
   "tldr": "L'assistenza per le persone con dipendenze e problemi di salute mentale deve essere meglio integrata. Le regioni devono garantire che l'assistenza per le dipendenze sia coordinata con l'altra assistenza psichiatrica, vengono inasprite le richieste relative ai piani di cura individuali e la regione è tenuta a risarcire il comune se quest'ultimo non adempie alla sua parte del piano.",
   "lattlast": "<p>La proposta mira a rendere l&#x27;assistenza più uniforme e coerente per le persone che soffrono di comportamenti dannosi o dipendenze, unitamente ad altre condizioni psichiatriche.</p><p>Le regioni devono organizzare i servizi di assistenza per le dipendenze in modo che siano coordinati con altre forme di assistenza psichiatrica. Vengono rafforzati i requisiti relativi al piano individuale che deve essere redatto per le persone che vengono ospitate in case di cura o residenze assistite.</p><p>Se la regione non adempie ai propri obblighi relativi al piano individuale, sarà tenuta a risarcire il comune. Il servizio sociale deve inoltre informare la regione quando una persona viene accolta in una casa di cura o residenza assistita.</p>",
   "relevans": {
-    "tillstand": 3,
-    "kronisk": 3,
-    "psykisk": 3,
-    "beroende": 3
+    "beroende": 9,
+    "psykisk": 8,
+    "kronisk": 5,
+    "anhorigvardare": 6,
+    "sjukskriven": 4,
+    "offentliganstalld": 4,
+    "b_vard": 7
   }
 }

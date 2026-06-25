@@ -13,14 +13,17 @@
   "tldr": "Los políticos del municipio de Gävle celebraron una reunión el 30 de marzo de 2026 para tomar decisiones sobre diversos temas, incluyendo energía eólica, escuelas y economía.  Además, recibieron varias propuestas, conocidas como mociones, que abarcaban una amplia gama de temas, desde energía solar hasta parques.",
   "lattlast": "<p>En el pleno del ayuntamiento de Gävle ha debatido varios temas importantes. Entre las decisiones clave se encuentran cuestiones relacionadas con la energía eólica en Hamrånge y Gävle norra, así como la forma en que el municipio utilizará sus fondos para diversas inversiones en 2025.</p><p>Los políticos también han establecido normas sobre el transporte escolar y los viajes de los estudiantes. Además, existen planes para desarrollar proyectos que gestionen las aguas pluviales y las fuertes lluvias, conocidas como &quot;inundaciones repentinas&quot;, en Gävson. Asimismo, se ha debatido cómo hacer que el municipio sea más accesible para las personas mayores.</p><p>Se han presentado varias propuestas de diferentes partidos políticos. El Partido de Izquierda ha propuesto aumentar el uso de energía solar, crear parques comestibles e invertir en actividades al aire libre. Los Demócratas Suecos han presentado propuestas sobre plazas de aparcamiento para autocaravanas en Hemlingby, normas musicales en centros juveniles y destinar más fondos al arte en las inversiones.</p><p>La reunión también se centró en establecer normas sobre cómo se gestionarán las actividades del municipio y cómo se apoyará a las empresas locales a través de un &quot;compromiso de servicio&quot;. También se han revisado las normas sobre los servicios de salud ocupacional y los dispositivos de asistencia.</p>",
   "relevans": {
-    "b_energi": 1,
-    "b_kultur": 1,
-    "finansiering": 1,
-    "barn": 2,
-    "ung": 1,
-    "bil": 1,
-    "friluftsliv": 1,
-    "idrott": 1,
-    "kultur": 1
+    "f_kommun": 6,
+    "barn": 5,
+    "glesbygd": 4,
+    "klimat": 4,
+    "energikund": 4,
+    "b_energi": 5,
+    "idrott": 3,
+    "friluftsliv": 4,
+    "pendlare": 4,
+    "fortroendevald": 5,
+    "offentliganstalld": 4,
+    "mark_bygglov": 3
   }
 }

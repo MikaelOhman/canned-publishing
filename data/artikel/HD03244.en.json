@@ -12,9 +12,13 @@
   "tldr": "The government wants to introduce a new law that will make it easier for government agencies and municipalities to share digital information with each other. The purpose is to reduce paperwork and to use new technologies, such as AI, in a more efficient way.",
   "lattlast": "<p>The government has proposed a new law to govern how information is shared between different parts of the public sector in Sweden. The law concerns so-called interoperability, which is a complex term describing how different data systems should be able to communicate with each other and understand each other&#x27;s information. By making this easier, the aim is to reduce administrative burden and use modern technology, such as AI, more effectively.</p><p>The organizations that must comply with the new rules include government agencies, municipalities, regions, and certain municipal companies. The rules apply when information is shared frequently or in large quantities. However, the government has the right to determine that certain groups do not need to comply with the law, and they can also specify the exact technical requirements that apply to the sharing of information.</p><p>There are important exceptions to protect citizens and the country. The new requirements do not need to be followed if it would threaten Sweden&#x27;s security, or if it becomes too risky for personal data and cybersecurity. Furthermore, the requirements do not need to be followed if the cost is disproportionately high compared to the benefits gained from sharing the information.</p><p>If the Parliament votes in favor of the proposal, the new law will come into effect on August 15, 2026.</p>",
   "relevans": {
-    "b_fastighet": 3,
-    "gdpr": 2,
-    "kronisk": 1,
-    "integritet": 1
+    "f_kommun": 5,
+    "offentliganstalld": 5,
+    "digitalisering": 7,
+    "gdpr": 5,
+    "integritet": 4,
+    "digital_ovan": 3,
+    "b_it": 6,
+    "regelborda": 4
   }
 }

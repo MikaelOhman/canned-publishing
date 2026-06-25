@@ -12,7 +12,9 @@
   "tldr": "Riksrevisionen har granskat förskolan och funnit att staten inte gör tillräckligt för att alla barn ska få samma bra förskola. Regeringen har valt att inte ändra på något just nu eftersom en utredning redan pågår.",
   "lattlast": "<p>Riksrevisionen är en myndighet som kontrollerar att staten gör sitt jobb rätt. De har undersökt om Skolverket och Skolinspektionen arbetar tillräckligt bra för att alla förskolor i Sverige ska vara lika bra. De menar att det nuvarande systemet inte fungerar bra eftersom ansvaret för att kontrollera förskolorna är uppdelat mellan kommunerna och Skolinspektionen.</p><p>För att göra förskolan mer rättvis föreslår Riksrevisionen att man ändrar på hur kontrollerna görs. De tycker att det borde finnas ett enhetligt system där till exempel Skolinspektionen får ansvar för att kontrollera alla förskolor på samma sätt. Detta skulle kunna göra det säkrare och mer rättvist för alla barn.</p><p>Regeringen har dock valt att inte genomföra de ändringar som Riksrevisionen föreslår just nu. Anledningen är att regeringen redan har startat en utredning som ska titta på hur man kan få en likvärdig förskola med god kvalitet. Man väntar på resultatet från den utredningen innan man bestämmer sig för nästa steg.</p>",
   "relevans": {
-    "regelborda": 3,
-    "barn": 3
+    "barn": 6,
+    "b_utbildning": 7,
+    "f_kommun": 5,
+    "offentliganstalld": 4
   }
 }

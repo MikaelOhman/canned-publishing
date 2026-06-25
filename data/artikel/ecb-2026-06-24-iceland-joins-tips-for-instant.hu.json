@@ -13,6 +13,11 @@
   "tldr": "Az Island pénzügyi intézete aláírt egy megállapodást, amely lehetővé teszi, hogy pénzt közvetlenül, 24 órában, izlandi korona valutában küldjenek. Ez a rendszer 2028-tól lép érvénybe egy új, gyorsabb fizetési rendszer keretében.",
   "lattlast": "<p>Izland és az Európai Központi Bank megállapodott abban, hogy Izland csatlakozik a TIPS nevű rendszerhez. Ez egy olyan rendszer, amely lehetővé teszi a közvetlen átutalásokat a bankok, vállalkozások és magánszemélyek között. 2028-tól kezdődően az izlandi korona azonnal átutalható.</p><p>Ez azt jelenti, hogy az izlandi korona az ötödik olyan valuta, amely használható ebben a gyors rendszerben. Korábban euró, svéd korona és dán korona volt elérhető, és hamarosan a norvég korona is használható lesz. A cél az, hogy az európai fizetések biztonságosabbak és hatékonyabbak legyenek.</p><p>Az Izlandi Központi Bank (Seðlabanki Íslands) vezetője Ásgeir Jónsson. Ő elmondta, hogy ez egy fontos lépés Izland fizetési rendszerének modernizálásához. A TARGET európai rendszer használatával a fizetések ellenállóbbak lesznek, és ugyanazok a szabályok vonatkoznak rájuk, mint az Európa többi részében.</p><p>A TARGET rendszert az Eurorendszer működteti, amely az európai központi bankok közötti együttműködés. Ők a központi bankok pénzügyi eszközeit használják fel annak érdekében, hogy a bankok könnyebben tudják egymás között átutalni a pénzt. A TIPS segítségével a bankok ügyfeleiknek valós idejű, azaz azonnali pénzutalásokat kínálhatnak, nappal és éjszaka egyaránt.</p>",
   "relevans": {
-    "b_finans": 1
+    "b_finans": 5,
+    "b_handel": 3,
+    "b_it": 3,
+    "export": 3,
+    "import": 3,
+    "digitalisering": 3
   }
 }

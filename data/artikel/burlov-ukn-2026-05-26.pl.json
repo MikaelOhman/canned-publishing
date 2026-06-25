@@ -13,13 +13,13 @@
   "tldr": "Gmina Burlöv odnotowuje deficyt finansowy w obszarach edukacji i kultury. Główną przyczyną jest większa niż przewidywana liczba uczniów, co zmusza gminę do zakupu dodatkowych miejsc w innych szkołach.",
   "lattlast": "<p>Komisja przeanalizowała sytuację finansową na początku roku 2026. Okazało się, że gmina odnotowała stratę w wysokości 0,6 miliona koron szwedzkich w okresie od stycznia do kwietnia. Szacuje się, że całkowity deficyt w całym roku może wynieść 8,1 miliona koron szwedzkich.</p><p>Przyczyną braku wystarczających środków jest większa niż planowana liczba uczniów w szkołach podstawowych i średnich. Wzrost liczby uczniów wiąże się z koniecznością płacenia za miejsca w innych szkołach, co generuje znaczne koszty. Również koszty związane z edukacją dla dorosłych są wyższe niż przewidywano.</p><p>Z kolei w przedszkolach sytuacja jest odmienna. Liczba dzieci jest mniejsza niż planowano, co pozwoliło na oszczędności na personelu i lokalach. Dzięki temu w przedszkolach odnotowano nadwyżkę.</p><p>W protokole znajdują się również inne ważne informacje. Przedstawiono informacje o festiwalu Burlövsfesten, który odbędzie się 5 września w pobliżu centrum Burlöv, oraz o pracy zespołu socjalno-edukacyjnego, który pomaga w zapewnieniu bezpieczeństwa w szkołach.</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "b_utbildning": 1,
-    "b_kultur": 1,
-    "lokaler": 1,
-    "barn": 3,
-    "vuxenstudier": 1,
-    "kultur": 1,
-    "otrygg": 1
+    "f_kommun": 4,
+    "barn": 5,
+    "ung": 4,
+    "gymnasieelev": 4,
+    "student": 3,
+    "vuxenstudier": 3,
+    "offentliganstalld": 4,
+    "b_utbildning": 4
   }
 }

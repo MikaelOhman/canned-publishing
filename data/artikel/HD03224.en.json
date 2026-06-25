@@ -12,10 +12,13 @@
   "tldr": "The government wants to change the rules regarding how the Swedish Enforcement Agency (Kronofogden) seizes assets from individuals with debts. The goal is to make it faster to pay off debts and to make it easier to sell houses and apartments in order to obtain funds.",
   "lattlast": "<p>The government has proposed a plan to make it easier for the Swedish Enforcement Agency (Kronofogden) to operate. By allowing more government agencies to assist with remote asset seizure, meaning checking assets without being physically present, the hope is to identify more property that can be sold. This is intended to help individuals who are entitled to compensation and those who are waiting to be paid for their debts.</p><p>There are also proposals to change the way houses and apartments are sold when they are seized to pay off debts. The aim is to make the process more similar to a regular sale, for example, through online auctions or via real estate agents. The idea is that this will lead to the property being sold for a higher price, which means more money can be used to pay off the debts.</p><p>Because this represents a significant intrusion into people&#x27;s lives, the government also wants to make the rules clearer. The proposal includes a provision that the Swedish Enforcement Agency must explicitly consider what is reasonable and always prioritize the best interests of the child. This is important to protect families who are affected by the authorities seizing their belongings.</p><p>If the Parliament votes in favor of the proposal, the new rules will come into effect on July 1, 2026. The proposal also includes changes to several other laws related to taxes, customs, and the coast guard, to ensure that everything works together.</p>",
   "relevans": {
-    "b_fastighet": 1,
-    "import": 1,
-    "barn": 1,
-    "lantagare": 1,
-    "skuldsatt": 1
+    "skuldsatt": 10,
+    "lantagare": 7,
+    "bostadsagare": 7,
+    "hyresgast": 4,
+    "brottsoffer": 5,
+    "barn": 5,
+    "b_finans": 4,
+    "b_fastighet": 4
   }
 }

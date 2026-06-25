@@ -12,9 +12,14 @@
   "tldr": "A kormány egy állami szabadidő-kártya bevezetését tervezi, amelynek célja, hogy segítsen a gyermekeknek és a fiataloknak különböző tevékenységekben részt venni. A cél az, hogy minden gyermek aktív lehessen és másokkal találkozhasson, függetlenül a családjuk anyagi helyzetétől.",
   "lattlast": "<p>A kormány egy új szabadidő-kártya programot vezet be gyermekek és fiatalok számára. A cél az, hogy az állam anyagi támogatást nyújtson, így több gyermek vehet részt különböző szabadidős tevékenységekben. Ezáltal több gyermek élhet tartalmas szabadidős programokkal másokkal együtt.</p><p>Az E-hälsomyndigheten nevű hatóságot bízták meg a kártya programmal kapcsolatos munkák elvégzésével. Ez azt jelenti, hogy ők fogják kezelni a bejelentéseket, és gondoskodni arról, hogy minden megfelelően zajlik. A csalások és a helytelen kifizetések megelőzése érdekében a kormány új szabályokat is javasol arra vonatkozóan, hogy a hatóság hogyan kezelheti a személyes adatokat és ellenőrizheti az információkat.</p><p>A javaslat egyik fontos eleme, hogy a szabadidő-kártyából származó pénzek ne befolyásolják a családi támogatást. Ez azt jelenti, hogy ha egy család támogatást kap a gyermek szabadidős tevékenységéhez, akkor a szociális szolgáltatóktól kapott anyagi támogatásuk nem csökken. A cél az, hogy a támogatás egy plusz, nem büntetett kiegészítés legyen.</p><p>Ha a parlament megszavazza a javaslatot, a tervezett új törvények 2025. szeptember 8-án lépnek hatályba. A kormány emellett szeretné szigorítani a szabályokat, hogy nehézebb legyen bűncselekményt elkövetni vagy visszaélni a kártyával.</p>",
   "relevans": {
-    "gdpr": 1,
-    "barn": 3,
-    "bidrag": 1,
-    "integritet": 1
+    "barn": 8,
+    "ung": 8,
+    "stor_familj": 6,
+    "ensam_foralder": 6,
+    "bidrag": 5,
+    "idrott": 6,
+    "ideell": 5,
+    "b_kultur": 3,
+    "kultur": 4
   }
 }

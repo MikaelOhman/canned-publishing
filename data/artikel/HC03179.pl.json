@@ -12,16 +12,12 @@
   "tldr": "Rząd chce zapewnić organom takim jak Zakład Ubezpieczeń Społecznych (Försäkringskassan) i Urząd Emerytalny (Pensionsmyndigheten) lepsze możliwości weryfikacji danych. Ma to na celu zmniejszenie ryzyka wypłacania nieprawidłowych środków osobom lub firmom.",
   "lattlast": "<p>Rząd przedstawił propozycję, która ma na celu zwiększenie uprawnień organów państwowych w zakresie pozyskiwania informacji. Zakład Ubezpieczeń Społecznych (Försäkringskassan) i Urząd Emerytalny (Pensionsmyndigheten) mają uzyskać możliwość żądania większej ilości danych zarówno od osób prywatnych, jak i od przedsiębiorstw. Banki oraz podmioty świadczące usługi osobistej asysty również mogą zostać zobowiązane do udostępniania informacji na żądanie organów państwowych.</p><p>Propozycja dotyczy również komisji socjalnych w gminach, które odpowiadają za pomoc finansową. Komisje te mają uzyskać prawo do pobierania danych z Urzędu Skarbowego (Skatteverket), na przykład informacji o zarobkach pracowników. Celem jest umożliwienie organom państwowym podejmowania właściwych decyzji i zapewnienie, że środki finansowe trafią do odpowiednich osób.</p><p>Równocześnie proponowane są zmiany w zakresie ochrony poufności. Oznacza to, że Zakład Ubezpieczeń Społecznych i Urząd Emerytalny będą mogły chronić informacje dotyczące funkcjonowania przedsiębiorstw i ich działalności. Jest to część nowych przepisów, które rząd chce wprowadzić.</p><p>Jeśli parlament (riksdagen) zagłosuje za przyjęciem tej propozycji, nowe przepisy wступą w życie 1 grudnia 2025 roku. Propozycja obejmuje szereg różnych ustaw, w tym ustawy dotyczące zasiłków chorobowych, dofinansowania do usług stomatologicznych oraz ustawy o pomocy społecznej (socialtjänstlagen).</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "b_finans": 2,
-    "sjuklon": 1,
-    "infrastruktur": 1,
-    "pensionar": 1,
-    "lontagare": 1,
-    "sjukskriven": 1,
-    "bidrag": 3,
-    "funktion": 1,
-    "tandvard": 2,
-    "batagare": 1
+    "sjukskriven": 5,
+    "bidrag": 6,
+    "kronisk": 4,
+    "funktion": 4,
+    "b_vard": 4,
+    "pensionar": 4,
+    "integritet": 4
   }
 }

@@ -12,10 +12,15 @@
   "tldr": "Rząd zamierza zmienić sposób obliczania wysokości dofinansowania do mieszkań, aby zmniejszyć ryzyko błędnych wyliczeń i późniejszych konieczności zwrotu środków. Propozycja przewiduje uwzględnianie dochodów w oparciu o dane miesięczne, a nie roczne.",
   "lattlast": "<p>Rząd przedstawił propozycję, której celem jest uczynienie dofinansowania do zakupu mieszkania bardziej sprawiedliwym. Chodzi o to, aby mniej osób otrzymywało zbyt duże kwoty, co często prowadzi do zadłużenia, gdy organy państwowe żądają zwrotu tych środków.</p><p>Nowy system zakłada obliczanie wysokości dofinansowania na podstawie dochodów uzyskiwanych każdego miesiąca. Będzie się przy tym brano pod uwagę dochody ze pracy w ciągu pierwszych trzech miesięcy w okresie trwającym cztery miesiące. Dane te będą pozyskiwane z informacji przekazywanych przez pracodawców do państwa.</p><p>W przypadku osób prowadzących działalność gospodarczą lub w sytuacjach, gdy trudno jest uzyskać informacje o miesięcznych dochodach, nadal będzie stosowany stary system, w którym obliczenia dokonywane są na podstawie całego roku. Dochody z oszczędności bankowych lub innych aktywów nadal będą obliczane na podstawie danych z poprzedniego roku, ponieważ informacje te nie mogą być zmieniane co miesiąc.</p><p>Jeśli dochody danej osoby ulegną zmianie w ciągu roku, wysokość dofinansowania zostanie ponownie obliczona. Jeśli propozycja zostanie przyjęta, nowe zasady będą obowiązywać od 1 stycznia 2027 roku.</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "b_finans": 1,
-    "ensam_foralder": 3,
-    "hyresgast": 3,
-    "lantagare": 1
+    "bidrag": 8,
+    "hyresgast": 7,
+    "bostadslos": 6,
+    "student": 5,
+    "ung_vuxen": 5,
+    "ensam_foralder": 6,
+    "barn": 5,
+    "skuldsatt": 5,
+    "lontagare": 4,
+    "foretagare": 3
   }
 }

@@ -12,10 +12,12 @@
   "tldr": "Regeringen vill göra det svårare för kriminella att använda sprängämnen genom att skärpa kontrollen av företag som hanterar farliga varor. Förslaget ska stoppa att sprängmedel hamnar i fel händer.",
   "lattlast": "<p>Det har blivit vanligare med sprängdåd i Sverige där kriminella använder sprängmedel mot både människor och bostäder. Ofta används sprängmedel som egentligen är lagliga men som har stulits eller hamnat fel. För att stoppa detta vill regeringen ändra reglerna för företag som arbetar med brandfarliga och explosiva varor.</p><p>Ett av förslagen är att företag som har tillstånd att hantera dessa varor snabbt måste meddela myndigheterna om viktiga personer, som chefer eller ägare, lämnar företaget. Polismyndigheten ska också få större möjlighet att överklaga beslut om att företag eller personer får hantera sprängämnen. Detta ska göra det lättare att hålla koll på vem som har tillgång till farliga material.</p><p>Regeringen vill också ändra lagen om sekretess, vilket är de regler som bestämmer vad som är hemligt. Det ska bli lättare för Försvarets radioanstalt, som kallas FRA, och andra myndigheter att dela viktig information med varandra i internationella samarbeten. Detta görs för att öka säkerheten i det digitala arbetet.</p><p>Om riksdagen röstar ja till förslagen kommer de nya reglerna att börja gälla den 1 juli 2026. Förslagen innebär ändringar i två olika lagar som rör både säkerhet och hantering av farliga ämnen.</p>",
   "relevans": {
-    "tillstand": 1,
-    "infrastruktur": 1,
-    "batagare": 1,
-    "otrygg": 1,
-    "varnpliktig": 1
+    "b_bygg": 5,
+    "b_industri": 4,
+    "tillstand": 7,
+    "arbetsmiljo": 5,
+    "otrygg": 6,
+    "brottsoffer": 3,
+    "integritet": 3
   }
 }

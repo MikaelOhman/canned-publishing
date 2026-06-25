@@ -13,12 +13,24 @@
   "tldr": "Komisja ds. spraw gminnych w Bollebygd podjęła szereg decyzji dotyczących różnorodnych kwestii, od nowych przepisów dotyczących bezpieczeństwa, po planowanie przyszłych obiektów i dróg.  Zatwierdzono również wsparcie finansowe dla różnych partii politycznych.",
   "lattlast": "<p>Gmina opracowała nowe przepisy dotyczące ochrony danych oraz zarządzania bezpieczeństwem cyfrowym. Opracowano również nowy plan mobilności, określający zasady poruszania się po terenie gminy, oraz program mający na celu stworzenie bezpiecznego i przyjaznego środowiska dla wszystkich mieszkańców.</p><p>W zakresie budynków i terenów, omawiano wstępne studium wykonalności pierwszego etapu budowy nowego budynku urzędu gminy. Przeanalizowano również plan wykorzystania budynków należących do gminy w latach 2027-2036, a także plan przekształcenia terenu w obszarze zwanym Buagärde.</p><p>Wiele partii politycznych, takich jak Partia Zielonych, Partia Centrum, &quot;Głos Ludu&quot; i Partia Umiarkowana, otrzymało zatwierdzenie dotacji finansowych na działalność w roku 2026. Przeanalizowano również roczne sprawozdania różnych organizacji, na przykład fundacji zarządzającej mieszkaniami na wynajem w Bollebygd oraz służb ratowniczych w regionie.</p><p>Rozważano również propozycje mieszkańców, takie jak budowa domu dla aktywności seniorów lub nowej ścieżki rowerowej wzdłuż jeziora Viaredssjön. Ponadto, dyskutowano o nowych zasadach dotyczących wynagrodzeń dla osób pełniących funkcje polityczne w gminie w okresie do roku 2030.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "redovisning": 1,
-    "lokaler": 1,
-    "pensionar": 1,
-    "glesbygd": 1,
-    "klimat": 1,
-    "fortroendevald": 1
+    "ideell": 4,
+    "b_fastighet": 4,
+    "mark_bygglov": 4,
+    "f_kommun": 6,
+    "gdpr": 3,
+    "digitalisering": 3,
+    "lokaler": 4,
+    "pensionar": 3,
+    "pendlare": 3,
+    "bil": 3,
+    "kollektiv": 3,
+    "fortroendevald": 7,
+    "offentliganstalld": 5,
+    "glesbygd": 3,
+    "mindre_ort": 4,
+    "friluftsliv": 3,
+    "idrott": 3,
+    "otrygg": 3,
+    "integritet": 3
   }
 }

@@ -12,6 +12,12 @@
   "tldr": "Agenția Națională de Audit a identificat probleme legate de modul în care autoritățile stabilesc și utilizează taxele pentru serviciile prestate companiilor. Există riscul ca banii să nu fie utilizați în cel mai eficient mod.",
   "lattlast": "<p>Riksrevisionen este o autoritate care examinează modul în care statul își utilizează banii. Aceasta a elaborat un raport care arată că există probleme în modul în care anumite autorități percep taxe de la companii. Problema este că aceeași autoritate stabilește atât nivelul taxei, cât și modul în care sunt utilizați banii.</p><p>Când autoritățile își păstrează propriile venituri, acest lucru încalcă reguli importante privind modul în care este gestionat bugetul statului. Riksrevisionen consideră că acest lucru poate duce la ineficiență, ceea ce înseamnă că banii nu sunt utilizați în mod optim. De asemenea, se menționează că Ekonomistyrningsverket, o autoritate care controlează economia statului, ar putea oferi mai mult sprijin în acest proces.</p><p>Guvernul a citit acum raportul și este de acord cu unele dintre criticile prezentate. Acesta dorește să continue să lucreze la îmbunătățirea modului în care sunt înregistrate taxele, astfel încât să fie mai ușor de controlat. De asemenea, guvernul va investiga dacă este cu adevărat necesar ca autoritățile să continue să beneficieze de actualele excepții de la regulile bugetare.</p>",
   "relevans": {
-    "konsument": 3
+    "foretagare": 5,
+    "solo": 4,
+    "aktiebolag": 4,
+    "smaforetag": 4,
+    "regelborda": 5,
+    "avgifter": 4,
+    "upphandling": 4
   }
 }

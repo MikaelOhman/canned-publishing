@@ -12,8 +12,10 @@
   "tldr": "A kormány változtatni szeretné a Svédországot elhagyó külföldiekre vonatkozó szabályokat annak érdekében, hogy több ember valóban visszatérjen hazájába. A javaslat többek között azt tartalmazza, hogy a kiutasítási határozatok hosszabb ideig érvényesüljenek, és hogy ne legyen egyszerűbb a menedékkérelmezésből munkavállalói engedélyre való átállás, ha az illető már az országban tartózkodik.",
   "lattlast": "<p>A kormány egy új törvénytervezetet terjesztett elő, amely 2025. április 1-jén lép hatályba. A cél az, hogy több olyan személy, akinek elutasították a tartózkodási engedélyét és visszatérése a szülőhazájába kötelező, valójában visszatérjen a szülőhazájába.</p><p>A tervezet egyik fontos része, hogy egyországból történő kilökésről szóló döntés öt évig érvényes azután, hogy az érintett visszatért a szülőhazájába. Ha az illetőnek beutazási tilalmat szabtak ki (ami azt jelenti, hogy nem léphet be Svédországba), ez az időtartam akár hosszabb is lehet. Emellett lehetővé válik, hogy hosszabb beutazási tilalmat szabjanak ki, ha az illető nem távozik önként időben az országból.</p><p>A kormány szeretné megváltoztatni azokat a szabályokat, amelyeket &quot;állampolgárságváltásnak&quot; neveznek. Jelenleg egy olyan személy, akinek elutasították a menedékkérelmét, néha arról kérhet engedélyt, hogy munkavállalás céljából maradhasson az országban. Az új szabályok értelmében ezt a rendszert megszüntetik, ami azt jelenti, hogy nem lesz többé lehetőség arra, hogy valaki menedékkérelmet nyújtson be, majd a tartózkodása alatt munkavállalási engedélyt kérjen, amikor már Svédországban tartózkodik.</p><p>A tervezet egyértelműbb szabályokat is tartalmaz arra vonatkozóan, hogy mikor lép érvénybe a beutazási tilalom. Ezt az időt a pillanattól kell számítani, amikor az illető elhagyja az EU-országokat, vagy Svédországot, amennyiben az illetőt egy másik EU-országba akarják visszaküldeni.</p>",
   "relevans": {
-    "arbetskraft_inv": 1,
-    "asyl": 1,
-    "arbetstillstand": 1
+    "asyl": 10,
+    "arbetstillstand": 9,
+    "ny_i_sverige": 7,
+    "arbetskraft_inv": 7,
+    "eu_marknad": 3
   }
 }

@@ -15,8 +15,11 @@
   ],
   "html": "<p>W projekcie ustawy proponuje się wprowadzenie podstawowej kwoty odliczenia w ustawie o podatku od ryzyka dla instytucji kredytowych. Propozycja ta przewiduje, że instytucja kredytowa ze Szwecji lub zagraniczna instytucja kredytowa powinny dokonać odliczenia podstawowej kwoty od podstawy opodatkowania podatkiem od ryzyka. Kwota odliczenia powinna być równoważna progu opodatkowania obowiązującemu w danym roku podatkowym. Jeśli instytucja kredytowa jest częścią grupy, w której skład wchodzą inne instytucje kredytowe, podstawowa kwota odliczenia powinna być rozdzielona między poszczególne instytucje kredytowe zgodnie z ich udziałem w łącznej podstawie opodatkowania grupy na początku roku.</p><p>Aby nie zniweczyć celu podatku od ryzyka, proponowane rozwiązanie powinno być neutralne dla finansów publicznych. W związku z tym, w projekcie ustawy proponuje się również podniesienie stawki podatku od ryzyka z 0,06% do 0,07% podstawy opodatkowania na początku roku.</p><p>Nowe przepisy mają wejść w życie 1 stycznia 2026 roku.</p>",
   "relevans": {
-    "storforetag": 1,
-    "b_finans": 2,
-    "bolagsskatt": 1
+    "b_finans": 10,
+    "storforetag": 7,
+    "aktiebolag": 6,
+    "bolagsskatt": 7,
+    "sparare": 4,
+    "pensionssparare": 3
   }
 }

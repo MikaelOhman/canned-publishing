@@ -12,10 +12,13 @@
   "tldr": "Rząd zamierza zmienić przepisy dotyczące tego, jak Urząd Egzekucji (Kronofogden) zajmuje mienie od osób zadłużonych. Celem jest przyspieszenie spłaty długów oraz ułatwienie sprzedaży domów i mieszkań w celu uzyskania środków finansowych.",
   "lattlast": "<p>Rząd przedstawił propozycję, której celem jest ułatwienie pracy urzędnikom z Krajowego Biura Wymiarów i Egzekucji (Kronofogden). Dzięki umożliwieniu większej liczbie instytucji publicznych pomocy w egzekucjach na odległość, czyli weryfikacji majątku bez konieczności obecności na miejscu, liczy się na znalezienie większej ilości aktywów, które można sprzedać. Ma to pomóc osobom, które mają prawo do odszkodowania oraz tym, którzy czekają na spłatę swoich długów.</p><p>Istnieją również propozycje dotyczące zmiany sposobu sprzedaży domów i mieszkań, gdy są one zajmowane w celu spłaty długów. Chodzi o to, aby proces ten był bardziej podobny do zwykłej sprzedaży, na przykład poprzez aukcje online lub za pośrednictwem pośredników w obrocie nieruchomościami. Celem jest, aby majątek był sprzedawany w wyższej cenie, co pozwoli na przekazanie większej kwoty na spłatę długów.</p><p>Ponieważ jest to poważne ingerencja w życie ludzi, rząd chce również uczynić przepisy bardziej przejrzystymi. Proponuje się, aby wprost w ustawie znalazł się zapis, że urzędnicy z Krajowego Biura Wymiarów i Egzekucji muszą brać pod uwagę to, co jest rozsądne, i zawsze priorytetowo traktować dobro dziecka. Jest to ważne, aby chronić rodziny, które są dotknięte zajęciem ich mienia przez władze.</p><p>Jeśli parlament zagłosuje za tą propozycją, nowe przepisy zaczną obowiązywać od 1 lipca 2026 roku. Propozycja ta obejmuje również zmiany w wielu innych ustawach dotyczących podatków, celów i straży granicznej, aby wszystko było ze sobą spójne.</p>",
   "relevans": {
-    "b_fastighet": 1,
-    "import": 1,
-    "barn": 1,
-    "lantagare": 1,
-    "skuldsatt": 1
+    "skuldsatt": 10,
+    "lantagare": 7,
+    "bostadsagare": 7,
+    "hyresgast": 4,
+    "brottsoffer": 5,
+    "barn": 5,
+    "b_finans": 4,
+    "b_fastighet": 4
   }
 }

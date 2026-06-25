@@ -13,11 +13,11 @@
   "tldr": "Az Alingsås önkormányzat új szabályokat vezetett be arra vonatkozóan, hogy a település összes vállalkozása hogyan működjön. Emellett jóváhagyták egy új bölcsőde építésének tervét az Ingared városrészben.",
   "lattlast": "<p>Az Alingsås önkormányzat képviselőtestülete határozatot hozott az Alingsås önkormányzati csoportvállalat üzleti irányelveinek módosításáról. Egy irányelv egy olyan dokumentum, amely leírja, hogy milyen szabályok és értékek érvényesüljenek az önkormányzat különböző tevékenységei és vállalkozásai során.</p><p>A testület továbbá jóváhagyta Ingared részletes tervezési tervét. Ez azt jelenti, hogy engedélyt adtak egy új óvodának a Kärrbogärdevägen utcában, a Ingared 5:114 számú ingatlanon.</p><p>A megbeszélés témái közé tartozott az AB Alingsås Rådhus nevű vállalat szabályainak módosítása, valamint a víz- és szennyvízgazdálkodással (VA) kapcsolatos kérdések, valamint olyan területek, mint a Lövekulle kemping, Noltorp és Edsås.</p><p>Végül több választást is tartottak, hogy pótolják azokat a személyeket, akik lemondták tisztségeiket a különböző bizottságokban. Egy bizottság olyan politikusokból álló csoport, amely meghatározott területekért felelős, például az oktatásért vagy az építési ügyekért.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_fastighet": 1,
-    "tillstand": 1,
-    "mark_bygglov": 1,
-    "barn": 2,
-    "bygger": 1
+    "f_kommun": 5,
+    "fortroendevald": 7,
+    "b_fastighet": 3,
+    "mark_bygglov": 4,
+    "barn": 4,
+    "bostadsagare": 3
   }
 }

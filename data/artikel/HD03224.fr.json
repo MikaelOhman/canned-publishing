@@ -12,10 +12,13 @@
   "tldr": "Le gouvernement souhaite modifier les règles concernant la manière dont l'agence de recouvrement des créances (Kronofogden) saisit les biens des personnes endettées. L'objectif est d'accélérer le remboursement des dettes et de faciliter la vente de maisons et d'appartements afin de libérer des fonds.",
   "lattlast": "<p>Le gouvernement a présenté une proposition visant à faciliter le travail des huissiers de justice. En permettant à davantage d&#x27;administrations de participer aux saisies à distance, c&#x27;est-à-dire en vérifiant les actifs sans être physiquement présents, on espère pouvoir identifier davantage de biens susceptibles d&#x27;être vendus. Cela devrait aider les personnes qui ont droit à des dommages et intérêts et celles qui attendent d&#x27;être payées pour leurs dettes.</p><p>Il existe également des propositions visant à modifier la manière dont les maisons et les appartements sont vendus lorsqu&#x27;ils sont saisis pour rembourser des dettes. L&#x27;objectif est de rendre le processus plus similaire à une vente classique, par exemple par le biais d&#x27;enchères en ligne ou par l&#x27;intermédiaire d&#x27;agents immobiliers. L&#x27;idée est que cela permette de vendre les biens à un prix plus élevé, ce qui permettrait de dégager davantage de fonds pour rembourser les dettes.</p><p>Étant donné que cela représente une intervention importante dans la vie des gens, le gouvernement souhaite également clarifier les règles. Il propose que la loi stipule explicitement que les huissiers de justice doivent tenir compte de ce qui est raisonnable et qu&#x27;ils doivent toujours privilégier l&#x27;intérêt supérieur de l&#x27;enfant. Ceci est important pour protéger les familles qui sont touchées par la saisie de leurs biens par les autorités.</p><p>Si le Parlement vote en faveur de la proposition, les nouvelles règles entreront en vigueur le 1er juillet 2026. La proposition implique également des modifications de plusieurs autres lois relatives aux impôts, aux douanes et à la garde côtière, afin que tout fonctionne ensemble.</p>",
   "relevans": {
-    "b_fastighet": 1,
-    "import": 1,
-    "barn": 1,
-    "lantagare": 1,
-    "skuldsatt": 1
+    "skuldsatt": 10,
+    "lantagare": 7,
+    "bostadsagare": 7,
+    "hyresgast": 4,
+    "brottsoffer": 5,
+    "barn": 5,
+    "b_finans": 4,
+    "b_fastighet": 4
   }
 }

@@ -13,6 +13,11 @@
   "tldr": "Unul dintre e-mailuri conține informații actualizate despre costurile legate de apa și canalizare în comuna Lekeberg. Acesta menționează că costurile pentru tratarea apei au crescut mai mult decât se anticipase inițial.",
   "lattlast": "<p>Mårten Frumerie, directorul companiei de apă Vättern, a trimis informații despre cifre noi. El explică faptul că costul de tratare a apei a crescut mai mult decât se anticipase anterior.</p><p>Această creștere este cauzată de faptul că tratarea apelor uzate a devenit mai costisitoare. Aceasta este o schimbare importantă, deoarece afectează suma de bani necesară pentru gestionarea apei și a canalizării în cadrul comunei.</p><p>Caroline Elfors, din comuna Lekeberg, a primit aceste informații și le-a transmis mai departe persoanelor relevante. Scopul acestui e-mail este de a se asigura că toți au cele mai recente și corecte cifre pentru continuarea lucrărilor.</p>",
   "relevans": {
-    "glesbygd": 1
+    "f_kommun": 5,
+    "energikund": 6,
+    "offentliganstalld": 4,
+    "b_energi": 4,
+    "glesbygd": 3,
+    "mindre_ort": 3
   }
 }

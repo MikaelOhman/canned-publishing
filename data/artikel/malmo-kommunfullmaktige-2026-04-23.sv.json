@@ -13,12 +13,18 @@
   "tldr": "Malmö stad har i sitt senaste möte tagit beslut om flera viktiga frågor som rör stadens framtid, såsom nya byggnader, miljöplaner och arbetet för barn och unga.",
   "lattlast": "<p>Vid mötet i kommunfullmäktige diskuterades planer för Malmös miljö och natur. Man arbetar med en plan för stadens gröna och blå miljöer, vilket handlar om att förbättra parker och vattenområden i Malmö.</p><p>Det finns även planer på stora byggprojekt. Malmö stad tittar på att bygga en ny Malmö Stadion vid området Sporthallen. Man har också diskuterat hur stadens lokaler ska användas och fördelas under åren 2027 till 2036.</p><p>Arbetet med att hjälpa barn och unga är också viktigt. Kommunen har fått en rapport om hur man kan stärka det förebyggande arbetet mot droger genom att samarbeta bättre mellan olika delar av staden.</p><p>Flera förslag, så kallade motioner, har lagts fram av politiker. Dessa förslag handlar om allt från hur avgifter för förskola ska räknas ut till hur man kan göra Malmö mer demokratiskt och skapa en bättre vardag för äldre personer.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "lokaler": 1,
-    "barn": 2,
-    "konsument": 1,
-    "idrott": 1,
-    "klimat": 1,
-    "fortroendevald": 1
+    "f_storstad": 6,
+    "storstad": 6,
+    "f_kommun": 7,
+    "barn": 5,
+    "ung": 5,
+    "bostadsagare": 3,
+    "hyresgast": 3,
+    "idrott": 4,
+    "klimat": 4,
+    "offentliganstalld": 4,
+    "fortroendevald": 5,
+    "b_fastighet": 4,
+    "lokaler": 3
   }
 }

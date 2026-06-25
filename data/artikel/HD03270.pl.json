@@ -12,9 +12,20 @@
   "tldr": "Szwecja zamierza wprowadzić bardziej rygorystyczne przepisy dotyczące chemikaliów i odpadów, aby dostosować się do nowych przepisów UE. Może się okazać, że nieprawidłowe oznaczanie niebezpiecznych substancji podczas ich przelewania do pojemników będzie podlegać karze.",
   "lattlast": "<p>Rząd przedstawił propozycję zmiany ustawy o ochronie środowiska, która reguluje sposób ochrony przyrody. Propozycja dotyczy wdrożenia nowych przepisów Unii Europejskiej dotyczących chemikaliów, opakowań i transportu odpadów.</p><p>Ważną propozycją jest wprowadzenie kary za nieprzestrzeganie przepisów dotyczących oznakowania niebezpiecznych substancji. Na przykład, jeśli chemikalia są napełniane do pojemników na stacji benzynowej, musi być wyraźnie informacja o zawartości i o tym, że opakowanie jest bezpieczne. W przypadku naruszenia tych przepisów grożą kary.</p><p>Proponuje się również, aby organy administracji publicznej miały prawo do przejmowania lub zatrzymywania odpadów, jeśli jest to konieczne. Ma to na celu zapewnienie przestrzegania przepisów dotyczących transportu odpadów między krajami. Organy te powinny mieć możliwość interwencji w przypadku podejrzenia naruszenia przepisów.</p><p>Ponadto, rząd lub inny organ administracji publicznej powinien mieć prawo do wprowadzania wyjątków od niektórych przepisów dotyczących opakowań. Może to również dotyczyć możliwości pobierania kaucji od podmiotów innych niż producenci opakowań, przy sprzedaży towarów. Nowe przepisy mają obowiązywać od 2 stycznia 2027 roku.</p>",
   "relevans": {
-    "b_transport": 1,
-    "miljo": 3,
-    "eu_marknad": 3,
-    "klimat": 1
+    "miljo": 6,
+    "klimat": 5,
+    "gron_omstallning": 5,
+    "konsument": 4,
+    "b_industri": 6,
+    "b_transport": 4,
+    "b_bygg": 4,
+    "b_handel": 4,
+    "hallbarhetsrapport": 5,
+    "produktsakerhet": 6,
+    "regelborda": 4,
+    "eu_marknad": 5,
+    "import": 4,
+    "export": 3,
+    "tillstand": 4
   }
 }

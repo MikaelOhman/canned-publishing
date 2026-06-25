@@ -12,10 +12,14 @@
   "tldr": "Le gouvernement souhaite rendre les voitures respectueuses de l'environnement plus abordables et plus faciles à utiliser, en rendant permanente la possibilité de recharger gratuitement les véhicules électriques sur les lieux de travail et en offrant de meilleures possibilités de déduction des coûts liés au carburant.",
   "lattlast": "<p>Le gouvernement a présenté une proposition qui prévoit que la recharge des véhicules électriques sur le lieu de travail reste exonérée d&#x27;impôts à l&#x27;avenir. Auparavant, cette mesure était temporaire, mais le gouvernement souhaite maintenant qu&#x27;elle devienne permanente afin d&#x27;aider les entreprises et les employés à passer à des véhicules sans émissions.</p><p>Il sera également plus facile de récupérer les dépenses liées au carburant lors des déplacements professionnels. Si vous disposez d&#x27;un véhicule de fonction hybride rechargeable, vous devrez pouvoir déduire les coûts du carburant, même si vous avez rechargé la voiture avec de l&#x27;électricité sur votre lieu de travail. L&#x27;objectif est de simplifier les règles et d&#x27;encourager les gens à utiliser autant que possible l&#x27;électricité pour leurs déplacements.</p><p>Cette proposition concerne des modifications du code des impôts sur le revenu, qui est la loi qui détermine le montant de l&#x27;impôt que vous devez payer sur votre salaire. Si le Parlement vote en faveur de cette proposition, les nouvelles règles entreront en vigueur le 1er juillet 2026. Les nouvelles règles concernant les déductions pour carburant s&#x27;appliquent aux déplacements effectués après l&#x27;entrée en vigueur de la nouvelle loi.</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "lontagare": 2,
-    "bil": 1,
-    "energikund": 3,
-    "klimat": 1
+    "bil": 6,
+    "lontagare": 6,
+    "foretagare": 5,
+    "arbetsgivare": 4,
+    "smaforetag": 4,
+    "klimat": 4,
+    "gron_omstallning": 5,
+    "b_transport": 3,
+    "energikund": 3
   }
 }

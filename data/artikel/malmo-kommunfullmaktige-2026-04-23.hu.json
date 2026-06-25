@@ -13,12 +13,18 @@
   "tldr": "Malmö városa legutóbbi ülésén több fontos döntést hozott, amelyek érintik a város jövőjét, például új épületek, környezetvédelmi tervek és a gyermekekért és fiatalokért végzett munka.",
   "lattlast": "<p>A közgyűlésen megvitatták Malmö környezetével és természetével kapcsolatos terveket. A város egy terven dolgozik, amely a város zöld és kék területeinek fejlesztését célozza meg, beleértve a parkok és a vizek javítását Malmöben.</p><p>Több nagyszabású építkezési projekt is tervben van. A Malmö városa a Sporthallen területén egy új Malmö Stadion építését tervezi. Emellett megvitatták, hogy a városi ingatlanokat hogyan kell használni és elosztani a 2027 és 2036 közötti években.</p><p>A gyermekek és fiatalok támogatása is kiemelt fontosságú. A város egy jelentést kapott arról, hogyan lehet megerősíteni a drogokkal kapcsolatos megelőző munkát a város különböző részeinek szorosabb együttműködésével.</p><p>Számos javaslatot, úgynevezett indítványt terjesztettek elő a politikusok. Ezek az indítványok a legkülönbözőbb témákat ölelik fel, a bölcsődék díjainak számításától kezdve egészen a Malmö demokratizálásáig és az idősebbek életminőségének javításáig.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "lokaler": 1,
-    "barn": 2,
-    "konsument": 1,
-    "idrott": 1,
-    "klimat": 1,
-    "fortroendevald": 1
+    "f_storstad": 6,
+    "storstad": 6,
+    "f_kommun": 7,
+    "barn": 5,
+    "ung": 5,
+    "bostadsagare": 3,
+    "hyresgast": 3,
+    "idrott": 4,
+    "klimat": 4,
+    "offentliganstalld": 4,
+    "fortroendevald": 5,
+    "b_fastighet": 4,
+    "lokaler": 3
   }
 }

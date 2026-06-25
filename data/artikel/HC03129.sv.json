@@ -12,8 +12,11 @@
   "tldr": "Regeringen vill införa ett nytt brott för att stoppa att stöldgods säljs ut ur landet. De vill också ge Tullverket mer makt att utreda och ta hand om olagliga varor.",
   "lattlast": "<p>Regeringen föreslår att det ska bli ett eget brott när man hjälper till att frakta stöldgods ut ur Sverige. Detta brott kallas för utförselhäleri. Om man gör ett grovt brott kan man få fängelse i upp till sex år. Även försök att göra detta ska vara olagligt.</p><p>Förslaget innebär också att Tullverket, alltså myndigheten som kontrollerar varor vid gränsen, får ett större ansvar. De ska kunna hjälpa åklagare med utredningar och få mer makt att stoppa brott. Tulltjänstemän ska kunna starta undersökningar på ett liknande sätt som polisen kan göra.</p><p>Det finns också förslag om att myndigheter som arbetar mot brott får behålla saker som tagits i beslag för att kunna använda dem i sin utbildning eller för att undersöka bevis. Om saker som tagits i beslag är farliga eller svåra att förvara kan de förstöras snabbare än förut.</p><p>Regeringen vill även ändra reglerna för straff vid smuggling av narkotika som ska säljas vidare. De flesta av dessa nya regler är tänkta att börja gälla i september 2025, men en mindre ändring i en lag om skattepliktiga varor börjar gälla redan den 1 juli 2025.</p>",
   "relevans": {
-    "import": 1,
-    "beroende": 1,
-    "otrygg": 2
+    "b_transport": 4,
+    "b_handel": 4,
+    "otrygg": 5,
+    "brottsoffer": 4,
+    "export": 3,
+    "import": 3
   }
 }

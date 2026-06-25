@@ -12,7 +12,12 @@
   "tldr": "A kormány új szabályokat terjeszt elő, amelyek értelmében a nagyvállalatoknak és a nemzetközi vállalatcsoportoknak meg kell osztaniuk adóinformációikat egymással. Ennek célja, hogy megkönnyítse a nagyvállalatok által fizetett adók helyes mennyiségének ellenőrzését a különböző országokban.",
   "lattlast": "<p>A kormány több törvényt szeretne módosítani, hogy megfeleljen az új, DAC 9 néven ismert EU-szabályoknak. Ezek a szabályok arról szól, hogy az országok automatikusan küldjék egymásnak az információkat a nagyvállalatok által fizetett adókról. Ez azért van, hogy biztosítsák, hogy a nagyvállalatok ne kerüljék el az adókat azzal, hogy nyereségeiket országok között helyezik át.</p><p>A javaslat tartalmaz új módszereket a nemzetközi megállapodásoknak megfelelően a vámügyi információk kezelésére, amelyeket az OECD szervezet dolgozott ki. Ez azt jelenti, hogy a hatóságok információkat cserélhetnek a &quot;GloBE&quot; adatokról, amely egy globális kezdeményezés része, amelynek célja a nagyvállalatok számára igazságos, minimális adó bevezetése.</p><p>A javaslat változásokat is tartalmaz a nagyvállalatok adózási eljárásainak módjában. Például egy ideiglenes könnyítést javasolnak azoknak a vállalatoknak, amelyekre bírság vagy más szankció vonatkozik, hogy megkönnyítsék az új szabályok bevezetését.</p><p>A legtöbb új szabályt 2026. május 1-jén szeretnék életbe léptetni. Egyes, a titoktartással és az információkezeléssel kapcsolatos részeket 2026. augusztus 1-jén kell életbe léptetni. A Riksdag (svéd parlament) most fog dönteni ezekről a törvénymódosításokról.</p>",
   "relevans": {
-    "storforetag": 3,
-    "bolagsskatt": 1
+    "storforetag": 9,
+    "aktiebolag": 6,
+    "bolagsskatt": 9,
+    "redovisning": 7,
+    "eu_marknad": 7,
+    "export": 5,
+    "hallbarhetsrapport": 3
   }
 }

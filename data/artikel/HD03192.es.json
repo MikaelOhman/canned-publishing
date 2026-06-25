@@ -12,7 +12,11 @@
   "tldr": "Cuando un estudiante cambia de escuela, la escuela anterior deberá entregar información sobre el estudiante a la nueva escuela, siempre y cuando exista un riesgo concreto de que el estudiante cometa o sea víctima de un delito, y la información sea necesaria para prevenirlo. El objetivo es crear un entorno escolar más seguro y proporcionar el apoyo adecuado.",
   "lattlast": "<p>La propuesta incluye modificaciones en la ley de educación que tienen como objetivo crear un entorno escolar seguro y protegido para estudiantes y personal, y garantizar que los estudiantes reciban el apoyo adecuado.</p><p>La propuesta establece que una escuela que deja de atender a un estudiante estará obligada a transferir información a la escuela que lo recibe cuando el estudiante cambia de escuela o de nivel educativo.</p><p>Esto se aplica cuando existen circunstancias concretas que sugieren un riesgo de que el estudiante cometa o sea víctima de un delito, y la información es necesaria para que la nueva escuela pueda prevenirlo.</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "barn": 1
+    "barn": 7,
+    "ung": 6,
+    "gymnasieelev": 5,
+    "b_utbildning": 6,
+    "brottsoffer": 5,
+    "otrygg": 4
   }
 }

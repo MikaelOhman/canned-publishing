@@ -12,9 +12,12 @@
   "tldr": "La Suède souhaite modifier les lois afin de mieux protéger le pays contre les cyberattaques. En modifiant les règles, les autorités pourront plus facilement partager des informations importantes entre elles.",
   "lattlast": "<p>Le Centre National de Cybersécurité (NCSC), qui dépend de l&#x27;Agence de sécurité des communications (FRA), a pour mission de détecter et de contrer les menaces et les attaques numériques contre les ordinateurs et les réseaux suédois. Pour mener à bien sa mission, il est essentiel que le NCSC puisse communiquer avec d&#x27;autres organismes et partager des informations.</p><p>Actuellement, les règles relatives au secret font qu&#x27;il est difficile pour les organismes de partager les informations nécessaires. Le gouvernement souhaite donc introduire de nouvelles lois. Il propose une nouvelle loi qui oblige les organismes à partager des informations entre eux, ainsi qu&#x27;une nouvelle loi régissant la manière dont la FRA peut traiter les données personnelles dans son travail.</p><p>Le gouvernement souhaite également modifier la loi sur l&#x27;accès aux documents publics et le secret. L&#x27;objectif est de protéger les individus tout en facilitant la coopération dans la lutte contre les menaces informatiques. Ces modifications sont importantes pour renforcer la sécurité de la société numérique suédoise.</p><p>Si le Riksdag (Parlement suédois) vote en faveur de la proposition, les nouvelles lois entreront en vigueur le 15 juillet 2026.</p>",
   "relevans": {
-    "b_it": 1,
-    "gdpr": 3,
-    "integritet": 1,
-    "varnpliktig": 1
+    "gdpr": 7,
+    "digitalisering": 6,
+    "integritet": 6,
+    "b_it": 6,
+    "bredbandsberoende": 4,
+    "storforetag": 4,
+    "offentliganstalld": 5
   }
 }

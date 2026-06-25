@@ -13,10 +13,18 @@
   "tldr": "Nel comune di Lekeberg, i politici hanno discusso nuove proposte avanzate dai cittadini, tra cui la trasformazione del vecchio edificio della stazione di Fjugesta in un luogo di incontro. È stata inoltre presa la decisione di avviare una nuova divisione amministrativa dedicata all'urbanistica e all'edilizia.",
   "lattlast": "<p>Durante la riunione del consiglio comunale del 23 febbraio 2026, sono state discusse diverse questioni importanti. Una proposta di un residente, che prevede la trasformazione dell&#x27;antica stazione di Fjugesta in un luogo di incontro sociale per tutte le età, è stata inoltrata alla giunta comunale, l&#x27;organo del comune che prende decisioni più dettagliate.</p><p>Il comune dovrà inoltre creare una nuova divisione per l&#x27;edilizia e l&#x27;urbanistica. Ciò significa che verrà istituito un nuovo dipartimento all&#x27;interno del comune che si occuperà di questioni relative a edifici, strade e pianificazione del territorio.</p><p>Sono state presentate anche diverse proposte per migliorare le attività del comune, come la creazione di più aree naturali per il tempo libero e l&#x27;introduzione di un&#x27;auto o di un autobus accessibile per i servizi comunali. Sebbene queste proposte siano state presentate, rimangono in sospeso per ulteriori valutazioni.</p><p>Infine, la riunione ha riguardato cambiamenti di personale all&#x27;interno dei gruppi politici. Diversi politici hanno lasciato le loro posizioni, il che significa che è necessario eleggere nuove persone per ricoprire incarichi in vari organismi, tra cui la commissione elettorale e l&#x27;assistenza sociale.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_fastighet": 1,
-    "glesbygd": 1,
-    "kollektiv": 1,
-    "funktion": 1
+    "f_kommun": 6,
+    "fortroendevald": 6,
+    "glesbygd": 4,
+    "mindre_ort": 5,
+    "barn": 4,
+    "ung": 4,
+    "pensionar": 3,
+    "idrott": 3,
+    "volontar": 3,
+    "offentliganstalld": 4,
+    "b_bygg": 4,
+    "mark_bygglov": 4,
+    "infrastruktur": 3
   }
 }

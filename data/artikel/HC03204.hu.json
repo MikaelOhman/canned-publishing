@@ -12,8 +12,9 @@
   "tldr": "Új szabályok javasolásra kerültek, amelyek lehetővé teszik, hogy állami alkalmazottakat rövid időre felfüggesztsenek a munkájukból. Ez akkor lehetséges, ha az érintett személy elbocsátás vagy felmondás veszélyeztetett.",
   "lattlast": "<p>A kormány szeretné módosítani a törvényt, hogy lehetővé tegye állami dolgozók felfüggesztését. A felfüggesztés akkor alkalmazható, ha a munkavállaló olyan cselekedetet követett el, amely miatt elveszítheti állását. A felfüggesztés időtartama legfeljebb két hónap lehet, és azonnal hatályba lép.</p><p>A felfüggesztett munkavállaló megőrzi a fizetését és egyéb juttatásait, kivéve, ha a szakszervezeti szerződés másként rendelkezik. Ha a munkavállaló tagja egy szakszervezetnek, a munkáltató köteles tájékoztatni a szakszervezetet a felfüggesztésről. A szakszervezetnek jogában áll, hogy tárgyalásokat folytasson a munkáltatóval a döntésről.</p><p>Ha egy hatóság eljárási hibát vét, például ha elhagyja a szakszervezet tájékoztatását, akkor kártérítésre kötelezhető. Lehetőség van arra is, hogy egy bíróság gyorsan ellenőrizze, hogy a felfüggesztési döntés jogszerű-e.</p><p>Ezek az új szabályok várhatóan 2026. január 1-jén lépnek hatályba. A javaslat számos törvényt módosít, amelyek állami szerveket szabályoznak, például a Sveriges Riksbankot (Svéd Nemzeti Bank) és a Riksrevisionen-t (Svéd Számvevőszék).</p>",
   "relevans": {
-    "arbetsgivare": 3,
-    "kollektivavtal": 1,
-    "lontagare": 1
+    "offentliganstalld": 9,
+    "arbetsratt": 7,
+    "kollektivavtal": 5,
+    "lontagare": 4
   }
 }

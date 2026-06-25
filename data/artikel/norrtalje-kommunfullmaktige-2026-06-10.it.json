@@ -13,12 +13,14 @@
   "tldr": "L'Agenzia Regionale (Länsstyrelsen) ha effettuato un controllo presso l'ufficio del tutore legale di Norrtälje e ha espresso delle critiche. In particolare, si è rilevato che non sono state effettuate verifiche sufficientemente accurate sulla situazione finanziaria quando un tutore legale ha terminato il suo incarico.",
   "lattlast": "<p>L&#x27;Agenzia Regionale di Stoccolma ha effettuato un&#x27;ispezione presso l&#x27;ufficio del tutore legale del comune di Norrtälje. L&#x27;ufficio del tutore legale è l&#x27;ente responsabile di garantire che le persone che hanno un tutore o un amministratore legale siano adeguatamente assistite e che i loro fondi siano utilizzati correttamente.</p><p>L&#x27;Agenzia Regionale ha criticato l&#x27;ufficio del tutore legale per non aver esaminato adeguatamente un rendiconto finale. Il caso riguarda una persona che aveva un tutore legale con cui era impossibile entrare in contatto. Durante questo periodo, i debiti della persona sono aumentati da 280.000 corone svedesi a quasi 379.000 corone svedesi.</p><p>Nel nuovo rendiconto presentato dal terzo tutore legale, è emerso che i fondi destinati al mantenimento dei figli non erano stati erogati. È inoltre emerso che i sussidi per l&#x27;alloggio non erano stati rimborsati all&#x27;Agenzia delle Entrate (Försäkringskassan). L&#x27;Agenzia Regionale ritiene che l&#x27;ufficio del tutore legale avrebbe dovuto individuare questi errori e controllare i conti in modo più accurato.</p><p>Il compito dell&#x27;ufficio del tutore legale è quello di garantire che i fondi utilizzati per una persona siano impiegati correttamente, ad esempio per la sua abitazione e le spese di sussistenza. Devono verificare che nessun fondo venga perso e che tutte le fatture siano corrette. Questo rapporto dimostra che, in questo caso, il controllo non è stato sufficiente.</p>",
   "relevans": {
-    "b_finans": 1,
-    "b_konsult": 1,
-    "barn": 1,
-    "ensam_foralder": 1,
-    "sjukskriven": 1,
-    "hyresgast": 1,
-    "lantagare": 1
+    "f_kommun": 4,
+    "anhorigvardare": 5,
+    "pensionar": 4,
+    "funktion": 5,
+    "barn": 4,
+    "skuldsatt": 4,
+    "bidrag": 4,
+    "hyresgast": 3,
+    "fortroendevald": 4
   }
 }

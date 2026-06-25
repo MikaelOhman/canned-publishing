@@ -12,9 +12,20 @@
   "tldr": "Svédország szigorúbb szabályokat szeretne bevezetni a vegyi anyagokkal és a hulladékkal kapcsolatban, hogy megfeleljen az új uniós jogszabályoknak. Lehetséges, hogy büntetést vonhat maga után, ha a veszélyes anyagokat nem megfelelően jelölik fel a tartályokba töltéskor.",
   "lattlast": "<p>A kormány egy javaslatot terjesztett be a környezetvédelmi törvény módosítására, amely a természet védelmének szabályait határozza meg. A javaslat célja, hogy kiegészítse az új, uniós szabályozásokat, amelyek a vegyi anyagokra, a csomagolásra és a hulladék szállítására vonatkoznak.</p><p>Egy fontos javaslat szerint a veszélyes anyagok címkézési szabályainak megsértése bűncselekménnyé válna. Például, ha egy benzinkúton vegyi anyagokat töltenek tartályokba, akkor a tartalomról és a csomagolás biztonságáról egyértelmű információkat kell biztosítani. Ha ezt elmulasztják, szankciók érvényesülhetnek.</p><p>Javasolják továbbá, hogy a hatóságok jogosultak legyenek átvenni vagy megtartani a hulladékot, ha szükséges. Ez annak érdekében történik, hogy biztosítsák a szabályok betartását, amelyek szerint a hulladékot a különböző országok között szállíthatják. A hatóságok beavatkozhatnak, ha fennáll a szabályok megsértésének kockázata.</p><p>Ezenkívül a kormány vagy más hatóság jogosult lehet arra, hogy kivételeket határozzon meg bizonyos csomagolási szabályok esetében. Ez vonatkozhat arra is, hogy a csomagolást gyártó cégeken kívül mások is jogosultak lehetnek letétet kérni a termékek értékesítésekor. Az új szabályok várhatóan 2027. január 2-án lépnek hatályba.</p>",
   "relevans": {
-    "b_transport": 1,
-    "miljo": 3,
-    "eu_marknad": 3,
-    "klimat": 1
+    "miljo": 6,
+    "klimat": 5,
+    "gron_omstallning": 5,
+    "konsument": 4,
+    "b_industri": 6,
+    "b_transport": 4,
+    "b_bygg": 4,
+    "b_handel": 4,
+    "hallbarhetsrapport": 5,
+    "produktsakerhet": 6,
+    "regelborda": 4,
+    "eu_marknad": 5,
+    "import": 4,
+    "export": 3,
+    "tillstand": 4
   }
 }

@@ -13,10 +13,22 @@
   "tldr": "The European Central Bank (ECB) is raising interest rates to curb rising prices. This measure is being taken to protect the economy in the wake of the war in the Middle East, which has made energy more expensive.",
   "lattlast": "<p>Christine Lagarde, President of the European Central Bank (ECB), discusses the economic situation in Europe. Following the outbreak of a war in the Middle East, energy prices have risen, leading to an increase in inflation – that is, the rate at which prices are increasing – to 3.2 percent in May.</p><p>To counter this, the ECB has decided to raise interest rates by 0.25 percentage points. An interest rate increase makes it more expensive to borrow money, which helps to keep price increases in check. The ECB aims for a stable inflation rate of 2 percent in the long term.</p><p>The European economy is still growing, but at a slower pace than initially hoped. The war has increased uncertainty about the future and made it more expensive to live. At the same time, businesses and households are still in a relatively stable financial position.</p><p>The future remains uncertain due to the war and the risk of high energy prices. Therefore, the ECB will continue to closely monitor new information and make new decisions at each meeting. They have not yet decided whether to raise or lower interest rates further in the future, but will make adjustments gradually based on how the economy develops.</p>",
   "relevans": {
-    "b_energi": 1,
-    "sparare": 1,
-    "lantagare": 1,
-    "energikund": 1,
-    "konsument": 2
+    "sparare": 5,
+    "lantagare": 7,
+    "skuldsatt": 6,
+    "bostadsagare": 6,
+    "pensionssparare": 5,
+    "energikund": 5,
+    "konsument": 5,
+    "lontagare": 4,
+    "foretagare": 5,
+    "aktiebolag": 5,
+    "smaforetag": 5,
+    "finansiering": 6,
+    "b_finans": 6,
+    "b_fastighet": 5,
+    "b_energi": 5,
+    "export": 4,
+    "import": 4
   }
 }

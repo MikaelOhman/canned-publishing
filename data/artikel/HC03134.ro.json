@@ -12,8 +12,14 @@
   "tldr": "Guvernul dorește să modifice legile pentru a împiedica persoanele implicate în activități criminale să utilizeze transferurile bancare în scopuri ilegale. Noile reguli vor facilita detectarea și prevenirea spălării de bani de către bănci și poliție.",
   "lattlast": "<p>Guvernul a propus o măsură pentru a împiedica rețelele criminale să abuzeze de sistemele de plăți. În prezent, băncile trebuie să verifice clienții și să raporteze Poliției orice activitate suspectă. Acum, se dorește ca și companiile de compensare, care sunt cele care transferă bani între diferite bănci, să aibă aceeași responsabilitate de a verifica plățile și de a raporta activități suspecte poliției.</p><p>Există, de asemenea, aproximativ 1.200 de agenți în Suedia care ajută companiile străine cu plățile. Unii dintre acești agenți sunt utilizați pentru a transfera bani între țări, ceea ce poate fi exploatat de către infractori. Pentru a reduce riscul, guvernul dorește ca Autoritatea de Supraveghere Financiară (Finansinspektionen), care este autoritatea care verifică dacă companiile respectă regulile, să monitorizeze mai atent acești agenți. Autoritatea de Supraveghere Financiară ar trebui, de asemenea, să poată verifica dacă persoanele din spatele agenților au antecedente penale.</p><p>Noile reguli vizează modificarea mai multor legi care reglementează modul în care banii și plățile pot fi gestionate în Suedia. Scopul este de a opri atât spălarea de bani, cât și finanțarea terorismului. Dacă propunerea este aprobată și Parlamentul votează în favoare, noile legi vor intra în vigoare la 1 iulie 2025.</p>",
   "relevans": {
-    "b_finans": 3,
-    "beroende": 3,
-    "otrygg": 1
+    "b_finans": 7,
+    "aktiebolag": 4,
+    "smaforetag": 4,
+    "solo": 3,
+    "gdpr": 4,
+    "integritet": 4,
+    "b_handel": 3,
+    "export": 3,
+    "import": 3
   }
 }

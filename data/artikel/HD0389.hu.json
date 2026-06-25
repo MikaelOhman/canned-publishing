@@ -12,8 +12,13 @@
   "tldr": "A kormány szeretné megkönnyíteni annak ellenőrzését, hogy a dolgozók megfelelő körülmények között dolgozzanak, amikor az állam szolgáltatásokat vásárol. Most több támogatást nyújtanak a \"Upphandlingsmyndigheten\" nevű hatóságnak, hogy segítsék ezt a munkát.",
   "lattlast": "<p>A Riksrevisionen (Svédország fővizsgálója) vizsgálta, hogy a kormány és a hatóságok hogyan vásárolnak termékeket és szolgáltatásokat vállalatoktól. Megállapították, hogy szigorúbb ellenőrzésre van szükség annak biztosítása érdekében, hogy azok, akik a beszerzésekkel foglalkoznak, betartsák a törvényeket és a szabályokat a megfelelő munkakörülményekkel kapcsolatban. A Riksrevisionen úgy véli, hogy a hatóságoknak több segítségre és hatékonyabb módszerekre van szükség ahhoz, hogy ellenőrizzék a szabályok betartását.</p><p>A kormány egyetért abban, hogy a folyamat javítható és hatékonyabbá tehető. Ezért úgy döntött, hogy a Upphandlingsmyndigheten (Beszerzési Hatóság) kapja meg a nagyobb felelősséget. A Upphandlingsmyndigheten az a hatóság, amely segít más hatóságoknak a helyes eljárás betartásában a beszerzések során.</p><p>Az új feladatkör részeként a Upphandlingsmyndigheten információt és támogatást nyújt a beszerzésekkel foglalkozóknak. Különösen segítséget nyújtanak olyan rendszerek létrehozásában, amelyek lehetővé teszik a munkakörülmények betartásának ellenőrzését. A cél az, hogy mindenki számára, aki a kormány nevében vásárol, egyszerűbb legyen követelményeket támasztani a jó munkakörülményekkel kapcsolatban, és ellenőrizni, hogy a vállalatok valóban betartják-e ezeket a követelményeket.</p>",
   "relevans": {
-    "arbetsratt": 3,
-    "upphandling": 3,
-    "lontagare": 3
+    "upphandling": 9,
+    "arbetsratt": 6,
+    "kollektivavtal": 5,
+    "arbetsmiljo": 5,
+    "smaforetag": 4,
+    "storforetag": 4,
+    "f_kommun": 3,
+    "lontagare": 4
   }
 }

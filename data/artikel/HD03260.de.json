@@ -12,10 +12,12 @@
   "tldr": "Die Regierung möchte die Regeln für die Überprüfung von Forschungsprojekten am Menschen ändern, um den Prozess zu vereinfachen. Bestimmte Forschungsprojekte, die sensible persönliche Daten behandeln, benötigen künftig keine formelle Genehmigung mehr, aber der Forscher muss selbst sicherstellen, dass die Regeln eingehalten werden.",
   "lattlast": "<p>Die Regierung hat einen Vorschlag vorgelegt, das Gesetz zur ethischen Prüfung von Forschung zu ändern. Ziel ist es, die Kontrolle von Forschungsprojekten, die Menschen betreffen, effizienter und klarer zu gestalten. Der Vorschlag sieht unter anderem vor, dass bestimmte Arten von Forschung keine spezielle Genehmigung mehr benötigen, wenn sie sensible personenbezogene Daten oder Informationen über Straftaten verarbeiten.</p><p>Derjenige, der die Forschung leitet, der sogenannte Forschungsträger, ist selbst dafür verantwortlich, zu beurteilen, ob die Forschung unter die neuen Ausnahmen fällt. Es soll auch die Möglichkeit geben, eine freiwillige Prüfung zu beantragen, wenn man sich absolut sicher sein möchte, dass alles korrekt abläuft.</p><p>Auch die Arbeit zur Überprüfung der Einhaltung der Regeln soll geändert werden. Der Überprüfungsausschuss für ethische Fragen, der als &quot;Önep&quot; bezeichnet wird, soll mehr Befugnisse erhalten, um Stellung zu Fehlern in der Forschung zu nehmen. Der Ausschuss soll auch Leitlinien geben, damit die Regeln im gesamten Land einheitlich angewendet werden. Entscheidungen über Forschungsprojekte dürfen nicht mehr angefochten werden, und der Ausschuss muss mutmaßliche Straftaten nicht mehr der Polizei melden.</p><p>Wenn der Vorschlag angenommen wird, treten die neuen Regeln am 1. Juli 2027 in Kraft. Der Vorschlag enthält auch Änderungen in Gesetzen, die regeln, wie personenbezogene Daten von Behörden wie dem IFAU und dem Inspektionen für sozialförsäkringen verarbeitet werden.</p>",
   "relevans": {
-    "gdpr": 1,
-    "fou": 3,
-    "glesbygd": 1,
-    "otrygg": 1,
-    "integritet": 1
+    "gdpr": 5,
+    "integritet": 4,
+    "b_life": 5,
+    "fou": 6,
+    "b_it": 3,
+    "offentliganstalld": 3,
+    "digitalisering": 3
   }
 }

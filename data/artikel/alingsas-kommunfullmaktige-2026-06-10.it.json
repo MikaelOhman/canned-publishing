@@ -15,15 +15,18 @@
   "tldr": "Nel comune di Alingsås, i politici hanno approvato importanti regolamenti finanziari per le società comunali e hanno assegnato il premio ambientale per il 2025. Sono state inoltre ricevute diverse proposte (mozioni) riguardanti una vasta gamma di argomenti, dalle nuove costruzioni residenziali alle piste ciclabili.",
   "lattlast": "<p>Durante la riunione del consiglio comunale, la commissione edilizia e ambientale ha assegnato il premio ambientale per l&#x27;anno 2027 all&#x27;azienda Vikaryds Egendoms AB. È stato inoltre discusso come dovrebbe essere il tasso di interesse quando il comune concede prestiti alle proprie società nel corso del 2027. È importante che il tasso di interesse sia di mercato, ovvero che sia simile a quello offerto da una banca tradizionale, in modo che le società non ottengano un vantaggio sleale.</p><p>I politici hanno ricevuto anche diverse proposte, chiamate &quot;mozioni&quot;. Tra queste, ci sono proposte per costruire più alloggi ristrutturando gli attici degli edifici di Alingsåshem, per installare stazioni di ricarica per ciclisti e per valutare la possibilità di realizzare piste pedonali e ciclabili su alcune strade. Sono state presentate anche proposte per sostenere associazioni che organizzano ronde notturne e per rafforzare il sostegno all&#x27;Ucraina.</p><p>Altri punti importanti all&#x27;ordine del giorno della riunione hanno riguardato la modifica delle regole per la compensazione dei politici e l&#x27;introduzione di dibattiti nel consiglio comunale. Sono state inoltre prese decisioni riguardanti le nuove persone che andranno a ricoprire incarichi in diverse commissioni, come la commissione cultura e istruzione e la commissione tecnica, in seguito alle dimissioni dei membri precedenti.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_finans": 1,
-    "b_kultur": 1,
-    "glesbygd": 1,
-    "sparare": 1,
-    "lantagare": 1,
-    "idrott": 1,
-    "klimat": 1,
-    "kultur": 1,
-    "fortroendevald": 1
+    "f_kommun": 6,
+    "f_fastighet": 4,
+    "mark_bygglov": 5,
+    "b_fastighet": 4,
+    "hyresgast": 4,
+    "bostadsagare": 4,
+    "bygger": 4,
+    "pendlare": 4,
+    "bil": 3,
+    "kollektiv": 4,
+    "fortroendevald": 5,
+    "ideell": 4,
+    "volontar": 4
   }
 }

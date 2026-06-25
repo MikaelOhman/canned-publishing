@@ -13,12 +13,13 @@
   "tldr": "La giunta comunale di Stoccolma ha preso decisioni in merito a diverse proposte riguardanti temi che vanno dalla sicurezza nel quartiere di Kista alla cultura e agli alberi in città. Al momento, non sono previsti nuovi importanti investimenti, ma le scelte politiche per le prossime fasi sono state definite.",
   "lattlast": "<p>La giunta comunale di Stoccolma ha tenuto una riunione il 27 maggio 2026. Durante la riunione, sono state discusse diverse proposte, chiamate &quot;mozioni&quot; e &quot;istanze&quot;, che riguardano lo sviluppo della città.</p><p>Uno degli argomenti trattati ha riguardato i problemi presenti nel quartiere di Kista. I politici hanno deciso di rispondere a una lettera su questo tema, adottando la proposta redatta dalla giunta. Tuttavia, il partito Moderaterna non era soddisfatto di questa decisione e ha espresso un&#x27;opinione diversa.</p><p>È stata inoltre discussa la possibilità di installare più servizi igienici e spogliatoi presso i campi da calcio. La giunta comunale ha ora inoltrato la sua risposta al consiglio comunale, l&#x27;organo politico che prende le decisioni definitive nella città. Anche in questo caso, alcuni politici di diversi partiti hanno espresso il desiderio di una soluzione diversa.</p><p>Infine, sono state affrontate questioni relative alla vita culturale e notturna della città, nonché una proposta di piantare più alberi mobili a Stoccolma. In tutte queste questioni, la giunta comunale ha scelto di seguire le proposte elaborate dai funzionari (la giunta degli assessori).</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "b_fastighet": 1,
-    "b_kultur": 1,
-    "glesbygd": 1,
-    "idrott": 1,
-    "kultur": 1,
-    "otrygg": 1
+    "f_kommun": 4,
+    "storstad": 4,
+    "otrygg": 4,
+    "idrott": 3,
+    "kultur": 3,
+    "offentliganstalld": 3,
+    "b_kultur": 3,
+    "klimat": 3
   }
 }

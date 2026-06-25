@@ -12,11 +12,17 @@
   "tldr": "Din cauza prețurilor ridicate la combustibili și la energie electrică, guvernul reduce taxele pe energie: benzina cu 82 de ore per litru și motorina cu 319 de coroane pe metru cub (ajungând la nivelul minim stabilit de UE) și propune sprijin pentru prețurile energiei electrice și a gazului pentru gospodării. Aceasta reprezintă o modificare suplimentară a bugetului pentru anul 2026.",
   "lattlast": "<p>Guvernul propune modificări în bugetul statului pentru 2026. Motivația principală este reprezentată de prețurile ridicate la carburanți, legate de conflictul din Orientul Mijlociu, precum și de prețurile mari la energie electrică și de temperaturile scăzute, care au făcut ca încălzirea locuințelor să fie costisitoare pentru gospodării.</p><p>Impozitul pe energie aplicat benzinei va fi redus cu 82 de ore per litru, iar cel aplicat motorinei cu 319 de coroane pe metru cub – pentru clasa de mediu 1, până la cel mai scăzut nivel permis de UE.</p><p>Propunerea include, de asemenea, măsuri de sprijin pentru prețurile la energie electrică și gaze, cu scopul de a reduce costurile pentru gospodării.</p>",
   "relevans": {
-    "b_energi": 1,
-    "punktskatt": 1,
-    "energiintensiv": 1,
-    "bil": 2,
-    "energikund": 3,
-    "klimat": 1
+    "solo": 5,
+    "smaforetag": 5,
+    "b_transport": 8,
+    "b_grona": 5,
+    "punktskatt": 8,
+    "energiintensiv": 5,
+    "bil": 8,
+    "pendlare": 7,
+    "glesbygd": 6,
+    "energikund": 7,
+    "konsument": 6,
+    "foretagare": 5
   }
 }

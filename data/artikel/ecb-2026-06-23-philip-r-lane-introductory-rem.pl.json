@@ -13,14 +13,18 @@
   "tldr": "Sytuacja na Bliskim Wschodzie oraz wysokie ceny energii powodują niepewność dla gospodarki europejskiej. W celu ochrony gospodarki przed rosnącymi cenami, podjęto decyzję o nieznacznym podwyższeniu stóp procentowych.",
   "lattlast": "<p>Philip R. Lane, przedstawiciel Europejskiego Banku Centralnego, informuje, że wojna na Bliskim Wschodzie negatywnie wpływa na gospodarkę europejską. Mimo ewentualnego zawarcia porozumienia pokojowego, sytuacja pozostaje niepewna, co może prowadzić do dalszego wzrostu cen energii. To z kolei zwiększa ryzyko, że ceny towarów i usług (inflacja) wzrosną bardziej, niż by się tego oczekiwało.</p><p>Gospodarka Europy, czyli strefy euro, miała trudności z wzrostem na początku roku. Jednym z powodów jest spadek aktywności gospodarczej w Irlandii. Jednocześnie rynek pracy pozostaje silny, z niskim poziomem bezrobocia, ale firmy i osoby prywatne są bardziej ostrożne w zarządzaniu finansami ze względu na wysokie koszty energii.</p><p>Obecnie inflacja wynosi 3,2%, co jest wyższe niż cel, który wynosi 2%. Istnieje ryzyko, że ceny żywności i energii mogą utrzymywać się na wysokim poziomie przez dłuższy czas. Jednocześnie oczekuje się, że płace będą rosły w tempie, które wzmocni siłę nabywczą konsumentów w nadchodzących latach.</p><p>W celu zminimalizowania tych zagrożeń, w czerwcu podjęto decyzję o podwyżce stóp procentowych o 0,25 punktu procentowego (czyli 25 punktów bazowych). Celem podwyżki stóp jest ograniczenie wzrostu cen i zapewnienie, że inflacja w dłuższej perspektywie osiągnie stabilny poziom, który został ustalony.</p>",
   "relevans": {
-    "arbetsgivare": 1,
-    "b_energi": 1,
-    "energiintensiv": 1,
-    "lontagare": 1,
-    "arbetssokande": 2,
-    "sparare": 1,
-    "lantagare": 1,
-    "energikund": 1,
-    "konsument": 2
+    "energikund": 6,
+    "konsument": 5,
+    "lantagare": 6,
+    "sparare": 5,
+    "pensionssparare": 4,
+    "lontagare": 5,
+    "b_finans": 5,
+    "b_energi": 5,
+    "storforetag": 4,
+    "smaforetag": 4,
+    "energiintensiv": 5,
+    "export": 4,
+    "foretagare": 4
   }
 }

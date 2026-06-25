@@ -12,7 +12,20 @@
   "tldr": "A kormány szeretné módosítani a törvényeket annak érdekében, hogy biztonságosabb legyen az emberek számára, ha háború vagy válság esetén védekezniük kell. Ez magában foglalja a védelmihelyiségek fejlesztését és a jobb tervek kidolgozását arra vonatkozóan, hogy az emberek hol élhetnek, ha a készültségi szintet növelik.",
   "lattlast": "<p>Svédországban a biztonság romlott, ezért az állam azon dolgozik, hogy megerősítse a civil védelmet. Ez azt jelenti, hogy jobb menedékszélekre és más biztonságos helyekre van szükségünk, ahol tartózkodhatunk, ha háború vagy súlyos válság következik be az országban. Ezt &quot;fokozott készültségi állapotnak&quot; nevezik.</p><p>A kormány egy javaslatot nyújtott be a parlamentnek, amely több törvény módosítását tartalmazza. Egy új törvényt szeretnének bevezetni a menedékszékről, és módosítani azt a törvényt, amely szabályozza, hogyan kell evakuálni az embereket és hogyan kell biztosítani számukra a szállást válság idején. Emellett módosítani szeretnék a tervezési és építési törvényt, amely meghatározza, hogyan lehet épületeket építeni Svédországban.</p><p>A módosítások célja, hogy világos tervek legyenek arról, ki felelős miért, amikor az embereket evakuálni kell. Emellett világosnak kell lennie, hogyan kell biztosítani a szállást azok számára, akik nem maradhatnak otthon.</p><p>Ha a parlament elfogadja a javaslatot, az új szabályok 2026. június 1-jén lépnek hatályba.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "varnpliktig": 1
+    "bostadsagare": 5,
+    "hyresgast": 5,
+    "bostadslos": 4,
+    "glesbygd": 3,
+    "storstad": 3,
+    "mindre_ort": 3,
+    "varnpliktig": 5,
+    "barn": 4,
+    "pensionar": 4,
+    "kronisk": 3,
+    "funktion": 3,
+    "mark_bygglov": 4,
+    "b_fastighet": 3,
+    "f_kommun": 4,
+    "offentliganstalld": 3
   }
 }

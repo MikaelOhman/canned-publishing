@@ -13,9 +13,10 @@
   "tldr": "El ayuntamiento de Bollebygds tiene previsto remodelar parte del edificio municipal para crear nuevas oficinas. Además, se solicitará un permiso para demoler una parte del edificio ubicado en Göteborgsvägen 19.",
   "lattlast": "<p>La junta de gobierno municipal ha decidido avanzar con la primera fase del proyecto del edificio municipal. El plan es crear nuevas oficinas que serán utilizadas por los departamentos de servicios sociales para individuos y familias. Para ello, el municipio solicitará ahora un permiso de demolición para una parte del edificio ubicado en Göteborgsvägen 19.</p><p>La idea de la remodelación es solucionar el problema de la falta de salas de reuniones en el municipio. Muchos departamentos municipales han informado que necesitan más espacios para reuniones. Sin embargo, existe el desafío de que el diseño del edificio antiguo dificulta la creación de salas de reuniones completamente óptimas.</p><p>Antes de poder determinar exactamente cómo quedará todo, se ha realizado un estudio técnico y se han calculado los costes. El objetivo de esto fue obtener una base más sólida para evaluar cómo se puede utilizar mejor el edificio en el futuro.</p><p>Además de temas relacionados con el edificio municipal, la reunión también abordó cuestiones medioambientales y planes futuros para el municipio. Por ejemplo, la empresa Flügger AB tuvo que explicar cómo su actividad afecta al medio ambiente y cuántas emisiones produce.</p>",
   "relevans": {
-    "b_bygg": 1,
-    "b_vard": 1,
-    "lokaler": 1,
-    "klimat": 1
+    "f_kommun": 4,
+    "lokaler": 4,
+    "mark_bygglov": 4,
+    "miljo": 3,
+    "offentliganstalld": 4
   }
 }
