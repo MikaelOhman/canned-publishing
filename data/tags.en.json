@@ -352,7 +352,7 @@
   "kommunfullmaktige": {
     "etikett": "Municipal council.",
     "typ": "organisation",
-    "antal": 37
+    "antal": 38
   },
   "kommunpolitik": {
     "etikett": "Municipal politics.",
@@ -372,7 +372,7 @@
   "kommunstyrelsen": {
     "etikett": "The Municipal Board.",
     "typ": "organisation",
-    "antal": 27
+    "antal": 28
   },
   "kommunal-forvaltning": {
     "etikett": "Municipal administration.",
@@ -417,7 +417,7 @@
   "bollebygd": {
     "etikett": "Bollebygds",
     "typ": "plats",
-    "antal": 9
+    "antal": 11
   },
   "protokoll": {
     "etikett": "Minutes\n\n(Followed by the content of the minutes, which would be translated accordingly. For example, if the minutes contained a list, it would be translated as a list.)",
