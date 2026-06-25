@@ -11629,6 +11629,27 @@
     }
   },
   {
+    "id": "bollebygd-kommunstyrelsen-2025-09-02",
+    "typ": "kommunbeslut",
+    "titel": "The Municipal Board, Bollebygds Municipality, September 2, 2025.",
+    "ingress": "The municipal council in Bollebygd has made decisions on several issues related to urban planning and finances. For example, a proposal for new areas for cultivation and an outdoor gym in Erikstorp was rejected because the municipality does",
+    "datum": "2025-09-02",
+    "kalla": "Bollebygds kommun",
+    "kalla_url": "https://meeting.bollebygd.se/committees/kommunstyrelsen/mote-2025-09-02",
+    "taggar": [
+      "bollebygd",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_bygg": 3,
+      "mark_bygglov": 3,
+      "barn": 3,
+      "bygger": 3,
+      "storstad": 3
+    }
+  },
+  {
     "id": "HC03202",
     "typ": "lagforslag",
     "titel": "Expanded opportunities to serve prison sentences under electronic monitoring.",
@@ -12672,6 +12693,24 @@
       "sjukskriven": 4,
       "lontagare": 3,
       "vuxenstudier": 3
+    }
+  },
+  {
+    "id": "bollebygd-kommunfullmaktige-2025-05-08",
+    "typ": "kommunbeslut",
+    "titel": "Municipal Council, Bollebygds Municipality, May 8, 2025.",
+    "ingress": "In the municipality of Bollebygd, politicians have received proposals from residents regarding the creation of rules for how politicians should behave, and for improving the bathing area at Lake Ballasjön. These proposals have now been forw",
+    "datum": "2025-05-08",
+    "kalla": "Bollebygds kommun",
+    "kalla_url": "https://meeting.bollebygd.se/committees/kommunfullmaktige/mote-2025-05-08",
+    "taggar": [
+      "bollebygd",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "funktion": 3,
+      "klimat": 3
     }
   },
   {

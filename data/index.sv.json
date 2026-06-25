@@ -11633,6 +11633,27 @@
     }
   },
   {
+    "id": "bollebygd-kommunstyrelsen-2025-09-02",
+    "typ": "kommunbeslut",
+    "titel": "Kommunstyrelsen, Bollebygds kommun 2025-09-02",
+    "ingress": "Kommunstyrelsen i Bollebygd har beslutat om flera frågor som rör stadsplanering och ekonomi. Bland annat stoppades ett förslag om nya ytor för odling och utegym i Erikstorp eftersom kommunen inte har resurser att prioritera det just nu.",
+    "datum": "2025-09-02",
+    "kalla": "Bollebygds kommun",
+    "kalla_url": "https://meeting.bollebygd.se/committees/kommunstyrelsen/mote-2025-09-02",
+    "taggar": [
+      "bollebygd",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_bygg": 3,
+      "mark_bygglov": 3,
+      "barn": 3,
+      "bygger": 3,
+      "storstad": 3
+    }
+  },
+  {
     "id": "HC03201",
     "typ": "lagforslag",
     "titel": "Utvidgade möjligheter att meddela näringsförbud på grund av brott",
@@ -12640,6 +12661,24 @@
       "sjukskriven": 4,
       "lontagare": 3,
       "vuxenstudier": 3
+    }
+  },
+  {
+    "id": "bollebygd-kommunfullmaktige-2025-05-08",
+    "typ": "kommunbeslut",
+    "titel": "Kommunfullmäktige, Bollebygds kommun 2025-05-08",
+    "ingress": "I Bollebygds kommun har politiker tagit emot förslag från invånare om att skapa regler för hur politiker ska bete sig och att förbättra badplatsen vid Ballasjön. Förslagen har nu skickats vidare till de nämnder som ansvarar för att utreda o",
+    "datum": "2025-05-08",
+    "kalla": "Bollebygds kommun",
+    "kalla_url": "https://meeting.bollebygd.se/committees/kommunfullmaktige/mote-2025-05-08",
+    "taggar": [
+      "bollebygd",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "funktion": 3,
+      "klimat": 3
     }
   },
   {
