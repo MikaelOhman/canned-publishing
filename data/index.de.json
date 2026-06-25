@@ -2949,6 +2949,24 @@
     }
   },
   {
+    "id": "norrtalje-kommunfullmaktige-2026-04-27",
+    "typ": "kommunbeslut",
+    "titel": "Gemeindevertretung von Norrtälje, 27. April 2026.",
+    "ingress": "In der Gemeinde Norrtälje haben die Politiker verschiedene Mitteilungen und Berichte erhalten. Diese umfassen unter anderem Anregungen für neue Freizeitaktivitäten und die Einrichtung von Naturschutzgebieten.",
+    "datum": "2026-04-27",
+    "kalla": "Norrtälje kommun",
+    "kalla_url": "https://forum.norrtalje.se/committees/kommunfullmaktige/mote-2026-04-27",
+    "taggar": [
+      "norrtalje",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "barn": 3,
+      "kronisk": 3,
+      "friluftsliv": 5
+    }
+  },
+  {
     "id": "HD03256",
     "typ": "lagforslag",
     "titel": "Wirksamere Maßnahmen gegen Manipulation und schwerwiegenden Missbrauch von Fahrtenschreibern.",
@@ -3525,6 +3543,22 @@
       "pensionar": 4,
       "anhorigvardare": 4,
       "mindre_ort": 4
+    }
+  },
+  {
+    "id": "norrtalje-kommunstyrelsen-2026-04-13",
+    "typ": "kommunbeslut",
+    "titel": "Gemeindeverwaltungsrat, Gemeinde Norrtälje, 13.04.2026.",
+    "ingress": "Der Justizombudsmann (JO) hat die Gemeinde Norrtälje dafür kritisiert, dass sie eine unangemessen lange Zeit benötigt hat, um Dokumente an eine Journalistin herauszugeben. Die Gemeinde muss nun ihre Verfahren verbessern, um sicherzustellen,",
+    "datum": "2026-04-13",
+    "kalla": "Norrtälje kommun",
+    "kalla_url": "https://forum.norrtalje.se/committees/kommunstyrelsen/mote-2026-04-13",
+    "taggar": [
+      "norrtalje",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "arbetsgivare": 3
     }
   },
   {

@@ -2869,6 +2869,24 @@
     }
   },
   {
+    "id": "norrtalje-kommunfullmaktige-2026-04-27",
+    "typ": "kommunbeslut",
+    "titel": "Norrtälje önkormányzat közgyűlése, 2026. április 27.",
+    "ingress": "Norrtälje önkormányzatban a politikusok számos különböző bejelentést és jelentést kaptak. Ezek között szerepelnek például kérések új szabadidős tevékenységekkel és természetvédelmi területekkel kapcsolatban.",
+    "datum": "2026-04-27",
+    "kalla": "Norrtälje kommun",
+    "kalla_url": "https://forum.norrtalje.se/committees/kommunfullmaktige/mote-2026-04-27",
+    "taggar": [
+      "norrtalje",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "barn": 3,
+      "kronisk": 3,
+      "friluftsliv": 5
+    }
+  },
+  {
     "id": "HD03256",
     "typ": "lagforslag",
     "titel": "Hatékonyabb intézkedések a tachográfok manipulálása és súlyos visszaélése elleni küzdelem érdekében.",
@@ -3445,6 +3463,22 @@
       "pensionar": 4,
       "anhorigvardare": 4,
       "mindre_ort": 4
+    }
+  },
+  {
+    "id": "norrtalje-kommunstyrelsen-2026-04-13",
+    "typ": "kommunbeslut",
+    "titel": "Norrtälje önkormányzat, Kommunstyrelsen, 2026. április 13.",
+    "ingress": "A svéd ombudsman (Justitieombudsmannen, rövidítve JO) kritikát fogalmazott a Norrtälje önkormányzatnak, amiért túl hosszú időt vett igénybe a dokumentumok átadása egy újságíró számára. Az önkormányzatnak most javítania kell a folyamatait, h",
+    "datum": "2026-04-13",
+    "kalla": "Norrtälje kommun",
+    "kalla_url": "https://forum.norrtalje.se/committees/kommunstyrelsen/mote-2026-04-13",
+    "taggar": [
+      "norrtalje",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "arbetsgivare": 3
     }
   },
   {

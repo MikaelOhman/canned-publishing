@@ -2935,6 +2935,24 @@
     }
   },
   {
+    "id": "norrtalje-kommunfullmaktige-2026-04-27",
+    "typ": "kommunbeslut",
+    "titel": "Uchwała Rady Miejskiej, Gmina Norrtälje, 27 kwietnia 2026 roku.",
+    "ingress": "W gminie Norrtälje politycy otrzymali szereg różnych zgłoszeń i raportów. Dotyczyły one m.in. propozycji nowych zajęć rekreacyjnych oraz utworzenia rezerwatów przyrody.",
+    "datum": "2026-04-27",
+    "kalla": "Norrtälje kommun",
+    "kalla_url": "https://forum.norrtalje.se/committees/kommunfullmaktige/mote-2026-04-27",
+    "taggar": [
+      "norrtalje",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "barn": 3,
+      "kronisk": 3,
+      "friluftsliv": 5
+    }
+  },
+  {
     "id": "HD03256",
     "typ": "lagforslag",
     "titel": "Bardziej zdecydowane działania w celu zwalczania manipulacji i poważnych nadużyć związanych z urządzeniami rejestrującymi dane o ruchu.",
@@ -3511,6 +3529,22 @@
       "pensionar": 4,
       "anhorigvardare": 4,
       "mindre_ort": 4
+    }
+  },
+  {
+    "id": "norrtalje-kommunstyrelsen-2026-04-13",
+    "typ": "kommunbeslut",
+    "titel": "Komisja ds. spraw gminnych, gmina Norrtälje, 2026-04-13.",
+    "ingress": "Rzecznik Praw Obywatelskich (Justitieombudsmannen) skrytykował gminę Norrtälje za zbyt długi czas, jaki zajęła jej udostępnienie dokumentów dziennikarzowi. Gmina musi teraz poprawić swoje procedury, aby podobne błędy nie powtarzały się w pr",
+    "datum": "2026-04-13",
+    "kalla": "Norrtälje kommun",
+    "kalla_url": "https://forum.norrtalje.se/committees/kommunstyrelsen/mote-2026-04-13",
+    "taggar": [
+      "norrtalje",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "arbetsgivare": 3
     }
   },
   {

@@ -2923,6 +2923,24 @@
     }
   },
   {
+    "id": "norrtalje-kommunfullmaktige-2026-04-27",
+    "typ": "kommunbeslut",
+    "titel": "اجتماع مجلس مدينة نورشتالجه، 27 أبريل 2026.",
+    "ingress": "في بلدية نورتايلجه، تلقى السياسيون العديد من الرسائل والتقارير المختلفة. تتضمن هذه الرسائل والتقارير طلبات تتعلق بمجموعة متنوعة من الأمور، بما في ذلك رغبات في أنشطة ترفيهية جديدة وإنشاء محميات طبيعية.",
+    "datum": "2026-04-27",
+    "kalla": "Norrtälje kommun",
+    "kalla_url": "https://forum.norrtalje.se/committees/kommunfullmaktige/mote-2026-04-27",
+    "taggar": [
+      "norrtalje",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "barn": 3,
+      "kronisk": 3,
+      "friluftsliv": 5
+    }
+  },
+  {
     "id": "HD03256",
     "typ": "lagforslag",
     "titel": "إجراءات أكثر صرامة لمكافحة التلاعب وسوء الاستخدام الخطير لأجهزة تسجيل بيانات الرحلات.",
@@ -3499,6 +3517,22 @@
       "pensionar": 4,
       "anhorigvardare": 4,
       "mindre_ort": 4
+    }
+  },
+  {
+    "id": "norrtalje-kommunstyrelsen-2026-04-13",
+    "typ": "kommunbeslut",
+    "titel": "مجلس بلدية نورتايلجه، تاريخ 13 أبريل 2026.",
+    "ingress": "انتقد المفتش العام للعدل (JO) بلدية نورتايلجه بسبب طول الفترة التي استغرقتها في تزويد صحفي بمستندات. يتعين على البلدية الآن تحسين إجراءاتها لضمان عدم تكرار مثل هذه الأخطاء في المستقبل.",
+    "datum": "2026-04-13",
+    "kalla": "Norrtälje kommun",
+    "kalla_url": "https://forum.norrtalje.se/committees/kommunstyrelsen/mote-2026-04-13",
+    "taggar": [
+      "norrtalje",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "arbetsgivare": 3
     }
   },
   {

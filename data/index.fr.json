@@ -2918,6 +2918,24 @@
     }
   },
   {
+    "id": "norrtalje-kommunfullmaktige-2026-04-27",
+    "typ": "kommunbeslut",
+    "titel": "Conseil municipal de Norrtälje, 27 avril 2026.",
+    "ingress": "Dans la municipalité de Norrtälje, les élus ont reçu divers messages et rapports. Ceux-ci concernent notamment des demandes concernant de nouvelles activités de loisirs et la création de réserves naturelles.",
+    "datum": "2026-04-27",
+    "kalla": "Norrtälje kommun",
+    "kalla_url": "https://forum.norrtalje.se/committees/kommunfullmaktige/mote-2026-04-27",
+    "taggar": [
+      "norrtalje",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "barn": 3,
+      "kronisk": 3,
+      "friluftsliv": 5
+    }
+  },
+  {
     "id": "HD03256",
     "typ": "lagforslag",
     "titel": "Mesures plus efficaces contre la manipulation et les abus graves des dispositifs de contrôle de la conduite.",
@@ -3494,6 +3512,22 @@
       "pensionar": 4,
       "anhorigvardare": 4,
       "mindre_ort": 4
+    }
+  },
+  {
+    "id": "norrtalje-kommunstyrelsen-2026-04-13",
+    "typ": "kommunbeslut",
+    "titel": "Conseil municipal, commune de Norrtälje, 13 avril 2026.",
+    "ingress": "Le Défenseur des droits (Justitieombudsmannen) a critiqué la municipalité de Norrtälje pour avoir mis un temps excessivement long à fournir des documents à un journaliste. La municipalité doit maintenant améliorer ses procédures afin d'évit",
+    "datum": "2026-04-13",
+    "kalla": "Norrtälje kommun",
+    "kalla_url": "https://forum.norrtalje.se/committees/kommunstyrelsen/mote-2026-04-13",
+    "taggar": [
+      "norrtalje",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "arbetsgivare": 3
     }
   },
   {
