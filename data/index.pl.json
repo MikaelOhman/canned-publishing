@@ -18,10 +18,10 @@
   },
   {
     "id": "marknad-omxs30",
-    "typ": "omvarld",
+    "typ": "marknad",
     "titel": "Giełda dziś: OMXS30",
     "ingress": "Szwedzki indeks OMXS30 wynosi 3 181 (+0.1%) wobec poprzedniej sesji.",
-    "datum": "2026-06-25",
+    "datum": "2026-06-26",
     "kalla": "Nasdaq Stockholm",
     "kalla_url": "https://www.nasdaq.com/european-market-activity",
     "taggar": [
@@ -365,7 +365,7 @@
   },
   {
     "id": "riksbanken-2026-06-24-protokoll-fran-det-penningpoli",
-    "typ": "omvarld",
+    "typ": "myndighet",
     "titel": "Protokół z posiedzenia Komitetu Polityki Pieniężnej, które odbyło się 16 czerwca 2026 roku.",
     "ingress": "Stopa procentowa pozostaje bez zmian. Utrzymuje się na poziomie 1,75 procent, zgodnie z decyzją podjętą 16 czerwca 2026 roku.",
     "datum": "2026-06-24",
@@ -1655,7 +1655,7 @@
   },
   {
     "id": "riksbanken-2026-06-17-styrrantan-oforandrad-pa-1-75-",
-    "typ": "omvarld",
+    "typ": "myndighet",
     "titel": "Stopa procentowa pozostaje bez zmian na poziomie 1,75 procent.",
     "ingress": "Narodowy Bank Szwecji (Riksbanken) zdecydował się utrzymać stopę procentową na poziomie 1,75 procent. Istnieje jednak zwiększone ryzyko podwyżki stopy w późniejszej części roku, ze względu na niepewność panującą w otoczeniu gospodarczym.",
     "datum": "2026-06-17",
@@ -2461,7 +2461,7 @@
   },
   {
     "id": "rr-statsbidrag-till-svenska-utlandsskolor-ett-foraldr",
-    "typ": "omvarld",
+    "typ": "myndighet",
     "titel": "Dotacje rządowe dla szkół szwedzkich za granicą – przestarzały i nieefektywny system (Raport RiR 2026:11).",
     "ingress": "Najwyższy audytor (Riksrevisionen) przeanalizował środki finansowe, które państwo przekazuje szkołom szwedzkim działającym za granicą i stwierdził, że system ten jest przestarzały i nieskuteczny. Obecnie nie jest jasne, dlaczego państwo pow",
     "datum": "2026-06-11",
@@ -3697,7 +3697,7 @@
   },
   {
     "id": "rr-kronofogdens-indrivning-av-skulder",
-    "typ": "omvarld",
+    "typ": "myndighet",
     "titel": "Windykacja należności przez Krajową Agencję Egzekucji (RiR 2026:10).",
     "ingress": "Rzecznik Praw Obywatelskich (Riksrevisionen) przeprowadził audyt dotyczący sposobu, w jaki Urząd Egzekucji (Kronofogden) windykował długi i stwierdził, że w większości przypadków proces przebiega sprawnie, jednak w niektórych sytuacjach trw",
     "datum": "2026-05-26",

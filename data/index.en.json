@@ -38,10 +38,10 @@
   },
   {
     "id": "marknad-omxs30",
-    "typ": "omvarld",
+    "typ": "marknad",
     "titel": "Markets today: OMXS30",
     "ingress": "Stockholm's large-cap index OMXS30 is at 3 181 (+0.1%) versus the previous trading day.",
-    "datum": "2026-06-25",
+    "datum": "2026-06-26",
     "kalla": "Nasdaq Stockholm",
     "kalla_url": "https://www.nasdaq.com/european-market-activity",
     "taggar": [
@@ -385,7 +385,7 @@
   },
   {
     "id": "riksbanken-2026-06-24-protokoll-fran-det-penningpoli",
-    "typ": "omvarld",
+    "typ": "myndighet",
     "titel": "Minutes from the Monetary Policy Meeting held on June 16, 2026.",
     "ingress": "The interest rate will remain unchanged. It will stay at 1.75 percent following a decision made on June 16, 2026.",
     "datum": "2026-06-24",
@@ -1724,7 +1724,7 @@
   },
   {
     "id": "riksbanken-2026-06-17-styrrantan-oforandrad-pa-1-75-",
-    "typ": "omvarld",
+    "typ": "myndighet",
     "titel": "The key interest rate remains unchanged at 1.75 percent.",
     "ingress": "The Swedish central bank (Riksbanken) has decided to keep the key interest rate unchanged at 1.75 percent. However, there is an increased risk that the interest rate will be raised later this year due to uncertainty in the global economy.",
     "datum": "2026-06-17",
@@ -2536,7 +2536,7 @@
   },
   {
     "id": "rr-statsbidrag-till-svenska-utlandsskolor-ett-foraldr",
-    "typ": "omvarld",
+    "typ": "myndighet",
     "titel": "Government subsidies for Swedish schools abroad – an outdated and inefficient system (Report 2026:11).",
     "ingress": "The Swedish National Audit Office has reviewed the funds that the Swedish government provides to schools abroad and has found that the system is outdated and flawed. It is no longer clear why the government should fund these schools, as mos",
     "datum": "2026-06-11",
@@ -3772,7 +3772,7 @@
   },
   {
     "id": "rr-kronofogdens-indrivning-av-skulder",
-    "typ": "omvarld",
+    "typ": "myndighet",
     "titel": "The Swedish Enforcement Agency's debt collection process (RiR 2026:10).",
     "ingress": "The Swedish National Audit Office has reviewed how the Enforcement Agency (Kronofogden) collects debts and found that the process generally works well, but that it takes too long in some cases. The biggest problem is that cases are often de",
     "datum": "2026-05-26",

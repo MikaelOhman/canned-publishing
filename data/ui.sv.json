@@ -38,13 +38,17 @@
     "nyhet": "Nyheter",
     "lagforslag": "Lagförslag",
     "kommunbeslut": "Kommunbeslut",
-    "omvarld": "EU & omvärld"
+    "omvarld": "EU & omvärld",
+    "myndighet": "Myndigheter",
+    "marknad": "Marknad"
   },
   "typebadge": {
     "nyhet": "Nyhet",
     "lagforslag": "Lagförslag",
     "kommunbeslut": "Kommun",
-    "omvarld": "EU/Omvärld"
+    "omvarld": "EU/Omvärld",
+    "myndighet": "Myndighet",
+    "marknad": "Marknad"
   },
   "tagtypes": {
     "ämne": "Ämne",

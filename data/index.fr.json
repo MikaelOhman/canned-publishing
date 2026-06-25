@@ -18,10 +18,10 @@
   },
   {
     "id": "marknad-omxs30",
-    "typ": "omvarld",
+    "typ": "marknad",
     "titel": "La bourse aujourd'hui : OMXS30",
     "ingress": "L'indice OMXS30 de la Bourse de Stockholm est à 3 181 (+0.1 %) par rapport à la veille.",
-    "datum": "2026-06-25",
+    "datum": "2026-06-26",
     "kalla": "Nasdaq Stockholm",
     "kalla_url": "https://www.nasdaq.com/european-market-activity",
     "taggar": [
@@ -365,7 +365,7 @@
   },
   {
     "id": "riksbanken-2026-06-24-protokoll-fran-det-penningpoli",
-    "typ": "omvarld",
+    "typ": "myndighet",
     "titel": "Compte-rendu de la réunion de politique monétaire du 16 juin 2026.",
     "ingress": "Le taux d'intérêt ne sera pas modifié. Il reste fixé à 1,75 % suite à une décision prise le 16 juin 2026.",
     "datum": "2026-06-24",
@@ -1658,7 +1658,7 @@
   },
   {
     "id": "riksbanken-2026-06-17-styrrantan-oforandrad-pa-1-75-",
-    "typ": "omvarld",
+    "typ": "myndighet",
     "titel": "Le taux d'intérêt directeur reste inchangé à 1,75 %.",
     "ingress": "La Banque centrale suédoise a décidé de maintenir le taux d'intérêt directeur à 1,75 %. Cependant, il existe un risque accru que ce taux soit augmenté plus tard dans l'année, en raison de l'incertitude économique mondiale.",
     "datum": "2026-06-17",
@@ -2441,7 +2441,7 @@
   },
   {
     "id": "rr-statsbidrag-till-svenska-utlandsskolor-ett-foraldr",
-    "typ": "omvarld",
+    "typ": "myndighet",
     "titel": "Aides de l'État aux écoles suédoises à l'étranger : un système obsolète et inefficace (Rapport RiR 2026:11).",
     "ingress": "La Cour des comptes a examiné les fonds que l'État suédois alloue aux écoles suédoises situées à l'étranger et a constaté que le système est obsolète et inefficace. Il n'est plus clair pourquoi l'État devrait financer ces écoles, étant donn",
     "datum": "2026-06-11",
@@ -3677,7 +3677,7 @@
   },
   {
     "id": "rr-kronofogdens-indrivning-av-skulder",
-    "typ": "omvarld",
+    "typ": "myndighet",
     "titel": "Recouvrement des dettes par l'Agence de recouvrement des créances (RiR 2026:10).",
     "ingress": "La Cour des comptes a examiné la manière dont l'agence de recouvrement des créances (Kronofogden) recouvre les dettes et constate que, dans la plupart des cas, le processus fonctionne bien, mais que certaines procédures prennent trop de tem",
     "datum": "2026-05-26",

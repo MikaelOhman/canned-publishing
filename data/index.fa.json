@@ -18,10 +18,10 @@
   },
   {
     "id": "marknad-omxs30",
-    "typ": "omvarld",
+    "typ": "marknad",
     "titel": "بورس امروز: OMXS30",
     "ingress": "شاخص OMXS30 بورس استکهلم در 3 181 (+0.1%) نسبت به روز معاملاتی قبل است.",
-    "datum": "2026-06-25",
+    "datum": "2026-06-26",
     "kalla": "Nasdaq Stockholm",
     "kalla_url": "https://www.nasdaq.com/european-market-activity",
     "taggar": [
@@ -365,7 +365,7 @@
   },
   {
     "id": "riksbanken-2026-06-24-protokoll-fran-det-penningpoli",
-    "typ": "omvarld",
+    "typ": "myndighet",
     "titel": "پروتکل جلسه سیاست پولی، 16 ژوئن 2026.",
     "ingress": "نرخ بهره تغییر نخواهد کرد. این نرخ در حال حاضر 1.75 درصد است و این تصمیم در تاریخ 16 ژوئن 2026 اتخاذ شده است.",
     "datum": "2026-06-24",
@@ -1634,7 +1634,7 @@
   },
   {
     "id": "riksbanken-2026-06-17-styrrantan-oforandrad-pa-1-75-",
-    "typ": "omvarld",
+    "typ": "myndighet",
     "titel": "نرخ بهره اصلی بدون تغییر، در سطح 1.75 درصد باقی ماند.",
     "ingress": "بانک مرکزی سوئد (Riksbanken) تصمیم گرفته است که نرخ بهره اصلی را در سطح 1.75 درصد ثابت نگه دارد. با این حال، احتمال افزایش نرخ بهره در اواخر سال جاری وجود دارد، زیرا شرایط اقتصادی جهانی نامشخص است.",
     "datum": "2026-06-17",

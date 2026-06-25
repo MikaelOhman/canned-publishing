@@ -38,13 +38,17 @@
     "nyhet": "Hírek",
     "lagforslag": "Törvényjavaslatok",
     "kommunbeslut": "Önkormányzati",
-    "omvarld": "EU és világ"
+    "omvarld": "EU és világ",
+    "myndighet": "Hatóságok",
+    "marknad": "Piacok"
   },
   "typebadge": {
     "nyhet": "Hír",
     "lagforslag": "Törvényjavaslat",
     "kommunbeslut": "Önkormányzat",
-    "omvarld": "EU/világ"
+    "omvarld": "EU/világ",
+    "myndighet": "Hatóság",
+    "marknad": "Piac"
   },
   "tagtypes": {
     "ämne": "Téma",

@@ -18,10 +18,10 @@
   },
   {
     "id": "marknad-omxs30",
-    "typ": "omvarld",
+    "typ": "marknad",
     "titel": "La bolsa hoy: OMXS30",
     "ingress": "El índice OMXS30 de la bolsa de Estocolmo está en 3 181 (+0.1%) frente a la jornada anterior.",
-    "datum": "2026-06-25",
+    "datum": "2026-06-26",
     "kalla": "Nasdaq Stockholm",
     "kalla_url": "https://www.nasdaq.com/european-market-activity",
     "taggar": [
@@ -365,7 +365,7 @@
   },
   {
     "id": "riksbanken-2026-06-24-protokoll-fran-det-penningpoli",
-    "typ": "omvarld",
+    "typ": "myndighet",
     "titel": "Acta de la reunión de política monetaria del 16 de junio de 2026.",
     "ingress": "La tasa de interés no se modificará. Permanecerá en el 1,75 por ciento, según una decisión tomada el 16 de junio de 2026.",
     "datum": "2026-06-24",
@@ -1658,7 +1658,7 @@
   },
   {
     "id": "riksbanken-2026-06-17-styrrantan-oforandrad-pa-1-75-",
-    "typ": "omvarld",
+    "typ": "myndighet",
     "titel": "La tasa de interés de referencia se mantiene sin cambios en el 1,75 por ciento.",
     "ingress": "El Banco Central de Suecia (Riksbanken) ha mantenido la tasa de interés de referencia en el 1,75 por ciento. Sin embargo, existe un mayor riesgo de que la tasa se aumente más adelante en el año debido a la incertidumbre en el entorno global",
     "datum": "2026-06-17",
@@ -2464,7 +2464,7 @@
   },
   {
     "id": "rr-statsbidrag-till-svenska-utlandsskolor-ett-foraldr",
-    "typ": "omvarld",
+    "typ": "myndighet",
     "titel": "Subvenciones estatales a las escuelas suecas en el extranjero: un sistema obsoleto e ineficiente (RiR 2026:11).",
     "ingress": "La Auditoría Nacional ha revisado los fondos que el Estado sueco destina a las escuelas suecas en el extranjero y ha constatado que el sistema es antiguo y deficiente. Ya no está claro por qué el Estado debe financiar estas escuelas, ya que",
     "datum": "2026-06-11",
@@ -3700,7 +3700,7 @@
   },
   {
     "id": "rr-kronofogdens-indrivning-av-skulder",
-    "typ": "omvarld",
+    "typ": "myndighet",
     "titel": "Cobro de deudas por parte de la Oficina Nacional de Cobro (RiR 2026:10).",
     "ingress": "La Oficina de Auditoría Nacional ha revisado cómo la Agencia de Ejecuciones (Kronofogden) reclama deudas y ha constatado que, en general, el trabajo se realiza de manera eficiente, aunque en algunos casos el proceso se alarga demasiado. El",
     "datum": "2026-05-26",

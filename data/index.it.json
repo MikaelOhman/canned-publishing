@@ -18,10 +18,10 @@
   },
   {
     "id": "marknad-omxs30",
-    "typ": "omvarld",
+    "typ": "marknad",
     "titel": "La borsa oggi: OMXS30",
     "ingress": "L'indice OMXS30 della borsa di Stoccolma è a 3 181 (+0.1%) rispetto al giorno precedente.",
-    "datum": "2026-06-25",
+    "datum": "2026-06-26",
     "kalla": "Nasdaq Stockholm",
     "kalla_url": "https://www.nasdaq.com/european-market-activity",
     "taggar": [
@@ -365,7 +365,7 @@
   },
   {
     "id": "riksbanken-2026-06-24-protokoll-fran-det-penningpoli",
-    "typ": "omvarld",
+    "typ": "myndighet",
     "titel": "Verbale della riunione di politica monetaria del 16 giugno 2026.",
     "ingress": "Il tasso di interesse rimane invariato. È rimasto al 1,75% a seguito di una decisione presa il 16 giugno 2026.",
     "datum": "2026-06-24",
@@ -1658,7 +1658,7 @@
   },
   {
     "id": "riksbanken-2026-06-17-styrrantan-oforandrad-pa-1-75-",
-    "typ": "omvarld",
+    "typ": "myndighet",
     "titel": "Il tasso di riferimento rimane invariato all'1,75 percento.",
     "ingress": "La Banca Centrale Svedese ha deciso di mantenere il tasso di interesse di riferimento al 1,75%. Tuttavia, esiste un rischio crescente che il tasso venga aumentato più avanti nel corso dell'anno, a causa dell'incertezza nel contesto economic",
     "datum": "2026-06-17",
@@ -2464,7 +2464,7 @@
   },
   {
     "id": "rr-statsbidrag-till-svenska-utlandsskolor-ett-foraldr",
-    "typ": "omvarld",
+    "typ": "myndighet",
     "titel": "Contributi statali alle scuole svedesi all'estero: un sistema obsoleto e inefficiente (RiR 2026:11).",
     "ingress": "La Corte dei Conti svedese ha esaminato i fondi che lo Stato svedese eroga alle scuole svedesi all'estero e ha riscontrato che il sistema è obsoleto e inefficiente. Non è più chiaro perché lo Stato dovrebbe finanziare queste scuole, dato ch",
     "datum": "2026-06-11",
@@ -3678,7 +3678,7 @@
   },
   {
     "id": "rr-kronofogdens-indrivning-av-skulder",
-    "typ": "omvarld",
+    "typ": "myndighet",
     "titel": "Recupero crediti da parte dell'Ufficio di esecuzione (RiR 2026:10).",
     "ingress": "La Corte dei Conti ha esaminato il modo in cui l'Ufficio di Esecuzione Forzata riscuote i debiti e ha constatato che, nella maggior parte dei casi, il processo funziona bene, ma che in alcune situazioni richiede troppo tempo. Il problema pr",
     "datum": "2026-05-26",

@@ -18,10 +18,10 @@
   },
   {
     "id": "marknad-omxs30",
-    "typ": "omvarld",
+    "typ": "marknad",
     "titel": "A tőzsde ma: OMXS30",
     "ingress": "A stockholmi OMXS30 index 3 181 ponton áll (+0.1%) az előző kereskedési naphoz képest.",
-    "datum": "2026-06-25",
+    "datum": "2026-06-26",
     "kalla": "Nasdaq Stockholm",
     "kalla_url": "https://www.nasdaq.com/european-market-activity",
     "taggar": [
@@ -365,7 +365,7 @@
   },
   {
     "id": "riksbanken-2026-06-24-protokoll-fran-det-penningpoli",
-    "typ": "omvarld",
+    "typ": "myndighet",
     "titel": "A 2026. június 16-i monetáris politikai ülés jegyzőkönyve.",
     "ingress": "A kamatlábat nem változtatják meg. Ez továbbra is 1,75 százalék lesz, a 2026. június 16-án hozott döntés értelmében.",
     "datum": "2026-06-24",
@@ -1637,7 +1637,7 @@
   },
   {
     "id": "riksbanken-2026-06-17-styrrantan-oforandrad-pa-1-75-",
-    "typ": "omvarld",
+    "typ": "myndighet",
     "titel": "A kamatkörnyezet változatlan: a jegybanki alapkamat továbbra is 1,75 százalék.",
     "ingress": "A Svéd Nemzeti Bank (Riksbanken) változatlanul hagyta a kamatot, mely jelenleg 1,75 százalék. Ugyanakkor megnőtt a kockázata annak, hogy a kamatot később az év során megemelik, a globális gazdasági helyzetben tapasztalható bizonytalanság mi",
     "datum": "2026-06-17",

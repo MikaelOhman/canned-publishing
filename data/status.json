@@ -1,30 +1,32 @@
 {
-  "uppdaterad": "2026-06-25T16:24",
-  "artiklar": 566,
+  "uppdaterad": "2026-06-26T00:16",
+  "artiklar": 700,
   "sprak": 12,
-  "kommuner": 39,
+  "kommuner": 117,
   "kommuner_bevakade": 160,
-  "kallor": 44,
+  "kallor": 125,
   "per_typ": {
+    "kommunbeslut": 247,
+    "marknad": 1,
     "omvarld": 22,
-    "kommunbeslut": 118,
+    "myndighet": 4,
     "lagforslag": 423,
     "nyhet": 3
   },
   "per_sprak": {
-    "sv": 566,
-    "en": 563,
-    "de": 559,
-    "fr": 558,
-    "nl": 558,
-    "it": 557,
-    "es": 558,
-    "pl": 558,
-    "hu": 553,
-    "ro": 553,
-    "ar": 552,
-    "fa": 550
+    "sv": 700,
+    "en": 697,
+    "de": 693,
+    "fr": 692,
+    "nl": 692,
+    "it": 691,
+    "es": 692,
+    "pl": 692,
+    "hu": 686,
+    "ro": 686,
+    "ar": 685,
+    "fa": 683
   },
-  "nytt_7d": 32,
-  "nytt_30d": 96
+  "nytt_7d": 43,
+  "nytt_30d": 166
 }

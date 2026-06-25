@@ -5,7 +5,7 @@
   --bg:#0e1116; --bg2:#161b22; --bg3:#1f2630; --line:#ffffff14;
   --txt:#e6edf3; --txt2:#9aa7b4; --txt3:#64727f;
   --ac:#4a9eff; --ac2:#79b8ff; --chip:#1f2630; --chip-on:#1b3a5c;
-  --nyhet:#4a9eff; --lag:#e0b341; --kommun:#3fb950; --omvarld:#a371f7;
+  --nyhet:#4a9eff; --lag:#e0b341; --kommun:#3fb950; --omvarld:#a371f7; --myndighet:#26c6c6; --marknad:#ff7b72;
   --radius:12px; --maxw:1080px; --bg-opacity:0.05; --font:system-ui,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
   --fs:16px; --lh:1.6;
 }
@@ -87,12 +87,16 @@ select:focus-visible,.search input:focus-visible,.chip:focus-visible,.card:focus
 .loadmore:hover{border-color:var(--ac);color:var(--ac)}
 .card.kommunbeslut{border-left-color:var(--kommun)}
 .card.omvarld{border-left-color:var(--omvarld)}
+.card.myndighet{border-left-color:var(--myndighet)}
+.card.marknad{border-left-color:var(--marknad)}
 .card:hover{border-color:var(--ac);transform:translateY(-2px)}
 .card .toprow{display:flex;justify-content:space-between;align-items:center;gap:8px}
 .badge-typ{font-size:.64rem;text-transform:uppercase;letter-spacing:.07em;font-weight:700;padding:2px 8px;border-radius:6px;background:color-mix(in srgb,var(--nyhet) 22%,transparent);color:var(--nyhet)}
 .badge-typ.lag{background:color-mix(in srgb,var(--lag) 24%,transparent);color:var(--lag)}
 .badge-typ.kommun{background:color-mix(in srgb,var(--kommun) 24%,transparent);color:var(--kommun)}
 .badge-typ.omv{background:color-mix(in srgb,var(--omvarld) 26%,transparent);color:var(--omvarld)}
+.badge-typ.mynd{background:color-mix(in srgb,var(--myndighet) 24%,transparent);color:var(--myndighet)}
+.badge-typ.mark{background:color-mix(in srgb,var(--marknad) 24%,transparent);color:var(--marknad)}
 .card .date{font-size:.74rem;color:var(--txt3)}
 .card h2{font-size:1.05rem;font-weight:650;line-height:1.3}
 .card p{font-size:.9rem;color:var(--txt2)}
@@ -152,6 +156,7 @@ select:focus-visible,.search input:focus-visible,.chip:focus-visible,.card:focus
 .stat-typ b{margin-left:4px}
 .stat-typ.lag{border-left-color:var(--lag)}.stat-typ.kommun{border-left-color:var(--kommun)}
 .stat-typ.omv{border-left-color:var(--omvarld)}
+.stat-typ.mynd{border-left-color:var(--myndighet)}.stat-typ.mark{border-left-color:var(--marknad)}
 .stat-new{font-size:.9rem;color:var(--txt2);margin:12px 0 0}
 .stat-bars{display:flex;flex-direction:column;gap:4px}
 .stat-bar{display:flex;align-items:center;gap:8px;font-size:.82rem}
@@ -165,6 +170,8 @@ select:focus-visible,.search input:focus-visible,.chip:focus-visible,.card:focus
 [dir="rtl"] .stat-typ.lag{border-right-color:var(--lag)}
 [dir="rtl"] .stat-typ.kommun{border-right-color:var(--kommun)}
 [dir="rtl"] .stat-typ.omv{border-right-color:var(--omvarld)}
+[dir="rtl"] .stat-typ.mynd{border-right-color:var(--myndighet)}
+[dir="rtl"] .stat-typ.mark{border-right-color:var(--marknad)}
 
 /* Min situation – väljare + relevans-markör */
 .meta-row{display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap}

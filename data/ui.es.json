@@ -38,13 +38,17 @@
     "nyhet": "Noticias",
     "lagforslag": "Proyectos de ley",
     "kommunbeslut": "Municipal",
-    "omvarld": "UE y mundo"
+    "omvarld": "UE y mundo",
+    "myndighet": "Autoridades",
+    "marknad": "Mercados"
   },
   "typebadge": {
     "nyhet": "Noticia",
     "lagforslag": "Proyecto de ley",
     "kommunbeslut": "Municipio",
-    "omvarld": "UE/Mundo"
+    "omvarld": "UE/Mundo",
+    "myndighet": "Autoridad",
+    "marknad": "Mercado"
   },
   "tagtypes": {
     "ämne": "Tema",

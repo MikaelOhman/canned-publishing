@@ -38,10 +38,10 @@
   },
   {
     "id": "marknad-omxs30",
-    "typ": "omvarld",
+    "typ": "marknad",
     "titel": "Börsen idag: OMXS30",
     "ingress": "Stockholmsbörsens storbolagsindex OMXS30 står i 3 181 (+0.1 %) jämfört med föregående handelsdag.",
-    "datum": "2026-06-25",
+    "datum": "2026-06-26",
     "kalla": "Nasdaq Stockholm",
     "kalla_url": "https://www.nasdaq.com/european-market-activity",
     "taggar": [
@@ -393,7 +393,7 @@
   },
   {
     "id": "riksbanken-2026-06-24-protokoll-fran-det-penningpoli",
-    "typ": "omvarld",
+    "typ": "myndighet",
     "titel": "Protokoll från det penningpolitiska mötet den 16 juni 2026",
     "ingress": "Räntan ska inte ändras. Den ligger kvar på 1,75 procent efter ett beslut som togs den 16 juni 2026.",
     "datum": "2026-06-24",
@@ -1726,7 +1726,7 @@
   },
   {
     "id": "riksbanken-2026-06-17-styrrantan-oforandrad-pa-1-75-",
-    "typ": "omvarld",
+    "typ": "myndighet",
     "titel": "Styrräntan oförändrad på 1,75 procent",
     "ingress": "Riksbanken låter styrräntan ligga kvar på 1,75 procent. Det finns dock en ökad risk för att räntan höjs senare under året på grund av osäkerhet i omvärlden.",
     "datum": "2026-06-17",
@@ -2538,7 +2538,7 @@
   },
   {
     "id": "rr-statsbidrag-till-svenska-utlandsskolor-ett-foraldr",
-    "typ": "omvarld",
+    "typ": "myndighet",
     "titel": "Statsbidrag till svenska utlandsskolor – ett föråldrat och ineffektivt system (RiR 2026:11)",
     "ingress": "Riksrevisionen har granskat pengarna som staten ger till svenska skolor utomlands och funnit att systemet är gammalt och dåligt. Det är inte längre tydligt varför staten ska betala för dessa skolor eftersom de flesta elever inte tillhör de",
     "datum": "2026-06-11",
@@ -3776,7 +3776,7 @@
   },
   {
     "id": "rr-kronofogdens-indrivning-av-skulder",
-    "typ": "omvarld",
+    "typ": "myndighet",
     "titel": "Kronofogdens indrivning av skulder (RiR 2026:10)",
     "ingress": "Riksrevisionen har granskat hur Kronofogden kräver in skulder och ser att arbetet oftast fungerar bra, men att det tar för lång tid i vissa fall. Det största problemet är att ärenden blir liggande i väntan på att människor ska få brev eller",
     "datum": "2026-05-26",

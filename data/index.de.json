@@ -18,10 +18,10 @@
   },
   {
     "id": "marknad-omxs30",
-    "typ": "omvarld",
+    "typ": "marknad",
     "titel": "Börse heute: OMXS30",
     "ingress": "Der schwedische Leitindex OMXS30 steht bei 3 181 (+0.1 %) gegenüber dem Vortag.",
-    "datum": "2026-06-25",
+    "datum": "2026-06-26",
     "kalla": "Nasdaq Stockholm",
     "kalla_url": "https://www.nasdaq.com/european-market-activity",
     "taggar": [
@@ -365,7 +365,7 @@
   },
   {
     "id": "riksbanken-2026-06-24-protokoll-fran-det-penningpoli",
-    "typ": "omvarld",
+    "typ": "myndighet",
     "titel": "Protokoll des Sitzungsprotokolls der Geldpolitik vom 16. Juni 2026.",
     "ingress": "Der Zinssatz soll unverändert bleiben. Er verbleibt bei 1,75 Prozent, wie in einer Entscheidung vom 16. Juni 2026 festgelegt.",
     "datum": "2026-06-24",
@@ -1682,7 +1682,7 @@
   },
   {
     "id": "riksbanken-2026-06-17-styrrantan-oforandrad-pa-1-75-",
-    "typ": "omvarld",
+    "typ": "myndighet",
     "titel": "Der Leitzins bleibt unverändert bei 1,75 Prozent.",
     "ingress": "Die Zentralbank hat den Leitzins unverändert bei 1,75 Prozent belassen. Es besteht jedoch ein erhöhtes Risiko, dass der Leitzins im Laufe des Jahres angehoben wird, aufgrund von Unsicherheiten im globalen Umfeld.",
     "datum": "2026-06-17",
@@ -2494,7 +2494,7 @@
   },
   {
     "id": "rr-statsbidrag-till-svenska-utlandsskolor-ett-foraldr",
-    "typ": "omvarld",
+    "typ": "myndighet",
     "titel": "Staatliche Zuschüsse für schwedische Auslandsschulen – ein veraltetes und ineffizientes System (RiR 2026:11).",
     "ingress": "Das Riksrevisionen (der schwedische Rechnungshof) hat die staatlichen Mittel für schwedische Schulen im Ausland geprüft und festgestellt, dass das System veraltet und mangelhaft ist. Es ist nicht mehr klar, warum der Staat diese Schulen fin",
     "datum": "2026-06-11",
@@ -3708,7 +3708,7 @@
   },
   {
     "id": "rr-kronofogdens-indrivning-av-skulder",
-    "typ": "omvarld",
+    "typ": "myndighet",
     "titel": "Die Vollstreckung von Schulden durch das schwedische Kronofogdembüro (RiR 2026:10).",
     "ingress": "Das Riksrevisionen (der schwedische Rechnungshof) hat eine Überprüfung der Vorgehensweise des Kronofogden (der schwedischen Vollstreckungsbehörde) durchgeführt, um zu untersuchen, wie Schulden eingetrieben werden. Die Ergebnisse zeigen, das",
     "datum": "2026-05-26",

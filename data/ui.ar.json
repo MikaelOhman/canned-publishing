@@ -38,13 +38,17 @@
     "nyhet": "أخبار",
     "lagforslag": "مشاريع قوانين",
     "kommunbeslut": "بلدي",
-    "omvarld": "الاتحاد الأوروبي والعالم"
+    "omvarld": "الاتحاد الأوروبي والعالم",
+    "myndighet": "الجهات الرسمية",
+    "marknad": "الأسواق"
   },
   "typebadge": {
     "nyhet": "خبر",
     "lagforslag": "مشروع قانون",
     "kommunbeslut": "بلدية",
-    "omvarld": "الاتحاد/العالم"
+    "omvarld": "الاتحاد/العالم",
+    "myndighet": "جهة رسمية",
+    "marknad": "السوق"
   },
   "tagtypes": {
     "ämne": "موضوع",

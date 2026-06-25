@@ -38,13 +38,17 @@
     "nyhet": "Nieuws",
     "lagforslag": "Wetsvoorstellen",
     "kommunbeslut": "Gemeentelijk",
-    "omvarld": "EU & wereld"
+    "omvarld": "EU & wereld",
+    "myndighet": "Overheid",
+    "marknad": "Markten"
   },
   "typebadge": {
     "nyhet": "Nieuws",
     "lagforslag": "Wetsvoorstel",
     "kommunbeslut": "Gemeente",
-    "omvarld": "EU/wereld"
+    "omvarld": "EU/wereld",
+    "myndighet": "Overheid",
+    "marknad": "Markt"
   },
   "tagtypes": {
     "ämne": "Onderwerp",

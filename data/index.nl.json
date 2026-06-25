@@ -18,10 +18,10 @@
   },
   {
     "id": "marknad-omxs30",
-    "typ": "omvarld",
+    "typ": "marknad",
     "titel": "De beurs vandaag: OMXS30",
     "ingress": "De Zweedse hoofdindex OMXS30 staat op 3 181 (+0.1%) ten opzichte van de vorige handelsdag.",
-    "datum": "2026-06-25",
+    "datum": "2026-06-26",
     "kalla": "Nasdaq Stockholm",
     "kalla_url": "https://www.nasdaq.com/european-market-activity",
     "taggar": [
@@ -365,7 +365,7 @@
   },
   {
     "id": "riksbanken-2026-06-24-protokoll-fran-det-penningpoli",
-    "typ": "omvarld",
+    "typ": "myndighet",
     "titel": "Verslag van de vergadering over het monetair beleid, d.d. 16 juni 2026.",
     "ingress": "De rentevoet blijft ongewijzigd. Hij blijft op 1,75 procent, zoals besloten is op 16 juni 2026.",
     "datum": "2026-06-24",
@@ -1658,7 +1658,7 @@
   },
   {
     "id": "riksbanken-2026-06-17-styrrantan-oforandrad-pa-1-75-",
-    "typ": "omvarld",
+    "typ": "myndighet",
     "titel": "De basisrente blijft ongewijzigd op 1,75 procent.",
     "ingress": "De Zweedse centrale bank (Riksbanken) heeft de belangrijkste rente ongewijzigd gelaten op 1,75 procent. Er bestaat echter een verhoogd risico dat de rente later dit jaar zal worden verhoogd, vanwege onzekerheden in de wereldwijde economie.",
     "datum": "2026-06-17",
@@ -2464,7 +2464,7 @@
   },
   {
     "id": "rr-statsbidrag-till-svenska-utlandsskolor-ett-foraldr",
-    "typ": "omvarld",
+    "typ": "myndighet",
     "titel": "Subsidies van de staat aan Zweedse scholen in het buitenland – een verouderd en inefficiënt systeem (RiR 2026:11)",
     "ingress": "De Rijksrekenkamer heeft een onderzoek uitgevoerd naar de gelden die de staat verstrekt aan Zweedse scholen in het buitenland en heeft geconstateerd dat het systeem verouderd en inadequaat is. Het is niet langer duidelijk waarom de staat de",
     "datum": "2026-06-11",
@@ -3678,7 +3678,7 @@
   },
   {
     "id": "rr-kronofogdens-indrivning-av-skulder",
-    "typ": "omvarld",
+    "typ": "myndighet",
     "titel": "De incassoprocedures van de belastingdienst (RiR 2026:10)",
     "ingress": "De Rijksrekenkamer heeft een onderzoek uitgevoerd naar de manier waarop de belastingdienst (Kronofogden) schulden intient en stelt vast dat het werk over het algemeen goed functioneert, maar dat het in sommige gevallen te lang duurt. Het gr",
     "datum": "2026-05-26",

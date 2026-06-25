@@ -4,7 +4,7 @@
 'use strict';
 const $ = s => document.querySelector(s);
 const LS = { get:(k,d)=>localStorage.getItem('cp_'+k)||d, set:(k,v)=>localStorage.setItem('cp_'+k,v) };
-const state = { lang:null, sprak:[], ui:{}, index:[], tags:{}, query:'', typ:'alla', visa:30,
+const state = { lang:null, sprak:[], ui:{}, index:[], tags:{}, query:'', typer:new Set(), visa:30,
   axlar:new Set(), axdef:[], grupper:[], gruppnamn:{}, lagernamn:{}, lager:'privat',
   openGroups:new Set(['__typ']), mer:new Set(), filterQ:'', _akt:[],
   ort:{privat:new Set(), foretag:new Set()}, orter:[], ortQ:'', konto:{namn:null, token:null}, fbKonton:[] };
@@ -14,16 +14,16 @@ const THEME_STD = ['dark','light','sepia','midnatt','nord','dracula','solarized'
 const THEME_A11Y = ['hk-svart','hk-ljus','gul-svart'];
 const TEXTS = ['normal','large','xlarge'];
 const FONTS = ['standard','lasvanlig'];
-const TYPER = ['nyhet','lagforslag','kommunbeslut','omvarld'];
-const BADGE_KLASS = {lagforslag:'lag', kommunbeslut:'kommun', omvarld:'omv'};
-const KORT_KLASS = {lagforslag:'lagforslag', kommunbeslut:'kommunbeslut', omvarld:'omvarld'};
+const TYPER = ['nyhet','lagforslag','kommunbeslut','omvarld','myndighet','marknad'];
+const BADGE_KLASS = {lagforslag:'lag', kommunbeslut:'kommun', omvarld:'omv', myndighet:'mynd', marknad:'mark'};
+const KORT_KLASS = {lagforslag:'lagforslag', kommunbeslut:'kommunbeslut', omvarld:'omvarld', myndighet:'myndighet', marknad:'marknad'};
 
 const UIDEF = {sub:"Multilingual news",search_label:"Search",search_ph:"Type a word…",language:"Language",
   settings:"Display",theme:"Theme",textsize:"Text size",font:"Font",
   themegroups:{standard:"Standard",a11y:"Accessibility"},
   themes:{dark:"Dark",light:"Light",sepia:"Sepia",midnatt:"Midnight (OLED)",nord:"Nord",dracula:"Dracula",solarized:"Solarized","hk-svart":"High contrast – black","hk-ljus":"High contrast – light","gul-svart":"Yellow on black"},
   texts:{normal:"Normal",large:"Large",xlarge:"Extra large"},fonts:{standard:"Standard",lasvanlig:"Readable"},
-  types:{alla:"All",nyhet:"News",lagforslag:"Bills",kommunbeslut:"Municipal",omvarld:"EU & World"},typebadge:{nyhet:"News",lagforslag:"Bill",kommunbeslut:"Municipal",omvarld:"EU/World"},
+  types:{alla:"All",nyhet:"News",lagforslag:"Bills",kommunbeslut:"Municipal",omvarld:"EU & World",myndighet:"Authorities",marknad:"Markets"},typebadge:{nyhet:"News",lagforslag:"Bill",kommunbeslut:"Municipal",omvarld:"EU/World",myndighet:"Authority",marknad:"Market"},
   kalla:"Source",original:"Read the original at",count:"results",none:"No matches.",clear:"Clear",back:"← Back",
   tldr_label:"TL;DR",lattlast_label:"In plain language",fulltext_label:"Full text",loadmore:"Load more",
   lagernamn:{privat:"Private individual",foretag:"Business"},
@@ -87,7 +87,8 @@ function aktivaAxlar(){ return [...state.axlar].filter(inLager); }      // valda
 function relScore(a){ const akt=state._akt; if(!akt.length||!a.relevans) return 0;
   let m=0; for(const id of akt){ const v=a.relevans[id]||0; if(v>m) m=v; } return m; }
 function sparaAxlar(){ LS.set('axlar',[...state.axlar].join('.')); autospar(); }
-function clearSit(){ state.axlar.clear(); state.typ='alla'; sparaAxlar(); renderSidebar(); state.visa=PAGE; renderList(); }
+function sparaTyper(){ LS.set('typer',[...state.typer].join('.')); autospar(); }
+function clearSit(){ state.axlar.clear(); state.typer.clear(); sparaAxlar(); sparaTyper(); renderSidebar(); state.visa=PAGE; renderList(); }
 
 /* ── Plats: kommunbeslut filtreras till användarens kommun(er) per lager ── */
 function ortFor(){ return state.ort[state.lager]; }
@@ -118,7 +119,7 @@ function renderOrt(){
 /* artiklar som passerar typ + fritextsök (bas för faset-antal, oberoende av axel-val) */
 function baseFiltered(){
   return state.index.filter(a=>{
-    if(state.typ!=='alla' && (a.typ||'nyhet')!==state.typ) return false;
+    if(state.typer.size && !state.typer.has(a.typ||'nyhet')) return false;
     if(state.query){ const hay=(a.titel+' '+(a.ingress||'')+' '+(a.taggar||[]).map(id=>(state.tags[id]||{}).etikett||id).join(' ')).toLowerCase();
       for(const w of state.query.split(/\s+/)) if(w && !hay.includes(w)) return false; }
     return true;
@@ -133,12 +134,12 @@ function renderSidebar(){
   const bas = baseFiltered();
   const cnt = {};
   bas.forEach(a=>{ if(a.relevans) for(const id in a.relevans){ if(a.relevans[id]>=1) cnt[id]=(cnt[id]||0)+1; } });
-  // typ-facet
-  const tc={alla:state.index.length}; TYPER.forEach(t=>tc[t]=state.index.filter(a=>(a.typ||'nyhet')===t).length);
-  const typOpts=[['alla',u.types.alla,tc.alla]].concat(TYPER.filter(t=>tc[t]>0).map(t=>[t,(u.types[t]||t),tc[t]]));
+  // typ-facet (flerval: tom = alla)
+  const tc={}; TYPER.forEach(t=>tc[t]=state.index.filter(a=>(a.typ||'nyhet')===t).length);
+  const typOpts=TYPER.filter(t=>tc[t]>0).map(t=>[t,(u.types[t]||t),tc[t]]);
   const typHtml=`<details class="facet" data-grp="__typ" ${state.openGroups.has('__typ')?'open':''}>
-    <summary>${esc(s.type)}<span class="gcount">${state.typ!=='alla'?'1':''}</span></summary>`+
-    typOpts.map(([v,lbl,n])=>`<label class="opt"><input type="radio" name="typ" value="${esc(v)}" ${state.typ===v?'checked':''}><span class="lbl">${esc(lbl)}</span><span class="n">${n}</span></label>`).join('')+`</details>`;
+    <summary>${esc(s.type)}<span class="gcount">${state.typer.size||''}</span></summary>`+
+    typOpts.map(([v,lbl,n])=>`<label class="opt"><input type="checkbox" data-typ="${esc(v)}" ${state.typer.has(v)?'checked':''}><span class="lbl">${esc(lbl)}</span><span class="n">${n}</span></label>`).join('')+`</details>`;
   // situations-grupper för aktuellt lager
   const grupper=(state.grupper.length?state.grupper:[...new Set(state.axdef.map(a=>a.grupp))]);
   const fq=(state.filterQ||'').toLowerCase();
@@ -164,8 +165,8 @@ function renderSidebar(){
 
   $('#lager-box').querySelectorAll('.lager-val button').forEach(b=>b.addEventListener('click',()=>{
     state.lager=b.dataset.lager; LS.set('lager',state.lager); autospar(); renderSidebar(); state.visa=PAGE; renderList(); }));
-  $('#facets').querySelectorAll('input[name="typ"]').forEach(r=>r.addEventListener('change',()=>{
-    state.typ=r.value; state.visa=PAGE; renderSidebar(); renderList(); }));
+  $('#facets').querySelectorAll('input[data-typ]').forEach(c=>c.addEventListener('change',()=>{
+    c.checked?state.typer.add(c.dataset.typ):state.typer.delete(c.dataset.typ); sparaTyper(); state.visa=PAGE; renderSidebar(); renderList(); }));
   $('#facets').querySelectorAll('input[data-ax]').forEach(c=>c.addEventListener('change',()=>{
     c.checked?state.axlar.add(c.dataset.ax):state.axlar.delete(c.dataset.ax); sparaAxlar(); state.visa=PAGE; renderSidebar(); renderList(); }));
   $('#facets').querySelectorAll('.facet-all').forEach(b=>b.addEventListener('click',e=>{ e.preventDefault(); markAll(b.dataset.all); }));
@@ -183,7 +184,7 @@ function markAll(g){
 }
 function sideBtns(){
   const s=sitT();
-  const n=aktivaAxlar().length + (state.typ!=='alla'?1:0) + ortFor().size;
+  const n=aktivaAxlar().length + state.typer.size + ortFor().size;
   const ft=$('#filter-toggle'); if(ft) ft.textContent=`≡ ${s.filter}${n?` (${n})`:''}`;
   const sc=$('#side-clear'); if(sc) sc.textContent=s.clear;
   const ss=$('#side-share'); if(ss) ss.textContent=s.share_btn;
@@ -198,13 +199,15 @@ function renderShareBox(){
 }
 /* Inställnings-objekt – delas av delbar kod OCH konto-synk */
 function samlaInst(){
-  return {a:[...state.axlar],g:state.lager,l:state.lang,t:LS.get('tema','dark'),x:LS.get('text','normal'),
+  return {a:[...state.axlar],ty:[...state.typer],g:state.lager,l:state.lang,t:LS.get('tema','dark'),x:LS.get('text','normal'),
     f:LS.get('font','standard'),op:[...state.ort.privat],of:[...state.ort.foretag]};
 }
 function applyInst(j){
   if(!j) return null;
-  state.axlar.clear(); state.ort.privat.clear(); state.ort.foretag.clear();
+  state.axlar.clear(); state.typer.clear(); state.ort.privat.clear(); state.ort.foretag.clear();
   if(Array.isArray(j.a)) j.a.forEach(x=>state.axlar.add(x));
+  if(Array.isArray(j.ty)) j.ty.forEach(x=>state.typer.add(x));
+  LS.set('typer',[...state.typer].join('.'));
   if(Array.isArray(j.op)) j.op.forEach(s=>state.ort.privat.add(s));
   if(Array.isArray(j.of)) j.of.forEach(s=>state.ort.foretag.add(s));
   LS.set('axlar',[...state.axlar].join('.'));
@@ -318,6 +321,7 @@ async function boot(){
   let kodLang=null;
   if(sp.get('s')){ kodLang=avkodaInst(sp.get('s')); history.replaceState(null,'',location.pathname); }
   if(!state.axlar.size) LS.get('axlar','').split('.').filter(Boolean).forEach(x=>state.axlar.add(x));
+  if(!state.typer.size) LS.get('typer','').split('.').filter(Boolean).forEach(x=>state.typer.add(x));
   state.lager = LS.get('lager','privat');
   initPrefAttrs();
   try { const ax=await getJSON('data/axlar.json'); state.axdef=ax.axlar||[]; state.grupper=ax.grupper||[]; state.gruppnamn=ax.gruppnamn||{}; state.lagernamn=ax.lagernamn||{}; } catch(e){}
@@ -375,7 +379,7 @@ async function loadLanguage(lang){
 }
 
 function matches(a){
-  if(state.typ!=='alla' && (a.typ||'nyhet')!==state.typ) return false;
+  if(state.typer.size && !state.typer.has(a.typ||'nyhet')) return false;
   if(state.query){
     const hay=(a.titel+' '+(a.ingress||'')+' '+(a.taggar||[]).map(id=>(state.tags[id]||{}).etikett||id).join(' ')).toLowerCase();
     for(const w of state.query.split(/\s+/)) if(w && !hay.includes(w)) return false;

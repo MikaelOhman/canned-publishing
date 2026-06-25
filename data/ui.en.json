@@ -38,13 +38,17 @@
     "nyhet": "News",
     "lagforslag": "Bills",
     "kommunbeslut": "Municipal",
-    "omvarld": "EU & World"
+    "omvarld": "EU & World",
+    "myndighet": "Authorities",
+    "marknad": "Markets"
   },
   "typebadge": {
     "nyhet": "News",
     "lagforslag": "Bill",
     "kommunbeslut": "Municipal",
-    "omvarld": "EU/World"
+    "omvarld": "EU/World",
+    "myndighet": "Authority",
+    "marknad": "Market"
   },
   "tagtypes": {
     "ämne": "Topic",
