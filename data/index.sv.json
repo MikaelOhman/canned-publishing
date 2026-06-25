@@ -7167,6 +7167,24 @@
     }
   },
   {
+    "id": "norrtalje-kommunstyrelsen-2026-03-16",
+    "typ": "kommunbeslut",
+    "titel": "Kommunstyrelsen, Norrtälje kommun 2026-03-16",
+    "ingress": "En domstol har beslutat att Malmö kommun fick rätt när de sa nej till en anställd som ville jobba extra som brandman. Beslutet grundades på att den anställde hade för mycket arbete i sitt vanliga jobb för att kunna ta på sig ett extra uppdr",
+    "datum": "2026-03-16",
+    "kalla": "Norrtälje kommun",
+    "kalla_url": "https://forum.norrtalje.se/committees/kommunstyrelsen/mote-2026-03-16",
+    "taggar": [
+      "norrtalje",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "arbetsgivare": 5,
+      "kollektivavtal": 5,
+      "skiftarbete": 3
+    }
+  },
+  {
     "id": "HD03175",
     "typ": "lagforslag",
     "titel": "Skärpta krav för svenskt medborgarskap",
@@ -10233,6 +10251,22 @@
       "ung": 3,
       "pensionar": 3,
       "glesbygd": 3
+    }
+  },
+  {
+    "id": "norrtalje-kommunfullmaktige-2025-11-24",
+    "typ": "kommunbeslut",
+    "titel": "Kommunfullmäktige, Norrtälje kommun 2025-11-24",
+    "ingress": "Detta möte handlade om att godkänna administrativa meddelanden och rapporter från kommunens ekonomer.",
+    "datum": "2025-11-24",
+    "kalla": "Norrtälje kommun",
+    "kalla_url": "https://forum.norrtalje.se/committees/kommunfullmaktige/mote-2025-11-24",
+    "taggar": [
+      "norrtalje",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_bygg": 3
     }
   },
   {

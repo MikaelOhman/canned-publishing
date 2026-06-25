@@ -7163,6 +7163,24 @@
     }
   },
   {
+    "id": "norrtalje-kommunstyrelsen-2026-03-16",
+    "typ": "kommunbeslut",
+    "titel": "Municipal Board, Municipality of Norrtälje, March 16, 2026.",
+    "ingress": "A court has ruled in favor of the Malmö municipality, which had previously denied a request from an employee who wanted to work additional hours as a firefighter. The decision was based on the fact that the employee already had too much wor",
+    "datum": "2026-03-16",
+    "kalla": "Norrtälje kommun",
+    "kalla_url": "https://forum.norrtalje.se/committees/kommunstyrelsen/mote-2026-03-16",
+    "taggar": [
+      "norrtalje",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "arbetsgivare": 5,
+      "kollektivavtal": 5,
+      "skiftarbete": 3
+    }
+  },
+  {
     "id": "HD03175",
     "typ": "lagforslag",
     "titel": "Stricter requirements for Swedish citizenship.\n\n# Skärpta krav för svenskt medborgarskap\n## Bakgrund\nRegeringen har beslutat att skärpa kraven för att bli svensk medborgare. Detta innebär bland annat att kraven på språkkunskaper och kunskap om det svenska samhället höjs.\n\n## Nya krav\nDe nya kraven innebär bland annat följande:\n\n*   **Högre krav på språkkunskaper:** För att bli svensk medborgare krävs nu en högre nivå i svenska språket, både i tal och skrift.\n*   **Ökad kunskap om det svenska samhället:** De som ansöker om svenskt medborgarskap måste visa att de har goda kunskaper om det svenska samhället, inklusive dess historia, kultur och värderingar.\n*   **Striktare krav på ekonomisk självförsörjning:** För att bli svensk medborgare måste man kunna försörja sig ekonomiskt och inte vara beroende av socialbidrag.\n*   **Inga undantag för vissa grupper:** Tidigare har det funnits vissa undantag från kraven för vissa grupper, till exempel personer som har arbetat i Sverige under en längre tid. Dessa undantag har nu tagits bort.\n\n## Syfte\nSyftet med de skärpta kraven är att säkerställa att de som blir svenska medborgare har goda kunskaper om det svenska språket och samhället, samt att de kan försörja sig ekonomiskt.\n\n## Kritik\nDe skärpta kraven har mötts av kritik från flera håll. Vissa menar att kraven är för höga och att de kommer att göra det svårare för människor att bli svenska medborgare. Andra menar att kraven är nödvändiga för att säkerställa att de som blir svenska medborgare är väl integrerade i det svenska samhället.\n\n## Framtiden\nDet är ännu oklart hur de skärpta kraven kommer att påverka antalet personer som blir svenska medborgare. Det är dock troligt att antalet kommer att minska.",
@@ -10229,6 +10247,22 @@
       "ung": 3,
       "pensionar": 3,
       "glesbygd": 3
+    }
+  },
+  {
+    "id": "norrtalje-kommunfullmaktige-2025-11-24",
+    "typ": "kommunbeslut",
+    "titel": "Municipal Council, Municipality of Norrtälje, November 24, 2025.",
+    "ingress": "This meeting was held to approve administrative notices and reports from the municipality's financial officers.",
+    "datum": "2025-11-24",
+    "kalla": "Norrtälje kommun",
+    "kalla_url": "https://forum.norrtalje.se/committees/kommunfullmaktige/mote-2025-11-24",
+    "taggar": [
+      "norrtalje",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_bygg": 3
     }
   },
   {

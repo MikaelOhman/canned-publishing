@@ -7095,6 +7095,24 @@
     }
   },
   {
+    "id": "norrtalje-kommunstyrelsen-2026-03-16",
+    "typ": "kommunbeslut",
+    "titel": "Gemeindeverwaltungsrat, Gemeinde Norrtälje, 16. März 2026.",
+    "ingress": "Ein Gericht hat entschieden, dass die Stadt Malmö Recht hatte, die Bitte eines Mitarbeiters abzulehnen, der eine zusätzliche Tätigkeit als Feuerwehrmann übernehmen wollte. Die Entscheidung basierte darauf, dass der Mitarbeiter in seinem reg",
+    "datum": "2026-03-16",
+    "kalla": "Norrtälje kommun",
+    "kalla_url": "https://forum.norrtalje.se/committees/kommunstyrelsen/mote-2026-03-16",
+    "taggar": [
+      "norrtalje",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "arbetsgivare": 5,
+      "kollektivavtal": 5,
+      "skiftarbete": 3
+    }
+  },
+  {
     "id": "HD03175",
     "typ": "lagforslag",
     "titel": "Strengere Anforderungen für die schwedische Staatsbürgerschaft.\n\n# Skärpta krav för svenskt medborgarskap\n\n*   Förändringar i kraven för att bli svensk medborgare.\n*   Högre krav på språkkunskaper.\n*   Längre krav på uppehållstillstånd.\n\n**Mer information finns på [riksdagen.se](https://www.riksdagen.se).**\n\n---\n\nDatum: 2023-10-27",
@@ -10161,6 +10179,22 @@
       "ung": 3,
       "pensionar": 3,
       "glesbygd": 3
+    }
+  },
+  {
+    "id": "norrtalje-kommunfullmaktige-2025-11-24",
+    "typ": "kommunbeslut",
+    "titel": "Gemeindevertreterversammlung, Gemeinde Norrtälje, 24. November 2025.",
+    "ingress": "Dieses Treffen diente der Genehmigung von administrativen Mitteilungen und Berichten der Finanzexperten der Gemeinde.",
+    "datum": "2025-11-24",
+    "kalla": "Norrtälje kommun",
+    "kalla_url": "https://forum.norrtalje.se/committees/kommunfullmaktige/mote-2025-11-24",
+    "taggar": [
+      "norrtalje",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_bygg": 3
     }
   },
   {

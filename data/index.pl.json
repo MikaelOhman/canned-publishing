@@ -7081,6 +7081,24 @@
     }
   },
   {
+    "id": "norrtalje-kommunstyrelsen-2026-03-16",
+    "typ": "kommunbeslut",
+    "titel": "Uchwała Rady Gminy, Gmina Norrtälje, 2026-03-16.",
+    "ingress": "Sąd orzekł, że gmina Malmö miała rację odmawiając zatrudnienia pracownikowi na dodatkową pracę jako strażak. Decyzja została podjęta w oparciu o fakt, że pracownik miał zbyt duże obciążenie pracą w swoim podstawowym stanowisku, aby móc podj",
+    "datum": "2026-03-16",
+    "kalla": "Norrtälje kommun",
+    "kalla_url": "https://forum.norrtalje.se/committees/kommunstyrelsen/mote-2026-03-16",
+    "taggar": [
+      "norrtalje",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "arbetsgivare": 5,
+      "kollektivavtal": 5,
+      "skiftarbete": 3
+    }
+  },
+  {
     "id": "HD03175",
     "typ": "lagforslag",
     "titel": "Zaostrzone wymagania dotyczące uzyskania obywatelstwa szwedzkiego.\n\n# Zaostrzone wymagania dotyczące uzyskania obywatelstwa szwedzkiego\n\n*   Wymagania dotyczące znajomości języka szwedzkiego są bardziej rygorystyczne.\n*   Wymagania dotyczące stażu zamieszkania w Szwecji są bardziej rygorystyczne.\n*   Wymagania dotyczące przestrzegania prawa są bardziej rygorystyczne.\n\n**Szczegółowe informacje na temat nowych wymagań można znaleźć na stronie internetowej Migrationsverket (Agencji Migracyjnej): [https://www.migrationsverket.se/](https://www.migrationsverket.se/)**\n\nAby uzyskać obywatelstwo szwedzkie, należy spełnić następujące warunki:\n\n*   Być pełnoletnim.\n*   Mieszkać w Szwecji przez określony czas.\n*   Znać język szwedzki na określonym poziomie.\n*   Przestrzegać prawa.\n\nOsoby, które nie spełniają wszystkich wymagań, mogą ubiegać się o pozwolenie na pobyt.",
@@ -10147,6 +10165,22 @@
       "ung": 3,
       "pensionar": 3,
       "glesbygd": 3
+    }
+  },
+  {
+    "id": "norrtalje-kommunfullmaktige-2025-11-24",
+    "typ": "kommunbeslut",
+    "titel": "Uchwała Rady Miejskiej, Gmina Norrtälje, 24 listopada 2025 roku.",
+    "ingress": "To spotkanie dotyczyło zatwierdzenia oficjalnych komunikatów i raportów finansowych przygotowanych przez pracowników działu finansowego gminy.",
+    "datum": "2025-11-24",
+    "kalla": "Norrtälje kommun",
+    "kalla_url": "https://forum.norrtalje.se/committees/kommunfullmaktige/mote-2025-11-24",
+    "taggar": [
+      "norrtalje",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_bygg": 3
     }
   },
   {

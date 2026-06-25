@@ -7065,6 +7065,24 @@
     }
   },
   {
+    "id": "norrtalje-kommunstyrelsen-2026-03-16",
+    "typ": "kommunbeslut",
+    "titel": "Gemeenteraad, gemeente Norrtälje, 16 maart 2026.",
+    "ingress": "Een rechtbank heeft besloten dat de gemeente Malmö gelijk had toen ze een werknemer weigerden die graag extra wilde werken als brandweerman. De beslissing was gebaseerd op het feit dat de werknemer al te veel werkzaamheden had in zijn regul",
+    "datum": "2026-03-16",
+    "kalla": "Norrtälje kommun",
+    "kalla_url": "https://forum.norrtalje.se/committees/kommunstyrelsen/mote-2026-03-16",
+    "taggar": [
+      "norrtalje",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "arbetsgivare": 5,
+      "kollektivavtal": 5,
+      "skiftarbete": 3
+    }
+  },
+  {
     "id": "HD03175",
     "typ": "lagforslag",
     "titel": "Aangepaste eisen voor het Zweedse burgerschap.\n\n# Aangepaste eisen voor het Zweedse burgerschap\n\nDe eisen voor het verkrijgen van het Zweedse burgerschap zijn aangescherpt.\n\n*   **Taaleis:** Er is een hogere taaleis gesteld.\n*   **Financieel zelfstandig:** U moet financieel zelfstandig zijn.\n*   **Geen strafblad:** U mag geen strafblad hebben.\n\nMeer informatie over de specifieke eisen kunt u vinden op de website van de Zweedse Migratie- en Asielautoriteit.",
@@ -10131,6 +10149,22 @@
       "ung": 3,
       "pensionar": 3,
       "glesbygd": 3
+    }
+  },
+  {
+    "id": "norrtalje-kommunfullmaktige-2025-11-24",
+    "typ": "kommunbeslut",
+    "titel": "Gemeenteraad, gemeente Norrtälje, 24 november 2025.",
+    "ingress": "Deze vergadering was bedoeld voor de goedkeuring van administratieve aankondigingen en rapporten van de economische afdeling van de gemeente.",
+    "datum": "2025-11-24",
+    "kalla": "Norrtälje kommun",
+    "kalla_url": "https://forum.norrtalje.se/committees/kommunfullmaktige/mote-2025-11-24",
+    "taggar": [
+      "norrtalje",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_bygg": 3
     }
   },
   {

@@ -6981,6 +6981,24 @@
     }
   },
   {
+    "id": "norrtalje-kommunstyrelsen-2026-03-16",
+    "typ": "kommunbeslut",
+    "titel": "Consiliul municipal, comuna Norrtälje, 16 martie 2026.",
+    "ingress": "Un tribunal a decis că municipalitatea Malmö avea dreptate să refuze cererea unui angajat care dorea să lucreze suplimentar ca pompier. Decizia s-a bazat pe faptul că angajatul avea deja o încărcătură de muncă prea mare în funcția sa obișnu",
+    "datum": "2026-03-16",
+    "kalla": "Norrtälje kommun",
+    "kalla_url": "https://forum.norrtalje.se/committees/kommunstyrelsen/mote-2026-03-16",
+    "taggar": [
+      "norrtalje",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "arbetsgivare": 5,
+      "kollektivavtal": 5,
+      "skiftarbete": 3
+    }
+  },
+  {
     "id": "HD03175",
     "typ": "lagforslag",
     "titel": "Cerințe mai stricte pentru cetățenia suedeză.\n\n# Cerințe mai stricte pentru cetățenia suedeză\n\nAcest document prezintă modificările recente aduse cerințelor pentru a obține cetățenia suedeză.\n\n*   **Cunoștințe de limbă:**\n    *   Nivelul minim de competență lingvistică în limba suedeză a fost ridicat.\n*   **Venituri:**\n    *   Cerințele privind veniturile minime necesare pentru a demonstra independența financiară au fost consolidate.\n*   **Cunoștințe despre societatea suedeză:**\n    *   Testul de cunoștințe despre societatea suedeză a fost actualizat pentru a include subiecte mai complexe.\n*   **Pedigree:**\n    *   Cerințele privind antecedentele penale au fost înăsprite.\n\nPentru mai multe informații, vă rugăm să consultați site-ul web al Poliției suedeze: [www.polisen.se](www.polisen.se)",
@@ -10047,6 +10065,22 @@
       "ung": 3,
       "pensionar": 3,
       "glesbygd": 3
+    }
+  },
+  {
+    "id": "norrtalje-kommunfullmaktige-2025-11-24",
+    "typ": "kommunbeslut",
+    "titel": "Consiliul municipal al orașului Norrtälje, 24 noiembrie 2025.",
+    "ingress": "Această ședință a avut ca scop aprobarea comunicărilor administrative și a rapoartelor prezentate de economiștii din cadrul primăriei.",
+    "datum": "2025-11-24",
+    "kalla": "Norrtälje kommun",
+    "kalla_url": "https://forum.norrtalje.se/committees/kommunfullmaktige/mote-2025-11-24",
+    "taggar": [
+      "norrtalje",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_bygg": 3
     }
   },
   {

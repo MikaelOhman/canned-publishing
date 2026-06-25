@@ -7084,6 +7084,24 @@
     }
   },
   {
+    "id": "norrtalje-kommunstyrelsen-2026-03-16",
+    "typ": "kommunbeslut",
+    "titel": "Junta Municipal, Municipio de Norrtälje, 16 de marzo de 2026.",
+    "ingress": "Un tribunal ha dictaminado que el municipio de Malmö tenía razón al rechazar la solicitud de un empleado que deseaba trabajar como bombero a tiempo parcial. La decisión se basó en el hecho de que el empleado ya tenía una carga de trabajo ex",
+    "datum": "2026-03-16",
+    "kalla": "Norrtälje kommun",
+    "kalla_url": "https://forum.norrtalje.se/committees/kommunstyrelsen/mote-2026-03-16",
+    "taggar": [
+      "norrtalje",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "arbetsgivare": 5,
+      "kollektivavtal": 5,
+      "skiftarbete": 3
+    }
+  },
+  {
     "id": "HD03175",
     "typ": "lagforslag",
     "titel": "Requisitos más estrictos para la ciudadanía sueca.\n\n# Requisitos más estrictos para la ciudadanía sueca\n\nSe han endurecido los requisitos para obtener la ciudadanía sueca.\n\n*   **Mayor exigencia de conocimiento del idioma:** Se requiere un nivel más alto de sueco.\n*   **Mayor exigencia de integración:** Se espera una mayor participación en la sociedad sueca.\n*   **Mayor exigencia de ingresos:** Se requiere demostrar ingresos suficientes para mantenerse.\n\nSe espera que estos cambios hagan que sea más difícil obtener la ciudadanía sueca.\n\nPara obtener más información, visite: www.migrationsverket.se",
@@ -10150,6 +10168,22 @@
       "ung": 3,
       "pensionar": 3,
       "glesbygd": 3
+    }
+  },
+  {
+    "id": "norrtalje-kommunfullmaktige-2025-11-24",
+    "typ": "kommunbeslut",
+    "titel": "Actas del pleno municipal, Ayuntamiento de Norrtälje, 24 de noviembre de 2025.",
+    "ingress": "Esta reunión se centró en la aprobación de comunicados y informes administrativos elaborados por los economistas del municipio.",
+    "datum": "2025-11-24",
+    "kalla": "Norrtälje kommun",
+    "kalla_url": "https://forum.norrtalje.se/committees/kommunfullmaktige/mote-2025-11-24",
+    "taggar": [
+      "norrtalje",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_bygg": 3
     }
   },
   {

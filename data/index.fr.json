@@ -7064,6 +7064,24 @@
     }
   },
   {
+    "id": "norrtalje-kommunstyrelsen-2026-03-16",
+    "typ": "kommunbeslut",
+    "titel": "Commission municipale de Norrtälje, 16 mars 2026.",
+    "ingress": "Un tribunal a statué que la municipalité de Malmö avait raison de refuser une demande d'un employé souhaitant effectuer des heures supplémentaires en tant que pompier. La décision s'est basée sur le fait que l'employé avait déjà un volume d",
+    "datum": "2026-03-16",
+    "kalla": "Norrtälje kommun",
+    "kalla_url": "https://forum.norrtalje.se/committees/kommunstyrelsen/mote-2026-03-16",
+    "taggar": [
+      "norrtalje",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "arbetsgivare": 5,
+      "kollektivavtal": 5,
+      "skiftarbete": 3
+    }
+  },
+  {
     "id": "HD03175",
     "typ": "lagforslag",
     "titel": "Exigences plus strictes pour l'acquisition de la nationalité suédoise.\n\n# Skärpta krav för svenskt medborgarskap\n\nDe krav som ställs för att bli svensk medborgare har skärpts.\n\n*   **Språkkrav:** Ett högre krav på kunskaper i svenska ställs.\n*   **Livsåskådning:** Kraven på att anpassa sig till det svenska samhället har ökat.\n*   **Brottslighet:** Personer med brott i sin bakgrund kan få svårt att bli svenska medborgare.\n\nFör mer information, besök [riksdagen.se](https://www.riksdagen.se).",
@@ -10130,6 +10148,22 @@
       "ung": 3,
       "pensionar": 3,
       "glesbygd": 3
+    }
+  },
+  {
+    "id": "norrtalje-kommunfullmaktige-2025-11-24",
+    "typ": "kommunbeslut",
+    "titel": "Conseil municipal de la commune de Norrtälje, 24 novembre 2025.",
+    "ingress": "Cette réunion a porté sur l'approbation de communications et de rapports administratifs provenant des économistes de la commune.",
+    "datum": "2025-11-24",
+    "kalla": "Norrtälje kommun",
+    "kalla_url": "https://forum.norrtalje.se/committees/kommunfullmaktige/mote-2025-11-24",
+    "taggar": [
+      "norrtalje",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_bygg": 3
     }
   },
   {

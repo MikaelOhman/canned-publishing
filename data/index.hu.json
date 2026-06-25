@@ -6959,6 +6959,24 @@
     }
   },
   {
+    "id": "norrtalje-kommunstyrelsen-2026-03-16",
+    "typ": "kommunbeslut",
+    "titel": "A Norrtälje önkormányzat Kommunális Bizottsága, 2026. március 16.",
+    "ingress": "Egy bíróság úgy döntött, hogy a Malmö önkormányzatnak igaza volt abban, amikor elutasította egy alkalmazottat, aki többletmunkát vállalt volna tűzoltóként. A döntés oka az volt, hogy az érintett túlterhelt volt a szokásos munkájában ahhoz,",
+    "datum": "2026-03-16",
+    "kalla": "Norrtälje kommun",
+    "kalla_url": "https://forum.norrtalje.se/committees/kommunstyrelsen/mote-2026-03-16",
+    "taggar": [
+      "norrtalje",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "arbetsgivare": 5,
+      "kollektivavtal": 5,
+      "skiftarbete": 3
+    }
+  },
+  {
     "id": "HD03175",
     "typ": "lagforslag",
     "titel": "A svéd állampolgárság megszerzésére vonatkozó szigorodott követelmények.\n\n# Szigorodott követelmények a svéd állampolgárság megszerzéséhez\n\nAz alábbiakban összefoglaljuk a svéd állampolgárság megszerzésére vonatkozó legfontosabb változásokat.\n\n*   **Nyelvtudás:** A jelölteknek bizonyítaniuk kell a megfelelő nyelvtudást.\n*   **Életkörülmények:** A jelölteknek bizonyítaniuk kell, hogy megfelelnek az életkörülményekkel kapcsolatos követelményeknek.\n*   **Bűnügyi múlt:** A jelölteknek nem szabad, hogy bűnügyi múltjuk legyen.\n\n**Részletes információk:**\n\nA szigorodott követelmények célja, hogy biztosítsuk, hogy csak azok kapják meg a svéd állampolgárságot, akik elkötelezettek a svéd társadalom iránt.\n\n**További információk:**\n\nTovábbi információkért kérjük, látogasson el a Migrationsverket weboldalára: [www.migrationsverket.se](www.migrationsverket.se)",
@@ -10025,6 +10043,22 @@
       "ung": 3,
       "pensionar": 3,
       "glesbygd": 3
+    }
+  },
+  {
+    "id": "norrtalje-kommunfullmaktige-2025-11-24",
+    "typ": "kommunbeslut",
+    "titel": "Norrtälje önkormányzat közgyűlése, 2025. november 24.",
+    "ingress": "A mai ülésen a cél az volt, hogy jóváhagyni a községi pénzügyi szakemberek által készített adminisztratív tájékoztatókat és jelentéseket.",
+    "datum": "2025-11-24",
+    "kalla": "Norrtälje kommun",
+    "kalla_url": "https://forum.norrtalje.se/committees/kommunfullmaktige/mote-2025-11-24",
+    "taggar": [
+      "norrtalje",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_bygg": 3
     }
   },
   {

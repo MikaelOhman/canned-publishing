@@ -7065,6 +7065,24 @@
     }
   },
   {
+    "id": "norrtalje-kommunstyrelsen-2026-03-16",
+    "typ": "kommunbeslut",
+    "titel": "Comitato comunale, Comune di Norrtälje, 16 marzo 2026.",
+    "ingress": "Un tribunale ha stabilito che il comune di Malmö aveva ragione nel rifiutare la richiesta di un dipendente che desiderava svolgere lavoro straordinario come vigile del fuoco. La decisione si è basata sul fatto che il dipendente aveva già tr",
+    "datum": "2026-03-16",
+    "kalla": "Norrtälje kommun",
+    "kalla_url": "https://forum.norrtalje.se/committees/kommunstyrelsen/mote-2026-03-16",
+    "taggar": [
+      "norrtalje",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "arbetsgivare": 5,
+      "kollektivavtal": 5,
+      "skiftarbete": 3
+    }
+  },
+  {
     "id": "HD03175",
     "typ": "lagforslag",
     "titel": "Requisiti più severi per la cittadinanza svedese.\n\n# Requisiti più severi per la cittadinanza svedese\n\nI requisiti per ottenere la cittadinanza svedese sono diventati più severi.\n\n*   È necessario avere una conoscenza più approfondita della lingua svedese.\n*   È necessario dimostrare un legame più forte con la società svedese.\n*   È necessario avere un reddito sufficiente per mantenersi.\n\n**Cosa significa questo?**\n\nQuesto significa che è diventato più difficile ottenere la cittadinanza svedese. Le persone che desiderano diventare cittadini svedesi devono ora soddisfare requisiti più elevati.\n\n**Perché sono stati introdotti questi requisiti?**\n\nI nuovi requisiti sono stati introdotti per garantire che le persone che diventano cittadini svedesi siano in grado di integrarsi nella società svedese e contribuire alla sua economia.\n\n**Cosa devo fare se voglio diventare cittadino svedese?**\n\nSe desideri diventare cittadino svedese, devi soddisfare tutti i requisiti. Puoi trovare maggiori informazioni sui requisiti sul sito web del Migrationsverket (Agenzia per l'immigrazione svedese).\n\n**Ulteriori informazioni:**\n\n*   [Sito web del Migrationsverket](https://www.migrationsverket.se/)",
@@ -10131,6 +10149,22 @@
       "ung": 3,
       "pensionar": 3,
       "glesbygd": 3
+    }
+  },
+  {
+    "id": "norrtalje-kommunfullmaktige-2025-11-24",
+    "typ": "kommunbeslut",
+    "titel": "Consiglio comunale di Norrtälje, del 24 novembre 2025.",
+    "ingress": "Questa riunione era dedicata all'approvazione di comunicazioni e rapporti amministrativi redatti dagli economisti del comune.",
+    "datum": "2025-11-24",
+    "kalla": "Norrtälje kommun",
+    "kalla_url": "https://forum.norrtalje.se/committees/kommunfullmaktige/mote-2025-11-24",
+    "taggar": [
+      "norrtalje",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_bygg": 3
     }
   },
   {
