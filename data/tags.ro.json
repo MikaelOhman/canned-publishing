@@ -437,7 +437,7 @@
   "kf": {
     "etikett": "KF",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "bjuv": {
     "etikett": "Bjuvs",
@@ -607,6 +607,11 @@
   "kommunfullmaktige-inkl-omrostningsbilago": {
     "etikett": "procesele-verbale ale ședințelor consiliului municipal, inclusiv anexele cu rezultatele voturilor.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "storfors": {
+    "etikett": "Storfors.",
+    "typ": "plats",
     "antal": 1
   }
 }

@@ -462,7 +462,7 @@
   "kf": {
     "etikett": "KF",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "bjuv": {
     "etikett": "بُيوِفس.",
@@ -632,6 +632,11 @@
   "kommunfullmaktige-inkl-omrostningsbilago": {
     "etikett": "محاضر اجتماعات مجلس المدينة، بما في ذلك المرفقات المتعلقة بعملية التصويت.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "storfors": {
+    "etikett": "Storfors",
+    "typ": "plats",
     "antal": 1
   }
 }

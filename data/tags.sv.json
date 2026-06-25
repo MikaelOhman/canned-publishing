@@ -552,7 +552,7 @@
   "kf": {
     "etikett": "KF",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "bjuv": {
     "etikett": "Bjuvs",
@@ -717,6 +717,11 @@
   "kommunfullmaktige-inkl-omrostningsbilago": {
     "etikett": "kommunfullmäktige inkl omröstningsbilagor",
     "typ": "organisation",
+    "antal": 1
+  },
+  "storfors": {
+    "etikett": "Storfors",
+    "typ": "plats",
     "antal": 1
   }
 }
