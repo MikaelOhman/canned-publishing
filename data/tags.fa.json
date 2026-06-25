@@ -532,7 +532,7 @@
   "kristianstad": {
     "etikett": "کریستیانستاد",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "kultur-och-fritidsnamnden": {
     "etikett": "کمیته فرهنگ و اوقات فراغت.",
@@ -1036,6 +1036,11 @@
   },
   "overformyndarnamnden-harnosand-kramfors": {
     "etikett": "اداره سرپرستی قانونی، شهرهای هرنوساند و کرامفورس.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "overformyndarnamndens": {
+    "etikett": "کمیسیون سرپرستی.",
     "typ": "organisation",
     "antal": 1
   }

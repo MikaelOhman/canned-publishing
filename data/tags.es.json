@@ -532,7 +532,7 @@
   "kristianstad": {
     "etikett": "Kristianstad.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "kultur-och-fritidsnamnden": {
     "etikett": "la comisión de cultura y ocio",
@@ -1036,6 +1036,11 @@
   },
   "overformyndarnamnden-harnosand-kramfors": {
     "etikett": "La Oficina de Tutela de Härnösand y Kramfors.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "overformyndarnamndens": {
+    "etikett": "La Comisión de Tutela.",
     "typ": "organisation",
     "antal": 1
   }

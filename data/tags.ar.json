@@ -557,7 +557,7 @@
   "kristianstad": {
     "etikett": "كريستيانستاد.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "kultur-och-fritidsnamnden": {
     "etikett": "لجنة الثقافة والترفيه.",
@@ -1051,6 +1051,11 @@
   },
   "overformyndarnamnden-harnosand-kramfors": {
     "etikett": "لجنة حماية القاصرين في هرنوساند وكرامفورس.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "overformyndarnamndens": {
+    "etikett": "لجنة حماية القاصرين.",
     "typ": "organisation",
     "antal": 1
   }

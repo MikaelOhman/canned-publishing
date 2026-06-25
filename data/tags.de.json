@@ -597,7 +597,7 @@
   "kristianstad": {
     "etikett": "Kristianstad",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "kultur-och-fritidsnamnden": {
     "etikett": "Der Kulturausschuss.",
@@ -1101,6 +1101,11 @@
   },
   "overformyndarnamnden-harnosand-kramfors": {
     "etikett": "Das Vormundschaftsgericht von Härnösand und Kramfors.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "overformyndarnamndens": {
+    "etikett": "Das Vormundschaftsgericht.",
     "typ": "organisation",
     "antal": 1
   }

@@ -532,7 +532,7 @@
   "kristianstad": {
     "etikett": "Kristianstad.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "kultur-och-fritidsnamnden": {
     "etikett": "komisja kultury i rekreacji",
@@ -1036,6 +1036,11 @@
   },
   "overformyndarnamnden-harnosand-kramfors": {
     "etikett": "Komisja ds. Nadzoru Rodzinnego w Härnösand i Kramfors.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "overformyndarnamndens": {
+    "etikett": "Komisja Nadzoru Rodzinnego.",
     "typ": "organisation",
     "antal": 1
   }

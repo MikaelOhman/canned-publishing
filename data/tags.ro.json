@@ -532,7 +532,7 @@
   "kristianstad": {
     "etikett": "Kristianstad.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "kultur-och-fritidsnamnden": {
     "etikett": "comisia pentru cultură și recreere",
@@ -1036,6 +1036,11 @@
   },
   "overformyndarnamnden-harnosand-kramfors": {
     "etikett": "Comisia de Tutelă din Härnösand, Kramfors.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "overformyndarnamndens": {
+    "etikett": "Comisia pentru tutori legali.",
     "typ": "organisation",
     "antal": 1
   }

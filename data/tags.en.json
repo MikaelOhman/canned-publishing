@@ -617,7 +617,7 @@
   "kristianstad": {
     "etikett": "Kristianstad:",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "kultur-och-fritidsnamnden": {
     "etikett": "the culture and leisure committee",
@@ -1111,6 +1111,11 @@
   },
   "overformyndarnamnden-harnosand-kramfors": {
     "etikett": "The Board of Guardianship, Härnösand, Kramfors.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "overformyndarnamndens": {
+    "etikett": "The Board of Guardianship.",
     "typ": "organisation",
     "antal": 1
   }

@@ -647,7 +647,7 @@
   "kristianstad": {
     "etikett": "Kristianstads",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "kultur-och-fritidsnamnden": {
     "etikett": "kultur och fritidsnämnden",
@@ -1136,6 +1136,11 @@
   },
   "overformyndarnamnden-harnosand-kramfors": {
     "etikett": "Överförmyndarnämnden Härnösand Kramfors",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "overformyndarnamndens": {
+    "etikett": "Överförmyndarnämndens",
     "typ": "organisation",
     "antal": 1
   }
