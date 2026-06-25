@@ -312,7 +312,7 @@
   "kommunstyrelsen": {
     "etikett": "Het college van burgemeester en wethouders.",
     "typ": "organisation",
-    "antal": 46
+    "antal": 47
   },
   "kommunal-forvaltning": {
     "etikett": "Gemeentelijke administratie.",
@@ -1107,6 +1107,11 @@
   "samhallsutvecklingsutskottet": {
     "etikett": "Het Commissie voor Maatschappelijke Ontwikkeling.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "ljusnarsberg": {
+    "etikett": "Ljusnarsbergs",
+    "typ": "plats",
     "antal": 1
   }
 }

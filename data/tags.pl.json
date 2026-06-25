@@ -307,7 +307,7 @@
   "kommunstyrelsen": {
     "etikett": "Zarząd gminy.",
     "typ": "organisation",
-    "antal": 46
+    "antal": 47
   },
   "kommunal-forvaltning": {
     "etikett": "Zarządzanie samorządem lokalnym.",
@@ -1102,6 +1102,11 @@
   "samhallsutvecklingsutskottet": {
     "etikett": "Komitet ds. rozwoju społecznego.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "ljusnarsberg": {
+    "etikett": "Ljusnarsberg.",
+    "typ": "plats",
     "antal": 1
   }
 }

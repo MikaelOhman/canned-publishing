@@ -372,7 +372,7 @@
   "kommunstyrelsen": {
     "etikett": "The Municipal Board.",
     "typ": "organisation",
-    "antal": 45
+    "antal": 46
   },
   "kommunal-forvaltning": {
     "etikett": "Municipal administration.",
@@ -1177,6 +1177,11 @@
   "samhallsutvecklingsutskottet": {
     "etikett": "The Committee for Social Development.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "ljusnarsberg": {
+    "etikett": "Ljusnarsberg.",
+    "typ": "plats",
     "antal": 1
   }
 }

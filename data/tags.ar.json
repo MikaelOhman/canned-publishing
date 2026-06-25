@@ -307,7 +307,7 @@
   "kommunstyrelsen": {
     "etikett": "مجلس البلدية.",
     "typ": "organisation",
-    "antal": 46
+    "antal": 47
   },
   "kommunal-forvaltning": {
     "etikett": "الإدارة المحلية.",
@@ -1117,6 +1117,11 @@
   "samhallsutvecklingsutskottet": {
     "etikett": "لجنة التنمية المجتمعية.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "ljusnarsberg": {
+    "etikett": "Ljusnarsbergs.",
+    "typ": "plats",
     "antal": 1
   }
 }

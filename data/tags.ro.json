@@ -307,7 +307,7 @@
   "kommunstyrelsen": {
     "etikett": "Consiliul municipal.",
     "typ": "organisation",
-    "antal": 46
+    "antal": 47
   },
   "kommunal-forvaltning": {
     "etikett": "Administrația locală.",
@@ -1102,6 +1102,11 @@
   "samhallsutvecklingsutskottet": {
     "etikett": "Comisia pentru dezvoltare comunitară.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "ljusnarsberg": {
+    "etikett": "Ljusnarsbergs.",
+    "typ": "plats",
     "antal": 1
   }
 }

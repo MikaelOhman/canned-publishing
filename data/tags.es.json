@@ -307,7 +307,7 @@
   "kommunstyrelsen": {
     "etikett": "El consejo municipal.",
     "typ": "organisation",
-    "antal": 46
+    "antal": 47
   },
   "kommunal-forvaltning": {
     "etikett": "Administración municipal.",
@@ -1102,6 +1102,11 @@
   "samhallsutvecklingsutskottet": {
     "etikett": "Comité de Desarrollo Comunitario.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "ljusnarsberg": {
+    "etikett": "Ljusnarsbergs.",
+    "typ": "plats",
     "antal": 1
   }
 }

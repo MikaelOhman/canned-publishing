@@ -312,7 +312,7 @@
   "kommunstyrelsen": {
     "etikett": "La giunta comunale.",
     "typ": "organisation",
-    "antal": 46
+    "antal": 47
   },
   "kommunal-forvaltning": {
     "etikett": "Amministrazione comunale.",
@@ -1107,6 +1107,11 @@
   "samhallsutvecklingsutskottet": {
     "etikett": "Commissione per lo sviluppo sociale.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "ljusnarsberg": {
+    "etikett": "Ljusnarsbergs.",
+    "typ": "plats",
     "antal": 1
   }
 }

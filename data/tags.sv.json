@@ -362,7 +362,7 @@
   "kommunstyrelsen": {
     "etikett": "Kommunstyrelsen",
     "typ": "organisation",
-    "antal": 49
+    "antal": 50
   },
   "kommunallagen": {
     "etikett": "Kommunallagen",
@@ -1202,6 +1202,11 @@
   "samhallsutvecklingsutskottet": {
     "etikett": "Samhällsutvecklingsutskottet",
     "typ": "organisation",
+    "antal": 1
+  },
+  "ljusnarsberg": {
+    "etikett": "Ljusnarsbergs",
+    "typ": "plats",
     "antal": 1
   }
 }

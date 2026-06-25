@@ -372,7 +372,7 @@
   "kommunstyrelsen": {
     "etikett": "Der Gemeinderat.",
     "typ": "organisation",
-    "antal": 46
+    "antal": 47
   },
   "kommunal-forvaltning": {
     "etikett": "Kommunale Verwaltung.",
@@ -1167,6 +1167,11 @@
   "samhallsutvecklingsutskottet": {
     "etikett": "Der Ausschuss für gesellschaftliche Entwicklung.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "ljusnarsberg": {
+    "etikett": "Ljusnarsbergs",
+    "typ": "plats",
     "antal": 1
   }
 }
