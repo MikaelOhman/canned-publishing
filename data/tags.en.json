@@ -918,5 +918,15 @@
     "etikett": "Municipal Council.",
     "typ": "organisation",
     "antal": 1
+  },
+  "fagersta": {
+    "etikett": "Fagersta",
+    "typ": "plats",
+    "antal": 1
+  },
+  "nve": {
+    "etikett": "NVE",
+    "typ": "organisation",
+    "antal": 1
   }
 }
