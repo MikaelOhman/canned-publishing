@@ -288,4 +288,11 @@ select:focus-visible,.search input:focus-visible,.chip:focus-visible,.card:focus
 }
 
 @media (prefers-reduced-motion: reduce){*{transition:none!important;scroll-behavior:auto!important}}
-@media (max-width:560px){.brand{width:100%;margin-bottom:6px}.list{grid-template-columns:1fr}}
+@media (max-width:560px){
+  .brand{width:100%;margin-bottom:6px}
+  .list{grid-template-columns:1fr}
+  /* inställnings-/temapanelen åkte utanför skärmen vid ombruten header (knapp-ankrad, växte vänster).
+     header har backdrop-filter → position:fixed blir relativt HEADERN (= full vidd). Spänn left/right:8px
+     och lägg under headern; alltid på skärmen, scrollbar om hög. */
+  .settings .panel{position:fixed;left:8px;right:8px;top:calc(100% + 6px);bottom:auto;min-width:0;width:auto;max-height:70vh;overflow-y:auto}
+}
