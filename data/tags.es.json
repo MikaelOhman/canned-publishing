@@ -453,5 +453,15 @@
     "etikett": "Borås.",
     "typ": "plats",
     "antal": 1
+  },
+  "burlov": {
+    "etikett": "Burlövs",
+    "typ": "plats",
+    "antal": 1
+  },
+  "sn": {
+    "etikett": "SN",
+    "typ": "organisation",
+    "antal": 1
   }
 }
