@@ -473,5 +473,15 @@
     "etikett": "Podpisano przez Komisję ds. Spraw Socjalnych.",
     "typ": "organisation",
     "antal": 1
+  },
+  "gnesta": {
+    "etikett": "Gnesta\n\n(Brak kontekstu, więc nie można dokonać bardziej szczegółowego tłumaczenia. \"Gnesta\" to nazwa własna, prawdopodobnie nazwa miejscowości, więc pozostawiam ją bez tłumaczenia.)",
+    "typ": "plats",
+    "antal": 1
+  },
+  "socialnamnden": {
+    "etikett": "referat från socialnämnden\nprotokół z posiedzenia komisji ds. opieki społecznej",
+    "typ": "organisation",
+    "antal": 1
   }
 }
