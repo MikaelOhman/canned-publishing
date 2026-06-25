@@ -3890,7 +3890,17 @@
     "taggar": [
       "malmo",
       "kommunfullmaktige"
-    ]
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "mark_bygglov": 3,
+      "hbtq": 3,
+      "bygger": 3,
+      "storstad": 3,
+      "funktion": 3,
+      "idrott": 3,
+      "klimat": 3
+    }
   },
   {
     "id": "alingsas-kommunfullmaktige-2026-03-25",
@@ -6419,7 +6429,11 @@
     "taggar": [
       "lekeberg",
       "kommunstyrelsen"
-    ]
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "barn": 3
+    }
   },
   {
     "id": "HD03119",
@@ -6497,7 +6511,18 @@
     "taggar": [
       "malmo",
       "kommunstyrelsen"
-    ]
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_vard": 3,
+      "b_fastighet": 3,
+      "b_kultur": 3,
+      "barn": 8,
+      "kvinna": 3,
+      "storstad": 3,
+      "idrott": 3,
+      "klimat": 3
+    }
   },
   {
     "id": "HD03111",
@@ -7098,7 +7123,14 @@
     "taggar": [
       "ange",
       "kommunstyrelsen"
-    ]
+    ],
+    "relevans": {
+      "b_vard": 3,
+      "b_fastighet": 3,
+      "miljo": 3,
+      "pensionar": 3,
+      "kronisk": 3
+    }
   },
   {
     "id": "gavle-kommunfullmaktige-2025-12-15",
@@ -7137,7 +7169,14 @@
     "taggar": [
       "alingsas",
       "kommunstyrelsen"
-    ]
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "mark_bygglov": 3,
+      "barn": 3,
+      "bygger": 3,
+      "konsument": 3
+    }
   },
   {
     "id": "HD0379",
@@ -7455,7 +7494,15 @@
     "taggar": [
       "bollebygd",
       "kommunstyrelsen"
-    ]
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_energi": 5,
+      "infrastruktur": 3,
+      "glesbygd": 3,
+      "kronisk": 3,
+      "energikund": 3
+    }
   },
   {
     "id": "alingsas-kommunstyrelsen-2025-12-01",
@@ -7468,7 +7515,16 @@
     "taggar": [
       "alingsas",
       "kommunstyrelsen"
-    ]
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "mark_bygglov": 3,
+      "barn": 3,
+      "bygger": 3,
+      "glesbygd": 3,
+      "pendlare": 3,
+      "kollektiv": 3
+    }
   },
   {
     "id": "HD0369",
@@ -7731,7 +7787,10 @@
     "taggar": [
       "lekeberg",
       "kommunfullmaktige"
-    ]
+    ],
+    "relevans": {
+      "arbetsgivare": 5
+    }
   },
   {
     "id": "bollebygd-kommunfullmaktige-2025-11-20",
@@ -8092,7 +8151,14 @@
     "taggar": [
       "hylte",
       "kommunfullmaktige"
-    ]
+    ],
+    "relevans": {
+      "b_utbildning": 3,
+      "finansiering": 3,
+      "vuxenstudier": 3,
+      "konsument": 3,
+      "klimat": 3
+    }
   },
   {
     "id": "HD0340",
@@ -8342,7 +8408,14 @@
     "taggar": [
       "gavle",
       "kommunfullmaktige"
-    ]
+    ],
+    "relevans": {
+      "b_transport": 3,
+      "miljo": 5,
+      "bil": 3,
+      "flygresenar": 5,
+      "friluftsliv": 3
+    }
   },
   {
     "id": "HD0333",
@@ -8378,7 +8451,13 @@
     "taggar": [
       "bollebygd",
       "kommunfullmaktige"
-    ]
+    ],
+    "relevans": {
+      "arbetsgivare": 5,
+      "bolagsskatt": 3,
+      "kollektivavtal": 5,
+      "lontagare": 3
+    }
   },
   {
     "id": "HD0334",
@@ -8724,7 +8803,17 @@
     "taggar": [
       "alingsas",
       "kommunfullmaktige"
-    ]
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_vard": 3,
+      "b_kultur": 3,
+      "b_life": 3,
+      "kronisk": 3,
+      "beroende": 3,
+      "konsument": 3,
+      "kultur": 3
+    }
   },
   {
     "id": "HD0316",
@@ -11394,7 +11483,10 @@
     "taggar": [
       "ange",
       "kommunfullmaktige"
-    ]
+    ],
+    "relevans": {
+      "b_energi": 3
+    }
   },
   {
     "id": "HC03110",
