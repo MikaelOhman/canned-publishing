@@ -307,7 +307,7 @@
   "kommunstyrelsen": {
     "etikett": "A községi tanács.",
     "typ": "organisation",
-    "antal": 44
+    "antal": 45
   },
   "kommunal-forvaltning": {
     "etikett": "Helyi közigazgatás.",
@@ -982,6 +982,11 @@
   "tillstands-och-tillsynsnamndens-for-hems": {
     "etikett": "A \"Tillstands och tillsynsnamnd\" nevű szervezet weboldala.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "karlsborg": {
+    "etikett": "Karlsborgs",
+    "typ": "plats",
     "antal": 1
   }
 }

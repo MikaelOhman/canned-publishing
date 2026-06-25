@@ -362,7 +362,7 @@
   "kommunstyrelsen": {
     "etikett": "Kommunstyrelsen",
     "typ": "organisation",
-    "antal": 47
+    "antal": 48
   },
   "kommunallagen": {
     "etikett": "Kommunallagen",
@@ -1082,6 +1082,11 @@
   "tillstands-och-tillsynsnamndens-for-hems": {
     "etikett": "Tillstands och tillsynsnamndens for hemsidan",
     "typ": "organisation",
+    "antal": 1
+  },
+  "karlsborg": {
+    "etikett": "Karlsborgs",
+    "typ": "plats",
     "antal": 1
   }
 }

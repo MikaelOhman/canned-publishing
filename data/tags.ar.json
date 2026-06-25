@@ -307,7 +307,7 @@
   "kommunstyrelsen": {
     "etikett": "مجلس البلدية.",
     "typ": "organisation",
-    "antal": 44
+    "antal": 45
   },
   "kommunal-forvaltning": {
     "etikett": "الإدارة المحلية.",
@@ -997,6 +997,11 @@
   "tillstands-och-tillsynsnamndens-for-hems": {
     "etikett": "اسم الجهة المسؤولة عن موقع الويب: \"لجنة الشؤون البيئية والإشراف\".",
     "typ": "organisation",
+    "antal": 1
+  },
+  "karlsborg": {
+    "etikett": "كارلسبورغ.",
+    "typ": "plats",
     "antal": 1
   }
 }

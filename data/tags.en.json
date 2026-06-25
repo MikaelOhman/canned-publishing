@@ -372,7 +372,7 @@
   "kommunstyrelsen": {
     "etikett": "The Municipal Board.",
     "typ": "organisation",
-    "antal": 43
+    "antal": 44
   },
   "kommunal-forvaltning": {
     "etikett": "Municipal administration.",
@@ -1057,6 +1057,11 @@
   "tillstands-och-tillsynsnamndens-for-hems": {
     "etikett": "State and Supervisory Authority - Website Information.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "karlsborg": {
+    "etikett": "Karlsborgs",
+    "typ": "plats",
     "antal": 1
   }
 }

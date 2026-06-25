@@ -372,7 +372,7 @@
   "kommunstyrelsen": {
     "etikett": "Der Gemeinderat.",
     "typ": "organisation",
-    "antal": 44
+    "antal": 45
   },
   "kommunal-forvaltning": {
     "etikett": "Kommunale Verwaltung.",
@@ -1047,6 +1047,11 @@
   "tillstands-och-tillsynsnamndens-for-hems": {
     "etikett": "Name der Zustands- und Aufsichtsbehörde für die Webseite.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "karlsborg": {
+    "etikett": "Karlsborgs",
+    "typ": "plats",
     "antal": 1
   }
 }

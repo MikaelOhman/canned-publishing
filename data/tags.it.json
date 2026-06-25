@@ -312,7 +312,7 @@
   "kommunstyrelsen": {
     "etikett": "La giunta comunale.",
     "typ": "organisation",
-    "antal": 44
+    "antal": 45
   },
   "kommunal-forvaltning": {
     "etikett": "Amministrazione comunale.",
@@ -987,6 +987,11 @@
   "tillstands-och-tillsynsnamndens-for-hems": {
     "etikett": "Commissione per la valutazione e il controllo - Informazioni per il sito web.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "karlsborg": {
+    "etikett": "Karlsborgs.",
+    "typ": "plats",
     "antal": 1
   }
 }
