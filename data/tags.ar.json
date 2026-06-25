@@ -507,7 +507,7 @@
   "socialnamnden": {
     "etikett": "لجنة الشؤون الاجتماعية.",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "katrineholm": {
     "etikett": "كاترينهولم.",
@@ -1027,6 +1027,11 @@
   "kultur-och-utbildningsnamnden": {
     "etikett": "لجنة الثقافة والتعليم.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "klippan": {
+    "etikett": "Klippans.",
+    "typ": "plats",
     "antal": 1
   }
 }

@@ -482,7 +482,7 @@
   "socialnamnden": {
     "etikett": "comisia de asistență socială",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "katrineholm": {
     "etikett": "Katrineholms",
@@ -1012,6 +1012,11 @@
   "kultur-och-utbildningsnamnden": {
     "etikett": "Comisia pentru cultură și educație.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "klippan": {
+    "etikett": "Klippans.",
+    "typ": "plats",
     "antal": 1
   }
 }

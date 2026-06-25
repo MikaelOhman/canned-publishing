@@ -487,7 +487,7 @@
   "socialnamnden": {
     "etikett": "il servizio sociale comunale",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "katrineholm": {
     "etikett": "Katrineholms",
@@ -1017,6 +1017,11 @@
   "kultur-och-utbildningsnamnden": {
     "etikett": "La commissione per la cultura e l'istruzione.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "klippan": {
+    "etikett": "Klippans.",
+    "typ": "plats",
     "antal": 1
   }
 }

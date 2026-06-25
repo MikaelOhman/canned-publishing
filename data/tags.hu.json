@@ -482,7 +482,7 @@
   "socialnamnden": {
     "etikett": "a szociális bizottság",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "katrineholm": {
     "etikett": "Katrineholms",
@@ -1012,6 +1012,11 @@
   "kultur-och-utbildningsnamnden": {
     "etikett": "A kulturális és oktatási bizottság.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "klippan": {
+    "etikett": "Klippans.",
+    "typ": "plats",
     "antal": 1
   }
 }

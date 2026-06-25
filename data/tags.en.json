@@ -567,7 +567,7 @@
   "socialnamnden": {
     "etikett": "the social services board",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "katrineholm": {
     "etikett": "Katrineholm:",
@@ -1087,6 +1087,11 @@
   "kultur-och-utbildningsnamnden": {
     "etikett": "The Culture and Education Committee.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "klippan": {
+    "etikett": "Klippans is a company that offers a variety of services, including:\n\n*   Consulting\n*   Training\n*   Software development\n*   Project management\n\nThey have been in business since 2005 and are located in Stockholm, Sweden. You can learn more about them by visiting their website at [invalid URL removed].",
+    "typ": "plats",
     "antal": 1
   }
 }

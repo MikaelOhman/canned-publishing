@@ -597,7 +597,7 @@
   "socialnamnden": {
     "etikett": "socialnämnden",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "katrineholm": {
     "etikett": "Katrineholms",
@@ -1112,6 +1112,11 @@
   "kultur-och-utbildningsnamnden": {
     "etikett": "Kultur och utbildningsnämnden",
     "typ": "organisation",
+    "antal": 1
+  },
+  "klippan": {
+    "etikett": "Klippans",
+    "typ": "plats",
     "antal": 1
   }
 }
