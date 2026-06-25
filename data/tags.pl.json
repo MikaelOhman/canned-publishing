@@ -598,5 +598,15 @@
     "etikett": "KS",
     "typ": "organisation",
     "antal": 1
+  },
+  "savsjo": {
+    "etikett": "Sävsjö",
+    "typ": "plats",
+    "antal": 1
+  },
+  "kommunfullmaktige-inkl-omrostningsbilago": {
+    "etikett": "protokoły posiedzeń rady miejskiej, w tym załączniki z wynikami głosowań.",
+    "typ": "organisation",
+    "antal": 1
   }
 }

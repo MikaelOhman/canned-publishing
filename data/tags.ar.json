@@ -623,5 +623,15 @@
     "etikett": "KS",
     "typ": "organisation",
     "antal": 1
+  },
+  "savsjo": {
+    "etikett": "سافسيو.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "kommunfullmaktige-inkl-omrostningsbilago": {
+    "etikett": "محاضر اجتماعات مجلس المدينة، بما في ذلك المرفقات المتعلقة بعملية التصويت.",
+    "typ": "organisation",
+    "antal": 1
   }
 }

@@ -603,5 +603,15 @@
     "etikett": "KS",
     "typ": "organisation",
     "antal": 1
+  },
+  "savsjo": {
+    "etikett": "Sävsjö",
+    "typ": "plats",
+    "antal": 1
+  },
+  "kommunfullmaktige-inkl-omrostningsbilago": {
+    "etikett": "gemeenteraad, inclusief de bijlagen met de stemresultaten.",
+    "typ": "organisation",
+    "antal": 1
   }
 }

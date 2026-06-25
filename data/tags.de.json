@@ -663,5 +663,15 @@
     "etikett": "KS",
     "typ": "organisation",
     "antal": 1
+  },
+  "savsjo": {
+    "etikett": "Sävsjö",
+    "typ": "plats",
+    "antal": 1
+  },
+  "kommunfullmaktige-inkl-omrostningsbilago": {
+    "etikett": "Protokolle der Stadtverordnetenversammlung, einschließlich der Wahlzettel.",
+    "typ": "organisation",
+    "antal": 1
   }
 }
