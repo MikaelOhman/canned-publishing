@@ -603,5 +603,15 @@
     "etikett": "Der Kulturausschuss.",
     "typ": "organisation",
     "antal": 1
+  },
+  "ljusdal": {
+    "etikett": "Ljusdals.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "on-signerat": {
+    "etikett": "Unterzeichnet von ON.",
+    "typ": "organisation",
+    "antal": 1
   }
 }
