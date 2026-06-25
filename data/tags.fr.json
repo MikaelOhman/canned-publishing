@@ -468,5 +468,15 @@
     "etikett": "SN",
     "typ": "organisation",
     "antal": 1
+  },
+  "emmaboda": {
+    "etikett": "Emmaboda.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "socialnamnden-signerat": {
+    "etikett": "Approuvé par le conseil d'administration des affaires sociales.",
+    "typ": "organisation",
+    "antal": 1
   }
 }

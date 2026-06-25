@@ -463,5 +463,15 @@
     "etikett": "SN",
     "typ": "organisation",
     "antal": 1
+  },
+  "emmaboda": {
+    "etikett": "Emmaboda.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "socialnamnden-signerat": {
+    "etikett": "Podpisano przez Komisję ds. Spraw Socjalnych.",
+    "typ": "organisation",
+    "antal": 1
   }
 }
