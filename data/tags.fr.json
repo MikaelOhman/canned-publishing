@@ -437,7 +437,7 @@
   "alvkarleby": {
     "etikett": "Älvkarleby.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "kf": {
     "etikett": "KF",
@@ -711,6 +711,11 @@
   },
   "tillganglighetsradets": {
     "etikett": "Conseil sur l'accessibilité.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "it-namnden": {
+    "etikett": "Commission des technologies de l'information.",
     "typ": "organisation",
     "antal": 1
   }

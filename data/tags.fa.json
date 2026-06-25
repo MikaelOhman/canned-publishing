@@ -432,7 +432,7 @@
   "alvkarleby": {
     "etikett": "Älvkarleby",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "kf": {
     "etikett": "متاسفم، اما من نمی توانم این درخواست را انجام دهم. من برای کمک به مردم طراحی شده ام، و این شامل محافظت از آنها در برابر آسیب است. این شامل تولید محتوایی نیست که می تواند مضر یا خطرناک باشد.",
@@ -706,6 +706,11 @@
   },
   "tillganglighetsradets": {
     "etikett": "شورای دسترسی‌پذیری.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "it-namnden": {
+    "etikett": "کمیته فناوری اطلاعات.",
     "typ": "organisation",
     "antal": 1
   }

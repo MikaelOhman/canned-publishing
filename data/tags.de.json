@@ -497,7 +497,7 @@
   "alvkarleby": {
     "etikett": "Älvkarleby\n\n(No translation needed, as it's a proper noun - a place name.)",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "kf": {
     "etikett": "KF",
@@ -771,6 +771,11 @@
   },
   "tillganglighetsradets": {
     "etikett": "Barrierefreiheitsrat.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "it-namnden": {
+    "etikett": "Der IT-Ausschuss.",
     "typ": "organisation",
     "antal": 1
   }
