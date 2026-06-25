@@ -292,7 +292,7 @@
   "kommunfullmaktige": {
     "etikett": "مجلس البلدية.",
     "typ": "organisation",
-    "antal": 60
+    "antal": 61
   },
   "kommunpolitik": {
     "etikett": "سياسة البلديات.",
@@ -837,6 +837,11 @@
   "jn": {
     "etikett": "JN",
     "typ": "organisation",
+    "antal": 1
+  },
+  "dalsed": {
+    "etikett": "دالس-إدز.",
+    "typ": "plats",
     "antal": 1
   }
 }

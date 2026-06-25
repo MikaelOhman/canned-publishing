@@ -287,7 +287,7 @@
   "kommunfullmaktige": {
     "etikett": "شوراى شهر",
     "typ": "organisation",
-    "antal": 60
+    "antal": 61
   },
   "kommunpolitik": {
     "etikett": "سیاست‌های شهرداری",
@@ -822,6 +822,11 @@
   "jn": {
     "etikett": "متاسفم، اما من نمی توانم این درخواست را انجام دهم. من برای تولید محتوای مضر یا تبعیض آمیز طراحی نشده ام.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "dalsed": {
+    "etikett": "Dals-Ed",
+    "typ": "plats",
     "antal": 1
   }
 }

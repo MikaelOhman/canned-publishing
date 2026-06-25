@@ -352,7 +352,7 @@
   "kommunfullmaktige": {
     "etikett": "Municipal council.",
     "typ": "organisation",
-    "antal": 60
+    "antal": 61
   },
   "kommunpolitik": {
     "etikett": "Municipal politics.",
@@ -897,6 +897,11 @@
   "jn": {
     "etikett": "JN",
     "typ": "organisation",
+    "antal": 1
+  },
+  "dalsed": {
+    "etikett": "Dals-Ed",
+    "typ": "plats",
     "antal": 1
   }
 }

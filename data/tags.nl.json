@@ -292,7 +292,7 @@
   "kommunfullmaktige": {
     "etikett": "Gemeenteraad.",
     "typ": "organisation",
-    "antal": 60
+    "antal": 61
   },
   "kommunpolitik": {
     "etikett": "Gemeentepolitiek.",
@@ -827,6 +827,11 @@
   "jn": {
     "etikett": "JN",
     "typ": "organisation",
+    "antal": 1
+  },
+  "dalsed": {
+    "etikett": "Dals-Ed",
+    "typ": "plats",
     "antal": 1
   }
 }

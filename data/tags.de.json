@@ -352,7 +352,7 @@
   "kommunfullmaktige": {
     "etikett": "Gemeindevertretung",
     "typ": "organisation",
-    "antal": 60
+    "antal": 61
   },
   "kommunpolitik": {
     "etikett": "Kommunalpolitik.",
@@ -887,6 +887,11 @@
   "jn": {
     "etikett": "JN",
     "typ": "organisation",
+    "antal": 1
+  },
+  "dalsed": {
+    "etikett": "Dals-Ed",
+    "typ": "plats",
     "antal": 1
   }
 }
