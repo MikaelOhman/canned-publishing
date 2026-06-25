@@ -177,7 +177,7 @@
   "ekonomi": {
     "etikett": "Economics",
     "typ": "ämne",
-    "antal": 9
+    "antal": 11
   },
   "sverige": {
     "etikett": "Sweden",
@@ -1443,5 +1443,15 @@
     "etikett": "The Central Board of Guardianship, Region Mitt.",
     "typ": "organisation",
     "antal": 1
+  },
+  "riksbanken": {
+    "etikett": "The National Bank of Sweden.",
+    "typ": "organisation",
+    "antal": 2
+  },
+  "rantor": {
+    "etikett": "Interest Rates & Monetary Policy",
+    "typ": "ämne",
+    "antal": 2
   }
 }

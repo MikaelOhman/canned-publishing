@@ -112,7 +112,7 @@
   "ekonomi": {
     "etikett": "Economía",
     "typ": "ämne",
-    "antal": 9
+    "antal": 11
   },
   "sverige": {
     "etikett": "Suecia",
@@ -1368,5 +1368,15 @@
     "etikett": "La Oficina de Tutela de Menores, sección \"Mitt\".",
     "typ": "organisation",
     "antal": 1
+  },
+  "riksbanken": {
+    "etikett": "El Banco Central de Suecia.",
+    "typ": "organisation",
+    "antal": 2
+  },
+  "rantor": {
+    "etikett": "Tipos de interés y política monetaria.",
+    "typ": "ämne",
+    "antal": 2
   }
 }

@@ -112,7 +112,7 @@
   "ekonomi": {
     "etikett": "Economia",
     "typ": "ämne",
-    "antal": 9
+    "antal": 11
   },
   "sverige": {
     "etikett": "Svezia",
@@ -1373,5 +1373,15 @@
     "etikett": "La Commissione di Tutela dei Minori \"Mitt\".",
     "typ": "organisation",
     "antal": 1
+  },
+  "riksbanken": {
+    "etikett": "La Banca Centrale Svedese (Riksbanken).",
+    "typ": "organisation",
+    "antal": 2
+  },
+  "rantor": {
+    "etikett": "Tassi di interesse e politica monetaria.",
+    "typ": "ämne",
+    "antal": 2
   }
 }

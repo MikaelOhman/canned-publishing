@@ -343,6 +343,25 @@
     }
   },
   {
+    "id": "riksbanken-2026-06-24-protokoll-fran-det-penningpoli",
+    "typ": "omvarld",
+    "titel": "Proces-verbal al ședinței privind politica monetară, din 16 iunie 2026.",
+    "ingress": "Rata dobânzii nu va fi modificată. Aceasta va rămâne la 1,75%, conform unei decizii luate pe 16 iunie 2026.",
+    "datum": "2026-06-24",
+    "kalla": "Riksbanken",
+    "kalla_url": "https://www.riksbank.se/sv/press-och-publicerat/nyheter-och-pressmeddelanden/pressmeddelanden/2026/protokoll-fran-det-penningpolitiska-motet-den-16-juni-2026/",
+    "taggar": [
+      "ekonomi",
+      "riksbanken",
+      "rantor"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "sparare": 3,
+      "lantagare": 3
+    }
+  },
+  {
     "id": "HD03288",
     "typ": "lagforslag",
     "titel": "Raportul Agenției Naționale de Audit privind modul în care statul gestionează exercitarea autorității de către municipalități, referitor la Legea privind sprijinul pentru persoane cu dizabilități (LSS).",
@@ -1593,6 +1612,27 @@
       "glesbygd": 3,
       "klimat": 3,
       "kultur": 3
+    }
+  },
+  {
+    "id": "riksbanken-2026-06-17-styrrantan-oforandrad-pa-1-75-",
+    "typ": "omvarld",
+    "titel": "Rata dobânzii de referință a rămas neschimbată, la 1,75 procente.",
+    "ingress": "Banca Centrală a Suediei a menținut rata dobânzii de referință la 1,75%. Cu toate acestea, există un risc crescut ca rata dobânzii să fie majorată mai târziu în cursul anului, din cauza incertitudinilor din mediul extern.",
+    "datum": "2026-06-17",
+    "kalla": "Riksbanken",
+    "kalla_url": "https://www.riksbank.se/sv/press-och-publicerat/nyheter-och-pressmeddelanden/pressmeddelanden/2026/styrrantan-oforandrad-pa-175-procent4/",
+    "taggar": [
+      "ekonomi",
+      "riksbanken",
+      "rantor"
+    ],
+    "relevans": {
+      "b_energi": 3,
+      "sparare": 3,
+      "lantagare": 3,
+      "energikund": 5,
+      "konsument": 5
     }
   },
   {

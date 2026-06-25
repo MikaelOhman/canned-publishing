@@ -112,7 +112,7 @@
   "ekonomi": {
     "etikett": "الاقتصاد",
     "typ": "ämne",
-    "antal": 9
+    "antal": 11
   },
   "sverige": {
     "etikett": "السويد",
@@ -1383,5 +1383,15 @@
     "etikett": "لجنة حماية القاصرين - المنطقة الوسطى.",
     "typ": "organisation",
     "antal": 1
+  },
+  "riksbanken": {
+    "etikett": "البنك المركزي السويدي.",
+    "typ": "organisation",
+    "antal": 2
+  },
+  "rantor": {
+    "etikett": "أسعار الفائدة والسياسة النقدية.",
+    "typ": "ämne",
+    "antal": 2
   }
 }

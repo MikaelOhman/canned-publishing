@@ -343,6 +343,25 @@
     }
   },
   {
+    "id": "riksbanken-2026-06-24-protokoll-fran-det-penningpoli",
+    "typ": "omvarld",
+    "titel": "Protokoll des Sitzungsprotokolls der Geldpolitik vom 16. Juni 2026.",
+    "ingress": "Der Zinssatz soll unverändert bleiben. Er verbleibt bei 1,75 Prozent, wie in einer Entscheidung vom 16. Juni 2026 festgelegt.",
+    "datum": "2026-06-24",
+    "kalla": "Riksbanken",
+    "kalla_url": "https://www.riksbank.se/sv/press-och-publicerat/nyheter-och-pressmeddelanden/pressmeddelanden/2026/protokoll-fran-det-penningpolitiska-motet-den-16-juni-2026/",
+    "taggar": [
+      "ekonomi",
+      "riksbanken",
+      "rantor"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "sparare": 3,
+      "lantagare": 3
+    }
+  },
+  {
     "id": "HD03288",
     "typ": "lagforslag",
     "titel": "Bericht des Riksrevisionen über die Steuerung der Ausübung von Behördenaufgaben durch den Staat in Bezug auf die Gemeinden, insbesondere im Hinblick auf das LSS-Gesetz.",
@@ -1638,6 +1657,27 @@
       "glesbygd": 3,
       "klimat": 3,
       "kultur": 3
+    }
+  },
+  {
+    "id": "riksbanken-2026-06-17-styrrantan-oforandrad-pa-1-75-",
+    "typ": "omvarld",
+    "titel": "Der Leitzins bleibt unverändert bei 1,75 Prozent.",
+    "ingress": "Die Zentralbank hat den Leitzins unverändert bei 1,75 Prozent belassen. Es besteht jedoch ein erhöhtes Risiko, dass der Leitzins im Laufe des Jahres angehoben wird, aufgrund von Unsicherheiten im globalen Umfeld.",
+    "datum": "2026-06-17",
+    "kalla": "Riksbanken",
+    "kalla_url": "https://www.riksbank.se/sv/press-och-publicerat/nyheter-och-pressmeddelanden/pressmeddelanden/2026/styrrantan-oforandrad-pa-175-procent4/",
+    "taggar": [
+      "ekonomi",
+      "riksbanken",
+      "rantor"
+    ],
+    "relevans": {
+      "b_energi": 3,
+      "sparare": 3,
+      "lantagare": 3,
+      "energikund": 5,
+      "konsument": 5
     }
   },
   {

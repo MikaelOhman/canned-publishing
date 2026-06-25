@@ -363,6 +363,25 @@
     }
   },
   {
+    "id": "riksbanken-2026-06-24-protokoll-fran-det-penningpoli",
+    "typ": "omvarld",
+    "titel": "Minutes from the Monetary Policy Meeting held on June 16, 2026.",
+    "ingress": "The interest rate will remain unchanged. It will stay at 1.75 percent following a decision made on June 16, 2026.",
+    "datum": "2026-06-24",
+    "kalla": "Riksbanken",
+    "kalla_url": "https://www.riksbank.se/sv/press-och-publicerat/nyheter-och-pressmeddelanden/pressmeddelanden/2026/protokoll-fran-det-penningpolitiska-motet-den-16-juni-2026/",
+    "taggar": [
+      "ekonomi",
+      "riksbanken",
+      "rantor"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "sparare": 3,
+      "lantagare": 3
+    }
+  },
+  {
     "id": "HD03288",
     "typ": "lagforslag",
     "titel": "The Swedish National Audit Office's report on the state's governance of municipalities' exercise of authority, specifically concerning the LSS (Law on Support and Service for Persons with Disabilities).",
@@ -1680,6 +1699,27 @@
       "glesbygd": 3,
       "klimat": 3,
       "kultur": 3
+    }
+  },
+  {
+    "id": "riksbanken-2026-06-17-styrrantan-oforandrad-pa-1-75-",
+    "typ": "omvarld",
+    "titel": "The key interest rate remains unchanged at 1.75 percent.",
+    "ingress": "The Swedish central bank (Riksbanken) has decided to keep the key interest rate unchanged at 1.75 percent. However, there is an increased risk that the interest rate will be raised later this year due to uncertainty in the global economy.",
+    "datum": "2026-06-17",
+    "kalla": "Riksbanken",
+    "kalla_url": "https://www.riksbank.se/sv/press-och-publicerat/nyheter-och-pressmeddelanden/pressmeddelanden/2026/styrrantan-oforandrad-pa-175-procent4/",
+    "taggar": [
+      "ekonomi",
+      "riksbanken",
+      "rantor"
+    ],
+    "relevans": {
+      "b_energi": 3,
+      "sparare": 3,
+      "lantagare": 3,
+      "energikund": 5,
+      "konsument": 5
     }
   },
   {

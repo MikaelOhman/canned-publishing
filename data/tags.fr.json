@@ -112,7 +112,7 @@
   "ekonomi": {
     "etikett": "Économie",
     "typ": "ämne",
-    "antal": 9
+    "antal": 11
   },
   "sverige": {
     "etikett": "Suède",
@@ -1373,5 +1373,15 @@
     "etikett": "La division régionale \"Mitt\" de l'autorité de tutelle.",
     "typ": "organisation",
     "antal": 1
+  },
+  "riksbanken": {
+    "etikett": "La Banque centrale de Suède (Riksbanken).",
+    "typ": "organisation",
+    "antal": 2
+  },
+  "rantor": {
+    "etikett": "Taux d'intérêt et politique monétaire.",
+    "typ": "ämne",
+    "antal": 2
   }
 }

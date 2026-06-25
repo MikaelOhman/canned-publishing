@@ -371,6 +371,25 @@
     }
   },
   {
+    "id": "riksbanken-2026-06-24-protokoll-fran-det-penningpoli",
+    "typ": "omvarld",
+    "titel": "Protokoll från det penningpolitiska mötet den 16 juni 2026",
+    "ingress": "Räntan ska inte ändras. Den ligger kvar på 1,75 procent efter ett beslut som togs den 16 juni 2026.",
+    "datum": "2026-06-24",
+    "kalla": "Riksbanken",
+    "kalla_url": "https://www.riksbank.se/sv/press-och-publicerat/nyheter-och-pressmeddelanden/pressmeddelanden/2026/protokoll-fran-det-penningpolitiska-motet-den-16-juni-2026/",
+    "taggar": [
+      "ekonomi",
+      "riksbanken",
+      "rantor"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "sparare": 3,
+      "lantagare": 3
+    }
+  },
+  {
     "id": "HD03288",
     "typ": "lagforslag",
     "titel": "Riksrevisionens rapport om statens styrning av kommunernas myndighetsutövning som avser LSS",
@@ -1682,6 +1701,27 @@
       "glesbygd": 3,
       "klimat": 3,
       "kultur": 3
+    }
+  },
+  {
+    "id": "riksbanken-2026-06-17-styrrantan-oforandrad-pa-1-75-",
+    "typ": "omvarld",
+    "titel": "Styrräntan oförändrad på 1,75 procent",
+    "ingress": "Riksbanken låter styrräntan ligga kvar på 1,75 procent. Det finns dock en ökad risk för att räntan höjs senare under året på grund av osäkerhet i omvärlden.",
+    "datum": "2026-06-17",
+    "kalla": "Riksbanken",
+    "kalla_url": "https://www.riksbank.se/sv/press-och-publicerat/nyheter-och-pressmeddelanden/pressmeddelanden/2026/styrrantan-oforandrad-pa-175-procent4/",
+    "taggar": [
+      "ekonomi",
+      "riksbanken",
+      "rantor"
+    ],
+    "relevans": {
+      "b_energi": 3,
+      "sparare": 3,
+      "lantagare": 3,
+      "energikund": 5,
+      "konsument": 5
     }
   },
   {

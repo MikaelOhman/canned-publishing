@@ -343,6 +343,25 @@
     }
   },
   {
+    "id": "riksbanken-2026-06-24-protokoll-fran-det-penningpoli",
+    "typ": "omvarld",
+    "titel": "Verbale della riunione di politica monetaria del 16 giugno 2026.",
+    "ingress": "Il tasso di interesse rimane invariato. È rimasto al 1,75% a seguito di una decisione presa il 16 giugno 2026.",
+    "datum": "2026-06-24",
+    "kalla": "Riksbanken",
+    "kalla_url": "https://www.riksbank.se/sv/press-och-publicerat/nyheter-och-pressmeddelanden/pressmeddelanden/2026/protokoll-fran-det-penningpolitiska-motet-den-16-juni-2026/",
+    "taggar": [
+      "ekonomi",
+      "riksbanken",
+      "rantor"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "sparare": 3,
+      "lantagare": 3
+    }
+  },
+  {
     "id": "HD03288",
     "typ": "lagforslag",
     "titel": "Relazione della Corte dei Conti svedese sulla gestione da parte dello Stato delle attività amministrative dei comuni, con riferimento alla legge LSS.",
@@ -1614,6 +1633,27 @@
       "glesbygd": 3,
       "klimat": 3,
       "kultur": 3
+    }
+  },
+  {
+    "id": "riksbanken-2026-06-17-styrrantan-oforandrad-pa-1-75-",
+    "typ": "omvarld",
+    "titel": "Il tasso di riferimento rimane invariato all'1,75 percento.",
+    "ingress": "La Banca Centrale Svedese ha deciso di mantenere il tasso di interesse di riferimento al 1,75%. Tuttavia, esiste un rischio crescente che il tasso venga aumentato più avanti nel corso dell'anno, a causa dell'incertezza nel contesto economic",
+    "datum": "2026-06-17",
+    "kalla": "Riksbanken",
+    "kalla_url": "https://www.riksbank.se/sv/press-och-publicerat/nyheter-och-pressmeddelanden/pressmeddelanden/2026/styrrantan-oforandrad-pa-175-procent4/",
+    "taggar": [
+      "ekonomi",
+      "riksbanken",
+      "rantor"
+    ],
+    "relevans": {
+      "b_energi": 3,
+      "sparare": 3,
+      "lantagare": 3,
+      "energikund": 5,
+      "konsument": 5
     }
   },
   {

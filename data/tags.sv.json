@@ -192,7 +192,7 @@
   "ekonomi": {
     "etikett": "Ekonomi",
     "typ": "ämne",
-    "antal": 9
+    "antal": 11
   },
   "bolagsforvaltning": {
     "etikett": "Bolagsförvaltning",
@@ -1478,5 +1478,15 @@
     "etikett": "Tekniska namnden september paragrafer",
     "typ": "organisation",
     "antal": 1
+  },
+  "riksbanken": {
+    "etikett": "Riksbanken",
+    "typ": "organisation",
+    "antal": 2
+  },
+  "rantor": {
+    "etikett": "Räntor & penningpolitik",
+    "typ": "ämne",
+    "antal": 2
   }
 }

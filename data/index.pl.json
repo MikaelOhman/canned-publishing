@@ -343,6 +343,25 @@
     }
   },
   {
+    "id": "riksbanken-2026-06-24-protokoll-fran-det-penningpoli",
+    "typ": "omvarld",
+    "titel": "Protokół z posiedzenia Komitetu Polityki Pieniężnej, które odbyło się 16 czerwca 2026 roku.",
+    "ingress": "Stopa procentowa pozostaje bez zmian. Utrzymuje się na poziomie 1,75 procent, zgodnie z decyzją podjętą 16 czerwca 2026 roku.",
+    "datum": "2026-06-24",
+    "kalla": "Riksbanken",
+    "kalla_url": "https://www.riksbank.se/sv/press-och-publicerat/nyheter-och-pressmeddelanden/pressmeddelanden/2026/protokoll-fran-det-penningpolitiska-motet-den-16-juni-2026/",
+    "taggar": [
+      "ekonomi",
+      "riksbanken",
+      "rantor"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "sparare": 3,
+      "lantagare": 3
+    }
+  },
+  {
     "id": "HD03288",
     "typ": "lagforslag",
     "titel": "Raport Najwyższej Izby Kontroli dotyczący sposobu zarządzania przez państwo nad działalnością samorządów w zakresie wykonywania przez nie zadań publicznych, w odniesieniu do ustawy o wsparciu dla osób niepełnosprawnych (LSS).",
@@ -1611,6 +1630,27 @@
       "glesbygd": 3,
       "klimat": 3,
       "kultur": 3
+    }
+  },
+  {
+    "id": "riksbanken-2026-06-17-styrrantan-oforandrad-pa-1-75-",
+    "typ": "omvarld",
+    "titel": "Stopa procentowa pozostaje bez zmian na poziomie 1,75 procent.",
+    "ingress": "Narodowy Bank Szwecji (Riksbanken) zdecydował się utrzymać stopę procentową na poziomie 1,75 procent. Istnieje jednak zwiększone ryzyko podwyżki stopy w późniejszej części roku, ze względu na niepewność panującą w otoczeniu gospodarczym.",
+    "datum": "2026-06-17",
+    "kalla": "Riksbanken",
+    "kalla_url": "https://www.riksbank.se/sv/press-och-publicerat/nyheter-och-pressmeddelanden/pressmeddelanden/2026/styrrantan-oforandrad-pa-175-procent4/",
+    "taggar": [
+      "ekonomi",
+      "riksbanken",
+      "rantor"
+    ],
+    "relevans": {
+      "b_energi": 3,
+      "sparare": 3,
+      "lantagare": 3,
+      "energikund": 5,
+      "konsument": 5
     }
   },
   {

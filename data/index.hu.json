@@ -343,6 +343,25 @@
     }
   },
   {
+    "id": "riksbanken-2026-06-24-protokoll-fran-det-penningpoli",
+    "typ": "omvarld",
+    "titel": "A 2026. június 16-i monetáris politikai ülés jegyzőkönyve.",
+    "ingress": "A kamatlábat nem változtatják meg. Ez továbbra is 1,75 százalék lesz, a 2026. június 16-án hozott döntés értelmében.",
+    "datum": "2026-06-24",
+    "kalla": "Riksbanken",
+    "kalla_url": "https://www.riksbank.se/sv/press-och-publicerat/nyheter-och-pressmeddelanden/pressmeddelanden/2026/protokoll-fran-det-penningpolitiska-motet-den-16-juni-2026/",
+    "taggar": [
+      "ekonomi",
+      "riksbanken",
+      "rantor"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "sparare": 3,
+      "lantagare": 3
+    }
+  },
+  {
     "id": "HD03288",
     "typ": "lagforslag",
     "titel": "A Svéd Számvevőszék jelentése a kormányzat szerepéről a helyi önkormányzatok hatósági tevékenységének irányításában, amely a LSS (Law on Support and Service) törvényre vonatkozik.",
@@ -1593,6 +1612,27 @@
       "glesbygd": 3,
       "klimat": 3,
       "kultur": 3
+    }
+  },
+  {
+    "id": "riksbanken-2026-06-17-styrrantan-oforandrad-pa-1-75-",
+    "typ": "omvarld",
+    "titel": "A kamatkörnyezet változatlan: a jegybanki alapkamat továbbra is 1,75 százalék.",
+    "ingress": "A Svéd Nemzeti Bank (Riksbanken) változatlanul hagyta a kamatot, mely jelenleg 1,75 százalék. Ugyanakkor megnőtt a kockázata annak, hogy a kamatot később az év során megemelik, a globális gazdasági helyzetben tapasztalható bizonytalanság mi",
+    "datum": "2026-06-17",
+    "kalla": "Riksbanken",
+    "kalla_url": "https://www.riksbank.se/sv/press-och-publicerat/nyheter-och-pressmeddelanden/pressmeddelanden/2026/styrrantan-oforandrad-pa-175-procent4/",
+    "taggar": [
+      "ekonomi",
+      "riksbanken",
+      "rantor"
+    ],
+    "relevans": {
+      "b_energi": 3,
+      "sparare": 3,
+      "lantagare": 3,
+      "energikund": 5,
+      "konsument": 5
     }
   },
   {

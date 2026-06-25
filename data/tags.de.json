@@ -177,7 +177,7 @@
   "ekonomi": {
     "etikett": "Wirtschaftswissenschaften",
     "typ": "ämne",
-    "antal": 9
+    "antal": 11
   },
   "sverige": {
     "etikett": "Schweden",
@@ -1433,5 +1433,15 @@
     "etikett": "Das Vormundschaftsgericht Mitte.",
     "typ": "organisation",
     "antal": 1
+  },
+  "riksbanken": {
+    "etikett": "Die Zentralbank.",
+    "typ": "organisation",
+    "antal": 2
+  },
+  "rantor": {
+    "etikett": "Zinsen und Geldpolitik.",
+    "typ": "ämne",
+    "antal": 2
   }
 }

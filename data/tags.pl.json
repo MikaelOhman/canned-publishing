@@ -112,7 +112,7 @@
   "ekonomi": {
     "etikett": "Ekonomia",
     "typ": "ämne",
-    "antal": 9
+    "antal": 11
   },
   "sverige": {
     "etikett": "Szwecja",
@@ -1368,5 +1368,15 @@
     "etikett": "Komisja Nadzoru Rodzinnego – Oddział Środkowy.",
     "typ": "organisation",
     "antal": 1
+  },
+  "riksbanken": {
+    "etikett": "Narodowy Bank Szwecji.",
+    "typ": "organisation",
+    "antal": 2
+  },
+  "rantor": {
+    "etikett": "Stopy procentowe i polityka pieniężna.",
+    "typ": "ämne",
+    "antal": 2
   }
 }

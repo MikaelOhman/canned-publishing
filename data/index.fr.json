@@ -343,6 +343,25 @@
     }
   },
   {
+    "id": "riksbanken-2026-06-24-protokoll-fran-det-penningpoli",
+    "typ": "omvarld",
+    "titel": "Compte-rendu de la réunion de politique monétaire du 16 juin 2026.",
+    "ingress": "Le taux d'intérêt ne sera pas modifié. Il reste fixé à 1,75 % suite à une décision prise le 16 juin 2026.",
+    "datum": "2026-06-24",
+    "kalla": "Riksbanken",
+    "kalla_url": "https://www.riksbank.se/sv/press-och-publicerat/nyheter-och-pressmeddelanden/pressmeddelanden/2026/protokoll-fran-det-penningpolitiska-motet-den-16-juni-2026/",
+    "taggar": [
+      "ekonomi",
+      "riksbanken",
+      "rantor"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "sparare": 3,
+      "lantagare": 3
+    }
+  },
+  {
     "id": "HD03288",
     "typ": "lagforslag",
     "titel": "Rapport de l'Inspection des finances publiques sur la gestion par l'État des activités administratives des municipalités, concernant la loi sur le soutien aux personnes handicapées (LSS).",
@@ -1614,6 +1633,27 @@
       "glesbygd": 3,
       "klimat": 3,
       "kultur": 3
+    }
+  },
+  {
+    "id": "riksbanken-2026-06-17-styrrantan-oforandrad-pa-1-75-",
+    "typ": "omvarld",
+    "titel": "Le taux d'intérêt directeur reste inchangé à 1,75 %.",
+    "ingress": "La Banque centrale suédoise a décidé de maintenir le taux d'intérêt directeur à 1,75 %. Cependant, il existe un risque accru que ce taux soit augmenté plus tard dans l'année, en raison de l'incertitude économique mondiale.",
+    "datum": "2026-06-17",
+    "kalla": "Riksbanken",
+    "kalla_url": "https://www.riksbank.se/sv/press-och-publicerat/nyheter-och-pressmeddelanden/pressmeddelanden/2026/styrrantan-oforandrad-pa-175-procent4/",
+    "taggar": [
+      "ekonomi",
+      "riksbanken",
+      "rantor"
+    ],
+    "relevans": {
+      "b_energi": 3,
+      "sparare": 3,
+      "lantagare": 3,
+      "energikund": 5,
+      "konsument": 5
     }
   },
   {

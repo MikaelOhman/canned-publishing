@@ -343,6 +343,25 @@
     }
   },
   {
+    "id": "riksbanken-2026-06-24-protokoll-fran-det-penningpoli",
+    "typ": "omvarld",
+    "titel": "پروتکل جلسه سیاست پولی، 16 ژوئن 2026.",
+    "ingress": "نرخ بهره تغییر نخواهد کرد. این نرخ در حال حاضر 1.75 درصد است و این تصمیم در تاریخ 16 ژوئن 2026 اتخاذ شده است.",
+    "datum": "2026-06-24",
+    "kalla": "Riksbanken",
+    "kalla_url": "https://www.riksbank.se/sv/press-och-publicerat/nyheter-och-pressmeddelanden/pressmeddelanden/2026/protokoll-fran-det-penningpolitiska-motet-den-16-juni-2026/",
+    "taggar": [
+      "ekonomi",
+      "riksbanken",
+      "rantor"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "sparare": 3,
+      "lantagare": 3
+    }
+  },
+  {
     "id": "HD03288",
     "typ": "lagforslag",
     "titel": "گزارش حسابرسی ملی در مورد نحوه مدیریت دولت در مورد اختیارات شهرداری‌ها، مربوط به قانون حمایت از افراد دارای معلولیت (LSS).",
@@ -1590,6 +1609,27 @@
       "glesbygd": 3,
       "klimat": 3,
       "kultur": 3
+    }
+  },
+  {
+    "id": "riksbanken-2026-06-17-styrrantan-oforandrad-pa-1-75-",
+    "typ": "omvarld",
+    "titel": "نرخ بهره اصلی بدون تغییر، در سطح 1.75 درصد باقی ماند.",
+    "ingress": "بانک مرکزی سوئد (Riksbanken) تصمیم گرفته است که نرخ بهره اصلی را در سطح 1.75 درصد ثابت نگه دارد. با این حال، احتمال افزایش نرخ بهره در اواخر سال جاری وجود دارد، زیرا شرایط اقتصادی جهانی نامشخص است.",
+    "datum": "2026-06-17",
+    "kalla": "Riksbanken",
+    "kalla_url": "https://www.riksbank.se/sv/press-och-publicerat/nyheter-och-pressmeddelanden/pressmeddelanden/2026/styrrantan-oforandrad-pa-175-procent4/",
+    "taggar": [
+      "ekonomi",
+      "riksbanken",
+      "rantor"
+    ],
+    "relevans": {
+      "b_energi": 3,
+      "sparare": 3,
+      "lantagare": 3,
+      "energikund": 5,
+      "konsument": 5
     }
   },
   {

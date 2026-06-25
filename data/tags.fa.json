@@ -82,7 +82,7 @@
   "ekonomi": {
     "etikett": "اقتصاد",
     "typ": "ämne",
-    "antal": 9
+    "antal": 11
   },
   "sverige": {
     "etikett": "سوئد",
@@ -1368,5 +1368,15 @@
     "etikett": "اداره سرپرستی قانونی منطقه میانه.",
     "typ": "organisation",
     "antal": 1
+  },
+  "riksbanken": {
+    "etikett": "بانک مرکزی سوئد (Riksbanken)",
+    "typ": "organisation",
+    "antal": 2
+  },
+  "rantor": {
+    "etikett": "نرخ بهره و سیاست پولی",
+    "typ": "ämne",
+    "antal": 2
   }
 }

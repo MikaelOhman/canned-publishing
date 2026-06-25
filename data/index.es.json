@@ -343,6 +343,25 @@
     }
   },
   {
+    "id": "riksbanken-2026-06-24-protokoll-fran-det-penningpoli",
+    "typ": "omvarld",
+    "titel": "Acta de la reunión de política monetaria del 16 de junio de 2026.",
+    "ingress": "La tasa de interés no se modificará. Permanecerá en el 1,75 por ciento, según una decisión tomada el 16 de junio de 2026.",
+    "datum": "2026-06-24",
+    "kalla": "Riksbanken",
+    "kalla_url": "https://www.riksbank.se/sv/press-och-publicerat/nyheter-och-pressmeddelanden/pressmeddelanden/2026/protokoll-fran-det-penningpolitiska-motet-den-16-juni-2026/",
+    "taggar": [
+      "ekonomi",
+      "riksbanken",
+      "rantor"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "sparare": 3,
+      "lantagare": 3
+    }
+  },
+  {
     "id": "HD03288",
     "typ": "lagforslag",
     "titel": "Informe de la Auditoría Nacional sobre la gestión estatal de las funciones de las autoridades municipales en relación con la Ley de Apoyo a las Personas con Discapacidad (LSS).",
@@ -1614,6 +1633,27 @@
       "glesbygd": 3,
       "klimat": 3,
       "kultur": 3
+    }
+  },
+  {
+    "id": "riksbanken-2026-06-17-styrrantan-oforandrad-pa-1-75-",
+    "typ": "omvarld",
+    "titel": "La tasa de interés de referencia se mantiene sin cambios en el 1,75 por ciento.",
+    "ingress": "El Banco Central de Suecia (Riksbanken) ha mantenido la tasa de interés de referencia en el 1,75 por ciento. Sin embargo, existe un mayor riesgo de que la tasa se aumente más adelante en el año debido a la incertidumbre en el entorno global",
+    "datum": "2026-06-17",
+    "kalla": "Riksbanken",
+    "kalla_url": "https://www.riksbank.se/sv/press-och-publicerat/nyheter-och-pressmeddelanden/pressmeddelanden/2026/styrrantan-oforandrad-pa-175-procent4/",
+    "taggar": [
+      "ekonomi",
+      "riksbanken",
+      "rantor"
+    ],
+    "relevans": {
+      "b_energi": 3,
+      "sparare": 3,
+      "lantagare": 3,
+      "energikund": 5,
+      "konsument": 5
     }
   },
   {
