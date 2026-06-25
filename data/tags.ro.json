@@ -933,5 +933,15 @@
     "etikett": "Traduceti textul din suedeza in romana, pastrand paragrafele si structura listelor, precum si numele, numerele, datele si URL-urile. Traduceti pentru sens. Afisati doar traducerea, nimic altul.",
     "typ": "organisation",
     "antal": 1
+  },
+  "hedemora": {
+    "etikett": "Hedemora.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "on": {
+    "etikett": "ON",
+    "typ": "organisation",
+    "antal": 1
   }
 }

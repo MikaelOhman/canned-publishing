@@ -933,5 +933,15 @@
     "etikett": "A \"WWW\" kifejezés a World Wide Web rövidítése, és a következőket jelentheti:\n\n*   **Világháló:** Az interneten elérhető, egymással összekapcsolt dokumentumok és egyéb erőforrások rendszere.\n*   **Weboldal:** Egy webhelyen található, egyedi tartalommal rendelkező dokumentum.\n*   **Webalkalmazás:** Egy interneten keresztül elérhető szoftver, amely interaktív funkciókat kínál.\n\nA \"WWW\" gyakran használatos a webcímek elején, például: `www.example.com`. Ez a rész jelzi, hogy a weboldal a World Wide Web protokolljával (HTTP vagy HTTPS) érhető el.",
     "typ": "organisation",
     "antal": 1
+  },
+  "hedemora": {
+    "etikett": "Hedemora.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "on": {
+    "etikett": "ON",
+    "typ": "organisation",
+    "antal": 1
   }
 }
