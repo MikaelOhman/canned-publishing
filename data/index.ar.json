@@ -8631,6 +8631,31 @@
     }
   },
   {
+    "id": "malmo-kommunfullmaktige-2026-01-22",
+    "typ": "kommunbeslut",
+    "titel": "اجتماع مجلس مدينة مالمو، 22 يناير 2026.",
+    "ingress": "عقد الاجتماع في مدينة مالمو لمناقشة تغييرات في لوائح شركة خدمات مواقف السيارات، وتغيير اسم مجلس كبار السن، ومناقشة مقترحات مختلفة حول مستقبل المدينة. كما تم طرح العديد من المقترحات (التيارات) التي تغطي مجموعة واسعة من المواضيع، بدءًا من الأ",
+    "datum": "2026-01-22",
+    "kalla": "Malmö stad",
+    "kalla_url": "https://motenmedborgarportal.malmo.se/committees/kommunfullmaktige/mote-2026-01-22",
+    "taggar": [
+      "malmo",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "aktiebolag": 3,
+      "b_it": 3,
+      "arbetsmiljo": 3,
+      "barn": 3,
+      "stor_familj": 3,
+      "pensionar": 3,
+      "hbtq": 3,
+      "storstad": 3,
+      "bil": 3,
+      "idrott": 3
+    }
+  },
+  {
     "id": "HD0394",
     "typ": "lagforslag",
     "titel": "أحكام تكميلية للائحة الاتحاد الأوروبي بشأن تصنيفات الاستدامة.",
@@ -9299,6 +9324,30 @@
       "barn": 3,
       "ung": 3,
       "kultur": 3
+    }
+  },
+  {
+    "id": "malmo-kommunstyrelsen-2025-12-03",
+    "typ": "kommunbeslut",
+    "titel": "لجنة الشؤون البلدية، بلدية مالمو، بتاريخ 3 ديسمبر 2025.",
+    "ingress": "عقدت لجنة بلدية مدينة مالمو اجتماعًا لمناقشة عدة خطط للمدينة، بما في ذلك مشاريع تتعلق بالنقل، والبيئة، واتفاقيات جديدة للمستقبل.",
+    "datum": "2025-12-03",
+    "kalla": "Malmö stad",
+    "kalla_url": "https://motenmedborgarportal.malmo.se/committees/kommunstyrelsen/mote-2025-12-03",
+    "taggar": [
+      "malmo",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "miljo": 3,
+      "lokaler": 3,
+      "infrastruktur": 5,
+      "pendlare": 3,
+      "kollektiv": 8,
+      "konsument": 3,
+      "batagare": 5,
+      "klimat": 3
     }
   },
   {
@@ -11980,6 +12029,24 @@
       "funktion": 5,
       "konsument": 3,
       "batagare": 3
+    }
+  },
+  {
+    "id": "lekeberg-kommunfullmaktige-2025-06-16",
+    "typ": "kommunbeslut",
+    "titel": "اجتماع مجلس مدينة ليكبيرغ، بتاريخ 2025-06-16.",
+    "ingress": "يعرض النص إحصائيات حول عادات الحياة والديموغرافيا في بلدية ليكبيرج للعام 2022. ويشمل ذلك معلومات حول عدد الأشخاص الذين يدخنون، والذين يشربون الكحول، وكيفية توزيع السكان حسب العمر والجنس.",
+    "datum": "2025-06-16",
+    "kalla": "Lekebergs kommun",
+    "kalla_url": "https://meetings.lekeberg.se/committees/kommunfullmaktige/mote-2025-06-16",
+    "taggar": [
+      "lekeberg",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "barn": 3,
+      "kvinna": 3,
+      "beroende": 3
     }
   },
   {

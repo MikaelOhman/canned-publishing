@@ -8713,6 +8713,31 @@
     }
   },
   {
+    "id": "malmo-kommunfullmaktige-2026-01-22",
+    "typ": "kommunbeslut",
+    "titel": "Stadtratssitzung, Stadt Malmö, 22. Januar 2026.",
+    "ingress": "Das Treffen in der Stadt Malmö behandelte die Änderung von Regeln für ein Parkhausunternehmen, die Umbenennung des Seniorenbeirats sowie die Diskussion verschiedener Vorschläge für die Zukunft der Stadt. Es gab auch zahlreiche Vorschläge (A",
+    "datum": "2026-01-22",
+    "kalla": "Malmö stad",
+    "kalla_url": "https://motenmedborgarportal.malmo.se/committees/kommunfullmaktige/mote-2026-01-22",
+    "taggar": [
+      "malmo",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "aktiebolag": 3,
+      "b_it": 3,
+      "arbetsmiljo": 3,
+      "barn": 3,
+      "stor_familj": 3,
+      "pensionar": 3,
+      "hbtq": 3,
+      "storstad": 3,
+      "bil": 3,
+      "idrott": 3
+    }
+  },
+  {
     "id": "HD0394",
     "typ": "lagforslag",
     "titel": "Ergänzende Bestimmungen zur EU-Verordnung über Nachhaltigkeitskennzeichnungen.",
@@ -9381,6 +9406,30 @@
       "barn": 3,
       "ung": 3,
       "kultur": 3
+    }
+  },
+  {
+    "id": "malmo-kommunstyrelsen-2025-12-03",
+    "typ": "kommunbeslut",
+    "titel": "Gemeindeverwaltungsrat, Stadt Malmö, 03.12.2025.",
+    "ingress": "Der Gemeinderat von Malmö hat eine Sitzung abgehalten, in der verschiedene Pläne für die Stadt behandelt wurden, darunter Projekte für den Verkehr, den Umweltschutz und neue Vereinbarungen für die Zukunft.",
+    "datum": "2025-12-03",
+    "kalla": "Malmö stad",
+    "kalla_url": "https://motenmedborgarportal.malmo.se/committees/kommunstyrelsen/mote-2025-12-03",
+    "taggar": [
+      "malmo",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "miljo": 3,
+      "lokaler": 3,
+      "infrastruktur": 5,
+      "pendlare": 3,
+      "kollektiv": 8,
+      "konsument": 3,
+      "batagare": 5,
+      "klimat": 3
     }
   },
   {
@@ -12051,6 +12100,24 @@
       "funktion": 5,
       "konsument": 3,
       "batagare": 3
+    }
+  },
+  {
+    "id": "lekeberg-kommunfullmaktige-2025-06-16",
+    "typ": "kommunbeslut",
+    "titel": "Gemeindevertretung von Lekeberg, 16. Juni 2025.",
+    "ingress": "Der Text zeigt Statistiken über Lebensgewohnheiten und demografische Daten der Gemeinde Lekeberg für das Jahr 2022. Er enthält unter anderem Informationen darüber, wie viele Einwohner rauchen, Alkohol konsumieren und wie die Bevölkerung nac",
+    "datum": "2025-06-16",
+    "kalla": "Lekebergs kommun",
+    "kalla_url": "https://meetings.lekeberg.se/committees/kommunfullmaktige/mote-2025-06-16",
+    "taggar": [
+      "lekeberg",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "barn": 3,
+      "kvinna": 3,
+      "beroende": 3
     }
   },
   {

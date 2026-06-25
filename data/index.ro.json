@@ -8599,6 +8599,31 @@
     }
   },
   {
+    "id": "malmo-kommunfullmaktige-2026-01-22",
+    "typ": "kommunbeslut",
+    "titel": "Consiliul Municipal, Primăria Malmö, 22 ianuarie 2026.",
+    "ingress": "Întâlnirea din Malmö a avut ca subiect modificarea regulilor pentru compania de parcare, schimbarea denumirii consiliului pensionarilor și discutarea diferitelor propuneri pentru viitorul orașului. De asemenea, au fost prezentate numeroase",
+    "datum": "2026-01-22",
+    "kalla": "Malmö stad",
+    "kalla_url": "https://motenmedborgarportal.malmo.se/committees/kommunfullmaktige/mote-2026-01-22",
+    "taggar": [
+      "malmo",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "aktiebolag": 3,
+      "b_it": 3,
+      "arbetsmiljo": 3,
+      "barn": 3,
+      "stor_familj": 3,
+      "pensionar": 3,
+      "hbtq": 3,
+      "storstad": 3,
+      "bil": 3,
+      "idrott": 3
+    }
+  },
+  {
     "id": "HD0394",
     "typ": "lagforslag",
     "titel": "Dispoziții complementare la regulamentul Uniunii Europene privind etichetarea de sustenabilitate.",
@@ -9267,6 +9292,30 @@
       "barn": 3,
       "ung": 3,
       "kultur": 3
+    }
+  },
+  {
+    "id": "malmo-kommunstyrelsen-2025-12-03",
+    "typ": "kommunbeslut",
+    "titel": "Consiliul municipal, Primăria Malmö, 3 decembrie 2025.",
+    "ingress": "Consiliul municipal din Malmö a avut o ședință în cadrul căreia au fost analizate diverse planuri pentru oraș, printre care proiecte legate de transport, mediu și noi acorduri pentru viitor.",
+    "datum": "2025-12-03",
+    "kalla": "Malmö stad",
+    "kalla_url": "https://motenmedborgarportal.malmo.se/committees/kommunstyrelsen/mote-2025-12-03",
+    "taggar": [
+      "malmo",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "miljo": 3,
+      "lokaler": 3,
+      "infrastruktur": 5,
+      "pendlare": 3,
+      "kollektiv": 8,
+      "konsument": 3,
+      "batagare": 5,
+      "klimat": 3
     }
   },
   {
@@ -11947,6 +11996,24 @@
       "funktion": 5,
       "konsument": 3,
       "batagare": 3
+    }
+  },
+  {
+    "id": "lekeberg-kommunfullmaktige-2025-06-16",
+    "typ": "kommunbeslut",
+    "titel": "Consiliul Municipal al Comunei Lekeberg, 16 iunie 2025.",
+    "ingress": "Textul prezintă statistici despre obiceiurile de viață și demografia din comuna Lekeberg pentru anul 2022. Acesta include informații despre numărul de persoane care fumează, consumă alcool și despre modul în care populația este împărțită pe",
+    "datum": "2025-06-16",
+    "kalla": "Lekebergs kommun",
+    "kalla_url": "https://meetings.lekeberg.se/committees/kommunfullmaktige/mote-2025-06-16",
+    "taggar": [
+      "lekeberg",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "barn": 3,
+      "kvinna": 3,
+      "beroende": 3
     }
   },
   {

@@ -8683,6 +8683,31 @@
     }
   },
   {
+    "id": "malmo-kommunfullmaktige-2026-01-22",
+    "typ": "kommunbeslut",
+    "titel": "Gemeenteraad, Stad Malmö, 22 januari 2026.",
+    "ingress": "De bijeenkomst in de gemeente Malmö ging over het wijzigen van de regels voor een parkeerbedrijf, het veranderen van de naam van de seniorenraad en het bespreken van verschillende voorstellen voor de toekomst van de stad. Er waren ook veel",
+    "datum": "2026-01-22",
+    "kalla": "Malmö stad",
+    "kalla_url": "https://motenmedborgarportal.malmo.se/committees/kommunfullmaktige/mote-2026-01-22",
+    "taggar": [
+      "malmo",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "aktiebolag": 3,
+      "b_it": 3,
+      "arbetsmiljo": 3,
+      "barn": 3,
+      "stor_familj": 3,
+      "pensionar": 3,
+      "hbtq": 3,
+      "storstad": 3,
+      "bil": 3,
+      "idrott": 3
+    }
+  },
+  {
     "id": "HD0394",
     "typ": "lagforslag",
     "titel": "Aanvullende bepalingen bij de EU-verordening inzake duurzaamheidslabels.",
@@ -9351,6 +9376,30 @@
       "barn": 3,
       "ung": 3,
       "kultur": 3
+    }
+  },
+  {
+    "id": "malmo-kommunstyrelsen-2025-12-03",
+    "typ": "kommunbeslut",
+    "titel": "College van burgemeester en wethouders, gemeente Malmö, 3 december 2025.",
+    "ingress": "Het college van burgemeester en wethouders van Malmö heeft een vergadering gehouden waarin verschillende plannen voor de stad zijn besproken, waaronder projecten op het gebied van verkeer, milieu en nieuwe overeenkomsten voor de toekomst.",
+    "datum": "2025-12-03",
+    "kalla": "Malmö stad",
+    "kalla_url": "https://motenmedborgarportal.malmo.se/committees/kommunstyrelsen/mote-2025-12-03",
+    "taggar": [
+      "malmo",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "miljo": 3,
+      "lokaler": 3,
+      "infrastruktur": 5,
+      "pendlare": 3,
+      "kollektiv": 8,
+      "konsument": 3,
+      "batagare": 5,
+      "klimat": 3
     }
   },
   {
@@ -12021,6 +12070,24 @@
       "funktion": 5,
       "konsument": 3,
       "batagare": 3
+    }
+  },
+  {
+    "id": "lekeberg-kommunfullmaktige-2025-06-16",
+    "typ": "kommunbeslut",
+    "titel": "Gemeenteraad, gemeente Lekeberg, 16 juni 2025.",
+    "ingress": "De tekst toont statistieken over leefstijlen en demografische gegevens in de gemeente Lekeberg voor het jaar 2022. Het geeft onder andere informatie over het aantal rokers, drinkers en de verdeling van de bevolking naar leeftijd en geslacht",
+    "datum": "2025-06-16",
+    "kalla": "Lekebergs kommun",
+    "kalla_url": "https://meetings.lekeberg.se/committees/kommunfullmaktige/mote-2025-06-16",
+    "taggar": [
+      "lekeberg",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "barn": 3,
+      "kvinna": 3,
+      "beroende": 3
     }
   },
   {

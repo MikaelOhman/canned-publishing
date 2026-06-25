@@ -8577,6 +8577,31 @@
     }
   },
   {
+    "id": "malmo-kommunfullmaktige-2026-01-22",
+    "typ": "kommunbeslut",
+    "titel": "A Malmö városi önkormányzat képviselő-testülete, 2026. január 22.",
+    "ingress": "A Malmö városházán tartott ülés témái közé tartozott a parkolóházak szabályzatának módosítása, a nyugdíjasok tanácsának nevének megváltoztatása, valamint a város jövőjét érintő különböző javaslatok megvitatása. Számos javaslat (indítvány) i",
+    "datum": "2026-01-22",
+    "kalla": "Malmö stad",
+    "kalla_url": "https://motenmedborgarportal.malmo.se/committees/kommunfullmaktige/mote-2026-01-22",
+    "taggar": [
+      "malmo",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "aktiebolag": 3,
+      "b_it": 3,
+      "arbetsmiljo": 3,
+      "barn": 3,
+      "stor_familj": 3,
+      "pensionar": 3,
+      "hbtq": 3,
+      "storstad": 3,
+      "bil": 3,
+      "idrott": 3
+    }
+  },
+  {
     "id": "HD0394",
     "typ": "lagforslag",
     "titel": "Az EU fenntarthatósági besorolási rendeletének kiegészítő rendelkezései.",
@@ -9245,6 +9270,30 @@
       "barn": 3,
       "ung": 3,
       "kultur": 3
+    }
+  },
+  {
+    "id": "malmo-kommunstyrelsen-2025-12-03",
+    "typ": "kommunbeslut",
+    "titel": "A Malmö városi önkormányzat kommunális bizottsága, 2025. december 3.",
+    "ingress": "A malmöi önkormányzat tanácsa egy ülésen tárgyalta a város különböző terveit, többek között közlekedési, környezetvédelmi projekteket, valamint új, jövőbeli megállapodásokat.",
+    "datum": "2025-12-03",
+    "kalla": "Malmö stad",
+    "kalla_url": "https://motenmedborgarportal.malmo.se/committees/kommunstyrelsen/mote-2025-12-03",
+    "taggar": [
+      "malmo",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "miljo": 3,
+      "lokaler": 3,
+      "infrastruktur": 5,
+      "pendlare": 3,
+      "kollektiv": 8,
+      "konsument": 3,
+      "batagare": 5,
+      "klimat": 3
     }
   },
   {
@@ -11915,6 +11964,24 @@
       "funktion": 5,
       "konsument": 3,
       "batagare": 3
+    }
+  },
+  {
+    "id": "lekeberg-kommunfullmaktige-2025-06-16",
+    "typ": "kommunbeslut",
+    "titel": "Lekebergs önkormányzat közgyűlése, 2025. június 16.",
+    "ingress": "A következő szöveg statisztikai adatokat mutat be Lekebergs önkormányzat lakossági életmódjáról és demográfiai jellemzőiről, 2022-ből. Az adatok többek között azt mutatják, hányan dohányoznak, fogyasztanak alkoholt, valamint a népesség felo",
+    "datum": "2025-06-16",
+    "kalla": "Lekebergs kommun",
+    "kalla_url": "https://meetings.lekeberg.se/committees/kommunfullmaktige/mote-2025-06-16",
+    "taggar": [
+      "lekeberg",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "barn": 3,
+      "kvinna": 3,
+      "beroende": 3
     }
   },
   {

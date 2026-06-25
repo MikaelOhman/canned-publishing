@@ -292,7 +292,7 @@
   "kommunfullmaktige": {
     "etikett": "El ayuntamiento.",
     "typ": "organisation",
-    "antal": 78
+    "antal": 80
   },
   "kommunpolitik": {
     "etikett": "Política municipal.",
@@ -307,7 +307,7 @@
   "kommunstyrelsen": {
     "etikett": "El consejo municipal.",
     "typ": "organisation",
-    "antal": 58
+    "antal": 59
   },
   "kommunal-forvaltning": {
     "etikett": "Administración municipal.",
@@ -407,12 +407,12 @@
   "lekeberg": {
     "etikett": "Lekebergs",
     "typ": "plats",
-    "antal": 9
+    "antal": 10
   },
   "malmo": {
     "etikett": "Malmö\n\n*   **Ubicación:** Suecia.\n*   **Población:** [Insert population number here, if available].\n*   **Fecha de fundación:** [Insert founding date here, if available].\n*   **Sitio web:** [Insert website URL here, if available].",
     "typ": "plats",
-    "antal": 9
+    "antal": 11
   },
   "norrtalje": {
     "etikett": "Norrtälje.",
