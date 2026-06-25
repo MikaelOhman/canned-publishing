@@ -427,7 +427,7 @@
   "almhult": {
     "etikett": "Älmhults.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "utbildningsnamndens-sprotokoll": {
     "etikett": "Verbale della commissione per l'istruzione.",
@@ -696,6 +696,11 @@
   },
   "kungorelse": {
     "etikett": "Avviso\n\n(Followed by the content of the announcement, maintaining the original structure and formatting.)",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "socialnamndens-s": {
+    "etikett": "Socialnämndens s",
     "typ": "organisation",
     "antal": 1
   }

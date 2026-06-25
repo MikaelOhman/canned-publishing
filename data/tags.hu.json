@@ -422,7 +422,7 @@
   "almhult": {
     "etikett": "Älmhult városában található.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "utbildningsnamndens-sprotokoll": {
     "etikett": "Az Oktatási Bizottság jegyzőkönyve.",
@@ -691,6 +691,11 @@
   },
   "kungorelse": {
     "etikett": "Hirdetés\n\n[A következő szöveg következik, melyet a \"Kungörelse\" szöveg helyettesít.]",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "socialnamndens-s": {
+    "etikett": "A szociális bizottság...",
     "typ": "organisation",
     "antal": 1
   }

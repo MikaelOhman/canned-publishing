@@ -422,7 +422,7 @@
   "almhult": {
     "etikett": "Älmhults.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "utbildningsnamndens-sprotokoll": {
     "etikett": "Procesul-verbal al Comisiei pentru Educație.",
@@ -691,6 +691,11 @@
   },
   "kungorelse": {
     "etikett": "Anunț\n\nVă informăm despre următoarele:",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "socialnamndens-s": {
+    "etikett": "Îmi pare rău, dar textul este incomplet. Vă rugăm să furnizați textul complet pentru a putea efectua traducerea.",
     "typ": "organisation",
     "antal": 1
   }

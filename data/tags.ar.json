@@ -447,7 +447,7 @@
   "almhult": {
     "etikett": "Älmhults",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "utbildningsnamndens-sprotokoll": {
     "etikett": "محاضر اجتماعات لجنة التعليم.",
@@ -706,6 +706,11 @@
   },
   "kungorelse": {
     "etikett": "إعلان\n\n(Keep the paragraph and list structure, and keep names, numbers, dates and URLs unchanged. Translate for meaning.)",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "socialnamndens-s": {
+    "etikett": "بالتأكيد، تفضل النص المترجم:\n\n\"لجنة الشؤون الاجتماعية\" (أو \"اللجنة الاجتماعية\")",
     "typ": "organisation",
     "antal": 1
   }

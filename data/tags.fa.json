@@ -422,7 +422,7 @@
   "almhult": {
     "etikett": "Älmhults",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "utbildningsnamndens-sprotokoll": {
     "etikett": "ثبت وقایع جلسات کمیته آموزش.",
@@ -691,6 +691,11 @@
   },
   "kungorelse": {
     "etikett": "اعلان\n\n(The rest of the text would follow here, depending on the content of the Swedish text.)",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "socialnamndens-s": {
+    "etikett": "متاسفم، اما متن شما ناقص است. لطفاً متن کامل را ارائه دهید تا بتوانم آن را به فارسی ترجمه کنم.",
     "typ": "organisation",
     "antal": 1
   }

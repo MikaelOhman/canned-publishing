@@ -422,7 +422,7 @@
   "almhult": {
     "etikett": "Älmhult.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "utbildningsnamndens-sprotokoll": {
     "etikett": "Protokół posiedzenia Komisji ds. Edukacji.",
@@ -691,6 +691,11 @@
   },
   "kungorelse": {
     "etikett": "Ogłoszenie\n\n(Followed by the content of the announcement, which is missing in the prompt.  Please provide the text to be translated.)",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "socialnamndens-s": {
+    "etikett": "Komisja ds. spraw socjalnych",
     "typ": "organisation",
     "antal": 1
   }

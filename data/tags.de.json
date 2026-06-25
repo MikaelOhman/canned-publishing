@@ -487,7 +487,7 @@
   "almhult": {
     "etikett": "Älmhults",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "utbildningsnamndens-sprotokoll": {
     "etikett": "Protokoll des Bildungsausschusses.",
@@ -756,6 +756,11 @@
   },
   "kungorelse": {
     "etikett": "Bekanntmachung\n\nHier finden Sie Informationen zu verschiedenen Themen.\n\n*   **Allgemeine Informationen:**\n    *   Hier finden Sie allgemeine Informationen zu unseren Produkten und Dienstleistungen.\n    *   Sie können uns auch gerne kontaktieren, wenn Sie Fragen haben.\n\n*   **Aktuelle Nachrichten:**\n    *   Wir halten Sie über aktuelle Nachrichten und Entwicklungen auf dem Laufenden.\n    *   Abonnieren Sie unseren Newsletter, um keine wichtigen Informationen zu verpassen.\n\n*   **Veranstaltungen:**\n    *   Wir veranstalten regelmäßig Veranstaltungen zu verschiedenen Themen.\n    *   Besuchen Sie unsere Veranstaltungen, um mehr zu erfahren und sich mit anderen auszutauschen.\n\n*   **Kontakt:**\n    *   Sie können uns jederzeit kontaktieren, wenn Sie Fragen oder Anregungen haben.\n    *   Unsere Kontaktdaten finden Sie auf unserer Website: [URL]",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "socialnamndens-s": {
+    "etikett": "Sozialausschusses",
     "typ": "organisation",
     "antal": 1
   }

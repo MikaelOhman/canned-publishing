@@ -422,7 +422,7 @@
   "almhult": {
     "etikett": "Älmhults",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "utbildningsnamndens-sprotokoll": {
     "etikett": "Actas de la Comisión de Educación.",
@@ -691,6 +691,11 @@
   },
   "kungorelse": {
     "etikett": "Anuncio\n\n(Keep the paragraph and list structure, and keep names, numbers, dates and URLs unchanged. Translate for meaning.)",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "socialnamndens-s": {
+    "etikett": "Socialnämndens s",
     "typ": "organisation",
     "antal": 1
   }
