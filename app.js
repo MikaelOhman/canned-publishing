@@ -7,7 +7,7 @@ const LS = { get:(k,d)=>localStorage.getItem('cp_'+k)||d, set:(k,v)=>localStorag
 const state = { lang:null, sprak:[], ui:{}, index:[], tags:{}, query:'', typ:'alla', visa:30,
   axlar:new Set(), axdef:[], grupper:[], gruppnamn:{}, lagernamn:{}, lager:'privat',
   openGroups:new Set(['__typ']), mer:new Set(), filterQ:'', _akt:[],
-  ort:{privat:new Set(), foretag:new Set()}, orter:[], ortQ:'', konto:{namn:null, token:null} };
+  ort:{privat:new Set(), foretag:new Set()}, orter:[], ortQ:'', konto:{namn:null, token:null}, fbKonton:[] };
 const PAGE = 30;
 
 const THEME_STD = ['dark','light','sepia','midnatt','nord','dracula','solarized'];
@@ -38,7 +38,9 @@ const UIDEF = {sub:"Multilingual news",search_label:"Search",search_ph:"Type a w
   konto:{rubrik:"Account (save your settings)",namn:"Username",losen:"Password",logga_in:"Log in",skapa:"Create account",
     logga_ut:"Log out",inloggad:"Logged in as",glomt:"Forgot your password? Just create a new account.",
     fyll:"Enter username and password.",finns:"Username taken.",felinlogg:"Wrong username or password.",kort:"Too short.",
-    sparad:"Saved"}};
+    sparad:"Saved"},
+  fb:{knapp:"Feedback",titel:"Send feedback",ph:"What do you think? What's missing or broken?",skicka:"Send",
+    avbryt:"Cancel",tack:"Thanks for your feedback!",fel:"Something went wrong — try again."}};
 const ui = () => state.ui;
 
 async function getJSON(url){ const r = await fetch(url); if(!r.ok) throw new Error(url); return r.json(); }
@@ -71,7 +73,7 @@ function applyUI(){
   $('#rsslank').href = `feed.${state.lang}.xml`;
   const alt = $('#rss-alt'); if(alt) alt.href = `feed.${state.lang}.xml`;
   $('#filter-sok').placeholder = u.search_ph;
-  renderKonto();
+  renderKonto(); uppdateraFb();
 }
 
 /* ── Faset-sidofält: lager (privat/företag) + livssituations-axlar ── */
@@ -269,7 +271,43 @@ async function kontoAuth(action){
   renderKonto();
   await loadLanguage(LS.get('lang', state.lang));   // applicera ev. nytt språk + rendera om allt
 }
-function loggaUt(){ state.konto={namn:null,token:null}; LS.set('konto',''); LS.set('token',''); renderKonto(); }
+function loggaUt(){ state.konto={namn:null,token:null}; LS.set('konto',''); LS.set('token',''); renderKonto(); uppdateraFb(); }
+
+/* ── Feedback (för konton i allowlisten data/feedback_konton.json) ── */
+async function apiFn(fn, body){
+  try { const r=await fetch('/.netlify/functions/'+fn,{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify(body)}); return await r.json(); }
+  catch(e){ return {error:'natverk'}; }
+}
+function fbBehorig(){
+  return !!state.konto.namn && (state.fbKonton||[]).some(s=>String(s).toLowerCase()===state.konto.namn.toLowerCase());
+}
+function uppdateraFb(){
+  const btn=$('#fb-btn'); if(!btn) return;
+  const k=(ui().fb)||UIDEF.fb;
+  btn.textContent='💬 '+k.knapp;
+  btn.classList.toggle('hidden', !fbBehorig());
+}
+function openFb(){
+  const k=(ui().fb)||UIDEF.fb; const m=$('#fb-modal');
+  m.innerHTML=`<div class="fb-box"><h2>${esc(k.titel)}</h2>
+    <textarea id="fb-text" rows="6" placeholder="${esc(k.ph)}"></textarea>
+    <div class="fb-rad"><button class="fb-avbryt" id="fb-avbryt">${esc(k.avbryt)}</button>
+      <button class="fb-skicka primar" id="fb-skicka">${esc(k.skicka)}</button></div>
+    <p class="fb-status" id="fb-status"></p></div>`;
+  m.classList.remove('hidden'); $('#fb-text').focus();
+  $('#fb-avbryt').addEventListener('click', stangFb);
+  m.addEventListener('click', e=>{ if(e.target===m) stangFb(); });
+  $('#fb-skicka').addEventListener('click', skickaFb);
+}
+function stangFb(){ $('#fb-modal').classList.add('hidden'); $('#fb-modal').innerHTML=''; }
+async function skickaFb(){
+  const k=(ui().fb)||UIDEF.fb; const t=($('#fb-text').value||'').trim(); const st=$('#fb-status');
+  if(!t){ $('#fb-text').focus(); return; }
+  st.textContent='…';
+  const r=await apiFn('feedback',{action:'skicka', namn:state.konto.namn, token:state.konto.token, text:t, lang:state.lang, url:location.href});
+  if(r && r.ok){ st.textContent=k.tack; setTimeout(stangFb,1300); }
+  else { st.textContent=k.fel; }
+}
 
 /* mobil off-canvas */
 function openDrawer(){ $('#layout').classList.add('filter-open'); $('#backdrop').classList.remove('hidden'); $('#filter-toggle').setAttribute('aria-expanded','true'); }
@@ -284,6 +322,7 @@ async function boot(){
   initPrefAttrs();
   try { const ax=await getJSON('data/axlar.json'); state.axdef=ax.axlar||[]; state.grupper=ax.grupper||[]; state.gruppnamn=ax.gruppnamn||{}; state.lagernamn=ax.lagernamn||{}; } catch(e){}
   try { state.orter=await getJSON('data/orter.json'); } catch(e){}
+  try { state.fbKonton=await getJSON('data/feedback_konton.json'); } catch(e){ state.fbKonton=[]; }
   ['privat','foretag'].forEach(l=> LS.get('ort_'+l,'').split(',').filter(Boolean).forEach(s=>state.ort[l].add(s)));
   // konto: hämta sparade inställningar (om inloggad och ingen delbar kod i URL)
   state.konto.namn=LS.get('konto','')||null; state.konto.token=LS.get('token','')||null;
@@ -306,6 +345,7 @@ async function boot(){
   $('#side-share').addEventListener('click', ()=>{ const b=$('#share-box'); const open=b.classList.toggle('hidden')===false; if(open) renderShareBox(); $('#side-share').setAttribute('aria-expanded', open); });
   window.addEventListener('hashchange', route);
   $('#omlank').addEventListener('click', ()=>{ location.hash='om'; });
+  $('#fb-btn').addEventListener('click', openFb);
 
   try { state.sprak=await getJSON('data/sprak.json'); } catch(e){ state.sprak=[{kod:'sv',namn:'Svenska',rtl:false}]; }
   const sel=$('#lang');

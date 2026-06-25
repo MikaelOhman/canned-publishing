@@ -270,5 +270,14 @@
     "finns": "Username taken.",
     "felinlogg": "Wrong username or password.",
     "kort": "Too short."
+  },
+  "fb": {
+    "knapp": "Feedback",
+    "titel": "Send feedback",
+    "ph": "What do you think? What is missing or broken?",
+    "skicka": "Send",
+    "avbryt": "Cancel",
+    "tack": "Thanks for your feedback!",
+    "fel": "Something went wrong — try again."
   }
 }

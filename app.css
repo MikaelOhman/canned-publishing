@@ -262,6 +262,18 @@ select:focus-visible,.search input:focus-visible,.chip:focus-visible,.card:focus
 .konto-hint{font-size:.74rem;color:var(--txt3);margin:2px 0 0}
 .konto-fel{font-size:.78rem;color:var(--no,#f85149);margin:0;min-height:1em}
 
+/* feedback-knapp + popup */
+.fb-btn{position:fixed;right:16px;bottom:16px;z-index:60;background:var(--ac);color:#fff;border:none;border-radius:99px;padding:11px 18px;font-size:.92rem;font-weight:700;cursor:pointer;box-shadow:0 4px 16px #0007}
+.fb-btn:hover{background:var(--ac2)}
+.fb-modal{position:fixed;inset:0;z-index:70;background:#0009;display:flex;align-items:center;justify-content:center;padding:16px}
+.fb-box{background:var(--bg2);border:1px solid var(--line);border-radius:14px;padding:18px;width:100%;max-width:480px;box-shadow:0 20px 50px #0009}
+.fb-box h2{margin:0 0 10px;font-size:1.1rem}
+.fb-box textarea{width:100%;box-sizing:border-box;background:var(--bg);border:1px solid var(--line);border-radius:9px;padding:10px;color:var(--txt);font:inherit;font-size:.92rem;resize:vertical}
+.fb-rad{display:flex;justify-content:flex-end;gap:8px;margin-top:10px}
+.fb-rad button{border:1px solid var(--line);background:var(--bg3);color:var(--txt);border-radius:8px;padding:8px 16px;cursor:pointer;font-size:.88rem}
+.fb-rad button.primar{background:var(--ac);color:#fff;border-color:var(--ac)}
+.fb-status{font-size:.84rem;color:var(--txt2);margin:8px 0 0;min-height:1em}
+
 .rel{letter-spacing:1px;font-size:.7rem;color:var(--ac)}
 .rel1{color:var(--txt3)}.rel2{color:var(--ac)}.rel3{color:var(--ac2)}
 .card .toprow{display:flex;align-items:center;gap:8px}
