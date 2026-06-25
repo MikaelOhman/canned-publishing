@@ -292,12 +292,12 @@
   "kommunfullmaktige": {
     "etikett": "Rada miejska.",
     "typ": "organisation",
-    "antal": 2
+    "antal": 3
   },
   "kommunpolitik": {
     "etikett": "Polityka samorządowa.",
     "typ": "ämne",
-    "antal": 2
+    "antal": 3
   },
   "trafik": {
     "etikett": "Ruch drogowy.",
@@ -351,6 +351,16 @@
   },
   "budget": {
     "etikett": "Budżet",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "bollebygd": {
+    "etikett": "Bollebygds",
+    "typ": "plats",
+    "antal": 1
+  },
+  "protokoll": {
+    "etikett": "Protokół.",
     "typ": "ämne",
     "antal": 1
   }

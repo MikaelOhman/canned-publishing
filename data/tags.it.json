@@ -292,12 +292,12 @@
   "kommunfullmaktige": {
     "etikett": "Consiglio comunale.",
     "typ": "organisation",
-    "antal": 3
+    "antal": 4
   },
   "kommunpolitik": {
     "etikett": "Politica comunale.",
     "typ": "ämne",
-    "antal": 3
+    "antal": 4
   },
   "trafik": {
     "etikett": "Traffico.",
@@ -356,6 +356,16 @@
   },
   "budget": {
     "etikett": "Budget.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "bollebygd": {
+    "etikett": "Bollebygds",
+    "typ": "plats",
+    "antal": 1
+  },
+  "protokoll": {
+    "etikett": "Verbale.",
     "typ": "ämne",
     "antal": 1
   }

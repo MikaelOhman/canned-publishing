@@ -377,12 +377,12 @@
   "kommunfullmaktige": {
     "etikett": "Kommunfullmäktige",
     "typ": "organisation",
-    "antal": 3
+    "antal": 4
   },
   "kommunpolitik": {
     "etikett": "Kommunpolitik",
     "typ": "ämne",
-    "antal": 3
+    "antal": 4
   },
   "trafik": {
     "etikett": "Trafik",
@@ -432,7 +432,7 @@
   "protokoll": {
     "etikett": "Protokoll",
     "typ": "händelse",
-    "antal": 1
+    "antal": 2
   },
   "alingsas": {
     "etikett": "Alingsås",
@@ -447,6 +447,11 @@
   "budget": {
     "etikett": "Budget",
     "typ": "ämne",
+    "antal": 1
+  },
+  "bollebygd": {
+    "etikett": "Bollebygds",
+    "typ": "plats",
     "antal": 1
   }
 }

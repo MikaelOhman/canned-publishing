@@ -292,12 +292,12 @@
   "kommunfullmaktige": {
     "etikett": "Consiliul municipal.",
     "typ": "organisation",
-    "antal": 2
+    "antal": 3
   },
   "kommunpolitik": {
     "etikett": "Politica municipală.",
     "typ": "ämne",
-    "antal": 2
+    "antal": 3
   },
   "trafik": {
     "etikett": "Trafic",
@@ -351,6 +351,16 @@
   },
   "budget": {
     "etikett": "Bugetul.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "bollebygd": {
+    "etikett": "Bollebygds",
+    "typ": "plats",
+    "antal": 1
+  },
+  "protokoll": {
+    "etikett": "Proces-verbal.",
     "typ": "ämne",
     "antal": 1
   }

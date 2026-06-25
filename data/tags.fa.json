@@ -287,12 +287,12 @@
   "kommunfullmaktige": {
     "etikett": "شوراى شهر",
     "typ": "organisation",
-    "antal": 2
+    "antal": 3
   },
   "kommunpolitik": {
     "etikett": "سیاست‌های شهرداری",
     "typ": "ämne",
-    "antal": 2
+    "antal": 3
   },
   "trafik": {
     "etikett": "ترافیک",
@@ -351,6 +351,16 @@
   },
   "budget": {
     "etikett": "بودجه",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "bollebygd": {
+    "etikett": "بالبولبیگد",
+    "typ": "plats",
+    "antal": 1
+  },
+  "protokoll": {
+    "etikett": "پروتکل",
     "typ": "ämne",
     "antal": 1
   }

@@ -292,12 +292,12 @@
   "kommunfullmaktige": {
     "etikett": "مجلس البلدية.",
     "typ": "organisation",
-    "antal": 2
+    "antal": 3
   },
   "kommunpolitik": {
     "etikett": "سياسة البلديات.",
     "typ": "ämne",
-    "antal": 2
+    "antal": 3
   },
   "trafik": {
     "etikett": "حركة المرور.",
@@ -351,6 +351,16 @@
   },
   "budget": {
     "etikett": "الميزانية.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "bollebygd": {
+    "etikett": "بلولبيغد.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "protokoll": {
+    "etikett": "محضر اجتماع.",
     "typ": "ämne",
     "antal": 1
   }

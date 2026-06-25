@@ -352,12 +352,12 @@
   "kommunfullmaktige": {
     "etikett": "Municipal council.",
     "typ": "organisation",
-    "antal": 3
+    "antal": 4
   },
   "kommunpolitik": {
     "etikett": "Municipal politics.",
     "typ": "ämne",
-    "antal": 3
+    "antal": 4
   },
   "trafik": {
     "etikett": "Traffic.",
@@ -411,6 +411,16 @@
   },
   "budget": {
     "etikett": "Budget:\n\n*   **Total budget:** [Number]\n*   **Personnel costs:** [Number]\n*   **Operating expenses:** [Number]\n*   **Marketing costs:** [Number]\n*   **Travel expenses:** [Number]\n*   **Other expenses:** [Number]\n\nThe budget is valid from [Date] to [Date]. For more information, please visit [URL].",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "bollebygd": {
+    "etikett": "Bollebygds",
+    "typ": "plats",
+    "antal": 1
+  },
+  "protokoll": {
+    "etikett": "Minutes\n\n(Followed by the content of the minutes, which would be translated accordingly. For example, if the minutes contained a list, it would be translated as a list.)",
     "typ": "ämne",
     "antal": 1
   }
