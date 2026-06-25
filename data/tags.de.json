@@ -628,5 +628,15 @@
     "etikett": "Mora",
     "typ": "plats",
     "antal": 1
+  },
+  "nora": {
+    "etikett": "Nora",
+    "typ": "plats",
+    "antal": 1
+  },
+  "snau-offentlig": {
+    "etikett": "Öffentlich, ohne Einschränkungen.",
+    "typ": "organisation",
+    "antal": 1
   }
 }

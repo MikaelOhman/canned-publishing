@@ -678,5 +678,15 @@
     "etikett": "Mora",
     "typ": "plats",
     "antal": 1
+  },
+  "nora": {
+    "etikett": "Nora",
+    "typ": "plats",
+    "antal": 1
+  },
+  "snau-offentlig": {
+    "etikett": "Snau offentlig",
+    "typ": "organisation",
+    "antal": 1
   }
 }

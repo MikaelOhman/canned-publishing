@@ -563,5 +563,15 @@
     "etikett": "Mora.",
     "typ": "plats",
     "antal": 1
+  },
+  "nora": {
+    "etikett": "Nora.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "snau-offentlig": {
+    "etikett": "Sajnálom, de nem tudom, hogy mit jelent a \"Snau offentlig\". Kérlek, adj meg több információt, vagy próbálj meg más szavakat használni.",
+    "typ": "organisation",
+    "antal": 1
   }
 }

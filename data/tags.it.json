@@ -568,5 +568,15 @@
     "etikett": "Mora",
     "typ": "plats",
     "antal": 1
+  },
+  "nora": {
+    "etikett": "Nora.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "snau-offentlig": {
+    "etikett": "Mi dispiace, non capisco cosa intendi. Potresti riformulare la domanda?",
+    "typ": "organisation",
+    "antal": 1
   }
 }

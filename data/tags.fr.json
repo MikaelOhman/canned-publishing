@@ -568,5 +568,15 @@
     "etikett": "Mora.",
     "typ": "plats",
     "antal": 1
+  },
+  "nora": {
+    "etikett": "Nora.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "snau-offentlig": {
+    "etikett": "Je suis désolé, je ne comprends pas ce que vous voulez dire. Pourriez-vous reformuler votre question ?",
+    "typ": "organisation",
+    "antal": 1
   }
 }

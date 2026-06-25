@@ -563,5 +563,15 @@
     "etikett": "Mora",
     "typ": "plats",
     "antal": 1
+  },
+  "nora": {
+    "etikett": "Nora.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "snau-offentlig": {
+    "etikett": "Nu este disponibil public.",
+    "typ": "organisation",
+    "antal": 1
   }
 }
