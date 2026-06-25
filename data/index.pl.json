@@ -15210,5 +15210,44 @@
       "bil": 3,
       "fortroendevald": 3
     }
+  },
+  {
+    "id": "reg-blekinge-tn-2018-12-14",
+    "typ": "region",
+    "titel": "TN, Region Blekinge, 14 grudnia 2018.",
+    "ingress": "Region Blekinge decyduje o tym, jak będą organizowane i realizowane przyszłe podróże, w tym dotyczących autobusów kursujących na żądanie oraz transportu wodnego do wyspy Utklippan.",
+    "datum": "2018-12-14",
+    "kalla": "Region Blekinge",
+    "kalla_url": "https://regionblekinge.se/download/18.2a0514cf167c6092224b96f/1546356756670/Protokoll_TN_2018-12-14.pdf",
+    "taggar": [
+      "reg-blekinge",
+      "tn"
+    ],
+    "relevans": {
+      "kollektiv": 3,
+      "kronisk": 8,
+      "funktion": 3,
+      "batagare": 3,
+      "klimat": 3
+    }
+  },
+  {
+    "id": "reg-blekinge-tn-2018-10-18",
+    "typ": "region",
+    "titel": "TN, Region Blekinge, 18 października 2018.",
+    "ingress": "Region Blekinge podjęła decyzję o nawiązaniu dwóch nowych współprac, mających na celu poprawę funkcjonowania kolei oraz transportu publicznego (autobusów i pociągów). Celem jest lepsza współpraca między różnymi regionami i ułatwienie podróż",
+    "datum": "2018-10-18",
+    "kalla": "Region Blekinge",
+    "kalla_url": "https://regionblekinge.se/download/18.2a0514cf167c6092224b96e/1546356756627/Protokoll_TN_2018-10-18.pdf",
+    "taggar": [
+      "reg-blekinge",
+      "tn"
+    ],
+    "relevans": {
+      "pendlare": 3,
+      "kollektiv": 8,
+      "kronisk": 8,
+      "konsument": 5
+    }
   }
 ]

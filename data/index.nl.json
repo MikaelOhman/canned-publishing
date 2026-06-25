@@ -15199,5 +15199,44 @@
       "bil": 3,
       "fortroendevald": 3
     }
+  },
+  {
+    "id": "reg-blekinge-tn-2018-12-14",
+    "typ": "region",
+    "titel": "TN, Regio Blekinge, 14 december 2018.",
+    "ingress": "Regio Blekinge bepaalt hoe toekomstige reizen georganiseerd en ingekocht zullen worden, onder andere voor bussen die rijden wanneer iemand ze aanvraagt (op-aanvraag verkeer) en voor bootvervoer naar het eiland Utklippan.",
+    "datum": "2018-12-14",
+    "kalla": "Region Blekinge",
+    "kalla_url": "https://regionblekinge.se/download/18.2a0514cf167c6092224b96f/1546356756670/Protokoll_TN_2018-12-14.pdf",
+    "taggar": [
+      "reg-blekinge",
+      "tn"
+    ],
+    "relevans": {
+      "kollektiv": 3,
+      "kronisk": 8,
+      "funktion": 3,
+      "batagare": 3,
+      "klimat": 3
+    }
+  },
+  {
+    "id": "reg-blekinge-tn-2018-10-18",
+    "typ": "region",
+    "titel": "TN, Regio Blekinge, 18 oktober 2018.",
+    "ingress": "De regio Blekinge heeft twee nieuwe samenwerkingsverbanden opgericht om het treinvervoer en het openbaar vervoer (bussen en treinen) te verbeteren. Het doel is een betere samenwerking tussen verschillende provincies en het reizen gemakkelij",
+    "datum": "2018-10-18",
+    "kalla": "Region Blekinge",
+    "kalla_url": "https://regionblekinge.se/download/18.2a0514cf167c6092224b96e/1546356756627/Protokoll_TN_2018-10-18.pdf",
+    "taggar": [
+      "reg-blekinge",
+      "tn"
+    ],
+    "relevans": {
+      "pendlare": 3,
+      "kollektiv": 8,
+      "kronisk": 8,
+      "konsument": 5
+    }
   }
 ]

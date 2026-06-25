@@ -15033,5 +15033,44 @@
       "bil": 3,
       "fortroendevald": 3
     }
+  },
+  {
+    "id": "reg-blekinge-tn-2018-12-14",
+    "typ": "region",
+    "titel": "منبع: منطقه بلکینگه، ۱۴ دسامبر ۲۰۱۸.",
+    "ingress": "منطقه بلکینگه مسئول تعیین نحوه سازماندهی و خرید خدمات حمل‌ونقل در آینده است، از جمله سرویس‌های اتوبوسرانی که بر اساس درخواست مسافر (حمل‌ونقل تقاضا-محور) ارائه می‌شوند و همچنین خدمات کشتیرانی به جزیره اوتکلیپان.",
+    "datum": "2018-12-14",
+    "kalla": "Region Blekinge",
+    "kalla_url": "https://regionblekinge.se/download/18.2a0514cf167c6092224b96f/1546356756670/Protokoll_TN_2018-12-14.pdf",
+    "taggar": [
+      "reg-blekinge",
+      "tn"
+    ],
+    "relevans": {
+      "kollektiv": 3,
+      "kronisk": 8,
+      "funktion": 3,
+      "batagare": 3,
+      "klimat": 3
+    }
+  },
+  {
+    "id": "reg-blekinge-tn-2018-10-18",
+    "typ": "region",
+    "titel": "منبع: منطقه بلکینگه، تاریخ: 2018-10-18.",
+    "ingress": "منطقه بلکینگه تصمیم گرفته است دو همکاری جدید را آغاز کند تا حمل و نقل ریلی و سیستم‌های حمل و نقل عمومی (اتوبوس‌ها و قطارها) را بهبود بخشد. هدف از این اقدام، ایجاد همکاری بهتر بین استان‌های مختلف و تسهیل سفر برای مسافران است.",
+    "datum": "2018-10-18",
+    "kalla": "Region Blekinge",
+    "kalla_url": "https://regionblekinge.se/download/18.2a0514cf167c6092224b96e/1546356756627/Protokoll_TN_2018-10-18.pdf",
+    "taggar": [
+      "reg-blekinge",
+      "tn"
+    ],
+    "relevans": {
+      "pendlare": 3,
+      "kollektiv": 8,
+      "kronisk": 8,
+      "konsument": 5
+    }
   }
 ]

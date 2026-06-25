@@ -15072,5 +15072,44 @@
       "bil": 3,
       "fortroendevald": 3
     }
+  },
+  {
+    "id": "reg-blekinge-tn-2018-12-14",
+    "typ": "region",
+    "titel": "TN, a Blekinge régió által kiadott dokumentum, 2018. december 14.",
+    "ingress": "A Blekinge régió felelős azért, hogy meghatározza a jövőbeli utazások szervezését és beszerzését, beleértve az olyan buszokat, amelyek csak akkor közlekednek, ha valaki megrendeli (igénylésvezérelt forgalom), valamint a Utklippan sziget fel",
+    "datum": "2018-12-14",
+    "kalla": "Region Blekinge",
+    "kalla_url": "https://regionblekinge.se/download/18.2a0514cf167c6092224b96f/1546356756670/Protokoll_TN_2018-12-14.pdf",
+    "taggar": [
+      "reg-blekinge",
+      "tn"
+    ],
+    "relevans": {
+      "kollektiv": 3,
+      "kronisk": 8,
+      "funktion": 3,
+      "batagare": 3,
+      "klimat": 3
+    }
+  },
+  {
+    "id": "reg-blekinge-tn-2018-10-18",
+    "typ": "region",
+    "titel": "Blekinge régió, TN, 2018. október 18.",
+    "ingress": "A Blekinge régió vezetősége két új partnerségre adott engedélyt annak érdekében, hogy javítsák a vasúti és tömegközlekedési szolgáltatásokat (buszok és vonatok). A cél egy jobb együttműködés kialakítása a különböző régiók között, valamint a",
+    "datum": "2018-10-18",
+    "kalla": "Region Blekinge",
+    "kalla_url": "https://regionblekinge.se/download/18.2a0514cf167c6092224b96e/1546356756627/Protokoll_TN_2018-10-18.pdf",
+    "taggar": [
+      "reg-blekinge",
+      "tn"
+    ],
+    "relevans": {
+      "pendlare": 3,
+      "kollektiv": 8,
+      "kronisk": 8,
+      "konsument": 5
+    }
   }
 ]

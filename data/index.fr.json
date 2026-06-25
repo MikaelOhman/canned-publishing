@@ -15214,5 +15214,44 @@
       "bil": 3,
       "fortroendevald": 3
     }
+  },
+  {
+    "id": "reg-blekinge-tn-2018-12-14",
+    "typ": "region",
+    "titel": "Région de Blekinge, Suède, 14 décembre 2018.",
+    "ingress": "La région de Blekinge détermine comment les transports futurs seront organisés et acquis, notamment pour les bus à la demande et les liaisons maritimes vers l'île d'Uklippan.",
+    "datum": "2018-12-14",
+    "kalla": "Region Blekinge",
+    "kalla_url": "https://regionblekinge.se/download/18.2a0514cf167c6092224b96f/1546356756670/Protokoll_TN_2018-12-14.pdf",
+    "taggar": [
+      "reg-blekinge",
+      "tn"
+    ],
+    "relevans": {
+      "kollektiv": 3,
+      "kronisk": 8,
+      "funktion": 3,
+      "batagare": 3,
+      "klimat": 3
+    }
+  },
+  {
+    "id": "reg-blekinge-tn-2018-10-18",
+    "typ": "region",
+    "titel": "Région de Blekinge, TN, 18 octobre 2018.",
+    "ingress": "La région de Blekinge a décidé de mettre en place deux nouveaux partenariats afin d'améliorer le trafic ferroviaire et les transports en commun (bus et trains). L'objectif est de favoriser une meilleure collaboration entre les différentes r",
+    "datum": "2018-10-18",
+    "kalla": "Region Blekinge",
+    "kalla_url": "https://regionblekinge.se/download/18.2a0514cf167c6092224b96e/1546356756627/Protokoll_TN_2018-10-18.pdf",
+    "taggar": [
+      "reg-blekinge",
+      "tn"
+    ],
+    "relevans": {
+      "pendlare": 3,
+      "kollektiv": 8,
+      "kronisk": 8,
+      "konsument": 5
+    }
   }
 ]

@@ -15076,5 +15076,44 @@
       "bil": 3,
       "fortroendevald": 3
     }
+  },
+  {
+    "id": "reg-blekinge-tn-2018-12-14",
+    "typ": "region",
+    "titel": "منظمة TN، منطقة بليكينغه، بتاريخ 14 ديسمبر 2018.",
+    "ingress": "تقوم منطقة بليكنجه بتحديد كيفية تنظيم وشراء وسائل النقل المستقبلية، بما في ذلك الحافلات التي تعمل عند الطلب (أي الحافلات التي تنطلق عندما يتصل شخص ما) وخدمات العبارات المتجهة إلى جزيرة أوتكليببان.",
+    "datum": "2018-12-14",
+    "kalla": "Region Blekinge",
+    "kalla_url": "https://regionblekinge.se/download/18.2a0514cf167c6092224b96f/1546356756670/Protokoll_TN_2018-12-14.pdf",
+    "taggar": [
+      "reg-blekinge",
+      "tn"
+    ],
+    "relevans": {
+      "kollektiv": 3,
+      "kronisk": 8,
+      "funktion": 3,
+      "batagare": 3,
+      "klimat": 3
+    }
+  },
+  {
+    "id": "reg-blekinge-tn-2018-10-18",
+    "typ": "region",
+    "titel": "منطقة بلينغي، السويد - 18 أكتوبر 2018.",
+    "ingress": "منطقة بليكنغه السويدية قد اتخذت قرارين بشأن شراكات جديدة بهدف تحسين حركة القطارات والنقل العام (الحافلات والقطارات). الهدف من ذلك هو تعزيز التعاون بين مختلف المناطق وتسهيل الأمور على المسافرين.",
+    "datum": "2018-10-18",
+    "kalla": "Region Blekinge",
+    "kalla_url": "https://regionblekinge.se/download/18.2a0514cf167c6092224b96e/1546356756627/Protokoll_TN_2018-10-18.pdf",
+    "taggar": [
+      "reg-blekinge",
+      "tn"
+    ],
+    "relevans": {
+      "pendlare": 3,
+      "kollektiv": 8,
+      "kronisk": 8,
+      "konsument": 5
+    }
   }
 ]

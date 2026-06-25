@@ -1483,5 +1483,15 @@
     "etikett": "Region Jämtland Härjedalen.",
     "typ": "organisation",
     "antal": 4
+  },
+  "reg-blekinge": {
+    "etikett": "Region Blekinge",
+    "typ": "organisation",
+    "antal": 2
+  },
+  "tn": {
+    "etikett": "TN",
+    "typ": "organisation",
+    "antal": 2
   }
 }

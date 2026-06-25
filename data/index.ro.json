@@ -15082,5 +15082,44 @@
       "bil": 3,
       "fortroendevald": 3
     }
+  },
+  {
+    "id": "reg-blekinge-tn-2018-12-14",
+    "typ": "region",
+    "titel": "Regiunea Blekinge, Suedia, 14 decembrie 2018.",
+    "ingress": "Regiunea Blekinge stabilește modul în care vor fi organizate și achiziționate transporturile viitoare, inclusiv pentru autobuzele care circulă la cerere (transport la solicitare) și pentru transportul maritim către insula Utklippan.",
+    "datum": "2018-12-14",
+    "kalla": "Region Blekinge",
+    "kalla_url": "https://regionblekinge.se/download/18.2a0514cf167c6092224b96f/1546356756670/Protokoll_TN_2018-12-14.pdf",
+    "taggar": [
+      "reg-blekinge",
+      "tn"
+    ],
+    "relevans": {
+      "kollektiv": 3,
+      "kronisk": 8,
+      "funktion": 3,
+      "batagare": 3,
+      "klimat": 3
+    }
+  },
+  {
+    "id": "reg-blekinge-tn-2018-10-18",
+    "typ": "region",
+    "titel": "Regiunea Blekinge, Suedia, 18 octombrie 2018.",
+    "ingress": "Regiunea Blekinge a decis să inițieze două noi parteneriate pentru a îmbunătăți transportul feroviar și transportul public (autobuze și trenuri). Scopul este de a promova o colaborare mai bună între diferite regiuni și de a facilita călător",
+    "datum": "2018-10-18",
+    "kalla": "Region Blekinge",
+    "kalla_url": "https://regionblekinge.se/download/18.2a0514cf167c6092224b96e/1546356756627/Protokoll_TN_2018-10-18.pdf",
+    "taggar": [
+      "reg-blekinge",
+      "tn"
+    ],
+    "relevans": {
+      "pendlare": 3,
+      "kollektiv": 8,
+      "kronisk": 8,
+      "konsument": 5
+    }
   }
 ]
