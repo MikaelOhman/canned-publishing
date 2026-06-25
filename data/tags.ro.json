@@ -972,7 +972,7 @@
   "bun": {
     "etikett": "BUN",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "kalix": {
     "etikett": "Kalix.",
@@ -1067,6 +1067,11 @@
   "kommunstyrelsens-arbetsutskott": {
     "etikett": "Comitetul de lucru al consiliului municipal.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "kungsor": {
+    "etikett": "Kungsörs.",
+    "typ": "plats",
     "antal": 1
   }
 }

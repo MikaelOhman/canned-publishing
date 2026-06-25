@@ -1047,7 +1047,7 @@
   "bun": {
     "etikett": "BUN",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "kalix": {
     "etikett": "Kalix is a municipality in Norrbotten County, Sweden. It is located on the coast of the Gulf of Bothnia. The municipality has a population of approximately 17,000 people. The main industries in the municipality are forestry, fishing, and tourism. Kalix is also a popular destination for outdoor activities, such as hiking, skiing, and fishing.\n\nHere are some of the things you can do in Kalix:\n\n* Visit the Kalix Museum, which tells the story of the municipality's history and culture.\n* Go hiking in the surrounding forests and mountains.\n* Go skiing or snowboarding at one of the local ski resorts.\n* Go fishing in the Gulf of Bothnia.\n* Visit the Kalix Church, which is a beautiful example of Swedish architecture.\n\nIf you are planning a trip to Sweden, Kalix is a great place to visit. It is a beautiful and peaceful place with a lot to offer.",
@@ -1142,6 +1142,11 @@
   "kommunstyrelsens-arbetsutskott": {
     "etikett": "The Municipal Board's Working Committee.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "kungsor": {
+    "etikett": "Kungsörs",
+    "typ": "plats",
     "antal": 1
   }
 }

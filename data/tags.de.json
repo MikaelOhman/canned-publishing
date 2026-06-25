@@ -1037,7 +1037,7 @@
   "bun": {
     "etikett": "BUN",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "kalix": {
     "etikett": "Kalix",
@@ -1132,6 +1132,11 @@
   "kommunstyrelsens-arbetsutskott": {
     "etikett": "Der Arbeitsausschuss des Gemeinderats.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "kungsor": {
+    "etikett": "Kungsörs",
+    "typ": "plats",
     "antal": 1
   }
 }

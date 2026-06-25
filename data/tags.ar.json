@@ -987,7 +987,7 @@
   "bun": {
     "etikett": "خبز.",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "kalix": {
     "etikett": "كاليكس.",
@@ -1082,6 +1082,11 @@
   "kommunstyrelsens-arbetsutskott": {
     "etikett": "لجنة العمل التابعة لمجلس البلدية.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "kungsor": {
+    "etikett": "Kungsörs",
+    "typ": "plats",
     "antal": 1
   }
 }
