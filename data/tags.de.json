@@ -1358,5 +1358,15 @@
     "etikett": "Ich verstehe.",
     "typ": "organisation",
     "antal": 1
+  },
+  "skovde": {
+    "etikett": "Skövde",
+    "typ": "plats",
+    "antal": 1
+  },
+  "samordningsforbundet-skaraborg": {
+    "etikett": "Koordinierungsverband Skaraborg.",
+    "typ": "organisation",
+    "antal": 1
   }
 }

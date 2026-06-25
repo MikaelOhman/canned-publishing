@@ -1298,5 +1298,15 @@
     "etikett": "Je suis désolé, je ne comprends pas ce que vous voulez dire. Pourriez-vous reformuler votre question ?",
     "typ": "organisation",
     "antal": 1
+  },
+  "skovde": {
+    "etikett": "Skövde.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "samordningsforbundet-skaraborg": {
+    "etikett": "Le groupement de coordination de Skaraborg.",
+    "typ": "organisation",
+    "antal": 1
   }
 }
