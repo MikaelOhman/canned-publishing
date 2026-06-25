@@ -9350,6 +9350,27 @@
     }
   },
   {
+    "id": "malmo-kommunfullmaktige-2025-12-16",
+    "typ": "kommunbeslut",
+    "titel": "Consiglio comunale, Comune di Malmö, 16 dicembre 2025.",
+    "ingress": "Il comune di Malmö ha preso decisioni importanti riguardanti le normative cittadine, l'ambiente, le scuole e i futuri progetti edilizi.",
+    "datum": "2025-12-16",
+    "kalla": "Malmö stad",
+    "kalla_url": "https://motenmedborgarportal.malmo.se/committees/kommunfullmaktige/mote-2025-12-16",
+    "taggar": [
+      "malmo",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_industri": 3,
+      "b_bygg": 3,
+      "b_energi": 3,
+      "barn": 5,
+      "klimat": 3,
+      "otrygg": 5
+    }
+  },
+  {
     "id": "gavle-kommunfullmaktige-2025-12-15",
     "typ": "kommunbeslut",
     "titel": "Consiglio comunale, Comune di Gävle, 15 dicembre 2025.",
@@ -10339,6 +10360,27 @@
     "relevans": {
       "arbetsgivare": 3,
       "b_finans": 3
+    }
+  },
+  {
+    "id": "malmo-kommunstyrelsen-2025-11-12",
+    "typ": "kommunbeslut",
+    "titel": "Comitato esecutivo del Comune di Malmö, 12 novembre 2025.",
+    "ingress": "Il comune di Malmö ha approvato una proposta relativa alla pianificazione dei trasporti futuri nella regione della Scania, nel periodo compreso tra il 2026 e il 2037. La decisione implica che la città invierà le proprie osservazioni alla Re",
+    "datum": "2025-11-12",
+    "kalla": "Malmö stad",
+    "kalla_url": "https://motenmedborgarportal.malmo.se/committees/kommunstyrelsen/mote-2025-11-12",
+    "taggar": [
+      "malmo",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "b_transport": 3,
+      "glesbygd": 3,
+      "pendlare": 3,
+      "kollektiv": 5,
+      "kronisk": 3,
+      "klimat": 3
     }
   },
   {

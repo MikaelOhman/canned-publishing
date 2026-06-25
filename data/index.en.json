@@ -9448,6 +9448,27 @@
     }
   },
   {
+    "id": "malmo-kommunfullmaktige-2025-12-16",
+    "typ": "kommunbeslut",
+    "titel": "City Council Meeting, City of Malmö, December 16, 2025.",
+    "ingress": "The city of Malmö made decisions on several important issues related to the city's regulations, environment, schools, and future construction projects.",
+    "datum": "2025-12-16",
+    "kalla": "Malmö stad",
+    "kalla_url": "https://motenmedborgarportal.malmo.se/committees/kommunfullmaktige/mote-2025-12-16",
+    "taggar": [
+      "malmo",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_industri": 3,
+      "b_bygg": 3,
+      "b_energi": 3,
+      "barn": 5,
+      "klimat": 3,
+      "otrygg": 5
+    }
+  },
+  {
     "id": "gavle-kommunfullmaktige-2025-12-15",
     "typ": "kommunbeslut",
     "titel": "Municipal Council, Gävle Municipality, December 15, 2025.",
@@ -10437,6 +10458,27 @@
     "relevans": {
       "arbetsgivare": 3,
       "b_finans": 3
+    }
+  },
+  {
+    "id": "malmo-kommunstyrelsen-2025-11-12",
+    "typ": "kommunbeslut",
+    "titel": "City Council Committee, City of Malmö, November 12, 2025.",
+    "ingress": "The City of Malmö has approved a proposal outlining how future transportation in the region of Scania should be planned between the years 2026 and 2037. This decision means that the city will forward its views to Region Skåne regarding road",
+    "datum": "2025-11-12",
+    "kalla": "Malmö stad",
+    "kalla_url": "https://motenmedborgarportal.malmo.se/committees/kommunstyrelsen/mote-2025-11-12",
+    "taggar": [
+      "malmo",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "b_transport": 3,
+      "glesbygd": 3,
+      "pendlare": 3,
+      "kollektiv": 5,
+      "kronisk": 3,
+      "klimat": 3
     }
   },
   {
