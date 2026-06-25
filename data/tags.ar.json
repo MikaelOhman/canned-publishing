@@ -292,7 +292,7 @@
   "kommunfullmaktige": {
     "etikett": "مجلس البلدية.",
     "typ": "organisation",
-    "antal": 59
+    "antal": 60
   },
   "kommunpolitik": {
     "etikett": "سياسة البلديات.",
@@ -777,6 +777,11 @@
   "mob": {
     "etikett": "MOB",
     "typ": "organisation",
+    "antal": 1
+  },
+  "avesta": {
+    "etikett": "أفيستا.",
+    "typ": "plats",
     "antal": 1
   }
 }

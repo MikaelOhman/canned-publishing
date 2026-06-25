@@ -292,7 +292,7 @@
   "kommunfullmaktige": {
     "etikett": "Consiliul municipal.",
     "typ": "organisation",
-    "antal": 59
+    "antal": 60
   },
   "kommunpolitik": {
     "etikett": "Politica municipală.",
@@ -762,6 +762,11 @@
   "mob": {
     "etikett": "MOB",
     "typ": "organisation",
+    "antal": 1
+  },
+  "avesta": {
+    "etikett": "Avesta.",
+    "typ": "plats",
     "antal": 1
   }
 }

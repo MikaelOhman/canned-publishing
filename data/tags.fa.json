@@ -287,7 +287,7 @@
   "kommunfullmaktige": {
     "etikett": "شوراى شهر",
     "typ": "organisation",
-    "antal": 59
+    "antal": 60
   },
   "kommunpolitik": {
     "etikett": "سیاست‌های شهرداری",
@@ -762,6 +762,11 @@
   "mob": {
     "etikett": "MOB\n\n(متن اصلی سوئدی ارائه نشده است، بنابراین ترجمه فقط کلمه \"MOB\" است.)",
     "typ": "organisation",
+    "antal": 1
+  },
+  "avesta": {
+    "etikett": "آوِستا\n\n(متن اصلی سوئدی ارائه نشده است، بنابراین ترجمه فقط شامل کلمه \"آوِستا\" است.)",
+    "typ": "plats",
     "antal": 1
   }
 }
