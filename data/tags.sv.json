@@ -362,7 +362,7 @@
   "kommunstyrelsen": {
     "etikett": "Kommunstyrelsen",
     "typ": "organisation",
-    "antal": 7
+    "antal": 8
   },
   "kommunallagen": {
     "etikett": "Kommunallagen",
@@ -521,6 +521,11 @@
   },
   "lekeberg": {
     "etikett": "Lekebergs",
+    "typ": "plats",
+    "antal": 1
+  },
+  "malmo": {
+    "etikett": "Malmö",
     "typ": "plats",
     "antal": 1
   }

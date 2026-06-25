@@ -307,7 +307,7 @@
   "kommunstyrelsen": {
     "etikett": "مجلس البلدية.",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "kommunal-forvaltning": {
     "etikett": "الإدارة المحلية.",
@@ -431,6 +431,11 @@
   },
   "lekeberg": {
     "etikett": "ليكبِيرج.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "malmo": {
+    "etikett": "مالمو",
     "typ": "plats",
     "antal": 1
   }

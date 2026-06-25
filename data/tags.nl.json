@@ -312,7 +312,7 @@
   "kommunstyrelsen": {
     "etikett": "Het college van burgemeester en wethouders.",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "kommunal-forvaltning": {
     "etikett": "Gemeentelijke administratie.",
@@ -411,6 +411,11 @@
   },
   "lekeberg": {
     "etikett": "Lekebergs",
+    "typ": "plats",
+    "antal": 1
+  },
+  "malmo": {
+    "etikett": "Malmö\n\nMalmö is een stad in Zweden.",
     "typ": "plats",
     "antal": 1
   }

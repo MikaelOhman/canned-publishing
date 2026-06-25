@@ -307,7 +307,7 @@
   "kommunstyrelsen": {
     "etikett": "Consiliul municipal.",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "kommunal-forvaltning": {
     "etikett": "Administrația locală.",
@@ -406,6 +406,11 @@
   },
   "lekeberg": {
     "etikett": "Lekebergs",
+    "typ": "plats",
+    "antal": 1
+  },
+  "malmo": {
+    "etikett": "Malmö\n\n(Nu este necesară traducere, deoarece \"Malmö\" este un nume propriu.)",
     "typ": "plats",
     "antal": 1
   }

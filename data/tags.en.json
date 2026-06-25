@@ -372,7 +372,7 @@
   "kommunstyrelsen": {
     "etikett": "The Municipal Board.",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "kommunal-forvaltning": {
     "etikett": "Municipal administration.",
@@ -491,6 +491,11 @@
   },
   "lekeberg": {
     "etikett": "Lekebergs",
+    "typ": "plats",
+    "antal": 1
+  },
+  "malmo": {
+    "etikett": "Malmö\n\n(No further context was provided, so a simple translation of the name is all that's possible.)",
     "typ": "plats",
     "antal": 1
   }

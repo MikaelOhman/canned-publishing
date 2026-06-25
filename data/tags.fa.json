@@ -302,7 +302,7 @@
   "kommunstyrelsen": {
     "etikett": "شورای شهر.",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "kommunal-forvaltning": {
     "etikett": "مدیریت شهری",
@@ -406,6 +406,11 @@
   },
   "lekeberg": {
     "etikett": "Lekebergs",
+    "typ": "plats",
+    "antal": 1
+  },
+  "malmo": {
+    "etikett": "مالمو",
     "typ": "plats",
     "antal": 1
   }

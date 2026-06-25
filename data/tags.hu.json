@@ -307,7 +307,7 @@
   "kommunstyrelsen": {
     "etikett": "A községi tanács.",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "kommunal-forvaltning": {
     "etikett": "Helyi közigazgatás.",
@@ -406,6 +406,11 @@
   },
   "lekeberg": {
     "etikett": "Lekebergs",
+    "typ": "plats",
+    "antal": 1
+  },
+  "malmo": {
+    "etikett": "Malmö\n\n(A szöveg hiányos, ezért csak a helynév szerepel a fordításban.)",
     "typ": "plats",
     "antal": 1
   }

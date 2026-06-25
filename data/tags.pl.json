@@ -307,7 +307,7 @@
   "kommunstyrelsen": {
     "etikett": "Zarząd gminy.",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "kommunal-forvaltning": {
     "etikett": "Zarządzanie samorządem lokalnym.",
@@ -406,6 +406,11 @@
   },
   "lekeberg": {
     "etikett": "Lekebergs",
+    "typ": "plats",
+    "antal": 1
+  },
+  "malmo": {
+    "etikett": "Malmö\n\n(No further context was provided, so I'm simply translating the name \"Malmö\" into Polish, which is the same: Malmö.)",
     "typ": "plats",
     "antal": 1
   }
