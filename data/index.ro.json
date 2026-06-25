@@ -8393,6 +8393,29 @@
     }
   },
   {
+    "id": "bollebygd-kommunstyrelsen-2025-10-28",
+    "typ": "kommunbeslut",
+    "titel": "Consiliul municipal, comuna Bollebygd, 28 octombrie 2025.",
+    "ingress": "Consiliul municipal din Bollebygd a decis să trimită la evaluare un nou plan pentru o zonă industrială. Planul prevede construcții de mari dimensiuni, dar necesită modificări pentru a respecta cerințele de mediu și de siguranță.",
+    "datum": "2025-10-28",
+    "kalla": "Bollebygds kommun",
+    "kalla_url": "https://meeting.bollebygd.se/committees/kommunstyrelsen/mote-2025-10-28",
+    "taggar": [
+      "bollebygd",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "b_industri": 3,
+      "b_bygg": 3,
+      "mark_bygglov": 3,
+      "barn": 3,
+      "bygger": 3,
+      "glesbygd": 3,
+      "idrott": 3,
+      "klimat": 3
+    }
+  },
+  {
     "id": "HD0330",
     "typ": "lagforslag",
     "titel": "Activități ale Comitetului Ministerial al Consiliului Europei pe parcursul întregului an 2024 și în prima jumătate a anului 2025.",
@@ -8999,6 +9022,29 @@
       "regelborda": 4,
       "f_kommun": 4,
       "offentliganstalld": 4
+    }
+  },
+  {
+    "id": "bollebygd-kommunfullmaktige-2025-09-18",
+    "typ": "kommunbeslut",
+    "titel": "Consiliul Municipal al Comunei Bollebygds, 18 septembrie 2025.",
+    "ingress": "În comuna Bollebygd, politicienii au decis alocarea de fonduri pentru o nouă școală și au acordat burse culturale bibliotecilor. Ședința a abordat, de asemenea, mai multe propuneri din partea locuitorilor, care au vizat diverse aspecte, de",
+    "datum": "2025-09-18",
+    "kalla": "Bollebygds kommun",
+    "kalla_url": "https://meeting.bollebygd.se/committees/kommunfullmaktige/mote-2025-09-18",
+    "taggar": [
+      "bollebygd",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_kultur": 3,
+      "bolagsskatt": 3,
+      "finansiering": 3,
+      "barn": 3,
+      "glesbygd": 3,
+      "korkort": 3,
+      "kultur": 5
     }
   },
   {

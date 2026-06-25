@@ -8441,6 +8441,29 @@
     }
   },
   {
+    "id": "bollebygd-kommunstyrelsen-2025-10-28",
+    "typ": "kommunbeslut",
+    "titel": "Comitato comunale, Comune di Bollebygd, 28 ottobre 2025.",
+    "ingress": "La giunta comunale di Bollebygd ha deciso di inviare per la revisione un nuovo piano per una nuova area industriale. Il piano prevede la realizzazione di grandi edifici, ma necessita di modifiche per soddisfare i requisiti ambientali e di s",
+    "datum": "2025-10-28",
+    "kalla": "Bollebygds kommun",
+    "kalla_url": "https://meeting.bollebygd.se/committees/kommunstyrelsen/mote-2025-10-28",
+    "taggar": [
+      "bollebygd",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "b_industri": 3,
+      "b_bygg": 3,
+      "mark_bygglov": 3,
+      "barn": 3,
+      "bygger": 3,
+      "glesbygd": 3,
+      "idrott": 3,
+      "klimat": 3
+    }
+  },
+  {
     "id": "HD0330",
     "typ": "lagforslag",
     "titel": "Attività del Comitato dei Ministri del Consiglio d'Europa durante l'intero anno 2024 e il primo semestre del 2025.",
@@ -9047,6 +9070,29 @@
       "regelborda": 4,
       "f_kommun": 4,
       "offentliganstalld": 4
+    }
+  },
+  {
+    "id": "bollebygd-kommunfullmaktige-2025-09-18",
+    "typ": "kommunbeslut",
+    "titel": "Consiglio comunale, Comune di Bollebygd, 18 settembre 2025.",
+    "ingress": "Nel comune di Bollebygd, i politici hanno approvato dei fondi per la costruzione di una nuova scuola e hanno assegnato una borsa di studio culturale alle biblioteche. Durante la riunione, sono stati discussi anche diversi progetti proposti",
+    "datum": "2025-09-18",
+    "kalla": "Bollebygds kommun",
+    "kalla_url": "https://meeting.bollebygd.se/committees/kommunfullmaktige/mote-2025-09-18",
+    "taggar": [
+      "bollebygd",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_kultur": 3,
+      "bolagsskatt": 3,
+      "finansiering": 3,
+      "barn": 3,
+      "glesbygd": 3,
+      "korkort": 3,
+      "kultur": 5
     }
   },
   {
