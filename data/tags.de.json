@@ -1028,5 +1028,15 @@
     "etikett": "Hultsfreds",
     "typ": "plats",
     "antal": 1
+  },
+  "jokkmokk": {
+    "etikett": "Jokkmokks",
+    "typ": "plats",
+    "antal": 1
+  },
+  "bun": {
+    "etikett": "BUN",
+    "typ": "organisation",
+    "antal": 1
   }
 }
