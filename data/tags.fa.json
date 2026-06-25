@@ -287,7 +287,7 @@
   "kommunfullmaktige": {
     "etikett": "شوراى شهر",
     "typ": "organisation",
-    "antal": 8
+    "antal": 9
   },
   "kommunpolitik": {
     "etikett": "سیاست‌های شهرداری",
@@ -512,6 +512,11 @@
   "grundlaggande-granskning-av-kommunstyrel": {
     "etikett": "بازبینی اولیه شورای شهر.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "harnosand": {
+    "etikett": "هärnösands",
+    "typ": "plats",
     "antal": 1
   }
 }

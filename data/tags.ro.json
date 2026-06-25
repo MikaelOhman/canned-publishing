@@ -292,7 +292,7 @@
   "kommunfullmaktige": {
     "etikett": "Consiliul municipal.",
     "typ": "organisation",
-    "antal": 8
+    "antal": 9
   },
   "kommunpolitik": {
     "etikett": "Politica municipală.",
@@ -512,6 +512,11 @@
   "grundlaggande-granskning-av-kommunstyrel": {
     "etikett": "Verificare generală a consiliului municipal.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "harnosand": {
+    "etikett": "Härnösand.",
+    "typ": "plats",
     "antal": 1
   }
 }

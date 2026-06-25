@@ -292,7 +292,7 @@
   "kommunfullmaktige": {
     "etikett": "A települési közgyűlés.",
     "typ": "organisation",
-    "antal": 8
+    "antal": 9
   },
   "kommunpolitik": {
     "etikett": "Önkormányzati politika.",
@@ -512,6 +512,11 @@
   "grundlaggande-granskning-av-kommunstyrel": {
     "etikett": "A kommunális tanács alapvető felülvizsgálata.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "harnosand": {
+    "etikett": "Härnösand.",
+    "typ": "plats",
     "antal": 1
   }
 }

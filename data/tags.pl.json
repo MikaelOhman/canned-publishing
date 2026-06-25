@@ -292,7 +292,7 @@
   "kommunfullmaktige": {
     "etikett": "Rada miejska.",
     "typ": "organisation",
-    "antal": 8
+    "antal": 9
   },
   "kommunpolitik": {
     "etikett": "Polityka samorządowa.",
@@ -512,6 +512,11 @@
   "grundlaggande-granskning-av-kommunstyrel": {
     "etikett": "Podstawowa kontrola rady miejskiej.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "harnosand": {
+    "etikett": "Härnösand.",
+    "typ": "plats",
     "antal": 1
   }
 }

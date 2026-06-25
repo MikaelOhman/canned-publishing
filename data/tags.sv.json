@@ -377,7 +377,7 @@
   "kommunfullmaktige": {
     "etikett": "Kommunfullmäktige",
     "typ": "organisation",
-    "antal": 9
+    "antal": 10
   },
   "kommunpolitik": {
     "etikett": "Kommunpolitik",
@@ -627,6 +627,11 @@
   "grundlaggande-granskning-av-kommunstyrel": {
     "etikett": "Grundläggande granskning av kommunstyrelsen",
     "typ": "organisation",
+    "antal": 1
+  },
+  "harnosand": {
+    "etikett": "Härnösands",
+    "typ": "plats",
     "antal": 1
   }
 }

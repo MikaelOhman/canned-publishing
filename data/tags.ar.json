@@ -292,7 +292,7 @@
   "kommunfullmaktige": {
     "etikett": "مجلس البلدية.",
     "typ": "organisation",
-    "antal": 8
+    "antal": 9
   },
   "kommunpolitik": {
     "etikett": "سياسة البلديات.",
@@ -537,6 +537,11 @@
   "grundlaggande-granskning-av-kommunstyrel": {
     "etikett": "مراجعة أساسية للجنة البلدية.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "harnosand": {
+    "etikett": "هيرنوساندز.",
+    "typ": "plats",
     "antal": 1
   }
 }

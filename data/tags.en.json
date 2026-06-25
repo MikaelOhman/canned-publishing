@@ -352,7 +352,7 @@
   "kommunfullmaktige": {
     "etikett": "Municipal council.",
     "typ": "organisation",
-    "antal": 9
+    "antal": 10
   },
   "kommunpolitik": {
     "etikett": "Municipal politics.",
@@ -597,6 +597,11 @@
   "grundlaggande-granskning-av-kommunstyrel": {
     "etikett": "Basic review of the municipal board.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "harnosand": {
+    "etikett": "Härnösand.",
+    "typ": "plats",
     "antal": 1
   }
 }
