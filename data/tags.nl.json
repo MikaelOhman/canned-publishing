@@ -488,5 +488,15 @@
     "etikett": "de sociale dienst",
     "typ": "organisation",
     "antal": 1
+  },
+  "katrineholm": {
+    "etikett": "Katrineholms",
+    "typ": "plats",
+    "antal": 1
+  },
+  "kommunstyrelsens": {
+    "etikett": "Het college van burgemeester en wethouders.",
+    "typ": "organisation",
+    "antal": 1
   }
 }
