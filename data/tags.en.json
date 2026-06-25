@@ -828,5 +828,15 @@
     "etikett": "KF-signed public key.",
     "typ": "organisation",
     "antal": 1
+  },
+  "askersund": {
+    "etikett": "Askersunds",
+    "typ": "plats",
+    "antal": 1
+  },
+  "mob": {
+    "etikett": "MOB\n\n(This appears to be an abbreviation and without context, it's difficult to provide a more specific translation. It could stand for many things, such as \"Mobile,\" \"Mobility,\" or a company/organization name.)",
+    "typ": "organisation",
+    "antal": 1
   }
 }

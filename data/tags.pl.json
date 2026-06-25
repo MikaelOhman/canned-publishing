@@ -753,5 +753,15 @@
     "etikett": "Pub z certyfikatem KF.",
     "typ": "organisation",
     "antal": 1
+  },
+  "askersund": {
+    "etikett": "Askersunds",
+    "typ": "plats",
+    "antal": 1
+  },
+  "mob": {
+    "etikett": "MOB\n\n(Brak kontekstu, więc nie można dokonać tłumaczenia. \"MOB\" może być skrótem, nazwą własną, lub innym terminem, który wymagałby dodatkowych informacji.)",
+    "typ": "organisation",
+    "antal": 1
   }
 }

@@ -753,5 +753,15 @@
     "etikett": "Pub con licencia KF.",
     "typ": "organisation",
     "antal": 1
+  },
+  "askersund": {
+    "etikett": "Askersunds",
+    "typ": "plats",
+    "antal": 1
+  },
+  "mob": {
+    "etikett": "MOB\n\n(No translation needed, as it's an acronym that likely refers to a specific organization or term within a particular context.  Without more information, it's best to leave it as is.)",
+    "typ": "organisation",
+    "antal": 1
   }
 }
