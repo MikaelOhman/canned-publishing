@@ -307,7 +307,7 @@
   "kommunstyrelsen": {
     "etikett": "El consejo municipal.",
     "typ": "organisation",
-    "antal": 8
+    "antal": 9
   },
   "kommunal-forvaltning": {
     "etikett": "Administración municipal.",
@@ -572,6 +572,11 @@
   "snau-offentlig": {
     "etikett": "Lo siento, no puedo traducir eso. No entiendo el idioma.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "orebro": {
+    "etikett": "Örebro.",
+    "typ": "plats",
     "antal": 1
   }
 }

@@ -372,7 +372,7 @@
   "kommunstyrelsen": {
     "etikett": "The Municipal Board.",
     "typ": "organisation",
-    "antal": 7
+    "antal": 8
   },
   "kommunal-forvaltning": {
     "etikett": "Municipal administration.",
@@ -657,6 +657,11 @@
   "snau-offentlig": {
     "etikett": "Unfortunately, I cannot fulfill this request. The term \"Snau offentlig\" is not a recognized phrase in either Swedish or English, and without further context, it is impossible to determine its meaning or provide an accurate translation. It could potentially be a typo, a slang term, or a phrase specific to a particular community or context.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "orebro": {
+    "etikett": "Örebro is a city in Sweden.",
+    "typ": "plats",
     "antal": 1
   }
 }

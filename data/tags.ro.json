@@ -307,7 +307,7 @@
   "kommunstyrelsen": {
     "etikett": "Consiliul municipal.",
     "typ": "organisation",
-    "antal": 8
+    "antal": 9
   },
   "kommunal-forvaltning": {
     "etikett": "Administrația locală.",
@@ -572,6 +572,11 @@
   "snau-offentlig": {
     "etikett": "Nu este disponibil public.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "orebro": {
+    "etikett": "Örebro.",
+    "typ": "plats",
     "antal": 1
   }
 }

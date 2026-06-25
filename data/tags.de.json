@@ -372,7 +372,7 @@
   "kommunstyrelsen": {
     "etikett": "Der Gemeinderat.",
     "typ": "organisation",
-    "antal": 8
+    "antal": 9
   },
   "kommunal-forvaltning": {
     "etikett": "Kommunale Verwaltung.",
@@ -637,6 +637,11 @@
   "snau-offentlig": {
     "etikett": "Öffentlich, ohne Einschränkungen.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "orebro": {
+    "etikett": "Örebro\n\n(No translation needed, as it's a proper noun - a city name.)",
+    "typ": "plats",
     "antal": 1
   }
 }

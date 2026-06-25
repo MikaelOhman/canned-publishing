@@ -307,7 +307,7 @@
   "kommunstyrelsen": {
     "etikett": "Zarząd gminy.",
     "typ": "organisation",
-    "antal": 8
+    "antal": 9
   },
   "kommunal-forvaltning": {
     "etikett": "Zarządzanie samorządem lokalnym.",
@@ -572,6 +572,11 @@
   "snau-offentlig": {
     "etikett": "Przepraszam, nie rozumiem.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "orebro": {
+    "etikett": "Örebro\n\n(Brak kontekstu, więc nie można przetłumaczyć. \"Örebro\" to nazwa miasta w Szwecji.)",
+    "typ": "plats",
     "antal": 1
   }
 }

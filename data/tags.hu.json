@@ -307,7 +307,7 @@
   "kommunstyrelsen": {
     "etikett": "A községi tanács.",
     "typ": "organisation",
-    "antal": 8
+    "antal": 9
   },
   "kommunal-forvaltning": {
     "etikett": "Helyi közigazgatás.",
@@ -572,6 +572,11 @@
   "snau-offentlig": {
     "etikett": "Sajnálom, de nem tudom, hogy mit jelent a \"Snau offentlig\". Kérlek, adj meg több információt, vagy próbálj meg más szavakat használni.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "orebro": {
+    "etikett": "Örebro.",
+    "typ": "plats",
     "antal": 1
   }
 }
