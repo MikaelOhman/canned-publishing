@@ -352,7 +352,7 @@
   "kommunfullmaktige": {
     "etikett": "Gemeindevertretung",
     "typ": "organisation",
-    "antal": 63
+    "antal": 64
   },
   "kommunpolitik": {
     "etikett": "Kommunalpolitik.",
@@ -931,6 +931,11 @@
   },
   "fargelanda": {
     "etikett": "Färgelanda\n\n(No further context was provided, so a simple translation of the name is all that's possible.)",
+    "typ": "plats",
+    "antal": 1
+  },
+  "finspang": {
+    "etikett": "Finspångs",
     "typ": "plats",
     "antal": 1
   }

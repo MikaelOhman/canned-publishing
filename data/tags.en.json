@@ -352,7 +352,7 @@
   "kommunfullmaktige": {
     "etikett": "Municipal council.",
     "typ": "organisation",
-    "antal": 63
+    "antal": 64
   },
   "kommunpolitik": {
     "etikett": "Municipal politics.",
@@ -941,6 +941,11 @@
   },
   "fargelanda": {
     "etikett": "Färgelanda",
+    "typ": "plats",
+    "antal": 1
+  },
+  "finspang": {
+    "etikett": "Finspångs",
     "typ": "plats",
     "antal": 1
   }
