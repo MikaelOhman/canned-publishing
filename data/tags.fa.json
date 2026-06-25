@@ -302,7 +302,7 @@
   "kommunstyrelsen": {
     "etikett": "شورای شهر.",
     "typ": "organisation",
-    "antal": 43
+    "antal": 44
   },
   "kommunal-forvaltning": {
     "etikett": "مدیریت شهری",
@@ -862,6 +862,11 @@
   "barn-och-utbildningsnamnden": {
     "etikett": "کمیته کودکان و آموزش.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "fargelanda": {
+    "etikett": "Färgelanda",
+    "typ": "plats",
     "antal": 1
   }
 }

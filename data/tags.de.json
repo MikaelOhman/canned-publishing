@@ -372,7 +372,7 @@
   "kommunstyrelsen": {
     "etikett": "Der Gemeinderat.",
     "typ": "organisation",
-    "antal": 43
+    "antal": 44
   },
   "kommunal-forvaltning": {
     "etikett": "Kommunale Verwaltung.",
@@ -927,6 +927,11 @@
   "barn-och-utbildningsnamnden": {
     "etikett": "Der Ausschuss für Kinder und Bildung.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "fargelanda": {
+    "etikett": "Färgelanda\n\n(No further context was provided, so a simple translation of the name is all that's possible.)",
+    "typ": "plats",
     "antal": 1
   }
 }

@@ -307,7 +307,7 @@
   "kommunstyrelsen": {
     "etikett": "Consiliul municipal.",
     "typ": "organisation",
-    "antal": 43
+    "antal": 44
   },
   "kommunal-forvaltning": {
     "etikett": "Administrația locală.",
@@ -862,6 +862,11 @@
   "barn-och-utbildningsnamnden": {
     "etikett": "Comisia pentru copii și educație.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "fargelanda": {
+    "etikett": "Färgelanda",
+    "typ": "plats",
     "antal": 1
   }
 }

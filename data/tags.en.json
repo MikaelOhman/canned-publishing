@@ -372,7 +372,7 @@
   "kommunstyrelsen": {
     "etikett": "The Municipal Board.",
     "typ": "organisation",
-    "antal": 42
+    "antal": 43
   },
   "kommunal-forvaltning": {
     "etikett": "Municipal administration.",
@@ -937,6 +937,11 @@
   "barn-och-utbildningsnamnden": {
     "etikett": "The Children and Education Committee.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "fargelanda": {
+    "etikett": "Färgelanda",
+    "typ": "plats",
     "antal": 1
   }
 }

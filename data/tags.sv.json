@@ -362,7 +362,7 @@
   "kommunstyrelsen": {
     "etikett": "Kommunstyrelsen",
     "typ": "organisation",
-    "antal": 46
+    "antal": 47
   },
   "kommunallagen": {
     "etikett": "Kommunallagen",
@@ -962,6 +962,11 @@
   "barn-och-utbildningsnamnden": {
     "etikett": "Barn och utbildningsnämnden",
     "typ": "organisation",
+    "antal": 1
+  },
+  "fargelanda": {
+    "etikett": "Färgelanda",
+    "typ": "plats",
     "antal": 1
   }
 }

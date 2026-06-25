@@ -312,7 +312,7 @@
   "kommunstyrelsen": {
     "etikett": "La giunta comunale.",
     "typ": "organisation",
-    "antal": 43
+    "antal": 44
   },
   "kommunal-forvaltning": {
     "etikett": "Amministrazione comunale.",
@@ -867,6 +867,11 @@
   "barn-och-utbildningsnamnden": {
     "etikett": "Commissione per l'infanzia e l'istruzione.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "fargelanda": {
+    "etikett": "Färgelanda.",
+    "typ": "plats",
     "antal": 1
   }
 }
