@@ -36,11 +36,12 @@
   "types": {
     "alla": "Toate",
     "nyhet": "Știri",
-    "lagforslag": "Proiecte de lege",
-    "kommunbeslut": "Local",
+    "lagforslag": "Parlament și guvern",
+    "kommunbeslut": "Comună",
     "omvarld": "UE și lume",
-    "myndighet": "Autorități",
-    "marknad": "Piețe"
+    "myndighet": "Autorități de stat",
+    "marknad": "Piețe",
+    "region": "Regiune"
   },
   "typebadge": {
     "nyhet": "Știre",
@@ -48,7 +49,8 @@
     "kommunbeslut": "Local",
     "omvarld": "UE/Lume",
     "myndighet": "Autoritate",
-    "marknad": "Piață"
+    "marknad": "Piață",
+    "region": "Regiune"
   },
   "tagtypes": {
     "ämne": "Subiect",
@@ -82,7 +84,7 @@
   },
   "sit": {
     "filter": "Filtru",
-    "type": "Tip",
+    "type": "Cine decide",
     "all": "Selectează tot",
     "none_all": "Șterge tot",
     "more": "arată mai mult",
@@ -283,5 +285,13 @@
     "avbryt": "Anulează",
     "tack": "Mulțumim pentru feedback!",
     "fel": "Ceva n-a mers – încearcă din nou."
+  },
+  "typdesc": {
+    "lagforslag": "Legi, taxe și politică națională",
+    "myndighet": "Banca centrală, Curtea de Conturi etc.",
+    "region": "Sănătate, stomatologie, transport public",
+    "kommunbeslut": "Școli, îngrijire, apă, autorizații de construcție",
+    "omvarld": "UE și internațional",
+    "marknad": "Bursă și economie"
   }
 }

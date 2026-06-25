@@ -36,11 +36,12 @@
   "types": {
     "alla": "Wszystko",
     "nyhet": "Wiadomości",
-    "lagforslag": "Projekty ustaw",
-    "kommunbeslut": "Samorządowe",
+    "lagforslag": "Parlament i rząd",
+    "kommunbeslut": "Gmina",
     "omvarld": "UE i świat",
-    "myndighet": "Urzędy",
-    "marknad": "Rynki"
+    "myndighet": "Urzędy państwowe",
+    "marknad": "Rynki",
+    "region": "Region"
   },
   "typebadge": {
     "nyhet": "Wiadomość",
@@ -48,7 +49,8 @@
     "kommunbeslut": "Gmina",
     "omvarld": "UE/świat",
     "myndighet": "Urząd",
-    "marknad": "Rynek"
+    "marknad": "Rynek",
+    "region": "Region"
   },
   "tagtypes": {
     "ämne": "Temat",
@@ -82,7 +84,7 @@
   },
   "sit": {
     "filter": "Filtr",
-    "type": "Typ",
+    "type": "Kto decyduje",
     "all": "Zaznacz wszystko",
     "none_all": "Wyczyść wszystko",
     "more": "pokaż więcej",
@@ -283,5 +285,13 @@
     "avbryt": "Anuluj",
     "tack": "Dziękujemy za opinię!",
     "fel": "Coś poszło nie tak – spróbuj ponownie."
+  },
+  "typdesc": {
+    "lagforslag": "Ustawy, podatki i polityka krajowa",
+    "myndighet": "Bank centralny, izba kontroli i inne",
+    "region": "Opieka zdrowotna, stomatologia, transport publiczny",
+    "kommunbeslut": "Szkoły, opieka, woda, pozwolenia na budowę",
+    "omvarld": "UE i sprawy międzynarodowe",
+    "marknad": "Giełda i gospodarka"
   }
 }

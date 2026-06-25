@@ -14,23 +14,26 @@ const THEME_STD = ['dark','light','sepia','midnatt','nord','dracula','solarized'
 const THEME_A11Y = ['hk-svart','hk-ljus','gul-svart'];
 const TEXTS = ['normal','large','xlarge'];
 const FONTS = ['standard','lasvanlig'];
-const TYPER = ['nyhet','lagforslag','kommunbeslut','omvarld','myndighet','marknad'];
-const BADGE_KLASS = {lagforslag:'lag', kommunbeslut:'kommun', omvarld:'omv', myndighet:'mynd', marknad:'mark'};
-const KORT_KLASS = {lagforslag:'lagforslag', kommunbeslut:'kommunbeslut', omvarld:'omvarld', myndighet:'myndighet', marknad:'marknad'};
+/* Typ-dimension = förvaltningsnivå ("Vem beslutar"), ordnad stat→region→kommun→EU. */
+const TYPER = ['lagforslag','myndighet','region','kommunbeslut','omvarld','marknad','nyhet'];
+const BADGE_KLASS = {lagforslag:'lag', kommunbeslut:'kommun', omvarld:'omv', myndighet:'mynd', marknad:'mark', region:'reg'};
+const KORT_KLASS = {lagforslag:'lagforslag', kommunbeslut:'kommunbeslut', omvarld:'omvarld', myndighet:'myndighet', marknad:'marknad', region:'region'};
 
 const UIDEF = {sub:"Multilingual news",search_label:"Search",search_ph:"Type a word…",language:"Language",
   settings:"Display",theme:"Theme",textsize:"Text size",font:"Font",
   themegroups:{standard:"Standard",a11y:"Accessibility"},
   themes:{dark:"Dark",light:"Light",sepia:"Sepia",midnatt:"Midnight (OLED)",nord:"Nord",dracula:"Dracula",solarized:"Solarized","hk-svart":"High contrast – black","hk-ljus":"High contrast – light","gul-svart":"Yellow on black"},
   texts:{normal:"Normal",large:"Large",xlarge:"Extra large"},fonts:{standard:"Standard",lasvanlig:"Readable"},
-  types:{alla:"All",nyhet:"News",lagforslag:"Bills",kommunbeslut:"Municipal",omvarld:"EU & World",myndighet:"Authorities",marknad:"Markets"},typebadge:{nyhet:"News",lagforslag:"Bill",kommunbeslut:"Municipal",omvarld:"EU/World",myndighet:"Authority",marknad:"Market"},
+  types:{alla:"All",nyhet:"News",lagforslag:"Parliament & government",kommunbeslut:"Municipality",omvarld:"EU & World",myndighet:"State agencies",marknad:"Markets",region:"Region"},
+  typebadge:{nyhet:"News",lagforslag:"Bill",kommunbeslut:"Municipality",omvarld:"EU/World",myndighet:"Agency",marknad:"Market",region:"Region"},
+  typdesc:{lagforslag:"Laws, taxes and national politics",myndighet:"Central bank, national audit and more",region:"Healthcare, dental care, public transport",kommunbeslut:"Schools, care, water, building permits",omvarld:"EU and international",marknad:"Stock market and economy"},
   kalla:"Source",original:"Read the original at",count:"results",none:"No matches.",clear:"Clear",back:"← Back",
   tldr_label:"TL;DR",lattlast_label:"In plain language",fulltext_label:"Full text",loadmore:"Load more",
   lagernamn:{privat:"Private individual",foretag:"Business"},
   status:{title:"By the numbers",articles:"articles",languages:"languages",municipalities:"municipalities covered",
     sources:"sources",updated:"Updated",fresh:"Updated daily",stale:"Updates paused",
     new30:"new in the last 30 days",coverage:"Language coverage",bytype:"By type"},
-  sit:{filter:"Filter",type:"Type",all:"Select all",none_all:"Clear all",more:"show more",fewer:"fewer",
+  sit:{filter:"Filter",type:"Who decides",all:"Select all",none_all:"Clear all",more:"show more",fewer:"fewer",
     clear:"Clear",share_btn:"Share ⤴",sharehelp:"Copy this link and paste it in the address bar on another device, or bookmark it.",
     copy:"Copy link",copied:"Copied!",apply:"Show",affects:"Affects you",high:"a lot",mid:"somewhat",low:"a little",
     ort_privat:"Where do you live?",ort_foretag:"Where is your business?",ort_ph:"Search municipality…",
@@ -137,9 +140,10 @@ function renderSidebar(){
   // typ-facet (flerval: tom = alla)
   const tc={}; TYPER.forEach(t=>tc[t]=state.index.filter(a=>(a.typ||'nyhet')===t).length);
   const typOpts=TYPER.filter(t=>tc[t]>0).map(t=>[t,(u.types[t]||t),tc[t]]);
+  const td=u.typdesc||{};
   const typHtml=`<details class="facet" data-grp="__typ" ${state.openGroups.has('__typ')?'open':''}>
     <summary>${esc(s.type)}<span class="gcount">${state.typer.size||''}</span></summary>`+
-    typOpts.map(([v,lbl,n])=>`<label class="opt"><input type="checkbox" data-typ="${esc(v)}" ${state.typer.has(v)?'checked':''}><span class="lbl">${esc(lbl)}</span><span class="n">${n}</span></label>`).join('')+`</details>`;
+    typOpts.map(([v,lbl,n])=>`<label class="opt opt-typ"><input type="checkbox" data-typ="${esc(v)}" ${state.typer.has(v)?'checked':''}><span class="lbl">${esc(lbl)}${td[v]?`<small class="opt-desc">${esc(td[v])}</small>`:''}</span><span class="n">${n}</span></label>`).join('')+`</details>`;
   // situations-grupper för aktuellt lager
   const grupper=(state.grupper.length?state.grupper:[...new Set(state.axdef.map(a=>a.grupp))]);
   const fq=(state.filterQ||'').toLowerCase();

@@ -36,11 +36,12 @@
   "types": {
     "alla": "Összes",
     "nyhet": "Hírek",
-    "lagforslag": "Törvényjavaslatok",
-    "kommunbeslut": "Önkormányzati",
+    "lagforslag": "Parlament és kormány",
+    "kommunbeslut": "Önkormányzat",
     "omvarld": "EU és világ",
-    "myndighet": "Hatóságok",
-    "marknad": "Piacok"
+    "myndighet": "Állami hatóságok",
+    "marknad": "Piacok",
+    "region": "Régió"
   },
   "typebadge": {
     "nyhet": "Hír",
@@ -48,7 +49,8 @@
     "kommunbeslut": "Önkormányzat",
     "omvarld": "EU/világ",
     "myndighet": "Hatóság",
-    "marknad": "Piac"
+    "marknad": "Piac",
+    "region": "Régió"
   },
   "tagtypes": {
     "ämne": "Téma",
@@ -82,7 +84,7 @@
   },
   "sit": {
     "filter": "Szűrő",
-    "type": "Típus",
+    "type": "Ki dönt",
     "all": "Összes kijelölése",
     "none_all": "Összes törlése",
     "more": "több",
@@ -283,5 +285,13 @@
     "avbryt": "Mégse",
     "tack": "Köszönjük a visszajelzést!",
     "fel": "Valami hiba történt – próbáld újra."
+  },
+  "typdesc": {
+    "lagforslag": "Törvények, adók és országos politika",
+    "myndighet": "Jegybank, számvevőszék stb.",
+    "region": "Egészségügy, fogászat, tömegközlekedés",
+    "kommunbeslut": "Iskola, gondozás, víz, építési engedélyek",
+    "omvarld": "EU és nemzetközi",
+    "marknad": "Tőzsde és gazdaság"
   }
 }

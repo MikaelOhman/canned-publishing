@@ -36,11 +36,12 @@
   "types": {
     "alla": "All",
     "nyhet": "News",
-    "lagforslag": "Bills",
-    "kommunbeslut": "Municipal",
+    "lagforslag": "Parliament & government",
+    "kommunbeslut": "Municipality",
     "omvarld": "EU & World",
-    "myndighet": "Authorities",
-    "marknad": "Markets"
+    "myndighet": "State agencies",
+    "marknad": "Markets",
+    "region": "Region"
   },
   "typebadge": {
     "nyhet": "News",
@@ -48,7 +49,8 @@
     "kommunbeslut": "Municipal",
     "omvarld": "EU/World",
     "myndighet": "Authority",
-    "marknad": "Market"
+    "marknad": "Market",
+    "region": "Region"
   },
   "tagtypes": {
     "ämne": "Topic",
@@ -82,7 +84,7 @@
   },
   "sit": {
     "filter": "Filter",
-    "type": "Type",
+    "type": "Who decides",
     "all": "Select all",
     "none_all": "Clear all",
     "more": "show more",
@@ -283,5 +285,13 @@
     "avbryt": "Cancel",
     "tack": "Thanks for your feedback!",
     "fel": "Something went wrong — try again."
+  },
+  "typdesc": {
+    "lagforslag": "Laws, taxes and national politics",
+    "myndighet": "Central bank, national audit and more",
+    "region": "Healthcare, dental care, public transport",
+    "kommunbeslut": "Schools, care, water, building permits",
+    "omvarld": "EU and international",
+    "marknad": "Stock market and economy"
   }
 }

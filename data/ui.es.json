@@ -36,11 +36,12 @@
   "types": {
     "alla": "Todo",
     "nyhet": "Noticias",
-    "lagforslag": "Proyectos de ley",
-    "kommunbeslut": "Municipal",
+    "lagforslag": "Parlamento y Gobierno",
+    "kommunbeslut": "Municipio",
     "omvarld": "UE y mundo",
-    "myndighet": "Autoridades",
-    "marknad": "Mercados"
+    "myndighet": "Organismos estatales",
+    "marknad": "Mercados",
+    "region": "Región"
   },
   "typebadge": {
     "nyhet": "Noticia",
@@ -48,7 +49,8 @@
     "kommunbeslut": "Municipio",
     "omvarld": "UE/Mundo",
     "myndighet": "Autoridad",
-    "marknad": "Mercado"
+    "marknad": "Mercado",
+    "region": "Región"
   },
   "tagtypes": {
     "ämne": "Tema",
@@ -82,7 +84,7 @@
   },
   "sit": {
     "filter": "Filtro",
-    "type": "Tipo",
+    "type": "Quién decide",
     "all": "Seleccionar todo",
     "none_all": "Borrar todo",
     "more": "mostrar más",
@@ -283,5 +285,13 @@
     "avbryt": "Cancelar",
     "tack": "¡Gracias por tus comentarios!",
     "fel": "Algo salió mal: inténtalo de nuevo."
+  },
+  "typdesc": {
+    "lagforslag": "Leyes, impuestos y política nacional",
+    "myndighet": "Banco central, auditoría nacional, etc.",
+    "region": "Sanidad, odontología, transporte público",
+    "kommunbeslut": "Escuelas, cuidados, agua, licencias de obra",
+    "omvarld": "UE e internacional",
+    "marknad": "Bolsa y economía"
   }
 }

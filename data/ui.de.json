@@ -36,11 +36,12 @@
   "types": {
     "alla": "Alle",
     "nyhet": "Nachrichten",
-    "lagforslag": "Gesetzentwürfe",
-    "kommunbeslut": "Kommunal",
+    "lagforslag": "Parlament & Regierung",
+    "kommunbeslut": "Kommune",
     "omvarld": "EU & Welt",
-    "myndighet": "Behörden",
-    "marknad": "Märkte"
+    "myndighet": "Staatliche Behörden",
+    "marknad": "Märkte",
+    "region": "Region"
   },
   "typebadge": {
     "nyhet": "Nachricht",
@@ -48,7 +49,8 @@
     "kommunbeslut": "Kommune",
     "omvarld": "EU/Welt",
     "myndighet": "Behörde",
-    "marknad": "Markt"
+    "marknad": "Markt",
+    "region": "Region"
   },
   "tagtypes": {
     "ämne": "Thema",
@@ -82,7 +84,7 @@
   },
   "sit": {
     "filter": "Filter",
-    "type": "Typ",
+    "type": "Wer entscheidet",
     "all": "Alle auswählen",
     "none_all": "Alle abwählen",
     "more": "mehr anzeigen",
@@ -283,5 +285,13 @@
     "avbryt": "Abbrechen",
     "tack": "Danke für dein Feedback!",
     "fel": "Etwas ist schiefgelaufen – versuch es erneut."
+  },
+  "typdesc": {
+    "lagforslag": "Gesetze, Steuern und nationale Politik",
+    "myndighet": "Zentralbank, Rechnungshof u. a.",
+    "region": "Gesundheit, Zahnpflege, Nahverkehr",
+    "kommunbeslut": "Schule, Pflege, Wasser, Baugenehmigungen",
+    "omvarld": "EU und international",
+    "marknad": "Börse und Wirtschaft"
   }
 }

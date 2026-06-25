@@ -36,11 +36,12 @@
   "types": {
     "alla": "Alla",
     "nyhet": "Nyheter",
-    "lagforslag": "Lagförslag",
-    "kommunbeslut": "Kommunbeslut",
+    "lagforslag": "Riksdag & regering",
+    "kommunbeslut": "Kommun",
     "omvarld": "EU & omvärld",
-    "myndighet": "Myndigheter",
-    "marknad": "Marknad"
+    "myndighet": "Statliga myndigheter",
+    "marknad": "Marknad",
+    "region": "Region"
   },
   "typebadge": {
     "nyhet": "Nyhet",
@@ -48,7 +49,8 @@
     "kommunbeslut": "Kommun",
     "omvarld": "EU/Omvärld",
     "myndighet": "Myndighet",
-    "marknad": "Marknad"
+    "marknad": "Marknad",
+    "region": "Region"
   },
   "tagtypes": {
     "ämne": "Ämne",
@@ -82,7 +84,7 @@
   },
   "sit": {
     "filter": "Filter",
-    "type": "Typ",
+    "type": "Vem beslutar",
     "all": "Markera alla",
     "none_all": "Avmarkera alla",
     "more": "visa fler",
@@ -283,5 +285,13 @@
     "avbryt": "Avbryt",
     "tack": "Tack för din feedback!",
     "fel": "Något gick fel – försök igen."
+  },
+  "typdesc": {
+    "lagforslag": "Lagar, skatt och nationell politik",
+    "myndighet": "Riksbanken, Riksrevisionen m.fl.",
+    "region": "Sjukvård, tandvård, kollektivtrafik",
+    "kommunbeslut": "Skola, omsorg, vatten, bygglov",
+    "omvarld": "EU och internationellt",
+    "marknad": "Börs och ekonomi"
   }
 }
