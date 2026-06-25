@@ -1128,5 +1128,15 @@
     "etikett": "SBN",
     "typ": "organisation",
     "antal": 1
+  },
+  "kramfors": {
+    "etikett": "Kramfors",
+    "typ": "plats",
+    "antal": 1
+  },
+  "overformyndarnamnden-harnosand-kramfors": {
+    "etikett": "Överförmyndarnämnden Härnösand Kramfors",
+    "typ": "organisation",
+    "antal": 1
   }
 }

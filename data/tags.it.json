@@ -1033,5 +1033,15 @@
     "etikett": "SBN",
     "typ": "organisation",
     "antal": 1
+  },
+  "kramfors": {
+    "etikett": "Kramfors.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "overformyndarnamnden-harnosand-kramfors": {
+    "etikett": "Commissione di tutela dei minori di Härnösand e Kramfors.",
+    "typ": "organisation",
+    "antal": 1
   }
 }

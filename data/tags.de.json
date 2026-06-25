@@ -1093,5 +1093,15 @@
     "etikett": "SBN",
     "typ": "organisation",
     "antal": 1
+  },
+  "kramfors": {
+    "etikett": "Kramfors",
+    "typ": "plats",
+    "antal": 1
+  },
+  "overformyndarnamnden-harnosand-kramfors": {
+    "etikett": "Das Vormundschaftsgericht von Härnösand und Kramfors.",
+    "typ": "organisation",
+    "antal": 1
   }
 }

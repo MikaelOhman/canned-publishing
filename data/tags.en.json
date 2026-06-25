@@ -1103,5 +1103,15 @@
     "etikett": "SBN",
     "typ": "organisation",
     "antal": 1
+  },
+  "kramfors": {
+    "etikett": "Kramfors",
+    "typ": "plats",
+    "antal": 1
+  },
+  "overformyndarnamnden-harnosand-kramfors": {
+    "etikett": "The Board of Guardianship, Härnösand, Kramfors.",
+    "typ": "organisation",
+    "antal": 1
   }
 }
