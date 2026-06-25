@@ -748,5 +748,15 @@
     "etikett": "لجنة الأنشطة الثقافية والترفيهية.",
     "typ": "organisation",
     "antal": 1
+  },
+  "arjeplog": {
+    "etikett": "Arjeplog.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "ks-digitalt": {
+    "etikett": "Ks digitalt:\n\n(لا يوجد نص باللغة السويدية ليتم ترجمته. يرجى تزويدي بالنص الذي تريد ترجمته.)",
+    "typ": "organisation",
+    "antal": 1
   }
 }
