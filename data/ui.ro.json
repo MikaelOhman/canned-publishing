@@ -256,5 +256,19 @@
     "varnpliktig": "Serviciu militar / apărare",
     "digital_ovan": "Puțin familiarizat cu digitalul",
     "bredbandsberoende": "Dependent de internet de bandă largă"
+  },
+  "konto": {
+    "rubrik": "Cont (salvează setările)",
+    "namn": "Nume utilizator",
+    "losen": "Parolă",
+    "logga_in": "Autentificare",
+    "skapa": "Creează cont",
+    "logga_ut": "Deconectare",
+    "inloggad": "Conectat ca",
+    "glomt": "Ai uitat parola? Creează un cont nou.",
+    "fyll": "Introdu numele de utilizator și parola.",
+    "finns": "Nume de utilizator deja folosit.",
+    "felinlogg": "Nume de utilizator sau parolă greșite.",
+    "kort": "Prea scurt."
   }
 }

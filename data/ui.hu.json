@@ -256,5 +256,19 @@
     "varnpliktig": "Katonai szolgálat / védelem",
     "digital_ovan": "Digitálisan kevésbé jártas",
     "bredbandsberoende": "Szélessávtól függő"
+  },
+  "konto": {
+    "rubrik": "Fiók (beállítások mentése)",
+    "namn": "Felhasználónév",
+    "losen": "Jelszó",
+    "logga_in": "Bejelentkezés",
+    "skapa": "Fiók létrehozása",
+    "logga_ut": "Kijelentkezés",
+    "inloggad": "Bejelentkezve mint",
+    "glomt": "Elfelejtetted a jelszót? Hozz létre új fiókot.",
+    "fyll": "Add meg a felhasználónevet és jelszót.",
+    "finns": "A felhasználónév foglalt.",
+    "felinlogg": "Hibás felhasználónév vagy jelszó.",
+    "kort": "Túl rövid."
   }
 }

@@ -256,5 +256,19 @@
     "varnpliktig": "Dienstplicht / defensie",
     "digital_ovan": "Digitaal onervaren",
     "bredbandsberoende": "Afhankelijk van breedband"
+  },
+  "konto": {
+    "rubrik": "Account (instellingen opslaan)",
+    "namn": "Gebruikersnaam",
+    "losen": "Wachtwoord",
+    "logga_in": "Inloggen",
+    "skapa": "Account aanmaken",
+    "logga_ut": "Uitloggen",
+    "inloggad": "Ingelogd als",
+    "glomt": "Wachtwoord vergeten? Maak gewoon een nieuw account.",
+    "fyll": "Vul gebruikersnaam en wachtwoord in.",
+    "finns": "Gebruikersnaam al in gebruik.",
+    "felinlogg": "Onjuiste gebruikersnaam of wachtwoord.",
+    "kort": "Te kort."
   }
 }

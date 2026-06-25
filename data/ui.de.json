@@ -256,5 +256,19 @@
     "varnpliktig": "Wehrpflichtig / Verteidigung",
     "digital_ovan": "Digital wenig erfahren",
     "bredbandsberoende": "Breitbandabhängig"
+  },
+  "konto": {
+    "rubrik": "Konto (Einstellungen speichern)",
+    "namn": "Benutzername",
+    "losen": "Passwort",
+    "logga_in": "Anmelden",
+    "skapa": "Konto erstellen",
+    "logga_ut": "Abmelden",
+    "inloggad": "Angemeldet als",
+    "glomt": "Passwort vergessen? Erstelle einfach ein neues Konto.",
+    "fyll": "Benutzername und Passwort eingeben.",
+    "finns": "Benutzername vergeben.",
+    "felinlogg": "Falscher Benutzername oder Passwort.",
+    "kort": "Zu kurz."
   }
 }

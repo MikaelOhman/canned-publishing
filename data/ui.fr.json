@@ -256,5 +256,19 @@
     "varnpliktig": "Service militaire / défense",
     "digital_ovan": "Peu à l'aise avec le numérique",
     "bredbandsberoende": "Dépendant du haut débit"
+  },
+  "konto": {
+    "rubrik": "Compte (enregistrer vos réglages)",
+    "namn": "Nom d'utilisateur",
+    "losen": "Mot de passe",
+    "logga_in": "Se connecter",
+    "skapa": "Créer un compte",
+    "logga_ut": "Se déconnecter",
+    "inloggad": "Connecté en tant que",
+    "glomt": "Mot de passe oublié ? Créez un nouveau compte.",
+    "fyll": "Saisissez identifiant et mot de passe.",
+    "finns": "Nom d'utilisateur déjà pris.",
+    "felinlogg": "Identifiant ou mot de passe incorrect.",
+    "kort": "Trop court."
   }
 }

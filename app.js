@@ -7,7 +7,7 @@ const LS = { get:(k,d)=>localStorage.getItem('cp_'+k)||d, set:(k,v)=>localStorag
 const state = { lang:null, sprak:[], ui:{}, index:[], tags:{}, query:'', typ:'alla', visa:30,
   axlar:new Set(), axdef:[], grupper:[], gruppnamn:{}, lagernamn:{}, lager:'privat',
   openGroups:new Set(['__typ']), mer:new Set(), filterQ:'', _akt:[],
-  ort:{privat:new Set(), foretag:new Set()}, orter:[], ortQ:'' };
+  ort:{privat:new Set(), foretag:new Set()}, orter:[], ortQ:'', konto:{namn:null, token:null} };
 const PAGE = 30;
 
 const THEME_STD = ['dark','light','sepia','midnatt','nord','dracula','solarized'];
@@ -34,7 +34,11 @@ const UIDEF = {sub:"Multilingual news",search_label:"Search",search_ph:"Type a w
     clear:"Clear",share_btn:"Share ⤴",sharehelp:"Copy this link and paste it in the address bar on another device, or bookmark it.",
     copy:"Copy link",copied:"Copied!",apply:"Show",affects:"Affects you",high:"a lot",mid:"somewhat",low:"a little",
     ort_privat:"Where do you live?",ort_foretag:"Where is your business?",ort_ph:"Search municipality…",
-    ort_hint:"Municipal decisions are filtered to your municipality."}};
+    ort_hint:"Municipal decisions are filtered to your municipality."},
+  konto:{rubrik:"Account (save your settings)",namn:"Username",losen:"Password",logga_in:"Log in",skapa:"Create account",
+    logga_ut:"Log out",inloggad:"Logged in as",glomt:"Forgot your password? Just create a new account.",
+    fyll:"Enter username and password.",finns:"Username taken.",felinlogg:"Wrong username or password.",kort:"Too short.",
+    sparad:"Saved"}};
 const ui = () => state.ui;
 
 async function getJSON(url){ const r = await fetch(url); if(!r.ok) throw new Error(url); return r.json(); }
@@ -67,6 +71,7 @@ function applyUI(){
   $('#rsslank').href = `feed.${state.lang}.xml`;
   const alt = $('#rss-alt'); if(alt) alt.href = `feed.${state.lang}.xml`;
   $('#filter-sok').placeholder = u.search_ph;
+  renderKonto();
 }
 
 /* ── Faset-sidofält: lager (privat/företag) + livssituations-axlar ── */
@@ -79,12 +84,12 @@ function inLager(id){ const ax=axDef(id); return !!ax && (ax.lager===state.lager
 function aktivaAxlar(){ return [...state.axlar].filter(inLager); }      // valda axlar i aktuellt lager
 function relScore(a){ const akt=state._akt; if(!akt.length||!a.relevans) return 0;
   let m=0; for(const id of akt){ const v=a.relevans[id]||0; if(v>m) m=v; } return m; }
-function sparaAxlar(){ LS.set('axlar',[...state.axlar].join('.')); }
+function sparaAxlar(){ LS.set('axlar',[...state.axlar].join('.')); autospar(); }
 function clearSit(){ state.axlar.clear(); state.typ='alla'; sparaAxlar(); renderSidebar(); state.visa=PAGE; renderList(); }
 
 /* ── Plats: kommunbeslut filtreras till användarens kommun(er) per lager ── */
 function ortFor(){ return state.ort[state.lager]; }
-function sparaOrt(){ LS.set('ort_'+state.lager, [...ortFor()].join(',')); }
+function sparaOrt(){ LS.set('ort_'+state.lager, [...ortFor()].join(',')); autospar(); }
 function ortNamn(slug){ const o=state.orter.find(x=>x.slug===slug); return o?o.namn:slug; }
 function artKommun(a){ for(const t of (a.taggar||[])) if((state.tags[t]||{}).typ==='plats') return t; return null; }
 function renderOrt(){
@@ -156,7 +161,7 @@ function renderSidebar(){
   renderOrt();
 
   $('#lager-box').querySelectorAll('.lager-val button').forEach(b=>b.addEventListener('click',()=>{
-    state.lager=b.dataset.lager; LS.set('lager',state.lager); renderSidebar(); state.visa=PAGE; renderList(); }));
+    state.lager=b.dataset.lager; LS.set('lager',state.lager); autospar(); renderSidebar(); state.visa=PAGE; renderList(); }));
   $('#facets').querySelectorAll('input[name="typ"]').forEach(r=>r.addEventListener('change',()=>{
     state.typ=r.value; state.visa=PAGE; renderSidebar(); renderList(); }));
   $('#facets').querySelectorAll('input[data-ax]').forEach(c=>c.addEventListener('change',()=>{
@@ -189,27 +194,82 @@ function renderShareBox(){
   $('#share-copy').addEventListener('click',()=>{ const i=$('#share-url'); i.select(); navigator.clipboard?.writeText(i.value);
     const b=$('#share-copy'); b.textContent=s.copied; setTimeout(()=>b.textContent=s.copy,1500); });
 }
-/* delbar kod: kompakt base64url av {a:[axlar],g:lager,l,t,x,f} */
+/* Inställnings-objekt – delas av delbar kod OCH konto-synk */
+function samlaInst(){
+  return {a:[...state.axlar],g:state.lager,l:state.lang,t:LS.get('tema','dark'),x:LS.get('text','normal'),
+    f:LS.get('font','standard'),op:[...state.ort.privat],of:[...state.ort.foretag]};
+}
+function applyInst(j){
+  if(!j) return null;
+  state.axlar.clear(); state.ort.privat.clear(); state.ort.foretag.clear();
+  if(Array.isArray(j.a)) j.a.forEach(x=>state.axlar.add(x));
+  if(Array.isArray(j.op)) j.op.forEach(s=>state.ort.privat.add(s));
+  if(Array.isArray(j.of)) j.of.forEach(s=>state.ort.foretag.add(s));
+  LS.set('axlar',[...state.axlar].join('.'));
+  LS.set('ort_privat',[...state.ort.privat].join(',')); LS.set('ort_foretag',[...state.ort.foretag].join(','));
+  if(j.g){ state.lager=j.g; LS.set('lager',j.g); }
+  if(j.l) LS.set('lang', j.l);
+  if(j.t){ LS.set('tema',j.t); document.documentElement.setAttribute('data-theme',j.t); }
+  if(j.x){ LS.set('text',j.x); document.documentElement.setAttribute('data-text',j.x); }
+  if(j.f){ LS.set('font',j.f); document.documentElement.setAttribute('data-font',j.f); }
+  return j.l || null;
+}
+/* delbar kod: kompakt base64url av inställnings-objektet */
 function kodaInst(){
-  const o={a:[...state.axlar],g:state.lager,l:state.lang,t:LS.get('tema','dark'),x:LS.get('text','normal'),f:LS.get('font','standard'),op:[...state.ort.privat],of:[...state.ort.foretag]};
-  try { return btoa(unescape(encodeURIComponent(JSON.stringify(o)))).replace(/\+/g,'-').replace(/\//g,'_').replace(/=+$/,''); }
+  try { return btoa(unescape(encodeURIComponent(JSON.stringify(samlaInst())))).replace(/\+/g,'-').replace(/\//g,'_').replace(/=+$/,''); }
   catch(e){ return ''; }
 }
 function avkodaInst(kod){
-  try {
-    const j=JSON.parse(decodeURIComponent(escape(atob(kod.replace(/-/g,'+').replace(/_/g,'/')))));
-    if(Array.isArray(j.a)) j.a.forEach(x=>state.axlar.add(x));
-    if(Array.isArray(j.op)) j.op.forEach(s=>state.ort.privat.add(s));
-    if(Array.isArray(j.of)) j.of.forEach(s=>state.ort.foretag.add(s));
-    if(j.op||j.of){ LS.set('ort_privat',[...state.ort.privat].join(',')); LS.set('ort_foretag',[...state.ort.foretag].join(',')); }
-    if(j.g) LS.set('lager', j.g);
-    if(j.l) LS.set('lang', j.l);
-    if(j.t){ LS.set('tema',j.t); document.documentElement.setAttribute('data-theme',j.t); }
-    if(j.x){ LS.set('text',j.x); document.documentElement.setAttribute('data-text',j.x); }
-    if(j.f){ LS.set('font',j.f); document.documentElement.setAttribute('data-font',j.f); }
-    return j.l || null;
-  } catch(e){ return null; }
+  try { return applyInst(JSON.parse(decodeURIComponent(escape(atob(kod.replace(/-/g,'+').replace(/_/g,'/')))))); }
+  catch(e){ return null; }
 }
+
+/* ── Konto (overifierat) – spara inställningar via Netlify Function ── */
+function kontoT(){ const s=sitT(); return s; }
+async function api(action, body){
+  try {
+    const r=await fetch('/.netlify/functions/konto',{method:'POST',headers:{'content-type':'application/json'},
+      body:JSON.stringify({action, ...body})});
+    return await r.json();
+  } catch(e){ return {error:'natverk'}; }
+}
+let _sparTimer=null;
+function autospar(){
+  if(!state.konto.token) return;
+  clearTimeout(_sparTimer);
+  _sparTimer=setTimeout(()=>{ api('spara',{namn:state.konto.namn, token:state.konto.token, settings:samlaInst()}); }, 1200);
+}
+function renderKonto(){
+  const el=$('#konto'); if(!el) return; const u=ui();
+  const k=(u.konto)||UIDEF.konto;
+  if(state.konto.namn){
+    el.innerHTML=`<div class="konto-in">${esc(k.inloggad)} <b>${esc(state.konto.namn)}</b></div>
+      <button class="konto-btn" id="k-ut">${esc(k.logga_ut)}</button>`;
+    $('#k-ut').addEventListener('click', loggaUt);
+  } else {
+    el.innerHTML=`<div class="konto-lbl">${esc(k.rubrik)}</div>
+      <input id="k-namn" placeholder="${esc(k.namn)}" autocomplete="username">
+      <input id="k-losen" type="password" placeholder="${esc(k.losen)}" autocomplete="current-password">
+      <div class="konto-rad"><button class="konto-btn primar" id="k-in">${esc(k.logga_in)}</button>
+        <button class="konto-btn" id="k-ny">${esc(k.skapa)}</button></div>
+      <p class="konto-hint">${esc(k.glomt)}</p><p class="konto-fel" id="k-fel"></p>`;
+    $('#k-in').addEventListener('click',()=>kontoAuth('login'));
+    $('#k-ny').addEventListener('click',()=>kontoAuth('register'));
+  }
+}
+async function kontoAuth(action){
+  const namn=$('#k-namn').value.trim(), losen=$('#k-losen').value;
+  const fel=$('#k-fel'); const k=(ui().konto)||UIDEF.konto;
+  if(!namn||!losen){ if(fel) fel.textContent=k.fyll; return; }
+  if(fel) fel.textContent='…';
+  const r=await api(action,{namn, losen, settings:samlaInst()});
+  if(r.error){ if(fel) fel.textContent={finns:k.finns,fel:k.felinlogg,kort:k.kort}[r.error]||k.felinlogg; return; }
+  state.konto={namn:r.namn, token:r.token}; LS.set('konto',r.namn); LS.set('token',r.token);
+  if(r.settings && Object.keys(r.settings).length) applyInst(r.settings);
+  renderKonto();
+  await loadLanguage(LS.get('lang', state.lang));   // applicera ev. nytt språk + rendera om allt
+}
+function loggaUt(){ state.konto={namn:null,token:null}; LS.set('konto',''); LS.set('token',''); renderKonto(); }
 
 /* mobil off-canvas */
 function openDrawer(){ $('#layout').classList.add('filter-open'); $('#backdrop').classList.remove('hidden'); $('#filter-toggle').setAttribute('aria-expanded','true'); }
@@ -225,10 +285,17 @@ async function boot(){
   try { const ax=await getJSON('data/axlar.json'); state.axdef=ax.axlar||[]; state.grupper=ax.grupper||[]; state.gruppnamn=ax.gruppnamn||{}; state.lagernamn=ax.lagernamn||{}; } catch(e){}
   try { state.orter=await getJSON('data/orter.json'); } catch(e){}
   ['privat','foretag'].forEach(l=> LS.get('ort_'+l,'').split(',').filter(Boolean).forEach(s=>state.ort[l].add(s)));
+  // konto: hämta sparade inställningar (om inloggad och ingen delbar kod i URL)
+  state.konto.namn=LS.get('konto','')||null; state.konto.token=LS.get('token','')||null;
+  if(!kodLang && state.konto.token){
+    const r=await api('load',{namn:state.konto.namn, token:state.konto.token});
+    if(r && r.ok){ if(r.settings && Object.keys(r.settings).length){ const cl=applyInst(r.settings); if(cl) kodLang=cl; } }
+    else { state.konto={namn:null,token:null}; LS.set('konto',''); LS.set('token',''); }
+  }
 
-  $('#tema').addEventListener('change', e=>{ document.documentElement.setAttribute('data-theme', e.target.value); LS.set('tema', e.target.value); });
-  $('#text').addEventListener('change', e=>{ document.documentElement.setAttribute('data-text', e.target.value); LS.set('text', e.target.value); });
-  $('#font').addEventListener('change', e=>{ document.documentElement.setAttribute('data-font', e.target.value); LS.set('font', e.target.value); });
+  $('#tema').addEventListener('change', e=>{ document.documentElement.setAttribute('data-theme', e.target.value); LS.set('tema', e.target.value); autospar(); });
+  $('#text').addEventListener('change', e=>{ document.documentElement.setAttribute('data-text', e.target.value); LS.set('text', e.target.value); autospar(); });
+  $('#font').addEventListener('change', e=>{ document.documentElement.setAttribute('data-font', e.target.value); LS.set('font', e.target.value); autospar(); });
   $('#sok').addEventListener('input', e=>{ state.query=e.target.value.trim().toLowerCase(); state.visa=PAGE; renderSidebar(); renderList(); });
   $('#filter-sok').addEventListener('input', e=>{ state.filterQ=e.target.value.trim(); renderSidebar(); });
   $('#filter-toggle').addEventListener('click', openDrawer);

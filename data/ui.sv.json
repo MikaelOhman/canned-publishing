@@ -256,5 +256,19 @@
     "varnpliktig": "Värnplikt / försvar",
     "digital_ovan": "Digitalt ovan",
     "bredbandsberoende": "Beroende av bredband"
+  },
+  "konto": {
+    "rubrik": "Konto (spara dina inställningar)",
+    "namn": "Användarnamn",
+    "losen": "Lösenord",
+    "logga_in": "Logga in",
+    "skapa": "Skapa konto",
+    "logga_ut": "Logga ut",
+    "inloggad": "Inloggad som",
+    "glomt": "Glömt lösenordet? Skapa bara ett nytt konto.",
+    "fyll": "Fyll i användarnamn och lösenord.",
+    "finns": "Användarnamnet är taget.",
+    "felinlogg": "Fel användarnamn eller lösenord.",
+    "kort": "För kort."
   }
 }

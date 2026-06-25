@@ -256,5 +256,19 @@
     "varnpliktig": "Conscription / defence",
     "digital_ovan": "Limited digital skills",
     "bredbandsberoende": "Dependent on broadband"
+  },
+  "konto": {
+    "rubrik": "Account (save your settings)",
+    "namn": "Username",
+    "losen": "Password",
+    "logga_in": "Log in",
+    "skapa": "Create account",
+    "logga_ut": "Log out",
+    "inloggad": "Logged in as",
+    "glomt": "Forgot your password? Just create a new account.",
+    "fyll": "Enter username and password.",
+    "finns": "Username taken.",
+    "felinlogg": "Wrong username or password.",
+    "kort": "Too short."
   }
 }

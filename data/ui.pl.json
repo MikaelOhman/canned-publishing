@@ -256,5 +256,19 @@
     "varnpliktig": "Służba wojskowa / obronność",
     "digital_ovan": "Mało zaznajomiony z cyfrowym",
     "bredbandsberoende": "Zależny od szerokopasmowego internetu"
+  },
+  "konto": {
+    "rubrik": "Konto (zapisz ustawienia)",
+    "namn": "Nazwa użytkownika",
+    "losen": "Hasło",
+    "logga_in": "Zaloguj się",
+    "skapa": "Utwórz konto",
+    "logga_ut": "Wyloguj się",
+    "inloggad": "Zalogowano jako",
+    "glomt": "Nie pamiętasz hasła? Po prostu utwórz nowe konto.",
+    "fyll": "Podaj nazwę użytkownika i hasło.",
+    "finns": "Nazwa użytkownika zajęta.",
+    "felinlogg": "Błędna nazwa użytkownika lub hasło.",
+    "kort": "Za krótkie."
   }
 }

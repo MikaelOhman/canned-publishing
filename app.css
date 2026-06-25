@@ -250,6 +250,18 @@ select:focus-visible,.search input:focus-visible,.chip:focus-visible,.card:focus
 .share-box button{background:var(--bg3);border:1px solid var(--line);color:var(--txt);border-radius:6px;padding:6px 10px;cursor:pointer;white-space:nowrap}
 .side-apply{display:none}
 
+/* konto i inställningspanelen */
+.konto{border-top:1px solid var(--line);padding-top:10px;margin-top:4px;display:flex;flex-direction:column;gap:6px}
+.konto-lbl{font-size:.8rem;font-weight:600;color:var(--txt2)}
+.konto input{background:var(--bg);border:1px solid var(--line);border-radius:7px;padding:6px 9px;color:var(--txt);font-size:.85rem}
+.konto-rad{display:flex;gap:6px}
+.konto-btn{flex:1;background:var(--bg3);border:1px solid var(--line);color:var(--txt);border-radius:7px;padding:6px 8px;cursor:pointer;font-size:.82rem;white-space:nowrap}
+.konto-btn.primar{background:var(--ac);color:#fff;border-color:var(--ac)}
+.konto-btn:hover{border-color:var(--ac)}
+.konto-in{font-size:.85rem;color:var(--txt2)}
+.konto-hint{font-size:.74rem;color:var(--txt3);margin:2px 0 0}
+.konto-fel{font-size:.78rem;color:var(--no,#f85149);margin:0;min-height:1em}
+
 .rel{letter-spacing:1px;font-size:.7rem;color:var(--ac)}
 .rel1{color:var(--txt3)}.rel2{color:var(--ac)}.rel3{color:var(--ac2)}
 .card .toprow{display:flex;align-items:center;gap:8px}
