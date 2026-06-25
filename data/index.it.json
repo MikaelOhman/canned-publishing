@@ -7859,6 +7859,22 @@
     }
   },
   {
+    "id": "ange-kommunstyrelsen-2025-11-21",
+    "typ": "kommunbeslut",
+    "titel": "Giunta comunale, Comune di Ånge, 21 novembre 2025.",
+    "ingress": "La giunta comunale di Ånge ha proposto la vendita di una parte della proprietà identificata con il numero catastale Ovansjö 2:104 alla società Alby Ptx AB. La decisione sarà ora sottoposta al consiglio comunale per una decisione definitiva.",
+    "datum": "2025-11-21",
+    "kalla": "Ånge kommun",
+    "kalla_url": "https://moten.ange.se/committees/kommunstyrelsen/mote-2025-11-21",
+    "taggar": [
+      "ange",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "b_fastighet": 3
+    }
+  },
+  {
     "id": "bollebygd-kommunfullmaktige-2025-11-20",
     "typ": "kommunbeslut",
     "titel": "Consiglio comunale, Comune di Bollebygd, 20 novembre 2025.",
@@ -12062,6 +12078,29 @@
       "kollektiv": 3,
       "konsument": 3,
       "kultur": 3
+    }
+  },
+  {
+    "id": "ange-kommunfullmaktige-2024-10-28",
+    "typ": "kommunbeslut",
+    "titel": "Consiglio comunale, Comune di Ånge, 28 ottobre 2024.",
+    "ingress": "Nel comune di Ånge, i politici hanno discusso diverse proposte presentate dai cittadini, tra cui la possibilità di effettuare un'indagine sull'ambiente di lavoro tramite una società di ricerca come SIFO. Sono state inoltre affrontate temati",
+    "datum": "2024-10-28",
+    "kalla": "Ånge kommun",
+    "kalla_url": "https://moten.ange.se/committees/kommunfullmaktige/mote-2024-10-28",
+    "taggar": [
+      "ange",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_industri": 3,
+      "b_bygg": 3,
+      "b_energi": 3,
+      "arbetsmiljo": 3,
+      "mark_bygglov": 3,
+      "bygger": 3,
+      "glesbygd": 3
     }
   },
   {

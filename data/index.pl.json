@@ -7875,6 +7875,22 @@
     }
   },
   {
+    "id": "ange-kommunstyrelsen-2025-11-21",
+    "typ": "kommunbeslut",
+    "titel": "Komisja ds. spraw gminnych, gmina Ånge, 21 listopada 2025.",
+    "ingress": "Komisja ds. spraw miejskich w Ånge zaproponowała sprzedaż części nieruchomości o numerze ewidencyjnym Ovansjö 2:104 firmie Alby Ptx AB. Decyzja ta zostanie teraz przekazana do rady miejskiej w celu podjęcia ostatecznej decyzji.",
+    "datum": "2025-11-21",
+    "kalla": "Ånge kommun",
+    "kalla_url": "https://moten.ange.se/committees/kommunstyrelsen/mote-2025-11-21",
+    "taggar": [
+      "ange",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "b_fastighet": 3
+    }
+  },
+  {
     "id": "bollebygd-kommunfullmaktige-2025-11-20",
     "typ": "kommunbeslut",
     "titel": "Uchwała Rady Miejskiej, Gmina Bollebygd, 20 listopada 2025 roku.",
@@ -12078,6 +12094,29 @@
       "kollektiv": 3,
       "konsument": 3,
       "kultur": 3
+    }
+  },
+  {
+    "id": "ange-kommunfullmaktige-2024-10-28",
+    "typ": "kommunbeslut",
+    "titel": "Uchwała Rady Miejskiej, Gmina Ånge, 28.10.2024.",
+    "ingress": "W gminie Ånge politycy rozważali różne propozycje zgłoszone przez mieszkańców, w tym przeprowadzenie badania opinii na temat warunków pracy przy użyciu metody SIFO. Rozmawiano również o planowanych drogach, siłowniach na świeżym powietrzu o",
+    "datum": "2024-10-28",
+    "kalla": "Ånge kommun",
+    "kalla_url": "https://moten.ange.se/committees/kommunfullmaktige/mote-2024-10-28",
+    "taggar": [
+      "ange",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_industri": 3,
+      "b_bygg": 3,
+      "b_energi": 3,
+      "arbetsmiljo": 3,
+      "mark_bygglov": 3,
+      "bygger": 3,
+      "glesbygd": 3
     }
   },
   {

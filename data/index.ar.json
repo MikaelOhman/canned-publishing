@@ -7843,6 +7843,22 @@
     }
   },
   {
+    "id": "ange-kommunstyrelsen-2025-11-21",
+    "typ": "kommunbeslut",
+    "titel": "مجلس بلدية آنغه، تاريخ 21 نوفمبر 2025.",
+    "ingress": "اقترحت لجنة الشؤون البلدية في مدينة أنغه بيع جزء من العقار رقم Ovansjö 2:104 إلى الشركة Alby Ptx AB. سيتم الآن إحالة هذا القرار إلى مجلس المدينة لاتخاذ قرار نهائي بشأنه.",
+    "datum": "2025-11-21",
+    "kalla": "Ånge kommun",
+    "kalla_url": "https://moten.ange.se/committees/kommunstyrelsen/mote-2025-11-21",
+    "taggar": [
+      "ange",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "b_fastighet": 3
+    }
+  },
+  {
     "id": "bollebygd-kommunfullmaktige-2025-11-20",
     "typ": "kommunbeslut",
     "titel": "اجتماع مجلس مدينة بولليبيغد، تاريخ 2025-11-20.",
@@ -11980,6 +11996,29 @@
       "kollektiv": 3,
       "konsument": 3,
       "kultur": 3
+    }
+  },
+  {
+    "id": "ange-kommunfullmaktige-2024-10-28",
+    "typ": "kommunbeslut",
+    "titel": "إلى مجلس مدينة آنغه، تاريخ 28 أكتوبر 2024.",
+    "ingress": "في بلدية أنغه، ناقش السياسيون عدة مقترحات قدمها السكان، بما في ذلك اقتراح بإجراء دراسة حول بيئة العمل باستخدام استبيان من شركة SIFO. كما تم الحديث عن مشاريع مستقبلية تتعلق بالطرق، وصالات الألعاب الرياضية الخارجية، والطاقة الكهرومائية في الم",
+    "datum": "2024-10-28",
+    "kalla": "Ånge kommun",
+    "kalla_url": "https://moten.ange.se/committees/kommunfullmaktige/mote-2024-10-28",
+    "taggar": [
+      "ange",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_industri": 3,
+      "b_bygg": 3,
+      "b_energi": 3,
+      "arbetsmiljo": 3,
+      "mark_bygglov": 3,
+      "bygger": 3,
+      "glesbygd": 3
     }
   },
   {

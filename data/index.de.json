@@ -7889,6 +7889,22 @@
     }
   },
   {
+    "id": "ange-kommunstyrelsen-2025-11-21",
+    "typ": "kommunbeslut",
+    "titel": "Gemeindeverwaltungsrat, Gemeinde Ånge, 21. November 2025.",
+    "ingress": "Der Gemeinderat von Ånge hat vorgeschlagen, einen Teil des Grundstücks Ovansjö 2:104 an das Unternehmen Alby Ptx AB zu verkaufen. Dieser Vorschlag wird nun an die Stadtverordnetenversammlung zur endgültigen Entscheidung weitergeleitet.",
+    "datum": "2025-11-21",
+    "kalla": "Ånge kommun",
+    "kalla_url": "https://moten.ange.se/committees/kommunstyrelsen/mote-2025-11-21",
+    "taggar": [
+      "ange",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "b_fastighet": 3
+    }
+  },
+  {
     "id": "bollebygd-kommunfullmaktige-2025-11-20",
     "typ": "kommunbeslut",
     "titel": "Gemeindevertretung, Gemeinde Bollebygd, 20. November 2025.",
@@ -12097,6 +12113,29 @@
       "kollektiv": 3,
       "konsument": 3,
       "kultur": 3
+    }
+  },
+  {
+    "id": "ange-kommunfullmaktige-2024-10-28",
+    "typ": "kommunbeslut",
+    "titel": "Gemeindevertretung, Gemeinde Ånge, 28.10.2024.",
+    "ingress": "In der Gemeinde Ånge haben die Politiker mehrere Vorschläge von Einwohnern diskutiert, darunter die Durchführung einer SIFO-Umfrage zur Untersuchung der Arbeitsbedingungen. Es wurden auch Gespräche über zukünftige Straßen, ein Freiluftgymna",
+    "datum": "2024-10-28",
+    "kalla": "Ånge kommun",
+    "kalla_url": "https://moten.ange.se/committees/kommunfullmaktige/mote-2024-10-28",
+    "taggar": [
+      "ange",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_industri": 3,
+      "b_bygg": 3,
+      "b_energi": 3,
+      "arbetsmiljo": 3,
+      "mark_bygglov": 3,
+      "bygger": 3,
+      "glesbygd": 3
     }
   },
   {

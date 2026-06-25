@@ -7811,6 +7811,22 @@
     }
   },
   {
+    "id": "ange-kommunstyrelsen-2025-11-21",
+    "typ": "kommunbeslut",
+    "titel": "Consiliul municipal, comuna Ånge, 21 noiembrie 2025.",
+    "ingress": "Consiliul municipal din Ånge a propus vânzarea unei părți din proprietatea cu numărul cadastral Ovansjö 2:104 către compania Alby Ptx AB. Acum, această propunere va fi transmisă consiliului municipal general pentru o decizie finală.",
+    "datum": "2025-11-21",
+    "kalla": "Ånge kommun",
+    "kalla_url": "https://moten.ange.se/committees/kommunstyrelsen/mote-2025-11-21",
+    "taggar": [
+      "ange",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "b_fastighet": 3
+    }
+  },
+  {
     "id": "bollebygd-kommunfullmaktige-2025-11-20",
     "typ": "kommunbeslut",
     "titel": "Consiliul Municipal al Comunei Bollebygds, 20 noiembrie 2025.",
@@ -11986,6 +12002,29 @@
       "kollektiv": 3,
       "konsument": 3,
       "kultur": 3
+    }
+  },
+  {
+    "id": "ange-kommunfullmaktige-2024-10-28",
+    "typ": "kommunbeslut",
+    "titel": "Consiliul municipal, comuna Ånge, 28 octombrie 2024.",
+    "ingress": "În comuna Ånge, politicienii au discutat despre mai multe propuneri venite din partea locuitorilor, printre care și investigarea condițiilor de muncă printr-un studiu SIFO. De asemenea, s-a discutat despre proiecte viitoare, cum ar fi const",
+    "datum": "2024-10-28",
+    "kalla": "Ånge kommun",
+    "kalla_url": "https://moten.ange.se/committees/kommunfullmaktige/mote-2024-10-28",
+    "taggar": [
+      "ange",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_industri": 3,
+      "b_bygg": 3,
+      "b_energi": 3,
+      "arbetsmiljo": 3,
+      "mark_bygglov": 3,
+      "bygger": 3,
+      "glesbygd": 3
     }
   },
   {

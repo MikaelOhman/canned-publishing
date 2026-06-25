@@ -7789,6 +7789,22 @@
     }
   },
   {
+    "id": "ange-kommunstyrelsen-2025-11-21",
+    "typ": "kommunbeslut",
+    "titel": "Az Ånge önkormányzat kommunális bizottsága, 2025. november 21.",
+    "ingress": "Az Ånge önkormányzat városi tanácsa javasolta, hogy a 2:104 számú ingatlan egy részét értékesítsék az Alby Ptx AB nevű vállalatnak. A döntést most tovább kell küldeni a közgyűlésnek, amely végleges döntést hoz az ügyben.",
+    "datum": "2025-11-21",
+    "kalla": "Ånge kommun",
+    "kalla_url": "https://moten.ange.se/committees/kommunstyrelsen/mote-2025-11-21",
+    "taggar": [
+      "ange",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "b_fastighet": 3
+    }
+  },
+  {
     "id": "bollebygd-kommunfullmaktige-2025-11-20",
     "typ": "kommunbeslut",
     "titel": "Bollebygds község önkormányzatának közgyűlése, 2025. november 20.",
@@ -11976,6 +11992,29 @@
       "kollektiv": 3,
       "konsument": 3,
       "kultur": 3
+    }
+  },
+  {
+    "id": "ange-kommunfullmaktige-2024-10-28",
+    "typ": "kommunbeslut",
+    "titel": "Az Ånge önkormányzat közgyűlése, 2024. október 28.",
+    "ingress": "Ånge önkormányzatban a politikusok számos lakos javaslatát tárgyalta, többek között azt, hogy egy SIFO felmérés segítségével vizsgálják a munkakörülményeket. Emellett a jövőbeli utakról, szabadtéri edzőterekről és a területen telepíthető sz",
+    "datum": "2024-10-28",
+    "kalla": "Ånge kommun",
+    "kalla_url": "https://moten.ange.se/committees/kommunfullmaktige/mote-2024-10-28",
+    "taggar": [
+      "ange",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_industri": 3,
+      "b_bygg": 3,
+      "b_energi": 3,
+      "arbetsmiljo": 3,
+      "mark_bygglov": 3,
+      "bygger": 3,
+      "glesbygd": 3
     }
   },
   {
