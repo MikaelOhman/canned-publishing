@@ -9982,6 +9982,22 @@
     }
   },
   {
+    "id": "ange-kommunstyrelsen-2025-11-17",
+    "typ": "kommunbeslut",
+    "titel": "Municipal Board, Ånge Municipality\nNovember 17, 2025",
+    "ingress": "The municipal board of Ånge has decided not to make a decision regarding the sale of a portion of a property in Ovansjö at this time. The matter will be sent back for further review.",
+    "datum": "2025-11-17",
+    "kalla": "Ånge kommun",
+    "kalla_url": "https://moten.ange.se/committees/kommunstyrelsen/mote-2025-11-17",
+    "taggar": [
+      "ange",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "b_fastighet": 3
+    }
+  },
+  {
     "id": "fagersta-nve-2025-11-13",
     "typ": "kommunbeslut",
     "titel": "NVE, Fagersta Municipality, November 13, 2025.",
@@ -14270,6 +14286,31 @@
       "b_vard": 3,
       "barn": 5,
       "kultur": 3
+    }
+  },
+  {
+    "id": "ange-kommunfullmaktige-2024-06-10",
+    "typ": "kommunbeslut",
+    "titel": "Municipal Council, Ånge Municipality, June 10, 2024.",
+    "ingress": "At the municipal council meeting in Ånge, several important decisions were made regarding finances, new regulations for businesses, and future plans for wind power and preschools. The agenda was also amended to include new proposals for pub",
+    "datum": "2024-06-10",
+    "kalla": "Ånge kommun",
+    "kalla_url": "https://moten.ange.se/committees/kommunfullmaktige/mote-2024-06-10",
+    "taggar": [
+      "ange",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_industri": 3,
+      "b_bygg": 3,
+      "b_fastighet": 3,
+      "b_energi": 5,
+      "finansiering": 3,
+      "barn": 3,
+      "pendlare": 3,
+      "kollektiv": 3,
+      "energikund": 3,
+      "konsument": 3
     }
   },
   {

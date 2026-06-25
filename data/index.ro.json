@@ -9836,6 +9836,22 @@
     }
   },
   {
+    "id": "ange-kommunstyrelsen-2025-11-17",
+    "typ": "kommunbeslut",
+    "titel": "Consiliul municipal, comuna Ånge, 17.11.2025.",
+    "ingress": "Consiliul municipal din Ånge a decis să amâne luarea unei decizii cu privire la vânzarea unei părți dintr-o proprietate situată în Ovansjö. Dosarul va fi retrimis pentru o reexaminare.",
+    "datum": "2025-11-17",
+    "kalla": "Ånge kommun",
+    "kalla_url": "https://moten.ange.se/committees/kommunstyrelsen/mote-2025-11-17",
+    "taggar": [
+      "ange",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "b_fastighet": 3
+    }
+  },
+  {
     "id": "fagersta-nve-2025-11-13",
     "typ": "kommunbeslut",
     "titel": "NVE, Primăria Fagersta, 13 noiembrie 2025.",
@@ -14057,6 +14073,31 @@
       "b_vard": 3,
       "barn": 5,
       "kultur": 3
+    }
+  },
+  {
+    "id": "ange-kommunfullmaktige-2024-06-10",
+    "typ": "kommunbeslut",
+    "titel": "Consiliul municipal, comuna Ånge, 10 iunie 2024.",
+    "ingress": "În cadrul ședinței consiliului municipal din Ånge, au fost luate mai multe decizii importante referitoare la finanțe, la noile reguli privind comerțul și la planurile viitoare pentru energia eoliană și pentru grădinițe. De asemenea, lista d",
+    "datum": "2024-06-10",
+    "kalla": "Ånge kommun",
+    "kalla_url": "https://moten.ange.se/committees/kommunfullmaktige/mote-2024-06-10",
+    "taggar": [
+      "ange",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_industri": 3,
+      "b_bygg": 3,
+      "b_fastighet": 3,
+      "b_energi": 5,
+      "finansiering": 3,
+      "barn": 3,
+      "pendlare": 3,
+      "kollektiv": 3,
+      "energikund": 3,
+      "konsument": 3
     }
   },
   {

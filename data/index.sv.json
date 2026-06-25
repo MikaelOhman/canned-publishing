@@ -9986,6 +9986,22 @@
     }
   },
   {
+    "id": "ange-kommunstyrelsen-2025-11-17",
+    "typ": "kommunbeslut",
+    "titel": "Kommunstyrelsen, Ånge kommun 2025-11-17",
+    "ingress": "Kommunstyrelsen i Ånge har beslutat att inte fatta beslut om att sälja en del av en fastighet i Ovansjö än. Ärendet ska skickas tillbaka för att tittas på en gång till.",
+    "datum": "2025-11-17",
+    "kalla": "Ånge kommun",
+    "kalla_url": "https://moten.ange.se/committees/kommunstyrelsen/mote-2025-11-17",
+    "taggar": [
+      "ange",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "b_fastighet": 3
+    }
+  },
+  {
     "id": "fagersta-nve-2025-11-13",
     "typ": "kommunbeslut",
     "titel": "NVE, Fagersta kommun 2025-11-13",
@@ -14282,6 +14298,31 @@
       "b_vard": 3,
       "barn": 5,
       "kultur": 3
+    }
+  },
+  {
+    "id": "ange-kommunfullmaktige-2024-06-10",
+    "typ": "kommunbeslut",
+    "titel": "Kommunfullmäktige, Ånge kommun 2024-06-10",
+    "ingress": "I kommunfullmäktige i Ånge fattades flera viktiga beslut om ekonomi, nya regler för handel och framtida planer för vindkraft och förskolor. Man ändrade också i listan över ärenden för att lägga till nya förslag om folkomröstning och våldsfö",
+    "datum": "2024-06-10",
+    "kalla": "Ånge kommun",
+    "kalla_url": "https://moten.ange.se/committees/kommunfullmaktige/mote-2024-06-10",
+    "taggar": [
+      "ange",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_industri": 3,
+      "b_bygg": 3,
+      "b_fastighet": 3,
+      "b_energi": 5,
+      "finansiering": 3,
+      "barn": 3,
+      "pendlare": 3,
+      "kollektiv": 3,
+      "energikund": 3,
+      "konsument": 3
     }
   },
   {
