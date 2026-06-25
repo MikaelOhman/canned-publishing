@@ -942,7 +942,7 @@
   "kommunfullmaktiges": {
     "etikett": "Kommunfullmaktiges",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "fagersta": {
     "etikett": "Fagersta",
@@ -1222,6 +1222,11 @@
   "kommunfullmaktige-kf": {
     "etikett": "Kommunfullmäktige KF",
     "typ": "organisation",
+    "antal": 1
+  },
+  "mellerud": {
+    "etikett": "Melleruds",
+    "typ": "plats",
     "antal": 1
   }
 }

@@ -842,7 +842,7 @@
   "kommunfullmaktiges": {
     "etikett": "مجلس شهر.",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "fagersta": {
     "etikett": "Fagersta",
@@ -1122,6 +1122,11 @@
   "kommunfullmaktige-kf": {
     "etikett": "شوراى شهر (یا مجلس شهر)",
     "typ": "organisation",
+    "antal": 1
+  },
+  "mellerud": {
+    "etikett": "Melleruds",
+    "typ": "plats",
     "antal": 1
   }
 }

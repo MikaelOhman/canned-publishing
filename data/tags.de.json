@@ -907,7 +907,7 @@
   "kommunfullmaktiges": {
     "etikett": "Gemeindeverwaltungsrat.",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "fagersta": {
     "etikett": "Fagersta.",
@@ -1187,6 +1187,11 @@
   "kommunfullmaktige-kf": {
     "etikett": "Gemeindevertretung (GV)",
     "typ": "organisation",
+    "antal": 1
+  },
+  "mellerud": {
+    "etikett": "Melleruds",
+    "typ": "plats",
     "antal": 1
   }
 }
