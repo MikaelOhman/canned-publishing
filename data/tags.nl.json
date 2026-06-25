@@ -292,12 +292,12 @@
   "kommunfullmaktige": {
     "etikett": "Gemeenteraad.",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "kommunpolitik": {
     "etikett": "Gemeentepolitiek.",
     "typ": "ämne",
-    "antal": 5
+    "antal": 6
   },
   "trafik": {
     "etikett": "Verkeer.",
@@ -312,7 +312,7 @@
   "kommunstyrelsen": {
     "etikett": "Het college van burgemeester en wethouders.",
     "typ": "organisation",
-    "antal": 4
+    "antal": 5
   },
   "kommunal-forvaltning": {
     "etikett": "Gemeentelijke administratie.",
@@ -377,10 +377,25 @@
   "gavle": {
     "etikett": "Gävle\n\nGävle is een stad en gemeente in de provincie Gävleborgs län, in het midden van Zweden. Het is gelegen aan de kust van de Oostzee, ongeveer 150 kilometer ten noorden van Stockholm.\n\nHier zijn enkele interessante feiten over Gävle:\n\n*   Gävle heeft ongeveer 75.000 inwoners.\n*   De stad is ontstaan in de 16e eeuw.\n*   Gävle staat bekend om zijn kerstboom, die elk jaar wordt opgebouwd op het Grote Plein.\n*   De stad heeft een belangrijke haven en een industriële sector.\n*   Gävle heeft een universiteit en een aantal hogescholen.\n\nMeer informatie over Gävle is te vinden op de volgende website: [URL verwijderd]",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "gavle-kommun": {
     "etikett": "Gemeente Gävle",
+    "typ": "organisation",
+    "antal": 2
+  },
+  "kommunalpolitik": {
+    "etikett": "Gemeentelijke politiek.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "ange": {
+    "etikett": "Ånge",
+    "typ": "plats",
+    "antal": 1
+  },
+  "ange-kommun": {
+    "etikett": "Gemeente Ånge",
     "typ": "organisation",
     "antal": 1
   }

@@ -292,12 +292,12 @@
   "kommunfullmaktige": {
     "etikett": "Conseil municipal.",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "kommunpolitik": {
     "etikett": "Politique municipale.",
     "typ": "ämne",
-    "antal": 5
+    "antal": 6
   },
   "trafik": {
     "etikett": "Circulation.",
@@ -312,7 +312,7 @@
   "kommunstyrelsen": {
     "etikett": "Le conseil municipal.",
     "typ": "organisation",
-    "antal": 4
+    "antal": 5
   },
   "kommunal-forvaltning": {
     "etikett": "Administration municipale.",
@@ -377,10 +377,25 @@
   "gavle": {
     "etikett": "Gävle\n\n(No further context was provided, so a simple translation of the name is all that can be offered.)",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "gavle-kommun": {
     "etikett": "Commune de Gävle.",
+    "typ": "organisation",
+    "antal": 2
+  },
+  "kommunalpolitik": {
+    "etikett": "Politique municipale.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "ange": {
+    "etikett": "Ånge.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "ange-kommun": {
+    "etikett": "Commune d'Ånge.",
     "typ": "organisation",
     "antal": 1
   }

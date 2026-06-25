@@ -292,12 +292,12 @@
   "kommunfullmaktige": {
     "etikett": "Consiliul municipal.",
     "typ": "organisation",
-    "antal": 4
+    "antal": 5
   },
   "kommunpolitik": {
     "etikett": "Politica municipală.",
     "typ": "ämne",
-    "antal": 4
+    "antal": 5
   },
   "trafik": {
     "etikett": "Trafic",
@@ -376,6 +376,16 @@
   },
   "gavle-kommun": {
     "etikett": "Comuna Gävle.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "ange": {
+    "etikett": "Ånge",
+    "typ": "plats",
+    "antal": 1
+  },
+  "ange-kommun": {
+    "etikett": "Comuna Ånge.",
     "typ": "organisation",
     "antal": 1
   }

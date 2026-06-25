@@ -292,12 +292,12 @@
   "kommunfullmaktige": {
     "etikett": "مجلس البلدية.",
     "typ": "organisation",
-    "antal": 4
+    "antal": 5
   },
   "kommunpolitik": {
     "etikett": "سياسة البلديات.",
     "typ": "ämne",
-    "antal": 4
+    "antal": 5
   },
   "trafik": {
     "etikett": "حركة المرور.",
@@ -376,6 +376,41 @@
   },
   "gavle-kommun": {
     "etikett": "بلدية غافل.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "umea": {
+    "etikett": "أوميو\n\n(No further context was provided, so this is a simple translation of the name.)",
+    "typ": "plats",
+    "antal": 1
+  },
+  "an": {
+    "etikett": "حتى الآن.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "aldrenamnden": {
+    "etikett": "لجنة كبار السن.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "aldreomsorg": {
+    "etikett": "رعاية كبار السن.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "upphandling": {
+    "etikett": "المشتريات.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "ange": {
+    "etikett": "Ånge",
+    "typ": "plats",
+    "antal": 1
+  },
+  "ange-kommun": {
+    "etikett": "بلدية أنغه.",
     "typ": "organisation",
     "antal": 1
   }

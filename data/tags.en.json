@@ -352,12 +352,12 @@
   "kommunfullmaktige": {
     "etikett": "Municipal council.",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "kommunpolitik": {
     "etikett": "Municipal politics.",
     "typ": "ämne",
-    "antal": 5
+    "antal": 6
   },
   "trafik": {
     "etikett": "Traffic.",
@@ -372,7 +372,7 @@
   "kommunstyrelsen": {
     "etikett": "The Municipal Board.",
     "typ": "organisation",
-    "antal": 3
+    "antal": 4
   },
   "kommunal-forvaltning": {
     "etikett": "Municipal administration.",
@@ -432,10 +432,50 @@
   "gavle": {
     "etikett": "Gävle is a city in Sweden.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "gavle-kommun": {
     "etikett": "Gävle Municipality",
+    "typ": "organisation",
+    "antal": 2
+  },
+  "kommunalpolitik": {
+    "etikett": "Municipal politics.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "umea": {
+    "etikett": "Umeå is a city in northern Sweden, known for its vibrant cultural scene and its proximity to nature. Here are some key facts about Umeå:\n\n*   **Population:** Approximately 140,000 (as of 2023).\n*   **Location:** Västerbotten County, northern Sweden.\n*   **University:** Home to Umeå University, a major research and educational institution.\n*   **Culture:** Umeå was designated European Capital of Culture in 2016, highlighting its rich artistic and cultural heritage.\n*   **Nature:** Surrounded by forests, lakes, and the Bothnian Sea, offering opportunities for outdoor activities.\n*   **Website:** [https://www.umea.se/](https://www.umea.se/)",
+    "typ": "plats",
+    "antal": 1
+  },
+  "an": {
+    "etikett": "ÄN",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "aldrenamnden": {
+    "etikett": "The Committee for the Elderly.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "aldreomsorg": {
+    "etikett": "Elderly care.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "upphandling": {
+    "etikett": "Procurement.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "ange": {
+    "etikett": "Ånge is a municipality located in central Sweden. It offers a variety of outdoor activities, including hiking, fishing, and skiing. The municipality is also home to several historical sites and cultural attractions.\n\nHere are some of the things you can do in Ånge:\n\n* Visit the Ånge Museum, which showcases the history and culture of the region.\n* Explore the beautiful nature reserves, such as the Ångermanälven National Park.\n* Go skiing at one of the many ski resorts in the area.\n* Enjoy a relaxing day at one of the lakes, such as Storsjön.\n* Discover the charming villages and towns that make up the municipality.\n\nÅnge is a great place to visit for anyone who loves nature, history, and culture.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "ange-kommun": {
+    "etikett": "Ånge Municipality",
     "typ": "organisation",
     "antal": 1
   }
