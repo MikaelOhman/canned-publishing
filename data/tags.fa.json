@@ -1143,5 +1143,15 @@
     "etikett": "مُنسترُس",
     "typ": "plats",
     "antal": 1
+  },
+  "munkedal": {
+    "etikett": "Munkedals",
+    "typ": "plats",
+    "antal": 1
+  },
+  "kun-digitalt": {
+    "etikett": "KUN (نسخه دیجیتال)",
+    "typ": "organisation",
+    "antal": 1
   }
 }

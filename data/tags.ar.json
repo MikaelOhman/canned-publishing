@@ -1158,5 +1158,15 @@
     "etikett": "مؤنستروس.",
     "typ": "plats",
     "antal": 1
+  },
+  "munkedal": {
+    "etikett": "Munkedals",
+    "typ": "plats",
+    "antal": 1
+  },
+  "kun-digitalt": {
+    "etikett": "KUN (الإصدار الرقمي)",
+    "typ": "organisation",
+    "antal": 1
   }
 }
