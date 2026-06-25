@@ -11331,6 +11331,27 @@
     }
   },
   {
+    "id": "hylte-kommunfullmaktige-2025-09-16",
+    "typ": "kommunbeslut",
+    "titel": "Actas de la reunión del Ayuntamiento de Hylte, 16 de septiembre de 2025.",
+    "ingress": "El ayuntamiento ha finalizado el informe sobre la renovación de la escuela de Torup. El proyecto resultó ser ligeramente más caro de lo previsto, pero la escuela ya está terminada y lista para ser utilizada.",
+    "datum": "2025-09-16",
+    "kalla": "Hylte kommun",
+    "kalla_url": "https://meetings.hylte.se/committees/kommunfullmaktige/mote-2025-09-16",
+    "taggar": [
+      "hylte",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_konsult": 3,
+      "redovisning": 3,
+      "barn": 3,
+      "hyresgast": 3,
+      "bygger": 3
+    }
+  },
+  {
     "id": "HD0314",
     "typ": "lagforslag",
     "titel": "Presupuesto adicional de modificaciones para 2025: Material de defensa y apoyo adicional a Ucrania.",
