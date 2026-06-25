@@ -1410,6 +1410,27 @@
     }
   },
   {
+    "id": "borgholm-olands-it-namnd-2026-06-11",
+    "typ": "kommunbeslut",
+    "titel": "Az Öland IT bizottsága, Borgholm önkormányzata, 2026. június 11.",
+    "ingress": "Az Öland sziget IT bizottsága felülvizsgálta a költségvetést és a technológiai kérdéseket. A Microsoft termékekkel kapcsolatos alacsonyabb költségeknek köszönhetően a költségvetésben felesleg van, de jelenleg zajlanak változások abban, hogy",
+    "datum": "2026-06-11",
+    "kalla": "Borgholms kommun",
+    "kalla_url": "https://www.borgholm.se/wp-content/uploads/2026/06/Protokoll-Olands-IT-namnd-2026-06-11.pdf",
+    "taggar": [
+      "borgholm",
+      "olands-it-namnd"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_it": 8,
+      "b_konsult": 3,
+      "kollektivavtal": 3,
+      "tillstand": 3,
+      "bredbandsberoende": 3
+    }
+  },
+  {
     "id": "belfast-0610",
     "typ": "nyhet",
     "titel": "Itt Belfastban egy nyakvágási kísérlet történt",

@@ -1457,6 +1457,27 @@
     }
   },
   {
+    "id": "borgholm-olands-it-namnd-2026-06-11",
+    "typ": "kommunbeslut",
+    "titel": "Commissione IT di Öland, Comune di Borgholm, 11 giugno 2026.",
+    "ingress": "La commissione IT dell'isola di Öland ha esaminato gli aspetti economici e tecnici. Si è riscontrato un avanzo di bilancio grazie alla riduzione dei costi dei programmi Microsoft, ma sono in corso anche modifiche all'organizzazione futura d",
+    "datum": "2026-06-11",
+    "kalla": "Borgholms kommun",
+    "kalla_url": "https://www.borgholm.se/wp-content/uploads/2026/06/Protokoll-Olands-IT-namnd-2026-06-11.pdf",
+    "taggar": [
+      "borgholm",
+      "olands-it-namnd"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_it": 8,
+      "b_konsult": 3,
+      "kollektivavtal": 3,
+      "tillstand": 3,
+      "bredbandsberoende": 3
+    }
+  },
+  {
     "id": "belfast-0610",
     "typ": "nyhet",
     "titel": "Tentativo di decapitazione a Belfast",

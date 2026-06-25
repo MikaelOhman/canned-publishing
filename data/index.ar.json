@@ -1442,6 +1442,27 @@
     }
   },
   {
+    "id": "borgholm-olands-it-namnd-2026-06-11",
+    "typ": "kommunbeslut",
+    "titel": "لجنة تكنولوجيا المعلومات في جزيرة أولاند، بلدية بورغهولم، بتاريخ 11 يونيو 2026.",
+    "ingress": "لقد قامت لجنة تكنولوجيا المعلومات في جزيرة أولاند بمراجعة الجوانب المالية والفنية. هناك فائض في الميزانية بفضل انخفاض تكاليف برامج مايكروسوفت، ولكن هناك أيضًا تغييرات جارية في كيفية تنظيم قسم تكنولوجيا المعلومات في المستقبل.",
+    "datum": "2026-06-11",
+    "kalla": "Borgholms kommun",
+    "kalla_url": "https://www.borgholm.se/wp-content/uploads/2026/06/Protokoll-Olands-IT-namnd-2026-06-11.pdf",
+    "taggar": [
+      "borgholm",
+      "olands-it-namnd"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_it": 8,
+      "b_konsult": 3,
+      "kollektivavtal": 3,
+      "tillstand": 3,
+      "bredbandsberoende": 3
+    }
+  },
+  {
     "id": "belfast-0610",
     "typ": "nyhet",
     "titel": "محاولة قتل بشق الرأس في بلفاست",

@@ -1511,6 +1511,27 @@
     }
   },
   {
+    "id": "borgholm-olands-it-namnd-2026-06-11",
+    "typ": "kommunbeslut",
+    "titel": "Olands IT namnd, Borgholms kommun 2026-06-11",
+    "ingress": "IT-nämnden på Öland har gått igenom ekonomi och teknik. Det finns ett överskott i budgeten tack vare lägre kostnader för Microsoft-program, men det pågår även förändringar i hur IT-avdelningen ska vara organiserad framöver.",
+    "datum": "2026-06-11",
+    "kalla": "Borgholms kommun",
+    "kalla_url": "https://www.borgholm.se/wp-content/uploads/2026/06/Protokoll-Olands-IT-namnd-2026-06-11.pdf",
+    "taggar": [
+      "borgholm",
+      "olands-it-namnd"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_it": 8,
+      "b_konsult": 3,
+      "kollektivavtal": 3,
+      "tillstand": 3,
+      "bredbandsberoende": 3
+    }
+  },
+  {
     "id": "belfast-0610",
     "typ": "nyhet",
     "titel": "Här skedde halshuggningsförsök i Belfast",

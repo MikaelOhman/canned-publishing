@@ -1457,6 +1457,27 @@
     }
   },
   {
+    "id": "borgholm-olands-it-namnd-2026-06-11",
+    "typ": "kommunbeslut",
+    "titel": "IT-commissie van Öland, gemeente Borgholm, 11 juni 2026.",
+    "ingress": "De IT-afdeling van Öland heeft een analyse uitgevoerd van de financiën en de technologie. Er is een overschot in het budget, voornamelijk dankzij lagere kosten voor Microsoft-programma's, maar er zijn ook veranderingen gaande in de manier w",
+    "datum": "2026-06-11",
+    "kalla": "Borgholms kommun",
+    "kalla_url": "https://www.borgholm.se/wp-content/uploads/2026/06/Protokoll-Olands-IT-namnd-2026-06-11.pdf",
+    "taggar": [
+      "borgholm",
+      "olands-it-namnd"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_it": 8,
+      "b_konsult": 3,
+      "kollektivavtal": 3,
+      "tillstand": 3,
+      "bredbandsberoende": 3
+    }
+  },
+  {
     "id": "belfast-0610",
     "typ": "nyhet",
     "titel": "Hier vond de poging tot onthoofding plaats in Belfast",

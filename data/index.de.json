@@ -1487,6 +1487,27 @@
     }
   },
   {
+    "id": "borgholm-olands-it-namnd-2026-06-11",
+    "typ": "kommunbeslut",
+    "titel": "IT-Ausschuss von Öland, Gemeinde Borgholm, 11. Juni 2026.",
+    "ingress": "Der IT-Ausschuss von Öland hat die Wirtschaftlichkeit und die Technik geprüft. Es gibt einen Überschuss im Budget, der auf geringere Kosten für Microsoft-Programme zurückzuführen ist. Gleichzeitig laufen Veränderungen hinsichtlich der zukün",
+    "datum": "2026-06-11",
+    "kalla": "Borgholms kommun",
+    "kalla_url": "https://www.borgholm.se/wp-content/uploads/2026/06/Protokoll-Olands-IT-namnd-2026-06-11.pdf",
+    "taggar": [
+      "borgholm",
+      "olands-it-namnd"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_it": 8,
+      "b_konsult": 3,
+      "kollektivavtal": 3,
+      "tillstand": 3,
+      "bredbandsberoende": 3
+    }
+  },
+  {
     "id": "belfast-0610",
     "typ": "nyhet",
     "titel": "Hier fand ein versuchter Enthauptungsvorfall in Belfast statt",

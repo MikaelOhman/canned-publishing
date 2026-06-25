@@ -1454,6 +1454,27 @@
     }
   },
   {
+    "id": "borgholm-olands-it-namnd-2026-06-11",
+    "typ": "kommunbeslut",
+    "titel": "Komitet ds. IT na wyspie Öland, gmina Borgholm, 11 czerwca 2026.",
+    "ingress": "Komisja ds. IT na wyspie Öland przeanalizowała aspekty finansowe i techniczne. W budżecie występuje nadwyżka, co jest wynikiem niższych kosztów związanych z oprogramowaniem Microsoft, jednak trwają również zmiany dotyczące przyszłej organiz",
+    "datum": "2026-06-11",
+    "kalla": "Borgholms kommun",
+    "kalla_url": "https://www.borgholm.se/wp-content/uploads/2026/06/Protokoll-Olands-IT-namnd-2026-06-11.pdf",
+    "taggar": [
+      "borgholm",
+      "olands-it-namnd"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_it": 8,
+      "b_konsult": 3,
+      "kollektivavtal": 3,
+      "tillstand": 3,
+      "bredbandsberoende": 3
+    }
+  },
+  {
     "id": "belfast-0610",
     "typ": "nyhet",
     "titel": "Próba porwania głowy w Belfaście",
