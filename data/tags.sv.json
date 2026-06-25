@@ -377,7 +377,7 @@
   "kommunfullmaktige": {
     "etikett": "Kommunfullmäktige",
     "typ": "organisation",
-    "antal": 65
+    "antal": 66
   },
   "kommunpolitik": {
     "etikett": "Kommunpolitik",
@@ -1007,6 +1007,11 @@
   "socialnamndens": {
     "etikett": "Socialnämndens",
     "typ": "organisation",
+    "antal": 1
+  },
+  "harryda": {
+    "etikett": "Härryda",
+    "typ": "plats",
     "antal": 1
   }
 }

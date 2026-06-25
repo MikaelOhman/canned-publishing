@@ -292,7 +292,7 @@
   "kommunfullmaktige": {
     "etikett": "Consiglio comunale.",
     "typ": "organisation",
-    "antal": 65
+    "antal": 66
   },
   "kommunpolitik": {
     "etikett": "Politica comunale.",
@@ -912,6 +912,11 @@
   "socialnamndens": {
     "etikett": "Servizio Sociale.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "harryda": {
+    "etikett": "Härryda.",
+    "typ": "plats",
     "antal": 1
   }
 }

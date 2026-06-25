@@ -352,7 +352,7 @@
   "kommunfullmaktige": {
     "etikett": "Municipal council.",
     "typ": "organisation",
-    "antal": 65
+    "antal": 66
   },
   "kommunpolitik": {
     "etikett": "Municipal politics.",
@@ -982,6 +982,11 @@
   "socialnamndens": {
     "etikett": "Social Services Department.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "harryda": {
+    "etikett": "Härryda",
+    "typ": "plats",
     "antal": 1
   }
 }

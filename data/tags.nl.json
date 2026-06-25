@@ -292,7 +292,7 @@
   "kommunfullmaktige": {
     "etikett": "Gemeenteraad.",
     "typ": "organisation",
-    "antal": 65
+    "antal": 66
   },
   "kommunpolitik": {
     "etikett": "Gemeentepolitiek.",
@@ -912,6 +912,11 @@
   "socialnamndens": {
     "etikett": "De sociale dienst.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "harryda": {
+    "etikett": "Härryda",
+    "typ": "plats",
     "antal": 1
   }
 }

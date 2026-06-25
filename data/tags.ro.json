@@ -292,7 +292,7 @@
   "kommunfullmaktige": {
     "etikett": "Consiliul municipal.",
     "typ": "organisation",
-    "antal": 65
+    "antal": 66
   },
   "kommunpolitik": {
     "etikett": "Politica municipală.",
@@ -907,6 +907,11 @@
   "socialnamndens": {
     "etikett": "Comisia de Asistență Socială.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "harryda": {
+    "etikett": "Härryda",
+    "typ": "plats",
     "antal": 1
   }
 }

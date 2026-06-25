@@ -292,7 +292,7 @@
   "kommunfullmaktige": {
     "etikett": "مجلس البلدية.",
     "typ": "organisation",
-    "antal": 65
+    "antal": 66
   },
   "kommunpolitik": {
     "etikett": "سياسة البلديات.",
@@ -922,6 +922,11 @@
   "socialnamndens": {
     "etikett": "لجنة الشؤون الاجتماعية.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "harryda": {
+    "etikett": "هاريودا.",
+    "typ": "plats",
     "antal": 1
   }
 }

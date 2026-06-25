@@ -1115,6 +1115,33 @@
     }
   },
   {
+    "id": "harryda-kommunfullmaktige-2026-06-17",
+    "typ": "kommunbeslut",
+    "titel": "اجتماع مجلس مدينة هريدا، بتاريخ 2026-06-17.",
+    "ingress": "في اجتماع مجلس مدينة [اسم المدينة] الذي عقد في 17 يونيو 2026، تم اتخاذ قرار بشأن قواعد جديدة للشركات التابعة للبلدية، وتعديل الإحالات القانونية المتعلقة بالخدمات الاجتماعية. كما تم مناقشة قضايا تتعلق بالمدارس، والإسكان، وكيفية تعامل البلدية",
+    "datum": "2026-06-17",
+    "kalla": "Härryda kommun",
+    "kalla_url": "https://www.harryda.se/download/18.274894ab19ed42ba0696b56/1782380412711/Protokoll%20Kf%202026-06-17.pdf",
+    "taggar": [
+      "harryda",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_energi": 3,
+      "miljo": 3,
+      "gdpr": 3,
+      "mark_bygglov": 3,
+      "barn": 3,
+      "bygger": 3,
+      "funktion": 3,
+      "energikund": 3,
+      "konsument": 3,
+      "otrygg": 3,
+      "integritet": 3
+    }
+  },
+  {
     "id": "HD03286",
     "typ": "lagforslag",
     "titel": "تعزيز حماية استقلالية القضاء والقضاة.",
