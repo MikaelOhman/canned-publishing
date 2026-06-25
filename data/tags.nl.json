@@ -1023,5 +1023,15 @@
     "etikett": "Klippans.",
     "typ": "plats",
     "antal": 1
+  },
+  "koping": {
+    "etikett": "Köpings.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "sbn": {
+    "etikett": "SBN",
+    "typ": "organisation",
+    "antal": 1
   }
 }

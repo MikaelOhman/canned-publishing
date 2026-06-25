@@ -1018,5 +1018,15 @@
     "etikett": "Klippans.",
     "typ": "plats",
     "antal": 1
+  },
+  "koping": {
+    "etikett": "Köpings.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "sbn": {
+    "etikett": "Przepraszam, ale nie rozumiem, co oznacza \"SBN\". Czy możesz podać więcej informacji lub kontekst?",
+    "typ": "organisation",
+    "antal": 1
   }
 }
