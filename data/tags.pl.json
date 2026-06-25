@@ -442,7 +442,7 @@
   "bjuv": {
     "etikett": "Bjuvs",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "grannehorande-skromberga-12-14": {
     "etikett": "Informacja dla sąsiadów dotycząca nieruchomości SKROMBERGA 12, nr 14.",
@@ -786,6 +786,11 @@
   },
   "mbn": {
     "etikett": "MBN",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "grannehorande-skromberga": {
+    "etikett": "Informacja dla sąsiadów dotycząca projektu SKROMBERGA.",
     "typ": "organisation",
     "antal": 1
   }

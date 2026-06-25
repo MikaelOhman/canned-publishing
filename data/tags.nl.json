@@ -447,7 +447,7 @@
   "bjuv": {
     "etikett": "Bjuvs",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "grannehorande-skromberga-12-14": {
     "etikett": "Openbare hoorzitting: SKROMBERGA 12 14.",
@@ -791,6 +791,11 @@
   },
   "mbn": {
     "etikett": "MBN",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "grannehorande-skromberga": {
+    "etikett": "Buurtbijeenkomst SKROMBERGA\n\n(Hier volgt waarschijnlijk een lijst met informatie over de bijeenkomst, maar die ontbreekt in de originele tekst. Ik kan deze dus niet vertalen.)",
     "typ": "organisation",
     "antal": 1
   }

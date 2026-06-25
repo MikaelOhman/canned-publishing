@@ -447,7 +447,7 @@
   "bjuv": {
     "etikett": "Bjuvs.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "grannehorande-skromberga-12-14": {
     "etikett": "Consultation avec les voisins concernant le projet SKROMBERGA 12 14.",
@@ -791,6 +791,11 @@
   },
   "mbn": {
     "etikett": "MBN",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "grannehorande-skromberga": {
+    "etikett": "Consultation publique concernant le projet SKROMBERGA.",
     "typ": "organisation",
     "antal": 1
   }

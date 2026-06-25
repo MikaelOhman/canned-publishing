@@ -527,7 +527,7 @@
   "bjuv": {
     "etikett": "Bjuvs",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "grannehorande-skromberga-12-14": {
     "etikett": "Neighbor Consultation: SKROMBERGA 12 14",
@@ -861,6 +861,11 @@
   },
   "mbn": {
     "etikett": "MBN",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "grannehorande-skromberga": {
+    "etikett": "Neighbor Consultation: SKROMBERGA",
     "typ": "organisation",
     "antal": 1
   }

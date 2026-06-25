@@ -507,7 +507,7 @@
   "bjuv": {
     "etikett": "Bjuvs",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "grannehorande-skromberga-12-14": {
     "etikett": "Nachbarschaftsgespräch SKROMBERGA 12 14",
@@ -851,6 +851,11 @@
   },
   "mbn": {
     "etikett": "MBN",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "grannehorande-skromberga": {
+    "etikett": "Nachbarschaftsgespräch SKROMBERGA\n\n(Hier folgt wahrscheinlich eine Liste oder weitere Informationen, die im Originaltext vorhanden sind.)",
     "typ": "organisation",
     "antal": 1
   }
