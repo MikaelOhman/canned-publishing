@@ -17,6 +17,27 @@
     }
   },
   {
+    "id": "marknad-omxs30",
+    "typ": "omvarld",
+    "titel": "A tőzsde ma: OMXS30",
+    "ingress": "A stockholmi OMXS30 index 3 181 ponton áll (+0.1%) az előző kereskedési naphoz képest.",
+    "datum": "2026-06-25",
+    "kalla": "Nasdaq Stockholm",
+    "kalla_url": "https://www.nasdaq.com/european-market-activity",
+    "taggar": [
+      "ekonomi",
+      "borsen"
+    ],
+    "relevans": {
+      "sparare": 7,
+      "pensionssparare": 6,
+      "b_finans": 6,
+      "konsument": 3,
+      "lantagare": 3,
+      "foretagare": 3
+    }
+  },
+  {
     "id": "ecb-2026-06-24-ecb-reports-on-progress-toward",
     "typ": "omvarld",
     "titel": "Az ECB (Európai Központi Bank) jelentést tett közzé az euró bevezetésével kapcsolatos előrehaladásról.",

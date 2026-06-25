@@ -17,6 +17,27 @@
     }
   },
   {
+    "id": "marknad-omxs30",
+    "typ": "omvarld",
+    "titel": "De beurs vandaag: OMXS30",
+    "ingress": "De Zweedse hoofdindex OMXS30 staat op 3 181 (+0.1%) ten opzichte van de vorige handelsdag.",
+    "datum": "2026-06-25",
+    "kalla": "Nasdaq Stockholm",
+    "kalla_url": "https://www.nasdaq.com/european-market-activity",
+    "taggar": [
+      "ekonomi",
+      "borsen"
+    ],
+    "relevans": {
+      "sparare": 7,
+      "pensionssparare": 6,
+      "b_finans": 6,
+      "konsument": 3,
+      "lantagare": 3,
+      "foretagare": 3
+    }
+  },
+  {
     "id": "ecb-2026-06-24-ecb-reports-on-progress-toward",
     "typ": "omvarld",
     "titel": "De Europese Centrale Bank (ECB) publiceert rapporten over de voortgang bij de invoering van de euro.",

@@ -17,6 +17,27 @@
     }
   },
   {
+    "id": "marknad-omxs30",
+    "typ": "omvarld",
+    "titel": "La bourse aujourd'hui : OMXS30",
+    "ingress": "L'indice OMXS30 de la Bourse de Stockholm est à 3 181 (+0.1 %) par rapport à la veille.",
+    "datum": "2026-06-25",
+    "kalla": "Nasdaq Stockholm",
+    "kalla_url": "https://www.nasdaq.com/european-market-activity",
+    "taggar": [
+      "ekonomi",
+      "borsen"
+    ],
+    "relevans": {
+      "sparare": 7,
+      "pensionssparare": 6,
+      "b_finans": 6,
+      "konsument": 3,
+      "lantagare": 3,
+      "foretagare": 3
+    }
+  },
+  {
     "id": "ecb-2026-06-24-ecb-reports-on-progress-toward",
     "typ": "omvarld",
     "titel": "La Banque centrale européenne (BCE) publie un rapport sur les progrès réalisés en vue de l'introduction de l'euro.",
