@@ -808,5 +808,15 @@
     "etikett": "Komitet ds. IT na wyspie Öland.",
     "typ": "organisation",
     "antal": 1
+  },
+  "botkyrka": {
+    "etikett": "Botkyrka",
+    "typ": "plats",
+    "antal": 1
+  },
+  "socialnamnden-offentlig-signed": {
+    "etikett": "Komitet ds. spraw społecznych, podpis elektroniczny.",
+    "typ": "organisation",
+    "antal": 1
   }
 }

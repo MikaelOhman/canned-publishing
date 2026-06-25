@@ -808,5 +808,15 @@
     "etikett": "Comisión de TI de Öland.",
     "typ": "organisation",
     "antal": 1
+  },
+  "botkyrka": {
+    "etikett": "Botkyrka.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "socialnamnden-offentlig-signed": {
+    "etikett": "Comité Social, documento público, firmado.",
+    "typ": "organisation",
+    "antal": 1
   }
 }

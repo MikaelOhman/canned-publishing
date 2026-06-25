@@ -873,5 +873,15 @@
     "etikett": "IT-Ausschuss von Öland.",
     "typ": "organisation",
     "antal": 1
+  },
+  "botkyrka": {
+    "etikett": "Botkyrka",
+    "typ": "plats",
+    "antal": 1
+  },
+  "socialnamnden-offentlig-signed": {
+    "etikett": "Sozialausschuss, Öffentlich. Unterzeichnet.",
+    "typ": "organisation",
+    "antal": 1
   }
 }

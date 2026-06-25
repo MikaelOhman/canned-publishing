@@ -808,5 +808,15 @@
     "etikett": "Oland IT Bizottsága.",
     "typ": "organisation",
     "antal": 1
+  },
+  "botkyrka": {
+    "etikett": "Botkyrka.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "socialnamnden-offentlig-signed": {
+    "etikett": "A \"Socialnamnden Offentlig\" nevű szervezet által kiadott dokumentum.",
+    "typ": "organisation",
+    "antal": 1
   }
 }

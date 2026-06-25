@@ -883,5 +883,15 @@
     "etikett": "Öland IT Committee.",
     "typ": "organisation",
     "antal": 1
+  },
+  "botkyrka": {
+    "etikett": "Botkyrka.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "socialnamnden-offentlig-signed": {
+    "etikett": "Social Welfare Committee, Publicly Signed.",
+    "typ": "organisation",
+    "antal": 1
   }
 }

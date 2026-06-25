@@ -813,5 +813,15 @@
     "etikett": "Commission des technologies de l'information d'Öland.",
     "typ": "organisation",
     "antal": 1
+  },
+  "botkyrka": {
+    "etikett": "Botkyrka.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "socialnamnden-offentlig-signed": {
+    "etikett": "Service social, document officiel, signé.",
+    "typ": "organisation",
+    "antal": 1
   }
 }
