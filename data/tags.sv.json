@@ -202,7 +202,7 @@
   "riksrevisionen": {
     "etikett": "Riksrevisionen",
     "typ": "organisation",
-    "antal": 1
+    "antal": 3
   },
   "hogre-utbildning": {
     "etikett": "Högre utbildning",
@@ -362,7 +362,7 @@
   "kommunstyrelsen": {
     "etikett": "Kommunstyrelsen",
     "typ": "organisation",
-    "antal": 58
+    "antal": 59
   },
   "kommunallagen": {
     "etikett": "Kommunallagen",
@@ -377,7 +377,7 @@
   "kommunfullmaktige": {
     "etikett": "Kommunfullmäktige",
     "typ": "organisation",
-    "antal": 74
+    "antal": 75
   },
   "kommunpolitik": {
     "etikett": "Kommunpolitik",
@@ -437,7 +437,7 @@
   "alingsas": {
     "etikett": "Alingsås",
     "typ": "plats",
-    "antal": 20
+    "antal": 22
   },
   "alingsas-kommun": {
     "etikett": "Alingsås kommun",
@@ -1493,5 +1493,10 @@
     "etikett": "Börsen",
     "typ": "ämne",
     "antal": 1
+  },
+  "granskning": {
+    "etikett": "Granskning",
+    "typ": "ämne",
+    "antal": 2
   }
 }

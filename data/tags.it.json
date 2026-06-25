@@ -127,7 +127,7 @@
   "riksrevisionen": {
     "etikett": "Riksrevisionen",
     "typ": "organisation",
-    "antal": 1
+    "antal": 3
   },
   "hogre-utbildning": {
     "etikett": "Istruzione superiore.",
@@ -292,7 +292,7 @@
   "kommunfullmaktige": {
     "etikett": "Consiglio comunale.",
     "typ": "organisation",
-    "antal": 74
+    "antal": 75
   },
   "kommunpolitik": {
     "etikett": "Politica comunale.",
@@ -312,7 +312,7 @@
   "kommunstyrelsen": {
     "etikett": "La giunta comunale.",
     "typ": "organisation",
-    "antal": 55
+    "antal": 56
   },
   "kommunal-forvaltning": {
     "etikett": "Amministrazione comunale.",
@@ -347,7 +347,7 @@
   "alingsas": {
     "etikett": "Alingsås",
     "typ": "plats",
-    "antal": 20
+    "antal": 22
   },
   "alingsas-kommun": {
     "etikett": "Comune di Alingsås.",
@@ -1388,5 +1388,10 @@
     "etikett": "Borsa",
     "typ": "ämne",
     "antal": 1
+  },
+  "granskning": {
+    "etikett": "Revisione.",
+    "typ": "ämne",
+    "antal": 2
   }
 }

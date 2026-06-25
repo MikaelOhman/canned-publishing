@@ -10495,6 +10495,24 @@
     }
   },
   {
+    "id": "alingsas-kommunstyrelsen-2025-10-20",
+    "typ": "kommunbeslut",
+    "titel": "شورای شهر، شهرداری آلینگزوس، ۲۰ اکتبر ۲۰۲۵.",
+    "ingress": "شورای شهر آلینگزاس، وضعیت مالی سال 2025 را بررسی کرده و برنامه‌ریزی‌هایی برای آینده انجام داده است. همچنین، این شورا تصمیم گرفته است که ساخت سکوی تماشاچی در ورزشگاه آلسترومروالن را به تعویق بیندازد.",
+    "datum": "2025-10-20",
+    "kalla": "Alingsås kommun",
+    "kalla_url": "https://sammantradesportal.alingsas.se/committees/kommunstyrelsen/mote-2025-10-20",
+    "taggar": [
+      "alingsas",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "idrott": 3,
+      "klimat": 3
+    }
+  },
+  {
     "id": "HD0334",
     "typ": "lagforslag",
     "titel": "قوانین سخت‌گیرانه‌تر برای آزادی مشروط\n\n# Skärpta regler för villkorlig frigivning\n\nDe nya reglerna innebär att det blir svårare att få villkorlig frigivning.\n\n## Bakgrund\n\nDe tidigare reglerna var för generösa.\n\n## De nya reglerna\n\n*   För att få villkorlig frigivning måste den dömde:\n    *   Visa att han/hon har tagit sitt straff på allvar.\n    *   Ha en plan för hur han/hon ska leva ett laglydigt liv efter frigivningen.\n    *   Inte utgöra en risk för samhället.\n\n## Konsekvenser\n\nDe nya reglerna kommer att leda till att färre personer får villkorlig frigivning. Detta kan innebära att fler personer måste sitta av hela sina straff.\n\n## Kritik\n\nVissa kritiker menar att de nya reglerna är för hårda och att de kommer att straffa de som har ångrat sig och som är beredda att göra rätt för sig.\n\n## Fördelar\n\nAndra menar att de nya reglerna är nödvändiga för att skydda samhället.\n\n**Mer information:**\n\n*   [Länk till lagtexten](https://www.example.com)\n\n---\n\nDatum: 2023-10-27",
@@ -12458,6 +12476,27 @@
       "sjukskriven": 4,
       "lontagare": 3,
       "vuxenstudier": 3
+    }
+  },
+  {
+    "id": "alingsas-kommunfullmaktige-2025-05-07",
+    "typ": "kommunbeslut",
+    "titel": "جلسه شورای شهر، شهرداری آلینگسوس، 7 مه 2025.",
+    "ingress": "شهرداری آلینگز، بررسی‌هایی را در مورد نحوه عملکرد خود در زمینه مسائل مربوط به کارکنان و ادغام انجام داده است و به دلیل وجود یک اشتباه در سند، تصمیم گرفته است که تصویب گزارش سالانه مربوط به سال 2024 را به تعویق بیندازد. همچنین، در حال حاضر،",
+    "datum": "2025-05-07",
+    "kalla": "Alingsås kommun",
+    "kalla_url": "https://sammantradesportal.alingsas.se/committees/kommunfullmaktige/mote-2025-05-07",
+    "taggar": [
+      "alingsas",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "arbetsgivare": 5,
+      "b_finans": 3,
+      "redovisning": 3,
+      "pensionar": 3,
+      "ny_i_sverige": 3,
+      "klimat": 3
     }
   },
   {

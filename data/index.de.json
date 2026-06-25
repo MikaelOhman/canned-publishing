@@ -2493,6 +2493,24 @@
     }
   },
   {
+    "id": "rr-statsbidrag-till-svenska-utlandsskolor-ett-foraldr",
+    "typ": "omvarld",
+    "titel": "Staatliche Zuschüsse für schwedische Auslandsschulen – ein veraltetes und ineffizientes System (RiR 2026:11).",
+    "ingress": "Das Riksrevisionen (der schwedische Rechnungshof) hat die staatlichen Mittel für schwedische Schulen im Ausland geprüft und festgestellt, dass das System veraltet und mangelhaft ist. Es ist nicht mehr klar, warum der Staat diese Schulen fin",
+    "datum": "2026-06-11",
+    "kalla": "Riksrevisionen",
+    "kalla_url": "https://www.riksrevisionen.se/granskningar/granskningsrapporter/2026/statsbidrag-till-svenska-utlandsskolor---ett-foraldrat-och-ineffektivt-system.html",
+    "taggar": [
+      "riksrevisionen",
+      "granskning"
+    ],
+    "relevans": {
+      "arbetsgivare": 5,
+      "b_bygg": 3,
+      "barn": 5
+    }
+  },
+  {
     "id": "belfast-0610",
     "typ": "nyhet",
     "titel": "Hier fand ein versuchter Enthauptungsvorfall in Belfast statt",
@@ -3686,6 +3704,24 @@
       "b_vard": 3,
       "b_life": 3,
       "kronisk": 5
+    }
+  },
+  {
+    "id": "rr-kronofogdens-indrivning-av-skulder",
+    "typ": "omvarld",
+    "titel": "Die Vollstreckung von Schulden durch das schwedische Kronofogdembüro (RiR 2026:10).",
+    "ingress": "Das Riksrevisionen (der schwedische Rechnungshof) hat eine Überprüfung der Vorgehensweise des Kronofogden (der schwedischen Vollstreckungsbehörde) durchgeführt, um zu untersuchen, wie Schulden eingetrieben werden. Die Ergebnisse zeigen, das",
+    "datum": "2026-05-26",
+    "kalla": "Riksrevisionen",
+    "kalla_url": "https://www.riksrevisionen.se/granskningar/granskningsrapporter/2026/kronofogdens-indrivning-av-skulder.html",
+    "taggar": [
+      "riksrevisionen",
+      "granskning"
+    ],
+    "relevans": {
+      "lantagare": 8,
+      "skuldsatt": 8,
+      "konsument": 3
     }
   },
   {
@@ -10570,6 +10606,24 @@
     }
   },
   {
+    "id": "alingsas-kommunstyrelsen-2025-10-20",
+    "typ": "kommunbeslut",
+    "titel": "Gemeindeverwaltungsrat, Gemeinde Alingsås, 20. Oktober 2025.",
+    "ingress": "Der Gemeinderat von Alingsås hat die Finanzen für das Jahr 2025 geprüft und zukünftige Planungen vorgenommen. Außerdem wurde beschlossen, den Bau der Tribüne im Alströmervallen vorerst auszusetzen.",
+    "datum": "2025-10-20",
+    "kalla": "Alingsås kommun",
+    "kalla_url": "https://sammantradesportal.alingsas.se/committees/kommunstyrelsen/mote-2025-10-20",
+    "taggar": [
+      "alingsas",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "idrott": 3,
+      "klimat": 3
+    }
+  },
+  {
     "id": "HD0334",
     "typ": "lagforslag",
     "titel": "Strengere Regeln für die vorzeitige Entlassung.\n\n# Skärpta regler för villkorlig frigivning\n\nDe nya reglerna innebär bland annat:\n\n*   Längre tid i fängelse innan villkorlig frigivning kan beviljas.\n*   Hårdare krav på rehabilitering och återanpassning.\n*   Ökad övervakning efter frigivning.\n\n**Bakgrund:**\n\nDe skärpta reglerna är en följd av en ökad oro för återfall i brott efter villkorlig frigivning.\n\n**Konsekvenser:**\n\nDe nya reglerna kommer att påverka både de som är i fängelse och de som ska återanpassas till samhället.\n\n**Mer information:**\n\nFör mer information, vänligen besök [www.regeringen.se](www.regeringen.se).",
@@ -12517,6 +12571,27 @@
       "sjukskriven": 4,
       "lontagare": 3,
       "vuxenstudier": 3
+    }
+  },
+  {
+    "id": "alingsas-kommunfullmaktige-2025-05-07",
+    "typ": "kommunbeslut",
+    "titel": "Gemeindevertretung, Gemeinde Alingsås, 7. Mai 2025.",
+    "ingress": "Die Gemeinde Alingsås hat eine Überprüfung ihrer Arbeit in den Bereichen Personalwesen und Integration durchgeführt und beschlossen, die Genehmigung des Jahresberichts für 2024 aufgrund eines Fehlers im Dokument zu verschieben. Darüber hina",
+    "datum": "2025-05-07",
+    "kalla": "Alingsås kommun",
+    "kalla_url": "https://sammantradesportal.alingsas.se/committees/kommunfullmaktige/mote-2025-05-07",
+    "taggar": [
+      "alingsas",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "arbetsgivare": 5,
+      "b_finans": 3,
+      "redovisning": 3,
+      "pensionar": 3,
+      "ny_i_sverige": 3,
+      "klimat": 3
     }
   },
   {

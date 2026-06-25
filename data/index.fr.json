@@ -2440,6 +2440,24 @@
     }
   },
   {
+    "id": "rr-statsbidrag-till-svenska-utlandsskolor-ett-foraldr",
+    "typ": "omvarld",
+    "titel": "Aides de l'État aux écoles suédoises à l'étranger : un système obsolète et inefficace (Rapport RiR 2026:11).",
+    "ingress": "La Cour des comptes a examiné les fonds que l'État suédois alloue aux écoles suédoises situées à l'étranger et a constaté que le système est obsolète et inefficace. Il n'est plus clair pourquoi l'État devrait financer ces écoles, étant donn",
+    "datum": "2026-06-11",
+    "kalla": "Riksrevisionen",
+    "kalla_url": "https://www.riksrevisionen.se/granskningar/granskningsrapporter/2026/statsbidrag-till-svenska-utlandsskolor---ett-foraldrat-och-ineffektivt-system.html",
+    "taggar": [
+      "riksrevisionen",
+      "granskning"
+    ],
+    "relevans": {
+      "arbetsgivare": 5,
+      "b_bygg": 3,
+      "barn": 5
+    }
+  },
+  {
     "id": "belfast-0610",
     "typ": "nyhet",
     "titel": "Tentative d'exécution par décapitation à Belfast",
@@ -3655,6 +3673,24 @@
       "b_vard": 3,
       "b_life": 3,
       "kronisk": 5
+    }
+  },
+  {
+    "id": "rr-kronofogdens-indrivning-av-skulder",
+    "typ": "omvarld",
+    "titel": "Recouvrement des dettes par l'Agence de recouvrement des créances (RiR 2026:10).",
+    "ingress": "La Cour des comptes a examiné la manière dont l'agence de recouvrement des créances (Kronofogden) recouvre les dettes et constate que, dans la plupart des cas, le processus fonctionne bien, mais que certaines procédures prennent trop de tem",
+    "datum": "2026-05-26",
+    "kalla": "Riksrevisionen",
+    "kalla_url": "https://www.riksrevisionen.se/granskningar/granskningsrapporter/2026/kronofogdens-indrivning-av-skulder.html",
+    "taggar": [
+      "riksrevisionen",
+      "granskning"
+    ],
+    "relevans": {
+      "lantagare": 8,
+      "skuldsatt": 8,
+      "konsument": 3
     }
   },
   {
@@ -10539,6 +10575,24 @@
     }
   },
   {
+    "id": "alingsas-kommunstyrelsen-2025-10-20",
+    "typ": "kommunbeslut",
+    "titel": "Conseil municipal, commune d'Alingsås, 20 octobre 2025.",
+    "ingress": "Le conseil municipal d'Alingsås a examiné les finances pour l'année 2025 et a établi des plans pour l'avenir. Il a également pris la décision de suspendre les travaux de construction des gradins du stade d'Alströmervallen.",
+    "datum": "2025-10-20",
+    "kalla": "Alingsås kommun",
+    "kalla_url": "https://sammantradesportal.alingsas.se/committees/kommunstyrelsen/mote-2025-10-20",
+    "taggar": [
+      "alingsas",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "idrott": 3,
+      "klimat": 3
+    }
+  },
+  {
     "id": "HD0334",
     "typ": "lagforslag",
     "titel": "Règles plus strictes concernant les libérations conditionnelles.",
@@ -12502,6 +12556,27 @@
       "sjukskriven": 4,
       "lontagare": 3,
       "vuxenstudier": 3
+    }
+  },
+  {
+    "id": "alingsas-kommunfullmaktige-2025-05-07",
+    "typ": "kommunbeslut",
+    "titel": "Conseil municipal, commune d'Alingsås, 7 mai 2025.",
+    "ingress": "La municipalité d'Alingsås a examiné ses pratiques en matière de ressources humaines et d'intégration, et a décidé de reporter l'approbation du rapport annuel pour 2024 en raison d'une erreur dans le document. Elle travaille également à met",
+    "datum": "2025-05-07",
+    "kalla": "Alingsås kommun",
+    "kalla_url": "https://sammantradesportal.alingsas.se/committees/kommunfullmaktige/mote-2025-05-07",
+    "taggar": [
+      "alingsas",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "arbetsgivare": 5,
+      "b_finans": 3,
+      "redovisning": 3,
+      "pensionar": 3,
+      "ny_i_sverige": 3,
+      "klimat": 3
     }
   },
   {

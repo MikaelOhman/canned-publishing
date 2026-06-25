@@ -2463,6 +2463,24 @@
     }
   },
   {
+    "id": "rr-statsbidrag-till-svenska-utlandsskolor-ett-foraldr",
+    "typ": "omvarld",
+    "titel": "Subsidies van de staat aan Zweedse scholen in het buitenland – een verouderd en inefficiënt systeem (RiR 2026:11)",
+    "ingress": "De Rijksrekenkamer heeft een onderzoek uitgevoerd naar de gelden die de staat verstrekt aan Zweedse scholen in het buitenland en heeft geconstateerd dat het systeem verouderd en inadequaat is. Het is niet langer duidelijk waarom de staat de",
+    "datum": "2026-06-11",
+    "kalla": "Riksrevisionen",
+    "kalla_url": "https://www.riksrevisionen.se/granskningar/granskningsrapporter/2026/statsbidrag-till-svenska-utlandsskolor---ett-foraldrat-och-ineffektivt-system.html",
+    "taggar": [
+      "riksrevisionen",
+      "granskning"
+    ],
+    "relevans": {
+      "arbetsgivare": 5,
+      "b_bygg": 3,
+      "barn": 5
+    }
+  },
+  {
     "id": "belfast-0610",
     "typ": "nyhet",
     "titel": "Hier vond de poging tot onthoofding plaats in Belfast",
@@ -3656,6 +3674,24 @@
       "b_vard": 3,
       "b_life": 3,
       "kronisk": 5
+    }
+  },
+  {
+    "id": "rr-kronofogdens-indrivning-av-skulder",
+    "typ": "omvarld",
+    "titel": "De incassoprocedures van de belastingdienst (RiR 2026:10)",
+    "ingress": "De Rijksrekenkamer heeft een onderzoek uitgevoerd naar de manier waarop de belastingdienst (Kronofogden) schulden intient en stelt vast dat het werk over het algemeen goed functioneert, maar dat het in sommige gevallen te lang duurt. Het gr",
+    "datum": "2026-05-26",
+    "kalla": "Riksrevisionen",
+    "kalla_url": "https://www.riksrevisionen.se/granskningar/granskningsrapporter/2026/kronofogdens-indrivning-av-skulder.html",
+    "taggar": [
+      "riksrevisionen",
+      "granskning"
+    ],
+    "relevans": {
+      "lantagare": 8,
+      "skuldsatt": 8,
+      "konsument": 3
     }
   },
   {
@@ -10540,6 +10576,24 @@
     }
   },
   {
+    "id": "alingsas-kommunstyrelsen-2025-10-20",
+    "typ": "kommunbeslut",
+    "titel": "College van burgemeesters en wethouders, gemeente Alingsås, 20 oktober 2025.",
+    "ingress": "Het college van burgemeester en wethouders van Alingsås heeft de financiële situatie voor 2025 doorgenomen en plannen gemaakt voor de toekomst. Daarnaast heeft het college besloten om de bouw van de tribune op Alströmervallen tijdelijk te o",
+    "datum": "2025-10-20",
+    "kalla": "Alingsås kommun",
+    "kalla_url": "https://sammantradesportal.alingsas.se/committees/kommunstyrelsen/mote-2025-10-20",
+    "taggar": [
+      "alingsas",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "idrott": 3,
+      "klimat": 3
+    }
+  },
+  {
     "id": "HD0334",
     "typ": "lagforslag",
     "titel": "Aangepaste regels voor voorwaardelijke vrijlating.\n\n# Skärpta regler för villkorlig frigivning\n\nDe regels voor voorwaardelijke vrijlating zijn aangescherpt.\n\n*   De criteria voor voorwaardelijke vrijlating zijn strenger geworden.\n*   De periode van toezicht na vrijlating is verlengd.\n*   De mogelijkheden voor terugkeer naar de gevangenis zijn uitgebreid.\n\n**Deze veranderingen zijn bedoeld om de veiligheid te vergroten en recidive te verminderen.**\n\nDe nieuwe regels gelden voor alle gevangenen die in aanmerking komen voor voorwaardelijke vrijlating.\n\nVoor meer informatie, bezoek de website: [www.example.com](www.example.com)\n\nDatum: 2023-10-27",
@@ -12487,6 +12541,27 @@
       "sjukskriven": 4,
       "lontagare": 3,
       "vuxenstudier": 3
+    }
+  },
+  {
+    "id": "alingsas-kommunfullmaktige-2025-05-07",
+    "typ": "kommunbeslut",
+    "titel": "Gemeenteraad, gemeente Alingsås, 7 mei 2025.",
+    "ingress": "De gemeente Alingsås heeft een onderzoek uitgevoerd naar de manier waarop zij omgaat met personeel en integratie, en heeft besloten om de goedkeuring van het jaarverslag voor 2024 uit te stellen vanwege een fout in het document. Daarnaast w",
+    "datum": "2025-05-07",
+    "kalla": "Alingsås kommun",
+    "kalla_url": "https://sammantradesportal.alingsas.se/committees/kommunfullmaktige/mote-2025-05-07",
+    "taggar": [
+      "alingsas",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "arbetsgivare": 5,
+      "b_finans": 3,
+      "redovisning": 3,
+      "pensionar": 3,
+      "ny_i_sverige": 3,
+      "klimat": 3
     }
   },
   {

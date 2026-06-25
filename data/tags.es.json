@@ -127,7 +127,7 @@
   "riksrevisionen": {
     "etikett": "La Oficina Nacional de Auditoría.",
     "typ": "organisation",
-    "antal": 1
+    "antal": 3
   },
   "hogre-utbildning": {
     "etikett": "Educación superior.",
@@ -292,7 +292,7 @@
   "kommunfullmaktige": {
     "etikett": "El ayuntamiento.",
     "typ": "organisation",
-    "antal": 74
+    "antal": 75
   },
   "kommunpolitik": {
     "etikett": "Política municipal.",
@@ -307,7 +307,7 @@
   "kommunstyrelsen": {
     "etikett": "El consejo municipal.",
     "typ": "organisation",
-    "antal": 55
+    "antal": 56
   },
   "kommunal-forvaltning": {
     "etikett": "Administración municipal.",
@@ -342,7 +342,7 @@
   "alingsas": {
     "etikett": "Alingsås.",
     "typ": "plats",
-    "antal": 20
+    "antal": 22
   },
   "alingsas-kommun": {
     "etikett": "El municipio de Alingsås.",
@@ -1383,5 +1383,10 @@
     "etikett": "Bolsa",
     "typ": "ämne",
     "antal": 1
+  },
+  "granskning": {
+    "etikett": "Revisión.",
+    "typ": "ämne",
+    "antal": 2
   }
 }

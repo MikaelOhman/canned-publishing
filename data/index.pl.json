@@ -2460,6 +2460,24 @@
     }
   },
   {
+    "id": "rr-statsbidrag-till-svenska-utlandsskolor-ett-foraldr",
+    "typ": "omvarld",
+    "titel": "Dotacje rządowe dla szkół szwedzkich za granicą – przestarzały i nieefektywny system (Raport RiR 2026:11).",
+    "ingress": "Najwyższy audytor (Riksrevisionen) przeanalizował środki finansowe, które państwo przekazuje szkołom szwedzkim działającym za granicą i stwierdził, że system ten jest przestarzały i nieskuteczny. Obecnie nie jest jasne, dlaczego państwo pow",
+    "datum": "2026-06-11",
+    "kalla": "Riksrevisionen",
+    "kalla_url": "https://www.riksrevisionen.se/granskningar/granskningsrapporter/2026/statsbidrag-till-svenska-utlandsskolor---ett-foraldrat-och-ineffektivt-system.html",
+    "taggar": [
+      "riksrevisionen",
+      "granskning"
+    ],
+    "relevans": {
+      "arbetsgivare": 5,
+      "b_bygg": 3,
+      "barn": 5
+    }
+  },
+  {
     "id": "belfast-0610",
     "typ": "nyhet",
     "titel": "Próba porwania głowy w Belfaście",
@@ -3675,6 +3693,24 @@
       "b_vard": 3,
       "b_life": 3,
       "kronisk": 5
+    }
+  },
+  {
+    "id": "rr-kronofogdens-indrivning-av-skulder",
+    "typ": "omvarld",
+    "titel": "Windykacja należności przez Krajową Agencję Egzekucji (RiR 2026:10).",
+    "ingress": "Rzecznik Praw Obywatelskich (Riksrevisionen) przeprowadził audyt dotyczący sposobu, w jaki Urząd Egzekucji (Kronofogden) windykował długi i stwierdził, że w większości przypadków proces przebiega sprawnie, jednak w niektórych sytuacjach trw",
+    "datum": "2026-05-26",
+    "kalla": "Riksrevisionen",
+    "kalla_url": "https://www.riksrevisionen.se/granskningar/granskningsrapporter/2026/kronofogdens-indrivning-av-skulder.html",
+    "taggar": [
+      "riksrevisionen",
+      "granskning"
+    ],
+    "relevans": {
+      "lantagare": 8,
+      "skuldsatt": 8,
+      "konsument": 3
     }
   },
   {
@@ -10556,6 +10592,24 @@
     }
   },
   {
+    "id": "alingsas-kommunstyrelsen-2025-10-20",
+    "typ": "kommunbeslut",
+    "titel": "Komisja ds. spraw gminnych, gmina Alingsås, 20 października 2025 roku.",
+    "ingress": "Komisja ds. spraw miejskich w Alingsås przeanalizowała finanse na rok 2025 i opracowała plany na przyszłość. Podjęto również decyzję o wstrzymaniu budowy trybun na stadionie Alströmervallen.",
+    "datum": "2025-10-20",
+    "kalla": "Alingsås kommun",
+    "kalla_url": "https://sammantradesportal.alingsas.se/committees/kommunstyrelsen/mote-2025-10-20",
+    "taggar": [
+      "alingsas",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "idrott": 3,
+      "klimat": 3
+    }
+  },
+  {
     "id": "HD0334",
     "typ": "lagforslag",
     "titel": "Zaostrzone zasady dotyczące warunkowego zwolnienia.\n\n# Skärpta regler för villkorlig frigivning\n\nNya regler för hur villkorlig frigivning ska hanteras.\n\n*   Mindre flexibilitet.\n*   Striktare krav.\n*   Ökad kontroll.\n\n**Syfte:** Att minska risken för återfall i brott.\n\nMer information finns på: www.example.com",
@@ -12519,6 +12573,27 @@
       "sjukskriven": 4,
       "lontagare": 3,
       "vuxenstudier": 3
+    }
+  },
+  {
+    "id": "alingsas-kommunfullmaktige-2025-05-07",
+    "typ": "kommunbeslut",
+    "titel": "Rada Miejska, Gmina Alingsås, 7 maja 2025.",
+    "ingress": "Gmina Alingsås przeprowadziła analizę sposobu, w jaki działa w zakresie zatrudnienia i integracji, i podjęła decyzję o wstrzymaniu zatwierdzenia rocznego raportu za 2024 rok ze względu na błąd w dokumencie. Trwają również prace nad aktualiz",
+    "datum": "2025-05-07",
+    "kalla": "Alingsås kommun",
+    "kalla_url": "https://sammantradesportal.alingsas.se/committees/kommunfullmaktige/mote-2025-05-07",
+    "taggar": [
+      "alingsas",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "arbetsgivare": 5,
+      "b_finans": 3,
+      "redovisning": 3,
+      "pensionar": 3,
+      "ny_i_sverige": 3,
+      "klimat": 3
     }
   },
   {

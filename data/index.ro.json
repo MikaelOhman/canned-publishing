@@ -10492,6 +10492,24 @@
     }
   },
   {
+    "id": "alingsas-kommunstyrelsen-2025-10-20",
+    "typ": "kommunbeslut",
+    "titel": "Comisia municipală, Primăria Alingsås, 20 octombrie 2025.",
+    "ingress": "Consiliul municipal din Alingsås a analizat situația financiară pentru anul 2025 și a elaborat planuri pentru viitor. De asemenea, a decis să suspende construcția tribunei din Alströmervallen.",
+    "datum": "2025-10-20",
+    "kalla": "Alingsås kommun",
+    "kalla_url": "https://sammantradesportal.alingsas.se/committees/kommunstyrelsen/mote-2025-10-20",
+    "taggar": [
+      "alingsas",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "idrott": 3,
+      "klimat": 3
+    }
+  },
+  {
     "id": "HD0334",
     "typ": "lagforslag",
     "titel": "Reguli mai stricte pentru eliberarea condiționată.",
@@ -12449,6 +12467,27 @@
       "sjukskriven": 4,
       "lontagare": 3,
       "vuxenstudier": 3
+    }
+  },
+  {
+    "id": "alingsas-kommunfullmaktige-2025-05-07",
+    "typ": "kommunbeslut",
+    "titel": "Consiliul municipal, comuna Alingsås, 7 mai 2025.",
+    "ingress": "Comuna Alingsås a analizat modul în care abordează aspectele legate de personal și integrare și a decis să amâne aprobarea raportului anual pentru 2024 din cauza unei erori din document. De asemenea, se lucrează la actualizarea regulilor pr",
+    "datum": "2025-05-07",
+    "kalla": "Alingsås kommun",
+    "kalla_url": "https://sammantradesportal.alingsas.se/committees/kommunfullmaktige/mote-2025-05-07",
+    "taggar": [
+      "alingsas",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "arbetsgivare": 5,
+      "b_finans": 3,
+      "redovisning": 3,
+      "pensionar": 3,
+      "ny_i_sverige": 3,
+      "klimat": 3
     }
   },
   {

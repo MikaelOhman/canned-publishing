@@ -127,7 +127,7 @@
   "riksrevisionen": {
     "etikett": "De Rijksrekenkamer.",
     "typ": "organisation",
-    "antal": 1
+    "antal": 3
   },
   "hogre-utbildning": {
     "etikett": "Hoger onderwijs",
@@ -292,7 +292,7 @@
   "kommunfullmaktige": {
     "etikett": "Gemeenteraad.",
     "typ": "organisation",
-    "antal": 74
+    "antal": 75
   },
   "kommunpolitik": {
     "etikett": "Gemeentepolitiek.",
@@ -312,7 +312,7 @@
   "kommunstyrelsen": {
     "etikett": "Het college van burgemeester en wethouders.",
     "typ": "organisation",
-    "antal": 55
+    "antal": 56
   },
   "kommunal-forvaltning": {
     "etikett": "Gemeentelijke administratie.",
@@ -347,7 +347,7 @@
   "alingsas": {
     "etikett": "Alingsås",
     "typ": "plats",
-    "antal": 20
+    "antal": 22
   },
   "alingsas-kommun": {
     "etikett": "Gemeente Alingsås.",
@@ -1388,5 +1388,10 @@
     "etikett": "Beurs",
     "typ": "ämne",
     "antal": 1
+  },
+  "granskning": {
+    "etikett": "Beoordeling.",
+    "typ": "ämne",
+    "antal": 2
   }
 }

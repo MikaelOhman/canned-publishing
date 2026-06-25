@@ -192,7 +192,7 @@
   "riksrevisionen": {
     "etikett": "Das Rechnungshof.",
     "typ": "organisation",
-    "antal": 1
+    "antal": 3
   },
   "hogre-utbildning": {
     "etikett": "Höhere Bildung.",
@@ -352,7 +352,7 @@
   "kommunfullmaktige": {
     "etikett": "Gemeindevertretung",
     "typ": "organisation",
-    "antal": 74
+    "antal": 75
   },
   "kommunpolitik": {
     "etikett": "Kommunalpolitik.",
@@ -372,7 +372,7 @@
   "kommunstyrelsen": {
     "etikett": "Der Gemeinderat.",
     "typ": "organisation",
-    "antal": 55
+    "antal": 56
   },
   "kommunal-forvaltning": {
     "etikett": "Kommunale Verwaltung.",
@@ -407,7 +407,7 @@
   "alingsas": {
     "etikett": "Alingsås\n\n(No further context was provided, so a simple translation of the name is all that's possible.)",
     "typ": "plats",
-    "antal": 20
+    "antal": 22
   },
   "alingsas-kommun": {
     "etikett": "Die Gemeinde Alingsås.",
@@ -1448,5 +1448,10 @@
     "etikett": "Börse",
     "typ": "ämne",
     "antal": 1
+  },
+  "granskning": {
+    "etikett": "Überprüfung\n\nHier ist eine Liste von Punkten, die bei der Überprüfung berücksichtigt werden sollten:\n\n*   **Name:** [Name]\n*   **Datum:** [Datum]\n*   **URL:** [URL]\n\nBitte überprüfen Sie Folgendes:\n\n1.  [Punkt 1]\n2.  [Punkt 2]\n3.  [Punkt 3]",
+    "typ": "ämne",
+    "antal": 2
   }
 }

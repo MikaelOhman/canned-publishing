@@ -127,7 +127,7 @@
   "riksrevisionen": {
     "etikett": "Riksrevisionen",
     "typ": "organisation",
-    "antal": 1
+    "antal": 3
   },
   "hogre-utbildning": {
     "etikett": "Enseignement supérieur.",
@@ -292,7 +292,7 @@
   "kommunfullmaktige": {
     "etikett": "Conseil municipal.",
     "typ": "organisation",
-    "antal": 74
+    "antal": 75
   },
   "kommunpolitik": {
     "etikett": "Politique municipale.",
@@ -312,7 +312,7 @@
   "kommunstyrelsen": {
     "etikett": "Le conseil municipal.",
     "typ": "organisation",
-    "antal": 55
+    "antal": 56
   },
   "kommunal-forvaltning": {
     "etikett": "Administration municipale.",
@@ -347,7 +347,7 @@
   "alingsas": {
     "etikett": "Alingsås.",
     "typ": "plats",
-    "antal": 20
+    "antal": 22
   },
   "alingsas-kommun": {
     "etikett": "Commune d'Alingsås.",
@@ -1388,5 +1388,10 @@
     "etikett": "Bourse",
     "typ": "ämne",
     "antal": 1
+  },
+  "granskning": {
+    "etikett": "Veuillez fournir le texte en suédois que vous souhaitez que je traduise en français. Je suis prêt à traduire le paragraphe et la structure de liste, en conservant les noms, les chiffres, les dates et les URL inchangés, et en veillant à ce que la traduction soit naturelle et fluide.",
+    "typ": "ämne",
+    "antal": 2
   }
 }

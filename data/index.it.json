@@ -2463,6 +2463,24 @@
     }
   },
   {
+    "id": "rr-statsbidrag-till-svenska-utlandsskolor-ett-foraldr",
+    "typ": "omvarld",
+    "titel": "Contributi statali alle scuole svedesi all'estero: un sistema obsoleto e inefficiente (RiR 2026:11).",
+    "ingress": "La Corte dei Conti svedese ha esaminato i fondi che lo Stato svedese eroga alle scuole svedesi all'estero e ha riscontrato che il sistema è obsoleto e inefficiente. Non è più chiaro perché lo Stato dovrebbe finanziare queste scuole, dato ch",
+    "datum": "2026-06-11",
+    "kalla": "Riksrevisionen",
+    "kalla_url": "https://www.riksrevisionen.se/granskningar/granskningsrapporter/2026/statsbidrag-till-svenska-utlandsskolor---ett-foraldrat-och-ineffektivt-system.html",
+    "taggar": [
+      "riksrevisionen",
+      "granskning"
+    ],
+    "relevans": {
+      "arbetsgivare": 5,
+      "b_bygg": 3,
+      "barn": 5
+    }
+  },
+  {
     "id": "belfast-0610",
     "typ": "nyhet",
     "titel": "Tentativo di decapitazione a Belfast",
@@ -3656,6 +3674,24 @@
       "b_vard": 3,
       "b_life": 3,
       "kronisk": 5
+    }
+  },
+  {
+    "id": "rr-kronofogdens-indrivning-av-skulder",
+    "typ": "omvarld",
+    "titel": "Recupero crediti da parte dell'Ufficio di esecuzione (RiR 2026:10).",
+    "ingress": "La Corte dei Conti ha esaminato il modo in cui l'Ufficio di Esecuzione Forzata riscuote i debiti e ha constatato che, nella maggior parte dei casi, il processo funziona bene, ma che in alcune situazioni richiede troppo tempo. Il problema pr",
+    "datum": "2026-05-26",
+    "kalla": "Riksrevisionen",
+    "kalla_url": "https://www.riksrevisionen.se/granskningar/granskningsrapporter/2026/kronofogdens-indrivning-av-skulder.html",
+    "taggar": [
+      "riksrevisionen",
+      "granskning"
+    ],
+    "relevans": {
+      "lantagare": 8,
+      "skuldsatt": 8,
+      "konsument": 3
     }
   },
   {
@@ -10540,6 +10576,24 @@
     }
   },
   {
+    "id": "alingsas-kommunstyrelsen-2025-10-20",
+    "typ": "kommunbeslut",
+    "titel": "Comitato comunale, Comune di Alingsås, 20 ottobre 2025.",
+    "ingress": "La giunta comunale di Alingsås ha esaminato i bilanci per il 2025 e ha elaborato piani per il futuro. Inoltre, ha deciso di sospendere i lavori di costruzione delle tribune dello stadio di Alströmervallen.",
+    "datum": "2025-10-20",
+    "kalla": "Alingsås kommun",
+    "kalla_url": "https://sammantradesportal.alingsas.se/committees/kommunstyrelsen/mote-2025-10-20",
+    "taggar": [
+      "alingsas",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "idrott": 3,
+      "klimat": 3
+    }
+  },
+  {
     "id": "HD0334",
     "typ": "lagforslag",
     "titel": "Regole più severe per la libertà condizionale.\n\n# Skärpta regler för villkorlig frigivning\n\nDe nya reglamenten innebär att det blir svårare att få villkorlig frigivning.\n\n*   Längre tid i fängelse innan prövning.\n*   Strängare krav på återanpassning.\n*   Ökad risk för återfall.\n\n**Konsekvenser:**\n\n*   Fler kommer att sitta längre i fängelse.\n*   Större belastning på fängelserna.\n*   Risk för ökad kriminalitet efter frigivning.\n\n**Debatt:**\n\nReglerna har väckt en livlig debatt. Vissa anser att de är nödvändiga för att öka tryggheten. Andra menar att de är inhumana och kontraproduktiva.\n\n**Exempel:**\n\nEn person som dömts för ett allvarligt brott kan nu behöva sitta i fängelse i minst 5 år innan hen kan ansöka om villkorlig frigivning. Tidigare var gränsen 3 år.\n\n**Slutsats:**\n\nDe skärpta reglerna för villkorlig frigivning är en komplex fråga med många olika aspekter. Det är viktigt att fortsätta debatten och hitta lösningar som är både effektiva och rättvisa.",
@@ -12503,6 +12557,27 @@
       "sjukskriven": 4,
       "lontagare": 3,
       "vuxenstudier": 3
+    }
+  },
+  {
+    "id": "alingsas-kommunfullmaktige-2025-05-07",
+    "typ": "kommunbeslut",
+    "titel": "Consiglio comunale, Comune di Alingsås, 7 maggio 2025.",
+    "ingress": "Il comune di Alingsås ha esaminato le modalità con cui gestisce il personale e l'integrazione, e ha deciso di posticipare l'approvazione del bilancio annuale per il 2024 a causa di un errore presente nel documento. Inoltre, si sta lavorando",
+    "datum": "2025-05-07",
+    "kalla": "Alingsås kommun",
+    "kalla_url": "https://sammantradesportal.alingsas.se/committees/kommunfullmaktige/mote-2025-05-07",
+    "taggar": [
+      "alingsas",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "arbetsgivare": 5,
+      "b_finans": 3,
+      "redovisning": 3,
+      "pensionar": 3,
+      "ny_i_sverige": 3,
+      "klimat": 3
     }
   },
   {

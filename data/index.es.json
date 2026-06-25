@@ -2463,6 +2463,24 @@
     }
   },
   {
+    "id": "rr-statsbidrag-till-svenska-utlandsskolor-ett-foraldr",
+    "typ": "omvarld",
+    "titel": "Subvenciones estatales a las escuelas suecas en el extranjero: un sistema obsoleto e ineficiente (RiR 2026:11).",
+    "ingress": "La Auditoría Nacional ha revisado los fondos que el Estado sueco destina a las escuelas suecas en el extranjero y ha constatado que el sistema es antiguo y deficiente. Ya no está claro por qué el Estado debe financiar estas escuelas, ya que",
+    "datum": "2026-06-11",
+    "kalla": "Riksrevisionen",
+    "kalla_url": "https://www.riksrevisionen.se/granskningar/granskningsrapporter/2026/statsbidrag-till-svenska-utlandsskolor---ett-foraldrat-och-ineffektivt-system.html",
+    "taggar": [
+      "riksrevisionen",
+      "granskning"
+    ],
+    "relevans": {
+      "arbetsgivare": 5,
+      "b_bygg": 3,
+      "barn": 5
+    }
+  },
+  {
     "id": "belfast-0610",
     "typ": "nyhet",
     "titel": "Aquí se intentó un corte de cabeza en Belfast",
@@ -3678,6 +3696,24 @@
       "b_vard": 3,
       "b_life": 3,
       "kronisk": 5
+    }
+  },
+  {
+    "id": "rr-kronofogdens-indrivning-av-skulder",
+    "typ": "omvarld",
+    "titel": "Cobro de deudas por parte de la Oficina Nacional de Cobro (RiR 2026:10).",
+    "ingress": "La Oficina de Auditoría Nacional ha revisado cómo la Agencia de Ejecuciones (Kronofogden) reclama deudas y ha constatado que, en general, el trabajo se realiza de manera eficiente, aunque en algunos casos el proceso se alarga demasiado. El",
+    "datum": "2026-05-26",
+    "kalla": "Riksrevisionen",
+    "kalla_url": "https://www.riksrevisionen.se/granskningar/granskningsrapporter/2026/kronofogdens-indrivning-av-skulder.html",
+    "taggar": [
+      "riksrevisionen",
+      "granskning"
+    ],
+    "relevans": {
+      "lantagare": 8,
+      "skuldsatt": 8,
+      "konsument": 3
     }
   },
   {
@@ -10559,6 +10595,24 @@
     }
   },
   {
+    "id": "alingsas-kommunstyrelsen-2025-10-20",
+    "typ": "kommunbeslut",
+    "titel": "Junta Municipal, Ayuntamiento de Alingsås, 20 de octubre de 2025.",
+    "ingress": "La junta de gobierno municipal de Alingsås ha revisado las finanzas para el año 2025 y ha planificado el futuro. También ha tomado la decisión de suspender la construcción de las gradas en Alströmervallen.",
+    "datum": "2025-10-20",
+    "kalla": "Alingsås kommun",
+    "kalla_url": "https://sammantradesportal.alingsas.se/committees/kommunstyrelsen/mote-2025-10-20",
+    "taggar": [
+      "alingsas",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "idrott": 3,
+      "klimat": 3
+    }
+  },
+  {
     "id": "HD0334",
     "typ": "lagforslag",
     "titel": "Reglas más estrictos para la libertad condicional.\n\n# Skärpta regler för villkorlig frigivning\n\nDe nya reglerna innebär bland annat:\n\n*   Längre tid i fängelse innan villkorlig frigivning kan beviljas.\n*   Strängare krav på den dömdes återanpassning till samhället.\n*   Ökad övervakning av den dömde efter frigivningen.\n\nDessa förändringar syftar till att minska risken för återfall i brott.\n\n## Bakgrund\n\nDe tidigare reglerna för villkorlig frigivning har kritiserats för att vara för generösa. Det har funnits exempel på att personer med allvarliga brott mot samhället har blivit villkorligt frigivna för tidigt, vilket har lett till nya brott.\n\n## Konsekvenser\n\nDe nya reglerna kommer att innebära att fler personer kommer att sitta längre tid i fängelse. Detta kan leda till en ökad belastning på fängelserna. Det kan också innebära att vissa personer som tidigare skulle ha blivit villkorligt frigivna nu kommer att få stanna kvar i fängelse.\n\n## Kritik\n\nVissa kritiker menar att de nya reglerna är för hårda och att de kommer att straffa personer som inte utgör en risk för samhället. De menar också att de nya reglerna kommer att göra det svårare för dömda att återanpassa sig till samhället.\n\n## Slutsats\n\nDe nya reglerna för villkorlig frigivning är ett försök att göra rättssystemet mer rättvist och säkert. Det är viktigt att följa upp hur de nya reglerna fungerar i praktiken och att göra justeringar om det behövs.",
@@ -12517,6 +12571,27 @@
       "sjukskriven": 4,
       "lontagare": 3,
       "vuxenstudier": 3
+    }
+  },
+  {
+    "id": "alingsas-kommunfullmaktige-2025-05-07",
+    "typ": "kommunbeslut",
+    "titel": "Actas del pleno municipal, Ayuntamiento de Alingsås, 7 de mayo de 2025.",
+    "ingress": "El ayuntamiento de Alingsås ha revisado sus prácticas en materia de personal e integración, y ha decidido posponer la aprobación del informe anual correspondiente a 2024 debido a un error en el documento. Además, se están actualizando las n",
+    "datum": "2025-05-07",
+    "kalla": "Alingsås kommun",
+    "kalla_url": "https://sammantradesportal.alingsas.se/committees/kommunfullmaktige/mote-2025-05-07",
+    "taggar": [
+      "alingsas",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "arbetsgivare": 5,
+      "b_finans": 3,
+      "redovisning": 3,
+      "pensionar": 3,
+      "ny_i_sverige": 3,
+      "klimat": 3
     }
   },
   {
