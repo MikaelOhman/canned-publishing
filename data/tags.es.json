@@ -307,7 +307,7 @@
   "kommunstyrelsen": {
     "etikett": "El consejo municipal.",
     "typ": "organisation",
-    "antal": 50
+    "antal": 51
   },
   "kommunal-forvaltning": {
     "etikett": "Administración municipal.",
@@ -1316,6 +1316,11 @@
   },
   "soderkoping": {
     "etikett": "Söderköpings.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "solna": {
+    "etikett": "Solna.",
     "typ": "plats",
     "antal": 1
   }

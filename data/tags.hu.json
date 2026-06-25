@@ -307,7 +307,7 @@
   "kommunstyrelsen": {
     "etikett": "A községi tanács.",
     "typ": "organisation",
-    "antal": 50
+    "antal": 51
   },
   "kommunal-forvaltning": {
     "etikett": "Helyi közigazgatás.",
@@ -1316,6 +1316,11 @@
   },
   "soderkoping": {
     "etikett": "Söderköping.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "solna": {
+    "etikett": "Solna",
     "typ": "plats",
     "antal": 1
   }

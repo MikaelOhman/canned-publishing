@@ -372,7 +372,7 @@
   "kommunstyrelsen": {
     "etikett": "Der Gemeinderat.",
     "typ": "organisation",
-    "antal": 50
+    "antal": 51
   },
   "kommunal-forvaltning": {
     "etikett": "Kommunale Verwaltung.",
@@ -1381,6 +1381,11 @@
   },
   "soderkoping": {
     "etikett": "Söderköpings",
+    "typ": "plats",
+    "antal": 1
+  },
+  "solna": {
+    "etikett": "Solna",
     "typ": "plats",
     "antal": 1
   }
