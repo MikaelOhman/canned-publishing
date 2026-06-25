@@ -1503,6 +1503,23 @@
     }
   },
   {
+    "id": "eslov-kommunfullmaktiges-2026-06-15",
+    "typ": "kommunbeslut",
+    "titel": "Municipal Council Meeting, Eslöv Municipality, June 15, 2026.",
+    "ingress": "The municipality of Eslöv has made important decisions regarding housing, finances, and security. They have also approved financial reports and received proposals for improved safety in schools.",
+    "datum": "2026-06-15",
+    "kalla": "Eslövs kommun",
+    "kalla_url": "https://eslov.se/app/uploads/kommunfullmaktiges-protokoll-2026-06-15.pdf",
+    "taggar": [
+      "eslov",
+      "kommunfullmaktiges"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "redovisning": 3
+    }
+  },
+  {
     "id": "tvangsvard-tanum",
     "typ": "nyhet",
     "titel": "Denied Forced Care – Found Dead in the Snow",

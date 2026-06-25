@@ -908,5 +908,15 @@
     "etikett": "Eksjö.",
     "typ": "plats",
     "antal": 1
+  },
+  "eslov": {
+    "etikett": "Eslöv:",
+    "typ": "plats",
+    "antal": 1
+  },
+  "kommunfullmaktiges": {
+    "etikett": "Municipal Council.",
+    "typ": "organisation",
+    "antal": 1
   }
 }
