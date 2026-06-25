@@ -2,12 +2,20 @@
   "_kommentar": "Livssituations-axlar för relevans-gradering ('Min situation'). Användaren bockar i sina axlar; varje artikel får score 0-3 per axel. nyckelord = ämnesord som driver den deterministiska scoringen (och vägleder ev. LLM-förfining). Språkneutrala id; namn lokaliseras via ui.<lang>.json (axlar).",
   "grupper": [
     "familj",
-    "jobb",
+    "alder",
+    "kon",
+    "arbete",
+    "utbildning",
     "boende",
-    "rorlighet",
     "plats",
-    "livsstil",
+    "rorlighet",
     "halsa",
+    "ekonomi",
+    "migration",
+    "livsstil",
+    "trygghet",
+    "engagemang",
+    "digitalt",
     "f_form",
     "f_bransch",
     "f_skatt",
@@ -19,361 +27,6 @@
     "f_utveckling"
   ],
   "axlar": [
-    {
-      "id": "barn",
-      "ikon": "👶",
-      "grupp": "familj",
-      "namn": "Har barn",
-      "nyckelord": [
-        "barn",
-        "förälder",
-        "föräldra",
-        "föräldrapenning",
-        "barnbidrag",
-        "förskola",
-        "skola",
-        "elev",
-        "läroplan",
-        "vab",
-        "underhållsstöd",
-        "familj",
-        "vårdnad",
-        "fritids"
-      ],
-      "lager": "privat"
-    },
-    {
-      "id": "pensionar",
-      "ikon": "👴",
-      "grupp": "familj",
-      "namn": "Pensionär",
-      "nyckelord": [
-        "pension",
-        "pensionär",
-        "äldre",
-        "äldreomsorg",
-        "garantipension",
-        "bostadstillägg",
-        "hemtjänst",
-        "äldreboende"
-      ],
-      "lager": "privat"
-    },
-    {
-      "id": "kvinna",
-      "ikon": "♀",
-      "grupp": "familj",
-      "namn": "Kvinna",
-      "nyckelord": [
-        "abort",
-        "kvinna",
-        "kvinnor",
-        "jämställdhet",
-        "mödravård",
-        "förlossning",
-        "graviditet",
-        "våld mot kvinnor",
-        "föräldraförsäkring"
-      ],
-      "lager": "privat"
-    },
-    {
-      "id": "man",
-      "ikon": "♂",
-      "grupp": "familj",
-      "namn": "Man",
-      "nyckelord": [
-        "värnplikt",
-        "mönstring",
-        "totalförsvar",
-        "prostata"
-      ],
-      "lager": "privat"
-    },
-    {
-      "id": "lontagare",
-      "ikon": "💼",
-      "grupp": "jobb",
-      "namn": "Anställd / löntagare",
-      "nyckelord": [
-        "lön",
-        "anställning",
-        "arbetsrätt",
-        "sjuklön",
-        "sjukpenning",
-        "inkomstskatt",
-        "jobbskatteavdrag",
-        "arbetsmiljö",
-        "facklig",
-        "uppsägning",
-        "a-kassa"
-      ],
-      "lager": "privat"
-    },
-    {
-      "id": "foretagare",
-      "ikon": "🏪",
-      "grupp": "jobb",
-      "namn": "Företagare",
-      "nyckelord": [
-        "moms",
-        "arbetsgivaravgift",
-        "företag",
-        "näringsliv",
-        "regelförenkling",
-        "bolagsskatt",
-        "upphandling",
-        "egenföretagare",
-        "f-skatt",
-        "konkurs"
-      ],
-      "lager": "privat"
-    },
-    {
-      "id": "arbetssokande",
-      "ikon": "🔎",
-      "grupp": "jobb",
-      "namn": "Arbetssökande",
-      "nyckelord": [
-        "arbetslöshet",
-        "a-kassa",
-        "arbetsförmedlingen",
-        "arbetsmarknad",
-        "lönebidrag",
-        "praktik",
-        "omställning"
-      ],
-      "lager": "privat"
-    },
-    {
-      "id": "student",
-      "ikon": "🎓",
-      "grupp": "jobb",
-      "namn": "Studerar",
-      "nyckelord": [
-        "studiemedel",
-        "csn",
-        "studielån",
-        "högskola",
-        "universitet",
-        "studiestöd",
-        "yrkeshögskola",
-        "komvux"
-      ],
-      "lager": "privat"
-    },
-    {
-      "id": "hyresgast",
-      "ikon": "🏢",
-      "grupp": "boende",
-      "namn": "Hyr bostad",
-      "nyckelord": [
-        "hyra",
-        "hyresrätt",
-        "hyresgäst",
-        "bostadsbidrag",
-        "bostadskö",
-        "andrahand",
-        "besittningsskydd",
-        "bruksvärde"
-      ],
-      "lager": "privat"
-    },
-    {
-      "id": "bostadsagare",
-      "ikon": "🏡",
-      "grupp": "boende",
-      "namn": "Äger bostad",
-      "nyckelord": [
-        "bolån",
-        "fastighetsskatt",
-        "fastighetsavgift",
-        "ränteavdrag",
-        "bostadsrätt",
-        "villa",
-        "amortering",
-        "reavinst",
-        "strandskydd",
-        "bygglov"
-      ],
-      "lager": "privat"
-    },
-    {
-      "id": "bil",
-      "ikon": "🚗",
-      "grupp": "rorlighet",
-      "namn": "Har bil",
-      "nyckelord": [
-        "drivmedelsskatt",
-        "bensin",
-        "diesel",
-        "bränsle",
-        "fordonsskatt",
-        "trängselskatt",
-        "reduktionsplikt",
-        "körkort",
-        "väg",
-        "parkering",
-        "elbil",
-        "reseavdrag"
-      ],
-      "lager": "privat"
-    },
-    {
-      "id": "kollektiv",
-      "ikon": "🚌",
-      "grupp": "rorlighet",
-      "namn": "Åker kollektivt",
-      "nyckelord": [
-        "kollektivtrafik",
-        "tåg",
-        "buss",
-        "sj",
-        "biljett",
-        "pendel",
-        "spårväg",
-        "färdtjänst"
-      ],
-      "lager": "privat"
-    },
-    {
-      "id": "glesbygd",
-      "ikon": "🌲",
-      "grupp": "plats",
-      "namn": "Landsbygd / glesbygd",
-      "nyckelord": [
-        "landsbygd",
-        "glesbygd",
-        "bredband",
-        "samhällsservice",
-        "infrastruktur",
-        "lantbruk",
-        "skog",
-        "strandskydd",
-        "vatten och avlopp",
-        "väg"
-      ],
-      "lager": "privat"
-    },
-    {
-      "id": "storstad",
-      "ikon": "🏙",
-      "grupp": "plats",
-      "namn": "Storstad",
-      "nyckelord": [
-        "storstad",
-        "trängsel",
-        "bostadsbrist",
-        "segregation",
-        "kollektivtrafik",
-        "stadsplanering"
-      ],
-      "lager": "privat"
-    },
-    {
-      "id": "jagare",
-      "ikon": "🎯",
-      "grupp": "livsstil",
-      "namn": "Jägare / vapen",
-      "nyckelord": [
-        "jakt",
-        "jägare",
-        "vapenlicens",
-        "vapen",
-        "varg",
-        "rovdjur",
-        "viltvård",
-        "ammunition"
-      ],
-      "lager": "privat"
-    },
-    {
-      "id": "husdjur",
-      "ikon": "🐾",
-      "grupp": "livsstil",
-      "namn": "Har husdjur",
-      "nyckelord": [
-        "husdjur",
-        "hund",
-        "katt",
-        "djurskydd",
-        "djurhållning",
-        "veterinär"
-      ],
-      "lager": "privat"
-    },
-    {
-      "id": "klimat",
-      "ikon": "🌱",
-      "grupp": "livsstil",
-      "namn": "Klimat / miljö",
-      "nyckelord": [
-        "klimat",
-        "miljö",
-        "utsläpp",
-        "förnybar",
-        "energi",
-        "naturvård",
-        "hållbarhet",
-        "koldioxid",
-        "elpris"
-      ],
-      "lager": "privat"
-    },
-    {
-      "id": "ny_i_sverige",
-      "ikon": "🌍",
-      "grupp": "livsstil",
-      "namn": "Ny i Sverige",
-      "nyckelord": [
-        "medborgarskap",
-        "uppehållstillstånd",
-        "arbetstillstånd",
-        "sfi",
-        "migration",
-        "asyl",
-        "integration",
-        "familjeåterförening",
-        "anhörig"
-      ],
-      "lager": "privat"
-    },
-    {
-      "id": "halsa",
-      "ikon": "🩺",
-      "grupp": "halsa",
-      "namn": "Vård & hälsa",
-      "nyckelord": [
-        "vård",
-        "sjukvård",
-        "hälso",
-        "patient",
-        "läkare",
-        "region",
-        "högkostnadsskydd",
-        "läkemedel",
-        "psykiatri",
-        "tandvård",
-        "beroende"
-      ],
-      "lager": "privat"
-    },
-    {
-      "id": "funktion",
-      "ikon": "♿",
-      "grupp": "halsa",
-      "namn": "Funktionsnedsättning",
-      "nyckelord": [
-        "funktionsnedsättning",
-        "lss",
-        "assistans",
-        "tillgänglighet",
-        "färdtjänst",
-        "habilitering",
-        "aktivitetsersättning"
-      ],
-      "lager": "privat"
-    },
     {
       "id": "solo",
       "ikon": "🧑‍💻",
@@ -1168,6 +821,944 @@
         "upphovsrätt",
         "design"
       ]
+    },
+    {
+      "id": "barn",
+      "ikon": "👶",
+      "grupp": "familj",
+      "lager": "privat",
+      "namn": "Har barn",
+      "nyckelord": [
+        "barn",
+        "förälder",
+        "föräldrapenning",
+        "barnbidrag",
+        "förskola",
+        "skola",
+        "vab",
+        "vårdnad",
+        "fritids",
+        "underhållsstöd"
+      ]
+    },
+    {
+      "id": "gravid",
+      "ikon": "🤰",
+      "grupp": "familj",
+      "lager": "privat",
+      "namn": "Väntar barn / gravid",
+      "nyckelord": [
+        "graviditet",
+        "gravid",
+        "mödravård",
+        "förlossning",
+        "föräldraledig"
+      ]
+    },
+    {
+      "id": "ensam_foralder",
+      "ikon": "👩‍👧",
+      "grupp": "familj",
+      "lager": "privat",
+      "namn": "Ensamstående förälder",
+      "nyckelord": [
+        "ensamstående",
+        "underhållsstöd",
+        "växelvis boende",
+        "bostadsbidrag"
+      ]
+    },
+    {
+      "id": "stor_familj",
+      "ikon": "👨‍👩‍👧‍👦",
+      "grupp": "familj",
+      "lager": "privat",
+      "namn": "Stor familj",
+      "nyckelord": [
+        "flerbarnstillägg",
+        "barnfamilj",
+        "familjepolitik"
+      ]
+    },
+    {
+      "id": "sambo_gift",
+      "ikon": "💍",
+      "grupp": "familj",
+      "lager": "privat",
+      "namn": "Sambo / gift",
+      "nyckelord": [
+        "äktenskap",
+        "sambo",
+        "giftorätt",
+        "bodelning"
+      ]
+    },
+    {
+      "id": "skild",
+      "ikon": "💔",
+      "grupp": "familj",
+      "lager": "privat",
+      "namn": "Skild / separation",
+      "nyckelord": [
+        "skilsmässa",
+        "separation",
+        "vårdnadstvist",
+        "bodelning"
+      ]
+    },
+    {
+      "id": "anhorigvardare",
+      "ikon": "🧑‍🦽",
+      "grupp": "familj",
+      "lager": "privat",
+      "namn": "Vårdar anhörig",
+      "nyckelord": [
+        "anhörigvårdare",
+        "närstående",
+        "vårdbidrag",
+        "anhörigstöd"
+      ]
+    },
+    {
+      "id": "ung",
+      "ikon": "🧒",
+      "grupp": "alder",
+      "lager": "privat",
+      "namn": "Barn & ungdom",
+      "nyckelord": [
+        "ungdom",
+        "barnkonventionen",
+        "fritidsgård",
+        "ungdomsmottagning"
+      ]
+    },
+    {
+      "id": "ung_vuxen",
+      "ikon": "🧑",
+      "grupp": "alder",
+      "lager": "privat",
+      "namn": "Ung vuxen (18–25)",
+      "nyckelord": [
+        "ungdomsarbetslöshet",
+        "etableringsjobb",
+        "första bostad"
+      ]
+    },
+    {
+      "id": "pensionar",
+      "ikon": "👴",
+      "grupp": "alder",
+      "lager": "privat",
+      "namn": "Pensionär",
+      "nyckelord": [
+        "pension",
+        "garantipension",
+        "äldreomsorg",
+        "bostadstillägg",
+        "hemtjänst"
+      ]
+    },
+    {
+      "id": "kvinna",
+      "ikon": "♀",
+      "grupp": "kon",
+      "lager": "privat",
+      "namn": "Kvinna",
+      "nyckelord": [
+        "abort",
+        "jämställdhet",
+        "mödravård",
+        "föräldraförsäkring",
+        "kvinnor",
+        "våld mot kvinnor"
+      ]
+    },
+    {
+      "id": "man",
+      "ikon": "♂",
+      "grupp": "kon",
+      "lager": "privat",
+      "namn": "Man",
+      "nyckelord": [
+        "värnplikt",
+        "mönstring",
+        "prostata"
+      ]
+    },
+    {
+      "id": "hbtq",
+      "ikon": "🏳️‍🌈",
+      "grupp": "kon",
+      "lager": "privat",
+      "namn": "Hbtq+",
+      "nyckelord": [
+        "hbtq",
+        "könsidentitet",
+        "samkönad",
+        "transvård",
+        "diskriminering"
+      ]
+    },
+    {
+      "id": "lontagare",
+      "ikon": "💼",
+      "grupp": "arbete",
+      "lager": "privat",
+      "namn": "Anställd / löntagare",
+      "nyckelord": [
+        "lön",
+        "anställning",
+        "arbetsrätt",
+        "sjuklön",
+        "inkomstskatt",
+        "jobbskatteavdrag",
+        "a-kassa",
+        "facklig"
+      ]
+    },
+    {
+      "id": "foretagare",
+      "ikon": "🏪",
+      "grupp": "arbete",
+      "lager": "privat",
+      "namn": "Egenföretagare",
+      "nyckelord": [
+        "egenföretagare",
+        "f-skatt",
+        "näringsidkare",
+        "enskild firma"
+      ]
+    },
+    {
+      "id": "arbetssokande",
+      "ikon": "🔎",
+      "grupp": "arbete",
+      "lager": "privat",
+      "namn": "Arbetssökande",
+      "nyckelord": [
+        "arbetslöshet",
+        "a-kassa",
+        "arbetsförmedlingen",
+        "arbetsmarknad",
+        "omställning"
+      ]
+    },
+    {
+      "id": "sjukskriven",
+      "ikon": "🤒",
+      "grupp": "arbete",
+      "lager": "privat",
+      "namn": "Sjukskriven / långtidssjuk",
+      "nyckelord": [
+        "sjukpenning",
+        "sjukersättning",
+        "rehabilitering",
+        "försäkringskassan"
+      ]
+    },
+    {
+      "id": "foraldraledig",
+      "ikon": "🍼",
+      "grupp": "arbete",
+      "lager": "privat",
+      "namn": "Föräldraledig",
+      "nyckelord": [
+        "föräldrapenning",
+        "föräldraledighet",
+        "vab"
+      ]
+    },
+    {
+      "id": "skiftarbete",
+      "ikon": "🌙",
+      "grupp": "arbete",
+      "lager": "privat",
+      "namn": "Skift / natt / deltid",
+      "nyckelord": [
+        "skiftarbete",
+        "deltid",
+        "obekväm arbetstid",
+        "timanställd"
+      ]
+    },
+    {
+      "id": "bidrag",
+      "ikon": "🤲",
+      "grupp": "arbete",
+      "lager": "privat",
+      "namn": "Försörjningsstöd",
+      "nyckelord": [
+        "försörjningsstöd",
+        "socialbidrag",
+        "ekonomiskt bistånd"
+      ]
+    },
+    {
+      "id": "student",
+      "ikon": "🎓",
+      "grupp": "utbildning",
+      "lager": "privat",
+      "namn": "Studerar (högskola/YH)",
+      "nyckelord": [
+        "studiemedel",
+        "csn",
+        "studielån",
+        "högskola",
+        "universitet",
+        "yrkeshögskola"
+      ]
+    },
+    {
+      "id": "gymnasieelev",
+      "ikon": "🏫",
+      "grupp": "utbildning",
+      "lager": "privat",
+      "namn": "Gymnasieelev",
+      "nyckelord": [
+        "gymnasium",
+        "gymnasieskola",
+        "studiebidrag",
+        "lärling"
+      ]
+    },
+    {
+      "id": "vuxenstudier",
+      "ikon": "📖",
+      "grupp": "utbildning",
+      "lager": "privat",
+      "namn": "Vuxenstudier / omskolning",
+      "nyckelord": [
+        "komvux",
+        "vuxenutbildning",
+        "omställningsstudiestöd",
+        "validering"
+      ]
+    },
+    {
+      "id": "hyresgast",
+      "ikon": "🏢",
+      "grupp": "boende",
+      "lager": "privat",
+      "namn": "Hyr bostad",
+      "nyckelord": [
+        "hyra",
+        "hyresrätt",
+        "bostadsbidrag",
+        "andrahand",
+        "besittningsskydd",
+        "bruksvärde"
+      ]
+    },
+    {
+      "id": "bostadsagare",
+      "ikon": "🏡",
+      "grupp": "boende",
+      "lager": "privat",
+      "namn": "Äger bostad",
+      "nyckelord": [
+        "bolån",
+        "fastighetsskatt",
+        "fastighetsavgift",
+        "ränteavdrag",
+        "bostadsrätt",
+        "villa",
+        "amortering"
+      ]
+    },
+    {
+      "id": "bostadslos",
+      "ikon": "🛏",
+      "grupp": "boende",
+      "lager": "privat",
+      "namn": "Osäkert boende / hemlös",
+      "nyckelord": [
+        "hemlöshet",
+        "vräkning",
+        "akutboende",
+        "bostadssocial"
+      ]
+    },
+    {
+      "id": "bygger",
+      "ikon": "🔨",
+      "grupp": "boende",
+      "lager": "privat",
+      "namn": "Bygger / renoverar",
+      "nyckelord": [
+        "bygglov",
+        "rot-avdrag",
+        "renovering",
+        "strandskydd",
+        "detaljplan"
+      ]
+    },
+    {
+      "id": "glesbygd",
+      "ikon": "🌲",
+      "grupp": "plats",
+      "lager": "privat",
+      "namn": "Landsbygd / glesbygd",
+      "nyckelord": [
+        "landsbygd",
+        "glesbygd",
+        "bredband",
+        "samhällsservice",
+        "lantbruk",
+        "väg"
+      ]
+    },
+    {
+      "id": "storstad",
+      "ikon": "🏙",
+      "grupp": "plats",
+      "lager": "privat",
+      "namn": "Storstad",
+      "nyckelord": [
+        "storstad",
+        "trängsel",
+        "bostadsbrist",
+        "segregation",
+        "stadsplanering"
+      ]
+    },
+    {
+      "id": "mindre_ort",
+      "ikon": "🏘",
+      "grupp": "plats",
+      "lager": "privat",
+      "namn": "Mindre stad / tätort",
+      "nyckelord": [
+        "tätort",
+        "mindre kommun",
+        "centrumhandel"
+      ]
+    },
+    {
+      "id": "pendlare",
+      "ikon": "🚉",
+      "grupp": "plats",
+      "lager": "privat",
+      "namn": "Pendlare",
+      "nyckelord": [
+        "pendling",
+        "reseavdrag",
+        "kollektivtrafik",
+        "trängselskatt"
+      ]
+    },
+    {
+      "id": "bil",
+      "ikon": "🚗",
+      "grupp": "rorlighet",
+      "lager": "privat",
+      "namn": "Har bil",
+      "nyckelord": [
+        "drivmedelsskatt",
+        "bensin",
+        "diesel",
+        "fordonsskatt",
+        "trängselskatt",
+        "reduktionsplikt",
+        "elbil",
+        "reseavdrag",
+        "parkering"
+      ]
+    },
+    {
+      "id": "kollektiv",
+      "ikon": "🚌",
+      "grupp": "rorlighet",
+      "lager": "privat",
+      "namn": "Åker kollektivt",
+      "nyckelord": [
+        "kollektivtrafik",
+        "tåg",
+        "buss",
+        "biljett",
+        "pendel",
+        "spårväg"
+      ]
+    },
+    {
+      "id": "flygresenar",
+      "ikon": "✈️",
+      "grupp": "rorlighet",
+      "lager": "privat",
+      "namn": "Flygresenär",
+      "nyckelord": [
+        "flyg",
+        "flygskatt",
+        "flygplats"
+      ]
+    },
+    {
+      "id": "korkort",
+      "ikon": "🪪",
+      "grupp": "rorlighet",
+      "lager": "privat",
+      "namn": "Tar / har körkort",
+      "nyckelord": [
+        "körkort",
+        "trafikregler",
+        "uppkörning",
+        "trafiksäkerhet"
+      ]
+    },
+    {
+      "id": "kronisk",
+      "ikon": "🩺",
+      "grupp": "halsa",
+      "lager": "privat",
+      "namn": "Kronisk sjukdom / hög vård",
+      "nyckelord": [
+        "kronisk",
+        "vård",
+        "högkostnadsskydd",
+        "läkemedel",
+        "patient",
+        "region"
+      ]
+    },
+    {
+      "id": "funktion",
+      "ikon": "♿",
+      "grupp": "halsa",
+      "lager": "privat",
+      "namn": "Funktionsnedsättning",
+      "nyckelord": [
+        "funktionsnedsättning",
+        "lss",
+        "assistans",
+        "tillgänglighet",
+        "färdtjänst",
+        "habilitering"
+      ]
+    },
+    {
+      "id": "psykisk",
+      "ikon": "🧠",
+      "grupp": "halsa",
+      "lager": "privat",
+      "namn": "Psykisk ohälsa",
+      "nyckelord": [
+        "psykisk ohälsa",
+        "psykiatri",
+        "bup",
+        "suicidprevention"
+      ]
+    },
+    {
+      "id": "beroende",
+      "ikon": "🚬",
+      "grupp": "halsa",
+      "lager": "privat",
+      "namn": "Beroende / missbruk",
+      "nyckelord": [
+        "beroende",
+        "missbruk",
+        "alkohol",
+        "narkotika",
+        "spelberoende"
+      ]
+    },
+    {
+      "id": "tandvard",
+      "ikon": "🦷",
+      "grupp": "halsa",
+      "lager": "privat",
+      "namn": "Tandvård",
+      "nyckelord": [
+        "tandvård",
+        "tandvårdsstöd",
+        "tandläkare"
+      ]
+    },
+    {
+      "id": "sparare",
+      "ikon": "📈",
+      "grupp": "ekonomi",
+      "lager": "privat",
+      "namn": "Sparare / investerare",
+      "nyckelord": [
+        "sparande",
+        "aktier",
+        "fonder",
+        "isk",
+        "ränta",
+        "börs",
+        "kapitalskatt"
+      ]
+    },
+    {
+      "id": "lantagare",
+      "ikon": "💳",
+      "grupp": "ekonomi",
+      "lager": "privat",
+      "namn": "Låntagare",
+      "nyckelord": [
+        "bolån",
+        "studielån",
+        "konsumtionslån",
+        "ränta",
+        "amortering",
+        "skuld"
+      ]
+    },
+    {
+      "id": "skuldsatt",
+      "ikon": "⚠️",
+      "grupp": "ekonomi",
+      "lager": "privat",
+      "namn": "Skuldsatt",
+      "nyckelord": [
+        "kronofogden",
+        "skuldsanering",
+        "inkasso",
+        "överskuldsättning"
+      ]
+    },
+    {
+      "id": "pensionssparare",
+      "ikon": "🐷",
+      "grupp": "ekonomi",
+      "lager": "privat",
+      "namn": "Pensionssparare",
+      "nyckelord": [
+        "tjänstepension",
+        "premiepension",
+        "pensionssparande",
+        "ppm"
+      ]
+    },
+    {
+      "id": "energikund",
+      "ikon": "⚡",
+      "grupp": "ekonomi",
+      "lager": "privat",
+      "namn": "Energikund",
+      "nyckelord": [
+        "elpris",
+        "elstöd",
+        "energi",
+        "uppvärmning",
+        "drivmedel",
+        "elräkning"
+      ]
+    },
+    {
+      "id": "konsument",
+      "ikon": "🛒",
+      "grupp": "ekonomi",
+      "lager": "privat",
+      "namn": "Konsument",
+      "nyckelord": [
+        "priser",
+        "moms",
+        "konsumenträtt",
+        "avgifter",
+        "inflation",
+        "matpriser"
+      ]
+    },
+    {
+      "id": "ny_i_sverige",
+      "ikon": "🌍",
+      "grupp": "migration",
+      "lager": "privat",
+      "namn": "Ny i Sverige",
+      "nyckelord": [
+        "medborgarskap",
+        "uppehållstillstånd",
+        "sfi",
+        "integration",
+        "etablering"
+      ]
+    },
+    {
+      "id": "asyl",
+      "ikon": "🛟",
+      "grupp": "migration",
+      "lager": "privat",
+      "namn": "Asylsökande",
+      "nyckelord": [
+        "asyl",
+        "flykting",
+        "migrationsverket",
+        "massflykt"
+      ]
+    },
+    {
+      "id": "arbetstillstand",
+      "ikon": "🛂",
+      "grupp": "migration",
+      "lager": "privat",
+      "namn": "Arbets- / anhörigtillstånd",
+      "nyckelord": [
+        "arbetstillstånd",
+        "anhöriginvandring",
+        "familjeåterförening"
+      ]
+    },
+    {
+      "id": "utlandssvensk",
+      "ikon": "🧳",
+      "grupp": "migration",
+      "lager": "privat",
+      "namn": "Utlandssvensk",
+      "nyckelord": [
+        "utlandssvensk",
+        "utflyttad",
+        "dubbelt medborgarskap",
+        "sink-skatt"
+      ]
+    },
+    {
+      "id": "jagare",
+      "ikon": "🎯",
+      "grupp": "livsstil",
+      "lager": "privat",
+      "namn": "Jägare / vapen",
+      "nyckelord": [
+        "jakt",
+        "jägare",
+        "vapenlicens",
+        "varg",
+        "rovdjur",
+        "viltvård",
+        "ammunition"
+      ]
+    },
+    {
+      "id": "fiske",
+      "ikon": "🎣",
+      "grupp": "livsstil",
+      "lager": "privat",
+      "namn": "Sportfiske",
+      "nyckelord": [
+        "fiske",
+        "fiskekort",
+        "fiskevatten",
+        "sportfiske"
+      ]
+    },
+    {
+      "id": "husdjur",
+      "ikon": "🐾",
+      "grupp": "livsstil",
+      "lager": "privat",
+      "namn": "Har husdjur",
+      "nyckelord": [
+        "husdjur",
+        "hund",
+        "katt",
+        "djurskydd",
+        "veterinär"
+      ]
+    },
+    {
+      "id": "friluftsliv",
+      "ikon": "🥾",
+      "grupp": "livsstil",
+      "lager": "privat",
+      "namn": "Friluftsliv",
+      "nyckelord": [
+        "allemansrätt",
+        "naturreservat",
+        "friluftsliv",
+        "vandring",
+        "terrängkörning"
+      ]
+    },
+    {
+      "id": "batagare",
+      "ikon": "⛵",
+      "grupp": "livsstil",
+      "lager": "privat",
+      "namn": "Båtägare",
+      "nyckelord": [
+        "båt",
+        "sjötrafik",
+        "hamn",
+        "farled"
+      ]
+    },
+    {
+      "id": "idrott",
+      "ikon": "⚽",
+      "grupp": "livsstil",
+      "lager": "privat",
+      "namn": "Idrott / förening",
+      "nyckelord": [
+        "idrott",
+        "föreningsstöd",
+        "idrottsanläggning",
+        "motion"
+      ]
+    },
+    {
+      "id": "klimat",
+      "ikon": "🌱",
+      "grupp": "livsstil",
+      "lager": "privat",
+      "namn": "Klimat / miljö",
+      "nyckelord": [
+        "klimat",
+        "miljö",
+        "utsläpp",
+        "förnybar",
+        "hållbarhet",
+        "naturvård"
+      ]
+    },
+    {
+      "id": "kultur",
+      "ikon": "🎭",
+      "grupp": "livsstil",
+      "lager": "privat",
+      "namn": "Kultur",
+      "nyckelord": [
+        "kultur",
+        "bibliotek",
+        "kulturstöd",
+        "konst",
+        "scenkonst"
+      ]
+    },
+    {
+      "id": "brottsoffer",
+      "ikon": "🆘",
+      "grupp": "trygghet",
+      "lager": "privat",
+      "namn": "Brottsoffer",
+      "nyckelord": [
+        "brottsoffer",
+        "brottsskadeersättning",
+        "stödcentrum",
+        "kontaktförbud"
+      ]
+    },
+    {
+      "id": "otrygg",
+      "ikon": "🚓",
+      "grupp": "trygghet",
+      "lager": "privat",
+      "namn": "Orolig för brottslighet",
+      "nyckelord": [
+        "brottslighet",
+        "trygghet",
+        "gäng",
+        "polis",
+        "kameraövervakning",
+        "narkotika"
+      ]
+    },
+    {
+      "id": "domd",
+      "ikon": "⚖️",
+      "grupp": "trygghet",
+      "lager": "privat",
+      "namn": "Tidigare dömd / lagöverträdare",
+      "nyckelord": [
+        "kriminalvård",
+        "frivård",
+        "återanpassning",
+        "villkorlig",
+        "påföljd"
+      ]
+    },
+    {
+      "id": "integritet",
+      "ikon": "🔐",
+      "grupp": "trygghet",
+      "lager": "privat",
+      "namn": "Integritet / övervakning",
+      "nyckelord": [
+        "integritet",
+        "övervakning",
+        "datalagring",
+        "personuppgifter",
+        "avlyssning"
+      ]
+    },
+    {
+      "id": "fortroendevald",
+      "ikon": "🗳",
+      "grupp": "engagemang",
+      "lager": "privat",
+      "namn": "Förtroendevald / politiskt aktiv",
+      "nyckelord": [
+        "förtroendevald",
+        "kommunpolitik",
+        "partistöd",
+        "demokrati"
+      ]
+    },
+    {
+      "id": "volontar",
+      "ikon": "🤝",
+      "grupp": "engagemang",
+      "lager": "privat",
+      "namn": "Ideellt engagerad",
+      "nyckelord": [
+        "ideell",
+        "civilsamhälle",
+        "volontär",
+        "föreningsbidrag"
+      ]
+    },
+    {
+      "id": "offentliganstalld",
+      "ikon": "🏛",
+      "grupp": "engagemang",
+      "lager": "privat",
+      "namn": "Offentliganställd",
+      "nyckelord": [
+        "offentliganställd",
+        "statsanställd",
+        "kommunanställd",
+        "tjänstemannaansvar"
+      ]
+    },
+    {
+      "id": "varnpliktig",
+      "ikon": "🪖",
+      "grupp": "engagemang",
+      "lager": "privat",
+      "namn": "Värnplikt / försvar",
+      "nyckelord": [
+        "värnplikt",
+        "totalförsvar",
+        "hemvärn",
+        "försvar",
+        "civilplikt"
+      ]
+    },
+    {
+      "id": "digital_ovan",
+      "ikon": "📵",
+      "grupp": "digitalt",
+      "lager": "privat",
+      "namn": "Digitalt ovan",
+      "nyckelord": [
+        "digital klyfta",
+        "digitalisering",
+        "e-tjänster",
+        "bankid",
+        "kontanter"
+      ]
+    },
+    {
+      "id": "bredbandsberoende",
+      "ikon": "🌐",
+      "grupp": "digitalt",
+      "lager": "privat",
+      "namn": "Beroende av bredband",
+      "nyckelord": [
+        "bredband",
+        "distansarbete",
+        "uppkoppling",
+        "fiber"
+      ]
     }
   ],
   "gruppnamn": {
@@ -1186,7 +1777,16 @@
     "f_marknad": "Marknad & handel",
     "f_lokaler": "Lokaler, mark & energi",
     "f_plats": "Var företaget verkar",
-    "f_utveckling": "Innovation & omställning"
+    "f_utveckling": "Innovation & omställning",
+    "alder": "Ålder & livsfas",
+    "kon": "Kön & identitet",
+    "arbete": "Jobb & försörjning",
+    "utbildning": "Utbildning",
+    "ekonomi": "Pengar & ekonomi",
+    "migration": "Migration & medborgarskap",
+    "trygghet": "Trygghet & rättsväsende",
+    "engagemang": "Samhällsroll",
+    "digitalt": "Digitalt"
   },
   "lagernamn": {
     "privat": "Privatperson",
