@@ -362,7 +362,7 @@
   "kommunstyrelsen": {
     "etikett": "Kommunstyrelsen",
     "typ": "organisation",
-    "antal": 52
+    "antal": 53
   },
   "kommunallagen": {
     "etikett": "Kommunallagen",
@@ -1377,6 +1377,11 @@
   "s-kfn": {
     "etikett": "S KFN",
     "typ": "organisation",
+    "antal": 1
+  },
+  "sandviken": {
+    "etikett": "Sandvikens",
+    "typ": "plats",
     "antal": 1
   }
 }

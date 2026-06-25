@@ -372,7 +372,7 @@
   "kommunstyrelsen": {
     "etikett": "The Municipal Board.",
     "typ": "organisation",
-    "antal": 48
+    "antal": 49
   },
   "kommunal-forvaltning": {
     "etikett": "Municipal administration.",
@@ -1352,6 +1352,11 @@
   "s-kfn": {
     "etikett": "S KFN",
     "typ": "organisation",
+    "antal": 1
+  },
+  "sandviken": {
+    "etikett": "Sandvikens",
+    "typ": "plats",
     "antal": 1
   }
 }

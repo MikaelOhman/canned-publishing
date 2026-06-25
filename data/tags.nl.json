@@ -312,7 +312,7 @@
   "kommunstyrelsen": {
     "etikett": "Het college van burgemeester en wethouders.",
     "typ": "organisation",
-    "antal": 49
+    "antal": 50
   },
   "kommunal-forvaltning": {
     "etikett": "Gemeentelijke administratie.",
@@ -1282,6 +1282,11 @@
   "s-kfn": {
     "etikett": "S KFN",
     "typ": "organisation",
+    "antal": 1
+  },
+  "sandviken": {
+    "etikett": "Sandvikens",
+    "typ": "plats",
     "antal": 1
   }
 }
