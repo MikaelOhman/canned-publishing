@@ -8,9 +8,15 @@
     "plats",
     "livsstil",
     "halsa",
-    "foretag_typ",
-    "foretag_drift",
-    "foretag_bransch"
+    "f_form",
+    "f_bransch",
+    "f_skatt",
+    "f_personal",
+    "f_regler",
+    "f_marknad",
+    "f_lokaler",
+    "f_plats",
+    "f_utveckling"
   ],
   "axlar": [
     {
@@ -369,140 +375,134 @@
       "lager": "privat"
     },
     {
+      "id": "solo",
+      "ikon": "🧑‍💻",
+      "grupp": "f_form",
+      "lager": "foretag",
+      "namn": "Soloföretagare / enskild firma",
+      "nyckelord": [
+        "egenföretagare",
+        "enskild firma",
+        "soloföretag",
+        "frilans",
+        "f-skatt"
+      ]
+    },
+    {
+      "id": "aktiebolag",
+      "ikon": "🏛",
+      "grupp": "f_form",
+      "lager": "foretag",
+      "namn": "Aktiebolag",
+      "nyckelord": [
+        "aktiebolag",
+        "bolagsstämma",
+        "aktieägare",
+        "bolagsrätt",
+        "aktiekapital"
+      ]
+    },
+    {
       "id": "arbetsgivare",
       "ikon": "👥",
-      "grupp": "foretag_typ",
+      "grupp": "f_form",
       "lager": "foretag",
       "namn": "Har anställda",
       "nyckelord": [
         "arbetsgivaravgift",
         "anställd",
-        "arbetsrätt",
-        "sjuklön",
-        "kollektivavtal",
-        "las",
-        "arbetsmiljö"
+        "arbetsgivare",
+        "personal",
+        "löner"
       ]
     },
     {
-      "id": "soloforetagare",
-      "ikon": "🧑‍💻",
-      "grupp": "foretag_typ",
+      "id": "smaforetag",
+      "ikon": "🐣",
+      "grupp": "f_form",
       "lager": "foretag",
-      "namn": "Soloföretagare",
+      "namn": "Litet / växande företag",
       "nyckelord": [
-        "egenföretagare",
-        "enskild firma",
-        "soloföretag",
-        "frilans"
+        "småföretag",
+        "mikroföretag",
+        "startup",
+        "nystartat",
+        "tillväxt",
+        "scaleup"
       ]
     },
     {
-      "id": "moms",
-      "ikon": "🧾",
-      "grupp": "foretag_drift",
-      "lager": "foretag",
-      "namn": "Moms & företagsskatt",
-      "nyckelord": [
-        "moms",
-        "företagsskatt",
-        "bolagsskatt",
-        "f-skatt",
-        "deklaration",
-        "skatteverket"
-      ]
-    },
-    {
-      "id": "upphandling",
-      "ikon": "📋",
-      "grupp": "foretag_drift",
-      "lager": "foretag",
-      "namn": "Säljer till det offentliga",
-      "nyckelord": [
-        "offentlig upphandling",
-        "upphandling",
-        "lou",
-        "ramavtal",
-        "anbud"
-      ]
-    },
-    {
-      "id": "import_export",
-      "ikon": "🌍",
-      "grupp": "foretag_drift",
-      "lager": "foretag",
-      "namn": "Import & export",
-      "nyckelord": [
-        "import",
-        "export",
-        "tull",
-        "eu-handel",
-        "exportstöd",
-        "handelspolitik"
-      ]
-    },
-    {
-      "id": "regelborda",
-      "ikon": "📑",
-      "grupp": "foretag_drift",
-      "lager": "foretag",
-      "namn": "Regler & byråkrati",
-      "nyckelord": [
-        "regelförenkling",
-        "byråkrati",
-        "tillståndsplikt",
-        "rapporteringskrav",
-        "administrativ börda"
-      ]
-    },
-    {
-      "id": "miljotillstand",
-      "ikon": "🏭",
-      "grupp": "foretag_drift",
-      "lager": "foretag",
-      "namn": "Miljötillstånd / reglerad verksamhet",
-      "nyckelord": [
-        "miljötillstånd",
-        "miljöbalken",
-        "utsläpp",
-        "kemikalier",
-        "avfall",
-        "tillståndsplikt"
-      ]
-    },
-    {
-      "id": "lokaler",
+      "id": "storforetag",
       "ikon": "🏢",
-      "grupp": "foretag_drift",
+      "grupp": "f_form",
       "lager": "foretag",
-      "namn": "Lokaler & fastighet",
+      "namn": "Stort företag / koncern",
       "nyckelord": [
-        "lokal",
-        "verksamhetslokal",
-        "hyra lokal",
-        "bygglov",
-        "detaljplan",
-        "fastighet"
+        "koncern",
+        "storföretag",
+        "dotterbolag",
+        "multinationell",
+        "noterat"
       ]
     },
     {
-      "id": "bransch_handel",
-      "ikon": "🛒",
-      "grupp": "foretag_bransch",
+      "id": "familjeforetag",
+      "ikon": "👨‍👩‍👧",
+      "grupp": "f_form",
       "lager": "foretag",
-      "namn": "Handel",
+      "namn": "Familjeföretag",
+      "nyckelord": [
+        "familjeföretag",
+        "generationsskifte",
+        "ägarskifte"
+      ]
+    },
+    {
+      "id": "ideell",
+      "ikon": "🤝",
+      "grupp": "f_form",
+      "lager": "foretag",
+      "namn": "Ideell / förening / kooperativ",
+      "nyckelord": [
+        "ideell förening",
+        "ekonomisk förening",
+        "kooperativ",
+        "civilsamhälle",
+        "allmännytta"
+      ]
+    },
+    {
+      "id": "b_handel",
+      "ikon": "🛒",
+      "grupp": "f_bransch",
+      "lager": "foretag",
+      "namn": "Handel & e-handel",
       "nyckelord": [
         "detaljhandel",
-        "butik",
-        "e-handel",
         "grossist",
+        "e-handel",
+        "butik",
         "konsumentskydd"
       ]
     },
     {
-      "id": "bransch_bygg",
+      "id": "b_industri",
+      "ikon": "🏭",
+      "grupp": "f_bransch",
+      "lager": "foretag",
+      "namn": "Tillverkning & industri",
+      "nyckelord": [
+        "industri",
+        "tillverkning",
+        "produktion",
+        "råvaror",
+        "fabrik"
+      ]
+    },
+    {
+      "id": "b_bygg",
       "ikon": "🏗",
-      "grupp": "foretag_bransch",
+      "grupp": "f_bransch",
       "lager": "foretag",
       "namn": "Bygg & anläggning",
       "nyckelord": [
@@ -510,13 +510,13 @@
         "entreprenad",
         "byggregler",
         "boverket",
-        "bostadsbyggande"
+        "anläggning"
       ]
     },
     {
-      "id": "bransch_transport",
+      "id": "b_transport",
       "ikon": "🚛",
-      "grupp": "foretag_bransch",
+      "grupp": "f_bransch",
       "lager": "foretag",
       "namn": "Transport & logistik",
       "nyckelord": [
@@ -524,64 +524,649 @@
         "yrkestrafik",
         "logistik",
         "transport",
-        "drivmedelsskatt"
+        "sjöfart",
+        "flyg"
       ]
     },
     {
-      "id": "bransch_restaurang",
+      "id": "b_besok",
       "ikon": "🍽",
-      "grupp": "foretag_bransch",
+      "grupp": "f_bransch",
       "lager": "foretag",
-      "namn": "Restaurang & besöksnäring",
+      "namn": "Restaurang, hotell & besöksnäring",
       "nyckelord": [
         "restaurang",
         "servering",
         "alkoholtillstånd",
-        "livsmedel",
         "hotell",
-        "besöksnäring"
+        "besöksnäring",
+        "turism"
       ]
     },
     {
-      "id": "bransch_jordbruk",
+      "id": "b_grona",
       "ikon": "🌾",
-      "grupp": "foretag_bransch",
+      "grupp": "f_bransch",
       "lager": "foretag",
-      "namn": "Jordbruk & skog",
+      "namn": "Jordbruk, skog & fiske",
       "nyckelord": [
         "lantbruk",
         "jordbruk",
+        "skogsbruk",
+        "fiske",
         "gårdsstöd",
-        "djurhållning",
-        "skogsbruk"
+        "djurhållning"
       ]
     },
     {
-      "id": "bransch_it",
-      "ikon": "💻",
-      "grupp": "foretag_bransch",
-      "lager": "foretag",
-      "namn": "IT & tech",
-      "nyckelord": [
-        "digitalisering",
-        "data",
-        "gdpr",
-        "cybersäkerhet",
-        "programvara"
-      ]
-    },
-    {
-      "id": "bransch_vard",
+      "id": "b_vard",
       "ikon": "🏥",
-      "grupp": "foretag_bransch",
+      "grupp": "f_bransch",
       "lager": "foretag",
-      "namn": "Vård & välfärd",
+      "namn": "Vård, omsorg & välfärd",
+      "nyckelord": [
+        "vårdföretag",
+        "omsorg",
+        "assistansersättning",
+        "lov",
+        "välfärd"
+      ]
+    },
+    {
+      "id": "b_utbildning",
+      "ikon": "🎓",
+      "grupp": "f_bransch",
+      "lager": "foretag",
+      "namn": "Utbildning & friskola",
       "nyckelord": [
         "friskola",
-        "välfärd",
-        "lov",
-        "assistansersättning",
-        "vårdföretag"
+        "utbildningsföretag",
+        "skolpeng",
+        "vuxenutbildning"
+      ]
+    },
+    {
+      "id": "b_it",
+      "ikon": "💻",
+      "grupp": "f_bransch",
+      "lager": "foretag",
+      "namn": "IT, tech & telekom",
+      "nyckelord": [
+        "it",
+        "programvara",
+        "telekom",
+        "plattform",
+        "digital tjänst"
+      ]
+    },
+    {
+      "id": "b_finans",
+      "ikon": "🏦",
+      "grupp": "f_bransch",
+      "lager": "foretag",
+      "namn": "Finans, bank & försäkring",
+      "nyckelord": [
+        "bank",
+        "finans",
+        "försäkring",
+        "kredit",
+        "fintech",
+        "finansinspektionen"
+      ]
+    },
+    {
+      "id": "b_fastighet",
+      "ikon": "🏘",
+      "grupp": "f_bransch",
+      "lager": "foretag",
+      "namn": "Fastighet & förvaltning",
+      "nyckelord": [
+        "fastighet",
+        "förvaltning",
+        "hyresvärd",
+        "bostadsbolag"
+      ]
+    },
+    {
+      "id": "b_energi",
+      "ikon": "⚡",
+      "grupp": "f_bransch",
+      "lager": "foretag",
+      "namn": "Energi & el",
+      "nyckelord": [
+        "energi",
+        "elproduktion",
+        "elnät",
+        "kraftvärme",
+        "vindkraft"
+      ]
+    },
+    {
+      "id": "b_kultur",
+      "ikon": "🎭",
+      "grupp": "f_bransch",
+      "lager": "foretag",
+      "namn": "Media, kultur & kreativt",
+      "nyckelord": [
+        "media",
+        "kultur",
+        "film",
+        "musik",
+        "förlag",
+        "reklam"
+      ]
+    },
+    {
+      "id": "b_konsult",
+      "ikon": "📊",
+      "grupp": "f_bransch",
+      "lager": "foretag",
+      "namn": "Konsult & tjänster",
+      "nyckelord": [
+        "konsult",
+        "juridik",
+        "redovisning",
+        "revision",
+        "rådgivning",
+        "bemanning"
+      ]
+    },
+    {
+      "id": "b_life",
+      "ikon": "🔬",
+      "grupp": "f_bransch",
+      "lager": "foretag",
+      "namn": "Life science & läkemedel",
+      "nyckelord": [
+        "läkemedel",
+        "medtech",
+        "life science",
+        "bioteknik",
+        "kliniska prövningar"
+      ]
+    },
+    {
+      "id": "moms",
+      "ikon": "🧾",
+      "grupp": "f_skatt",
+      "lager": "foretag",
+      "namn": "Moms",
+      "nyckelord": [
+        "moms",
+        "mervärdesskatt",
+        "momsdeklaration",
+        "momssats"
+      ]
+    },
+    {
+      "id": "bolagsskatt",
+      "ikon": "💰",
+      "grupp": "f_skatt",
+      "lager": "foretag",
+      "namn": "Bolagsskatt & vinst",
+      "nyckelord": [
+        "bolagsskatt",
+        "företagsskatt",
+        "vinst",
+        "utdelning",
+        "3:12"
+      ]
+    },
+    {
+      "id": "avgifter",
+      "ikon": "📉",
+      "grupp": "f_skatt",
+      "lager": "foretag",
+      "namn": "Arbetsgivaravgifter & löneskatt",
+      "nyckelord": [
+        "arbetsgivaravgift",
+        "löneskatt",
+        "sociala avgifter",
+        "nedsättning"
+      ]
+    },
+    {
+      "id": "punktskatt",
+      "ikon": "🛢",
+      "grupp": "f_skatt",
+      "lager": "foretag",
+      "namn": "Punktskatter",
+      "nyckelord": [
+        "punktskatt",
+        "energiskatt",
+        "drivmedelsskatt",
+        "alkoholskatt",
+        "tobaksskatt",
+        "kemikalieskatt",
+        "plastskatt"
+      ]
+    },
+    {
+      "id": "redovisning",
+      "ikon": "📚",
+      "grupp": "f_skatt",
+      "lager": "foretag",
+      "namn": "Redovisning & revision",
+      "nyckelord": [
+        "bokföring",
+        "årsredovisning",
+        "revision",
+        "redovisningsregler"
+      ]
+    },
+    {
+      "id": "finansiering",
+      "ikon": "🏦",
+      "grupp": "f_skatt",
+      "lager": "foretag",
+      "namn": "Finansiering & kapital",
+      "nyckelord": [
+        "företagslån",
+        "kapital",
+        "investering",
+        "riskkapital",
+        "almi",
+        "exportkredit"
+      ]
+    },
+    {
+      "id": "konkurs",
+      "ikon": "⚖",
+      "grupp": "f_skatt",
+      "lager": "foretag",
+      "namn": "Konkurs & obestånd",
+      "nyckelord": [
+        "konkurs",
+        "rekonstruktion",
+        "obestånd",
+        "ackord"
+      ]
+    },
+    {
+      "id": "arbetsratt",
+      "ikon": "📋",
+      "grupp": "f_personal",
+      "lager": "foretag",
+      "namn": "Arbetsrätt & anställning",
+      "nyckelord": [
+        "las",
+        "arbetsrätt",
+        "anställningsskydd",
+        "uppsägning",
+        "visstid"
+      ]
+    },
+    {
+      "id": "kollektivavtal",
+      "ikon": "🤝",
+      "grupp": "f_personal",
+      "lager": "foretag",
+      "namn": "Kollektivavtal & fack",
+      "nyckelord": [
+        "kollektivavtal",
+        "fack",
+        "medbestämmande",
+        "mbl",
+        "strejk"
+      ]
+    },
+    {
+      "id": "arbetsmiljo",
+      "ikon": "🦺",
+      "grupp": "f_personal",
+      "lager": "foretag",
+      "namn": "Arbetsmiljö & säkerhet",
+      "nyckelord": [
+        "arbetsmiljö",
+        "arbetsmiljöverket",
+        "olycka",
+        "skyddsombud"
+      ]
+    },
+    {
+      "id": "sjuklon",
+      "ikon": "🤒",
+      "grupp": "f_personal",
+      "lager": "foretag",
+      "namn": "Sjuklön & rehab",
+      "nyckelord": [
+        "sjuklön",
+        "sjukpenning",
+        "rehabilitering",
+        "karens"
+      ]
+    },
+    {
+      "id": "kompetens",
+      "ikon": "🎯",
+      "grupp": "f_personal",
+      "lager": "foretag",
+      "namn": "Kompetens & rekrytering",
+      "nyckelord": [
+        "kompetensförsörjning",
+        "rekrytering",
+        "yrkesutbildning",
+        "lärling",
+        "validering"
+      ]
+    },
+    {
+      "id": "arbetskraft_inv",
+      "ikon": "🛂",
+      "grupp": "f_personal",
+      "lager": "foretag",
+      "namn": "Anställa utländsk arbetskraft",
+      "nyckelord": [
+        "arbetstillstånd",
+        "arbetskraftsinvandring",
+        "kompetensutvisning",
+        "lönekrav"
+      ]
+    },
+    {
+      "id": "tillstand",
+      "ikon": "📝",
+      "grupp": "f_regler",
+      "lager": "foretag",
+      "namn": "Tillståndsplikt",
+      "nyckelord": [
+        "tillstånd",
+        "tillståndsplikt",
+        "anmälningsplikt",
+        "licens",
+        "certifiering"
+      ]
+    },
+    {
+      "id": "miljo",
+      "ikon": "🏭",
+      "grupp": "f_regler",
+      "lager": "foretag",
+      "namn": "Miljö, utsläpp & avfall",
+      "nyckelord": [
+        "miljöbalken",
+        "miljötillstånd",
+        "utsläpp",
+        "avfall",
+        "kemikalier",
+        "återvinning"
+      ]
+    },
+    {
+      "id": "produktsakerhet",
+      "ikon": "✅",
+      "grupp": "f_regler",
+      "lager": "foretag",
+      "namn": "Produktsäkerhet & standarder",
+      "nyckelord": [
+        "produktsäkerhet",
+        "ce-märkning",
+        "standard",
+        "marknadskontroll"
+      ]
+    },
+    {
+      "id": "gdpr",
+      "ikon": "🔒",
+      "grupp": "f_regler",
+      "lager": "foretag",
+      "namn": "Dataskydd & cybersäkerhet",
+      "nyckelord": [
+        "gdpr",
+        "dataskydd",
+        "personuppgifter",
+        "cybersäkerhet"
+      ]
+    },
+    {
+      "id": "konsumentratt",
+      "ikon": "🛡",
+      "grupp": "f_regler",
+      "lager": "foretag",
+      "namn": "Konsumenträtt & marknadsföring",
+      "nyckelord": [
+        "konsumenträtt",
+        "marknadsföringslagen",
+        "ångerrätt",
+        "garanti"
+      ]
+    },
+    {
+      "id": "hallbarhetsrapport",
+      "ikon": "📑",
+      "grupp": "f_regler",
+      "lager": "foretag",
+      "namn": "Hållbarhetsrapportering",
+      "nyckelord": [
+        "hållbarhetsredovisning",
+        "csrd",
+        "taxonomi",
+        "rapporteringskrav"
+      ]
+    },
+    {
+      "id": "regelborda",
+      "ikon": "📎",
+      "grupp": "f_regler",
+      "lager": "foretag",
+      "namn": "Regelförenkling & byråkrati",
+      "nyckelord": [
+        "regelförenkling",
+        "byråkrati",
+        "administrativ börda",
+        "tillsyn"
+      ]
+    },
+    {
+      "id": "upphandling",
+      "ikon": "📋",
+      "grupp": "f_marknad",
+      "lager": "foretag",
+      "namn": "Säljer till det offentliga",
+      "nyckelord": [
+        "offentlig upphandling",
+        "lou",
+        "ramavtal",
+        "anbud",
+        "direktupphandling"
+      ]
+    },
+    {
+      "id": "export",
+      "ikon": "📦",
+      "grupp": "f_marknad",
+      "lager": "foretag",
+      "namn": "Export & internationell handel",
+      "nyckelord": [
+        "export",
+        "internationell handel",
+        "exportstöd",
+        "handelsavtal"
+      ]
+    },
+    {
+      "id": "import",
+      "ikon": "🚢",
+      "grupp": "f_marknad",
+      "lager": "foretag",
+      "namn": "Import & leverantörskedja",
+      "nyckelord": [
+        "import",
+        "tull",
+        "leverantörskedja",
+        "införsel"
+      ]
+    },
+    {
+      "id": "eu_marknad",
+      "ikon": "🇪🇺",
+      "grupp": "f_marknad",
+      "lager": "foretag",
+      "namn": "EU:s inre marknad & EU-regler",
+      "nyckelord": [
+        "inre marknaden",
+        "eu-direktiv",
+        "eu-förordning",
+        "harmonisering"
+      ]
+    },
+    {
+      "id": "konkurrens",
+      "ikon": "⚖",
+      "grupp": "f_marknad",
+      "lager": "foretag",
+      "namn": "Konkurrens & statsstöd",
+      "nyckelord": [
+        "konkurrens",
+        "konkurrensverket",
+        "statsstöd",
+        "kartell"
+      ]
+    },
+    {
+      "id": "lokaler",
+      "ikon": "🏢",
+      "grupp": "f_lokaler",
+      "lager": "foretag",
+      "namn": "Verksamhetslokaler",
+      "nyckelord": [
+        "verksamhetslokal",
+        "lokalhyra",
+        "kontor",
+        "lokaler"
+      ]
+    },
+    {
+      "id": "mark_bygglov",
+      "ikon": "🗺",
+      "grupp": "f_lokaler",
+      "lager": "foretag",
+      "namn": "Mark, bygglov & etablering",
+      "nyckelord": [
+        "bygglov",
+        "detaljplan",
+        "etablering",
+        "industrimark"
+      ]
+    },
+    {
+      "id": "energiintensiv",
+      "ikon": "⚡",
+      "grupp": "f_lokaler",
+      "lager": "foretag",
+      "namn": "Energiintensiv verksamhet",
+      "nyckelord": [
+        "elpris",
+        "energikostnad",
+        "elstöd",
+        "energiintensiv"
+      ]
+    },
+    {
+      "id": "infrastruktur",
+      "ikon": "🛣",
+      "grupp": "f_lokaler",
+      "lager": "foretag",
+      "namn": "Infrastruktur & bredband",
+      "nyckelord": [
+        "infrastruktur",
+        "bredband",
+        "järnväg",
+        "hamn",
+        "laddinfrastruktur"
+      ]
+    },
+    {
+      "id": "f_landsbygd",
+      "ikon": "🌲",
+      "grupp": "f_plats",
+      "lager": "foretag",
+      "namn": "Landsbygd / regionalstöd",
+      "nyckelord": [
+        "regionalstöd",
+        "landsbygd",
+        "glesbygd",
+        "etableringsstöd"
+      ]
+    },
+    {
+      "id": "f_storstad",
+      "ikon": "🏙",
+      "grupp": "f_plats",
+      "lager": "foretag",
+      "namn": "Storstad",
+      "nyckelord": [
+        "storstad",
+        "citykärna",
+        "urban",
+        "trängsel"
+      ]
+    },
+    {
+      "id": "f_kommun",
+      "ikon": "🏛",
+      "grupp": "f_plats",
+      "lager": "foretag",
+      "namn": "Berörs av kommunala beslut",
+      "nyckelord": [
+        "kommunala taxor",
+        "näringslivsklimat",
+        "markanvisning",
+        "tillsynsavgift"
+      ]
+    },
+    {
+      "id": "fou",
+      "ikon": "🔬",
+      "grupp": "f_utveckling",
+      "lager": "foretag",
+      "namn": "FoU & innovation",
+      "nyckelord": [
+        "forskning",
+        "innovation",
+        "fou-avdrag",
+        "vinnova"
+      ]
+    },
+    {
+      "id": "digitalisering",
+      "ikon": "🤖",
+      "grupp": "f_utveckling",
+      "lager": "foretag",
+      "namn": "Digitalisering & AI",
+      "nyckelord": [
+        "digitalisering",
+        "automation",
+        "e-förvaltning",
+        "artificiell intelligens"
+      ]
+    },
+    {
+      "id": "gron_omstallning",
+      "ikon": "♻",
+      "grupp": "f_utveckling",
+      "lager": "foretag",
+      "namn": "Grön omställning",
+      "nyckelord": [
+        "grön omställning",
+        "klimatomställning",
+        "elektrifiering",
+        "industrikliv",
+        "fossilfritt"
+      ]
+    },
+    {
+      "id": "immaterialratt",
+      "ikon": "💡",
+      "grupp": "f_utveckling",
+      "lager": "foretag",
+      "namn": "Patent & immaterialrätt",
+      "nyckelord": [
+        "patent",
+        "immaterialrätt",
+        "varumärke",
+        "upphovsrätt",
+        "design"
       ]
     }
   ],
@@ -593,9 +1178,15 @@
     "plats": "Var du bor",
     "livsstil": "Intressen & livsstil",
     "halsa": "Hälsa & funktion",
-    "foretag_typ": "Företagstyp",
-    "foretag_drift": "Drift & ekonomi",
-    "foretag_bransch": "Bransch"
+    "f_form": "Företagsform & storlek",
+    "f_bransch": "Bransch",
+    "f_skatt": "Skatt & avgifter",
+    "f_personal": "Personal & arbetsgivare",
+    "f_regler": "Tillstånd & regelverk",
+    "f_marknad": "Marknad & handel",
+    "f_lokaler": "Lokaler, mark & energi",
+    "f_plats": "Var företaget verkar",
+    "f_utveckling": "Innovation & omställning"
   },
   "lagernamn": {
     "privat": "Privatperson",
