@@ -9048,6 +9048,24 @@
     }
   },
   {
+    "id": "norrtalje-kommunfullmaktige-2025-12-15",
+    "typ": "kommunbeslut",
+    "titel": "Norrtälje önkormányzat közgyűlése, 2025. december 15.",
+    "ingress": "Az önkormányzat egy jelentést kapott, amely felméri, mennyire működnek jól a szabadidő klubok. A jelentést bemutatták a közgyűlésben részt vevő politikusoknak.",
+    "datum": "2025-12-15",
+    "kalla": "Norrtälje kommun",
+    "kalla_url": "https://forum.norrtalje.se/committees/kommunfullmaktige/mote-2025-12-15",
+    "taggar": [
+      "norrtalje",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_konsult": 3,
+      "redovisning": 3,
+      "barn": 3
+    }
+  },
+  {
     "id": "HD0379",
     "typ": "lagforslag",
     "titel": "A Svéd Számvevőszék jelentése a Nemzeti Adóhatóság intézkedéseiről a feketemunka elleni küzdelemben.",
@@ -11059,6 +11077,26 @@
       "konsument": 3,
       "pensionssparare": 3,
       "sparare": 3
+    }
+  },
+  {
+    "id": "alingsas-kommunstyrelsen-2025-09-22",
+    "typ": "kommunbeslut",
+    "titel": "A kommunális bizottság, Alingsås önkormányzata, 2025. szeptember 22.",
+    "ingress": "Az Alingsås önkormányzat gazdasági bizottsága felülvizsgálta a 2025 első félévének gazdasági helyzetét. A gazdaság stabilnak tűnik, és összhangban van a tervekkel, bizonyos építési projektekben pedig pozitív eredmények születtek.",
+    "datum": "2025-09-22",
+    "kalla": "Alingsås kommun",
+    "kalla_url": "https://sammantradesportal.alingsas.se/committees/kommunstyrelsen/mote-2025-09-22",
+    "taggar": [
+      "alingsas",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "arbetsgivare": 5,
+      "smaforetag": 3,
+      "b_bygg": 3,
+      "arbetsmiljo": 3,
+      "lontagare": 3
     }
   },
   {

@@ -9154,6 +9154,24 @@
     }
   },
   {
+    "id": "norrtalje-kommunfullmaktige-2025-12-15",
+    "typ": "kommunbeslut",
+    "titel": "Gemeenteraad, gemeente Norrtälje, 15 december 2025.",
+    "ingress": "De gemeente heeft een rapport ontvangen waarin wordt onderzocht hoe goed de buitenschoolse opvanglocaties presteren. Dit rapport is aan de gemeenteraadsleden gepresenteerd.",
+    "datum": "2025-12-15",
+    "kalla": "Norrtälje kommun",
+    "kalla_url": "https://forum.norrtalje.se/committees/kommunfullmaktige/mote-2025-12-15",
+    "taggar": [
+      "norrtalje",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_konsult": 3,
+      "redovisning": 3,
+      "barn": 3
+    }
+  },
+  {
     "id": "HD0379",
     "typ": "lagforslag",
     "titel": "Het rapport van de Rijksrekenkamer over de maatregelen van de Belastingdienst tegen zwartwerk.",
@@ -11165,6 +11183,26 @@
       "konsument": 3,
       "pensionssparare": 3,
       "sparare": 3
+    }
+  },
+  {
+    "id": "alingsas-kommunstyrelsen-2025-09-22",
+    "typ": "kommunbeslut",
+    "titel": "College van burgemeesters en wethouders, gemeente Alingsås, 22 september 2025.",
+    "ingress": "Het college van burgemeester en wethouders van Alingsås heeft de financiële situatie van het eerste halfjaar van 2025 doorgenomen. De financiële situatie lijkt stabiel en verloopt volgens de planning, met enkele positieve resultaten in proj",
+    "datum": "2025-09-22",
+    "kalla": "Alingsås kommun",
+    "kalla_url": "https://sammantradesportal.alingsas.se/committees/kommunstyrelsen/mote-2025-09-22",
+    "taggar": [
+      "alingsas",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "arbetsgivare": 5,
+      "smaforetag": 3,
+      "b_bygg": 3,
+      "arbetsmiljo": 3,
+      "lontagare": 3
     }
   },
   {

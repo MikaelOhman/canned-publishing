@@ -9184,6 +9184,24 @@
     }
   },
   {
+    "id": "norrtalje-kommunfullmaktige-2025-12-15",
+    "typ": "kommunbeslut",
+    "titel": "Gemeindevertretung, Gemeinde Norrtälje, 15. Dezember 2025.",
+    "ingress": "Die Gemeinde hat einen Bericht erhalten, der untersucht, wie gut die Einrichtungen für die Betreuung von Kindern und Jugendlichen sind. Dieser Bericht wurde den Politikern im Gemeinderat vorgelegt.",
+    "datum": "2025-12-15",
+    "kalla": "Norrtälje kommun",
+    "kalla_url": "https://forum.norrtalje.se/committees/kommunfullmaktige/mote-2025-12-15",
+    "taggar": [
+      "norrtalje",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_konsult": 3,
+      "redovisning": 3,
+      "barn": 3
+    }
+  },
+  {
     "id": "HD0379",
     "typ": "lagforslag",
     "titel": "Bericht des Riksrevisionen über die Maßnahmen des Steueramtes gegen Schwarzarbeit.",
@@ -11195,6 +11213,26 @@
       "konsument": 3,
       "pensionssparare": 3,
       "sparare": 3
+    }
+  },
+  {
+    "id": "alingsas-kommunstyrelsen-2025-09-22",
+    "typ": "kommunbeslut",
+    "titel": "Gemeindeverwaltungsrat, Gemeinde Alingsås, 22.09.2025.",
+    "ingress": "Der Gemeinderat von Alingsås hat die Wirtschaftslage für die erste Hälfte des Jahres 2025 geprüft. Die Wirtschaft scheint stabil und folgt den Planungen, wobei es in Projekten im Bereich des Bauwesens einige positive Ergebnisse gibt.",
+    "datum": "2025-09-22",
+    "kalla": "Alingsås kommun",
+    "kalla_url": "https://sammantradesportal.alingsas.se/committees/kommunstyrelsen/mote-2025-09-22",
+    "taggar": [
+      "alingsas",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "arbetsgivare": 5,
+      "smaforetag": 3,
+      "b_bygg": 3,
+      "arbetsmiljo": 3,
+      "lontagare": 3
     }
   },
   {

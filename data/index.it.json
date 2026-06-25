@@ -9154,6 +9154,24 @@
     }
   },
   {
+    "id": "norrtalje-kommunfullmaktige-2025-12-15",
+    "typ": "kommunbeslut",
+    "titel": "Consiglio comunale, Comune di Norrtälje, 15 dicembre 2025.",
+    "ingress": "Il comune ha ricevuto una relazione che analizza la qualità dei servizi offerti nelle strutture per attività ricreative. Questa relazione è stata presentata ai politici del consiglio comunale.",
+    "datum": "2025-12-15",
+    "kalla": "Norrtälje kommun",
+    "kalla_url": "https://forum.norrtalje.se/committees/kommunfullmaktige/mote-2025-12-15",
+    "taggar": [
+      "norrtalje",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_konsult": 3,
+      "redovisning": 3,
+      "barn": 3
+    }
+  },
+  {
     "id": "HD0379",
     "typ": "lagforslag",
     "titel": "Relazione della Corte dei Conti sulle azioni dell'Agenzia delle Entrate contro il lavoro nero.",
@@ -11165,6 +11183,26 @@
       "konsument": 3,
       "pensionssparare": 3,
       "sparare": 3
+    }
+  },
+  {
+    "id": "alingsas-kommunstyrelsen-2025-09-22",
+    "typ": "kommunbeslut",
+    "titel": "Comitato esecutivo, Comune di Alingsås, 22 settembre 2025.",
+    "ingress": "La giunta comunale di Alingsås ha esaminato i bilanci relativi al primo semestre del 2025. La situazione finanziaria appare stabile e in linea con le previsioni, con risultati positivi in alcuni progetti relativi all'edilizia.",
+    "datum": "2025-09-22",
+    "kalla": "Alingsås kommun",
+    "kalla_url": "https://sammantradesportal.alingsas.se/committees/kommunstyrelsen/mote-2025-09-22",
+    "taggar": [
+      "alingsas",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "arbetsgivare": 5,
+      "smaforetag": 3,
+      "b_bygg": 3,
+      "arbetsmiljo": 3,
+      "lontagare": 3
     }
   },
   {
