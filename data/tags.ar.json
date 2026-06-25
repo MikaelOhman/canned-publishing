@@ -653,5 +653,15 @@
     "etikett": "Tierps",
     "typ": "plats",
     "antal": 1
+  },
+  "tyreso": {
+    "etikett": "\"Tyresö\"",
+    "typ": "plats",
+    "antal": 1
+  },
+  "tyreso-bostader-ab": {
+    "etikett": "شركة \"تيريسو\" للإسكان المحدودة.",
+    "typ": "organisation",
+    "antal": 1
   }
 }

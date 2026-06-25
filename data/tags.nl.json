@@ -633,5 +633,15 @@
     "etikett": "Tierps.",
     "typ": "plats",
     "antal": 1
+  },
+  "tyreso": {
+    "etikett": "Tyresö",
+    "typ": "plats",
+    "antal": 1
+  },
+  "tyreso-bostader-ab": {
+    "etikett": "Tyresö Bostäder AB",
+    "typ": "organisation",
+    "antal": 1
   }
 }
