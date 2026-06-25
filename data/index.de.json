@@ -2283,6 +2283,24 @@
     }
   },
   {
+    "id": "stockholm-kommunstyrelsen-2026-05-13",
+    "typ": "kommunbeslut",
+    "titel": "Gemeindeverwaltungsrat, Stadt Stockholm, 13. Mai 2026.",
+    "ingress": "Der Gemeinderat hat beschlossen, dass Stockholm alle Aktien des Unternehmens Kista Utveckling AB erwerben soll, um die Entwicklung in Kista zu steuern. Außerdem wurden Vorschläge für einen neuen Schießstand und Maßnahmen zur Kriminalprävent",
+    "datum": "2026-05-13",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunstyrelsen/mote-2026-05-13",
+    "taggar": [
+      "stockholm",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "storstad": 3,
+      "sparare": 3
+    }
+  },
+  {
     "id": "bollebygd-kommunstyrelsen-2026-05-12",
     "typ": "kommunbeslut",
     "titel": "Gemeindeverwaltungsrat, Gemeinde Bollebygd, 12.05.2026.",
@@ -2663,6 +2681,31 @@
       "gron_omstallning": 3,
       "glesbygd": 3,
       "mindre_ort": 4,
+      "klimat": 3
+    }
+  },
+  {
+    "id": "stockholm-kommunfullmaktige-2026-05-04",
+    "typ": "kommunbeslut",
+    "titel": "Gemeindevertretung, Stadt Stockholm, 4. Mai 2026.",
+    "ingress": "Bei der Sitzung des Stadtrats von Stockholm am 4. Mai 2026 wurden zahlreiche Fragen von Politikern zu verschiedenen Themen behandelt, darunter Verkehrsregeln und Kindergesundheitsversorgung. Es wurden auch wichtige rechtliche Entscheidungen",
+    "datum": "2026-05-04",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunfullmaktige/mote-2026-05-04",
+    "taggar": [
+      "stockholm",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_fastighet": 3,
+      "lokaler": 3,
+      "barn": 5,
+      "bil": 3,
+      "kollektiv": 3,
+      "korkort": 3,
+      "kronisk": 3,
+      "beroende": 3,
       "klimat": 3
     }
   },

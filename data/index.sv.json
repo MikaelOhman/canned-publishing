@@ -2347,6 +2347,24 @@
     }
   },
   {
+    "id": "stockholm-kommunstyrelsen-2026-05-13",
+    "typ": "kommunbeslut",
+    "titel": "Kommunstyrelsen, Stockholms stad 2026-05-13",
+    "ingress": "Kommunstyrelsen har beslutat att Stockholm ska köpa alla aktier i bolaget Kista Utveckling AB för att styra utvecklingen i Kista. De har även behandlat förslag om en ny skjutbana och arbetet med att förebygga brott.",
+    "datum": "2026-05-13",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunstyrelsen/mote-2026-05-13",
+    "taggar": [
+      "stockholm",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "storstad": 3,
+      "sparare": 3
+    }
+  },
+  {
     "id": "bollebygd-kommunstyrelsen-2026-05-12",
     "typ": "kommunbeslut",
     "titel": "Kommunstyrelsen, Bollebygds kommun 2026-05-12",
@@ -2727,6 +2745,31 @@
       "gron_omstallning": 3,
       "glesbygd": 3,
       "mindre_ort": 4,
+      "klimat": 3
+    }
+  },
+  {
+    "id": "stockholm-kommunfullmaktige-2026-05-04",
+    "typ": "kommunbeslut",
+    "titel": "Kommunfullmäktige, Stockholms stad 2026-05-04",
+    "ingress": "Under mötet i Stockholms kommunfullmäktige den 4 maj 2026 besvarades flera frågor från politiker om allt från trafikregler till vård för barn. Man diskuterade även viktiga rättsliga beslut som rör miljözoner och byggprojekt i staden.",
+    "datum": "2026-05-04",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunfullmaktige/mote-2026-05-04",
+    "taggar": [
+      "stockholm",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_fastighet": 3,
+      "lokaler": 3,
+      "barn": 5,
+      "bil": 3,
+      "kollektiv": 3,
+      "korkort": 3,
+      "kronisk": 3,
+      "beroende": 3,
       "klimat": 3
     }
   },

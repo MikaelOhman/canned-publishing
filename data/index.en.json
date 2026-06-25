@@ -2327,6 +2327,24 @@
     }
   },
   {
+    "id": "stockholm-kommunstyrelsen-2026-05-13",
+    "typ": "kommunbeslut",
+    "titel": "City Council, City of Stockholm, May 13, 2026.",
+    "ingress": "The City Council has decided that Stockholm will purchase all shares in the company Kista Utveckling AB in order to control the development in the Kista area. They also discussed proposals for a new shooting range and initiatives to prevent",
+    "datum": "2026-05-13",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunstyrelsen/mote-2026-05-13",
+    "taggar": [
+      "stockholm",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "storstad": 3,
+      "sparare": 3
+    }
+  },
+  {
     "id": "bollebygd-kommunstyrelsen-2026-05-12",
     "typ": "kommunbeslut",
     "titel": "The Municipal Board, Bollebygds Municipality, May 12, 2026.",
@@ -2707,6 +2725,31 @@
       "gron_omstallning": 3,
       "glesbygd": 3,
       "mindre_ort": 4,
+      "klimat": 3
+    }
+  },
+  {
+    "id": "stockholm-kommunfullmaktige-2026-05-04",
+    "typ": "kommunbeslut",
+    "titel": "City Council Meeting, Stockholm City, May 4, 2026.",
+    "ingress": "During the meeting of the Stockholm Municipal Council on May 4, 2026, several questions were raised by politicians, covering a wide range of topics from traffic regulations to childcare. Discussions also focused on important legal decisions",
+    "datum": "2026-05-04",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunfullmaktige/mote-2026-05-04",
+    "taggar": [
+      "stockholm",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_fastighet": 3,
+      "lokaler": 3,
+      "barn": 5,
+      "bil": 3,
+      "kollektiv": 3,
+      "korkort": 3,
+      "kronisk": 3,
+      "beroende": 3,
       "klimat": 3
     }
   },

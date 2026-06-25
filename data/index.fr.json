@@ -2252,6 +2252,24 @@
     }
   },
   {
+    "id": "stockholm-kommunstyrelsen-2026-05-13",
+    "typ": "kommunbeslut",
+    "titel": "Commission municipale, Ville de Stockholm, 13 mai 2026.",
+    "ingress": "Le conseil municipal a pris la décision que Stockholm achète toutes les actions de la société Kista Utveckling AB afin de contrôler le développement de Kista. Il a également examiné des propositions concernant une nouvelle piste de tir et l",
+    "datum": "2026-05-13",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunstyrelsen/mote-2026-05-13",
+    "taggar": [
+      "stockholm",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "storstad": 3,
+      "sparare": 3
+    }
+  },
+  {
     "id": "bollebygd-kommunstyrelsen-2026-05-12",
     "typ": "kommunbeslut",
     "titel": "Conseil municipal, Commune de Bollebygd, 12 mai 2026.",
@@ -2632,6 +2650,31 @@
       "gron_omstallning": 3,
       "glesbygd": 3,
       "mindre_ort": 4,
+      "klimat": 3
+    }
+  },
+  {
+    "id": "stockholm-kommunfullmaktige-2026-05-04",
+    "typ": "kommunbeslut",
+    "titel": "Conseil municipal, Ville de Stockholm, 4 mai 2026.",
+    "ingress": "Lors de la réunion du conseil municipal de Stockholm du 4 mai 2026, plusieurs questions ont été posées par les élus, portant sur des sujets variés, allant des règles de circulation aux soins pour les enfants. Des décisions juridiques import",
+    "datum": "2026-05-04",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunfullmaktige/mote-2026-05-04",
+    "taggar": [
+      "stockholm",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_fastighet": 3,
+      "lokaler": 3,
+      "barn": 5,
+      "bil": 3,
+      "kollektiv": 3,
+      "korkort": 3,
+      "kronisk": 3,
+      "beroende": 3,
       "klimat": 3
     }
   },

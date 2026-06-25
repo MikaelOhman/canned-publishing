@@ -2253,6 +2253,24 @@
     }
   },
   {
+    "id": "stockholm-kommunstyrelsen-2026-05-13",
+    "typ": "kommunbeslut",
+    "titel": "Comitato esecutivo, Comune di Stoccolma, 13 maggio 2026.",
+    "ingress": "La giunta comunale ha deciso che Stoccolma acquisterà tutte le azioni della società Kista Utveckling AB, al fine di controllare lo sviluppo della zona di Kista. Inoltre, la giunta ha discusso proposte relative alla costruzione di una nuova",
+    "datum": "2026-05-13",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunstyrelsen/mote-2026-05-13",
+    "taggar": [
+      "stockholm",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "storstad": 3,
+      "sparare": 3
+    }
+  },
+  {
     "id": "bollebygd-kommunstyrelsen-2026-05-12",
     "typ": "kommunbeslut",
     "titel": "Al Comune di Bollebygds,\nCommissione esecutiva,\n12 maggio 2026.",
@@ -2633,6 +2651,31 @@
       "gron_omstallning": 3,
       "glesbygd": 3,
       "mindre_ort": 4,
+      "klimat": 3
+    }
+  },
+  {
+    "id": "stockholm-kommunfullmaktige-2026-05-04",
+    "typ": "kommunbeslut",
+    "titel": "Consiglio comunale, Comune di Stoccolma, 4 maggio 2026.",
+    "ingress": "Durante la riunione del consiglio comunale di Stoccolma del 4 maggio 2026, sono state poste diverse domande da parte dei politici su una vasta gamma di argomenti, che vanno dalle regole del traffico all'assistenza sanitaria per i bambini. S",
+    "datum": "2026-05-04",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunfullmaktige/mote-2026-05-04",
+    "taggar": [
+      "stockholm",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_fastighet": 3,
+      "lokaler": 3,
+      "barn": 5,
+      "bil": 3,
+      "kollektiv": 3,
+      "korkort": 3,
+      "kronisk": 3,
+      "beroende": 3,
       "klimat": 3
     }
   },

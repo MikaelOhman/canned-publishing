@@ -2225,6 +2225,24 @@
     }
   },
   {
+    "id": "stockholm-kommunstyrelsen-2026-05-13",
+    "typ": "kommunbeslut",
+    "titel": "Comisia municipală, Primăria Stockholmului, 13 mai 2026.",
+    "ingress": "Consiliul municipal a decis ca Stockholm să achiziționeze toate acțiunile companiei Kista Utveckling AB, cu scopul de a controla dezvoltarea din zona Kista. De asemenea, au discutat propuneri privind construirea unei noi piste de tir și au",
+    "datum": "2026-05-13",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunstyrelsen/mote-2026-05-13",
+    "taggar": [
+      "stockholm",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "storstad": 3,
+      "sparare": 3
+    }
+  },
+  {
     "id": "bollebygd-kommunstyrelsen-2026-05-12",
     "typ": "kommunbeslut",
     "titel": "Consiliul municipal, comuna Bollebygd, 12 mai 2026.",
@@ -2605,6 +2623,31 @@
       "gron_omstallning": 3,
       "glesbygd": 3,
       "mindre_ort": 4,
+      "klimat": 3
+    }
+  },
+  {
+    "id": "stockholm-kommunfullmaktige-2026-05-04",
+    "typ": "kommunbeslut",
+    "titel": "Consiliul Municipal, Primăria Stockholm, 4 mai 2026.",
+    "ingress": "În timpul ședinței Consiliului Municipal din Stockholm, desfășurată pe 4 mai 2026, au fost adresate numeroase întrebări de către politicieni, acoperind o gamă largă de subiecte, de la regulile de circulație până la îngrijirea copiilor. De a",
+    "datum": "2026-05-04",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunfullmaktige/mote-2026-05-04",
+    "taggar": [
+      "stockholm",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_fastighet": 3,
+      "lokaler": 3,
+      "barn": 5,
+      "bil": 3,
+      "kollektiv": 3,
+      "korkort": 3,
+      "kronisk": 3,
+      "beroende": 3,
       "klimat": 3
     }
   },

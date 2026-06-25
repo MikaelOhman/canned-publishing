@@ -2254,6 +2254,24 @@
     }
   },
   {
+    "id": "stockholm-kommunstyrelsen-2026-05-13",
+    "typ": "kommunbeslut",
+    "titel": "شورای شهر، شهرداری استکهلم، 2026-05-13",
+    "ingress": "شورای شهر استکهلم تصمیم گرفته است که شهرداری استکهلم تمام سهام شرکت Kista Utveckling AB را خریداری کند تا بر توسعه منطقه کیستا نظارت داشته باشد. همچنین، این شورا به بررسی پیشنهادهایی در مورد ساخت یک محدوده تیراندازی جدید و همچنین تلاش‌ها بر",
+    "datum": "2026-05-13",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunstyrelsen/mote-2026-05-13",
+    "taggar": [
+      "stockholm",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "storstad": 3,
+      "sparare": 3
+    }
+  },
+  {
     "id": "bollebygd-kommunstyrelsen-2026-05-12",
     "typ": "kommunbeslut",
     "titel": "شورای شهر، شهرداری بولهبیگد، 2026-05-12.",
@@ -2634,6 +2652,31 @@
       "gron_omstallning": 3,
       "glesbygd": 3,
       "mindre_ort": 4,
+      "klimat": 3
+    }
+  },
+  {
+    "id": "stockholm-kommunfullmaktige-2026-05-04",
+    "typ": "kommunbeslut",
+    "titel": "جلسه شورای شهر، شهرداری استکهلم، 4 مه 2026.",
+    "ingress": "در جلسه شورای شهر استکهلم که در تاریخ 4 مه 2026 برگزار شد، به سوالات متعددی از سوی نمایندگان مجلس در مورد موضوعات مختلف، از جمله قوانین ترافیکی و خدمات درمانی برای کودکان، پاسخ داده شد. همچنین، در مورد تصمیمات حقوقی مهم مربوط به مناطق حفاظت",
+    "datum": "2026-05-04",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunfullmaktige/mote-2026-05-04",
+    "taggar": [
+      "stockholm",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_fastighet": 3,
+      "lokaler": 3,
+      "barn": 5,
+      "bil": 3,
+      "kollektiv": 3,
+      "korkort": 3,
+      "kronisk": 3,
+      "beroende": 3,
       "klimat": 3
     }
   },

@@ -2253,6 +2253,24 @@
     }
   },
   {
+    "id": "stockholm-kommunstyrelsen-2026-05-13",
+    "typ": "kommunbeslut",
+    "titel": "College van burgemeesters en wethouders, Gemeente Stockholm, 13 mei 2026.",
+    "ingress": "Het gemeentebestuur heeft besloten dat Stockholm alle aandelen van het bedrijf Kista Utveckling AB zal kopen, om de ontwikkeling in Kista te sturen. Daarnaast hebben ze voorstellen behandeld over een nieuwe schietbaan en het werk aan het vo",
+    "datum": "2026-05-13",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunstyrelsen/mote-2026-05-13",
+    "taggar": [
+      "stockholm",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "storstad": 3,
+      "sparare": 3
+    }
+  },
+  {
     "id": "bollebygd-kommunstyrelsen-2026-05-12",
     "typ": "kommunbeslut",
     "titel": "Gemeenteraad, gemeente Bollebygd, 12 mei 2026.",
@@ -2633,6 +2651,31 @@
       "gron_omstallning": 3,
       "glesbygd": 3,
       "mindre_ort": 4,
+      "klimat": 3
+    }
+  },
+  {
+    "id": "stockholm-kommunfullmaktige-2026-05-04",
+    "typ": "kommunbeslut",
+    "titel": "Gemeenteraad, Stad Stockholm, 4 mei 2026.",
+    "ingress": "Tijdens de vergadering van de gemeenteraad van Stockholm op 4 mei 2026 werden verschillende vragen van politici beantwoord, over uiteenlopende onderwerpen, van verkeersregels tot kinderopvang. Er werd ook gediscussieerd over belangrijke jur",
+    "datum": "2026-05-04",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunfullmaktige/mote-2026-05-04",
+    "taggar": [
+      "stockholm",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_fastighet": 3,
+      "lokaler": 3,
+      "barn": 5,
+      "bil": 3,
+      "kollektiv": 3,
+      "korkort": 3,
+      "kronisk": 3,
+      "beroende": 3,
       "klimat": 3
     }
   },
