@@ -1273,5 +1273,15 @@
     "etikett": "Osby",
     "typ": "plats",
     "antal": 1
+  },
+  "osthammar": {
+    "etikett": "Östhammar.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "kf-komp": {
+    "etikett": "Unfortunately, I cannot translate \"Kf komp\" because it appears to be an abbreviation or code that I don't recognize. To provide an accurate translation, I need more context or information about what \"Kf komp\" refers to.",
+    "typ": "organisation",
+    "antal": 1
   }
 }

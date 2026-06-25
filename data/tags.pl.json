@@ -1198,5 +1198,15 @@
     "etikett": "Osby",
     "typ": "plats",
     "antal": 1
+  },
+  "osthammar": {
+    "etikett": "Östhammar.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "kf-komp": {
+    "etikett": "Przepraszam, nie rozumiem. Czy możesz podać więcej informacji?",
+    "typ": "organisation",
+    "antal": 1
   }
 }

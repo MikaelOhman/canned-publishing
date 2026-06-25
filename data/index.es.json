@@ -1796,6 +1796,28 @@
     }
   },
   {
+    "id": "osthammar-kf-komp-2026-06-16",
+    "typ": "kommunbeslut",
+    "titel": "Kf komp, Ayuntamiento de Östhammar, 16 de junio de 2026.",
+    "ingress": "El Ayuntamiento de Östhammar ha aprobado el presupuesto para 2027 y los planes para 2028-2029. También se ha decidido aumentar las tarifas del agua y el alcantarillado durante el año 2027.",
+    "datum": "2026-06-16",
+    "kalla": "Östhammars kommun",
+    "kalla_url": "https://www.osthammar.se/globalassets/dokument/moteshandlingar/kommunfullmaktige/2026/2026-06-16/protokoll-kf-2026-06-16-komp.pdf",
+    "taggar": [
+      "osthammar",
+      "kf-komp"
+    ],
+    "relevans": {
+      "b_bygg": 5,
+      "b_it": 3,
+      "redovisning": 3,
+      "finansiering": 3,
+      "konsument": 3,
+      "idrott": 3,
+      "otrygg": 3
+    }
+  },
+  {
     "id": "HD03285",
     "typ": "lagforslag",
     "titel": "Audiencia y notificación temporal durante el proceso de ejecución de una orden de arresto.",

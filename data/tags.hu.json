@@ -1198,5 +1198,15 @@
     "etikett": "Osby",
     "typ": "plats",
     "antal": 1
+  },
+  "osthammar": {
+    "etikett": "Östhammar.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "kf-komp": {
+    "etikett": "Sajnálom, de nem tudom, hogy mit jelent a \"Kf komp\". Kérlek, adj több információt, hogy tudjak segíteni.",
+    "typ": "organisation",
+    "antal": 1
   }
 }

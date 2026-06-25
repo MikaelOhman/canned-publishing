@@ -1845,6 +1845,28 @@
     }
   },
   {
+    "id": "osthammar-kf-komp-2026-06-16",
+    "typ": "kommunbeslut",
+    "titel": "Kf komp, Östhammar Municipality, 2026-06-16.",
+    "ingress": "The municipal council of Östhammar has approved the budget for 2027 and the plans for 2028-2029. They have also decided to increase water and sewage fees for the year 2027.",
+    "datum": "2026-06-16",
+    "kalla": "Östhammars kommun",
+    "kalla_url": "https://www.osthammar.se/globalassets/dokument/moteshandlingar/kommunfullmaktige/2026/2026-06-16/protokoll-kf-2026-06-16-komp.pdf",
+    "taggar": [
+      "osthammar",
+      "kf-komp"
+    ],
+    "relevans": {
+      "b_bygg": 5,
+      "b_it": 3,
+      "redovisning": 3,
+      "finansiering": 3,
+      "konsument": 3,
+      "idrott": 3,
+      "otrygg": 3
+    }
+  },
+  {
     "id": "HD03285",
     "typ": "lagforslag",
     "titel": "Hearing and temporary transfer in arrest warrant cases",
