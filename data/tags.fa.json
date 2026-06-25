@@ -362,7 +362,7 @@
   "protokoll": {
     "etikett": "پروتکل",
     "typ": "ämne",
-    "antal": 5
+    "antal": 6
   },
   "ulf-rapp": {
     "etikett": "Ulf Rapp",
@@ -1191,6 +1191,11 @@
   },
   "odeshog": {
     "etikett": "متاسفم، من نمی توانم این عبارت را ترجمه کنم. این یک نام مکان است و معمولاً نام مکان ها را ترجمه نمی کنند.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "osby": {
+    "etikett": "Osby",
     "typ": "plats",
     "antal": 1
   }

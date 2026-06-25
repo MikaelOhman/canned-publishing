@@ -1823,6 +1823,28 @@
     }
   },
   {
+    "id": "osby-protokoll-2026-06-16",
+    "typ": "kommunbeslut",
+    "titel": "Minutes from the meeting, Osby Municipality, June 16, 2026.",
+    "ingress": "The Health and Care Committee in Osby is announcing changes in management and the organization of home care services. They are also reporting on waiting lists for specialized housing and current activities for residents at Rönnebacken.",
+    "datum": "2026-06-16",
+    "kalla": "Osby kommun",
+    "kalla_url": "https://www.osby.se/download/18.6ee72f2f19ed467782435903/1782202670190/Protokoll%202026-06-16.pdf",
+    "taggar": [
+      "osby",
+      "protokoll"
+    ],
+    "relevans": {
+      "b_vard": 3,
+      "b_fastighet": 3,
+      "b_life": 3,
+      "kollektivavtal": 3,
+      "pensionar": 3,
+      "lontagare": 5,
+      "kronisk": 3
+    }
+  },
+  {
     "id": "HD03285",
     "typ": "lagforslag",
     "titel": "Hearing and temporary transfer in arrest warrant cases",

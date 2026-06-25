@@ -422,7 +422,7 @@
   "protokoll": {
     "etikett": "Minutes\n\n(Followed by the content of the minutes, which would be translated accordingly. For example, if the minutes contained a list, it would be translated as a list.)",
     "typ": "ämne",
-    "antal": 5
+    "antal": 6
   },
   "ulf-rapp": {
     "etikett": "Ulf Rapp",
@@ -1266,6 +1266,11 @@
   },
   "odeshog": {
     "etikett": "Ödeshögs.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "osby": {
+    "etikett": "Osby",
     "typ": "plats",
     "antal": 1
   }

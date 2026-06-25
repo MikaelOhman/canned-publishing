@@ -432,7 +432,7 @@
   "protokoll": {
     "etikett": "Protokoll",
     "typ": "händelse",
-    "antal": 6
+    "antal": 7
   },
   "alingsas": {
     "etikett": "Alingsås",
@@ -1291,6 +1291,11 @@
   },
   "odeshog": {
     "etikett": "Ödeshögs",
+    "typ": "plats",
+    "antal": 1
+  },
+  "osby": {
+    "etikett": "Osby",
     "typ": "plats",
     "antal": 1
   }

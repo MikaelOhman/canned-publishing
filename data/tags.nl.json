@@ -367,7 +367,7 @@
   "protokoll": {
     "etikett": "Notulen.",
     "typ": "ämne",
-    "antal": 5
+    "antal": 6
   },
   "ulf-rapp": {
     "etikett": "Ulf Rapp",
@@ -1196,6 +1196,11 @@
   },
   "odeshog": {
     "etikett": "Ödeshögs",
+    "typ": "plats",
+    "antal": 1
+  },
+  "osby": {
+    "etikett": "Osby",
     "typ": "plats",
     "antal": 1
   }
