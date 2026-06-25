@@ -92,7 +92,11 @@
     "high": "stark",
     "mid": "etwas",
     "low": "wenig",
-    "sharehelp": "Kopiere den Link und füge ihn auf einem anderen Gerät in die Adressleiste ein oder setze ein Lesezeichen."
+    "sharehelp": "Kopiere den Link und füge ihn auf einem anderen Gerät in die Adressleiste ein oder setze ein Lesezeichen.",
+    "ort_privat": "Wo wohnst du?",
+    "ort_foretag": "Wo ist dein Unternehmen?",
+    "ort_ph": "Kommune suchen…",
+    "ort_hint": "Kommunale Beschlüsse werden auf deine Kommune gefiltert."
   },
   "lagernamn": {
     "privat": "Privatperson",

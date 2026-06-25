@@ -92,7 +92,11 @@
     "high": "erősen",
     "mid": "némileg",
     "low": "kissé",
-    "sharehelp": "Másold ki a linket, és illeszd be egy másik eszköz címsorába, vagy mentsd könyvjelzőként."
+    "sharehelp": "Másold ki a linket, és illeszd be egy másik eszköz címsorába, vagy mentsd könyvjelzőként.",
+    "ort_privat": "Hol laksz?",
+    "ort_foretag": "Hol van a vállalkozásod?",
+    "ort_ph": "Település keresése…",
+    "ort_hint": "Az önkormányzati döntések a településedre szűrve."
   },
   "lagernamn": {
     "privat": "Magánszemély",

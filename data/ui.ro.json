@@ -92,7 +92,11 @@
     "high": "mult",
     "mid": "oarecum",
     "low": "puțin",
-    "sharehelp": "Copiază linkul și lipește-l în bara de adrese pe alt dispozitiv, sau salvează-l la favorite."
+    "sharehelp": "Copiază linkul și lipește-l în bara de adrese pe alt dispozitiv, sau salvează-l la favorite.",
+    "ort_privat": "Unde locuiești?",
+    "ort_foretag": "Unde este firma ta?",
+    "ort_ph": "Caută municipiu…",
+    "ort_hint": "Deciziile municipale sunt filtrate după municipiul tău."
   },
   "lagernamn": {
     "privat": "Persoană fizică",

@@ -9312,6 +9312,28 @@
     }
   },
   {
+    "id": "alingsas-kommunfullmaktige-2025-09-03",
+    "typ": "kommunbeslut",
+    "titel": "Ayuntamiento de Alingsås, 3 de septiembre de 2025.",
+    "ingress": "En el municipio de Alingsås, los políticos han aprobado nuevas regulaciones para viviendas y guarderías ubicadas en la calle Smålandsgatan. También han aprobado tarifas para proyectos de construcción y un acuerdo para una nueva intersección",
+    "datum": "2025-09-03",
+    "kalla": "Alingsås kommun",
+    "kalla_url": "https://sammantradesportal.alingsas.se/committees/kommunfullmaktige/mote-2025-09-03",
+    "taggar": [
+      "alingsas",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_fastighet": 3,
+      "mark_bygglov": 3,
+      "barn": 5,
+      "bygger": 3,
+      "konsument": 3,
+      "idrott": 3
+    }
+  },
+  {
     "id": "HC03203",
     "typ": "lagforslag",
     "titel": "Se elimina la prohibición de la extracción de uranio.",
@@ -12012,6 +12034,27 @@
       "pensionssparare": 4,
       "utlandssvensk": 6,
       "arbetskraft_inv": 5
+    }
+  },
+  {
+    "id": "ange-kommunfullmaktige-2024-11-25",
+    "typ": "kommunbeslut",
+    "titel": "Ayuntamiento de Ånge, 25 de noviembre de 2024.",
+    "ingress": "En el pleno del ayuntamiento de Ånge, se tomaron varias decisiones importantes sobre la economía del municipio y sus planes futuros. Entre ellas, se modificó el presupuesto para 2025, y se discutieron temas que van desde préstamos a empresa",
+    "datum": "2024-11-25",
+    "kalla": "Ånge kommun",
+    "kalla_url": "https://moten.ange.se/committees/kommunfullmaktige/mote-2024-11-25",
+    "taggar": [
+      "ange",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_kultur": 5,
+      "ung": 3,
+      "pendlare": 3,
+      "kollektiv": 3,
+      "konsument": 3,
+      "kultur": 3
     }
   },
   {

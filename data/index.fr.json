@@ -9292,6 +9292,28 @@
     }
   },
   {
+    "id": "alingsas-kommunfullmaktige-2025-09-03",
+    "typ": "kommunbeslut",
+    "titel": "Conseil municipal, commune d'Alingsås, 3 septembre 2025.",
+    "ingress": "Dans la municipalité d'Alingsås, les élus ont pris des décisions concernant de nouvelles réglementations pour les logements et les crèches situés dans la rue Smålandsgatan. Ils ont également approuvé des frais pour les projets de constructi",
+    "datum": "2025-09-03",
+    "kalla": "Alingsås kommun",
+    "kalla_url": "https://sammantradesportal.alingsas.se/committees/kommunfullmaktige/mote-2025-09-03",
+    "taggar": [
+      "alingsas",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_fastighet": 3,
+      "mark_bygglov": 3,
+      "barn": 5,
+      "bygger": 3,
+      "konsument": 3,
+      "idrott": 3
+    }
+  },
+  {
     "id": "HC03203",
     "typ": "lagforslag",
     "titel": "L'interdiction de l'extraction d'uranium est levée.",
@@ -12018,6 +12040,27 @@
       "pensionssparare": 4,
       "utlandssvensk": 6,
       "arbetskraft_inv": 5
+    }
+  },
+  {
+    "id": "ange-kommunfullmaktige-2024-11-25",
+    "typ": "kommunbeslut",
+    "titel": "Conseil municipal, Commune d'Ånge, 25 novembre 2024.",
+    "ingress": "Lors de la réunion du conseil municipal d'Ånge, plusieurs décisions importantes ont été prises concernant les finances de la commune et ses projets futurs. Parmi ces décisions, il y a eu une modification du budget pour 2025, et des discussi",
+    "datum": "2024-11-25",
+    "kalla": "Ånge kommun",
+    "kalla_url": "https://moten.ange.se/committees/kommunfullmaktige/mote-2024-11-25",
+    "taggar": [
+      "ange",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_kultur": 5,
+      "ung": 3,
+      "pendlare": 3,
+      "kollektiv": 3,
+      "konsument": 3,
+      "kultur": 3
     }
   },
   {

@@ -92,7 +92,11 @@
     "high": "mucho",
     "mid": "algo",
     "low": "poco",
-    "sharehelp": "Copia el enlace y pégalo en la barra de direcciones de otro dispositivo, o guárdalo como marcador."
+    "sharehelp": "Copia el enlace y pégalo en la barra de direcciones de otro dispositivo, o guárdalo como marcador.",
+    "ort_privat": "¿Dónde vives?",
+    "ort_foretag": "¿Dónde está tu empresa?",
+    "ort_ph": "Buscar municipio…",
+    "ort_hint": "Las decisiones municipales se filtran por tu municipio."
   },
   "lagernamn": {
     "privat": "Particular",

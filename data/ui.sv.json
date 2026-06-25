@@ -92,7 +92,11 @@
     "high": "mycket",
     "mid": "en del",
     "low": "lite",
-    "sharehelp": "Kopiera länken och klistra in i adressfältet på en annan enhet, eller spara som bokmärke."
+    "sharehelp": "Kopiera länken och klistra in i adressfältet på en annan enhet, eller spara som bokmärke.",
+    "ort_privat": "Var bor du?",
+    "ort_foretag": "Var finns verksamheten?",
+    "ort_ph": "Sök kommun…",
+    "ort_hint": "Kommunbeslut filtreras till din kommun."
   },
   "lagernamn": {
     "privat": "Privatperson",

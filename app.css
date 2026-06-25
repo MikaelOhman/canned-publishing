@@ -212,6 +212,17 @@ select:focus-visible,.search input:focus-visible,.chip:focus-visible,.card:focus
 
 .filter-sok{width:100%;box-sizing:border-box;background:var(--bg);border:1px solid var(--line);border-radius:8px;padding:7px 11px;color:var(--txt);font-size:.86rem;margin-bottom:8px}
 
+/* plats-väljare */
+.ort-box{margin-bottom:12px;padding:10px;border:1px solid var(--line);border-radius:var(--radius);background:var(--bg3)}
+.ort-lbl{font-size:.84rem;font-weight:600;margin-bottom:7px}
+.ort-chips{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:7px}
+.ort-chip{background:var(--ac);color:#fff;border:none;border-radius:99px;padding:3px 10px;font-size:.82rem;cursor:pointer}
+.ort-sok{width:100%;box-sizing:border-box;background:var(--bg);border:1px solid var(--line);border-radius:7px;padding:6px 10px;color:var(--txt);font-size:.84rem}
+.ort-lista{display:flex;flex-direction:column;gap:2px;margin-top:5px;max-height:200px;overflow-y:auto}
+.ort-opt{text-align:left;background:var(--bg);border:1px solid var(--line);color:var(--txt);border-radius:6px;padding:6px 10px;cursor:pointer;font-size:.84rem}
+.ort-opt:hover{border-color:var(--ac);background:var(--chip-on)}
+.ort-hint{font-size:.74rem;color:var(--txt3);margin:7px 0 0}
+
 .facets{display:flex;flex-direction:column;gap:4px}
 .facet{border-top:1px solid var(--line)}
 .facet>summary{display:flex;align-items:center;gap:8px;padding:9px 2px;cursor:pointer;font-weight:600;font-size:.92rem;list-style:none}

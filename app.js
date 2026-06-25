@@ -6,7 +6,8 @@ const $ = s => document.querySelector(s);
 const LS = { get:(k,d)=>localStorage.getItem('cp_'+k)||d, set:(k,v)=>localStorage.setItem('cp_'+k,v) };
 const state = { lang:null, sprak:[], ui:{}, index:[], tags:{}, query:'', typ:'alla', visa:30,
   axlar:new Set(), axdef:[], grupper:[], gruppnamn:{}, lagernamn:{}, lager:'privat',
-  openGroups:new Set(['__typ']), mer:new Set(), filterQ:'', _akt:[] };
+  openGroups:new Set(['__typ']), mer:new Set(), filterQ:'', _akt:[],
+  ort:{privat:new Set(), foretag:new Set()}, orter:[], ortQ:'' };
 const PAGE = 30;
 
 const THEME_STD = ['dark','light','sepia','midnatt','nord','dracula','solarized'];
@@ -31,7 +32,9 @@ const UIDEF = {sub:"Multilingual news",search_label:"Search",search_ph:"Type a w
     new30:"new in the last 30 days",coverage:"Language coverage",bytype:"By type"},
   sit:{filter:"Filter",type:"Type",all:"Select all",none_all:"Clear all",more:"show more",fewer:"fewer",
     clear:"Clear",share_btn:"Share ⤴",sharehelp:"Copy this link and paste it in the address bar on another device, or bookmark it.",
-    copy:"Copy link",copied:"Copied!",apply:"Show",affects:"Affects you",high:"a lot",mid:"somewhat",low:"a little"}};
+    copy:"Copy link",copied:"Copied!",apply:"Show",affects:"Affects you",high:"a lot",mid:"somewhat",low:"a little",
+    ort_privat:"Where do you live?",ort_foretag:"Where is your business?",ort_ph:"Search municipality…",
+    ort_hint:"Municipal decisions are filtered to your municipality."}};
 const ui = () => state.ui;
 
 async function getJSON(url){ const r = await fetch(url); if(!r.ok) throw new Error(url); return r.json(); }
@@ -79,6 +82,32 @@ function relScore(a){ const akt=state._akt; if(!akt.length||!a.relevans) return 
 function sparaAxlar(){ LS.set('axlar',[...state.axlar].join('.')); }
 function clearSit(){ state.axlar.clear(); state.typ='alla'; sparaAxlar(); renderSidebar(); state.visa=PAGE; renderList(); }
 
+/* ── Plats: kommunbeslut filtreras till användarens kommun(er) per lager ── */
+function ortFor(){ return state.ort[state.lager]; }
+function sparaOrt(){ LS.set('ort_'+state.lager, [...ortFor()].join(',')); }
+function ortNamn(slug){ const o=state.orter.find(x=>x.slug===slug); return o?o.namn:slug; }
+function artKommun(a){ for(const t of (a.taggar||[])) if((state.tags[t]||{}).typ==='plats') return t; return null; }
+function renderOrt(){
+  const s=sitT(), box=$('#ort-box'); if(!box) return;
+  const sel=[...ortFor()];
+  const chips=sel.map(slug=>`<button class="ort-chip" data-rm="${esc(slug)}">${esc(ortNamn(slug))} ✕</button>`).join('');
+  let lista='';
+  if(state.ortQ){
+    const q=state.ortQ.toLowerCase();
+    const tr=state.orter.filter(o=>o.namn.toLowerCase().includes(q) && !ortFor().has(o.slug)).slice(0,8);
+    lista=tr.map(o=>`<button class="ort-opt" data-add="${esc(o.slug)}">${esc(o.namn)}</button>`).join('');
+  }
+  box.innerHTML=`<div class="ort-lbl">📍 ${esc(state.lager==='foretag'?s.ort_foretag:s.ort_privat)}</div>`+
+    (chips?`<div class="ort-chips">${chips}</div>`:'')+
+    `<input class="ort-sok" id="ort-sok" placeholder="${esc(s.ort_ph)}" value="${esc(state.ortQ)}" autocomplete="off">`+
+    (lista?`<div class="ort-lista">${lista}</div>`:'')+
+    `<p class="ort-hint">${esc(s.ort_hint)}</p>`;
+  $('#ort-sok').addEventListener('input',e=>{ state.ortQ=e.target.value.trim(); renderOrt(); });
+  if(state.ortQ){ const i=$('#ort-sok'); i.focus(); i.setSelectionRange(i.value.length,i.value.length); }
+  box.querySelectorAll('[data-add]').forEach(b=>b.addEventListener('click',()=>{ ortFor().add(b.dataset.add); state.ortQ=''; sparaOrt(); renderOrt(); sideBtns(); state.visa=PAGE; renderList(); }));
+  box.querySelectorAll('[data-rm]').forEach(b=>b.addEventListener('click',()=>{ ortFor().delete(b.dataset.rm); sparaOrt(); renderOrt(); sideBtns(); state.visa=PAGE; renderList(); }));
+}
+
 /* artiklar som passerar typ + fritextsök (bas för faset-antal, oberoende av axel-val) */
 function baseFiltered(){
   return state.index.filter(a=>{
@@ -122,9 +151,11 @@ function renderSidebar(){
       `<summary>${esc(grpNamn(g))}<span class="gcount">${valda||''}</span></summary>`+
       `<button class="facet-all" data-all="${g}">${allaPa?esc(s.none_all):esc(s.all)}</button>${opts}${merBtn}</details>`;
   }).join('');
-  $('#facets').innerHTML = lagerHtml + typHtml + grpHtml;
+  $('#lager-box').innerHTML = lagerHtml;
+  $('#facets').innerHTML = typHtml + grpHtml;
+  renderOrt();
 
-  $('#facets').querySelectorAll('.lager-val button').forEach(b=>b.addEventListener('click',()=>{
+  $('#lager-box').querySelectorAll('.lager-val button').forEach(b=>b.addEventListener('click',()=>{
     state.lager=b.dataset.lager; LS.set('lager',state.lager); renderSidebar(); state.visa=PAGE; renderList(); }));
   $('#facets').querySelectorAll('input[name="typ"]').forEach(r=>r.addEventListener('change',()=>{
     state.typ=r.value; state.visa=PAGE; renderSidebar(); renderList(); }));
@@ -145,7 +176,7 @@ function markAll(g){
 }
 function sideBtns(){
   const s=sitT();
-  const n=aktivaAxlar().length + (state.typ!=='alla'?1:0);
+  const n=aktivaAxlar().length + (state.typ!=='alla'?1:0) + ortFor().size;
   const ft=$('#filter-toggle'); if(ft) ft.textContent=`≡ ${s.filter}${n?` (${n})`:''}`;
   const sc=$('#side-clear'); if(sc) sc.textContent=s.clear;
   const ss=$('#side-share'); if(ss) ss.textContent=s.share_btn;
@@ -160,7 +191,7 @@ function renderShareBox(){
 }
 /* delbar kod: kompakt base64url av {a:[axlar],g:lager,l,t,x,f} */
 function kodaInst(){
-  const o={a:[...state.axlar],g:state.lager,l:state.lang,t:LS.get('tema','dark'),x:LS.get('text','normal'),f:LS.get('font','standard')};
+  const o={a:[...state.axlar],g:state.lager,l:state.lang,t:LS.get('tema','dark'),x:LS.get('text','normal'),f:LS.get('font','standard'),op:[...state.ort.privat],of:[...state.ort.foretag]};
   try { return btoa(unescape(encodeURIComponent(JSON.stringify(o)))).replace(/\+/g,'-').replace(/\//g,'_').replace(/=+$/,''); }
   catch(e){ return ''; }
 }
@@ -168,6 +199,9 @@ function avkodaInst(kod){
   try {
     const j=JSON.parse(decodeURIComponent(escape(atob(kod.replace(/-/g,'+').replace(/_/g,'/')))));
     if(Array.isArray(j.a)) j.a.forEach(x=>state.axlar.add(x));
+    if(Array.isArray(j.op)) j.op.forEach(s=>state.ort.privat.add(s));
+    if(Array.isArray(j.of)) j.of.forEach(s=>state.ort.foretag.add(s));
+    if(j.op||j.of){ LS.set('ort_privat',[...state.ort.privat].join(',')); LS.set('ort_foretag',[...state.ort.foretag].join(',')); }
     if(j.g) LS.set('lager', j.g);
     if(j.l) LS.set('lang', j.l);
     if(j.t){ LS.set('tema',j.t); document.documentElement.setAttribute('data-theme',j.t); }
@@ -189,6 +223,8 @@ async function boot(){
   state.lager = LS.get('lager','privat');
   initPrefAttrs();
   try { const ax=await getJSON('data/axlar.json'); state.axdef=ax.axlar||[]; state.grupper=ax.grupper||[]; state.gruppnamn=ax.gruppnamn||{}; state.lagernamn=ax.lagernamn||{}; } catch(e){}
+  try { state.orter=await getJSON('data/orter.json'); } catch(e){}
+  ['privat','foretag'].forEach(l=> LS.get('ort_'+l,'').split(',').filter(Boolean).forEach(s=>state.ort[l].add(s)));
 
   $('#tema').addEventListener('change', e=>{ document.documentElement.setAttribute('data-theme', e.target.value); LS.set('tema', e.target.value); });
   $('#text').addEventListener('change', e=>{ document.documentElement.setAttribute('data-text', e.target.value); LS.set('text', e.target.value); });
@@ -236,6 +272,9 @@ function matches(a){
   if(state.query){
     const hay=(a.titel+' '+(a.ingress||'')+' '+(a.taggar||[]).map(id=>(state.tags[id]||{}).etikett||id).join(' ')).toLowerCase();
     for(const w of state.query.split(/\s+/)) if(w && !hay.includes(w)) return false;
+  }
+  if(a.typ==='kommunbeslut' && ortFor().size){               // plats: bara mina kommuner
+    const k=artKommun(a); if(!k || !ortFor().has(k)) return false;
   }
   if(state._akt.length && relScore(a) < 1) return false;     // filtrera till valda situationer
   return true;

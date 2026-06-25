@@ -92,7 +92,11 @@
     "high": "beaucoup",
     "mid": "un peu",
     "low": "légèrement",
-    "sharehelp": "Copiez le lien et collez-le dans la barre d'adresse d'un autre appareil, ou ajoutez-le aux favoris."
+    "sharehelp": "Copiez le lien et collez-le dans la barre d'adresse d'un autre appareil, ou ajoutez-le aux favoris.",
+    "ort_privat": "Où habitez-vous ?",
+    "ort_foretag": "Où est votre entreprise ?",
+    "ort_ph": "Rechercher une commune…",
+    "ort_hint": "Les décisions communales sont filtrées sur votre commune."
   },
   "lagernamn": {
     "privat": "Particulier",

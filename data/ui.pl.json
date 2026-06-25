@@ -92,7 +92,11 @@
     "high": "mocno",
     "mid": "trochę",
     "low": "nieznacznie",
-    "sharehelp": "Skopiuj link i wklej go w pasku adresu na innym urządzeniu lub zapisz w zakładkach."
+    "sharehelp": "Skopiuj link i wklej go w pasku adresu na innym urządzeniu lub zapisz w zakładkach.",
+    "ort_privat": "Gdzie mieszkasz?",
+    "ort_foretag": "Gdzie jest Twoja firma?",
+    "ort_ph": "Szukaj gminy…",
+    "ort_hint": "Decyzje gminne są filtrowane według Twojej gminy."
   },
   "lagernamn": {
     "privat": "Osoba prywatna",

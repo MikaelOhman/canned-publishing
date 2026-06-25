@@ -9389,6 +9389,28 @@
     }
   },
   {
+    "id": "alingsas-kommunfullmaktige-2025-09-03",
+    "typ": "kommunbeslut",
+    "titel": "Municipal Council, Alingsås Municipality, September 3, 2025.",
+    "ingress": "In the municipality of Alingsås, politicians have decided on new regulations for housing and preschool facilities located on Smålandsgatan. They have also approved fees for construction projects and finalized an agreement for a new traffic",
+    "datum": "2025-09-03",
+    "kalla": "Alingsås kommun",
+    "kalla_url": "https://sammantradesportal.alingsas.se/committees/kommunfullmaktige/mote-2025-09-03",
+    "taggar": [
+      "alingsas",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_fastighet": 3,
+      "mark_bygglov": 3,
+      "barn": 5,
+      "bygger": 3,
+      "konsument": 3,
+      "idrott": 3
+    }
+  },
+  {
     "id": "HC03203",
     "typ": "lagforslag",
     "titel": "The ban on uranium mining has been lifted.",
@@ -12133,6 +12155,27 @@
       "pensionssparare": 4,
       "utlandssvensk": 6,
       "arbetskraft_inv": 5
+    }
+  },
+  {
+    "id": "ange-kommunfullmaktige-2024-11-25",
+    "typ": "kommunbeslut",
+    "titel": "Municipal Council, Ånge Municipality, November 25, 2024.",
+    "ingress": "At the municipal council meeting in Ånge, several important decisions were made regarding the municipality's finances and future plans. These included changes to the 2025 budget, and discussions covered a range of topics, from loans for bus",
+    "datum": "2024-11-25",
+    "kalla": "Ånge kommun",
+    "kalla_url": "https://moten.ange.se/committees/kommunfullmaktige/mote-2024-11-25",
+    "taggar": [
+      "ange",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_kultur": 5,
+      "ung": 3,
+      "pendlare": 3,
+      "kollektiv": 3,
+      "konsument": 3,
+      "kultur": 3
     }
   },
   {

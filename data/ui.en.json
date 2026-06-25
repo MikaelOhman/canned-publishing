@@ -92,7 +92,11 @@
     "high": "a lot",
     "mid": "somewhat",
     "low": "a little",
-    "sharehelp": "Copy this link and paste it in the address bar on another device, or bookmark it."
+    "sharehelp": "Copy this link and paste it in the address bar on another device, or bookmark it.",
+    "ort_privat": "Where do you live?",
+    "ort_foretag": "Where is your business?",
+    "ort_ph": "Search municipality…",
+    "ort_hint": "Municipal decisions are filtered to your municipality."
   },
   "lagernamn": {
     "privat": "Private individual",
