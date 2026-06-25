@@ -1388,5 +1388,15 @@
     "etikett": "Solna",
     "typ": "plats",
     "antal": 1
+  },
+  "sotenas": {
+    "etikett": "Sotenäs\n\n(No further context was provided, so I'm assuming this is a place name and no translation is needed beyond transliteration.)",
+    "typ": "plats",
+    "antal": 1
+  },
+  "kstu-signed": {
+    "etikett": "KSTU hat eine Vereinbarung unterzeichnet.",
+    "typ": "organisation",
+    "antal": 1
   }
 }

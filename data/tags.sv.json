@@ -1423,5 +1423,15 @@
     "etikett": "Solna",
     "typ": "plats",
     "antal": 1
+  },
+  "sotenas": {
+    "etikett": "Sotenäs",
+    "typ": "plats",
+    "antal": 1
+  },
+  "kstu-signed": {
+    "etikett": "KSTU signed",
+    "typ": "organisation",
+    "antal": 1
   }
 }

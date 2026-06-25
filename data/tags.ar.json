@@ -1338,5 +1338,15 @@
     "etikett": "Solna",
     "typ": "plats",
     "antal": 1
+  },
+  "sotenas": {
+    "etikett": "سوتنäs",
+    "typ": "plats",
+    "antal": 1
+  },
+  "kstu-signed": {
+    "etikett": "تم توقيع اتفاقية مع KSTU.",
+    "typ": "organisation",
+    "antal": 1
   }
 }

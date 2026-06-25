@@ -1323,5 +1323,15 @@
     "etikett": "Solna.",
     "typ": "plats",
     "antal": 1
+  },
+  "sotenas": {
+    "etikett": "Sotenäs\n\n(No further context was provided, so I'm assuming \"Sotenäs\" is a name and should remain unchanged.)",
+    "typ": "plats",
+    "antal": 1
+  },
+  "kstu-signed": {
+    "etikett": "KSTU ha firmado.",
+    "typ": "organisation",
+    "antal": 1
   }
 }

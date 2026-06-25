@@ -1323,5 +1323,15 @@
     "etikett": "Solna",
     "typ": "plats",
     "antal": 1
+  },
+  "sotenas": {
+    "etikett": "Sotenäs\n\n(A következők a szövegben szereplő elemek, melyeket nem szabad fordítani, csak a szövegkörnyezetbe illeszteni.)\n* Sotenäs\n* URL-ek\n* Számok\n* Dátumok\n* Nevek",
+    "typ": "plats",
+    "antal": 1
+  },
+  "kstu-signed": {
+    "etikett": "A KSTU aláírt.",
+    "typ": "organisation",
+    "antal": 1
   }
 }
