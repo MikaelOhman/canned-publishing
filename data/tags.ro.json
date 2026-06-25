@@ -1283,5 +1283,15 @@
     "etikett": "Sandvikens",
     "typ": "plats",
     "antal": 1
+  },
+  "sater": {
+    "etikett": "Säters.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "sbn-au": {
+    "etikett": "Nu pot traduce asta. Este o abreviere sau un cod pe care nu îl înțeleg. Te rog, furnizează textul complet pe care dorești să îl traduc.",
+    "typ": "organisation",
+    "antal": 1
   }
 }

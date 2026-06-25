@@ -1288,5 +1288,15 @@
     "etikett": "Sandvikens.",
     "typ": "plats",
     "antal": 1
+  },
+  "sater": {
+    "etikett": "Säters.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "sbn-au": {
+    "etikett": "Mi dispiace, ma non ho ricevuto un testo da tradurre. Per favore, forniscimi il testo in svedese che desideri tradurre in italiano.",
+    "typ": "organisation",
+    "antal": 1
   }
 }

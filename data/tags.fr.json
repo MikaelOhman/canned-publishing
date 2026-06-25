@@ -1288,5 +1288,15 @@
     "etikett": "Sandvikens.",
     "typ": "plats",
     "antal": 1
+  },
+  "sater": {
+    "etikett": "Säters.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "sbn-au": {
+    "etikett": "Je suis désolé, je ne comprends pas ce que vous voulez dire. Pourriez-vous reformuler votre question ?",
+    "typ": "organisation",
+    "antal": 1
   }
 }

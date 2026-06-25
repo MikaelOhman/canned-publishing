@@ -1600,6 +1600,30 @@
     }
   },
   {
+    "id": "sater-sbn-au-2026-06-17",
+    "typ": "kommunbeslut",
+    "titel": "Sbn au, Säters kommun 2026-06-17",
+    "ingress": "Säter kommuns arbetsutskott har föreslagit ändringar i avgifterna för avfall och planering. Det innebär bland annat nya regler för hur skräp hämtas vid hyreshus och nya priser för kartor och detaljplaner från november 2026.",
+    "datum": "2026-06-17",
+    "kalla": "Säters kommun",
+    "kalla_url": "https://sater.se/wp-content/uploads/2026/06/protokoll-sbn-au-2026-06-17.pdf",
+    "taggar": [
+      "sater",
+      "sbn-au"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "miljo": 5,
+      "gdpr": 3,
+      "mark_bygglov": 3,
+      "barn": 3,
+      "bygger": 3,
+      "kronisk": 3,
+      "konsument": 5,
+      "integritet": 3
+    }
+  },
+  {
     "id": "HD03286",
     "typ": "lagforslag",
     "titel": "Stärkt skydd för domstolarnas och domarnas oberoende",

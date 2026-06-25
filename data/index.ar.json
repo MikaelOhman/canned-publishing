@@ -1534,6 +1534,30 @@
     }
   },
   {
+    "id": "sater-sbn-au-2026-06-17",
+    "typ": "kommunbeslut",
+    "titel": "سِبِن أو، بلدية ساتر، 17 يونيو 2026.",
+    "ingress": "لقد اقترح لجنة العمل في بلدية \"سوتر\" تعديلات على رسوم خدمات إدارة النفايات والتخطيط. وتشمل هذه التعديلات، على سبيل المثال، قواعد جديدة لكيفية جمع النفايات من المباني السكنية، وأسعار جديدة للخرائط وخطط التطوير التفصيلية، بدءًا من نوفمبر 2026",
+    "datum": "2026-06-17",
+    "kalla": "Säters kommun",
+    "kalla_url": "https://sater.se/wp-content/uploads/2026/06/protokoll-sbn-au-2026-06-17.pdf",
+    "taggar": [
+      "sater",
+      "sbn-au"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "miljo": 5,
+      "gdpr": 3,
+      "mark_bygglov": 3,
+      "barn": 3,
+      "bygger": 3,
+      "kronisk": 3,
+      "konsument": 5,
+      "integritet": 3
+    }
+  },
+  {
     "id": "HD03286",
     "typ": "lagforslag",
     "titel": "تعزيز حماية استقلالية القضاء والقضاة.",

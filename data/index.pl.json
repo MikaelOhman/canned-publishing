@@ -1549,6 +1549,30 @@
     }
   },
   {
+    "id": "sater-sbn-au-2026-06-17",
+    "typ": "kommunbeslut",
+    "titel": "Sbn au, Gmina Säter, 17 czerwca 2026 roku.",
+    "ingress": "Komisja ds. gospodarki odpadami gminy Säter zaproponowała zmiany w opłatach za odbiór odpadów oraz planowanie przestrzenne. Obejmują one m.in. nowe zasady odbioru śmieci z budynków mieszkalnych oraz nowe ceny map i planów zagospodarowania p",
+    "datum": "2026-06-17",
+    "kalla": "Säters kommun",
+    "kalla_url": "https://sater.se/wp-content/uploads/2026/06/protokoll-sbn-au-2026-06-17.pdf",
+    "taggar": [
+      "sater",
+      "sbn-au"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "miljo": 5,
+      "gdpr": 3,
+      "mark_bygglov": 3,
+      "barn": 3,
+      "bygger": 3,
+      "kronisk": 3,
+      "konsument": 5,
+      "integritet": 3
+    }
+  },
+  {
     "id": "HD03286",
     "typ": "lagforslag",
     "titel": "Wzmocnienie ochrony niezależności sądów i sędziów.",

@@ -1348,5 +1348,15 @@
     "etikett": "Sandvikens",
     "typ": "plats",
     "antal": 1
+  },
+  "sater": {
+    "etikett": "Säters.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "sbn-au": {
+    "etikett": "Ich verstehe.",
+    "typ": "organisation",
+    "antal": 1
   }
 }

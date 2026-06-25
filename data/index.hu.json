@@ -1531,6 +1531,30 @@
     }
   },
   {
+    "id": "sater-sbn-au-2026-06-17",
+    "typ": "kommunbeslut",
+    "titel": "Sbn au, a svédországi Säters önkormányzat 2026. június 17-i keltezésű dokumentuma.",
+    "ingress": "A Säter önkormányzat munkabizottsága javaslatokat tett a hulladékkezelési és tervezési díjak módosítására. Ez többek között azt jelenti, hogy új szabályok lépnek életbe a szemét begyűjtésével kapcsolatban a bérlakásoknál, valamint új árak v",
+    "datum": "2026-06-17",
+    "kalla": "Säters kommun",
+    "kalla_url": "https://sater.se/wp-content/uploads/2026/06/protokoll-sbn-au-2026-06-17.pdf",
+    "taggar": [
+      "sater",
+      "sbn-au"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "miljo": 5,
+      "gdpr": 3,
+      "mark_bygglov": 3,
+      "barn": 3,
+      "bygger": 3,
+      "kronisk": 3,
+      "konsument": 5,
+      "integritet": 3
+    }
+  },
+  {
     "id": "HD03286",
     "typ": "lagforslag",
     "titel": "A bíróságok és bírák függetlenségének megerősítése.",
