@@ -292,7 +292,7 @@
   "kommunfullmaktige": {
     "etikett": "Rada miejska.",
     "typ": "organisation",
-    "antal": 61
+    "antal": 62
   },
   "kommunpolitik": {
     "etikett": "Polityka samorządowa.",
@@ -826,6 +826,11 @@
   },
   "dalsed": {
     "etikett": "Dals-Ed.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "eksjo": {
+    "etikett": "Eksjö",
     "typ": "plats",
     "antal": 1
   }

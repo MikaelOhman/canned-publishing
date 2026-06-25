@@ -287,7 +287,7 @@
   "kommunfullmaktige": {
     "etikett": "شوراى شهر",
     "typ": "organisation",
-    "antal": 61
+    "antal": 62
   },
   "kommunpolitik": {
     "etikett": "سیاست‌های شهرداری",
@@ -826,6 +826,11 @@
   },
   "dalsed": {
     "etikett": "Dals-Ed",
+    "typ": "plats",
+    "antal": 1
+  },
+  "eksjo": {
+    "etikett": "Eksjö",
     "typ": "plats",
     "antal": 1
   }

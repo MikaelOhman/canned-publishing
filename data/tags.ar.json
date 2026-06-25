@@ -292,7 +292,7 @@
   "kommunfullmaktige": {
     "etikett": "مجلس البلدية.",
     "typ": "organisation",
-    "antal": 61
+    "antal": 62
   },
   "kommunpolitik": {
     "etikett": "سياسة البلديات.",
@@ -841,6 +841,11 @@
   },
   "dalsed": {
     "etikett": "دالس-إدز.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "eksjo": {
+    "etikett": "Eksjö",
     "typ": "plats",
     "antal": 1
   }

@@ -377,7 +377,7 @@
   "kommunfullmaktige": {
     "etikett": "Kommunfullmäktige",
     "typ": "organisation",
-    "antal": 61
+    "antal": 62
   },
   "kommunpolitik": {
     "etikett": "Kommunpolitik",
@@ -926,6 +926,11 @@
   },
   "dalsed": {
     "etikett": "Dals-Eds",
+    "typ": "plats",
+    "antal": 1
+  },
+  "eksjo": {
+    "etikett": "Eksjö",
     "typ": "plats",
     "antal": 1
   }
