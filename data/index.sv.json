@@ -23,7 +23,7 @@
     "id": "alvkarleby-it-namnden-2044-11-22",
     "typ": "kommunbeslut",
     "titel": "IT nämnden, Älvkarleby kommun 2044-11-22",
-    "ingress": "SAMMANTRÄDESPROTOKOLL IT-nämnden 2024-11-22 1 Tid och plats 22 november 2024, kl. 15:00 - 15:45, digitalt sammanträde Paragrafer § 21 - § 30 Justering Protokollet justeras digitalt av ordförande, Sara",
+    "ingress": "IT-nämnden i Älvkarleby kommun har fattat beslut om nya regler för vem som får fatta beslut, utsett en ny person som ansvarig för personuppgifter och godkänt kontrollplaner för 2025.",
     "datum": "2044-11-22",
     "kalla": "Älvkarleby kommun",
     "kalla_url": "https://www.alvkarleby.se/download/18.563e9f391935e0da7535a6/1732632677291/Protokoll%20IT-n%C3%A4mnden%202044-11-22.pdf",
@@ -33,7 +33,8 @@
     ],
     "relevans": {
       "b_it": 8,
-      "gdpr": 3
+      "gdpr": 8,
+      "integritet": 3
     }
   },
   {
