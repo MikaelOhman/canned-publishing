@@ -2,46 +2,166 @@
   "_kommentar": "Demografi-personas för 'påverkar mig'-gradering + poddens casting. Språkneutrala id; roll/beskrivning lokaliseras senare (personas.<lang>.json). berors_av = ämnesprofil som styr relevans-scoringen.",
   "personas": [
     {
-      "id": "jasmin", "namn": "Jasmin", "alder": 34, "ikon": "👩‍👧‍👦",
+      "id": "jasmin",
+      "namn": "Jasmin",
+      "alder": 34,
+      "ikon": "👩‍👧‍👦",
       "roll": "Ensamstående förälder",
       "beskrivning": "Undersköterska, ensam tvåbarnsmamma i Botkyrka, skiftjobb. Pragmatisk.",
       "matsticka": "Mer eller mindre tid och pengar med ungarna?",
-      "berors_av": ["barnbidrag", "vab", "försäkringskassan", "föräldrapenning", "vård", "hyra", "bostad", "skola", "förskola", "underhållsstöd", "bidrag"]
+      "berors_av": [
+        "barnbidrag",
+        "vab",
+        "försäkringskassan",
+        "föräldrapenning",
+        "vård",
+        "hyra",
+        "bostad",
+        "skola",
+        "förskola",
+        "underhållsstöd",
+        "bidrag"
+      ],
+      "axlar": [
+        "barn",
+        "kvinna",
+        "lontagare",
+        "hyresgast",
+        "halsa"
+      ]
     },
     {
-      "id": "elliot", "namn": "Elliot", "alder": 22, "ikon": "🎓",
+      "id": "elliot",
+      "namn": "Elliot",
+      "alder": 22,
+      "ikon": "🎓",
       "roll": "Studenten",
       "beskrivning": "Pluggar i Lund, lever på CSN och deltidsjobb. Idealistisk, klimatengagerad.",
       "matsticka": "Påverkar det min plånbok, min framtid eller planeten?",
-      "berors_av": ["studiemedel", "csn", "studielån", "bostadskö", "hyresrätt", "kollektivtrafik", "klimat", "miljö", "arbetsmarknad", "jobb", "högskola"]
+      "berors_av": [
+        "studiemedel",
+        "csn",
+        "studielån",
+        "bostadskö",
+        "hyresrätt",
+        "kollektivtrafik",
+        "klimat",
+        "miljö",
+        "arbetsmarknad",
+        "jobb",
+        "högskola"
+      ],
+      "axlar": [
+        "student",
+        "klimat",
+        "hyresgast",
+        "kollektiv"
+      ]
     },
     {
-      "id": "gunnar", "namn": "Gunnar", "alder": 72, "ikon": "👴",
+      "id": "gunnar",
+      "namn": "Gunnar",
+      "alder": 72,
+      "ikon": "👴",
       "roll": "Pensionären",
       "beskrivning": "Pensionär i Sundsvall, sjökapten i grunden. Tvär men varm.",
       "matsticka": "Räcker pengarna, och hänger jag med i digitaliseringen?",
-      "berors_av": ["pension", "äldreomsorg", "vård", "el", "bränsle", "energi", "digitalisering", "bank", "skatt", "trygghet"]
+      "berors_av": [
+        "pension",
+        "äldreomsorg",
+        "vård",
+        "el",
+        "bränsle",
+        "energi",
+        "digitalisering",
+        "bank",
+        "skatt",
+        "trygghet"
+      ],
+      "axlar": [
+        "pensionar",
+        "man",
+        "bil",
+        "halsa"
+      ]
     },
     {
-      "id": "lena", "namn": "Lena", "alder": 48, "ikon": "☕",
+      "id": "lena",
+      "namn": "Lena",
+      "alder": 48,
+      "ikon": "☕",
       "roll": "Egenföretagaren",
       "beskrivning": "Driver café i Borås med tre anställda. Snabb i käften, allergisk mot byråkrati.",
       "matsticka": "Vad kostar det mig i tid och kronor?",
-      "berors_av": ["moms", "arbetsgivaravgift", "sjuklön", "regelförenkling", "byråkrati", "skatt", "anställning", "upphandling", "näringsliv", "företag"]
+      "berors_av": [
+        "moms",
+        "arbetsgivaravgift",
+        "sjuklön",
+        "regelförenkling",
+        "byråkrati",
+        "skatt",
+        "anställning",
+        "upphandling",
+        "näringsliv",
+        "företag"
+      ],
+      "axlar": [
+        "foretagare",
+        "lontagare",
+        "kvinna"
+      ]
     },
     {
-      "id": "roland", "namn": "Roland", "alder": 58, "ikon": "🌲",
+      "id": "roland",
+      "namn": "Roland",
+      "alder": 58,
+      "ikon": "🌲",
       "roll": "Glesbygden",
       "beskrivning": "Bor utanför Storuman, kör långt till allt. Torr humor, djupt praktisk.",
       "matsticka": "Funkar det här ens där jag bor?",
-      "berors_av": ["drivmedelsskatt", "bränsle", "strandskydd", "jakt", "varg", "vapenlicens", "bredband", "samhällsservice", "landsbygd", "infrastruktur", "väg"]
+      "berors_av": [
+        "drivmedelsskatt",
+        "bränsle",
+        "strandskydd",
+        "jakt",
+        "varg",
+        "vapenlicens",
+        "bredband",
+        "samhällsservice",
+        "landsbygd",
+        "infrastruktur",
+        "väg"
+      ],
+      "axlar": [
+        "glesbygd",
+        "bil",
+        "jagare",
+        "man"
+      ]
     },
     {
-      "id": "amani", "namn": "Amani", "alder": 29, "ikon": "🌍",
+      "id": "amani",
+      "namn": "Amani",
+      "alder": 29,
+      "ikon": "🌍",
       "roll": "Den nya svensken",
       "beskrivning": "Kom till Sverige för några år sen, jobbar inom IT, läser fortfarande svenska.",
       "matsticka": "Hur påverkar det min väg in i samhället?",
-      "berors_av": ["medborgarskap", "sfi", "arbetstillstånd", "uppehållstillstånd", "familjeåterförening", "migration", "integration", "asyl"]
+      "berors_av": [
+        "medborgarskap",
+        "sfi",
+        "arbetstillstånd",
+        "uppehållstillstånd",
+        "familjeåterförening",
+        "migration",
+        "integration",
+        "asyl"
+      ],
+      "axlar": [
+        "ny_i_sverige",
+        "lontagare",
+        "storstad"
+      ]
     }
   ]
 }
