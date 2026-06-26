@@ -962,7 +962,7 @@
   "valnamnden": {
     "etikett": "Commissione elettorale.",
     "typ": "organisation",
-    "antal": 3
+    "antal": 4
   },
   "hultsfred": {
     "etikett": "Hultsfreds.",
@@ -1576,6 +1576,11 @@
   },
   "vimmerby": {
     "etikett": "Vimmerby.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "vindeln": {
+    "etikett": "Vindelns.",
     "typ": "plats",
     "antal": 1
   }

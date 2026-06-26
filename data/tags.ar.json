@@ -972,7 +972,7 @@
   "valnamnden": {
     "etikett": "لجنة الانتخابات.",
     "typ": "organisation",
-    "antal": 3
+    "antal": 4
   },
   "hultsfred": {
     "etikett": "هولتسفريد.",
@@ -1581,6 +1581,11 @@
   },
   "vimmerby": {
     "etikett": "فيمربي.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "vindeln": {
+    "etikett": "فيندلنس.",
     "typ": "plats",
     "antal": 1
   }

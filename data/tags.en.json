@@ -1032,7 +1032,7 @@
   "valnamnden": {
     "etikett": "The Election Committee.",
     "typ": "organisation",
-    "antal": 3
+    "antal": 4
   },
   "hultsfred": {
     "etikett": "Hultsfreds.",
@@ -1636,6 +1636,11 @@
   },
   "vimmerby": {
     "etikett": "Vimmerby\n\n(No further context was provided, so a simple translation of the name is all that can be offered.)",
+    "typ": "plats",
+    "antal": 1
+  },
+  "vindeln": {
+    "etikett": "Vindelns",
     "typ": "plats",
     "antal": 1
   }
