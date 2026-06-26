@@ -1,0 +1,90 @@
+{
+  "id": "tri-2026-06-26-venezuela-global",
+  "typ": "nyhet",
+  "titel": "El terremoto en Venezuela: las cifras de víctimas varían considerablemente según las fuentes.",
+  "datum": "2026-06-26",
+  "kalla": "Triangulering (7 länder)",
+  "kalla_url": "",
+  "taggar": [],
+  "html": "<h3>En lo que las fuentes están de acuerdo</h3><p>Un fuerte terremoto ha golpeado a Venezuela, causando numerosas muertes y heridos, y se ha prometido ayuda internacional (incluida la de Estados Unidos). Siete países – Suecia, Dinamarca, Estados Unidos, Brasil, China, Qatar y Rusia – informan sobre el evento.</p><h3>En lo que las fuentes difieren</h3><p>La cifra de muertos varía enormemente. Las fuentes occidentales y los informes oficiales venezolanos indican hasta 920 fallecidos (Berlingske; anteriormente alrededor de 600), mientras que CGTN, un medio controlado por el estado chino, indica &quot;al menos 32 fallecidos&quot;, una diferencia de aproximadamente 30 veces. Además, los medios estadounidenses añaden una perspectiva geopolítica: The Washington Post se pregunta si la catástrofe transformará a Estados Unidos y Venezuela &quot;de enemigos a mejores amigos&quot;, y NPR destaca el generoso esfuerzo de ayuda de Estados Unidos.</p><h3>Solo una fuente</h3><p>La cifra extremadamente baja (al menos 32) que proporciona CGTN difiere significativamente de todas las demás y debe tratarse con precaución.</p><h3>¿Qué tan seguro?</h3><p>El propio desastre está bien documentado, pero la cifra de muertos es profundamente controvertida: desde al menos 32 (fuente estatal china) hasta 920 (occidental/oficial). Un claro ejemplo de cómo un &quot;hecho&quot; puede presentarse radicalmente diferente dependiendo de la fuente y la agenda. Lo más cercano a la verdad: un terremoto grave con un número de muertos probablemente en cientos, pero la cifra exacta es incierta.</p>",
+  "tldr": "Un fuerte terremoto ha sacudido a Venezuela, causando numerosas víctimas y heridos.",
+  "sakerhet": "trolig",
+  "flaggor": [
+    "omtvistat"
+  ],
+  "triangulering": {
+    "kallor": [
+      {
+        "kalla": "Berlingske",
+        "land": "DK",
+        "lutning": "conservador",
+        "statskontroll": "oberoende",
+        "url": "https://www.berlingske.dk/"
+      },
+      {
+        "kalla": "New York Times",
+        "land": "US",
+        "lutning": "centro-izquierda",
+        "statskontroll": "oberoende",
+        "url": "https://www.nytimes.com/"
+      },
+      {
+        "kalla": "Washington Post",
+        "land": "US",
+        "lutning": "centroderecha",
+        "statskontroll": "oberoende",
+        "url": "https://www.washingtonpost.com/"
+      },
+      {
+        "kalla": "NPR",
+        "land": "US",
+        "lutning": "centro",
+        "statskontroll": "oberoende",
+        "url": "https://www.npr.org/"
+      },
+      {
+        "kalla": "G1 (Globo)",
+        "land": "BR",
+        "lutning": "en el medio; en la parte central; en el centro; a mitad de camino.",
+        "statskontroll": "oberoende",
+        "url": "https://g1.globo.com/"
+      },
+      {
+        "kalla": "Al Jazeera",
+        "land": "QA",
+        "lutning": "Perspectiva desde el Sur Global.",
+        "statskontroll": "statsfinansierat",
+        "url": "https://www.aljazeera.com/"
+      },
+      {
+        "kalla": "CGTN",
+        "land": "CN",
+        "lutning": "línea política del partido estatal.",
+        "statskontroll": "statskontrollerat",
+        "url": "https://www.cgtn.com/"
+      }
+    ],
+    "samstammigt": [
+      "Un fuerte terremoto ha sacudido a Venezuela, causando numerosas víctimas y heridos.",
+      "Se ofrece ayuda internacional, incluyendo asistencia de Estados Unidos.",
+      "Siete países (Suecia, Dinamarca, Estados Unidos, Brasil, China, Catar y Rusia) han reportado el incidente."
+    ],
+    "divergenser": [
+      "La cifra de muertos varía enormemente: fuentes occidentales y oficiales venezolanas indican hasta 920 fallecidos (según Berlingske; anteriormente alrededor de 600), mientras que el medio estatal chino CGTN afirma \"al menos 32 muertos\", lo que representa una diferencia de aproximadamente 30 veces.",
+      "Los medios estadounidenses están analizando el evento desde una perspectiva geopolítica: The Washington Post plantea la pregunta (\"de enemigos a mejores amigos?\") sobre cómo esta catástrofe está poniendo a prueba las relaciones entre Estados Unidos y Venezuela; NPR destaca la generosa ayuda que Estados Unidos ha brindado."
+    ],
+    "enkalligt": [
+      "La cifra extremadamente baja (al menos 32) reportada por CGTN difiere significativamente de todas las demás fuentes y debe interpretarse con precaución."
+    ],
+    "vinkel_per_kalla": {
+      "Berlingske": "Alto número de fallecidos (920), con un enfoque en la ayuda humanitaria.",
+      "New York Times": "Los hospitales están desbordados; se solicita ayuda internacional.",
+      "Washington Post": "Perspectiva geopolítica: la catástrofe pone a prueba las relaciones entre Estados Unidos y Venezuela.",
+      "CGTN": "Un número de fallecidos significativamente menor (al menos 32), según una fuente oficial china, lo que difiere de todas las demás fuentes.",
+      "G1 (Globo)": "Explicativo: las causas del terremoto.",
+      "Al Jazeera": "Ayuda internacional y perspectiva regional."
+    },
+    "konfidens": "låg",
+    "bedomning": "Está bien documentado, a través de más de siete países, que un terremoto devastador ha afectado a Venezuela, causando un número significativo de víctimas. SIN EMBARGO, la cifra exacta de fallecidos es objeto de una profunda controversia: las fuentes occidentales y oficiales indican entre 600 y 920 muertos, mientras que CGTN, un medio controlado por el estado chino, informa de al menos 32 – una diferencia de aproximadamente 30 veces. Esto demuestra claramente cómo incluso un \"hecho\" (el número de fallecidos) puede presentarse de manera radicalmente diferente dependiendo de la fuente y la agenda. La verdad más cercana sería: un terremoto grave con un número de víctimas probablemente en cientos (según fuentes occidentales y oficiales venezolanas), pero la cifra exacta es incierta, y una fuente estatal china informa de un número mucho menor. Trate esta cifra con precaución."
+  }
+}

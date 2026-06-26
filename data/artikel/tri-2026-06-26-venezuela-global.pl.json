@@ -1,0 +1,90 @@
+{
+  "id": "tri-2026-06-26-venezuela-global",
+  "typ": "nyhet",
+  "titel": "Trzęsienie ziemi w Wenezueli - liczba ofiar śmiertelnych znacznie różni się w zależności od źródeł.",
+  "datum": "2026-06-26",
+  "kalla": "Triangulering (7 länder)",
+  "kalla_url": "",
+  "taggar": [],
+  "html": "<h3>W czym źródła są zgodne</h3><p>Potężne trzęsienie ziemi uderzyło w Wenezuelę, powodując wiele ofiar śmiertelnych i rannych, a pomoc międzynarodowa została zadeklarowana (m.in. ze strony USA). Siedem krajów – Szwecja, Dania, USA, Brazylia, Chiny, Katar i Rosja – informuje o tym zdarzeniu.</p><h3>W czym źródła się różnią</h3><p>Liczba ofiar śmiertelnych jest bardzo zróżnicowana. Źródła zachodnie i oficjalne wenezuelskie podają nawet do 920 osób (Berlingske; wcześniej około 600), podczas gdy chiński, kontrolowany przez państwo CGTN informuje o &quot;co najmniej 32 ofiarach&quot; – różnica ta wynosi około 30 razy. Media amerykańskie dodają również aspekt geopolityczny: Washington Post zastanawia się, czy katastrofa zmieni relacje między USA a Wenezuelą z wrogich na najlepsze, a NPR podkreśla hojne działania pomocowe ze strony USA.</p><h3>Tylko jedno źródło</h3><p>Bardzo niska liczba podawana przez CGTN (co najmniej 32) znacznie odbiega od wszystkich pozostałych i powinna być traktowana z ostrożnością.</p><h3>Jak bardzo wiarygodne?</h3><p>Sama katastrofa jest dobrze udokumentowana, ale liczba ofiar śmiertelnych budzi poważne wątpliwości – od co najmniej 32 (źródło chińskie, kontrolowane przez państwo) do 920 (źródła zachodnie/oficjalne). To wyraźny przykład tego, jak &quot;fakt&quot; może być przedstawiany w radykalnie różny sposób, w zależności od źródła i jego intencji. Najbliżej prawdy: poważne trzęsienie ziemi z liczbą ofiar śmiertelnych prawdopodobnie liczoną w setkach, ale dokładna liczba jest niepewna.</p>",
+  "tldr": "Silne trzęsienie ziemi uderzyło w Wenezuelę, powodując śmierć i rany wielu osób.",
+  "sakerhet": "trolig",
+  "flaggor": [
+    "omtvistat"
+  ],
+  "triangulering": {
+    "kallor": [
+      {
+        "kalla": "Berlingske",
+        "land": "DK",
+        "lutning": "konserwatywny",
+        "statskontroll": "oberoende",
+        "url": "https://www.berlingske.dk/"
+      },
+      {
+        "kalla": "New York Times",
+        "land": "US",
+        "lutning": "centrum lewicowe",
+        "statskontroll": "oberoende",
+        "url": "https://www.nytimes.com/"
+      },
+      {
+        "kalla": "Washington Post",
+        "land": "US",
+        "lutning": "centrum lewicowe",
+        "statskontroll": "oberoende",
+        "url": "https://www.washingtonpost.com/"
+      },
+      {
+        "kalla": "NPR",
+        "land": "US",
+        "lutning": "rękawiczki",
+        "statskontroll": "oberoende",
+        "url": "https://www.npr.org/"
+      },
+      {
+        "kalla": "G1 (Globo)",
+        "land": "BR",
+        "lutning": "środek",
+        "statskontroll": "oberoende",
+        "url": "https://g1.globo.com/"
+      },
+      {
+        "kalla": "Al Jazeera",
+        "land": "QA",
+        "lutning": "Perspektywa Globalnego Południa.",
+        "statskontroll": "statsfinansierat",
+        "url": "https://www.aljazeera.com/"
+      },
+      {
+        "kalla": "CGTN",
+        "land": "CN",
+        "lutning": "linia polityczna partii rządzącej",
+        "statskontroll": "statskontrollerat",
+        "url": "https://www.cgtn.com/"
+      }
+    ],
+    "samstammigt": [
+      "Silne trzęsienie ziemi uderzyło w Wenezuelę, powodując śmierć i rany wielu osób.",
+      "Zadeklarowano międzynarodową pomoc, w tym ze strony Stanów Zjednoczonych.",
+      "Siedem krajów (Szwecja, Dania, Stany Zjednoczone, Brazylia, Chiny, Katar i Rosja) zgłosiło ten incydent."
+    ],
+    "divergenser": [
+      "Liczba ofiar śmiertelnych jest bardzo różna w zależności od źródła: zachodnie i oficjalne wenezuelskie doniesienia podają nawet do 920 zabitych (jak podaje Berlingske; wcześniej około 600), podczas gdy chińska telewizja państwowa CGTN informuje o \"co najmniej 32 osobach zmarłych\" – co stanowi różnicę rzędu 30 razy.",
+      "Media amerykańskie przyglądają się temu zjawisku w kontekście geopolitycznym: \"Washington Post\" zastanawia się, czy katastrofa może zmienić relacje między USA a Wenezuelą (\"od wrogów do najlepszych przyjaciół?\"), natomiast NPR podkreśla hojne działania pomocowe ze strony Stanów Zjednoczonych."
+    ],
+    "enkalligt": [
+      "Bardzo niska wartości podawane przez CGTN (przynajmniej 32) znacznie odbiegają od danych pochodzących z innych źródeł i powinny być traktowane z dużą ostrożnością."
+    ],
+    "vinkel_per_kalla": {
+      "Berlingske": "Wysoka liczba ofiar śmiertelnych (920), priorytet to pomoc humanitarna.",
+      "New York Times": "Szpitale są przeciążone; potrzebna międzynarodowa pomoc.",
+      "Washington Post": "Aspekt geopolityczny – katastrofa wystawia na próbę relacje między Stanami Zjednoczonymi a Wenezuelą.",
+      "CGTN": "Znacznie niższa liczba ofiar śmiertelnych (co najmniej 32) – według oficjalnego chińskiego źródła rządowego, co odbiega od wszystkich innych doniesień.",
+      "G1 (Globo)": "Wyjaśnienie przyczyn trzęsienia ziemi.",
+      "Al Jazeera": "Pomoc międzynarodowa i perspektywa regionalna."
+    },
+    "konfidens": "låg",
+    "bedomning": "Informacje o poważnym trzęsieniu ziemi w Wenezueli, które spowodowało znaczne ofiary, są potwierdzone przez siedem krajów. Jednakże, sama liczba ofiar jest przedmiotem głębokich sporów: zachodnie i oficjalne źródła podają liczbę od 600 do 920 osób zmarłych, podczas gdy chińska, kontrolowana przez państwo stacja CGTN informuje o co najmniej 32 ofiar śmiertelnych – różnica ta wynosi około 30 razy. To wyraźnie pokazuje, jak nawet \"fakt\" (liczba ofiar) może być przedstawiany w radykalnie różny sposób, w zależności od źródła i jego celów. Najbliżej prawdy wydaje się być informacja o poważnym trzęsieniu ziemi, które prawdopodobnie pochłonęło setki istnień ludzkich (zgodnie z danymi zachodnimi i oficjalnymi wenezuelskimi), ale dokładna liczba jest niepewna, a chińskie źródło rządowe podaje znacznie niższą wartość. Należy traktować te dane z ostrożnością."
+  }
+}

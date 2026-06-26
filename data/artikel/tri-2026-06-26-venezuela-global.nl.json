@@ -1,0 +1,90 @@
+{
+  "id": "tri-2026-06-26-venezuela-global",
+  "typ": "nyhet",
+  "titel": "De aardbeving in Venezuela - het aantal doden varieert sterk tussen verschillende bronnen.",
+  "datum": "2026-06-26",
+  "kalla": "Triangulering (7 länder)",
+  "kalla_url": "",
+  "taggar": [],
+  "html": "<h3>Waar de bronnen het over eens zijn</h3><p>Een krachtige aardbeving heeft Venezuela getroffen, met veel doden en gewonden, en internationale hulp wordt aangeboden (onder andere vanuit de VS). Zeven landen – Zweden, Denemarken, de VS, Brazilië, China, Qatar en Rusland – rapporteren over het incident.</p><h3>Waar de bronnen van mening verschillen</h3><p>Het aantal dodelijke slachtoffers varieert enorm. Westerse en officiële Venezolaanse rapporten geven een aantal van tot 920 doden (Berlingske; eerder ongeveer 600), terwijl de Chinese, door de staat gecontroleerde zender CGTN spreekt van &#x27;minimaal 32 doden&#x27; – een verschil van ongeveer 30 keer. Amerikaanse media voegen bovendien een geopolitieke invalshoek toe: The Washington Post vraagt zich af of de ramp de relatie tussen de VS en Venezuela zal veranderen van vijandschap naar vriendschap, en NPR benadrukt de genereuze hulpverlening van de VS.</p><h3>Alleen één bron</h3><p>Het zeer lage aantal (minimaal 32) dat door CGTN wordt genoemd, wijkt sterk af van alle andere rapporten en moet met voorzichtigheid worden behandeld.</p><h3>Hoe zeker?</h3><p>De aardbeving zelf is goed gedocumenteerd, maar het aantal dodelijke slachtoffers is diepgaand betwist – van minimaal 32 (Chinese staatsbron) tot 920 (Westerse/officiële bron). Een duidelijk voorbeeld van hoe een &#x27;feit&#x27; radicaal anders kan worden gepresenteerd, afhankelijk van de bron en het doel. Het meest waarschijnlijke scenario: een ernstige aardbeving met een aantal doden dat waarschijnlijk in de honderden loopt, maar het exacte cijfer is onzeker.</p>",
+  "tldr": "Een krachtige aardbeving heeft Venezuela getroffen, met veel doden en gewonden tot gevolg.",
+  "sakerhet": "trolig",
+  "flaggor": [
+    "omtvistat"
+  ],
+  "triangulering": {
+    "kallor": [
+      {
+        "kalla": "Berlingske",
+        "land": "DK",
+        "lutning": "conservatief",
+        "statskontroll": "oberoende",
+        "url": "https://www.berlingske.dk/"
+      },
+      {
+        "kalla": "New York Times",
+        "land": "US",
+        "lutning": "centrumlinks",
+        "statskontroll": "oberoende",
+        "url": "https://www.nytimes.com/"
+      },
+      {
+        "kalla": "Washington Post",
+        "land": "US",
+        "lutning": "centrumlinks",
+        "statskontroll": "oberoende",
+        "url": "https://www.washingtonpost.com/"
+      },
+      {
+        "kalla": "NPR",
+        "land": "US",
+        "lutning": "handschoenen",
+        "statskontroll": "oberoende",
+        "url": "https://www.npr.org/"
+      },
+      {
+        "kalla": "G1 (Globo)",
+        "land": "BR",
+        "lutning": "handschoenen",
+        "statskontroll": "oberoende",
+        "url": "https://g1.globo.com/"
+      },
+      {
+        "kalla": "Al Jazeera",
+        "land": "QA",
+        "lutning": "Perspectief vanuit het Werelddeel Zuid.",
+        "statskontroll": "statsfinansierat",
+        "url": "https://www.aljazeera.com/"
+      },
+      {
+        "kalla": "CGTN",
+        "land": "CN",
+        "lutning": "het standpunt van de regeringspartij",
+        "statskontroll": "statskontrollerat",
+        "url": "https://www.cgtn.com/"
+      }
+    ],
+    "samstammigt": [
+      "Een krachtige aardbeving heeft Venezuela getroffen, met veel doden en gewonden tot gevolg.",
+      "Er wordt internationale hulp toegezegd, onder andere vanuit de Verenigde Staten.",
+      "Zeven landen (Zweden, Denemarken, de Verenigde Staten, Brazilië, China, Qatar en Rusland) hebben het incident gemeld."
+    ],
+    "divergenser": [
+      "Het aantal doden varieert enorm: westerse en officiële Venezolaanse bronnen geven een getal van tot wel 920 doden (Berlingske; eerder ongeveer 600), terwijl de Chinese staatstelevisie CGTN spreekt van \"minimaal 32 doden\" – een verschil van ongeveer 30 keer.",
+      "Amerikaanse media benadrukken de geopolitieke aspecten: De Washington Post vraagt zich af (\"van vijanden tot beste vrienden?\") hoe de ramp de relatie tussen de VS en Venezuela beïnvloedt; NPR legt de nadruk op de genereuze hulp die de VS biedt."
+    ],
+    "enkalligt": [
+      "De zeer lage cijfers van CGTN (minimaal 32) wijken sterk af van alle andere bronnen en moeten met de nodige voorzichtigheid worden benaderd."
+    ],
+    "vinkel_per_kalla": {
+      "Berlingske": "Hoog sterftecijfer (920), met een focus op humanitaire hulp.",
+      "New York Times": "Ziekenhuizen overspoeld; internationale hulp in aantocht.",
+      "Washington Post": "Geopolitiek perspectief: de ramp test de relatie tussen de Verenigde Staten en Venezuela.",
+      "CGTN": "Aanzienlijk lagere sterftecijfers (minimaal 32) - volgens een officiële Chinese bron, wat afwijkt van alle andere rapporten.",
+      "G1 (Globo)": "Uitleg: de oorzaken van de aardbeving.",
+      "Al Jazeera": "Internationale hulp en een regionaal perspectief."
+    },
+    "konfidens": "låg",
+    "bedomning": "Het is overtuigend vastgesteld dat een ernstige aardbeving Venezuela heeft getroffen, met aanzienlijke gevolgen in meer dan zeven landen. ECHTER, het exacte aantal doden is zeer omstreden: westerse en officiële bronnen geven tussen de 600 en 920 doden aan, terwijl de door de Chinese overheid gecontroleerde zender CGTN spreekt van minstens 32 – een verschil van ongeveer 30 keer. Dit laat duidelijk zien hoe zelfs een 'feit' (het aantal doden) op radicaal verschillende manieren kan worden gepresenteerd, afhankelijk van de bron en het doel. De meest waarschijnlijke realiteit is dat er een ernstige aardbeving was met een aantal doden dat waarschijnlijk in de honderden ligt (volgens westerse en officiële Venezolaanse gegevens), maar het exacte cijfer is onzeker, en een Chinese overheidsbron meldt een veel lager getal. Behandel dit cijfer met voorzichtigheid."
+  }
+}

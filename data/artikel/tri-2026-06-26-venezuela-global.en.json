@@ -1,0 +1,90 @@
+{
+  "id": "tri-2026-06-26-venezuela-global",
+  "typ": "nyhet",
+  "titel": "The earthquake in Venezuela - the death toll varies widely between different sources.",
+  "datum": "2026-06-26",
+  "kalla": "Triangulering (7 länder)",
+  "kalla_url": "",
+  "taggar": [],
+  "html": "<h3>What the Sources Agree On</h3><p>A powerful earthquake has struck Venezuela, resulting in numerous deaths and injuries, and international aid is being offered (including from the United States). Seven countries – Sweden, Denmark, the United States, Brazil, China, Qatar, and Russia – are reporting on the event.</p><h3>Where the Sources Disagree</h3><p>The reported death toll varies significantly. Western and official Venezuelan sources indicate up to 920 deaths (Berlingske; previously around 600), while the Chinese state-controlled CGTN reports &quot;at least 32 deaths&quot; – a difference of approximately 30 times. U.S. media outlets are also adding a geopolitical angle: The Washington Post asks whether the disaster will transform the relationship between the United States and Venezuela &quot;from enemies to best friends,&quot; and NPR highlights the generosity of the U.S. aid effort.</p><h3>Only One Source</h3><p>CGTN&#x27;s significantly low figure (at least 32) deviates sharply from all other reports and should be treated with caution.</p><h3>How Certain?</h3><p>While the earthquake itself is well-documented, the death toll is deeply disputed – ranging from a minimum of 32 (according to a Chinese state source) to 920 (according to Western/official sources). This is a clear example of how a &quot;fact&quot; can be presented in radically different ways depending on the source and its agenda. The most likely scenario: a serious earthquake with a death toll probably in the hundreds, but the exact figure remains uncertain.</p>",
+  "tldr": "A powerful earthquake has struck Venezuela, resulting in numerous deaths and injuries.",
+  "sakerhet": "trolig",
+  "flaggor": [
+    "omtvistat"
+  ],
+  "triangulering": {
+    "kallor": [
+      {
+        "kalla": "Berlingske",
+        "land": "DK",
+        "lutning": "conservative",
+        "statskontroll": "oberoende",
+        "url": "https://www.berlingske.dk/"
+      },
+      {
+        "kalla": "New York Times",
+        "land": "US",
+        "lutning": "center-left",
+        "statskontroll": "oberoende",
+        "url": "https://www.nytimes.com/"
+      },
+      {
+        "kalla": "Washington Post",
+        "land": "US",
+        "lutning": "center-left",
+        "statskontroll": "oberoende",
+        "url": "https://www.washingtonpost.com/"
+      },
+      {
+        "kalla": "NPR",
+        "land": "US",
+        "lutning": "middle",
+        "statskontroll": "oberoende",
+        "url": "https://www.npr.org/"
+      },
+      {
+        "kalla": "G1 (Globo)",
+        "land": "BR",
+        "lutning": "middle",
+        "statskontroll": "oberoende",
+        "url": "https://g1.globo.com/"
+      },
+      {
+        "kalla": "Al Jazeera",
+        "land": "QA",
+        "lutning": "A perspective from the Global South.",
+        "statskontroll": "statsfinansierat",
+        "url": "https://www.aljazeera.com/"
+      },
+      {
+        "kalla": "CGTN",
+        "land": "CN",
+        "lutning": "government party line",
+        "statskontroll": "statskontrollerat",
+        "url": "https://www.cgtn.com/"
+      }
+    ],
+    "samstammigt": [
+      "A powerful earthquake has struck Venezuela, resulting in numerous deaths and injuries.",
+      "International aid has been promised, including assistance from the United States.",
+      "Seven countries (Sweden, Denmark, USA, Brazil, China, Qatar, and Russia) have reported the incident."
+    ],
+    "divergenser": [
+      "The reported death toll varies dramatically: Western and official Venezuelan sources indicate up to 920 deaths (Berlingske; previously around 600), while the Chinese state-owned media outlet CGTN reports \"at least 32 deaths\" – a difference of approximately 30 times.",
+      "U.S. media are taking a geopolitical perspective: The Washington Post (\"from enemies to best friends?\") examines how the disaster is testing the U.S.-Venezuela relationship; NPR highlights the generous aid provided by the United States."
+    ],
+    "enkalligt": [
+      "CGTN's extremely low figure (at least 32) deviates significantly from all other sources and should be treated with caution."
+    ],
+    "vinkel_per_kalla": {
+      "Berlingske": "High mortality rate (920), with a focus on humanitarian aid.",
+      "New York Times": "Hospitals are overwhelmed; international assistance is being provided.",
+      "Washington Post": "Geopolitical Perspective: The disaster is testing the relationship between the United States and Venezuela.",
+      "CGTN": "A significantly lower death toll (at least 32) - according to a Chinese government source, which contradicts all other reports.",
+      "G1 (Globo)": "Explanatory: The causes behind the earthquake.",
+      "Al Jazeera": "International aid and a regional perspective."
+    },
+    "konfidens": "låg",
+    "bedomning": "It is well-documented across more than seven countries that a major earthquake has struck Venezuela, resulting in significant casualties. However, the actual death toll is highly disputed: Western and official sources report figures ranging from 600 to 920 deaths, while the Chinese state-controlled CGTN claims at least 32 – a difference of approximately 30 times. This clearly demonstrates how even a seemingly straightforward \"fact\" (the number of deaths) can be presented in radically different ways depending on the source and its agenda. The most likely scenario is a severe earthquake with a death toll probably in the hundreds (according to Western and official Venezuelan sources), but the exact figure remains uncertain, and a state-controlled Chinese source reports a much lower number. Treat this figure with caution."
+  }
+}

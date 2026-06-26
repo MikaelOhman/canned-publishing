@@ -1,0 +1,90 @@
+{
+  "id": "tri-2026-06-26-venezuela-global",
+  "typ": "nyhet",
+  "titel": "Le tremblement de terre au Venezuela : le nombre de victimes varie considérablement selon les sources.",
+  "datum": "2026-06-26",
+  "kalla": "Triangulering (7 länder)",
+  "kalla_url": "",
+  "taggar": [],
+  "html": "<h3>Ce qui unit les sources</h3><p>Un puissant tremblement de terre a frappé le Venezuela, causant de nombreux morts et blessés, et une aide internationale est promise (notamment par les États-Unis). Sept pays – la Suède, le Danemark, les États-Unis, le Brésil, la Chine, le Qatar et la Russie – font état de cet événement.</p><h3>Les divergences entre les sources</h3><p>Le nombre de victimes varie considérablement. Les informations provenant des sources occidentales et officielles vénézuéliennes indiquent jusqu&#x27;à 920 morts (Berlingske ; auparavant environ 600), tandis que CGTN, une chaîne contrôlée par l&#x27;État chinois, indique &quot;au moins 32 morts&quot; – une différence d&#x27;environ 30 fois. Les médias américains ajoutent également un angle géopolitique : le Washington Post se demande si cette catastrophe pourrait transformer les États-Unis et le Venezuela de &quot;ennemis en meilleurs amis&quot;, tandis que NPR souligne l&#x27;aide généreuse apportée par les États-Unis.</p><h3>Une seule source divergente</h3><p>Le chiffre très bas indiqué par CGTN (au moins 32) s&#x27;écarte considérablement des autres sources et doit être traité avec prudence.</p><h3>Niveau de certitude</h3><p>La catastrophe elle-même est bien documentée, mais le nombre de victimes fait l&#x27;objet de vives contestations : de &quot;minimum 32&quot; (source officielle chinoise) à &quot;920&quot; (sources occidentales/officielles). C&#x27;est un exemple flagrant de la manière dont un &quot;fait&quot; peut être présenté radicalement différemment en fonction de la source et de l&#x27;agenda. La vérité la plus proche : un tremblement de terre grave avec un nombre de morts probablement dans les centaines, mais le chiffre exact est incertain.</p>",
+  "tldr": "Un puissant tremblement de terre a frappé le Venezuela, causant de nombreux morts et blessés.",
+  "sakerhet": "trolig",
+  "flaggor": [
+    "omtvistat"
+  ],
+  "triangulering": {
+    "kallor": [
+      {
+        "kalla": "Berlingske",
+        "land": "DK",
+        "lutning": "conservateur",
+        "statskontroll": "oberoende",
+        "url": "https://www.berlingske.dk/"
+      },
+      {
+        "kalla": "New York Times",
+        "land": "US",
+        "lutning": "centre-gauche",
+        "statskontroll": "oberoende",
+        "url": "https://www.nytimes.com/"
+      },
+      {
+        "kalla": "Washington Post",
+        "land": "US",
+        "lutning": "centre-gauche.",
+        "statskontroll": "oberoende",
+        "url": "https://www.washingtonpost.com/"
+      },
+      {
+        "kalla": "NPR",
+        "land": "US",
+        "lutning": "au milieu ; en plein milieu.",
+        "statskontroll": "oberoende",
+        "url": "https://www.npr.org/"
+      },
+      {
+        "kalla": "G1 (Globo)",
+        "land": "BR",
+        "lutning": "Au milieu.",
+        "statskontroll": "oberoende",
+        "url": "https://g1.globo.com/"
+      },
+      {
+        "kalla": "Al Jazeera",
+        "land": "QA",
+        "lutning": "Perspective du Sud global.",
+        "statskontroll": "statsfinansierat",
+        "url": "https://www.aljazeera.com/"
+      },
+      {
+        "kalla": "CGTN",
+        "land": "CN",
+        "lutning": "ligne politique officielle du gouvernement.",
+        "statskontroll": "statskontrollerat",
+        "url": "https://www.cgtn.com/"
+      }
+    ],
+    "samstammigt": [
+      "Un puissant tremblement de terre a frappé le Venezuela, causant de nombreux morts et blessés.",
+      "Une aide internationale a été promise, notamment par les États-Unis.",
+      "Sept pays (Suède, Danemark, États-Unis, Brésil, Chine, Qatar, Russie) ont signalé cet incident."
+    ],
+    "divergenser": [
+      "Le nombre de victimes varie énormément : les sources occidentales et officielles vénézuéliennes indiquent jusqu'à 920 morts (Berlingske ; auparavant environ 600), tandis que la chaîne d'information publique chinoise CGTN mentionne \"au moins 32 morts\", ce qui représente une différence d'environ 30 fois.",
+      "Les médias américains adoptent une perspective géopolitique : le Washington Post se demande (\"de l'inimitié à la meilleure amitié ?\") comment cette catastrophe met à l'épreuve les relations entre les États-Unis et le Venezuela ; NPR souligne, quant à elle, la générosité de l'aide américaine."
+    ],
+    "enkalligt": [
+      "Le chiffre extrêmement bas de CGTN (au moins 32) est très différent des données fournies par toutes les autres sources et doit être interprété avec prudence."
+    ],
+    "vinkel_per_kalla": {
+      "Berlingske": "Nombre élevé de décès (920), priorité accordée aux aspects humanitaires.",
+      "New York Times": "Les hôpitaux sont débordés ; une aide internationale est nécessaire.",
+      "Washington Post": "Perspective géopolitique : la catastrophe met à l'épreuve les relations entre les États-Unis et le Venezuela.",
+      "CGTN": "Un nombre de décès nettement plus faible (au moins 32) : selon une source officielle chinoise, ce chiffre est différent de tous les autres rapports.",
+      "G1 (Globo)": "Explicatif : les causes du tremblement de terre.",
+      "Al Jazeera": "Aide internationale et perspective régionale."
+    },
+    "konfidens": "låg",
+    "bedomning": "Il est bien établi, dans plus de sept pays, qu'un tremblement de terre majeur a frappé le Venezuela, causant un nombre important de victimes. Cependant, le chiffre exact des décès fait l'objet de controverses : les sources occidentales et officielles indiquent entre 600 et 920 morts, tandis que CGTN, une chaîne contrôlée par l'État chinois, en mentionne au moins 32 – une différence d'environ 30 fois. Cet exemple illustre clairement comment même un \"fait\" (le nombre de décès) peut être présenté de manière radicalement différente selon la source et les motivations qui la sous-tendent. La réalité est probablement celle d'un tremblement de terre grave ayant causé des centaines de morts (selon les estimations occidentales et officielles vénézuéliennes), mais le chiffre exact reste incertain, et une source officielle chinoise rapporte un nombre beaucoup plus faible. Il convient donc de traiter ce chiffre avec prudence."
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "tri-2026-06-26-venezuela-global",
+  "typ": "nyhet",
+  "titel": "Das Erdbeben in Venezuela – die Zahl der Todesopfer variiert stark je nach Quelle.",
+  "datum": "2026-06-26",
+  "kalla": "Triangulering (7 länder)",
+  "kalla_url": "",
+  "taggar": [],
+  "html": "<h3>Worauf sich die Quellen einigen</h3><p>Ein starkes Erdbeben hat Venezuela getroffen, mit zahlreichen Toten und Verletzten, und internationale Hilfe wurde zugesagt (darunter aus den USA). Sieben Länder – Schweden, Dänemark, die USA, Brasilien, China, Katar und Russland – berichten über das Ereignis.</p><h3>Worin sich die Quellen unterscheiden</h3><p>Die Angaben zur Todeszahl variieren stark. Westliche und offizielle venezolanische Quellen nennen bis zu 920 Tote (Berlingske; zuvor etwa 600), während der chinesisch staatlich kontrollierte Sender CGTN von &quot;mindestens 32 Toten&quot; spricht – eine Differenz von etwa dem Faktor 30. US-amerikanische Medien bringen zusätzlich einen geopolitischen Aspekt: Die Washington Post fragt, ob die Katastrophe die USA und Venezuela von &quot;Feinden zu besten Freunden&quot; macht, und NPR hebt das großzügige Hilfsangebot der USA hervor.</p><h3>Nur eine Quelle</h3><p>Die sehr niedrige Zahl (mindestens 32) von CGTN weicht stark von allen anderen Angaben ab und sollte mit Vorsicht betrachtet werden.</p><h3>Wie sicher ist die Information?</h3><p>Das Erdbeben selbst ist gut dokumentiert, aber die Todeszahlen sind höchst umstritten – von mindestens 32 (chinesische staatliche Quelle) bis zu 920 (westliche/offizielle Quellen). Ein deutliches Beispiel dafür, wie ein &quot;Faktum&quot; je nach Quelle und Hintergrund radikal unterschiedlich dargestellt werden kann. Am wahrscheinlichsten: ein schweres Erdbeben mit einer Todeszahl von vermutlich mehreren hundert, aber die genaue Zahl ist ungewiss.</p>",
+  "tldr": "Ein starkes Erdbeben hat Venezuela heimgesucht, wobei zahlreiche Menschen ums Leben gekommen sind und viele weitere verletzt wurden.",
+  "sakerhet": "trolig",
+  "flaggor": [
+    "omtvistat"
+  ],
+  "triangulering": {
+    "kallor": [
+      {
+        "kalla": "Berlingske",
+        "land": "DK",
+        "lutning": "konservativ",
+        "statskontroll": "oberoende",
+        "url": "https://www.berlingske.dk/"
+      },
+      {
+        "kalla": "New York Times",
+        "land": "US",
+        "lutning": "Zentrum links",
+        "statskontroll": "oberoende",
+        "url": "https://www.nytimes.com/"
+      },
+      {
+        "kalla": "Washington Post",
+        "land": "US",
+        "lutning": "Zentrum links",
+        "statskontroll": "oberoende",
+        "url": "https://www.washingtonpost.com/"
+      },
+      {
+        "kalla": "NPR",
+        "land": "US",
+        "lutning": "In der Mitte.",
+        "statskontroll": "oberoende",
+        "url": "https://www.npr.org/"
+      },
+      {
+        "kalla": "G1 (Globo)",
+        "land": "BR",
+        "lutning": "In der Mitte.",
+        "statskontroll": "oberoende",
+        "url": "https://g1.globo.com/"
+      },
+      {
+        "kalla": "Al Jazeera",
+        "land": "QA",
+        "lutning": "Perspektive aus der globalen Süden-Region.",
+        "statskontroll": "statsfinansierat",
+        "url": "https://www.aljazeera.com/"
+      },
+      {
+        "kalla": "CGTN",
+        "land": "CN",
+        "lutning": "staatliche Parteipolitik",
+        "statskontroll": "statskontrollerat",
+        "url": "https://www.cgtn.com/"
+      }
+    ],
+    "samstammigt": [
+      "Ein starkes Erdbeben hat Venezuela heimgesucht, wobei zahlreiche Menschen ums Leben gekommen sind und viele weitere verletzt wurden.",
+      "Internationale Hilfe wurde zugesagt, unter anderem von den Vereinigten Staaten.",
+      "Sieben Länder (Schweden, Dänemark, die USA, Brasilien, China, Katar und Russland) haben den Vorfall gemeldet."
+    ],
+    "divergenser": [
+      "Die Zahl der Todesopfer variiert enorm: Westliche und offizielle venezolanische Quellen geben bis zu 920 Tote an (Berlingske; zuvor etwa 600), während das chinesische Staatsfernsehen CGTN von \"mindestens 32 Toten\" berichtet – eine Differenz von ungefähr dem Faktor 30.",
+      "US-amerikanische Medien betrachten den Vorfall aus einer geopolitischen Perspektive: Die Washington Post fragt, ob sich die Beziehungen zwischen den USA und Venezuela von \"Feinden zu besten Freunden\" entwickeln könnten, während NPR die großzügige humanitäre Hilfe der USA hervorhebt."
+    ],
+    "enkalligt": [
+      "Die von CGTN angegebene sehr niedrige Zahl (mindestens 32) weicht stark von allen anderen Quellen ab und sollte mit Vorsicht betrachtet werden."
+    ],
+    "vinkel_per_kalla": {
+      "Berlingske": "Hohe Sterblichkeitsrate (920), Fokus auf humanitäre Hilfe.",
+      "New York Times": "Die Krankenhäuser sind überlastet; internationale Hilfe wird benötigt.",
+      "Washington Post": "Geopolitische Perspektive: Die Katastrophe belastet die Beziehungen zwischen den USA und Venezuela.",
+      "CGTN": "De offiziellen Todeszahlen sind deutlich niedriger (mindestens 32) – laut einer chinesischen Regierungsquelle, was von allen anderen Quellen abweicht.",
+      "G1 (Globo)": "Erläuterung: Die Ursachen des Erdbebens.",
+      "Al Jazeera": "Internationale Hilfe und regionale Perspektiven."
+    },
+    "konfidens": "låg",
+    "bedomning": "Es ist gut dokumentiert, dass ein schweres Erdbeben Venezuela getroffen hat und dabei erhebliche Todesfälle verursacht hat – dies wird von Quellen in über sieben Ländern bestätigt. ABER die genaue Zahl der Todesopfer ist höchst umstritten: Westliche und offizielle Quellen geben zwischen 600 und 920 Toten an, während das chinesisch staatlich kontrollierte CGTN mindestens 32 Tote nennt – eine Differenz von etwa dem Faktor 30. Dies zeigt deutlich, wie selbst ein \"Faktum\" (die Anzahl der Todesopfer) je nach Quelle und Hintergrund radikal unterschiedlich dargestellt werden kann. Wahrscheinlich liegt die Wahrheit irgendwo dazwischen: Ein schweres Erdbeben mit einer Todeszahl, die wahrscheinlich im Hundertebereich liegt (westliche + offizielle venezolanische Angaben), aber die genaue Zahl ist ungewiss, und eine staatliche chinesische Quelle meldet eine deutlich niedrigere Zahl. Gehen Sie bei dieser Zahl vorsichtig um."
+  }
+}

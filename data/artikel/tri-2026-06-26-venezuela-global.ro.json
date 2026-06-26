@@ -1,0 +1,90 @@
+{
+  "id": "tri-2026-06-26-venezuela-global",
+  "typ": "nyhet",
+  "titel": "Cutremurul din Venezuela: numărul de morți variază considerabil în funcție de sursă.",
+  "datum": "2026-06-26",
+  "kalla": "Triangulering (7 länder)",
+  "kalla_url": "",
+  "taggar": [],
+  "html": "<h3>Punctele comune ale surselor</h3><p>Un cutremur puternic a lovit Venezuela, provocând numeroase victime și răniți, iar ajutor internațional este promis (inclusiv din partea SUA). Șapte țări – Suedia, Danemarca, SUA, Brazilia, China, Qatar și Rusia – raportează evenimentul.</p><h3>Punctele în care sursele diferă</h3><p>Numărul de morți variază enorm. Surse occidentale și oficiale venezuelane indică un număr de până la 920 de morți (Berlingske; anterior aproximativ 600), în timp ce CGTN, controlată de statul chinez, menționează &quot;cel puțin 32 de morți&quot; – o diferență de aproximativ 30 de ori. De asemenea, mass-media americană adaugă o perspectivă geopolitică: Washington Post se întreabă dacă această catastrofă va transforma SUA și Venezuela &quot;din dușmani în cei mai buni prieteni&quot;, iar NPR subliniază eforturile generoase ale SUA de ajutorare.</p><h3>Doar o sursă&lt;/h2&gt;</h3><p>Cifra foarte scăzută (cel puțin 32) raportată de CGTN diferă semnificativ de toate celelalte și ar trebui tratată cu precauție.</p><h3>Cât de sigur?</h3><p>În sine, catastrofa este bine documentată, dar numărul de morți este profund contestat – de la cel puțin 32 (sursă controlată de statul chinez) până la 920 (sursă occidentală/oficială). Un exemplu clar al modului în care un &quot;fapt&quot; poate fi prezentat radical diferit, în funcție de sursă și de agenda acesteia. Cel mai probabil, este vorba despre un cutremur grav cu un număr de victime cel mai probabil în sute, dar cifra exactă este incertă.</p>",
+  "tldr": "Un cutremur puternic a lovit Venezuela, provocând numeroase victime și răniți.",
+  "sakerhet": "trolig",
+  "flaggor": [
+    "omtvistat"
+  ],
+  "triangulering": {
+    "kallor": [
+      {
+        "kalla": "Berlingske",
+        "land": "DK",
+        "lutning": "conservator",
+        "statskontroll": "oberoende",
+        "url": "https://www.berlingske.dk/"
+      },
+      {
+        "kalla": "New York Times",
+        "land": "US",
+        "lutning": "centru-stânga",
+        "statskontroll": "oberoende",
+        "url": "https://www.nytimes.com/"
+      },
+      {
+        "kalla": "Washington Post",
+        "land": "US",
+        "lutning": "centru-stânga",
+        "statskontroll": "oberoende",
+        "url": "https://www.washingtonpost.com/"
+      },
+      {
+        "kalla": "NPR",
+        "land": "US",
+        "lutning": "în mijloc; în centru; la mijloc; deasupra; din mijlocul a ceva; a pune în mijloc; a se afla în mijloc.",
+        "statskontroll": "oberoende",
+        "url": "https://www.npr.org/"
+      },
+      {
+        "kalla": "G1 (Globo)",
+        "land": "BR",
+        "lutning": "în mijloc; în centru; la mijloc; degetul mijlociu",
+        "statskontroll": "oberoende",
+        "url": "https://g1.globo.com/"
+      },
+      {
+        "kalla": "Al Jazeera",
+        "land": "QA",
+        "lutning": "Perspectiva din perspectiva țărilor din Sudul Globalului.",
+        "statskontroll": "statsfinansierat",
+        "url": "https://www.aljazeera.com/"
+      },
+      {
+        "kalla": "CGTN",
+        "land": "CN",
+        "lutning": "politica oficială a unui partid politic guvernamental.",
+        "statskontroll": "statskontrollerat",
+        "url": "https://www.cgtn.com/"
+      }
+    ],
+    "samstammigt": [
+      "Un cutremur puternic a lovit Venezuela, provocând numeroase victime și răniți.",
+      "Ajutor internațional a fost promis, inclusiv din partea Statelor Unite ale Americii.",
+      "Șapte țări (Suedia, Danemarca, SUA, Brazilia, China, Qatar și Rusia) au raportat incidentul."
+    ],
+    "divergenser": [
+      "Numărul de morți variază enorm: sursele occidentale și cele oficiale din Venezuela indică până la 920 de persoane decedate (Berlingske; anterior, aproximativ 600), în timp ce canalul chinezesc CGTN, controlat de stat, menționează \"cel puțin 32 de morți\" – o diferență de aproximativ 30 de ori.",
+      "Mass-media din SUA adoptă o perspectivă geopolitică: Washington Post (\"de la dușmani la cei mai buni prieteni?\") analizează modul în care dezastrul testează relația dintre SUA și Venezuela; NPR subliniază amploarea generozității ajutorului oferit de SUA."
+    ],
+    "enkalligt": [
+      "Cifra foarte scăzută raportată de CGTN (cel puțin 32) diferă semnificativ de toate celelalte surse și ar trebui tratată cu precauție."
+    ],
+    "vinkel_per_kalla": {
+      "Berlingske": "Număr mare de decese (920), cu accent pe aspectele umanitare.",
+      "New York Times": "Spitalele sunt supraaglomerate; se solicită ajutor internațional.",
+      "Washington Post": "Perspectivă geopolitică: catastrofa pune la încercare relațiile dintre SUA și Venezuela.",
+      "CGTN": "Un număr semnificativ mai mic de decese (cel puțin 32) - conform unei surse oficiale chinezești, ceea ce contrazice toate celelalte informații disponibile.",
+      "G1 (Globo)": "Explicații: cauzele cutremurului.",
+      "Al Jazeera": "Asistență internațională și o perspectivă regională."
+    },
+    "konfidens": "låg",
+    "bedomning": "Este bine documentat faptul că un cutremur devastator a lovit Venezuela, provocând un număr semnificativ de victime în peste șapte țări. ÎNSĂ, cifra exactă a victimelor este profund controversată: sursele occidentale și cele oficiale indică între 600 și 920 de morți, în timp ce CGTN, o sursă controlată de statul chinez, menționează cel puțin 32 de victime – o diferență de aproximativ 30 de ori. Acest lucru demonstrează clar cum chiar un \"fapt\" (numărul de persoane decedate) poate fi prezentat în mod radical diferit, în funcție de sursă și de agenda din spate. Cel mai probabil, realitatea este următoarea: un cutremur grav cu un număr de victime cel mai probabil de sute (conform estimărilor occidentale și ale autorităților venezuelane), dar cifra exactă rămâne incertă, iar o sursă oficială chineză raportează un număr mult mai mic. Vă rugăm să tratați această cifră cu precauție."
+  }
+}

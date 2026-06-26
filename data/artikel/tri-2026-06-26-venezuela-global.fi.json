@@ -1,0 +1,90 @@
+{
+  "id": "tri-2026-06-26-venezuela-global",
+  "typ": "nyhet",
+  "titel": "Venezuelan maanjäristys – kuolonuhrien määrässä on suuria eroja eri lähteiden välillä.",
+  "datum": "2026-06-26",
+  "kalla": "Triangulering (7 länder)",
+  "kalla_url": "",
+  "taggar": [],
+  "html": "<h3>Mistä lähteet ovat yhtä mieltä</h3><p>Voimakas maanjäristys on iskenyt Venezuelaan, ja se on aiheuttanut useita kuolonuhreja ja loukkaantumisia. Kansainvälistä apua luvataan (muun muassa Yhdysvalloista). Seitsemän maata – Ruotsi, Tanska, Yhdysvallat, Brasilia, Kiina, Qatar ja Venäjä – raportoi tapahtumasta.</p><h3>Missä lähteet eroavat toisistaan</h3><p>Kuolonuhrien määrässä on valtavia eroja. Länsimaiset ja viralliset venezuelalaiset lähteet antavat lukuja jopa 920 kuolleen (Berlingske; aiemmin noin 600), kun taas kiinalainen, valtion valvoma CGTN ilmoittaa &quot;vähintään 32 kuollutta&quot; – mikä on noin 30-kertainen ero. Yhdysvaltalaiset tiedotusvälineet tuovat lisäksi esiin geopoliittisen näkökulman: Washington Post kysyy, muuttaako katastrofi Yhdysvallat ja Venezuelan &quot;vihollisista parhaiksi ystäviksi&quot;, ja NPR korostaa Yhdysvaltojen anteliaita avustuspyrkimyksiä.</p><h3>Vain yksi lähde</h3><p>CGTN:n erittäin alhainen luku (vähintään 32) poikkeaa merkittävästi kaikista muista lähteistä, ja sitä on syytä käsitellä varoen.</p><h3>Kuinka luotettavaa?</h3><p>Itse katastrofi on hyvin dokumentoitu, mutta kuolonuhrien määrästä ollaan vahvasti eri mieltä – alkaen vähintään 32:sta (kiinalainen valtion lähde) ja päätyen jopa 920:een (länsimainen/virallinen). Tämä on selkeä esimerkki siitä, kuinka &quot;tosiasia&quot; voidaan esittää hyvin eri tavoin lähteen ja sen tavoitteiden mukaan. Todennäköisin tilanne: vakava maanjäristys, jonka aiheuttamat kuolonuhrit ovat todennäköisesti satoja, mutta tarkka luku on epävarma.</p>",
+  "tldr": "Voimakas maanjäristys on iskenyt Venezuelan alueelle, ja se on aiheuttanut useita kuolonuhreja ja loukkaantumisia.",
+  "sakerhet": "trolig",
+  "flaggor": [
+    "omtvistat"
+  ],
+  "triangulering": {
+    "kallor": [
+      {
+        "kalla": "Berlingske",
+        "land": "DK",
+        "lutning": "konservatiivinen",
+        "statskontroll": "oberoende",
+        "url": "https://www.berlingske.dk/"
+      },
+      {
+        "kalla": "New York Times",
+        "land": "US",
+        "lutning": "keskusta-vasemmisto",
+        "statskontroll": "oberoende",
+        "url": "https://www.nytimes.com/"
+      },
+      {
+        "kalla": "Washington Post",
+        "land": "US",
+        "lutning": "keskusta-vasemmisto",
+        "statskontroll": "oberoende",
+        "url": "https://www.washingtonpost.com/"
+      },
+      {
+        "kalla": "NPR",
+        "land": "US",
+        "lutning": "keskellä",
+        "statskontroll": "oberoende",
+        "url": "https://www.npr.org/"
+      },
+      {
+        "kalla": "G1 (Globo)",
+        "land": "BR",
+        "lutning": "keskenään",
+        "statskontroll": "oberoende",
+        "url": "https://g1.globo.com/"
+      },
+      {
+        "kalla": "Al Jazeera",
+        "land": "QA",
+        "lutning": "Globaalin etelän näkökulma.",
+        "statskontroll": "statsfinansierat",
+        "url": "https://www.aljazeera.com/"
+      },
+      {
+        "kalla": "CGTN",
+        "land": "CN",
+        "lutning": "valtion puolueohjelma",
+        "statskontroll": "statskontrollerat",
+        "url": "https://www.cgtn.com/"
+      }
+    ],
+    "samstammigt": [
+      "Voimakas maanjäristys on iskenyt Venezuelan alueelle, ja se on aiheuttanut useita kuolonuhreja ja loukkaantumisia.",
+      "Kansainvälistä apua on luvattu, muun muassa Yhdysvalloista.",
+      "Seitsemän maata (Ruotsi, Tanska, Yhdysvallat, Brasilia, Kiina, Qatar ja Venäjä) on raportoinut tapahtumasta."
+    ],
+    "divergenser": [
+      "Kuolleiden määrästä on valtavia eroja: läntiset ja viralliset venezuelalaiset tiedot antavat luvuksi jopa 920 kuollutta (Berlingske; aiemmin noin 600), kun taas kiinalainen valtiollinen media CGTN kertoo \"vähintään 32 kuolleen\" – mikä on erotus noin 30-kertainen.",
+      "Yhdysvaltalaiset tiedotusvälineet tarkastelevat tapahtumia geopoliittisesta näkökulmasta: Washington Post pohtii (\"vihollisista parhaiksi ystäviksi?\") sitä, miten katastrofi vaikuttaa Yhdysvaltojen ja Venezuelan suhteisiin; NPR korostaa Yhdysvaltojen antamaa runsasta apua."
+    ],
+    "enkalligt": [
+      "CGTN:n antama erittäin alhainen luku (vähintään 32) poikkeaa merkittävästi kaikista muista lähteistä, ja sitä on syytä käsitellä varoen."
+    ],
+    "vinkel_per_kalla": {
+      "Berlingske": "Korkea kuolleisuusaste (920), painopiste ihmisissä ja heidän hyvinvoinnissaan.",
+      "New York Times": "Sairaalat ovat ylikuormitettuja; kansainvälistä apua tarvitaan.",
+      "Washington Post": "Maantieteellinen näkökulma: Katastrofi koettelee Yhdysvaltojen ja Venezuelan välejä.",
+      "CGTN": "Huomattavasti alhaisempi kuolleisuusluku (vähintään 32) – virallinen kiinalainen lähde, joka poikkeaa kaikista muista lähteistä.",
+      "G1 (Globo)": "Selityksiä: maanjäristyksen syyt.",
+      "Al Jazeera": "Kansainvälinen apu ja alueellinen näkökulma."
+    },
+    "konfidens": "låg",
+    "bedomning": "On todistetusti Venezuelassa tapahtunut vakava maanjäristys, joka on aiheuttanut merkittäviä kuolonuhreja useissa eri maissa. Kuitenkin kuolleiden määrästä on syvästi ristiriitaisia tietoja: länsimaiset ja viralliset lähteet antavat luvuksi 600–920, kun taas kiinalaiseen valtion valvomaan CGTN-kanavaan kuuluva lähde ilmoittaa vähintään 32 kuollutta – mikä on noin 30 kertaa pienempi luku. Tämä havainnollistaa selvästi, kuinka jopa \"tosiasia\" (kuolleiden määrä) voidaan esittää hyvin eri tavoin lähteen ja sen tavoitteiden mukaan. Todennäköisin tilanne: vakava maanjäristys, jonka aiheuttamat kuolonuhrit ovat todennäköisesti satoja (länsimaisen ja virallisen venezuelalaisen tiedon perusteella), mutta tarkka luku on epävarma, ja kiinalainen valtion media raportoi huomattavasti pienemmästä määrästä. Käsittele tätä lukua varoen."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "tri-2026-06-26-venezuela-global",
+  "typ": "nyhet",
+  "topic_sv": "Jordbävningen i Venezuela – dödssiffran spretar våldsamt mellan källor",
+  "datum": "2026-06-26",
+  "kalla": "Triangulering (7 länder)",
+  "konfidens": "låg",
+  "sakerhet": "trolig",
+  "flaggor": ["omtvistat"],
+  "kallor": [
+    {"kalla": "Berlingske", "land": "DK", "lutning": "konservativ", "statskontroll": "oberoende", "url": "https://www.berlingske.dk/"},
+    {"kalla": "New York Times", "land": "US", "lutning": "center-vänster", "statskontroll": "oberoende", "url": "https://www.nytimes.com/"},
+    {"kalla": "Washington Post", "land": "US", "lutning": "center-vänster", "statskontroll": "oberoende", "url": "https://www.washingtonpost.com/"},
+    {"kalla": "NPR", "land": "US", "lutning": "mitten", "statskontroll": "oberoende", "url": "https://www.npr.org/"},
+    {"kalla": "G1 (Globo)", "land": "BR", "lutning": "mitten", "statskontroll": "oberoende", "url": "https://g1.globo.com/"},
+    {"kalla": "Al Jazeera", "land": "QA", "lutning": "Global South-vinkel", "statskontroll": "statsfinansierat", "url": "https://www.aljazeera.com/"},
+    {"kalla": "CGTN", "land": "CN", "lutning": "statlig partilinje", "statskontroll": "statskontrollerat", "url": "https://www.cgtn.com/"}
+  ],
+  "samstammigt": [
+    "En kraftig jordbävning har drabbat Venezuela med många döda och skadade.",
+    "Internationell hjälp utlovas, bland annat från USA.",
+    "Sju länder (Sverige, Danmark, USA, Brasilien, Kina, Qatar, Ryssland) rapporterar händelsen."
+  ],
+  "divergenser": [
+    "Dödssiffran spretar enormt: västliga och officiella venezuelanska uppgifter anger upp mot 920 döda (Berlingske; tidigare omkring 600), medan kinesiska statliga CGTN anger 'minst 32 döda' – en skillnad på ungefär 30 gånger.",
+    "USA-medier lägger en geopolitisk vinkel: Washington Post ('från fiender till bästa vänner?') om hur katastrofen prövar relationen USA–Venezuela; NPR betonar USA:s generösa hjälpinsats."
+  ],
+  "enkalligt": [
+    "CGTN:s mycket låga siffra (minst 32) avviker kraftigt från alla andra källor och bör behandlas med försiktighet."
+  ],
+  "vinkel_per_kalla": {
+    "Berlingske": "Högt dödstal (920), humanitärt fokus.",
+    "New York Times": "Sjukhus överbelastade; internationell hjälp.",
+    "Washington Post": "Geopolitisk vinkel – katastrofen prövar USA–Venezuela-relationen.",
+    "CGTN": "Markant LÄGRE dödstal (minst 32) – statlig kinesisk källa, avviker från alla andra.",
+    "G1 (Globo)": "Förklarande: orsakerna bakom skalvet.",
+    "Al Jazeera": "Internationell hjälp och regionalt perspektiv."
+  },
+  "bedomning_sv": "Att en allvarlig jordbävning drabbat Venezuela med betydande dödstal är väl belagt över sju länder. MEN själva dödssiffran är djupt omtvistad: västliga och officiella källor anger 600–920 döda, medan kinesiska statskontrollerade CGTN anger minst 32 – en skillnad på cirka 30 gånger. Här syns tydligt hur även ett 'faktum' (antal döda) kan framställas radikalt olika beroende på källa och agenda. Närmast sanningen: ett allvarligt skalv med dödstal sannolikt i hundratals (västligt + officiellt venezuelanskt), men den exakta siffran är osäker och en statlig kinesisk källa rapporterar långt lägre. Behandla siffran med försiktighet.",
+  "body_sv": "## Vad källorna är överens om\n\nEn kraftig jordbävning har drabbat Venezuela med många döda och skadade, och internationell hjälp utlovas (bland annat från USA). Sju länder – Sverige, Danmark, USA, Brasilien, Kina, Qatar och Ryssland – rapporterar händelsen.\n\n## Var källorna skiljer sig\n\nDödssiffran spretar enormt. Västliga och officiella venezuelanska uppgifter anger upp mot 920 döda (Berlingske; tidigare omkring 600), medan kinesiska statskontrollerade CGTN anger 'minst 32 döda' – en skillnad på ungefär 30 gånger. USA-medier lägger dessutom en geopolitisk vinkel: Washington Post frågar om katastrofen förvandlar USA och Venezuela 'från fiender till bästa vänner', och NPR lyfter USA:s generösa hjälpinsats.\n\n## Bara en källa\n\nCGTN:s mycket låga siffra (minst 32) avviker kraftigt från alla andra och bör behandlas med försiktighet.\n\n## Hur säkert?\n\nSjälva katastrofen är väl belagd, men dödssiffran är djupt omtvistad – från minst 32 (kinesisk statlig källa) till 920 (västligt/officiellt). Ett tydligt exempel på hur ett 'faktum' kan framställas radikalt olika beroende på källa och agenda. Närmast sanningen: ett allvarligt skalv med dödstal sannolikt i hundratals, men exakt siffra är osäker."
+}

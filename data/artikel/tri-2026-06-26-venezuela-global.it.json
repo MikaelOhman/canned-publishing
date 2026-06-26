@@ -1,0 +1,90 @@
+{
+  "id": "tri-2026-06-26-venezuela-global",
+  "typ": "nyhet",
+  "titel": "Il terremoto in Venezuela: il numero di vittime varia notevolmente a seconda delle fonti.",
+  "datum": "2026-06-26",
+  "kalla": "Triangulering (7 länder)",
+  "kalla_url": "",
+  "taggar": [],
+  "html": "<h3>Ciò su cui le fonti concordano</h3><p>Un forte terremoto ha colpito il Venezuela, causando numerose vittime e feriti, e l&#x27;aiuto internazionale è stato promesso (tra cui dagli Stati Uniti). Sette paesi – Svezia, Danimarca, Stati Uniti, Brasile, Cina, Qatar e Russia – hanno segnalato l&#x27;evento.</p><h3>Dove le fonti divergono</h3><p>Il numero di vittime varia enormemente. Le fonti occidentali e ufficiali venezuelane indicano fino a 920 morti (Berlingske; precedentemente circa 600), mentre la CGTN, controllata dallo stato cinese, riporta &quot;almeno 32 morti&quot;, una differenza di circa 30 volte. I media statunitensi aggiungono anche un&#x27;angolazione geopolitica: il Washington Post si chiede se questa catastrofe possa trasformare gli Stati Uniti e il Venezuela &quot;da nemici a migliori amici&quot;, mentre la NPR sottolinea l&#x27;impegno generoso degli Stati Uniti nell&#x27;aiuto umanitario.</p><h3>Solo una fonte</h3><p>La cifra molto bassa riportata dalla CGTN (almeno 32) diverge notevolmente da tutte le altre e dovrebbe essere trattata con cautela.</p><h3>Quanto è sicuro?</h3><p>L&#x27;evento catastrofico in sé è ben documentato, ma il numero di vittime è profondamente contestato: da un minimo di 32 (fonte statale cinese) a 920 (fonti occidentali/ufficiali). Un chiaro esempio di come un &quot;fatto&quot; possa essere presentato in modo radicalmente diverso a seconda della fonte e dell&#x27;agenda. La verità più probabile è che si sia verificato un terremoto grave con un numero di vittime probabilmente nell&#x27;ordine delle centinaia, ma il numero esatto rimane incerto.</p>",
+  "tldr": "Un forte terremoto ha colpito il Venezuela, causando numerose vittime e feriti.",
+  "sakerhet": "trolig",
+  "flaggor": [
+    "omtvistat"
+  ],
+  "triangulering": {
+    "kallor": [
+      {
+        "kalla": "Berlingske",
+        "land": "DK",
+        "lutning": "conservatore",
+        "statskontroll": "oberoende",
+        "url": "https://www.berlingske.dk/"
+      },
+      {
+        "kalla": "New York Times",
+        "land": "US",
+        "lutning": "centro-sinistra",
+        "statskontroll": "oberoende",
+        "url": "https://www.nytimes.com/"
+      },
+      {
+        "kalla": "Washington Post",
+        "land": "US",
+        "lutning": "centro-sinistra",
+        "statskontroll": "oberoende",
+        "url": "https://www.washingtonpost.com/"
+      },
+      {
+        "kalla": "NPR",
+        "land": "US",
+        "lutning": "il centro; la parte centrale; il cuore; la metà; guanto.",
+        "statskontroll": "oberoende",
+        "url": "https://www.npr.org/"
+      },
+      {
+        "kalla": "G1 (Globo)",
+        "land": "BR",
+        "lutning": "il centro; la parte centrale; il cuore; la metà; un guanto; una cuffia; un cappuccio.",
+        "statskontroll": "oberoende",
+        "url": "https://g1.globo.com/"
+      },
+      {
+        "kalla": "Al Jazeera",
+        "land": "QA",
+        "lutning": "Prospettiva del Sud globale.",
+        "statskontroll": "statsfinansierat",
+        "url": "https://www.aljazeera.com/"
+      },
+      {
+        "kalla": "CGTN",
+        "land": "CN",
+        "lutning": "linea politica ufficiale del governo.",
+        "statskontroll": "statskontrollerat",
+        "url": "https://www.cgtn.com/"
+      }
+    ],
+    "samstammigt": [
+      "Un forte terremoto ha colpito il Venezuela, causando numerose vittime e feriti.",
+      "È stata promessa assistenza internazionale, tra cui quella proveniente dagli Stati Uniti.",
+      "L'evento è stato segnalato da sette paesi: Svezia, Danimarca, Stati Uniti, Brasile, Cina, Qatar e Russia."
+    ],
+    "divergenser": [
+      "Il numero di vittime varia enormemente: le fonti occidentali e ufficiali venezuelane indicano fino a 920 morti (Berlingske; precedentemente circa 600), mentre il canale statale cinese CGTN riporta \"almeno 32 morti\", una differenza di circa 30 volte.",
+      "I media statunitensi si sta adottando una prospettiva geopolitica: il Washington Post (\"da nemici a migliori amici?\") analizza come la catastrofe stia mettendo alla prova le relazioni tra Stati Uniti e Venezuela; NPR sottolinea invece l'impegno generoso degli Stati Uniti nell'aiuto umanitario."
+    ],
+    "enkalligt": [
+      "La cifra estremamente bassa riportata da CGTN (almeno 32) differisce notevolmente da tutte le altre fonti ed è necessario interpretarla con cautela."
+    ],
+    "vinkel_per_kalla": {
+      "Berlingske": "Alto numero di decessi (920), con un'attenzione particolare agli aspetti umanitari.",
+      "New York Times": "Gli ospedali sono al collasso; è necessaria assistenza internazionale.",
+      "Washington Post": "Prospettiva geopolitica: la catastrofe mette alla prova i rapporti tra Stati Uniti e Venezuela.",
+      "CGTN": "Un numero di decessi significativamente inferiore (almeno 32) - secondo una fonte governativa cinese, che si discosta da tutte le altre fonti.",
+      "G1 (Globo)": "Spiegazione: le cause del terremoto.",
+      "Al Jazeera": "Aiuto internazionale e prospettiva regionale."
+    },
+    "konfidens": "låg",
+    "bedomning": "È ampiamente documentato, in sette paesi diversi, che un terremoto di forte intensità ha colpito il Venezuela, causando un numero significativo di vittime. Tuttavia, la cifra esatta delle vittime è oggetto di forti controversie: le fonti occidentali e ufficiali indicano tra i 600 e i 920 morti, mentre il canale CGTN, controllato dallo stato cinese, ne riporta almeno 32 – una differenza di circa 30 volte. Questo dimostra chiaramente come anche un \"dato\" (il numero di vittime) possa essere presentato in modi radicalmente diversi a seconda della fonte e dell'agenda che la sottende. La realtà più probabile è quella di un terremoto grave con un numero di vittime probabilmente nell'ordine delle centinaia (secondo le stime occidentali e ufficiali venezuelane), ma la cifra esatta rimane incerta, mentre una fonte statale cinese riporta un numero molto inferiore. Si prega di considerare questa informazione con cautela."
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "tri-2026-06-26-venezuela-global",
+  "typ": "nyhet",
+  "titel": "A venezuelai földrengés okozta halálos áldatok száma jelentősen eltér a különböző források között.",
+  "datum": "2026-06-26",
+  "kalla": "Triangulering (7 länder)",
+  "kalla_url": "",
+  "taggar": [],
+  "html": "<h3>Milyen pontokban vannak egyetértésben a források?</h3><p>Egy erős földrengés sújtotta Venezuelát, számos halálos áldozat és sérült maradt, és nemzetközi segítség érkezik (közöttük az Egyesült Államokból). Hét ország – Svédország, Dánia, az Egyesült Államok, Brazília, Kína, Katar és Oroszország – számolt be az eseményről.</p><h3>Milyen pontokban különböznek a források?</h3><p>A halálos áldozatok száma rendkívül eltérő. A nyugati és a venezuelai kormányzati források 920-nál is többre teszik a halottakat (Berlingske; korábban körülbelül 600), míg a kínai állami tulajdonú CGTN &quot;legalább 32 halottról&quot; számol be – ez több mint 30-szoros különbség. Az amerikai média emellett geopolitikai szempontokat is felvet: a Washington Post arra kérdez, hogy a katasztrófa megváltoztatja-e az Egyesült Államok és Venezuela közötti kapcsolatot &quot;ellenségekből legjobb barátokká&quot;, az NPR pedig kiemeli az Egyesült Államok nagylelkű segélyezési erőfeszítéseit.</p><h3>Egyetlen forrás:</h3><p>A CGTN rendkívül alacsony száma (legalább 32) jelentősen eltér a többi forrástól, és óvatossággal kell kezelni.</p><h3>Mennyire megbízható?</h3><p>Magának a katasztrfának a ténye bizonyított, de a halálos áldozatok száma mélyen vitatott – legalább 32 (kínai állami forrás) és 920 (nyugati/kormányzati). Ez egyértelmű példa arra, hogy egy &quot;tény&quot; mennyire eltérően jeleníthető meg a forrástól és az adott céloktól függően. A legvalószínűbb: egy súlyos földrengés történt, amelynek következtében valószínűleg több százan vesztették életüket, de a pontos szám bizonytalan.</p>",
+  "tldr": "Egy erős földrengés sújtotta Venezuelát, sokan meghaltak és megsérültek.",
+  "sakerhet": "trolig",
+  "flaggor": [
+    "omtvistat"
+  ],
+  "triangulering": {
+    "kallor": [
+      {
+        "kalla": "Berlingske",
+        "land": "DK",
+        "lutning": "konzervatív",
+        "statskontroll": "oberoende",
+        "url": "https://www.berlingske.dk/"
+      },
+      {
+        "kalla": "New York Times",
+        "land": "US",
+        "lutning": "középső-baloldali",
+        "statskontroll": "oberoende",
+        "url": "https://www.nytimes.com/"
+      },
+      {
+        "kalla": "Washington Post",
+        "land": "US",
+        "lutning": "középső-baloldali",
+        "statskontroll": "oberoende",
+        "url": "https://www.washingtonpost.com/"
+      },
+      {
+        "kalla": "NPR",
+        "land": "US",
+        "lutning": "A \"mitten\" szó jelentése:\n\n*   kesztyű (gyakran a téli kesztyűt jelenti)\n*   közepén, a kettő között",
+        "statskontroll": "oberoende",
+        "url": "https://www.npr.org/"
+      },
+      {
+        "kalla": "G1 (Globo)",
+        "land": "BR",
+        "lutning": "A \"mitten\" szó jelentése:\n\n*   kesztyű (gyermekeknek)\n*   közepén, a közepén lévő helyen",
+        "statskontroll": "oberoende",
+        "url": "https://g1.globo.com/"
+      },
+      {
+        "kalla": "Al Jazeera",
+        "land": "QA",
+        "lutning": "A \"Global South\" szempontból nézve.",
+        "statskontroll": "statsfinansierat",
+        "url": "https://www.aljazeera.com/"
+      },
+      {
+        "kalla": "CGTN",
+        "land": "CN",
+        "lutning": "állami pártpolitika",
+        "statskontroll": "statskontrollerat",
+        "url": "https://www.cgtn.com/"
+      }
+    ],
+    "samstammigt": [
+      "Egy erős földrengés sújtotta Venezuelát, sokan meghaltak és megsérültek.",
+      "Nemzetközi segítség érkezik, többek között az Egyesült Államokból.",
+      "Hét ország jelentette a következő eseményt: Svédország, Dánia, az Egyesült Államok, Brazília, Kína, Katar és Oroszország."
+    ],
+    "divergenser": [
+      "A halottak száma rendkívül eltérő: a nyugati és az állami venezuelai források akár 920 halottat is említenek (a Berlingske újság szerint, korábban körülbelül 600-at), míg a kínai állami CGTN hírportál \"legalább 32\" halottról számol be – ami közel 30-szoros különbséget jelent.",
+      "Az amerikai média a geopolitikai szempontokat hangsúlyozza: a Washington Post (\"ellenségekből legjobb barátok?\") arról ír, hogy a katasztrófa hogyan teszi próbára az USA és Venezuela közötti kapcsolatot; az NPR pedig az Egyesült Államok nagylelkű humanitárius segítségét emeli ki."
+    ],
+    "enkalligt": [
+      "A CGTN által közölt rendkívül alacsony szám (legalább 32) jelentősen eltér a többi forrás adataitól, ezért óvatossággal kell kezelni."
+    ],
+    "vinkel_per_kalla": {
+      "Berlingske": "Magas halálszám (920), humanitárius célkitűzések.",
+      "New York Times": "A kórházak túlterheltek; nemzetközi segítségre van szükség.",
+      "Washington Post": "Geopolitikai szempontból a katasztrófa megpróbálja az Egyesült Államok és Venezuela közötti kapcsolatot.",
+      "CGTN": "Jelentősen alacsonyabb halálszám (legalább 32) – ezt egy kínai állami forrás közölte, ami eltér minden más információtól.",
+      "G1 (Globo)": "Magyarázat: a földrengés okai.",
+      "Al Jazeera": "Nemzetközi segítségnyújtás és a regionális szempontok figyelembevétele."
+    },
+    "konfidens": "låg",
+    "bedomning": "Azon a tényen, hogy egy súlyos földrengés érte Venezuelát jelentős halálokszámmal járva, több mint hét országban is megerősítést nyert. AZONBAN maga a halálos áldokzatok száma mélyen vitatott: nyugati és hivatalos források 600–920 halottról beszélnek, míg a kínai állami tulajdonú CGTN legalább 32 halottról tesz említést – ez körülbelül 30-szoros különbség. Ez egyértelműen mutatja, hogy még egy \"tény\" (a halottak száma) is gyökeresen eltérő lehet a forrástól és az adott céloktól függően. A legvalószínűbb: egy súlyos földrengés történt, amelynek következtében valószínűleg több százan vesztették életüket (nyugati + hivatalosan venezuelai adatok szerint), de a pontos szám bizonytalan, és egy kínai állami forrás sokkal alacsonyabb számot közöl. Kérjük, kezelje ezt az adatot körültekintően."
+  }
+}
