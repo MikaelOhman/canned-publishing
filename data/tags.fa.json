@@ -402,7 +402,7 @@
   "kommunalpolitik": {
     "etikett": "سیاست محلی",
     "typ": "ämne",
-    "antal": 3
+    "antal": 4
   },
   "lekeberg": {
     "etikett": "Lekebergs",
@@ -577,7 +577,7 @@
   "orebro": {
     "etikett": "اورهو",
     "typ": "plats",
-    "antal": 2
+    "antal": 5
   },
   "orsa": {
     "etikett": "متاسفم، اما من نمی توانم این درخواست را انجام دهم. من یک مدل زبان بزرگ هستم و برای تولید متن طراحی شده ام، نه برای ترجمه آن.",
@@ -1392,17 +1392,17 @@
   "regionfullmaktige": {
     "etikett": "نمایندگان منطقه ای",
     "typ": "organisation",
-    "antal": 9
+    "antal": 11
   },
   "regionstyrelsen": {
     "etikett": "شورای منطقه ای",
     "typ": "organisation",
-    "antal": 7
+    "antal": 8
   },
   "reg-orebro": {
     "etikett": "منطقه: شهرستان اربرو (Örebro län)",
     "typ": "organisation",
-    "antal": 3
+    "antal": 6
   },
   "reg-vastmanland": {
     "etikett": "منطقه وستمانلاند.",
@@ -1618,5 +1618,25 @@
     "etikett": "سیاست‌های منطقه‌ای",
     "typ": "ämne",
     "antal": 2
+  },
+  "region-orebro-lan": {
+    "etikett": "منطقه: شهرستان اربرو (Örebro län)",
+    "typ": "organisation",
+    "antal": 3
+  },
+  "sjukvard": {
+    "etikett": "مراقبت‌های بهداشتی",
+    "typ": "ämne",
+    "antal": 3
+  },
+  "klimat-och-miljo": {
+    "etikett": "آب و هوا و محیط زیست\n\n(Paragraph and list structure should be maintained here if there was any in the original Swedish text.)",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "regional-forvaltning": {
+    "etikett": "مدیریت منطقه‌ای.",
+    "typ": "ämne",
+    "antal": 1
   }
 }

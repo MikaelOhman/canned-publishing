@@ -387,7 +387,7 @@
   "kommunalpolitik": {
     "etikett": "Gemeentelijke politiek.",
     "typ": "ämne",
-    "antal": 4
+    "antal": 5
   },
   "ange": {
     "etikett": "Ånge",
@@ -582,7 +582,7 @@
   "orebro": {
     "etikett": "Örebro",
     "typ": "plats",
-    "antal": 2
+    "antal": 5
   },
   "orsa": {
     "etikett": "Orsa",
@@ -1402,17 +1402,17 @@
   "regionfullmaktige": {
     "etikett": "Regionale vertegenwoordigers.",
     "typ": "organisation",
-    "antal": 9
+    "antal": 11
   },
   "regionstyrelsen": {
     "etikett": "Regionale bestuursraad.",
     "typ": "organisation",
-    "antal": 7
+    "antal": 8
   },
   "reg-orebro": {
     "etikett": "Regio Örebro län.",
     "typ": "organisation",
-    "antal": 3
+    "antal": 6
   },
   "reg-vastmanland": {
     "etikett": "Regio Västergötland.",
@@ -1623,5 +1623,25 @@
     "etikett": "Regionale politiek.\n\n*   Doelstellingen:\n    *   Bevorderen van economische groei en werkgelegenheid in regio's.\n    *   Verminderen van regionale verschillen.\n    *   Verbeteren van de infrastructuur en voorzieningen.\n*   Instrumenten:\n    *   Subsidies voor bedrijven en projecten.\n    *   Investeringen in infrastructuur.\n    *   Ondersteuning voor lokale initiatieven.\n*   Voorbeelden:\n    *   De Europese regionalefondsen.\n    *   Nationale programma's voor economische ontwikkeling.\n    *   Regionale ontwikkelingsmaatschappijen.\n*   Meer informatie:\n    *   Website: www.example.com (voorbeeld)\n    *   Contactpersoon: Jan Jansen, 0123456789, jan.jansen@email.com (voorbeeld)\n    *   Datum laatste update: 2023-10-27 (voorbeeld)",
     "typ": "ämne",
     "antal": 2
+  },
+  "region-orebro-lan": {
+    "etikett": "Regio Örebro län.",
+    "typ": "organisation",
+    "antal": 3
+  },
+  "sjukvard": {
+    "etikett": "Zorgsector",
+    "typ": "ämne",
+    "antal": 3
+  },
+  "klimat-och-miljo": {
+    "etikett": "Klimaat en milieu.\n\n*   [Naam], [getal] [datum]\n*   [URL]",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "regional-forvaltning": {
+    "etikett": "Regionale administratie.",
+    "typ": "ämne",
+    "antal": 1
   }
 }

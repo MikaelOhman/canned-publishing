@@ -387,7 +387,7 @@
   "kommunalpolitik": {
     "etikett": "Politica comunale.",
     "typ": "ämne",
-    "antal": 4
+    "antal": 5
   },
   "ange": {
     "etikett": "Ånge.",
@@ -582,7 +582,7 @@
   "orebro": {
     "etikett": "Örebro.",
     "typ": "plats",
-    "antal": 2
+    "antal": 5
   },
   "orsa": {
     "etikett": "Orsa",
@@ -1402,17 +1402,17 @@
   "regionfullmaktige": {
     "etikett": "Membri dell'assemblea regionale.",
     "typ": "organisation",
-    "antal": 9
+    "antal": 11
   },
   "regionstyrelsen": {
     "etikett": "Consiglio regionale.",
     "typ": "organisation",
-    "antal": 7
+    "antal": 8
   },
   "reg-orebro": {
     "etikett": "Regione di Örebro län.",
     "typ": "organisation",
-    "antal": 3
+    "antal": 6
   },
   "reg-vastmanland": {
     "etikett": "Regione del Västerbotten.",
@@ -1623,5 +1623,25 @@
     "etikett": "Politica regionale.",
     "typ": "ämne",
     "antal": 2
+  },
+  "region-orebro-lan": {
+    "etikett": "Regione di Örebro län.",
+    "typ": "organisation",
+    "antal": 3
+  },
+  "sjukvard": {
+    "etikett": "Assistenza sanitaria.",
+    "typ": "ämne",
+    "antal": 3
+  },
+  "klimat-och-miljo": {
+    "etikett": "Clima e ambiente.\n\n*   Informazioni sul clima e sull'ambiente.\n*   Dati relativi al clima e all'ambiente.\n*   Notizie riguardanti il clima e l'ambiente.\n*   Articoli dedicati al clima e all'ambiente.\n*   Risorse utili per approfondire la conoscenza del clima e dell'ambiente.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "regional-forvaltning": {
+    "etikett": "Amministrazione regionale.",
+    "typ": "ämne",
+    "antal": 1
   }
 }

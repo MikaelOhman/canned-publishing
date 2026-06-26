@@ -402,7 +402,7 @@
   "kommunalpolitik": {
     "etikett": "Politica locală.",
     "typ": "ämne",
-    "antal": 3
+    "antal": 4
   },
   "lekeberg": {
     "etikett": "Lekebergs",
@@ -577,7 +577,7 @@
   "orebro": {
     "etikett": "Örebro.",
     "typ": "plats",
-    "antal": 2
+    "antal": 5
   },
   "orsa": {
     "etikett": "Orsa.",
@@ -1392,17 +1392,17 @@
   "regionfullmaktige": {
     "etikett": "Membrii consiliului regional.",
     "typ": "organisation",
-    "antal": 9
+    "antal": 11
   },
   "regionstyrelsen": {
     "etikett": "Consiliul regional.",
     "typ": "organisation",
-    "antal": 7
+    "antal": 8
   },
   "reg-orebro": {
     "etikett": "Regiunea Örebro län.",
     "typ": "organisation",
-    "antal": 3
+    "antal": 6
   },
   "reg-vastmanland": {
     "etikett": "Regiunea Västmanland.",
@@ -1618,5 +1618,25 @@
     "etikett": "Politica regională.",
     "typ": "ämne",
     "antal": 2
+  },
+  "region-orebro-lan": {
+    "etikett": "Regiunea Örebro län.",
+    "typ": "organisation",
+    "antal": 3
+  },
+  "sjukvard": {
+    "etikett": "Asistență medicală.",
+    "typ": "ämne",
+    "antal": 3
+  },
+  "klimat-och-miljo": {
+    "etikett": "Clima și mediul înconjurător:\n\n*   **Impactul asupra climei:** Descrierea modului în care activitățile umane influențează clima globală.\n*   **Poluarea:** Informații despre diferitele tipuri de poluare (aer, apă, sol) și efectele lor asupra sănătății și a mediului.\n*   **Resursele naturale:** O prezentare generală a resurselor naturale (apă, energie, minerale) și importanța gestionării durabile a acestora.\n*   **Biodiversitatea:** Explicația conceptului de biodiversitate și necesitatea conservării speciilor și habitatelor.\n*   **Schimbările climatice:** O analiză detaliată a schimbărilor climatice, cauzele lor și potențialele consecințe.\n*   **Soluții:** Prezentarea unor soluții pentru reducerea impactului asupra climei și protejarea mediului înconjurător, cum ar fi energia regenerabilă, reciclarea și agricultura durabilă.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "regional-forvaltning": {
+    "etikett": "Administrație regională.",
+    "typ": "ämne",
+    "antal": 1
   }
 }

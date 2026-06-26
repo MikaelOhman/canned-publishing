@@ -427,7 +427,7 @@
   "kommunalpolitik": {
     "etikett": "السياسة المحلية.",
     "typ": "ämne",
-    "antal": 3
+    "antal": 4
   },
   "lekeberg": {
     "etikett": "ليكبِيرج.",
@@ -602,7 +602,7 @@
   "orebro": {
     "etikett": "أوربرو.",
     "typ": "plats",
-    "antal": 2
+    "antal": 5
   },
   "orsa": {
     "etikett": "أورسا.",
@@ -1407,17 +1407,17 @@
   "regionfullmaktige": {
     "etikett": "أعضاء المجلس الإقليمي المنتخبون.",
     "typ": "organisation",
-    "antal": 9
+    "antal": 11
   },
   "regionstyrelsen": {
     "etikett": "مجلس المنطقة.",
     "typ": "organisation",
-    "antal": 7
+    "antal": 8
   },
   "reg-orebro": {
     "etikett": "منطقة أوربرو.",
     "typ": "organisation",
-    "antal": 3
+    "antal": 6
   },
   "reg-vastmanland": {
     "etikett": "منطقة فاستمانلاند.",
@@ -1633,5 +1633,25 @@
     "etikett": "السياسة الإقليمية.",
     "typ": "ämne",
     "antal": 2
+  },
+  "region-orebro-lan": {
+    "etikett": "منطقة أوربرو.",
+    "typ": "organisation",
+    "antal": 3
+  },
+  "sjukvard": {
+    "etikett": "الرعاية الصحية.",
+    "typ": "ämne",
+    "antal": 3
+  },
+  "klimat-och-miljo": {
+    "etikett": "المناخ والبيئة:\n\n*   [قائمة بنقاط حول المناخ والبيئة]\n    *   [نقطة 1]\n    *   [نقطة 2]\n    *   [نقطة 3]\n*   [قائمة أخرى بنقاط حول المناخ والبيئة]\n    *   [نقطة 4]\n    *   [نقطة 5]\n    *   [نقطة 6]\n*   [معلومات إضافية أو روابط ذات صلة، مثل الأسماء والأرقام والتواريخ وعناوين URL]\n    *   اسم: [اسم]\n    *   رقم: [رقم]\n    *   تاريخ: [تاريخ]\n    *   عنوان URL: [عنوان URL]",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "regional-forvaltning": {
+    "etikett": "الإدارة الإقليمية.",
+    "typ": "ämne",
+    "antal": 1
   }
 }

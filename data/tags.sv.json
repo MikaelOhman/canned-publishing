@@ -422,7 +422,7 @@
   "orebro": {
     "etikett": "Örebro",
     "typ": "plats",
-    "antal": 2
+    "antal": 5
   },
   "kommunal-ekonomi": {
     "etikett": "Kommunal ekonomi",
@@ -472,7 +472,7 @@
   "kommunalpolitik": {
     "etikett": "Kommunalpolitik",
     "typ": "ämne",
-    "antal": 4
+    "antal": 5
   },
   "umea": {
     "etikett": "Umeå",
@@ -1507,17 +1507,17 @@
   "regionfullmaktige": {
     "etikett": "Regionfullmaktige",
     "typ": "organisation",
-    "antal": 9
+    "antal": 11
   },
   "regionstyrelsen": {
     "etikett": "Regionstyrelsen",
     "typ": "organisation",
-    "antal": 7
+    "antal": 8
   },
   "reg-orebro": {
     "etikett": "Region Örebro län",
     "typ": "organisation",
-    "antal": 3
+    "antal": 6
   },
   "reg-vastmanland": {
     "etikett": "Region Västmanland",
@@ -1723,5 +1723,25 @@
     "etikett": "Regionalpolitik",
     "typ": "ämne",
     "antal": 2
+  },
+  "region-orebro-lan": {
+    "etikett": "Region Örebro län",
+    "typ": "organisation",
+    "antal": 3
+  },
+  "sjukvard": {
+    "etikett": "Sjukvård",
+    "typ": "ämne",
+    "antal": 3
+  },
+  "klimat-och-miljo": {
+    "etikett": "Klimat och miljö",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "regional-forvaltning": {
+    "etikett": "Regional förvaltning",
+    "typ": "ämne",
+    "antal": 1
   }
 }

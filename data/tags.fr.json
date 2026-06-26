@@ -387,7 +387,7 @@
   "kommunalpolitik": {
     "etikett": "Politique municipale.",
     "typ": "ämne",
-    "antal": 4
+    "antal": 5
   },
   "ange": {
     "etikett": "Ånge.",
@@ -582,7 +582,7 @@
   "orebro": {
     "etikett": "Örebro.",
     "typ": "plats",
-    "antal": 2
+    "antal": 5
   },
   "orsa": {
     "etikett": "Orsa.",
@@ -1402,17 +1402,17 @@
   "regionfullmaktige": {
     "etikett": "Membres du conseil régional.",
     "typ": "organisation",
-    "antal": 9
+    "antal": 11
   },
   "regionstyrelsen": {
     "etikett": "Conseil régional.",
     "typ": "organisation",
-    "antal": 7
+    "antal": 8
   },
   "reg-orebro": {
     "etikett": "Région d'Örebro län.",
     "typ": "organisation",
-    "antal": 3
+    "antal": 6
   },
   "reg-vastmanland": {
     "etikett": "Région du Västmanland.",
@@ -1623,5 +1623,25 @@
     "etikett": "Politique régionale.",
     "typ": "ämne",
     "antal": 2
+  },
+  "region-orebro-lan": {
+    "etikett": "Région d'Örebro län.",
+    "typ": "organisation",
+    "antal": 3
+  },
+  "sjukvard": {
+    "etikett": "Soins de santé.",
+    "typ": "ämne",
+    "antal": 3
+  },
+  "klimat-och-miljo": {
+    "etikett": "Climat et environnement.\n\n*   [Nom propre], [Nombre], [Date] : [URL]\n*   [Nom propre], [Nombre], [Date] : [URL]\n*   [Nom propre], [Nombre], [Date] : [URL]",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "regional-forvaltning": {
+    "etikett": "Administration régionale.",
+    "typ": "ämne",
+    "antal": 1
   }
 }

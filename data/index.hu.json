@@ -6457,6 +6457,33 @@
     }
   },
   {
+    "id": "reg-orebro-regionstyrelsen-2026-03-26",
+    "typ": "region",
+    "titel": "A Regionális Igazgatóság (Regionstyrelsen), az Örebro megyei régió részét képező szervezet, 2026. március 26-án kelt.",
+    "ingress": "Az Örebro megyei regionális önkormányzat számos javaslatot kapott a lakosságtól, amelyek többek között jobb egészségügyi ellátást, olcsóbb utazási lehetőségeket és új parkolási szabályokat érintenek.",
+    "datum": "2026-03-26",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionstyrelsen/mote-2026-03-26",
+    "taggar": [
+      "reg-orebro",
+      "regionstyrelsen",
+      "region-orebro-lan",
+      "orebro",
+      "regional-forvaltning",
+      "sjukvard"
+    ],
+    "relevans": {
+      "b_fastighet": 3,
+      "infrastruktur": 3,
+      "barn": 3,
+      "pendlare": 3,
+      "bil": 3,
+      "kollektiv": 8,
+      "kronisk": 8,
+      "tandvard": 3
+    }
+  },
+  {
     "id": "alingsas-kommunfullmaktige-2026-03-25",
     "typ": "kommunbeslut",
     "titel": "Az Alingsås önkormányzat közgyűlése, 2026. március 25.",
@@ -9200,6 +9227,32 @@
     }
   },
   {
+    "id": "reg-orebro-regionfullmaktige-2026-02-09",
+    "typ": "region",
+    "titel": "Örebro megyei regionális képviselőtestület, 2026. február 9.",
+    "ingress": "Az Örebro megyei regionális gyűlés összeült, hogy megvitassa és döntést hozzon olyan kérdésekben, amelyek érintik az egészségügyet, a gyermekgondozást és a régió tevékenységét.",
+    "datum": "2026-02-09",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionfullmaktige/mote-2026-02-09",
+    "taggar": [
+      "reg-orebro",
+      "regionfullmaktige",
+      "region-orebro-lan",
+      "sjukvard",
+      "orebro",
+      "kommunalpolitik"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "arbetsmiljo": 3,
+      "barn": 3,
+      "ung": 3,
+      "kvinna": 3,
+      "kronisk": 8,
+      "psykisk": 3
+    }
+  },
+  {
     "id": "HD03119",
     "typ": "lagforslag",
     "titel": "A makroszintű felügyeleti terület fejlesztése.",
@@ -10067,6 +10120,35 @@
       "b_konsult": 3,
       "redovisning": 3,
       "barn": 3
+    }
+  },
+  {
+    "id": "reg-orebro-regionfullmaktige-2025-12-12",
+    "typ": "region",
+    "titel": "Örebro megyei regionális képviselőtestület, 2025. december 12.",
+    "ingress": "Az Örebro megyei regionális gyűlés fontos döntéseket hozott az egészségügyi ellátásról, a jövőbeli közlekedési tervekkel kapcsolatban, valamint a környezetvédelmi és klímavédelmi célokkal kapcsolatban.",
+    "datum": "2025-12-12",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionfullmaktige/mote-2025-12-12",
+    "taggar": [
+      "reg-orebro",
+      "regionfullmaktige",
+      "region-orebro-lan",
+      "orebro",
+      "sjukvard",
+      "klimat-och-miljo"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_energi": 3,
+      "b_kultur": 3,
+      "arbetsmiljo": 3,
+      "pendlare": 3,
+      "kollektiv": 5,
+      "kronisk": 8,
+      "energikund": 3,
+      "klimat": 5,
+      "kultur": 3
     }
   },
   {

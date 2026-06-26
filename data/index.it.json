@@ -6543,6 +6543,33 @@
     }
   },
   {
+    "id": "reg-orebro-regionstyrelsen-2026-03-26",
+    "typ": "region",
+    "titel": "Consiglio regionale, Regione di Örebro, 26 marzo 2026.",
+    "ingress": "La giunta regionale della contea di Örebro ha ricevuto numerosi suggerimenti dai cittadini riguardanti diverse tematiche, tra cui un miglioramento dell'assistenza sanitaria, tariffe più accessibili per i trasporti e nuove normative relative",
+    "datum": "2026-03-26",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionstyrelsen/mote-2026-03-26",
+    "taggar": [
+      "reg-orebro",
+      "regionstyrelsen",
+      "region-orebro-lan",
+      "orebro",
+      "regional-forvaltning",
+      "sjukvard"
+    ],
+    "relevans": {
+      "b_fastighet": 3,
+      "infrastruktur": 3,
+      "barn": 3,
+      "pendlare": 3,
+      "bil": 3,
+      "kollektiv": 8,
+      "kronisk": 8,
+      "tandvard": 3
+    }
+  },
+  {
     "id": "alingsas-kommunfullmaktige-2026-03-25",
     "typ": "kommunbeslut",
     "titel": "Consiglio comunale, Comune di Alingsås, 25 marzo 2026.",
@@ -9306,6 +9333,32 @@
     }
   },
   {
+    "id": "reg-orebro-regionfullmaktige-2026-02-09",
+    "typ": "region",
+    "titel": "Membri dell'assemblea regionale, Regione di Örebro, 9 febbraio 2026.",
+    "ingress": "L'assemblea plenaria della regione di Örebro si è riunita per discutere e prendere decisioni su questioni relative all'assistenza sanitaria, alla cura dei bambini e alle attività regionali.",
+    "datum": "2026-02-09",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionfullmaktige/mote-2026-02-09",
+    "taggar": [
+      "reg-orebro",
+      "regionfullmaktige",
+      "region-orebro-lan",
+      "sjukvard",
+      "orebro",
+      "kommunalpolitik"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "arbetsmiljo": 3,
+      "barn": 3,
+      "ung": 3,
+      "kvinna": 3,
+      "kronisk": 8,
+      "psykisk": 3
+    }
+  },
+  {
     "id": "HD03119",
     "typ": "lagforslag",
     "titel": "Sviluppo dell'area della supervisione macroprudenziale.",
@@ -10173,6 +10226,35 @@
       "b_konsult": 3,
       "redovisning": 3,
       "barn": 3
+    }
+  },
+  {
+    "id": "reg-orebro-regionfullmaktige-2025-12-12",
+    "typ": "region",
+    "titel": "Membri dell'assemblea regionale, Regione di Örebro, data: 12 dicembre 2025.",
+    "ingress": "L'assemblea regionale della contea di Örebro ha preso decisioni importanti riguardanti i servizi sanitari, i piani di trasporto per il futuro e gli obiettivi ambientali e climatici.",
+    "datum": "2025-12-12",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionfullmaktige/mote-2025-12-12",
+    "taggar": [
+      "reg-orebro",
+      "regionfullmaktige",
+      "region-orebro-lan",
+      "orebro",
+      "sjukvard",
+      "klimat-och-miljo"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_energi": 3,
+      "b_kultur": 3,
+      "arbetsmiljo": 3,
+      "pendlare": 3,
+      "kollektiv": 5,
+      "kronisk": 8,
+      "energikund": 3,
+      "klimat": 5,
+      "kultur": 3
     }
   },
   {

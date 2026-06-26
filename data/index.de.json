@@ -6573,6 +6573,33 @@
     }
   },
   {
+    "id": "reg-orebro-regionstyrelsen-2026-03-26",
+    "typ": "region",
+    "titel": "Regionalrat, Region Örebro län, 26. März 2026.",
+    "ingress": "Der Regionsrat des Bezirks Örebro hat zahlreiche Vorschläge von Bürgerinnen und Bürgern erhalten, die sich unter anderem mit einer besseren Gesundheitsversorgung, günstigeren Reisemöglichkeiten und neuen Parkvorschriften befassen.",
+    "datum": "2026-03-26",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionstyrelsen/mote-2026-03-26",
+    "taggar": [
+      "reg-orebro",
+      "regionstyrelsen",
+      "region-orebro-lan",
+      "orebro",
+      "regional-forvaltning",
+      "sjukvard"
+    ],
+    "relevans": {
+      "b_fastighet": 3,
+      "infrastruktur": 3,
+      "barn": 3,
+      "pendlare": 3,
+      "bil": 3,
+      "kollektiv": 8,
+      "kronisk": 8,
+      "tandvard": 3
+    }
+  },
+  {
     "id": "alingsas-kommunfullmaktige-2026-03-25",
     "typ": "kommunbeslut",
     "titel": "Gemeindevertretung von Alingsås, 25. März 2026.",
@@ -9336,6 +9363,32 @@
     }
   },
   {
+    "id": "reg-orebro-regionfullmaktige-2026-02-09",
+    "typ": "region",
+    "titel": "Regionalrätin, Region Örebro län, 9. Februar 2026.",
+    "ingress": "Der Regionalrat des Landkreises Örebro hat sich getroffen, um über Fragen im Bereich Gesundheitswesen, Kinderbetreuung und die Aktivitäten der Region zu beraten und Entscheidungen zu treffen.",
+    "datum": "2026-02-09",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionfullmaktige/mote-2026-02-09",
+    "taggar": [
+      "reg-orebro",
+      "regionfullmaktige",
+      "region-orebro-lan",
+      "sjukvard",
+      "orebro",
+      "kommunalpolitik"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "arbetsmiljo": 3,
+      "barn": 3,
+      "ung": 3,
+      "kvinna": 3,
+      "kronisk": 8,
+      "psykisk": 3
+    }
+  },
+  {
     "id": "HD03119",
     "typ": "lagforslag",
     "titel": "Entwicklung des Bereichs der makroaufsichtlichen Überwachung.",
@@ -10203,6 +10256,35 @@
       "b_konsult": 3,
       "redovisning": 3,
       "barn": 3
+    }
+  },
+  {
+    "id": "reg-orebro-regionfullmaktige-2025-12-12",
+    "typ": "region",
+    "titel": "Regionalrätin/Regionalrat, Region Örebro län, 12. Dezember 2025.",
+    "ingress": "Der Regionalparlament der Provinz Örebro hat wichtige Entscheidungen in Bezug auf Gesundheitswesen, zukünftige Verkehrspläne sowie Umwelt- und Klimaziele getroffen.",
+    "datum": "2025-12-12",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionfullmaktige/mote-2025-12-12",
+    "taggar": [
+      "reg-orebro",
+      "regionfullmaktige",
+      "region-orebro-lan",
+      "orebro",
+      "sjukvard",
+      "klimat-och-miljo"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_energi": 3,
+      "b_kultur": 3,
+      "arbetsmiljo": 3,
+      "pendlare": 3,
+      "kollektiv": 5,
+      "kronisk": 8,
+      "energikund": 3,
+      "klimat": 5,
+      "kultur": 3
     }
   },
   {

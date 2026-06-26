@@ -6621,6 +6621,33 @@
     }
   },
   {
+    "id": "reg-orebro-regionstyrelsen-2026-03-26",
+    "typ": "region",
+    "titel": "Regional Board, Region Orebro County, March 26, 2026.",
+    "ingress": "The regional council of Örebro County has received several proposals from citizens regarding various issues, including improvements to healthcare services, more affordable travel options, and new parking regulations.",
+    "datum": "2026-03-26",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionstyrelsen/mote-2026-03-26",
+    "taggar": [
+      "reg-orebro",
+      "regionstyrelsen",
+      "region-orebro-lan",
+      "orebro",
+      "regional-forvaltning",
+      "sjukvard"
+    ],
+    "relevans": {
+      "b_fastighet": 3,
+      "infrastruktur": 3,
+      "barn": 3,
+      "pendlare": 3,
+      "bil": 3,
+      "kollektiv": 8,
+      "kronisk": 8,
+      "tandvard": 3
+    }
+  },
+  {
     "id": "alingsas-kommunfullmaktige-2026-03-25",
     "typ": "kommunbeslut",
     "titel": "Municipal Council, Alingsås Municipality, March 25, 2026.",
@@ -9384,6 +9411,32 @@
     }
   },
   {
+    "id": "reg-orebro-regionfullmaktige-2026-02-09",
+    "typ": "region",
+    "titel": "Regional Assembly Member, Region Orebro County, February 9, 2026.",
+    "ingress": "The regional council of Örebro County held a meeting to discuss and make decisions regarding healthcare, childcare, and the county's operations.",
+    "datum": "2026-02-09",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionfullmaktige/mote-2026-02-09",
+    "taggar": [
+      "reg-orebro",
+      "regionfullmaktige",
+      "region-orebro-lan",
+      "sjukvard",
+      "orebro",
+      "kommunalpolitik"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "arbetsmiljo": 3,
+      "barn": 3,
+      "ung": 3,
+      "kvinna": 3,
+      "kronisk": 8,
+      "psykisk": 3
+    }
+  },
+  {
     "id": "HD03119",
     "typ": "lagforslag",
     "titel": "Development of the macro-supervision area.",
@@ -10251,6 +10304,35 @@
       "b_konsult": 3,
       "redovisning": 3,
       "barn": 3
+    }
+  },
+  {
+    "id": "reg-orebro-regionfullmaktige-2025-12-12",
+    "typ": "region",
+    "titel": "Regional Assembly Member, Region Orebro County, December 12, 2025.",
+    "ingress": "The regional assembly of Örebro County has made decisions on important issues related to healthcare, future transportation plans, and environmental and climate goals.",
+    "datum": "2025-12-12",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionfullmaktige/mote-2025-12-12",
+    "taggar": [
+      "reg-orebro",
+      "regionfullmaktige",
+      "region-orebro-lan",
+      "orebro",
+      "sjukvard",
+      "klimat-och-miljo"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_energi": 3,
+      "b_kultur": 3,
+      "arbetsmiljo": 3,
+      "pendlare": 3,
+      "kollektiv": 5,
+      "kronisk": 8,
+      "energikund": 3,
+      "klimat": 5,
+      "kultur": 3
     }
   },
   {

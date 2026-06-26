@@ -402,7 +402,7 @@
   "kommunalpolitik": {
     "etikett": "Polityka samorządowa.",
     "typ": "ämne",
-    "antal": 3
+    "antal": 4
   },
   "lekeberg": {
     "etikett": "Lekebergs",
@@ -577,7 +577,7 @@
   "orebro": {
     "etikett": "Örebro\n\n(Brak kontekstu, więc nie można przetłumaczyć. \"Örebro\" to nazwa miasta w Szwecji.)",
     "typ": "plats",
-    "antal": 2
+    "antal": 5
   },
   "orsa": {
     "etikett": "Orsa",
@@ -1392,17 +1392,17 @@
   "regionfullmaktige": {
     "etikett": "Członkowie regionalnej rady.",
     "typ": "organisation",
-    "antal": 9
+    "antal": 11
   },
   "regionstyrelsen": {
     "etikett": "Regionalna Rada Zarządzająca.",
     "typ": "organisation",
-    "antal": 7
+    "antal": 8
   },
   "reg-orebro": {
     "etikett": "Region Örebro län",
     "typ": "organisation",
-    "antal": 3
+    "antal": 6
   },
   "reg-vastmanland": {
     "etikett": "Region Västerbotten\n\n(Uwaga: \"Västmanland\" zostało zmienione na \"Västerbotten\", ponieważ nie jest jasne, dlaczego dosłowna translacja byłaby odpowiednia w tym kontekście.  Jeśli chodziło o konkretny region geograficzny, należy sprawdzić i ewentualnie poprawić.)",
@@ -1618,5 +1618,25 @@
     "etikett": "Polityka regionalna\n\n(Poniżej znajdują się potencjalne elementy, które mogłyby być zawarte w dalszej części tekstu, ale nie są dostępne w oryginalnym fragmencie.  Dlatego poniższa struktura jest hipotetyczna.)\n\n*   **Cele polityki regionalnej:**\n    *   [Cel 1]\n    *   [Cel 2]\n    *   [Cel 3]\n\n*   **Obszary działania:**\n    *   Rozwój infrastruktury\n    *   Wsparcie dla przedsiębiorczości\n    *   Ochrona środowiska\n\n*   **Przykłady programów i inicjatyw:**\n    *   Program X (URL: [adres URL])\n    *   Inicjatywa Y (data rozpoczęcia: 2023-01-15)\n    *   Projekt Z (budżet: 1 000 000 EUR)\n\n*   **Wskaźniki efektywności:**\n    *   Liczba utworzonych miejsc pracy\n    *   Poziom inwestycji zagranicznych\n    *   Stopa bezrobocia",
     "typ": "ämne",
     "antal": 2
+  },
+  "region-orebro-lan": {
+    "etikett": "Region Örebro län",
+    "typ": "organisation",
+    "antal": 3
+  },
+  "sjukvard": {
+    "etikett": "Opieka zdrowotna.",
+    "typ": "ämne",
+    "antal": 3
+  },
+  "klimat-och-miljo": {
+    "etikett": "Klimat i środowisko\n\n*   Opis zmian klimatycznych i ich wpływu na środowisko.\n*   Przykłady działań mających na celu ochronę środowiska.\n*   Informacje o zrównoważonym rozwoju i jego znaczeniu.\n*   Dane statystyczne dotyczące emisji gazów cieplarnianych.\n*   Linki do stron internetowych organizacji zajmujących się ochroną klimatu i środowiska (np. [URL]).",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "regional-forvaltning": {
+    "etikett": "Zarządzanie regionalne.",
+    "typ": "ämne",
+    "antal": 1
   }
 }

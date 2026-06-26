@@ -402,7 +402,7 @@
   "kommunalpolitik": {
     "etikett": "Helyi politika.",
     "typ": "ämne",
-    "antal": 3
+    "antal": 4
   },
   "lekeberg": {
     "etikett": "Lekebergs",
@@ -577,7 +577,7 @@
   "orebro": {
     "etikett": "Örebro.",
     "typ": "plats",
-    "antal": 2
+    "antal": 5
   },
   "orsa": {
     "etikett": "Orsa",
@@ -1392,17 +1392,17 @@
   "regionfullmaktige": {
     "etikett": "Régióközi képviselőtestület.",
     "typ": "organisation",
-    "antal": 9
+    "antal": 11
   },
   "regionstyrelsen": {
     "etikett": "A regionális igazgatóság.",
     "typ": "organisation",
-    "antal": 7
+    "antal": 8
   },
   "reg-orebro": {
     "etikett": "Örebro megye.",
     "typ": "organisation",
-    "antal": 3
+    "antal": 6
   },
   "reg-vastmanland": {
     "etikett": "Västmanland régió.",
@@ -1618,5 +1618,25 @@
     "etikett": "Regionális politika.",
     "typ": "ämne",
     "antal": 2
+  },
+  "region-orebro-lan": {
+    "etikett": "Örebro megye.",
+    "typ": "organisation",
+    "antal": 3
+  },
+  "sjukvard": {
+    "etikett": "Egészségügy",
+    "typ": "ämne",
+    "antal": 3
+  },
+  "klimat-och-miljo": {
+    "etikett": "Éghajlat és környezet\n\n*   **Datum:** [A dátumot itt be kell írni]\n*   **URL:** [Az URL-t itt kell beírni]",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "regional-forvaltning": {
+    "etikett": "Regionális igazgatás.",
+    "typ": "ämne",
+    "antal": 1
   }
 }
