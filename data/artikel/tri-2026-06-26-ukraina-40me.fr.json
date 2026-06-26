@@ -1,0 +1,50 @@
+{
+  "id": "tri-2026-06-26-ukraina-40me",
+  "typ": "nyhet",
+  "titel": "La Finlande augmente son soutien à la défense de l'Ukraine de 40 millions d'euros.",
+  "datum": "2026-06-26",
+  "kalla": "Triangulering (flera finska källor)",
+  "kalla_url": "",
+  "taggar": [
+    "finland",
+    "ukraina",
+    "forsvar"
+  ],
+  "html": "<h3>Ce qui est commun à toutes les sources</h3><p>Le Premier ministre Petteri Orpo (du parti Samlingspartiet) a annoncé jeudi que la Finlande allouera 40 millions d&#x27;euros supplémentaires à la défense de l&#x27;Ukraine. Les deux journaux, Demokraatti et Maaseudun Tulevaisuus, rapportent le même montant et la même décision.</p><h3>Détails qui diffèrent</h3><p>Demokraatti précise que le soutien est versé via le projet PURL de l&#x27;OTAN, qui finance du matériel militaire américain pour l&#x27;Ukraine, et que cette somme a été décidée lors des négociations budgétaires au printemps. Maaseudun Tulevaisuus mentionne cet annonce en lien avec la visite d&#x27;Orpo en Pologne, sans donner de détails sur le financement.</p><h3>Uniquement une source</h3><p>Le lien avec le projet PURL de l&#x27;OTAN et le matériel américain sont rapportés uniquement par Demokraatti, mais cette information est basée sur un communiqué de presse du ministère de la Défense et est bien documentée.</p><h3>Niveau de fiabilité</h3><p>L&#x27;essentiel est bien établi : deux sources, issues de courants politiques différents (centre-gauche et centre/rural), disent la même chose, et l&#x27;information est officielle. Très haute confiance. Le fait qu&#x27;un journal proche du parti SDP rapporte objectivement l&#x27;annonce du gouvernement conservateur renforce sa crédibilité.</p>",
+  "tldr": "Le Premier ministre Petteri Orpo (du parti Saml.) a annoncé jeudi que la Finlande allouera une aide supplémentaire de 40 millions d'euros à la défense de l'Ukraine.",
+  "sakerhet": "belagt",
+  "flaggor": [],
+  "triangulering": {
+    "kallor": [
+      {
+        "kalla": "Demokraatti",
+        "lutning": "centre-gauche (SDP)",
+        "partisk": true,
+        "url": "https://demokraatti.fi/orpo-suomi-antaa-ukrainan-puolustukseen-40-miljoonaa-euroa-lisaa-nato-hankkeen-kautta/"
+      },
+      {
+        "kalla": "Maaseudun Tulevaisuus",
+        "lutning": "centre/campagne",
+        "partisk": true,
+        "url": "https://www.maaseuduntulevaisuus.fi/uutiset/cfd99f5d-c1d3-464e-ba5a-1f835c1d6887"
+      }
+    ],
+    "samstammigt": [
+      "Le Premier ministre Petteri Orpo (du parti Saml.) a annoncé jeudi que la Finlande allouera une aide supplémentaire de 40 millions d'euros à la défense de l'Ukraine.",
+      "Les deux sources indiquent le même montant et la même décision."
+    ],
+    "divergenser": [
+      "Demokraatti précise que le financement transite par le projet PURL de l'OTAN, qui finance la fourniture de matériel militaire américain à l'Ukraine, et que cette décision a été prise lors des négociations budgétaires au printemps.",
+      "Maaseudun Tulevaisuus a annoncé la visite d'Orpo en Pologne, mais sans donner de détails sur les aspects financiers."
+    ],
+    "enkalligt": [
+      "Le lien avec le système PURL de l'OTAN et les équipements américains est uniquement présent sur le site Demokraatti, mais il repose sur un communiqué de presse du ministère de la Défense et est donc bien documenté."
+    ],
+    "vinkel_per_kalla": {
+      "Demokraatti": "La presse social-démocrate (proche de l'opposition) rapporte les décisions du gouvernement conservateur de manière objective et avec tous les détails, sans prendre parti.",
+      "Maaseudun Tulevaisuus": "Brève note neutre axée sur la visite du Premier ministre en Pologne."
+    },
+    "konfidens": "hög",
+    "bedomning": "Les informations clés (40 millions d'euros alloués à la défense de l'Ukraine, annoncé par Orpo) sont bien documentées : deux sources indépendantes, issues de différents horizons politiques, rapportent les mêmes faits, et l'information provient d'un communiqué de presse officiel. Niveau de confiance élevé. Le fait qu'un journal proche du parti social-démocrate reproduise le message du gouvernement conservateur sans critique renforce cette image."
+  }
+}

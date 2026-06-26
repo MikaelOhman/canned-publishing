@@ -1,0 +1,50 @@
+{
+  "id": "tri-2026-06-26-ukraina-40me",
+  "typ": "nyhet",
+  "titel": "Finland verhoogt de steun aan de Oekraïense defensie met 40 miljoen euro.",
+  "datum": "2026-06-26",
+  "kalla": "Triangulering (flera finska källor)",
+  "kalla_url": "",
+  "taggar": [
+    "finland",
+    "ukraina",
+    "forsvar"
+  ],
+  "html": "<h3>Waar de bronnen het over eens zijn</h3><p>De Finse premier Petteri Orpo (van de Samlingspartij) kondigde donderdag aan dat Finland nog eens 40 miljoen euro toezwakt aan de verdediging van Oekraïne. Zowel Demokraatti als Maaseudun Tulevaisuus berichten hetzelfde bedrag en dezelfde beslissing.</p><h3>Details die verschillen</h3><p>Demokraatti specificeert dat de steun via het NATO PURL-project verloopt, een project dat Amerikaanse defensiematerieel naar Oekraïne financiert, en dat het geld al was goedgekeurd tijdens de budgetonderhandelingen in het voorjaar. Maaseudun Tulevaisuus noemt het bericht in verband met Orpo&#x27;s bezoek aan Polen, zonder details over de financiering.</p><h3>Alleen één bron</h3><p>De link met NATO PURL en de Amerikaanse materieel wordt alleen door Demokraatti gerapporteerd – maar deze informatie is gebaseerd op een persbericht van het Ministerie van Defensie en is goed onderbouwd.</p><h3>Hoe zeker?</h3><p>De kern van de informatie is goed gedocumenteerd: twee bronnen met verschillende politieke achtergronden (centrum-links respectievelijk centrum/platteland) zeggen hetzelfde, en de informatie is officieel. Hoge betrouwbaarheid. Het feit dat een krant die dicht bij de SDP staat, het bericht van de rechtse regering objectief weergeeft, versterkt de geloofwaardigheid.</p>",
+  "tldr": "De Finse premier Petteri Orpo (van de partij Saml.) kondigde donderdag aan dat Finland een extra bedrag van 40 miljoen euro toewijdt aan de verdediging van Oekraïne.",
+  "sakerhet": "belagt",
+  "flaggor": [],
+  "triangulering": {
+    "kallor": [
+      {
+        "kalla": "Demokraatti",
+        "lutning": "centrumlinks (SDP)",
+        "partisk": true,
+        "url": "https://demokraatti.fi/orpo-suomi-antaa-ukrainan-puolustukseen-40-miljoonaa-euroa-lisaa-nato-hankkeen-kautta/"
+      },
+      {
+        "kalla": "Maaseudun Tulevaisuus",
+        "lutning": "centrum/buitenlandse omgeving",
+        "partisk": true,
+        "url": "https://www.maaseuduntulevaisuus.fi/uutiset/cfd99f5d-c1d3-464e-ba5a-1f835c1d6887"
+      }
+    ],
+    "samstammigt": [
+      "De Finse premier Petteri Orpo (van de partij Saml.) kondigde donderdag aan dat Finland een extra bedrag van 40 miljoen euro toewijdt aan de verdediging van Oekraïne.",
+      "Beide bronnen vermelden hetzelfde bedrag en dezelfde beslissing."
+    ],
+    "divergenser": [
+      "Demokraatti specificeert het kanaal: via het NATO PURL-project, dat Amerikaanse defensiematerieel naar Oekraïne stuurt, en stelt dat de financiering is goedgekeurd tijdens de budgetonderhandelingen in het voorjaar.",
+      "Maaseudun Tulevaisuus heeft een bericht over het bezoek van Orpo aan Polen gepubliceerd, maar zonder details over de financiering."
+    ],
+    "enkalligt": [
+      "De koppelingen met de NATO-PURL en Amerikaanse materialen is alleen te vinden bij Demokraatti, maar deze informatie is gebaseerd op een persbericht van het Ministerie van Defensie en is daarom goed onderbouwd."
+    ],
+    "vinkel_per_kalla": {
+      "Demokraatti": "De sociaaldemocratische (en oppositie-georiënteerde) media berichten op een objectieve en gedetailleerde manier over de beslissingen van de rechtse regering, zonder duidelijke partijdigheid.",
+      "Maaseudun Tulevaisuus": "Hierbij een kort en neutraal bericht met de nadruk op het bezoek van de minister-president aan Polen.\n\n*   Het doel van het bezoek is om de bilaterale relaties tussen Zweden en Polen te versterken.\n*   De agenda omvat onder andere gesprekken over economische samenwerking, veiligheid en regionale vraagstukken.\n*   De minister-president zal ook een ontmoeting hebben met vertegenwoordigers van het bedrijfsleven.\n*   Het bezoek vindt plaats op [Datum] en duurt [Aantal] dagen.\n*   Meer informatie is te vinden op: [URL]"
+    },
+    "konfidens": "hög",
+    "bedomning": "Kerngegevens (40 miljoen euro voor de verdediging van Oekraïne, aangekondigd door Orpo) zijn goed gedocumenteerd: twee onafhankelijke bronnen met verschillende politieke achtergronden rapporteren hetzelfde, en de informatie komt uit een officieel persbericht. Hoge betrouwbaarheid. Het feit dat een krant die dicht bij de SDP staat, het bericht van de rechtse regering zonder polemiek overneemt, versterkt dit beeld."
+  }
+}

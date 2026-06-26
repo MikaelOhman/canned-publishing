@@ -1,0 +1,59 @@
+{
+  "id": "tri-2026-06-26-krim-hatatila",
+  "typ": "nyhet",
+  "titel": "È stato dichiarato lo stato di emergenza in Crimea.",
+  "datum": "2026-06-26",
+  "kalla": "Triangulering (flera finska källor)",
+  "kalla_url": "",
+  "taggar": [
+    "ukraina",
+    "ryssland",
+    "krim"
+  ],
+  "html": "<h3>Su cosa concordano le fonti</h3><p>È stato dichiarato lo stato di emergenza in Crimea. Tre fonti finlandesi fanno riferimento all&#x27;evento.</p><h3>Dove le fonti divergono</h3><p>Solo Helsingin Sanomat fornisce informazioni dettagliate: la causa è indicata come l&#x27;intensificazione degli attacchi dell&#x27;Ucraina contro la penisola della Crimea, e il provvedimento include anche Sevastopol. Iltalehti e Ilta-Sanomat sono semplici blog in diretta che &quot;seguono la guerra&quot; senza fornire reportage propri su questo specifico evento. Inoltre, HS inquadra la notizia come parte di &quot;una guerra di aggressione russa&quot; e definisce la Crimea &quot;occupata&quot;, una precisazione giuridica internazionale assente nelle edizioni serali.</p><h3>Solo una fonte</h3><p>La causa (gli attacchi ucraini) e l&#x27;inclusione di Sevastopol sono riportate solo da HS.</p><h3>Quanto è affidabile?</h3><p>Un caso istruttivo: la notizia sembra essere coperta da tre fonti, ma due sono semplici blog in diretta. La vera informazione indipendente proviene da una sola fonte. È probabile che sia stato dichiarato lo stato di emergenza; la causa e l&#x27;ambito dipendono esclusivamente da HS → livello di confidenza medio, segnalato come proveniente da una singola fonte.</p>",
+  "tldr": "È stato dichiarato lo stato di emergenza in Crimea. Tutte e tre le fonti fanno riferimento all'evento.",
+  "sakerhet": "trolig",
+  "flaggor": [
+    "enkalligt"
+  ],
+  "triangulering": {
+    "kallor": [
+      {
+        "kalla": "Helsingin Sanomat",
+        "lutning": "liberal-mitten",
+        "partisk": false,
+        "url": "https://www.hs.fi/maailma/art-2000012104493.html"
+      },
+      {
+        "kalla": "Iltalehti",
+        "lutning": "\"Popolare\" e \"sensazionale\" possono essere tradotti in diversi modi a seconda del contesto. Ecco alcune opzioni:\n\n* **Diffuso/virale:** Se ci si riferisce a qualcosa che si diffonde rapidamente tra le persone, soprattutto online.\n* **Famoso/clamoroso:** Se ci si riferisce a qualcosa che attira molta attenzione e diventa noto a un vasto pubblico.\n* **In voga/di tendenza:** Se ci si riferisce a qualcosa che è popolare in un determinato momento.\n* **Sensazionale/scandaloso:** Se ci si riferisce a qualcosa di sorprendente o scioccante.\n\nSpero che queste opzioni ti siano utili!",
+        "partisk": false,
+        "url": "https://www.iltalehti.fi/ulkomaat/a/758b4ebc-823a-4c47-9079-e5f67b44633b"
+      },
+      {
+        "kalla": "Ilta-Sanomat",
+        "lutning": "\"Popolare/sensazionale\" può essere tradotto in diversi modi a seconda del contesto:\n\n*   **Diffuso/Sensazionale:** Se si vuole enfatizzare la vastità della popolarità o l'impatto sensazionale.\n*   **Ampiamente diffuso/Di grande impatto:** Per una descrizione più formale e dettagliata.\n*   **Molto popolare/Che ha suscitato molto clamore:** Per sottolineare sia la popolarità che l'attenzione mediatica.\n*   **Fenomeno/Evento sensazionale:** Se ci si riferisce a qualcosa di specifico che ha raggiunto un alto livello di popolarità e attenzione.\n*   **In voga/Che fa tendenza (sensazionale):** Per indicare qualcosa di popolare nel senso di \"alla moda\".",
+        "partisk": false,
+        "url": "https://www.is.fi/ulkomaat/art-2000012084748.html"
+      }
+    ],
+    "samstammigt": [
+      "È stato dichiarato lo stato di emergenza in Crimea. Tutte e tre le fonti fanno riferimento all'evento."
+    ],
+    "divergenser": [
+      "Solo il quotidiano Helsingin Sanomat fornisce dettagli concreti: la causa è indicata come l'intensificazione degli attacchi ucraini contro la penisola di Crimea, e lo stato di emergenza include anche la città di Sebastopoli.",
+      "Iltalehti e Ilta-Sanomat sono blog in diretta con contenuti limitati (\"seguiamo la guerra\") che non offrono reportage propri sull'evento specifico in questione.",
+      "Il quotidiano HS inquadra l'evento nel contesto della \"guerra di aggressione russa\" e definisce la Crimea come \"occupata\", una chiara presa di posizione in termini di diritto internazionale. I giornali serali non adottano un approccio simile."
+    ],
+    "enkalligt": [
+      "La causa (gli attacchi ucraini) e il fatto che Sebastopoli sia coinvolta sono stati riportati solo dal quotidiano Helsingin Sanomat."
+    ],
+    "vinkel_per_kalla": {
+      "Helsingin Sanomat": "Autodenuncia con indicazione delle cause e del contesto di diritto internazionale (\"occupazione\", \"guerra di aggressione\").",
+      "Iltalehti": "Un blog in diretta che segue gli eventi della guerra in tempo reale; non contiene commenti o analisi proprie sugli avvenimenti.",
+      "Ilta-Sanomat": "Aggiornamenti in diretta, simili a quelli di Iltalehti; si riporta solo l'evoluzione della situazione."
+    },
+    "konfidens": "medel",
+    "bedomning": "IMPORTANTE esempio di perché è necessaria la verifica incrociata: a prima vista, una notizia sembra essere coperta da tre fonti, ma due di esse sono semplici blog in diretta privi di contenuti significativi. La vera e propria informazione indipendente proviene da UNA sola fonte (HS). È probabile che sia stato dichiarato lo stato di emergenza, ma la causa e l'estensione si basano su una singola fonte → quindi, livello di affidabilità medio, segnalato come proveniente da una sola fonte."
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "tri-2026-06-26-krim-hatatila",
+  "typ": "nyhet",
+  "titel": "Wprowadzony stan wyjątkowy na Krymie.",
+  "datum": "2026-06-26",
+  "kalla": "Triangulering (flera finska källor)",
+  "kalla_url": "",
+  "taggar": [
+    "ukraina",
+    "ryssland",
+    "krim"
+  ],
+  "html": "<h3>W czym źródła się zgadzają</h3><p>Wprowadzono stan wyjątkowy na Krymie. Trzy fińskie źródła informują o tym wydarzeniu.</p><h3>W czym źródła się różnią</h3><p>Tylko Helsingin Sanomat przedstawia własne, szczegółowe informacje: podano przyczynę – nasilone ataki Ukrainy na półwysep Krym – oraz wskazano, że stan wyjątkowy obejmuje również Sewastopol. Iltalehti i Ilta-Sanomat to treściwe blogi informacyjne, które &quot;relacjonują wojnę&quot;, ale nie publikują własnych doniesień na temat tego konkretnego wydarzenia. Dodatkowo, HS umieszcza tę informację w kontekście &quot;rosyjskiej agresji&quot; i określa Krym jako &quot;okupowany&quot; – co jest oznaczeniem zgodnym z prawem międzynarodowym, którego brakuje w wieczornych gazetach.</p><h3>Tylko jedno źródło</h3><p>Przyczynę (ukraińskie ataki) oraz fakt, że Sewastopol jest objęty stanem wyjątkowym, podaje wyłącznie HS.</p><h3>Jak wiarygodne?</h3><p>To pouczający przykład: informacja wydaje się być potwierdzona przez trzy źródła, ale dwa z nich to puste blogi informacyjne. Rzetelne i niezależne informacje pochodzą tylko z jednego źródła. Prawdopodobne jest wprowadzenie stanu wyjątkowego; przyczyna i zakres informacji opierają się wyłącznie na danych z HS → średnia wiarygodność, oznaczona jako informacja pochodząca z jednego źródła.</p>",
+  "tldr": "Wprowadzono stan wyjątkowy na Krymie. Wszystkie trzy źródła informują o tym zdarzeniu.",
+  "sakerhet": "trolig",
+  "flaggor": [
+    "enkalligt"
+  ],
+  "triangulering": {
+    "kallor": [
+      {
+        "kalla": "Helsingin Sanomat",
+        "lutning": "liberal-mitten",
+        "partisk": false,
+        "url": "https://www.hs.fi/maailma/art-2000012104493.html"
+      },
+      {
+        "kalla": "Iltalehti",
+        "lutning": "popularny/sensacyjny",
+        "partisk": false,
+        "url": "https://www.iltalehti.fi/ulkomaat/a/758b4ebc-823a-4c47-9079-e5f67b44633b"
+      },
+      {
+        "kalla": "Ilta-Sanomat",
+        "lutning": "popularny/sensacyjny",
+        "partisk": false,
+        "url": "https://www.is.fi/ulkomaat/art-2000012084748.html"
+      }
+    ],
+    "samstammigt": [
+      "Wprowadzono stan wyjątkowy na Krymie. Wszystkie trzy źródła informują o tym zdarzeniu."
+    ],
+    "divergenser": [
+      "Tylko gazeta Helsingin Sanomat podaje konkretne informacje: przyczyną jest nasilenie ataków ukraińskich na półwysep Krym, a stan wyjątkowy obejmuje również miasto Sewastopol.",
+      "Serwisy Iltalehti i Ilta-Sanomat publikują treści w formie blogów na żywo (\"śledzimy wojnę\"), ale nie zawierają własnych relacji dotyczących tego konkretnego wydarzenia.",
+      "Stacja HS przedstawia wydarzenie w kontekście \"rosyjskiej wojny agresji\" i określa Krym jako \"anektowany\", co stanowi wyraźne oświadczenie zgodne z prawem międzynarodowym. Gazety wieczorne nie stosują takiego podejścia."
+    ],
+    "enkalligt": [
+      "Przyczyna (ataków ukraińskich) i fakt, że Sewastopol jest objęty tymi doniesieniami, są podawane tylko przez gazetę Helsingin Sanomat."
+    ],
+    "vinkel_per_kalla": {
+      "Helsingin Sanomat": "Własne raporty zawierające podanie przyczyn oraz odniesienia do prawa międzynarodowego (\"okupacja\", \"wojna agresji\").",
+      "Iltalehti": "Relacja na żywo śledząca przebieg wojny, bez własnych komentarzy i analiz dotyczących wydarzeń.",
+      "Ilta-Sanomat": "Relacja na żywo, podobna do tych publikowanych przez Iltalehti; informuje jedynie o tym, że sytuacja jest śledzona."
+    },
+    "konfidens": "medel",
+    "bedomning": "WAŻNE: przykład ilustrujący potrzebę weryfikacji informacji z wielu źródeł: na pierwszy rzut oka informacja jest potwierdzana przez trzy źródła, ale dwa z nich to puste blogi na żywo. Rzetelne i niezależne relacje pochodzą tylko z JEDNEGO źródła (HS). Chociaż prawdopodobne jest wprowadzenie stanu wyjątkowego, przyczyna i zakres tej decyzji opierają się na informacjach z jednego źródła → średnia pewność, oznaczona jako \"pochodzące z jednego źródła\"."
+  }
+}

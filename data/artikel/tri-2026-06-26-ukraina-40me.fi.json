@@ -1,0 +1,50 @@
+{
+  "id": "tri-2026-06-26-ukraina-40me",
+  "typ": "nyhet",
+  "titel": "Suomi lisää tukeaan Ukrainan puolustukselle 40 miljoonalla eurolla.",
+  "datum": "2026-06-26",
+  "kalla": "Triangulering (flera finska källor)",
+  "kalla_url": "",
+  "taggar": [
+    "finland",
+    "ukraina",
+    "forsvar"
+  ],
+  "html": "<h3>Mistä lähteistä tiedot ovat peräisin?</h3><p>Pääministeri Petteri Orpo (Kansallinen Koalitiopuolue) ilmoitti torstaina, että Suomi myöntää lisäksi 40 miljoonaa euroa Ukrainan puolustukselle. Sekä Demokraatti- että Maaseudun Tulevaisuus -lehdet raportoivat samasta summasta ja päätöksestä.</p><h3>Yksityiskohdat, jotka eroavat toisistaan</h3><p>Demokraatti tarkentaa, että tuki kanavoituu Naton PURL-hankkeen kautta, joka rahoittaa yhdysvaltalaisia puolustusmateriaaleja Ukrainaan, ja että rahat päätettiin jo kevään budjettineuvotteluissa. Maaseudun Tulevaisuus mainitsee tiedon Orpon vierailun yhteydessä Puolassa, mutta ei kerro rahoituksen yksityiskohdista.</p><h3>Vain yksi lähde</h3><p>Yhteys Naton PURL-hankkeeseen ja yhdysvaltalaiseen materiaaliin raportoi vain Demokraatti – mutta tieto perustuu puolustusministeriön tiedotteeseen ja on hyvin dokumentoitu.</p><h3>Kuinka luotettavaa?</h3><p>Perusasia on vahvistettu: kaksi lähdettä, joilla on erilainen poliittinen suuntautuminen (keskusta-vasemmisto sekä keskusta/maaseutu), kertovat samaa asiaa, ja tieto on virallista. Korkea luotettavuus. Sillä, että SDP:n lähellä oleva lehti välittää hallituksen tiedon asiallisesti, vahvistaa sen uskottavuutta.</p>",
+  "tldr": "Pääministeri Petteri Orpo (peruspalvelut) ilmoitti torstaina, että Suomi myöntää lisäksi 40 miljoonaa euroa Ukrainan puolustukseen.",
+  "sakerhet": "belagt",
+  "flaggor": [],
+  "triangulering": {
+    "kallor": [
+      {
+        "kalla": "Demokraatti",
+        "lutning": "keskusta-vasemmisto (SDP)",
+        "partisk": true,
+        "url": "https://demokraatti.fi/orpo-suomi-antaa-ukrainan-puolustukseen-40-miljoonaa-euroa-lisaa-nato-hankkeen-kautta/"
+      },
+      {
+        "kalla": "Maaseudun Tulevaisuus",
+        "lutning": "keskusta / maaseutu",
+        "partisk": true,
+        "url": "https://www.maaseuduntulevaisuus.fi/uutiset/cfd99f5d-c1d3-464e-ba5a-1f835c1d6887"
+      }
+    ],
+    "samstammigt": [
+      "Pääministeri Petteri Orpo (peruspalvelut) ilmoitti torstaina, että Suomi myöntää lisäksi 40 miljoonaa euroa Ukrainan puolustukseen.",
+      "Molemmat lähteet ilmoittavat saman summan ja saman päätöksen."
+    ],
+    "divergenser": [
+      "Demokraatti tarkentaa, että kyseessä on Natoon liittyvä PURL-projekti, joka rahoittaa Yhdysvaltojen puolustusmateriaalien toimittamista Ukrainaan, ja että rahoitus päätettiin kevään budjettineuvotteluissa.",
+      "Maaseudun Tulevaisuus-lehden mukaan Orpo vieraili Puolassa, mutta lehdessä ei kerrottu tarkemmin vierailun yksityiskohdista tai rahoituksesta."
+    ],
+    "enkalligt": [
+      "Yhteys Naton PURL-järjestelmään ja Yhdysvaltojen materiaaliin on olemassa vain Demokraatin kautta, mutta se perustuu puolustusministeriön tiedotteeseen, joten se on hyvin dokumentoitu."
+    ],
+    "vinkel_per_kalla": {
+      "Demokraatti": "Sosiaalidemokraattinen (opposition lähellä oleva) media, joka raportoi porvarillisen hallituksen päätöksistä puolueettomasti ja yksityiskohtaisesti – ilman selkeää näkökulmaa.",
+      "Maaseudun Tulevaisuus": "Lyhyt ja neutraali uutinen, joka keskittyy pääministerin Puolaan suuntautuvaan vierailuun."
+    },
+    "konfidens": "hög",
+    "bedomning": "Ydinasiat (40 miljoonan euron tuki Ukrainan puolustukselle, jonka Orpo ilmoitti) ovat hyvin dokumentoituja: kaksi riippumatonta lähdettä, joilla on erilaiset poliittiset näkemykset, raportoivat samaa asiaa, ja tieto perustuu viralliseen lehdistötiedotteeseen. Korkea luotettavuus. Se, että SDP:n lähellä oleva lehti julkaisee porvarillisen hallituksen tiedon ilman polemiikkia, vahvistaa kuvaa."
+  }
+}

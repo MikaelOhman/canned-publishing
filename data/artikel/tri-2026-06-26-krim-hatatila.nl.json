@@ -1,0 +1,59 @@
+{
+  "id": "tri-2026-06-26-krim-hatatila",
+  "typ": "nyhet",
+  "titel": "Buitengewone staat van beleg uitgeroepen op de Krim.",
+  "datum": "2026-06-26",
+  "kalla": "Triangulering (flera finska källor)",
+  "kalla_url": "",
+  "taggar": [
+    "ukraina",
+    "ryssland",
+    "krim"
+  ],
+  "html": "<h3>Waar de bronnen het over eens zijn</h3><p>Er een noodtoestand uitgeroepen in de Krim? Drie Finse bronnen verwijzen naar dit feit.</p><h3>Waar de bronnen van elkaar verschillen</h3><p>Alleen Helsingin Sanomat geeft zelfstandige informatie: de oorzaak wordt genoemd als de verhoogde aanvallen van Oekraïne op het schiereiland Krim, en de noodtoestand omvat ook Sebastopol. Iltalehti en Ilta-Sanomat zijn oppervlakkige liveblogs die &quot;het conflict volgen&quot; zonder eigen verslaggeving over dit specifieke incident. HS plaatst het bovendien onder de rubriek &quot;Ruslands oorlogsoffensief&quot; en noemt de Krim &quot;geannexeerd&quot; - een juridische opmerking die de avondkranten niet maken.</p><h3>Alleen één bron</h3><p>De oorzaak (Oekraïense aanvallen) en het feit dat Sebastopol is opgenomen, worden alleen door HS gerapporteerd.</p><h3>Hoe zeker?</h3><p>Een leerzaam voorbeeld: het nieuws lijkt gedekt te worden door drie bronnen, maar twee zijn lege liveblogs. Echte, onafhankelijke verslaggeving komt van slechts één bron. Het uitroepen van een noodtoestand is waarschijnlijk; de oorzaak en omvang zijn gebaseerd op de informatie van HS alleen → gemiddelde betrouwbaarheid, gemarkeerd als &quot;enkelvoudige bron&quot;.</p>",
+  "tldr": "In een noodtoestand is de Krim uitgeroepen. Alle drie de bronnen verwijzen naar dit incident.",
+  "sakerhet": "trolig",
+  "flaggor": [
+    "enkalligt"
+  ],
+  "triangulering": {
+    "kallor": [
+      {
+        "kalla": "Helsingin Sanomat",
+        "lutning": "liberaal-handschoen",
+        "partisk": false,
+        "url": "https://www.hs.fi/maailma/art-2000012104493.html"
+      },
+      {
+        "kalla": "Iltalehti",
+        "lutning": "populair/sensatie",
+        "partisk": false,
+        "url": "https://www.iltalehti.fi/ulkomaat/a/758b4ebc-823a-4c47-9079-e5f67b44633b"
+      },
+      {
+        "kalla": "Ilta-Sanomat",
+        "lutning": "populair / sensationeel",
+        "partisk": false,
+        "url": "https://www.is.fi/ulkomaat/art-2000012084748.html"
+      }
+    ],
+    "samstammigt": [
+      "In een noodtoestand is de Krim uitgeroepen. Alle drie de bronnen verwijzen naar dit incident."
+    ],
+    "divergenser": [
+      "Alleen Helsingin Sanomat geeft een inhoudelijke toelichting: de reden wordt genoemd als de verscherpte aanvallen van Oekraïne op het schiereiland Krim, en de maatregelen omvatten ook de stad Sebastopol.",
+      "Iltalehti en Ilta-Sanomat zijn inhoudelijk oppervlakkige livestreams (\"we volgen de oorlog\") zonder eigen verslaggeving over dit specifieke gebeurtenis.",
+      "HS plaatst het incident in de context van \"Ruslands oorlogsoorlog\" en noemt de Krim \"geannexeerd\", wat een duidelijke juridische stellingname is. De avondkranten doen geen dergelijke interpretatie."
+    ],
+    "enkalligt": [
+      "De oorzaak (de Oekraïense aanvallen) en het feit dat Sebastopol wordt getroffen, worden alleen gerapporteerd door Helsingin Sanomat."
+    ],
+    "vinkel_per_kalla": {
+      "Helsingin Sanomat": "Eigen rapportage met uitleg over de oorzaak en een juridische context (bijvoorbeeld: 'bezetting', 'agressieoorlog').",
+      "Iltalehti": "Een live-blog die de oorlog voortdurend volgt; het bevat geen eigen analyses of commentaar over de gebeurtenissen.",
+      "Ilta-Sanomat": "Een liveblog, vergelijkbaar met die van Iltalehti; het geeft alleen aan dat de situatie wordt gevolgd."
+    },
+    "konfidens": "medel",
+    "bedomning": "BELANGRIJK voorbeeld van waarom triangulatie nodig is: bij eerste aanzicht lijkt het nieuws gedekt te worden door drie bronnen, maar twee daarvan zijn inhoudsloze live-blogs. Echte, onafhankelijke berichtgeving komt slechts van ÉÉN bron (HS). Hoewel de uitroeping van een noodtoestand waarschijnlijk is, berust de oorzaak en omvang op slechts één bron → dus matig vertrouwen, gemarkeerd als \"enkelvoudige bron\"."
+  }
+}

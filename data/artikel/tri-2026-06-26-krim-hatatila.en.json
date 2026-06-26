@@ -1,0 +1,59 @@
+{
+  "id": "tri-2026-06-26-krim-hatatila",
+  "typ": "nyhet",
+  "titel": "A state of emergency has been declared in Crimea.",
+  "datum": "2026-06-26",
+  "kalla": "Triangulering (flera finska källor)",
+  "kalla_url": "",
+  "taggar": [
+    "ukraina",
+    "ryssland",
+    "krim"
+  ],
+  "html": "<h3>What the Sources Agree On</h3><p>A state of emergency has been declared in Crimea. Three Finnish sources refer to this event.</p><h3>Where the Sources Differ</h3><p>Only Helsingin Sanomat provides substantial original reporting: the reason given is Ukraine&#x27;s intensified attacks on the Crimean Peninsula, and the declaration covers Sevastopol as well. Iltalehti and Ilta-Sanomat are superficial live blogs that &quot;follow the war&quot; without providing their own reporting on this specific event. HS frames the story under &quot;Russia&#x27;s War of Aggression&quot; and refers to Crimea as &quot;occupied,&quot; a legal distinction that the evening newspapers do not make.</p><h3>Only One Source</h3><p>The reason (Ukrainian attacks) and the inclusion of Sevastopol are reported only by HS.</p><h3>How Reliable?</h3><p>A valuable example: the news appears to be covered by three sources, but two are empty live blogs. Real independent reporting comes from a single source. It is likely that a state of emergency has been declared; however, the reason and scope rely solely on HS → medium confidence level, flagged as originating from a single source.</p>",
+  "tldr": "A state of emergency has been declared in Crimea. All three sources report this event.",
+  "sakerhet": "trolig",
+  "flaggor": [
+    "enkalligt"
+  ],
+  "triangulering": {
+    "kallor": [
+      {
+        "kalla": "Helsingin Sanomat",
+        "lutning": "I'm sorry, I can't translate that word because it is not a recognized word in any language. It may be a misspelling or a made-up word. Can you provide more context or clarify the meaning of the word?",
+        "partisk": false,
+        "url": "https://www.hs.fi/maailma/art-2000012104493.html"
+      },
+      {
+        "kalla": "Iltalehti",
+        "lutning": "popular / sensational",
+        "partisk": false,
+        "url": "https://www.iltalehti.fi/ulkomaat/a/758b4ebc-823a-4c47-9079-e5f67b44633b"
+      },
+      {
+        "kalla": "Ilta-Sanomat",
+        "lutning": "popular / sensational",
+        "partisk": false,
+        "url": "https://www.is.fi/ulkomaat/art-2000012084748.html"
+      }
+    ],
+    "samstammigt": [
+      "A state of emergency has been declared in Crimea. All three sources report this event."
+    ],
+    "divergenser": [
+      "Only Helsingin Sanomat provides substantial information: the reason given is Ukraine's intensified attacks on the Crimean Peninsula, and the state of emergency also includes the city of Sevastopol.",
+      "Iltalehti and Ilta-Sanomat are content-light, real-time blogs (\"we're following the war\") that lack original reporting on this specific event.",
+      "HS frames the event within the context of \"Russia's war of aggression\" and refers to Crimea as \"occupied,\" a clear statement under international law. The evening newspapers do not frame the issue in this way."
+    ],
+    "enkalligt": [
+      "The reason (Ukrainian attacks) and the fact that Sevastopol is included are reported exclusively by Helsingin Sanomat."
+    ],
+    "vinkel_per_kalla": {
+      "Helsingin Sanomat": "Self-reporting with a stated cause and a framing within international law (\"occupied,\" \"war of aggression\").",
+      "Iltalehti": "A live blog that provides ongoing coverage of the war, but without offering any original analysis or commentary on the events.",
+      "Ilta-Sanomat": "This is like a live blog from Iltalehti; it simply reports that the situation is being monitored."
+    },
+    "konfidens": "medel",
+    "bedomning": "IMPORTANT example of why triangulation is necessary: at first glance, the news appears to be covered by three sources, but two of them are content-empty live blogs.  Real, independent reporting comes from ONE source (HS). While it's likely that a state of emergency has been declared, the cause and scope rely on a single source → therefore, medium confidence, flagged as relying on a single source."
+  }
+}

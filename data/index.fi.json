@@ -1,5 +1,39 @@
 [
   {
+    "id": "tri-2026-06-26-ukraina-40me",
+    "typ": "nyhet",
+    "titel": "Suomi lisää tukeaan Ukrainan puolustukselle 40 miljoonalla eurolla.",
+    "ingress": "Suomi lisää tukeaan Ukrainan puolustukselle 40 miljoonalla eurolla. — Ydinasiat (40 miljoonan euron tuki Ukrainan puolustukselle, jonka Orpo ilmoitti) ovat hyvin dokumentoituja: kaksi riippu",
+    "datum": "2026-06-26",
+    "kalla": "Triangulering (flera finska källor)",
+    "taggar": [
+      "finland",
+      "ukraina",
+      "forsvar"
+    ],
+    "sakerhet": "belagt",
+    "flaggor": [],
+    "tri": true
+  },
+  {
+    "id": "tri-2026-06-26-krim-hatatila",
+    "typ": "nyhet",
+    "titel": "Poikkeustila on julistettu Krimin alueella.",
+    "ingress": "Poikkeustila on julistettu Krimin alueella. — TÄRKEÄ esimerkki siitä, miksi ristiriitatarkistus on tarpeen: ensisilmäyksellä uutinen vaikuttaa olevan kolmen lähteen v",
+    "datum": "2026-06-26",
+    "kalla": "Triangulering (flera finska källor)",
+    "taggar": [
+      "ukraina",
+      "ryssland",
+      "krim"
+    ],
+    "sakerhet": "trolig",
+    "flaggor": [
+      "enkalligt"
+    ],
+    "tri": true
+  },
+  {
     "id": "fk-2026-06-11-en-myt-att-pappor-tar-ut-foraldraledighet-under-fotbolls-vm",
     "typ": "myndighet",
     "titel": "Yleinen käsitys on, että isät ottavat vanhempainvapautta jalkapallon MM-kisojen aikana.",

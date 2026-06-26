@@ -1,0 +1,50 @@
+{
+  "id": "tri-2026-06-26-ukraina-40me",
+  "typ": "nyhet",
+  "titel": "Finlanda își va crește sprijinul pentru apărarea Ucrainei cu 40 de milioane de euro.",
+  "datum": "2026-06-26",
+  "kalla": "Triangulering (flera finska källor)",
+  "kalla_url": "",
+  "taggar": [
+    "finland",
+    "ukraina",
+    "forsvar"
+  ],
+  "html": "<h3>Punctele comune ale surselor</h3><p>Prim-ministrul Petteri Orpo (Partidul Național) a anunțat joi că Finlanda va oferi încă 40 de milioane de euro pentru apărarea Ucrainei. Atât Demokraatti, cât și Maaseudun Tulevaisuus raportează aceeași sumă și decizie.</p><h3>Detalii care diferă</h3><p>Demokraatti specifică faptul că sprijinul este acordat prin proiectul NATO PURL, care finanțează echipamente de apărare americane pentru Ucraina, și că banii au fost aprobați încă în timpul negocierilor bugetare din primăvară. Maaseudun Tulevaisuus menționează anunțul în contextul vizitei lui Orpo în Polonia, fără a oferi detalii despre finanțare.</p><h3>Doar o sursă</h3><p>Legătura cu proiectul NATO-PURL și echipamentele americane sunt raportate doar de Demokraatti – dar informația se bazează pe comunicatul Ministerului Apărării și este bine documentată.</p><h3>Cât de sigur?</h3><p>Elementul central este bine susținut: două surse, cu orientări politice diferite (centru-stânga, respectiv centru/mediu), spun același lucru, iar informația este oficială. Nivel ridicat de încredere. Faptul că o publicație apropiată de SDP relatează obiectiv anunțul guvernului conservator consolidează credibilitatea.</p>",
+  "tldr": "Joi, prim-ministrul finlandez Petteri Orpo (din partidul Saml.) a anunțat că Finlanda va oferi încă 40 de milioane de euro pentru apărarea Ucrainei.",
+  "sakerhet": "belagt",
+  "flaggor": [],
+  "triangulering": {
+    "kallor": [
+      {
+        "kalla": "Demokraatti",
+        "lutning": "centru-stânga (SDP)",
+        "partisk": true,
+        "url": "https://demokraatti.fi/orpo-suomi-antaa-ukrainan-puolustukseen-40-miljoonaa-euroa-lisaa-nato-hankkeen-kautta/"
+      },
+      {
+        "kalla": "Maaseudun Tulevaisuus",
+        "lutning": "centru/mediu rural",
+        "partisk": true,
+        "url": "https://www.maaseuduntulevaisuus.fi/uutiset/cfd99f5d-c1d3-464e-ba5a-1f835c1d6887"
+      }
+    ],
+    "samstammigt": [
+      "Joi, prim-ministrul finlandez Petteri Orpo (din partidul Saml.) a anunțat că Finlanda va oferi încă 40 de milioane de euro pentru apărarea Ucrainei.",
+      "Ambele surse menționează aceeași sumă și aceeași decizie."
+    ],
+    "divergenser": [
+      "Demokraatti precizează că fondurile provin din canalul NATOs PURL, un proiect care finanțează echipamente militare americane destinate Ucrainei, și menționează că această finanțare a fost aprobată în timpul negocierilor bugetare de primăvară.",
+      "Organizația Maaseudun Tulevaisuus a transmis un mesaj despre vizita domnului Orpo în Polonia, fără a oferi detalii privind finanțarea."
+    ],
+    "enkalligt": [
+      "Legătura cu PURL-ul NATO și cu echipamentele americane există doar pe site-ul Demokraatti, dar aceasta se bazează pe comunicatul de presă al Ministerului Apărării și este, prin urmare, bine fundamentată."
+    ],
+    "vinkel_per_kalla": {
+      "Demokraatti": "Presa social-democrată (apropiată de opoziție) care relatează deciziile guvernului conservator într-un mod obiectiv și cu toate detaliile, fără a prezenta o perspectivă părtinitoare.",
+      "Maaseudun Tulevaisuus": "O scurtă notă neutră, axată pe vizita prim-ministrului în Polonia:\n\n*   Vizita prim-ministrului în Polonia a avut loc în perioada [data].\n*   În timpul vizitei, au fost discutate aspecte legate de cooperarea bilaterală și regională.\n*   Au avut loc întâlniri cu oficiali polonezi, inclusiv cu [numele oficialului].\n*   Detalii suplimentare despre programul vizitei pot fi găsite pe site-ul [URL]."
+    },
+    "konfidens": "hög",
+    "bedomning": "Informațiile despre alocarea a 40 de milioane de euro pentru apărarea Ucrainei, anunțate de Orpo, sunt bine documentate: două surse independente, cu orientări politice diferite, relatează același lucru, iar informația provine dintr-un comunicat oficial. Grad ridicat de încredere. Faptul că un ziar apropiat de Partidul Social Democrat (SDP) reproduce anunțul guvernului conservator fără a adăuga comentarii polemice consolidează această imagine."
+  }
+}

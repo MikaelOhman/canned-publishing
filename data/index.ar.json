@@ -96,6 +96,40 @@
     }
   },
   {
+    "id": "tri-2026-06-26-ukraina-40me",
+    "typ": "nyhet",
+    "titel": "فنلندا تزيد الدعم المقدم لأوكرانيا في مجال الدفاع بمبلغ 40 مليون يورو.",
+    "ingress": "فنلندا تزيد الدعم المقدم لأوكرانيا في مجال الدفاع بمبلغ 40 مليون يورو. — حقائق أساسية (40 مليون يورو لمساعدة أوكرانيا في الدفاع، أعلنت عنها أوربو): هذه المعلومة موثقة بشكل جيد: مصدران مستقلان ل",
+    "datum": "2026-06-26",
+    "kalla": "Triangulering (flera finska källor)",
+    "taggar": [
+      "finland",
+      "ukraina",
+      "forsvar"
+    ],
+    "sakerhet": "belagt",
+    "flaggor": [],
+    "tri": true
+  },
+  {
+    "id": "tri-2026-06-26-krim-hatatila",
+    "typ": "nyhet",
+    "titel": "تم إعلان حالة الطوارئ في شبه جزيرة القرم.",
+    "ingress": "تم إعلان حالة الطوارئ في شبه جزيرة القرم. — هام: مثال يوضح أهمية التحقق المرجعي (Triangulation): في البداية، يبدو أن الخبر مغطى بثلاث مصادر، ولكن اثنتان منهم مجرد م",
+    "datum": "2026-06-26",
+    "kalla": "Triangulering (flera finska källor)",
+    "taggar": [
+      "ukraina",
+      "ryssland",
+      "krim"
+    ],
+    "sakerhet": "trolig",
+    "flaggor": [
+      "enkalligt"
+    ],
+    "tri": true
+  },
+  {
     "id": "HD03301",
     "typ": "lagforslag",
     "titel": "شروط أكثر صرامة للهجرة العائلية.\n\n(Keep the paragraph and list structure, and keep names, numbers, dates and URLs unchanged. Translate for meaning.)",

@@ -1,0 +1,59 @@
+{
+  "id": "tri-2026-06-26-krim-hatatila",
+  "typ": "nyhet",
+  "titel": "Ausnahmezustand wurde auf der Krim ausgerufen.",
+  "datum": "2026-06-26",
+  "kalla": "Triangulering (flera finska källor)",
+  "kalla_url": "",
+  "taggar": [
+    "ukraina",
+    "ryssland",
+    "krim"
+  ],
+  "html": "<h3>Worauf sich die Quellen einigen</h3><p>Ein Ausnahmezustand wurde auf der Krim ausgerufen. Drei finnische Quellen berichten über den Vorfall.</p><h3>Wo sich die Quellen unterscheiden</h3><p>Nur Helsingin Sanomat liefert eigene Informationen: Der Grund dafür wird als verstärkte Angriffe der Ukraine auf die Halbinsel Krim angegeben, und der Ausnahmezustand gilt auch für Sewastopol. Iltalehti und Ilta-Sanomat sind inhaltsarme Live-Blogs, die &quot;den Krieg verfolgen&quot;, ohne jedoch selbst über diesen spezifischen Vorfall zu berichten. HS hingegen ordnet den Vorfall unter &quot;Russlands Angriffskrieg&quot; ein und bezeichnet die Krim als &quot;besetzt&quot; – eine rechtliche Bewertung, die in den Abendzeitungen fehlt.</p><h3>Nur eine Quelle</h3><p>Der Grund (ukrainische Angriffe) und die Tatsache, dass Sewastopol betroffen ist, werden nur von HS berichtet.</p><h3>Wie zuverlässig?</h3><p>Ein lehrreicher Fall: Die Nachricht scheint von drei Quellen abgedeckt zu sein, aber zwei davon sind lediglich leere Live-Blogs. Echte, unabhängige Berichterstattung stammt nur von einer einzigen Quelle. Es ist wahrscheinlich, dass ein Ausnahmezustand ausgerufen wurde; die Ursache und der Umfang basieren jedoch ausschließlich auf den Informationen von HS → mittlere Sicherheit, gekennzeichnet als &quot;nur eine Quelle&quot;.</p>",
+  "tldr": "Ein Ausnahmezustand wurde auf der Krim ausgerufen. Alle drei Quellen berichten über diesen Vorfall.",
+  "sakerhet": "trolig",
+  "flaggor": [
+    "enkalligt"
+  ],
+  "triangulering": {
+    "kallor": [
+      {
+        "kalla": "Helsingin Sanomat",
+        "lutning": "liberal-mitten",
+        "partisk": false,
+        "url": "https://www.hs.fi/maailma/art-2000012104493.html"
+      },
+      {
+        "kalla": "Iltalehti",
+        "lutning": "beliebt / aufsehenerregend",
+        "partisk": false,
+        "url": "https://www.iltalehti.fi/ulkomaat/a/758b4ebc-823a-4c47-9079-e5f67b44633b"
+      },
+      {
+        "kalla": "Ilta-Sanomat",
+        "lutning": "beliebt / aufsehenerregend",
+        "partisk": false,
+        "url": "https://www.is.fi/ulkomaat/art-2000012084748.html"
+      }
+    ],
+    "samstammigt": [
+      "Ein Ausnahmezustand wurde auf der Krim ausgerufen. Alle drei Quellen berichten über diesen Vorfall."
+    ],
+    "divergenser": [
+      "Nur die Zeitung Helsingin Sanomat liefert fundierte Informationen: Der Grund dafür sind die verstärkten Angriffe der Ukraine auf die Halbinsel Krim, und die Ausnahmezustandsmaßnahmen gelten auch für die Stadt Sewastopol.",
+      "Iltalehti und Ilta-Sanomat bieten inhaltsarme Live-Blogs (\"wir verfolgen den Krieg\"), ohne eigene Berichterstattung zu diesem spezifischen Ereignis.",
+      "Die schwedische Nachrichtenagentur HS rahmt den Vorfall im Kontext des \"russischen Angriffskriegs\" ein und bezeichnet die Krim als \"besetzt\" – eine deutliche Aussage unter Berücksichtigung des Völkerrechts. Die Abendzeitungen nehmen keine solche Einordnung vor."
+    ],
+    "enkalligt": [
+      "Der Grund (die ukrainischen Angriffe) und die Tatsache, dass Sewastopol betroffen ist, werden nur von Helsingin Sanomat berichtet."
+    ],
+    "vinkel_per_kalla": {
+      "Helsingin Sanomat": "Selbstbericht mit Angabe der Ursachen und Einordnung im Völkerrecht (z.B. \"Besetzung\", \"Aggressionskrieg\").",
+      "Iltalehti": "Ein Live-Blog, der den Krieg in Echtzeit verfolgt; er enthält keine eigenen Analysen oder Kommentare zu den Ereignissen.",
+      "Ilta-Sanomat": "Ein Live-Blog im Stil von Iltalehti; er berichtet lediglich darüber, dass die Situation verfolgt wird."
+    },
+    "konfidens": "medel",
+    "bedomning": "WICHTIGES Beispiel dafür, warum eine Quellenüberprüfung notwendig ist: Auf den ersten Blick scheint die Nachricht von drei Quellen abgedeckt zu sein, aber zwei davon sind inhaltsleere Live-Blogs. Echter, unabhängiger Journalismus stammt nur von EINER Quelle (HS). Es ist wahrscheinlich, dass der Ausnahmezustand ausgerufen wurde, aber die Ursache und der Umfang basieren auf einer einzigen Quelle → mittlere Glaubwürdigkeit, gekennzeichnet als \"nur eine Quelle\"."
+  }
+}

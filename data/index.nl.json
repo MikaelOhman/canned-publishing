@@ -96,6 +96,40 @@
     }
   },
   {
+    "id": "tri-2026-06-26-ukraina-40me",
+    "typ": "nyhet",
+    "titel": "Finland verhoogt de steun aan de Oekraïense defensie met 40 miljoen euro.",
+    "ingress": "Finland verhoogt de steun aan de Oekraïense defensie met 40 miljoen euro. — Kerngegevens (40 miljoen euro voor de verdediging van Oekraïne, aangekondigd door Orpo) zijn goed gedocumenteerd: twee o",
+    "datum": "2026-06-26",
+    "kalla": "Triangulering (flera finska källor)",
+    "taggar": [
+      "finland",
+      "ukraina",
+      "forsvar"
+    ],
+    "sakerhet": "belagt",
+    "flaggor": [],
+    "tri": true
+  },
+  {
+    "id": "tri-2026-06-26-krim-hatatila",
+    "typ": "nyhet",
+    "titel": "Buitengewone staat van beleg uitgeroepen op de Krim.",
+    "ingress": "Buitengewone staat van beleg uitgeroepen op de Krim. — BELANGRIJK voorbeeld van waarom triangulatie nodig is: bij eerste aanzicht lijkt het nieuws gedekt te worden door drie b",
+    "datum": "2026-06-26",
+    "kalla": "Triangulering (flera finska källor)",
+    "taggar": [
+      "ukraina",
+      "ryssland",
+      "krim"
+    ],
+    "sakerhet": "trolig",
+    "flaggor": [
+      "enkalligt"
+    ],
+    "tri": true
+  },
+  {
     "id": "HD03301",
     "typ": "lagforslag",
     "titel": "Aangepaste voorwaarden voor gezinshereniging.\n\n*   De regels voor gezinshereniging zijn aangescherpt.\n*   Dit heeft gevolgen voor mensen die hun familieleden naar [land] willen halen.\n*   Meer informatie is te vinden op de website: [URL].",

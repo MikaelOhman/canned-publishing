@@ -1,0 +1,59 @@
+{
+  "id": "tri-2026-06-26-krim-hatatila",
+  "typ": "nyhet",
+  "titel": "Se ha declarado el estado de emergencia en Crimea.",
+  "datum": "2026-06-26",
+  "kalla": "Triangulering (flera finska källor)",
+  "kalla_url": "",
+  "taggar": [
+    "ukraina",
+    "ryssland",
+    "krim"
+  ],
+  "html": "<h3>En lo que las fuentes están de acuerdo</h3><p>Se ha declarado el estado de emergencia en Crimea. Tres fuentes finlandesas hacen referencia a este hecho.</p><h3>En qué se diferencian las fuentes</h3><p>Solo Helsingin Sanomat ofrece información sustancial: la causa se atribuye a los ataques intensificados de Ucrania contra la península de Crimea, y el estado de emergencia también abarca Sebastopol. Iltalehti e Ilta-Sanomat son blogs en vivo con poco contenido que &quot;siguen la guerra&quot; sin ofrecer informes propios sobre este evento específico. Además, HS contextualiza la noticia dentro de &quot;la guerra de agresión rusa&quot; y califica a Crimea como &quot;ocupada&quot;, una declaración de derecho internacional que las revistas vespertinas omiten.</p><h3>Solo una fuente</h3><p>La causa (ataques ucranianos) y el hecho de que Sebastopol esté incluido se reportan únicamente por HS.</p><h3>¿Qué tan seguro?</h3><p>Un caso instructivo: la noticia parece estar cubierta por tres fuentes, pero dos son simples blogs en vivo con poco contenido. La información independiente proviene de una sola fuente. Es probable que se haya declarado el estado de emergencia; la causa y el alcance dependen exclusivamente de HS → confianza moderada, se señala como proveniente de una única fuente.</p>",
+  "tldr": "Se ha declarado el estado de emergencia en Crimea. Las tres fuentes mencionadas hacen referencia a este hecho.",
+  "sakerhet": "trolig",
+  "flaggor": [
+    "enkalligt"
+  ],
+  "triangulering": {
+    "kallor": [
+      {
+        "kalla": "Helsingin Sanomat",
+        "lutning": "liberal-mitten",
+        "partisk": false,
+        "url": "https://www.hs.fi/maailma/art-2000012104493.html"
+      },
+      {
+        "kalla": "Iltalehti",
+        "lutning": "popular / sensacional",
+        "partisk": false,
+        "url": "https://www.iltalehti.fi/ulkomaat/a/758b4ebc-823a-4c47-9079-e5f67b44633b"
+      },
+      {
+        "kalla": "Ilta-Sanomat",
+        "lutning": "popular / sensacional",
+        "partisk": false,
+        "url": "https://www.is.fi/ulkomaat/art-2000012084748.html"
+      }
+    ],
+    "samstammigt": [
+      "Se ha declarado el estado de emergencia en Crimea. Las tres fuentes mencionadas hacen referencia a este hecho."
+    ],
+    "divergenser": [
+      "Solo el periódico Helsingin Sanomat ofrece información detallada: la razón indicada es el aumento de los ataques ucranianos contra la península de Crimea, y la medida incluye también la ciudad de Sebastopol.",
+      "Iltalehti e Ilta-Sanomat son plataformas de blogs en vivo con poco contenido (\"seguimos la guerra\"), pero no ofrecen información propia sobre este evento específico.",
+      "El periódico HS contextualiza el evento dentro de la \"guerra de agresión rusa\" y califica a Crimea como \"ocupada\", lo que constituye una clara declaración de principios según el derecho internacional. Los periódicos vespertinos no hacen ninguna referencia similar."
+    ],
+    "enkalligt": [
+      "La causa (ataques ucranianos) y el hecho de que Sebastopol esté involucrado solo se informan en Helsingin Sanomat."
+    ],
+    "vinkel_per_kalla": {
+      "Helsingin Sanomat": "Informes propios que incluyen la causa y el marco jurídico internacional (\"ocupación\", \"guerra de agresión\").",
+      "Iltalehti": "Un blog en vivo que sigue la guerra de manera continua; no ofrece análisis propios ni comentarios sobre los eventos.",
+      "Ilta-Sanomat": "Un blog en vivo similar a Iltalehti; simplemente informa que se está siguiendo la situación."
+    },
+    "konfidens": "medel",
+    "bedomning": "IMPORTANTE: Un ejemplo de por qué es necesaria la triangulación: a primera vista, la noticia parece estar respaldada por tres fuentes, pero dos de ellas son simples blogs actualizados en tiempo real y carecen de contenido sustancial. La información independiente y verificable proviene de UNA sola fuente (HS). Si bien es probable que se haya declarado el estado de emergencia, la causa y el alcance dependen únicamente de esa única fuente → confianza moderada, se señala como proveniente de una única fuente."
+  }
+}

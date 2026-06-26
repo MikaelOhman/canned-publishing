@@ -1,0 +1,50 @@
+{
+  "id": "tri-2026-06-26-ukraina-40me",
+  "typ": "nyhet",
+  "titel": "Finnország növeli Ukrajna védelmére fordított támogatását 40 millió euróval.",
+  "datum": "2026-06-26",
+  "kalla": "Triangulering (flera finska källor)",
+  "kalla_url": "",
+  "taggar": [
+    "finland",
+    "ukraina",
+    "forsvar"
+  ],
+  "html": "<h3>Miben egyetértenek a források?</h3><p>Petteri Orpo miniszterelnök (A Nemzeti Koalíciós Párt) bejelentette, hogy Finnország további 40 millió eurót biztosít Ukrajna védelméhez. Mind a Demokraatti, mind a Maaseudun Tulevaisuus hírportál ugyanerről az összegről és döntésről számol be.</p><h3>Ahol eltérések vannak</h3><p>A Demokraatti pontosítja, hogy a támogatás a NATO PURL projektjén keresztül folyik, amely amerikai védelmi anyagokat finanszíroz Ukrajnában, és hogy a pénzügyi döntést már tavasszal meghozták a költségvetési tárgyalások során. A Maaseudun Tulevaisuus említette ezt a bejelentést Orpo lengyelországi látogatásával összefüggésben, anélkül, hogy részletezné a finanszírozást.</p><h3>Csak egy forrás</h3><p>A NATO-PURL kapcsolatot és az amerikai anyagokat kizárólag a Demokraatti említi – azonban ez az információ a védelmi minisztérium sajtóközleményén alapul, és jól alátámasztott.</p><h3>Mennyire megbízható?</h3><p>A lényeg hiteles: két különböző politikai álláspontú forrás (közép-baloldali, illetve közép/vidéki) egyetért, és az információ hivatalos. Magas a megbízhatóság. Egy olyan újság, amely közel áll a szociáldemokrata pártnak, és tárgyilagosan közvetíti a konzervatív kormány bejelentését, ez tovább növeli a hitelességet.</p>",
+  "tldr": "Petteri Orpo miniszterelnök (a Saml. pártból) csütörtökön jelentette be, hogy Finnország további 40 millió euróval támogatja Ukrajna védelmét.",
+  "sakerhet": "belagt",
+  "flaggor": [],
+  "triangulering": {
+    "kallor": [
+      {
+        "kalla": "Demokraatti",
+        "lutning": "középső-baloldali (Szociáldemokrata Párt)",
+        "partisk": true,
+        "url": "https://demokraatti.fi/orpo-suomi-antaa-ukrainan-puolustukseen-40-miljoonaa-euroa-lisaa-nato-hankkeen-kautta/"
+      },
+      {
+        "kalla": "Maaseudun Tulevaisuus",
+        "lutning": "városközpont / vidéki terület",
+        "partisk": true,
+        "url": "https://www.maaseuduntulevaisuus.fi/uutiset/cfd99f5d-c1d3-464e-ba5a-1f835c1d6887"
+      }
+    ],
+    "samstammigt": [
+      "Petteri Orpo miniszterelnök (a Saml. pártból) csütörtökön jelentette be, hogy Finnország további 40 millió euróval támogatja Ukrajna védelmét.",
+      "Mindkét forrás ugyanazt az összeget és ugyanazt a döntést említi."
+    ],
+    "divergenser": [
+      "A Demokraatti konkrétan a következő csatornát jelöli meg: a NATO PURL projektet, amely amerikai védelmi anyagokat szállít Ukrajnába, és azt, hogy ezt a finanszírozást tavasszal fogadták el a költségvetési tárgyalások során.",
+      "A Maaseudun Tulevaisuus nem közölte a részleteket Orpo lengyelországi látogatásával kapcsolatban, beleértve a finanszírozási vonatkozásokat."
+    ],
+    "enkalligt": [
+      "A NATO szabványú URL-címekhez és az amerikai hadianyagokhoz való kapcsolódás kizárólag a Demokraatti oldalán található – azonban ez az információ a védelmi minisztérium sajtóközleményén alapul, így jól alátámasztott."
+    ],
+    "vinkel_per_kalla": {
+      "Demokraatti": "A szociáldemokrata (az ellenzékhöz közeli) sajtó, amely a polgári kormány döntéseiről objektíven és részletesen számol be – anélkül, hogy egyértelműen elfogult lenne.",
+      "Maaseudun Tulevaisuus": "Rövid, semleges közlemény a miniszterelnök lengyelországi látogatásáról."
+    },
+    "konfidens": "hög",
+    "bedomning": "A következő információ (40 millió euró Ukrajna védelmére, amit Orpo bejelentett) megbízható forrásból származik: két független, különböző politikai állásponttal rendelkező forrás ugyanazt a hírt közölte, és az információ egy hivatalos sajtóközleményben szerepel. Magas fokú bizonyosság. Egy a szocialdemokrata párthoz közel álló újság által a konzervatív kormány bejelentésének kritikátlan megjelenítése tovább erősíti ezt a képet."
+  }
+}

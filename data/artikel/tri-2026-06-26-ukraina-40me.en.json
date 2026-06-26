@@ -1,0 +1,50 @@
+{
+  "id": "tri-2026-06-26-ukraina-40me",
+  "typ": "nyhet",
+  "titel": "Finland is increasing its support for Ukraine's defense by 40 million euros.",
+  "datum": "2026-06-26",
+  "kalla": "Triangulering (flera finska källor)",
+  "kalla_url": "",
+  "taggar": [
+    "finland",
+    "ukraina",
+    "forsvar"
+  ],
+  "html": "<h3>What the Sources Agree On</h3><p>Prime Minister Petteri Orpo (National Coalition Party) announced on Thursday that Finland will provide an additional 40 million euros to Ukraine&#x27;s defense. Both Demokraatti and Maaseudun Tulevaisuus report the same amount and decision.</p><h3>Details That Differ</h3><p>Demokraatti specifies that the support is being provided through NATO&#x27;s PURL project, which finances American military equipment for Ukraine, and that the funds were decided during the spring budget negotiations. Maaseudun Tulevaisuus mentions the announcement in connection with Orpo&#x27;s visit to Poland, but does not provide details about the funding.</p><h3>Only One Source</h3><p>The link to NATO-PURL and the American equipment is reported only by Demokraatti – but this information is based on a press release from the Ministry of Defense and is well-supported.</p><h3>How Reliable?</h3><p>The core information is well-established: two sources with different political affiliations (center-left and center/rural) report the same thing, and the information is official. High confidence. The fact that a newspaper close to the Social Democratic Party (SDP) reports on the conservative government&#x27;s announcement in a factual manner strengthens its credibility.</p>",
+  "tldr": "On Thursday, Prime Minister Petteri Orpo of the Saml party announced that Finland will provide an additional 40 million euros to support Ukraine's defense.",
+  "sakerhet": "belagt",
+  "flaggor": [],
+  "triangulering": {
+    "kallor": [
+      {
+        "kalla": "Demokraatti",
+        "lutning": "centre-left (Social Democratic Party)",
+        "partisk": true,
+        "url": "https://demokraatti.fi/orpo-suomi-antaa-ukrainan-puolustukseen-40-miljoonaa-euroa-lisaa-nato-hankkeen-kautta/"
+      },
+      {
+        "kalla": "Maaseudun Tulevaisuus",
+        "lutning": "rural areas / countryside",
+        "partisk": true,
+        "url": "https://www.maaseuduntulevaisuus.fi/uutiset/cfd99f5d-c1d3-464e-ba5a-1f835c1d6887"
+      }
+    ],
+    "samstammigt": [
+      "On Thursday, Prime Minister Petteri Orpo of the Saml party announced that Finland will provide an additional 40 million euros to support Ukraine's defense.",
+      "Both sources indicate the same amount and the same decision."
+    ],
+    "divergenser": [
+      "Demokraatti specifies the channel as being through NATO's PURL project, which funds American defense equipment for Ukraine, and that the funding was decided during this spring's budget negotiations.",
+      "Maaseudun Tulevaisuus provided information about Orpo's visit to Poland, but without including details about the funding involved."
+    ],
+    "enkalligt": [
+      "The connection to the NATO PURL (a type of persistent URL) and American equipment is only found on the \"Demokraatti\" website, but it's based on a press release from the Ministry of Defence, so it's well-supported."
+    ],
+    "vinkel_per_kalla": {
+      "Demokraatti": "Left-leaning (opposition-aligned) media that reports on decisions made by the conservative government in a factual and detailed manner, without any obvious bias.",
+      "Maaseudun Tulevaisuus": "Here's a short, neutral news item focusing on the Prime Minister's visit to Poland:\n\nThe Prime Minister is currently in Poland for a series of meetings and events. The purpose of the visit is to strengthen bilateral relations between Sweden and Poland.\n\nDuring her trip, the Prime Minister will meet with the Polish President, the Prime Minister, and other senior government officials. She will also participate in a business forum and give a speech at a university.\n\nThe Prime Minister's visit is expected to focus on issues such as trade, investment, and security. She will also discuss opportunities for cooperation between Sweden and Poland in areas such as innovation and education.\n\nThe Prime Minister is scheduled to return to Sweden on [Date]."
+    },
+    "konfidens": "hög",
+    "bedomning": "The core facts (40 million euros for Ukraine's defense, announced by Orpo) are well-supported: two independent sources with different political affiliations report the same information, and the information originates from an official press release. This indicates a high level of confidence in its accuracy. The fact that a newspaper close to the SDP is reporting on the conservative government's announcement without any criticism further reinforces this picture."
+  }
+}

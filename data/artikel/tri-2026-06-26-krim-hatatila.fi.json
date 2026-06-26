@@ -1,0 +1,59 @@
+{
+  "id": "tri-2026-06-26-krim-hatatila",
+  "typ": "nyhet",
+  "titel": "Poikkeustila on julistettu Krimin alueella.",
+  "datum": "2026-06-26",
+  "kalla": "Triangulering (flera finska källor)",
+  "kalla_url": "",
+  "taggar": [
+    "ukraina",
+    "ryssland",
+    "krim"
+  ],
+  "html": "<h3>Mistä lähteet ovat yhtä mieltä</h3><p>Poikkeustila on julistettu Krimin alueella. Kolme suomalaista lähdettä raportoi tapahtumasta.</p><h3>Missä lähteet eroavat toisistaan</h3><p>Vain Helsingin Sanomat tarjoaa omaa, syvällistä tietoa: syyksi ilmoitetaan Ukrainan tehostuneet hyökkäykset Krimin niemimaata vastaan, ja tilanne koskee myös Sevastopolia. Iltalehti ja Ilta-Sanomat ovat vähäsisältöisiä live-blogeja, jotka &quot;seuraavat sotaa&quot; ilman omaa raportointia juuri tästä tapahtumasta. HS puolestaan asettaa uutisen osaksi &quot;Venäjän hyökkäyssotaa&quot; ja kutsuu Krimiä &quot;miehitetyksi alueeksi&quot; – mikä on oikeudellinen merkintä, jota iltapäivälehtien raportoinnissa ei esiinny.</p><h3>Vain yksi lähde</h3><p>Syy (ukrainalaiset hyökkäykset) ja Sevastopolin sisällyttäminen raportoidaan ainoastaan HS:ssä.</p><h3>Kuinka luotettavaa?</h3><p>Opetuksellinen esimerkki: uutinen vaikuttaa olevan kolmen lähteen kattama, mutta kaksi niistä ovat tyhjiä live-blogeja. Todellista, itsenäistä raportointia tarjoaa vain yksi lähde. On todennäköistä, että poikkeustila on julistettu; syy ja laajuus perustuvat kuitenkin yksinomaan HS:n tietoon → kohtalainen luotettavuus, merkitty &quot;yhdestä lähteestä&quot;.</p>",
+  "tldr": "Krimin alueella on julistettu poikkeustila. Kaikki kolme lähdettä viittaavat tähän tapahtumaan.",
+  "sakerhet": "trolig",
+  "flaggor": [
+    "enkalligt"
+  ],
+  "triangulering": {
+    "kallor": [
+      {
+        "kalla": "Helsingin Sanomat",
+        "lutning": "Olen pahoillani, mutta en ymmärrä pyyntöäsi. Voisitko selventää?",
+        "partisk": false,
+        "url": "https://www.hs.fi/maailma/art-2000012104493.html"
+      },
+      {
+        "kalla": "Iltalehti",
+        "lutning": "suosittu / sensaatio.",
+        "partisk": false,
+        "url": "https://www.iltalehti.fi/ulkomaat/a/758b4ebc-823a-4c47-9079-e5f67b44633b"
+      },
+      {
+        "kalla": "Ilta-Sanomat",
+        "lutning": "suosittu / sensaatio.",
+        "partisk": false,
+        "url": "https://www.is.fi/ulkomaat/art-2000012084748.html"
+      }
+    ],
+    "samstammigt": [
+      "Krimin alueella on julistettu poikkeustila. Kaikki kolme lähdettä viittaavat tähän tapahtumaan."
+    ],
+    "divergenser": [
+      "Ainoastaan Helsingin Sanomat antaa lisätietoja: syynä kerrotaan olevan Ukrainan tehostuneet hyökkäykset Krimin niemimaata vastaan, ja tilanne koskee myös kaupunkia Sevastopolia.",
+      "Iltalehti ja Ilta-Sanomat ovat sisällöltään kevyitä reaaliaikaisia blogeja (\"seuraamme sotaa\"), jotka eivät tarjoa omaa raportointia juuri tästä tapahtumasta.",
+      "Helsingin Sanomat tulkitsee tapahtuman osana \"Venäjän hyökkäyssotaa\" ja käyttää termiä \"miehitetty Krimin niemimaa\", mikä on selkeä viittaus kansainväliseen oikeuteen. Iltapäivälehtien uutisoinnissa ei ole käytetty vastaavaa tulkintaa."
+    ],
+    "enkalligt": [
+      "Helsingin Sanomiset on ainoa julkaisu, joka raportoi syystä (Ukrainan hyökkäykset) ja siitä, että Sevastopol kuuluu tiettyyn alueeseen."
+    ],
+    "vinkel_per_kalla": {
+      "Helsingin Sanomat": "Oma raportointi, jossa kerrotaan syyt ja annetaan tapahtumille kansainvälisoikeudellinen tulkinta (esimerkiksi termit \"miehitys\" tai \"hyökkäyssota\").",
+      "Iltalehti": "Suora lähetys, joka seuraa sodan kulkua reaaliajassa; ei sisällä omaa analyysiä tai tulkintaa tapahtumista.",
+      "Ilta-Sanomat": "Suora lähetys, kuten Iltalehden, jossa kerrotaan vain siitä, että tilannetta seurataan."
+    },
+    "konfidens": "medel",
+    "bedomning": "TÄRKEÄ esimerkki siitä, miksi ristiriitatarkistus on tarpeen: ensisilmäyksellä uutinen vaikuttaa olevan kolmen lähteen vahvistama, mutta kaksi niistä ovat sisällöttömiä live-blogeja. Todellista, itsenäistä raportointia edustaa VAIN yksi lähde (HS). Vaikka hätätilan julistaminen on todennäköistä, sen syy ja laajuus perustuvat YHDELLE lähteelle → kohtalainen luotettavuus, merkitään \"yhdestä lähteestä\"."
+  }
+}

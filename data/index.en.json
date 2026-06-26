@@ -96,6 +96,40 @@
     }
   },
   {
+    "id": "tri-2026-06-26-ukraina-40me",
+    "typ": "nyhet",
+    "titel": "Finland is increasing its support for Ukraine's defense by 40 million euros.",
+    "ingress": "Finland is increasing its support for Ukraine's defense by 40 million euros. — The core facts (40 million euros for Ukraine's defense, announced by Orpo) are well-supported: two independent sources w",
+    "datum": "2026-06-26",
+    "kalla": "Triangulering (flera finska källor)",
+    "taggar": [
+      "finland",
+      "ukraina",
+      "forsvar"
+    ],
+    "sakerhet": "belagt",
+    "flaggor": [],
+    "tri": true
+  },
+  {
+    "id": "tri-2026-06-26-krim-hatatila",
+    "typ": "nyhet",
+    "titel": "A state of emergency has been declared in Crimea.",
+    "ingress": "A state of emergency has been declared in Crimea. — IMPORTANT example of why triangulation is necessary: at first glance, the news appears to be covered by three sources, b",
+    "datum": "2026-06-26",
+    "kalla": "Triangulering (flera finska källor)",
+    "taggar": [
+      "ukraina",
+      "ryssland",
+      "krim"
+    ],
+    "sakerhet": "trolig",
+    "flaggor": [
+      "enkalligt"
+    ],
+    "tri": true
+  },
+  {
     "id": "HD03301",
     "typ": "lagforslag",
     "titel": "Stricter requirements for family immigration.\n\nHere's a breakdown of the changes:\n\n*   \"Skärpta villkor\" translates to \"stricter requirements.\"\n*   \"Anhöriginvandring\" translates to \"family immigration.\"",

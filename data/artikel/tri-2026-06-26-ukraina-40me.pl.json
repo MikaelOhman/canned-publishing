@@ -1,0 +1,50 @@
+{
+  "id": "tri-2026-06-26-ukraina-40me",
+  "typ": "nyhet",
+  "titel": "Finland zwiększa wsparcie dla obrony Ukrainy o 40 milionów euro.",
+  "datum": "2026-06-26",
+  "kalla": "Triangulering (flera finska källor)",
+  "kalla_url": "",
+  "taggar": [
+    "finland",
+    "ukraina",
+    "forsvar"
+  ],
+  "html": "<h3>W czym źródła są zgodne</h3><p>Premier Petteri Orpo (Partia Koalicji) poinformował w czwartek, że Finlandia przekaże dodatkowe 40 milionów euro na obronę Ukrainy. Zarówno gazeta Demokraatti, jak i Maaseudun Tulevaisuus podają tę samą kwotę i decyzję.</p><h3>Szczegóły, które się różnią</h3><p>Demokraatti precyzuje, że wsparcie jest przekazywane w ramach projektu NATO o nazwie PURL, który finansuje amerykański sprzęt wojskowy dla Ukrainy, oraz że pieniądze zostały zatwierdzone jeszcze podczas wiosennych negocjacji budżetowych. Maaseudun Tulevaisuus wspomina o tej decyzji w kontekście wizyty Orpo w Polsce, nie podając jednak szczegółów dotyczących finansowania.</p><h3>Tylko jedno źródło</h3><p>Informacja o powiązaniu z projektem NATO-PURL i amerykańskim sprzęcie pojawia się tylko w Demokraatti – ale dane te opierają się na komunikacie prasowym Ministerstwa Obrony i są dobrze udokumentowane.</p><h3>Jak bardzo wiarygodne?</h3><p>Sedno sprawy jest dobrze udokumentowane: dwa źródła o różnym profilu politycznym (centrolewicowe oraz centrowo-rolnicze) podają te same informacje, a informacja ta pochodzi z oficjalnego źródła. Wysoka wiarygodność. Fakt, że gazeta związana z partią SDP obiektywnie relacjonuje decyzję rządu koalicyjnego, wzmacnia jej wiarygodność.</p>",
+  "tldr": "Premier Finlandii, Petteri Orpo (partia Saml.), ogłosił w czwartek, że Finlandia przekaże dodatkowe 40 milionów euro na obronę Ukrainy.",
+  "sakerhet": "belagt",
+  "flaggor": [],
+  "triangulering": {
+    "kallor": [
+      {
+        "kalla": "Demokraatti",
+        "lutning": "centrum-lewica (SDP)",
+        "partisk": true,
+        "url": "https://demokraatti.fi/orpo-suomi-antaa-ukrainan-puolustukseen-40-miljoonaa-euroa-lisaa-nato-hankkeen-kautta/"
+      },
+      {
+        "kalla": "Maaseudun Tulevaisuus",
+        "lutning": "centrum/obszary wiejskie",
+        "partisk": true,
+        "url": "https://www.maaseuduntulevaisuus.fi/uutiset/cfd99f5d-c1d3-464e-ba5a-1f835c1d6887"
+      }
+    ],
+    "samstammigt": [
+      "Premier Finlandii, Petteri Orpo (partia Saml.), ogłosił w czwartek, że Finlandia przekaże dodatkowe 40 milionów euro na obronę Ukrainy.",
+      "Oba źródła podają tę samą kwotę i to samo postanowienie."
+    ],
+    "divergenser": [
+      "Źródło Demokraatti precyzuje, że środki te pochodzą z projektu NATOs PURL, który finansuje dostawy amerykańskiego sprzętu wojskowego do Ukrainy, a decyzja o przyznaniu tego finansowania zapadła podczas wiosennych negocjacji budżetowych.",
+      "Magazyn \"Maaseudun Tulevaisuus\" poinformował o wizycie Orpo w Polsce, ale nie podał szczegółów dotyczących finansowania."
+    ],
+    "enkalligt": [
+      "Połączenie z inicjatywą NATO PURL oraz amerykańskim sprzętem występuje tylko w serwisie Demokraatti, ale opiera się na komunikacie prasowym Ministerstwa Obrony i dlatego jest dobrze udokumentowane."
+    ],
+    "vinkel_per_kalla": {
+      "Demokraatti": "Media socjaldemokratyczna (bliska opozycji), która relacjonuje decyzje rządzącej koalicji w sposób obiektywny i szczegółowy – bez wyraźnego zabarwienia ideologicznego.",
+      "Maaseudun Tulevaisuus": "Krótka, obiektywna informacja skupiająca się na wizycie szefa rządu w Polsce."
+    },
+    "konfidens": "hög",
+    "bedomning": "Kluczowe informacje (40 milionów euro na obronę Ukrainy, ogłoszone przez Orpo) są dobrze udokumentowane: dwa niezależne źródła o różnych poglądach politycznych podają te same informacje, a informacja pochodzi z oficjalnego komunikatu prasowego. Wysoka wiarygodność. Fakt, że gazeta związana z SDP bezkrytycznie publikuje komunikat rządu koalicyjnego, wzmacnia ten obraz."
+  }
+}

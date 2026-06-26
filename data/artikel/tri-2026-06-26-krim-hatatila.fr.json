@@ -1,0 +1,59 @@
+{
+  "id": "tri-2026-06-26-krim-hatatila",
+  "typ": "nyhet",
+  "titel": "État d'urgence déclaré en Crimée.",
+  "datum": "2026-06-26",
+  "kalla": "Triangulering (flera finska källor)",
+  "kalla_url": "",
+  "taggar": [
+    "ukraina",
+    "ryssland",
+    "krim"
+  ],
+  "html": "<h3>Ce qui est communément admis</h3><p>Un état d&#x27;urgence a été décrété en Crimée. Trois sources finlandaises font référence à cet événement.</p><h3>Les divergences entre les sources</h3><p>Seulement Helsingin Sanomat apporte des informations substantielles : la raison invoquée est l&#x27;intensification des attaques ukrainiennes contre la péninsule de Crimée, et le décret s&#x27;applique également à Sébastopol. Iltalehti et Ilta-Sanomat sont de simples blogs en direct qui &quot;suivent la guerre&quot; sans rapportage propre sur cet événement précis. De plus, HS contextualise l&#x27;information dans &quot;la guerre d&#x27;agression russe&quot; et qualifie la Crimée de &quot;territoire occupé&quot;, une distinction juridique internationale que les journaux du soir ne mentionnent pas.</p><h3>Une seule source</h3><p>La cause (les attaques ukrainiennes) et le fait que Sébastopol soit concerné sont rapportés uniquement par HS.</p><h3>Niveau de fiabilité</h3><p>Un cas instructif : la nouvelle semble être couverte par trois sources, mais deux sont de simples blogs en direct. Seule une source fournit un reportage indépendant réel. Il est probable qu&#x27;un état d&#x27;urgence ait été décrété ; la cause et l&#x27;étendue de ce décret reposent uniquement sur les informations de HS → niveau de confiance moyen, signalé comme provenant d&#x27;une seule source.</p>",
+  "tldr": "Un état d'urgence a été décrété en Crimée. Les trois sources mentionnées font référence à cet événement.",
+  "sakerhet": "trolig",
+  "flaggor": [
+    "enkalligt"
+  ],
+  "triangulering": {
+    "kallor": [
+      {
+        "kalla": "Helsingin Sanomat",
+        "lutning": "Je suis désolé, mais je ne comprends pas ce que vous voulez dire par \"liberal-mitten\". Pourriez-vous reformuler votre question ou me donner plus de contexte ?",
+        "partisk": false,
+        "url": "https://www.hs.fi/maailma/art-2000012104493.html"
+      },
+      {
+        "kalla": "Iltalehti",
+        "lutning": "populaire / sensationnelle",
+        "partisk": false,
+        "url": "https://www.iltalehti.fi/ulkomaat/a/758b4ebc-823a-4c47-9079-e5f67b44633b"
+      },
+      {
+        "kalla": "Ilta-Sanomat",
+        "lutning": "populaire / sensationnelle",
+        "partisk": false,
+        "url": "https://www.is.fi/ulkomaat/art-2000012084748.html"
+      }
+    ],
+    "samstammigt": [
+      "Un état d'urgence a été décrété en Crimée. Les trois sources mentionnées font référence à cet événement."
+    ],
+    "divergenser": [
+      "Seul le journal Helsingin Sanomat fournit des informations précises : la raison invoquée est l'intensification des attaques ukrainiennes contre la péninsule de Crimée, et cette situation s'étend également à la ville de Sébastopol.",
+      "Iltalehti et Ilta-Sanomat proposent des blogs en direct (\"nous suivons la guerre\") qui manquent de contenu original et ne présentent pas de reportages spécifiques sur cet événement particulier.",
+      "HS encadre l'événement dans le contexte de \"la guerre d'agression russe\" et qualifie la Crimée de \"territoire occupé\", ce qui constitue une claire prise de position en droit international. Les journaux du soir ne présentent pas l'information sous cet angle."
+    ],
+    "enkalligt": [
+      "La cause (les attaques ukrainiennes) et le fait que Sébastopol soit concernée ne sont rapportés que par le journal Helsingin Sanomat."
+    ],
+    "vinkel_per_kalla": {
+      "Helsingin Sanomat": "Auto-déclaration avec indication des motifs et cadre juridique international (\"occupation\", \"guerre d'agression\").",
+      "Iltalehti": "Blog en direct qui suit le déroulement de la guerre au fur et à mesure ; elle ne contient pas d'analyses ou de commentaires personnels sur les événements.",
+      "Ilta-Sanomat": "Blog en direct, comme Iltalehti ; se contente de relater les événements au fur et à mesure qu'ils se déroulent."
+    },
+    "konfidens": "medel",
+    "bedomning": "IMPORTANT : un exemple illustrant la nécessité de la triangulation : à première vue, l'information semble être confirmée par trois sources, mais deux d'entre elles sont de simples blogs actualisés en direct et ne contiennent pas de contenu substantiel. Seule UNE source (HS) fournit un reportage indépendant et fiable. Bien que la déclaration d'état d'urgence soit probable, la cause et l'étendue de cette mesure reposent sur une seule source → confiance modérée, signalée comme provenant d'une seule source."
+  }
+}
