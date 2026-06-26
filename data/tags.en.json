@@ -707,7 +707,7 @@
   "vn": {
     "etikett": "VN",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "tierp": {
     "etikett": "Tierps is a municipality located in the county of Uppsala, Sweden. It offers a variety of attractions and activities for visitors, including:\n\n*   **Historical sites:** Explore the rich history of the region by visiting ancient castles, churches, and museums.\n*   **Natural beauty:** Enjoy the stunning landscapes of forests, lakes, and rivers, perfect for hiking, biking, and fishing.\n*   **Cultural events:** Immerse yourself in the local culture by attending festivals, concerts, and art exhibitions.\n*   **Outdoor activities:** Experience the thrill of adventure with opportunities for kayaking, climbing, and horseback riding.\n*   **Local cuisine:** Savor the flavors of traditional Swedish dishes and regional specialties at local restaurants and markets.\n\nFor more information, visit the official website at [insert URL here].",
@@ -1652,6 +1652,11 @@
   "socialnamnden-s": {
     "etikett": "The social services board:",
     "typ": "organisation",
+    "antal": 1
+  },
+  "ydre": {
+    "etikett": "Ydre is a municipality located in the province of Östergötland, Sweden. It was formed in 1971 when the municipalities of Vätterstad and Eksjö were merged. The municipality covers an area of 2,450 square kilometers and has a population of approximately 18,000 people.\n\nThe municipality is characterized by its diverse landscape, which includes forests, lakes, and agricultural land. It is also home to several historical sites, including the medieval castle of Ydreborg.\n\nThe main industries in the municipality are agriculture, forestry, and tourism. There are also a number of small businesses that operate in the area.\n\nHere are some of the key features of the municipality:\n\n*   **Location:** Östergötland province, Sweden\n*   **Formation date:** 1971 (merger of Vätterstad and Eksjö municipalities)\n*   **Area:** 2,450 square kilometers\n*   **Population:** Approximately 18,000 people\n*   **Landscape:** Diverse, including forests, lakes, and agricultural land\n*   **Historical sites:** Ydreborg medieval castle\n*   **Main industries:** Agriculture, forestry, tourism, and small businesses",
+    "typ": "plats",
     "antal": 1
   }
 }

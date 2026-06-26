@@ -732,7 +732,7 @@
   "vn": {
     "etikett": "VN",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "tierp": {
     "etikett": "Tierps",
@@ -1687,6 +1687,11 @@
   "socialnamnden-s": {
     "etikett": "Socialnämnden s",
     "typ": "organisation",
+    "antal": 1
+  },
+  "ydre": {
+    "etikett": "Ydre",
+    "typ": "plats",
     "antal": 1
   }
 }

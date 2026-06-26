@@ -647,7 +647,7 @@
   "vn": {
     "etikett": "VN",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "tierp": {
     "etikett": "Tierps",
@@ -1597,6 +1597,11 @@
   "socialnamnden-s": {
     "etikett": "\"اللجنة الاجتماعية\" (ثم يتبع ذلك بقية النص).",
     "typ": "organisation",
+    "antal": 1
+  },
+  "ydre": {
+    "etikett": "Ydre",
+    "typ": "plats",
     "antal": 1
   }
 }

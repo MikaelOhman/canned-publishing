@@ -622,7 +622,7 @@
   "vn": {
     "etikett": "VN",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "tierp": {
     "etikett": "Tierp.",
@@ -1582,6 +1582,11 @@
   "socialnamnden-s": {
     "etikett": "Komisja ds. spraw społecznych",
     "typ": "organisation",
+    "antal": 1
+  },
+  "ydre": {
+    "etikett": "Ydre.",
+    "typ": "plats",
     "antal": 1
   }
 }
