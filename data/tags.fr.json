@@ -1733,5 +1733,65 @@
     "etikett": "L'agence nationale pour l'emploi (Arbetsförmedlingen).",
     "typ": "organisation",
     "antal": 3
+  },
+  "svensk-historia": {
+    "etikett": "Histoire suédoise.\n\n[Here, you would insert the content that was originally in Swedish, maintaining the paragraph and list structure, and keeping names, numbers, dates, and URLs unchanged.]",
+    "typ": "ämne",
+    "antal": 22
+  },
+  "vikingatid": {
+    "etikett": "L'ère viking.",
+    "typ": "epok",
+    "antal": 12
+  },
+  "stenalder": {
+    "etikett": "L'âge de pierre.",
+    "typ": "epok",
+    "antal": 1
+  },
+  "bronsalder": {
+    "etikett": "L'âge du bronze.",
+    "typ": "epok",
+    "antal": 1
+  },
+  "jarnalder": {
+    "etikett": "L'âge du fer.",
+    "typ": "epok",
+    "antal": 1
+  },
+  "vendeltid": {
+    "etikett": "La période de Vendel.",
+    "typ": "epok",
+    "antal": 1
+  },
+  "medeltid": {
+    "etikett": "Le Moyen Âge\n\n*   Période historique qui s'étend du Ve siècle au XVe siècle.\n*   Caractérisée par un système féodal, une économie agricole et une forte influence de l'Église catholique.\n*   Marquée par des événements importants tels que les croisades, la peste noire et la guerre de Cent Ans.\n*   A laissé un héritage culturel riche, notamment dans les domaines de l'architecture (gothique), de la littérature et de la philosophie.\n*   Pour plus d'informations, consultez le site web suivant : [URL non fournie].",
+    "typ": "epok",
+    "antal": 1
+  },
+  "vasatiden": {
+    "etikett": "L'âge de fer (ou époque scandinave)\n\n*   **Période :** Environ 500 avant J.-C. à environ 800 après J.-C.\n*   **Caractéristiques principales :**\n    *   Développement de la métallurgie du fer.\n    *   Évolution des techniques agricoles et artisanales.\n    *   Formation de structures sociales plus complexes.\n    *   Expansion commerciale et contacts avec d'autres cultures.\n*   **Divisions chronologiques (en Suède) :**\n    *   Prähistorische Eisenzeit (Protohistoire scandinave) : environ 500 avant J.-C. à 1 av. J.-C.\n    *   Romersk Eisenzeit (Âge du fer romain) : 1 av. J.-C. à 400 après J.-C.\n    *   Germanische Eisenzeit (Âge du fer germanique) : 400 à 800 après J.-C.\n*   **Exemples de sites archéologiques importants :**\n    *   Uppåkra, Suède.\n    *   Birka, Suède.\n    *   Kaupang, Norvège.\n*   **Pour plus d'informations :** Consultez le site web [URL non fournie].",
+    "typ": "epok",
+    "antal": 1
+  },
+  "stormaktstiden": {
+    "etikett": "L'ère des grandes puissances.",
+    "typ": "epok",
+    "antal": 1
+  },
+  "frihetstiden": {
+    "etikett": "L'ère de la liberté.",
+    "typ": "epok",
+    "antal": 1
+  },
+  "1800talet": {
+    "etikett": "Le XIXe siècle.",
+    "typ": "epok",
+    "antal": 1
+  },
+  "1900talet": {
+    "etikett": "Le XXe siècle.",
+    "typ": "epok",
+    "antal": 1
   }
 }

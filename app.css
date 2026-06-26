@@ -109,6 +109,29 @@ select:focus-visible,.search input:focus-visible,.chip:focus-visible,.card:focus
 .trov-meta{font-size:.74rem;color:var(--txt2)}
 .trov-flaggor{display:flex;flex-wrap:wrap;gap:10px;flex-basis:100%}
 .trov-flagg{font-size:.74rem;color:var(--txt2);display:inline-flex;gap:3px;align-items:center}
+/* Källjämförelse-panel (triangulering) */
+.badge-tri{font-size:.82rem}
+.jamf{margin:14px 0;padding:14px 16px;background:var(--bg3);border-radius:12px;border-left:4px solid var(--ac)}
+.jamf-h{font-weight:700;font-size:.92rem;margin-bottom:10px}
+.jamf-konf{font-weight:700;text-transform:uppercase;font-size:.62rem;padding:2px 7px;border-radius:6px}
+.k-hög{background:color-mix(in srgb,#3fb950 24%,transparent);color:#3fb950}
+.k-medel{background:color-mix(in srgb,#e0b341 26%,transparent);color:#e0b341}
+.k-låg{background:color-mix(in srgb,#ff7b72 24%,transparent);color:#ff7b72}
+.jamf-kallor{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:10px}
+.jamf-kalla{display:inline-flex;flex-direction:column;font-size:.78rem;padding:4px 9px;border-radius:8px;border-left:3px solid var(--lean,var(--txt3));background:var(--bg2)}
+.jamf-kalla small{font-size:.66rem;color:var(--txt3)}
+.jamf-kalla a{color:var(--txt);text-decoration:none;font-weight:600}
+.l-v{--lean:#4a9eff}.l-cv{--lean:#26c6c6}.l-m{--lean:#8a97a3}.l-ch{--lean:#ff9f43}.l-h{--lean:#ff7b72}
+.jamf-partisk{color:var(--lag)}
+.jamf-block{margin:8px 0}
+.jamf-block h4{font-size:.82rem;margin:6px 0 4px}
+.jamf-block ul{margin:0;padding-left:20px}.jamf-block li{margin:3px 0;font-size:.9rem}
+.jamf-block.ok h4{color:var(--kommun)}.jamf-block.warn h4{color:var(--lag)}
+.jamf-v{font-size:.88rem;margin:4px 0}
+.jamf-bedomning{margin-top:10px;padding-top:8px;border-top:1px solid var(--line);font-size:.9rem;font-style:italic;color:var(--txt2)}
+[dir="rtl"] .jamf{border-left:none;border-right:4px solid var(--ac)}
+[dir="rtl"] .jamf-kalla{border-left:none;border-right:3px solid var(--lean,var(--txt3))}
+[dir="rtl"] .jamf-block ul{padding-left:0;padding-right:20px}
 /* förklaringsrad under varje nivå i "Vem beslutar"-filtret */
 .opt-typ{align-items:flex-start}
 .opt-typ .lbl{display:flex;flex-direction:column;line-height:1.25}

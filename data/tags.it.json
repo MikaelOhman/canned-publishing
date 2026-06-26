@@ -1733,5 +1733,65 @@
     "etikett": "L'agenzia per l'impiego.",
     "typ": "organisation",
     "antal": 3
+  },
+  "svensk-historia": {
+    "etikett": "Storia svedese.\n\n(Followed by any lists or paragraphs that would normally follow this title in a document about Swedish history.)",
+    "typ": "ämne",
+    "antal": 22
+  },
+  "vikingatid": {
+    "etikett": "L'era vichinga.",
+    "typ": "epok",
+    "antal": 12
+  },
+  "stenalder": {
+    "etikett": "L'età della pietra.",
+    "typ": "epok",
+    "antal": 1
+  },
+  "bronsalder": {
+    "etikett": "L'Età del Bronzo.",
+    "typ": "epok",
+    "antal": 1
+  },
+  "jarnalder": {
+    "etikett": "L'Età del Ferro.",
+    "typ": "epok",
+    "antal": 1
+  },
+  "vendeltid": {
+    "etikett": "L'epoca vendeliana\n\n*   **Periodo:** Circa dal IV al VI secolo d.C.\n*   **Area geografica:** Scandinavia e aree circostanti.\n*   **Caratteristiche principali:**\n    *   Sviluppo di una società più complessa, con differenze sociali marcate.\n    *   Aumento dei contatti commerciali con altre culture, come quella romana e germanica.\n    *   Produzione di oggetti d'arte raffinati in metallo, legno e vetro.\n    *   Primi segni di un potere politico centralizzato.\n*   **Siti archeologici importanti:**\n    *   Vendel (Svezia): ricca tomba principesca con corredi funerari eccezionali.\n    *   Gamla Uppsala (Svezia): centro religioso e politico importante.\n    *   Birka (Svezia): insediamento commerciale strategico sul lago Mälaren.\n*   **Ulteriori informazioni:** Per maggiori dettagli, consultare il sito web [URL non fornito].",
+    "typ": "epok",
+    "antal": 1
+  },
+  "medeltid": {
+    "etikett": "Il Medioevo\n\n*   Un periodo storico che va dal V al XV secolo.\n*   Caratterizzato da un'economia agricola e da una società feudale.\n*   Importanti sviluppi culturali e artistici, come la nascita delle università e lo sviluppo dell'architettura gotica.\n*   Eventi significativi includono le Crociate, la Peste Nera e il Rinascimento.\n*   Per maggiori informazioni, visitare il sito web: [URL non fornito].",
+    "typ": "epok",
+    "antal": 1
+  },
+  "vasatiden": {
+    "etikett": "L'epoca di Vasatiden.",
+    "typ": "epok",
+    "antal": 1
+  },
+  "stormaktstiden": {
+    "etikett": "L'era delle grandi potenze.",
+    "typ": "epok",
+    "antal": 1
+  },
+  "frihetstiden": {
+    "etikett": "L'era della libertà.",
+    "typ": "epok",
+    "antal": 1
+  },
+  "1800talet": {
+    "etikett": "XIX secolo.",
+    "typ": "epok",
+    "antal": 1
+  },
+  "1900talet": {
+    "etikett": "Il XX secolo.",
+    "typ": "epok",
+    "antal": 1
   }
 }

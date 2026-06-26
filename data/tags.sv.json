@@ -1833,5 +1833,85 @@
     "etikett": "Arbetsförmedlingen",
     "typ": "organisation",
     "antal": 3
+  },
+  "svensk-historia": {
+    "etikett": "Svensk historia",
+    "typ": "ämne",
+    "antal": 22
+  },
+  "vikingatid": {
+    "etikett": "Vikingatiden",
+    "typ": "epok",
+    "antal": 12
+  },
+  "stenalder": {
+    "etikett": "Stenåldern",
+    "typ": "epok",
+    "antal": 1
+  },
+  "bronsalder": {
+    "etikett": "Bronsåldern",
+    "typ": "epok",
+    "antal": 1
+  },
+  "jarnalder": {
+    "etikett": "Järnåldern",
+    "typ": "epok",
+    "antal": 1
+  },
+  "vendeltid": {
+    "etikett": "Vendeltiden",
+    "typ": "epok",
+    "antal": 1
+  },
+  "medeltid": {
+    "etikett": "Medeltiden",
+    "typ": "epok",
+    "antal": 1
+  },
+  "vasatiden": {
+    "etikett": "Vasatiden",
+    "typ": "epok",
+    "antal": 1
+  },
+  "stormaktstiden": {
+    "etikett": "Stormaktstiden",
+    "typ": "epok",
+    "antal": 1
+  },
+  "frihetstiden": {
+    "etikett": "Frihetstiden",
+    "typ": "epok",
+    "antal": 1
+  },
+  "1800talet": {
+    "etikett": "1800-talet",
+    "typ": "epok",
+    "antal": 1
+  },
+  "1900talet": {
+    "etikett": "1900-talet",
+    "typ": "epok",
+    "antal": 1
+  },
+  "finland": {
+    "etikett": "Finland",
+    "typ": "plats",
+    "antal": 1
+  },
+  "ukraina": {
+    "etikett": "Ukraina",
+    "typ": "plats",
+    "antal": 1
+  },
+  "ryssland": {
+    "etikett": "Ryssland",
+    "typ": "plats",
+    "antal": 1
+  },
+  "krim": {
+    "etikett": "Krim",
+    "typ": "plats",
+    "antal": 1
   }
 }

@@ -340,5 +340,20 @@
     "frihetstiden": "Epoca Libertății",
     "1800talet": "Secolul XIX",
     "1900talet": "Secolul XX"
+  },
+  "jamf": {
+    "rubrik": "Comparație surse",
+    "kallor": "surse",
+    "konfidens": "Încredere",
+    "samstammigt": "Unde sursele sunt de acord",
+    "divergenser": "Unde diferă",
+    "enkalligt": "O singură sursă",
+    "vinkel": "Unghiul fiecărei surse",
+    "partisk": "de partid",
+    "konf_niv": {
+      "hög": "ridicată",
+      "medel": "medie",
+      "låg": "scăzută"
+    }
   }
 }

@@ -1,0 +1,36 @@
+{
+  "id": "tri-2026-06-26-krim-hatatila",
+  "typ": "nyhet",
+  "topic_sv": "Undantagstillstånd utlyst på Krim",
+  "datum": "2026-06-26",
+  "kalla": "Triangulering (flera finska källor)",
+  "konfidens": "medel",
+  "sakerhet": "trolig",
+  "flaggor": ["enkalligt"],
+  "kallor": [
+    {"kalla": "Helsingin Sanomat", "lutning": "liberal-mitten", "partisk": false,
+     "url": "https://www.hs.fi/maailma/art-2000012104493.html"},
+    {"kalla": "Iltalehti", "lutning": "populär/sensationell", "partisk": false,
+     "url": "https://www.iltalehti.fi/ulkomaat/a/758b4ebc-823a-4c47-9079-e5f67b44633b"},
+    {"kalla": "Ilta-Sanomat", "lutning": "populär/sensationell", "partisk": false,
+     "url": "https://www.is.fi/ulkomaat/art-2000012084748.html"}
+  ],
+  "samstammigt": [
+    "Ett undantagstillstånd har utlysts på Krim. Samtliga tre källor refererar händelsen."
+  ],
+  "divergenser": [
+    "Endast Helsingin Sanomat ger substans: orsaken uppges vara Ukrainas intensifierade attacker mot Krimhalvön, och tillståndet omfattar även staden Sevastopol.",
+    "Iltalehti och Ilta-Sanomat är innehållstunna live-bloggar ('vi följer kriget') utan egen rapportering om just denna händelse.",
+    "HS ramar in händelsen under 'Rysslands anfallskrig' och kallar Krim 'ockuperat' — en tydlig folkrättslig markering. Kvällstidningarna gör ingen sådan inramning."
+  ],
+  "enkalligt": [
+    "Orsaken (ukrainska attacker) och att Sevastopol omfattas rapporteras bara av Helsingin Sanomat."
+  ],
+  "vinkel_per_kalla": {
+    "Helsingin Sanomat": "Egen rapportering med orsak och folkrättslig inramning ('ockuperat', 'anfallskrig').",
+    "Iltalehti": "Live-blogg som följer kriget löpande; ingen egen substans om händelsen.",
+    "Ilta-Sanomat": "Live-blogg likt Iltalehti; refererar bara att situationen följs."
+  },
+  "bedomning_sv": "VIKTIGT exempel på varför triangulering behövs: vid första anblick täcks nyheten av tre källor, men två av dem är innehållstomma live-bloggar. Reell oberoende rapportering kommer från EN källa (HS). Att undantagstillstånd utlysts är troligt, men orsak och omfattning vilar på en enda källa → medelhög konfidens, flaggas som enkälligt.",
+  "body_sv": "## Vad källorna är överens om\n\nEtt undantagstillstånd har utlysts på Krim. Tre finska källor refererar händelsen.\n\n## Var källorna skiljer sig\n\nBara Helsingin Sanomat ger egen substans: orsaken uppges vara Ukrainas intensifierade attacker mot Krimhalvön, och tillståndet omfattar även Sevastopol. Iltalehti och Ilta-Sanomat är innehållstunna live-bloggar som 'följer kriget' utan egen rapportering om just denna händelse. HS ramar dessutom in det under 'Rysslands anfallskrig' och kallar Krim 'ockuperat' — en folkrättslig markering kvällstidningarna saknar.\n\n## Bara en källa\n\nOrsaken (ukrainska attacker) och att Sevastopol omfattas rapporteras enbart av HS.\n\n## Hur säkert?\n\nEtt lärorikt fall: nyheten ser ut att täckas av tre källor, men två är tomma live-bloggar. Reell oberoende rapportering kommer från en enda källa. Att tillstånd utlysts är troligt; orsak och omfattning vilar på HS ensam → medelhög konfidens, flaggas som enkälligt."
+}

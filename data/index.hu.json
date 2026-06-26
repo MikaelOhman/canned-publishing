@@ -17061,5 +17061,552 @@
       "kronisk": 8,
       "konsument": 5
     }
+  },
+  {
+    "id": "hist-vikingatiden",
+    "typ": "historia",
+    "titel": "A vikingkor.",
+    "ingress": "A vikingkor egy időszak Észak-Európa történetében, amely körülbelül 790 és 1050 között tartott, amikor a skandinávok különböző országokba utaztak kereskedelem céljából, háborúzni és letelepedni.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Vikingatiden",
+    "taggar": [
+      "svensk-historia",
+      "vikingatid"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "batagare": 3
+    },
+    "epok": "vikingatid",
+    "tid": "ca 750–1050 e.Kr.",
+    "kallage": "arkeologi",
+    "sakerhet": "trolig",
+    "konsensus": "samsyn",
+    "flaggor": [
+      "tidsavstand"
+    ]
+  },
+  {
+    "id": "hist-runstenar",
+    "typ": "historia",
+    "titel": "A runakő egy olyan típusú ősi emlék, amelyen rúnák vannak feltüntetve. Általában kőből készülnek, és gyakran találhatók a skandináv országokban. A runakövek különböző célokra szolgáltak, például emlékműként, határrájelzőként vagy történetek elmesélésére.\n\nÍme néhány példa a híres runakövekre:\n\n* **Röksten:** Ez az egyik leghíresebb runakő Svédországban, és egy hosszú verset tartalmaz, amelynek jelentése még mindig vita tárgyát képezi.\n* **Gotlandrunar:** Ezek a runakövek Gotland szigetén találhatók, és különböző témákat érintenek, például a vikingek történetét és a helyi kultúrát.\n* **Klingnákövei:** Ez egy runakőcsoport Dél-Svédországban, amely gazdag információt nyújt a viking korról.\n\nA runakövek értékes forrásai lehetnek a múlt megértéséhez, és fontos szerepet játszanak a skandináv kulturális örökségben.",
+    "ingress": "A rúnakövek ősi kövekből állnak, melyekre bevésve találhatók szövegek. Ezeket a köveket használták a meghalt családtagok emlékére, valamint arra, hogy feltüntessék, ki végezte el egy fontos feladatot. A rúnakövek segítenek a kutatóknak abba",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Runsten",
+    "taggar": [
+      "svensk-historia",
+      "vikingatid"
+    ],
+    "relevans": {
+      "kultur": 3
+    },
+    "epok": "vikingatid",
+    "tid": "ca 950–1100 e.Kr.",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-birka",
+    "typ": "historia",
+    "titel": "Birka\n\n(Nincs további szöveg a fordításhoz.)",
+    "ingress": "A Birka egykor rendkívül fontos kereskedelmi központ volt a viking korban, és tekinthető Svédország első városának. A Mälaren-tó szigetéjén, Björköön található, és ma egy UNESCO által védett világörökség része.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Birka",
+    "taggar": [
+      "svensk-historia",
+      "vikingatid"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "batagare": 3
+    },
+    "epok": "vikingatid",
+    "tid": "ca 750–975 e.Kr.",
+    "kallage": "arkeologi",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": [
+      "saknad"
+    ]
+  },
+  {
+    "id": "hist-vikingatag",
+    "typ": "historia",
+    "titel": "A viking kor szakasza alatt végzett utazások.\n\n*   **Időszak:** Viking kor\n*   **Téma:** Utazások",
+    "ingress": "A vikingek utazásai a kereskedelemről, a fosztogatásokról és az új országokban való letelepedésről szóltak. Hajóikat arra használták, hogy hatalmas kereskedelmi hálózatokat hozzanak létre, amelyek a világ minden részébe terjedtek.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Vikingatida_färder",
+    "taggar": [
+      "svensk-historia",
+      "vikingatid"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "arbetsratt": 3,
+      "glesbygd": 3,
+      "batagare": 3
+    },
+    "epok": "vikingatid",
+    "tid": "ca 790–1100 e.Kr.",
+    "kallage": "senare",
+    "sakerhet": "trolig",
+    "konsensus": "samsyn",
+    "flaggor": [
+      "tidsavstand"
+    ]
+  },
+  {
+    "id": "hist-olof-skotkonung",
+    "typ": "historia",
+    "titel": "Olaf Skötkonung.",
+    "ingress": "Olaf Skötkonung volt Svédország egyik első, történetileg bizonyított királya, aki mind a Svealand, mind a Götaland tartományokat irányította. Ő volt az első király, aki keresztény hitre tért, és aki saját nevét viselő pénzérméket kezdett ha",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Olof_Skötkonung",
+    "taggar": [
+      "svensk-historia",
+      "vikingatid"
+    ],
+    "relevans": {
+      "varnpliktig": 3
+    },
+    "epok": "vikingatid",
+    "tid": "ca 980–1022 e.Kr.",
+    "kallage": "arkeologi",
+    "sakerhet": "trolig",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-ansgar",
+    "typ": "historia",
+    "titel": "Ansgar.",
+    "ingress": "Ansgar egy szerzetes és misszionárius volt, aki a 8. században utazott Svédországba, hogy elterjesse a kereszténységet. Gyakran \"Észak apostjaként\" emlegetik, mivel ő volt az egyik első jelentős személyiség, aki megpróbálta svéd állampolgár",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Ansgar",
+    "taggar": [
+      "svensk-historia",
+      "vikingatid"
+    ],
+    "relevans": {
+      "glesbygd": 3
+    },
+    "epok": "vikingatid",
+    "tid": "ca 801–865 e.Kr.",
+    "kallage": "senare",
+    "sakerhet": "omtvistat",
+    "konsensus": "delade",
+    "flaggor": [
+      "tidsavstand",
+      "saknad"
+    ]
+  },
+  {
+    "id": "hist-adam-av-bremen",
+    "typ": "historia",
+    "titel": "Adam von Bremen (kb. 980 – kb. 1075) volt egy német krónikás és püspök. Életét és munkásságát a következő pontok jellemzik:\n\n*   **Élete:** Adam von Bremen körülbelül 980-ban született, és valószínűleg 1075 körül halt meg. A pontos származása nem ismert, de valószínűleg német területről származott.\n*   **Püspöki karrierje:** 1043-ban Adamot nevezték ki Bremen püspökévé. Ez a pozíció jelentős politikai befolyással járt.\n*   **Fő műve: \"Historia Hironimianae\" (Jeromos élete):** Ez Adam von Bremen legfontosabb munkája, amely Jeromosnak, a korai keresztény teológusnak az életét és munkásságát mutatja be. A mű tartalmazza a \"Gesta Christophori\" című apokrifikus szöveget is, amely a Szent Kristóf legendáját meséli el.\n*   **Történelmi jelentősége:** Adam von Bremen krónikái fontos forrásként szolgálnak a korai középkori német történelemhez, különösen az északi területekhez. Munkái értékes betekintést nyújtanak a politikai, társadalmi és vallási életbe abban a korban.\n*   **További információk:** További részleteket Adam von Bremenről a következő forrásból szerezhet: [https://de.wikipedia.org/wiki/Adam_von_Bremen](https://de.wikipedia.org/wiki/Adam_von_Bremen)",
+    "ingress": "Adam von Bremen egy 10. századi történész volt, aki egy fontos könyvet írt a skandináv történelemről. Szövegei értékes források ahhoz, hogy megértsük, milyen volt az élet Svédországban, Dániában és Norvégiában ezer évvel ezelőtt.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Adam_av_Bremen",
+    "taggar": [
+      "svensk-historia",
+      "vikingatid"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "kvinna": 3
+    },
+    "epok": "vikingatid",
+    "tid": "ca 1075 e.Kr.",
+    "kallage": "senare",
+    "sakerhet": "omtvistat",
+    "konsensus": "delade",
+    "flaggor": [
+      "tidsavstand",
+      "logik"
+    ]
+  },
+  {
+    "id": "hist-erik-segersall",
+    "typ": "historia",
+    "titel": "Erik Segersäll",
+    "ingress": "Erik Segersäll volt az egyik első svéd király, akiről valamilyen információval rendelkezünk, és feltételezhető, hogy ő alapította Sigtuna városát. Ő uralkodott a 9. században, és híres arról, hogy fontos csatákat nyert.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Erik_Segersäll",
+    "taggar": [
+      "svensk-historia",
+      "vikingatid"
+    ],
+    "epok": "vikingatid",
+    "tid": "ca 945–995 e.Kr.",
+    "kallage": "senare",
+    "sakerhet": "omtvistat",
+    "konsensus": "delade",
+    "flaggor": [
+      "tidsavstand",
+      "saknad"
+    ]
+  },
+  {
+    "id": "hist-harald-hildetand",
+    "typ": "historia",
+    "titel": "Harald Hildetand.",
+    "ingress": "Harald Hildetand egy király, aki a régi északi legendákban szerepel, és állítólag hatalmas területeket irányított Észak- és Nyugat-Európában. Napjainkban azonban úgy tartják, hogy ő inkább egy mitikus alak, mintsem egy valós történelmi szem",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Harald_Hildetand",
+    "taggar": [
+      "svensk-historia",
+      "vikingatid"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "kultur": 3
+    },
+    "epok": "vikingatid",
+    "tid": "sägentid (700-tal?)",
+    "kallage": "legend",
+    "sakerhet": "legend",
+    "konsensus": "delade",
+    "flaggor": [
+      "saknad",
+      "tidsavstand",
+      "logik"
+    ]
+  },
+  {
+    "id": "hist-bravalla",
+    "typ": "historia",
+    "titel": "A Bråvallai csata.",
+    "ingress": "A Brávalla csata egy híres történet, amely a 7. században dúlt két király közötti nagy háborúról szól, de nem biztos, hogy a csata valóban megtörtént, vagy csak régi legendák része.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Bråvallaslaget",
+    "taggar": [
+      "svensk-historia",
+      "vikingatid"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "kultur": 3
+    },
+    "epok": "vikingatid",
+    "tid": "sägentid (ca 750?)",
+    "kallage": "legend",
+    "sakerhet": "spekulativt",
+    "konsensus": "omtvistat",
+    "flaggor": [
+      "saknad",
+      "omtvistat",
+      "logik"
+    ]
+  },
+  {
+    "id": "hist-ledung",
+    "typ": "historia",
+    "titel": "A \"Ledung\" kifejezés jelentése a szövegkörnyezet nélkül nem egyértelmű. Kérlek, add meg a teljes szöveget, hogy pontosan le tudjam fordítani és értelmezni.",
+    "ingress": "A ledung egy középkori rendszer volt, amelynek célja a hadsereg és a flottát megszervezni, hogy megvédje az országot ellenségektől és kalózoktól. Ez azt jelentette, hogy bizonyos területeken kötelező volt hajókat, katonákat és felszerelést",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Ledung",
+    "taggar": [
+      "svensk-historia",
+      "vikingatid"
+    ],
+    "relevans": {
+      "infrastruktur": 3,
+      "batagare": 3,
+      "varnpliktig": 3
+    },
+    "epok": "vikingatid",
+    "tid": "vikingatid–medeltid",
+    "kallage": "tolkning",
+    "sakerhet": "omtvistat",
+    "konsensus": "delade",
+    "flaggor": [
+      "saknad",
+      "omtvistat"
+    ]
+  },
+  {
+    "id": "hist-tralar",
+    "typ": "historia",
+    "titel": "Sajnálom, de nem tudom ezt lefordítani. Nem értem a szöveget. Kérlek, adj meg egy másik szöveget, amit le szeretnék fordítani.",
+    "ingress": "A træl volt egy olyan személy, aki a nordikus vaskorban és középkorban rabszolgaságban élt. Ezek az emberek különböző okokból kerülhettek rabszolgává: öröklés útján, büntetésként, vagy háborúk során elfogva.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Träl",
+    "taggar": [
+      "svensk-historia",
+      "vikingatid"
+    ],
+    "relevans": {
+      "b_transport": 3,
+      "infrastruktur": 3,
+      "barn": 3,
+      "glesbygd": 3,
+      "beroende": 3,
+      "lantagare": 3,
+      "batagare": 3
+    },
+    "epok": "vikingatid",
+    "tid": "järnålder–medeltid",
+    "kallage": "arkeologi",
+    "sakerhet": "trolig",
+    "konsensus": "samsyn",
+    "flaggor": [
+      "saknad"
+    ]
+  },
+  {
+    "id": "hist-stenaldern",
+    "typ": "historia",
+    "titel": "Az újkőkorszak.",
+    "ingress": "A kőkorszak az emberiség korai időszaka, amikor az emberek a túléléshez kőből készült eszközöket használtak. Mivel ebből a korszakból nincsenek írásos források, mindent arról, hogyan éltek, a földben talált tárgyak tanulmányozásán keresztül",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Stenåldern",
+    "taggar": [
+      "svensk-historia",
+      "stenalder"
+    ],
+    "relevans": {
+      "beroende": 3,
+      "klimat": 3
+    },
+    "epok": "stenalder",
+    "tid": "ca 10000–1700 f.Kr.",
+    "kallage": "arkeologi",
+    "sakerhet": "trolig",
+    "konsensus": "samsyn",
+    "flaggor": [
+      "saknad",
+      "tidsavstand"
+    ]
+  },
+  {
+    "id": "hist-bronsaldern",
+    "typ": "historia",
+    "titel": "Északi bronzkori kultúra.",
+    "ingress": "A következő szöveg arról szól, hogyan éltek az emberek Dél-Skandináviában és Észak-Németországban, valamint azt, hogy milyen módon használták a bronzot eszközök és ékszerek készítésére egy nagyon hosszú időszakon keresztül.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Nordisk_bronsålderskultur",
+    "taggar": [
+      "svensk-historia",
+      "bronsalder"
+    ],
+    "relevans": {
+      "klimat": 3
+    },
+    "epok": "bronsalder",
+    "tid": "ca 1700–500 f.Kr.",
+    "kallage": "arkeologi",
+    "sakerhet": "trolig",
+    "konsensus": "delade",
+    "flaggor": [
+      "saknad"
+    ]
+  },
+  {
+    "id": "hist-jarnaldern",
+    "typ": "historia",
+    "titel": "A vaskor időszak.",
+    "ingress": "A vaskor korszaka a történelem egy olyan időszaka, amikor az emberek kezdték el a bronz helyett vasat használni szerszámok és fegyverek készítésére. Ez a technológia lehetővé tette erősebb tárgyak előállítását, ami jelentősen megváltoztatta",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Järnåldern",
+    "taggar": [
+      "svensk-historia",
+      "jarnalder"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_grona": 3,
+      "beroende": 3,
+      "kultur": 3
+    },
+    "epok": "jarnalder",
+    "tid": "ca 500 f.Kr.–550 e.Kr.",
+    "kallage": "arkeologi",
+    "sakerhet": "trolig",
+    "konsensus": "samsyn",
+    "flaggor": [
+      "saknad",
+      "tidsavstand"
+    ]
+  },
+  {
+    "id": "hist-vendeltiden",
+    "typ": "historia",
+    "titel": "A Vendel-kor.",
+    "ingress": "A vendeltársaság kora Svédország történelmének egy időszaka volt az 550 és 800 közötti években, amely gazdagsággal, kereskedelemmel és lenyűgöző hajótemetővel jellemezhető.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Vendeltiden",
+    "taggar": [
+      "svensk-historia",
+      "vendeltid"
+    ],
+    "relevans": {
+      "batagare": 3,
+      "kultur": 3
+    },
+    "epok": "vendeltid",
+    "tid": "ca 550–750 e.Kr.",
+    "kallage": "arkeologi",
+    "sakerhet": "trolig",
+    "konsensus": "delade",
+    "flaggor": [
+      "saknad",
+      "tidsavstand"
+    ]
+  },
+  {
+    "id": "hist-medeltiden",
+    "typ": "historia",
+    "titel": "A középkor.",
+    "ingress": "A középkor Európa történetének egy hosszú időszaka, amely körülbelül a 476. évtől az 1500-ig tartott. Ez volt az az időszak, amikor a kereszténység terjedt el, a városok fejlődtek, és megalapozásra kerültek a mai Európa alapjai.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Medeltiden",
+    "taggar": [
+      "svensk-historia",
+      "medeltid"
+    ],
+    "relevans": {
+      "smaforetag": 3,
+      "b_grona": 3
+    },
+    "epok": "medeltid",
+    "tid": "ca 1050–1520",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-vasatiden",
+    "typ": "historia",
+    "titel": "A vaskor időszak.",
+    "ingress": "A Vasa-korona Svédország történelmének egy időszaka volt, amely 1523 és 1654 között tartott, amikor a Vasa család tagjai uralkodtak az országban. Ez alatt a korszak alatt a király hatalma jelentősen megnőtt, a templom átalakult, és számos r",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Vasatiden",
+    "taggar": [
+      "svensk-historia",
+      "vasatiden"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "kultur": 3
+    },
+    "epok": "vasatiden",
+    "tid": "1521–1611",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": [
+      "omtvistat"
+    ]
+  },
+  {
+    "id": "hist-stormaktstiden",
+    "typ": "historia",
+    "titel": "A nagyhatalmi korszak.",
+    "ingress": "A nagyhatalmi korszak Svédország történelmének egy időszaka, amikor az ország hadviselés és terjeszkedés révén egy jelentős hatalommá vált Európában. Ebben a korszakban a gazdaság jelentősen fejlődött, és Svédország átvette az uralmat a fon",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Stormaktstiden",
+    "taggar": [
+      "svensk-historia",
+      "stormaktstiden"
+    ],
+    "relevans": {
+      "husdjur": 3
+    },
+    "epok": "stormaktstiden",
+    "tid": "1611–1718",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-frihetstiden",
+    "typ": "historia",
+    "titel": "A szabadság kora.",
+    "ingress": "A felvilágosodás kora Svédország történelmének egy időszaka volt, amely 1719 és 1772 között tartott. Ez az időszak a király hatalmának jelentős csökkenésével és a parlament (riksdag) helyett való döntéshozatalával jellemezhető. Ebben az idő",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Frihetstiden",
+    "taggar": [
+      "svensk-historia",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "kultur": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "1718–1809",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-1800talet",
+    "typ": "historia",
+    "titel": "Karl XIV. János",
+    "ingress": "A következő szöveg Carl XIV. Johannostól szól, aki 1818-tól volt Svédország és Norvégia királya. A szöveg bemutatja az életét Franciaországban, mielőtt királlyá koronázták, ahol többek között katonaként szolgált, és gyorsan emelkedett a ran",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Karl_XIV_Johan",
+    "taggar": [
+      "svensk-historia",
+      "1800talet"
+    ],
+    "epok": "1800talet",
+    "tid": "1809–1900",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-1900talet",
+    "typ": "historia",
+    "titel": "A \"folkhemmet\" kifejezés egy svéd szakkifejérést jelent, melynek nincs közvetlen magyar megfelelője. A legközelebbi értelmezése a következő:\n\n*   **Értelmezés:** Egy olyan társadalom, amelyben az állam aktívan felelősséget vállal a lakosság jólétéért és biztonságáért, biztosítva a lehetőségeket mindenki számára a fejlődéshez és a boldog élethez. Ez magában foglalja a szolidaritást, az egyenlőséget és a közösségi értékeket.\n\n*   **Jellemzői:**\n    *   Állami támogatású egészségügy.\n    *   Oktatási rendszer mindenki számára elérhetővé téve.\n    *   Szociális biztonsági háló, amely védi a legkiszolgáltatóbbakat.\n    *   Erős munkavállalói jogok és szakszervezetek.\n    *   A társadalmi egyenlőségre törekvés.\n\n*   **Cél:** Egy olyan harmóniás és igazságos társadalom megteremtése, ahol mindenki hozzájárulhat a közös javakhoz, és élvezheti az élet alapvető előnyeit.",
+    "ingress": "A \"folkhemmet\" (népi otthon) a svéd jóléti állam szimbóluma, amely azt jelenti, hogy minden polgárnak egyenlő jogai legyenek, és azonos támogatást kapjon az államtól.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Folkhemmet",
+    "taggar": [
+      "svensk-historia",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_vard": 3,
+      "kultur": 3
+    },
+    "epok": "1900talet",
+    "tid": "1900–1999",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "delade",
+    "flaggor": [
+      "omtvistat"
+    ]
   }
 ]

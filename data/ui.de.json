@@ -340,5 +340,20 @@
     "frihetstiden": "Freiheitszeit",
     "1800talet": "19. Jahrhundert",
     "1900talet": "20. Jahrhundert"
+  },
+  "jamf": {
+    "rubrik": "Quellenvergleich",
+    "kallor": "Quellen",
+    "konfidens": "Konfidenz",
+    "samstammigt": "Worüber sich die Quellen einig sind",
+    "divergenser": "Wo sich die Quellen unterscheiden",
+    "enkalligt": "Nur eine Quelle",
+    "vinkel": "Blickwinkel je Quelle",
+    "partisk": "parteinah",
+    "konf_niv": {
+      "hög": "hoch",
+      "medel": "mittel",
+      "låg": "niedrig"
+    }
   }
 }

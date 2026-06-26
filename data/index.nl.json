@@ -17188,5 +17188,552 @@
       "kronisk": 8,
       "konsument": 5
     }
+  },
+  {
+    "id": "hist-vikingatiden",
+    "typ": "historia",
+    "titel": "De Vikingtijd\n\n*   Periode: ongeveer 800 tot 1066 na Christus.\n*   Geografisch gebied: Scandinavië, met invloed op gebieden rond de Noordzee en de Oostzee.\n*   Kenmerken:\n    *   Zeevaarders en ontdekkingsreizigers.\n    *   Handel en plunderingen.\n    *   Sterke krijgerscultuur.\n*   Belangrijke gebeurtenissen:\n    *   De aanval op Lindisfarne in 793.\n    *   De vestiging van Vikingen in Engeland (bijvoorbeeld York).\n    *   De ontdekking van Amerika door Leif Erikson rond het jaar 1000.\n*   Voor meer informatie: [www.example.com](www.example.com)",
+    "ingress": "De Vikingtijd is een periode in de geschiedenis van Scandinavië, die ruwweg loopt van ongeveer 790 tot 1050. Tijdens deze tijd vertrokken mensen uit Scandinavië om te handelen, oorlog te voeren en zich in andere landen te vestigen.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Vikingatiden",
+    "taggar": [
+      "svensk-historia",
+      "vikingatid"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "batagare": 3
+    },
+    "epok": "vikingatid",
+    "tid": "ca 750–1050 e.Kr.",
+    "kallage": "arkeologi",
+    "sakerhet": "trolig",
+    "konsensus": "samsyn",
+    "flaggor": [
+      "tidsavstand"
+    ]
+  },
+  {
+    "id": "hist-runstenar",
+    "typ": "historia",
+    "titel": "Runensteen.",
+    "ingress": "Runstenen zijn oude stenen met gegraveerde teksten die werden gebruikt om overleden familieleden te herdenken en om aan te geven wie iets belangrijks had gedaan. Ze helpen onderzoekers om inzicht te krijgen in hoe mensen leefden, welke name",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Runsten",
+    "taggar": [
+      "svensk-historia",
+      "vikingatid"
+    ],
+    "relevans": {
+      "kultur": 3
+    },
+    "epok": "vikingatid",
+    "tid": "ca 950–1100 e.Kr.",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-birka",
+    "typ": "historia",
+    "titel": "Birka\n\nBirka was een belangrijke handelsplaats in de Vikingtijd, gelegen op Björkö, een eiland in het Mälarenmeer, ten noorden van Stockholm. Het was een centrum voor handel en ambacht, waar goederen uit heel Europa werden verhandeld. Birka werd bewoond vanaf ongeveer 750 tot 1050 na Christus.\n\nHier zijn enkele belangrijke kenmerken van Birka:\n\n*   **Handelsplaats:** Birka was een belangrijk knooppunt voor de handel tussen Scandinavië, Oost-Europa en het Middellandse Zeegebied.\n*   **Ambachtscentrum:** Er waren veel ambachtslieden in Birka, die onder andere sieraden, wapens en keramiek produceerden.\n*   **Cultusplaats:** Birka was ook een belangrijke religieuze plaats voor de Vikingen. Er zijn overblijfselen van tempels en offerplaatsen gevonden.\n*   **Grafvelden:** Rondom Birka bevinden zich grote grafvelden, die veel informatie geven over het leven en de begrafenisrituelen van de Vikingen.\n\nVoor meer informatie kunt u terecht op de volgende website: [URL verwijderd]",
+    "ingress": "Birka was een zeer belangrijk handelscentrum tijdens de Vikingtijd en wordt beschouwd als de eerste stad van Zweden. Het lag op het eiland Björkö in het meer Mälaren en is tegenwoordig een UNESCO-werelderfgoedlocatie die beschermd wordt.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Birka",
+    "taggar": [
+      "svensk-historia",
+      "vikingatid"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "batagare": 3
+    },
+    "epok": "vikingatid",
+    "tid": "ca 750–975 e.Kr.",
+    "kallage": "arkeologi",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": [
+      "saknad"
+    ]
+  },
+  {
+    "id": "hist-vikingatag",
+    "typ": "historia",
+    "titel": "Vikkenstijdse reizen\n\n*   **Datum:** [Datum]\n*   **Plaats:** [Locatie]\n*   **Onderwerp:** Reizen tijdens de Vikingtijd.\n*   **Beschrijving:** Een overzicht van de verschillende soorten reizen die werden ondernomen in de Vikingtijd, inclusief handelsreizen, plundertochten en ontdekkingsreizen.\n*   **Meer informatie:** [URL]",
+    "ingress": "De Vikingenreizen hadden te maken met zowel handel, plunderingen als het vestigen van nederzettingen in nieuwe landen. Ze gebruikten hun schepen om uitgebreide handelsnetwerken op te bouwen die zich over de hele wereld uitstrekten.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Vikingatida_färder",
+    "taggar": [
+      "svensk-historia",
+      "vikingatid"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "arbetsratt": 3,
+      "glesbygd": 3,
+      "batagare": 3
+    },
+    "epok": "vikingatid",
+    "tid": "ca 790–1100 e.Kr.",
+    "kallage": "senare",
+    "sakerhet": "trolig",
+    "konsensus": "samsyn",
+    "flaggor": [
+      "tidsavstand"
+    ]
+  },
+  {
+    "id": "hist-olof-skotkonung",
+    "typ": "historia",
+    "titel": "Olof Skötkonung",
+    "ingress": "Olaf Skötkonung was een van de eerste Zweedse koningen waarvan de historische gegevens zeker zijn, en hij regeerde over zowel Svealand als Gotland. Hij was de eerste koning die zich tot het christendom bekeerde en begon munten met zijn naam",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Olof_Skötkonung",
+    "taggar": [
+      "svensk-historia",
+      "vikingatid"
+    ],
+    "relevans": {
+      "varnpliktig": 3
+    },
+    "epok": "vikingatid",
+    "tid": "ca 980–1022 e.Kr.",
+    "kallage": "arkeologi",
+    "sakerhet": "trolig",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-ansgar",
+    "typ": "historia",
+    "titel": "Ansgar",
+    "ingress": "Ansgar was een monnik en missionaris die in de 8e eeuw naar Zweden reisde om het christendom te verspreiden. Hij wordt vaak \"de apostel van het Noorden\" genoemd, omdat hij een van de eerste belangrijke figuren was die probeerde de Zweedse b",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Ansgar",
+    "taggar": [
+      "svensk-historia",
+      "vikingatid"
+    ],
+    "relevans": {
+      "glesbygd": 3
+    },
+    "epok": "vikingatid",
+    "tid": "ca 801–865 e.Kr.",
+    "kallage": "senare",
+    "sakerhet": "omtvistat",
+    "konsensus": "delade",
+    "flaggor": [
+      "tidsavstand",
+      "saknad"
+    ]
+  },
+  {
+    "id": "hist-adam-av-bremen",
+    "typ": "historia",
+    "titel": "Adam van Bremen.",
+    "ingress": "Adam van Bremen was een historicus uit de 11e eeuw die een belangrijk boek schreef over de geschiedenis van Scandinavië. Zijn teksten zijn belangrijke bronnen om te begrijpen hoe het leven er duizend jaar geleden uitzag in Zweden, Denemarke",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Adam_av_Bremen",
+    "taggar": [
+      "svensk-historia",
+      "vikingatid"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "kvinna": 3
+    },
+    "epok": "vikingatid",
+    "tid": "ca 1075 e.Kr.",
+    "kallage": "senare",
+    "sakerhet": "omtvistat",
+    "konsensus": "delade",
+    "flaggor": [
+      "tidsavstand",
+      "logik"
+    ]
+  },
+  {
+    "id": "hist-erik-segersall",
+    "typ": "historia",
+    "titel": "Erik Segersäll",
+    "ingress": "Erik Segersäll was een van de eerste Zweedse koningen waarvan we iets weten, en hij wordt vermoedelijk als de grondlegger van de stad Sigtuna. Hij regeerde in de 9e eeuw en staat bekend om het winnen van belangrijke veldslagen.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Erik_Segersäll",
+    "taggar": [
+      "svensk-historia",
+      "vikingatid"
+    ],
+    "epok": "vikingatid",
+    "tid": "ca 945–995 e.Kr.",
+    "kallage": "senare",
+    "sakerhet": "omtvistat",
+    "konsensus": "delade",
+    "flaggor": [
+      "tidsavstand",
+      "saknad"
+    ]
+  },
+  {
+    "id": "hist-harald-hildetand",
+    "typ": "historia",
+    "titel": "Harald Hildetand",
+    "ingress": "Harald Hildetand is een koning uit oude Noordse sagen, die naar verluidt over grote gebieden in Scandinavië en Duitsland heeft geregeerd. Tegenwoordig wordt hij echter beschouwd als een mythische figuur, eerder dan een echt historisch perso",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Harald_Hildetand",
+    "taggar": [
+      "svensk-historia",
+      "vikingatid"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "kultur": 3
+    },
+    "epok": "vikingatid",
+    "tid": "sägentid (700-tal?)",
+    "kallage": "legend",
+    "sakerhet": "legend",
+    "konsensus": "delade",
+    "flaggor": [
+      "saknad",
+      "tidsavstand",
+      "logik"
+    ]
+  },
+  {
+    "id": "hist-bravalla",
+    "typ": "historia",
+    "titel": "De Slag van Brávalla\n\n*   Een belangrijk gevecht in de Noorse geschiedenis.\n*   Vechten: Noorse troepen onder leiding van koning Olaf II Haraldsson tegen een samengestelde Viking-macht.\n*   Datum: 1036.\n*   Locatie: Brávalla, Noorwegen.\n*   Resultaat: Een overwinning voor de Noorse troepen, maar met zware verliezen. Koning Olaf II stierf in deze slag en werd later heilig verklaard.\n*   Meer informatie: [URL verwijderd]",
+    "ingress": "De Slag van Bråvalla is een beroemd verhaal over een groot gevecht tussen twee koningen in de 8e eeuw, maar het is onzeker of dit gevecht daadwerkelijk heeft plaatsgevonden, of dat het slechts voorkomt in oude legendes.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Bråvallaslaget",
+    "taggar": [
+      "svensk-historia",
+      "vikingatid"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "kultur": 3
+    },
+    "epok": "vikingatid",
+    "tid": "sägentid (ca 750?)",
+    "kallage": "legend",
+    "sakerhet": "spekulativt",
+    "konsensus": "omtvistat",
+    "flaggor": [
+      "saknad",
+      "omtvistat",
+      "logik"
+    ]
+  },
+  {
+    "id": "hist-ledung",
+    "typ": "historia",
+    "titel": "Leiding.",
+    "ingress": "De \"leding\" was een middeleeuws systeem om een militaire vloot en krijgsmacht te organiseren die het land kon verdedigen tegen vijanden en piraten. Dit betekende dat bepaalde regio's de plicht hadden om schepen, soldaten en uitrusting te le",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Ledung",
+    "taggar": [
+      "svensk-historia",
+      "vikingatid"
+    ],
+    "relevans": {
+      "infrastruktur": 3,
+      "batagare": 3,
+      "varnpliktig": 3
+    },
+    "epok": "vikingatid",
+    "tid": "vikingatid–medeltid",
+    "kallage": "tolkning",
+    "sakerhet": "omtvistat",
+    "konsensus": "delade",
+    "flaggor": [
+      "saknad",
+      "omtvistat"
+    ]
+  },
+  {
+    "id": "hist-tralar",
+    "typ": "historia",
+    "titel": "Hout.",
+    "ingress": "Een \"træl\" was een persoon die als slaaf leefde tijdens de ijzertijd en het middeleeuwen in Scandinavië. Deze mensen konden tot slaaf worden gemaakt door erfenis, als straf, of nadat ze waren gevangen genomen tijdens oorlogen.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Träl",
+    "taggar": [
+      "svensk-historia",
+      "vikingatid"
+    ],
+    "relevans": {
+      "b_transport": 3,
+      "infrastruktur": 3,
+      "barn": 3,
+      "glesbygd": 3,
+      "beroende": 3,
+      "lantagare": 3,
+      "batagare": 3
+    },
+    "epok": "vikingatid",
+    "tid": "järnålder–medeltid",
+    "kallage": "arkeologi",
+    "sakerhet": "trolig",
+    "konsensus": "samsyn",
+    "flaggor": [
+      "saknad"
+    ]
+  },
+  {
+    "id": "hist-stenaldern",
+    "typ": "historia",
+    "titel": "Het stenen tijdperk.",
+    "ingress": "Het stenen tijdperk is het vroege deel van de menselijke geschiedenis waarin mensen gereedschappen maakten van steen om te overleven. Omdat er geen schriftelijke bronnen uit die tijd bestaan, weten we alles over hoe ze leefden door het best",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Stenåldern",
+    "taggar": [
+      "svensk-historia",
+      "stenalder"
+    ],
+    "relevans": {
+      "beroende": 3,
+      "klimat": 3
+    },
+    "epok": "stenalder",
+    "tid": "ca 10000–1700 f.Kr.",
+    "kallage": "arkeologi",
+    "sakerhet": "trolig",
+    "konsensus": "samsyn",
+    "flaggor": [
+      "saknad",
+      "tidsavstand"
+    ]
+  },
+  {
+    "id": "hist-bronsaldern",
+    "typ": "historia",
+    "titel": "Noordse cultuur uit de bronstijd.",
+    "ingress": "De tekst beschrijft hoe mensen in Zuid-Scandinavië en Noord-Duitsland leefden en hoe ze brons gebruikten voor gereedschap en sieraden gedurende een lange periode in het verleden.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Nordisk_bronsålderskultur",
+    "taggar": [
+      "svensk-historia",
+      "bronsalder"
+    ],
+    "relevans": {
+      "klimat": 3
+    },
+    "epok": "bronsalder",
+    "tid": "ca 1700–500 f.Kr.",
+    "kallage": "arkeologi",
+    "sakerhet": "trolig",
+    "konsensus": "delade",
+    "flaggor": [
+      "saknad"
+    ]
+  },
+  {
+    "id": "hist-jarnaldern",
+    "typ": "historia",
+    "titel": "De IJzertijd.",
+    "ingress": "De IJzertijd is een periode in de geschiedenis waarin mensen begonnen met het gebruik van ijzer in plaats van brons voor de fabricage van gereedschap en wapens. Deze technologische ontwikkeling maakte het mogelijk om sterkere objecten te pr",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Järnåldern",
+    "taggar": [
+      "svensk-historia",
+      "jarnalder"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_grona": 3,
+      "beroende": 3,
+      "kultur": 3
+    },
+    "epok": "jarnalder",
+    "tid": "ca 500 f.Kr.–550 e.Kr.",
+    "kallage": "arkeologi",
+    "sakerhet": "trolig",
+    "konsensus": "samsyn",
+    "flaggor": [
+      "saknad",
+      "tidsavstand"
+    ]
+  },
+  {
+    "id": "hist-vendeltiden",
+    "typ": "historia",
+    "titel": "De Vendeltijd\n\n*   Periode: ongeveer 500-800 na Christus.\n*   Kenmerken:\n    *   Een periode van grote veranderingen en ontwikkelingen in Scandinavië.\n    *   Invloed van de Vikingen begint steeds meer merkbaar te worden.\n    *   Handel met andere culturen neemt toe.\n    *   De sociale structuur wordt complexer.\n*   Voorbeelden:\n    *   Rijke grafvondsten geven inzicht in de levensstijl en het geloof van mensen uit deze tijd.\n    *   De ontwikkeling van nieuwe wapens en technologieën.\n    *   De opkomst van machtige stamhoofden en krijgers.\n*   Meer informatie: [URL verwijderd]",
+    "ingress": "De Vendeltijd is een periode in de Zweedse geschiedenis tussen het jaar 550 en 800, die gekenmerkt wordt door rijkdom, handel en indrukwekkende scheepsgraven.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Vendeltiden",
+    "taggar": [
+      "svensk-historia",
+      "vendeltid"
+    ],
+    "relevans": {
+      "batagare": 3,
+      "kultur": 3
+    },
+    "epok": "vendeltid",
+    "tid": "ca 550–750 e.Kr.",
+    "kallage": "arkeologi",
+    "sakerhet": "trolig",
+    "konsensus": "delade",
+    "flaggor": [
+      "saknad",
+      "tidsavstand"
+    ]
+  },
+  {
+    "id": "hist-medeltiden",
+    "typ": "historia",
+    "titel": "De Middeleeuwen\n\nHieronder vindt u een overzicht van de belangrijkste aspecten van de middeleeuwen:\n\n*   **Periode:** De middeleeuwen omvatten de periode vanaf ongeveer het jaar 500 tot en met het jaar 1500.\n*   **Kenmerken:** Deze tijd wordt gekenmerkt door een agrarische economie, feodale maatschappijstructuren en de dominantie van de katholieke kerk.\n*   **Belangrijke gebeurtenissen:** Denk hierbij aan de kruistochten, de Zwarte Dood (een verwoestende pestepidemie) en de opkomst van steden en handel.\n*   **Cultuur:** De middeleeuwse cultuur was sterk religieus bepaald, maar er waren ook belangrijke ontwikkelingen in kunst, architectuur en wetenschap.\n*   **Voor meer informatie:** Bezoek bijvoorbeeld de website [www.middeleeuwen.nu](www.middeleeuwen.nu) voor een uitgebreider overzicht.",
+    "ingress": "De Middeleeuwen zijn een lange periode in de Europese geschiedenis die zich uitstrekt van ongeveer het jaar 476 tot 1500. Het was tijdens deze tijd dat het christendom zich verspreidde, steden ontstonden en de basis werd gelegd voor het Eur",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Medeltiden",
+    "taggar": [
+      "svensk-historia",
+      "medeltid"
+    ],
+    "relevans": {
+      "smaforetag": 3,
+      "b_grona": 3
+    },
+    "epok": "medeltid",
+    "tid": "ca 1050–1520",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-vasatiden",
+    "typ": "historia",
+    "titel": "De Vasatijd\n\n*   Periode: 1523-1560\n*   Kenmerken:\n    *   Centralisatie van de macht onder koning Gustaaf Vasa.\n    *   Reformatie en invoering van het protestantisme in Zweden.\n    *   Conflicten met Denemarken.\n*   Belangrijke gebeurtenissen:\n    *   1523: Gustaaf Vasa grijpt de macht en wordt koning.\n    *   1536: Het protestantisme wordt officieel erkend in Zweden.\n    *   1540: De eerste Zweedse wetboek, \"Gustaf Vasa's lag\", wordt uitgegeven.\n*   Website: [URL verwijderd]",
+    "ingress": "De Vasa-tijd is een periode in de Zweedse geschiedenis tussen 1523 en 1654, waarin koningen uit de Vasa-familie over het land heersten. Tijdens deze tijd werd de macht van de koning aanzienlijk vergroot, de kerk onderging veranderingen en v",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Vasatiden",
+    "taggar": [
+      "svensk-historia",
+      "vasatiden"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "kultur": 3
+    },
+    "epok": "vasatiden",
+    "tid": "1521–1611",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": [
+      "omtvistat"
+    ]
+  },
+  {
+    "id": "hist-stormaktstiden",
+    "typ": "historia",
+    "titel": "De periode van de grootmachten.",
+    "ingress": "De periode van de Zweedse grootmacht is een tijdperk in de geschiedenis van Zweden waarin het land een machtige staat werd in Europa, door middel van oorlogen en veroveringen. Tijdens deze periode groeide de economie aanzienlijk en nam Zwed",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Stormaktstiden",
+    "taggar": [
+      "svensk-historia",
+      "stormaktstiden"
+    ],
+    "relevans": {
+      "husdjur": 3
+    },
+    "epok": "stormaktstiden",
+    "tid": "1611–1718",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-frihetstiden",
+    "typ": "historia",
+    "titel": "De Vrijheidstijd\n\n*   Periode: [Houdt hier de oorspronkelijke periode in het Zweeds aan, bijvoorbeeld \"1718-1772\"]\n*   Kenmerken: [Houdt hier de oorspronkelijke kenmerken in het Zweeds aan, bijvoorbeeld \"Een tijdperk van verlichting en culturele bloei.\"]\n*   Belangrijke figuren: [Houdt hier de oorspronkelijke namen in het Zweeds aan, bijvoorbeeld \"Gustaf III, Carl von Linné\"]\n*   Evenementen: [Houdt hier de oorspronkelijke evenementen in het Zweeds aan, bijvoorbeeld \"De staatsgreep van 1772.\"]\n*   Meer informatie: [Houdt hier de oorspronkelijke URL in het Zweeds aan, bijvoorbeeld \"www.example.com\"]",
+    "ingress": "De Vrijheidstijd is een periode in de Zweedse geschiedenis tussen 1719 en 1772, waarin de macht van de koning aanzienlijk afnam en de rijksdag de beslissende rol kreeg. Tijdens deze tijd werden belangrijke vooruitgang geboekt op het gebied",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Frihetstiden",
+    "taggar": [
+      "svensk-historia",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "kultur": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "1718–1809",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-1800talet",
+    "typ": "historia",
+    "titel": "Karl XIV Johan",
+    "ingress": "De tekst beschrijft Karel XIV Johan, die van 1818 tot aan zijn overlijden koning was van Zweden en Noorwegen. Het geeft een beeld van zijn leven in Frankrijk voordat hij koning werd, waar hij onder andere als soldaat dienst deed en snel in",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Karl_XIV_Johan",
+    "taggar": [
+      "svensk-historia",
+      "1800talet"
+    ],
+    "epok": "1800talet",
+    "tid": "1809–1900",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-1900talet",
+    "typ": "historia",
+    "titel": "Het Folkhemmet\n\n(Geen verdere context beschikbaar om een volledige vertaling te geven. \"Folkhemmet\" is waarschijnlijk de naam van een organisatie, gebouw of concept.)",
+    "ingress": "Het \"folkhem\" is een symbool van het Zweedse verzorgingsstaatssysteem, waarin alle burgers gelijke rechten moeten hebben en dezelfde steun van de staat ontvangen.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Folkhemmet",
+    "taggar": [
+      "svensk-historia",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_vard": 3,
+      "kultur": 3
+    },
+    "epok": "1900talet",
+    "tid": "1900–1999",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "delade",
+    "flaggor": [
+      "omtvistat"
+    ]
   }
 ]

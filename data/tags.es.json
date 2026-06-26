@@ -1733,5 +1733,65 @@
     "etikett": "Servicio Nacional de Empleo (o Agencia Pública de Empleo).",
     "typ": "organisation",
     "antal": 3
+  },
+  "svensk-historia": {
+    "etikett": "Historia sueca:\n\n*   [Nombre propio]\n*   [Número]\n*   [Fecha]\n*   [URL]",
+    "typ": "ämne",
+    "antal": 22
+  },
+  "vikingatid": {
+    "etikett": "La era vikinga.",
+    "typ": "epok",
+    "antal": 12
+  },
+  "stenalder": {
+    "etikett": "La Edad de Piedra.",
+    "typ": "epok",
+    "antal": 1
+  },
+  "bronsalder": {
+    "etikett": "La Edad de Bronce.",
+    "typ": "epok",
+    "antal": 1
+  },
+  "jarnalder": {
+    "etikett": "La Edad del Hierro.",
+    "typ": "epok",
+    "antal": 1
+  },
+  "vendeltid": {
+    "etikett": "La época de Vendel.",
+    "typ": "epok",
+    "antal": 1
+  },
+  "medeltid": {
+    "etikett": "La Edad Media\n\n*   **Características generales:**\n    *   Un período de la historia europea que abarca desde la caída del Imperio Romano de Occidente (476 d.C.) hasta el Renacimiento (siglo XV).\n    *   Marcada por la influencia dominante de la Iglesia Católica y un sistema social feudal.\n\n*   **Aspectos clave:**\n    *   **Política:** Fragmentación política, con numerosos reinos y señoríos.\n    *   **Economía:** Agricultura como base económica principal, con un comercio limitado.\n    *   **Sociedad:** Estructura jerárquica dividida en estamentos (nobleza, clero y campesinado).\n    *   **Cultura:** Desarrollo de la filosofía escolástica, el arte románico y gótico, y la literatura épica.\n\n*   **Subdivisiones:**\n    *   Alta Edad Media (siglos V-X)\n    *   Baja Edad Media (siglos XI-XV)\n\n*   **Ejemplos:**\n    *   Construcción de catedrales como Notre Dame en París.\n    *   Desarrollo de universidades como la de Bolonia.\n    *   Las Cruzadas (siglos XI-XIII).\n\n*   **Para más información:**\n    *   Visite el sitio web: www.ejemplo.com/edadmedia",
+    "typ": "epok",
+    "antal": 1
+  },
+  "vasatiden": {
+    "etikett": "La era de Vasatiden.",
+    "typ": "epok",
+    "antal": 1
+  },
+  "stormaktstiden": {
+    "etikett": "La época de las grandes potencias.",
+    "typ": "epok",
+    "antal": 1
+  },
+  "frihetstiden": {
+    "etikett": "La época de la libertad.",
+    "typ": "epok",
+    "antal": 1
+  },
+  "1800talet": {
+    "etikett": "Siglo XIX.",
+    "typ": "epok",
+    "antal": 1
+  },
+  "1900talet": {
+    "etikett": "Siglo XX.",
+    "typ": "epok",
+    "antal": 1
   }
 }

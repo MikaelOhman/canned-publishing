@@ -340,5 +340,20 @@
     "frihetstiden": "Szabadság kora",
     "1800talet": "19. század",
     "1900talet": "20. század"
+  },
+  "jamf": {
+    "rubrik": "Forrásösszehasonlítás",
+    "kallor": "forrás",
+    "konfidens": "Megbízhatóság",
+    "samstammigt": "Miben értenek egyet",
+    "divergenser": "Miben térnek el",
+    "enkalligt": "Csak egy forrás",
+    "vinkel": "Nézőpont forrásonként",
+    "partisk": "pártkötődésű",
+    "konf_niv": {
+      "hög": "magas",
+      "medel": "közepes",
+      "låg": "alacsony"
+    }
   }
 }

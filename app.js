@@ -35,6 +35,7 @@ const UIDEF = {sub:"Multilingual news",search_label:"Search",search_ph:"Type a w
     konsensus:{label:"Scholarly view",samsyn:"Consensus",delade:"Divided",foraldrad:"Outdated view"},
     flagg:{saknad:"Missing piece",omtvistat:"Disputed",logik:"Logical oddity",tidsavstand:"Source long after the event"}},
   epoknamn:{stenalder:"Stone Age",bronsalder:"Bronze Age",jarnalder:"Iron Age",vendeltid:"Vendel Period",vikingatid:"Viking Age",medeltid:"Middle Ages",vasatiden:"Vasa era",stormaktstiden:"Swedish Empire",frihetstiden:"Age of Liberty","1800talet":"19th century","1900talet":"20th century"},
+  jamf:{rubrik:"Source comparison",kallor:"sources",konfidens:"confidence",samstammigt:"What sources agree on",divergenser:"Where sources differ",enkalligt:"Only one source",vinkel:"Each source's angle",partisk:"party-affiliated",konf_niv:{"hög":"high","medel":"medium","låg":"low"}},
   kalla:"Source",original:"Read the original at",count:"results",none:"No matches.",clear:"Clear",back:"← Back",
   tldr_label:"TL;DR",lattlast_label:"In plain language",fulltext_label:"Full text",loadmore:"Load more",
   lagernamn:{privat:"Private individual",foretag:"Business"},
@@ -408,10 +409,10 @@ function relMark(a){
   const niv=[sitT().low,sitT().mid,sitT().high][lvl-1]||'';
   return `<span class="rel rel${lvl}" title="${esc(sitT().affects)}: ${esc(niv)}">${'●'.repeat(lvl)}${'○'.repeat(3-lvl)}</span>`;
 }
-/* Trovärdighetsmodell för historia: källäge/säkerhet/konsensus-badges + flaggor.
+/* Trovärdighets-badges (historia + triangulerade nyheter): säkerhet + ev. källäge/konsensus + flaggor.
    full=true på detaljsidan (med etiketter), false = kompakt rad på kortet. */
 function renderTrov(a, full){
-  if(a.typ!=='historia' || !a.sakerhet) return '';
+  if(!a.sakerhet) return '';
   const t=ui().trov||{};
   const lbl=(grp,k)=>((t[grp]||{})[k]||k);
   const sak=`<span class="trov-sak sak-${esc(a.sakerhet)}">${esc(lbl('sakerhet',a.sakerhet))}</span>`;
@@ -421,6 +422,32 @@ function renderTrov(a, full){
   const kl=a.kallage?`<span class="trov-meta">${esc((t.kallage||{}).label||'')}: <b>${esc(lbl('kallage',a.kallage))}</b></span>`:'';
   const ko=a.konsensus?`<span class="trov-meta">${esc((t.konsensus||{}).label||'')}: <b>${esc(lbl('konsensus',a.konsensus))}</b></span>`:'';
   return `<div class="trov">${sak}${kl}${ko}${flaggor?`<div class="trov-flaggor">${flaggor}</div>`:''}</div>`;
+}
+/* Vinkel-klass för lutnings-färg (parsar lutningstexten). */
+function leanKlass(txt){ txt=(txt||'').toLowerCase();
+  if(txt.includes('vänster')) return txt.includes('center')?'l-cv':'l-v';
+  if(txt.includes('höger')||txt.includes('näringsliv')) return txt.includes('center')?'l-ch':'l-h';
+  return 'l-m'; }
+/* Källjämförelse-panel: triangulering över flera källor (vinkel + samsyn/divergens). */
+function renderJamforelse(a){
+  const t=a.triangulering; if(!t) return '';
+  const j=ui().jamf||{};
+  const chips=(t.kallor||[]).map(k=>`<span class="jamf-kalla ${leanKlass(k.lutning)}">`+
+    `${k.url?`<a href="${esc(k.url)}" target="_blank" rel="noopener">${esc(k.kalla)}</a>`:esc(k.kalla)}`+
+    `${k.lutning?`<small>${esc(k.lutning)}</small>`:''}${k.partisk?' <span class="jamf-partisk" title="'+esc(j.partisk||'partisk')+'">◆</span>':''}</span>`).join('');
+  const block=(arr,lbl,kl)=>(arr&&arr.length)?`<div class="jamf-block ${kl||''}"><h4>${esc(lbl)}</h4><ul>${arr.map(x=>`<li>${esc(x)}</li>`).join('')}</ul></div>`:'';
+  const vinklar=(t.vinkel_per_kalla&&Object.keys(t.vinkel_per_kalla).length)
+    ?`<div class="jamf-block"><h4>${esc(j.vinkel||'')}</h4>${Object.entries(t.vinkel_per_kalla).map(([k,v])=>`<p class="jamf-v"><b>${esc(k)}:</b> ${esc(v)}</p>`).join('')}</div>`:'';
+  const konf=t.konfidens?`<span class="jamf-konf k-${esc(t.konfidens)}">${esc((j.konf_niv||{})[t.konfidens]||t.konfidens)}</span>`:'';
+  return `<div class="jamf">
+    <div class="jamf-h">⚖ ${esc(j.rubrik||'Källjämförelse')} · ${(t.kallor||[]).length} ${esc(j.kallor||'källor')}${konf?` · ${esc(j.konfidens||'')} ${konf}`:''}</div>
+    <div class="jamf-kallor">${chips}</div>
+    ${block(t.samstammigt, j.samstammigt||'', 'ok')}
+    ${block(t.divergenser, j.divergenser||'', '')}
+    ${block(t.enkalligt, j.enkalligt||'', 'warn')}
+    ${vinklar}
+    ${t.bedomning?`<div class="jamf-bedomning">${esc(t.bedomning)}</div>`:''}
+  </div>`;
 }
 function renderList(){
   const u=ui();
@@ -437,7 +464,7 @@ function renderList(){
   const vis=items.slice(0, state.visa);
   $('#list').innerHTML=(items.length ? vis.map(a=>{
     return `<button class="card ${KORT_KLASS[a.typ]||''}" data-id="${esc(a.id)}">
-      <span class="toprow"><span class="badge-typ ${BADGE_KLASS[a.typ]||''}">${esc((u.typebadge[a.typ]||u.typebadge.nyhet))}</span>${a.typ==='historia'?renderTrov(a,false):relMark(a)}<span class="date">${a.typ==='historia'?esc([(u.epoknamn||{})[a.epok],a.tid].filter(Boolean).join(' · ')):esc(a.datum||'')}</span></span>
+      <span class="toprow"><span class="badge-typ ${BADGE_KLASS[a.typ]||''}">${esc((u.typebadge[a.typ]||u.typebadge.nyhet))}</span>${a.tri?'<span class="badge-tri" title="⚖">⚖</span>':''}${a.typ==='historia'?renderTrov(a,false):relMark(a)}<span class="date">${a.typ==='historia'?esc([(u.epoknamn||{})[a.epok],a.tid].filter(Boolean).join(' · ')):esc(a.datum||'')}</span></span>
       <h2>${esc(a.titel)}</h2>
       <p>${esc(a.ingress||'')}</p>
       ${a.kalla?`<span class="src">${esc(u.kalla)}: <b>${esc(a.kalla)}</b></span>`:''}
@@ -502,7 +529,7 @@ async function openArticle(id){
     <div class="source"><span class="lbl">${esc(u.kalla)}</span> <b>${esc(a.kalla||'—')}</b>
       ${a.kalla_url?`<a href="${esc(a.kalla_url)}" target="_blank" rel="noopener">${esc(u.original)} ${esc(a.kalla||'')} →</a>`:''}
       <span style="font-size:.78rem;color:var(--txt3);flex-basis:100%">${esc(a.typ==='historia'?(a.tid||''):(a.datum||''))}</span></div>
-    ${tldr}${latt}${full}
+    ${renderJamforelse(a)}${tldr}${latt}${full}
     ${a.kalla_url?`<div class="source-foot">${esc(u.original)} <a href="${esc(a.kalla_url)}" target="_blank" rel="noopener">${esc(a.kalla||a.kalla_url)}</a>.</div>`:''}`;
   el.querySelector('.back').addEventListener('click',()=>{ location.hash=''; });
   LISTVY.forEach(s=>$(s).classList.add('hidden')); $('#about').classList.add('hidden'); closeDrawer();

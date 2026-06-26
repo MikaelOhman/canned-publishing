@@ -340,5 +340,20 @@
     "frihetstiden": "Vrijheidstijd",
     "1800talet": "19e eeuw",
     "1900talet": "20e eeuw"
+  },
+  "jamf": {
+    "rubrik": "Bronvergelijking",
+    "kallor": "bronnen",
+    "konfidens": "Vertrouwen",
+    "samstammigt": "Waar bronnen het eens zijn",
+    "divergenser": "Waar bronnen verschillen",
+    "enkalligt": "Slechts één bron",
+    "vinkel": "Invalshoek per bron",
+    "partisk": "partijgebonden",
+    "konf_niv": {
+      "hög": "hoog",
+      "medel": "middel",
+      "låg": "laag"
+    }
   }
 }

@@ -340,5 +340,20 @@
     "frihetstiden": "Vapauden aika",
     "1800talet": "1800-luku",
     "1900talet": "1900-luku"
+  },
+  "jamf": {
+    "rubrik": "Lähteiden vertailu",
+    "kallor": "lähdettä",
+    "konfidens": "Luottamus",
+    "samstammigt": "Mistä lähteet ovat samaa mieltä",
+    "divergenser": "Missä lähteet eroavat",
+    "enkalligt": "Vain yksi lähde",
+    "vinkel": "Kunkin lähteen näkökulma",
+    "partisk": "puoluesidonnainen",
+    "konf_niv": {
+      "hög": "korkea",
+      "medel": "keskitaso",
+      "låg": "matala"
+    }
   }
 }

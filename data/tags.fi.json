@@ -18,5 +18,65 @@
     "etikett": "Työ- ja elinkeinotoimisto.",
     "typ": "organisation",
     "antal": 3
+  },
+  "svensk-historia": {
+    "etikett": "Ruotsin historia:\n\n*   **Aikajana:**\n    *   [Päivämäärä] - [Tapahtuma]\n    *   [Päivämäärä] - [Tapahtuma]\n    *   [Päivämäärä] - [Tapahtuma]\n\n*   **Keskeiset henkilöt:**\n    *   [Nimi]: [Lyhyt kuvaus]\n    *   [Nimi]: [Lyhyt kuvaus]\n    *   [Nimi]: [Lyhyt kuvaus]\n\n*   **Tärkeitä paikkoja:**\n    *   [Paikan nimi]: [Lyhyt kuvaus]\n    *   [Paikan nimi]: [Lyhyt kuvaus]\n    *   [Paikan nimi]: [Lyhyt kuvaus]\n\n*   **Lisätietoja:**\n    *   Verkkosivusto: [URL]",
+    "typ": "ämne",
+    "antal": 22
+  },
+  "vikingatid": {
+    "etikett": "Viikinkiaika\n\n*   Aikakausi: Noin 800-1066 jaa.\n*   Alue: Pohjois-Eurooppa, erityisesti Skandinavia.\n*   Merkittäviä tapahtumia: Laajentuminen, kaupankäynti, ryöstöt, kulttuurivaihto.\n*   Tärkeitä paikkoja: Kaupungit kuten Birka (Ruotsissa), Hedeby (Tanskassa) ja Dublin (Irlannissa).\n*   Lisätietoja: [URL ei annettu]",
+    "typ": "epok",
+    "antal": 12
+  },
+  "stenalder": {
+    "etikett": "Varhaisvaihe:\n\n*   Keraaminen kausi (n. 8000–5000 eaa.)\n*   Kiinalainen pronssikausi (n. 2000–1500 eaa.)\n\nMyöhäisempi vaihe:\n\n*   Varhainen rautakausi (n. 1500–500 eaa.)\n*   Myöhäinen rautakausi (n. 500 eaa. – 0 jKr.)\n\nLisätietoja: [URL]",
+    "typ": "epok",
+    "antal": 1
+  },
+  "bronsalder": {
+    "etikett": "Pronssikausi.",
+    "typ": "epok",
+    "antal": 1
+  },
+  "jarnalder": {
+    "etikett": "Pronssikausi.",
+    "typ": "epok",
+    "antal": 1
+  },
+  "vendeltid": {
+    "etikett": "Vendeltid\n\n*   Aikakausi: Noin 500-800 jaa.\n*   Ominaisuudet: Merkittäviä muutoksia yhteiskunnassa, kulttuurissa ja teknologiassa.\n*   Esimerkkejä:\n    *   Pronssi- ja rautatyökalujen käyttö yleistyi.\n    *   Kaupankäynti lisääntyi.\n    *   Uusia uskomusmuotoja syntyi.\n*   Lisätietoja: [URL]",
+    "typ": "epok",
+    "antal": 1
+  },
+  "medeltid": {
+    "etikett": "Keskiaika\n\n*   Aikakausi: Noin vuodet 476–1492.\n*   Tärkeimmät tapahtumat:\n    *   Länsi-Rooman valtakunnan kaatuminen.\n    *   Feodalismia.\n    *   Kristinuskon vaikutuksen kasvu.\n    *   Kaupunginvaltiot ja kaupankäynnin kehitys.\n*   Lisätietoja: [www.example.com](www.example.com)",
+    "typ": "epok",
+    "antal": 1
+  },
+  "vasatiden": {
+    "etikett": "Pronssikausi",
+    "typ": "epok",
+    "antal": 1
+  },
+  "stormaktstiden": {
+    "etikett": "Suurvaltojen aika\n\n*   Aikakausi: 1600-luvulta 1700-luvulle\n*   Keskeiset tapahtumat:\n    *   Suomen sodat (1808–1809)\n    *   Pohjoisen sodan vaikutukset\n    *   Ruotsin vallan vahvistuminen ja heikkeneminen\n*   Merkittäviä henkilöitä:\n    *   Kustaa Vaasa\n    *   Kaarle XII\n*   Lisätietoja: [www.example.com](www.example.com)",
+    "typ": "epok",
+    "antal": 1
+  },
+  "frihetstiden": {
+    "etikett": "Vapauden aika.",
+    "typ": "epok",
+    "antal": 1
+  },
+  "1800talet": {
+    "etikett": "1800-luku.",
+    "typ": "epok",
+    "antal": 1
+  },
+  "1900talet": {
+    "etikett": "1900-luku:\n\n*   [Sisältö tässä]",
+    "typ": "epok",
+    "antal": 1
   }
 }

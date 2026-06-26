@@ -340,5 +340,20 @@
     "frihetstiden": "Age of Liberty",
     "1800talet": "19th century",
     "1900talet": "20th century"
+  },
+  "jamf": {
+    "rubrik": "Source comparison",
+    "kallor": "sources",
+    "konfidens": "Confidence",
+    "samstammigt": "What sources agree on",
+    "divergenser": "Where sources differ",
+    "enkalligt": "Only one source",
+    "vinkel": "Each source's angle",
+    "partisk": "party-affiliated",
+    "konf_niv": {
+      "hög": "high",
+      "medel": "medium",
+      "låg": "low"
+    }
   }
 }

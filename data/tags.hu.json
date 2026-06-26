@@ -1733,5 +1733,65 @@
     "etikett": "A svéd Munkaügyi Központ (Arbetsförmedlingen).",
     "typ": "organisation",
     "antal": 3
+  },
+  "svensk-historia": {
+    "etikett": "Svéd történelem:\n\n*   [Lista vagy bekezdés a svéd törtélemmel kapcsolatban]",
+    "typ": "ämne",
+    "antal": 22
+  },
+  "vikingatid": {
+    "etikett": "A vikingkor.",
+    "typ": "epok",
+    "antal": 12
+  },
+  "stenalder": {
+    "etikett": "Az újkőkorszak.",
+    "typ": "epok",
+    "antal": 1
+  },
+  "bronsalder": {
+    "etikett": "Az ólmos kor.",
+    "typ": "epok",
+    "antal": 1
+  },
+  "jarnalder": {
+    "etikett": "A vaskor időszak.",
+    "typ": "epok",
+    "antal": 1
+  },
+  "vendeltid": {
+    "etikett": "A Vendel-kor.",
+    "typ": "epok",
+    "antal": 1
+  },
+  "medeltid": {
+    "etikett": "A középkor.",
+    "typ": "epok",
+    "antal": 1
+  },
+  "vasatiden": {
+    "etikett": "A vaskor időszak.",
+    "typ": "epok",
+    "antal": 1
+  },
+  "stormaktstiden": {
+    "etikett": "A nagyhatalmi korszak.",
+    "typ": "epok",
+    "antal": 1
+  },
+  "frihetstiden": {
+    "etikett": "A szabadság kora.",
+    "typ": "epok",
+    "antal": 1
+  },
+  "1800talet": {
+    "etikett": "A 19. század.",
+    "typ": "epok",
+    "antal": 1
+  },
+  "1900talet": {
+    "etikett": "A 20. század.",
+    "typ": "epok",
+    "antal": 1
   }
 }

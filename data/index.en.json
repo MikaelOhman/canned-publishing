@@ -17300,5 +17300,552 @@
       "kronisk": 8,
       "konsument": 5
     }
+  },
+  {
+    "id": "hist-vikingatiden",
+    "typ": "historia",
+    "titel": "The Viking Age\n\n*   A period in Scandinavian history characterized by Norse seafarers who raided, traded, explored, and settled across vast areas of Europe and beyond.\n*   Roughly spanning from the late 8th century to the mid-11th century (approximately 793 AD to 1066 AD).\n*   Notable for its impact on European politics, trade routes, and cultural exchange.\n*   Examples of Viking activities include:\n    *   Raiding coastal settlements in England and France.\n    *   Establishing trading posts along rivers like the Volga and Dnieper.\n    *   Exploring and settling Iceland, Greenland, and parts of North America.\n*   The end of the Viking Age is often marked by events such as the Norman conquest of England in 1066.",
+    "ingress": "The Viking Age is a period in the history of Northern Europe, roughly spanning from the year 790 to 1050, during which people from Scandinavia traveled abroad for trade, warfare, and settlement in other countries.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Vikingatiden",
+    "taggar": [
+      "svensk-historia",
+      "vikingatid"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "batagare": 3
+    },
+    "epok": "vikingatid",
+    "tid": "ca 750–1050 e.Kr.",
+    "kallage": "arkeologi",
+    "sakerhet": "trolig",
+    "konsensus": "samsyn",
+    "flaggor": [
+      "tidsavstand"
+    ]
+  },
+  {
+    "id": "hist-runstenar",
+    "typ": "historia",
+    "titel": "Runestone.",
+    "ingress": "Runestones are ancient stones with inscribed texts that were used to commemorate deceased relatives and to display who had accomplished something significant. They help researchers understand how people lived during the Viking Age, what nam",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Runsten",
+    "taggar": [
+      "svensk-historia",
+      "vikingatid"
+    ],
+    "relevans": {
+      "kultur": 3
+    },
+    "epok": "vikingatid",
+    "tid": "ca 950–1100 e.Kr.",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-birka",
+    "typ": "historia",
+    "titel": "Birka\n\n*   A historical site in Sweden.\n*   Located on Björkö island in Lake Mälaren.\n*   An important trading center during the Viking Age (c. 750-975 AD).\n*   Evidence of extensive trade with other parts of Europe and beyond.\n*   Archaeological finds include jewelry, coins, weapons, and everyday objects.\n*   The site offers insights into Viking society, economy, and culture.\n*   Today, Birka is a popular tourist destination and a UNESCO World Heritage Site.\n*   More information can be found at: [URL - Assuming there was one in the original Swedish text]",
+    "ingress": "Birka was a very important trading center during the Viking Age and is considered Sweden's first city. It was located on the island of Björkö in Lake Mälaren, and today it is a UNESCO World Heritage site, protected by UNESCO.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Birka",
+    "taggar": [
+      "svensk-historia",
+      "vikingatid"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "batagare": 3
+    },
+    "epok": "vikingatid",
+    "tid": "ca 750–975 e.Kr.",
+    "kallage": "arkeologi",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": [
+      "saknad"
+    ]
+  },
+  {
+    "id": "hist-vikingatag",
+    "typ": "historia",
+    "titel": "Viking-era voyages:\n\n*   [List of specific voyages or topics related to Viking voyages would go here]",
+    "ingress": "The Vikings' voyages involved trade, raiding, and settling in new lands. They used their ships to create extensive trading networks that spanned the globe.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Vikingatida_färder",
+    "taggar": [
+      "svensk-historia",
+      "vikingatid"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "arbetsratt": 3,
+      "glesbygd": 3,
+      "batagare": 3
+    },
+    "epok": "vikingatid",
+    "tid": "ca 790–1100 e.Kr.",
+    "kallage": "senare",
+    "sakerhet": "trolig",
+    "konsensus": "samsyn",
+    "flaggor": [
+      "tidsavstand"
+    ]
+  },
+  {
+    "id": "hist-olof-skotkonung",
+    "typ": "historia",
+    "titel": "Olaf Skötkonung",
+    "ingress": "Olaf Skötkonung was one of Sweden's earliest kings whose existence is historically confirmed. He ruled over both Svealand and Götaland. He was the first king to convert to Christianity and began using coins bearing his name.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Olof_Skötkonung",
+    "taggar": [
+      "svensk-historia",
+      "vikingatid"
+    ],
+    "relevans": {
+      "varnpliktig": 3
+    },
+    "epok": "vikingatid",
+    "tid": "ca 980–1022 e.Kr.",
+    "kallage": "arkeologi",
+    "sakerhet": "trolig",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-ansgar",
+    "typ": "historia",
+    "titel": "Ansgar\n\n*   **Description:** Ansgar is a male given name of Scandinavian origin. It is derived from the Old Norse word \"ansr,\" which means \"god\" or \"divine.\"\n*   **Origin:** The name Ansgar was first used in Sweden during the Viking Age. It became popular among Swedish royalty and nobility in the 10th century.\n*   **Meaning:** The meaning of the name Ansgar is \"god\" or \"divine.\"\n*   **Popularity:** Ansgar is a relatively uncommon name in modern times, but it has seen a resurgence in popularity in recent years.\n*   **Famous people named Ansgar:**\n    *   Ansgar (c. 800-860), missionary to Scandinavia\n    *   Ansgar Karlsson (born 1947), Swedish politician\n    *   Ansgar Völkel (born 1953), German film composer\n*   **Related names:**\n    *   Ansgard\n    *   Ansgarus\n*   **Variations:**\n    *   Ansgar (Swedish)\n    *   Ansgard (German)\n    *   Ansgarus (Latin)\n*   **Pronunciation:** /ˈænsɡɑːr/ (Swedish)\n*   **Etymology:** From the Old Norse word \"ansr,\" meaning \"god\" or \"divine.\"\n*   **Usage:** The name Ansgar is primarily used in Scandinavian countries. It is also found in Germany and other European countries.\n*   **Cultural significance:** The name Ansgar has a strong cultural significance in Scandinavia, particularly in Sweden. It is associated with the missionary Ansgar, who played an important role in the spread of Christianity to Scandinavia.\n*   **Popularity trends:** The popularity of the name Ansgar has fluctuated over time. It was most popular in the 10th century, but it declined in popularity during the Middle Ages. In recent years, the name has seen a resurgence in popularity.\n*   **Famous people named Ansgar:**\n    *   Ansgar (c. 800-860), missionary to Scandinavia\n    *   Ansgar Karlsson (born 1947), Swedish politician\n    *   Ansgar Völkel (born 1953), German film composer\n*   **Related names:**\n    *   Ansgard\n    *   Ansgarus\n*   **Variations:**\n    *   Ansgar (Swedish)\n    *   Ansgard (German)\n    *   Ansgarus (Latin)\n*   **Pronunciation:** /ˈænsɡɑːr/ (Swedish)\n*   **Etymology:** From the Old Norse word \"ansr,\" meaning \"god\" or \"divine.\"\n*   **Usage:** The name Ansgar is primarily used in Scandinavian countries. It is also found in Germany and other European countries.\n*   **Cultural significance:** The name Ansgar has a strong cultural significance in Scandinavia, particularly in Sweden. It is associated with the missionary Ansgar, who played an important role in the spread of Christianity to Scandinavia.\n*   **Popularity trends:** The popularity of the name Ansgar has fluctuated over time. It was most popular in the 10th century, but it declined in popularity during the Middle Ages. In recent years, the name has seen a resurgence in popularity.",
+    "ingress": "Ansgar was a monk and missionary who, in the 9th century, traveled to Sweden to spread Christianity. He is often called the \"Apostle of the North\" because he was one of the first significant figures to attempt to convert Swedes to Christian",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Ansgar",
+    "taggar": [
+      "svensk-historia",
+      "vikingatid"
+    ],
+    "relevans": {
+      "glesbygd": 3
+    },
+    "epok": "vikingatid",
+    "tid": "ca 801–865 e.Kr.",
+    "kallage": "senare",
+    "sakerhet": "omtvistat",
+    "konsensus": "delade",
+    "flaggor": [
+      "tidsavstand",
+      "saknad"
+    ]
+  },
+  {
+    "id": "hist-adam-av-bremen",
+    "typ": "historia",
+    "titel": "Adam of Bremen.",
+    "ingress": "Adam of Bremen was a historian from the 10th century who wrote an important book about the history of Scandinavia. His writings are valuable sources for understanding what life was like in Sweden, Denmark, and Norway a thousand years ago.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Adam_av_Bremen",
+    "taggar": [
+      "svensk-historia",
+      "vikingatid"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "kvinna": 3
+    },
+    "epok": "vikingatid",
+    "tid": "ca 1075 e.Kr.",
+    "kallage": "senare",
+    "sakerhet": "omtvistat",
+    "konsensus": "delade",
+    "flaggor": [
+      "tidsavstand",
+      "logik"
+    ]
+  },
+  {
+    "id": "hist-erik-segersall",
+    "typ": "historia",
+    "titel": "Erik Segersäll",
+    "ingress": "Erik Segersäll was one of the first Swedish kings about whom we have historical information, and he is believed to have founded the city of Sigtuna. He ruled during the 9th century and is known for winning important battles.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Erik_Segersäll",
+    "taggar": [
+      "svensk-historia",
+      "vikingatid"
+    ],
+    "epok": "vikingatid",
+    "tid": "ca 945–995 e.Kr.",
+    "kallage": "senare",
+    "sakerhet": "omtvistat",
+    "konsensus": "delade",
+    "flaggor": [
+      "tidsavstand",
+      "saknad"
+    ]
+  },
+  {
+    "id": "hist-harald-hildetand",
+    "typ": "historia",
+    "titel": "Harald Fairhair (literally \"Hildetand\" in Swedish, which translates to \"Fairtooth\")",
+    "ingress": "Harald Hildetand is a king from the old Norse sagas who is said to have ruled over vast areas in Scandinavia and Germany. Today, however, he is considered to be a mythical figure rather than a real historical one.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Harald_Hildetand",
+    "taggar": [
+      "svensk-historia",
+      "vikingatid"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "kultur": 3
+    },
+    "epok": "vikingatid",
+    "tid": "sägentid (700-tal?)",
+    "kallage": "legend",
+    "sakerhet": "legend",
+    "konsensus": "delade",
+    "flaggor": [
+      "saknad",
+      "tidsavstand",
+      "logik"
+    ]
+  },
+  {
+    "id": "hist-bravalla",
+    "typ": "historia",
+    "titel": "The Battle of Brávalla\n\nThis battle is mentioned in several Old Norse sources, including:\n\n*   Poetic Edda\n*   Prose Edda\n*   Skáldskaparmál\n\nThe exact location and date of the battle are unknown. Some scholars believe it took place in present-day Sweden, while others suggest a location in Norway or Denmark. The time period is also uncertain, but it likely occurred sometime before the Viking Age (c. 793-1066 AD).\n\nThe battle is described as a major conflict between two groups of Norse warriors. One side was led by King Brávalla, while the other was commanded by an unnamed leader. The battle resulted in heavy losses on both sides, and it is said that many heroes fell in combat.\n\nDespite its significance, the Battle of Brávalla remains shrouded in mystery. There are few reliable historical accounts of the event, and much of what we know comes from legendary sources. However, the battle continues to fascinate historians and enthusiasts alike, as it offers a glimpse into the turbulent world of early Norse society.",
+    "ingress": "The Battle of Brávalla is a famous story about a major war between two kings in the 8th century, but it's uncertain whether the battle actually took place or if it only exists in old legends.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Bråvallaslaget",
+    "taggar": [
+      "svensk-historia",
+      "vikingatid"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "kultur": 3
+    },
+    "epok": "vikingatid",
+    "tid": "sägentid (ca 750?)",
+    "kallage": "legend",
+    "sakerhet": "spekulativt",
+    "konsensus": "omtvistat",
+    "flaggor": [
+      "saknad",
+      "omtvistat",
+      "logik"
+    ]
+  },
+  {
+    "id": "hist-ledung",
+    "typ": "historia",
+    "titel": "Ledung is a Swedish word that doesn't have a direct equivalent in English. It generally refers to a type of levy or contribution, often related to local government funding or community projects. Without more context, it's difficult to provide a precise translation. However, depending on the specific situation, possible translations could include:\n\n*   Contribution\n*   Levy\n*   Assessment\n*   Fee\n*   Charge\n*   Local tax (if applicable)\n*   Community funding",
+    "ingress": "The \"leding\" was a medieval system for organizing a military fleet and soldiers who could defend the country against enemies and pirates. It meant that certain regions were obligated to provide ships, soldiers, and equipment.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Ledung",
+    "taggar": [
+      "svensk-historia",
+      "vikingatid"
+    ],
+    "relevans": {
+      "infrastruktur": 3,
+      "batagare": 3,
+      "varnpliktig": 3
+    },
+    "epok": "vikingatid",
+    "tid": "vikingatid–medeltid",
+    "kallage": "tolkning",
+    "sakerhet": "omtvistat",
+    "konsensus": "delade",
+    "flaggor": [
+      "saknad",
+      "omtvistat"
+    ]
+  },
+  {
+    "id": "hist-tralar",
+    "typ": "historia",
+    "titel": "I'm sorry, but \"Träl\" doesn't seem to be a complete word or phrase in Swedish that I can translate into English. It might be a typo, an abbreviation, or part of a larger context that is missing. Could you please provide more information or the full sentence/paragraph where this word appears? This will help me understand its meaning and provide an accurate translation.",
+    "ingress": "A thrall was a person who was enslaved during the Iron Age and Middle Ages in Scandinavia. These individuals could become slaves through inheritance, as punishment, or after being captured in war.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Träl",
+    "taggar": [
+      "svensk-historia",
+      "vikingatid"
+    ],
+    "relevans": {
+      "b_transport": 3,
+      "infrastruktur": 3,
+      "barn": 3,
+      "glesbygd": 3,
+      "beroende": 3,
+      "lantagare": 3,
+      "batagare": 3
+    },
+    "epok": "vikingatid",
+    "tid": "järnålder–medeltid",
+    "kallage": "arkeologi",
+    "sakerhet": "trolig",
+    "konsensus": "samsyn",
+    "flaggor": [
+      "saknad"
+    ]
+  },
+  {
+    "id": "hist-stenaldern",
+    "typ": "historia",
+    "titel": "The Stone Age.",
+    "ingress": "The Stone Age is the early period of human history during which people used tools made from stone to survive. Because there are no written records from that time, we know about their lives by studying artifacts found in the ground.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Stenåldern",
+    "taggar": [
+      "svensk-historia",
+      "stenalder"
+    ],
+    "relevans": {
+      "beroende": 3,
+      "klimat": 3
+    },
+    "epok": "stenalder",
+    "tid": "ca 10000–1700 f.Kr.",
+    "kallage": "arkeologi",
+    "sakerhet": "trolig",
+    "konsensus": "samsyn",
+    "flaggor": [
+      "saknad",
+      "tidsavstand"
+    ]
+  },
+  {
+    "id": "hist-bronsaldern",
+    "typ": "historia",
+    "titel": "Nordic Bronze Age Culture.",
+    "ingress": "The text describes how people in southern Scandinavia and northern Germany lived and used bronze for tools and jewelry during a long period in the distant past.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Nordisk_bronsålderskultur",
+    "taggar": [
+      "svensk-historia",
+      "bronsalder"
+    ],
+    "relevans": {
+      "klimat": 3
+    },
+    "epok": "bronsalder",
+    "tid": "ca 1700–500 f.Kr.",
+    "kallage": "arkeologi",
+    "sakerhet": "trolig",
+    "konsensus": "delade",
+    "flaggor": [
+      "saknad"
+    ]
+  },
+  {
+    "id": "hist-jarnaldern",
+    "typ": "historia",
+    "titel": "The Iron Age.",
+    "ingress": "The Iron Age is a period in history when people began using iron instead of bronze to make tools and weapons. This technological advancement allowed for the creation of stronger objects, which fundamentally changed how societies functioned",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Järnåldern",
+    "taggar": [
+      "svensk-historia",
+      "jarnalder"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_grona": 3,
+      "beroende": 3,
+      "kultur": 3
+    },
+    "epok": "jarnalder",
+    "tid": "ca 500 f.Kr.–550 e.Kr.",
+    "kallage": "arkeologi",
+    "sakerhet": "trolig",
+    "konsensus": "samsyn",
+    "flaggor": [
+      "saknad",
+      "tidsavstand"
+    ]
+  },
+  {
+    "id": "hist-vendeltiden",
+    "typ": "historia",
+    "titel": "The Vendel Period\n\nThis period, named after the rich burial site of Vendel in Sweden, marks a transition between the Germanic Iron Age and the Viking Age. It is characterized by:\n\n*   **Dates:** Approximately 5th to 8th centuries AD.\n*   **Geographic Location:** Primarily Scandinavia, but with influences from other parts of Europe.\n*   **Key Features:**\n    *   Development of sophisticated metalworking techniques, resulting in elaborate jewelry, weapons, and ceremonial objects.\n    *   Increasing social stratification and the emergence of powerful chieftains and warrior elites.\n    *   Evidence of long-distance trade and contact with other cultures, including the Roman Empire and Byzantine world.\n    *   The rise of complex religious beliefs and practices, often involving animal sacrifice and ancestor veneration.\n*   **Notable Sites:** Vendel (Sweden), Valsgärde (Sweden), Ribe (Denmark).\n*   **Further Information:** [Insert URL here if available]",
+    "ingress": "The Vendel Age is a period in Swedish history between the years 550 and 800, characterized by wealth, trade, and elaborate boat burials.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Vendeltiden",
+    "taggar": [
+      "svensk-historia",
+      "vendeltid"
+    ],
+    "relevans": {
+      "batagare": 3,
+      "kultur": 3
+    },
+    "epok": "vendeltid",
+    "tid": "ca 550–750 e.Kr.",
+    "kallage": "arkeologi",
+    "sakerhet": "trolig",
+    "konsensus": "delade",
+    "flaggor": [
+      "saknad",
+      "tidsavstand"
+    ]
+  },
+  {
+    "id": "hist-medeltiden",
+    "typ": "historia",
+    "titel": "The Middle Ages\n\nHere's a breakdown of what that title suggests:\n\n*   **Time Period:** This refers to the historical period in Europe from roughly the 5th to the 15th century.\n*   **Characteristics:** It evokes images of castles, knights, religious institutions, and social hierarchies.\n*   **Cultural Impact:** The Middle Ages shaped art, architecture, literature, and philosophical thought in profound ways.",
+    "ingress": "The Middle Ages is a long period in European history that spans from approximately the year 476 to 1500. It was during this era that Christianity spread, cities developed, and the foundations of modern Europe were laid.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Medeltiden",
+    "taggar": [
+      "svensk-historia",
+      "medeltid"
+    ],
+    "relevans": {
+      "smaforetag": 3,
+      "b_grona": 3
+    },
+    "epok": "medeltid",
+    "tid": "ca 1050–1520",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-vasatiden",
+    "typ": "historia",
+    "titel": "The Vasa Era\n\nThis refers to the period in Swedish history when King Gustav III reigned (1771-1792). It was a time of significant cultural and political change in Sweden. Here are some key aspects:\n\n*   **Gustav III's Reforms:** Gustav III implemented several reforms aimed at strengthening the monarchy and modernizing the country.\n*   **Cultural Flourishing:** The era saw a flourishing of arts, literature, and theater.\n*   **Political Intrigue:** Despite the outward appearance of stability, the Vasa Era was marked by political intrigue and conspiracies against the king.\n*   **The Royal Palace Fire (1792):** A fire in the Royal Palace led to Gustav III's death and brought an end to the era.",
+    "ingress": "The Vasa era is a period in Swedish history spanning from 1523 to 1654, during which Sweden was ruled by kings from the Vasa family. During this time, the power of the monarchy significantly increased, the church underwent major changes, an",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Vasatiden",
+    "taggar": [
+      "svensk-historia",
+      "vasatiden"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "kultur": 3
+    },
+    "epok": "vasatiden",
+    "tid": "1521–1611",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": [
+      "omtvistat"
+    ]
+  },
+  {
+    "id": "hist-stormaktstiden",
+    "typ": "historia",
+    "titel": "The Age of Great Powers\n\nThis period refers to a time in history when several major powers were competing for influence and dominance. It often involves significant political, economic, and military conflicts between these nations. Key characteristics include:\n\n*   Expansionist policies: Countries actively sought to expand their territories and control over resources.\n*   Intense rivalries: Competition for power led to frequent clashes and alliances shifting constantly.\n*   Technological advancements: Innovations in weaponry and transportation played a crucial role in shaping the balance of power.\n*   Colonialism: Many great powers established colonies around the world, exploiting their resources and labor.\n*   Cultural exchange: Despite conflicts, there was also interaction and exchange of ideas between different cultures.",
+    "ingress": "The Age of Great Power is a period in Swedish history when the country became a powerful state in Europe through wars and conquests. During this time, the economy grew significantly, and Sweden gained control over important areas in the Bal",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Stormaktstiden",
+    "taggar": [
+      "svensk-historia",
+      "stormaktstiden"
+    ],
+    "relevans": {
+      "husdjur": 3
+    },
+    "epok": "stormaktstiden",
+    "tid": "1611–1718",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-frihetstiden",
+    "typ": "historia",
+    "titel": "The Era of Freedom\n\nThis refers to a period in history characterized by increased liberties and rights. It often involves significant social and political changes that challenge existing power structures and promote individual autonomy. The specific historical context and implications of \"the era of freedom\" would depend on the particular time and place being discussed.",
+    "ingress": "The Age of Liberty is a period in Swedish history between 1719 and 1772 when the power of the king was significantly reduced, and the parliament (Riksdagen) gained the authority to make decisions. During this time, significant advancements",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Frihetstiden",
+    "taggar": [
+      "svensk-historia",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "kultur": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "1718–1809",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-1800talet",
+    "typ": "historia",
+    "titel": "Charles XIV John",
+    "ingress": "The text describes Charles XIV John, who became King of Sweden and Norway in 1818. It details his life in France before he ascended to the throne, where he served as a soldier and quickly rose through the ranks.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Karl_XIV_Johan",
+    "taggar": [
+      "svensk-historia",
+      "1800talet"
+    ],
+    "epok": "1800talet",
+    "tid": "1809–1900",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-1900talet",
+    "typ": "historia",
+    "titel": "\"Folkhemmet\" is a Swedish word that doesn't have a direct equivalent in English. It refers to a concept of society where everyone has access to basic necessities and social services, creating a sense of community and shared responsibility. It's often associated with the Swedish welfare state model.",
+    "ingress": "The \"folkhemmet\" is a symbol of the Swedish welfare system, representing a society where all citizens should have equal rights and receive the same support from the state.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Folkhemmet",
+    "taggar": [
+      "svensk-historia",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_vard": 3,
+      "kultur": 3
+    },
+    "epok": "1900talet",
+    "tid": "1900–1999",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "delade",
+    "flaggor": [
+      "omtvistat"
+    ]
   }
 ]

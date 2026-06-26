@@ -17203,5 +17203,552 @@
       "kronisk": 8,
       "konsument": 5
     }
+  },
+  {
+    "id": "hist-vikingatiden",
+    "typ": "historia",
+    "titel": "L'ère viking.",
+    "ingress": "L'ère viking est une période de l'histoire du nord de l'Europe qui s'étend approximativement de 790 à 1050, durant laquelle des populations originaires de Scandinavie se sont aventurées dans d'autres pays pour commercer, faire la guerre et",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Vikingatiden",
+    "taggar": [
+      "svensk-historia",
+      "vikingatid"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "batagare": 3
+    },
+    "epok": "vikingatid",
+    "tid": "ca 750–1050 e.Kr.",
+    "kallage": "arkeologi",
+    "sakerhet": "trolig",
+    "konsensus": "samsyn",
+    "flaggor": [
+      "tidsavstand"
+    ]
+  },
+  {
+    "id": "hist-runstenar",
+    "typ": "historia",
+    "titel": "Stèle runique.",
+    "ingress": "Les runestones sont d'anciennes pierres gravées de textes qui servaient à commémorer les défunts de la famille et à indiquer qui avait accompli quelque chose d'important. Elles aident les chercheurs à comprendre comment vivaient les gens, q",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Runsten",
+    "taggar": [
+      "svensk-historia",
+      "vikingatid"
+    ],
+    "relevans": {
+      "kultur": 3
+    },
+    "epok": "vikingatid",
+    "tid": "ca 950–1100 e.Kr.",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-birka",
+    "typ": "historia",
+    "titel": "Birka\n\n(No further context was provided, so a simple translation of the name is given.)",
+    "ingress": "Birka était un centre commercial très important à l'époque des Vikings et est considérée comme la première ville de Suède. Située sur l'île de Björkö, dans le lac Mälaren, elle est aujourd'hui classée au patrimoine mondial par l'UNESCO et b",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Birka",
+    "taggar": [
+      "svensk-historia",
+      "vikingatid"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "batagare": 3
+    },
+    "epok": "vikingatid",
+    "tid": "ca 750–975 e.Kr.",
+    "kallage": "arkeologi",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": [
+      "saknad"
+    ]
+  },
+  {
+    "id": "hist-vikingatag",
+    "typ": "historia",
+    "titel": "Voyages à l'époque vikingue.\n\n*   Exploration et commerce : Les Vikings étaient de grands explorateurs et commerçants. Ils ont navigué vers l'est en Russie, vers le sud jusqu'en Méditerranée et vers l'ouest jusqu'en Amérique du Nord.\n*   Invasions : Les Vikings ont également mené des raids et des invasions sur les côtes européennes. Ces attaques étaient souvent motivées par la recherche de richesses et de terres.\n*   Colonisation : Les Vikings ont établi des colonies dans plusieurs régions, notamment en Islande, en Groenland et en Angleterre.\n\nVoici quelques exemples de voyages vikings célèbres :\n\n*   Le voyage de Leif Erikson vers l'Amérique du Nord en 1000 après J.-C.\n*   Les raids sur la côte anglaise au 9ème siècle.\n*   La colonisation de l'Islande au 9ème siècle.\n\nPour plus d'informations, consultez le site web suivant : [URL]",
+    "ingress": "Les voyages des Vikings étaient motivés par le commerce, les pillages et la colonisation de nouveaux territoires. Ils utilisaient leurs navires pour créer d'importants réseaux commerciaux qui s'étendaient à travers le monde entier.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Vikingatida_färder",
+    "taggar": [
+      "svensk-historia",
+      "vikingatid"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "arbetsratt": 3,
+      "glesbygd": 3,
+      "batagare": 3
+    },
+    "epok": "vikingatid",
+    "tid": "ca 790–1100 e.Kr.",
+    "kallage": "senare",
+    "sakerhet": "trolig",
+    "konsensus": "samsyn",
+    "flaggor": [
+      "tidsavstand"
+    ]
+  },
+  {
+    "id": "hist-olof-skotkonung",
+    "typ": "historia",
+    "titel": "Olof Skötkonung.",
+    "ingress": "Olaf Skötkonung fut l'un des premiers rois suédois dont l'existence est historiquement attestée, et qui régna à la fois sur Svealand et Götaland. Il fut le premier roi à se convertir au christianisme et commença à faire frapper des pièces d",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Olof_Skötkonung",
+    "taggar": [
+      "svensk-historia",
+      "vikingatid"
+    ],
+    "relevans": {
+      "varnpliktig": 3
+    },
+    "epok": "vikingatid",
+    "tid": "ca 980–1022 e.Kr.",
+    "kallage": "arkeologi",
+    "sakerhet": "trolig",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-ansgar",
+    "typ": "historia",
+    "titel": "Ansgar.",
+    "ingress": "Ansgar était un moine et missionnaire qui, au IXe siècle, voyagea en Suède pour y diffuser le christianisme. Il est souvent appelé l'apôtre du Nord car il fut l'une des premières figures importantes à tenter de convertir les Suédois au chri",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Ansgar",
+    "taggar": [
+      "svensk-historia",
+      "vikingatid"
+    ],
+    "relevans": {
+      "glesbygd": 3
+    },
+    "epok": "vikingatid",
+    "tid": "ca 801–865 e.Kr.",
+    "kallage": "senare",
+    "sakerhet": "omtvistat",
+    "konsensus": "delade",
+    "flaggor": [
+      "tidsavstand",
+      "saknad"
+    ]
+  },
+  {
+    "id": "hist-adam-av-bremen",
+    "typ": "historia",
+    "titel": "Adam de Brême.",
+    "ingress": "Adam de Brême était un chroniqueur du XIe siècle qui a écrit un ouvrage important sur l'histoire des pays nordiques. Ses textes constituent des sources précieuses pour comprendre comment était la vie en Suède, au Danemark et en Norvège il y",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Adam_av_Bremen",
+    "taggar": [
+      "svensk-historia",
+      "vikingatid"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "kvinna": 3
+    },
+    "epok": "vikingatid",
+    "tid": "ca 1075 e.Kr.",
+    "kallage": "senare",
+    "sakerhet": "omtvistat",
+    "konsensus": "delade",
+    "flaggor": [
+      "tidsavstand",
+      "logik"
+    ]
+  },
+  {
+    "id": "hist-erik-segersall",
+    "typ": "historia",
+    "titel": "Erik Segersäll.",
+    "ingress": "Erik Segersäll est l'un des premiers rois suédois dont nous avons des informations, et on pense qu'il a fondé la ville de Sigtuna. Il régna au IXe siècle et est connu pour avoir remporté d'importantes batailles.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Erik_Segersäll",
+    "taggar": [
+      "svensk-historia",
+      "vikingatid"
+    ],
+    "epok": "vikingatid",
+    "tid": "ca 945–995 e.Kr.",
+    "kallage": "senare",
+    "sakerhet": "omtvistat",
+    "konsensus": "delade",
+    "flaggor": [
+      "tidsavstand",
+      "saknad"
+    ]
+  },
+  {
+    "id": "hist-harald-hildetand",
+    "typ": "historia",
+    "titel": "Harald Hildetand.",
+    "ingress": "Harald Hildetand est un roi issu des anciennes sagas scandinaves, qui aurait régné sur de vastes territoires en Scandinavie et en Allemagne. Aujourd'hui, il est considéré davantage comme une figure mythique qu'en tant que personnage histori",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Harald_Hildetand",
+    "taggar": [
+      "svensk-historia",
+      "vikingatid"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "kultur": 3
+    },
+    "epok": "vikingatid",
+    "tid": "sägentid (700-tal?)",
+    "kallage": "legend",
+    "sakerhet": "legend",
+    "konsensus": "delade",
+    "flaggor": [
+      "saknad",
+      "tidsavstand",
+      "logik"
+    ]
+  },
+  {
+    "id": "hist-bravalla",
+    "typ": "historia",
+    "titel": "La bataille de Brávalla.",
+    "ingress": "La bataille de Brávalla est une histoire célèbre d'une grande guerre entre deux rois au VIIIe siècle, mais il n'est pas certain que cette bataille ait réellement eu lieu ou si elle ne fait qu'exister dans les anciens contes.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Bråvallaslaget",
+    "taggar": [
+      "svensk-historia",
+      "vikingatid"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "kultur": 3
+    },
+    "epok": "vikingatid",
+    "tid": "sägentid (ca 750?)",
+    "kallage": "legend",
+    "sakerhet": "spekulativt",
+    "konsensus": "omtvistat",
+    "flaggor": [
+      "saknad",
+      "omtvistat",
+      "logik"
+    ]
+  },
+  {
+    "id": "hist-ledung",
+    "typ": "historia",
+    "titel": "Ledung.",
+    "ingress": "La \"leding\" était un système médiéval destiné à organiser une flotte militaire et des guerriers capables de défendre le pays contre les ennemis et les pirates. Ce système impliquait que certaines régions étaient tenues de fournir des navire",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Ledung",
+    "taggar": [
+      "svensk-historia",
+      "vikingatid"
+    ],
+    "relevans": {
+      "infrastruktur": 3,
+      "batagare": 3,
+      "varnpliktig": 3
+    },
+    "epok": "vikingatid",
+    "tid": "vikingatid–medeltid",
+    "kallage": "tolkning",
+    "sakerhet": "omtvistat",
+    "konsensus": "delade",
+    "flaggor": [
+      "saknad",
+      "omtvistat"
+    ]
+  },
+  {
+    "id": "hist-tralar",
+    "typ": "historia",
+    "titel": "Je suis désolé, je ne comprends pas ce que vous voulez dire par \"Träl\". Pourriez-vous reformuler votre question ou me donner plus de contexte ?",
+    "ingress": "Dans la région nordique, durant l'âge du fer et le Moyen Âge, un \"träl\" était une personne réduite en esclavage. Ces individus pouvaient devenir esclaves par héritage, comme punition, ou après avoir été capturés lors de guerres.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Träl",
+    "taggar": [
+      "svensk-historia",
+      "vikingatid"
+    ],
+    "relevans": {
+      "b_transport": 3,
+      "infrastruktur": 3,
+      "barn": 3,
+      "glesbygd": 3,
+      "beroende": 3,
+      "lantagare": 3,
+      "batagare": 3
+    },
+    "epok": "vikingatid",
+    "tid": "järnålder–medeltid",
+    "kallage": "arkeologi",
+    "sakerhet": "trolig",
+    "konsensus": "samsyn",
+    "flaggor": [
+      "saknad"
+    ]
+  },
+  {
+    "id": "hist-stenaldern",
+    "typ": "historia",
+    "titel": "L'âge de pierre.",
+    "ingress": "L'âge de pierre correspond à la période la plus ancienne de l'histoire humaine, caractérisée par l'utilisation d'outils en pierre pour assurer la survie. Étant donné qu'il n'existe aucun texte écrit datant de cette époque, notre connaissanc",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Stenåldern",
+    "taggar": [
+      "svensk-historia",
+      "stenalder"
+    ],
+    "relevans": {
+      "beroende": 3,
+      "klimat": 3
+    },
+    "epok": "stenalder",
+    "tid": "ca 10000–1700 f.Kr.",
+    "kallage": "arkeologi",
+    "sakerhet": "trolig",
+    "konsensus": "samsyn",
+    "flaggor": [
+      "saknad",
+      "tidsavstand"
+    ]
+  },
+  {
+    "id": "hist-bronsaldern",
+    "typ": "historia",
+    "titel": "Culture scandinave de l'âge du bronze.",
+    "ingress": "Le texte décrit comment les populations du sud de la Scandinavie et du nord de l'Allemagne vivaient et utilisaient le bronze pour fabriquer des outils et des bijoux, il y a très longtemps.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Nordisk_bronsålderskultur",
+    "taggar": [
+      "svensk-historia",
+      "bronsalder"
+    ],
+    "relevans": {
+      "klimat": 3
+    },
+    "epok": "bronsalder",
+    "tid": "ca 1700–500 f.Kr.",
+    "kallage": "arkeologi",
+    "sakerhet": "trolig",
+    "konsensus": "delade",
+    "flaggor": [
+      "saknad"
+    ]
+  },
+  {
+    "id": "hist-jarnaldern",
+    "typ": "historia",
+    "titel": "L'Âge du Fer.",
+    "ingress": "L'âge du fer est une période de l'histoire où les humains ont commencé à utiliser le fer au lieu du bronze pour fabriquer des outils et des armes. Cette avancée technologique a permis de créer des objets plus résistants, ce qui a modifié la",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Järnåldern",
+    "taggar": [
+      "svensk-historia",
+      "jarnalder"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_grona": 3,
+      "beroende": 3,
+      "kultur": 3
+    },
+    "epok": "jarnalder",
+    "tid": "ca 500 f.Kr.–550 e.Kr.",
+    "kallage": "arkeologi",
+    "sakerhet": "trolig",
+    "konsensus": "samsyn",
+    "flaggor": [
+      "saknad",
+      "tidsavstand"
+    ]
+  },
+  {
+    "id": "hist-vendeltiden",
+    "typ": "historia",
+    "titel": "La période de Vendel.",
+    "ingress": "La période de Vendel est une époque de l'histoire suédoise qui s'étend de 550 à 800 et se caractérise par la richesse, le commerce et les magnifiques tombes navales.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Vendeltiden",
+    "taggar": [
+      "svensk-historia",
+      "vendeltid"
+    ],
+    "relevans": {
+      "batagare": 3,
+      "kultur": 3
+    },
+    "epok": "vendeltid",
+    "tid": "ca 550–750 e.Kr.",
+    "kallage": "arkeologi",
+    "sakerhet": "trolig",
+    "konsensus": "delade",
+    "flaggor": [
+      "saknad",
+      "tidsavstand"
+    ]
+  },
+  {
+    "id": "hist-medeltiden",
+    "typ": "historia",
+    "titel": "Le Moyen Âge\n\n*   Une période de l'histoire européenne s'étendant du Ve au XVe siècle.\n*   Caractérisée par un système féodal, une économie agricole et une forte influence de l'Église catholique.\n*   Période marquée par des guerres, des famines et des épidémies, mais aussi par des avancées culturelles et artistiques significatives.\n*   Voir plus d'informations sur Wikipédia : [URL invalide supprimée]",
+    "ingress": "Le Moyen Âge est une longue période de l'histoire européenne qui s'étend d'environ l'année 476 à 1500. C'est durant cette époque que le christianisme s'est répandu, que les villes se sont développées et que les fondations de l'Europe actuel",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Medeltiden",
+    "taggar": [
+      "svensk-historia",
+      "medeltid"
+    ],
+    "relevans": {
+      "smaforetag": 3,
+      "b_grona": 3
+    },
+    "epok": "medeltid",
+    "tid": "ca 1050–1520",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-vasatiden",
+    "typ": "historia",
+    "titel": "L'âge de fer (ou époque scandinave)\n\n*   **Période:** L'âge de fer.\n*   **Durée:** Environ 800 ans avant notre ère à l'époque des Vikings.\n*   **Principales caractéristiques:** Développement de la métallurgie du fer, agriculture, élevage et débuts de la navigation.\n*   **Sites importants:** Plusieurs sites archéologiques témoignent de cette période en Suède.\n*   **Pour plus d'informations:** Consultez le site web [URL non fournie].",
+    "ingress": "La période de la dynastie Vasa est une ère de l'histoire suédoise qui s'étend de 1523 à 1654, durant laquelle le pays a été gouverné par des rois issus de la famille Vasa. Pendant cette époque, le pouvoir royal a considérablement augmenté,",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Vasatiden",
+    "taggar": [
+      "svensk-historia",
+      "vasatiden"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "kultur": 3
+    },
+    "epok": "vasatiden",
+    "tid": "1521–1611",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": [
+      "omtvistat"
+    ]
+  },
+  {
+    "id": "hist-stormaktstiden",
+    "typ": "historia",
+    "titel": "L'ère des grandes puissances.",
+    "ingress": "L'ère des grandes puissances est une période de l'histoire suédoise au cours de laquelle le pays est devenu un État puissant en Europe, grâce à la guerre et aux conquêtes. Pendant cette époque, l'économie a connu une croissance importante,",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Stormaktstiden",
+    "taggar": [
+      "svensk-historia",
+      "stormaktstiden"
+    ],
+    "relevans": {
+      "husdjur": 3
+    },
+    "epok": "stormaktstiden",
+    "tid": "1611–1718",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-frihetstiden",
+    "typ": "historia",
+    "titel": "L'ère de la liberté.",
+    "ingress": "La période de la \"Liberté\" est une époque de l'histoire suédoise qui s'étend de 1719 à 1772, caractérisée par une forte diminution du pouvoir royal et par le fait que le Parlement (Riksdagen) a pris les décisions. Durant cette période, d'im",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Frihetstiden",
+    "taggar": [
+      "svensk-historia",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "kultur": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "1718–1809",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-1800talet",
+    "typ": "historia",
+    "titel": "Karl XIV Jean.",
+    "ingress": "Ce texte relate la vie de Charles XIV Jean, roi de Suède et de Norvège à partir de 1818. Il décrit son existence en France avant qu'il ne devienne roi, où il a notamment servi comme soldat et a rapidement gravi les échelons militaires.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Karl_XIV_Johan",
+    "taggar": [
+      "svensk-historia",
+      "1800talet"
+    ],
+    "epok": "1800talet",
+    "tid": "1809–1900",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-1900talet",
+    "typ": "historia",
+    "titel": "Le Folkhemmet.",
+    "ingress": "Le \"folkhem\" est un symbole du système de protection sociale suédois, où tous les citoyens doivent avoir les mêmes droits et bénéficier du même soutien de l'État.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Folkhemmet",
+    "taggar": [
+      "svensk-historia",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_vard": 3,
+      "kultur": 3
+    },
+    "epok": "1900talet",
+    "tid": "1900–1999",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "delade",
+    "flaggor": [
+      "omtvistat"
+    ]
   }
 ]

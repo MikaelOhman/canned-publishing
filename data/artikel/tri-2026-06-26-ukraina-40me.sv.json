@@ -1,0 +1,50 @@
+{
+  "id": "tri-2026-06-26-ukraina-40me",
+  "typ": "nyhet",
+  "titel": "Finland höjer stödet till Ukrainas försvar med 40 miljoner euro",
+  "datum": "2026-06-26",
+  "kalla": "Triangulering (flera finska källor)",
+  "kalla_url": "",
+  "taggar": [
+    "finland",
+    "ukraina",
+    "forsvar"
+  ],
+  "html": "<h3>Vad källorna är överens om</h3><p>Statsminister Petteri Orpo (Samlingspartiet) meddelade torsdagen att Finland ger ytterligare 40 miljoner euro till Ukrainas försvar. Både Demokraatti och Maaseudun Tulevaisuus rapporterar samma summa och beslut.</p><h3>Detaljer som skiljer</h3><p>Demokraatti specificerar att stödet går via Natos PURL-projekt, som finansierar amerikansk försvarsmateriel till Ukraina, och att pengarna beslutades redan i vårens budgetförhandling. Maaseudun Tulevaisuus nämner beskedet i samband med Orpos besök i Polen, utan finansieringsdetaljerna.</p><h3>Bara en källa</h3><p>Nato-PURL-kopplingen och den amerikanska materielen rapporteras bara av Demokraatti — men uppgiften bygger på försvarsministeriets pressmeddelande och är väl underbyggd.</p><h3>Hur säkert?</h3><p>Kärnan är väl belagd: två källor med olika politisk hemvist (center-vänster respektive center/landsbygd) säger samma sak, och uppgiften är officiell. Hög konfidens. Att en SDP-nära tidning återger den borgerliga regeringens besked sakligt stärker trovärdigheten.</p>",
+  "tldr": "Statsminister Petteri Orpo (Saml.) meddelade torsdagen att Finland ger ytterligare 40 miljoner euro till Ukrainas försvar.",
+  "sakerhet": "belagt",
+  "flaggor": [],
+  "triangulering": {
+    "kallor": [
+      {
+        "kalla": "Demokraatti",
+        "lutning": "center-vänster (SDP)",
+        "partisk": true,
+        "url": "https://demokraatti.fi/orpo-suomi-antaa-ukrainan-puolustukseen-40-miljoonaa-euroa-lisaa-nato-hankkeen-kautta/"
+      },
+      {
+        "kalla": "Maaseudun Tulevaisuus",
+        "lutning": "center/landsbygd",
+        "partisk": true,
+        "url": "https://www.maaseuduntulevaisuus.fi/uutiset/cfd99f5d-c1d3-464e-ba5a-1f835c1d6887"
+      }
+    ],
+    "samstammigt": [
+      "Statsminister Petteri Orpo (Saml.) meddelade torsdagen att Finland ger ytterligare 40 miljoner euro till Ukrainas försvar.",
+      "Båda källorna anger samma summa och samma beslut."
+    ],
+    "divergenser": [
+      "Demokraatti specificerar kanalen: via Natos PURL-projekt, som finansierar amerikansk försvarsmateriel till Ukraina, och att finansieringen beslutades i vårens budgetförhandling.",
+      "Maaseudun Tulevaisuus ramar in beskedet kring Orpos besök i Polen, utan finansieringsdetaljerna."
+    ],
+    "enkalligt": [
+      "Kopplingen till Nato-PURL och amerikansk materiel finns bara hos Demokraatti — men den bygger på försvarsministeriets pressmeddelande och är därför väl underbyggd."
+    ],
+    "vinkel_per_kalla": {
+      "Demokraatti": "Socialdemokratisk (oppositionsnära) press som rapporterar den borgerliga regeringens beslut sakligt och med full detalj — ingen tydlig vinkling.",
+      "Maaseudun Tulevaisuus": "Kort, neutral notis med fokus på statsministerns Polen-besök."
+    },
+    "konfidens": "hög",
+    "bedomning": "Kärnfakta (40 miljoner euro till Ukrainas försvar, aviserat av Orpo) är väl belagt: två oberoende källor med olika politisk hemvist rapporterar samma sak, och uppgiften kommer ur ett officiellt pressmeddelande. Hög konfidens. Att en SDP-nära tidning återger den borgerliga regeringens besked utan polemik stärker bilden."
+  }
+}

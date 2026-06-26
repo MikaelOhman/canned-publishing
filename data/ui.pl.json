@@ -340,5 +340,20 @@
     "frihetstiden": "Era wolności",
     "1800talet": "XIX wiek",
     "1900talet": "XX wiek"
+  },
+  "jamf": {
+    "rubrik": "Porównanie źródeł",
+    "kallor": "źródła",
+    "konfidens": "Pewność",
+    "samstammigt": "W czym źródła się zgadzają",
+    "divergenser": "W czym się różnią",
+    "enkalligt": "Tylko jedno źródło",
+    "vinkel": "Ujęcie według źródła",
+    "partisk": "partyjne",
+    "konf_niv": {
+      "hög": "wysoka",
+      "medel": "średnia",
+      "låg": "niska"
+    }
   }
 }
