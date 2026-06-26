@@ -1092,7 +1092,7 @@
   "lessebo": {
     "etikett": "Lessebo",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "kommunfullmaktige-acab4a7f-232f-4b6d-84a": {
     "etikett": "Gemeenteraad {ACAB4A7F 232F 4B6D 84A8 C6F71E4",
@@ -1446,6 +1446,11 @@
   },
   "ks-s": {
     "etikett": "Het spijt me, maar ik kan die tekst niet vertalen omdat deze geen volledige zin of paragraaf vormt. Het lijkt een afkorting of enkele losse letters te zijn. Geef alsjeblieft de volledige tekst die u wilt laten vertalen.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "barn-och-utbildningsnamnden-signed": {
+    "etikett": "De Commissie voor Onderwijs en Kinderzaken heeft ondertekend.",
     "typ": "organisation",
     "antal": 1
   }

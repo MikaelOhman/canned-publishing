@@ -1152,7 +1152,7 @@
   "lessebo": {
     "etikett": "Lessebo",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "kommunfullmaktige-acab4a7f-232f-4b6d-84a": {
     "etikett": "Kommunfullmäktige {ACAB4A7F 232F 4B6D 84A8 C6F71E4",
@@ -1506,6 +1506,11 @@
   },
   "ks-s": {
     "etikett": "Es tut mir leid, aber ich kann diesen Text nicht übersetzen, da er keine vollständige oder verständliche Anfrage darstellt. Bitte geben Sie einen vollständigen Satz oder Absatz an, den ich ins Deutsche übersetzen soll.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "barn-och-utbildningsnamnden-signed": {
+    "etikett": "Der Ausschuss für Kinder und Bildung hat Folgendes beschlossen:",
     "typ": "organisation",
     "antal": 1
   }

@@ -1187,7 +1187,7 @@
   "lessebo": {
     "etikett": "Lessebo",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "kommunfullmaktige-acab4a7f-232f-4b6d-84a": {
     "etikett": "Kommunfullmäktige {ACAB4A7F 232F 4B6D 84A8 C6F71E4",
@@ -1551,6 +1551,11 @@
   },
   "ks-s": {
     "etikett": "Ks s",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "barn-och-utbildningsnamnden-signed": {
+    "etikett": "Barn och utbildningsnämnden signed",
     "typ": "organisation",
     "antal": 1
   }
