@@ -874,6 +874,19 @@
     }
   },
   {
+    "id": "skatteverket-2026-06-23-skatteverkets-anseende-okar",
+    "typ": "myndighet",
+    "titel": "Skatteverkets anseende ökar",
+    "ingress": "Fler svenskar har förtroende för Skatteverket år 2026. Skatteverket ligger högt i jämförelse med andra myndigheter.",
+    "datum": "2026-06-23",
+    "kalla": "Skatteverket",
+    "kalla_url": "http://skatteverket.se/omoss/pressochmedia/nyheter/2026/nyheter/skatteverketsanseendeokar.5.3129d65419ef1497c0659c.html",
+    "taggar": [
+      "skatt",
+      "skatteverket"
+    ]
+  },
+  {
     "id": "HD03287",
     "typ": "lagforslag",
     "titel": "Ny politisk inriktning för ett starkare filmland",
@@ -1128,6 +1141,23 @@
       "pensionar": 3,
       "kronisk": 3,
       "funktion": 3
+    }
+  },
+  {
+    "id": "skatteverket-2026-06-22-fortsatt-stora-upptaxeringar-i",
+    "typ": "myndighet",
+    "titel": "Fortsatt stora upptaxeringar inom miningsektorn",
+    "ingress": "Skatteverket har krävt in över en halv miljard kronor i extra skatt från företag som bryter mot reglerna när de skapar kryptovalutor (så kallad mining). Detta beror på att företagen försökt dölja sin verksamhet för att få skattefördelar de",
+    "datum": "2026-06-22",
+    "kalla": "Skatteverket",
+    "kalla_url": "http://skatteverket.se/omoss/pressochmedia/pressmeddelanden/2026/2026/fortsattstoraupptaxeringarinomminingsektorn.5.650b4a9d19ebd1653db179b.html",
+    "taggar": [
+      "skatt",
+      "skatteverket"
+    ],
+    "relevans": {
+      "moms": 3,
+      "konsument": 5
     }
   },
   {
@@ -1420,6 +1450,37 @@
       "korkort": 3,
       "husdjur": 3
     }
+  },
+  {
+    "id": "skatteverket-2026-06-18-skatteverket-presenterar-ny-la",
+    "typ": "myndighet",
+    "titel": "Skatteverket presenterar ny lägesbild över befolkningen",
+    "ingress": "Skatteverket har släppt en ny rapport om hur många som är folkbokförda i Sverige och hur många som bor här utan nummer. Rapporten visar att det finns fel i systemet, vilket kan leda till felaktiga utbetalningar eller att kriminella kan anvä",
+    "datum": "2026-06-18",
+    "kalla": "Skatteverket",
+    "kalla_url": "http://skatteverket.se/omoss/pressochmedia/pressmeddelanden/2026/2026/skatteverketpresenterarnylagesbildoverbefolkningen.5.650b4a9d19ebd1653db1407.html",
+    "taggar": [
+      "skatt",
+      "skatteverket"
+    ],
+    "relevans": {
+      "gdpr": 3,
+      "beroende": 3,
+      "integritet": 3
+    }
+  },
+  {
+    "id": "skatteverket-2026-06-18-tredje-nationella-lagesbilden-",
+    "typ": "myndighet",
+    "titel": "Tredje nationella lägesbilden är klar",
+    "ingress": "En ny rapport visar att de flesta personer i Sverige är rätt registrerade i folkbokföringen, men att en liten del av felen kan orsaka stora problem för både individer och samhället.",
+    "datum": "2026-06-18",
+    "kalla": "Skatteverket",
+    "kalla_url": "http://skatteverket.se/omoss/pressochmedia/nyheter/2026/nyheter/tredjenationellalagesbildenarklar.5.650b4a9d19ebd1653db12e9.html",
+    "taggar": [
+      "skatt",
+      "skatteverket"
+    ]
   },
   {
     "id": "stockholm-kommunstyrelsen-2026-06-17",
@@ -2970,6 +3031,25 @@
       "b_vard": 3,
       "finansiering": 3,
       "barn": 3
+    }
+  },
+  {
+    "id": "skatteverket-2026-06-15-bedrageriforsok-okar-i-samband",
+    "typ": "myndighet",
+    "titel": "Bedrägeriförsök ökar i samband med skatteåterbäring",
+    "ingress": "Bedragare låtsas att de är från Skatteverket för att försöka stjäla dina personuppgifter och bankdetaljer. Var försiktig med mejl, sms eller telefonsamtal som ber dig om lösenord eller kontouppgifter.",
+    "datum": "2026-06-15",
+    "kalla": "Skatteverket",
+    "kalla_url": "http://skatteverket.se/omoss/pressochmedia/nyheter/2026/nyheter/bedrageriforsokokarisambandmedskatteaterbaring.5.650b4a9d19ebd1653db610.html",
+    "taggar": [
+      "skatt",
+      "skatteverket"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "gdpr": 3,
+      "integritet": 3,
+      "digital_ovan": 3
     }
   },
   {

@@ -157,7 +157,7 @@
   "skatt": {
     "etikett": "مالیات",
     "typ": "ämne",
-    "antal": 1
+    "antal": 6
   },
   "finansmarknad": {
     "etikett": "بازار مالی",
@@ -1663,5 +1663,10 @@
     "etikett": "بازبینی",
     "typ": "ämne",
     "antal": 3
+  },
+  "skatteverket": {
+    "etikett": "سازمان مالیات سوئد (Skatteverket)",
+    "typ": "organisation",
+    "antal": 5
   }
 }

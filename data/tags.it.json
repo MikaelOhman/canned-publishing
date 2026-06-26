@@ -182,7 +182,7 @@
   "skatt": {
     "etikett": "Tasse.",
     "typ": "ämne",
-    "antal": 1
+    "antal": 6
   },
   "finansmarknad": {
     "etikett": "Mercato finanziario.",
@@ -1663,5 +1663,10 @@
     "etikett": "Economia regionale.",
     "typ": "ämne",
     "antal": 1
+  },
+  "skatteverket": {
+    "etikett": "Agenzia delle Entrate.",
+    "typ": "organisation",
+    "antal": 5
   }
 }

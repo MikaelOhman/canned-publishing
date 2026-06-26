@@ -865,6 +865,19 @@
     }
   },
   {
+    "id": "skatteverket-2026-06-23-skatteverkets-anseende-okar",
+    "typ": "myndighet",
+    "titel": "تزداد مكانة ومصداقية مصلحة الضرائب.",
+    "ingress": "في عام 2026، سيحظى المزيد من السويديين بثقة وكالة الضرائب (Skatteverket). وتتصدر وكالة الضرائب قائمة المؤسسات الحكومية الأخرى من حيث مستوى الثقة.",
+    "datum": "2026-06-23",
+    "kalla": "Skatteverket",
+    "kalla_url": "http://skatteverket.se/omoss/pressochmedia/nyheter/2026/nyheter/skatteverketsanseendeokar.5.3129d65419ef1497c0659c.html",
+    "taggar": [
+      "skatt",
+      "skatteverket"
+    ]
+  },
+  {
     "id": "HD03287",
     "typ": "lagforslag",
     "titel": "توجه سياسي جديد لصناعة الأفلام الأقوى.\n\n# توجيه سياسي جديد لصناعة الأفلام الأقوى\n\n*   يهدف هذا التوجه إلى تعزيز صناعة الأفلام في [اسم البلد/المنطقة].\n*   يشمل ذلك دعم الإنتاج، وتطوير البنية التحتية، وتعزيز التوزيع.\n*   كما يهدف إلى زيادة فرص العمل في هذا القطاع.\n\n**أهداف رئيسية:**\n\n*   زيادة عدد الأفلام المنتجة سنويًا.\n*   تحسين جودة الأفلام.\n*   توسيع نطاق التوزيع ليشمل أسواقًا جديدة.\n*   جذب المزيد من الاستثمارات لصناعة الأفلام.\n\nهذا التوجه يمثل خطوة مهمة نحو بناء صناعة أفلام قوية ومزدهرة.",
@@ -1085,6 +1098,23 @@
       "pensionar": 3,
       "kronisk": 3,
       "funktion": 3
+    }
+  },
+  {
+    "id": "skatteverket-2026-06-22-fortsatt-stora-upptaxeringar-i",
+    "typ": "myndighet",
+    "titel": "استمرار الزيادات الكبيرة في الضرائب المفروضة على قطاع التعدين.",
+    "ingress": "قامت مصلحة الضرائب السويدية بتحصيل أكثر من نصف مليار كرونة سويدية كضرائب إضافية من الشركات التي تنتهك القواعد عند إنشاء العملات الرقمية (المعروفة باسم \"التعدين\"). ويعود ذلك إلى أن هذه الشركات حاولت إخفاء أنشطتها للحصول على مزايا ضريبية لا ي",
+    "datum": "2026-06-22",
+    "kalla": "Skatteverket",
+    "kalla_url": "http://skatteverket.se/omoss/pressochmedia/pressmeddelanden/2026/2026/fortsattstoraupptaxeringarinomminingsektorn.5.650b4a9d19ebd1653db179b.html",
+    "taggar": [
+      "skatt",
+      "skatteverket"
+    ],
+    "relevans": {
+      "moms": 3,
+      "konsument": 5
     }
   },
   {
@@ -1349,6 +1379,37 @@
       "korkort": 3,
       "husdjur": 3
     }
+  },
+  {
+    "id": "skatteverket-2026-06-18-skatteverket-presenterar-ny-la",
+    "typ": "myndighet",
+    "titel": "مصلحة الضرائب السويدية تقدم تقريرًا جديدًا عن الوضع الحالي للسكان.",
+    "ingress": "أصدرت مصلحة الضرائب السويدية تقريرًا جديدًا حول عدد الأشخاص المسجلين رسميًا في السجلات السكانية في السويد، وعدد المقيمين الذين لا يملكون رقمًا شخصيًا. يشير التقرير إلى وجود أخطاء في النظام، مما قد يؤدي إلى دفعات غير صحيحة أو إلى إمكانية است",
+    "datum": "2026-06-18",
+    "kalla": "Skatteverket",
+    "kalla_url": "http://skatteverket.se/omoss/pressochmedia/pressmeddelanden/2026/2026/skatteverketpresenterarnylagesbildoverbefolkningen.5.650b4a9d19ebd1653db1407.html",
+    "taggar": [
+      "skatt",
+      "skatteverket"
+    ],
+    "relevans": {
+      "gdpr": 3,
+      "beroende": 3,
+      "integritet": 3
+    }
+  },
+  {
+    "id": "skatteverket-2026-06-18-tredje-nationella-lagesbilden-",
+    "typ": "myndighet",
+    "titel": "تم الانتهاء من التقرير الوطني الثالث حول الوضع الراهن.",
+    "ingress": "تشير تقرير جديد إلى أن معظم الأشخاص في السويد مسجلين بشكل صحيح في سجلات المواطنين، ولكن حتى نسبة صغيرة من الأخطاء يمكن أن تتسبب في مشاكل كبيرة لكل من الأفراد والمجتمع.",
+    "datum": "2026-06-18",
+    "kalla": "Skatteverket",
+    "kalla_url": "http://skatteverket.se/omoss/pressochmedia/nyheter/2026/nyheter/tredjenationellalagesbildenarklar.5.650b4a9d19ebd1653db12e9.html",
+    "taggar": [
+      "skatt",
+      "skatteverket"
+    ]
   },
   {
     "id": "stockholm-kommunstyrelsen-2026-06-17",
@@ -2900,6 +2961,25 @@
       "b_vard": 3,
       "finansiering": 3,
       "barn": 3
+    }
+  },
+  {
+    "id": "skatteverket-2026-06-15-bedrageriforsok-okar-i-samband",
+    "typ": "myndighet",
+    "titel": "تزايد حالات محاولات الاحتيال المرتبطة باسترجاع الضرائب.",
+    "ingress": "يتحوّل المحتالون أحيانًا إلى ما يفترض أنه ممثلون عن مصلحة الضرائب (Skatteverket) بهدف سرقة معلوماتك الشخصية وتفاصيل حساباتك المصرفية. كن حذرًا من رسائل البريد الإلكتروني أو الرسائل النصية أو المكالمات الهاتفية التي تطلب منك كلمات المرور أو",
+    "datum": "2026-06-15",
+    "kalla": "Skatteverket",
+    "kalla_url": "http://skatteverket.se/omoss/pressochmedia/nyheter/2026/nyheter/bedrageriforsokokarisambandmedskatteaterbaring.5.650b4a9d19ebd1653db610.html",
+    "taggar": [
+      "skatt",
+      "skatteverket"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "gdpr": 3,
+      "integritet": 3,
+      "digital_ovan": 3
     }
   },
   {

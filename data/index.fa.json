@@ -865,6 +865,19 @@
     }
   },
   {
+    "id": "skatteverket-2026-06-23-skatteverkets-anseende-okar",
+    "typ": "myndighet",
+    "titel": "اعتبار سازمان مالیاتی در حال افزایش است.",
+    "ingress": "در سال 2026، تعداد بیشتری از مردم سوئد به سازمان مالیاتی (Skatteverket) اعتماد خواهند داشت. سازمان مالیاتی در مقایسه با سایر نهادهای دولتی، از سطح اعتمادی بالایی برخوردار است.",
+    "datum": "2026-06-23",
+    "kalla": "Skatteverket",
+    "kalla_url": "http://skatteverket.se/omoss/pressochmedia/nyheter/2026/nyheter/skatteverketsanseendeokar.5.3129d65419ef1497c0659c.html",
+    "taggar": [
+      "skatt",
+      "skatteverket"
+    ]
+  },
+  {
     "id": "HD03287",
     "typ": "lagforslag",
     "titel": "جهت‌گیری سیاسی جدید برای یک صنعت فیلم قوی‌تر.",
@@ -1085,6 +1098,23 @@
       "pensionar": 3,
       "kronisk": 3,
       "funktion": 3
+    }
+  },
+  {
+    "id": "skatteverket-2026-06-22-fortsatt-stora-upptaxeringar-i",
+    "typ": "myndighet",
+    "titel": "افزایش قابل توجه مالیات‌ها در بخش معدن‌کاری همچنان ادامه دارد.",
+    "ingress": "سازمان مالیات سوئد، بیش از نیم میلیارد کرون از شرکت‌هایی که قوانین را در زمینه تولید ارزهای دیجیتال (که به آن \"ماینینگ\" گفته می‌شود) نقض کرده‌اند، مطالبه کرده است. این امر به دلیل تلاش این شرکت‌ها برای پنهان کردن فعالیت‌هایشان بوده است تا ا",
+    "datum": "2026-06-22",
+    "kalla": "Skatteverket",
+    "kalla_url": "http://skatteverket.se/omoss/pressochmedia/pressmeddelanden/2026/2026/fortsattstoraupptaxeringarinomminingsektorn.5.650b4a9d19ebd1653db179b.html",
+    "taggar": [
+      "skatt",
+      "skatteverket"
+    ],
+    "relevans": {
+      "moms": 3,
+      "konsument": 5
     }
   },
   {
@@ -1346,6 +1376,37 @@
       "korkort": 3,
       "husdjur": 3
     }
+  },
+  {
+    "id": "skatteverket-2026-06-18-skatteverket-presenterar-ny-la",
+    "typ": "myndighet",
+    "titel": "سازمان مالیات سوئد، تصویری جدید از وضعیت جمعیتی کشور ارائه می‌دهد.",
+    "ingress": "سازمان مالیات سوئد گزارشی جدید منتشر کرده است که در آن به تعداد افرادی که در سیستم ثبت احوال سوئد ثبت نام شده‌اند و همچنین به تعداد افرادی که در این کشور زندگی می‌کنند اما شماره شناسایی ندارند، پرداخته شده است. این گزارش نشان می‌دهد که مشکل",
+    "datum": "2026-06-18",
+    "kalla": "Skatteverket",
+    "kalla_url": "http://skatteverket.se/omoss/pressochmedia/pressmeddelanden/2026/2026/skatteverketpresenterarnylagesbildoverbefolkningen.5.650b4a9d19ebd1653db1407.html",
+    "taggar": [
+      "skatt",
+      "skatteverket"
+    ],
+    "relevans": {
+      "gdpr": 3,
+      "beroende": 3,
+      "integritet": 3
+    }
+  },
+  {
+    "id": "skatteverket-2026-06-18-tredje-nationella-lagesbilden-",
+    "typ": "myndighet",
+    "titel": "سومین گزارش ملی وضعیت، منتشر شد.",
+    "ingress": "یک گزارش جدید نشان می‌دهد که اکثر افراد در سوئد به درستی در سیستم ثبت احوال شخصیه (folkbokföringen) ثبت شده‌اند، اما حتی بخش کوچکی از این خطاها می‌تواند مشکلات بزرگی را هم برای افراد و هم برای جامعه ایجاد کند.",
+    "datum": "2026-06-18",
+    "kalla": "Skatteverket",
+    "kalla_url": "http://skatteverket.se/omoss/pressochmedia/nyheter/2026/nyheter/tredjenationellalagesbildenarklar.5.650b4a9d19ebd1653db12e9.html",
+    "taggar": [
+      "skatt",
+      "skatteverket"
+    ]
   },
   {
     "id": "stockholm-kommunstyrelsen-2026-06-17",
@@ -2897,6 +2958,25 @@
       "b_vard": 3,
       "finansiering": 3,
       "barn": 3
+    }
+  },
+  {
+    "id": "skatteverket-2026-06-15-bedrageriforsok-okar-i-samband",
+    "typ": "myndighet",
+    "titel": "تلاش‌های کلاهبرداری در ارتباط با بازپرداخت مالیات افزایش یافته است.",
+    "ingress": "افراد کلاهبردار ممکن است خود را از اداره مالیات (Skatteverket) جا بزنند تا سعی کنند اطلاعات شخصی و جزئیات حساب بانکی شما را سرقت کنند. مراقب ایمیل‌ها، پیامک‌ها یا تماس‌های تلفنی باشید که از شما درخواست رمز عبور یا اطلاعات حساب کاربری می‌کنن",
+    "datum": "2026-06-15",
+    "kalla": "Skatteverket",
+    "kalla_url": "http://skatteverket.se/omoss/pressochmedia/nyheter/2026/nyheter/bedrageriforsokokarisambandmedskatteaterbaring.5.650b4a9d19ebd1653db610.html",
+    "taggar": [
+      "skatt",
+      "skatteverket"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "gdpr": 3,
+      "integritet": 3,
+      "digital_ovan": 3
     }
   },
   {

@@ -865,6 +865,19 @@
     }
   },
   {
+    "id": "skatteverket-2026-06-23-skatteverkets-anseende-okar",
+    "typ": "myndighet",
+    "titel": "Die Reputation des schwedischen Finanzamts (Skatteverket) steigt.",
+    "ingress": "Im Jahr 2026 werden mehr schwedische Bürger dem Finanzamt (Skatteverket) vertrauen. Das Finanzamt genießt im Vergleich zu anderen Behörden ein hohes Ansehen.",
+    "datum": "2026-06-23",
+    "kalla": "Skatteverket",
+    "kalla_url": "http://skatteverket.se/omoss/pressochmedia/nyheter/2026/nyheter/skatteverketsanseendeokar.5.3129d65419ef1497c0659c.html",
+    "taggar": [
+      "skatt",
+      "skatteverket"
+    ]
+  },
+  {
     "id": "HD03287",
     "typ": "lagforslag",
     "titel": "Neue politische Ausrichtung für eine stärkere Filmindustrie.\n\n# Eine neue politische Ausrichtung für eine stärkere Filmindustrie\n\n*   **Stärkung der nationalen Filmproduktion:** Förderung von Projekten, die die deutsche Kultur und Identität widerspiegeln.\n*   **Verbesserung der Finanzierungsbedingungen:** Schaffung eines stabileren und vorhersehbareren Finanzierungsrahmens für Filmprojekte.\n*   **Förderung von Talenten:** Unterstützung von Nachwuchskräften und Förderung der Vielfalt in der Filmbranche.\n*   **Ausbau der internationalen Zusammenarbeit:** Stärkung der Beziehungen zu anderen Ländern und Förderung des internationalen Austauschs.\n*   **Modernisierung der Infrastruktur:** Investitionen in moderne Produktionsstätten und -technologien.\n\nDies sind nur einige Beispiele für die Maßnahmen, die ergriffen werden können, um die deutsche Filmindustrie zu stärken. Eine umfassende politische Strategie ist notwendig, um langfristige Erfolge zu erzielen.",
@@ -1106,6 +1119,23 @@
       "pensionar": 3,
       "kronisk": 3,
       "funktion": 3
+    }
+  },
+  {
+    "id": "skatteverket-2026-06-22-fortsatt-stora-upptaxeringar-i",
+    "typ": "myndighet",
+    "titel": "Die Steuerbelastung im Bergbausektor bleibt weiterhin hoch.",
+    "ingress": "Das schwedische Finanzamt hat von Unternehmen, die gegen die Regeln bei der Erstellung von Kryptowährungen (sogenannte \"Mining\") verstoßen, über eine halbe Milliarde Kronen als zusätzliche Steuer erhoben. Dies liegt daran, dass diese Untern",
+    "datum": "2026-06-22",
+    "kalla": "Skatteverket",
+    "kalla_url": "http://skatteverket.se/omoss/pressochmedia/pressmeddelanden/2026/2026/fortsattstoraupptaxeringarinomminingsektorn.5.650b4a9d19ebd1653db179b.html",
+    "taggar": [
+      "skatt",
+      "skatteverket"
+    ],
+    "relevans": {
+      "moms": 3,
+      "konsument": 5
     }
   },
   {
@@ -1394,6 +1424,37 @@
       "korkort": 3,
       "husdjur": 3
     }
+  },
+  {
+    "id": "skatteverket-2026-06-18-skatteverket-presenterar-ny-la",
+    "typ": "myndighet",
+    "titel": "Das schwedische Finanzamt (Skatteverket) präsentiert einen neuen Bericht über die Bevölkerungsentwicklung.",
+    "ingress": "Das schwedische Finanzamt (Skatteverket) hat einen neuen Bericht veröffentlicht, der Auskunft darüber gibt, wie viele Personen in Schweden offiziell registriert sind und wie viele hier ohne Registrierungsnummer leben. Der Bericht zeigt, das",
+    "datum": "2026-06-18",
+    "kalla": "Skatteverket",
+    "kalla_url": "http://skatteverket.se/omoss/pressochmedia/pressmeddelanden/2026/2026/skatteverketpresenterarnylagesbildoverbefolkningen.5.650b4a9d19ebd1653db1407.html",
+    "taggar": [
+      "skatt",
+      "skatteverket"
+    ],
+    "relevans": {
+      "gdpr": 3,
+      "beroende": 3,
+      "integritet": 3
+    }
+  },
+  {
+    "id": "skatteverket-2026-06-18-tredje-nationella-lagesbilden-",
+    "typ": "myndighet",
+    "titel": "Der dritte nationale Lagebericht ist fertiggestellt.",
+    "ingress": "Ein neuer Bericht zeigt, dass die meisten Personen in Schweden korrekt im Einwohnerregister erfasst sind, aber dass ein kleiner Teil der Fehler große Probleme sowohl für Einzelpersonen als auch für die Gesellschaft verursachen kann.",
+    "datum": "2026-06-18",
+    "kalla": "Skatteverket",
+    "kalla_url": "http://skatteverket.se/omoss/pressochmedia/nyheter/2026/nyheter/tredjenationellalagesbildenarklar.5.650b4a9d19ebd1653db12e9.html",
+    "taggar": [
+      "skatt",
+      "skatteverket"
+    ]
   },
   {
     "id": "stockholm-kommunstyrelsen-2026-06-17",
@@ -2945,6 +3006,25 @@
       "b_vard": 3,
       "finansiering": 3,
       "barn": 3
+    }
+  },
+  {
+    "id": "skatteverket-2026-06-15-bedrageriforsok-okar-i-samband",
+    "typ": "myndighet",
+    "titel": "Betrugsversuche nehmen im Zusammenhang mit Steuererstattungen zu.\n\nHier sind einige Beispiele:\n\n*   E-Mails, die angeblich von der schwedischen Steuerbehörde (Skatteverket) stammen und Sie auffordern, Ihre Bankdaten preiszugeben.\n*   Telefonanrufe, bei denen sich jemand als Mitarbeiter des Skatteverkets ausgibt und nach persönlichen Informationen fragt.\n*   Websites, die gefälschte Steuerformulare anbieten oder Ihnen versprechen, Ihre Steuererstattung zu beschleunigen.\n\nSeien Sie vorsichtig und geben Sie niemals persönliche Daten an Dritte weiter, wenn Sie sich nicht sicher sind, wer Sie kontaktiert hat.",
+    "ingress": "Betrüger geben sich als Mitarbeiter des schwedischen Finanzamts (Skatteverket) aus, um Ihre persönlichen Daten und Bankinformationen zu stehlen. Seien Sie vorsichtig bei E-Mails, SMS oder Anrufen, in denen Sie nach Passwörtern oder Kontodat",
+    "datum": "2026-06-15",
+    "kalla": "Skatteverket",
+    "kalla_url": "http://skatteverket.se/omoss/pressochmedia/nyheter/2026/nyheter/bedrageriforsokokarisambandmedskatteaterbaring.5.650b4a9d19ebd1653db610.html",
+    "taggar": [
+      "skatt",
+      "skatteverket"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "gdpr": 3,
+      "integritet": 3,
+      "digital_ovan": 3
     }
   },
   {

@@ -247,7 +247,7 @@
   "skatt": {
     "etikett": "Steuern",
     "typ": "ämne",
-    "antal": 1
+    "antal": 6
   },
   "finansmarknad": {
     "etikett": "Finanzmarkt",
@@ -1723,5 +1723,10 @@
     "etikett": "Regionale Wirtschaft.",
     "typ": "ämne",
     "antal": 1
+  },
+  "skatteverket": {
+    "etikett": "Das schwedische Finanzamt (Skatteverket).",
+    "typ": "organisation",
+    "antal": 5
   }
 }

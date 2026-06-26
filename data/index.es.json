@@ -865,6 +865,19 @@
     }
   },
   {
+    "id": "skatteverket-2026-06-23-skatteverkets-anseende-okar",
+    "typ": "myndighet",
+    "titel": "La reputación de la Agencia Tributaria está aumentando.",
+    "ingress": "En mayor cantidad de suecos confían en la Agencia Tributaria (Skatteverket) en el año 2026. La Agencia Tributaria se sitúa en un nivel alto en comparación con otras agencias gubernamentales.",
+    "datum": "2026-06-23",
+    "kalla": "Skatteverket",
+    "kalla_url": "http://skatteverket.se/omoss/pressochmedia/nyheter/2026/nyheter/skatteverketsanseendeokar.5.3129d65419ef1497c0659c.html",
+    "taggar": [
+      "skatt",
+      "skatteverket"
+    ]
+  },
+  {
     "id": "HD03287",
     "typ": "lagforslag",
     "titel": "Nueva orientación política para una industria cinematográfica más fuerte.\n\n# Una nueva visión para el cine\n\n*   **Fomentar la creatividad y la innovación:** Apoyar proyectos cinematográficos originales y vanguardistas.\n*   **Promover la diversidad y la inclusión:** Garantizar que todas las voces sean escuchadas y representadas en el cine.\n*   **Fortalecer la industria local:** Crear oportunidades para cineastas y profesionales del cine en todo el país.\n*   **Impulsar la internacionalización:** Facilitar la promoción y distribución de películas suecas en el extranjero.\n\n## Objetivos clave\n\n*   Aumentar la financiación para la producción cinematográfica.\n*   Simplificar los procesos burocráticos para los cineastas.\n*   Crear incentivos fiscales para la inversión en cine.\n*   Fortalecer la colaboración entre el sector público y el privado.\n\n## Acciones concretas\n\n*   Lanzar un nuevo programa de subvenciones para proyectos cinematográficos innovadores.\n*   Establecer un fondo de inversión para apoyar a nuevos talentos.\n*   Organizar festivales y eventos cinematográficos para promover el cine sueco.\n*   Negociar acuerdos de coproducción con otros países.\n\nEsta nueva política tiene como objetivo crear un entorno más favorable para la industria cinematográfica sueca, permitiendo que siga siendo una fuente de orgullo nacional y un motor de crecimiento económico.",
@@ -1106,6 +1119,23 @@
       "pensionar": 3,
       "kronisk": 3,
       "funktion": 3
+    }
+  },
+  {
+    "id": "skatteverket-2026-06-22-fortsatt-stora-upptaxeringar-i",
+    "typ": "myndighet",
+    "titel": "Continúan los aumentos significativos de impuestos en el sector minero.",
+    "ingress": "La Agencia Tributaria sueca ha recaudado más de medio mil millones de coronas suecas en impuestos adicionales de empresas que incumplen las normas al crear criptomonedas (un proceso conocido como \"minería\"). Esto se debe a que estas empresa",
+    "datum": "2026-06-22",
+    "kalla": "Skatteverket",
+    "kalla_url": "http://skatteverket.se/omoss/pressochmedia/pressmeddelanden/2026/2026/fortsattstoraupptaxeringarinomminingsektorn.5.650b4a9d19ebd1653db179b.html",
+    "taggar": [
+      "skatt",
+      "skatteverket"
+    ],
+    "relevans": {
+      "moms": 3,
+      "konsument": 5
     }
   },
   {
@@ -1370,6 +1400,37 @@
       "korkort": 3,
       "husdjur": 3
     }
+  },
+  {
+    "id": "skatteverket-2026-06-18-skatteverket-presenterar-ny-la",
+    "typ": "myndighet",
+    "titel": "La Agencia Tributaria presenta una nueva evaluación de la situación demográfica.",
+    "ingress": "La Agencia Tributaria (Skatteverket) ha publicado un nuevo informe sobre el número de personas registradas en Suecia y cuántas residen aquí sin tener un número de identificación. El informe revela que existen errores en el sistema, lo que p",
+    "datum": "2026-06-18",
+    "kalla": "Skatteverket",
+    "kalla_url": "http://skatteverket.se/omoss/pressochmedia/pressmeddelanden/2026/2026/skatteverketpresenterarnylagesbildoverbefolkningen.5.650b4a9d19ebd1653db1407.html",
+    "taggar": [
+      "skatt",
+      "skatteverket"
+    ],
+    "relevans": {
+      "gdpr": 3,
+      "beroende": 3,
+      "integritet": 3
+    }
+  },
+  {
+    "id": "skatteverket-2026-06-18-tredje-nationella-lagesbilden-",
+    "typ": "myndighet",
+    "titel": "El tercer informe nacional de situación ya está disponible.",
+    "ingress": "Un nuevo informe revela que la mayoría de las personas en Suecia están correctamente registradas en el registro civil, pero que una pequeña parte de los errores puede causar grandes problemas tanto para los individuos como para la sociedad.",
+    "datum": "2026-06-18",
+    "kalla": "Skatteverket",
+    "kalla_url": "http://skatteverket.se/omoss/pressochmedia/nyheter/2026/nyheter/tredjenationellalagesbildenarklar.5.650b4a9d19ebd1653db12e9.html",
+    "taggar": [
+      "skatt",
+      "skatteverket"
+    ]
   },
   {
     "id": "stockholm-kommunstyrelsen-2026-06-17",
@@ -2915,6 +2976,25 @@
       "b_vard": 3,
       "finansiering": 3,
       "barn": 3
+    }
+  },
+  {
+    "id": "skatteverket-2026-06-15-bedrageriforsok-okar-i-samband",
+    "typ": "myndighet",
+    "titel": "Los intentos de fraude están aumentando en relación con los reembolsos de impuestos.\n\n*   [Nombre]\n*   [Número]\n*   [Fecha]\n*   [URL]",
+    "ingress": "Estafadores se hacen pasar por representantes de la Agencia Tributaria (Skatteverket) para intentar robar sus datos personales e información bancaria. Tenga cuidado con los correos electrónicos, mensajes de texto o llamadas telefónicas que",
+    "datum": "2026-06-15",
+    "kalla": "Skatteverket",
+    "kalla_url": "http://skatteverket.se/omoss/pressochmedia/nyheter/2026/nyheter/bedrageriforsokokarisambandmedskatteaterbaring.5.650b4a9d19ebd1653db610.html",
+    "taggar": [
+      "skatt",
+      "skatteverket"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "gdpr": 3,
+      "integritet": 3,
+      "digital_ovan": 3
     }
   },
   {

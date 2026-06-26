@@ -182,7 +182,7 @@
   "skatt": {
     "etikett": "Impôts.",
     "typ": "ämne",
-    "antal": 1
+    "antal": 6
   },
   "finansmarknad": {
     "etikett": "Marché financier.",
@@ -1663,5 +1663,10 @@
     "etikett": "Économie régionale.",
     "typ": "ämne",
     "antal": 1
+  },
+  "skatteverket": {
+    "etikett": "L'Agence fiscale suédoise (Skatteverket).",
+    "typ": "organisation",
+    "antal": 5
   }
 }

@@ -182,7 +182,7 @@
   "skatt": {
     "etikett": "الضرائب",
     "typ": "ämne",
-    "antal": 1
+    "antal": 6
   },
   "finansmarknad": {
     "etikett": "# الأسواق المالية",
@@ -1678,5 +1678,10 @@
     "etikett": "مراجعة.",
     "typ": "ämne",
     "antal": 3
+  },
+  "skatteverket": {
+    "etikett": "مصلحة الضرائب السويدية.",
+    "typ": "organisation",
+    "antal": 5
   }
 }

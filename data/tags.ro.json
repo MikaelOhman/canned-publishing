@@ -182,7 +182,7 @@
   "skatt": {
     "etikett": "Impozite.",
     "typ": "ämne",
-    "antal": 1
+    "antal": 6
   },
   "finansmarknad": {
     "etikett": "Piața financiară.",
@@ -1663,5 +1663,10 @@
     "etikett": "Verificare.",
     "typ": "ämne",
     "antal": 3
+  },
+  "skatteverket": {
+    "etikett": "Agenția Fiscală Suedeză (Skatteverket)",
+    "typ": "organisation",
+    "antal": 5
   }
 }

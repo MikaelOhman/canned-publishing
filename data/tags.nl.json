@@ -182,7 +182,7 @@
   "skatt": {
     "etikett": "Belasting.",
     "typ": "ämne",
-    "antal": 1
+    "antal": 6
   },
   "finansmarknad": {
     "etikett": "Financiële markt.",
@@ -1663,5 +1663,10 @@
     "etikett": "Regionale economie.",
     "typ": "ämne",
     "antal": 1
+  },
+  "skatteverket": {
+    "etikett": "Belastingdienst",
+    "typ": "organisation",
+    "antal": 5
   }
 }

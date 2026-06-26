@@ -865,6 +865,19 @@
     }
   },
   {
+    "id": "skatteverket-2026-06-23-skatteverkets-anseende-okar",
+    "typ": "myndighet",
+    "titel": "Reputația Agenției Fiscale Suedeze este în creștere.",
+    "ingress": "În anul 2026, un număr mai mare de cetățeni suedezi vor avea încredere în Agenția Fiscală (Skatteverket). Agenția Fiscală se situează într-o poziție favorabilă comparativ cu alte instituții guvernamentale.",
+    "datum": "2026-06-23",
+    "kalla": "Skatteverket",
+    "kalla_url": "http://skatteverket.se/omoss/pressochmedia/nyheter/2026/nyheter/skatteverketsanseendeokar.5.3129d65419ef1497c0659c.html",
+    "taggar": [
+      "skatt",
+      "skatteverket"
+    ]
+  },
+  {
     "id": "HD03287",
     "typ": "lagforslag",
     "titel": "O nouă direcție politică pentru o industrie cinematografică mai puternică.\n\n# O nouă direcție politică pentru o industrie cinematografică mai puternică\n\nAceastă inițiativă vizează să sprijine și să dezvolte industria cinematografică, oferind oportunități mai bune pentru producție, distribuție și promovare.\n\n*   **Sprijin financiar:**\n    *   Creșterea finanțării pentru producțiile cinematografice.\n    *   Subvenții pentru proiecte inovatoare și experimentale.\n*   **Infrastructură:**\n    *   Modernizarea studiurilor de film și a echipamentelor.\n    *   Dezvoltarea de spații dedicate pentru post-producție.\n*   **Formare și educație:**\n    *   Programe de formare pentru profesioniștii din industrie.\n    *   Burse pentru studenții talentați.\n*   **Promovare:**\n    *   Sprijin pentru participarea la festivaluri internaționale.\n    *   Campanii de promovare a filmelor românești.\n\nAceastă abordare politică are ca scop crearea unui mediu favorabil pentru dezvoltarea unei industrii cinematografice vibrante și competitive.\n\nPentru mai multe informații, vizitați: www.example.com.",
@@ -1085,6 +1098,23 @@
       "pensionar": 3,
       "kronisk": 3,
       "funktion": 3
+    }
+  },
+  {
+    "id": "skatteverket-2026-06-22-fortsatt-stora-upptaxeringar-i",
+    "typ": "myndighet",
+    "titel": "Continuă majorările semnificative ale taxelor în sectorul minier.",
+    "ingress": "Agenția Fiscală suedeză a recuperat peste o jumătate de miliard de coroane suedeze prin taxe suplimentare de la companii care încalcă regulile atunci când creează criptomonede (un proces numit \"mining\"). Acest lucru se întâmplă deoarece ace",
+    "datum": "2026-06-22",
+    "kalla": "Skatteverket",
+    "kalla_url": "http://skatteverket.se/omoss/pressochmedia/pressmeddelanden/2026/2026/fortsattstoraupptaxeringarinomminingsektorn.5.650b4a9d19ebd1653db179b.html",
+    "taggar": [
+      "skatt",
+      "skatteverket"
+    ],
+    "relevans": {
+      "moms": 3,
+      "konsument": 5
     }
   },
   {
@@ -1349,6 +1379,37 @@
       "korkort": 3,
       "husdjur": 3
     }
+  },
+  {
+    "id": "skatteverket-2026-06-18-skatteverket-presenterar-ny-la",
+    "typ": "myndighet",
+    "titel": "Agenția Fiscală suedeză prezintă o nouă analiză a situației demografice.",
+    "ingress": "Agenția Fiscală suedeză a publicat un nou raport despre numărul de persoane înregistrate oficial în Suedia și despre numărul celor care locuiesc aici fără să fie înregistrate. Raportul arată că există erori în sistem, ceea ce poate duce la",
+    "datum": "2026-06-18",
+    "kalla": "Skatteverket",
+    "kalla_url": "http://skatteverket.se/omoss/pressochmedia/pressmeddelanden/2026/2026/skatteverketpresenterarnylagesbildoverbefolkningen.5.650b4a9d19ebd1653db1407.html",
+    "taggar": [
+      "skatt",
+      "skatteverket"
+    ],
+    "relevans": {
+      "gdpr": 3,
+      "beroende": 3,
+      "integritet": 3
+    }
+  },
+  {
+    "id": "skatteverket-2026-06-18-tredje-nationella-lagesbilden-",
+    "typ": "myndighet",
+    "titel": "A treia evaluare națională a situației este finalizată.",
+    "ingress": "Un raport recent arată că majoritatea persoanelor din Suedia sunt corect înregistrate în registrul populației, dar că o mică parte dintre erori pot provoca probleme semnificative atât pentru indivizi, cât și pentru societate.",
+    "datum": "2026-06-18",
+    "kalla": "Skatteverket",
+    "kalla_url": "http://skatteverket.se/omoss/pressochmedia/nyheter/2026/nyheter/tredjenationellalagesbildenarklar.5.650b4a9d19ebd1653db12e9.html",
+    "taggar": [
+      "skatt",
+      "skatteverket"
+    ]
   },
   {
     "id": "stockholm-kommunstyrelsen-2026-06-17",
@@ -2894,6 +2955,25 @@
       "b_vard": 3,
       "finansiering": 3,
       "barn": 3
+    }
+  },
+  {
+    "id": "skatteverket-2026-06-15-bedrageriforsok-okar-i-samband",
+    "typ": "myndighet",
+    "titel": "Tentativele de fraudă cresc în contextul rambursărilor de taxe.",
+    "ingress": "Escrocii se fac că sunt de la Agenția Fiscală (Skatteverket) pentru a încerca să vă fure datele personale și informațiile bancare. Fiți atenți la e-mailuri, mesaje SMS sau apeluri telefonice care vă solicită parole sau detalii despre contul",
+    "datum": "2026-06-15",
+    "kalla": "Skatteverket",
+    "kalla_url": "http://skatteverket.se/omoss/pressochmedia/nyheter/2026/nyheter/bedrageriforsokokarisambandmedskatteaterbaring.5.650b4a9d19ebd1653db610.html",
+    "taggar": [
+      "skatt",
+      "skatteverket"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "gdpr": 3,
+      "integritet": 3,
+      "digital_ovan": 3
     }
   },
   {

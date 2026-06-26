@@ -182,7 +182,7 @@
   "skatt": {
     "etikett": "Adó.",
     "typ": "ämne",
-    "antal": 1
+    "antal": 6
   },
   "finansmarknad": {
     "etikett": "Pénzügyi piac.",
@@ -1663,5 +1663,10 @@
     "etikett": "Vizsgálat.",
     "typ": "ämne",
     "antal": 3
+  },
+  "skatteverket": {
+    "etikett": "A Svéd Adóhatóság (Svenska: Skatteverket).",
+    "typ": "organisation",
+    "antal": 5
   }
 }

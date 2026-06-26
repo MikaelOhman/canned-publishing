@@ -865,6 +865,19 @@
     }
   },
   {
+    "id": "skatteverket-2026-06-23-skatteverkets-anseende-okar",
+    "typ": "myndighet",
+    "titel": "Az adóhatóság hírneve javul.",
+    "ingress": "2026-ban egyre több svéd állampolgár fog bízni az adóhatóságban (Skatteverket). Az adóhatóság a lakosság által preferált intézmények között szerepel, és magasabb bizalmi szinttel rendelkezik, mint más kormányzati szervek.",
+    "datum": "2026-06-23",
+    "kalla": "Skatteverket",
+    "kalla_url": "http://skatteverket.se/omoss/pressochmedia/nyheter/2026/nyheter/skatteverketsanseendeokar.5.3129d65419ef1497c0659c.html",
+    "taggar": [
+      "skatt",
+      "skatteverket"
+    ]
+  },
+  {
     "id": "HD03287",
     "typ": "lagforslag",
     "titel": "Új politikai irányvonal egy erősebb filmiparárt.",
@@ -1085,6 +1098,23 @@
       "pensionar": 3,
       "kronisk": 3,
       "funktion": 3
+    }
+  },
+  {
+    "id": "skatteverket-2026-06-22-fortsatt-stora-upptaxeringar-i",
+    "typ": "myndighet",
+    "titel": "A bányászati szektorban továbbra is jelentős adóemeléseket terveznek.",
+    "ingress": "A Svéd Adóhatóság több mint félmilliárd svéd koronát szerezett be pótdíj formájában olyan vállalatoktól, amelyek szabálysértő tevékenységet folytattak a kriptovaluták (más néven \"bányászat\") létrehozása során. Ennek oka az, hogy ezek a váll",
+    "datum": "2026-06-22",
+    "kalla": "Skatteverket",
+    "kalla_url": "http://skatteverket.se/omoss/pressochmedia/pressmeddelanden/2026/2026/fortsattstoraupptaxeringarinomminingsektorn.5.650b4a9d19ebd1653db179b.html",
+    "taggar": [
+      "skatt",
+      "skatteverket"
+    ],
+    "relevans": {
+      "moms": 3,
+      "konsument": 5
     }
   },
   {
@@ -1349,6 +1379,37 @@
       "korkort": 3,
       "husdjur": 3
     }
+  },
+  {
+    "id": "skatteverket-2026-06-18-skatteverket-presenterar-ny-la",
+    "typ": "myndighet",
+    "titel": "A Svéd Adóhatóság (Skatteverket) új képet mutat be a lakosságról.",
+    "ingress": "A Svéd Adóhatóság (Skatteverket) közzétett egy új jelentést arról, hány embernek van bejelentett lakcíme Svédországban, és hányan élnek az országban anélkül, hogy rendelkeznének ilyen nyilvántartásba vett adattal. A jelentés rámutat arra, h",
+    "datum": "2026-06-18",
+    "kalla": "Skatteverket",
+    "kalla_url": "http://skatteverket.se/omoss/pressochmedia/pressmeddelanden/2026/2026/skatteverketpresenterarnylagesbildoverbefolkningen.5.650b4a9d19ebd1653db1407.html",
+    "taggar": [
+      "skatt",
+      "skatteverket"
+    ],
+    "relevans": {
+      "gdpr": 3,
+      "beroende": 3,
+      "integritet": 3
+    }
+  },
+  {
+    "id": "skatteverket-2026-06-18-tredje-nationella-lagesbilden-",
+    "typ": "myndighet",
+    "titel": "A harmadik országos helyzetjelentés elkészült.",
+    "ingress": "Egy új jelentés szerint a svéd lakosság többsége helyesen van bejegyezve a népességregiszterben, azonban a hibák egy kis százaléka komoly problémákat okozhat mind az egyéneknek, mind a társadalomnak.",
+    "datum": "2026-06-18",
+    "kalla": "Skatteverket",
+    "kalla_url": "http://skatteverket.se/omoss/pressochmedia/nyheter/2026/nyheter/tredjenationellalagesbildenarklar.5.650b4a9d19ebd1653db12e9.html",
+    "taggar": [
+      "skatt",
+      "skatteverket"
+    ]
   },
   {
     "id": "stockholm-kommunstyrelsen-2026-06-17",
@@ -2894,6 +2955,25 @@
       "b_vard": 3,
       "finansiering": 3,
       "barn": 3
+    }
+  },
+  {
+    "id": "skatteverket-2026-06-15-bedrageriforsok-okar-i-samband",
+    "typ": "myndighet",
+    "titel": "A visszafizetési igénylésekkel kapcsolatos csalások száma növekszik.",
+    "ingress": "Csalók úgy adhatják ki magukat, hogy a svéd adóhatóság (Skatteverket) munkatársai, és céljuk az, hogy megkapják személyes adataitokat és bankszámlaszámaitokat. Legyetek óvatosak azokkal az e-mailekkel, SMS-üzenetekkel vagy telefonhívásokkal",
+    "datum": "2026-06-15",
+    "kalla": "Skatteverket",
+    "kalla_url": "http://skatteverket.se/omoss/pressochmedia/nyheter/2026/nyheter/bedrageriforsokokarisambandmedskatteaterbaring.5.650b4a9d19ebd1653db610.html",
+    "taggar": [
+      "skatt",
+      "skatteverket"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "gdpr": 3,
+      "integritet": 3,
+      "digital_ovan": 3
     }
   },
   {

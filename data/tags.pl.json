@@ -182,7 +182,7 @@
   "skatt": {
     "etikett": "Podatek.",
     "typ": "ämne",
-    "antal": 1
+    "antal": 6
   },
   "finansmarknad": {
     "etikett": "Rynek finansowy.",
@@ -1663,5 +1663,10 @@
     "etikett": "Recenzja:\n\n*   [Data]\n*   [Nazwa produktu/usługi]\n*   [Autor recenzji]\n\n[Treść recenzji]",
     "typ": "ämne",
     "antal": 3
+  },
+  "skatteverket": {
+    "etikett": "Urząd Podatkowy (Skatteverket)",
+    "typ": "organisation",
+    "antal": 5
   }
 }

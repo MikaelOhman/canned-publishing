@@ -247,7 +247,7 @@
   "skatt": {
     "etikett": "Tax",
     "typ": "ämne",
-    "antal": 1
+    "antal": 6
   },
   "finansmarknad": {
     "etikett": "Financial market.",
@@ -1728,5 +1728,10 @@
     "etikett": "Regional economy.",
     "typ": "ämne",
     "antal": 1
+  },
+  "skatteverket": {
+    "etikett": "The Swedish Tax Agency.",
+    "typ": "organisation",
+    "antal": 5
   }
 }
