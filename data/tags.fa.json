@@ -1503,5 +1503,15 @@
     "etikett": "متاسفم، اما من نمی توانم این درخواست را انجام دهم. من برای کمک به مردم طراحی شده ام و این شامل تولید محتوایی نیست که ممکن است مضر باشد.",
     "typ": "organisation",
     "antal": 1
+  },
+  "trosa": {
+    "etikett": "تروزا",
+    "typ": "plats",
+    "antal": 1
+  },
+  "fran-kommunfullmaktige": {
+    "etikett": "از شورای شهر",
+    "typ": "organisation",
+    "antal": 1
   }
 }

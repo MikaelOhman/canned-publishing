@@ -1513,5 +1513,15 @@
     "etikett": "ÖFN",
     "typ": "organisation",
     "antal": 1
+  },
+  "trosa": {
+    "etikett": "Trosa",
+    "typ": "plats",
+    "antal": 1
+  },
+  "fran-kommunfullmaktige": {
+    "etikett": "Van de gemeenteraad:\n\n*   [Hier zou een lijst of paragraaf volgen die vertaald moet worden]",
+    "typ": "organisation",
+    "antal": 1
   }
 }

@@ -1503,5 +1503,15 @@
     "etikett": "Przepraszam, nie rozumiem. Proszę podać więcej informacji lub kontekstu.",
     "typ": "organisation",
     "antal": 1
+  },
+  "trosa": {
+    "etikett": "Trosa.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "fran-kommunfullmaktige": {
+    "etikett": "Z posiedzenia rady miejskiej:",
+    "typ": "organisation",
+    "antal": 1
   }
 }

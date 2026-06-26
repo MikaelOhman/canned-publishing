@@ -1503,5 +1503,15 @@
     "etikett": "Sajnálom, de nem tudom, hogy mit jelent az \"ÖFN\". Kérlek, adj több információt, vagy egy másik szöveget, amit lefordíthatok.",
     "typ": "organisation",
     "antal": 1
+  },
+  "trosa": {
+    "etikett": "Trosa.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "fran-kommunfullmaktige": {
+    "etikett": "A városi képviselő-testület által jóváhagyva:",
+    "typ": "organisation",
+    "antal": 1
   }
 }
