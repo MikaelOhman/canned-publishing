@@ -150,6 +150,95 @@
     }
   },
   {
+    "id": "eu-kommissionen-2026-06-25-remarks-by-commissioner-hoekst",
+    "typ": "omvarld",
+    "titel": "Anmerkungen von Kommissar Hoekstra bei der Sitzung des Umwelt-Ausschusses (ENVI) des Europäischen Parlaments.",
+    "ingress": "Ein Vertreter der Europäischen Kommission bedankt sich bei den Politikern für ihre Arbeit und ihre Teilnahme an dem Treffen zu Umweltfragen.",
+    "datum": "2026-06-25",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1466",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ],
+    "relevans": {
+      "klimat": 8
+    }
+  },
+  {
+    "id": "eu-kommissionen-2026-06-25-eu-steps-up-support-for-ukrain",
+    "typ": "omvarld",
+    "titel": "Die EU erhöht ihre Unterstützung für die Verteidigung, den Wiederaufbau und die Erholung der Ukraine im Rahmen der Konferenz zur Wiederaufbaubereitschaft der Ukraine im Jahr 2026.",
+    "ingress": "Die EU hat beschlossen, der Ukraine mehr Hilfe zukommen zu lassen, sowohl für die Verteidigung als auch für den Wiederaufbau des Landes nach dem Krieg. Dies ist ein wichtiger Bestandteil der Zusammenarbeit, um das Land zu stärken.",
+    "datum": "2026-06-25",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1465",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_vard": 3,
+      "varnpliktig": 8
+    }
+  },
+  {
+    "id": "eu-kommissionen-2026-06-25-press-statement-by-commissione",
+    "typ": "omvarld",
+    "titel": "Erklärung von Kommissar Kubilius nach dem Gipfeltreffen über die Ostgrenze.\n\n*   Der Kommissar kommentierte die während des Treffens geführten Diskussionen.\n*   Er hob wichtige Themen hervor, die behandelt wurden.\n*   H",
+    "ingress": "Die EU-Führung hat eine neue Verteidigungskooperation beschlossen, um die östliche Grenze und alle Mitgliedsländer der Europäischen Union zu schützen.",
+    "datum": "2026-06-25",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1464",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ],
+    "relevans": {
+      "varnpliktig": 3
+    }
+  },
+  {
+    "id": "eu-kommissionen-2026-06-25-moldova-s-place-is-in-the-euro",
+    "typ": "omvarld",
+    "titel": "\"Der Platz Moldawiens ist in der Europäischen Union\", sagte Präsidentin von der Leyen beim EU-Gipfeltreffen mit Moldawien.",
+    "ingress": "Die europäischen Staats- und Regierungschefs begrüßen die Annäherung Moldawiens an eine mögliche Mitgliedschaft in der Union. Dies ist ein wichtiger Schritt, damit das Land Teil der europäischen Gemeinschaft werden kann.",
+    "datum": "2026-06-25",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_1458",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ]
+  },
+  {
+    "id": "eu-kommissionen-2026-06-25-joint-statement-by-high-repres",
+    "typ": "omvarld",
+    "titel": "Gemeinsame Erklärung der Hohen Vertreterin der Europäischen Union, Kallas, sowie der Kommissare Síkela und Lahbib bezüglich der verheerenden Erdbeben in Venezuela.",
+    "ingress": "Die EU drückt ihre tiefe Solidarität und ihr Mitgefühl mit der Bevölkerung Venezuelas aus, die von den schweren Erdbeben betroffen ist. Sie möchte zeigen, dass sie das Land in dieser schwierigen Zeit unterstützt.",
+    "datum": "2026-06-25",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1457",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ]
+  },
+  {
+    "id": "eu-kommissionen-2026-06-25-daily-news-25-06-2026",
+    "typ": "omvarld",
+    "titel": "Tägliche Nachrichten vom 25. Juni 2026.",
+    "ingress": "Litauen erhält eine bedeutende finanzielle Unterstützung von der Europäischen Union zur Stärkung der Sicherheit des Landes.",
+    "datum": "2026-06-25",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1456",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ]
+  },
+  {
     "id": "ecb-2026-06-24-ecb-reports-on-progress-toward",
     "typ": "omvarld",
     "titel": "Die Europäische Zentralbank (EZB) berichtet über die Fortschritte bei der Einführung des Euro.",

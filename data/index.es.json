@@ -150,6 +150,95 @@
     }
   },
   {
+    "id": "eu-kommissionen-2026-06-25-remarks-by-commissioner-hoekst",
+    "typ": "omvarld",
+    "titel": "Observaciones del Comisario Hoekstra durante la reunión del Consejo de Medio Ambiente (ENVI).",
+    "ingress": "Un representante de la Comisión Europea agradeció a los políticos por su trabajo y por su asistencia a la reunión sobre temas medioambientales.",
+    "datum": "2026-06-25",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1466",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ],
+    "relevans": {
+      "klimat": 8
+    }
+  },
+  {
+    "id": "eu-kommissionen-2026-06-25-eu-steps-up-support-for-ukrain",
+    "typ": "omvarld",
+    "titel": "La Unión Europea incrementará su apoyo a la defensa, la recuperación y la reconstrucción de Ucrania durante la Conferencia de Reconstrucción de Ucrania en 2026.",
+    "ingress": "La Unión Europea ha decidido proporcionar a Ucrania más ayuda, tanto para su defensa como para la reconstrucción del país después de la guerra. Esta es una parte fundamental de la cooperación destinada a fortalecer el país.",
+    "datum": "2026-06-25",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1465",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_vard": 3,
+      "varnpliktig": 8
+    }
+  },
+  {
+    "id": "eu-kommissionen-2026-06-25-press-statement-by-commissione",
+    "typ": "omvarld",
+    "titel": "Declaración del Comisario Kubilius tras la cumbre sobre la frontera oriental.\n\n*   El Comisario comentó las discusiones que se llevaron a cabo durante la reunión.\n*   Destacó los temas importantes que se trataron.\n*   H... (La oración está incompleta en el texto original).",
+    "ingress": "La dirección de la Unión Europea ha decidido establecer una nueva cooperación en materia de defensa para proteger la frontera oriental y a todos los países miembros de la UE.",
+    "datum": "2026-06-25",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1464",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ],
+    "relevans": {
+      "varnpliktig": 3
+    }
+  },
+  {
+    "id": "eu-kommissionen-2026-06-25-moldova-s-place-is-in-the-euro",
+    "typ": "omvarld",
+    "titel": "\"El lugar de Moldavia está en la Unión Europea\", declaró la presidenta von der Leyen durante la cumbre de la UE con Moldavia.",
+    "ingress": "Los líderes de la Unión Europea dan la bienvenida a Moldavia, acercándola más a la posibilidad de convertirse en miembro de la unión. Este es un paso importante para que el país pueda formar parte de la comunidad europea.",
+    "datum": "2026-06-25",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_1458",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ]
+  },
+  {
+    "id": "eu-kommissionen-2026-06-25-joint-statement-by-high-repres",
+    "typ": "omvarld",
+    "titel": "Declaración conjunta de la Alta Representante de la Unión Europea, Kallas, y de los Comisarios Síkela y Lahbib, sobre los devastadores terremotos en Venezuela.",
+    "ingress": "La Unión Europea expresa su profundo apoyo y solidaridad con el pueblo de Venezuela tras los devastadores terremotos. Quieren demostrar que están al lado del país en este difícil momento.",
+    "datum": "2026-06-25",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1457",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ]
+  },
+  {
+    "id": "eu-kommissionen-2026-06-25-daily-news-25-06-2026",
+    "typ": "omvarld",
+    "titel": "Noticias diarias del 25 de junio de 2026.",
+    "ingress": "Lituania recibirá un importante apoyo económico de la Unión Europea para fortalecer la seguridad del país.",
+    "datum": "2026-06-25",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1456",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ]
+  },
+  {
     "id": "ecb-2026-06-24-ecb-reports-on-progress-toward",
     "typ": "omvarld",
     "titel": "El Banco Central Europeo (BCE) informa sobre los avances en la introducción del euro.",
