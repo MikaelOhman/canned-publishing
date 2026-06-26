@@ -312,7 +312,7 @@
   "kommunal-forvaltning": {
     "etikett": "Helyi közigazgatás.",
     "typ": "ämne",
-    "antal": 7
+    "antal": 8
   },
   "karin-wanngard": {
     "etikett": "Karin Wanngård",
@@ -402,7 +402,7 @@
   "kommunalpolitik": {
     "etikett": "Helyi politika.",
     "typ": "ämne",
-    "antal": 4
+    "antal": 5
   },
   "lekeberg": {
     "etikett": "Lekebergs",
@@ -1392,12 +1392,12 @@
   "regionfullmaktige": {
     "etikett": "Régióközi képviselőtestület.",
     "typ": "organisation",
-    "antal": 11
+    "antal": 13
   },
   "regionstyrelsen": {
     "etikett": "A regionális igazgatóság.",
     "typ": "organisation",
-    "antal": 8
+    "antal": 9
   },
   "reg-orebro": {
     "etikett": "Örebro megye.",
@@ -1412,7 +1412,7 @@
   "reg-jamtland": {
     "etikett": "A Jämtland és Härjedalen régió.",
     "typ": "organisation",
-    "antal": 4
+    "antal": 7
   },
   "reg-blekinge": {
     "etikett": "Blekinge régió.",
@@ -1617,7 +1617,7 @@
   "regionalpolitik": {
     "etikett": "Regionális politika.",
     "typ": "ämne",
-    "antal": 2
+    "antal": 3
   },
   "region-orebro-lan": {
     "etikett": "Örebro megye.",
@@ -1627,7 +1627,7 @@
   "sjukvard": {
     "etikett": "Egészségügy",
     "typ": "ämne",
-    "antal": 3
+    "antal": 4
   },
   "klimat-och-miljo": {
     "etikett": "Éghajlat és környezet\n\n*   **Datum:** [A dátumot itt be kell írni]\n*   **URL:** [Az URL-t itt kell beírni]",
@@ -1636,6 +1636,26 @@
   },
   "regional-forvaltning": {
     "etikett": "Regionális igazgatás.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "region-jamtland-harjedalen": {
+    "etikett": "A Jämtland Härjedalen régió.",
+    "typ": "organisation",
+    "antal": 3
+  },
+  "ostersund": {
+    "etikett": "Östersund.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "jamtland": {
+    "etikett": "Jämtland\n\n(Nincs további szöveg a fordításhoz.)",
+    "typ": "plats",
+    "antal": 2
+  },
+  "regional-ekonomi": {
+    "etikett": "Regionális gazdaság.",
     "typ": "ämne",
     "antal": 1
   }

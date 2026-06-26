@@ -5480,6 +5480,31 @@
     }
   },
   {
+    "id": "reg-jamtland-regionstyrelsen-2026-04-22",
+    "typ": "region",
+    "titel": "Conseil régional, Région de Jämtland Härjedalen, 22 avril 2026.",
+    "ingress": "La région de Jämtland Härjedalen a décidé de construire un nouveau centre de santé à Funäsdalen et d'aménager un héliport à Gäddede.",
+    "datum": "2026-04-22",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionstyrelsen/mote-2026-04-22",
+    "taggar": [
+      "reg-jamtland",
+      "regionstyrelsen",
+      "region-jamtland-harjedalen",
+      "sjukvard",
+      "regional-ekonomi",
+      "jamtland"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_transport": 3,
+      "tillstand": 3,
+      "infrastruktur": 3,
+      "flygresenar": 5,
+      "kronisk": 8
+    }
+  },
+  {
     "id": "burlov-jn-2026-04-21",
     "typ": "kommunbeslut",
     "titel": "JN, Commune de Burlöv, 21 avril 2026.",
@@ -9332,6 +9357,28 @@
     }
   },
   {
+    "id": "reg-jamtland-regionfullmaktige-2026-02-10",
+    "typ": "region",
+    "titel": "Membres du conseil régional de Jämtland Härjedalen, le 10 février 2026.",
+    "ingress": "La région a pris la décision d'acheter de nouveaux trains, de continuer à offrir gratuitement les vaccins contre le VPH et d'améliorer les soins psychiatriques pour les enfants.",
+    "datum": "2026-02-10",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionfullmaktige/mote-2026-02-10",
+    "taggar": [
+      "reg-jamtland",
+      "regionfullmaktige",
+      "region-jamtland-harjedalen",
+      "ostersund",
+      "kommunalpolitik"
+    ],
+    "relevans": {
+      "barn": 3,
+      "kollektiv": 3,
+      "kronisk": 8,
+      "psykisk": 3
+    }
+  },
+  {
     "id": "reg-orebro-regionfullmaktige-2026-02-09",
     "typ": "region",
     "titel": "Membres du conseil régional d'Örebro län, date du 9 février 2026.",
@@ -10877,6 +10924,29 @@
       "f_kommun": 6,
       "offentliganstalld": 5,
       "fortroendevald": 5
+    }
+  },
+  {
+    "id": "reg-jamtland-regionfullmaktige-2025-11-25",
+    "typ": "region",
+    "titel": "Membres du conseil régional, Région de Jämtland Härjedalen, le 25 novembre 2025.",
+    "ingress": "La région a pris des décisions concernant plusieurs questions importantes liées aux soins de santé, notamment l'augmentation des tarifs pour certains services et la diminution des tarifs pour d'autres.",
+    "datum": "2025-11-25",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionfullmaktige/mote-2025-11-25",
+    "taggar": [
+      "reg-jamtland",
+      "regionfullmaktige",
+      "region-jamtland-harjedalen",
+      "jamtland",
+      "regionalpolitik",
+      "kommunal-forvaltning"
+    ],
+    "relevans": {
+      "b_fastighet": 3,
+      "kollektiv": 3,
+      "kronisk": 8,
+      "konsument": 3
     }
   },
   {

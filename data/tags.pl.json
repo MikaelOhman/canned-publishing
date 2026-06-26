@@ -312,7 +312,7 @@
   "kommunal-forvaltning": {
     "etikett": "Zarządzanie samorządem lokalnym.",
     "typ": "ämne",
-    "antal": 7
+    "antal": 8
   },
   "karin-wanngard": {
     "etikett": "Karin Wanngård",
@@ -402,7 +402,7 @@
   "kommunalpolitik": {
     "etikett": "Polityka samorządowa.",
     "typ": "ämne",
-    "antal": 4
+    "antal": 5
   },
   "lekeberg": {
     "etikett": "Lekebergs",
@@ -1392,12 +1392,12 @@
   "regionfullmaktige": {
     "etikett": "Członkowie regionalnej rady.",
     "typ": "organisation",
-    "antal": 11
+    "antal": 13
   },
   "regionstyrelsen": {
     "etikett": "Regionalna Rada Zarządzająca.",
     "typ": "organisation",
-    "antal": 8
+    "antal": 9
   },
   "reg-orebro": {
     "etikett": "Region Örebro län",
@@ -1412,7 +1412,7 @@
   "reg-jamtland": {
     "etikett": "Region Jämtland Härjedalen.",
     "typ": "organisation",
-    "antal": 4
+    "antal": 7
   },
   "reg-blekinge": {
     "etikett": "Region Blekinge",
@@ -1617,7 +1617,7 @@
   "regionalpolitik": {
     "etikett": "Polityka regionalna\n\n(Poniżej znajdują się potencjalne elementy, które mogłyby być zawarte w dalszej części tekstu, ale nie są dostępne w oryginalnym fragmencie.  Dlatego poniższa struktura jest hipotetyczna.)\n\n*   **Cele polityki regionalnej:**\n    *   [Cel 1]\n    *   [Cel 2]\n    *   [Cel 3]\n\n*   **Obszary działania:**\n    *   Rozwój infrastruktury\n    *   Wsparcie dla przedsiębiorczości\n    *   Ochrona środowiska\n\n*   **Przykłady programów i inicjatyw:**\n    *   Program X (URL: [adres URL])\n    *   Inicjatywa Y (data rozpoczęcia: 2023-01-15)\n    *   Projekt Z (budżet: 1 000 000 EUR)\n\n*   **Wskaźniki efektywności:**\n    *   Liczba utworzonych miejsc pracy\n    *   Poziom inwestycji zagranicznych\n    *   Stopa bezrobocia",
     "typ": "ämne",
-    "antal": 2
+    "antal": 3
   },
   "region-orebro-lan": {
     "etikett": "Region Örebro län",
@@ -1627,7 +1627,7 @@
   "sjukvard": {
     "etikett": "Opieka zdrowotna.",
     "typ": "ämne",
-    "antal": 3
+    "antal": 4
   },
   "klimat-och-miljo": {
     "etikett": "Klimat i środowisko\n\n*   Opis zmian klimatycznych i ich wpływu na środowisko.\n*   Przykłady działań mających na celu ochronę środowiska.\n*   Informacje o zrównoważonym rozwoju i jego znaczeniu.\n*   Dane statystyczne dotyczące emisji gazów cieplarnianych.\n*   Linki do stron internetowych organizacji zajmujących się ochroną klimatu i środowiska (np. [URL]).",
@@ -1636,6 +1636,26 @@
   },
   "regional-forvaltning": {
     "etikett": "Zarządzanie regionalne.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "region-jamtland-harjedalen": {
+    "etikett": "Region Jämtland Härjedalen.",
+    "typ": "organisation",
+    "antal": 3
+  },
+  "ostersund": {
+    "etikett": "Östersund.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "jamtland": {
+    "etikett": "Jämtland\n\n(Brak kontekstu, więc nie można dokonać bardziej szczegółowego tłumaczenia.)",
+    "typ": "plats",
+    "antal": 2
+  },
+  "regional-ekonomi": {
+    "etikett": "Ekonomia regionalna.",
     "typ": "ämne",
     "antal": 1
   }

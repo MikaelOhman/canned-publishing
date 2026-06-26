@@ -5497,6 +5497,31 @@
     }
   },
   {
+    "id": "reg-jamtland-regionstyrelsen-2026-04-22",
+    "typ": "region",
+    "titel": "Regionalna Rada Zarządzająca, Region Jämtland Härjedalen, 22 kwietnia 2026 roku.",
+    "ingress": "Region Jämtland Härjedalen podjęła decyzję o budowie nowego centrum zdrowia w Funäsdalen oraz utworzeniu lądowiska dla śmigłowców w Gäddede.",
+    "datum": "2026-04-22",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionstyrelsen/mote-2026-04-22",
+    "taggar": [
+      "reg-jamtland",
+      "regionstyrelsen",
+      "region-jamtland-harjedalen",
+      "sjukvard",
+      "regional-ekonomi",
+      "jamtland"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_transport": 3,
+      "tillstand": 3,
+      "infrastruktur": 3,
+      "flygresenar": 5,
+      "kronisk": 8
+    }
+  },
+  {
     "id": "burlov-jn-2026-04-21",
     "typ": "kommunbeslut",
     "titel": "JN, Gmina Burlöv, 21 kwietnia 2026 roku.",
@@ -9349,6 +9374,28 @@
     }
   },
   {
+    "id": "reg-jamtland-regionfullmaktige-2026-02-10",
+    "typ": "region",
+    "titel": "Uchwała Rady Regionalnej, region Jämtland Härjedalen, z dnia 10 lutego 2026 roku.",
+    "ingress": "Region podjęła decyzje o zakupie nowych pociągów, kontynuowaniu bezpłatnych szczepień przeciwko wirusowi HPV oraz poprawie opieki psychiatrycznej dla dzieci.",
+    "datum": "2026-02-10",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionfullmaktige/mote-2026-02-10",
+    "taggar": [
+      "reg-jamtland",
+      "regionfullmaktige",
+      "region-jamtland-harjedalen",
+      "ostersund",
+      "kommunalpolitik"
+    ],
+    "relevans": {
+      "barn": 3,
+      "kollektiv": 3,
+      "kronisk": 8,
+      "psykisk": 3
+    }
+  },
+  {
     "id": "reg-orebro-regionfullmaktige-2026-02-09",
     "typ": "region",
     "titel": "Członkowie rady regionalnej regionu Örebro, 9 lutego 2026 roku.",
@@ -10894,6 +10941,29 @@
       "f_kommun": 6,
       "offentliganstalld": 5,
       "fortroendevald": 5
+    }
+  },
+  {
+    "id": "reg-jamtland-regionfullmaktige-2025-11-25",
+    "typ": "region",
+    "titel": "Członkowie rady regionalnej regionu Jämtland Härjedalen, data: 2025-11-25.",
+    "ingress": "Region podjęła decyzje w sprawie kilku ważnych kwestii związanych z opieką zdrowotną, w tym podniesienia opłat za niektóre usługi oraz obniżenia opłat za inne.",
+    "datum": "2025-11-25",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionfullmaktige/mote-2025-11-25",
+    "taggar": [
+      "reg-jamtland",
+      "regionfullmaktige",
+      "region-jamtland-harjedalen",
+      "jamtland",
+      "regionalpolitik",
+      "kommunal-forvaltning"
+    ],
+    "relevans": {
+      "b_fastighet": 3,
+      "kollektiv": 3,
+      "kronisk": 8,
+      "konsument": 3
     }
   },
   {

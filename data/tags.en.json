@@ -377,7 +377,7 @@
   "kommunal-forvaltning": {
     "etikett": "Municipal administration.",
     "typ": "ämne",
-    "antal": 5
+    "antal": 6
   },
   "digitalisering": {
     "etikett": "Digitalization\n\n(The rest of the text would follow here, depending on what was originally in the Swedish text.)",
@@ -442,7 +442,7 @@
   "kommunalpolitik": {
     "etikett": "Municipal politics.",
     "typ": "ämne",
-    "antal": 5
+    "antal": 6
   },
   "umea": {
     "etikett": "Umeå is a city in northern Sweden, known for its vibrant cultural scene and its proximity to nature. Here are some key facts about Umeå:\n\n*   **Population:** Approximately 140,000 (as of 2023).\n*   **Location:** Västerbotten County, northern Sweden.\n*   **University:** Home to Umeå University, a major research and educational institution.\n*   **Culture:** Umeå was designated European Capital of Culture in 2016, highlighting its rich artistic and cultural heritage.\n*   **Nature:** Surrounded by forests, lakes, and the Bothnian Sea, offering opportunities for outdoor activities.\n*   **Website:** [https://www.umea.se/](https://www.umea.se/)",
@@ -1472,12 +1472,12 @@
   "regionfullmaktige": {
     "etikett": "Regional representatives.",
     "typ": "organisation",
-    "antal": 11
+    "antal": 13
   },
   "regionstyrelsen": {
     "etikett": "Regional Board.",
     "typ": "organisation",
-    "antal": 8
+    "antal": 9
   },
   "reg-orebro": {
     "etikett": "Region Örebro County.",
@@ -1492,7 +1492,7 @@
   "reg-jamtland": {
     "etikett": "Region Jämtland Härjedalen.",
     "typ": "organisation",
-    "antal": 4
+    "antal": 7
   },
   "reg-blekinge": {
     "etikett": "Region Blekinge.",
@@ -1687,7 +1687,7 @@
   "regionalpolitik": {
     "etikett": "Regional policy.",
     "typ": "ämne",
-    "antal": 2
+    "antal": 3
   },
   "region-orebro-lan": {
     "etikett": "Region Örebro County.",
@@ -1697,7 +1697,7 @@
   "sjukvard": {
     "etikett": "Healthcare.",
     "typ": "ämne",
-    "antal": 3
+    "antal": 4
   },
   "klimat-och-miljo": {
     "etikett": "Climate and Environment\n\n*   [Date] - [Description of event or information related to climate and environment]\n*   [Date] - [Description of event or information related to climate and environment]\n*   [Date] - [Description of event or information related to climate and environment]\n\n[URL]",
@@ -1706,6 +1706,26 @@
   },
   "regional-forvaltning": {
     "etikett": "Regional administration.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "region-jamtland-harjedalen": {
+    "etikett": "Region Jämtland Härjedalen",
+    "typ": "organisation",
+    "antal": 3
+  },
+  "ostersund": {
+    "etikett": "Östersund is a town in Sweden.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "jamtland": {
+    "etikett": "Jämtland\n\n(No further context was provided to translate.)",
+    "typ": "plats",
+    "antal": 2
+  },
+  "regional-ekonomi": {
+    "etikett": "Regional economy.",
     "typ": "ämne",
     "antal": 1
   }

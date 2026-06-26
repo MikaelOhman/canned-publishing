@@ -312,7 +312,7 @@
   "kommunal-forvaltning": {
     "etikett": "Administración municipal.",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "karin-wanngard": {
     "etikett": "Karin Wanngård.",
@@ -382,7 +382,7 @@
   "kommunalpolitik": {
     "etikett": "Política municipal.",
     "typ": "ämne",
-    "antal": 5
+    "antal": 6
   },
   "ange": {
     "etikett": "Ånge.",
@@ -1397,12 +1397,12 @@
   "regionfullmaktige": {
     "etikett": "Concejales regionales.",
     "typ": "organisation",
-    "antal": 11
+    "antal": 13
   },
   "regionstyrelsen": {
     "etikett": "Junta regional.",
     "typ": "organisation",
-    "antal": 8
+    "antal": 9
   },
   "reg-orebro": {
     "etikett": "Región de Örebro län.",
@@ -1417,7 +1417,7 @@
   "reg-jamtland": {
     "etikett": "Región de Jämtland y Härjedalen.",
     "typ": "organisation",
-    "antal": 4
+    "antal": 7
   },
   "reg-blekinge": {
     "etikett": "Región de Blekinge.",
@@ -1622,7 +1622,7 @@
   "regionalpolitik": {
     "etikett": "Política regional.",
     "typ": "ämne",
-    "antal": 2
+    "antal": 3
   },
   "region-orebro-lan": {
     "etikett": "Región de Örebro län.",
@@ -1632,7 +1632,7 @@
   "sjukvard": {
     "etikett": "Atención médica.",
     "typ": "ämne",
-    "antal": 3
+    "antal": 4
   },
   "klimat-och-miljo": {
     "etikett": "Clima y medio ambiente.\n\n*   [Nombre], [Número de teléfono], [Dirección de correo electrónico]\n*   [Fecha]\n*   [URL]",
@@ -1641,6 +1641,26 @@
   },
   "regional-forvaltning": {
     "etikett": "Administración regional.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "region-jamtland-harjedalen": {
+    "etikett": "Región de Jämtland y Härjedalen.",
+    "typ": "organisation",
+    "antal": 3
+  },
+  "ostersund": {
+    "etikett": "Östersund.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "jamtland": {
+    "etikett": "Jämtland.",
+    "typ": "plats",
+    "antal": 2
+  },
+  "regional-ekonomi": {
+    "etikett": "Economía regional.",
     "typ": "ämne",
     "antal": 1
   }

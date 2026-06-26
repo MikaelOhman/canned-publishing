@@ -312,7 +312,7 @@
   "kommunal-forvaltning": {
     "etikett": "Administrația locală.",
     "typ": "ämne",
-    "antal": 7
+    "antal": 8
   },
   "karin-wanngard": {
     "etikett": "Karin Wanngård",
@@ -402,7 +402,7 @@
   "kommunalpolitik": {
     "etikett": "Politica locală.",
     "typ": "ämne",
-    "antal": 4
+    "antal": 5
   },
   "lekeberg": {
     "etikett": "Lekebergs",
@@ -1392,12 +1392,12 @@
   "regionfullmaktige": {
     "etikett": "Membrii consiliului regional.",
     "typ": "organisation",
-    "antal": 11
+    "antal": 13
   },
   "regionstyrelsen": {
     "etikett": "Consiliul regional.",
     "typ": "organisation",
-    "antal": 8
+    "antal": 9
   },
   "reg-orebro": {
     "etikett": "Regiunea Örebro län.",
@@ -1412,7 +1412,7 @@
   "reg-jamtland": {
     "etikett": "Regiunea Jämtland Härjedalen.",
     "typ": "organisation",
-    "antal": 4
+    "antal": 7
   },
   "reg-blekinge": {
     "etikett": "Regiunea Blekinge.",
@@ -1617,7 +1617,7 @@
   "regionalpolitik": {
     "etikett": "Politica regională.",
     "typ": "ämne",
-    "antal": 2
+    "antal": 3
   },
   "region-orebro-lan": {
     "etikett": "Regiunea Örebro län.",
@@ -1627,7 +1627,7 @@
   "sjukvard": {
     "etikett": "Asistență medicală.",
     "typ": "ämne",
-    "antal": 3
+    "antal": 4
   },
   "klimat-och-miljo": {
     "etikett": "Clima și mediul înconjurător:\n\n*   **Impactul asupra climei:** Descrierea modului în care activitățile umane influențează clima globală.\n*   **Poluarea:** Informații despre diferitele tipuri de poluare (aer, apă, sol) și efectele lor asupra sănătății și a mediului.\n*   **Resursele naturale:** O prezentare generală a resurselor naturale (apă, energie, minerale) și importanța gestionării durabile a acestora.\n*   **Biodiversitatea:** Explicația conceptului de biodiversitate și necesitatea conservării speciilor și habitatelor.\n*   **Schimbările climatice:** O analiză detaliată a schimbărilor climatice, cauzele lor și potențialele consecințe.\n*   **Soluții:** Prezentarea unor soluții pentru reducerea impactului asupra climei și protejarea mediului înconjurător, cum ar fi energia regenerabilă, reciclarea și agricultura durabilă.",
@@ -1636,6 +1636,26 @@
   },
   "regional-forvaltning": {
     "etikett": "Administrație regională.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "region-jamtland-harjedalen": {
+    "etikett": "Regiunea Jämtland Härjedalen.",
+    "typ": "organisation",
+    "antal": 3
+  },
+  "ostersund": {
+    "etikett": "Östersund.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "jamtland": {
+    "etikett": "Jämtland.",
+    "typ": "plats",
+    "antal": 2
+  },
+  "regional-ekonomi": {
+    "etikett": "Economie regională.",
     "typ": "ämne",
     "antal": 1
   }

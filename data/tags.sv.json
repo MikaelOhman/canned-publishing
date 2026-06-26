@@ -397,7 +397,7 @@
   "kommunal-forvaltning": {
     "etikett": "Kommunal förvaltning",
     "typ": "ämne",
-    "antal": 5
+    "antal": 6
   },
   "digitalisering": {
     "etikett": "Digitalisering",
@@ -472,7 +472,7 @@
   "kommunalpolitik": {
     "etikett": "Kommunalpolitik",
     "typ": "ämne",
-    "antal": 5
+    "antal": 6
   },
   "umea": {
     "etikett": "Umeå",
@@ -1507,12 +1507,12 @@
   "regionfullmaktige": {
     "etikett": "Regionfullmaktige",
     "typ": "organisation",
-    "antal": 11
+    "antal": 13
   },
   "regionstyrelsen": {
     "etikett": "Regionstyrelsen",
     "typ": "organisation",
-    "antal": 8
+    "antal": 9
   },
   "reg-orebro": {
     "etikett": "Region Örebro län",
@@ -1527,7 +1527,7 @@
   "reg-jamtland": {
     "etikett": "Region Jämtland Härjedalen",
     "typ": "organisation",
-    "antal": 4
+    "antal": 7
   },
   "reg-blekinge": {
     "etikett": "Region Blekinge",
@@ -1722,7 +1722,7 @@
   "regionalpolitik": {
     "etikett": "Regionalpolitik",
     "typ": "ämne",
-    "antal": 2
+    "antal": 3
   },
   "region-orebro-lan": {
     "etikett": "Region Örebro län",
@@ -1732,7 +1732,7 @@
   "sjukvard": {
     "etikett": "Sjukvård",
     "typ": "ämne",
-    "antal": 3
+    "antal": 4
   },
   "klimat-och-miljo": {
     "etikett": "Klimat och miljö",
@@ -1741,6 +1741,26 @@
   },
   "regional-forvaltning": {
     "etikett": "Regional förvaltning",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "region-jamtland-harjedalen": {
+    "etikett": "Region Jämtland Härjedalen",
+    "typ": "organisation",
+    "antal": 3
+  },
+  "ostersund": {
+    "etikett": "Östersund",
+    "typ": "plats",
+    "antal": 1
+  },
+  "jamtland": {
+    "etikett": "Jämtland",
+    "typ": "plats",
+    "antal": 2
+  },
+  "regional-ekonomi": {
+    "etikett": "Regional ekonomi",
     "typ": "ämne",
     "antal": 1
   }

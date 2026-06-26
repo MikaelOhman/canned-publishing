@@ -5481,6 +5481,31 @@
     }
   },
   {
+    "id": "reg-jamtland-regionstyrelsen-2026-04-22",
+    "typ": "region",
+    "titel": "Regionale Raad, Regio Jämtland Härjedalen, 22 april 2026.",
+    "ingress": "De regio Jämtland Härjedalen heeft besloten een nieuw gezondheidscentrum te bouwen in Funäsdalen en een heliport in te richten in Gäddede.",
+    "datum": "2026-04-22",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionstyrelsen/mote-2026-04-22",
+    "taggar": [
+      "reg-jamtland",
+      "regionstyrelsen",
+      "region-jamtland-harjedalen",
+      "sjukvard",
+      "regional-ekonomi",
+      "jamtland"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_transport": 3,
+      "tillstand": 3,
+      "infrastruktur": 3,
+      "flygresenar": 5,
+      "kronisk": 8
+    }
+  },
+  {
     "id": "burlov-jn-2026-04-21",
     "typ": "kommunbeslut",
     "titel": "JN, gemeente Burlöv, 21 april 2026.",
@@ -9333,6 +9358,28 @@
     }
   },
   {
+    "id": "reg-jamtland-regionfullmaktige-2026-02-10",
+    "typ": "region",
+    "titel": "Regionaal volmachthebber, Regio Jämtland Härjedalen, 10 februari 2026.",
+    "ingress": "De regio heeft besloten nieuwe treinen aan te schaffen, de gratis HPV-vaccinatie voort te zetten en de psychiatrische zorg voor kinderen te verbeteren.",
+    "datum": "2026-02-10",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionfullmaktige/mote-2026-02-10",
+    "taggar": [
+      "reg-jamtland",
+      "regionfullmaktige",
+      "region-jamtland-harjedalen",
+      "ostersund",
+      "kommunalpolitik"
+    ],
+    "relevans": {
+      "barn": 3,
+      "kollektiv": 3,
+      "kronisk": 8,
+      "psykisk": 3
+    }
+  },
+  {
     "id": "reg-orebro-regionfullmaktige-2026-02-09",
     "typ": "region",
     "titel": "Regionaal volksvertegenwoordiger, Regio Örebro län, 2026-02-09.",
@@ -10878,6 +10925,29 @@
       "f_kommun": 6,
       "offentliganstalld": 5,
       "fortroendevald": 5
+    }
+  },
+  {
+    "id": "reg-jamtland-regionfullmaktige-2025-11-25",
+    "typ": "region",
+    "titel": "Regionaal volmachtigde, Regio Jämtland Härjedalen, 25 november 2025.",
+    "ingress": "De regio heeft beslissingen genomen over verschillende belangrijke kwesties met betrekking tot de gezondheidszorg, waaronder verhoogde tarieven voor bepaalde diensten en verlaagde tarieven voor andere.",
+    "datum": "2025-11-25",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionfullmaktige/mote-2025-11-25",
+    "taggar": [
+      "reg-jamtland",
+      "regionfullmaktige",
+      "region-jamtland-harjedalen",
+      "jamtland",
+      "regionalpolitik",
+      "kommunal-forvaltning"
+    ],
+    "relevans": {
+      "b_fastighet": 3,
+      "kollektiv": 3,
+      "kronisk": 8,
+      "konsument": 3
     }
   },
   {

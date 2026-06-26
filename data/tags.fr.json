@@ -317,7 +317,7 @@
   "kommunal-forvaltning": {
     "etikett": "Administration municipale.",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "karin-wanngard": {
     "etikett": "Karin Wanngård.",
@@ -387,7 +387,7 @@
   "kommunalpolitik": {
     "etikett": "Politique municipale.",
     "typ": "ämne",
-    "antal": 5
+    "antal": 6
   },
   "ange": {
     "etikett": "Ånge.",
@@ -1402,12 +1402,12 @@
   "regionfullmaktige": {
     "etikett": "Membres du conseil régional.",
     "typ": "organisation",
-    "antal": 11
+    "antal": 13
   },
   "regionstyrelsen": {
     "etikett": "Conseil régional.",
     "typ": "organisation",
-    "antal": 8
+    "antal": 9
   },
   "reg-orebro": {
     "etikett": "Région d'Örebro län.",
@@ -1422,7 +1422,7 @@
   "reg-jamtland": {
     "etikett": "Région de Jämtland et Härjedalen.",
     "typ": "organisation",
-    "antal": 4
+    "antal": 7
   },
   "reg-blekinge": {
     "etikett": "Région de Blekinge.",
@@ -1622,7 +1622,7 @@
   "regionalpolitik": {
     "etikett": "Politique régionale.",
     "typ": "ämne",
-    "antal": 2
+    "antal": 3
   },
   "region-orebro-lan": {
     "etikett": "Région d'Örebro län.",
@@ -1632,7 +1632,7 @@
   "sjukvard": {
     "etikett": "Soins de santé.",
     "typ": "ämne",
-    "antal": 3
+    "antal": 4
   },
   "klimat-och-miljo": {
     "etikett": "Climat et environnement.\n\n*   [Nom propre], [Nombre], [Date] : [URL]\n*   [Nom propre], [Nombre], [Date] : [URL]\n*   [Nom propre], [Nombre], [Date] : [URL]",
@@ -1641,6 +1641,26 @@
   },
   "regional-forvaltning": {
     "etikett": "Administration régionale.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "region-jamtland-harjedalen": {
+    "etikett": "Région de Jämtland et Härjedalen.",
+    "typ": "organisation",
+    "antal": 3
+  },
+  "ostersund": {
+    "etikett": "Östersund.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "jamtland": {
+    "etikett": "Jämtland.",
+    "typ": "plats",
+    "antal": 2
+  },
+  "regional-ekonomi": {
+    "etikett": "Économie régionale.",
     "typ": "ämne",
     "antal": 1
   }

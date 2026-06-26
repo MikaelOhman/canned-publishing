@@ -377,7 +377,7 @@
   "kommunal-forvaltning": {
     "etikett": "Kommunale Verwaltung.",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "karin-wanngard": {
     "etikett": "Karin Wanngård",
@@ -447,7 +447,7 @@
   "kommunalpolitik": {
     "etikett": "Kommunalpolitik",
     "typ": "ämne",
-    "antal": 5
+    "antal": 6
   },
   "ange": {
     "etikett": "Ånge",
@@ -1462,12 +1462,12 @@
   "regionfullmaktige": {
     "etikett": "Regionalrät*innen.",
     "typ": "organisation",
-    "antal": 11
+    "antal": 13
   },
   "regionstyrelsen": {
     "etikett": "Regionalrat.",
     "typ": "organisation",
-    "antal": 8
+    "antal": 9
   },
   "reg-orebro": {
     "etikett": "Region Örebro län",
@@ -1482,7 +1482,7 @@
   "reg-jamtland": {
     "etikett": "Region Jämtland Härjedalen.",
     "typ": "organisation",
-    "antal": 4
+    "antal": 7
   },
   "reg-blekinge": {
     "etikett": "Region Blekinge",
@@ -1682,7 +1682,7 @@
   "regionalpolitik": {
     "etikett": "Regionale Politik\n\nHier sind einige Informationen zur regionalen Politik:\n\n*   **Definition:** Regionale Politik umfasst Maßnahmen und Strategien, die darauf abzielen, regionale Ungleichheiten zu verringern und die wirtschaftliche und soziale Entwicklung in bestimmten Regionen eines Landes oder einer Europäischen Union zu fördern.\n\n*   **Ziele:** Zu den Zielen der regionalen Politik gehören:\n    *   Förderung des Wirtschaftswachstums in benachteiligten Regionen.\n    *   Schaffung von Arbeitsplätzen und Verbesserung der Beschäftigungssituation.\n    *   Verbesserung der Infrastruktur, wie z.B. Straßen, Schienenwege und Telekommunikationsnetze.\n    *   Förderung des sozialen Zusammenhalts und der Chancengleichheit.\n    *   Erhaltung und Förderung der kulturellen Vielfalt.\n\n*   **Instrumente:** Die regionalen Politikmaßnahmen umfassen eine Vielzahl von Instrumenten, darunter:\n    *   Finanzielle Unterstützung in Form von Zuschüssen und Krediten.\n    *   Förderprogramme für Unternehmen und Investitionen.\n    *   Beratungs- und Schulungsangebote.\n    *   Initiativen zur Förderung der regionalen Zusammenarbeit.\n\n*   **Beispiele:** Beispiele für regionale Politikmaßnahmen sind:\n    *   Förderung des Tourismus in ländlichen Gebieten.\n    *   Unterstützung von Innovationsprojekten in bestimmten Regionen.\n    *   Ausbau der Infrastruktur in strukturschwachen Gebieten.\n\n*   **Kritik:** Die regionale Politik wird manchmal kritisiert, weil sie zu einer Verteilung von Ressourcen führen kann, die nicht immer effizient ist oder zu Abhängigkeiten führen kann.",
     "typ": "ämne",
-    "antal": 2
+    "antal": 3
   },
   "region-orebro-lan": {
     "etikett": "Region Örebro län",
@@ -1692,7 +1692,7 @@
   "sjukvard": {
     "etikett": "Gesundheitswesen",
     "typ": "ämne",
-    "antal": 3
+    "antal": 4
   },
   "klimat-och-miljo": {
     "etikett": "Klima und Umwelt\n\n*   Hier finden Sie Informationen zu Themen wie:\n    *   Klimawandel\n    *   Umweltschutz\n    *   Nachhaltigkeit\n*   Wir setzen uns für eine nachhaltige Entwicklung ein, die sowohl ökologische als auch soziale Aspekte berücksichtigt.\n*   Unsere Projekte umfassen unter anderem:\n    *   Förderung erneuerbarer Energien\n    *   Reduzierung von Emissionen\n    *   Schutz der Artenvielfalt\n*   Weitere Informationen finden Sie auf unserer Website: [URL]",
@@ -1701,6 +1701,26 @@
   },
   "regional-forvaltning": {
     "etikett": "Regionale Verwaltung.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "region-jamtland-harjedalen": {
+    "etikett": "Region Jämtland Härjedalen.",
+    "typ": "organisation",
+    "antal": 3
+  },
+  "ostersund": {
+    "etikett": "Östersund.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "jamtland": {
+    "etikett": "Jämtland\n\n(No further context was provided, so a simple translation of the name is all that can be offered.)",
+    "typ": "plats",
+    "antal": 2
+  },
+  "regional-ekonomi": {
+    "etikett": "Regionale Wirtschaft.",
     "typ": "ämne",
     "antal": 1
   }

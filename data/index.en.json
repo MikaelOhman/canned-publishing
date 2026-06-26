@@ -5559,6 +5559,31 @@
     }
   },
   {
+    "id": "reg-jamtland-regionstyrelsen-2026-04-22",
+    "typ": "region",
+    "titel": "Regional Board, Region Jämtland Härjedalen, April 22, 2026.",
+    "ingress": "The region of Jämtland Härjedalen has decided to build a new healthcare center in Funäsdalen and establish a helicopter landing pad in Gäddede.",
+    "datum": "2026-04-22",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionstyrelsen/mote-2026-04-22",
+    "taggar": [
+      "reg-jamtland",
+      "regionstyrelsen",
+      "region-jamtland-harjedalen",
+      "sjukvard",
+      "regional-ekonomi",
+      "jamtland"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_transport": 3,
+      "tillstand": 3,
+      "infrastruktur": 3,
+      "flygresenar": 5,
+      "kronisk": 8
+    }
+  },
+  {
     "id": "burlov-jn-2026-04-21",
     "typ": "kommunbeslut",
     "titel": "JN, Burlöv Municipality, April 21, 2026.",
@@ -9411,6 +9436,28 @@
     }
   },
   {
+    "id": "reg-jamtland-regionfullmaktige-2026-02-10",
+    "typ": "region",
+    "titel": "Regional Assembly Member, Region Jämtland Härjedalen, February 10, 2026.",
+    "ingress": "The regional government has decided to purchase new trains, continue providing free HPV vaccinations, and improve mental healthcare services for children.",
+    "datum": "2026-02-10",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionfullmaktige/mote-2026-02-10",
+    "taggar": [
+      "reg-jamtland",
+      "regionfullmaktige",
+      "region-jamtland-harjedalen",
+      "ostersund",
+      "kommunalpolitik"
+    ],
+    "relevans": {
+      "barn": 3,
+      "kollektiv": 3,
+      "kronisk": 8,
+      "psykisk": 3
+    }
+  },
+  {
     "id": "reg-orebro-regionfullmaktige-2026-02-09",
     "typ": "region",
     "titel": "Regional Assembly Member, Region Orebro County, February 9, 2026.",
@@ -10956,6 +11003,29 @@
       "f_kommun": 6,
       "offentliganstalld": 5,
       "fortroendevald": 5
+    }
+  },
+  {
+    "id": "reg-jamtland-regionfullmaktige-2025-11-25",
+    "typ": "region",
+    "titel": "Regional Assembly Member, Region Jämtland Härjedalen, November 25, 2025.",
+    "ingress": "The regional authority has made decisions on several important matters related to healthcare, including increasing fees for some services and decreasing them for others.",
+    "datum": "2025-11-25",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionfullmaktige/mote-2025-11-25",
+    "taggar": [
+      "reg-jamtland",
+      "regionfullmaktige",
+      "region-jamtland-harjedalen",
+      "jamtland",
+      "regionalpolitik",
+      "kommunal-forvaltning"
+    ],
+    "relevans": {
+      "b_fastighet": 3,
+      "kollektiv": 3,
+      "kronisk": 8,
+      "konsument": 3
     }
   },
   {

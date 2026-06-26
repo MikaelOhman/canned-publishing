@@ -317,7 +317,7 @@
   "kommunal-forvaltning": {
     "etikett": "Amministrazione comunale.",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "karin-wanngard": {
     "etikett": "Karin Wanngård",
@@ -387,7 +387,7 @@
   "kommunalpolitik": {
     "etikett": "Politica comunale.",
     "typ": "ämne",
-    "antal": 5
+    "antal": 6
   },
   "ange": {
     "etikett": "Ånge.",
@@ -1402,12 +1402,12 @@
   "regionfullmaktige": {
     "etikett": "Membri dell'assemblea regionale.",
     "typ": "organisation",
-    "antal": 11
+    "antal": 13
   },
   "regionstyrelsen": {
     "etikett": "Consiglio regionale.",
     "typ": "organisation",
-    "antal": 8
+    "antal": 9
   },
   "reg-orebro": {
     "etikett": "Regione di Örebro län.",
@@ -1422,7 +1422,7 @@
   "reg-jamtland": {
     "etikett": "Regione di Jämtland Härjedalen.",
     "typ": "organisation",
-    "antal": 4
+    "antal": 7
   },
   "reg-blekinge": {
     "etikett": "Regione Blekinge.",
@@ -1622,7 +1622,7 @@
   "regionalpolitik": {
     "etikett": "Politica regionale.",
     "typ": "ämne",
-    "antal": 2
+    "antal": 3
   },
   "region-orebro-lan": {
     "etikett": "Regione di Örebro län.",
@@ -1632,7 +1632,7 @@
   "sjukvard": {
     "etikett": "Assistenza sanitaria.",
     "typ": "ämne",
-    "antal": 3
+    "antal": 4
   },
   "klimat-och-miljo": {
     "etikett": "Clima e ambiente.\n\n*   Informazioni sul clima e sull'ambiente.\n*   Dati relativi al clima e all'ambiente.\n*   Notizie riguardanti il clima e l'ambiente.\n*   Articoli dedicati al clima e all'ambiente.\n*   Risorse utili per approfondire la conoscenza del clima e dell'ambiente.",
@@ -1641,6 +1641,26 @@
   },
   "regional-forvaltning": {
     "etikett": "Amministrazione regionale.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "region-jamtland-harjedalen": {
+    "etikett": "Regione di Jämtland Härjedalen.",
+    "typ": "organisation",
+    "antal": 3
+  },
+  "ostersund": {
+    "etikett": "Östersund.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "jamtland": {
+    "etikett": "Jämtland.",
+    "typ": "plats",
+    "antal": 2
+  },
+  "regional-ekonomi": {
+    "etikett": "Economia regionale.",
     "typ": "ämne",
     "antal": 1
   }

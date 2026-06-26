@@ -312,7 +312,7 @@
   "kommunal-forvaltning": {
     "etikett": "الإدارة المحلية.",
     "typ": "ämne",
-    "antal": 7
+    "antal": 8
   },
   "karin-wanngard": {
     "etikett": "كارين وانغارد.",
@@ -427,7 +427,7 @@
   "kommunalpolitik": {
     "etikett": "السياسة المحلية.",
     "typ": "ämne",
-    "antal": 4
+    "antal": 5
   },
   "lekeberg": {
     "etikett": "ليكبِيرج.",
@@ -1407,12 +1407,12 @@
   "regionfullmaktige": {
     "etikett": "أعضاء المجلس الإقليمي المنتخبون.",
     "typ": "organisation",
-    "antal": 11
+    "antal": 13
   },
   "regionstyrelsen": {
     "etikett": "مجلس المنطقة.",
     "typ": "organisation",
-    "antal": 8
+    "antal": 9
   },
   "reg-orebro": {
     "etikett": "منطقة أوربرو.",
@@ -1427,7 +1427,7 @@
   "reg-jamtland": {
     "etikett": "منطقة يمتلاند هيريدالن.",
     "typ": "organisation",
-    "antal": 4
+    "antal": 7
   },
   "reg-blekinge": {
     "etikett": "منطقة بليكينغه.",
@@ -1632,7 +1632,7 @@
   "regionalpolitik": {
     "etikett": "السياسة الإقليمية.",
     "typ": "ämne",
-    "antal": 2
+    "antal": 3
   },
   "region-orebro-lan": {
     "etikett": "منطقة أوربرو.",
@@ -1642,7 +1642,7 @@
   "sjukvard": {
     "etikett": "الرعاية الصحية.",
     "typ": "ämne",
-    "antal": 3
+    "antal": 4
   },
   "klimat-och-miljo": {
     "etikett": "المناخ والبيئة:\n\n*   [قائمة بنقاط حول المناخ والبيئة]\n    *   [نقطة 1]\n    *   [نقطة 2]\n    *   [نقطة 3]\n*   [قائمة أخرى بنقاط حول المناخ والبيئة]\n    *   [نقطة 4]\n    *   [نقطة 5]\n    *   [نقطة 6]\n*   [معلومات إضافية أو روابط ذات صلة، مثل الأسماء والأرقام والتواريخ وعناوين URL]\n    *   اسم: [اسم]\n    *   رقم: [رقم]\n    *   تاريخ: [تاريخ]\n    *   عنوان URL: [عنوان URL]",
@@ -1651,6 +1651,26 @@
   },
   "regional-forvaltning": {
     "etikett": "الإدارة الإقليمية.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "region-jamtland-harjedalen": {
+    "etikett": "منطقة يمتلاند هيريدالن.",
+    "typ": "organisation",
+    "antal": 3
+  },
+  "ostersund": {
+    "etikett": "أوسترسوند.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "jamtland": {
+    "etikett": "يامتلاند.",
+    "typ": "plats",
+    "antal": 2
+  },
+  "regional-ekonomi": {
+    "etikett": "الاقتصاد الإقليمي.",
     "typ": "ämne",
     "antal": 1
   }

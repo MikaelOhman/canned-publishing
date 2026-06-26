@@ -307,7 +307,7 @@
   "kommunal-forvaltning": {
     "etikett": "مدیریت شهری",
     "typ": "ämne",
-    "antal": 7
+    "antal": 8
   },
   "karin-wanngard": {
     "etikett": "کarin وانگارد",
@@ -402,7 +402,7 @@
   "kommunalpolitik": {
     "etikett": "سیاست محلی",
     "typ": "ämne",
-    "antal": 4
+    "antal": 5
   },
   "lekeberg": {
     "etikett": "Lekebergs",
@@ -1392,12 +1392,12 @@
   "regionfullmaktige": {
     "etikett": "نمایندگان منطقه ای",
     "typ": "organisation",
-    "antal": 11
+    "antal": 13
   },
   "regionstyrelsen": {
     "etikett": "شورای منطقه ای",
     "typ": "organisation",
-    "antal": 8
+    "antal": 9
   },
   "reg-orebro": {
     "etikett": "منطقه: شهرستان اربرو (Örebro län)",
@@ -1412,7 +1412,7 @@
   "reg-jamtland": {
     "etikett": "منطقه یامتلند هِرجه‌دالن.",
     "typ": "organisation",
-    "antal": 4
+    "antal": 7
   },
   "reg-blekinge": {
     "etikett": "منطقه بلکینگه",
@@ -1617,7 +1617,7 @@
   "regionalpolitik": {
     "etikett": "سیاست‌های منطقه‌ای",
     "typ": "ämne",
-    "antal": 2
+    "antal": 3
   },
   "region-orebro-lan": {
     "etikett": "منطقه: شهرستان اربرو (Örebro län)",
@@ -1627,7 +1627,7 @@
   "sjukvard": {
     "etikett": "مراقبت‌های بهداشتی",
     "typ": "ämne",
-    "antal": 3
+    "antal": 4
   },
   "klimat-och-miljo": {
     "etikett": "آب و هوا و محیط زیست\n\n(Paragraph and list structure should be maintained here if there was any in the original Swedish text.)",
@@ -1636,6 +1636,26 @@
   },
   "regional-forvaltning": {
     "etikett": "مدیریت منطقه‌ای.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "region-jamtland-harjedalen": {
+    "etikett": "منطقه یامتلند هرجدالن.",
+    "typ": "organisation",
+    "antal": 3
+  },
+  "ostersund": {
+    "etikett": "اُسترشوند.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "jamtland": {
+    "etikett": "جمنت‌لند\n\n(هیچ اطلاعات دیگری در متن اصلی وجود نداشت که بتوان ترجمه کرد.)",
+    "typ": "plats",
+    "antal": 2
+  },
+  "regional-ekonomi": {
+    "etikett": "اقتصاد منطقه‌ای",
     "typ": "ämne",
     "antal": 1
   }
