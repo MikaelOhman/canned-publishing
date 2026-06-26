@@ -5699,6 +5699,28 @@
     }
   },
   {
+    "id": "stockholm-kommunstyrelsen-2026-04-15",
+    "typ": "kommunbeslut",
+    "titel": "City Council Committee, City of Stockholm, April 15, 2026.",
+    "ingress": "The City of Stockholm has made decisions on several environmental and health issues, including a campaign for stroke awareness, the establishment of a new nature reserve, and the development of outdoor recreation areas.",
+    "datum": "2026-04-15",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunstyrelsen/mote-2026-04-15",
+    "taggar": [
+      "stockholm",
+      "kommunstyrelsen",
+      "karin-wanngard",
+      "kommunalpolitik"
+    ],
+    "relevans": {
+      "glesbygd": 3,
+      "pendlare": 3,
+      "kollektiv": 3,
+      "friluftsliv": 3,
+      "klimat": 3
+    }
+  },
+  {
     "id": "HD03245",
     "typ": "lagforslag",
     "titel": "Freedom from violence, oppression, and exploitation: A national strategy to combat violence against women by men, domestic violence, exploitation in prostitution and human trafficking, and honor-related violence and oppression.",

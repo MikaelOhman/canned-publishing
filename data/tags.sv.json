@@ -357,12 +357,12 @@
   "stockholm": {
     "etikett": "Stockholms",
     "typ": "plats",
-    "antal": 11
+    "antal": 12
   },
   "kommunstyrelsen": {
     "etikett": "Kommunstyrelsen",
     "typ": "organisation",
-    "antal": 73
+    "antal": 74
   },
   "kommunallagen": {
     "etikett": "Kommunallagen",
@@ -472,7 +472,7 @@
   "kommunalpolitik": {
     "etikett": "Kommunalpolitik",
     "typ": "ämne",
-    "antal": 2
+    "antal": 3
   },
   "umea": {
     "etikett": "Umeå",
@@ -1702,6 +1702,11 @@
   "bostadsbyggande": {
     "etikett": "Bostadsbyggande",
     "typ": "ämne",
+    "antal": 1
+  },
+  "karin-wanngard": {
+    "etikett": "Karin Wanngård",
+    "typ": "person",
     "antal": 1
   }
 }
