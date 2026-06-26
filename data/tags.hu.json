@@ -312,7 +312,7 @@
   "kommunal-forvaltning": {
     "etikett": "Helyi közigazgatás.",
     "typ": "ämne",
-    "antal": 5
+    "antal": 7
   },
   "karin-wanngard": {
     "etikett": "Karin Wanngård",
@@ -362,7 +362,7 @@
   "protokoll": {
     "etikett": "Jegelző.",
     "typ": "ämne",
-    "antal": 7
+    "antal": 8
   },
   "ulf-rapp": {
     "etikett": "Ulf Rapp",
@@ -402,7 +402,7 @@
   "kommunalpolitik": {
     "etikett": "Helyi politika.",
     "typ": "ämne",
-    "antal": 2
+    "antal": 3
   },
   "lekeberg": {
     "etikett": "Lekebergs",
@@ -1387,17 +1387,17 @@
   "reg-halland": {
     "etikett": "Hallandi régió.",
     "typ": "organisation",
-    "antal": 4
+    "antal": 7
   },
   "regionfullmaktige": {
     "etikett": "Régióközi képviselőtestület.",
     "typ": "organisation",
-    "antal": 7
+    "antal": 9
   },
   "regionstyrelsen": {
     "etikett": "A regionális igazgatóság.",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "reg-orebro": {
     "etikett": "Örebro megye.",
@@ -1603,5 +1603,20 @@
     "etikett": "Lakóépítészet.",
     "typ": "ämne",
     "antal": 1
+  },
+  "region-halland": {
+    "etikett": "Hallandi régió.",
+    "typ": "organisation",
+    "antal": 3
+  },
+  "halland": {
+    "etikett": "Halland.",
+    "typ": "plats",
+    "antal": 3
+  },
+  "regionalpolitik": {
+    "etikett": "Regionális politika.",
+    "typ": "ämne",
+    "antal": 2
   }
 }

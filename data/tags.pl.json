@@ -312,7 +312,7 @@
   "kommunal-forvaltning": {
     "etikett": "Zarządzanie samorządem lokalnym.",
     "typ": "ämne",
-    "antal": 5
+    "antal": 7
   },
   "karin-wanngard": {
     "etikett": "Karin Wanngård",
@@ -362,7 +362,7 @@
   "protokoll": {
     "etikett": "Protokół.",
     "typ": "ämne",
-    "antal": 7
+    "antal": 8
   },
   "ulf-rapp": {
     "etikett": "Ulf Rapp",
@@ -402,7 +402,7 @@
   "kommunalpolitik": {
     "etikett": "Polityka samorządowa.",
     "typ": "ämne",
-    "antal": 2
+    "antal": 3
   },
   "lekeberg": {
     "etikett": "Lekebergs",
@@ -1387,17 +1387,17 @@
   "reg-halland": {
     "etikett": "Region Halland.",
     "typ": "organisation",
-    "antal": 4
+    "antal": 7
   },
   "regionfullmaktige": {
     "etikett": "Członkowie regionalnej rady.",
     "typ": "organisation",
-    "antal": 7
+    "antal": 9
   },
   "regionstyrelsen": {
     "etikett": "Regionalna Rada Zarządzająca.",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "reg-orebro": {
     "etikett": "Region Örebro län",
@@ -1603,5 +1603,20 @@
     "etikett": "Budownictwo mieszkaniowe.",
     "typ": "ämne",
     "antal": 1
+  },
+  "region-halland": {
+    "etikett": "Region Halland.",
+    "typ": "organisation",
+    "antal": 3
+  },
+  "halland": {
+    "etikett": "Halland.",
+    "typ": "plats",
+    "antal": 3
+  },
+  "regionalpolitik": {
+    "etikett": "Polityka regionalna\n\n(Poniżej znajdują się potencjalne elementy, które mogłyby być zawarte w dalszej części tekstu, ale nie są dostępne w oryginalnym fragmencie.  Dlatego poniższa struktura jest hipotetyczna.)\n\n*   **Cele polityki regionalnej:**\n    *   [Cel 1]\n    *   [Cel 2]\n    *   [Cel 3]\n\n*   **Obszary działania:**\n    *   Rozwój infrastruktury\n    *   Wsparcie dla przedsiębiorczości\n    *   Ochrona środowiska\n\n*   **Przykłady programów i inicjatyw:**\n    *   Program X (URL: [adres URL])\n    *   Inicjatywa Y (data rozpoczęcia: 2023-01-15)\n    *   Projekt Z (budżet: 1 000 000 EUR)\n\n*   **Wskaźniki efektywności:**\n    *   Liczba utworzonych miejsc pracy\n    *   Poziom inwestycji zagranicznych\n    *   Stopa bezrobocia",
+    "typ": "ämne",
+    "antal": 2
   }
 }

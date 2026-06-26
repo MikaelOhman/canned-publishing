@@ -377,7 +377,7 @@
   "kommunal-forvaltning": {
     "etikett": "Municipal administration.",
     "typ": "ämne",
-    "antal": 3
+    "antal": 5
   },
   "digitalisering": {
     "etikett": "Digitalization\n\n(The rest of the text would follow here, depending on what was originally in the Swedish text.)",
@@ -422,7 +422,7 @@
   "protokoll": {
     "etikett": "Minutes\n\n(Followed by the content of the minutes, which would be translated accordingly. For example, if the minutes contained a list, it would be translated as a list.)",
     "typ": "ämne",
-    "antal": 7
+    "antal": 8
   },
   "ulf-rapp": {
     "etikett": "Ulf Rapp",
@@ -442,7 +442,7 @@
   "kommunalpolitik": {
     "etikett": "Municipal politics.",
     "typ": "ämne",
-    "antal": 3
+    "antal": 4
   },
   "umea": {
     "etikett": "Umeå is a city in northern Sweden, known for its vibrant cultural scene and its proximity to nature. Here are some key facts about Umeå:\n\n*   **Population:** Approximately 140,000 (as of 2023).\n*   **Location:** Västerbotten County, northern Sweden.\n*   **University:** Home to Umeå University, a major research and educational institution.\n*   **Culture:** Umeå was designated European Capital of Culture in 2016, highlighting its rich artistic and cultural heritage.\n*   **Nature:** Surrounded by forests, lakes, and the Bothnian Sea, offering opportunities for outdoor activities.\n*   **Website:** [https://www.umea.se/](https://www.umea.se/)",
@@ -1467,17 +1467,17 @@
   "reg-halland": {
     "etikett": "Region Halland.",
     "typ": "organisation",
-    "antal": 4
+    "antal": 7
   },
   "regionfullmaktige": {
     "etikett": "Regional representatives.",
     "typ": "organisation",
-    "antal": 7
+    "antal": 9
   },
   "regionstyrelsen": {
     "etikett": "Regional Board.",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "reg-orebro": {
     "etikett": "Region Örebro County.",
@@ -1673,5 +1673,20 @@
     "etikett": "Karin Wanngård",
     "typ": "person",
     "antal": 1
+  },
+  "region-halland": {
+    "etikett": "Region Halland.",
+    "typ": "organisation",
+    "antal": 3
+  },
+  "halland": {
+    "etikett": "Halland is a region in southern Sweden.\n\nHere are some key facts about Halland:\n\n*   It is located on the west coast of Sweden, bordering Denmark to the south.\n*   The largest city in Halland is Halmstad.\n*   Halland has a rich history, having been part of both Sweden and Denmark at different times.\n*   The region is known for its beautiful coastline, forests, and agricultural land.\n*   Popular tourist destinations in Halland include the beaches of Båstad, the nature reserve of Apelviken, and the medieval castle of Galtabäck.\n\nFor more information about Halland, you can visit the following website: [insert URL here].",
+    "typ": "plats",
+    "antal": 3
+  },
+  "regionalpolitik": {
+    "etikett": "Regional policy.",
+    "typ": "ämne",
+    "antal": 2
   }
 }

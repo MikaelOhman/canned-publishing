@@ -377,7 +377,7 @@
   "kommunal-forvaltning": {
     "etikett": "Kommunale Verwaltung.",
     "typ": "ämne",
-    "antal": 4
+    "antal": 6
   },
   "karin-wanngard": {
     "etikett": "Karin Wanngård",
@@ -427,7 +427,7 @@
   "protokoll": {
     "etikett": "Protokoll\n\n(Hier folgt der Text, den Sie übersetzen möchten. Bitte geben Sie den Text ein.)",
     "typ": "ämne",
-    "antal": 7
+    "antal": 8
   },
   "ulf-rapp": {
     "etikett": "Ulf Rapp",
@@ -447,7 +447,7 @@
   "kommunalpolitik": {
     "etikett": "Kommunalpolitik",
     "typ": "ämne",
-    "antal": 3
+    "antal": 4
   },
   "ange": {
     "etikett": "Ånge",
@@ -1457,17 +1457,17 @@
   "reg-halland": {
     "etikett": "Region Halland",
     "typ": "organisation",
-    "antal": 4
+    "antal": 7
   },
   "regionfullmaktige": {
     "etikett": "Regionalrät*innen.",
     "typ": "organisation",
-    "antal": 7
+    "antal": 9
   },
   "regionstyrelsen": {
     "etikett": "Regionalrat.",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "reg-orebro": {
     "etikett": "Region Örebro län",
@@ -1668,5 +1668,20 @@
     "etikett": "Wohnungsbau.",
     "typ": "ämne",
     "antal": 1
+  },
+  "region-halland": {
+    "etikett": "Region Halland",
+    "typ": "organisation",
+    "antal": 3
+  },
+  "halland": {
+    "etikett": "Halland",
+    "typ": "plats",
+    "antal": 3
+  },
+  "regionalpolitik": {
+    "etikett": "Regionale Politik\n\nHier sind einige Informationen zur regionalen Politik:\n\n*   **Definition:** Regionale Politik umfasst Maßnahmen und Strategien, die darauf abzielen, regionale Ungleichheiten zu verringern und die wirtschaftliche und soziale Entwicklung in bestimmten Regionen eines Landes oder einer Europäischen Union zu fördern.\n\n*   **Ziele:** Zu den Zielen der regionalen Politik gehören:\n    *   Förderung des Wirtschaftswachstums in benachteiligten Regionen.\n    *   Schaffung von Arbeitsplätzen und Verbesserung der Beschäftigungssituation.\n    *   Verbesserung der Infrastruktur, wie z.B. Straßen, Schienenwege und Telekommunikationsnetze.\n    *   Förderung des sozialen Zusammenhalts und der Chancengleichheit.\n    *   Erhaltung und Förderung der kulturellen Vielfalt.\n\n*   **Instrumente:** Die regionalen Politikmaßnahmen umfassen eine Vielzahl von Instrumenten, darunter:\n    *   Finanzielle Unterstützung in Form von Zuschüssen und Krediten.\n    *   Förderprogramme für Unternehmen und Investitionen.\n    *   Beratungs- und Schulungsangebote.\n    *   Initiativen zur Förderung der regionalen Zusammenarbeit.\n\n*   **Beispiele:** Beispiele für regionale Politikmaßnahmen sind:\n    *   Förderung des Tourismus in ländlichen Gebieten.\n    *   Unterstützung von Innovationsprojekten in bestimmten Regionen.\n    *   Ausbau der Infrastruktur in strukturschwachen Gebieten.\n\n*   **Kritik:** Die regionale Politik wird manchmal kritisiert, weil sie zu einer Verteilung von Ressourcen führen kann, die nicht immer effizient ist oder zu Abhängigkeiten führen kann.",
+    "typ": "ämne",
+    "antal": 2
   }
 }

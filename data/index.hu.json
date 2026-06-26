@@ -5557,6 +5557,34 @@
     }
   },
   {
+    "id": "reg-halland-regionstyrelsen-2026-04-15",
+    "typ": "region",
+    "titel": "A Halland régió regionális testülete, 2026. április 15.",
+    "ingress": "A Halland megyei regionális testület többek között döntéseket hozott a gazdaságról, a személyzeti szabályzatról és az egészségügyi ellátás jövőbeli szervezeti felépítéséről. Emellett terveket dolgoznak ki arról is, hogyan kezelik majd a vál",
+    "datum": "2026-04-15",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionstyrelsen/mote-2026-04-15",
+    "taggar": [
+      "reg-halland",
+      "regionstyrelsen",
+      "halland",
+      "region-halland",
+      "regionalpolitik",
+      "kommunal-forvaltning"
+    ],
+    "relevans": {
+      "arbetsgivare": 5,
+      "b_vard": 3,
+      "b_fastighet": 3,
+      "fou": 3,
+      "pensionar": 3,
+      "kronisk": 8,
+      "psykisk": 3,
+      "klimat": 3,
+      "fortroendevald": 3
+    }
+  },
+  {
     "id": "HD03245",
     "typ": "lagforslag",
     "titel": "Az erőszak, elnyomás és kizsákmányolás felszámolása – Nemzeti stratégia a férfiak által elkövetett erőszak ellen irányulva, a párkapcsolati erőszak, a prostitúció és az emberkereskedelem áldattainak védelmére, valamint a becsülethez kapcsolódó erőszak és elnyomás elleni küzdelem érdekében.",
@@ -8350,6 +8378,34 @@
     }
   },
   {
+    "id": "reg-halland-regionfullmaktige-2026-02-25",
+    "typ": "region",
+    "titel": "Halland megyei képviselőtestület, 2026. február 25.",
+    "ingress": "A Hallandi régió képviselőtestülete több javaslatot (indítványt) kapott, amelyek a következő területeket érintik: egészségügy, szociális ellátás és tömegközlekedés. Ezek az ügyek mindent lefednek, a gyermek- és idősekellamáshoz való jobb ho",
+    "datum": "2026-02-25",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionfullmaktige/mote-2026-02-25",
+    "taggar": [
+      "reg-halland",
+      "regionfullmaktige",
+      "region-halland",
+      "halland",
+      "kommunalpolitik",
+      "protokoll"
+    ],
+    "relevans": {
+      "arbetsgivare": 5,
+      "b_transport": 3,
+      "barn": 3,
+      "man": 3,
+      "lontagare": 3,
+      "pendlare": 3,
+      "kollektiv": 5,
+      "kronisk": 8,
+      "idrott": 3
+    }
+  },
+  {
     "id": "HD03146",
     "typ": "lagforslag",
     "titel": "Jobbhelyekhez és doktori képzéshez kapcsolódó, javított migrációs szabályok, valamint intézkedések a tanulmányokhoz kapcsolódó tartózkodási engedélyek visszaéléseinek megelőzésére.",
@@ -10260,6 +10316,34 @@
       "konsument": 3,
       "batagare": 5,
       "klimat": 3
+    }
+  },
+  {
+    "id": "reg-halland-regionfullmaktige-2025-12-03",
+    "typ": "region",
+    "titel": "Halland megyei képviselőtestület, 2025. december 3.",
+    "ingress": "A Halland régió vezetősége fontos döntéseket hozott a tömegközlekedés, a kórháztervezés és a fogászati ellátás fejlesztése terén. Emellett szabályokat határoztak meg a könyvtárak működésére vonatkozóan, támogatást nyújtottak a politikai pár",
+    "datum": "2025-12-03",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionfullmaktige/mote-2025-12-03",
+    "taggar": [
+      "reg-halland",
+      "regionfullmaktige",
+      "region-halland",
+      "halland",
+      "regionalpolitik",
+      "kommunal-forvaltning"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_fastighet": 3,
+      "pendlare": 3,
+      "kollektiv": 5,
+      "kronisk": 8,
+      "funktion": 3,
+      "psykisk": 3,
+      "tandvard": 3,
+      "kultur": 3
     }
   },
   {

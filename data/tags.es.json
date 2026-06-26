@@ -312,7 +312,7 @@
   "kommunal-forvaltning": {
     "etikett": "Administración municipal.",
     "typ": "ämne",
-    "antal": 4
+    "antal": 6
   },
   "karin-wanngard": {
     "etikett": "Karin Wanngård.",
@@ -362,7 +362,7 @@
   "protokoll": {
     "etikett": "Acta.",
     "typ": "ämne",
-    "antal": 7
+    "antal": 8
   },
   "ulf-rapp": {
     "etikett": "Ulf Rapp",
@@ -382,7 +382,7 @@
   "kommunalpolitik": {
     "etikett": "Política municipal.",
     "typ": "ämne",
-    "antal": 3
+    "antal": 4
   },
   "ange": {
     "etikett": "Ånge.",
@@ -1392,17 +1392,17 @@
   "reg-halland": {
     "etikett": "Región de Halland.",
     "typ": "organisation",
-    "antal": 4
+    "antal": 7
   },
   "regionfullmaktige": {
     "etikett": "Concejales regionales.",
     "typ": "organisation",
-    "antal": 7
+    "antal": 9
   },
   "regionstyrelsen": {
     "etikett": "Junta regional.",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "reg-orebro": {
     "etikett": "Región de Örebro län.",
@@ -1608,5 +1608,20 @@
     "etikett": "Construcción de viviendas.",
     "typ": "ämne",
     "antal": 1
+  },
+  "region-halland": {
+    "etikett": "Región de Halland.",
+    "typ": "organisation",
+    "antal": 3
+  },
+  "halland": {
+    "etikett": "Halland.",
+    "typ": "plats",
+    "antal": 3
+  },
+  "regionalpolitik": {
+    "etikett": "Política regional.",
+    "typ": "ämne",
+    "antal": 2
   }
 }

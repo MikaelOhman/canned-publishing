@@ -312,7 +312,7 @@
   "kommunal-forvaltning": {
     "etikett": "الإدارة المحلية.",
     "typ": "ämne",
-    "antal": 5
+    "antal": 7
   },
   "karin-wanngard": {
     "etikett": "كارين وانغارد.",
@@ -362,7 +362,7 @@
   "protokoll": {
     "etikett": "محضر اجتماع.",
     "typ": "ämne",
-    "antal": 7
+    "antal": 8
   },
   "ulf-rapp": {
     "etikett": "أولف راب.",
@@ -427,7 +427,7 @@
   "kommunalpolitik": {
     "etikett": "السياسة المحلية.",
     "typ": "ämne",
-    "antal": 2
+    "antal": 3
   },
   "lekeberg": {
     "etikett": "ليكبِيرج.",
@@ -1402,17 +1402,17 @@
   "reg-halland": {
     "etikett": "منطقة هالان.",
     "typ": "organisation",
-    "antal": 4
+    "antal": 7
   },
   "regionfullmaktige": {
     "etikett": "أعضاء المجلس الإقليمي المنتخبون.",
     "typ": "organisation",
-    "antal": 7
+    "antal": 9
   },
   "regionstyrelsen": {
     "etikett": "مجلس المنطقة.",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "reg-orebro": {
     "etikett": "منطقة أوربرو.",
@@ -1618,5 +1618,20 @@
     "etikett": "البناء السكني.",
     "typ": "ämne",
     "antal": 1
+  },
+  "region-halland": {
+    "etikett": "منطقة هالان.",
+    "typ": "organisation",
+    "antal": 3
+  },
+  "halland": {
+    "etikett": "هالاند.",
+    "typ": "plats",
+    "antal": 3
+  },
+  "regionalpolitik": {
+    "etikett": "السياسة الإقليمية.",
+    "typ": "ämne",
+    "antal": 2
   }
 }

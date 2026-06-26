@@ -312,7 +312,7 @@
   "kommunal-forvaltning": {
     "etikett": "Administrația locală.",
     "typ": "ämne",
-    "antal": 5
+    "antal": 7
   },
   "karin-wanngard": {
     "etikett": "Karin Wanngård",
@@ -362,7 +362,7 @@
   "protokoll": {
     "etikett": "Proces-verbal.",
     "typ": "ämne",
-    "antal": 7
+    "antal": 8
   },
   "ulf-rapp": {
     "etikett": "Ulf Rapp",
@@ -402,7 +402,7 @@
   "kommunalpolitik": {
     "etikett": "Politica locală.",
     "typ": "ämne",
-    "antal": 2
+    "antal": 3
   },
   "lekeberg": {
     "etikett": "Lekebergs",
@@ -1387,17 +1387,17 @@
   "reg-halland": {
     "etikett": "Regiunea Halland.",
     "typ": "organisation",
-    "antal": 4
+    "antal": 7
   },
   "regionfullmaktige": {
     "etikett": "Membrii consiliului regional.",
     "typ": "organisation",
-    "antal": 7
+    "antal": 9
   },
   "regionstyrelsen": {
     "etikett": "Consiliul regional.",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "reg-orebro": {
     "etikett": "Regiunea Örebro län.",
@@ -1603,5 +1603,20 @@
     "etikett": "Construcții rezidențiale.",
     "typ": "ämne",
     "antal": 1
+  },
+  "region-halland": {
+    "etikett": "Regiunea Halland.",
+    "typ": "organisation",
+    "antal": 3
+  },
+  "halland": {
+    "etikett": "Halland.",
+    "typ": "plats",
+    "antal": 3
+  },
+  "regionalpolitik": {
+    "etikett": "Politica regională.",
+    "typ": "ämne",
+    "antal": 2
   }
 }

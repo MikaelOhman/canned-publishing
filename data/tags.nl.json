@@ -317,7 +317,7 @@
   "kommunal-forvaltning": {
     "etikett": "Gemeentelijke administratie.",
     "typ": "ämne",
-    "antal": 4
+    "antal": 6
   },
   "karin-wanngard": {
     "etikett": "Karin Wanngård",
@@ -367,7 +367,7 @@
   "protokoll": {
     "etikett": "Notulen.",
     "typ": "ämne",
-    "antal": 7
+    "antal": 8
   },
   "ulf-rapp": {
     "etikett": "Ulf Rapp",
@@ -387,7 +387,7 @@
   "kommunalpolitik": {
     "etikett": "Gemeentelijke politiek.",
     "typ": "ämne",
-    "antal": 3
+    "antal": 4
   },
   "ange": {
     "etikett": "Ånge",
@@ -1397,17 +1397,17 @@
   "reg-halland": {
     "etikett": "Regio Halland.",
     "typ": "organisation",
-    "antal": 4
+    "antal": 7
   },
   "regionfullmaktige": {
     "etikett": "Regionale vertegenwoordigers.",
     "typ": "organisation",
-    "antal": 7
+    "antal": 9
   },
   "regionstyrelsen": {
     "etikett": "Regionale bestuursraad.",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "reg-orebro": {
     "etikett": "Regio Örebro län.",
@@ -1608,5 +1608,20 @@
     "etikett": "Woningbouw\n\n*   Beschrijving: [Hier zou een beschrijving van het onderwerp \"woningbouw\" komen.]\n*   Doelstellingen: [Hier zouden de doelstellingen met betrekking tot woningbouw vermeld worden.]\n*   Projecten:\n    *   Naam project 1: [Naam van project 1]\n    *   Datum start: 2023-01-15\n    *   URL: www.example.com/project1\n    *   Naam project 2: [Naam van project 2]\n    *   Datum voltooiing: 2024-12-31\n    *   URL: www.example.com/project2\n*   Contactgegevens: [Hier zouden de contactgegevens voor vragen over woningbouw vermeld worden.]",
     "typ": "ämne",
     "antal": 1
+  },
+  "region-halland": {
+    "etikett": "Regio Halland.",
+    "typ": "organisation",
+    "antal": 3
+  },
+  "halland": {
+    "etikett": "Halland",
+    "typ": "plats",
+    "antal": 3
+  },
+  "regionalpolitik": {
+    "etikett": "Regionale politiek.\n\n*   Doelstellingen:\n    *   Bevorderen van economische groei en werkgelegenheid in regio's.\n    *   Verminderen van regionale verschillen.\n    *   Verbeteren van de infrastructuur en voorzieningen.\n*   Instrumenten:\n    *   Subsidies voor bedrijven en projecten.\n    *   Investeringen in infrastructuur.\n    *   Ondersteuning voor lokale initiatieven.\n*   Voorbeelden:\n    *   De Europese regionalefondsen.\n    *   Nationale programma's voor economische ontwikkeling.\n    *   Regionale ontwikkelingsmaatschappijen.\n*   Meer informatie:\n    *   Website: www.example.com (voorbeeld)\n    *   Contactpersoon: Jan Jansen, 0123456789, jan.jansen@email.com (voorbeeld)\n    *   Datum laatste update: 2023-10-27 (voorbeeld)",
+    "typ": "ämne",
+    "antal": 2
   }
 }
