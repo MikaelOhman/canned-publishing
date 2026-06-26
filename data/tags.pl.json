@@ -1468,5 +1468,15 @@
     "etikett": "Täby.",
     "typ": "plats",
     "antal": 1
+  },
+  "tibro": {
+    "etikett": "Tibro.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "bun-signerad-pub": {
+    "etikett": "Podpis cyfrowy, który został zweryfikowany i uznany za ważny.",
+    "typ": "organisation",
+    "antal": 1
   }
 }

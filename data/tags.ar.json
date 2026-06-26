@@ -1483,5 +1483,15 @@
     "etikett": "تايبي.",
     "typ": "plats",
     "antal": 1
+  },
+  "tibro": {
+    "etikett": "تيبرو.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "bun-signerad-pub": {
+    "etikett": "حزمة برامج موقعة رقميًا.",
+    "typ": "organisation",
+    "antal": 1
   }
 }

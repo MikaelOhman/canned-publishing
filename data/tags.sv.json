@@ -1573,5 +1573,15 @@
     "etikett": "Täby",
     "typ": "plats",
     "antal": 1
+  },
+  "tibro": {
+    "etikett": "Tibro",
+    "typ": "plats",
+    "antal": 1
+  },
+  "bun-signerad-pub": {
+    "etikett": "Bun signerad pub",
+    "typ": "organisation",
+    "antal": 1
   }
 }
