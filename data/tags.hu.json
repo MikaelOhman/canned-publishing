@@ -1493,5 +1493,15 @@
     "etikett": "Tjörns.",
     "typ": "plats",
     "antal": 1
+  },
+  "tranemo": {
+    "etikett": "Tranemo.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "ofn": {
+    "etikett": "Sajnálom, de nem tudom, hogy mit jelent az \"ÖFN\". Kérlek, adj több információt, vagy egy másik szöveget, amit lefordíthatok.",
+    "typ": "organisation",
+    "antal": 1
   }
 }
