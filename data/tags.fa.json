@@ -972,7 +972,7 @@
   "bun": {
     "etikett": "بُن (Bun)",
     "typ": "organisation",
-    "antal": 3
+    "antal": 4
   },
   "kalix": {
     "etikett": "Kalix",
@@ -1487,6 +1487,11 @@
   "kommunala-tillganglighet-och-pensionarsr": {
     "etikett": "شورای محلی دسترسی و شورای بازنشستگان\n\n(یا: کمیته‌های محلی مربوط به دسترسی و حقوق بازنشستگان)",
     "typ": "organisation",
+    "antal": 1
+  },
+  "tjorn": {
+    "etikett": "جزیره تژورن.",
+    "typ": "plats",
     "antal": 1
   }
 }

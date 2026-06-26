@@ -987,7 +987,7 @@
   "bun": {
     "etikett": "خبز.",
     "typ": "organisation",
-    "antal": 3
+    "antal": 4
   },
   "kalix": {
     "etikett": "كاليكس.",
@@ -1502,6 +1502,11 @@
   "kommunala-tillganglighet-och-pensionarsr": {
     "etikett": "مجلس إمكانية الوصول المحلي ومجلس كبار السن.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "tjorn": {
+    "etikett": "جزيرة تجورن.",
+    "typ": "plats",
     "antal": 1
   }
 }

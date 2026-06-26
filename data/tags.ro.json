@@ -972,7 +972,7 @@
   "bun": {
     "etikett": "BUN",
     "typ": "organisation",
-    "antal": 3
+    "antal": 4
   },
   "kalix": {
     "etikett": "Kalix.",
@@ -1487,6 +1487,11 @@
   "kommunala-tillganglighet-och-pensionarsr": {
     "etikett": "Accesibilitatea la nivelul municipalității și consiliul pentru pensionari.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "tjorn": {
+    "etikett": "Tjörns.",
+    "typ": "plats",
     "antal": 1
   }
 }

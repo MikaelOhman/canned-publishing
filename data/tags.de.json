@@ -1037,7 +1037,7 @@
   "bun": {
     "etikett": "BUN",
     "typ": "organisation",
-    "antal": 3
+    "antal": 4
   },
   "kalix": {
     "etikett": "Kalix",
@@ -1557,6 +1557,11 @@
   "kommunala-tillganglighet-och-pensionarsr": {
     "etikett": "Kommunale Barrierefreiheit und Seniorenbeirat.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "tjorn": {
+    "etikett": "Tjörns",
+    "typ": "plats",
     "antal": 1
   }
 }
