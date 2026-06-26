@@ -862,7 +862,7 @@
   "barn-och-utbildningsnamnden": {
     "etikett": "Comisia pentru copii și educație.",
     "typ": "organisation",
-    "antal": 2
+    "antal": 3
   },
   "fargelanda": {
     "etikett": "Färgelanda",
@@ -1561,6 +1561,11 @@
   },
   "vetlanda": {
     "etikett": "Vetlanda.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "vimmerby": {
+    "etikett": "Vimmerby.",
     "typ": "plats",
     "antal": 1
   }

@@ -877,7 +877,7 @@
   "barn-och-utbildningsnamnden": {
     "etikett": "لجنة شؤون الأطفال والتعليم.",
     "typ": "organisation",
-    "antal": 2
+    "antal": 3
   },
   "fargelanda": {
     "etikett": "Färgelanda",
@@ -1576,6 +1576,11 @@
   },
   "vetlanda": {
     "etikett": "فيتلاندا.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "vimmerby": {
+    "etikett": "فيمربي.",
     "typ": "plats",
     "antal": 1
   }

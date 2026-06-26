@@ -927,7 +927,7 @@
   "barn-och-utbildningsnamnden": {
     "etikett": "Der Ausschuss für Kinder und Bildung.",
     "typ": "organisation",
-    "antal": 2
+    "antal": 3
   },
   "fargelanda": {
     "etikett": "Färgelanda\n\n(No further context was provided, so a simple translation of the name is all that's possible.)",
@@ -1631,6 +1631,11 @@
   },
   "vetlanda": {
     "etikett": "Vetlanda.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "vimmerby": {
+    "etikett": "Vimmerby.",
     "typ": "plats",
     "antal": 1
   }

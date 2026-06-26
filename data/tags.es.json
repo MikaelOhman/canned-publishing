@@ -862,7 +862,7 @@
   "barn-och-utbildningsnamnden": {
     "etikett": "La comisión de asuntos relacionados con la infancia y la educación.",
     "typ": "organisation",
-    "antal": 2
+    "antal": 3
   },
   "fargelanda": {
     "etikett": "Färgelanda.",
@@ -1566,6 +1566,11 @@
   },
   "vetlanda": {
     "etikett": "Vetlanda.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "vimmerby": {
+    "etikett": "Vimmerby.",
     "typ": "plats",
     "antal": 1
   }
