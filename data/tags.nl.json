@@ -1798,5 +1798,50 @@
     "etikett": "Runensteen.",
     "typ": "kategori",
     "antal": 6
+  },
+  "frankrike": {
+    "etikett": "Франция.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "varmebolja": {
+    "etikett": "Hittegolf.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "klimat": {
+    "etikett": "Klimaat\n\n*   Temperatuur:\n*   Neerslag:\n*   Zonuren:\n*   Beste reistijd:\n*   Website: www.example.com",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "kina": {
+    "etikett": "China.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "peking": {
+    "etikett": "Peking",
+    "typ": "plats",
+    "antal": 1
+  },
+  "olycka": {
+    "etikett": "Ongeluk.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "venezuela": {
+    "etikett": "Venezuela\n\n*   **Algemene informatie:** Venezuela is een land in Zuid-Amerika, gelegen aan de noordkust van het continent. Het grenst aan Colombia en Brazilië.\n*   **Hoofdstad:** Caracas\n*   **Oppervlakte:** 912.050 km²\n*   **Bevolking:** Ongeveer 28 miljoen mensen (gegevens variëren)\n*   **Officiële taal:** Spaans\n*   **Munteenheid:** Bolívar Soeverein (VES)\n*   **Belangrijke steden:** Caracas, Maracaibo, Valencia, Barinas, Ciudad Guayana.\n*   **Economie:** Venezuela heeft aanzienlijke olievoorraden en is een belangrijke olieproducent. De economie heeft echter te maken met verschillende uitdagingen.\n*   **Toerisme:** Populaire toeristische bestemmingen zijn onder andere Angel Falls, de Orinocorivier, en diverse nationale parken.\n*   **Website:** [URL verwijderd] (voorbeeld URL)",
+    "typ": "plats",
+    "antal": 1
+  },
+  "jordbavning": {
+    "etikett": "Aardbeving.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "katastrof": {
+    "etikett": "Catastrofe.",
+    "typ": "ämne",
+    "antal": 1
   }
 }

@@ -1,0 +1,66 @@
+{
+  "id": "tri-2026-06-26-venezuela-skalv",
+  "typ": "nyhet",
+  "titel": "Fuerte terremoto en Venezuela: alrededor de 600 personas confirmadas como fallecidas.",
+  "datum": "2026-06-26",
+  "kalla": "Triangulering (flera finska källor)",
+  "kalla_url": "",
+  "taggar": [
+    "venezuela",
+    "jordbavning",
+    "katastrof"
+  ],
+  "html": "<h3>Lo que las fuentes coinciden</h3><p>Un fuerte terremoto de magnitud 7,2 sacudió la costa de Venezuela en la noche del miércoles (hora finlandesa). Según el líder del país, casi 600 personas han muerto y alrededor de 3.000 resultaron heridas. Los trabajos de rescate están en curso y varios países han enviado ayuda.</p><h3>En qué las fuentes difieren</h3><p>El número de muertos aumenta rápidamente entre los informes. Yle y Helsingin Sanomat se mantienen con la cifra oficial de &quot;casi 600&quot;, mientras que los periódicos vespertinos Iltalehti e Ilta-Sanomat enfatizan el aumento y advierten sobre cifras significativamente más altas.</p><h3>Solo una fuente</h3><p>Ilta-Sanomat afirma que el número de muertos &quot;podría aumentar a decenas de miles&quot;, una información que ninguna otra fuente confirma.</p><h3>Nivel de certeza</h3><p>La propia catástrofe y los aproximadamente 600 fallecidos confirmados están bien documentados. Las cifras más altas son especulativas y solo aparecen en la prensa vespertina. Alta confianza en el terremoto, baja en el número final de víctimas mortales.</p>",
+  "tldr": "Un fuerte terremoto (de magnitud 7,2) sacudió la costa de Venezuela durante la noche del miércoles (hora finlandesa).",
+  "sakerhet": "belagt",
+  "flaggor": [
+    "enkalligt"
+  ],
+  "triangulering": {
+    "kallor": [
+      {
+        "kalla": "Yle",
+        "lutning": "centrado/neutro",
+        "partisk": false,
+        "url": "https://yle.fi/"
+      },
+      {
+        "kalla": "Helsingin Sanomat",
+        "lutning": "liberal-mitten",
+        "partisk": false,
+        "url": "https://www.hs.fi/"
+      },
+      {
+        "kalla": "Iltalehti",
+        "lutning": "popular / sensacional",
+        "partisk": false,
+        "url": "https://www.iltalehti.fi/"
+      },
+      {
+        "kalla": "Ilta-Sanomat",
+        "lutning": "popular / sensacional",
+        "partisk": false,
+        "url": "https://www.is.fi/"
+      }
+    ],
+    "samstammigt": [
+      "Un fuerte terremoto (de magnitud 7,2) sacudió la costa de Venezuela durante la noche del miércoles (hora finlandesa).",
+      "Según el líder de Venezuela, casi 600 personas han muerto y alrededor de 3.000 resultaron heridas.",
+      "Se están llevando a cabo labores de rescate y varios países han enviado ayuda."
+    ],
+    "divergenser": [
+      "El número de fallecidos está aumentando rápidamente entre los informes: Yle y HS indican \"casi 600\", mientras que los periódicos vespertinos advierten sobre cifras considerablemente más altas."
+    ],
+    "enkalligt": [
+      "Según el periódico Ilta-Sanomat, la cifra de muertos \"podría aumentar a decenas de miles\", una información que ninguna otra fuente ha confirmado."
+    ],
+    "vinkel_per_kalla": {
+      "Yle": "Objetivo: cifras oficiales (aproximadamente 600 muertos y 3.000 heridos), y se informa que las labores de rescate continúan.",
+      "Helsingin Sanomat": "Objetivo, enfatiza la ayuda internacional.",
+      "Iltalehti": "Titular sensacionalista: \"El número de muertos se ha duplicado\", se teme que miles hayan muerto.",
+      "Ilta-Sanomat": "Lo más impactante: \"casi se triplicó\", podría afectar a decenas de miles."
+    },
+    "konfidens": "medel",
+    "bedomning": "El epicentro — un terremoto de gran magnitud (7,2) con aproximadamente 600 víctimas confirmadas — está bien documentado por cuatro fuentes y datos oficiales. Sin embargo, las cifras más elevadas de fallecidos (\"decenas de miles\") son especulativas y solo aparecen en la prensa sensacionalista; hay que tratarlas con precaución. Existe un alto grado de certeza sobre el propio desastre, pero una baja confianza en la cifra final de víctimas."
+  }
+}

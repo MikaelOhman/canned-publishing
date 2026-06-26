@@ -1,0 +1,57 @@
+{
+  "id": "tri-2026-06-26-frankrike-varmebolja",
+  "typ": "nyhet",
+  "titel": "Hitzewelle in Frankreich belastet das Gesundheitssystem und führt zu Absagen von Veranstaltungen.\n\n*   Die Hitze verursacht eine hohe Belastung für das französische Gesundheitssystem.\n*   Verschiedene Veranstaltungen wurden aufgrund der extremen Temperaturen abgesagt.",
+  "datum": "2026-06-26",
+  "kalla": "Triangulering (flera finska källor)",
+  "kalla_url": "",
+  "taggar": [
+    "frankrike",
+    "varmebolja",
+    "klimat"
+  ],
+  "html": "<h3>Worauf sich die Quellen einigen</h3><p>Eine starke Hitzewelle trifft Frankreich, mit Temperaturen von bis zu 39–41 °C, und beeinträchtigt sowohl das Gesundheitswesen als auch Veranstaltungen.</p><h3>Wo sich die Quellen unterscheiden</h3><p>Die Quellen widersprechen sich nicht, sondern beleuchten verschiedene Aspekte derselben Hitzewelle.</p><h3>Der Beitrag jeder Quelle</h3><p>Helsingin Sanomat berichtet, dass die Krankenhäuser stark belastet sind und Premierminister Lecornu den Alarmzustand erhöht hat. Maaseudun Tulevaisuus stellt die Hitze in einen europäischen Kontext und verknüpft sie mit einer erhöhten Sterblichkeitsrate. Demokraatti berichtet, dass das Paris Pride-Festival auf den Herbst verschoben wurde.</p><h3>Wie zuverlässig?</h3><p>Die Hitzewelle wird durch drei Quellen aus verschiedenen Ländern belegt, wobei jede Quelle ihren eigenen Blickwinkel bietet. Ein gutes Beispiel dafür, wie Quellen sich ergänzen. Hohe Glaubwürdigkeit.</p>",
+  "tldr": "Eine starke Hitzewelle trifft Frankreich, mit Temperaturen von bis zu 39–41 °C, was Auswirkungen auf das Gesundheitswesen und Veranstaltungen hat.",
+  "sakerhet": "belagt",
+  "flaggor": [],
+  "triangulering": {
+    "kallor": [
+      {
+        "kalla": "Helsingin Sanomat",
+        "lutning": "liberal-mitten",
+        "partisk": false,
+        "url": "https://www.hs.fi/"
+      },
+      {
+        "kalla": "Maaseudun Tulevaisuus",
+        "lutning": "zentrum / ländliche Gebiete",
+        "partisk": true,
+        "url": "https://www.maaseuduntulevaisuus.fi/"
+      },
+      {
+        "kalla": "Demokraatti",
+        "lutning": "Zentrumslinks (Sozialdemokratische Partei)",
+        "partisk": true,
+        "url": "https://demokraatti.fi/"
+      }
+    ],
+    "samstammigt": [
+      "Eine starke Hitzewelle trifft Frankreich, mit Temperaturen von bis zu 39–41 °C, was Auswirkungen auf das Gesundheitswesen und Veranstaltungen hat."
+    ],
+    "divergenser": [
+      "Die Quellen beleuchten verschiedene Aspekte derselben Hitzewelle und widersprechen sich nicht unbedingt."
+    ],
+    "enkalligt": [
+      "Helsingin Sanomat berichtet: Die Krankenhäuser sind stark ausgelastet, Premierminister Lecornu hat den Alarmzustand erhöht.",
+      "\"Maaseudun Tulevaisuus\": Die Hitzewelle führt zu einer erhöhten Sterblichkeit in Frankreich und Spanien.",
+      "Demokraatti: Der Gay Pride in Paris wird aufgrund der Hitze auf den Herbst verschoben."
+    ],
+    "vinkel_per_kalla": {
+      "Helsingin Sanomat": "Schwerpunkte: Gesundheitsvorsorge und abgesagte Veranstaltungen.",
+      "Maaseudun Tulevaisuus": "Europäische Hitzewelle: Zusammenhang mit erhöhter Sterblichkeit.",
+      "Demokraatti": "Die Auswirkungen auf den Christopher Street Day (CSD)-Umzug in Paris."
+    },
+    "konfidens": "hög",
+    "bedomning": "Die Hitzewelle ist gut dokumentiert: Drei verschiedene Quellen bestätigen sie, jede mit ihrem eigenen Schwerpunkt. Ein gutes Beispiel dafür, wie Quellen sich ergänzen – zusammen vermitteln sie ein umfassenderes Bild als jede einzelne für sich. Hohe Glaubwürdigkeit."
+  }
+}

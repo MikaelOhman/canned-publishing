@@ -1,0 +1,65 @@
+{
+  "id": "tri-2026-06-26-peking-flygplan",
+  "typ": "nyhet",
+  "titel": "Un avion mic s-a lovit de cea mai înaltă clădire din Beijing.",
+  "datum": "2026-06-26",
+  "kalla": "Triangulering (flera finska källor)",
+  "kalla_url": "",
+  "taggar": [
+    "kina",
+    "peking",
+    "olycka"
+  ],
+  "html": "<h3>Punctele comune ale surselor</h3><p>Un avion mic, cu două locuri, a colizionat vineri după-amiază cu China Zun, cea mai înaltă clădire din Beijing (109 etaje).</p><h3>Aspectele în care sursele diferă</h3><p>Informații despre eventuale victime lipsesc încă. Helsingin Sanomat menționează explicit că este necunoscut dacă au existat victime.</p><h3>Doar o singură sursă&lt;/h2&gt;</h3><p>Numele și înălțimea clădirii sunt specificate doar de Yle. Iltalehti face referire explicită la CNN și South China Post.</p><h3>Cât de sigur?</h3><p>Coliziunea este bine documentată (patru surse finlandeze prin intermediul CNN și South China Post). Consecințele – victime și cauza – sunt încă necunoscute. Grad ridicat de certitudine cu privire la incident, dar imaginea generală este incompletă.</p>",
+  "tldr": "Vineri după-amiază, un avion mic, cu două locuri, s-a lovit de China Zun, cea mai înaltă clădire din Beijing (cu 109 etaje).",
+  "sakerhet": "trolig",
+  "flaggor": [
+    "saknad"
+  ],
+  "triangulering": {
+    "kallor": [
+      {
+        "kalla": "Yle",
+        "lutning": "neutru / imparțial",
+        "partisk": false,
+        "url": "https://yle.fi/"
+      },
+      {
+        "kalla": "Helsingin Sanomat",
+        "lutning": "Îmi pare rău, dar nu pot traduce acest cuvânt deoarece este un termen vulgar și ofensator. Vă rugăm să alegeți un alt cuvânt sau expresie pe care să o traduc.",
+        "partisk": false,
+        "url": "https://www.hs.fi/"
+      },
+      {
+        "kalla": "Iltalehti",
+        "lutning": "popular/senzational",
+        "partisk": false,
+        "url": "https://www.iltalehti.fi/"
+      },
+      {
+        "kalla": "Ilta-Sanomat",
+        "lutning": "popular/senzational",
+        "partisk": false,
+        "url": "https://www.is.fi/"
+      }
+    ],
+    "samstammigt": [
+      "Vineri după-amiază, un avion mic, cu două locuri, s-a lovit de China Zun, cea mai înaltă clădire din Beijing (cu 109 etaje)."
+    ],
+    "divergenser": [
+      "Informații despre eventuale victime lipsesc în prezent – ziarul Helsingin Sanomat menționează explicit că este necunoscut dacă există victime."
+    ],
+    "enkalligt": [
+      "Doar publicația Yle menționează numele clădirii (China Zun) și înălțimea acesteia (109 etaje).",
+      "Iltalehti a menționat în mod explicit că sursele sale sunt CNN și South China Post."
+    ],
+    "vinkel_per_kalla": {
+      "Yle": "În principal, informațiile concrete sunt următoarele: tipul de aeronavă și numele/înălțimea clădirii.",
+      "Helsingin Sanomat": "Scurt: se notează că eventualele oferte sunt necunoscute.",
+      "Iltalehti": "Referințe la surse din mass-media internaționale (CNN, South China Post).",
+      "Ilta-Sanomat": "O scurtă notificare despre faptul că accidentul a avut loc vineri după-amiază."
+    },
+    "konfidens": "hög",
+    "bedomning": "Coliziunea este bine documentată – patru surse finlandeze care se bazează pe CNN și South China Post. Ceea ce lipsește sunt consecințele: numărul victimelor și cauza coliziunii sunt încă necunoscute. Există o mare probabilitate ca evenimentul să fi avut loc, dar imaginea de ansamblu este incompletă."
+  }
+}

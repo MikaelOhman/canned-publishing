@@ -1,0 +1,65 @@
+{
+  "id": "tri-2026-06-26-frankrike-varmebolja",
+  "typ": "nyhet",
+  "topic_sv": "Värmebölja i Frankrike pressar sjukvården och ställer in evenemang",
+  "datum": "2026-06-26",
+  "kalla": "Triangulering (flera finska källor)",
+  "konfidens": "hög",
+  "sakerhet": "belagt",
+  "flaggor": [],
+  "taggar": [
+    [
+      "frankrike",
+      "Frankrike",
+      "plats"
+    ],
+    [
+      "varmebolja",
+      "Värmebölja",
+      "ämne"
+    ],
+    [
+      "klimat",
+      "Klimat",
+      "ämne"
+    ]
+  ],
+  "kallor": [
+    {
+      "kalla": "Helsingin Sanomat",
+      "lutning": "liberal-mitten",
+      "partisk": false,
+      "url": "https://www.hs.fi/"
+    },
+    {
+      "kalla": "Maaseudun Tulevaisuus",
+      "lutning": "center/landsbygd",
+      "partisk": true,
+      "url": "https://www.maaseuduntulevaisuus.fi/"
+    },
+    {
+      "kalla": "Demokraatti",
+      "lutning": "center-vänster (SDP)",
+      "partisk": true,
+      "url": "https://demokraatti.fi/"
+    }
+  ],
+  "samstammigt": [
+    "En kraftig värmebölja drabbar Frankrike, med temperaturer upp mot 39–41 °C, och påverkar sjukvård och evenemang."
+  ],
+  "divergenser": [
+    "Källorna belyser olika sidor av samma värmebölja snarare än att motsäga varandra."
+  ],
+  "enkalligt": [
+    "Helsingin Sanomat: sjukhusen hårt belastade, premiärminister Lecornu höjde beredskapen.",
+    "Maaseudun Tulevaisuus: värmen syns i ökad dödlighet i Frankrike och Spanien.",
+    "Demokraatti: Paris Pride skjuts upp till hösten på grund av värmen."
+  ],
+  "vinkel_per_kalla": {
+    "Helsingin Sanomat": "Fokus på sjukvårdsberedskap och inställda evenemang.",
+    "Maaseudun Tulevaisuus": "Europeisk bredd; kopplar värmen till ökad dödlighet.",
+    "Demokraatti": "Konsekvensen för Paris Pride-paraden."
+  },
+  "bedomning_sv": "Värmeböljan är väl belagd: tre källor med olika hemvist bekräftar den, var och en med sin egen aspekt. Ett bra exempel på källor som KOMPLETTERAR varandra — tillsammans ger de en fylligare bild än var för sig. Hög konfidens.",
+  "body_sv": "## Vad källorna är överens om\n\nEn kraftig värmebölja drabbar Frankrike, med temperaturer upp mot 39–41 °C, och påverkar både sjukvård och evenemang.\n\n## Var källorna skiljer sig\n\nKällorna motsäger inte varandra utan belyser olika sidor av samma värmebölja.\n\n## Varje källas bidrag\n\nHelsingin Sanomat rapporterar att sjukhusen är hårt belastade och att premiärminister Lecornu höjde beredskapen. Maaseudun Tulevaisuus sätter in värmen i ett europeiskt sammanhang och kopplar den till ökad dödlighet. Demokraatti rapporterar att Paris Pride skjuts upp till hösten.\n\n## Hur säkert?\n\nVärmeböljan är väl belagd av tre källor med olika hemvist, var och en med sin egen vinkel. Ett bra exempel på hur källor kompletterar varandra. Hög konfidens."
+}

@@ -83,5 +83,50 @@
     "etikett": "Juoksukivi.",
     "typ": "kategori",
     "antal": 6
+  },
+  "frankrike": {
+    "etikett": "Ranska.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "varmebolja": {
+    "etikett": "Helleaalto.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "klimat": {
+    "etikett": "Ilmasto.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "kina": {
+    "etikett": "Kiina.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "peking": {
+    "etikett": "Peking.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "olycka": {
+    "etikett": "Onnettomuus.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "venezuela": {
+    "etikett": "Venezuela.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "jordbavning": {
+    "etikett": "Maanjäristys.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "katastrof": {
+    "etikett": "Katastrofi.",
+    "typ": "ämne",
+    "antal": 1
   }
 }

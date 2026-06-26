@@ -1,0 +1,65 @@
+{
+  "id": "tri-2026-06-26-peking-flygplan",
+  "typ": "nyhet",
+  "titel": "Pieni lentokone törmäsi Pekingin korkeimpaan pilvenpiirtäjään.",
+  "datum": "2026-06-26",
+  "kalla": "Triangulering (flera finska källor)",
+  "kalla_url": "",
+  "taggar": [
+    "kina",
+    "peking",
+    "olycka"
+  ],
+  "html": "<h3>Mistä lähteet ovat yhtä mieltä</h3><p>Pieni, kaksipaikkainen lentokone törmäsi perjantai-iltapäivällä Pekingin korkeimpaan rakennukseen (109 kerrosta), China Zuniin.</p><h3>Missä lähteiden välillä on eroja</h3><p>Tietoja mahdollisista uhreista ei ole vielä saatavilla. Helsingin Sanomat toteaa nimenomaisesti, että asia on epäselvä.</p><h3>Vain yksi lähde</h3><p>Rakennuksen nimi ja korkeus mainitaan vain Ylen toimesta. Iltalehti viittaa nimenomaan CNN:ään ja South China Postiin.</p><h3>Kuinka luotettavaa?</h3><p>Törmäyksestä on vahvaa näyttöä (neljä suomalaista lähdettä CNN:n ja South China Postin kautta). Seuraukset – uhrit ja syy – ovat vielä tuntemattomia. Korkea varmuus itse tapahtumasta, mutta kokonaiskuva on epätäydellinen.</p>",
+  "tldr": "Pieni, kaksiistuinten lentokone törmäsi perjantai-iltapäivällä Pekingin korkeimpaan rakennukseen, China Zuniin (109 kerrosta).",
+  "sakerhet": "trolig",
+  "flaggor": [
+    "saknad"
+  ],
+  "triangulering": {
+    "kallor": [
+      {
+        "kalla": "Yle",
+        "lutning": "keskellä/neutraali",
+        "partisk": false,
+        "url": "https://yle.fi/"
+      },
+      {
+        "kalla": "Helsingin Sanomat",
+        "lutning": "Olen pahoillani, mutta en ymmärrä mitä tarkoitat. Voisitko selventää?",
+        "partisk": false,
+        "url": "https://www.hs.fi/"
+      },
+      {
+        "kalla": "Iltalehti",
+        "lutning": "suosittu / sensaatio.",
+        "partisk": false,
+        "url": "https://www.iltalehti.fi/"
+      },
+      {
+        "kalla": "Ilta-Sanomat",
+        "lutning": "suosittu / sensaatio.",
+        "partisk": false,
+        "url": "https://www.is.fi/"
+      }
+    ],
+    "samstammigt": [
+      "Pieni, kaksiistuinten lentokone törmäsi perjantai-iltapäivällä Pekingin korkeimpaan rakennukseen, China Zuniin (109 kerrosta)."
+    ],
+    "divergenser": [
+      "Uhrien määrästä ei ole vielä tietoa – Helsingin Sanomat toteaa nimenomaisesti, että asia on epäselvä."
+    ],
+    "enkalligt": [
+      "Vain Yle on ilmoittanut rakennuksen nimen (China Zun) ja korkeuden (109 kerrosta).",
+      "Iltalehti viittaa nimenomaisesti CNN:ään ja South China Postiin lähteenä."
+    ],
+    "vinkel_per_kalla": {
+      "Yle": "Konkreettisimmin sanottuna: lentokoneen tyyppi ja rakennuksen nimi/korkeus.",
+      "Helsingin Sanomat": "Lyhyt ilmoitus: huomioittehan, että mahdollisten uhrien henkilöllisyys on tällä hetkellä tuntematon.",
+      "Iltalehti": "Viittaukset kansainvälisiin tiedotusvälineisiin (CNN, South China Post).",
+      "Ilta-Sanomat": "Lyhyt ilmoitus siitä, että onnettomuus tapahtui perjantai-iltapäivällä."
+    },
+    "konfidens": "hög",
+    "bedomning": "Itse törmäyksestä on olemassa vahvoja todisteita – neljä suomalaista lähdettä, jotka puolestaan nojaavat CNN:ään ja South China Postiin. Se, mitä ei tiedetä, ovat seuraukset: uhrien määrä ja syy ovat vielä tuntemattomia. On erittäin todennäköistä, että törmäys on tapahtunut, mutta kuva tilanteesta on edelleen epätäydellinen."
+  }
+}

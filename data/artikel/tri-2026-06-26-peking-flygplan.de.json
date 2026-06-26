@@ -1,0 +1,65 @@
+{
+  "id": "tri-2026-06-26-peking-flygplan",
+  "typ": "nyhet",
+  "titel": "Ein kleines Flugzeug ist mit dem höchsten Wolkenkratzer von Peking zusammengestoßen.",
+  "datum": "2026-06-26",
+  "kalla": "Triangulering (flera finska källor)",
+  "kalla_url": "",
+  "taggar": [
+    "kina",
+    "peking",
+    "olycka"
+  ],
+  "html": "<h3>Was die Quellen übereinstimmen</h3><p>Ein kleines zweisitziges Flugzeug kollidierte am Freitagnachmittag mit dem China Zun, dem höchsten Gebäude in Peking (109 Stockwerke).</p><h3>Worin sich die Quellen unterscheiden</h3><p>Informationen über mögliche Opfer fehlen derzeit. Helsingin Sanomat weist ausdrücklich darauf hin, dass es unbekannt ist.</p><h3>Nur eine Quelle</h3><p>Der Name und die Höhe des Gebäudes werden nur von Yle angegeben. Iltalehti verweist ausdrücklich auf CNN und South China Post.</p><h3>Wie sicher?</h3><p>Die Kollision ist gut dokumentiert (vier finnische Quellen über CNN und South China Post). Die Konsequenzen – Opfer und Ursache – sind noch unbekannt. Hohe Sicherheit bezüglich des Ereignisses, aber unvollständiges Bild.</p>",
+  "tldr": "Am Freitagnachmittag stürzte ein kleines zweisitziges Flugzeug in das China Zun, das höchste Gebäude von Peking (mit 109 Stockwerken).",
+  "sakerhet": "trolig",
+  "flaggor": [
+    "saknad"
+  ],
+  "triangulering": {
+    "kallor": [
+      {
+        "kalla": "Yle",
+        "lutning": "zentriert/neutral",
+        "partisk": false,
+        "url": "https://yle.fi/"
+      },
+      {
+        "kalla": "Helsingin Sanomat",
+        "lutning": "liberal-mitten",
+        "partisk": false,
+        "url": "https://www.hs.fi/"
+      },
+      {
+        "kalla": "Iltalehti",
+        "lutning": "beliebt / aufsehenerregend",
+        "partisk": false,
+        "url": "https://www.iltalehti.fi/"
+      },
+      {
+        "kalla": "Ilta-Sanomat",
+        "lutning": "beliebt / aufsehenerregend",
+        "partisk": false,
+        "url": "https://www.is.fi/"
+      }
+    ],
+    "samstammigt": [
+      "Am Freitagnachmittag stürzte ein kleines zweisitziges Flugzeug in das China Zun, das höchste Gebäude von Peking (mit 109 Stockwerken)."
+    ],
+    "divergenser": [
+      "Informationen über mögliche Opfer fehlt derzeit – Helsingin Sanomat weist ausdrücklich darauf hin, dass dies unbekannt ist."
+    ],
+    "enkalligt": [
+      "Nur Yle nennt den Namen des Gebäudes (China Zun) und gibt seine Höhe an (109 Stockwerke).",
+      "Iltalehti verweist ausdrücklich auf CNN und die South China Post als Quellen."
+    ],
+    "vinkel_per_kalla": {
+      "Yle": "Konkret ausgedrückt: Flugzeugtyp und Name/Höhe des Gebäudes.",
+      "Helsingin Sanomat": "Kurz gesagt: Es wird darauf hingewiesen, dass etwaige Opfer derzeit unbekannt sind.",
+      "Iltalehti": "Quellenangaben zu internationalen Medien (CNN, South China Post).",
+      "Ilta-Sanomat": "Kurze Notiz: Der Unfall ereignete sich am Freitagnachmittag."
+    },
+    "konfidens": "hög",
+    "bedomning": "Der eigentliche Zusammenstoß ist durch vier finnische Quellen belegt, die wiederum auf CNN und South China Post verweisen. Was fehlt, sind die Konsequenzen: Opfer und Ursache sind noch unbekannt. Es besteht ein hoher Grad an Sicherheit, dass der Vorfall stattgefunden hat, aber das Gesamtbild ist unvollständig."
+  }
+}

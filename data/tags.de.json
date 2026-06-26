@@ -1858,5 +1858,50 @@
     "etikett": "Runenstein.",
     "typ": "kategori",
     "antal": 6
+  },
+  "frankrike": {
+    "etikett": "Frankreich.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "varmebolja": {
+    "etikett": "Hitzewelle.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "klimat": {
+    "etikett": "Klima\n\nHier sind einige Informationen zum Thema Klima:\n\n*   **Definition:** Das Klima ist die durchschnittliche Wetterlage über einen längeren Zeitraum (in der Regel mindestens 30 Jahre). Es umfasst sowohl Temperatur, Niederschlag als auch andere meteorologische Phänomene.\n\n*   **Einflussfaktoren:** Verschiedene Faktoren beeinflussen das Klima, darunter:\n    *   Sonnenstrahlung\n    *   Atmosphärische Zusammensetzung (z.B. Treibhausgase)\n    *   Meeresströmungen\n    *   Topographie (Geländeform)\n\n*   **Klimawandel:** Der Klimawandel bezeichnet langfristige Veränderungen des globalen Klimas, insbesondere eine Erwärmung der Durchschnittstemperaturen.  Die Hauptursache für den aktuellen Klimawandel ist die Zunahme von Treibhausgasemissionen durch menschliche Aktivitäten.\n\n*   **Auswirkungen:** Die Auswirkungen des Klimawandels sind vielfältig und umfassen:\n    *   Anstieg des Meeresspiegels\n    *   Zunahme extremer Wetterereignisse (z.B. Hitzewellen, Dürren, Überschwemmungen)\n    *   Veränderungen in Ökosystemen und Artenvielfalt\n\n*   **Maßnahmen:** Um den Klimawandel zu bekämpfen, sind verschiedene Maßnahmen erforderlich:\n    *   Reduktion der Treibhausgasemissionen (z.B. durch erneuerbare Energien, Energieeffizienz)\n    *   Anpassung an die bereits unvermeidlichen Folgen des Klimawandels (z.B. durch verbesserte Hochwasserschutzmaßnahmen)\n\nWeitere Informationen finden Sie unter: [URL einfügen]",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "kina": {
+    "etikett": "China.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "peking": {
+    "etikett": "Peking.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "olycka": {
+    "etikett": "Unfall.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "venezuela": {
+    "etikett": "Venezuela\n\n*   **Bevölkerung:** Ca. 28 Millionen Einwohner (Stand: 2023)\n*   **Hauptstadt:** Caracas\n*   **Amtssprache:** Spanisch\n*   **Währung:** Bolívar Soberano (VES)\n*   **Staatsform:** Präsidiale Republik\n*   **Präsident:** Nicolás Maduro\n*   **Fläche:** 912.050 km²\n*   **Unabhängigkeit:** 5. Juli 1811 (von Spanien)\n*   **Wichtige Wirtschaftszweige:** Ölförderung, Landwirtschaft, Bergbau\n*   **Website der venezolanischen Regierung:** [Ungültige URL entfernt]",
+    "typ": "plats",
+    "antal": 1
+  },
+  "jordbavning": {
+    "etikett": "Erdbeben.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "katastrof": {
+    "etikett": "Katastrophe.",
+    "typ": "ämne",
+    "antal": 1
   }
 }

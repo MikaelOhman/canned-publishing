@@ -1,0 +1,74 @@
+{
+  "id": "tri-2026-06-26-venezuela-skalv",
+  "typ": "nyhet",
+  "topic_sv": "Kraftig jordbävning i Venezuela – omkring 600 bekräftade döda",
+  "datum": "2026-06-26",
+  "kalla": "Triangulering (flera finska källor)",
+  "konfidens": "medel",
+  "sakerhet": "belagt",
+  "flaggor": [
+    "enkalligt"
+  ],
+  "taggar": [
+    [
+      "venezuela",
+      "Venezuela",
+      "plats"
+    ],
+    [
+      "jordbavning",
+      "Jordbävning",
+      "ämne"
+    ],
+    [
+      "katastrof",
+      "Katastrof",
+      "ämne"
+    ]
+  ],
+  "kallor": [
+    {
+      "kalla": "Yle",
+      "lutning": "mitten/neutral",
+      "partisk": false,
+      "url": "https://yle.fi/"
+    },
+    {
+      "kalla": "Helsingin Sanomat",
+      "lutning": "liberal-mitten",
+      "partisk": false,
+      "url": "https://www.hs.fi/"
+    },
+    {
+      "kalla": "Iltalehti",
+      "lutning": "populär/sensationell",
+      "partisk": false,
+      "url": "https://www.iltalehti.fi/"
+    },
+    {
+      "kalla": "Ilta-Sanomat",
+      "lutning": "populär/sensationell",
+      "partisk": false,
+      "url": "https://www.is.fi/"
+    }
+  ],
+  "samstammigt": [
+    "En kraftig jordbävning (magnitud 7,2) drabbade Venezuelas kust natten till torsdag (finsk tid).",
+    "Enligt Venezuelas ledare har nästan 600 människor dött och omkring 3 000 skadats.",
+    "Räddningsarbete pågår och flera länder har skickat hjälp."
+  ],
+  "divergenser": [
+    "Dödstalet stiger snabbt mellan rapporterna: Yle och HS anger 'nästan 600', medan kvällstidningarna varnar för betydligt högre tal."
+  ],
+  "enkalligt": [
+    "Ilta-Sanomat uppger att dödstalet 'kan stiga till tiotusentals' — en uppgift ingen annan källa bekräftar."
+  ],
+  "vinkel_per_kalla": {
+    "Yle": "Saklig: officiell siffra (~600 döda, 3 000 skadade) och att räddningsarbetet pågår.",
+    "Helsingin Sanomat": "Saklig, betonar den internationella hjälpen.",
+    "Iltalehti": "Sensationsvinkel: 'dödstalet fördubblades', tusentals befaras döda.",
+    "Ilta-Sanomat": "Mest dramatiserande: 'nästan trefaldigades', kan nå tiotusentals."
+  },
+  "bedomning_sv": "Kärnan — en kraftig jordbävning (magnitud 7,2) med omkring 600 bekräftade döda — är väl belagd av fyra källor och officiella uppgifter. Men de högsta dödstalen ('tiotusentals') är spekulativa och förekommer bara i kvällspressen; behandla dem med försiktighet. Hög konfidens på själva katastrofen, låg på den slutliga dödssiffran.",
+  "body_sv": "## Vad källorna är överens om\n\nEn kraftig jordbävning med magnituden 7,2 drabbade Venezuelas kust natten till torsdag (finsk tid). Enligt landets ledare har nästan 600 människor dött och omkring 3 000 skadats. Räddningsarbete pågår och flera länder har skickat hjälp.\n\n## Var källorna skiljer sig\n\nDödstalet stiger snabbt mellan rapporterna. Yle och Helsingin Sanomat håller sig till den officiella siffran 'nästan 600', medan kvällstidningarna Iltalehti och Ilta-Sanomat betonar eskalering och varnar för betydligt högre tal.\n\n## Bara en källa\n\nIlta-Sanomat uppger att dödstalet 'kan stiga till tiotusentals' — en uppgift som ingen annan källa bekräftar.\n\n## Hur säkert?\n\nSjälva katastrofen och de omkring 600 bekräftade döda är väl belagda. De högsta talen är spekulativa och bara i kvällspressen. Hög konfidens på jordbävningen, låg på den slutliga dödssiffran."
+}

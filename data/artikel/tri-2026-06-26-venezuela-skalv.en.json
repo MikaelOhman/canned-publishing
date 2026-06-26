@@ -1,0 +1,66 @@
+{
+  "id": "tri-2026-06-26-venezuela-skalv",
+  "typ": "nyhet",
+  "titel": "A powerful earthquake has struck Venezuela, resulting in approximately 600 confirmed deaths.",
+  "datum": "2026-06-26",
+  "kalla": "Triangulering (flera finska källor)",
+  "kalla_url": "",
+  "taggar": [
+    "venezuela",
+    "jordbavning",
+    "katastrof"
+  ],
+  "html": "<h3>What the Sources Agree On</h3><p>A powerful earthquake with a magnitude of 7.2 struck Venezuela&#x27;s coast late Wednesday night (Finnish time). According to the country&#x27;s leader, nearly 600 people have died and approximately 3,000 have been injured. Rescue efforts are underway, and several countries have sent aid.</p><h3>Where the Sources Disagree</h3><p>The death toll is rapidly increasing between reports. Yle and Helsingin Sanomat stick to the official figure of &quot;nearly 600,&quot; while the evening newspapers Iltalehti and Ilta-Sanomat emphasize the escalating situation and warn of significantly higher numbers.</p><h3>Only One Source</h3><p>Ilta-Sanomat claims that the death toll &quot;could rise to tens of thousands&quot; – a claim that no other source confirms.</p><h3>How Certain?</h3><p>The earthquake itself and the approximately 600 confirmed deaths are well-documented. The highest figures are speculative and only appear in the evening press. High confidence in the earthquake, low confidence in the final death toll.</p>",
+  "tldr": "A powerful earthquake (magnitude 7.2) struck the coast of Venezuela late Wednesday night (Finnish time).",
+  "sakerhet": "belagt",
+  "flaggor": [
+    "enkalligt"
+  ],
+  "triangulering": {
+    "kallor": [
+      {
+        "kalla": "Yle",
+        "lutning": "middle/neutral",
+        "partisk": false,
+        "url": "https://yle.fi/"
+      },
+      {
+        "kalla": "Helsingin Sanomat",
+        "lutning": "I'm sorry, I can't translate that word because it is not a recognized word in any language. It may be a misspelling or a made-up word. Could you please provide more context or clarify the meaning of the word?",
+        "partisk": false,
+        "url": "https://www.hs.fi/"
+      },
+      {
+        "kalla": "Iltalehti",
+        "lutning": "popular / sensational",
+        "partisk": false,
+        "url": "https://www.iltalehti.fi/"
+      },
+      {
+        "kalla": "Ilta-Sanomat",
+        "lutning": "popular / sensational",
+        "partisk": false,
+        "url": "https://www.is.fi/"
+      }
+    ],
+    "samstammigt": [
+      "A powerful earthquake (magnitude 7.2) struck the coast of Venezuela late Wednesday night (Finnish time).",
+      "According to Venezuela's leader, nearly 600 people have died and approximately 3,000 have been injured.",
+      "Rescue operations are underway, and several countries have sent aid."
+    ],
+    "divergenser": [
+      "The death toll is rising rapidly between reports: Yle and HS report \"nearly 600\" deaths, while evening newspapers warn of significantly higher numbers."
+    ],
+    "enkalligt": [
+      "According to Ilta-Sanomat, the death toll \"could rise to tens of thousands\" – a claim that no other source has confirmed."
+    ],
+    "vinkel_per_kalla": {
+      "Yle": "Factually: The official figures state approximately 600 deaths and 3,000 injuries, and rescue operations are ongoing.",
+      "Helsingin Sanomat": "Objective, emphasizing international aid.",
+      "Iltalehti": "Headline: \"Death toll doubles,\" thousands feared dead.",
+      "Ilta-Sanomat": "Most dramatic: \"nearly tripled,\" potentially reaching tens of thousands."
+    },
+    "konfidens": "medel",
+    "bedomning": "The core information – a powerful earthquake (magnitude 7.2) with approximately 600 confirmed deaths – is well-supported by four sources and official reports. However, the highest reported death tolls (\"tens of thousands\") are speculative and appear only in tabloid media; treat them with caution. There is high confidence regarding the occurrence of the disaster itself, but low confidence in the final death toll."
+  }
+}

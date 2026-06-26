@@ -130,6 +130,58 @@
     "tri": true
   },
   {
+    "id": "tri-2026-06-26-frankrike-varmebolja",
+    "typ": "nyhet",
+    "titel": "Onda francesa: la ola de calor está presionando al sistema sanitario y provocando la cancelación de eventos.\n\n*   El sistema de salud francés se encuentra bajo una gran presión debido a la ola de calor actual.\n*   Se están cancelando diversos eventos como medida preventiva.",
+    "ingress": "Onda francesa: la ola de calor está presionando al sistema sanitario y provocando la cancelación de eventos.\n\n*   El sistema de salud francés se encuentra bajo una gran presión debido a la ola de calor actual.\n*   Se están cancelando diversos eventos como medida preventiva. — La ola de calor está bien documentada: tres fuentes, provenientes de diferentes lugares, la confirman, cada una aportand",
+    "datum": "2026-06-26",
+    "kalla": "Triangulering (flera finska källor)",
+    "taggar": [
+      "frankrike",
+      "varmebolja",
+      "klimat"
+    ],
+    "sakerhet": "belagt",
+    "flaggor": [],
+    "tri": true
+  },
+  {
+    "id": "tri-2026-06-26-peking-flygplan",
+    "typ": "nyhet",
+    "titel": "Un pequeño avión colisionó con el rascacielos más alto de Pekín.",
+    "ingress": "Un pequeño avión colisionó con el rascacielos más alto de Pekín. — La colisión está bien documentada: cuatro fuentes finlandesas que a su vez se basan en CNN y South China Post. Lo que fa",
+    "datum": "2026-06-26",
+    "kalla": "Triangulering (flera finska källor)",
+    "taggar": [
+      "kina",
+      "peking",
+      "olycka"
+    ],
+    "sakerhet": "trolig",
+    "flaggor": [
+      "saknad"
+    ],
+    "tri": true
+  },
+  {
+    "id": "tri-2026-06-26-venezuela-skalv",
+    "typ": "nyhet",
+    "titel": "Fuerte terremoto en Venezuela: alrededor de 600 personas confirmadas como fallecidas.",
+    "ingress": "Fuerte terremoto en Venezuela: alrededor de 600 personas confirmadas como fallecidas. — El epicentro — un terremoto de gran magnitud (7,2) con aproximadamente 600 víctimas confirmadas — está bien documentado ",
+    "datum": "2026-06-26",
+    "kalla": "Triangulering (flera finska källor)",
+    "taggar": [
+      "venezuela",
+      "jordbavning",
+      "katastrof"
+    ],
+    "sakerhet": "belagt",
+    "flaggor": [
+      "enkalligt"
+    ],
+    "tri": true
+  },
+  {
     "id": "HD03301",
     "typ": "lagforslag",
     "titel": "Condiciones más estrictas para la inmigración de familiares.\n\n*   Se han endurecido las condiciones para la inmigración de familiares.",

@@ -1,0 +1,57 @@
+{
+  "id": "tri-2026-06-26-frankrike-varmebolja",
+  "typ": "nyhet",
+  "titel": "A heatwave in France is putting a strain on healthcare services and causing events to be cancelled.",
+  "datum": "2026-06-26",
+  "kalla": "Triangulering (flera finska källor)",
+  "kalla_url": "",
+  "taggar": [
+    "frankrike",
+    "varmebolja",
+    "klimat"
+  ],
+  "html": "<h3>What the sources agree on:</h3><p>A severe heatwave is affecting France, with temperatures reaching up to 39-41 °C, impacting both healthcare and events.</p><h3>Where the sources differ:</h3><p>The sources do not contradict each other but highlight different aspects of the same heatwave.</p><h3>Each source&#x27;s contribution:</h3><p>Helsingin Sanomat reports that hospitals are under heavy strain and that Prime Minister Lecornu raised the alert level. Maaseudun Tulevaisuus places the heatwave in a European context and links it to increased mortality rates. Demokraatti reports that Paris Pride has been postponed until autumn.</p><h3>How reliable is this?</h3><p>The heatwave is well-documented by three sources from different locations, each with its own perspective. This is a good example of how sources can complement each other. High confidence.</p>",
+  "tldr": "A severe heatwave is affecting France, with temperatures reaching up to 39-41°C (approximately 102-106°F), impacting healthcare services and events.",
+  "sakerhet": "belagt",
+  "flaggor": [],
+  "triangulering": {
+    "kallor": [
+      {
+        "kalla": "Helsingin Sanomat",
+        "lutning": "I'm sorry, I can't translate that word because it is not a real word. It may be a misspelling or a made-up word. Can you provide me with more context or information about what you are trying to translate?",
+        "partisk": false,
+        "url": "https://www.hs.fi/"
+      },
+      {
+        "kalla": "Maaseudun Tulevaisuus",
+        "lutning": "This term refers to rural areas or regions outside of major urban centers. It encompasses a variety of landscapes and communities characterized by lower population density, agricultural activities, and often a closer connection to nature.",
+        "partisk": true,
+        "url": "https://www.maaseuduntulevaisuus.fi/"
+      },
+      {
+        "kalla": "Demokraatti",
+        "lutning": "centre-left (Social Democratic Party)",
+        "partisk": true,
+        "url": "https://demokraatti.fi/"
+      }
+    ],
+    "samstammigt": [
+      "A severe heatwave is affecting France, with temperatures reaching up to 39-41°C (approximately 102-106°F), impacting healthcare services and events."
+    ],
+    "divergenser": [
+      "The sources highlight different aspects of the same heatwave rather than contradicting each other."
+    ],
+    "enkalligt": [
+      "Helsingin Sanomat reported that hospitals are under heavy strain, and Prime Minister Lecornu has raised the alert level.",
+      "According to Maaseudun Tulevaisuus, heatwaves are causing increased mortality rates in France and Spain.",
+      "Demokraatti: The Paris Pride event has been postponed until this fall due to the heat."
+    ],
+    "vinkel_per_kalla": {
+      "Helsingin Sanomat": "Focus on healthcare preparedness and canceled events.",
+      "Maaseudun Tulevaisuus": "European heatwaves are linked to increased mortality rates.",
+      "Demokraatti": "The consequence of the Paris Pride parade."
+    },
+    "konfidens": "hög",
+    "bedomning": "The heatwave is well-documented: three sources from different locations confirm it, each offering their own perspective. This is a good example of how sources can complement each other – together, they provide a more complete picture than any single source could alone. High confidence."
+  }
+}

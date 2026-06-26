@@ -130,6 +130,58 @@
     "tri": true
   },
   {
+    "id": "tri-2026-06-26-frankrike-varmebolja",
+    "typ": "nyhet",
+    "titel": "Franciaországban egy hőhullám terheli az egészségügyi rendszert és számos eseményt törölt.",
+    "ingress": "Franciaországban egy hőhullám terheli az egészségügyi rendszert és számos eseményt törölt. — A hőhullám valószínűleg bekövetkezik: három különböző forrás erősíti ezt, mindegyik saját szemszögből. Ez egy jó példa a",
+    "datum": "2026-06-26",
+    "kalla": "Triangulering (flera finska källor)",
+    "taggar": [
+      "frankrike",
+      "varmebolja",
+      "klimat"
+    ],
+    "sakerhet": "belagt",
+    "flaggor": [],
+    "tri": true
+  },
+  {
+    "id": "tri-2026-06-26-peking-flygplan",
+    "typ": "nyhet",
+    "titel": "Egy kis repülőgép ütközött Peking legmagasabb felhőkarcolójával.",
+    "ingress": "Egy kis repülőgép ütközött Peking legmagasabb felhőkarcolójával. — A baleset ténye valószínűleg bizonyított – négy finn forrás állítja ezt, amelyek a CNN-re és a South China Postra támasz",
+    "datum": "2026-06-26",
+    "kalla": "Triangulering (flera finska källor)",
+    "taggar": [
+      "kina",
+      "peking",
+      "olycka"
+    ],
+    "sakerhet": "trolig",
+    "flaggor": [
+      "saknad"
+    ],
+    "tri": true
+  },
+  {
+    "id": "tri-2026-06-26-venezuela-skalv",
+    "typ": "nyhet",
+    "titel": "Erős földrengés Venezuelában – körülbelül 600 halálos áldozatot követelt.",
+    "ingress": "Erős földrengés Venezuelában – körülbelül 600 halálos áldozatot követelt. — A rengáslási esemény – egy erős földrengés (7,2-es Richter-skála) körülbelül 600 bejegyzett halottal – négy forrás és hi",
+    "datum": "2026-06-26",
+    "kalla": "Triangulering (flera finska källor)",
+    "taggar": [
+      "venezuela",
+      "jordbavning",
+      "katastrof"
+    ],
+    "sakerhet": "belagt",
+    "flaggor": [
+      "enkalligt"
+    ],
+    "tri": true
+  },
+  {
     "id": "HD03301",
     "typ": "lagforslag",
     "titel": "Szigorúbb feltételek a családegyesítéshez.\n\n*   Új szabályokról van szó.\n*   A cél az, hogy csökkentsük az illegális bevándorlást.\n*   A változások hatással lesznek a családtagokra, akik szeretnék egyesíteni a svédségi családjukkal.\n*   További információkért látogasson el erre a weboldalra: [URL]",

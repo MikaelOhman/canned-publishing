@@ -1,0 +1,65 @@
+{
+  "id": "tri-2026-06-26-peking-flygplan",
+  "typ": "nyhet",
+  "titel": "Mały samolot zderzył się z najwyższym wieżowcem w Pekinie.",
+  "datum": "2026-06-26",
+  "kalla": "Triangulering (flera finska källor)",
+  "kalla_url": "",
+  "taggar": [
+    "kina",
+    "peking",
+    "olycka"
+  ],
+  "html": "<h3>W czym źródła są zgodne</h3><p>Mały samolot dwuosobowy zderzył się w piątek po południu z China Zun, najwyższym budynkiem Pekinu (109 pięter).</p><h3>W czym źródła się różnią</h3><p>Informacje o ewentualnych ofiarach na razie nie są dostępne. Helsingin Sanomat wyraźnie zaznacza, że jest to nieznane.</p><h3>Tylko jedno źródło</h3><p>Nazwę i wysokość budynku podaje tylko Yle. Iltalehti wyraźnie odnosi się do CNN i South China Post.</p><h3>Jak wiarygodne?</h3><p>Zderzenie jest dobrze udokumentowane (cztery fińskie źródła za pośrednictwem CNN i South China Post). Konsekwencje – ofiary i przyczyny – są wciąż nieznane. Wysoka pewność co do samego zdarzenia, ale obraz sytuacji jest niekompletny.</p>",
+  "tldr": "W piątek po południu niewielki samolot dwuosobowy uderzył w China Zun, najwyższy budynek w Pekinie (109 pięter).",
+  "sakerhet": "trolig",
+  "flaggor": [
+    "saknad"
+  ],
+  "triangulering": {
+    "kallor": [
+      {
+        "kalla": "Yle",
+        "lutning": "środek/neutralny",
+        "partisk": false,
+        "url": "https://yle.fi/"
+      },
+      {
+        "kalla": "Helsingin Sanomat",
+        "lutning": "liberal-mitten",
+        "partisk": false,
+        "url": "https://www.hs.fi/"
+      },
+      {
+        "kalla": "Iltalehti",
+        "lutning": "popularny/sensacyjny",
+        "partisk": false,
+        "url": "https://www.iltalehti.fi/"
+      },
+      {
+        "kalla": "Ilta-Sanomat",
+        "lutning": "popularny/sensacyjny",
+        "partisk": false,
+        "url": "https://www.is.fi/"
+      }
+    ],
+    "samstammigt": [
+      "W piątek po południu niewielki samolot dwuosobowy uderzył w China Zun, najwyższy budynek w Pekinie (109 pięter)."
+    ],
+    "divergenser": [
+      "Informacje dotyczące ewentualnych ofiar są na razie niedostępne – gazeta Helsingin Sanomat wyraźnie zaznacza, że nie wiadomo, czy doszło do ofiar."
+    ],
+    "enkalligt": [
+      "Tylko serwis informacyjny Yle podaje nazwę budynku (China Zun) oraz jego wysokość (109 pięter).",
+      "Gazeta Iltalehti wyraźnie wskazuje CNN i South China Post jako źródła informacji."
+    ],
+    "vinkel_per_kalla": {
+      "Yle": "Najbardziej konkretnie: typ samolotu oraz nazwa budynku/jego wysokość.",
+      "Helsingin Sanomat": "Zauważono: informacje dotyczące ewentualnych ofiar są nieznane.",
+      "Iltalehti": "Odwołania do międzynarodowych mediów (CNN, South China Post).",
+      "Ilta-Sanomat": "Krótka informacja o tym, że wypadek miał miejsce w piątek po południu."
+    },
+    "konfidens": "hög",
+    "bedomning": "Samozwały kolizji są potwierdzone – cztery fińskie źródła, które z kolei opierają się na informacjach z CNN i South China Post. Brakuje jednak informacji o konsekwencjach: liczba ofiar oraz przyczyna zdarzenia są wciąż nieznane. Istnieje wysokie prawdopodobieństwo, że doszło do kolizji, ale obraz sytuacji jest niekompletny."
+  }
+}

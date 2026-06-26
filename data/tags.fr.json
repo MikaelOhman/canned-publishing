@@ -1798,5 +1798,50 @@
     "etikett": "Felsökningsguide pour les runestones\n\nCette section fournit des conseils pour résoudre les problèmes courants rencontrés lors de l'utilisation des runestones.\n\n* **Problème :** Les runestones ne s'affichent pas correctement.\n    * **Solution :** Vérifiez que les pilotes graphiques sont à jour. Redémarrez votre ordinateur. Assurez-vous que la résolution de l'écran est compatible avec les runestones.\n\n* **Problème :** Les runestones fonctionnent lentement.\n    * **Solution :** Fermez les applications inutiles. Augmentez la mémoire vive (RAM) de votre ordinateur. Désactivez les effets visuels.\n\n* **Problème :** Vous ne parvenez pas à vous connecter aux serveurs des runestones.\n    * **Solution :** Vérifiez votre connexion Internet. Redémarrez votre routeur. Contactez votre fournisseur d'accès Internet (FAI).\n\nSi vous rencontrez d'autres problèmes, veuillez consulter la documentation en ligne ou contacter le support technique.",
     "typ": "kategori",
     "antal": 6
+  },
+  "frankrike": {
+    "etikett": "France.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "varmebolja": {
+    "etikett": "Canicule.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "klimat": {
+    "etikett": "Climat.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "kina": {
+    "etikett": "Chine.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "peking": {
+    "etikett": "Pékin.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "olycka": {
+    "etikett": "Accident.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "venezuela": {
+    "etikett": "Venezuela.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "jordbavning": {
+    "etikett": "Séisme.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "katastrof": {
+    "etikett": "Catastrophe.",
+    "typ": "ämne",
+    "antal": 1
   }
 }

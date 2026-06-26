@@ -1813,5 +1813,50 @@
     "etikett": "نصب حجري تذكاري.",
     "typ": "kategori",
     "antal": 6
+  },
+  "frankrike": {
+    "etikett": "فرنسا.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "varmebolja": {
+    "etikett": "موجة حر.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "klimat": {
+    "etikett": "المناخ.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "kina": {
+    "etikett": "الصين.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "peking": {
+    "etikett": "بكينغ.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "olycka": {
+    "etikett": "حادث.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "venezuela": {
+    "etikett": "فنزويلا.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "jordbavning": {
+    "etikett": "زلزال.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "katastrof": {
+    "etikett": "كارثة.",
+    "typ": "ämne",
+    "antal": 1
   }
 }

@@ -34,6 +34,58 @@
     "tri": true
   },
   {
+    "id": "tri-2026-06-26-frankrike-varmebolja",
+    "typ": "nyhet",
+    "titel": "Ranskan lämpimät kesäkuut kuormittavat terveydenhuoltoa ja johtavat tapahtumien peruutuksiin.\n\n*   Lämpöaalto aiheuttaa lisääntynyttä painetta terveydenhuollolle.\n*   Useita tapahtumia on peruttu.",
+    "ingress": "Ranskan lämpimät kesäkuut kuormittavat terveydenhuoltoa ja johtavat tapahtumien peruutuksiin.\n\n*   Lämpöaalto aiheuttaa lisääntynyttä painetta terveydenhuollolle.\n*   Useita tapahtumia on peruttu. — Helteaalto on todennäköisesti todellinen: kolme eri lähteestä tulevaa tietoa vahvistaa sen, ja jokainen niistä tuo oman ",
+    "datum": "2026-06-26",
+    "kalla": "Triangulering (flera finska källor)",
+    "taggar": [
+      "frankrike",
+      "varmebolja",
+      "klimat"
+    ],
+    "sakerhet": "belagt",
+    "flaggor": [],
+    "tri": true
+  },
+  {
+    "id": "tri-2026-06-26-peking-flygplan",
+    "typ": "nyhet",
+    "titel": "Pieni lentokone törmäsi Pekingin korkeimpaan pilvenpiirtäjään.",
+    "ingress": "Pieni lentokone törmäsi Pekingin korkeimpaan pilvenpiirtäjään. — Itse törmäyksestä on olemassa vahvoja todisteita – neljä suomalaista lähdettä, jotka puolestaan nojaavat CNN:ään ja Sout",
+    "datum": "2026-06-26",
+    "kalla": "Triangulering (flera finska källor)",
+    "taggar": [
+      "kina",
+      "peking",
+      "olycka"
+    ],
+    "sakerhet": "trolig",
+    "flaggor": [
+      "saknad"
+    ],
+    "tri": true
+  },
+  {
+    "id": "tri-2026-06-26-venezuela-skalv",
+    "typ": "nyhet",
+    "titel": "Voimakas maanjäristys Venezuelassa – noin 600 ihmistä on vahvistettu kuolleeksi.",
+    "ingress": "Voimakas maanjäristys Venezuelassa – noin 600 ihmistä on vahvistettu kuolleeksi. — Ydinasia on voimakas maanjäristys (7,2 Richterin asteikolla), jonka seurauksena on noin 600 vahvistettua kuolemaa – tämä",
+    "datum": "2026-06-26",
+    "kalla": "Triangulering (flera finska källor)",
+    "taggar": [
+      "venezuela",
+      "jordbavning",
+      "katastrof"
+    ],
+    "sakerhet": "belagt",
+    "flaggor": [
+      "enkalligt"
+    ],
+    "tri": true
+  },
+  {
     "id": "fk-2026-06-11-en-myt-att-pappor-tar-ut-foraldraledighet-under-fotbolls-vm",
     "typ": "myndighet",
     "titel": "Yleinen käsitys on, että isät ottavat vanhempainvapautta jalkapallon MM-kisojen aikana.",

@@ -1,0 +1,65 @@
+{
+  "id": "tri-2026-06-26-peking-flygplan",
+  "typ": "nyhet",
+  "titel": "A small airplane collided with Beijing's tallest skyscraper.",
+  "datum": "2026-06-26",
+  "kalla": "Triangulering (flera finska källor)",
+  "kalla_url": "",
+  "taggar": [
+    "kina",
+    "peking",
+    "olycka"
+  ],
+  "html": "<h3>What the sources agree on:</h3><p>A small two-seater airplane collided with China Zun, Beijing&#x27;s tallest building (109 floors), on Friday afternoon.</p><h3>Where the sources differ:</h3><p>Information regarding any potential casualties is currently unavailable. Helsingin Sanomat explicitly states that it is unknown.</p><h3>Only one source:</h3><p>The name and height of the building are only mentioned by Yle. Iltalehti specifically refers to CNN and South China Post.</p><h3>How certain is this?</h3><p>The collision is well-documented (four Finnish sources via CNN and South China Post). The consequences – casualties and cause – are still unknown. High confidence in the event itself, but an incomplete picture overall.</p>",
+  "tldr": "On Friday afternoon, a small two-seater airplane collided with the China Zun, Beijing's tallest building (with 109 floors).",
+  "sakerhet": "trolig",
+  "flaggor": [
+    "saknad"
+  ],
+  "triangulering": {
+    "kallor": [
+      {
+        "kalla": "Yle",
+        "lutning": "middle/neutral",
+        "partisk": false,
+        "url": "https://yle.fi/"
+      },
+      {
+        "kalla": "Helsingin Sanomat",
+        "lutning": "I'm sorry, I can't translate that word because it is not a recognized term or phrase in any language I know. It may be a slang term, a misspelling, or something specific to a particular community or context. If you can provide more information about where you encountered this word or what it might mean, I would be happy to try and help you understand it.",
+        "partisk": false,
+        "url": "https://www.hs.fi/"
+      },
+      {
+        "kalla": "Iltalehti",
+        "lutning": "popular / sensational",
+        "partisk": false,
+        "url": "https://www.iltalehti.fi/"
+      },
+      {
+        "kalla": "Ilta-Sanomat",
+        "lutning": "popular / sensational",
+        "partisk": false,
+        "url": "https://www.is.fi/"
+      }
+    ],
+    "samstammigt": [
+      "On Friday afternoon, a small two-seater airplane collided with the China Zun, Beijing's tallest building (with 109 floors)."
+    ],
+    "divergenser": [
+      "Information regarding any potential casualties is currently unavailable – Helsingin Sanomat explicitly states that it is unknown whether there were any victims."
+    ],
+    "enkalligt": [
+      "Only Yle mentions the building's name (China Zun) and height (109 floors).",
+      "Iltalehti explicitly cites CNN and the South China Post as sources."
+    ],
+    "vinkel_per_kalla": {
+      "Yle": "Most specifically: the type of aircraft and the building's name/height.",
+      "Helsingin Sanomat": "Note: Any potential casualties are currently unknown.",
+      "Iltalehti": "Cite sources from international media outlets (CNN, South China Post).",
+      "Ilta-Sanomat": "Brief note indicating that the accident occurred on Friday afternoon."
+    },
+    "konfidens": "hög",
+    "bedomning": "The collision itself is well-documented, with evidence from four Finnish sources that in turn cite CNN and the South China Post. However, the consequences are currently unknown: the number of casualties and the cause of the incident remain unclear. There is a high degree of certainty that the event occurred, but the overall picture is incomplete."
+  }
+}

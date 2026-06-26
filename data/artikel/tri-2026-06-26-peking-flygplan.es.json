@@ -1,0 +1,65 @@
+{
+  "id": "tri-2026-06-26-peking-flygplan",
+  "typ": "nyhet",
+  "titel": "Un pequeño avión colisionó con el rascacielos más alto de Pekín.",
+  "datum": "2026-06-26",
+  "kalla": "Triangulering (flera finska källor)",
+  "kalla_url": "",
+  "taggar": [
+    "kina",
+    "peking",
+    "olycka"
+  ],
+  "html": "<h3>En lo que están de acuerdo las fuentes</h3><p>Un pequeño avión bimotor colisionó el viernes por la tarde con China Zun, el edificio más alto de Pekín (109 plantas).</p><h3>En qué se diferencian las fuentes</h3><p>La información sobre posibles víctimas aún no está disponible. Helsingin Sanomat indica explícitamente que es desconocido.</p><h3>Solo una fuente</h3><p>El nombre y la altura del edificio solo son mencionados por Yle. Iltalehti hace referencia explícita a CNN y South China Post.</p><h3>¿Qué tan seguro?</h3><p>La colisión está bien documentada (cuatro fuentes finlandesas a través de CNN y South China Post). Las consecuencias, como víctimas y causa, aún se desconocen. Alta confianza en que el evento ocurrió, pero la información es incompleta.</p>",
+  "tldr": "El viernes por la tarde, un pequeño avión de dos plazas colisionó con el China Zun, el edificio más alto de Pekín (con 109 plantas).",
+  "sakerhet": "trolig",
+  "flaggor": [
+    "saknad"
+  ],
+  "triangulering": {
+    "kallor": [
+      {
+        "kalla": "Yle",
+        "lutning": "centrado/neutro",
+        "partisk": false,
+        "url": "https://yle.fi/"
+      },
+      {
+        "kalla": "Helsingin Sanomat",
+        "lutning": "liberal-mitten",
+        "partisk": false,
+        "url": "https://www.hs.fi/"
+      },
+      {
+        "kalla": "Iltalehti",
+        "lutning": "popular / sensacional",
+        "partisk": false,
+        "url": "https://www.iltalehti.fi/"
+      },
+      {
+        "kalla": "Ilta-Sanomat",
+        "lutning": "popular / sensacional",
+        "partisk": false,
+        "url": "https://www.is.fi/"
+      }
+    ],
+    "samstammigt": [
+      "El viernes por la tarde, un pequeño avión de dos plazas colisionó con el China Zun, el edificio más alto de Pekín (con 109 plantas)."
+    ],
+    "divergenser": [
+      "Aún no hay información disponible sobre posibles víctimas; el periódico Helsingin Sanomat señala explícitamente que se desconoce si hubo heridos o fallecidos."
+    ],
+    "enkalligt": [
+      "Solo la cadena de televisión Yle menciona el nombre del edificio (China Zun) y su altura (109 plantas).",
+      "Iltalehti cita explícitamente a CNN y al South China Post como fuentes de información."
+    ],
+    "vinkel_per_kalla": {
+      "Yle": "Concretamente: tipo de avión y nombre/altura del edificio.",
+      "Helsingin Sanomat": "Breve nota: se indica que cualquier oferta es desconocida.",
+      "Iltalehti": "Citar fuentes de medios internacionales (CNN, South China Post).",
+      "Ilta-Sanomat": "Breve nota que indica que el accidente ocurrió el viernes por la tarde."
+    },
+    "konfidens": "hög",
+    "bedomning": "La colisión está bien documentada: cuatro fuentes finlandesas que a su vez se basan en CNN y South China Post. Lo que falta son las consecuencias: aún se desconocen las víctimas y la causa del incidente. Existe un alto grado de certeza de que ha ocurrido, pero la información es incompleta."
+  }
+}

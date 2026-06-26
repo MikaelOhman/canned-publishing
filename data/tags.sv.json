@@ -1918,5 +1918,50 @@
     "etikett": "Runsten",
     "typ": "kategori",
     "antal": 6
+  },
+  "frankrike": {
+    "etikett": "Frankrike",
+    "typ": "plats",
+    "antal": 1
+  },
+  "varmebolja": {
+    "etikett": "Värmebölja",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "klimat": {
+    "etikett": "Klimat",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "kina": {
+    "etikett": "Kina",
+    "typ": "plats",
+    "antal": 1
+  },
+  "peking": {
+    "etikett": "Peking",
+    "typ": "plats",
+    "antal": 1
+  },
+  "olycka": {
+    "etikett": "Olycka",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "venezuela": {
+    "etikett": "Venezuela",
+    "typ": "plats",
+    "antal": 1
+  },
+  "jordbavning": {
+    "etikett": "Jordbävning",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "katastrof": {
+    "etikett": "Katastrof",
+    "typ": "ämne",
+    "antal": 1
   }
 }

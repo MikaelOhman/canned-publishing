@@ -1798,5 +1798,50 @@
     "etikett": "Piatră runică.",
     "typ": "kategori",
     "antal": 6
+  },
+  "frankrike": {
+    "etikett": "Franța.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "varmebolja": {
+    "etikett": "Val de căldură.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "klimat": {
+    "etikett": "Climă.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "kina": {
+    "etikett": "China.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "peking": {
+    "etikett": "Beijing.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "olycka": {
+    "etikett": "Accident.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "venezuela": {
+    "etikett": "Venezuela.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "jordbavning": {
+    "etikett": "Cutremur.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "katastrof": {
+    "etikett": "Catastrofă.",
+    "typ": "ämne",
+    "antal": 1
   }
 }

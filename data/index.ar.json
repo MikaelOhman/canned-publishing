@@ -130,6 +130,58 @@
     "tri": true
   },
   {
+    "id": "tri-2026-06-26-frankrike-varmebolja",
+    "typ": "nyhet",
+    "titel": "موجة حرارية في فرنسا تضغط على القطاع الصحي وتؤدي إلى إلغاء الفعاليات.\n\n*   تسبب الموجة الحارة ضغطًا كبيرًا على النظام الصحي الفرنسي.\n*   تم إلغاء العديد من الفعاليات بسبب ارتفاع درجات الحرارة.",
+    "ingress": "موجة حرارية في فرنسا تضغط على القطاع الصحي وتؤدي إلى إلغاء الفعاليات.\n\n*   تسبب الموجة الحارة ضغطًا كبيرًا على النظام الصحي الفرنسي.\n*   تم إلغاء العديد من الفعاليات بسبب ارتفاع درجات الحرارة. — إن موجة الحر هذه مؤكدة بشكل قاطع: ثلاثة مصادر مختلفة تؤكدها، كل منها ببياناته الخاصة. هذا مثال جيد على المصادر التي تكمل",
+    "datum": "2026-06-26",
+    "kalla": "Triangulering (flera finska källor)",
+    "taggar": [
+      "frankrike",
+      "varmebolja",
+      "klimat"
+    ],
+    "sakerhet": "belagt",
+    "flaggor": [],
+    "tri": true
+  },
+  {
+    "id": "tri-2026-06-26-peking-flygplan",
+    "typ": "nyhet",
+    "titel": "اصطدمت طائرة صغيرة بأعلى مبنى شاهق في بكين.",
+    "ingress": "اصطدمت طائرة صغيرة بأعلى مبنى شاهق في بكين. — لقد تم التأكد من وقوع الاصطدام نفسه، وذلك بناءً على أربع مصادر فنلندية تستند بدورها إلى CNN و South China Post. ما هو مف",
+    "datum": "2026-06-26",
+    "kalla": "Triangulering (flera finska källor)",
+    "taggar": [
+      "kina",
+      "peking",
+      "olycka"
+    ],
+    "sakerhet": "trolig",
+    "flaggor": [
+      "saknad"
+    ],
+    "tri": true
+  },
+  {
+    "id": "tri-2026-06-26-venezuela-skalv",
+    "typ": "nyhet",
+    "titel": "زلزال مدمر في فنزويلا - حوالي 600 قتيل مؤكد.",
+    "ingress": "زلزال مدمر في فنزويلا - حوالي 600 قتيل مؤكد. — تتمثل جوهر الموضوع في زلزال مدمر (بقوة 7.2 درجة) أسفر عن مقتل ما يقرب من 600 شخص، وهو أمر مؤكد وموثق بأربع مصادر ومعلوما",
+    "datum": "2026-06-26",
+    "kalla": "Triangulering (flera finska källor)",
+    "taggar": [
+      "venezuela",
+      "jordbavning",
+      "katastrof"
+    ],
+    "sakerhet": "belagt",
+    "flaggor": [
+      "enkalligt"
+    ],
+    "tri": true
+  },
+  {
     "id": "HD03301",
     "typ": "lagforslag",
     "titel": "شروط أكثر صرامة للهجرة العائلية.\n\n(Keep the paragraph and list structure, and keep names, numbers, dates and URLs unchanged. Translate for meaning.)",

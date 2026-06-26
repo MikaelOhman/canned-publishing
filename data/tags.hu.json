@@ -1798,5 +1798,50 @@
     "etikett": "Egy futókövület.",
     "typ": "kategori",
     "antal": 6
+  },
+  "frankrike": {
+    "etikett": "Franciaország.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "varmebolja": {
+    "etikett": "Hőhullám.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "klimat": {
+    "etikett": "Éghajlat.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "kina": {
+    "etikett": "Kína.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "peking": {
+    "etikett": "Peking.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "olycka": {
+    "etikett": "Baleset.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "venezuela": {
+    "etikett": "Venezuela.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "jordbavning": {
+    "etikett": "Földrengés.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "katastrof": {
+    "etikett": "Katasztrófa.",
+    "typ": "ämne",
+    "antal": 1
   }
 }

@@ -1863,5 +1863,50 @@
     "etikett": "Runestone.",
     "typ": "kategori",
     "antal": 6
+  },
+  "frankrike": {
+    "etikett": "France.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "varmebolja": {
+    "etikett": "Heatwave.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "klimat": {
+    "etikett": "Climate\n\nHere's a breakdown of climate-related information:\n\n*   **Temperature:** [Insert temperature data here]\n*   **Precipitation:** [Insert precipitation data here]\n*   **Humidity:** [Insert humidity data here]\n*   **Wind speed:** [Insert wind speed data here]\n*   **Extreme weather events:** [Insert information about extreme weather events, such as floods, droughts, or heatwaves]\n\nFor more detailed climate information, please visit: [Insert URL here]",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "kina": {
+    "etikett": "China.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "peking": {
+    "etikett": "Peking.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "olycka": {
+    "etikett": "Accident.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "venezuela": {
+    "etikett": "Venezuela\n\n*   **Capital:** Caracas\n*   **Population (2023):** Approximately 28.4 million people\n*   **Official Language:** Spanish\n*   **Currency:** Venezuelan Bolívar (VES)\n*   **Government:** Federal presidential republic\n*   **Website:** [https://www.gob.ve/](https://www.gob.ve/)",
+    "typ": "plats",
+    "antal": 1
+  },
+  "jordbavning": {
+    "etikett": "Earthquake.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "katastrof": {
+    "etikett": "Catastrophe.",
+    "typ": "ämne",
+    "antal": 1
   }
 }

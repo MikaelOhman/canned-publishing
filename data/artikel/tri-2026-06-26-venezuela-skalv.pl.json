@@ -1,0 +1,66 @@
+{
+  "id": "tri-2026-06-26-venezuela-skalv",
+  "typ": "nyhet",
+  "titel": "Silne trzęsienie ziemi w Wenezueli – potwierdzono śmierć około 600 osób.",
+  "datum": "2026-06-26",
+  "kalla": "Triangulering (flera finska källor)",
+  "kalla_url": "",
+  "taggar": [
+    "venezuela",
+    "jordbavning",
+    "katastrof"
+  ],
+  "html": "<h3>W czym źródła są zgodne</h3><p>Silne trzęsienie ziemi o magnitudzie 7,2 nawiedziło wybrzeże Wenezueli w nocy z środy na czwartek (czas fiński). Według przywódcy kraju, śmierć poniosło prawie 600 osób, a około 3000 zostało rannych. Trwają działania ratownicze, a kilka krajów wysłało pomoc.</p><h3>W czym źródła się różnią</h3><p>Liczba ofiar śmiertelnych szybko rośnie w kolejnych raportach. Yle i Helsingin Sanomat podają oficjalną liczbę &quot;prawie 600&quot;, podczas gdy wieczorne gazety Iltalehti i Ilta-Sanomat podkreślają eskalację sytuacji i ostrzegają przed znacznie wyższymi liczbami.</p><h3>Tylko jedno źródło</h3><p>Ilta-Sanomat informuje, że liczba ofiar śmiertelnych &quot;może wzrosnąć do dziesiątek tysięcy&quot; – informacja ta nie została potwierdzona przez żadne inne źródło.</p><h3>Jak bardzo wiarygodne?</h3><p>Sama katastrofa i około 600 potwierdzonych zgonów są dobrze udokumentowane. Najwyższe podawane liczby są spekulatywne i występują tylko w prasie wieczornej. Wysoka pewność co do samego trzęsienia ziemi, niska natomiast co do ostatecznej liczby ofiar śmiertelnych.</p>",
+  "tldr": "Silne trzęsienie ziemi o magnitudzie 7,2 nawiedziło wybrzeże Wenezueli w nocy z środy na czwartek (czas fiński).",
+  "sakerhet": "belagt",
+  "flaggor": [
+    "enkalligt"
+  ],
+  "triangulering": {
+    "kallor": [
+      {
+        "kalla": "Yle",
+        "lutning": "środek/neutralny",
+        "partisk": false,
+        "url": "https://yle.fi/"
+      },
+      {
+        "kalla": "Helsingin Sanomat",
+        "lutning": "liberal-mitten",
+        "partisk": false,
+        "url": "https://www.hs.fi/"
+      },
+      {
+        "kalla": "Iltalehti",
+        "lutning": "popularny/sensacyjny",
+        "partisk": false,
+        "url": "https://www.iltalehti.fi/"
+      },
+      {
+        "kalla": "Ilta-Sanomat",
+        "lutning": "popularny/sensacyjny",
+        "partisk": false,
+        "url": "https://www.is.fi/"
+      }
+    ],
+    "samstammigt": [
+      "Silne trzęsienie ziemi o magnitudzie 7,2 nawiedziło wybrzeże Wenezueli w nocy z środy na czwartek (czas fiński).",
+      "Według słów przywódcy Wenezueli, prawie 600 osób zginęło, a około 3000 odniosło obrażenia.",
+      "Trwają akcje ratunkowe, a wiele krajów wysłało pomoc."
+    ],
+    "divergenser": [
+      "Liczba ofiar śmiertelnych gwałtownie rośnie z każdym kolejnym komunikatem: telewizja Yle i gazeta Helsingin Sanomat podają liczbę \"niemal 600\", podczas gdy wieczorne wydania gazet ostrzegają przed znacznie wyższymi liczbami."
+    ],
+    "enkalligt": [
+      "Gazeta Ilta-Sanomat podaje, że liczba ofiar śmiertelnych \"może wzrosnąć do dziesiątek tysięcy\" – informacja ta nie została potwierdzona przez żadne inne źródło."
+    ],
+    "vinkel_per_kalla": {
+      "Yle": "Faktycznie: podano oficjalną liczbę ofiar (~600 zabitych, 3000 rannych), a działania ratownicze wciąż trwają.",
+      "Helsingin Sanomat": "Obiektywny, podkreśla międzynarodową pomoc.",
+      "Iltalehti": "Sensacyjny nagłówek: \"Liczba ofiar podwojona\", tysiące osób może zginąć.",
+      "Ilta-Sanomat": "Najbardziej dramatyczne zmiany: \"prawie potrojenie się\", potencjalnie dotyczy to dziesiątek tysięcy osób."
+    },
+    "konfidens": "medel",
+    "bedomning": "Sedno sprawy – silne trzęsienie ziemi (o magnitudzie 7,2) ze wstępnie potwierdzoną liczbą około 600 ofiar śmiertelnych – jest dobrze udokumentowane przez cztery źródła i oficjalne komunikaty. Jednak najwyższe podawane liczby ofiar (\"tysiące\") są spekulacyjne i pojawiają się jedynie w tabloidach; należy do nich podchodzić z ostrożnością. Wysoka pewność co do samego wystąpienia katastrofy, niska natomiast co do ostatecznej liczby ofiar."
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "tri-2026-06-26-peking-flygplan",
+  "typ": "nyhet",
+  "titel": "Un piccolo aereo si è scontrato con il grattacielo più alto di Pechino.",
+  "datum": "2026-06-26",
+  "kalla": "Triangulering (flera finska källor)",
+  "kalla_url": "",
+  "taggar": [
+    "kina",
+    "peking",
+    "olycka"
+  ],
+  "html": "<h3>Ciò su cui le fonti concordano</h3><p>Un piccolo aereo biposto è entrato in collisione venerdì pomeriggio con il China Zun, l&#x27;edificio più alto di Pechino (109 piani).</p><h3>Dove le fonti divergono</h3><p>Al momento non ci sono informazioni certe riguardo a eventuali vittime. Helsingin Sanomat specifica che non si sa se ci siano state persone coinvolte.</p><h3>Solo una fonte</h3><p>Il nome e l&#x27;altezza dell&#x27;edificio sono indicati solo da Yle. Iltalehti fa esplicitamente riferimento a CNN e South China Post.</p><h3>Quanto è certo?</h3><p>La collisione è ampiamente documentata (quattro fonti finlandesi tramite CNN e South China Post). Le conseguenze, ovvero eventuali vittime e la causa dell&#x27;incidente, sono ancora sconosciute. Si ha un&#x27;alta confidenza riguardo all&#x27;evento in sé, ma l&#x27;immagine generale è incompleta.</p>",
+  "tldr": "Venerdì pomeriggio, un piccolo aereo biposto si è scontrato con il China Zun, l'edificio più alto di Pechino (con 109 piani).",
+  "sakerhet": "trolig",
+  "flaggor": [
+    "saknad"
+  ],
+  "triangulering": {
+    "kallor": [
+      {
+        "kalla": "Yle",
+        "lutning": "neutro/indifferente",
+        "partisk": false,
+        "url": "https://yle.fi/"
+      },
+      {
+        "kalla": "Helsingin Sanomat",
+        "lutning": "liberal-mitten",
+        "partisk": false,
+        "url": "https://www.hs.fi/"
+      },
+      {
+        "kalla": "Iltalehti",
+        "lutning": "popolare / sensazionale",
+        "partisk": false,
+        "url": "https://www.iltalehti.fi/"
+      },
+      {
+        "kalla": "Ilta-Sanomat",
+        "lutning": "\"Popolare/sensazionale\" può essere tradotto in diversi modi a seconda del contesto:\n\n*   **Popolare:**\n    *   **Diffuso:** Se si vuole sottolineare la sua ampia accettazione e presenza.\n    *   **Apprezzato:** Se si vuole evidenziare che molte persone lo trovano valido o piacevole.\n    *   **Ampiamente seguito/seguito da molti:** Se ci si riferisce a un trend, un'idea o una persona.\n    *   **In voga:** Se si parla di qualcosa di attuale e alla moda.\n\n*   **Sensazionale:**\n    *   **Sensazionale:** Questa è la traduzione più diretta e mantiene lo stesso significato originale.\n    *   **Scandaloso:** Se l'aspetto sensazionale deriva da qualcosa di sconvolgente o inaccettabile.\n    *   **Incredibile:** Se si vuole enfatizzare quanto sia sorprendente o straordinario.\n    *   **Straordinario:** Simile a \"incredibile\", ma con una connotazione più positiva.\n    *   **Che fa notizia:** Se l'aspetto sensazionale è legato alla sua capacità di attirare l'attenzione dei media e del pubblico.\n\nLa scelta della traduzione migliore dipende quindi dal contesto specifico in cui viene utilizzata la parola originale.",
+        "partisk": false,
+        "url": "https://www.is.fi/"
+      }
+    ],
+    "samstammigt": [
+      "Venerdì pomeriggio, un piccolo aereo biposto si è scontrato con il China Zun, l'edificio più alto di Pechino (con 109 piani)."
+    ],
+    "divergenser": [
+      "Al momento non sono disponibili informazioni su eventuali vittime; il quotidiano Helsingin Sanomat precisa che non si sa se ci siano state persone ferite o morte."
+    ],
+    "enkalligt": [
+      "Solo l'emittente Yle indica il nome dell'edificio (China Zun) e la sua altezza (109 piani).",
+      "Iltalehti cita esplicitamente CNN e il South China Post come fonti."
+    ],
+    "vinkel_per_kalla": {
+      "Yle": "Principalmente, specificare il tipo di aeromobile e il nome/l'altezza dell'edificio.",
+      "Helsingin Sanomat": "Breve nota: si precisa che eventuali offerte sono sconosciute.",
+      "Iltalehti": "Citazioni di fonti provenienti dai media internazionali (CNN, South China Post).",
+      "Ilta-Sanomat": "Breve nota che l'incidente è avvenuto venerdì pomeriggio."
+    },
+    "konfidens": "hög",
+    "bedomning": "La collisione è stata effettivamente confermata da quattro fonti finlandesi, che a loro volta si basano su CNN e South China Post. Ciò che manca sono le conseguenze: il numero delle vittime e la causa dell'incidente sono ancora sconosciuti. C'è un alto grado di certezza che l'evento sia avvenuto, ma il quadro generale è incompleto."
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "tri-2026-06-26-venezuela-skalv",
+  "typ": "nyhet",
+  "titel": "Forte terremoto in Venezuela: circa 600 persone sono state dichiarate morte.",
+  "datum": "2026-06-26",
+  "kalla": "Triangulering (flera finska källor)",
+  "kalla_url": "",
+  "taggar": [
+    "venezuela",
+    "jordbavning",
+    "katastrof"
+  ],
+  "html": "<h3>Ciò su cui le fonti concordano</h3><p>Un forte terremoto di magnitudo 7,2 ha colpito la costa del Venezuela nella notte tra mercoledì e giovedì (ora finlandese). Secondo il leader del paese, quasi 600 persone sono morte e circa 3.000 sono rimaste ferite. Le operazioni di soccorso sono in corso e diversi paesi hanno inviato aiuti.</p><h3>Dove le fonti divergono</h3><p>Il numero di vittime aumenta rapidamente tra i vari resoconti. Yle e Helsingin Sanomat si attengono alla cifra ufficiale di &quot;quasi 600&quot;, mentre i quotidiani serali Iltalehti e Ilta-Sanomat sottolineano l&#x27;escalation e avvertono che il numero potrebbe essere significativamente più alto.</p><h3>Solo una fonte</h3><p>Ilta-Sanomat riporta che il numero di vittime &quot;potrebbe salire a decine di migliaia&quot;, un&#x27;affermazione che nessuna altra fonte conferma.</p><h3>Quanto è affidabile?</h3><p>La stessa catastrofe e le circa 600 vittime confermate sono ampiamente documentate. I numeri più alti sono speculativi e presenti solo nella stampa serale. Alta affidabilità per quanto riguarda il terremoto, bassa per il numero finale delle vittime.</p>",
+  "tldr": "Un forte terremoto (di magnitudo 7,2) ha colpito la costa del Venezuela nella notte tra mercoledì e giovedì (ora finlandese).",
+  "sakerhet": "belagt",
+  "flaggor": [
+    "enkalligt"
+  ],
+  "triangulering": {
+    "kallor": [
+      {
+        "kalla": "Yle",
+        "lutning": "neutro/indifferente",
+        "partisk": false,
+        "url": "https://yle.fi/"
+      },
+      {
+        "kalla": "Helsingin Sanomat",
+        "lutning": "\"liberal-mitten\" non è una parola o frase riconosciuta in svedese. Pertanto, non posso fornire una traduzione. Per favore, fornisci un testo svedese valido da tradurre.",
+        "partisk": false,
+        "url": "https://www.hs.fi/"
+      },
+      {
+        "kalla": "Iltalehti",
+        "lutning": "popolare / sensazionale",
+        "partisk": false,
+        "url": "https://www.iltalehti.fi/"
+      },
+      {
+        "kalla": "Ilta-Sanomat",
+        "lutning": "\"Popolare\" e \"sensazionale\" possono essere tradotti in diversi modi a seconda del contesto. Ecco alcune opzioni:\n\n* **Se si vuole enfatizzare la popolarità:**\n    * Popolare\n    * Diffuso\n    * Ampiamente apprezzato\n    * Molto seguito\n    * Di grande successo\n\n* **Se si vuole enfatizzare l'aspetto sensazionale:**\n    * Sensazionale\n    * Incredibile\n    * Straordinario\n    * Shockante\n    * Che fa notizia\n\nIn alcuni casi, potrebbe essere appropriato utilizzare una combinazione di queste parole per trasmettere appieno il significato originale. Ad esempio, si potrebbe dire \"un fenomeno popolare e sensazionale\" o \"un evento ampiamente apprezzato e che ha fatto molto rumore\".",
+        "partisk": false,
+        "url": "https://www.is.fi/"
+      }
+    ],
+    "samstammigt": [
+      "Un forte terremoto (di magnitudo 7,2) ha colpito la costa del Venezuela nella notte tra mercoledì e giovedì (ora finlandese).",
+      "Secondo le dichiarazioni del leader venezuelano, quasi 600 persone sono morte e circa 3.000 hanno subito ferite.",
+      "Sono in corso operazioni di soccorso e diversi paesi hanno inviato aiuti."
+    ],
+    "divergenser": [
+      "Il numero di vittime continua a salire rapidamente tra una notizia e l'altra: Yle e HS parlano di \"quasi 600\", mentre i quotidiani serali avvertono che il bilancio potrebbe essere molto più alto."
+    ],
+    "enkalligt": [
+      "Secondo quanto riportato da Ilta-Sanomat, il numero di vittime \"potrebbe salire a decine di migliaia\", un'affermazione che nessuna altra fonte conferma."
+    ],
+    "vinkel_per_kalla": {
+      "Yle": "In sintesi: il bilancio ufficiale parla di circa 600 morti e 3.000 feriti, e le operazioni di soccorso sono ancora in corso.",
+      "Helsingin Sanomat": "Oggettivo, sottolinea l'importanza dell'aiuto internazionale.",
+      "Iltalehti": "Titolo sensazionalistico: \"Il numero di vittime è raddoppiato\", si temono migliaia di morti.",
+      "Ilta-Sanomat": "La variazione più significativa: \"quasi triplicata\", con la possibilità di raggiungere decine di migliaia."
+    },
+    "konfidens": "medel",
+    "bedomning": "Il fulcro della notizia – un terremoto di forte intensità (magnitudo 7,2) con circa 600 vittime accertate – è supportato da quattro fonti e da informazioni ufficiali. Tuttavia, le cifre più alte riportate (\"decine di migliaia\") sono speculative e presenti solo sui giornali scandalistici; si consiglia di prenderle con cautela. Si ha un'alta affidabilità sulla stessa catastrofe, ma una bassa affidabilità sul numero finale delle vittime."
+  }
+}

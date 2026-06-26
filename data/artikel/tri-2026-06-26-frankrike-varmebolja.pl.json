@@ -1,0 +1,57 @@
+{
+  "id": "tri-2026-06-26-frankrike-varmebolja",
+  "typ": "nyhet",
+  "titel": "Falaż upałów we Francji obciąża system opieki zdrowotnej i powoduje odwołania imprez.\n\n*   System opieki zdrowotnej jest poddawany ogromnemu napięciu z powodu wysokich temperatur.\n*   Wiele wydarzeń zostało odwołanych lub przełożonych ze względu na upały.",
+  "datum": "2026-06-26",
+  "kalla": "Triangulering (flera finska källor)",
+  "kalla_url": "",
+  "taggar": [
+    "frankrike",
+    "varmebolja",
+    "klimat"
+  ],
+  "html": "<h3>W czym źródła się zgadzają</h3><p>Fala upałów dotyka Francję, z temperaturami dochodzącymi do 39–41 °C, wpływając zarówno na opiekę zdrowotną, jak i wydarzenia.</p><h3>W czym źródła się różnią</h3><p>Źródła nie zaprzeczają sobie nawzajem, ale ukazują różne aspekty tej samej fali upałów.</p><h3>Wkład każdego źródła</h3><p>&quot;Helsingin Sanomat&quot; informuje o dużym obciążeniu szpitali oraz o podniesieniu poziomu gotowości przez premiera Lecornu. &quot;Maaseudun Tulevaisuus&quot; umieszcza falę upałów w europejskim kontekście, łącząc ją z wzrostem śmiertelności. &quot;Demokraatti&quot; informuje o przesunięciu terminu Paris Pride na jesień.</p><h3>Jak wiarygodne?</h3><p>Fala upałów jest dobrze udokumentowana przez trzy źródła pochodzące z różnych krajów, a każde z nich przedstawia własny punkt widzenia. To dobry przykład tego, jak źródła mogą się wzajemnie uzupełniać. Wysoka wiarygodność.</p>",
+  "tldr": "Fala upałów uderza we Francję, gdzie temperatura osiąga nawet 39–41°C, co wpływa na opiekę zdrowotną i organizowane wydarzenia.",
+  "sakerhet": "belagt",
+  "flaggor": [],
+  "triangulering": {
+    "kallor": [
+      {
+        "kalla": "Helsingin Sanomat",
+        "lutning": "liberal-mitten",
+        "partisk": false,
+        "url": "https://www.hs.fi/"
+      },
+      {
+        "kalla": "Maaseudun Tulevaisuus",
+        "lutning": "centrum/obszary wiejskie",
+        "partisk": true,
+        "url": "https://www.maaseuduntulevaisuus.fi/"
+      },
+      {
+        "kalla": "Demokraatti",
+        "lutning": "centrum-lewica (SDP)",
+        "partisk": true,
+        "url": "https://demokraatti.fi/"
+      }
+    ],
+    "samstammigt": [
+      "Fala upałów uderza we Francję, gdzie temperatura osiąga nawet 39–41°C, co wpływa na opiekę zdrowotną i organizowane wydarzenia."
+    ],
+    "divergenser": [
+      "Źródła rzucają światło na różne aspekty tej samej fali upałów, a nie zaprzeczają sobie nawzajem."
+    ],
+    "enkalligt": [
+      "Helsingin Sanomat informuje o dużym obciążeniu szpitali, a premier Lecornu podniósł poziom gotowości.",
+      "„Maaseudun Tulevaisuus\": wzrost temperatury powoduje zwiększoną śmiertelność we Francji i Hiszpanii.",
+      "Demokraatti: Paradę w Paryżu z okazji Dnia Dumy przełożono na jesień ze względu na upały."
+    ],
+    "vinkel_per_kalla": {
+      "Helsingin Sanomat": "Skupiono się na gotowości służby zdrowia i odwołanych wydarzeniach.",
+      "Maaseudun Tulevaisuus": "Fala temperatur w Europie; związek z wyższą liczbą zgonów.",
+      "Demokraatti": "Konsekwencje związane z paradą Paris Pride."
+    },
+    "konfidens": "hög",
+    "bedomning": "Fala upałów jest dobrze udokumentowana: trzy niezależne źródła, pochodzące z różnych miejsc, potwierdzają to, a każda z nich wnosi własny punkt widzenia. To dobry przykład źródeł, które się uzupełniają – razem dają pełniejszy obraz niż każdy z osobna. Wysoka wiarygodność."
+  }
+}

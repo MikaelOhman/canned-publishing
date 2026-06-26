@@ -1798,5 +1798,50 @@
     "etikett": "Lápida rúnica.",
     "typ": "kategori",
     "antal": 6
+  },
+  "frankrike": {
+    "etikett": "Francia.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "varmebolja": {
+    "etikett": "Onda de calor.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "klimat": {
+    "etikett": "Clima.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "kina": {
+    "etikett": "China.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "peking": {
+    "etikett": "Pekín.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "olycka": {
+    "etikett": "Accidente.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "venezuela": {
+    "etikett": "Venezuela.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "jordbavning": {
+    "etikett": "Terremoto.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "katastrof": {
+    "etikett": "Desastre.",
+    "typ": "ämne",
+    "antal": 1
   }
 }

@@ -131,6 +131,58 @@
     "tri": true
   },
   {
+    "id": "tri-2026-06-26-frankrike-varmebolja",
+    "typ": "nyhet",
+    "titel": "Värmebölja i Frankrike pressar sjukvården och ställer in evenemang",
+    "ingress": "Värmebölja i Frankrike pressar sjukvården och ställer in evenemang — Värmeböljan är väl belagd: tre källor med olika hemvist bekräftar den, var och en med sin egen aspekt. Ett bra exempel p",
+    "datum": "2026-06-26",
+    "kalla": "Triangulering (flera finska källor)",
+    "taggar": [
+      "frankrike",
+      "varmebolja",
+      "klimat"
+    ],
+    "sakerhet": "belagt",
+    "flaggor": [],
+    "tri": true
+  },
+  {
+    "id": "tri-2026-06-26-peking-flygplan",
+    "typ": "nyhet",
+    "titel": "Litet flygplan kolliderade med Pekings högsta skyskrapa",
+    "ingress": "Litet flygplan kolliderade med Pekings högsta skyskrapa — Själva kollisionen är väl belagd — fyra finska källor som i sin tur lutar sig mot CNN och South China Post. Det som sakn",
+    "datum": "2026-06-26",
+    "kalla": "Triangulering (flera finska källor)",
+    "taggar": [
+      "kina",
+      "peking",
+      "olycka"
+    ],
+    "sakerhet": "trolig",
+    "flaggor": [
+      "saknad"
+    ],
+    "tri": true
+  },
+  {
+    "id": "tri-2026-06-26-venezuela-skalv",
+    "typ": "nyhet",
+    "titel": "Kraftig jordbävning i Venezuela – omkring 600 bekräftade döda",
+    "ingress": "Kraftig jordbävning i Venezuela – omkring 600 bekräftade döda — Kärnan — en kraftig jordbävning (magnitud 7,2) med omkring 600 bekräftade döda — är väl belagd av fyra källor och offici",
+    "datum": "2026-06-26",
+    "kalla": "Triangulering (flera finska källor)",
+    "taggar": [
+      "venezuela",
+      "jordbavning",
+      "katastrof"
+    ],
+    "sakerhet": "belagt",
+    "flaggor": [
+      "enkalligt"
+    ],
+    "tri": true
+  },
+  {
     "id": "HD03301",
     "typ": "lagforslag",
     "titel": "Skärpta villkor för anhöriginvandring",

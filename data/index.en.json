@@ -130,6 +130,58 @@
     "tri": true
   },
   {
+    "id": "tri-2026-06-26-frankrike-varmebolja",
+    "typ": "nyhet",
+    "titel": "A heatwave in France is putting a strain on healthcare services and causing events to be cancelled.",
+    "ingress": "A heatwave in France is putting a strain on healthcare services and causing events to be cancelled. — The heatwave is well-documented: three sources from different locations confirm it, each offering their own perspective.",
+    "datum": "2026-06-26",
+    "kalla": "Triangulering (flera finska källor)",
+    "taggar": [
+      "frankrike",
+      "varmebolja",
+      "klimat"
+    ],
+    "sakerhet": "belagt",
+    "flaggor": [],
+    "tri": true
+  },
+  {
+    "id": "tri-2026-06-26-peking-flygplan",
+    "typ": "nyhet",
+    "titel": "A small airplane collided with Beijing's tallest skyscraper.",
+    "ingress": "A small airplane collided with Beijing's tallest skyscraper. — The collision itself is well-documented, with evidence from four Finnish sources that in turn cite CNN and the South Chi",
+    "datum": "2026-06-26",
+    "kalla": "Triangulering (flera finska källor)",
+    "taggar": [
+      "kina",
+      "peking",
+      "olycka"
+    ],
+    "sakerhet": "trolig",
+    "flaggor": [
+      "saknad"
+    ],
+    "tri": true
+  },
+  {
+    "id": "tri-2026-06-26-venezuela-skalv",
+    "typ": "nyhet",
+    "titel": "A powerful earthquake has struck Venezuela, resulting in approximately 600 confirmed deaths.",
+    "ingress": "A powerful earthquake has struck Venezuela, resulting in approximately 600 confirmed deaths. — The core information – a powerful earthquake (magnitude 7.2) with approximately 600 confirmed deaths – is well-supported",
+    "datum": "2026-06-26",
+    "kalla": "Triangulering (flera finska källor)",
+    "taggar": [
+      "venezuela",
+      "jordbavning",
+      "katastrof"
+    ],
+    "sakerhet": "belagt",
+    "flaggor": [
+      "enkalligt"
+    ],
+    "tri": true
+  },
+  {
     "id": "HD03301",
     "typ": "lagforslag",
     "titel": "Stricter requirements for family immigration.\n\nHere's a breakdown of the changes:\n\n*   \"Skärpta villkor\" translates to \"stricter requirements.\"\n*   \"Anhöriginvandring\" translates to \"family immigration.\"",

@@ -1798,5 +1798,50 @@
     "etikett": "Kamień runiczny.",
     "typ": "kategori",
     "antal": 6
+  },
+  "frankrike": {
+    "etikett": "Francja.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "varmebolja": {
+    "etikett": "Fala upałów.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "klimat": {
+    "etikett": "Klimat\n\n(Brak dalszej treści do przetłumaczenia.)",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "kina": {
+    "etikett": "Chiny.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "peking": {
+    "etikett": "Pekin.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "olycka": {
+    "etikett": "Wypadek.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "venezuela": {
+    "etikett": "Wenezuela.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "jordbavning": {
+    "etikett": "Trzęsienie ziemi.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "katastrof": {
+    "etikett": "Klęska żywiołowa.",
+    "typ": "ämne",
+    "antal": 1
   }
 }

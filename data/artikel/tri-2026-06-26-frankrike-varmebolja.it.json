@@ -1,0 +1,57 @@
+{
+  "id": "tri-2026-06-26-frankrike-varmebolja",
+  "typ": "nyhet",
+  "titel": "Un'ondata di calore in Francia mette a dura prova il sistema sanitario e causa la cancellazione di eventi.",
+  "datum": "2026-06-26",
+  "kalla": "Triangulering (flera finska källor)",
+  "kalla_url": "",
+  "taggar": [
+    "frankrike",
+    "varmebolja",
+    "klimat"
+  ],
+  "html": "<h3>Su cosa le fonti concordano</h3><p>Un&#x27;ondata di calore intensa sta colpendo la Francia, con temperature che raggiungono i 39-41 °C, e sta influenzando sia il sistema sanitario che gli eventi.</p><h3>Dove le fonti divergono</h3><p>Le fonti non si contraddicono, ma evidenziano diversi aspetti della stessa ondata di calore.</p><h3>Il contributo di ciascuna fonte</h3><p>Helsingin Sanomat riporta che gli ospedali sono sotto forte pressione e che il Primo Ministro Lecornu ha innalzato il livello di allerta. Maaseudun Tulevaisuus inserisce l&#x27;ondata di calore in un contesto europeo, collegandola a un aumento della mortalità. Demokraatti riporta che la parata del Pride di Parigi è stata rinviata all&#x27;autunno.</p><h3>Quanto è affidabile?</h3><p>L&#x27;ondata di calore è ampiamente documentata da tre fonti provenienti da paesi diversi, ognuna con il proprio punto di vista. Un ottimo esempio di come le fonti si integrino a vicenda. Alto livello di attendibilità.</p>",
+  "tldr": "Un'ondata di calore intensa sta colpendo la Francia, con temperature che raggiungono i 39-41°C, e sta avendo un impatto sui servizi sanitari e sugli eventi in programma.",
+  "sakerhet": "belagt",
+  "flaggor": [],
+  "triangulering": {
+    "kallor": [
+      {
+        "kalla": "Helsingin Sanomat",
+        "lutning": "liberal-mitten",
+        "partisk": false,
+        "url": "https://www.hs.fi/"
+      },
+      {
+        "kalla": "Maaseudun Tulevaisuus",
+        "lutning": "centro/campagna",
+        "partisk": true,
+        "url": "https://www.maaseuduntulevaisuus.fi/"
+      },
+      {
+        "kalla": "Demokraatti",
+        "lutning": "centro-sinistra (SDP)",
+        "partisk": true,
+        "url": "https://demokraatti.fi/"
+      }
+    ],
+    "samstammigt": [
+      "Un'ondata di calore intensa sta colpendo la Francia, con temperature che raggiungono i 39-41°C, e sta avendo un impatto sui servizi sanitari e sugli eventi in programma."
+    ],
+    "divergenser": [
+      "Le fonti mettono in luce diversi aspetti della stessa ondata di calore, piuttosto che contraddirsi a vicenda."
+    ],
+    "enkalligt": [
+      "Helsingin Sanomat riporta che gli ospedali sono sotto forte pressione e il Primo Ministro Lecornu ha aumentato il livello di allerta.",
+      "Secondo quanto riportato da Maaseudun Tulevaisuus, si osserva un aumento della mortalità in Francia e Spagna a causa delle ondate di calore.",
+      "Demokraatti: La parata del Pride di Parigi è stata rinviata all'autunno a causa delle alte temperature."
+    ],
+    "vinkel_per_kalla": {
+      "Helsingin Sanomat": "Concentriamoci sulla preparazione del sistema sanitario e sugli eventi cancellati.",
+      "Maaseudun Tulevaisuus": "L'ondata di calore in Europa è diffusa e contribuisce all'aumento della mortalità.",
+      "Demokraatti": "Le conseguenze della parata di Parigi per il Pride."
+    },
+    "konfidens": "hög",
+    "bedomning": "L'ondata di calore è ampiamente confermata: tre fonti diverse, provenienti da località differenti, la attestano, ognuna con il proprio punto di vista. Questo è un ottimo esempio di come le fonti si integrino a vicenda, offrendo insieme un quadro più completo rispetto a quello che fornirebbero singolarmente. Alto livello di affidabilità."
+  }
+}

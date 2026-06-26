@@ -1798,5 +1798,50 @@
     "etikett": "Pietra runica.",
     "typ": "kategori",
     "antal": 6
+  },
+  "frankrike": {
+    "etikett": "Francia.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "varmebolja": {
+    "etikett": "Ondata di calore.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "klimat": {
+    "etikett": "Clima.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "kina": {
+    "etikett": "Cina.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "peking": {
+    "etikett": "Pechino.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "olycka": {
+    "etikett": "Incidente.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "venezuela": {
+    "etikett": "Venezuela.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "jordbavning": {
+    "etikett": "Terremoto.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "katastrof": {
+    "etikett": "Disastro.",
+    "typ": "ämne",
+    "antal": 1
   }
 }

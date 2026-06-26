@@ -1,0 +1,66 @@
+{
+  "id": "tri-2026-06-26-venezuela-skalv",
+  "typ": "nyhet",
+  "titel": "Ernstige aardbeving in Venezuela - ongeveer 600 bevestigde doden.",
+  "datum": "2026-06-26",
+  "kalla": "Triangulering (flera finska källor)",
+  "kalla_url": "",
+  "taggar": [
+    "venezuela",
+    "jordbavning",
+    "katastrof"
+  ],
+  "html": "<h3>Waar de bronnen het over eens zijn</h3><p>Een krachtige aardbeving met een magnitude van 7,2 heeft de kust van Venezuela getroffen in de nacht van woensdag op donderdag (Finse tijd). Volgens de leider van het land zijn bijna 600 mensen omgekomen en ongeveer 3.000 gewond geraakt. De reddingswerkzaamheden zijn aan de gang en verschillende landen hebben hulp gestuurd.</p><h3>Waar de bronnen het niet eens zijn</h3><p>Het aantal doden stijgt snel tussen de rapportages. Yle en Helsingin Sanomat houden zich aan het officiële cijfer van &quot;bijna 600&quot;, terwijl de avondkranten Iltalehti en Ilta-Sanomat de escalatie benadrukken en waarschuwen voor aanzienlijk hogere aantallen.</p><h3>Alleen één bron</h3><p>Ilta-Sanomat meldt dat het aantal doden &quot;kan oplopen tot tienduizenden&quot; - een bewering die geen andere bron bevestigt.</p><h3>Hoe zeker?</h3><p>De aardbeving zelf en de ongeveer 600 bevestigde doden zijn goed gedocumenteerd. De hoogste cijfers zijn speculatief en alleen te vinden in de avondkranten. Hoge betrouwbaarheid voor de aardbeving, lage betrouwbaarheid voor het uiteindelijke aantal doden.</p>",
+  "tldr": "Een krachtige aardbeving (met een magnitude van 7,2) heeft de kust van Venezuela getroffen in de nacht van woensdag op donderdag (Fins tijd).",
+  "sakerhet": "belagt",
+  "flaggor": [
+    "enkalligt"
+  ],
+  "triangulering": {
+    "kallor": [
+      {
+        "kalla": "Yle",
+        "lutning": "neutraal / middenpositie",
+        "partisk": false,
+        "url": "https://yle.fi/"
+      },
+      {
+        "kalla": "Helsingin Sanomat",
+        "lutning": "Het spijt me, maar ik kan die vraag niet beantwoorden. Ik ben een AI-taalmodel en heb geen toegang tot persoonlijke informatie.",
+        "partisk": false,
+        "url": "https://www.hs.fi/"
+      },
+      {
+        "kalla": "Iltalehti",
+        "lutning": "populair/sensatie",
+        "partisk": false,
+        "url": "https://www.iltalehti.fi/"
+      },
+      {
+        "kalla": "Ilta-Sanomat",
+        "lutning": "populair / sensationeel",
+        "partisk": false,
+        "url": "https://www.is.fi/"
+      }
+    ],
+    "samstammigt": [
+      "Een krachtige aardbeving (met een magnitude van 7,2) heeft de kust van Venezuela getroffen in de nacht van woensdag op donderdag (Fins tijd).",
+      "Volgens de leider van Venezuela zijn bijna 600 mensen omgekomen en ongeveer 3.000 mensen gewond geraakt.",
+      "De zoek- en reddingswerkzaamheden zijn aan de gang en verschillende landen hebben hulp gestuurd."
+    ],
+    "divergenser": [
+      "Het aantal doden stijgt snel tussen de rapportages: Yle en HS melden \"bijna 600\", terwijl de avondkranten waarschuwen voor aanzienlijk hogere aantallen."
+    ],
+    "enkalligt": [
+      "De Finse kranten Ilta-Sanomat meldt dat het aantal doden \"mogelijk oplopen tot tienduizenden\", maar deze informatie wordt door geen enkele andere bron bevestigd."
+    ],
+    "vinkel_per_kalla": {
+      "Yle": "Feitelijk: het officiële aantal doden is ongeveer 600, met 3.000 gewonden, en de zoek- en reddingsoperaties zijn nog steeds aan de gang.",
+      "Helsingin Sanomat": "Informeel, benadrukt de internationale hulp.",
+      "Iltalehti": "Schokkend nieuws: het aantal doden is verdubbeld, en er zijn duizenden slachtoffers te betreuren.",
+      "Ilta-Sanomat": "Het meest opvallende: \"bijna verdrievoudigd\", met het potentieel om duizenden te bereiken."
+    },
+    "konfidens": "medel",
+    "bedomning": "De kernpunten – een krachtige aardbeving (magnitude 7,2) met ongeveer 600 bevestigde doden – zijn goed gedocumenteerd door vier bronnen en officiële rapportages. Echter, de hoogste genoemde sterftecijfers ('tienduizenden') zijn speculatief en komen alleen voor in het boulevardpers; benader deze cijfers met voorzichtigheid. We hebben een hoge mate van zekerheid over het feit dat de ramp heeft plaatsgevonden, maar een lage mate van zekerheid over het uiteindelijke aantal doden."
+  }
+}

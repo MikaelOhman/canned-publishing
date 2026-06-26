@@ -1,0 +1,73 @@
+{
+  "id": "tri-2026-06-26-peking-flygplan",
+  "typ": "nyhet",
+  "topic_sv": "Litet flygplan kolliderade med Pekings högsta skyskrapa",
+  "datum": "2026-06-26",
+  "kalla": "Triangulering (flera finska källor)",
+  "konfidens": "hög",
+  "sakerhet": "trolig",
+  "flaggor": [
+    "saknad"
+  ],
+  "taggar": [
+    [
+      "kina",
+      "Kina",
+      "plats"
+    ],
+    [
+      "peking",
+      "Peking",
+      "plats"
+    ],
+    [
+      "olycka",
+      "Olycka",
+      "ämne"
+    ]
+  ],
+  "kallor": [
+    {
+      "kalla": "Yle",
+      "lutning": "mitten/neutral",
+      "partisk": false,
+      "url": "https://yle.fi/"
+    },
+    {
+      "kalla": "Helsingin Sanomat",
+      "lutning": "liberal-mitten",
+      "partisk": false,
+      "url": "https://www.hs.fi/"
+    },
+    {
+      "kalla": "Iltalehti",
+      "lutning": "populär/sensationell",
+      "partisk": false,
+      "url": "https://www.iltalehti.fi/"
+    },
+    {
+      "kalla": "Ilta-Sanomat",
+      "lutning": "populär/sensationell",
+      "partisk": false,
+      "url": "https://www.is.fi/"
+    }
+  ],
+  "samstammigt": [
+    "Ett litet tvåsitsigt flygplan kolliderade fredag eftermiddag med China Zun, Pekings högsta byggnad (109 våningar)."
+  ],
+  "divergenser": [
+    "Uppgifter om eventuella offer saknas ännu — Helsingin Sanomat noterar uttryckligen att det är okänt."
+  ],
+  "enkalligt": [
+    "Byggnadens namn (China Zun) och höjd (109 våningar) anges bara av Yle.",
+    "Iltalehti hänvisar uttryckligen till CNN och South China Post som källor."
+  ],
+  "vinkel_per_kalla": {
+    "Yle": "Mest konkret: flygplanstyp och byggnadens namn/höjd.",
+    "Helsingin Sanomat": "Kort; noterar att eventuella offer är okända.",
+    "Iltalehti": "Källhänvisar till internationella medier (CNN, South China Post).",
+    "Ilta-Sanomat": "Kort notis om att olyckan skedde fredag eftermiddag."
+  },
+  "bedomning_sv": "Själva kollisionen är väl belagd — fyra finska källor som i sin tur lutar sig mot CNN och South China Post. Det som saknas är konsekvenserna: offer och orsak är ännu okända. Hög konfidens på att det hänt, men bilden är ofullständig.",
+  "body_sv": "## Vad källorna är överens om\n\nEtt litet tvåsitsigt flygplan kolliderade fredag eftermiddag med China Zun, Pekings högsta byggnad (109 våningar).\n\n## Var källorna skiljer sig\n\nUppgifter om eventuella offer saknas ännu. Helsingin Sanomat noterar uttryckligen att det är okänt.\n\n## Bara en källa\n\nByggnadens namn och höjd anges bara av Yle. Iltalehti hänvisar uttryckligen till CNN och South China Post.\n\n## Hur säkert?\n\nKollisionen är väl belagd (fyra finska källor via CNN och South China Post). Konsekvenserna — offer och orsak — är ännu okända. Hög konfidens på händelsen, men ofullständig bild."
+}

@@ -1,0 +1,57 @@
+{
+  "id": "tri-2026-06-26-frankrike-varmebolja",
+  "typ": "nyhet",
+  "titel": "Ranskan lämpimät kesäkuut kuormittavat terveydenhuoltoa ja johtavat tapahtumien peruutuksiin.\n\n*   Lämpöaalto aiheuttaa lisääntynyttä painetta terveydenhuollolle.\n*   Useita tapahtumia on peruttu.",
+  "datum": "2026-06-26",
+  "kalla": "Triangulering (flera finska källor)",
+  "kalla_url": "",
+  "taggar": [
+    "frankrike",
+    "varmebolja",
+    "klimat"
+  ],
+  "html": "<h3>Mistä lähteissä ollaan yhtä mieltä</h3><p>Ranskassa on voimakas helleaalto, jonka lämpötilat nousevat jopa 39–41 °C:een, ja se vaikuttaa sekä terveydenhuoltoon että tapahtumiin.</p><h3>Missä lähteet eroavat toisistaan</h3><p>Lähteet eivät ole ristiriidassa keskenään, vaan ne valaisevat helleaaltojen eri puolia.</p><h3>Jokaisen lähteen panos</h3><p>Helsingin Sanomat raportoi sairaaloiden olevan kovasti kuormitettuja ja että pääministeri Lecornu nosti valmiustasoa. Maaseudun Tulevaisuus asettaa helleaallon eurooppalaiseen kontekstiin ja yhdistää sen lisääntyneeseen kuolleisuuteen. Demokraatti raportoi Pariisin Pride-juhlien siirtyvän syksyyn.</p><h3>Kuinka luotettavaa?</h3><p>Helleaaltoa tukevat kolme eri maasta olevaa lähdettä, joista jokaisella on oma näkökulmansa. Tämä on hyvä esimerkki siitä, kuinka lähteet täydentävät toisiaan. Korkea luotettavuus.</p>",
+  "tldr": "Ranskan läpi kulkee voimakas helleaalto, jonka seurauksena lämpötilat nousevat jopa 39–41 asteeseen, mikä vaikuttaa terveydenhuoltoon ja tapahtumiin.",
+  "sakerhet": "belagt",
+  "flaggor": [],
+  "triangulering": {
+    "kallor": [
+      {
+        "kalla": "Helsingin Sanomat",
+        "lutning": "Olen pahoillani, mutta en ymmärrä pyyntöäsi. Voisitko selventää?",
+        "partisk": false,
+        "url": "https://www.hs.fi/"
+      },
+      {
+        "kalla": "Maaseudun Tulevaisuus",
+        "lutning": "keskusta / maaseutu",
+        "partisk": true,
+        "url": "https://www.maaseuduntulevaisuus.fi/"
+      },
+      {
+        "kalla": "Demokraatti",
+        "lutning": "keskivaikea vasemmisto (SDP)",
+        "partisk": true,
+        "url": "https://demokraatti.fi/"
+      }
+    ],
+    "samstammigt": [
+      "Ranskan läpi kulkee voimakas helleaalto, jonka seurauksena lämpötilat nousevat jopa 39–41 asteeseen, mikä vaikuttaa terveydenhuoltoon ja tapahtumiin."
+    ],
+    "divergenser": [
+      "Lähteet valaisevat eri puolia samasta helleaallosta sen sijaan, että ne olisivat ristiriidassa keskenään."
+    ],
+    "enkalligt": [
+      "Helsingin Sanomat -lehden mukaan sairaalat ovat kovassa kuormituksessa, ja pääministeri Lecornu on nostanut valmiustasoa.",
+      "Maaseudun Tulevaisuus -lehden mukaan lämpöaalto on aiheuttanut lisääntynyttä kuolleisuutta Ranskassa ja Espanjassa.",
+      "Demokraatti: Pariisin Pride -tapahtuma on siirretty syksylle lämpötilan vuoksi."
+    ],
+    "vinkel_per_kalla": {
+      "Helsingin Sanomat": "Keskitytään terveydenhuollon valmiuksiin ja peruttuina oleviin tapahtumiin.",
+      "Maaseudun Tulevaisuus": "Eurooppalainen lämpöaalto; sen on havaittu lisäävän kuolleisuutta.",
+      "Demokraatti": "Seuraukset Pariisin Pride-paraadille."
+    },
+    "konfidens": "hög",
+    "bedomning": "Helteaalto on todennäköisesti todellinen: kolme eri lähteestä tulevaa tietoa vahvistaa sen, ja jokainen niistä tuo oman näkökulmansa asiaan. Tämä on hyvä esimerkki siitä, kuinka lähteet täydentävät toisiaan – yhdessä ne antavat kokonaisvaltaisemman kuvan kuin yksittäin. Korkea luotettavuus."
+  }
+}

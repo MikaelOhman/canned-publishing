@@ -1,0 +1,65 @@
+{
+  "id": "tri-2026-06-26-peking-flygplan",
+  "typ": "nyhet",
+  "titel": "Egy kis repülőgép ütközött Peking legmagasabb felhőkarcolójával.",
+  "datum": "2026-06-26",
+  "kalla": "Triangulering (flera finska källor)",
+  "kalla_url": "",
+  "taggar": [
+    "kina",
+    "peking",
+    "olycka"
+  ],
+  "html": "<h3>Miben van egyetértés a források között?</h3><p>Egy kis, kétszemélyes repülőgép ütközött össze péntek délután Peking legmagasabb épületével, a China Zunnal (109 emelet).</p><h3>Miben különböznek a források?</h3><p>A potenciális áldozatokról szóló információk még hiányosak. A Helsingin Sanomat kifejezetten megjegyzi, hogy ez nem ismert.</p><h3>Csak egy forrás:</h3><p>Az épület nevét és magasságát kizárólag a Yle említi. Az Iltalehti konkrétan a CNN-re és a South China Postra hivatkozik.</p><h3>Mennyire megbízható?</h3><p>A repülőgép-baleset ténye jól dokumentált (négy finn forrás a CNN és a South China Post útján). A következmények – áldozatok és okok – még ismeretlenek. Magas fokú bizonyosság van a balesettel kapcsolatban, de a kép még nem teljes.</p>",
+  "tldr": "Egy kis, kétszemélyes repülőgép ütközött össze a Pekingi legmagasabb épületével, a China Zunnal (109 emeletes), péntek délután.",
+  "sakerhet": "trolig",
+  "flaggor": [
+    "saknad"
+  ],
+  "triangulering": {
+    "kallor": [
+      {
+        "kalla": "Yle",
+        "lutning": "semleges/közepes",
+        "partisk": false,
+        "url": "https://yle.fi/"
+      },
+      {
+        "kalla": "Helsingin Sanomat",
+        "lutning": "A \"liberal-mitten\" kifejezés nem rendelkezik egyértelmű jelentéssel vagy általánosan elfogadott definícióval a magyar nyelvben. Ez egy angol szókapcsolat, amelynek értelmezése kontextusfüggő lehet. Ha további információt tudsz adni arról, hogy hol és milyen összefüggésben találkoztál ezzel a kifejezéssel, akkor talán pontosabb fordítást vagy magyarázatot tudok adni.",
+        "partisk": false,
+        "url": "https://www.hs.fi/"
+      },
+      {
+        "kalla": "Iltalehti",
+        "lutning": "népszerű/egyedi",
+        "partisk": false,
+        "url": "https://www.iltalehti.fi/"
+      },
+      {
+        "kalla": "Ilta-Sanomat",
+        "lutning": "népszerű/szenzációs",
+        "partisk": false,
+        "url": "https://www.is.fi/"
+      }
+    ],
+    "samstammigt": [
+      "Egy kis, kétszemélyes repülőgép ütközött össze a Pekingi legmagasabb épületével, a China Zunnal (109 emeletes), péntek délután."
+    ],
+    "divergenser": [
+      "Jelenleg nincs információ arról, hogy voltak-e áldozatok – a Helsingin Sanomat újság kifejezetten megjegyzi, hogy ez nem ismert."
+    ],
+    "enkalligt": [
+      "A Yle cég csak a kínai épület nevét (China Zun) és magasságát (109 emelet) adja meg.",
+      "Az Iltalehti újság kifejezetten a CNN és a South China Post nevű forrásokat említette."
+    ],
+    "vinkel_per_kalla": {
+      "Yle": "Leginkább konkrétan: a repülőgéptípus és az épület neve/magassága.",
+      "Helsingin Sanomat": "Rövid tájékoztató: a sérültek száma jelenleg ismeretlen.",
+      "Iltalehti": "Hivatkozások nemzetközi médiaforrásokra (CNN, South China Post).",
+      "Ilta-Sanomat": "Rövid megjegyzés: a baleset péntek délután történt."
+    },
+    "konfidens": "hög",
+    "bedomning": "A baleset ténye valószínűleg bizonyított – négy finn forrás állítja ezt, amelyek a CNN-re és a South China Postra támaszkodnak. Ami még hiányzik, az a következmények: a sérültek száma és az okok egyelőre ismeretlenek. Nagyon nagy valószínűséggel történt a baleset, de a kép még nem teljes."
+  }
+}

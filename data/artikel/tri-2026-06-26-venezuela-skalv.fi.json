@@ -1,0 +1,66 @@
+{
+  "id": "tri-2026-06-26-venezuela-skalv",
+  "typ": "nyhet",
+  "titel": "Voimakas maanjäristys Venezuelassa – noin 600 ihmistä on vahvistettu kuolleeksi.",
+  "datum": "2026-06-26",
+  "kalla": "Triangulering (flera finska källor)",
+  "kalla_url": "",
+  "taggar": [
+    "venezuela",
+    "jordbavning",
+    "katastrof"
+  ],
+  "html": "<h3>Mistä lähteet ovat yhtä mieltä</h3><p>Voimakas maanjäristys, jonka voimakkuus oli 7,2, iski Venezuelan rannikolle torstain vastaisena yönä (Suomen aikaa). Maan johtajan mukaan lähes 600 ihmistä on kuollut ja noin 3 000 on loukkaantunut. Pelastustyöt ovat käynnissä, ja useat maat ovat lähettäneet apua.</p><h3>Missä lähteet eroavat toisistaan</h3><p>Uhkrien määrä kasvaa nopeasti eri raporttien välillä. Yle ja Helsingin Sanomat pitävät kiinni virallisesta luvusta &quot;lähes 600&quot;, kun taas iltapäivälehtien Iltalehti ja Ilta-Sanomat korostavat tilanteen kärjistymistä ja varoittavat huomattavasti korkeammista luvuista.</p><h3>Vain yksi lähde</h3><p>Ilta-Sanomat kertoo, että uhrien määrä &quot;voi nousta kymmeniin tuhansiin&quot; – tietoa, jota mikään muu lähde ei vahvista.</p><h3>Kuinka luotettavaa?</h3><p>Itse katastrofi ja noin 600 todettu kuolonuhri ovat hyvin dokumentoituja. Korkeimmat luvut ovat spekulatiivisia ja esiintyvät vain iltapäivälehdissä. Korkea varmuus maanjäristyksen osalta, alhainen lopullisen kuolleisuusluvun suhteen.</p>",
+  "tldr": "Voimakas maanjäristys (Magnitudilla 7,2) iski Venezuelan rannikolle torstain aamuyöllä (Suomen aikaa).",
+  "sakerhet": "belagt",
+  "flaggor": [
+    "enkalligt"
+  ],
+  "triangulering": {
+    "kallor": [
+      {
+        "kalla": "Yle",
+        "lutning": "keskellä/neutraali",
+        "partisk": false,
+        "url": "https://yle.fi/"
+      },
+      {
+        "kalla": "Helsingin Sanomat",
+        "lutning": "Olen pahoillani, mutta en ymmärrä pyyntöäsi. Voisitko selventää?",
+        "partisk": false,
+        "url": "https://www.hs.fi/"
+      },
+      {
+        "kalla": "Iltalehti",
+        "lutning": "suosittu / sensaatio.",
+        "partisk": false,
+        "url": "https://www.iltalehti.fi/"
+      },
+      {
+        "kalla": "Ilta-Sanomat",
+        "lutning": "suosittu / sensaatio.",
+        "partisk": false,
+        "url": "https://www.is.fi/"
+      }
+    ],
+    "samstammigt": [
+      "Voimakas maanjäristys (Magnitudilla 7,2) iski Venezuelan rannikolle torstain aamuyöllä (Suomen aikaa).",
+      "Venezuelan johtajan mukaan lähes 600 ihmistä on kuollut ja noin 3 000 on loukkaantunut.",
+      "Pelastustyöt ovat käynnissä, ja useat maat ovat lähettäneet apua."
+    ],
+    "divergenser": [
+      "Uutisoinnin perusteella kuolonuhrien määrä kasvaa nopeasti: Yle ja Helsingin Sanomat ilmoittavat \"lähes 600\" menehtyneen, kun taas iltapäivälehdissä varoitetaan huomattavasti korkeammista luvuista."
+    ],
+    "enkalligt": [
+      "Iltasanomat-lehden mukaan kuolonuhrien määrä \"voi nousta kymmeniintuhansiin\", mutta tätä tietoa ei ole vahvistettu muista lähteistä."
+    ],
+    "vinkel_per_kalla": {
+      "Yle": "Objektiivisesti: virallisen tiedon mukaan kuolleita on noin 600 ja loukkaantuneita noin 3 000, ja pelastustyöt ovat edelleen käynnissä.",
+      "Helsingin Sanomat": "Objektiivinen, korostaa kansainvälistä apua.",
+      "Iltalehti": "Uutiskulma: \"Kuolonuhrien määrä kaksinkertaistui\", tuhansien epäillään kuolleen.",
+      "Ilta-Sanomat": "Dramaattisinta: \"lähes kolminkertaistunut\", voi saavuttaa kymmeniä tuhansia."
+    },
+    "konfidens": "medel",
+    "bedomning": "Ydinasia on voimakas maanjäristys (7,2 Richterin asteikolla), jonka seurauksena on noin 600 vahvistettua kuolemaa – tämä tieto on luotettava ja perustuu neljään eri lähteeseen sekä virallisiin tiedotteisiin. Korkeammat luvut kuolleista (\"kymmeniä tuhansia\") ovat spekulatiivisia ja esiintyvät ainoastaan sensaatiohakuisissa julkaisuissa; suhtaudu niihin varauksella. Luottamus itse maanjäristystapahtumaan on korkea, mutta lopulliseen kuolleiden määrään liittyviin tietoihin on syytä suhtautua epäilevästi."
+  }
+}
