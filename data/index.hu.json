@@ -3361,6 +3361,26 @@
     }
   },
   {
+    "id": "fk-2026-06-11-en-myt-att-pappor-tar-ut-foraldraledighet-under-fotbolls-vm",
+    "typ": "myndighet",
+    "titel": "Egy gyakori tévhitás, hogy az apák szülői szabadságra mennek a labdarúgó világbajnokság idején.",
+    "ingress": "Nem igaz, hogy az apák több szülői szabadságot vesznek ki csak azért, mert szeretnének focimeccset vagy olimpiát nézni. A Försäkringskassan (svéd biztosító intézmény) vizsgálatot végzett ebben a kérdésben, és megállapította, hogy a szokásos",
+    "datum": "2026-06-11",
+    "kalla": "Försäkringskassan",
+    "kalla_url": "https://www.forsakringskassan.se/nyhetsarkiv/nyheter-press/2026-06-11-en-myt-att-pappor-tar-ut-foraldraledighet-under-fotbolls-vm",
+    "taggar": [
+      "socialforsakring",
+      "forsakringskassan"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "barn": 3,
+      "gravid": 8,
+      "sjukskriven": 3,
+      "foraldraledig": 8
+    }
+  },
+  {
     "id": "belfast-0610",
     "typ": "nyhet",
     "titel": "Itt Belfastban egy nyakvágási kísérlet történt",
@@ -3893,6 +3913,30 @@
     }
   },
   {
+    "id": "fk-2026-06-09-socialforsakringens-del-av-svensk-ekonomi-den-lagsta-sen-1980",
+    "typ": "myndighet",
+    "titel": "A svéd gazdaságban a szociális biztonsági rendszer aránya a legalacsonyabb az 1980-as évek óta.",
+    "ingress": "A társadalombiztosítási kiadások, mint például a gyermekjuttatás és a betegszabadság, Svédország gazdaságának egyre kisebb részét teszik ki, mint korábban bármikor. Ennek oka az, hogy kevesebb gyerek születik, és kevesebb ember van betegáll",
+    "datum": "2026-06-09",
+    "kalla": "Försäkringskassan",
+    "kalla_url": "https://www.forsakringskassan.se/nyhetsarkiv/nyheter-press/2026-06-09-socialforsakringens-del-av-svensk-ekonomi-den-lagsta-sen-1980",
+    "taggar": [
+      "socialforsakring",
+      "forsakringskassan"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "sjuklon": 3,
+      "barn": 8,
+      "ensam_foralder": 3,
+      "stor_familj": 3,
+      "sjukskriven": 5,
+      "foraldraledig": 3,
+      "hyresgast": 3,
+      "konsument": 3
+    }
+  },
+  {
     "id": "gavle-kommunstyrelsen-2026-06-08",
     "typ": "kommunbeslut",
     "titel": "A Gävle önkormányzat kommunális bizottsága, 2026. június 8.",
@@ -4115,6 +4159,25 @@
       "digitalisering": 3,
       "kronisk": 3,
       "kultur": 3
+    }
+  },
+  {
+    "id": "fk-2026-06-04-manga-maste-ligga-ute-med-tusenlappar-nar-de-blir-sjuka-utomlands",
+    "typ": "myndighet",
+    "titel": "Sokaknak kell kifizetniük több ezer koronát, amikor külföldön betegen vannak.",
+    "ingress": "Sokak elfelejtik magukkal vinni az EU-s egészségbiztosítási kártyájukat, amikor Európában utaznak, és ezért jelentős összegeket kell saját zsebből fizetniük az orvosi ellátásért. Ha viszont a kártya van náluk, akkor ugyanazt a kedvező díjat",
+    "datum": "2026-06-04",
+    "kalla": "Försäkringskassan",
+    "kalla_url": "https://www.forsakringskassan.se/nyhetsarkiv/nyheter-press/2026-06-04-manga-maste-ligga-ute-med-tusenlappar-nar-de-blir-sjuka-utomlands",
+    "taggar": [
+      "socialforsakring",
+      "forsakringskassan"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "sjukskriven": 3,
+      "kronisk": 3,
+      "husdjur": 3
     }
   },
   {
@@ -5287,6 +5350,25 @@
     }
   },
   {
+    "id": "fk-2026-05-12-2-000-chefer-fran-10-myndigheter-utbildas-for-kris-och-krig",
+    "typ": "myndighet",
+    "titel": "Két ezer vezető tíz különböző kormányzati szervből képzésen vesz részt válság- és háborús helyzetekre való felkészülés céljából.",
+    "ingress": "Jelenleg kétezer vezető különböző kormányzati szerveknél képzésen vesz részt, ahol megtanulják, hogyan irányítsák a munkatársakat és hogyan hozzanak gyors döntéseket válság vagy háború esetén.",
+    "datum": "2026-05-12",
+    "kalla": "Försäkringskassan",
+    "kalla_url": "https://www.forsakringskassan.se/nyhetsarkiv/nyheter-press/2026-05-12-2-000-chefer-fran-10-myndigheter-utbildas-for-kris-och-krig",
+    "taggar": [
+      "socialforsakring",
+      "forsakringskassan"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "barn": 3,
+      "sjukskriven": 3,
+      "varnpliktig": 3
+    }
+  },
+  {
     "id": "gavle-kommunfullmaktige-2026-05-11",
     "typ": "kommunbeslut",
     "titel": "Gävle önskade att få ansluta sig till det svenska nätverket för hållbar utveckling inom kommuner. De ville också veta mer om hur andra kommuner har arbetat med att minska sitt klimatavtryck och vilka resultat de har uppnått.\n\nFör att få svar på sina frågor kontaktade Gävle kommun flera andra kommuner som redan var medlemmar i nätverket. De fick information om olika projekt och initiativ som hade genomförts, samt tips och råd om hur man kan gå tillväga för att uppnå hållbar utveckling.\n\nGävle kommun beslutade sedan att ansöka om att bli medlem i det svenska nätverket för hållbar utveckling inom kommuner. De hoppades att de skulle kunna lära sig av andra kommuners erfarenheter och bidra till att skapa en mer hållbar framtid.\n\nHär är en lista över de kommuner som Gävle kommun kontaktade:\n\n*   Stockholm kommun\n*   Göteborg kommun\n*   Malmö kommun\n*   Uppsala kommun\n*   Linköping kommun\n\nGävle kommun fick också information från följande webbplatser:\n\n*   [www.hallbarutveckling.se](www.hallbarutveckling.se)\n*   [www.miljokommun.se](www.miljokommun.se)\n\nGävle kommun ser fram emot att bli en del av nätverket och att bidra till att skapa en mer hållbar framtid för alla.\n\n---\n\nA Gävle önkölte, hogy csatlakozzon a svéd önkormányzatok fenntarthatósági hálózatához. Emellett szeretnék többet megtudni arról, hogyan dolgoztak más önkormányzatok a klímaváltozás okozta hatások csökkentésére, és milyen eredményeket értek el.\n\nA kérdéseikre válaszolva Gävle önkormányzata felvette a kapcsolatot több, a hálózatban már tagként szereplő önkormányzattal. Információkat kaptak különböző projektekről és kezdeményezésekről, valamint tanácsokat és javaslatokat arról, hogyan lehet a fenntarthatóság elérése.\n\nGävle önkormányzata ezután úgy döntött, hogy pályázatot nyújt be a svéd önkormányzatok fenntarthatósági hálózatához való csatlakozásra. Remélték, hogy más önkormányzatok tapasztalataiból tanulhatnak, és hozzájárulhatnak egy fenntarthatóbb jövő megteremtéséhez.\n\nAz alábbi lista tartalmazza azokat az önkormányzatokat, amelyekkel Gävle önkormányzata felvette a kapcsolatot:\n\n*   Stockholm önkormányzata\n*   Göteborg önkormányzata\n*   Malmö önkormányzata\n*   Uppsala önkormányzata\n*   Linköping önkormányzata\n\nGävle önkormányzata információt kapott a következő weboldalakról is:\n\n*   [www.hallbarutveckling.se](www.hallbarutveckling.se)\n*   [www.miljokommun.se](www.miljokommun.se)\n\nGävle önkormányzata alig várja, hogy része legyen a hálózatnak, és hozzájáruljon egy fenntarthatóbb jövő megteremtéséhez mindenkinek.",
@@ -5365,6 +5447,26 @@
       "fortroendevald": 4,
       "integritet": 4,
       "bredbandsberoende": 3
+    }
+  },
+  {
+    "id": "fk-2026-05-08-forsakringskassan-sa-far-du-elstodet-utbetalt-innan-midsommar",
+    "typ": "myndighet",
+    "titel": "A Svéd Biztosítási Alap (Försäkringskassan) arról tájékoztat, hogyan fogja kifizetni az elektromos energia támogatást a nyári napforduló előtt.\n\nÍme, hogyan fogja megkapni a támogatást:\n\n*   **Ellenőrizze, jogosult-e:** Győződjön meg róla, hogy megfelel a támogatás feltételeinek.\n*   **Automatikus kifizetés:** Ha jogosult, a támogatást automatikusan átutalják Önnek.\n*   **Kifizetési időpont:** A pontos kifizetési időpontról később tájékoztatnak.\n*   **Kapcsolatfelvétel:** Ha kérdése van, vegye fel a kapcsolatot a Svéd Biztosítási Alappal (Försäkringskassan).\n\nA részletes információkért látogasson el a következő weboldalra: [URL - ezt az URL-t nem fordítottuk le].",
+    "ingress": "Azok, akik jogosultak az elektromosenergia-támogatásra, a legtöbbjüknél a pénz időben, a Szent Iván napjához képest, meg fog érkezni a bankszámlájukra. Ha valaki gyorsabban szeretné megkapni a támogatást, azt javasoljuk, hogy legkésőbb máju",
+    "datum": "2026-05-08",
+    "kalla": "Försäkringskassan",
+    "kalla_url": "https://www.forsakringskassan.se/nyhetsarkiv/nyheter-press/2026-05-08-forsakringskassan-sa-far-du-elstodet-utbetalt-innan-midsommar",
+    "taggar": [
+      "socialforsakring",
+      "forsakringskassan"
+    ],
+    "relevans": {
+      "b_finans": 8,
+      "lokaler": 3,
+      "energiintensiv": 8,
+      "sjukskriven": 8,
+      "energikund": 8
     }
   },
   {

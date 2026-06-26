@@ -1713,5 +1713,15 @@
     "etikett": "L'Agenzia per la Protezione Civile.",
     "typ": "organisation",
     "antal": 5
+  },
+  "socialforsakring": {
+    "etikett": "Sicurezza sociale.",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "forsakringskassan": {
+    "etikett": "L'Agenzia svedese per le assicurazioni sociali (Försäkringskassan).",
+    "typ": "organisation",
+    "antal": 5
   }
 }

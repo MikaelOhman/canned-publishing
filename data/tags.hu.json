@@ -1713,5 +1713,15 @@
     "etikett": "A civilvédelemért felelős hatóság.",
     "typ": "organisation",
     "antal": 5
+  },
+  "socialforsakring": {
+    "etikett": "Szociális biztosítás.",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "forsakringskassan": {
+    "etikett": "A Svéd Biztosítási Alap (Försäkringskassan).",
+    "typ": "organisation",
+    "antal": 5
   }
 }

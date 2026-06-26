@@ -1713,5 +1713,15 @@
     "etikett": "L'Agence de protection civile.",
     "typ": "organisation",
     "antal": 5
+  },
+  "socialforsakring": {
+    "etikett": "Sécurité sociale.",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "forsakringskassan": {
+    "etikett": "La Försäkringskassan (Caisse d'Assurance Sociale).",
+    "typ": "organisation",
+    "antal": 5
   }
 }

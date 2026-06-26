@@ -1713,5 +1713,15 @@
     "etikett": "De Dienst voor Burgerbescherming.",
     "typ": "organisation",
     "antal": 5
+  },
+  "socialforsakring": {
+    "etikett": "Sociale zekerheid.",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "forsakringskassan": {
+    "etikett": "De Zweedse sociale zekerheidsinstantie.",
+    "typ": "organisation",
+    "antal": 5
   }
 }

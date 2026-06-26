@@ -1713,5 +1713,15 @@
     "etikett": "La Agencia para la Defensa Civil.",
     "typ": "organisation",
     "antal": 5
+  },
+  "socialforsakring": {
+    "etikett": "Seguro social.",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "forsakringskassan": {
+    "etikett": "La Caixa de Seguros (Försäkringskassan).",
+    "typ": "organisation",
+    "antal": 5
   }
 }

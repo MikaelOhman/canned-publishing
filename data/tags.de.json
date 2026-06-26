@@ -1773,5 +1773,15 @@
     "etikett": "Die Behörde für zivilen Schutz.",
     "typ": "organisation",
     "antal": 5
+  },
+  "socialforsakring": {
+    "etikett": "Sozialversicherung",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "forsakringskassan": {
+    "etikett": "Die schwedische Sozialversicherungsanstalt (Försäkringskassan).",
+    "typ": "organisation",
+    "antal": 5
   }
 }

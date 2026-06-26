@@ -1728,5 +1728,15 @@
     "etikett": "الهيئة السويدية للدفاع المدني.",
     "typ": "organisation",
     "antal": 5
+  },
+  "socialforsakring": {
+    "etikett": "التأمين الاجتماعي.",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "forsakringskassan": {
+    "etikett": "صندوق التأمين الاجتماعي.",
+    "typ": "organisation",
+    "antal": 5
   }
 }

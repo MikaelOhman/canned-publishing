@@ -3423,6 +3423,26 @@
     }
   },
   {
+    "id": "fk-2026-06-11-en-myt-att-pappor-tar-ut-foraldraledighet-under-fotbolls-vm",
+    "typ": "myndighet",
+    "titel": "Mit jest powszechnie uważany za mit: ojciec wykorzystuje urlop rodzicielski podczas Mistrzostw Świata w piłce nożnej.",
+    "ingress": "Nieprawda, że ojcowie pobierają więcej zasiłków rodzicielskich tylko dlatego, żeby móc oglądać mecze piłki nożnej lub Igrzyska Olimpijskie. Krajowa Agencja Ubezpieczeń (Försäkringskassan) przeprowadziła badania w tej sprawie i stwierdziła,",
+    "datum": "2026-06-11",
+    "kalla": "Försäkringskassan",
+    "kalla_url": "https://www.forsakringskassan.se/nyhetsarkiv/nyheter-press/2026-06-11-en-myt-att-pappor-tar-ut-foraldraledighet-under-fotbolls-vm",
+    "taggar": [
+      "socialforsakring",
+      "forsakringskassan"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "barn": 3,
+      "gravid": 8,
+      "sjukskriven": 3,
+      "foraldraledig": 8
+    }
+  },
+  {
     "id": "belfast-0610",
     "typ": "nyhet",
     "titel": "Próba porwania głowy w Belfaście",
@@ -3977,6 +3997,30 @@
     }
   },
   {
+    "id": "fk-2026-06-09-socialforsakringens-del-av-svensk-ekonomi-den-lagsta-sen-1980",
+    "typ": "myndighet",
+    "titel": "Udział systemu ubezpieczeń społecznych w szwedzkiej gospodarce osiągnął najniższy poziom od roku 1980.",
+    "ingress": "Wydatki na ubezpieczenia społeczne, takie jak zasiłki rodzinne i świadczenia z tytułu choroby, stanowią obecnie mniejszą część szwedzkiej gospodarki niż w ciągu ostatnich lat. Jest to spowodowane tym, że rodzi się mniej dzieci oraz że coraz",
+    "datum": "2026-06-09",
+    "kalla": "Försäkringskassan",
+    "kalla_url": "https://www.forsakringskassan.se/nyhetsarkiv/nyheter-press/2026-06-09-socialforsakringens-del-av-svensk-ekonomi-den-lagsta-sen-1980",
+    "taggar": [
+      "socialforsakring",
+      "forsakringskassan"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "sjuklon": 3,
+      "barn": 8,
+      "ensam_foralder": 3,
+      "stor_familj": 3,
+      "sjukskriven": 5,
+      "foraldraledig": 3,
+      "hyresgast": 3,
+      "konsument": 3
+    }
+  },
+  {
     "id": "gavle-kommunstyrelsen-2026-06-08",
     "typ": "kommunbeslut",
     "titel": "Komisja ds. spraw miejskich, Gävle, 2026-06-08.",
@@ -4199,6 +4243,25 @@
       "digitalisering": 3,
       "kronisk": 3,
       "kultur": 3
+    }
+  },
+  {
+    "id": "fk-2026-06-04-manga-maste-ligga-ute-med-tusenlappar-nar-de-blir-sjuka-utomlands",
+    "typ": "myndighet",
+    "titel": "Wielu ludzi musi ponosić koszty rzędu tysięcy koron, gdy zachorują za granicą.",
+    "ingress": "Wielu podróżujących po Europie zapomina zabrać ze sobą kartę ubezpieczenia zdrowotnego UE, co skutkuje koniecznością ponoszenia wysokich kosztów leczenia z własnej kieszeni. Posiadanie tej karty pozwala natomiast na korzystanie z opieki med",
+    "datum": "2026-06-04",
+    "kalla": "Försäkringskassan",
+    "kalla_url": "https://www.forsakringskassan.se/nyhetsarkiv/nyheter-press/2026-06-04-manga-maste-ligga-ute-med-tusenlappar-nar-de-blir-sjuka-utomlands",
+    "taggar": [
+      "socialforsakring",
+      "forsakringskassan"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "sjukskriven": 3,
+      "kronisk": 3,
+      "husdjur": 3
     }
   },
   {
@@ -5389,6 +5452,25 @@
     }
   },
   {
+    "id": "fk-2026-05-12-2-000-chefer-fran-10-myndigheter-utbildas-for-kris-och-krig",
+    "typ": "myndighet",
+    "titel": "2000 menedżerów z 10 urzędów zostanie przeszkolonych w zakresie reagowania na sytuacje kryzysowe i wojenne.",
+    "ingress": "Obecnie dwutysięczna grupa menedżerów z różnych instytucji przechodzi szkolenie, którego celem jest nauczenie ich, jak skutecznie kierować zespołami i podejmować szybkie decyzje w sytuacjach kryzysowych lub w czasie wojny.",
+    "datum": "2026-05-12",
+    "kalla": "Försäkringskassan",
+    "kalla_url": "https://www.forsakringskassan.se/nyhetsarkiv/nyheter-press/2026-05-12-2-000-chefer-fran-10-myndigheter-utbildas-for-kris-och-krig",
+    "taggar": [
+      "socialforsakring",
+      "forsakringskassan"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "barn": 3,
+      "sjukskriven": 3,
+      "varnpliktig": 3
+    }
+  },
+  {
     "id": "gavle-kommunfullmaktige-2026-05-11",
     "typ": "kommunbeslut",
     "titel": "Uchwała Rady Miejskiej, Gävle, 11 maja 2026 roku.",
@@ -5467,6 +5549,26 @@
       "fortroendevald": 4,
       "integritet": 4,
       "bredbandsberoende": 3
+    }
+  },
+  {
+    "id": "fk-2026-05-08-forsakringskassan-sa-far-du-elstodet-utbetalt-innan-midsommar",
+    "typ": "myndighet",
+    "titel": "Forsäkringskassan (Szwedzki Urząd Ubezpieczeń Społecznych): Oto jak otrzymać dopłatę do kosztów energii elektrycznej przed świętem Jörna.\n\nAby otrzymać dopłatę do kosztów energii elektrycznej, należy spełnić następujące warunki:\n\n*   Być mieszkańcem Szwecji.\n*   Mieszkać w wynajętym mieszkaniu lub domu.\n*   Mieć rachunek za energię elektryczną wystawiony na własne imię i nazwisko.\n*   Wysokość dopłaty jest uzależniona od zużycia energii elektrycznej.\n\nAby otrzymać dopłatę, należy:\n\n1.  Złożyć wniosek online na stronie internetowej Forsäkringskassan: [URL nie został podany].\n2.  Dołączyć do wniosku skan lub zdjęcie rachunku za energię elektryczną.\n3.  Poczekać na decyzję.\n\nW przypadku wątpliwości, można skontaktować się z Forsäkringskassan telefonicznie.",
+    "ingress": "Większość osób uprawnionych do otrzymania wsparcia finansowego na opłacenie rachunków za energię elektryczną otrzyma pieniądze na swoje konta bankowe w terminie umożliwiającym ich wykorzystanie przed świętem Jörna (midsommar). Aby otrzymać",
+    "datum": "2026-05-08",
+    "kalla": "Försäkringskassan",
+    "kalla_url": "https://www.forsakringskassan.se/nyhetsarkiv/nyheter-press/2026-05-08-forsakringskassan-sa-far-du-elstodet-utbetalt-innan-midsommar",
+    "taggar": [
+      "socialforsakring",
+      "forsakringskassan"
+    ],
+    "relevans": {
+      "b_finans": 8,
+      "lokaler": 3,
+      "energiintensiv": 8,
+      "sjukskriven": 8,
+      "energikund": 8
     }
   },
   {

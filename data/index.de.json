@@ -3456,6 +3456,26 @@
     }
   },
   {
+    "id": "fk-2026-06-11-en-myt-att-pappor-tar-ut-foraldraledighet-under-fotbolls-vm",
+    "typ": "myndighet",
+    "titel": "Eine weit verbreitete Annahme ist, dass Väter während der Fußball-Weltmeisterschaft Elternzeit nehmen.",
+    "ingress": "Es ist nicht korrekt, dass Väter mehr Elternzeit nehmen, nur um Fußballspiele oder Olympische Spiele zu sehen. Die schwedische Sozialversicherungsanstalt hat dies untersucht und festgestellt, dass es die üblichen Saisonzeiten sind, die best",
+    "datum": "2026-06-11",
+    "kalla": "Försäkringskassan",
+    "kalla_url": "https://www.forsakringskassan.se/nyhetsarkiv/nyheter-press/2026-06-11-en-myt-att-pappor-tar-ut-foraldraledighet-under-fotbolls-vm",
+    "taggar": [
+      "socialforsakring",
+      "forsakringskassan"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "barn": 3,
+      "gravid": 8,
+      "sjukskriven": 3,
+      "foraldraledig": 8
+    }
+  },
+  {
     "id": "belfast-0610",
     "typ": "nyhet",
     "titel": "Hier fand ein versuchter Enthauptungsvorfall in Belfast statt",
@@ -3988,6 +4008,30 @@
     }
   },
   {
+    "id": "fk-2026-06-09-socialforsakringens-del-av-svensk-ekonomi-den-lagsta-sen-1980",
+    "typ": "myndighet",
+    "titel": "Der Anteil des Sozialversicherungssystems an der schwedischen Wirtschaft ist der niedrigste seit 1980.",
+    "ingress": "Die Ausgaben für Sozialleistungen, wie beispielsweise Kindergeld und Krankengeld, stellen einen geringeren Anteil der schwedischen Wirtschaft dar als seit langem. Dies liegt daran, dass weniger Kinder geboren werden und weniger Personen kra",
+    "datum": "2026-06-09",
+    "kalla": "Försäkringskassan",
+    "kalla_url": "https://www.forsakringskassan.se/nyhetsarkiv/nyheter-press/2026-06-09-socialforsakringens-del-av-svensk-ekonomi-den-lagsta-sen-1980",
+    "taggar": [
+      "socialforsakring",
+      "forsakringskassan"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "sjuklon": 3,
+      "barn": 8,
+      "ensam_foralder": 3,
+      "stor_familj": 3,
+      "sjukskriven": 5,
+      "foraldraledig": 3,
+      "hyresgast": 3,
+      "konsument": 3
+    }
+  },
+  {
     "id": "gavle-kommunstyrelsen-2026-06-08",
     "typ": "kommunbeslut",
     "titel": "Gemeindeverwaltungsrat, Gemeinde Gävle, 8. Juni 2026.",
@@ -4210,6 +4254,25 @@
       "digitalisering": 3,
       "kronisk": 3,
       "kultur": 3
+    }
+  },
+  {
+    "id": "fk-2026-06-04-manga-maste-ligga-ute-med-tusenlappar-nar-de-blir-sjuka-utomlands",
+    "typ": "myndighet",
+    "titel": "Viele Menschen müssen hohe Summen in die Tausender berechnen, wenn sie im Ausland erkranken.",
+    "ingress": "Viele Reisende in Europa vergessen, ihre Europäische Krankenversicherungskarte mitzunehmen, und müssen daher hohe Kosten für medizinische Behandlungen aus eigener Tasche bezahlen. Mit der Karte können sie stattdessen die gleichen niedrigen",
+    "datum": "2026-06-04",
+    "kalla": "Försäkringskassan",
+    "kalla_url": "https://www.forsakringskassan.se/nyhetsarkiv/nyheter-press/2026-06-04-manga-maste-ligga-ute-med-tusenlappar-nar-de-blir-sjuka-utomlands",
+    "taggar": [
+      "socialforsakring",
+      "forsakringskassan"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "sjukskriven": 3,
+      "kronisk": 3,
+      "husdjur": 3
     }
   },
   {
@@ -5403,6 +5466,25 @@
     }
   },
   {
+    "id": "fk-2026-05-12-2-000-chefer-fran-10-myndigheter-utbildas-for-kris-och-krig",
+    "typ": "myndighet",
+    "titel": "2.000 Führungskräfte aus 10 Behörden werden in Krisen- und Kriegssituationen geschult.",
+    "ingress": "Zweiundzwanzigtausend Führungskräfte aus verschiedenen Behörden werden derzeit darin geschult, wie sie in Krisensituationen oder im Kriegsfall effektiv führen und schnelle Entscheidungen treffen können.",
+    "datum": "2026-05-12",
+    "kalla": "Försäkringskassan",
+    "kalla_url": "https://www.forsakringskassan.se/nyhetsarkiv/nyheter-press/2026-05-12-2-000-chefer-fran-10-myndigheter-utbildas-for-kris-och-krig",
+    "taggar": [
+      "socialforsakring",
+      "forsakringskassan"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "barn": 3,
+      "sjukskriven": 3,
+      "varnpliktig": 3
+    }
+  },
+  {
     "id": "gavle-kommunfullmaktige-2026-05-11",
     "typ": "kommunbeslut",
     "titel": "Gemeindevertretung von Gävle, 11. Mai 2026.",
@@ -5481,6 +5563,26 @@
       "fortroendevald": 4,
       "integritet": 4,
       "bredbandsberoende": 3
+    }
+  },
+  {
+    "id": "fk-2026-05-08-forsakringskassan-sa-far-du-elstodet-utbetalt-innan-midsommar",
+    "typ": "myndighet",
+    "titel": "Die schwedische Sozialversicherungsanstalt (Försäkringskassan): So erhalten Sie die Stromkostenzuschüsse vor dem Mittsommerfest.\n\nHier sind einige Informationen dazu, wie Sie die Zuschüsse für Ihre Stromkosten von der Försäkringskassan erhalten können:\n\n*   **Antragsstellung:** Stellen Sie einen Antrag auf die Stromkostenzuschüsse bei der Försäkringskassan.\n*   **Berechtigung:** Um Anspruch auf die Zuschüsse zu haben, müssen bestimmte Einkommens- und Wohnungsbedingungen erfüllt sein. Informationen dazu finden Sie auf der Website der Försäkringskassan.\n*   **Auszahlung:** Die Auszahlung erfolgt in der Regel elektronisch auf Ihr angegebenes Bankkonto.\n*   **Fristen:** Achten Sie darauf, den Antrag rechtzeitig zu stellen, um die Zuschüsse vor dem Mittsommerfest (um den 24. Juni) zu erhalten.\n\nWeitere Informationen und Antragsformulare finden Sie auf der Website der Försäkringskassan: [URL nicht angegeben].",
+    "ingress": "Die meisten Personen, die Anspruch auf staatliche Unterstützung für Stromkosten haben, erhalten das Geld voraussichtlich rechtzeitig bis zum Mittsommer auf ihrem Bankkonto. Um das Geld schneller zu erhalten, sollten Sie Ihr Konto bei Swedba",
+    "datum": "2026-05-08",
+    "kalla": "Försäkringskassan",
+    "kalla_url": "https://www.forsakringskassan.se/nyhetsarkiv/nyheter-press/2026-05-08-forsakringskassan-sa-far-du-elstodet-utbetalt-innan-midsommar",
+    "taggar": [
+      "socialforsakring",
+      "forsakringskassan"
+    ],
+    "relevans": {
+      "b_finans": 8,
+      "lokaler": 3,
+      "energiintensiv": 8,
+      "sjukskriven": 8,
+      "energikund": 8
     }
   },
   {

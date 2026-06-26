@@ -1713,5 +1713,15 @@
     "etikett": "Agenția pentru protecție civilă.",
     "typ": "organisation",
     "antal": 5
+  },
+  "socialforsakring": {
+    "etikett": "Asigurări sociale.",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "forsakringskassan": {
+    "etikett": "Casa de Asigurări Sociale (Försäkringskassan)",
+    "typ": "organisation",
+    "antal": 5
   }
 }

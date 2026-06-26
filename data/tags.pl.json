@@ -1713,5 +1713,15 @@
     "etikett": "Agencja Obrony Cywilnej.",
     "typ": "organisation",
     "antal": 5
+  },
+  "socialforsakring": {
+    "etikett": "Ubezpieczenia społeczne.",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "forsakringskassan": {
+    "etikett": "Zakład Ubezpieczeń Społecznych (Försäkringskassan)",
+    "typ": "organisation",
+    "antal": 5
   }
 }

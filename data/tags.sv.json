@@ -1813,5 +1813,15 @@
     "etikett": "Myndigheten för civilt försvar",
     "typ": "organisation",
     "antal": 5
+  },
+  "socialforsakring": {
+    "etikett": "Socialförsäkring",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "forsakringskassan": {
+    "etikett": "Försäkringskassan",
+    "typ": "organisation",
+    "antal": 5
   }
 }

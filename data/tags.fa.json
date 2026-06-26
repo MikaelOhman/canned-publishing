@@ -1713,5 +1713,15 @@
     "etikett": "سازمان دفاع مدنی.",
     "typ": "organisation",
     "antal": 5
+  },
+  "socialforsakring": {
+    "etikett": "بیمه اجتماعی",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "forsakringskassan": {
+    "etikett": "سازمان تامین اجتماعی (Försäkringskassan)",
+    "typ": "organisation",
+    "antal": 5
   }
 }

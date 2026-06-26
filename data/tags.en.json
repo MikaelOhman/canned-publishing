@@ -1778,5 +1778,15 @@
     "etikett": "The Agency for Civil Defence.",
     "typ": "organisation",
     "antal": 5
+  },
+  "socialforsakring": {
+    "etikett": "Social security.",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "forsakringskassan": {
+    "etikett": "The Swedish Social Insurance Agency (Försäkringskassan).",
+    "typ": "organisation",
+    "antal": 5
   }
 }
