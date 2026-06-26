@@ -662,7 +662,7 @@
   "upplands-bro": {
     "etikett": "اوپلندز-برو",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "samhallsbyggnadsutskottet": {
     "etikett": "کمیسیون عمران و توسعه شهری.",
@@ -1522,6 +1522,11 @@
   "ulricehamn": {
     "etikett": "ترجمه:\n\nاولریکهامن (Ulricehamn)",
     "typ": "plats",
+    "antal": 1
+  },
+  "kommunfullmaktige-motion": {
+    "etikett": "پیشنهاد ارائه شده به شورای شهر\n\n(در اینجا، بسته به محتوای سند اصلی، می‌توانید جزئیات بیشتری اضافه کنید، مانند: \"این پیشنهاد در مورد موضوع [موضوع]\" یا \"این پیشنهاد توسط [نام فرد/گروه] ارائه شده است.\")",
+    "typ": "organisation",
     "antal": 1
   }
 }

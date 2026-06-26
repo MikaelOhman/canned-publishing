@@ -662,7 +662,7 @@
   "upplands-bro": {
     "etikett": "Upplands-Bro",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "samhallsbyggnadsutskottet": {
     "etikett": "Comisión de Planificación Urbana y Vivienda.",
@@ -1527,6 +1527,11 @@
   "ulricehamn": {
     "etikett": "Ulricehamn.",
     "typ": "plats",
+    "antal": 1
+  },
+  "kommunfullmaktige-motion": {
+    "etikett": "Propuesta al pleno municipal.",
+    "typ": "organisation",
     "antal": 1
   }
 }

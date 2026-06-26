@@ -677,7 +677,7 @@
   "upplands-bro": {
     "etikett": "أوبلاندس-برو.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "samhallsbyggnadsutskottet": {
     "etikett": "لجنة التخطيط العمراني والبناء.",
@@ -1537,6 +1537,11 @@
   "ulricehamn": {
     "etikett": "أولريكهامن.",
     "typ": "plats",
+    "antal": 1
+  },
+  "kommunfullmaktige-motion": {
+    "etikett": "اقتراح مقدم إلى مجلس البلدية.",
+    "typ": "organisation",
     "antal": 1
   }
 }

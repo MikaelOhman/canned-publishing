@@ -762,7 +762,7 @@
   "upplands-bro": {
     "etikett": "Upplands-Bro",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "samhallsbyggnadsutskottet": {
     "etikett": "Samhällsbyggnadsutskottet",
@@ -1627,6 +1627,11 @@
   "ulricehamn": {
     "etikett": "Ulricehamns",
     "typ": "plats",
+    "antal": 1
+  },
+  "kommunfullmaktige-motion": {
+    "etikett": "Kommunfullmäktige motion",
+    "typ": "organisation",
     "antal": 1
   }
 }

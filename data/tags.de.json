@@ -727,7 +727,7 @@
   "upplands-bro": {
     "etikett": "Upplands-Bro",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "samhallsbyggnadsutskottet": {
     "etikett": "Der Ausschuss für Stadtentwicklung.",
@@ -1592,6 +1592,11 @@
   "ulricehamn": {
     "etikett": "Ulricehamn:",
     "typ": "plats",
+    "antal": 1
+  },
+  "kommunfullmaktige-motion": {
+    "etikett": "Antrag des Gemeinderats:\n\n[Hier folgt der Inhalt des Antrags, übersetzt ins Deutsche.]",
+    "typ": "organisation",
     "antal": 1
   }
 }
