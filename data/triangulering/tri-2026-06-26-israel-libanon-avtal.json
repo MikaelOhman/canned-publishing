@@ -1,0 +1,40 @@
+{
+  "id": "tri-2026-06-26-israel-libanon-avtal",
+  "typ": "nyhet",
+  "topic_sv": "Israel och Libanon enas om ramavtal – men avtalet är omstritt",
+  "datum": "2026-06-26",
+  "kalla": "Triangulering (5 länder)",
+  "konfidens": "medel",
+  "sakerhet": "trolig",
+  "flaggor": ["omtvistat"],
+  "kallor": [
+    {"kalla": "Dagens Nyheter", "land": "SE", "lutning": "oberoende liberal", "statskontroll": "oberoende", "url": "https://www.dn.se/"},
+    {"kalla": "NRK", "land": "NO", "lutning": "mitten/neutral", "statskontroll": "oberoende", "url": "https://www.nrk.no/"},
+    {"kalla": "Yle", "land": "FI", "lutning": "mitten/neutral", "statskontroll": "oberoende", "url": "https://yle.fi/"},
+    {"kalla": "Iltalehti", "land": "FI", "lutning": "populär/sensationell", "statskontroll": "oberoende", "url": "https://www.iltalehti.fi/"},
+    {"kalla": "Berlingske", "land": "DK", "lutning": "konservativ", "statskontroll": "oberoende", "url": "https://www.berlingske.dk/"},
+    {"kalla": "Børsen", "land": "DK", "lutning": "näringslivsvänlig", "statskontroll": "oberoende", "url": "https://borsen.dk/"},
+    {"kalla": "FAZ", "land": "DE", "lutning": "konservativ-liberal", "statskontroll": "oberoende", "url": "https://www.faz.net/"}
+  ],
+  "samstammigt": [
+    "Israel och Libanon har enats om ett ramavtal, medlat av USA (utrikesminister Rubio).",
+    "Samtliga fem länder (Sverige, Norge, Danmark, Finland, Tyskland) rapporterar att avtalet tillkännagetts."
+  ],
+  "divergenser": [
+    "Den optimistiska inramningen ('fredsavtal', 'avtal klart') dominerar i svensk kvalitetspress (DN, SvD, DI), medan flera källor i andra länder lägger till avgörande förbehåll.",
+    "NRK (Norge) och Iltalehti (Finland): Israel säger sig INTE dra sig tillbaka ur södra Libanon.",
+    "Børsen (Danmark): Hizbollah AVVISAR avtalet."
+  ],
+  "enkalligt": [
+    "Politiken (Danmark) lyfter samtidigt en separat, kritisk Israel-vinkel (anklagelser om dödade palestinska barn) – en annan händelse, men den visar tidningens redaktionella fokus."
+  ],
+  "vinkel_per_kalla": {
+    "Dagens Nyheter": "Kort och optimistiskt: 'Avtal klart mellan Libanon och Israel'.",
+    "NRK": "Lyfter förbehållet i rubriken: Israel nekar att dra sig ur södra Libanon.",
+    "Iltalehti": "Tabloid: 'Netanyahu: Israel stannar i Libanon' – motsäger fredsbilden.",
+    "Børsen": "Affärsvinkel plus den kritiska detaljen: Hizbollah avvisar avtalet.",
+    "FAZ": "Sakligt i liveblogg om Mellanöstern: parterna enas om ramavtal."
+  },
+  "bedomning_sv": "Kärnan – att ett USA-medlat ramavtal mellan Israel och Libanon har tillkännagetts – är väl belagd: fem länder och många redaktioner rapporterar det. MEN trianguleringen avslöjar att den optimistiska 'fredsavtal'-inramningen (vanlig i svensk kvalitetspress) utelämnar avgörande förbehåll som norska, finska och danska källor lyfter: Israel säger sig inte dra sig tillbaka, och Hizbollah avvisar avtalet. Närmare sanningen: ett tillkännagivet men omstritt och ännu oimplementerat ramavtal. Ett tydligt exempel på hur konsensus om ETT faktum kan dölja viktiga skillnader i tolkning mellan länder.",
+  "body_sv": "## Vad källorna är överens om\n\nIsrael och Libanon har enats om ett ramavtal, medlat av USA (utrikesminister Rubio). Samtliga fem länder – Sverige, Norge, Danmark, Finland och Tyskland – rapporterar att avtalet tillkännagetts.\n\n## Var källorna skiljer sig\n\nDen optimistiska inramningen ('fredsavtal', 'avtal klart') dominerar i svensk kvalitetspress (DN, SvD, DI). Men flera källor i grannländerna lägger till väsentliga förbehåll: NRK (Norge) och Iltalehti (Finland) framhåller att Israel säger sig INTE dra sig tillbaka ur södra Libanon, och Børsen (Danmark) rapporterar att Hizbollah avvisar avtalet.\n\n## Bara en källa\n\nPolitiken (Danmark) lyfter samtidigt en separat, kritisk Israel-vinkel (anklagelser om dödade palestinska barn) – en annan händelse, men den visar tidningens redaktionella fokus.\n\n## Hur säkert?\n\nSjälva tillkännagivandet är väl belagt (fem länder, många redaktioner). Men den optimistiska fredsinramningen utelämnar förbehåll som flera källor lyfter. Närmast sanningen: ett tillkännagivet men omstritt och ännu oimplementerat ramavtal. Konsensus om ett faktum döljer här viktiga skillnader i tolkning."
+}

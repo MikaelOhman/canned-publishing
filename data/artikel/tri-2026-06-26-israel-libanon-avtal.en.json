@@ -1,0 +1,89 @@
+{
+  "id": "tri-2026-06-26-israel-libanon-avtal",
+  "typ": "nyhet",
+  "titel": "Israel and Lebanon have reached a framework agreement, but the agreement is controversial.",
+  "datum": "2026-06-26",
+  "kalla": "Triangulering (5 länder)",
+  "kalla_url": "",
+  "taggar": [],
+  "html": "<h3>What the sources agree on</h3><p>Israel and Lebanon have reached a framework agreement, mediated by the United States (Secretary of State Rubio). All five countries – Sweden, Norway, Denmark, Finland, and Germany – report that the agreement has been announced.</p><h3>Where the sources differ</h3><p>The optimistic framing (&quot;peace agreement,&quot; &quot;agreement concluded&quot;) dominates in Swedish quality media (DN, SvD, DI). However, several sources in neighboring countries add important caveats: NRK (Norway) and Iltalehti (Finland) emphasize that Israel states it will NOT withdraw from southern Lebanon, and Børsen (Denmark) reports that Hezbollah rejects the agreement.</p><h3>A single source</h3><p>Politiken (Denmark) highlights a separate, critical perspective on Israel (allegations of killed Palestinian children) – a different event, but it illustrates the newspaper&#x27;s editorial focus.</p><h3>How certain is it?</h3><p>The announcement itself is well-documented (five countries, many news outlets). However, the optimistic framing omits caveats that several sources mention. The closest to the truth: an announced but controversial and still unimplemented framework agreement. While there is consensus on a fact, this obscures important differences in interpretation.</p>",
+  "tldr": "Israel and Lebanon have reached a framework agreement, mediated by the United States (with Secretary of State Rubio involved).",
+  "sakerhet": "trolig",
+  "flaggor": [
+    "omtvistat"
+  ],
+  "triangulering": {
+    "kallor": [
+      {
+        "kalla": "Dagens Nyheter",
+        "land": "SE",
+        "lutning": "independent liberal",
+        "statskontroll": "oberoende",
+        "url": "https://www.dn.se/"
+      },
+      {
+        "kalla": "NRK",
+        "land": "NO",
+        "lutning": "middle / neutral",
+        "statskontroll": "oberoende",
+        "url": "https://www.nrk.no/"
+      },
+      {
+        "kalla": "Yle",
+        "land": "FI",
+        "lutning": "middle / neutral",
+        "statskontroll": "oberoende",
+        "url": "https://yle.fi/"
+      },
+      {
+        "kalla": "Iltalehti",
+        "land": "FI",
+        "lutning": "popular / sensational",
+        "statskontroll": "oberoende",
+        "url": "https://www.iltalehti.fi/"
+      },
+      {
+        "kalla": "Berlingske",
+        "land": "DK",
+        "lutning": "conservative",
+        "statskontroll": "oberoende",
+        "url": "https://www.berlingske.dk/"
+      },
+      {
+        "kalla": "Børsen",
+        "land": "DK",
+        "lutning": "business-friendly",
+        "statskontroll": "oberoende",
+        "url": "https://borsen.dk/"
+      },
+      {
+        "kalla": "FAZ",
+        "land": "DE",
+        "lutning": "conservative-liberal",
+        "statskontroll": "oberoende",
+        "url": "https://www.faz.net/"
+      }
+    ],
+    "samstammigt": [
+      "Israel and Lebanon have reached a framework agreement, mediated by the United States (with Secretary of State Rubio involved).",
+      "All five countries (Sweden, Norway, Denmark, Finland, and Germany) have reported that the agreement has been officially announced."
+    ],
+    "divergenser": [
+      "While the Swedish quality press (DN, SvD, DI) tends to present an optimistic framing (\"peace agreement,\" \"agreement reached\"), several sources in other countries add crucial caveats.",
+      "According to NRK (Norway) and Iltalehti (Finland), Israel claims it will NOT withdraw from southern Lebanon.",
+      "Børsen (Denmark): Hezbollah REJECTS the agreement."
+    ],
+    "enkalligt": [
+      "At the same time, Politiken (Denmark) highlights a separate and critical perspective on Israel (accusations of killing Palestinian children) – a different event, but it demonstrates the newspaper's editorial focus."
+    ],
+    "vinkel_per_kalla": {
+      "Dagens Nyheter": "In brief and with an optimistic tone: \"Agreement reached between Lebanon and Israel.\"",
+      "NRK": "To clarify the headline: Israel denies that it intends to withdraw from southern Lebanon.",
+      "Iltalehti": "Tabloid Headline: \"Netanyahu: Israel Will Remain in Lebanon\" - Contradicts the Peace Narrative.",
+      "Børsen": "Business perspective and a crucial detail: Hezbollah rejects the agreement.",
+      "FAZ": "Objective reporting in a live blog about the Middle East: The parties have reached an agreement on a framework deal."
+    },
+    "konfidens": "medel",
+    "bedomning": "The core fact – that a framework agreement mediated by the United States between Israel and Lebanon has been announced – is well-established: five countries and many news outlets are reporting it. HOWEVER, a closer look reveals that the optimistic framing of this as a \"peace agreement\" (common in Swedish quality media) omits crucial caveats highlighted by Norwegian, Finnish, and Danish sources: Israel claims it will not withdraw, and Hezbollah rejects the agreement. The more accurate picture is of an announced but controversial and still unimplemented framework agreement. This clearly demonstrates how consensus on ONE fact can mask significant differences in interpretation between countries."
+  }
+}

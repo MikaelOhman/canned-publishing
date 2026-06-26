@@ -1,0 +1,89 @@
+{
+  "id": "tri-2026-06-26-israel-libanon-avtal",
+  "typ": "nyhet",
+  "titel": "Israelin ja Libanonin välillä on saavutettu periaatesopimus – mutta sopimuksesta ollaan eri mieltä.",
+  "datum": "2026-06-26",
+  "kalla": "Triangulering (5 länder)",
+  "kalla_url": "",
+  "taggar": [],
+  "html": "<h3>Mistä lähteet ovat yhtä mieltä</h3><p>Israel ja Libanon ovat päässeet sopimukseen, jota Yhdysvallat (ulkoministeri Rubio) on välittänyt. Kaikki viisi maata – Ruotsi, Norja, Tanska, Suomi ja Saksa – raportoivat sopimuksen tiedottamisesta.</p><h3>Missä lähteet eroavat toisistaan</h3><p>Optimistinen tulkinta (&quot;rauhansopimus&quot;, &quot;sopimus valmis&quot;) on yleinen ruotsalaisessa laatulehdistössä (DN, SvD, DI). Useat lähteet naapurimaissa kuitenkin lisäävät tärkeitä varauksia: NRK (Norja) ja Iltalehti (Suomi) korostavat, että Israel ei aio vetäytyä Libanonin eteläosasta, ja Børsen (Tanska) raportoi Hizbollahin hylkäävän sopimuksen.</p><h3>Vain yksi lähde</h3><p>Politiken (Tanska) tuo esiin erillisen, kriittisen näkökulman Israeliin (syytöksiä palestiinalaislasten kuolemista) – kyseessä on toinen tapahtuma, mutta se osoittaa lehden toimittajan painopisteen.</p><h3>Kuinka varmaa?</h3><p>Itse tiedottaminen on hyvin dokumentoitu (viisi maata, useita toimituksia). Optimistinen rauhantulkinta jättää kuitenkin pois varauksia, joita useat lähteet tuovat esiin. Lähellä totuutta: julkistettu, mutta kiistanalainen ja vielä toteuttamaton sopimus. Yhteisymmärrys yhdestä asiasta peittää tärkeitä eroja tulkinnassa.</p>",
+  "tldr": "Israelin ja Libanonin välillä on saavutettu periaatesopimus, jonka Yhdysvallat (ulkoministeri Rubio) on toiminut sovittelijana.",
+  "sakerhet": "trolig",
+  "flaggor": [
+    "omtvistat"
+  ],
+  "triangulering": {
+    "kallor": [
+      {
+        "kalla": "Dagens Nyheter",
+        "land": "SE",
+        "lutning": "riippumaton liberaali",
+        "statskontroll": "oberoende",
+        "url": "https://www.dn.se/"
+      },
+      {
+        "kalla": "NRK",
+        "land": "NO",
+        "lutning": "keskellä/neutraali",
+        "statskontroll": "oberoende",
+        "url": "https://www.nrk.no/"
+      },
+      {
+        "kalla": "Yle",
+        "land": "FI",
+        "lutning": "keskellä/neutraali",
+        "statskontroll": "oberoende",
+        "url": "https://yle.fi/"
+      },
+      {
+        "kalla": "Iltalehti",
+        "land": "FI",
+        "lutning": "suosittu / sensaatio.",
+        "statskontroll": "oberoende",
+        "url": "https://www.iltalehti.fi/"
+      },
+      {
+        "kalla": "Berlingske",
+        "land": "DK",
+        "lutning": "konservatiivinen",
+        "statskontroll": "oberoende",
+        "url": "https://www.berlingske.dk/"
+      },
+      {
+        "kalla": "Børsen",
+        "land": "DK",
+        "lutning": "yrityksille suotuisa",
+        "statskontroll": "oberoende",
+        "url": "https://borsen.dk/"
+      },
+      {
+        "kalla": "FAZ",
+        "land": "DE",
+        "lutning": "konservatiiviliiberalistinen",
+        "statskontroll": "oberoende",
+        "url": "https://www.faz.net/"
+      }
+    ],
+    "samstammigt": [
+      "Israelin ja Libanonin välillä on saavutettu periaatesopimus, jonka Yhdysvallat (ulkoministeri Rubio) on toiminut sovittelijana.",
+      "Kaikki viisi maata (Ruotsi, Norja, Tanska, Suomi, Saksa) ovat ilmoittaneet, että sopimuksesta on tiedotettu."
+    ],
+    "divergenser": [
+      "Ruotsalaisissa laatulehdissä (DN, SvD, DI) vallitsee optimistinen näkökulma (\"rauhansopimus\", \"sopimus saavutettu\"), kun taas useat lähteet muissa maissa tuovat esiin tärkeitä varauksia.",
+      "NRK (Norja) ja Iltalehti (Suomi): Israelin mukaan se EI aio vetäytyä Etelä-Libanonista.",
+      "Børsen (Tanska): Hezbollah hylkää sopimuksen."
+    ],
+    "enkalligt": [
+      "Samanaikaisesti tanskalainen sanomalehti Politiken esittää erillisen ja kriittisen näkökulman Israeliin (syytöksiä palestiinalaislasten kuolemisista) – kyseessä on toinen tapahtuma, mutta se osoittaa lehden päätoimittajan painopisteen."
+    ],
+    "vinkel_per_kalla": {
+      "Dagens Nyheter": "Lyhyesti ja optimistisesti: \"Sopimus on saavutettu Libanonin ja Israelin välillä.\"",
+      "NRK": "Otsikon varaus on nyt poistettu: Israel kiistää vetäytymisensä Etelä-Libanonista.",
+      "Iltalehti": "Lehtijuttu: \"Netanyahu: Israel pysyy Libanissa\" – kumoaa rauhanomaisen kuvan.",
+      "Børsen": "Liiketoiminnallinen näkökulma ja tärkeä yksityiskohta: Hezbollah hylkäsi sopimuksen.",
+      "FAZ": "Objektiivinen raportointi Lähi-idän tilanteesta suorassa blogissa: osapuolet pääsevät yhteisymmärrykseen perusasiakirjasta."
+    },
+    "konfidens": "medel",
+    "bedomning": "Ydinasiassa on kyse siitä, että Yhdysvaltojen välittämä Israelin ja Libanonin välinen pääsopimus on julkistettu – tämä on hyvin vahvistettu: viisi maata ja monet uutistoimistot raportoivat siitä. KUITENKIN tarkempi analyysi paljastaa, että optimistinen \"rauhansopimus\" -kehikko (yleinen ruotsalaisessa laadukkaassa lehdistössä) jättää pois olennaisia varauksia, joita norjalaiset, suomalaiset ja tanskalaiset lähteet tuovat esiin: Israel ei ole ilmoittanut vetäytymisestä, ja Hizbollah hylkää sopimuksen. Todellisuutta vastaavampi kuvaus on, että kyseessä on julkistettu, mutta kiistanalainen ja vielä toteuttamaton pääsopimus. Tämä on selkeä esimerkki siitä, miten yksimielisyys YHDESSÄ faktassa voi peittää tärkeitä tulkintaeroja eri maiden välillä."
+  }
+}

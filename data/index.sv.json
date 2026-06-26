@@ -183,6 +183,56 @@
     "tri": true
   },
   {
+    "id": "batchtest-1",
+    "typ": "nyhet",
+    "titel": "Testartikel 1 om Riksbankens ränta",
+    "ingress": "Riksbanken höjer räntan för att få ner prisökningarna i samhället. Detta gör det dyrare för många att betala sina bolån.",
+    "datum": "2026-06-26",
+    "kalla": "Test",
+    "kalla_url": "",
+    "taggar": [
+      "ekonomi"
+    ],
+    "relevans": {
+      "bostadsagare": 3,
+      "sparare": 8,
+      "lantagare": 8,
+      "konsument": 5
+    }
+  },
+  {
+    "id": "batchtest-2",
+    "typ": "nyhet",
+    "titel": "Testartikel 2 om Riksbankens ränta",
+    "ingress": "Riksbanken höjer räntan för att få ner prisökningarna i samhället. Detta gör det dyrare för många att betala sina bolån.",
+    "datum": "2026-06-26",
+    "kalla": "Test",
+    "kalla_url": "",
+    "taggar": [
+      "ekonomi"
+    ],
+    "relevans": {
+      "bostadsagare": 3,
+      "sparare": 8,
+      "lantagare": 8,
+      "konsument": 5
+    }
+  },
+  {
+    "id": "tri-2026-06-26-israel-libanon-avtal",
+    "typ": "nyhet",
+    "titel": "Israel och Libanon enas om ramavtal – men avtalet är omstritt",
+    "ingress": "Israel och Libanon enas om ramavtal – men avtalet är omstritt — Kärnan – att ett USA-medlat ramavtal mellan Israel och Libanon har tillkännagetts – är väl belagd: fem länder och många ",
+    "datum": "2026-06-26",
+    "kalla": "Triangulering (5 länder)",
+    "taggar": [],
+    "sakerhet": "trolig",
+    "flaggor": [
+      "omtvistat"
+    ],
+    "tri": true
+  },
+  {
     "id": "HD03301",
     "typ": "lagforslag",
     "titel": "Skärpta villkor för anhöriginvandring",

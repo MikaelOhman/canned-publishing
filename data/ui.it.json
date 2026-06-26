@@ -354,6 +354,11 @@
       "hög": "alta",
       "medel": "media",
       "låg": "bassa"
+    },
+    "lander": "paesi",
+    "statskontroll": {
+      "statsfinansierat": "finanziato dallo Stato",
+      "statskontrollerat": "controllato dallo Stato"
     }
   }
 }

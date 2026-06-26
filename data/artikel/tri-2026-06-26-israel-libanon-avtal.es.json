@@ -1,0 +1,89 @@
+{
+  "id": "tri-2026-06-26-israel-libanon-avtal",
+  "typ": "nyhet",
+  "titel": "Israel y Líbano llegan a un acuerdo marco, pero el acuerdo es controvertido.\n\n*   [Nombre del acuerdo]\n*   [Fecha de firma]\n*   [URL del documento]\n\nEl acuerdo ha sido objeto de críticas por parte de [grupo/persona].",
+  "datum": "2026-06-26",
+  "kalla": "Triangulering (5 länder)",
+  "kalla_url": "",
+  "taggar": [],
+  "html": "<h3>En lo que las fuentes están de acuerdo</h3><p>Israel y Líbano han llegado a un marco de acuerdo, mediado por Estados Unidos (la secretaria de Estado Rubio). Los cinco países – Suecia, Noruega, Dinamarca, Finlandia y Alemania – informan que el acuerdo ha sido anunciado.</p><h3>Donde las fuentes difieren</h3><p>Un enfoque optimista (&quot;acuerdo de paz&quot;, &quot;el acuerdo está cerrado&quot;) predomina en la prensa sueca de calidad (DN, SvD, DI). Sin embargo, varias fuentes en los países vecinos añaden importantes reservas: NRK (Noruega) e Iltalehti (Finlandia) destacan que Israel afirma NO estar retirándose del sur de Líbano, y Børsen (Dinamarca) informa que Hezbollah rechaza el acuerdo.</p><h3>Solo una fuente</h3><p>Politiken (Dinamarca) destaca, al mismo tiempo, una perspectiva crítica separada sobre Israel (acusaciones de niños palestinos muertos), un evento diferente, pero que muestra el enfoque editorial del periódico.</p><h3>¿Qué tan seguro?</h3><p>El propio anuncio está bien documentado (cinco países, muchas redacciones). Sin embargo, el optimista marco de &quot;paz&quot; omite las reservas que varias fuentes señalan. La verdad más cercana: un marco de acuerdo anunciado pero controvertido y aún no implementado. El consenso sobre un hecho oculta aquí importantes diferencias en la interpretación.</p>",
+  "tldr": "Israel y Líbano han llegado a un acuerdo marco, mediado por Estados Unidos (el secretario de Estado Rubio).",
+  "sakerhet": "trolig",
+  "flaggor": [
+    "omtvistat"
+  ],
+  "triangulering": {
+    "kallor": [
+      {
+        "kalla": "Dagens Nyheter",
+        "land": "SE",
+        "lutning": "independiente liberal",
+        "statskontroll": "oberoende",
+        "url": "https://www.dn.se/"
+      },
+      {
+        "kalla": "NRK",
+        "land": "NO",
+        "lutning": "centrado/neutro",
+        "statskontroll": "oberoende",
+        "url": "https://www.nrk.no/"
+      },
+      {
+        "kalla": "Yle",
+        "land": "FI",
+        "lutning": "centrado/neutro",
+        "statskontroll": "oberoende",
+        "url": "https://yle.fi/"
+      },
+      {
+        "kalla": "Iltalehti",
+        "land": "FI",
+        "lutning": "popular / sensacional",
+        "statskontroll": "oberoende",
+        "url": "https://www.iltalehti.fi/"
+      },
+      {
+        "kalla": "Berlingske",
+        "land": "DK",
+        "lutning": "conservador",
+        "statskontroll": "oberoende",
+        "url": "https://www.berlingske.dk/"
+      },
+      {
+        "kalla": "Børsen",
+        "land": "DK",
+        "lutning": "amigable con las empresas",
+        "statskontroll": "oberoende",
+        "url": "https://borsen.dk/"
+      },
+      {
+        "kalla": "FAZ",
+        "land": "DE",
+        "lutning": "conservador-liberal",
+        "statskontroll": "oberoende",
+        "url": "https://www.faz.net/"
+      }
+    ],
+    "samstammigt": [
+      "Israel y Líbano han llegado a un acuerdo marco, mediado por Estados Unidos (el secretario de Estado Rubio).",
+      "Los cinco países (Suecia, Noruega, Dinamarca, Finlandia y Alemania) informan que el acuerdo ha sido comunicado oficialmente."
+    ],
+    "divergenser": [
+      "La perspectiva optimista (\"acuerdo de paz\", \"acuerdo cerrado\") predomina en la prensa sueca de calidad (DN, SvD, DI), mientras que varias fuentes en otros países añaden reservas cruciales.",
+      "Según informan NRK (Noruega) e Iltalehti (Finlandia), Israel afirma que NO tiene intención de retirarse del sur del Líbano.",
+      "Børsen (Dinamarca): Hezbollah RECHAZA el acuerdo."
+    ],
+    "enkalligt": [
+      "Al mismo tiempo, el periódico Politiken (Dinamarca) destaca una perspectiva crítica sobre Israel por separado (acusaciones de la muerte de niños palestinos), un evento diferente, pero que revela el enfoque editorial del periódico."
+    ],
+    "vinkel_per_kalla": {
+      "Dagens Nyheter": "Breve y optimista: \"Se ha llegado a un acuerdo entre Líbano e Israel\".",
+      "NRK": "Aclaración del titular: Israel niega que vaya a retirarse del sur de Líbano.",
+      "Iltalehti": "Un tabloide afirma: \"Netanyahu: Israel permanecerá en Líbano\", contradiciendo la imagen de paz.",
+      "Børsen": "Perspectiva empresarial y detalle crucial: Hezbollah rechaza el acuerdo.",
+      "FAZ": "En actualización objetiva sobre Oriente Medio en un blog: las partes han llegado a un acuerdo sobre un marco de entendimiento."
+    },
+    "konfidens": "medel",
+    "bedomning": "La esencia, que un acuerdo marco mediado por Estados Unidos entre Israel y Líbano ha sido anunciado, está bien documentada: cinco países y muchas redacciones lo han reportado. SIN EMBARGO, el análisis más profundo revela que el optimista encuadre de \"acuerdo de paz\" (común en la prensa sueca de calidad) omite reservas cruciales que fuentes noruegas, finlandesas y danesas señalan: Israel afirma no estar dispuesto a retirarse, y Hezbollah rechaza el acuerdo. Para ser más precisos: un acuerdo marco anunciado pero controvertido y aún no implementado. Un claro ejemplo de cómo el consenso sobre UN hecho puede ocultar importantes diferencias en la interpretación entre países."
+  }
+}

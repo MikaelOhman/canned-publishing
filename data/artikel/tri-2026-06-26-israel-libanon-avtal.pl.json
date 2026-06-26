@@ -1,0 +1,89 @@
+{
+  "id": "tri-2026-06-26-israel-libanon-avtal",
+  "typ": "nyhet",
+  "titel": "Izrael i Liban doszły do porozumienia w sprawie umowy ramowej – jednak umowa ta budzi kontrowersje.",
+  "datum": "2026-06-26",
+  "kalla": "Triangulering (5 länder)",
+  "kalla_url": "",
+  "taggar": [],
+  "html": "<h3>W czym źródła się zgadzają</h3><p>Izrael i Liban doszły do porozumienia w sprawie wstępnej umowy, przy mediacji Stanów Zjednoczonych (sekretarz stanu Rubio). Wszystkie pięć krajów – Szwecja, Norwegia, Dania, Finlandia i Niemcy – informują o zawarciu tej umowy.</p><h3>W czym źródła się różnią</h3><p>Optymistyczne przedstawienie sytuacji („umowa pokojowa”, „umowa podpisana”) dominuje w szwedzkich mediach (DN, SvD, DI). Jednak kilka źródeł z krajów sąsiednich dodaje istotne zastrzeżenia: NRK (Norwegia) i Iltalehti (Finlandia) podkreślają, że Izrael twierdzi, iż NIE wycofa się z południowego Libanu, a Børsen (Dania) informuje, że Hezbollah odrzuca tę umowę.</p><h3>Tylko jedno źródło</h3><p>Gazeta Politiken (Dania) jednocześnie przedstawia osobny, krytyczny punkt widzenia na Izrael (zarzuty dotyczące zabitych palestyńskich dzieci) – jest to inna sprawa, ale pokazuje ona redakcyjną linię tej gazety.</p><h3>Jak bardzo wiarygodne?</h3><p>Własna ogłoszenie zawarcia umowy jest dobrze udokumentowane (pięć krajów, wiele redakcji). Jednak optymistyczne przedstawienie jako „umowa pokojowa” pomija zastrzeżenia, które podnoszą różne źródła. Najbliżej prawdy: ogłoszona, ale sporna i jeszcze nie wdrożona umowa ramowa. Zgoda co do faktu ukrywa tutaj istotne różnice w interpretacji.</p>",
+  "tldr": "Izrael i Liban osiągnęły porozumienie w sprawie wstępnej umowy, przy udziale Stanów Zjednoczonych (sekretarz stanu Rubio).",
+  "sakerhet": "trolig",
+  "flaggor": [
+    "omtvistat"
+  ],
+  "triangulering": {
+    "kallor": [
+      {
+        "kalla": "Dagens Nyheter",
+        "land": "SE",
+        "lutning": "niezależny liberał",
+        "statskontroll": "oberoende",
+        "url": "https://www.dn.se/"
+      },
+      {
+        "kalla": "NRK",
+        "land": "NO",
+        "lutning": "środek/neutralny",
+        "statskontroll": "oberoende",
+        "url": "https://www.nrk.no/"
+      },
+      {
+        "kalla": "Yle",
+        "land": "FI",
+        "lutning": "środek/neutralny",
+        "statskontroll": "oberoende",
+        "url": "https://yle.fi/"
+      },
+      {
+        "kalla": "Iltalehti",
+        "land": "FI",
+        "lutning": "popularny/sensacyjny",
+        "statskontroll": "oberoende",
+        "url": "https://www.iltalehti.fi/"
+      },
+      {
+        "kalla": "Berlingske",
+        "land": "DK",
+        "lutning": "konserwatywny",
+        "statskontroll": "oberoende",
+        "url": "https://www.berlingske.dk/"
+      },
+      {
+        "kalla": "Børsen",
+        "land": "DK",
+        "lutning": "przyjazna dla biznesu",
+        "statskontroll": "oberoende",
+        "url": "https://borsen.dk/"
+      },
+      {
+        "kalla": "FAZ",
+        "land": "DE",
+        "lutning": "konserwatywno-liberalny",
+        "statskontroll": "oberoende",
+        "url": "https://www.faz.net/"
+      }
+    ],
+    "samstammigt": [
+      "Izrael i Liban osiągnęły porozumienie w sprawie wstępnej umowy, przy udziale Stanów Zjednoczonych (sekretarz stanu Rubio).",
+      "Wszystkie pięć krajów (Szwecja, Norwegia, Dania, Finlandia i Niemcy) poinformowały o przyjęciu do wiadomości niniejszej umowy."
+    ],
+    "divergenser": [
+      "W szwedzkich mediach o wysokim standardzie (DN, SvD, DI) dominują optymistyczne relacje (\"umowa pokojowa\", \"umowa zawarta\"), podczas gdy w wielu innych krajach źródła dodają istotne zastrzeżenia.",
+      "Według NRK (Norwegii) i Iltalehti (Finlandii), Izrael twierdzi, że NIE wycofa się z południowego Libanu.",
+      "\"Børsen\" (Dania): Hezbollah odrzuca porozumienie."
+    ],
+    "enkalligt": [
+      "„Politiken” z Danii jednocześnie przedstawia odrębną, krytyczną perspektywę na Izrael (zarzuty dotyczące zabijania palestyńskich dzieci) – jest to inna sprawa, ale pokazuje ona redakcyjny profil tego czasopisma."
+    ],
+    "vinkel_per_kalla": {
+      "Dagens Nyheter": "Krótko i optymistycznie: \"Uzgodniono porozumienie między Libanem a Izraelem\".",
+      "NRK": "Upraszczając nagłówek: Izrael zaprzecza doniesieniom o wycofaniu się z południowego Libanu.",
+      "Iltalehti": "Tygodnik tabloidowy: \"Netanyahu: Izrael pozostanie w Libanie\" - zaprzecza to wizji pokoju.",
+      "Børsen": "Aspekt biznesowa i kluczowy szczegół: Hezbollah odrzuca porozumienie.",
+      "FAZ": "Obiektywny komentarz w relacji na żywo dotyczącej Bliskiego Wschodu: strony osiągnęły porozumienie w sprawie umowy ramowej."
+    },
+    "konfidens": "medel",
+    "bedomning": "Sedno sprawy – ogłoszenie umowy ramowej, wynegocjowanej przy mediacji USA, między Izraelem a Libanem – jest dobrze udokumentowane: pięć krajów i wiele redakcji o tym informuje. Jednakże, analiza szczegółowa ujawnia, że optymistyczny opis tej \"umowy pokojowej\" (częsty w szwedzkich mediach wysokiej jakości) pomija kluczowe zastrzeżenia, na które zwracają uwagę norweskie, fińskie i duńskie źródła: Izrael twierdzi, że nie wycofa się, a Hezbollah odrzuca umowę. Bliżej prawdy jest stwierdzenie, że mamy do czynienia z ogłoszoną, ale kontrowersyjną i jeszcze niezrealizowaną umową ramową. To wyraźny przykład tego, jak konsensus co do JEDNEGO faktu może ukrywać istotne różnice w interpretacji między krajami."
+  }
+}

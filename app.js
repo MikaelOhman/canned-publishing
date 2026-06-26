@@ -22,6 +22,7 @@ const KORT_KLASS = {lagforslag:'lagforslag', kommunbeslut:'kommunbeslut', omvarl
 const FLAGG_IK = {saknad:'⚠️', omtvistat:'🔀', logik:'❗', tidsavstand:'🕰️'};
 const EPOK_ORDER = ['stenalder','bronsalder','jarnalder','vendeltid','vikingatid','medeltid','vasatiden','stormaktstiden','frihetstiden','1800talet','1900talet'];
 const SIT_FRI = new Set(['historia','nyhet']);   // undantagna situationsfiltret (allmänt innehåll, ej personberoende)
+const LAND_FLAGGA = {SE:'🇸🇪',NO:'🇳🇴',DK:'🇩🇰',FI:'🇫🇮',DE:'🇩🇪',US:'🇺🇸',CN:'🇨🇳',QA:'🇶🇦',BR:'🇧🇷',RU:'🇷🇺'};
 
 const UIDEF = {sub:"Multilingual news",search_label:"Search",search_ph:"Type a word…",language:"Language",
   settings:"Display",theme:"Theme",textsize:"Text size",font:"Font",
@@ -37,7 +38,7 @@ const UIDEF = {sub:"Multilingual news",search_label:"Search",search_ph:"Type a w
     konsensus:{label:"Scholarly view",samsyn:"Consensus",delade:"Divided",foraldrad:"Outdated view"},
     flagg:{saknad:"Missing piece",omtvistat:"Disputed",logik:"Logical oddity",tidsavstand:"Source long after the event"}},
   epoknamn:{stenalder:"Stone Age",bronsalder:"Bronze Age",jarnalder:"Iron Age",vendeltid:"Vendel Period",vikingatid:"Viking Age",medeltid:"Middle Ages",vasatiden:"Vasa era",stormaktstiden:"Swedish Empire",frihetstiden:"Age of Liberty","1800talet":"19th century","1900talet":"20th century"},
-  jamf:{rubrik:"Source comparison",kallor:"sources",konfidens:"confidence",samstammigt:"What sources agree on",divergenser:"Where sources differ",enkalligt:"Only one source",vinkel:"Each source's angle",partisk:"party-affiliated",konf_niv:{"hög":"high","medel":"medium","låg":"low"}},
+  jamf:{rubrik:"Source comparison",kallor:"sources",lander:"countries",konfidens:"confidence",samstammigt:"What sources agree on",divergenser:"Where sources differ",enkalligt:"Only one source",vinkel:"Each source's angle",partisk:"party-affiliated",konf_niv:{"hög":"high","medel":"medium","låg":"low"},statskontroll:{statsfinansierat:"state-funded",statskontrollerat:"state-controlled"}},
   kalla:"Source",original:"Read the original at",count:"results",none:"No matches.",clear:"Clear",back:"← Back",
   tldr_label:"TL;DR",lattlast_label:"In plain language",fulltext_label:"Full text",loadmore:"Load more",
   lagernamn:{privat:"Private individual",foretag:"Business"},
@@ -439,15 +440,20 @@ function leanKlass(txt){ txt=(txt||'').toLowerCase();
 function renderJamforelse(a){
   const t=a.triangulering; if(!t) return '';
   const j=ui().jamf||{};
+  const sk=(j.statskontroll||{});
   const chips=(t.kallor||[]).map(k=>`<span class="jamf-kalla ${leanKlass(k.lutning)}">`+
+    `${k.land&&LAND_FLAGGA[k.land]?LAND_FLAGGA[k.land]+' ':''}`+
     `${k.url?`<a href="${esc(k.url)}" target="_blank" rel="noopener">${esc(k.kalla)}</a>`:esc(k.kalla)}`+
-    `${k.lutning?`<small>${esc(k.lutning)}</small>`:''}${k.partisk?' <span class="jamf-partisk" title="'+esc(j.partisk||'partisk')+'">◆</span>':''}</span>`).join('');
+    `${k.lutning?`<small>${esc(k.lutning)}</small>`:''}`+
+    `${k.partisk?' <span class="jamf-partisk" title="'+esc(j.partisk||'partisk')+'">◆</span>':''}`+
+    `${k.statskontroll&&k.statskontroll!=='oberoende'?` <span class="jamf-sk" title="${esc(sk[k.statskontroll]||k.statskontroll)}">⚑ ${esc(sk[k.statskontroll]||k.statskontroll)}</span>`:''}</span>`).join('');
+  const nLand=new Set((t.kallor||[]).map(k=>k.land).filter(Boolean)).size;
   const block=(arr,lbl,kl)=>(arr&&arr.length)?`<div class="jamf-block ${kl||''}"><h4>${esc(lbl)}</h4><ul>${arr.map(x=>`<li>${esc(x)}</li>`).join('')}</ul></div>`:'';
   const vinklar=(t.vinkel_per_kalla&&Object.keys(t.vinkel_per_kalla).length)
     ?`<div class="jamf-block"><h4>${esc(j.vinkel||'')}</h4>${Object.entries(t.vinkel_per_kalla).map(([k,v])=>`<p class="jamf-v"><b>${esc(k)}:</b> ${esc(v)}</p>`).join('')}</div>`:'';
   const konf=t.konfidens?`<span class="jamf-konf k-${esc(t.konfidens)}">${esc((j.konf_niv||{})[t.konfidens]||t.konfidens)}</span>`:'';
   return `<div class="jamf">
-    <div class="jamf-h">⚖ ${esc(j.rubrik||'Källjämförelse')} · ${(t.kallor||[]).length} ${esc(j.kallor||'källor')}${konf?` · ${esc(j.konfidens||'')} ${konf}`:''}</div>
+    <div class="jamf-h">⚖ ${esc(j.rubrik||'Källjämförelse')} · ${(t.kallor||[]).length} ${esc(j.kallor||'källor')}${nLand>1?` · ${nLand} ${esc(j.lander||'länder')}`:''}${konf?` · ${esc(j.konfidens||'')} ${konf}`:''}</div>
     <div class="jamf-kallor">${chips}</div>
     ${block(t.samstammigt, j.samstammigt||'', 'ok')}
     ${block(t.divergenser, j.divergenser||'', '')}

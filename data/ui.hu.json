@@ -354,6 +354,11 @@
       "hög": "magas",
       "medel": "közepes",
       "låg": "alacsony"
+    },
+    "lander": "ország",
+    "statskontroll": {
+      "statsfinansierat": "állami finanszírozású",
+      "statskontrollerat": "állami ellenőrzésű"
     }
   }
 }

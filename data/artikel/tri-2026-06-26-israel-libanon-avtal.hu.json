@@ -1,0 +1,89 @@
+{
+  "id": "tri-2026-06-26-israel-libanon-avtal",
+  "typ": "nyhet",
+  "titel": "Izrael és Libanon egyetértett egy keretszerződésben – azonban a megállapodás vitatott.",
+  "datum": "2026-06-26",
+  "kalla": "Triangulering (5 länder)",
+  "kalla_url": "",
+  "taggar": [],
+  "html": "<h3>Miben van egyetértésben a források?</h3><p>Izrael és Libanon megállapodott egy keretszerződésben, amelyet az Egyesült Államok közvetített (Rubio külügyminiszter). Mind az öt ország – Svédország, Norvégia, Dánia, Finnország és Németország – jelentette be a megállapodás létrejöttét.</p><h3>Miben különböznek a források?</h3><p>A svéd minőségi sajtó (DN, SvD, DI) domináns elemként egy optimista keretrajzot mutat be (&quot;bégeszerződés&quot;, &quot;a megállapodás elkészült&quot;). Azonban több szomszédos ország forrása fontos feltételeket is hozzátesz: a norvég NRK és a finn Iltalehti hangsúlyozza, hogy Izrael NEM vonja vissza katonáit Dél-Libanonból, míg a dán Børsen arról számol be, hogy a Hezbollah elutasítja a megállapodást.</p><h3>Egyetlen forrás</h3><p>A dán Politiken egyúttal egy külön, kritikus izraeli nézőpontot hoz fel (vádak palesztin gyerekek elleni gyilkosságról) – ez egy másik esemény, de azt mutatja a lap szerkesztőségi irányultsága.</p><h3>Mennyire megbízható?</h3><p>A bejelentés maga jól dokumentált (öt ország, számos szerkesztőség). Az optimista békeszerződés-keret azonban elhagyja azokat a feltételeket, amelyeket több forrás is kiemelt. A leginkább valós: egy bejelentett, de vitatott és még nem végrehajtott keretszerződés. Egy tényben való egyetértés rejt olyan fontos különbségeket az értelmezésben.</p>",
+  "tldr": "Izrael és Libanon megállapodott egy keretmegoldásban, melyet az Egyesült Államok közvetített (külügyminiszter: Rubio).",
+  "sakerhet": "trolig",
+  "flaggor": [
+    "omtvistat"
+  ],
+  "triangulering": {
+    "kallor": [
+      {
+        "kalla": "Dagens Nyheter",
+        "land": "SE",
+        "lutning": "független liberális",
+        "statskontroll": "oberoende",
+        "url": "https://www.dn.se/"
+      },
+      {
+        "kalla": "NRK",
+        "land": "NO",
+        "lutning": "semleges/közepes",
+        "statskontroll": "oberoende",
+        "url": "https://www.nrk.no/"
+      },
+      {
+        "kalla": "Yle",
+        "land": "FI",
+        "lutning": "semleges/közepes",
+        "statskontroll": "oberoende",
+        "url": "https://yle.fi/"
+      },
+      {
+        "kalla": "Iltalehti",
+        "land": "FI",
+        "lutning": "népszerű/szenzációs",
+        "statskontroll": "oberoende",
+        "url": "https://www.iltalehti.fi/"
+      },
+      {
+        "kalla": "Berlingske",
+        "land": "DK",
+        "lutning": "konzervatív",
+        "statskontroll": "oberoende",
+        "url": "https://www.berlingske.dk/"
+      },
+      {
+        "kalla": "Børsen",
+        "land": "DK",
+        "lutning": "vállalkozásbarát",
+        "statskontroll": "oberoende",
+        "url": "https://borsen.dk/"
+      },
+      {
+        "kalla": "FAZ",
+        "land": "DE",
+        "lutning": "konzervatív-liberális",
+        "statskontroll": "oberoende",
+        "url": "https://www.faz.net/"
+      }
+    ],
+    "samstammigt": [
+      "Izrael és Libanon megállapodott egy keretmegoldásban, melyet az Egyesült Államok közvetített (külügyminiszter: Rubio).",
+      "Az összesen öt ország (Svédország, Norvégia, Dánia, Finnország és Németország) arról számolt be, hogy a megállapodásról tájékoztatták őket."
+    ],
+    "divergenser": [
+      "A svéd minőségi sajtóban (DN, SvD, DI) az optimista megközelítés (\"békeszerződés\", \"megállapodás született\") dominál, míg más országokból érkező források fontos feltételeket is hozzátesznek.",
+      "Az NRK (Norvégia) és az Iltalehti (Finnország) szerint Izrael NEM vonul vissza a Dél-Libanoni régióból.",
+      "A Børsen című dán újság szerint: A Hezbollah elutasította a megállapodást."
+    ],
+    "enkalligt": [
+      "A dán Politiken újság egyúttal egy különálló, kritikussá váló izraeli szemszöget mutat be (vádak a meggyilkolt palesztin gyerekekről) – ez egy másik esemény, de jól illusztrálja az újság szerkesztőségi irányultságát."
+    ],
+    "vinkel_per_kalla": {
+      "Dagens Nyheter": "Röviden és optimistán: \"Megállapodás született Libanon és Izrael között.\"",
+      "NRK": "A cikk címében szereplő korábbi állítás ellentétben: Izrael tagadja, hogy kivonulna Dél-Libanonból.",
+      "Iltalehti": "Sajt: \"Netanjahu: Izrael nem fog elvonulni Libanonból\" – ez ellentétben áll a béke reményével.",
+      "Børsen": "Üzleti szempontból fontos tényező, de a kritikus részlet az, hogy a Hezbollah elutasította a megállapodást.",
+      "FAZ": "Objektív információk a közel-keleti helyzetről egy élő blogban: a felek megállapodtak egy keretmegoldásról."
+    },
+    "konfidens": "medel",
+    "bedomning": "A lényeg – hogy az Egyesült Államok közvetítésével Izrael és Libanon között aláírt egy keretmegállapodásról szóló bejelentés történt – kétségkívül tény: öt ország és számos újság jelentette ezt. AZONBAN a helyzet részletesebb vizsgálata feltárja, hogy az optimista \"békeszerző megállapodás\" kép (amely gyakori a svéd minőségi sajtóban), elhagy bizonyos kulcsfontosságú pontokat, amelyeket norvég, finn és dán források kiemelik: Izrael nem nyilatkozta ki visszavonulását, és a Hezbollah elutasította a megállapodást. A valós helyzet az, hogy egy bejelentett, de vitatott és még nem végrehajtott keretmegállapodásról van szó. Ez egyértelmű példa arra, hogy hogyan rejtődik a konszenzus egyetlen tényben, miközben fontos különbségek merülnek fel az országok értelmezései között."
+  }
+}

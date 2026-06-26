@@ -182,6 +182,56 @@
     "tri": true
   },
   {
+    "id": "batchtest-1",
+    "typ": "nyhet",
+    "titel": "Testartikel 1 über den Leitzins der Zentralbank.",
+    "ingress": "Die Zentralbank (Riksbanken) erhöht die Zinsen, um die Preissteigerungen in der Gesellschaft zu verlangsamen. Dies macht es für viele Menschen teurer, ihre Hypotheken abzubezahlen.",
+    "datum": "2026-06-26",
+    "kalla": "Test",
+    "kalla_url": "",
+    "taggar": [
+      "ekonomi"
+    ],
+    "relevans": {
+      "bostadsagare": 3,
+      "sparare": 8,
+      "lantagare": 8,
+      "konsument": 5
+    }
+  },
+  {
+    "id": "batchtest-2",
+    "typ": "nyhet",
+    "titel": "Testartikel 2 über den Leitzins der Zentralbank.",
+    "ingress": "Die Zentralbank erhöht die Zinsen, um die Preissteigerungen in der Gesellschaft zu verlangsamen. Dies macht es für viele Menschen teurer, ihre Hypotheken abzubezahlen.",
+    "datum": "2026-06-26",
+    "kalla": "Test",
+    "kalla_url": "",
+    "taggar": [
+      "ekonomi"
+    ],
+    "relevans": {
+      "bostadsagare": 3,
+      "sparare": 8,
+      "lantagare": 8,
+      "konsument": 5
+    }
+  },
+  {
+    "id": "tri-2026-06-26-israel-libanon-avtal",
+    "typ": "nyhet",
+    "titel": "Israel und Libanon einigen sich auf einen Rahmenvertrag – aber der Vertrag ist umstritten.\n\nHier sind einige Details:\n\n*   **Einigung:** Israel und Libanon haben sich auf einen Rahmenvertrag geeinigt.\n*   **Umstrittenheit:** Der Vertrag ist umstritten.\n*   **Details:** Die genauen Details des Vertrags sind noch nicht öffentlich bekannt.",
+    "ingress": "Israel und Libanon einigen sich auf einen Rahmenvertrag – aber der Vertrag ist umstritten.\n\nHier sind einige Details:\n\n*   **Einigung:** Israel und Libanon haben sich auf einen Rahmenvertrag geeinigt.\n*   **Umstrittenheit:** Der Vertrag ist umstritten.\n*   **Details:** Die genauen Details des Vertrags sind noch nicht öffentlich bekannt. — Das Kernstück – die Ankündigung eines von den USA vermittelten Rahmenabkommens zwischen Israel und dem Libanon – ist zwe",
+    "datum": "2026-06-26",
+    "kalla": "Triangulering (5 länder)",
+    "taggar": [],
+    "sakerhet": "trolig",
+    "flaggor": [
+      "omtvistat"
+    ],
+    "tri": true
+  },
+  {
     "id": "HD03301",
     "typ": "lagforslag",
     "titel": "Strengere Bedingungen für die Familienzusammenführung.\n\n*   Die Regierung plant, die Bedingungen für die Einwanderung von Familienangehörigen zu verschärfen.\n*   Dies soll dazu beitragen, die Zuwanderung nach Deutschland zu kontrollieren und die Integration der Neuankömmlinge zu fördern.\n*   Zu den geplanten Maßnahmen gehören unter anderem:\n    *   Höhere Anforderungen an die finanziellen Verhältnisse des Einwanderers.\n    *   Stärkere Prüfung der Deutschkenntnisse des Einwanderers.\n    *   Verlängerung der Wartezeiten für die Familienzusammenführung.\n*   Die Opposition kritisiert den Plan und befürchtet, dass er dazu führen wird, dass viele Menschen nicht mehr in der Lage sein werden, ihre Familien nach Deutschland zu holen.",

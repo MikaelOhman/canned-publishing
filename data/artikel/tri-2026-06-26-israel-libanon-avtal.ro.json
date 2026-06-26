@@ -1,0 +1,89 @@
+{
+  "id": "tri-2026-06-26-israel-libanon-avtal",
+  "typ": "nyhet",
+  "titel": "Israel și Libanul au ajuns la un acord preliminar privind un cadru de înțelegere, însă acest acord este controversat.",
+  "datum": "2026-06-26",
+  "kalla": "Triangulering (5 länder)",
+  "kalla_url": "",
+  "taggar": [],
+  "html": "<h3>Punctele asupra cărora sursele sunt de acord</h3><p>Israel și Libanul au ajuns la un acord-cadru, mediat de Statele Unite (secretarul de stat Rubio). Toate cele cinci țări – Suedia, Norvegia, Danemarca, Finlanda și Germania – raportează că acordul a fost anunțat.</p><h3>Punctele în care sursele diferă</h3><p>O perspectivă optimistă (&quot;acord de pace&quot;, &quot;acord finalizat&quot;) domină presa suedeză de calitate (DN, SvD, DI). Cu toate acestea, mai multe surse din țările vecine adaugă rezerve importante: NRK (Norvegia) și Iltalehti (Finlanda) subliniază că Israelul afirmă că NU se va retrage din sudul Libanului, iar Børsen (Danemarca) raportează că Hezbollah respinge acordul.</p><h3>O singură sursă&lt;/h2&gt;</h3><p>Politiken (Danemarca) evidențiază în același timp o perspectivă critică separată despre Israel (acuzații de ucidere a copiilor palestinieni) – un alt eveniment, dar care ilustrează focusul editorial al ziarului.</p><h3>Cât de sigur este?</h3><p>Anunțul propriu-zis este bine documentat (cinci țări, numeroase redacții). Cu toate acestea, perspectiva optimistă a păcii omite rezervele pe care mai multe surse le menționează. Cel mai aproape de adevăr: un acord-cadru anunțat, dar controversat și încă neimplementat. Consensul asupra unui fapt ascunde aici diferențe importante în interpretare.</p>",
+  "tldr": "Israel și Libanul au ajuns la un acord preliminar, cu medierea Statelor Unite ale Americii (ministrul de externe Rubio).",
+  "sakerhet": "trolig",
+  "flaggor": [
+    "omtvistat"
+  ],
+  "triangulering": {
+    "kallor": [
+      {
+        "kalla": "Dagens Nyheter",
+        "land": "SE",
+        "lutning": "independenți liberali",
+        "statskontroll": "oberoende",
+        "url": "https://www.dn.se/"
+      },
+      {
+        "kalla": "NRK",
+        "land": "NO",
+        "lutning": "neutru / imparțial",
+        "statskontroll": "oberoende",
+        "url": "https://www.nrk.no/"
+      },
+      {
+        "kalla": "Yle",
+        "land": "FI",
+        "lutning": "neutru / imparțial",
+        "statskontroll": "oberoende",
+        "url": "https://yle.fi/"
+      },
+      {
+        "kalla": "Iltalehti",
+        "land": "FI",
+        "lutning": "popular/senzational",
+        "statskontroll": "oberoende",
+        "url": "https://www.iltalehti.fi/"
+      },
+      {
+        "kalla": "Berlingske",
+        "land": "DK",
+        "lutning": "conservator",
+        "statskontroll": "oberoende",
+        "url": "https://www.berlingske.dk/"
+      },
+      {
+        "kalla": "Børsen",
+        "land": "DK",
+        "lutning": "prietenos cu mediul de afaceri.",
+        "statskontroll": "oberoende",
+        "url": "https://borsen.dk/"
+      },
+      {
+        "kalla": "FAZ",
+        "land": "DE",
+        "lutning": "conservator-liberal",
+        "statskontroll": "oberoende",
+        "url": "https://www.faz.net/"
+      }
+    ],
+    "samstammigt": [
+      "Israel și Libanul au ajuns la un acord preliminar, cu medierea Statelor Unite ale Americii (ministrul de externe Rubio).",
+      "Toate cele cinci țări (Suedia, Norvegia, Danemarca, Finlanda și Germania) au raportat că au fost informate despre acord."
+    ],
+    "divergenser": [
+      "În presa suedeză de calitate (DN, SvD, DI), predomină o perspectivă optimistă (\"acord de pace\", \"acord finalizat\"), în timp ce mai multe surse din alte țări adaugă rezerve importante.",
+      "Conform informațiilor publicate de NRK (Norvegia) și Iltalehti (Finlanda), Israel afirmă că NU intenționează să se retragă din sudul Libanului.",
+      "Børsen (Danemarca): Hezbollah respinge acordul."
+    ],
+    "enkalligt": [
+      "În același timp, cotidianul Politiken (din Danemarca) prezintă o perspectivă critică separată despre Israel (acuzații privind uciderea de copii palestinieni), un alt eveniment, dar care ilustrează focusul editorial al publicației."
+    ],
+    "vinkel_per_kalla": {
+      "Dagens Nyheter": "Pe scurt și cu optimism: \"A fost încheiat un acord între Liban și Israel\".",
+      "NRK": "Anularea unei informații anterioare din titlu: Israel a negat că se va retrage din sudul Libanului.",
+      "Iltalehti": "Ziar tabloid: \"Netanyahu: Israel va rămâne în Liban\" - contrazice viziunea de pace.",
+      "Børsen": "Aspectul comercial și detaliul crucial: Hezbollah respinge acordul.",
+      "FAZ": "Obiectiv, într-un blog despre Orientul Mijlociu: părțile au ajuns la un acord preliminar."
+    },
+    "konfidens": "medel",
+    "bedomning": "Elementul central – anunțul unui acord-cadru mediat de SUA între Israel și Liban – este bine documentat: cinci țări și numeroase publicații au raportat acest lucru. ÎNSĂ, analiza mai atentă dezvăluie că cadrul optimist al \"acordului de pace\" (frecvent întâlnit în presa suedeză de calitate) omite rezerve esențiale subliniate de surse norvegiene, finlandeze și daneze: Israelul afirmă că nu se va retrage, iar Hezbollah respinge acordul. Adevărul este următorul: un acord-cadru anunțat, dar controversat și încă neimplementat. Acesta este un exemplu clar al modului în care un consens asupra unui SINGUR fapt poate ascunde diferențe importante de interpretare între țări."
+  }
+}

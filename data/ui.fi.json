@@ -354,6 +354,11 @@
       "hög": "korkea",
       "medel": "keskitaso",
       "låg": "matala"
+    },
+    "lander": "maata",
+    "statskontroll": {
+      "statsfinansierat": "valtionrahoitteinen",
+      "statskontrollerat": "valtionhallinnassa"
     }
   }
 }

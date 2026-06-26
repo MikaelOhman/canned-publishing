@@ -182,6 +182,56 @@
     "tri": true
   },
   {
+    "id": "batchtest-1",
+    "typ": "nyhet",
+    "titel": "Test Article 1: About the Central Bank's Interest Rate\n\nThis article provides information about the interest rate set by the central bank. Key aspects covered include:\n\n*   **Definition:** What is the central bank's interest rate?\n*   **Purpose:** Why does the central bank adjust its interest rate?\n*   **Impact:** How does the interest rate affect the economy?\n*   **Current Rate:** What is the current level of the interest rate?\n*   **Future Expectations:** What are the expectations for future changes to the interest rate?\n\nFor more information, please visit: [Insert URL here]",
+    "ingress": "The central bank is raising interest rates to curb inflation in society. This makes it more expensive for many people to pay their mortgages.",
+    "datum": "2026-06-26",
+    "kalla": "Test",
+    "kalla_url": "",
+    "taggar": [
+      "ekonomi"
+    ],
+    "relevans": {
+      "bostadsagare": 3,
+      "sparare": 8,
+      "lantagare": 8,
+      "konsument": 5
+    }
+  },
+  {
+    "id": "batchtest-2",
+    "typ": "nyhet",
+    "titel": "Test Article 2: About the Central Bank's Interest Rate\n\nThis article discusses the central bank's interest rate. Here are some key points:\n\n*   The central bank sets the interest rate to influence economic activity.\n*   A higher interest rate can slow down inflation, while a lower interest rate can stimulate growth.\n*   The central bank considers various factors when setting the interest rate, including inflation, unemployment, and global economic conditions.\n*   Changes in the interest rate can affect borrowing costs for businesses and consumers.\n\nFor more information, please visit: [Insert URL here]",
+    "ingress": "The central bank is raising interest rates to curb inflation in society. This makes it more expensive for many people to pay their mortgages.",
+    "datum": "2026-06-26",
+    "kalla": "Test",
+    "kalla_url": "",
+    "taggar": [
+      "ekonomi"
+    ],
+    "relevans": {
+      "bostadsagare": 3,
+      "sparare": 8,
+      "lantagare": 8,
+      "konsument": 5
+    }
+  },
+  {
+    "id": "tri-2026-06-26-israel-libanon-avtal",
+    "typ": "nyhet",
+    "titel": "Israel and Lebanon have reached a framework agreement, but the agreement is controversial.",
+    "ingress": "Israel and Lebanon have reached a framework agreement, but the agreement is controversial. — The core fact – that a framework agreement mediated by the United States between Israel and Lebanon has been announced –",
+    "datum": "2026-06-26",
+    "kalla": "Triangulering (5 länder)",
+    "taggar": [],
+    "sakerhet": "trolig",
+    "flaggor": [
+      "omtvistat"
+    ],
+    "tri": true
+  },
+  {
     "id": "HD03301",
     "typ": "lagforslag",
     "titel": "Stricter requirements for family immigration.\n\nHere's a breakdown of the changes:\n\n*   \"Skärpta villkor\" translates to \"stricter requirements.\"\n*   \"Anhöriginvandring\" translates to \"family immigration.\"",

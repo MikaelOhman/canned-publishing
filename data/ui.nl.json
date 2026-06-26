@@ -354,6 +354,11 @@
       "hög": "hoog",
       "medel": "middel",
       "låg": "laag"
+    },
+    "lander": "landen",
+    "statskontroll": {
+      "statsfinansierat": "staatsgefinancierd",
+      "statskontrollerat": "staatsgecontroleerd"
     }
   }
 }
