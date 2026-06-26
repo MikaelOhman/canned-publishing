@@ -59,6 +59,25 @@
     }
   },
   {
+    "id": "HD03301",
+    "typ": "lagforslag",
+    "titel": "Skärpta villkor för anhöriginvandring",
+    "ingress": "Regeringen vill göra det svårare för personer att få uppehållstillstånd i Sverige som anhöriga, genom att införa strängare krav på ekonomi och längre tid i landet.",
+    "datum": "2026-06-25",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03301.html",
+    "taggar": [
+      "riksdagen"
+    ],
+    "relevans": {
+      "tillstand": 3,
+      "barn": 3,
+      "ny_i_sverige": 3,
+      "asyl": 3,
+      "arbetstillstand": 8
+    }
+  },
+  {
     "id": "ecb-2026-06-24-ecb-reports-on-progress-toward",
     "typ": "omvarld",
     "titel": "ECB rapporterar om framstegen mot införandet av euron.",
