@@ -1837,12 +1837,12 @@
   "svensk-historia": {
     "etikett": "Svensk historia",
     "typ": "ämne",
-    "antal": 22
+    "antal": 28
   },
   "vikingatid": {
     "etikett": "Vikingatiden",
     "typ": "epok",
-    "antal": 12
+    "antal": 18
   },
   "stenalder": {
     "etikett": "Stenåldern",
@@ -1913,5 +1913,10 @@
     "etikett": "Krim",
     "typ": "plats",
     "antal": 1
+  },
+  "runsten": {
+    "etikett": "Runsten",
+    "typ": "kategori",
+    "antal": 6
   }
 }

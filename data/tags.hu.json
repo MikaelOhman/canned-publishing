@@ -1737,12 +1737,12 @@
   "svensk-historia": {
     "etikett": "Svéd történelem:\n\n*   [Lista vagy bekezdés a svéd törtélemmel kapcsolatban]",
     "typ": "ämne",
-    "antal": 22
+    "antal": 28
   },
   "vikingatid": {
     "etikett": "A vikingkor.",
     "typ": "epok",
-    "antal": 12
+    "antal": 18
   },
   "stenalder": {
     "etikett": "Az újkőkorszak.",
@@ -1793,5 +1793,10 @@
     "etikett": "A 20. század.",
     "typ": "epok",
     "antal": 1
+  },
+  "runsten": {
+    "etikett": "Egy futókövület.",
+    "typ": "kategori",
+    "antal": 6
   }
 }

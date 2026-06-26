@@ -1802,12 +1802,12 @@
   "svensk-historia": {
     "etikett": "Swedish history.",
     "typ": "ämne",
-    "antal": 22
+    "antal": 28
   },
   "vikingatid": {
     "etikett": "The Viking Age\n\n*   A period in Scandinavian and Northern European history.\n*   Roughly from the late 8th century to the mid-11th century (c. 793 - c. 1066).\n*   Characterized by Norse seafarers, traders, warriors, and explorers.\n*   Known for raids, conquests, and settlements across Europe and beyond.\n*   Significant impact on the political, economic, and cultural landscape of many regions.",
     "typ": "epok",
-    "antal": 12
+    "antal": 18
   },
   "stenalder": {
     "etikett": "The Stone Age.",
@@ -1858,5 +1858,10 @@
     "etikett": "20th Century",
     "typ": "epok",
     "antal": 1
+  },
+  "runsten": {
+    "etikett": "Runestone.",
+    "typ": "kategori",
+    "antal": 6
   }
 }

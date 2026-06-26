@@ -1737,12 +1737,12 @@
   "svensk-historia": {
     "etikett": "Histoire suédoise.\n\n[Here, you would insert the content that was originally in Swedish, maintaining the paragraph and list structure, and keeping names, numbers, dates, and URLs unchanged.]",
     "typ": "ämne",
-    "antal": 22
+    "antal": 28
   },
   "vikingatid": {
     "etikett": "L'ère viking.",
     "typ": "epok",
-    "antal": 12
+    "antal": 18
   },
   "stenalder": {
     "etikett": "L'âge de pierre.",
@@ -1793,5 +1793,10 @@
     "etikett": "Le XXe siècle.",
     "typ": "epok",
     "antal": 1
+  },
+  "runsten": {
+    "etikett": "Felsökningsguide pour les runestones\n\nCette section fournit des conseils pour résoudre les problèmes courants rencontrés lors de l'utilisation des runestones.\n\n* **Problème :** Les runestones ne s'affichent pas correctement.\n    * **Solution :** Vérifiez que les pilotes graphiques sont à jour. Redémarrez votre ordinateur. Assurez-vous que la résolution de l'écran est compatible avec les runestones.\n\n* **Problème :** Les runestones fonctionnent lentement.\n    * **Solution :** Fermez les applications inutiles. Augmentez la mémoire vive (RAM) de votre ordinateur. Désactivez les effets visuels.\n\n* **Problème :** Vous ne parvenez pas à vous connecter aux serveurs des runestones.\n    * **Solution :** Vérifiez votre connexion Internet. Redémarrez votre routeur. Contactez votre fournisseur d'accès Internet (FAI).\n\nSi vous rencontrez d'autres problèmes, veuillez consulter la documentation en ligne ou contacter le support technique.",
+    "typ": "kategori",
+    "antal": 6
   }
 }

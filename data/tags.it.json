@@ -1737,12 +1737,12 @@
   "svensk-historia": {
     "etikett": "Storia svedese.\n\n(Followed by any lists or paragraphs that would normally follow this title in a document about Swedish history.)",
     "typ": "ämne",
-    "antal": 22
+    "antal": 28
   },
   "vikingatid": {
     "etikett": "L'era vichinga.",
     "typ": "epok",
-    "antal": 12
+    "antal": 18
   },
   "stenalder": {
     "etikett": "L'età della pietra.",
@@ -1793,5 +1793,10 @@
     "etikett": "Il XX secolo.",
     "typ": "epok",
     "antal": 1
+  },
+  "runsten": {
+    "etikett": "Pietra runica.",
+    "typ": "kategori",
+    "antal": 6
   }
 }
