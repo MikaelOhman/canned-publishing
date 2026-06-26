@@ -1608,5 +1608,15 @@
     "etikett": "Von der Stadtverwaltung.",
     "typ": "organisation",
     "antal": 1
+  },
+  "vallentuna": {
+    "etikett": "Vallentuna.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "ks-au-signed": {
+    "etikett": "KS AU hat unterzeichnet.",
+    "typ": "organisation",
+    "antal": 1
   }
 }

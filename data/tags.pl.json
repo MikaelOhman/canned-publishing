@@ -1538,5 +1538,15 @@
     "etikett": "Od komitetu miejskiego.",
     "typ": "organisation",
     "antal": 1
+  },
+  "vallentuna": {
+    "etikett": "Vallentuna.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "ks-au-signed": {
+    "etikett": "KS AU podpisał.",
+    "typ": "organisation",
+    "antal": 1
   }
 }

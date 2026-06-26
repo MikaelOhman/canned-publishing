@@ -1543,5 +1543,15 @@
     "etikett": "Del texto del consejo municipal:",
     "typ": "organisation",
     "antal": 1
+  },
+  "vallentuna": {
+    "etikett": "Vallentuna.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "ks-au-signed": {
+    "etikett": "KS AU ha firmado.",
+    "typ": "organisation",
+    "antal": 1
   }
 }

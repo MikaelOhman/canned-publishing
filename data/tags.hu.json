@@ -1538,5 +1538,15 @@
     "etikett": "A városi tanácstól.",
     "typ": "organisation",
     "antal": 1
+  },
+  "vallentuna": {
+    "etikett": "Vallentuna.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "ks-au-signed": {
+    "etikett": "A KS AU szerződést aláírták.",
+    "typ": "organisation",
+    "antal": 1
   }
 }
