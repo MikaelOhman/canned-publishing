@@ -1050,22 +1050,6 @@
     }
   },
   {
-    "id": "koping-sbn-2026-06-18",
-    "typ": "kommunbeslut",
-    "titel": "SBN, Köpings kommun 2026-06-18",
-    "ingress": "Sida 1 (16) Protokoll Beslutande organ Samhällsbyggnadsnämnden Mötesdatum 2026-06-18 Tid 09.00–10.50 Plats KS-salen, Rådhuset Närvarande Se nästa sida. Paragrafer 54–64 Justeringens plats och tid Samh",
-    "datum": "2026-06-18",
-    "kalla": "Köpings kommun",
-    "kalla_url": "https://koping.se/download/18.3a383e8819ed42b2bed10f4e/1781862766847/2026-06-18%20Protokoll%20SBN.pdf",
-    "taggar": [
-      "koping",
-      "sbn"
-    ],
-    "relevans": {
-      "b_fastighet": 3
-    }
-  },
-  {
     "id": "kramfors-overformyndarnamnden-harnosand-kramfors-2026-06-18",
     "typ": "kommunbeslut",
     "titel": "Överförmyndarnämnden Härnösand Kramfors, Kramfors kommun 2026-06-18",
@@ -1115,6 +1099,26 @@
       "arbetsgivare": 3,
       "b_vard": 5,
       "kronisk": 3
+    }
+  },
+  {
+    "id": "koping-sbn-2026-06-18",
+    "typ": "kommunbeslut",
+    "titel": "SBN, Köpings kommun 2026-06-18",
+    "ingress": "Köpings kommun har beslutat att starta planeringen för en ny detaljplan i Munktorp (Bålsta 2:12). Syftet är att utöka en befintlig verksamhet och skapa en ny tomt för företag.",
+    "datum": "2026-06-18",
+    "kalla": "Köpings kommun",
+    "kalla_url": "https://koping.se/download/18.3a383e8819ed42b2bed10f4e/1781862766847/2026-06-18%20Protokoll%20SBN.pdf",
+    "taggar": [
+      "koping",
+      "sbn"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "mark_bygglov": 3,
+      "bygger": 3,
+      "klimat": 3,
+      "kultur": 3
     }
   },
   {
