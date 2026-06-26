@@ -857,7 +857,7 @@
   "kommunfullmaktiges": {
     "etikett": "مجلس المدينة.",
     "typ": "organisation",
-    "antal": 2
+    "antal": 3
   },
   "fagersta": {
     "etikett": "Fagersta",
@@ -1562,6 +1562,11 @@
   "ks-au-signed": {
     "etikett": "تم التوقيع من قبل KS AU.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "vannas": {
+    "etikett": "فإنّاس.",
+    "typ": "plats",
     "antal": 1
   }
 }

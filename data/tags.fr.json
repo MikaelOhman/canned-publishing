@@ -847,7 +847,7 @@
   "kommunfullmaktiges": {
     "etikett": "Conseil municipal.",
     "typ": "organisation",
-    "antal": 2
+    "antal": 3
   },
   "fagersta": {
     "etikett": "Fagersta.",
@@ -1557,6 +1557,11 @@
   "ks-au-signed": {
     "etikett": "KS AU a signé.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "vannas": {
+    "etikett": "Vännäs.",
+    "typ": "plats",
     "antal": 1
   }
 }

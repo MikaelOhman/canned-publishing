@@ -842,7 +842,7 @@
   "kommunfullmaktiges": {
     "etikett": "A községi képviselő-testület.",
     "typ": "organisation",
-    "antal": 2
+    "antal": 3
   },
   "fagersta": {
     "etikett": "Fagersta.",
@@ -1547,6 +1547,11 @@
   "ks-au-signed": {
     "etikett": "A KS AU szerződést aláírták.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "vannas": {
+    "etikett": "Vännäs.",
+    "typ": "plats",
     "antal": 1
   }
 }
