@@ -3528,6 +3528,28 @@
     }
   },
   {
+    "id": "riksbanken-2026-06-09-riksbankens-foretagsundersokni",
+    "typ": "myndighet",
+    "titel": "L'indagine sulle imprese della Banca Centrale Svedese (Riksbanken): \"Un nuovo evento a sorpresa\" che rischia di rallentare la ripresa.",
+    "ingress": "Le grandi aziende svedesi ritengono che l'economia sia ancora debole e che la guerra in Medio Oriente crei incertezza, il che potrebbe allungare i tempi necessari per un miglioramento dell'economia.",
+    "datum": "2026-06-09",
+    "kalla": "Riksbanken",
+    "kalla_url": "https://www.riksbank.se/sv/press-och-publicerat/nyheter-och-pressmeddelanden/pressmeddelanden/2026/riksbankens-foretagsundersokning--en-ny-svart-svan-som-riskerar-att-fordroja-aterhamtningen/",
+    "taggar": [
+      "ekonomi",
+      "riksbanken",
+      "rantor"
+    ],
+    "relevans": {
+      "b_handel": 3,
+      "b_bygg": 3,
+      "b_transport": 3,
+      "b_besok": 3,
+      "flygresenar": 3,
+      "konsument": 3
+    }
+  },
+  {
     "id": "gavle-kommunstyrelsen-2026-06-08",
     "typ": "kommunbeslut",
     "titel": "Comitato esecutivo, Comune di Gävle, 8 giugno 2026.",
@@ -3776,6 +3798,24 @@
       "bil": 3,
       "kronisk": 8,
       "klimat": 3
+    }
+  },
+  {
+    "id": "riksbanken-2026-06-03-det-penningpolitiska-motet-i-s",
+    "typ": "myndighet",
+    "titel": "La riunione sulla politica monetaria di settembre si terrà a Göteborg.",
+    "ingress": "La Banca Centrale Svedese terrà un importante incontro a Göteborg il 23 settembre per valutare la situazione economica del paese e decidere le politiche sui tassi di interesse. La decisione verrà comunicata al pubblico il giorno successivo.",
+    "datum": "2026-06-03",
+    "kalla": "Riksbanken",
+    "kalla_url": "https://www.riksbank.se/sv/press-och-publicerat/nyheter-och-pressmeddelanden/pressmeddelanden/2026/det-penningpolitiska-motet-i-september-ager-rum-i-goteborg/",
+    "taggar": [
+      "ekonomi",
+      "riksbanken",
+      "rantor"
+    ],
+    "relevans": {
+      "sparare": 3,
+      "lantagare": 3
     }
   },
   {
@@ -4098,6 +4138,26 @@
     ],
     "relevans": {
       "b_fastighet": 3
+    }
+  },
+  {
+    "id": "riksbanken-2026-05-29-kriget-i-mellanostern-medfor-r",
+    "typ": "myndighet",
+    "titel": "Il conflitto in Medio Oriente comporta rischi per la stabilità finanziaria.",
+    "ingress": "Il conflitto in Medio Oriente sta creando incertezza sui mercati finanziari globali, il che potrebbe portare a prezzi e tassi di interesse più elevati. Sebbene le banche svedesi siano solide, esistono dei rischi per le società immobiliari e",
+    "datum": "2026-05-29",
+    "kalla": "Riksbanken",
+    "kalla_url": "https://www.riksbank.se/sv/press-och-publicerat/nyheter-och-pressmeddelanden/pressmeddelanden/2026/kriget-i-mellanostern-medfor-risker-for-den-finansiella-stabiliteten/",
+    "taggar": [
+      "ekonomi",
+      "riksbanken",
+      "rantor"
+    ],
+    "relevans": {
+      "b_finans": 8,
+      "b_fastighet": 3,
+      "lantagare": 3,
+      "konsument": 5
     }
   },
   {
@@ -4694,6 +4754,25 @@
     "relevans": {
       "arbetsgivare": 3,
       "kronisk": 8
+    }
+  },
+  {
+    "id": "riksbanken-2026-05-13-protokoll-fran-det-penningpoli",
+    "typ": "myndighet",
+    "titel": "Verbale della riunione di politica monetaria del 6 maggio 2026.",
+    "ingress": "Il tasso di interesse rimarrà invariato all'1,75%. Ciò significa che, al momento, non ci saranno variazioni nei costi dei prestiti né nei rendimenti del risparmio.",
+    "datum": "2026-05-13",
+    "kalla": "Riksbanken",
+    "kalla_url": "https://www.riksbank.se/sv/press-och-publicerat/nyheter-och-pressmeddelanden/pressmeddelanden/2026/protokoll-fran-det-penningpolitiska-motet-den-6-maj-2026/",
+    "taggar": [
+      "ekonomi",
+      "riksbanken",
+      "rantor"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "sparare": 5,
+      "lantagare": 3
     }
   },
   {

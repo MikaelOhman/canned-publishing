@@ -3558,6 +3558,28 @@
     }
   },
   {
+    "id": "riksbanken-2026-06-09-riksbankens-foretagsundersokni",
+    "typ": "myndighet",
+    "titel": "Die Unternehmensbefragung der Zentralbank: \"Ein neuer schwarzer Schwan\", der das Risiko birgt, die Erholung zu verzögern.",
+    "ingress": "Große schwedische Unternehmen sind der Meinung, dass die Wirtschaft weiterhin schwach ist und dass der Krieg im Nahen Osten Unsicherheit schafft, was dazu führen könnte, dass es länger dauert, bis sich die Wirtschaft erholt.",
+    "datum": "2026-06-09",
+    "kalla": "Riksbanken",
+    "kalla_url": "https://www.riksbank.se/sv/press-och-publicerat/nyheter-och-pressmeddelanden/pressmeddelanden/2026/riksbankens-foretagsundersokning--en-ny-svart-svan-som-riskerar-att-fordroja-aterhamtningen/",
+    "taggar": [
+      "ekonomi",
+      "riksbanken",
+      "rantor"
+    ],
+    "relevans": {
+      "b_handel": 3,
+      "b_bygg": 3,
+      "b_transport": 3,
+      "b_besok": 3,
+      "flygresenar": 3,
+      "konsument": 3
+    }
+  },
+  {
     "id": "gavle-kommunstyrelsen-2026-06-08",
     "typ": "kommunbeslut",
     "titel": "Gemeindeverwaltungsrat, Gemeinde Gävle, 8. Juni 2026.",
@@ -3806,6 +3828,24 @@
       "bil": 3,
       "kronisk": 8,
       "klimat": 3
+    }
+  },
+  {
+    "id": "riksbanken-2026-06-03-det-penningpolitiska-motet-i-s",
+    "typ": "myndighet",
+    "titel": "Das geldpolitische Treffen im September findet in Göteborg statt.",
+    "ingress": "Die Zentralbank (Riksbanken) hält am 23. September ein wichtiges Treffen in Göteborg, um über die Wirtschaftslage des Landes und die Zinssätze zu entscheiden. Die Entscheidung wird der Öffentlichkeit am nächsten Tag bekannt gegeben.",
+    "datum": "2026-06-03",
+    "kalla": "Riksbanken",
+    "kalla_url": "https://www.riksbank.se/sv/press-och-publicerat/nyheter-och-pressmeddelanden/pressmeddelanden/2026/det-penningpolitiska-motet-i-september-ager-rum-i-goteborg/",
+    "taggar": [
+      "ekonomi",
+      "riksbanken",
+      "rantor"
+    ],
+    "relevans": {
+      "sparare": 3,
+      "lantagare": 3
     }
   },
   {
@@ -4128,6 +4168,26 @@
     ],
     "relevans": {
       "b_fastighet": 3
+    }
+  },
+  {
+    "id": "riksbanken-2026-05-29-kriget-i-mellanostern-medfor-r",
+    "typ": "myndighet",
+    "titel": "Der Krieg im Nahen Osten birgt Risiken für die finanzielle Stabilität.",
+    "ingress": "Der Krieg im Nahen Osten schafft Unsicherheit an den globalen Finanzmärkten, was zu höheren Preisen und Zinsen führen kann. Obwohl schwedische Banken stabil sind, bestehen Risiken für Immobilienunternehmen und Haushalte mit hohen Krediten.",
+    "datum": "2026-05-29",
+    "kalla": "Riksbanken",
+    "kalla_url": "https://www.riksbank.se/sv/press-och-publicerat/nyheter-och-pressmeddelanden/pressmeddelanden/2026/kriget-i-mellanostern-medfor-risker-for-den-finansiella-stabiliteten/",
+    "taggar": [
+      "ekonomi",
+      "riksbanken",
+      "rantor"
+    ],
+    "relevans": {
+      "b_finans": 8,
+      "b_fastighet": 3,
+      "lantagare": 3,
+      "konsument": 5
     }
   },
   {
@@ -4724,6 +4784,25 @@
     "relevans": {
       "arbetsgivare": 3,
       "kronisk": 8
+    }
+  },
+  {
+    "id": "riksbanken-2026-05-13-protokoll-fran-det-penningpoli",
+    "typ": "myndighet",
+    "titel": "Protokoll des Sitzungsprotokolls der Geldpolitik vom 6. Mai 2026.",
+    "ingress": "Der Zinssatz bleibt unverändert bei 1,75 Prozent. Das bedeutet, dass die Kosten für Kredite und die Rendite auf Ersparnisse zum jetzigen Zeitpunkt nicht verändert werden.",
+    "datum": "2026-05-13",
+    "kalla": "Riksbanken",
+    "kalla_url": "https://www.riksbank.se/sv/press-och-publicerat/nyheter-och-pressmeddelanden/pressmeddelanden/2026/protokoll-fran-det-penningpolitiska-motet-den-6-maj-2026/",
+    "taggar": [
+      "ekonomi",
+      "riksbanken",
+      "rantor"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "sparare": 5,
+      "lantagare": 3
     }
   },
   {
