@@ -1778,5 +1778,15 @@
     "etikett": "Pensionsmyndigheten",
     "typ": "organisation",
     "antal": 5
+  },
+  "konsument": {
+    "etikett": "Konsument",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "konsumentverket": {
+    "etikett": "Konsumentverket",
+    "typ": "organisation",
+    "antal": 5
   }
 }

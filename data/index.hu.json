@@ -878,6 +878,26 @@
     ]
   },
   {
+    "id": "konsumentverket-2026-06-23-konsumenter-sarbara-vid-kop-av",
+    "typ": "myndighet",
+    "titel": "A fogyasztók sérülékenyek a kozmetikai beavatkozások során.\n\n*   A vásárlás előtt fontos tájékozódni a beavatkozással kapcsolatos kockázatokról és előnyökről.\n*   Fontos megbízható szakemberhez fordulni, aki rendelkezik megfelelő végzettséggel és referenciákkal.\n*   A beavatkozást követően figyelni kell a testünk jelzéseire, és szükség esetén orvoshoz kell fordulni.",
+    "ingress": "Számos cég, amely esztétikai beavatkozásokat kínál, megszegzi a szabályokat és átveri ügyfeleit, különösen a közösségi médiában tevékenykedő fiatal nőket. A fogyasztóvédelmi hatóság most azt javasolja a kormánynak, hogy vizsgálja meg, szüks",
+    "datum": "2026-06-23",
+    "kalla": "Konsumentverket",
+    "kalla_url": "https://www.konsumentverket.se/nyhet/konsumenter-sarbara-vid-kop-av-skonhetsingrepp/",
+    "taggar": [
+      "konsument",
+      "konsumentverket"
+    ],
+    "relevans": {
+      "b_vard": 3,
+      "b_kultur": 3,
+      "b_life": 3,
+      "kvinna": 3,
+      "kronisk": 5
+    }
+  },
+  {
     "id": "HD03287",
     "typ": "lagforslag",
     "titel": "Új politikai irányvonal egy erősebb filmiparárt.",
@@ -3618,6 +3638,19 @@
     }
   },
   {
+    "id": "konsumentverket-2026-06-09-tekniska-problem-med-konsument",
+    "typ": "myndighet",
+    "titel": "A Svéd Fogyasztóvédelmi Hivatal (Konsumentverket) honlapján műszaki problémák merültek fel, ami miatt egy korábbi, már archivált visszavonási hír újra lett közzétéve.",
+    "ingress": "A svéd fogyasztóvédelmi hatóság (Konsumentverket) véletlenül egy régi, veszélyes trambulinról szóló figyelmeztetést küldött ki előfizetőinek a weboldalukon fellépett technikai hiba miatt.",
+    "datum": "2026-06-09",
+    "kalla": "Konsumentverket",
+    "kalla_url": "https://www.konsumentverket.se/nyhet/tekniska-problem-med-konsumentverkets-webbplats-gammal-nyhet-om-aterkallelse-har-skickats-ut-igen/",
+    "taggar": [
+      "konsument",
+      "konsumentverket"
+    ]
+  },
+  {
     "id": "gavle-kommunstyrelsen-2026-06-08",
     "typ": "kommunbeslut",
     "titel": "A Gävle önkormányzat kommunális bizottsága, 2026. június 8.",
@@ -3717,6 +3750,43 @@
       "flygresenar": 5,
       "kronisk": 8,
       "tandvard": 3
+    }
+  },
+  {
+    "id": "konsumentverket-2026-06-08-lagandring-gor-det-enklare-att",
+    "typ": "myndighet",
+    "titel": "A törvényváltozás megkönnyíti a vásárlás visszajelentését online.",
+    "ingress": "2019. június 19-től kezdődően könnyebbé válik online vásárlások esetén a vásárlás megváltoztatása, mivel az üzleteknek egyértelmű gombot vagy funkciót kell biztosítaniuk erre a célra közvetlenül saját weboldalukon.",
+    "datum": "2026-06-08",
+    "kalla": "Konsumentverket",
+    "kalla_url": "https://www.konsumentverket.se/nyhet/lagandring-gor-det-enklare-att-angra-kop-pa-natet/",
+    "taggar": [
+      "konsument",
+      "konsumentverket"
+    ],
+    "relevans": {
+      "b_handel": 3,
+      "kollektiv": 3
+    }
+  },
+  {
+    "id": "konsumentverket-2026-06-05-konsumentverkets-hushallskostn",
+    "typ": "myndighet",
+    "titel": "A Verbraucherzentrale (Fogyasztói Szolgálat) bejelentette a 2026-os háztartási költségekre vonatkozó előrejelzéseit.",
+    "ingress": "A Független Fogyasztóvédelmi Hivatal kiszámította, hogy mennyi kerül egy jó életvitel 2026-ban. Az új számítások azt mutatják, hogy az élelmiszerek költsége csökken, mivel a hatóság megváltoztatta módszereit és ajánlásait.",
+    "datum": "2026-06-05",
+    "kalla": "Konsumentverket",
+    "kalla_url": "https://www.konsumentverket.se/nyhet/konsumentverkets-hushallskostnader-for-2026-klara/",
+    "taggar": [
+      "konsument",
+      "konsumentverket"
+    ],
+    "relevans": {
+      "b_handel": 3,
+      "b_finans": 3,
+      "barn": 3,
+      "stor_familj": 3,
+      "konsument": 3
     }
   },
   {
@@ -4385,6 +4455,19 @@
       "b_fastighet": 4,
       "b_vard": 4
     }
+  },
+  {
+    "id": "konsumentverket-2026-05-28-enklare-kontakta-elbolag-efter",
+    "typ": "myndighet",
+    "titel": "Az áramszolgáltatókhoz való kapcsolattartás egyszerűbbé vált a felülvizsgálat után.",
+    "ingress": "A Független Fogyasztóvédelmi Hatóság ellenőrizte az áramszolgáltatókat, és követelte, hogy azok a weboldalaikon tüntessék fel mind az e-mail címeket, mind a telefonszámokat. Ez megkönnyíti a vásárlók számára, hogy segítséget kérjenek, amiko",
+    "datum": "2026-05-28",
+    "kalla": "Konsumentverket",
+    "kalla_url": "https://www.konsumentverket.se/nyhet/enklare-kontakta-elbolag-efter-granskning/",
+    "taggar": [
+      "konsument",
+      "konsumentverket"
+    ]
   },
   {
     "id": "stockholm-kommunstyrelsen-2026-05-27",

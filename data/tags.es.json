@@ -1678,5 +1678,15 @@
     "etikett": "Agencia de Pensiones.",
     "typ": "organisation",
     "antal": 5
+  },
+  "konsument": {
+    "etikett": "Consumidor.",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "konsumentverket": {
+    "etikett": "La Agencia de Consumidores.",
+    "typ": "organisation",
+    "antal": 5
   }
 }

@@ -1678,5 +1678,15 @@
     "etikett": "Pensioenautoriteit",
     "typ": "organisation",
     "antal": 5
+  },
+  "konsument": {
+    "etikett": "Consument.",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "konsumentverket": {
+    "etikett": "Het Consumentenbond.",
+    "typ": "organisation",
+    "antal": 5
   }
 }

@@ -878,6 +878,26 @@
     ]
   },
   {
+    "id": "konsumentverket-2026-06-23-konsumenter-sarbara-vid-kop-av",
+    "typ": "myndighet",
+    "titel": "مصرف‌کنندگان در معرض آسیب‌پذیری در هنگام خرید خدمات زیبایی هستند.\n\n(This is a general title and doesn't have enough context to translate further into a paragraph or list.)",
+    "ingress": "بسیاری از شرکت‌هایی که خدمات جراحی زیبایی ارائه می‌دهند، قوانین را نقض می‌کنند و مشتریان خود، به ویژه جوانان خانم در شبکه‌های اجتماعی، را فریب می‌دهند. سازمان حمایت از مصرف‌کنندگان اکنون خواستار بررسی این موضوع توسط دولت است تا مشخص شود آیا",
+    "datum": "2026-06-23",
+    "kalla": "Konsumentverket",
+    "kalla_url": "https://www.konsumentverket.se/nyhet/konsumenter-sarbara-vid-kop-av-skonhetsingrepp/",
+    "taggar": [
+      "konsument",
+      "konsumentverket"
+    ],
+    "relevans": {
+      "b_vard": 3,
+      "b_kultur": 3,
+      "b_life": 3,
+      "kvinna": 3,
+      "kronisk": 5
+    }
+  },
+  {
     "id": "HD03287",
     "typ": "lagforslag",
     "titel": "جهت‌گیری سیاسی جدید برای یک صنعت فیلم قوی‌تر.",
@@ -3669,6 +3689,19 @@
     }
   },
   {
+    "id": "konsumentverket-2026-06-09-tekniska-problem-med-konsument",
+    "typ": "myndighet",
+    "titel": "مشکلات فنی در وب‌سایت سازمان حمایت از مصرف‌کنندگان - یک خبر قدیمی درباره فراخوان محصول مجدداً منتشر شده است.",
+    "ingress": "سازمان حمایت از مصرف‌کنندگان به طور تصادفی یک هشدار قدیمی درباره یک ترامپولین خطرناک را برای مشترکین خود ارسال کرده است، این اتفاق به دلیل یک نقص فنی در وب‌سایت آن‌ها رخ داده است.",
+    "datum": "2026-06-09",
+    "kalla": "Konsumentverket",
+    "kalla_url": "https://www.konsumentverket.se/nyhet/tekniska-problem-med-konsumentverkets-webbplats-gammal-nyhet-om-aterkallelse-har-skickats-ut-igen/",
+    "taggar": [
+      "konsument",
+      "konsumentverket"
+    ]
+  },
+  {
     "id": "gavle-kommunstyrelsen-2026-06-08",
     "typ": "kommunbeslut",
     "titel": "شورای شهر، شهرداری گیوله، 2026-06-08",
@@ -3768,6 +3801,43 @@
       "flygresenar": 5,
       "kronisk": 8,
       "tandvard": 3
+    }
+  },
+  {
+    "id": "konsumentverket-2026-06-08-lagandring-gor-det-enklare-att",
+    "typ": "myndighet",
+    "titel": "تغییرات در قانون، امکان بازگرداندن آسان‌تر خریدهای آنلاین را فراهم می‌کند.",
+    "ingress": "از تاریخ ۱۹ ژوئن، لغو سفارش‌های خرید آنلاین آسان‌تر خواهد شد، زیرا فروشگاه‌ها موظف هستند که یک دکمه یا قابلیت واضح برای این منظور را مستقیماً در وب‌سایت خود قرار دهند.",
+    "datum": "2026-06-08",
+    "kalla": "Konsumentverket",
+    "kalla_url": "https://www.konsumentverket.se/nyhet/lagandring-gor-det-enklare-att-angra-kop-pa-natet/",
+    "taggar": [
+      "konsument",
+      "konsumentverket"
+    ],
+    "relevans": {
+      "b_handel": 3,
+      "kollektiv": 3
+    }
+  },
+  {
+    "id": "konsumentverket-2026-06-05-konsumentverkets-hushallskostn",
+    "typ": "myndighet",
+    "titel": "هزینه‌های مربوط به زندگی خانوادگی که توسط سازمان حمایت از مصرف‌کنندگان برای سال ۲۰۲۶ محاسبه شده است، منتشر شد.",
+    "ingress": "سازمان حمایت از مصرف‌کنندگان، هزینه‌های لازم برای داشتن یک زندگی روزمره خوب را در سال ۲۰۲۶ محاسبه کرده است. محاسبات جدید نشان می‌دهد که هزینه مواد غذایی کاهش یافته است، زیرا این سازمان روش‌ها و توصیه‌های خود را تغییر داده است.",
+    "datum": "2026-06-05",
+    "kalla": "Konsumentverket",
+    "kalla_url": "https://www.konsumentverket.se/nyhet/konsumentverkets-hushallskostnader-for-2026-klara/",
+    "taggar": [
+      "konsument",
+      "konsumentverket"
+    ],
+    "relevans": {
+      "b_handel": 3,
+      "b_finans": 3,
+      "barn": 3,
+      "stor_familj": 3,
+      "konsument": 3
     }
   },
   {
@@ -4436,6 +4506,19 @@
       "b_fastighet": 4,
       "b_vard": 4
     }
+  },
+  {
+    "id": "konsumentverket-2026-05-28-enklare-kontakta-elbolag-efter",
+    "typ": "myndighet",
+    "titel": "تماس با شرکت برق پس از بررسی، آسان‌تر شده است.",
+    "ingress": "سازمان حمایت از مصرف‌کنندگان، شرکت‌های برق را مورد بررسی قرار داده و خواستار آن شده است که آدرس ایمیل و شماره تلفن خود را به طور واضح در وب‌سایت‌هایشان درج کنند. این اقدام باعث می‌شود مشتریان به راحتی بتوانند در صورت نیاز با این شرکت‌ها تما",
+    "datum": "2026-05-28",
+    "kalla": "Konsumentverket",
+    "kalla_url": "https://www.konsumentverket.se/nyhet/enklare-kontakta-elbolag-efter-granskning/",
+    "taggar": [
+      "konsument",
+      "konsumentverket"
+    ]
   },
   {
     "id": "stockholm-kommunstyrelsen-2026-05-27",

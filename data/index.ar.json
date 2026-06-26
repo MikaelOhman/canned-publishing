@@ -878,6 +878,26 @@
     ]
   },
   {
+    "id": "konsumentverket-2026-06-23-konsumenter-sarbara-vid-kop-av",
+    "typ": "myndighet",
+    "titel": "المستهلكون عرضة للخطر عند شراء خدمات التجميل.\n\n(Keep the paragraph and list structure, and keep names, numbers, dates and URLs unchanged. Translate for meaning.)",
+    "ingress": "تخالف العديد من الشركات التي تقدم خدمات التجميل القواعد وتضلل عملائها، وخاصةً الشابات على وسائل التواصل الاجتماعي. وترغب هيئة حماية المستهلك حاليًا في أن تدرس الحكومة ما إذا كانت هناك حاجة إلى قوانين أكثر صرامة لحماية صحة الناس.",
+    "datum": "2026-06-23",
+    "kalla": "Konsumentverket",
+    "kalla_url": "https://www.konsumentverket.se/nyhet/konsumenter-sarbara-vid-kop-av-skonhetsingrepp/",
+    "taggar": [
+      "konsument",
+      "konsumentverket"
+    ],
+    "relevans": {
+      "b_vard": 3,
+      "b_kultur": 3,
+      "b_life": 3,
+      "kvinna": 3,
+      "kronisk": 5
+    }
+  },
+  {
     "id": "HD03287",
     "typ": "lagforslag",
     "titel": "توجه سياسي جديد لصناعة الأفلام الأقوى.\n\n# توجيه سياسي جديد لصناعة الأفلام الأقوى\n\n*   يهدف هذا التوجه إلى تعزيز صناعة الأفلام في [اسم البلد/المنطقة].\n*   يشمل ذلك دعم الإنتاج، وتطوير البنية التحتية، وتعزيز التوزيع.\n*   كما يهدف إلى زيادة فرص العمل في هذا القطاع.\n\n**أهداف رئيسية:**\n\n*   زيادة عدد الأفلام المنتجة سنويًا.\n*   تحسين جودة الأفلام.\n*   توسيع نطاق التوزيع ليشمل أسواقًا جديدة.\n*   جذب المزيد من الاستثمارات لصناعة الأفلام.\n\nهذا التوجه يمثل خطوة مهمة نحو بناء صناعة أفلام قوية ومزدهرة.",
@@ -3672,6 +3692,19 @@
     }
   },
   {
+    "id": "konsumentverket-2026-06-09-tekniska-problem-med-konsument",
+    "typ": "myndighet",
+    "titel": "مشاكل تقنية في موقع وكالة حماية المستهلك - تم إعادة إرسال خبر قديم حول سحب منتج.",
+    "ingress": "أرسل \"مكتب حماية المستهلك\" عن طريق الخطأ تحذيراً قديمًا بشأن ترامبولين (قفزة أطفال) خطير إلى مشتركي القائمة البريدية الخاصة به، وذلك بسبب خلل فني في موقعه الإلكتروني.",
+    "datum": "2026-06-09",
+    "kalla": "Konsumentverket",
+    "kalla_url": "https://www.konsumentverket.se/nyhet/tekniska-problem-med-konsumentverkets-webbplats-gammal-nyhet-om-aterkallelse-har-skickats-ut-igen/",
+    "taggar": [
+      "konsument",
+      "konsumentverket"
+    ]
+  },
+  {
     "id": "gavle-kommunstyrelsen-2026-06-08",
     "typ": "kommunbeslut",
     "titel": "لجنة الشؤون البلدية، بلدية غافل، بتاريخ 8 يونيو 2026.",
@@ -3771,6 +3804,43 @@
       "flygresenar": 5,
       "kronisk": 8,
       "tandvard": 3
+    }
+  },
+  {
+    "id": "konsumentverket-2026-06-08-lagandring-gor-det-enklare-att",
+    "typ": "myndighet",
+    "titel": "تُسهّل التعديلات القانونية إمكانية إلغاء عمليات الشراء عبر الإنترنت.",
+    "ingress": "ابتداءً من 19 يونيو، سيصبح إلغاء عمليات الشراء عبر الإنترنت أسهل، حيث يتعين على المتاجر توفير زر أو وظيفة واضحة لهذا الغرض مباشرة على موقعها الإلكتروني.",
+    "datum": "2026-06-08",
+    "kalla": "Konsumentverket",
+    "kalla_url": "https://www.konsumentverket.se/nyhet/lagandring-gor-det-enklare-att-angra-kop-pa-natet/",
+    "taggar": [
+      "konsument",
+      "konsumentverket"
+    ],
+    "relevans": {
+      "b_handel": 3,
+      "kollektiv": 3
+    }
+  },
+  {
+    "id": "konsumentverket-2026-06-05-konsumentverkets-hushallskostn",
+    "typ": "myndighet",
+    "titel": "تم الإعلان عن تقديرات \"هيئة حماية المستهلك\" لتكاليف المعيشة في المنازل لعام 2026.",
+    "ingress": "قامت هيئة حماية المستهلك بحساب التكلفة اللازمة للعيش حياة كريمة في عام 2026. أظهرت الحسابات الجديدة أن تكلفة الغذاء قد انخفضت، وذلك بسبب تغيير الهيئة في طرقها ومنهجياتها المستخدمة في التقدير.",
+    "datum": "2026-06-05",
+    "kalla": "Konsumentverket",
+    "kalla_url": "https://www.konsumentverket.se/nyhet/konsumentverkets-hushallskostnader-for-2026-klara/",
+    "taggar": [
+      "konsument",
+      "konsumentverket"
+    ],
+    "relevans": {
+      "b_handel": 3,
+      "b_finans": 3,
+      "barn": 3,
+      "stor_familj": 3,
+      "konsument": 3
     }
   },
   {
@@ -4439,6 +4509,19 @@
       "b_fastighet": 4,
       "b_vard": 4
     }
+  },
+  {
+    "id": "konsumentverket-2026-05-28-enklare-kontakta-elbolag-efter",
+    "typ": "myndighet",
+    "titel": "تسهيل التواصل مع شركات الكهرباء بعد المراجعة.",
+    "ingress": "قامت هيئة حماية المستهلك بفحص شركات الكهرباء وطالبتها بعرض كل من عنوان البريد الإلكتروني ورقم الهاتف على مواقعها الإلكترونية. يهدف هذا الإجراء إلى تسهيل حصول العملاء على المساعدة عند الحاجة إلى التواصل مع هذه الشركات.",
+    "datum": "2026-05-28",
+    "kalla": "Konsumentverket",
+    "kalla_url": "https://www.konsumentverket.se/nyhet/enklare-kontakta-elbolag-efter-granskning/",
+    "taggar": [
+      "konsument",
+      "konsumentverket"
+    ]
   },
   {
     "id": "stockholm-kommunstyrelsen-2026-05-27",

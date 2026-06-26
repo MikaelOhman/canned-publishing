@@ -1678,5 +1678,15 @@
     "etikett": "L'Agence des pensions.",
     "typ": "organisation",
     "antal": 5
+  },
+  "konsument": {
+    "etikett": "Consommateur.",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "konsumentverket": {
+    "etikett": "L'Agence suédoise de protection des consommateurs (Konsumentverket).",
+    "typ": "organisation",
+    "antal": 5
   }
 }

@@ -878,6 +878,26 @@
     ]
   },
   {
+    "id": "konsumentverket-2026-06-23-konsumenter-sarbara-vid-kop-av",
+    "typ": "myndighet",
+    "titel": "Consumatorii sunt vulnerabili atunci când achiziționează proceduri estetice.\n\n(Paragraph structure and list structure are maintained as they were not present in the original Swedish text.)",
+    "ingress": "Multe companii care oferă proceduri de înfrumusețare încalcă regulile și își păcălesc clienții, în special tinerele femei, prin intermediul rețelelor sociale. Autoritatea pentru protecția consumatorilor solicită acum guvernului să analizeze",
+    "datum": "2026-06-23",
+    "kalla": "Konsumentverket",
+    "kalla_url": "https://www.konsumentverket.se/nyhet/konsumenter-sarbara-vid-kop-av-skonhetsingrepp/",
+    "taggar": [
+      "konsument",
+      "konsumentverket"
+    ],
+    "relevans": {
+      "b_vard": 3,
+      "b_kultur": 3,
+      "b_life": 3,
+      "kvinna": 3,
+      "kronisk": 5
+    }
+  },
+  {
     "id": "HD03287",
     "typ": "lagforslag",
     "titel": "O nouă direcție politică pentru o industrie cinematografică mai puternică.\n\n# O nouă direcție politică pentru o industrie cinematografică mai puternică\n\nAceastă inițiativă vizează să sprijine și să dezvolte industria cinematografică, oferind oportunități mai bune pentru producție, distribuție și promovare.\n\n*   **Sprijin financiar:**\n    *   Creșterea finanțării pentru producțiile cinematografice.\n    *   Subvenții pentru proiecte inovatoare și experimentale.\n*   **Infrastructură:**\n    *   Modernizarea studiurilor de film și a echipamentelor.\n    *   Dezvoltarea de spații dedicate pentru post-producție.\n*   **Formare și educație:**\n    *   Programe de formare pentru profesioniștii din industrie.\n    *   Burse pentru studenții talentați.\n*   **Promovare:**\n    *   Sprijin pentru participarea la festivaluri internaționale.\n    *   Campanii de promovare a filmelor românești.\n\nAceastă abordare politică are ca scop crearea unui mediu favorabil pentru dezvoltarea unei industrii cinematografice vibrante și competitive.\n\nPentru mai multe informații, vizitați: www.example.com.",
@@ -3640,6 +3660,19 @@
     }
   },
   {
+    "id": "konsumentverket-2026-06-09-tekniska-problem-med-konsument",
+    "typ": "myndighet",
+    "titel": "Probleme tehnice pe site-ul Agenției pentru Protecția Consumatorilor – o știre veche despre un produs retras de pe piață a fost trimisă din nou.",
+    "ingress": "Autoritatea pentru Consumatori a trimis din greșeală o avertizare veche despre un trambulin de risc către abonații săi, din cauza unei erori tehnice pe site-ul lor web.",
+    "datum": "2026-06-09",
+    "kalla": "Konsumentverket",
+    "kalla_url": "https://www.konsumentverket.se/nyhet/tekniska-problem-med-konsumentverkets-webbplats-gammal-nyhet-om-aterkallelse-har-skickats-ut-igen/",
+    "taggar": [
+      "konsument",
+      "konsumentverket"
+    ]
+  },
+  {
     "id": "gavle-kommunstyrelsen-2026-06-08",
     "typ": "kommunbeslut",
     "titel": "Comisia municipală, Primăria Gävle, 8 iunie 2026.",
@@ -3739,6 +3772,43 @@
       "flygresenar": 5,
       "kronisk": 8,
       "tandvard": 3
+    }
+  },
+  {
+    "id": "konsumentverket-2026-06-08-lagandring-gor-det-enklare-att",
+    "typ": "myndighet",
+    "titel": "O modificare legislativă face mai ușoară anularea achizițiilor efectuate online.",
+    "ingress": "Începând cu 19 iunie, va fi mai ușor să anulați achizițiile online, deoarece magazinele vor trebui să aibă un buton sau o funcție clară pentru acest lucru, direct pe site-ul lor web.",
+    "datum": "2026-06-08",
+    "kalla": "Konsumentverket",
+    "kalla_url": "https://www.konsumentverket.se/nyhet/lagandring-gor-det-enklare-att-angra-kop-pa-natet/",
+    "taggar": [
+      "konsument",
+      "konsumentverket"
+    ],
+    "relevans": {
+      "b_handel": 3,
+      "kollektiv": 3
+    }
+  },
+  {
+    "id": "konsumentverket-2026-06-05-konsumentverkets-hushallskostn",
+    "typ": "myndighet",
+    "titel": "Bugetul detaliat al cheltuielilor gospodăriilor casnice, conform estimărilor Autorității pentru Consumatori, pentru anul 2026, a fost finalizat.",
+    "ingress": "Autoritatea suedeză pentru protecția consumatorilor a calculat costul necesar pentru a trăi o viață bună în anul 2026. Noile calcule arată că costurile legate de alimente au scăzut, deoarece autoritatea și-a modificat metodele și recomandăr",
+    "datum": "2026-06-05",
+    "kalla": "Konsumentverket",
+    "kalla_url": "https://www.konsumentverket.se/nyhet/konsumentverkets-hushallskostnader-for-2026-klara/",
+    "taggar": [
+      "konsument",
+      "konsumentverket"
+    ],
+    "relevans": {
+      "b_handel": 3,
+      "b_finans": 3,
+      "barn": 3,
+      "stor_familj": 3,
+      "konsument": 3
     }
   },
   {
@@ -4407,6 +4477,19 @@
       "b_fastighet": 4,
       "b_vard": 4
     }
+  },
+  {
+    "id": "konsumentverket-2026-05-28-enklare-kontakta-elbolag-efter",
+    "typ": "myndighet",
+    "titel": "Este mai ușor să contactați furnizorul de energie electrică după o analiză.",
+    "ingress": "Autoritatea pentru Consumatori a verificat companiile de electricitate și le-a cerut să afișeze atât adresele de e-mail, cât și numerele de telefon pe site-urile lor web. Acest lucru facilitează clienților accesul la asistență atunci când a",
+    "datum": "2026-05-28",
+    "kalla": "Konsumentverket",
+    "kalla_url": "https://www.konsumentverket.se/nyhet/enklare-kontakta-elbolag-efter-granskning/",
+    "taggar": [
+      "konsument",
+      "konsumentverket"
+    ]
   },
   {
     "id": "stockholm-kommunstyrelsen-2026-05-27",

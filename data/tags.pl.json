@@ -1678,5 +1678,15 @@
     "etikett": "Agencja Emerytalna.",
     "typ": "organisation",
     "antal": 5
+  },
+  "konsument": {
+    "etikett": "Konsument.",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "konsumentverket": {
+    "etikett": "Organizacja Konsumencka (Konsumentverket)",
+    "typ": "organisation",
+    "antal": 5
   }
 }

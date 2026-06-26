@@ -1693,5 +1693,15 @@
     "etikett": "هيئة التقاعد.",
     "typ": "organisation",
     "antal": 5
+  },
+  "konsument": {
+    "etikett": "مستهلك.",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "konsumentverket": {
+    "etikett": "هيئة حماية المستهلك.",
+    "typ": "organisation",
+    "antal": 5
   }
 }

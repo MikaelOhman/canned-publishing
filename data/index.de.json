@@ -878,6 +878,26 @@
     ]
   },
   {
+    "id": "konsumentverket-2026-06-23-konsumenter-sarbara-vid-kop-av",
+    "typ": "myndighet",
+    "titel": "Verbraucher sind bei Schönheitsbehandlungen gefährdet.\n\n*   **Problem:** Verbraucher können bei Schönheitsbehandlungen Schaden erleiden.\n*   **Ursachen:**\n    *   Mangelnde Informationen und Beratung.\n    *   Unqualifiziertes Personal.\n    *   Fehlende Qualitätskontrollen.\n*   **Folgen:**\n    *   Gesundheitliche Schäden.\n    *   Finanzielle Verluste.\n    *   Psychische Belastungen.\n*   **Lösungsansätze:**\n    *   Verbesserte Information und Beratung für Verbraucher.\n    *   Stärkere Qualifikationsanforderungen für das Personal.\n    *   Erhöhte Qualitätskontrollen bei Schönheitsbehandlungen.",
+    "ingress": "Viele Unternehmen, die Schönheitsoperationen anbieten, verstoßen gegen die Regeln und täuschen ihre Kunden, insbesondere junge Frauen in den sozialen Medien. Das Verbraucheramt möchte nun, dass die Regierung prüft, ob strengere Vorschriften",
+    "datum": "2026-06-23",
+    "kalla": "Konsumentverket",
+    "kalla_url": "https://www.konsumentverket.se/nyhet/konsumenter-sarbara-vid-kop-av-skonhetsingrepp/",
+    "taggar": [
+      "konsument",
+      "konsumentverket"
+    ],
+    "relevans": {
+      "b_vard": 3,
+      "b_kultur": 3,
+      "b_life": 3,
+      "kvinna": 3,
+      "kronisk": 5
+    }
+  },
+  {
     "id": "HD03287",
     "typ": "lagforslag",
     "titel": "Neue politische Ausrichtung für eine stärkere Filmindustrie.\n\n# Eine neue politische Ausrichtung für eine stärkere Filmindustrie\n\n*   **Stärkung der nationalen Filmproduktion:** Förderung von Projekten, die die deutsche Kultur und Identität widerspiegeln.\n*   **Verbesserung der Finanzierungsbedingungen:** Schaffung eines stabileren und vorhersehbareren Finanzierungsrahmens für Filmprojekte.\n*   **Förderung von Talenten:** Unterstützung von Nachwuchskräften und Förderung der Vielfalt in der Filmbranche.\n*   **Ausbau der internationalen Zusammenarbeit:** Stärkung der Beziehungen zu anderen Ländern und Förderung des internationalen Austauschs.\n*   **Modernisierung der Infrastruktur:** Investitionen in moderne Produktionsstätten und -technologien.\n\nDies sind nur einige Beispiele für die Maßnahmen, die ergriffen werden können, um die deutsche Filmindustrie zu stärken. Eine umfassende politische Strategie ist notwendig, um langfristige Erfolge zu erzielen.",
@@ -3713,6 +3733,19 @@
     }
   },
   {
+    "id": "konsumentverket-2026-06-09-tekniska-problem-med-konsument",
+    "typ": "myndighet",
+    "titel": "Technische Probleme auf der Webseite des Verbraucherzentrums – eine ältere Nachricht über einen Rückruf wurde erneut versendet.",
+    "ingress": "Das Verbraucheramt hat versehentlich eine alte Warnung über ein gefährliches Trampolin an seine Abonnenten versendet, aufgrund eines technischen Fehlers auf ihrer Webseite.",
+    "datum": "2026-06-09",
+    "kalla": "Konsumentverket",
+    "kalla_url": "https://www.konsumentverket.se/nyhet/tekniska-problem-med-konsumentverkets-webbplats-gammal-nyhet-om-aterkallelse-har-skickats-ut-igen/",
+    "taggar": [
+      "konsument",
+      "konsumentverket"
+    ]
+  },
+  {
     "id": "gavle-kommunstyrelsen-2026-06-08",
     "typ": "kommunbeslut",
     "titel": "Gemeindeverwaltungsrat, Gemeinde Gävle, 8. Juni 2026.",
@@ -3812,6 +3845,43 @@
       "flygresenar": 5,
       "kronisk": 8,
       "tandvard": 3
+    }
+  },
+  {
+    "id": "konsumentverket-2026-06-08-lagandring-gor-det-enklare-att",
+    "typ": "myndighet",
+    "titel": "Gesetzesänderungen erleichtern es, Online-Käufe zu widerrufen.\n\nHier sind einige Beispiele:\n\n*   **Vorher:** Der Widerruf war oft kompliziert und zeitaufwändig.\n*   **Nachher:** Der Widerruf ist jetzt einfacher und schneller möglich.\n*   **Beispiel:** Eine Kundin wollte einen Pullover zurückgeben, den sie online gekauft hatte. Früher musste sie ein Formular ausfüllen, es per Post verschicken und lange auf eine Rückerstattung warten. Jetzt kann sie den Widerruf online in wenigen Klicks erklären.\n\nDiese Gesetzesänderungen sind ein wichtiger Schritt, um den Verbraucherschutz im Online-Handel zu verbessern.",
+    "ingress": "Ab dem 19. Juni wird es einfacher, Online-Käufe zu widerrufen, da Geschäfte eine klare Schaltfläche oder Funktion dafür direkt auf ihrer Website anbieten müssen.",
+    "datum": "2026-06-08",
+    "kalla": "Konsumentverket",
+    "kalla_url": "https://www.konsumentverket.se/nyhet/lagandring-gor-det-enklare-att-angra-kop-pa-natet/",
+    "taggar": [
+      "konsument",
+      "konsumentverket"
+    ],
+    "relevans": {
+      "b_handel": 3,
+      "kollektiv": 3
+    }
+  },
+  {
+    "id": "konsumentverket-2026-06-05-konsumentverkets-hushallskostn",
+    "typ": "myndighet",
+    "titel": "Die Haushaltsausgaben des Konsumentwerks für das Jahr 2026 sind jetzt bekannt.",
+    "ingress": "Das Verbraucherwerk hat berechnet, welche Kosten für ein gutes Alltagsleben im Jahr 2026 anfallen. Die neuen Berechnungen zeigen, dass die Kosten für Lebensmittel sinken, da die Behörde ihre Methoden und Empfehlungen angepasst hat.",
+    "datum": "2026-06-05",
+    "kalla": "Konsumentverket",
+    "kalla_url": "https://www.konsumentverket.se/nyhet/konsumentverkets-hushallskostnader-for-2026-klara/",
+    "taggar": [
+      "konsument",
+      "konsumentverket"
+    ],
+    "relevans": {
+      "b_handel": 3,
+      "b_finans": 3,
+      "barn": 3,
+      "stor_familj": 3,
+      "konsument": 3
     }
   },
   {
@@ -4480,6 +4550,19 @@
       "b_fastighet": 4,
       "b_vard": 4
     }
+  },
+  {
+    "id": "konsumentverket-2026-05-28-enklare-kontakta-elbolag-efter",
+    "typ": "myndighet",
+    "titel": "Vereinfachter Kontakt zum Energieversorger nach Überprüfung.",
+    "ingress": "Das Verbraucheramt hat Stromanbieter überprüft und verlangt, dass diese sowohl E-Mail-Adressen als auch Telefonnummern auf ihren Websites angeben müssen. Dies erleichtert es Kunden, Unterstützung zu erhalten, wenn sie Kontakt mit den Untern",
+    "datum": "2026-05-28",
+    "kalla": "Konsumentverket",
+    "kalla_url": "https://www.konsumentverket.se/nyhet/enklare-kontakta-elbolag-efter-granskning/",
+    "taggar": [
+      "konsument",
+      "konsumentverket"
+    ]
   },
   {
     "id": "stockholm-kommunstyrelsen-2026-05-27",

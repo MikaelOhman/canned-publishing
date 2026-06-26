@@ -887,6 +887,26 @@
     ]
   },
   {
+    "id": "konsumentverket-2026-06-23-konsumenter-sarbara-vid-kop-av",
+    "typ": "myndighet",
+    "titel": "Konsumenter sårbara vid köp av skönhetsingrepp",
+    "ingress": "Många företag som säljer skönhetsoperationer bryter mot reglerna och lurar sina kunder, särskilt unga kvinnor på sociala medier. Konsumentverket vill nu att regeringen tittar på om det behövs hårdare regler för att skydda människors hälsa.",
+    "datum": "2026-06-23",
+    "kalla": "Konsumentverket",
+    "kalla_url": "https://www.konsumentverket.se/nyhet/konsumenter-sarbara-vid-kop-av-skonhetsingrepp/",
+    "taggar": [
+      "konsument",
+      "konsumentverket"
+    ],
+    "relevans": {
+      "b_vard": 3,
+      "b_kultur": 3,
+      "b_life": 3,
+      "kvinna": 3,
+      "kronisk": 5
+    }
+  },
+  {
     "id": "HD03287",
     "typ": "lagforslag",
     "titel": "Ny politisk inriktning för ett starkare filmland",
@@ -3765,6 +3785,19 @@
     }
   },
   {
+    "id": "konsumentverket-2026-06-09-tekniska-problem-med-konsument",
+    "typ": "myndighet",
+    "titel": "Tekniska problem med Konsumentverkets webbplats – gammal nyhet om återkallelse har skickats ut igen",
+    "ingress": "Konsumentverket har råkat skicka ut en gammal varning om en farlig studsmatta till sina prenumeranter på grund av ett tekniskt fel på deras hemsida.",
+    "datum": "2026-06-09",
+    "kalla": "Konsumentverket",
+    "kalla_url": "https://www.konsumentverket.se/nyhet/tekniska-problem-med-konsumentverkets-webbplats-gammal-nyhet-om-aterkallelse-har-skickats-ut-igen/",
+    "taggar": [
+      "konsument",
+      "konsumentverket"
+    ]
+  },
+  {
     "id": "gavle-kommunstyrelsen-2026-06-08",
     "typ": "kommunbeslut",
     "titel": "Kommunstyrelsen, Gävle kommun 2026-06-08",
@@ -3864,6 +3897,43 @@
       "flygresenar": 5,
       "kronisk": 8,
       "tandvard": 3
+    }
+  },
+  {
+    "id": "konsumentverket-2026-06-08-lagandring-gor-det-enklare-att",
+    "typ": "myndighet",
+    "titel": "Lagändring gör det enklare att ångra köp på nätet",
+    "ingress": "Från den 19 juni blir det lättare att ångra köp på nätet eftersom butiker måste ha en tydlig knapp eller funktion för detta direkt på sin hemsida.",
+    "datum": "2026-06-08",
+    "kalla": "Konsumentverket",
+    "kalla_url": "https://www.konsumentverket.se/nyhet/lagandring-gor-det-enklare-att-angra-kop-pa-natet/",
+    "taggar": [
+      "konsument",
+      "konsumentverket"
+    ],
+    "relevans": {
+      "b_handel": 3,
+      "kollektiv": 3
+    }
+  },
+  {
+    "id": "konsumentverket-2026-06-05-konsumentverkets-hushallskostn",
+    "typ": "myndighet",
+    "titel": "Konsumentverkets hushållskostnader för 2026 klara",
+    "ingress": "Konsumentverket har räknat ut vad det kostar att leva ett bra vardagsliv år 2026. De nya beräkningarna visar att kostnaden för mat minskar eftersom myndigheten ändrat sina metoder och råd.",
+    "datum": "2026-06-05",
+    "kalla": "Konsumentverket",
+    "kalla_url": "https://www.konsumentverket.se/nyhet/konsumentverkets-hushallskostnader-for-2026-klara/",
+    "taggar": [
+      "konsument",
+      "konsumentverket"
+    ],
+    "relevans": {
+      "b_handel": 3,
+      "b_finans": 3,
+      "barn": 3,
+      "stor_familj": 3,
+      "konsument": 3
     }
   },
   {
@@ -4531,6 +4601,19 @@
       "b_fastighet": 4,
       "b_vard": 4
     }
+  },
+  {
+    "id": "konsumentverket-2026-05-28-enklare-kontakta-elbolag-efter",
+    "typ": "myndighet",
+    "titel": "Enklare kontakta elbolag efter granskning",
+    "ingress": "Konsumentverket har kontrollerat elbolag och krävt att de måste visa både mejl och telefonnummer på sina hemsidor. Detta gör det lättare för kunder att få hjälp när de behöver kontakta företagen.",
+    "datum": "2026-05-28",
+    "kalla": "Konsumentverket",
+    "kalla_url": "https://www.konsumentverket.se/nyhet/enklare-kontakta-elbolag-efter-granskning/",
+    "taggar": [
+      "konsument",
+      "konsumentverket"
+    ]
   },
   {
     "id": "stockholm-kommunstyrelsen-2026-05-27",

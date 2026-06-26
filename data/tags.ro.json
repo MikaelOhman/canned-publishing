@@ -1678,5 +1678,15 @@
     "etikett": "Agenția Națională pentru Pensii.",
     "typ": "organisation",
     "antal": 5
+  },
+  "konsument": {
+    "etikett": "Consumator.",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "konsumentverket": {
+    "etikett": "Autoritatea pentru Consumatori.",
+    "typ": "organisation",
+    "antal": 5
   }
 }

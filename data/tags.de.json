@@ -1738,5 +1738,15 @@
     "etikett": "Die Pensionsbehörde.",
     "typ": "organisation",
     "antal": 5
+  },
+  "konsument": {
+    "etikett": "Verbraucher.",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "konsumentverket": {
+    "etikett": "Verbraucherzentrale",
+    "typ": "organisation",
+    "antal": 5
   }
 }

@@ -1743,5 +1743,15 @@
     "etikett": "The Swedish Pensions Agency.",
     "typ": "organisation",
     "antal": 5
+  },
+  "konsument": {
+    "etikett": "Consumer.",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "konsumentverket": {
+    "etikett": "The Swedish Consumer Agency (Konsumentverket).",
+    "typ": "organisation",
+    "antal": 5
   }
 }

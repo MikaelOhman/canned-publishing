@@ -878,6 +878,26 @@
     ]
   },
   {
+    "id": "konsumentverket-2026-06-23-konsumenter-sarbara-vid-kop-av",
+    "typ": "myndighet",
+    "titel": "Klienci są narażeni na niekorzystne sytuacje podczas korzystania z usług kosmetycznych.\n\n(Paragraph structure is already present in the original Swedish text, so no changes are needed.)",
+    "ingress": "Wiele firm oferujących zabiegi kosmetyczne narusza przepisy i wprowadza w błąd swoich klientów, zwłaszcza młode kobiety, poprzez działania w mediach społecznościowych. Agencja ochrony konsumentów apeluje teraz do rządu o rozważenie wprowadz",
+    "datum": "2026-06-23",
+    "kalla": "Konsumentverket",
+    "kalla_url": "https://www.konsumentverket.se/nyhet/konsumenter-sarbara-vid-kop-av-skonhetsingrepp/",
+    "taggar": [
+      "konsument",
+      "konsumentverket"
+    ],
+    "relevans": {
+      "b_vard": 3,
+      "b_kultur": 3,
+      "b_life": 3,
+      "kvinna": 3,
+      "kronisk": 5
+    }
+  },
+  {
     "id": "HD03287",
     "typ": "lagforslag",
     "titel": "Nowa strategia polityczna dla silniejszego przemysłu filmowego.\n\n# Nowa strategia polityczna dla silniejszego przemysłu filmowego\n\n*   Cel: Stworzenie silniejszego i bardziej konkurencyjnego przemysłu filmowego.\n*   Strategia:\n    *   Wspieranie produkcji filmowej i telewizyjnej.\n    *   Promowanie innowacji i kreatywności.\n    *   Rozwój infrastruktury i zasobów.\n    *   Współpraca międzynarodowa.\n\n**Kluczowe obszary działania:**\n\n*   **Finansowanie:** Zwiększenie dotacji i ulg podatkowych dla producentów filmowych.\n*   **Edukacja:** Rozwój programów edukacyjnych i szkoleń dla przyszłych twórców filmowych.\n*   **Infrastruktura:** Inwestycje w budowę i modernizację studiów filmowych i innych obiektów.\n*   **Promocja:** Wspieranie dystrybucji i promocji polskich filmów na arenie międzynarodowej.\n\nOczekiwane rezultaty:\n\n*   Wzrost liczby i jakości produkcji filmowych.\n*   Zwiększenie konkurencyjności polskiego przemysłu filmowego.\n*   Tworzenie nowych miejsc pracy.\n*   Wzmocnienie wizerunku Polski jako kraju kultury i sztuki.\n\nWięcej informacji: [www.example.com](www.example.com)",
@@ -3702,6 +3722,19 @@
     }
   },
   {
+    "id": "konsumentverket-2026-06-09-tekniska-problem-med-konsument",
+    "typ": "myndighet",
+    "titel": "Problemy techniczne na stronie internetowej Agencji Ochrony Praw Konsumentów – stary artykuł o wycofaniu produktu został ponownie opublikowany.",
+    "ingress": "Organizacja Konsumentverket nieumyślnie wysłała swoim subskrybentom stare ostrzeżenie dotyczące niebezpiecznego trampolinu, w wyniku awarii technicznej na ich stronie internetowej.",
+    "datum": "2026-06-09",
+    "kalla": "Konsumentverket",
+    "kalla_url": "https://www.konsumentverket.se/nyhet/tekniska-problem-med-konsumentverkets-webbplats-gammal-nyhet-om-aterkallelse-har-skickats-ut-igen/",
+    "taggar": [
+      "konsument",
+      "konsumentverket"
+    ]
+  },
+  {
     "id": "gavle-kommunstyrelsen-2026-06-08",
     "typ": "kommunbeslut",
     "titel": "Komisja ds. spraw miejskich, Gävle, 2026-06-08.",
@@ -3801,6 +3834,43 @@
       "flygresenar": 5,
       "kronisk": 8,
       "tandvard": 3
+    }
+  },
+  {
+    "id": "konsumentverket-2026-06-08-lagandring-gor-det-enklare-att",
+    "typ": "myndighet",
+    "titel": "Zmiana przepisów ułatwia anulowanie zakupów dokonanych w Internecie.",
+    "ingress": "Od 19 czerwca łatwiej będzie anulować zakupy dokonane w Internecie, ponieważ sklepy będą musiały umieszczać na swoich stronach internetowych wyraźny przycisk lub funkcję umożliwiającą to.",
+    "datum": "2026-06-08",
+    "kalla": "Konsumentverket",
+    "kalla_url": "https://www.konsumentverket.se/nyhet/lagandring-gor-det-enklare-att-angra-kop-pa-natet/",
+    "taggar": [
+      "konsument",
+      "konsumentverket"
+    ],
+    "relevans": {
+      "b_handel": 3,
+      "kollektiv": 3
+    }
+  },
+  {
+    "id": "konsumentverket-2026-06-05-konsumentverkets-hushallskostn",
+    "typ": "myndighet",
+    "titel": "Opublikowano prognozę kosztów utrzymania gospodarstwa domowego na rok 2026 opracowaną przez Konsumentverket (Szwedzką Agencję Ochrony Praw Konsumentów).",
+    "ingress": "Inspektorat Konsumentów obliczył, ile będzie kosztowało prowadzenie dobrego życia codziennego w roku 2026. Nowe wyliczenia pokazują, że koszty związane z żywnością się zmniejszyły, ponieważ urząd zmienił swoje metody i zalecenia.",
+    "datum": "2026-06-05",
+    "kalla": "Konsumentverket",
+    "kalla_url": "https://www.konsumentverket.se/nyhet/konsumentverkets-hushallskostnader-for-2026-klara/",
+    "taggar": [
+      "konsument",
+      "konsumentverket"
+    ],
+    "relevans": {
+      "b_handel": 3,
+      "b_finans": 3,
+      "barn": 3,
+      "stor_familj": 3,
+      "konsument": 3
     }
   },
   {
@@ -4469,6 +4539,19 @@
       "b_fastighet": 4,
       "b_vard": 4
     }
+  },
+  {
+    "id": "konsumentverket-2026-05-28-enklare-kontakta-elbolag-efter",
+    "typ": "myndighet",
+    "titel": "Ułatwienie kontaktu z dostawcą energii elektrycznej po przeprowadzeniu kontroli.",
+    "ingress": "Urząd Ochrony Konsumentów przeprowadził kontrolę firm energetycznych i zażądał, aby na ich stronach internetowych były wyraźnie podane zarówno adresy e-mail, jak i numery telefonów. Dzięki temu klienci mogą łatwiej uzyskać pomoc, gdy potrze",
+    "datum": "2026-05-28",
+    "kalla": "Konsumentverket",
+    "kalla_url": "https://www.konsumentverket.se/nyhet/enklare-kontakta-elbolag-efter-granskning/",
+    "taggar": [
+      "konsument",
+      "konsumentverket"
+    ]
   },
   {
     "id": "stockholm-kommunstyrelsen-2026-05-27",

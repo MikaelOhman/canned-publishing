@@ -878,6 +878,26 @@
     ]
   },
   {
+    "id": "konsumentverket-2026-06-23-konsumenter-sarbara-vid-kop-av",
+    "typ": "myndighet",
+    "titel": "I consumatori sono vulnerabili quando effettuano acquisti di trattamenti estetici.\n\nEcco alcuni punti da considerare:\n\n*   Mancanza di regolamentazione chiara: Spesso non esistono normative specifiche che disciplinino il settore dei trattamenti estetici, lasciando i consumatori senza adeguate protezioni.\n*   Informazioni insufficienti: I clienti potrebbero non ricevere informazioni complete e accurate sui rischi, i benefici e le alternative ai trattamenti proposti.\n*   Pressioni commerciali: I venditori possono esercitare pressioni sui clienti per indurli ad acquistare trattamenti costosi o non necessari.\n*   Qualità variabile dei servizi: La qualità dei trattamenti può variare notevolmente a seconda del fornitore, con possibili conseguenze negative per la salute e l'aspetto fisico dei consumatori.\n*   Mancanza di risarcimento in caso di problemi: In caso di complicazioni o risultati insoddisfacenti, i consumatori potrebbero avere difficoltà ad ottenere un adeguato risarcimento.",
+    "ingress": "Molte aziende che offrono interventi di chirurgia estetica violano le normative e ingannano i propri clienti, in particolare giovani donne, attraverso i social media. L'Autorità dei Consumatori desidera ora che il governo valuti se sia nece",
+    "datum": "2026-06-23",
+    "kalla": "Konsumentverket",
+    "kalla_url": "https://www.konsumentverket.se/nyhet/konsumenter-sarbara-vid-kop-av-skonhetsingrepp/",
+    "taggar": [
+      "konsument",
+      "konsumentverket"
+    ],
+    "relevans": {
+      "b_vard": 3,
+      "b_kultur": 3,
+      "b_life": 3,
+      "kvinna": 3,
+      "kronisk": 5
+    }
+  },
+  {
     "id": "HD03287",
     "typ": "lagforslag",
     "titel": "Nuova linea politica per un'industria cinematografica più forte.\n\n# Nuova linea politica per un'industria cinematografica più forte\n\n*   Punti chiave della nuova politica.\n*   Obiettivi a breve e lungo termine.\n*   Misure concrete per sostenere il settore.\n\n**Priorità:**\n\n*   Sostegno alla produzione cinematografica nazionale.\n*   Promozione della diversità e dell'inclusione.\n*   Sviluppo di nuove tecnologie e competenze.\n\n**Azioni:**\n\n*   Aumento dei finanziamenti per il cinema.\n*   Incentivi fiscali per le produzioni.\n*   Formazione e aggiornamento professionale.\n\n---\n\nPer maggiori informazioni, visitare il sito: www.example.com.",
@@ -3683,6 +3703,19 @@
     }
   },
   {
+    "id": "konsumentverket-2026-06-09-tekniska-problem-med-konsument",
+    "typ": "myndighet",
+    "titel": "Problemi tecnici con il sito web dell'Agenzia per i Consumatori: una vecchia notizia relativa a un richiamo di prodotti è stata erroneamente ripubblicata.",
+    "ingress": "L'Agenzia dei Consumatori ha involontariamente inviato un vecchio avviso riguardante un trampolino pericoloso ai suoi abbonati, a causa di un errore tecnico presente sul loro sito web.",
+    "datum": "2026-06-09",
+    "kalla": "Konsumentverket",
+    "kalla_url": "https://www.konsumentverket.se/nyhet/tekniska-problem-med-konsumentverkets-webbplats-gammal-nyhet-om-aterkallelse-har-skickats-ut-igen/",
+    "taggar": [
+      "konsument",
+      "konsumentverket"
+    ]
+  },
+  {
     "id": "gavle-kommunstyrelsen-2026-06-08",
     "typ": "kommunbeslut",
     "titel": "Comitato esecutivo, Comune di Gävle, 8 giugno 2026.",
@@ -3782,6 +3815,43 @@
       "flygresenar": 5,
       "kronisk": 8,
       "tandvard": 3
+    }
+  },
+  {
+    "id": "konsumentverket-2026-06-08-lagandring-gor-det-enklare-att",
+    "typ": "myndighet",
+    "titel": "Una modifica legislativa rende più semplice recedere dagli acquisti effettuati online.",
+    "ingress": "A partire dal 19 giugno, sarà più facile recedere dagli acquisti effettuati online, poiché i negozi dovranno disporre di un pulsante o una funzione chiaramente visibile sul proprio sito web per consentire ai clienti di farlo.",
+    "datum": "2026-06-08",
+    "kalla": "Konsumentverket",
+    "kalla_url": "https://www.konsumentverket.se/nyhet/lagandring-gor-det-enklare-att-angra-kop-pa-natet/",
+    "taggar": [
+      "konsument",
+      "konsumentverket"
+    ],
+    "relevans": {
+      "b_handel": 3,
+      "kollektiv": 3
+    }
+  },
+  {
+    "id": "konsumentverket-2026-06-05-konsumentverkets-hushallskostn",
+    "typ": "myndighet",
+    "titel": "I costi delle famiglie previsti dall'Agenzia Svedese per la Protezione dei Consumatori per il 2026 sono stati definiti.",
+    "ingress": "L'Agenzia Svedese per la Protezione dei Consumatori ha calcolato il costo della vita quotidiana in Svezia nel 2026. Le nuove stime mostrano che i costi relativi al cibo sono diminuiti, poiché l'agenzia ha modificato i suoi metodi di calcolo",
+    "datum": "2026-06-05",
+    "kalla": "Konsumentverket",
+    "kalla_url": "https://www.konsumentverket.se/nyhet/konsumentverkets-hushallskostnader-for-2026-klara/",
+    "taggar": [
+      "konsument",
+      "konsumentverket"
+    ],
+    "relevans": {
+      "b_handel": 3,
+      "b_finans": 3,
+      "barn": 3,
+      "stor_familj": 3,
+      "konsument": 3
     }
   },
   {
@@ -4450,6 +4520,19 @@
       "b_fastighet": 4,
       "b_vard": 4
     }
+  },
+  {
+    "id": "konsumentverket-2026-05-28-enklare-kontakta-elbolag-efter",
+    "typ": "myndighet",
+    "titel": "È diventato più facile contattare la compagnia elettrica dopo la revisione.",
+    "ingress": "L'Agenzia per la protezione dei consumatori ha effettuato controlli presso diverse società di fornitura di energia elettrica e ha richiesto che queste ultime indichino sia l'indirizzo email che il numero di telefono sui propri siti web. Que",
+    "datum": "2026-05-28",
+    "kalla": "Konsumentverket",
+    "kalla_url": "https://www.konsumentverket.se/nyhet/enklare-kontakta-elbolag-efter-granskning/",
+    "taggar": [
+      "konsument",
+      "konsumentverket"
+    ]
   },
   {
     "id": "stockholm-kommunstyrelsen-2026-05-27",

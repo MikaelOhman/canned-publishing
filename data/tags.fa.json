@@ -1678,5 +1678,15 @@
     "etikett": "سازمان بازنشستگی.",
     "typ": "organisation",
     "antal": 5
+  },
+  "konsument": {
+    "etikett": "مصرف‌کننده",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "konsumentverket": {
+    "etikett": "سازمان حمایت از مصرف‌کنندگان.",
+    "typ": "organisation",
+    "antal": 5
   }
 }
