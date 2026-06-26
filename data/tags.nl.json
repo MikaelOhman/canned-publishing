@@ -1688,5 +1688,15 @@
     "etikett": "Het Consumentenbond.",
     "typ": "organisation",
     "antal": 5
+  },
+  "halsa": {
+    "etikett": "Gezondheid.",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "folkhalsomyndigheten": {
+    "etikett": "Het Zweedse Agentschap voor Volksgezondheid.",
+    "typ": "organisation",
+    "antal": 5
   }
 }

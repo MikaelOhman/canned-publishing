@@ -1748,5 +1748,15 @@
     "etikett": "Verbraucherzentrale",
     "typ": "organisation",
     "antal": 5
+  },
+  "halsa": {
+    "etikett": "Gesundheit.",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "folkhalsomyndigheten": {
+    "etikett": "Das schwedische Gesundheitsinstitut (Folkhälsomyndigheten).",
+    "typ": "organisation",
+    "antal": 5
   }
 }

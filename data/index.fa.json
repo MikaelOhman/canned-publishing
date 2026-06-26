@@ -2279,6 +2279,24 @@
     }
   },
   {
+    "id": "folkhalsomyndigheten-2026-06-17-antibiotikaresistensen-fortsat",
+    "typ": "myndighet",
+    "titel": "مقاومت آنتی‌بیوتیکی در سوئد همچنان در سال ۲۰۲۵ افزایش یافت.",
+    "ingress": "در سوئد، تعداد بیشتری از باکتری‌ها در برابر آنتی‌بیوتیک‌ها مقاومت نشان می‌دهند، که این امر درمان بیماری‌ها را دشوارتر می‌کند. نکته نگران‌کننده این است که برخی از باکتری‌های خطرناک اکنون شروع به گسترش خارج از بیمارستان‌ها کرده‌اند.",
+    "datum": "2026-06-17",
+    "kalla": "Folkhälsomyndigheten",
+    "kalla_url": "https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2026/juni/antibiotikaresistensen-fortsatte-att-oka-i-sverige-under-2025/",
+    "taggar": [
+      "halsa",
+      "folkhalsomyndigheten"
+    ],
+    "relevans": {
+      "b_vard": 3,
+      "kronisk": 3,
+      "husdjur": 3
+    }
+  },
+  {
     "id": "HD03286",
     "typ": "lagforslag",
     "titel": "تقویت حمایت از استقلال قوه قضائیه و قضات.",
@@ -3257,6 +3275,24 @@
     }
   },
   {
+    "id": "folkhalsomyndigheten-2026-06-11-ny-rekommendation-vanta-med-sm",
+    "typ": "myndighet",
+    "titel": "توصیه جدید: بهتر است استفاده از تلفن‌های هوشمند را به زمانی موکول کنید که کودک 13 سالگی خود را جشن می‌گیرد.",
+    "ingress": "سازمان بهداشت عمومی سوئد توصیه می‌کند که کودکان نباید تلفن هوشمند شخصی داشته باشند تا زمانی که ۱۳ سال سن داشته باشند. این کار برای محافظت از کودکان در برابر محتوای نامناسب در اینترنت، مشکلات خواب و اعتیاد انجام می‌شود.",
+    "datum": "2026-06-11",
+    "kalla": "Folkhälsomyndigheten",
+    "kalla_url": "https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2026/juni/ny-rekommendation-vanta-med-smarta-telefoner-till-det-ar-da-barnet-fyller-13-ar/",
+    "taggar": [
+      "halsa",
+      "folkhalsomyndigheten"
+    ],
+    "relevans": {
+      "barn": 8,
+      "glesbygd": 3,
+      "beroende": 3
+    }
+  },
+  {
     "id": "belfast-0610",
     "typ": "nyhet",
     "titel": "تلاش برای قطع سر در بلفاست",
@@ -3792,6 +3828,25 @@
     ]
   },
   {
+    "id": "folkhalsomyndigheten-2026-06-09-okade-halsorisker-nar-europas-",
+    "typ": "myndighet",
+    "titel": "افزایش خطرات سلامتی با تغییرات در بازار مواد مخدر اروپا\n\nتغییراتی که در حال حاضر در بازار مواد مخدر اروپا رخ می‌دهند، منجر به افزایش خطرات سلامتی برای مصرف‌کنندگان شده است. این تغییرات شامل موارد زیر است:\n\n*   **تنوع بیشتر:**  تعداد و نوع مواد مخدر موجود در بازار رو به افزایش است.\n*   **ترکیبات خطرناک:** برخی از مواد مخدر حاوی ترکیبات خطرناک و ناشناخته هستند که می‌توانند عوارض جانبی جدی ایجاد کنند.\n*   **دوزهای نامشخص:**  مصرف‌کنندگان اغلب نمی‌دانند چه مقدار ماده را مصرف می‌کنند، که این امر خطر مصرف بیش از حد را افزایش می‌دهد.\n\nاین تغییرات نگرانی‌هایی را در مورد سلامت عمومی و نیاز به اقدامات پیشگیرانه و درمانی مناسب ایجاد کرده است.",
+    "ingress": "بازار مواد مخدر در اروپا به سرعت در حال تغییر است و اکنون شامل ترکیبات خطرناک بیشتری شده است، که این امر خطرات سلامتی را برای مصرف‌کنندگان افزایش می‌دهد.",
+    "datum": "2026-06-09",
+    "kalla": "Folkhälsomyndigheten",
+    "kalla_url": "https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2026/juni/okade-halsorisker-nar-europas-narkotikamarknad-forandras/",
+    "taggar": [
+      "halsa",
+      "folkhalsomyndigheten"
+    ],
+    "relevans": {
+      "miljo": 3,
+      "kronisk": 3,
+      "beroende": 8,
+      "otrygg": 8
+    }
+  },
+  {
     "id": "gavle-kommunstyrelsen-2026-06-08",
     "typ": "kommunbeslut",
     "titel": "شورای شهر، شهرداری گیوله، 2026-06-08",
@@ -3908,6 +3963,23 @@
     "relevans": {
       "b_handel": 3,
       "kollektiv": 3
+    }
+  },
+  {
+    "id": "folkhalsomyndigheten-2026-06-08-ny-statistik-over-folkhalsomyn",
+    "typ": "myndighet",
+    "titel": "آمار جدید مربوط به تشخیص‌های اولیه و آمادگی برای مقابله با بحران، منتشر شده توسط سازمان بهداشت عمومی سوئد.",
+    "ingress": "سازمان بهداشت عمومی سوئد، از ابتدای سال ۲۰۲۶ تا کنون، ۱۲ نمونه آزمایش را تجزیه و تحلیل کرده است تا بررسی کند آیا بیماران مبتلا به بیماری‌های خطرناکی مانند ابولا هستند یا خیر. تمام این نمونه‌ها منفی بوده اند، به این معنی که هیچ گونه عفونت خط",
+    "datum": "2026-06-08",
+    "kalla": "Folkhälsomyndigheten",
+    "kalla_url": "https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2026/juni/ny-statistik-over-folkhalsomyndighetens-beredskapsdiagnostik/",
+    "taggar": [
+      "halsa",
+      "folkhalsomyndigheten"
+    ],
+    "relevans": {
+      "kronisk": 5,
+      "beroende": 3
     }
   },
   {
@@ -4095,6 +4167,23 @@
     "relevans": {
       "sparare": 3,
       "lantagare": 3
+    }
+  },
+  {
+    "id": "folkhalsomyndigheten-2026-06-03-ny-rapport-utmaningar-kvarstar",
+    "typ": "myndighet",
+    "titel": "گزارش جدید: چالش‌ها در زمینه سلامت جنسی همچنان برای جمعیت باقی مانده است.",
+    "ingress": "یک مطالعه جدید نشان می‌دهد که بسیاری از مردم سوئد از زندگی جنسی خود راضی هستند، اما مشکلات جدی در زمینه خشونت جنسی علیه زنان و همچنین محدودیت‌های موجود برای مردان مسن وجود دارد.",
+    "datum": "2026-06-03",
+    "kalla": "Folkhälsomyndigheten",
+    "kalla_url": "https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2026/juni/ny-rapport-utmaningar-kvarstar-for-den-sexuella-halsan-i-befolkningen/",
+    "taggar": [
+      "halsa",
+      "folkhalsomyndigheten"
+    ],
+    "relevans": {
+      "kvinna": 8,
+      "kronisk": 3
     }
   },
   {

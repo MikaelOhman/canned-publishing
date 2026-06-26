@@ -1688,5 +1688,15 @@
     "etikett": "A svéd Fogyasztóvédelmi Hatóság (Konsumentverket).",
     "typ": "organisation",
     "antal": 5
+  },
+  "halsa": {
+    "etikett": "Egészség.",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "folkhalsomyndigheten": {
+    "etikett": "A Népegészségügyi Ügyek Országos Hatósága.",
+    "typ": "organisation",
+    "antal": 5
   }
 }

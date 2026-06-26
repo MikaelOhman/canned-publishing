@@ -1688,5 +1688,15 @@
     "etikett": "Autorità dei consumatori.",
     "typ": "organisation",
     "antal": 5
+  },
+  "halsa": {
+    "etikett": "Salute.",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "folkhalsomyndigheten": {
+    "etikett": "Agenzia svedese per la salute pubblica.",
+    "typ": "organisation",
+    "antal": 5
   }
 }

@@ -2303,6 +2303,24 @@
     }
   },
   {
+    "id": "folkhalsomyndigheten-2026-06-17-antibiotikaresistensen-fortsat",
+    "typ": "myndighet",
+    "titel": "La resistencia a los antibióticos continuó aumentando en Suecia durante el año 2025.",
+    "ingress": "En mayor cantidad de bacterias en Suecia están desarrollando resistencia a los antibióticos, lo que dificulta el tratamiento de enfermedades. Es especialmente preocupante que ciertas bacterias peligrosas estén comenzando a propagarse fuera",
+    "datum": "2026-06-17",
+    "kalla": "Folkhälsomyndigheten",
+    "kalla_url": "https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2026/juni/antibiotikaresistensen-fortsatte-att-oka-i-sverige-under-2025/",
+    "taggar": [
+      "halsa",
+      "folkhalsomyndigheten"
+    ],
+    "relevans": {
+      "b_vard": 3,
+      "kronisk": 3,
+      "husdjur": 3
+    }
+  },
+  {
     "id": "HD03286",
     "typ": "lagforslag",
     "titel": "Mayor protección de la independencia de los tribunales y los jueces.",
@@ -3293,6 +3311,24 @@
     }
   },
   {
+    "id": "folkhalsomyndigheten-2026-06-11-ny-rekommendation-vanta-med-sm",
+    "typ": "myndighet",
+    "titel": "Nueva recomendación: Esperar a que el niño cumpla 13 años antes de darle un teléfono inteligente.",
+    "ingress": "La Agencia Sueca para la Salud Pública recomienda que los niños no tengan su propio teléfono inteligente hasta que cumplan 13 años. Esto se debe a que es importante proteger a los niños de contenido inapropiado en línea, problemas de sueño",
+    "datum": "2026-06-11",
+    "kalla": "Folkhälsomyndigheten",
+    "kalla_url": "https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2026/juni/ny-rekommendation-vanta-med-smarta-telefoner-till-det-ar-da-barnet-fyller-13-ar/",
+    "taggar": [
+      "halsa",
+      "folkhalsomyndigheten"
+    ],
+    "relevans": {
+      "barn": 8,
+      "glesbygd": 3,
+      "beroende": 3
+    }
+  },
+  {
     "id": "belfast-0610",
     "typ": "nyhet",
     "titel": "Aquí se intentó un corte de cabeza en Belfast",
@@ -3828,6 +3864,25 @@
     ]
   },
   {
+    "id": "folkhalsomyndigheten-2026-06-09-okade-halsorisker-nar-europas-",
+    "typ": "myndighet",
+    "titel": "Aumento de los riesgos para la salud a medida que el mercado de drogas en Europa se transforma.\n\n*   El consumo de nuevas sustancias psicoactivas (NPS) está aumentando.\n*   Se están detectando nuevas rutas de tráfico de drogas.\n*   La calidad y potencia de las drogas ilegales es cada vez más variable, lo que aumenta los riesgos para la salud de los consumidores.\n*   Las consecuencias del consumo de drogas incluyen problemas de salud física y mental, adicción y muerte.\n*   Es importante estar informado sobre los riesgos asociados al consumo de drogas y buscar ayuda si se tiene problemas con el consumo.\n\nPara obtener más información, visite: [URL inválido removida]",
+    "ingress": "El mercado de drogas en Europa está cambiando rápidamente y ahora incluye una mayor cantidad de sustancias peligrosas, lo que aumenta los riesgos para la salud de los consumidores.",
+    "datum": "2026-06-09",
+    "kalla": "Folkhälsomyndigheten",
+    "kalla_url": "https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2026/juni/okade-halsorisker-nar-europas-narkotikamarknad-forandras/",
+    "taggar": [
+      "halsa",
+      "folkhalsomyndigheten"
+    ],
+    "relevans": {
+      "miljo": 3,
+      "kronisk": 3,
+      "beroende": 8,
+      "otrygg": 8
+    }
+  },
+  {
     "id": "gavle-kommunstyrelsen-2026-06-08",
     "typ": "kommunbeslut",
     "titel": "Junta Municipal, Ayuntamiento de Gävle, 8 de junio de 2026.",
@@ -3944,6 +3999,23 @@
     "relevans": {
       "b_handel": 3,
       "kollektiv": 3
+    }
+  },
+  {
+    "id": "folkhalsomyndigheten-2026-06-08-ny-statistik-over-folkhalsomyn",
+    "typ": "myndighet",
+    "titel": "Nuevos datos sobre el diagnóstico de preparación para emergencias del Agencia Sueca de Salud Pública (Folkhälsomyndigheten).",
+    "ingress": "Hasta la fecha de 2026, la Agencia Sueca para la Salud Pública ha analizado 12 muestras para verificar si los pacientes presentan infecciones peligrosas como el ébola. Todas estas muestras han resultado negativas, lo que significa que no se",
+    "datum": "2026-06-08",
+    "kalla": "Folkhälsomyndigheten",
+    "kalla_url": "https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2026/juni/ny-statistik-over-folkhalsomyndighetens-beredskapsdiagnostik/",
+    "taggar": [
+      "halsa",
+      "folkhalsomyndigheten"
+    ],
+    "relevans": {
+      "kronisk": 5,
+      "beroende": 3
     }
   },
   {
@@ -4131,6 +4203,23 @@
     "relevans": {
       "sparare": 3,
       "lantagare": 3
+    }
+  },
+  {
+    "id": "folkhalsomyndigheten-2026-06-03-ny-rapport-utmaningar-kvarstar",
+    "typ": "myndighet",
+    "titel": "Nuevo informe: Persisten los desafíos para la salud sexual de la población.",
+    "ingress": "Una nueva encuesta revela que muchos suecos están satisfechos con su vida sexual, pero existen serios problemas relacionados con la violencia sexual contra las mujeres y la falta de libertad para los hombres mayores.",
+    "datum": "2026-06-03",
+    "kalla": "Folkhälsomyndigheten",
+    "kalla_url": "https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2026/juni/ny-rapport-utmaningar-kvarstar-for-den-sexuella-halsan-i-befolkningen/",
+    "taggar": [
+      "halsa",
+      "folkhalsomyndigheten"
+    ],
+    "relevans": {
+      "kvinna": 8,
+      "kronisk": 3
     }
   },
   {

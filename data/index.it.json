@@ -2303,6 +2303,24 @@
     }
   },
   {
+    "id": "folkhalsomyndigheten-2026-06-17-antibiotikaresistensen-fortsat",
+    "typ": "myndighet",
+    "titel": "La resistenza agli antibiotici ha continuato ad aumentare in Svezia durante il 2025.",
+    "ingress": "In Svezia, un numero crescente di batteri sta sviluppando resistenza agli antibiotici, rendendo più difficile il trattamento delle malattie. Particolarmente preoccupante è il fatto che alcuni batteri pericolosi stanno iniziando a diffonders",
+    "datum": "2026-06-17",
+    "kalla": "Folkhälsomyndigheten",
+    "kalla_url": "https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2026/juni/antibiotikaresistensen-fortsatte-att-oka-i-sverige-under-2025/",
+    "taggar": [
+      "halsa",
+      "folkhalsomyndigheten"
+    ],
+    "relevans": {
+      "b_vard": 3,
+      "kronisk": 3,
+      "husdjur": 3
+    }
+  },
+  {
     "id": "HD03286",
     "typ": "lagforslag",
     "titel": "Maggiore protezione dell'indipendenza dei tribunali e dei giudici.",
@@ -3293,6 +3311,24 @@
     }
   },
   {
+    "id": "folkhalsomyndigheten-2026-06-11-ny-rekommendation-vanta-med-sm",
+    "typ": "myndighet",
+    "titel": "Nuova raccomandazione: aspettare che il bambino compia 13 anni prima di regalargli uno smartphone.",
+    "ingress": "L'Agenzia svedese per la salute pubblica raccomanda che i bambini non ricevano un proprio smartphone prima dei 13 anni. Questa raccomandazione è volta a proteggere i bambini da contenuti inappropriati online, problemi di sonno e dipendenza.",
+    "datum": "2026-06-11",
+    "kalla": "Folkhälsomyndigheten",
+    "kalla_url": "https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2026/juni/ny-rekommendation-vanta-med-smarta-telefoner-till-det-ar-da-barnet-fyller-13-ar/",
+    "taggar": [
+      "halsa",
+      "folkhalsomyndigheten"
+    ],
+    "relevans": {
+      "barn": 8,
+      "glesbygd": 3,
+      "beroende": 3
+    }
+  },
+  {
     "id": "belfast-0610",
     "typ": "nyhet",
     "titel": "Tentativo di decapitazione a Belfast",
@@ -3806,6 +3842,25 @@
     ]
   },
   {
+    "id": "folkhalsomyndigheten-2026-06-09-okade-halsorisker-nar-europas-",
+    "typ": "myndighet",
+    "titel": "Aumento dei rischi per la salute in seguito ai cambiamenti nel mercato europeo delle droghe.\n\n*   **Contesto:** Il mercato europeo delle droghe è in continua evoluzione, con nuove sostanze psicoattive che emergono regolarmente.\n*   **Rischi per la salute:** L'uso di queste sostanze comporta rischi significativi per la salute fisica e mentale degli individui.\n*   **Esempi:**\n    *   Overdose accidentali dovute alla mancanza di conoscenza della composizione delle droghe.\n    *   Danni a lungo termine agli organi vitali, come il fegato e i reni.\n    *   Problemi di salute mentale, tra cui depressione, ansia e psicosi.\n*   **Prevenzione:** È fondamentale aumentare la consapevolezza sui rischi associati all'uso di droghe e promuovere misure di prevenzione efficaci.\n*   **Informazioni utili:** Per ulteriori informazioni, visitare il sito web: [URL non fornito].",
+    "ingress": "Il mercato europeo delle droghe si sta evolvendo rapidamente e include ora un numero maggiore di sostanze pericolose, aumentando così i rischi per la salute degli utenti.",
+    "datum": "2026-06-09",
+    "kalla": "Folkhälsomyndigheten",
+    "kalla_url": "https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2026/juni/okade-halsorisker-nar-europas-narkotikamarknad-forandras/",
+    "taggar": [
+      "halsa",
+      "folkhalsomyndigheten"
+    ],
+    "relevans": {
+      "miljo": 3,
+      "kronisk": 3,
+      "beroende": 8,
+      "otrygg": 8
+    }
+  },
+  {
     "id": "gavle-kommunstyrelsen-2026-06-08",
     "typ": "kommunbeslut",
     "titel": "Comitato esecutivo, Comune di Gävle, 8 giugno 2026.",
@@ -3922,6 +3977,23 @@
     "relevans": {
       "b_handel": 3,
       "kollektiv": 3
+    }
+  },
+  {
+    "id": "folkhalsomyndigheten-2026-06-08-ny-statistik-over-folkhalsomyn",
+    "typ": "myndighet",
+    "titel": "Nuovi dati sulla diagnostica di emergenza dell'Agenzia Svedese per la Salute Pubblica (Folkhälsomyndigheten).",
+    "ingress": "L'Agenzia svedese per la salute pubblica ha analizzato finora 12 campioni nel corso del 2026 per verificare se i pazienti siano affetti da infezioni pericolose come l'Ebola. Tutti questi campioni sono risultati negativi, il che significa ch",
+    "datum": "2026-06-08",
+    "kalla": "Folkhälsomyndigheten",
+    "kalla_url": "https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2026/juni/ny-statistik-over-folkhalsomyndighetens-beredskapsdiagnostik/",
+    "taggar": [
+      "halsa",
+      "folkhalsomyndigheten"
+    ],
+    "relevans": {
+      "kronisk": 5,
+      "beroende": 3
     }
   },
   {
@@ -4109,6 +4181,23 @@
     "relevans": {
       "sparare": 3,
       "lantagare": 3
+    }
+  },
+  {
+    "id": "folkhalsomyndigheten-2026-06-03-ny-rapport-utmaningar-kvarstar",
+    "typ": "myndighet",
+    "titel": "Nuovo rapporto: permangono delle sfide per la salute sessuale della popolazione.",
+    "ingress": "Un nuovo studio rivela che molti svedesi sono soddisfatti della loro vita sessuale, ma emergono seri problemi relativi alla violenza sessuale contro le donne e alla mancanza di libertà per gli uomini anziani.",
+    "datum": "2026-06-03",
+    "kalla": "Folkhälsomyndigheten",
+    "kalla_url": "https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2026/juni/ny-rapport-utmaningar-kvarstar-for-den-sexuella-halsan-i-befolkningen/",
+    "taggar": [
+      "halsa",
+      "folkhalsomyndigheten"
+    ],
+    "relevans": {
+      "kvinna": 8,
+      "kronisk": 3
     }
   },
   {

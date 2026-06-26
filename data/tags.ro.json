@@ -1688,5 +1688,15 @@
     "etikett": "Autoritatea pentru Consumatori.",
     "typ": "organisation",
     "antal": 5
+  },
+  "halsa": {
+    "etikett": "Sănătate.",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "folkhalsomyndigheten": {
+    "etikett": "Agenția Națională de Sănătate Publică.",
+    "typ": "organisation",
+    "antal": 5
   }
 }

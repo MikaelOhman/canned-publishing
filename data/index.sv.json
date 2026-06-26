@@ -2356,6 +2356,24 @@
     }
   },
   {
+    "id": "folkhalsomyndigheten-2026-06-17-antibiotikaresistensen-fortsat",
+    "typ": "myndighet",
+    "titel": "Antibiotikaresistensen fortsatte att öka i Sverige under 2025",
+    "ingress": "Fler bakterier i Sverige har blivit resistenta mot antibiotika, vilket gör det svårare att behandla sjukdomar. Särskilt oroande är att vissa farliga bakterier nu börjar spridas utanför sjukhusen.",
+    "datum": "2026-06-17",
+    "kalla": "Folkhälsomyndigheten",
+    "kalla_url": "https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2026/juni/antibiotikaresistensen-fortsatte-att-oka-i-sverige-under-2025/",
+    "taggar": [
+      "halsa",
+      "folkhalsomyndigheten"
+    ],
+    "relevans": {
+      "b_vard": 3,
+      "kronisk": 3,
+      "husdjur": 3
+    }
+  },
+  {
     "id": "HD03286",
     "typ": "lagforslag",
     "titel": "Stärkt skydd för domstolarnas och domarnas oberoende",
@@ -3348,6 +3366,24 @@
     }
   },
   {
+    "id": "folkhalsomyndigheten-2026-06-11-ny-rekommendation-vanta-med-sm",
+    "typ": "myndighet",
+    "titel": "Ny rekommendation: Vänta med smarta telefoner till det år då barnet fyller 13 år",
+    "ingress": "Folkhälsomyndigheten rekommenderar att barn inte ska få en egen smart telefon förrän de är 13 år gamla. Detta är för att skydda barnen från dåligt innehåll på nätet, sömnproblem och beroende.",
+    "datum": "2026-06-11",
+    "kalla": "Folkhälsomyndigheten",
+    "kalla_url": "https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2026/juni/ny-rekommendation-vanta-med-smarta-telefoner-till-det-ar-da-barnet-fyller-13-ar/",
+    "taggar": [
+      "halsa",
+      "folkhalsomyndigheten"
+    ],
+    "relevans": {
+      "barn": 8,
+      "glesbygd": 3,
+      "beroende": 3
+    }
+  },
+  {
     "id": "belfast-0610",
     "typ": "nyhet",
     "titel": "Här skedde halshuggningsförsök i Belfast",
@@ -3888,6 +3924,25 @@
     ]
   },
   {
+    "id": "folkhalsomyndigheten-2026-06-09-okade-halsorisker-nar-europas-",
+    "typ": "myndighet",
+    "titel": "Ökade hälsorisker när Europas narkotikamarknad förändras",
+    "ingress": "Narkotikamarknaden i Europa förändras snabbt och innehåller nu fler farliga ämnen, vilket ökar hälsoriskerna för användare.",
+    "datum": "2026-06-09",
+    "kalla": "Folkhälsomyndigheten",
+    "kalla_url": "https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2026/juni/okade-halsorisker-nar-europas-narkotikamarknad-forandras/",
+    "taggar": [
+      "halsa",
+      "folkhalsomyndigheten"
+    ],
+    "relevans": {
+      "miljo": 3,
+      "kronisk": 3,
+      "beroende": 8,
+      "otrygg": 8
+    }
+  },
+  {
     "id": "gavle-kommunstyrelsen-2026-06-08",
     "typ": "kommunbeslut",
     "titel": "Kommunstyrelsen, Gävle kommun 2026-06-08",
@@ -4004,6 +4059,23 @@
     "relevans": {
       "b_handel": 3,
       "kollektiv": 3
+    }
+  },
+  {
+    "id": "folkhalsomyndigheten-2026-06-08-ny-statistik-over-folkhalsomyn",
+    "typ": "myndighet",
+    "titel": "Ny statistik över Folkhälsomyndighetens beredskapsdiagnostik",
+    "ingress": "Folkhälsomyndigheten har under 2026 hittills analyserat 12 prover för att kontrollera om patienter bär på farliga smittor som ebola. Alla dessa prover har varit negativa, vilket betyder att ingen farlig smitta har hittats.",
+    "datum": "2026-06-08",
+    "kalla": "Folkhälsomyndigheten",
+    "kalla_url": "https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2026/juni/ny-statistik-over-folkhalsomyndighetens-beredskapsdiagnostik/",
+    "taggar": [
+      "halsa",
+      "folkhalsomyndigheten"
+    ],
+    "relevans": {
+      "kronisk": 5,
+      "beroende": 3
     }
   },
   {
@@ -4191,6 +4263,23 @@
     "relevans": {
       "sparare": 3,
       "lantagare": 3
+    }
+  },
+  {
+    "id": "folkhalsomyndigheten-2026-06-03-ny-rapport-utmaningar-kvarstar",
+    "typ": "myndighet",
+    "titel": "Ny rapport: Utmaningar kvarstår för den sexuella hälsan i befolkningen",
+    "ingress": "En ny undersökning visar att många svenskar är nöjda med sitt sexliv, men att det finns stora problem med sexuellt våld mot kvinnor och bristande frihet för äldre män.",
+    "datum": "2026-06-03",
+    "kalla": "Folkhälsomyndigheten",
+    "kalla_url": "https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2026/juni/ny-rapport-utmaningar-kvarstar-for-den-sexuella-halsan-i-befolkningen/",
+    "taggar": [
+      "halsa",
+      "folkhalsomyndigheten"
+    ],
+    "relevans": {
+      "kvinna": 8,
+      "kronisk": 3
     }
   },
   {

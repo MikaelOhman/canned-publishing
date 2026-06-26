@@ -1688,5 +1688,15 @@
     "etikett": "سازمان حمایت از مصرف‌کنندگان.",
     "typ": "organisation",
     "antal": 5
+  },
+  "halsa": {
+    "etikett": "سلامت",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "folkhalsomyndigheten": {
+    "etikett": "سازمان بهداشت عمومی سوئد (Folkhälsomyndigheten)",
+    "typ": "organisation",
+    "antal": 5
   }
 }

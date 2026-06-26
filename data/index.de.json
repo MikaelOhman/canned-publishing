@@ -2327,6 +2327,24 @@
     }
   },
   {
+    "id": "folkhalsomyndigheten-2026-06-17-antibiotikaresistensen-fortsat",
+    "typ": "myndighet",
+    "titel": "Die Antibiotikaresistenzen in Schweden stiegen im Jahr 2025 weiter an.",
+    "ingress": "In Schweden haben immer mehr Bakterien Resistenzen gegen Antibiotika entwickelt, was die Behandlung von Krankheiten erschwert. Besonders besorgniserregend ist, dass bestimmte gefährliche Bakterien nun beginnen, sich außerhalb der Krankenhäu",
+    "datum": "2026-06-17",
+    "kalla": "Folkhälsomyndigheten",
+    "kalla_url": "https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2026/juni/antibiotikaresistensen-fortsatte-att-oka-i-sverige-under-2025/",
+    "taggar": [
+      "halsa",
+      "folkhalsomyndigheten"
+    ],
+    "relevans": {
+      "b_vard": 3,
+      "kronisk": 3,
+      "husdjur": 3
+    }
+  },
+  {
     "id": "HD03286",
     "typ": "lagforslag",
     "titel": "Stärkerer Schutz der Unabhängigkeit von Gerichten und Richtern",
@@ -3323,6 +3341,24 @@
     }
   },
   {
+    "id": "folkhalsomyndigheten-2026-06-11-ny-rekommendation-vanta-med-sm",
+    "typ": "myndighet",
+    "titel": "Neue Empfehlung: Warten Sie mit dem Kauf eines Smartphones für Ihr Kind, bis es 13 Jahre alt ist.",
+    "ingress": "Das schwedische Gesundheitsamt empfiehlt, dass Kinder erst ab einem Alter von 13 Jahren ein eigenes Smartphone erhalten sollten. Dies dient dem Schutz der Kinder vor unangemessenen Inhalten im Internet, Schlafproblemen und Suchtgefahren.",
+    "datum": "2026-06-11",
+    "kalla": "Folkhälsomyndigheten",
+    "kalla_url": "https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2026/juni/ny-rekommendation-vanta-med-smarta-telefoner-till-det-ar-da-barnet-fyller-13-ar/",
+    "taggar": [
+      "halsa",
+      "folkhalsomyndigheten"
+    ],
+    "relevans": {
+      "barn": 8,
+      "glesbygd": 3,
+      "beroende": 3
+    }
+  },
+  {
     "id": "belfast-0610",
     "typ": "nyhet",
     "titel": "Hier fand ein versuchter Enthauptungsvorfall in Belfast statt",
@@ -3836,6 +3872,25 @@
     ]
   },
   {
+    "id": "folkhalsomyndigheten-2026-06-09-okade-halsorisker-nar-europas-",
+    "typ": "myndighet",
+    "titel": "Zunehmende Gesundheitsrisiken im Zusammenhang mit Veränderungen auf dem europäischen Drogenmarkt.\n\nHier sind einige Punkte dazu:\n\n*   Die Art und Weise, wie Drogen hergestellt und konsumiert wird, verändert sich in Europa.\n*   Neue Substanzen tauchen auf, während andere verschwinden.\n*   Dies führt zu neuen und unerwarteten Gesundheitsrisiken für Konsumenten.\n*   Es ist wichtig, diese Veränderungen zu verstehen, um wirksame Maßnahmen zur Schadensminimierung entwickeln zu können.",
+    "ingress": "Der Drogenmarkt in Europa verändert sich rasant und umfasst nun eine größere Anzahl gefährlicher Substanzen, was die Gesundheitsrisiken für Konsumenten erhöht.",
+    "datum": "2026-06-09",
+    "kalla": "Folkhälsomyndigheten",
+    "kalla_url": "https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2026/juni/okade-halsorisker-nar-europas-narkotikamarknad-forandras/",
+    "taggar": [
+      "halsa",
+      "folkhalsomyndigheten"
+    ],
+    "relevans": {
+      "miljo": 3,
+      "kronisk": 3,
+      "beroende": 8,
+      "otrygg": 8
+    }
+  },
+  {
     "id": "gavle-kommunstyrelsen-2026-06-08",
     "typ": "kommunbeslut",
     "titel": "Gemeindeverwaltungsrat, Gemeinde Gävle, 8. Juni 2026.",
@@ -3952,6 +4007,23 @@
     "relevans": {
       "b_handel": 3,
       "kollektiv": 3
+    }
+  },
+  {
+    "id": "folkhalsomyndigheten-2026-06-08-ny-statistik-over-folkhalsomyn",
+    "typ": "myndighet",
+    "titel": "Neue Statistiken zur Einsatzbereitschaftsdiagnostik der schwedischen Gesundheitsbehörde (Folkhälsomyndigheten).",
+    "ingress": "Das schwedische Gesundheitsinstitut hat im Jahr 2026 bisher 12 Proben analysiert, um zu überprüfen, ob Patienten gefährliche Infektionen wie Ebola haben. Alle diese Proben waren negativ, was bedeutet, dass keine gefährlichen Infektionen gef",
+    "datum": "2026-06-08",
+    "kalla": "Folkhälsomyndigheten",
+    "kalla_url": "https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2026/juni/ny-statistik-over-folkhalsomyndighetens-beredskapsdiagnostik/",
+    "taggar": [
+      "halsa",
+      "folkhalsomyndigheten"
+    ],
+    "relevans": {
+      "kronisk": 5,
+      "beroende": 3
     }
   },
   {
@@ -4139,6 +4211,23 @@
     "relevans": {
       "sparare": 3,
       "lantagare": 3
+    }
+  },
+  {
+    "id": "folkhalsomyndigheten-2026-06-03-ny-rapport-utmaningar-kvarstar",
+    "typ": "myndighet",
+    "titel": "Neuer Bericht: Herausforderungen bleiben bestehen im Bereich der sexuellen Gesundheit der Bevölkerung.",
+    "ingress": "Eine neue Studie zeigt, dass viele Schweden mit ihrem Sexualleben zufrieden sind, aber es gibt erhebliche Probleme in Bezug auf sexuelle Gewalt gegen Frauen und mangelnde Freiheit für ältere Männer.",
+    "datum": "2026-06-03",
+    "kalla": "Folkhälsomyndigheten",
+    "kalla_url": "https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2026/juni/ny-rapport-utmaningar-kvarstar-for-den-sexuella-halsan-i-befolkningen/",
+    "taggar": [
+      "halsa",
+      "folkhalsomyndigheten"
+    ],
+    "relevans": {
+      "kvinna": 8,
+      "kronisk": 3
     }
   },
   {

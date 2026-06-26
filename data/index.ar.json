@@ -2285,6 +2285,24 @@
     }
   },
   {
+    "id": "folkhalsomyndigheten-2026-06-17-antibiotikaresistensen-fortsat",
+    "typ": "myndighet",
+    "titel": "استمرت مقاومة المضادات الحيوية في الزيادة في السويد خلال عام 2025.",
+    "ingress": "في السويد، أصبحت نسبة أكبر من البكتيريا مقاومة للمضادات الحيوية، مما يجعل علاج الأمراض أكثر صعوبة. والأمر الأكثر إثارة للقلق هو أن بعض أنواع البكتيريا الخطيرة بدأت تنتشر الآن خارج المستشفيات.",
+    "datum": "2026-06-17",
+    "kalla": "Folkhälsomyndigheten",
+    "kalla_url": "https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2026/juni/antibiotikaresistensen-fortsatte-att-oka-i-sverige-under-2025/",
+    "taggar": [
+      "halsa",
+      "folkhalsomyndigheten"
+    ],
+    "relevans": {
+      "b_vard": 3,
+      "kronisk": 3,
+      "husdjur": 3
+    }
+  },
+  {
     "id": "HD03286",
     "typ": "lagforslag",
     "titel": "تعزيز حماية استقلالية القضاء والقضاة.",
@@ -3260,6 +3278,24 @@
     }
   },
   {
+    "id": "folkhalsomyndigheten-2026-06-11-ny-rekommendation-vanta-med-sm",
+    "typ": "myndighet",
+    "titel": "توصية جديدة: يجب الانتظار حتى يبلغ عمر الطفل 13 عامًا قبل إهدائه هاتفًا ذكيًا.",
+    "ingress": "توصي وكالة الصحة العامة السويدية بألا يحصل الأطفال على هاتف ذكي خاص بهم قبل بلوغهم سن الثالثة عشرة. وذلك لحماية الأطفال من المحتوى الضار الموجود على الإنترنت، ومشاكل النوم، والإدمان.",
+    "datum": "2026-06-11",
+    "kalla": "Folkhälsomyndigheten",
+    "kalla_url": "https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2026/juni/ny-rekommendation-vanta-med-smarta-telefoner-till-det-ar-da-barnet-fyller-13-ar/",
+    "taggar": [
+      "halsa",
+      "folkhalsomyndigheten"
+    ],
+    "relevans": {
+      "barn": 8,
+      "glesbygd": 3,
+      "beroende": 3
+    }
+  },
+  {
     "id": "belfast-0610",
     "typ": "nyhet",
     "titel": "محاولة قتل بشق الرأس في بلفاست",
@@ -3795,6 +3831,25 @@
     ]
   },
   {
+    "id": "folkhalsomyndigheten-2026-06-09-okade-halsorisker-nar-europas-",
+    "typ": "myndighet",
+    "titel": "تزايد المخاطر الصحية مع التغيرات التي تطرأ على سوق المخدرات في أوروبا.\n\n(Paragraph and list structure are maintained as the original text is a single paragraph.)",
+    "ingress": "إن سوق المخدرات في أوروبا يشهد تغييرات سريعة، ويشمل الآن عددًا أكبر من المواد الخطرة، مما يزيد من المخاطر الصحية التي يتعرض لها المتعاطون.",
+    "datum": "2026-06-09",
+    "kalla": "Folkhälsomyndigheten",
+    "kalla_url": "https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2026/juni/okade-halsorisker-nar-europas-narkotikamarknad-forandras/",
+    "taggar": [
+      "halsa",
+      "folkhalsomyndigheten"
+    ],
+    "relevans": {
+      "miljo": 3,
+      "kronisk": 3,
+      "beroende": 8,
+      "otrygg": 8
+    }
+  },
+  {
     "id": "gavle-kommunstyrelsen-2026-06-08",
     "typ": "kommunbeslut",
     "titel": "لجنة الشؤون البلدية، بلدية غافل، بتاريخ 8 يونيو 2026.",
@@ -3911,6 +3966,23 @@
     "relevans": {
       "b_handel": 3,
       "kollektiv": 3
+    }
+  },
+  {
+    "id": "folkhalsomyndigheten-2026-06-08-ny-statistik-over-folkhalsomyn",
+    "typ": "myndighet",
+    "titel": "إحصائيات جديدة حول التشخيصات الروتينية التي تجريها هيئة الصحة العامة السويدية بهدف الاستعداد للطوارئ.",
+    "ingress": "حتى تاريخ اليوم في عام 2026، قامت هيئة الصحة العامة بتحليل 12 عينة بهدف التحقق مما إذا كان المرضى يحملون أمراضًا معدية خطيرة مثل إيبولا. وكانت جميع هذه العينات سلبية، مما يعني أنه لم يتم اكتشاف أي عدوى خطيرة.",
+    "datum": "2026-06-08",
+    "kalla": "Folkhälsomyndigheten",
+    "kalla_url": "https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2026/juni/ny-statistik-over-folkhalsomyndighetens-beredskapsdiagnostik/",
+    "taggar": [
+      "halsa",
+      "folkhalsomyndigheten"
+    ],
+    "relevans": {
+      "kronisk": 5,
+      "beroende": 3
     }
   },
   {
@@ -4098,6 +4170,23 @@
     "relevans": {
       "sparare": 3,
       "lantagare": 3
+    }
+  },
+  {
+    "id": "folkhalsomyndigheten-2026-06-03-ny-rapport-utmaningar-kvarstar",
+    "typ": "myndighet",
+    "titel": "تقرير جديد: لا تزال هناك تحديات قائمة فيما يتعلق بالصحة الجنسية للسكان.",
+    "ingress": "أظهرت دراسة جديدة أن العديد من السويديين راضون عن حياتهم الجنسية، ولكنها كشفت أيضًا عن وجود مشاكل كبيرة تتعلق بالعنف الجنسي ضد النساء، ونقص الحرية التي يتمتع بها الرجال الأكبر سنًا.",
+    "datum": "2026-06-03",
+    "kalla": "Folkhälsomyndigheten",
+    "kalla_url": "https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2026/juni/ny-rapport-utmaningar-kvarstar-for-den-sexuella-halsan-i-befolkningen/",
+    "taggar": [
+      "halsa",
+      "folkhalsomyndigheten"
+    ],
+    "relevans": {
+      "kvinna": 8,
+      "kronisk": 3
     }
   },
   {

@@ -1688,5 +1688,15 @@
     "etikett": "L'Agence suédoise de protection des consommateurs (Konsumentverket).",
     "typ": "organisation",
     "antal": 5
+  },
+  "halsa": {
+    "etikett": "Santé.",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "folkhalsomyndigheten": {
+    "etikett": "Agence suédoise de santé publique (Folkhälsomyndigheten).",
+    "typ": "organisation",
+    "antal": 5
   }
 }

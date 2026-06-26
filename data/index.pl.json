@@ -2300,6 +2300,24 @@
     }
   },
   {
+    "id": "folkhalsomyndigheten-2026-06-17-antibiotikaresistensen-fortsat",
+    "typ": "myndighet",
+    "titel": "W roku 2025 w Szwecji nadal obserwowano wzrost oporności na antybiotyki.",
+    "ingress": "W Szwecji coraz więcej bakterii wykazuje oporność na antybiotyki, co utrudnia leczenie chorób. Szczególnie niepokojący jest fakt, że niektóre groźne bakterie zaczynają rozprzestrzeniać się poza szpitalami.",
+    "datum": "2026-06-17",
+    "kalla": "Folkhälsomyndigheten",
+    "kalla_url": "https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2026/juni/antibiotikaresistensen-fortsatte-att-oka-i-sverige-under-2025/",
+    "taggar": [
+      "halsa",
+      "folkhalsomyndigheten"
+    ],
+    "relevans": {
+      "b_vard": 3,
+      "kronisk": 3,
+      "husdjur": 3
+    }
+  },
+  {
     "id": "HD03286",
     "typ": "lagforslag",
     "titel": "Wzmocnienie ochrony niezależności sądów i sędziów.",
@@ -3290,6 +3308,24 @@
     }
   },
   {
+    "id": "folkhalsomyndigheten-2026-06-11-ny-rekommendation-vanta-med-sm",
+    "typ": "myndighet",
+    "titel": "Nowa rekomendacja: Odczekajcie z podarowaniem inteligentnego telefonu dziecku do roku, w którym skończy ono 13 lat.",
+    "ingress": "Agencja ds. Zdrowia Publicznego zaleca, aby dzieci nie otrzymywały własnego smartfona przed ukończeniem 13 roku życia. Jest to związane z ochroną dzieci przed nieodpowiednimi treściami w Internecie, problemami ze snem oraz uzależnieniem.",
+    "datum": "2026-06-11",
+    "kalla": "Folkhälsomyndigheten",
+    "kalla_url": "https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2026/juni/ny-rekommendation-vanta-med-smarta-telefoner-till-det-ar-da-barnet-fyller-13-ar/",
+    "taggar": [
+      "halsa",
+      "folkhalsomyndigheten"
+    ],
+    "relevans": {
+      "barn": 8,
+      "glesbygd": 3,
+      "beroende": 3
+    }
+  },
+  {
     "id": "belfast-0610",
     "typ": "nyhet",
     "titel": "Próba porwania głowy w Belfaście",
@@ -3825,6 +3861,25 @@
     ]
   },
   {
+    "id": "folkhalsomyndigheten-2026-06-09-okade-halsorisker-nar-europas-",
+    "typ": "myndighet",
+    "titel": "Wzrost ryzyka dla zdrowia w związku ze zmianami na europejskim rynku narkotyków.\n\n(Paragraph and list structure remain as they are in the original Swedish text, with names, numbers, dates, and URLs unchanged.)",
+    "ingress": "Rynek narkotyków w Europie szybko się zmienia i obejmuje coraz więcej niebezpiecznych substancji, co zwiększa ryzyko dla zdrowia osób ich używających.",
+    "datum": "2026-06-09",
+    "kalla": "Folkhälsomyndigheten",
+    "kalla_url": "https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2026/juni/okade-halsorisker-nar-europas-narkotikamarknad-forandras/",
+    "taggar": [
+      "halsa",
+      "folkhalsomyndigheten"
+    ],
+    "relevans": {
+      "miljo": 3,
+      "kronisk": 3,
+      "beroende": 8,
+      "otrygg": 8
+    }
+  },
+  {
     "id": "gavle-kommunstyrelsen-2026-06-08",
     "typ": "kommunbeslut",
     "titel": "Komisja ds. spraw miejskich, Gävle, 2026-06-08.",
@@ -3941,6 +3996,23 @@
     "relevans": {
       "b_handel": 3,
       "kollektiv": 3
+    }
+  },
+  {
+    "id": "folkhalsomyndigheten-2026-06-08-ny-statistik-over-folkhalsomyn",
+    "typ": "myndighet",
+    "titel": "Nowe statystyki dotyczące diagnostyki przygotowawczej prowadzonej przez Agencję Zdrowia Publicznego (Folkhälsomyndigheten).",
+    "ingress": "W tym roku, do dnia dzisiejszego (2026), Agencja Zdrowia Publicznego przeanalizowała 12 próbek w celu sprawdzenia, czy pacjenci nie są nosicielami groźnych chorób zakaźnych, takich jak Ebola. Wszystkie te próbki wykazały wyniki negatywne, c",
+    "datum": "2026-06-08",
+    "kalla": "Folkhälsomyndigheten",
+    "kalla_url": "https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2026/juni/ny-statistik-over-folkhalsomyndighetens-beredskapsdiagnostik/",
+    "taggar": [
+      "halsa",
+      "folkhalsomyndigheten"
+    ],
+    "relevans": {
+      "kronisk": 5,
+      "beroende": 3
     }
   },
   {
@@ -4128,6 +4200,23 @@
     "relevans": {
       "sparare": 3,
       "lantagare": 3
+    }
+  },
+  {
+    "id": "folkhalsomyndigheten-2026-06-03-ny-rapport-utmaningar-kvarstar",
+    "typ": "myndighet",
+    "titel": "Nowy raport: Wciąż istnieją wyzwania dla zdrowia seksualnego w populacji.",
+    "ingress": "Nowe badania pokazują, że wielu Szwedów jest zadowolonych ze swojego życia seksualnego, ale jednocześnie istnieją poważne problemy związane z przemocą seksualną wobec kobiet oraz brakiem swobody dla starszych mężczyzn.",
+    "datum": "2026-06-03",
+    "kalla": "Folkhälsomyndigheten",
+    "kalla_url": "https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2026/juni/ny-rapport-utmaningar-kvarstar-for-den-sexuella-halsan-i-befolkningen/",
+    "taggar": [
+      "halsa",
+      "folkhalsomyndigheten"
+    ],
+    "relevans": {
+      "kvinna": 8,
+      "kronisk": 3
     }
   },
   {

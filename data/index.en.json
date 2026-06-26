@@ -2349,6 +2349,24 @@
     }
   },
   {
+    "id": "folkhalsomyndigheten-2026-06-17-antibiotikaresistensen-fortsat",
+    "typ": "myndighet",
+    "titel": "In Sweden, antibiotic resistance continued to increase during the year 2025.",
+    "ingress": "More bacteria in Sweden are becoming resistant to antibiotics, making it more difficult to treat illnesses. Of particular concern is that certain dangerous bacteria are now beginning to spread outside of hospitals.",
+    "datum": "2026-06-17",
+    "kalla": "Folkhälsomyndigheten",
+    "kalla_url": "https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2026/juni/antibiotikaresistensen-fortsatte-att-oka-i-sverige-under-2025/",
+    "taggar": [
+      "halsa",
+      "folkhalsomyndigheten"
+    ],
+    "relevans": {
+      "b_vard": 3,
+      "kronisk": 3,
+      "husdjur": 3
+    }
+  },
+  {
     "id": "HD03286",
     "typ": "lagforslag",
     "titel": "Stronger protection for the independence of courts and judges",
@@ -3345,6 +3363,24 @@
     }
   },
   {
+    "id": "folkhalsomyndigheten-2026-06-11-ny-rekommendation-vanta-med-sm",
+    "typ": "myndighet",
+    "titel": "New recommendation: Wait until a child is 13 years old before giving them a smartphone.",
+    "ingress": "The Swedish Public Health Agency recommends that children should not have their own smartphones until they are 13 years old. This is to protect them from inappropriate content online, sleep problems, and addiction.",
+    "datum": "2026-06-11",
+    "kalla": "Folkhälsomyndigheten",
+    "kalla_url": "https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2026/juni/ny-rekommendation-vanta-med-smarta-telefoner-till-det-ar-da-barnet-fyller-13-ar/",
+    "taggar": [
+      "halsa",
+      "folkhalsomyndigheten"
+    ],
+    "relevans": {
+      "barn": 8,
+      "glesbygd": 3,
+      "beroende": 3
+    }
+  },
+  {
     "id": "belfast-0610",
     "typ": "nyhet",
     "titel": "Attempted Decapitation Occurred in Belfast",
@@ -3880,6 +3916,25 @@
     ]
   },
   {
+    "id": "folkhalsomyndigheten-2026-06-09-okade-halsorisker-nar-europas-",
+    "typ": "myndighet",
+    "titel": "Increased health risks as Europe's drug market changes.\n\nThe European Monitoring Centre for Drugs and Drug Addiction (EMCDDA) has published a report highlighting the evolving nature of the drug market in Europe and the associated increase in health risks. Key findings include:\n\n*   New psychoactive substances (NPS) are becoming increasingly prevalent, often with unknown or poorly understood effects on human health.\n*   The purity and potency of some drugs, such as cocaine and heroin, are increasing, leading to a higher risk of overdose.\n*   Changes in drug production and distribution networks are making it more difficult to track and control the flow of illicit substances.\n*   Increased use of synthetic opioids, like fentanyl, is contributing to a surge in opioid-related deaths.\n\nThe report emphasizes the need for enhanced monitoring, prevention, and treatment efforts to mitigate these emerging health risks. For more information, please visit: [Insert URL here].",
+    "ingress": "The drug market in Europe is changing rapidly and now includes a greater variety of dangerous substances, which increases the health risks for users.",
+    "datum": "2026-06-09",
+    "kalla": "Folkhälsomyndigheten",
+    "kalla_url": "https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2026/juni/okade-halsorisker-nar-europas-narkotikamarknad-forandras/",
+    "taggar": [
+      "halsa",
+      "folkhalsomyndigheten"
+    ],
+    "relevans": {
+      "miljo": 3,
+      "kronisk": 3,
+      "beroende": 8,
+      "otrygg": 8
+    }
+  },
+  {
     "id": "gavle-kommunstyrelsen-2026-06-08",
     "typ": "kommunbeslut",
     "titel": "Municipal Board, Gävle Municipality, June 8, 2026.",
@@ -3996,6 +4051,23 @@
     "relevans": {
       "b_handel": 3,
       "kollektiv": 3
+    }
+  },
+  {
+    "id": "folkhalsomyndigheten-2026-06-08-ny-statistik-over-folkhalsomyn",
+    "typ": "myndighet",
+    "titel": "New statistics on the Swedish Public Health Agency's preparedness diagnostics.",
+    "ingress": "So far in 2026, the Public Health Agency has analyzed 12 samples to check if patients are carrying dangerous infectious diseases such as Ebola. All of these samples have tested negative, meaning that no dangerous infections have been detect",
+    "datum": "2026-06-08",
+    "kalla": "Folkhälsomyndigheten",
+    "kalla_url": "https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2026/juni/ny-statistik-over-folkhalsomyndighetens-beredskapsdiagnostik/",
+    "taggar": [
+      "halsa",
+      "folkhalsomyndigheten"
+    ],
+    "relevans": {
+      "kronisk": 5,
+      "beroende": 3
     }
   },
   {
@@ -4183,6 +4255,23 @@
     "relevans": {
       "sparare": 3,
       "lantagare": 3
+    }
+  },
+  {
+    "id": "folkhalsomyndigheten-2026-06-03-ny-rapport-utmaningar-kvarstar",
+    "typ": "myndighet",
+    "titel": "New report: Challenges remain regarding sexual health within the population.",
+    "ingress": "A new survey reveals that many Swedes are satisfied with their sex lives, but there are significant problems regarding sexual violence against women and a lack of freedom for older men.",
+    "datum": "2026-06-03",
+    "kalla": "Folkhälsomyndigheten",
+    "kalla_url": "https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2026/juni/ny-rapport-utmaningar-kvarstar-for-den-sexuella-halsan-i-befolkningen/",
+    "taggar": [
+      "halsa",
+      "folkhalsomyndigheten"
+    ],
+    "relevans": {
+      "kvinna": 8,
+      "kronisk": 3
     }
   },
   {

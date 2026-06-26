@@ -1703,5 +1703,15 @@
     "etikett": "هيئة حماية المستهلك.",
     "typ": "organisation",
     "antal": 5
+  },
+  "halsa": {
+    "etikett": "الصحة.",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "folkhalsomyndigheten": {
+    "etikett": "وكالة الصحة العامة.",
+    "typ": "organisation",
+    "antal": 5
   }
 }

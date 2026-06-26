@@ -1688,5 +1688,15 @@
     "etikett": "Organizacja Konsumencka (Konsumentverket)",
     "typ": "organisation",
     "antal": 5
+  },
+  "halsa": {
+    "etikett": "Zdrowie.",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "folkhalsomyndigheten": {
+    "etikett": "Agencja ds. Zdrowia Publicznego.",
+    "typ": "organisation",
+    "antal": 5
   }
 }

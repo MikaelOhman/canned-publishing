@@ -2282,6 +2282,24 @@
     }
   },
   {
+    "id": "folkhalsomyndigheten-2026-06-17-antibiotikaresistensen-fortsat",
+    "typ": "myndighet",
+    "titel": "A gyógyszerképesség csökkenése továbbra is növekedett Svédországban 2025-ben.",
+    "ingress": "Svédországban egyre több baktérium alakul ki ellenállást az antibiotikumokkal szemben, ami megnehezíti a betegségek kezelését. Különösen aggasztó, hogy bizonyos veszélyes baktériumok most kezdik el terjedni a kórházak falain kívül is.",
+    "datum": "2026-06-17",
+    "kalla": "Folkhälsomyndigheten",
+    "kalla_url": "https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2026/juni/antibiotikaresistensen-fortsatte-att-oka-i-sverige-under-2025/",
+    "taggar": [
+      "halsa",
+      "folkhalsomyndigheten"
+    ],
+    "relevans": {
+      "b_vard": 3,
+      "kronisk": 3,
+      "husdjur": 3
+    }
+  },
+  {
     "id": "HD03286",
     "typ": "lagforslag",
     "titel": "A bíróságok és bírák függetlenségének megerősítése.",
@@ -3228,6 +3246,24 @@
     }
   },
   {
+    "id": "folkhalsomyndigheten-2026-06-11-ny-rekommendation-vanta-med-sm",
+    "typ": "myndighet",
+    "titel": "Új ajánlás: Várjunk a okostelefonnal való megismerkedéssel addig, amíg a gyermek 13 éves lesz.",
+    "ingress": "A Svéd Népegészségügyi Hatóság azt javasolja, hogy a gyerekek ne kapjanak saját okostelefont 13 éves koruk előtt. Ennek oka az, hogy meg kell védeni a gyermekeket a káros tartalmaktól az interneten, valamint az alvásproblémáktól és a függős",
+    "datum": "2026-06-11",
+    "kalla": "Folkhälsomyndigheten",
+    "kalla_url": "https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2026/juni/ny-rekommendation-vanta-med-smarta-telefoner-till-det-ar-da-barnet-fyller-13-ar/",
+    "taggar": [
+      "halsa",
+      "folkhalsomyndigheten"
+    ],
+    "relevans": {
+      "barn": 8,
+      "glesbygd": 3,
+      "beroende": 3
+    }
+  },
+  {
     "id": "belfast-0610",
     "typ": "nyhet",
     "titel": "Itt Belfastban egy nyakvágási kísérlet történt",
@@ -3741,6 +3777,25 @@
     ]
   },
   {
+    "id": "folkhalsomyndigheten-2026-06-09-okade-halsorisker-nar-europas-",
+    "typ": "myndighet",
+    "titel": "Az európai drogpiac változásai növekvő egészségügyi kockázatokkal járnak.\n\nA cikk a következőket tárgyalja:\n\n* A jelenlegi helyzet: Az illegális drogok elérhetősége és ára változik Európa különböző részein.\n* A kockázatok: Ezek a változások növelik a függőség kialakulásának, a túladagolásnak és a fertőző betegségek terjedésének kockázatát.\n* Lehetséges megoldások: A cikk felveti a megelőzés, a kezelés és a harmákkal való szembenézés fontosságát.\n\nTovábbi információkért látogasson el a következő weboldalra: [URL]",
+    "ingress": "Az európai drogpiac gyorsan változik, és egyre több veszélyes anyag jelenik meg rajta, ami növeli a felhasználók egészségügyi kockázatait.",
+    "datum": "2026-06-09",
+    "kalla": "Folkhälsomyndigheten",
+    "kalla_url": "https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2026/juni/okade-halsorisker-nar-europas-narkotikamarknad-forandras/",
+    "taggar": [
+      "halsa",
+      "folkhalsomyndigheten"
+    ],
+    "relevans": {
+      "miljo": 3,
+      "kronisk": 3,
+      "beroende": 8,
+      "otrygg": 8
+    }
+  },
+  {
     "id": "gavle-kommunstyrelsen-2026-06-08",
     "typ": "kommunbeslut",
     "titel": "A Gävle önkormányzat kommunális bizottsága, 2026. június 8.",
@@ -3857,6 +3912,23 @@
     "relevans": {
       "b_handel": 3,
       "kollektiv": 3
+    }
+  },
+  {
+    "id": "folkhalsomyndigheten-2026-06-08-ny-statistik-over-folkhalsomyn",
+    "typ": "myndighet",
+    "titel": "Új statisztikák a Népi Egészségügyi Hatóság (Folkhälsomyndigheten) által végzett vészhelyzeti diagnosztikai vizsgálatokról.",
+    "ingress": "A Népegészségügyi Ügynökség (Folkhälsomyndigheten) 2026 eleje óta 12 mintát vizsgált annak ellenőrzésére, hogy a betegek veszélyes fertőzéseket, például ebolát hordoznak-e. Mindegyik minta negatív eredményt mutatott, ami azt jelenti, hogy e",
+    "datum": "2026-06-08",
+    "kalla": "Folkhälsomyndigheten",
+    "kalla_url": "https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2026/juni/ny-statistik-over-folkhalsomyndighetens-beredskapsdiagnostik/",
+    "taggar": [
+      "halsa",
+      "folkhalsomyndigheten"
+    ],
+    "relevans": {
+      "kronisk": 5,
+      "beroende": 3
     }
   },
   {
@@ -4044,6 +4116,23 @@
     "relevans": {
       "sparare": 3,
       "lantagare": 3
+    }
+  },
+  {
+    "id": "folkhalsomyndigheten-2026-06-03-ny-rapport-utmaningar-kvarstar",
+    "typ": "myndighet",
+    "titel": "Új jelentés: Továbbra is fennállnak a kihívások a népesség szexuális egészsége terén.",
+    "ingress": "Egy új felmérés azt mutatja, hogy sok svéd állampolgár elégedett a szexuális életével, de jelentős problémák vannak a nők elleni szexuális erőszakkal kapcsolatban, valamint az idősebb férfiak számára elérhető szabadság hiányával.",
+    "datum": "2026-06-03",
+    "kalla": "Folkhälsomyndigheten",
+    "kalla_url": "https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2026/juni/ny-rapport-utmaningar-kvarstar-for-den-sexuella-halsan-i-befolkningen/",
+    "taggar": [
+      "halsa",
+      "folkhalsomyndigheten"
+    ],
+    "relevans": {
+      "kvinna": 8,
+      "kronisk": 3
     }
   },
   {

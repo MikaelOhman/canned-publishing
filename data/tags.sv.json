@@ -1788,5 +1788,15 @@
     "etikett": "Konsumentverket",
     "typ": "organisation",
     "antal": 5
+  },
+  "halsa": {
+    "etikett": "Hälsa",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "folkhalsomyndigheten": {
+    "etikett": "Folkhälsomyndigheten",
+    "typ": "organisation",
+    "antal": 5
   }
 }
