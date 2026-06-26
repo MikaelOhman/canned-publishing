@@ -1698,5 +1698,20 @@
     "etikett": "Het Zweedse Agentschap voor Volksgezondheid.",
     "typ": "organisation",
     "antal": 5
+  },
+  "krisberedskap": {
+    "etikett": "Crisisparaatheid\n\nHieronder vindt u een overzicht van belangrijke aspecten van crisisparaatheid:\n\n*   **Risicoanalyse:** Identificeer potentiële bedreigingen en kwetsbaarheden.\n*   **Noodplannen:** Ontwikkel gedetailleerde plannen voor verschillende soorten crises.\n*   **Communicatie:** Zorg voor effectieve communicatiekanalen met alle betrokken partijen.\n*   **Training en oefeningen:** Regelmatige trainingen en oefeningen om de paraatheid te verbeteren.\n*   **Voorraden:** Houd voldoende essentiële voorraden aan, zoals voedsel, water en medische benodigdheden.\n*   **Samenwerking:** Werk samen met andere organisaties en instanties om de crisisparaatheid te versterken.\n*   **Juridische aspecten:** Zorg ervoor dat alle maatregelen in overeenstemming zijn met relevante wet- en regelgeving.\n*   **Financiële planning:** Reserveer voldoende middelen voor crisisbeheersing.\n*   **Psychologische ondersteuning:** Bied psychologische ondersteuning aan getroffenen en hulpverleners.\n*   **Evaluatie en verbetering:** Evalueer regelmatig de crisisparaatheid en identificeer mogelijkheden tot verbetering.",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "civilt-forsvar": {
+    "etikett": "Burgerlijke defensie.",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "mcf": {
+    "etikett": "De Dienst voor Burgerbescherming.",
+    "typ": "organisation",
+    "antal": 5
   }
 }

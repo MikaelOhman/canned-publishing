@@ -1698,5 +1698,20 @@
     "etikett": "Agencja ds. Zdrowia Publicznego.",
     "typ": "organisation",
     "antal": 5
+  },
+  "krisberedskap": {
+    "etikett": "Gotowość kryzysowa\n\nObejmuje działania mające na celu przygotowanie się na sytuacje kryzysowe oraz minimalizację ich skutków.  W szczególności dotyczy to:\n\n*   Planowania i organizacji działań w sytuacjach nadzwyczajnych.\n*   Szkoleń personelu w zakresie reagowania na kryzysy.\n*   Zapewnienia odpowiedniego wyposażenia i zasobów.\n*   Regularnego testowania procedur i planów działania.\n*   Współpracy z innymi organizacjami i służbami w celu zapewnienia skoordynowanej reakcji.\n\nDziałania te mają na celu ochronę życia, zdrowia i mienia oraz utrzymanie ciągłości funkcjonowania organizacji w sytuacjach kryzysowych.  Szczegółowe informacje można znaleźć na stronie: [URL].",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "civilt-forsvar": {
+    "etikett": "Obrona cywilna.",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "mcf": {
+    "etikett": "Agencja Obrony Cywilnej.",
+    "typ": "organisation",
+    "antal": 5
   }
 }

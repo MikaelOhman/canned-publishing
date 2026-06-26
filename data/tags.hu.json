@@ -1698,5 +1698,20 @@
     "etikett": "A Népegészségügyi Ügyek Országos Hatósága.",
     "typ": "organisation",
     "antal": 5
+  },
+  "krisberedskap": {
+    "etikett": "Vészhelyzet-készültség.",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "civilt-forsvar": {
+    "etikett": "Polgári védelem.",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "mcf": {
+    "etikett": "A civilvédelemért felelős hatóság.",
+    "typ": "organisation",
+    "antal": 5
   }
 }

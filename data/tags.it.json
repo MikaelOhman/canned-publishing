@@ -1698,5 +1698,20 @@
     "etikett": "Agenzia svedese per la salute pubblica.",
     "typ": "organisation",
     "antal": 5
+  },
+  "krisberedskap": {
+    "etikett": "Preparazione alle emergenze\n\n*   **Definizione:** La preparazione alle emergenze si riferisce all'insieme di misure e azioni volte a prevenire, mitigare e gestire le conseguenze di eventi imprevisti che possono mettere a rischio la sicurezza delle persone, l'ambiente o le infrastrutture.\n\n*   **Obiettivi:**\n    *   Ridurre al minimo i danni causati da eventi avversi.\n    *   Proteggere vite umane e proprietà.\n    *   Garantire la continuità dei servizi essenziali.\n    *   Favorire una rapida ripresa dopo un'emergenza.\n\n*   **Aree di intervento:**\n    *   Prevenzione: identificazione e riduzione dei rischi potenziali.\n    *   Mitigazione: adozione di misure per ridurre la vulnerabilità.\n    *   Preparazione: pianificazione, formazione e simulazioni.\n    *   Risposta: attivazione delle risorse e coordinamento degli interventi durante un'emergenza.\n    *   Ripristino: ripristino delle normali condizioni di vita e attività dopo un'emergenza.\n\n*   **Esempi di emergenze:**\n    *   Incendi\n    *   Inondazioni\n    *   Terremoti\n    *   Tempeste\n    *   Attacchi terroristici\n    *   Pandemie\n\n*   **Risorse utili:**\n    *   Siti web governativi dedicati alla protezione civile.\n    *   Manuali e guide sulla preparazione alle emergenze.\n    *   Corsi di formazione per operatori e cittadini.\n    *   App per smartphone con informazioni e avvisi in caso di emergenza.\n\n*   **Consigli pratici:**\n    *   Informarsi sui rischi presenti nella propria zona.\n    *   Preparare un piano di emergenza familiare.\n    *   Assemblare una scorta di beni di prima necessità (acqua, cibo, medicinali).\n    *   Imparare le tecniche di primo soccorso.\n    *   Partecipare a esercitazioni di protezione civile.",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "civilt-forsvar": {
+    "etikett": "Difesa civile.",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "mcf": {
+    "etikett": "L'Agenzia per la Protezione Civile.",
+    "typ": "organisation",
+    "antal": 5
   }
 }

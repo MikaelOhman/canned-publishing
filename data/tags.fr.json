@@ -1698,5 +1698,20 @@
     "etikett": "Agence suédoise de santé publique (Folkhälsomyndigheten).",
     "typ": "organisation",
     "antal": 5
+  },
+  "krisberedskap": {
+    "etikett": "Préparation aux crises\n\nVoici quelques points importants concernant la préparation aux crises :\n\n*   **Définition:** La préparation aux crises consiste à anticiper et à se préparer aux événements imprévus qui pourraient avoir un impact négatif sur une organisation, une communauté ou un pays.\n\n*   **Objectifs:** Les objectifs de la préparation aux crises sont multiples, notamment :\n    *   Minimiser les dommages et les pertes en cas de crise.\n    *   Assurer la continuité des activités essentielles.\n    *   Protéger les personnes et les biens.\n    *   Faciliter la reprise après la crise.\n\n*   **Domaines d'intervention:** La préparation aux crises peut concerner différents domaines, tels que :\n    *   La gestion des catastrophes naturelles (inondations, tremblements de terre, incendies).\n    *   Les attaques terroristes.\n    *   Les pandémies.\n    *   Les cyberattaques.\n    *   Les crises économiques.\n\n*   **Mesures à prendre:** Pour se préparer aux crises, il est important de :\n    *   Évaluer les risques et les vulnérabilités.\n    *   Élaborer des plans d'urgence.\n    *   Mettre en place des systèmes d'alerte et de communication.\n    *   Former le personnel et la population.\n    *   Réserver des ressources (matérielles, financières, humaines).\n\n*   **Exemples concrets:**\n    *   Une entreprise peut mettre en place un plan de continuité des activités pour assurer la poursuite de ses opérations en cas d'incendie ou de cyberattaque.\n    *   Une commune peut organiser des exercices de simulation pour préparer sa population à faire face à une inondation ou à un tremblement de terre.\n    *   Un pays peut renforcer ses capacités de surveillance et de réponse aux pandémies.\n\nPour plus d'informations, vous pouvez consulter les ressources suivantes :\n\n*   [URL]\n*   [URL]\n*   [URL]",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "civilt-forsvar": {
+    "etikett": "Défense civile.",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "mcf": {
+    "etikett": "L'Agence de protection civile.",
+    "typ": "organisation",
+    "antal": 5
   }
 }

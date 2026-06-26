@@ -58,6 +58,44 @@
     }
   },
   {
+    "id": "mcf-2026-06-26-krav-pa-sakerhetsatgarder-som-",
+    "typ": "myndighet",
+    "titel": "Eisen voor beveiligingsmaatregelen die de cyberveiligheid versterken.\n\n*   Vereisten voor sterke authenticatie.\n*   Beperking van toegang tot gevoelige gegevens.\n*   Implementatie van regelmatige beveiligingsaudits.\n*   Training en bewustwording van medewerkers over cybersecurityrisico's.\n*   Snelle detectie en respons op incidenten.\n*   Continue monitoring en verbetering van de beveiligingsmaatregelen.",
+    "ingress": "Nieuwe regels, die van kracht worden op 1 oktober 2026, maken het duidelijker hoe bedrijven en overheidsinstanties hun digitale systemen moeten beschermen tegen hacker aanvallen. Het doel is om de samenleving beter te beschermen tegen verst",
+    "datum": "2026-06-26",
+    "kalla": "Myndigheten för civilt försvar",
+    "kalla_url": "https://www.mcf.se/sv/aktuellt/nyheter/2026/juni/krav-pa-sakerhetsatgarder-som-starker-cybersakerheten/",
+    "taggar": [
+      "krisberedskap",
+      "civilt-forsvar",
+      "mcf"
+    ],
+    "relevans": {
+      "gdpr": 8,
+      "glesbygd": 3,
+      "kronisk": 3,
+      "varnpliktig": 3
+    }
+  },
+  {
+    "id": "mcf-2026-06-26-ansok-om-uppdragsersattning-fo",
+    "typ": "myndighet",
+    "titel": "Aanvraag voor vergoeding van opdrachten in de onderwijssector voor het jaar 2027.",
+    "ingress": "Non-profitorganisaties kunnen nu aanvragen indienen voor financiële middelen om trainingen te organiseren in 2027. Het doel is het publiek leren hoe ze zich kunnen voorbereiden op en omgaan met crises.",
+    "datum": "2026-06-26",
+    "kalla": "Myndigheten för civilt försvar",
+    "kalla_url": "https://www.mcf.se/sv/aktuellt/nyheter/2026/juni/nu-kan-ideella-organisationer-ansoka-om-uppdragsersattning-for-2027/",
+    "taggar": [
+      "krisberedskap",
+      "civilt-forsvar",
+      "mcf"
+    ],
+    "relevans": {
+      "volontar": 3,
+      "varnpliktig": 3
+    }
+  },
+  {
     "id": "HD03301",
     "typ": "lagforslag",
     "titel": "Aangepaste voorwaarden voor gezinshereniging.\n\n*   De regels voor gezinshereniging zijn aangescherpt.\n*   Dit heeft gevolgen voor mensen die hun familieleden naar [land] willen halen.\n*   Meer informatie is te vinden op de website: [URL].",
@@ -237,6 +275,43 @@
       "eu",
       "eu-kommissionen"
     ]
+  },
+  {
+    "id": "mcf-2026-06-25-klimatriskerna-for-sverige-oka",
+    "typ": "myndighet",
+    "titel": "De klimaatrisico's voor Zweden nemen toe.\n\nHieronder een overzicht van enkele belangrijke punten:\n\n*   Stijgende temperaturen leiden tot meer hittegolven en droogte.\n*   Toenemende neerslag veroorzaakt heviger noodweer en overstromingen.\n*   De zeespiegel stijgt, wat leidt tot erosie en het verlies van kustgebieden.\n\nDeze veranderingen hebben gevolgen voor de landbouw, infrastructuur en volksgezondheid in Zweden. Meer informatie is te vinden op: [URL verwijderd].",
+    "ingress": "Zweden heeft een nieuwe analyse gepubliceerd die aantoont dat klimaatverandering grote risico's oplevert voor onze gezondheid, natuur en samenleving. Om onszelf te beschermen, moet Zweden beter worden in het plannen en investeren in maatreg",
+    "datum": "2026-06-25",
+    "kalla": "Myndigheten för civilt försvar",
+    "kalla_url": "https://www.mcf.se/sv/aktuellt/nyheter/2026/juni/klimatriskerna-for-sverige-okar/",
+    "taggar": [
+      "krisberedskap",
+      "civilt-forsvar",
+      "mcf"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "klimat": 8,
+      "varnpliktig": 3
+    }
+  },
+  {
+    "id": "mcf-2026-06-25-de-flyr-men-ger-aldrig-upp-eu-",
+    "typ": "myndighet",
+    "titel": "Ze vluchten – maar geven nooit op: EU-steun bereikt de interne vluchtelingen in Oekraïne.\n\nHieronder volgt meer informatie:\n\n*   **Context:** De situatie in Oekraïne is nog steeds zeer zorgelijk, en veel mensen zijn gedwongen hun huizen te verlaten.\n*   **EU-steun:** De Europese Unie biedt hulp aan de interne vluchtelingen in Oekraïne.\n*   **Doelstelling:** Het doel van deze steun is om de meest kwetsbare groepen te helpen, zoals gezinnen met kinderen, ouderen en mensen met een handicap.\n*   **Voorbeelden van hulp:** De EU-steun omvat onder andere voedselhulp, medische zorg en onderdak.\n*   **Meer informatie:** Voor meer informatie kunt u terecht op de volgende website: [URL verwijderd].",
+    "ingress": "De Europese Unie stuurt 250 nieuwe noodwoningen naar Oekraïne om mensen te helpen die gedwongen zijn te vluchten vanwege de oorlog. Daarnaast worden lokale organisaties opgeleid, zodat zij zelf de woningen kunnen bouwen en onderhouden.",
+    "datum": "2026-06-25",
+    "kalla": "Myndigheten för civilt försvar",
+    "kalla_url": "https://www.mcf.se/sv/aktuellt/nyheter/2026/juni/de-flyr--men-ger-aldrig-upp-eu-stod-nar-ukrainas-internflyktingar/",
+    "taggar": [
+      "krisberedskap",
+      "civilt-forsvar",
+      "mcf"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "varnpliktig": 3
+    }
   },
   {
     "id": "ecb-2026-06-24-ecb-reports-on-progress-toward",
@@ -1192,6 +1267,28 @@
       "hbtq": 3,
       "asyl": 8,
       "otrygg": 3
+    }
+  },
+  {
+    "id": "mcf-2026-06-22-nya-foreskrifter-om-utlandska-",
+    "typ": "myndighet",
+    "titel": "Nieuwe regels over buitenlandse investeringen in essentiële infrastructuur.\n\n*   De nieuwe regels zijn van toepassing op:\n    *   Investeringen in bedrijven die cruciaal zijn voor de nationale veiligheid en economische stabiliteit.\n    *   Bedrijven die betrokken zijn bij energieopslag, waterdistributie, transportnetwerken en digitale infrastructuur.\n\n*   De regels stellen eisen aan:\n    *   De herkomst van het kapitaal dat wordt geïnvesteerd.\n    *   De controle en zeggenschap binnen de investerende entiteit.\n    *   De potentiële impact van de investering op de nationale veiligheid en economische belangen.\n\n*   Doelstellingen van de nieuwe regels:\n    *   Het beschermen van kritieke infrastructuur tegen ongewenste invloeden.\n    *   Het waarborgen van de continuïteit van essentiële diensten.\n    *   Het bevorderen van transparantie en verantwoordelijkheid bij buitenlandse investeringen.\n\n*   Meer informatie: [URL]",
+    "ingress": "Nieuwe regels maken het duidelijker welke Zweedse bedrijven onderworpen moeten worden aan een controle wanneer buitenlandse personen of bedrijven willen investeren in die bedrijven. Het doel is om belangrijke activiteiten, zoals de elektric",
+    "datum": "2026-06-22",
+    "kalla": "Myndigheten för civilt försvar",
+    "kalla_url": "https://www.mcf.se/sv/aktuellt/nyheter/2026/juni/nya-foreskrifter-om-utlandska-investeringar-i-samhallsviktig-verksamhet/",
+    "taggar": [
+      "krisberedskap",
+      "civilt-forsvar",
+      "mcf"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "finansiering": 8,
+      "infrastruktur": 5,
+      "beroende": 3,
+      "batagare": 3,
+      "varnpliktig": 3
     }
   },
   {

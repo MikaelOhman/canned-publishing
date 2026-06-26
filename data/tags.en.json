@@ -1763,5 +1763,20 @@
     "etikett": "The Swedish Public Health Agency.",
     "typ": "organisation",
     "antal": 5
+  },
+  "krisberedskap": {
+    "etikett": "Crisis Preparedness\n\nThis document outlines measures to be taken in the event of a crisis. It covers various areas:\n\n*   **Communication:** Establishing clear communication channels and protocols.\n*   **Emergency Response:** Procedures for responding to immediate threats and providing assistance.\n*   **Business Continuity:** Maintaining essential business functions during and after a crisis.\n*   **Risk Assessment:** Identifying potential risks and vulnerabilities.\n*   **Training and Exercises:** Preparing personnel through training and simulations.\n\nFor more information, please visit: [insert URL here]",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "civilt-forsvar": {
+    "etikett": "Civil Defense\n\n(This is a very short phrase and doesn't require further elaboration.)",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "mcf": {
+    "etikett": "The Agency for Civil Defence.",
+    "typ": "organisation",
+    "antal": 5
   }
 }

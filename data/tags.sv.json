@@ -1798,5 +1798,20 @@
     "etikett": "Folkhälsomyndigheten",
     "typ": "organisation",
     "antal": 5
+  },
+  "krisberedskap": {
+    "etikett": "Krisberedskap",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "civilt-forsvar": {
+    "etikett": "Civilt försvar",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "mcf": {
+    "etikett": "Myndigheten för civilt försvar",
+    "typ": "organisation",
+    "antal": 5
   }
 }

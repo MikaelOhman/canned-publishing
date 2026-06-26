@@ -1758,5 +1758,20 @@
     "etikett": "Das schwedische Gesundheitsinstitut (Folkhälsomyndigheten).",
     "typ": "organisation",
     "antal": 5
+  },
+  "krisberedskap": {
+    "etikett": "Krisbereitschaft\n\nHier sind einige wichtige Aspekte der Krisenbereitschaft:\n\n*   **Planung:** Entwicklung detaillierter Notfallpläne für verschiedene Szenarien.\n*   **Schulung:** Durchführung regelmäßiger Schulungen und Übungen, um das Personal auf Notfallsituationen vorzubereiten.\n*   **Kommunikation:** Einrichtung klarer Kommunikationswege innerhalb der Organisation und mit externen Partnern.\n*   **Ressourcen:** Sicherstellung des Vorhandenseins notwendiger Ressourcen wie Ausrüstung, Materialien und Personal.\n*   **Risikobewertung:** Durchführung regelmäßiger Risikobewertungen, um potenzielle Bedrohungen zu identifizieren und geeignete Maßnahmen zu ergreifen.\n*   **Kontinuitätsmanagement:** Implementierung von Strategien zur Aufrechterhaltung kritischer Geschäftsprozesse im Falle einer Krise.\n*   **Zusammenarbeit:** Aufbau von Partnerschaften mit anderen Organisationen, um bei Bedarf Unterstützung zu erhalten.\n*   **Überprüfung und Aktualisierung:** Regelmäßige Überprüfung und Aktualisierung der Notfallpläne und -verfahren, um sicherzustellen, dass sie relevant und effektiv bleiben.",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "civilt-forsvar": {
+    "etikett": "Zivilverteidigung.",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "mcf": {
+    "etikett": "Die Behörde für zivilen Schutz.",
+    "typ": "organisation",
+    "antal": 5
   }
 }
