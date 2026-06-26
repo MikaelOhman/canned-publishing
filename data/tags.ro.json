@@ -642,7 +642,7 @@
   "uddevalla": {
     "etikett": "Uddevalla.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "samhallsbyggnadsnamndens": {
     "etikett": "Comisia pentru construcții și dezvoltare urbană.",
@@ -1511,6 +1511,11 @@
   },
   "fran-kommunfullmaktige": {
     "etikett": "Din partea consiliului municipal.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "personalutskottets": {
+    "etikett": "Comisia pentru afaceri sociale.",
     "typ": "organisation",
     "antal": 1
   }

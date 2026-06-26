@@ -642,7 +642,7 @@
   "uddevalla": {
     "etikett": "Uddevalla.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "samhallsbyggnadsnamndens": {
     "etikett": "Comisión de Planificación Urbana y Construcción.",
@@ -1516,6 +1516,11 @@
   },
   "fran-kommunfullmaktige": {
     "etikett": "Del texto del pleno municipal:\n\n*   [Aquí iría el contenido del texto original en sueco]",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "personalutskottets": {
+    "etikett": "Comité de Asuntos Personales.",
     "typ": "organisation",
     "antal": 1
   }

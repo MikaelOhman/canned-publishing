@@ -647,7 +647,7 @@
   "uddevalla": {
     "etikett": "Uddevalla.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "samhallsbyggnadsnamndens": {
     "etikett": "Commission de l'aménagement urbain.",
@@ -1521,6 +1521,11 @@
   },
   "fran-kommunfullmaktige": {
     "etikett": "Du conseil municipal.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "personalutskottets": {
+    "etikett": "Commission des affaires personnelles.",
     "typ": "organisation",
     "antal": 1
   }

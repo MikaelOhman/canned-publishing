@@ -642,7 +642,7 @@
   "uddevalla": {
     "etikett": "Uddevalla.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "samhallsbyggnadsnamndens": {
     "etikett": "A településépítési bizottság",
@@ -1511,6 +1511,11 @@
   },
   "fran-kommunfullmaktige": {
     "etikett": "A városi képviselő-testület által jóváhagyva:",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "personalutskottets": {
+    "etikett": "A személyzeti bizottság.",
     "typ": "organisation",
     "antal": 1
   }

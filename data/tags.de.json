@@ -707,7 +707,7 @@
   "uddevalla": {
     "etikett": "Uddevalla\n\n(No further context was provided, so a simple translation of the name is all that can be offered.)",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "samhallsbyggnadsnamndens": {
     "etikett": "Der Bauausschuss",
@@ -1581,6 +1581,11 @@
   },
   "fran-kommunfullmaktige": {
     "etikett": "Vom Gemeinderat:",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "personalutskottets": {
+    "etikett": "Der Personalrat.",
     "typ": "organisation",
     "antal": 1
   }

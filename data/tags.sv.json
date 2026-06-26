@@ -752,7 +752,7 @@
   "uddevalla": {
     "etikett": "Uddevalla",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "samhallsbyggnadsnamndens": {
     "etikett": "Samhällsbyggnadsnämndens",
@@ -1616,6 +1616,11 @@
   },
   "fran-kommunfullmaktige": {
     "etikett": "Fran kommunfullmaktige",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "personalutskottets": {
+    "etikett": "Personalutskottets",
     "typ": "organisation",
     "antal": 1
   }

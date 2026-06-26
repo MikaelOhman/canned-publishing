@@ -642,7 +642,7 @@
   "uddevalla": {
     "etikett": "اودووالا",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "samhallsbyggnadsnamndens": {
     "etikett": "کمیته ساخت و ساز شهری.",
@@ -1511,6 +1511,11 @@
   },
   "fran-kommunfullmaktige": {
     "etikett": "از شورای شهر",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "personalutskottets": {
+    "etikett": "کمیته‌ی مربوط به مسائل شخصی.",
     "typ": "organisation",
     "antal": 1
   }

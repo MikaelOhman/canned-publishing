@@ -667,7 +667,7 @@
   "uddevalla": {
     "etikett": "أوديفالا.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "samhallsbyggnadsnamndens": {
     "etikett": "لجنة التخطيط العمراني.",
@@ -1526,6 +1526,11 @@
   },
   "fran-kommunfullmaktige": {
     "etikett": "من مجلس المدينة.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "personalutskottets": {
+    "etikett": "لجنة الشؤون الشخصية.",
     "typ": "organisation",
     "antal": 1
   }

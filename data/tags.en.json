@@ -727,7 +727,7 @@
   "uddevalla": {
     "etikett": "Uddevalla is a city located in southwestern Sweden. It's the seat of Uddevalla Municipality and the county of Västernorrland. Here are some key facts about Uddevalla:\n\n*   **Location:** Southwestern Sweden\n*   **Municipality:** Uddevalla Municipality\n*   **County:** Västernorrland",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "samhallsbyggnadsnamndens": {
     "etikett": "The Urban Planning Committee's",
@@ -1581,6 +1581,11 @@
   },
   "fran-kommunfullmaktige": {
     "etikett": "From the municipal council:\n\n[The rest of the text would go here, translated into English.]",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "personalutskottets": {
+    "etikett": "The Committee on Personnel Affairs.",
     "typ": "organisation",
     "antal": 1
   }
