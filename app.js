@@ -21,6 +21,7 @@ const BADGE_KLASS = {lagforslag:'lag', kommunbeslut:'kommun', omvarld:'omv', myn
 const KORT_KLASS = {lagforslag:'lagforslag', kommunbeslut:'kommunbeslut', omvarld:'omvarld', myndighet:'myndighet', marknad:'marknad', region:'region', historia:'historia'};
 const FLAGG_IK = {saknad:'⚠️', omtvistat:'🔀', logik:'❗', tidsavstand:'🕰️'};
 const EPOK_ORDER = ['stenalder','bronsalder','jarnalder','vendeltid','vikingatid','medeltid','vasatiden','stormaktstiden','frihetstiden','1800talet','1900talet'];
+const SIT_FRI = new Set(['historia','nyhet']);   // undantagna situationsfiltret (allmänt innehåll, ej personberoende)
 
 const UIDEF = {sub:"Multilingual news",search_label:"Search",search_ph:"Type a word…",language:"Language",
   settings:"Display",theme:"Theme",textsize:"Text size",font:"Font",
@@ -149,7 +150,8 @@ function renderSidebar(){
   if(srvf){ cnt = srvf.ax || {}; }
   else { cnt = {}; baseFiltered().forEach(a=>{ if(a.relevans) for(const id in a.relevans){ if(a.relevans[id]>=1) cnt[id]=(cnt[id]||0)+1; } }); }
   // typ-facet (flerval: tom = alla)
-  const tc={}; TYPER.forEach(t=> tc[t] = srvf ? (srvf.typ[t]||0) : state.index.filter(a=>(a.typ||'nyhet')===t).length);
+  // typ-antal speglar ÖVRIGA aktiva filter (sök/situation/ort) → siffran = vad listan visar
+  const tc={}; TYPER.forEach(t=> tc[t] = srvf ? (srvf.typ[t]||0) : state.index.filter(a=>matches(a,true) && (a.typ||'nyhet')===t).length);
   const typOpts=TYPER.filter(t=>tc[t]>0).map(t=>[t,(u.types[t]||t),tc[t]]);
   const td=u.typdesc||{};
   const typHtml=`<details class="facet" data-grp="__typ" ${state.openGroups.has('__typ')?'open':''}>
@@ -396,8 +398,8 @@ async function loadLanguage(lang){
   await refresh();
 }
 
-function matches(a){
-  if(state.typer.size && !state.typer.has(a.typ||'nyhet')) return false;
+function matches(a, ignoreTyp){
+  if(!ignoreTyp && state.typer.size && !state.typer.has(a.typ||'nyhet')) return false;
   if(state.query){
     const hay=(a.titel+' '+(a.ingress||'')+' '+(a.taggar||[]).map(id=>(state.tags[id]||{}).etikett||id).join(' ')).toLowerCase();
     for(const w of state.query.split(/\s+/)) if(w && !hay.includes(w)) return false;
@@ -405,7 +407,7 @@ function matches(a){
   if(a.typ==='kommunbeslut' && ortFor().size){               // plats: bara mina kommuner
     const k=artKommun(a); if(!k || !ortFor().has(k)) return false;
   }
-  if(state._akt.length && a.typ!=='historia' && relScore(a) < 1) return false;   // situationsfilter (ej historia)
+  if(state._akt.length && !SIT_FRI.has(a.typ||'nyhet') && relScore(a) < 1) return false;   // situationsfilter (ej historia/nyheter)
   return true;
 }
 function relNiv(r){ return r>=7?3:r>=4?2:r>=1?1:0; }   // 0-10 score → 1-3 prickar

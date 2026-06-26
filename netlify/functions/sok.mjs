@@ -4,6 +4,7 @@
 // klientens payload blir en sida (default 30) i stället för hela korpusen.
 const cache = {}
 const TTL = 5 * 60 * 1000
+const SIT_FRI = new Set(['historia', 'nyhet'])   // undantagna situationsfiltret (allmänt innehåll)
 
 async function load(lang) {
   const c = cache[lang]
@@ -32,21 +33,18 @@ const relScore = (a, akt) => {
 export function sokIndex(idx, tags, { typer, akt, ort, qw, page, ps }) {
   const txt = a => (a.titel + ' ' + (a.ingress || '') + ' ' +
     (a.taggar || []).map(id => (tags[id] || {}).etikett || id).join(' ')).toLowerCase()
-  const bas = idx.filter(a => {                       // typ + fritext (grund för facett-antal)
-    if (typer.size && !typer.has(a.typ || 'nyhet')) return false
-    if (qw.length) { const h = txt(a); for (const w of qw) if (!h.includes(w)) return false }
-    return true
-  })
-  let res = bas.filter(a => {                          // + ort + situation
-    if (a.typ === 'kommunbeslut' && ort.size) { const k = artKommun(a, tags); if (!k || !ort.has(k)) return false }
-    if (akt.length && a.typ !== 'historia' && relScore(a, akt) < 1) return false
-    return true
-  })
+  const passQ = a => { if (!qw.length) return true; const h = txt(a); for (const w of qw) if (!h.includes(w)) return false; return true }
+  const passOrt = a => { if (a.typ !== 'kommunbeslut' || !ort.size) return true; const k = artKommun(a, tags); return !!k && ort.has(k) }
+  const passSit = a => !akt.length || SIT_FRI.has(a.typ || 'nyhet') || relScore(a, akt) >= 1
+  const passTyp = a => !typer.size || typer.has(a.typ || 'nyhet')
+  // resultat: alla filter
+  let res = idx.filter(a => passTyp(a) && passQ(a) && passOrt(a) && passSit(a))
   if (akt.length) res = [...res].sort((A, B) => relScore(B, akt) - relScore(A, akt))
+  // facetter: typ-antal över ÖVRIGA filter (ej typ) → speglar listan; axlar över typ+fritext
   const typc = {}
-  for (const a of idx) { const t = a.typ || 'nyhet'; typc[t] = (typc[t] || 0) + 1 }
+  for (const a of idx) if (passQ(a) && passOrt(a) && passSit(a)) { const t = a.typ || 'nyhet'; typc[t] = (typc[t] || 0) + 1 }
   const axc = {}
-  for (const a of bas) if (a.relevans) for (const id in a.relevans) if (a.relevans[id] >= 1) axc[id] = (axc[id] || 0) + 1
+  for (const a of idx) if (passTyp(a) && passQ(a) && a.relevans) for (const id in a.relevans) if (a.relevans[id] >= 1) axc[id] = (axc[id] || 0) + 1
   return { total: res.length, page, ps, results: res.slice(page * ps, page * ps + ps), facets: { typ: typc, ax: axc } }
 }
 
