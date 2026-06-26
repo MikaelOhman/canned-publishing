@@ -287,17 +287,17 @@
   "stockholm": {
     "etikett": "ستوكهولم.",
     "typ": "plats",
-    "antal": 9
+    "antal": 11
   },
   "kommunfullmaktige": {
     "etikett": "مجلس البلدية.",
     "typ": "organisation",
-    "antal": 91
+    "antal": 93
   },
   "kommunpolitik": {
     "etikett": "سياسة البلديات.",
     "typ": "ämne",
-    "antal": 5
+    "antal": 7
   },
   "trafik": {
     "etikett": "حركة المرور.",
@@ -1602,6 +1602,21 @@
   "ydre": {
     "etikett": "Ydre",
     "typ": "plats",
+    "antal": 1
+  },
+  "stadsplanering": {
+    "etikett": "تخطيط المدن.",
+    "typ": "ämne",
+    "antal": 2
+  },
+  "socialtjanst": {
+    "etikett": "الخدمات الاجتماعية.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "bostadsbyggande": {
+    "etikett": "البناء السكني.",
+    "typ": "ämne",
     "antal": 1
   }
 }

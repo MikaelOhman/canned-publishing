@@ -8072,6 +8072,30 @@
     }
   },
   {
+    "id": "stockholm-kommunfullmaktige-2026-03-09",
+    "typ": "kommunbeslut",
+    "titel": "Kommunfullmäktige, Stockholms stad 2026-03-09",
+    "ingress": "Stockholms stad har tagit emot flera frågor från politiker om lokala problem som otrygghet i Hjorthagen, upprustning av Spånga station och förbättringar för cyklister.",
+    "datum": "2026-03-09",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunfullmaktige/mote-2026-03-09",
+    "taggar": [
+      "stockholm",
+      "kommunfullmaktige",
+      "kommunpolitik",
+      "stadsplanering",
+      "socialtjanst"
+    ],
+    "relevans": {
+      "konsumentratt": 3,
+      "pensionar": 3,
+      "bostadsagare": 3,
+      "glesbygd": 3,
+      "storstad": 3,
+      "fortroendevald": 3
+    }
+  },
+  {
     "id": "HD03155",
     "typ": "lagforslag",
     "titel": "En mer rättssäker och effektiv domstolsprocess",
@@ -9111,6 +9135,35 @@
       "b_utbildning": 3,
       "ideell": 3,
       "smaforetag": 3
+    }
+  },
+  {
+    "id": "stockholm-kommunfullmaktige-2026-02-16",
+    "typ": "kommunbeslut",
+    "titel": "Kommunfullmäktige, Stockholms stad 2026-02-16",
+    "ingress": "Stockholms stad har fattat beslut om flera nya bostadsprojekt, naturreservat och förbättringar av idrottsanläggningar samt vägar.",
+    "datum": "2026-02-16",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunfullmaktige/mote-2026-02-16",
+    "taggar": [
+      "stockholm",
+      "kommunfullmaktige",
+      "kommunpolitik",
+      "stadsplanering",
+      "bostadsbyggande"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "infrastruktur": 3,
+      "glesbygd": 3,
+      "storstad": 3,
+      "kronisk": 3,
+      "husdjur": 3,
+      "friluftsliv": 3,
+      "idrott": 5,
+      "klimat": 3,
+      "kultur": 3,
+      "fortroendevald": 3
     }
   },
   {

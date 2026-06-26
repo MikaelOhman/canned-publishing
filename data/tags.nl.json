@@ -287,17 +287,17 @@
   "stockholm": {
     "etikett": "Stockholm.",
     "typ": "plats",
-    "antal": 9
+    "antal": 11
   },
   "kommunfullmaktige": {
     "etikett": "Gemeenteraad.",
     "typ": "organisation",
-    "antal": 91
+    "antal": 93
   },
   "kommunpolitik": {
     "etikett": "Gemeentepolitiek.",
     "typ": "ämne",
-    "antal": 6
+    "antal": 8
   },
   "trafik": {
     "etikett": "Verkeer.",
@@ -307,7 +307,7 @@
   "stadsplanering": {
     "etikett": "Stadsplanning.",
     "typ": "ämne",
-    "antal": 1
+    "antal": 3
   },
   "kommunstyrelsen": {
     "etikett": "Het college van burgemeester en wethouders.",
@@ -1597,6 +1597,16 @@
   "ydre": {
     "etikett": "Ydre.",
     "typ": "plats",
+    "antal": 1
+  },
+  "socialtjanst": {
+    "etikett": "Maatschappelijk werk.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "bostadsbyggande": {
+    "etikett": "Woningbouw\n\n*   Beschrijving: [Hier zou een beschrijving van het onderwerp \"woningbouw\" komen.]\n*   Doelstellingen: [Hier zouden de doelstellingen met betrekking tot woningbouw vermeld worden.]\n*   Projecten:\n    *   Naam project 1: [Naam van project 1]\n    *   Datum start: 2023-01-15\n    *   URL: www.example.com/project1\n    *   Naam project 2: [Naam van project 2]\n    *   Datum voltooiing: 2024-12-31\n    *   URL: www.example.com/project2\n*   Contactgegevens: [Hier zouden de contactgegevens voor vragen over woningbouw vermeld worden.]",
+    "typ": "ämne",
     "antal": 1
   }
 }

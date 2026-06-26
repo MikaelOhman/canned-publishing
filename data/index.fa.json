@@ -7906,6 +7906,30 @@
     }
   },
   {
+    "id": "stockholm-kommunfullmaktige-2026-03-09",
+    "typ": "kommunbeslut",
+    "titel": "جلسه شورای شهر، شهرداری استکهلم، ۹ مارس ۲۰۲۶.",
+    "ingress": "شهرداری استکهلم، سوالات متعددی را از سوی سیاستمداران در مورد مسائل محلی دریافت کرده است، از جمله: * مشکلات مربوط به احساس ناامنی در منطقه Hjorthagen. * نیاز به بازسازی ایستگاه Spånga. * بهبود امکانات برای دوچرخه سواران.",
+    "datum": "2026-03-09",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunfullmaktige/mote-2026-03-09",
+    "taggar": [
+      "stockholm",
+      "kommunfullmaktige",
+      "kommunpolitik",
+      "stadsplanering",
+      "socialtjanst"
+    ],
+    "relevans": {
+      "konsumentratt": 3,
+      "pensionar": 3,
+      "bostadsagare": 3,
+      "glesbygd": 3,
+      "storstad": 3,
+      "fortroendevald": 3
+    }
+  },
+  {
     "id": "HD03155",
     "typ": "lagforslag",
     "titel": "یک فرآیند قضایی عادلانه‌تر و کارآمدتر.",
@@ -8945,6 +8969,35 @@
       "b_utbildning": 3,
       "ideell": 3,
       "smaforetag": 3
+    }
+  },
+  {
+    "id": "stockholm-kommunfullmaktige-2026-02-16",
+    "typ": "kommunbeslut",
+    "titel": "جلسه شورای شهر، شهرداری استکهلم، ۱۶ فوریه ۲۰۲۶.",
+    "ingress": "شهرداری استکهلم تصمیماتی در مورد چندین پروژه جدید مسکونی، ایجاد مناطق حفاظت‌شده طبیعی و بهبود امکانات ورزشی و همچنین جاده‌ها اتخاذ کرده است.",
+    "datum": "2026-02-16",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunfullmaktige/mote-2026-02-16",
+    "taggar": [
+      "stockholm",
+      "kommunfullmaktige",
+      "kommunpolitik",
+      "stadsplanering",
+      "bostadsbyggande"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "infrastruktur": 3,
+      "glesbygd": 3,
+      "storstad": 3,
+      "kronisk": 3,
+      "husdjur": 3,
+      "friluftsliv": 3,
+      "idrott": 5,
+      "klimat": 3,
+      "kultur": 3,
+      "fortroendevald": 3
     }
   },
   {

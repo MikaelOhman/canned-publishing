@@ -347,17 +347,17 @@
   "stockholm": {
     "etikett": "Stockholm:",
     "typ": "plats",
-    "antal": 8
+    "antal": 10
   },
   "kommunfullmaktige": {
     "etikett": "Municipal council.",
     "typ": "organisation",
-    "antal": 91
+    "antal": 93
   },
   "kommunpolitik": {
     "etikett": "Municipal politics.",
     "typ": "ämne",
-    "antal": 6
+    "antal": 8
   },
   "trafik": {
     "etikett": "Traffic.",
@@ -367,7 +367,7 @@
   "stadsplanering": {
     "etikett": "Urban planning.",
     "typ": "ämne",
-    "antal": 1
+    "antal": 3
   },
   "kommunstyrelsen": {
     "etikett": "The Municipal Board.",
@@ -1657,6 +1657,16 @@
   "ydre": {
     "etikett": "Ydre is a municipality located in the province of Östergötland, Sweden. It was formed in 1971 when the municipalities of Vätterstad and Eksjö were merged. The municipality covers an area of 2,450 square kilometers and has a population of approximately 18,000 people.\n\nThe municipality is characterized by its diverse landscape, which includes forests, lakes, and agricultural land. It is also home to several historical sites, including the medieval castle of Ydreborg.\n\nThe main industries in the municipality are agriculture, forestry, and tourism. There are also a number of small businesses that operate in the area.\n\nHere are some of the key features of the municipality:\n\n*   **Location:** Östergötland province, Sweden\n*   **Formation date:** 1971 (merger of Vätterstad and Eksjö municipalities)\n*   **Area:** 2,450 square kilometers\n*   **Population:** Approximately 18,000 people\n*   **Landscape:** Diverse, including forests, lakes, and agricultural land\n*   **Historical sites:** Ydreborg medieval castle\n*   **Main industries:** Agriculture, forestry, tourism, and small businesses",
     "typ": "plats",
+    "antal": 1
+  },
+  "socialtjanst": {
+    "etikett": "Social services.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "bostadsbyggande": {
+    "etikett": "Housing construction.",
+    "typ": "ämne",
     "antal": 1
   }
 }

@@ -7903,6 +7903,30 @@
     }
   },
   {
+    "id": "stockholm-kommunfullmaktige-2026-03-09",
+    "typ": "kommunbeslut",
+    "titel": "Consiliul Municipal al orașului Stockholm, 9 martie 2026.",
+    "ingress": "Primăria din Stockholm a primit numeroase întrebări de la politicieni referitoare la probleme locale, precum lipsa siguranței în zona Hjorthagen, modernizarea stației Spånga și îmbunătățiri pentru cicliști.",
+    "datum": "2026-03-09",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunfullmaktige/mote-2026-03-09",
+    "taggar": [
+      "stockholm",
+      "kommunfullmaktige",
+      "kommunpolitik",
+      "stadsplanering",
+      "socialtjanst"
+    ],
+    "relevans": {
+      "konsumentratt": 3,
+      "pensionar": 3,
+      "bostadsagare": 3,
+      "glesbygd": 3,
+      "storstad": 3,
+      "fortroendevald": 3
+    }
+  },
+  {
     "id": "HD03155",
     "typ": "lagforslag",
     "titel": "Un proces judiciar mai echitabil și mai eficient.",
@@ -8942,6 +8966,35 @@
       "b_utbildning": 3,
       "ideell": 3,
       "smaforetag": 3
+    }
+  },
+  {
+    "id": "stockholm-kommunfullmaktige-2026-02-16",
+    "typ": "kommunbeslut",
+    "titel": "Consiliul municipal al orașului Stockholm, 16 februarie 2026.",
+    "ingress": "Primăria Stockholmului a luat decizii cu privire la mai multe proiecte noi, printre care construcții de locuințe, crearea de rezervații naturale și îmbunătățirea infrastructurii sportive, precum și modernizarea drumurilor.",
+    "datum": "2026-02-16",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunfullmaktige/mote-2026-02-16",
+    "taggar": [
+      "stockholm",
+      "kommunfullmaktige",
+      "kommunpolitik",
+      "stadsplanering",
+      "bostadsbyggande"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "infrastruktur": 3,
+      "glesbygd": 3,
+      "storstad": 3,
+      "kronisk": 3,
+      "husdjur": 3,
+      "friluftsliv": 3,
+      "idrott": 5,
+      "klimat": 3,
+      "kultur": 3,
+      "fortroendevald": 3
     }
   },
   {

@@ -287,17 +287,17 @@
   "stockholm": {
     "etikett": "Stockholm.",
     "typ": "plats",
-    "antal": 9
+    "antal": 11
   },
   "kommunfullmaktige": {
     "etikett": "A települési közgyűlés.",
     "typ": "organisation",
-    "antal": 91
+    "antal": 93
   },
   "kommunpolitik": {
     "etikett": "Önkormányzati politika.",
     "typ": "ämne",
-    "antal": 5
+    "antal": 7
   },
   "trafik": {
     "etikett": "Közlekedés.",
@@ -1587,6 +1587,21 @@
   "ydre": {
     "etikett": "Ydre.",
     "typ": "plats",
+    "antal": 1
+  },
+  "stadsplanering": {
+    "etikett": "Várostervezés.",
+    "typ": "ämne",
+    "antal": 2
+  },
+  "socialtjanst": {
+    "etikett": "Szociális szolgáltatások.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "bostadsbyggande": {
+    "etikett": "Lakóépítészet.",
+    "typ": "ämne",
     "antal": 1
   }
 }

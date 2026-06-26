@@ -347,17 +347,17 @@
   "stockholm": {
     "etikett": "Stockholm",
     "typ": "plats",
-    "antal": 9
+    "antal": 11
   },
   "kommunfullmaktige": {
     "etikett": "Gemeindevertretung",
     "typ": "organisation",
-    "antal": 91
+    "antal": 93
   },
   "kommunpolitik": {
     "etikett": "Kommunalpolitik.",
     "typ": "ämne",
-    "antal": 6
+    "antal": 8
   },
   "trafik": {
     "etikett": "Verkehr.",
@@ -367,7 +367,7 @@
   "stadsplanering": {
     "etikett": "Stadtplanung.",
     "typ": "ämne",
-    "antal": 1
+    "antal": 3
   },
   "kommunstyrelsen": {
     "etikett": "Der Gemeinderat.",
@@ -1657,6 +1657,16 @@
   "ydre": {
     "etikett": "Ydre",
     "typ": "plats",
+    "antal": 1
+  },
+  "socialtjanst": {
+    "etikett": "Sozialdienst",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "bostadsbyggande": {
+    "etikett": "Wohnungsbau.",
+    "typ": "ämne",
     "antal": 1
   }
 }
