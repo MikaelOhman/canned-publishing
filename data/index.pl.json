@@ -7066,6 +7066,24 @@
     }
   },
   {
+    "id": "af-2026-04-09-aldre-fastnar-langre-i-arbetsloshet",
+    "typ": "myndighet",
+    "titel": "Osoby starszego pokolenia częściej i na dłużej pozostają bez pracy.",
+    "ingress": "Osoby starsze mają trudności ze znalezieniem nowych miejsc pracy w przypadku utraty zatrudnienia, często z powodu dyskryminacji ze względu na wiek. Ponieważ Szwecja potrzebuje więcej osób pracujących, ważne jest inwestowanie w edukację i wa",
+    "datum": "2026-04-09",
+    "kalla": "Arbetsförmedlingen",
+    "kalla_url": "https://arbetsformedlingen.se/om-oss/press/nyheter/nyhetsarkiv/2026-04-09-aldre-fastnar-langre-i-arbetsloshet",
+    "taggar": [
+      "arbetsmarknad",
+      "arbetsformedlingen"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "hbtq": 3,
+      "arbetssokande": 8
+    }
+  },
+  {
     "id": "HD03230",
     "typ": "lagforslag",
     "titel": "Odszkodowanie za ograniczenie możliwości korzystania z nieruchomości w związku z ochroną gatunków.",
@@ -7382,6 +7400,28 @@
     ]
   },
   {
+    "id": "af-2026-03-31-arbetet-mot-organiserad-brottslighet-ger-fortsatt-goda-resultat",
+    "typ": "myndighet",
+    "titel": "Walka z przestępczością zorganizowaną przynosi wciąż bardzo dobre rezultaty.",
+    "ingress": "W roku 2025, dzięki współpracy z innymi instytucjami rządowymi, urząd pracy (Arbetsförmedlingen) powstrzymał wypłatę nieprawidłowych środków w łącznej kwocie 39 milionów koron szwedzkich. Jest to element większej inicjatywy mającej na celu",
+    "datum": "2026-03-31",
+    "kalla": "Arbetsförmedlingen",
+    "kalla_url": "https://arbetsformedlingen.se/om-oss/press/nyheter/nyhetsarkiv/2026-03-31-arbetet-mot-organiserad-brottslighet-ger-fortsatt-goda-resultat",
+    "taggar": [
+      "arbetsmarknad",
+      "arbetsformedlingen"
+    ],
+    "relevans": {
+      "b_vard": 3,
+      "infrastruktur": 3,
+      "arbetssokande": 5,
+      "funktion": 3,
+      "batagare": 3,
+      "klimat": 3,
+      "otrygg": 8
+    }
+  },
+  {
     "id": "gavle-kommunfullmaktige-2026-03-30",
     "typ": "kommunbeslut",
     "titel": "Uchwała Rady Miejskiej, Gävle, 30 marca 2026 roku.",
@@ -7406,6 +7446,27 @@
       "fortroendevald": 5,
       "offentliganstalld": 4,
       "mark_bygglov": 3
+    }
+  },
+  {
+    "id": "af-2026-03-30-okat-tryck-mot-arbetslivskriminalitet",
+    "typ": "myndighet",
+    "titel": "Wzmożone działania przeciwko przestępczości w środowisku pracy.",
+    "ingress": "Władze, dzięki współpracy, zablokowały i odzyskały 187 milionów koron szwedzkich, które zostały przeznaczone na działalność przestępczą w miejscach pracy.",
+    "datum": "2026-03-30",
+    "kalla": "Arbetsförmedlingen",
+    "kalla_url": "https://arbetsformedlingen.se/om-oss/press/nyheter/nyhetsarkiv/2026-03-30-okat-tryck-mot-arbetslivskriminalitet",
+    "taggar": [
+      "arbetsmarknad",
+      "arbetsformedlingen"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "infrastruktur": 3,
+      "lontagare": 3,
+      "arbetssokande": 5,
+      "batagare": 3,
+      "otrygg": 3
     }
   },
   {

@@ -1783,5 +1783,15 @@
     "etikett": "Die schwedische Sozialversicherungsanstalt (Försäkringskassan).",
     "typ": "organisation",
     "antal": 5
+  },
+  "arbetsmarknad": {
+    "etikett": "Arbeitsmarkt",
+    "typ": "ämne",
+    "antal": 3
+  },
+  "arbetsformedlingen": {
+    "etikett": "Die Arbeitsagentur.",
+    "typ": "organisation",
+    "antal": 3
   }
 }

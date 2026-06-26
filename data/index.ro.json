@@ -6986,6 +6986,24 @@
     }
   },
   {
+    "id": "af-2026-04-09-aldre-fastnar-langre-i-arbetsloshet",
+    "typ": "myndighet",
+    "titel": "Persoanele mai în vârstă rămân mai mult timp fără loc de muncă.",
+    "ingress": "Persoanele în vârstă întâmpină adesea dificultăți în a găsi noi locuri de muncă dacă devin șomere, un fenomen frecvent cauzat de discriminarea bazată pe vârstă. Având în vedere că Suedia are nevoie de mai mulți oameni care să lucreze, este",
+    "datum": "2026-04-09",
+    "kalla": "Arbetsförmedlingen",
+    "kalla_url": "https://arbetsformedlingen.se/om-oss/press/nyheter/nyhetsarkiv/2026-04-09-aldre-fastnar-langre-i-arbetsloshet",
+    "taggar": [
+      "arbetsmarknad",
+      "arbetsformedlingen"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "hbtq": 3,
+      "arbetssokande": 8
+    }
+  },
+  {
     "id": "HD03230",
     "typ": "lagforslag",
     "titel": "Compensații pentru restricțiile de utilizare cauzate de protecția speciilor.",
@@ -7302,6 +7320,28 @@
     ]
   },
   {
+    "id": "af-2026-03-31-arbetet-mot-organiserad-brottslighet-ger-fortsatt-goda-resultat",
+    "typ": "myndighet",
+    "titel": "Lupta împotriva criminalității organizate continuă să dea rezultate foarte bune.",
+    "ingress": "Agenția Națională pentru Ocuparea Forței de Muncă a oprit plăți eronate în valoare totală de 39 de milioane de coroane suedeze în cursul anului 2025, printr-un parteneriat cu alte instituții guvernamentale. Aceasta face parte dintr-o iniția",
+    "datum": "2026-03-31",
+    "kalla": "Arbetsförmedlingen",
+    "kalla_url": "https://arbetsformedlingen.se/om-oss/press/nyheter/nyhetsarkiv/2026-03-31-arbetet-mot-organiserad-brottslighet-ger-fortsatt-goda-resultat",
+    "taggar": [
+      "arbetsmarknad",
+      "arbetsformedlingen"
+    ],
+    "relevans": {
+      "b_vard": 3,
+      "infrastruktur": 3,
+      "arbetssokande": 5,
+      "funktion": 3,
+      "batagare": 3,
+      "klimat": 3,
+      "otrygg": 8
+    }
+  },
+  {
     "id": "gavle-kommunfullmaktige-2026-03-30",
     "typ": "kommunbeslut",
     "titel": "Consiliul Municipal, Primăria Gävle, 30 martie 2026.",
@@ -7326,6 +7366,27 @@
       "fortroendevald": 5,
       "offentliganstalld": 4,
       "mark_bygglov": 3
+    }
+  },
+  {
+    "id": "af-2026-03-30-okat-tryck-mot-arbetslivskriminalitet",
+    "typ": "myndighet",
+    "titel": "Presiune crescută împotriva criminalității în domeniul muncii.",
+    "ingress": "Autoritățile, prin colaborare, au oprit și recuperat 187 de milioane de coroane suedeze care fuseseră deturnate pentru activități ilegale în locuri de muncă.",
+    "datum": "2026-03-30",
+    "kalla": "Arbetsförmedlingen",
+    "kalla_url": "https://arbetsformedlingen.se/om-oss/press/nyheter/nyhetsarkiv/2026-03-30-okat-tryck-mot-arbetslivskriminalitet",
+    "taggar": [
+      "arbetsmarknad",
+      "arbetsformedlingen"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "infrastruktur": 3,
+      "lontagare": 3,
+      "arbetssokande": 5,
+      "batagare": 3,
+      "otrygg": 3
     }
   },
   {

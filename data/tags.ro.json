@@ -1723,5 +1723,15 @@
     "etikett": "Casa de Asigurări Sociale (Försäkringskassan)",
     "typ": "organisation",
     "antal": 5
+  },
+  "arbetsmarknad": {
+    "etikett": "Piața muncii.",
+    "typ": "ämne",
+    "antal": 3
+  },
+  "arbetsformedlingen": {
+    "etikett": "Agenția Națională pentru Ocuparea Forței de Muncă.",
+    "typ": "organisation",
+    "antal": 3
   }
 }

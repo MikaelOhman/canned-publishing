@@ -1723,5 +1723,15 @@
     "etikett": "De Zweedse sociale zekerheidsinstantie.",
     "typ": "organisation",
     "antal": 5
+  },
+  "arbetsmarknad": {
+    "etikett": "Arbeidsmarkt",
+    "typ": "ämne",
+    "antal": 3
+  },
+  "arbetsformedlingen": {
+    "etikett": "De arbeidsbemiddeling.",
+    "typ": "organisation",
+    "antal": 3
   }
 }

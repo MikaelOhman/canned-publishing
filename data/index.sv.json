@@ -7135,6 +7135,24 @@
     }
   },
   {
+    "id": "af-2026-04-09-aldre-fastnar-langre-i-arbetsloshet",
+    "typ": "myndighet",
+    "titel": "Äldre fastnar längre i arbetslöshet",
+    "ingress": "Äldre personer har svårt att få nya jobb om de blir arbetslösa, ofta på grund av diskriminering baserat på ålder. Eftersom Sverige behöver fler arbetande människor är det viktigt att satsa på utbildning och motverka fördomar mot äldre.",
+    "datum": "2026-04-09",
+    "kalla": "Arbetsförmedlingen",
+    "kalla_url": "https://arbetsformedlingen.se/om-oss/press/nyheter/nyhetsarkiv/2026-04-09-aldre-fastnar-langre-i-arbetsloshet",
+    "taggar": [
+      "arbetsmarknad",
+      "arbetsformedlingen"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "hbtq": 3,
+      "arbetssokande": 8
+    }
+  },
+  {
     "id": "HD03230",
     "typ": "lagforslag",
     "titel": "Ersättning vid rådighetsinskränkningar till följd av artskyddet",
@@ -7451,6 +7469,28 @@
     ]
   },
   {
+    "id": "af-2026-03-31-arbetet-mot-organiserad-brottslighet-ger-fortsatt-goda-resultat",
+    "typ": "myndighet",
+    "titel": "Arbetet mot organiserad brottslighet ger fortsatt goda resultat",
+    "ingress": "Arbetsförmedlingen har under 2025 stoppat felaktiga utbetalningar på totalt 39 miljoner kronor genom ett samarbete med andra myndigheter. Detta är en del av en större satsning för att bekämpa organiserad brottslighet och bedrägerier.",
+    "datum": "2026-03-31",
+    "kalla": "Arbetsförmedlingen",
+    "kalla_url": "https://arbetsformedlingen.se/om-oss/press/nyheter/nyhetsarkiv/2026-03-31-arbetet-mot-organiserad-brottslighet-ger-fortsatt-goda-resultat",
+    "taggar": [
+      "arbetsmarknad",
+      "arbetsformedlingen"
+    ],
+    "relevans": {
+      "b_vard": 3,
+      "infrastruktur": 3,
+      "arbetssokande": 5,
+      "funktion": 3,
+      "batagare": 3,
+      "klimat": 3,
+      "otrygg": 8
+    }
+  },
+  {
     "id": "gavle-kommunfullmaktige-2026-03-30",
     "typ": "kommunbeslut",
     "titel": "Kommunfullmäktige, Gävle kommun 2026-03-30",
@@ -7475,6 +7515,27 @@
       "fortroendevald": 5,
       "offentliganstalld": 4,
       "mark_bygglov": 3
+    }
+  },
+  {
+    "id": "af-2026-03-30-okat-tryck-mot-arbetslivskriminalitet",
+    "typ": "myndighet",
+    "titel": "Ökat tryck mot arbetslivskriminalitet",
+    "ingress": "Myndigheter har genom samarbete stoppat och krävt tillbaka 187 miljoner kronor som gått till brottslig verksamhet på arbetsplatser.",
+    "datum": "2026-03-30",
+    "kalla": "Arbetsförmedlingen",
+    "kalla_url": "https://arbetsformedlingen.se/om-oss/press/nyheter/nyhetsarkiv/2026-03-30-okat-tryck-mot-arbetslivskriminalitet",
+    "taggar": [
+      "arbetsmarknad",
+      "arbetsformedlingen"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "infrastruktur": 3,
+      "lontagare": 3,
+      "arbetssokande": 5,
+      "batagare": 3,
+      "otrygg": 3
     }
   },
   {

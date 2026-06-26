@@ -100,5 +100,66 @@
       "sjukskriven": 8,
       "energikund": 8
     }
+  },
+  {
+    "id": "af-2026-04-09-aldre-fastnar-langre-i-arbetsloshet",
+    "typ": "myndighet",
+    "titel": "Ikääntyneet työttömät pysyvät työmarkkinoilla harvemmin ja pidempään.",
+    "ingress": "Ikääntyneillä ihmisillä on usein vaikeuksia löytää uusia työpaikkoja, jos he jäävät työttömiksi, mikä johtuu usein ikäpohjaisesta syrjinnästä. Koska Ruotsi tarvitsee lisää työvoimaa, on tärkeää panostaa koulutukseen ja torjua ennakkoluuloja",
+    "datum": "2026-04-09",
+    "kalla": "Arbetsförmedlingen",
+    "kalla_url": "https://arbetsformedlingen.se/om-oss/press/nyheter/nyhetsarkiv/2026-04-09-aldre-fastnar-langre-i-arbetsloshet",
+    "taggar": [
+      "arbetsmarknad",
+      "arbetsformedlingen"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "hbtq": 3,
+      "arbetssokande": 8
+    }
+  },
+  {
+    "id": "af-2026-03-31-arbetet-mot-organiserad-brottslighet-ger-fortsatt-goda-resultat",
+    "typ": "myndighet",
+    "titel": "Työ organisoidun rikollisuuden torjumiseksi tuottaa edelleen hyviä tuloksia.",
+    "ingress": "Työ- ja elinkeinotoimisto on vuoden 2025 aikana pysäyttänyt virheellisiä maksusuorituksia yhteensä 39 miljoonan kruunan arvolta, yhteistyössä muiden viranomaisten kanssa. Tämä on osa laajempaa ponnistusta järjestäytyneen rikollisuuden ja pe",
+    "datum": "2026-03-31",
+    "kalla": "Arbetsförmedlingen",
+    "kalla_url": "https://arbetsformedlingen.se/om-oss/press/nyheter/nyhetsarkiv/2026-03-31-arbetet-mot-organiserad-brottslighet-ger-fortsatt-goda-resultat",
+    "taggar": [
+      "arbetsmarknad",
+      "arbetsformedlingen"
+    ],
+    "relevans": {
+      "b_vard": 3,
+      "infrastruktur": 3,
+      "arbetssokande": 5,
+      "funktion": 3,
+      "batagare": 3,
+      "klimat": 3,
+      "otrygg": 8
+    }
+  },
+  {
+    "id": "af-2026-03-30-okat-tryck-mot-arbetslivskriminalitet",
+    "typ": "myndighet",
+    "titel": "Lisääntyvä paine työelämän rikollisuuden torjumiseksi.",
+    "ingress": "Viranomaiset ovat yhteistyön avulla pysäyttäneet ja takaisin vaatineet 187 miljoonan kruunun summan, joka on päätynyt rikolliseen toimintaan työpaikoilla.",
+    "datum": "2026-03-30",
+    "kalla": "Arbetsförmedlingen",
+    "kalla_url": "https://arbetsformedlingen.se/om-oss/press/nyheter/nyhetsarkiv/2026-03-30-okat-tryck-mot-arbetslivskriminalitet",
+    "taggar": [
+      "arbetsmarknad",
+      "arbetsformedlingen"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "infrastruktur": 3,
+      "lontagare": 3,
+      "arbetssokande": 5,
+      "batagare": 3,
+      "otrygg": 3
+    }
   }
 ]

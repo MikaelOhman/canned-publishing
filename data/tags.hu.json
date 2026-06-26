@@ -1723,5 +1723,15 @@
     "etikett": "A Svéd Biztosítási Alap (Försäkringskassan).",
     "typ": "organisation",
     "antal": 5
+  },
+  "arbetsmarknad": {
+    "etikett": "A munkaerőpiac.",
+    "typ": "ämne",
+    "antal": 3
+  },
+  "arbetsformedlingen": {
+    "etikett": "A svéd Munkaügyi Központ (Arbetsförmedlingen).",
+    "typ": "organisation",
+    "antal": 3
   }
 }

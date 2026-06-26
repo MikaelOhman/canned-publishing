@@ -1723,5 +1723,15 @@
     "etikett": "سازمان تامین اجتماعی (Försäkringskassan)",
     "typ": "organisation",
     "antal": 5
+  },
+  "arbetsmarknad": {
+    "etikett": "بازار کار",
+    "typ": "ämne",
+    "antal": 3
+  },
+  "arbetsformedlingen": {
+    "etikett": "سازمان کاریابی سوئد (Arbetsförmedlingen)",
+    "typ": "organisation",
+    "antal": 3
   }
 }

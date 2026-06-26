@@ -7128,6 +7128,24 @@
     }
   },
   {
+    "id": "af-2026-04-09-aldre-fastnar-langre-i-arbetsloshet",
+    "typ": "myndighet",
+    "titel": "Older workers tend to experience longer periods of unemployment.",
+    "ingress": "Older individuals often face difficulties finding new jobs if they become unemployed, frequently due to age-based discrimination. Given that Sweden needs more people in the workforce, it is crucial to invest in education and combat prejudic",
+    "datum": "2026-04-09",
+    "kalla": "Arbetsförmedlingen",
+    "kalla_url": "https://arbetsformedlingen.se/om-oss/press/nyheter/nyhetsarkiv/2026-04-09-aldre-fastnar-langre-i-arbetsloshet",
+    "taggar": [
+      "arbetsmarknad",
+      "arbetsformedlingen"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "hbtq": 3,
+      "arbetssokande": 8
+    }
+  },
+  {
     "id": "HD03230",
     "typ": "lagforslag",
     "titel": "Compensation for restrictions on use due to nature conservation regulations.",
@@ -7444,6 +7462,28 @@
     ]
   },
   {
+    "id": "af-2026-03-31-arbetet-mot-organiserad-brottslighet-ger-fortsatt-goda-resultat",
+    "typ": "myndighet",
+    "titel": "The work against organized crime continues to yield positive results.",
+    "ingress": "In 2025, the Swedish Public Employment Service (Arbetsförmedlingen) prevented incorrect payments totaling 39 million kronor through a collaboration with other government agencies. This is part of a larger initiative to combat organized crim",
+    "datum": "2026-03-31",
+    "kalla": "Arbetsförmedlingen",
+    "kalla_url": "https://arbetsformedlingen.se/om-oss/press/nyheter/nyhetsarkiv/2026-03-31-arbetet-mot-organiserad-brottslighet-ger-fortsatt-goda-resultat",
+    "taggar": [
+      "arbetsmarknad",
+      "arbetsformedlingen"
+    ],
+    "relevans": {
+      "b_vard": 3,
+      "infrastruktur": 3,
+      "arbetssokande": 5,
+      "funktion": 3,
+      "batagare": 3,
+      "klimat": 3,
+      "otrygg": 8
+    }
+  },
+  {
     "id": "gavle-kommunfullmaktige-2026-03-30",
     "typ": "kommunbeslut",
     "titel": "Municipal Council, Gävle Municipality, March 30, 2026.",
@@ -7468,6 +7508,27 @@
       "fortroendevald": 5,
       "offentliganstalld": 4,
       "mark_bygglov": 3
+    }
+  },
+  {
+    "id": "af-2026-03-30-okat-tryck-mot-arbetslivskriminalitet",
+    "typ": "myndighet",
+    "titel": "Increased pressure to combat labor market crime.",
+    "ingress": "Government agencies, through collaboration, have stopped and recovered 187 million Swedish krona that had been diverted to criminal activities in workplaces.",
+    "datum": "2026-03-30",
+    "kalla": "Arbetsförmedlingen",
+    "kalla_url": "https://arbetsformedlingen.se/om-oss/press/nyheter/nyhetsarkiv/2026-03-30-okat-tryck-mot-arbetslivskriminalitet",
+    "taggar": [
+      "arbetsmarknad",
+      "arbetsformedlingen"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "infrastruktur": 3,
+      "lontagare": 3,
+      "arbetssokande": 5,
+      "batagare": 3,
+      "otrygg": 3
     }
   },
   {

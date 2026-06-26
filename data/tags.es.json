@@ -1723,5 +1723,15 @@
     "etikett": "La Caixa de Seguros (Försäkringskassan).",
     "typ": "organisation",
     "antal": 5
+  },
+  "arbetsmarknad": {
+    "etikett": "Mercado laboral.",
+    "typ": "ämne",
+    "antal": 3
+  },
+  "arbetsformedlingen": {
+    "etikett": "Servicio Nacional de Empleo (o Agencia Pública de Empleo).",
+    "typ": "organisation",
+    "antal": 3
   }
 }

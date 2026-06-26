@@ -6989,6 +6989,24 @@
     }
   },
   {
+    "id": "af-2026-04-09-aldre-fastnar-langre-i-arbetsloshet",
+    "typ": "myndighet",
+    "titel": "افراد مسن‌تر، مدت زمان بیشتری را در وضعیت بیکاری سپری می‌کنند.",
+    "ingress": "افراد مسن در یافتن شغل جدید، به ویژه زمانی که بیکار می‌شوند، اغلب با مشکل مواجه هستند، و این موضوع معمولاً ناشی از تبعیض مبتنی بر سن است. از آنجایی که سوئد به نیروی کار بیشتری نیاز دارد، سرمایه‌گذاری در آموزش و مبارزه با تعصبات علیه افراد م",
+    "datum": "2026-04-09",
+    "kalla": "Arbetsförmedlingen",
+    "kalla_url": "https://arbetsformedlingen.se/om-oss/press/nyheter/nyhetsarkiv/2026-04-09-aldre-fastnar-langre-i-arbetsloshet",
+    "taggar": [
+      "arbetsmarknad",
+      "arbetsformedlingen"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "hbtq": 3,
+      "arbetssokande": 8
+    }
+  },
+  {
     "id": "HD03230",
     "typ": "lagforslag",
     "titel": "جبران خسارت در مواردی که محدودیت در استفاده از ملک به دلیل قوانین حفاظت از گونه‌های جانوری ایجاد شود.",
@@ -7305,6 +7323,28 @@
     ]
   },
   {
+    "id": "af-2026-03-31-arbetet-mot-organiserad-brottslighet-ger-fortsatt-goda-resultat",
+    "typ": "myndighet",
+    "titel": "اقدامات انجام شده در مبارزه با جرایم سازمان‌یافته، همچنان نتایج مثبتی به همراه داشته است.",
+    "ingress": "سازمان کاریابی سوئد (Arbetsförmedlingen) در سال 2025، با همکاری سایر سازمان‌های دولتی، از پرداخت‌های نادرست به مبلغ کل 39 میلیون کرون جلوگیری کرده است. این اقدام بخشی از یک طرح بزرگتر برای مبارزه با جرایم سازمان یافته و کلاهبرداری‌ها است.",
+    "datum": "2026-03-31",
+    "kalla": "Arbetsförmedlingen",
+    "kalla_url": "https://arbetsformedlingen.se/om-oss/press/nyheter/nyhetsarkiv/2026-03-31-arbetet-mot-organiserad-brottslighet-ger-fortsatt-goda-resultat",
+    "taggar": [
+      "arbetsmarknad",
+      "arbetsformedlingen"
+    ],
+    "relevans": {
+      "b_vard": 3,
+      "infrastruktur": 3,
+      "arbetssokande": 5,
+      "funktion": 3,
+      "batagare": 3,
+      "klimat": 3,
+      "otrygg": 8
+    }
+  },
+  {
     "id": "gavle-kommunfullmaktige-2026-03-30",
     "typ": "kommunbeslut",
     "titel": "جلسه شورای شهر، شهرداری گاوِل، تاریخ 30 مارس 2026.",
@@ -7329,6 +7369,27 @@
       "fortroendevald": 5,
       "offentliganstalld": 4,
       "mark_bygglov": 3
+    }
+  },
+  {
+    "id": "af-2026-03-30-okat-tryck-mot-arbetslivskriminalitet",
+    "typ": "myndighet",
+    "titel": "افزایش فشار برای مقابله با جرایم مرتبط با محیط کار.",
+    "ingress": "مقامات، از طریق همکاری، فعالیت‌های مجرمانه در محیط کار را متوقف کرده و مبلغ ۱۸۷ میلیون کرون که به این فعالیت‌ها اختصاص یافته بود، بازپس گرفته‌اند.",
+    "datum": "2026-03-30",
+    "kalla": "Arbetsförmedlingen",
+    "kalla_url": "https://arbetsformedlingen.se/om-oss/press/nyheter/nyhetsarkiv/2026-03-30-okat-tryck-mot-arbetslivskriminalitet",
+    "taggar": [
+      "arbetsmarknad",
+      "arbetsformedlingen"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "infrastruktur": 3,
+      "lontagare": 3,
+      "arbetssokande": 5,
+      "batagare": 3,
+      "otrygg": 3
     }
   },
   {

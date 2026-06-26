@@ -7069,6 +7069,24 @@
     }
   },
   {
+    "id": "af-2026-04-09-aldre-fastnar-langre-i-arbetsloshet",
+    "typ": "myndighet",
+    "titel": "Las personas mayores tardan más en encontrar empleo.\n\n*   Mayor dificultad para reinsertarse en el mercado laboral.\n*   Menor demanda de profesionales con experiencia.\n*   Necesidad de actualizar habilidades y conocimientos.",
+    "ingress": "A las personas mayores les resulta difícil encontrar nuevos empleos si se quedan sin trabajo, a menudo debido a la discriminación basada en la edad. Dado que Suecia necesita más trabajadores, es importante invertir en educación y combatir l",
+    "datum": "2026-04-09",
+    "kalla": "Arbetsförmedlingen",
+    "kalla_url": "https://arbetsformedlingen.se/om-oss/press/nyheter/nyhetsarkiv/2026-04-09-aldre-fastnar-langre-i-arbetsloshet",
+    "taggar": [
+      "arbetsmarknad",
+      "arbetsformedlingen"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "hbtq": 3,
+      "arbetssokande": 8
+    }
+  },
+  {
     "id": "HD03230",
     "typ": "lagforslag",
     "titel": "Compensación por restricciones de derechos derivadas de la protección de especies.",
@@ -7385,6 +7403,28 @@
     ]
   },
   {
+    "id": "af-2026-03-31-arbetet-mot-organiserad-brottslighet-ger-fortsatt-goda-resultat",
+    "typ": "myndighet",
+    "titel": "La lucha contra el crimen organizado sigue obteniendo buenos resultados.",
+    "ingress": "Durante el año 2025, la Agencia de Empleo Sueca (Arbetsförmedlingen) ha detenido pagos incorrectos por un total de 39 millones de coronas suecas gracias a una colaboración con otras agencias gubernamentales. Esto forma parte de una iniciati",
+    "datum": "2026-03-31",
+    "kalla": "Arbetsförmedlingen",
+    "kalla_url": "https://arbetsformedlingen.se/om-oss/press/nyheter/nyhetsarkiv/2026-03-31-arbetet-mot-organiserad-brottslighet-ger-fortsatt-goda-resultat",
+    "taggar": [
+      "arbetsmarknad",
+      "arbetsformedlingen"
+    ],
+    "relevans": {
+      "b_vard": 3,
+      "infrastruktur": 3,
+      "arbetssokande": 5,
+      "funktion": 3,
+      "batagare": 3,
+      "klimat": 3,
+      "otrygg": 8
+    }
+  },
+  {
     "id": "gavle-kommunfullmaktige-2026-03-30",
     "typ": "kommunbeslut",
     "titel": "Ayuntamiento de Gävle, 30 de marzo de 2026.",
@@ -7409,6 +7449,27 @@
       "fortroendevald": 5,
       "offentliganstalld": 4,
       "mark_bygglov": 3
+    }
+  },
+  {
+    "id": "af-2026-03-30-okat-tryck-mot-arbetslivskriminalitet",
+    "typ": "myndighet",
+    "titel": "Mayor presión contra la delincuencia laboral.",
+    "ingress": "Las autoridades, a través de la colaboración, han detenido y recuperado 187 millones de coronas suecas que habían sido desviados hacia actividades ilícitas en lugares de trabajo.",
+    "datum": "2026-03-30",
+    "kalla": "Arbetsförmedlingen",
+    "kalla_url": "https://arbetsformedlingen.se/om-oss/press/nyheter/nyhetsarkiv/2026-03-30-okat-tryck-mot-arbetslivskriminalitet",
+    "taggar": [
+      "arbetsmarknad",
+      "arbetsformedlingen"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "infrastruktur": 3,
+      "lontagare": 3,
+      "arbetssokande": 5,
+      "batagare": 3,
+      "otrygg": 3
     }
   },
   {

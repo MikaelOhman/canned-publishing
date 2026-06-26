@@ -1723,5 +1723,15 @@
     "etikett": "La Försäkringskassan (Caisse d'Assurance Sociale).",
     "typ": "organisation",
     "antal": 5
+  },
+  "arbetsmarknad": {
+    "etikett": "Marché du travail.",
+    "typ": "ämne",
+    "antal": 3
+  },
+  "arbetsformedlingen": {
+    "etikett": "L'agence nationale pour l'emploi (Arbetsförmedlingen).",
+    "typ": "organisation",
+    "antal": 3
   }
 }

@@ -6964,6 +6964,24 @@
     }
   },
   {
+    "id": "af-2026-04-09-aldre-fastnar-langre-i-arbetsloshet",
+    "typ": "myndighet",
+    "titel": "A korábbiakhoz képest a dolgozóknak tovább tart a munkanélküliségből való kilépés.",
+    "ingress": "Az idősebbek számára nehéz új állást találniuk, ha munkanélkülivé válnak, gyakran az életkoron alapuló diszkrimináció miatt. Mivel Svédországnak több dolgozóra van szüksége, fontos a képzés támogatása és a korfaji előítéletek elleni fellépé",
+    "datum": "2026-04-09",
+    "kalla": "Arbetsförmedlingen",
+    "kalla_url": "https://arbetsformedlingen.se/om-oss/press/nyheter/nyhetsarkiv/2026-04-09-aldre-fastnar-langre-i-arbetsloshet",
+    "taggar": [
+      "arbetsmarknad",
+      "arbetsformedlingen"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "hbtq": 3,
+      "arbetssokande": 8
+    }
+  },
+  {
     "id": "HD03230",
     "typ": "lagforslag",
     "titel": "Kártérítés a fajok védelméből adódó tulajdonjogi korlátozások esetén.",
@@ -7280,6 +7298,28 @@
     ]
   },
   {
+    "id": "af-2026-03-31-arbetet-mot-organiserad-brottslighet-ger-fortsatt-goda-resultat",
+    "typ": "myndighet",
+    "titel": "A szervezett bűnözettel szembeni küzdelem továbbra is jó eredményeket hoz.",
+    "ingress": "A svéd Munkaügyi Hivatal (Arbetsförmedlingen) 2025-ben több mint 39 millió korona visszafizetését valósította meg, helytelen kifizetésekkel kapcsolatban, egy más intézményekkel való együttműködés eredményeként. Ez része egy nagyobb programn",
+    "datum": "2026-03-31",
+    "kalla": "Arbetsförmedlingen",
+    "kalla_url": "https://arbetsformedlingen.se/om-oss/press/nyheter/nyhetsarkiv/2026-03-31-arbetet-mot-organiserad-brottslighet-ger-fortsatt-goda-resultat",
+    "taggar": [
+      "arbetsmarknad",
+      "arbetsformedlingen"
+    ],
+    "relevans": {
+      "b_vard": 3,
+      "infrastruktur": 3,
+      "arbetssokande": 5,
+      "funktion": 3,
+      "batagare": 3,
+      "klimat": 3,
+      "otrygg": 8
+    }
+  },
+  {
     "id": "gavle-kommunfullmaktige-2026-03-30",
     "typ": "kommunbeslut",
     "titel": "Gävle város önkormányzatának közgyűlése, 2026. március 30.",
@@ -7304,6 +7344,27 @@
       "fortroendevald": 5,
       "offentliganstalld": 4,
       "mark_bygglov": 3
+    }
+  },
+  {
+    "id": "af-2026-03-30-okat-tryck-mot-arbetslivskriminalitet",
+    "typ": "myndighet",
+    "titel": "A munkahelyi visszaélések elleni küzdelem intenzívebbé vált.",
+    "ingress": "A hatóságok a közös erőfeszítések eredményeként megakadályozták és visszaszerezték azokat az 187 millió svéd koronát, amelyek bűnözői tevékenységekre kerültek felhasználásra munkahelyeken.",
+    "datum": "2026-03-30",
+    "kalla": "Arbetsförmedlingen",
+    "kalla_url": "https://arbetsformedlingen.se/om-oss/press/nyheter/nyhetsarkiv/2026-03-30-okat-tryck-mot-arbetslivskriminalitet",
+    "taggar": [
+      "arbetsmarknad",
+      "arbetsformedlingen"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "infrastruktur": 3,
+      "lontagare": 3,
+      "arbetssokande": 5,
+      "batagare": 3,
+      "otrygg": 3
     }
   },
   {

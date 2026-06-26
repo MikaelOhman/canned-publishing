@@ -1823,5 +1823,15 @@
     "etikett": "Försäkringskassan",
     "typ": "organisation",
     "antal": 5
+  },
+  "arbetsmarknad": {
+    "etikett": "Arbetsmarknad",
+    "typ": "ämne",
+    "antal": 3
+  },
+  "arbetsformedlingen": {
+    "etikett": "Arbetsförmedlingen",
+    "typ": "organisation",
+    "antal": 3
   }
 }

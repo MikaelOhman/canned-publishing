@@ -1788,5 +1788,15 @@
     "etikett": "The Swedish Social Insurance Agency (Försäkringskassan).",
     "typ": "organisation",
     "antal": 5
+  },
+  "arbetsmarknad": {
+    "etikett": "Labor Market\n\n*   [Date]\n*   [URL]",
+    "typ": "ämne",
+    "antal": 3
+  },
+  "arbetsformedlingen": {
+    "etikett": "The Public Employment Service (PES).",
+    "typ": "organisation",
+    "antal": 3
   }
 }
