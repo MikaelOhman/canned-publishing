@@ -1478,5 +1478,15 @@
     "etikett": "امضای دیجیتال معتبر.",
     "typ": "organisation",
     "antal": 1
+  },
+  "timra": {
+    "etikett": "تیمرا",
+    "typ": "plats",
+    "antal": 1
+  },
+  "kommunala-tillganglighet-och-pensionarsr": {
+    "etikett": "شورای محلی دسترسی و شورای بازنشستگان\n\n(یا: کمیته‌های محلی مربوط به دسترسی و حقوق بازنشستگان)",
+    "typ": "organisation",
+    "antal": 1
   }
 }

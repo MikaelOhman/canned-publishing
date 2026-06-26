@@ -1483,5 +1483,15 @@
     "etikett": "Certificado digital emitido por una entidad de certificación.",
     "typ": "organisation",
     "antal": 1
+  },
+  "timra": {
+    "etikett": "Timrå.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "kommunala-tillganglighet-och-pensionarsr": {
+    "etikett": "Accesibilidad municipal y el consejo de jubilados.",
+    "typ": "organisation",
+    "antal": 1
   }
 }
