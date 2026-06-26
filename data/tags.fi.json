@@ -128,5 +128,1840 @@
     "etikett": "Katastrofi.",
     "typ": "ämne",
     "antal": 1
+  },
+  "brott": {
+    "etikett": "Brott",
+    "typ": "ämne",
+    "antal": 3
+  },
+  "migration": {
+    "etikett": "Migration",
+    "typ": "ämne",
+    "antal": 7
+  },
+  "sekt": {
+    "etikett": "Sekt",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "manniskohandel": {
+    "etikett": "Människohandel",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "religion": {
+    "etikett": "Religion",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "vard": {
+    "etikett": "Vård",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "psykiatri": {
+    "etikett": "Psykiatri",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "dodsfall": {
+    "etikett": "Dödsfall",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "kritik": {
+    "etikett": "Kritik",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "belfast": {
+    "etikett": "Belfast",
+    "typ": "plats",
+    "antal": 1
+  },
+  "nordirland": {
+    "etikett": "Nordirland",
+    "typ": "plats",
+    "antal": 1
+  },
+  "hallefors": {
+    "etikett": "Hällefors",
+    "typ": "plats",
+    "antal": 1
+  },
+  "tanum": {
+    "etikett": "Tanum",
+    "typ": "plats",
+    "antal": 1
+  },
+  "polis": {
+    "etikett": "Polis",
+    "typ": "organisation",
+    "antal": 2
+  },
+  "riksdagen": {
+    "etikett": "Riksdagen",
+    "typ": "organisation",
+    "antal": 726
+  },
+  "straffratt": {
+    "etikett": "Straffrätt",
+    "typ": "ämne",
+    "antal": 4
+  },
+  "kulturpolitik": {
+    "etikett": "Kulturpolitik",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "film": {
+    "etikett": "Film",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "svenska-filminstitutet": {
+    "etikett": "Svenska Filminstitutet",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "regeringen": {
+    "etikett": "Regeringen",
+    "typ": "organisation",
+    "antal": 10
+  },
+  "forvaltningsratt": {
+    "etikett": "Förvaltningsrätt",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "lagstiftning": {
+    "etikett": "Lagstiftning",
+    "typ": "händelse",
+    "antal": 7
+  },
+  "underrattelsetjanst": {
+    "etikett": "Underrättelsetjänst",
+    "typ": "ämne",
+    "antal": 2
+  },
+  "sverige": {
+    "etikett": "Sverige",
+    "typ": "plats",
+    "antal": 4
+  },
+  "sveriges-utrikes-underrattelsetjanst": {
+    "etikett": "Sveriges utrikes underrättelsetjänst",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "dataskydd": {
+    "etikett": "Dataskydd",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "personuppgifter": {
+    "etikett": "Personuppgifter",
+    "typ": "ämne",
+    "antal": 2
+  },
+  "nationell-sakerhet": {
+    "etikett": "Nationell säkerhet",
+    "typ": "ämne",
+    "antal": 2
+  },
+  "rattssakerhet": {
+    "etikett": "Rättssäkerhet",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "migrationsverket": {
+    "etikett": "Migrationsverket",
+    "typ": "organisation",
+    "antal": 6
+  },
+  "polismyndigheten": {
+    "etikett": "Polismyndigheten",
+    "typ": "organisation",
+    "antal": 2
+  },
+  "sakerhetspolisen": {
+    "etikett": "Säkerhetspolisen",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "domstolar": {
+    "etikett": "Domstolar",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "rattsstat": {
+    "etikett": "Rättsstat",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "domares-oberoende": {
+    "etikett": "Domares oberoende",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "arresteringsorder": {
+    "etikett": "Arresteringsorder",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "eu-ratt": {
+    "etikett": "EU-rätt",
+    "typ": "ämne",
+    "antal": 9
+  },
+  "statligt-agande": {
+    "etikett": "Statligt ägande",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "ekonomi": {
+    "etikett": "Ekonomi",
+    "typ": "ämne",
+    "antal": 17
+  },
+  "bolagsforvaltning": {
+    "etikett": "Bolagsförvaltning",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "riksrevisionen": {
+    "etikett": "Riksrevisionen",
+    "typ": "organisation",
+    "antal": 6
+  },
+  "hogre-utbildning": {
+    "etikett": "Högre utbildning",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "riksrevisionens-granskning": {
+    "etikett": "Riksrevisionens granskning",
+    "typ": "händelse",
+    "antal": 1
+  },
+  "utbildningspolitik": {
+    "etikett": "Utbildningspolitik",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "batteriforordningen": {
+    "etikett": "Batteriförordningen",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "marknadskontroll": {
+    "etikett": "Marknadskontroll",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "miljolagstiftning": {
+    "etikett": "Miljölagstiftning",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "bostadspolitik": {
+    "etikett": "Bostadspolitik",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "hyresratt": {
+    "etikett": "Hyresrätt",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "hyreslagstiftning": {
+    "etikett": "Hyreslagstiftning",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "fastighetsmarknaden": {
+    "etikett": "Fastighetsmarknaden",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "skatt": {
+    "etikett": "Skatt",
+    "typ": "ämne",
+    "antal": 6
+  },
+  "finansmarknad": {
+    "etikett": "Finansmarknad",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "kreditinstitut": {
+    "etikett": "Kreditinstitut",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "subventionsbrott": {
+    "etikett": "Subventionsbrott",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "foretagsstod": {
+    "etikett": "Företagsstöd",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "allmanna-arvsfonden": {
+    "etikett": "Allmänna arvsfonden",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "statsbudget": {
+    "etikett": "Statsbudget",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "forvaltning": {
+    "etikett": "Förvaltning",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "underrattelseverksamhet": {
+    "etikett": "Underrättelseverksamhet",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "hedersrelaterat-vald": {
+    "etikett": "Hedersrelaterat våld",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "kvinnoratt": {
+    "etikett": "Kvinnorätt",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "brottsbalken": {
+    "etikett": "Brottsbalken",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "fastighetsskatt": {
+    "etikett": "Fastighetsskatt",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "vindkraft": {
+    "etikett": "Vindkraft",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "skatteratt": {
+    "etikett": "Skatterätt",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "energi": {
+    "etikett": "Energi",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "lagandring": {
+    "etikett": "Lagändring",
+    "typ": "händelse",
+    "antal": 1
+  },
+  "forsvar": {
+    "etikett": "Försvar",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "forsvarsindustri": {
+    "etikett": "Försvarsindustri",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "innovation": {
+    "etikett": "Innovation",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "stockholm": {
+    "etikett": "Stockholms",
+    "typ": "plats",
+    "antal": 12
+  },
+  "kommunstyrelsen": {
+    "etikett": "Kommunstyrelsen",
+    "typ": "organisation",
+    "antal": 74
+  },
+  "kommunallagen": {
+    "etikett": "Kommunallagen",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "fastighetsratt": {
+    "etikett": "Fastighetsrätt",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "kommunfullmaktige": {
+    "etikett": "Kommunfullmäktige",
+    "typ": "organisation",
+    "antal": 93
+  },
+  "kommunpolitik": {
+    "etikett": "Kommunpolitik",
+    "typ": "ämne",
+    "antal": 8
+  },
+  "trafik": {
+    "etikett": "Trafik",
+    "typ": "ämne",
+    "antal": 2
+  },
+  "stadsplanering": {
+    "etikett": "Stadsplanering",
+    "typ": "ämne",
+    "antal": 3
+  },
+  "kommunal-forvaltning": {
+    "etikett": "Kommunal förvaltning",
+    "typ": "ämne",
+    "antal": 6
+  },
+  "digitalisering": {
+    "etikett": "Digitalisering",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "ecb": {
+    "etikett": "ECB",
+    "typ": "organisation",
+    "antal": 9
+  },
+  "eu": {
+    "etikett": "EU",
+    "typ": "organisation",
+    "antal": 21
+  },
+  "eu-kommissionen": {
+    "etikett": "EU-kommissionen",
+    "typ": "organisation",
+    "antal": 14
+  },
+  "orebro": {
+    "etikett": "Örebro",
+    "typ": "plats",
+    "antal": 5
+  },
+  "kommunal-ekonomi": {
+    "etikett": "Kommunal ekonomi",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "protokoll": {
+    "etikett": "Protokoll",
+    "typ": "händelse",
+    "antal": 10
+  },
+  "alingsas": {
+    "etikett": "Alingsås",
+    "typ": "plats",
+    "antal": 23
+  },
+  "alingsas-kommun": {
+    "etikett": "Alingsås kommun",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "budget": {
+    "etikett": "Budget",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "bollebygd": {
+    "etikett": "Bollebygds",
+    "typ": "plats",
+    "antal": 25
+  },
+  "ulf-rapp": {
+    "etikett": "Ulf Rapp",
+    "typ": "person",
+    "antal": 1
+  },
+  "gavle": {
+    "etikett": "Gävle",
+    "typ": "plats",
+    "antal": 17
+  },
+  "gavle-kommun": {
+    "etikett": "Gävle kommun",
+    "typ": "organisation",
+    "antal": 2
+  },
+  "kommunalpolitik": {
+    "etikett": "Kommunalpolitik",
+    "typ": "ämne",
+    "antal": 6
+  },
+  "umea": {
+    "etikett": "Umeå",
+    "typ": "plats",
+    "antal": 1
+  },
+  "an": {
+    "etikett": "ÄN",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "aldrenamnden": {
+    "etikett": "Äldrenämnden",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "aldreomsorg": {
+    "etikett": "Äldreomsorg",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "upphandling": {
+    "etikett": "Upphandling",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "ange": {
+    "etikett": "Ånge",
+    "typ": "plats",
+    "antal": 23
+  },
+  "ange-kommun": {
+    "etikett": "Ånge kommun",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "hylte": {
+    "etikett": "Hylte",
+    "typ": "plats",
+    "antal": 9
+  },
+  "hylte-kommun": {
+    "etikett": "Hylte kommun",
+    "typ": "plats",
+    "antal": 1
+  },
+  "lekeberg": {
+    "etikett": "Lekebergs",
+    "typ": "plats",
+    "antal": 10
+  },
+  "malmo": {
+    "etikett": "Malmö",
+    "typ": "plats",
+    "antal": 13
+  },
+  "norrtalje": {
+    "etikett": "Norrtälje",
+    "typ": "plats",
+    "antal": 9
+  },
+  "almhult": {
+    "etikett": "Älmhults",
+    "typ": "plats",
+    "antal": 2
+  },
+  "utbildningsnamndens-sprotokoll": {
+    "etikett": "Utbildningsnämndens sprotokoll",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "alvkarleby": {
+    "etikett": "Älvkarleby",
+    "typ": "plats",
+    "antal": 3
+  },
+  "kf": {
+    "etikett": "KF",
+    "typ": "organisation",
+    "antal": 2
+  },
+  "bjuv": {
+    "etikett": "Bjuvs",
+    "typ": "plats",
+    "antal": 2
+  },
+  "grannehorande-skromberga-12-14": {
+    "etikett": "Grannehörande SKROMBERGA 12 14",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "boras": {
+    "etikett": "Borås",
+    "typ": "plats",
+    "antal": 2
+  },
+  "burlov": {
+    "etikett": "Burlövs",
+    "typ": "plats",
+    "antal": 3
+  },
+  "sn": {
+    "etikett": "SN",
+    "typ": "organisation",
+    "antal": 2
+  },
+  "emmaboda": {
+    "etikett": "Emmaboda",
+    "typ": "plats",
+    "antal": 2
+  },
+  "socialnamnden-signerat": {
+    "etikett": "Socialnämnden signerat",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "gnesta": {
+    "etikett": "Gnesta",
+    "typ": "plats",
+    "antal": 2
+  },
+  "socialnamnden": {
+    "etikett": "socialnämnden",
+    "typ": "organisation",
+    "antal": 3
+  },
+  "katrineholm": {
+    "etikett": "Katrineholms",
+    "typ": "plats",
+    "antal": 2
+  },
+  "kommunstyrelsens": {
+    "etikett": "Kommunstyrelsens",
+    "typ": "organisation",
+    "antal": 2
+  },
+  "ukn": {
+    "etikett": "UKN",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "samhallsbyggnadsnamnden": {
+    "etikett": "samhällsbyggnadsnämnden",
+    "typ": "organisation",
+    "antal": 3
+  },
+  "grums": {
+    "etikett": "Grums",
+    "typ": "plats",
+    "antal": 2
+  },
+  "grundlaggande-granskning-av-kommunstyrel": {
+    "etikett": "Grundläggande granskning av kommunstyrelsen",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "harnosand": {
+    "etikett": "Härnösands",
+    "typ": "plats",
+    "antal": 1
+  },
+  "hofors": {
+    "etikett": "Hofors",
+    "typ": "plats",
+    "antal": 2
+  },
+  "kommunstyrelsen-inkl-bilagor": {
+    "etikett": "Kommunstyrelsen inkl. bilagor",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "kristianstad": {
+    "etikett": "Kristianstads",
+    "typ": "plats",
+    "antal": 2
+  },
+  "kultur-och-fritidsnamnden": {
+    "etikett": "kultur och fritidsnämnden",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "ljusdal": {
+    "etikett": "Ljusdals",
+    "typ": "plats",
+    "antal": 2
+  },
+  "on-signerat": {
+    "etikett": "ON signerat",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "markaryd": {
+    "etikett": "Markaryds",
+    "typ": "plats",
+    "antal": 2
+  },
+  "utbildnings-och-kulturnamndens-arbetsuts": {
+    "etikett": "Utbildnings och kulturnämndens arbetsutskott anslag",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "morakommun": {
+    "etikett": "Mora",
+    "typ": "plats",
+    "antal": 1
+  },
+  "nora": {
+    "etikett": "Nora",
+    "typ": "plats",
+    "antal": 1
+  },
+  "snau-offentlig": {
+    "etikett": "Snau offentlig",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "orsa": {
+    "etikett": "Orsa",
+    "typ": "plats",
+    "antal": 1
+  },
+  "socialutskottet": {
+    "etikett": "socialutskottet",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "perstorp": {
+    "etikett": "Perstorps",
+    "typ": "plats",
+    "antal": 2
+  },
+  "ks": {
+    "etikett": "KS",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "savsjo": {
+    "etikett": "Sävsjö",
+    "typ": "plats",
+    "antal": 1
+  },
+  "kommunfullmaktige-inkl-omrostningsbilago": {
+    "etikett": "kommunfullmäktige inkl omröstningsbilagor",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "storfors": {
+    "etikett": "Storfors",
+    "typ": "plats",
+    "antal": 2
+  },
+  "stromstad": {
+    "etikett": "Strömstads",
+    "typ": "plats",
+    "antal": 2
+  },
+  "vn": {
+    "etikett": "VN",
+    "typ": "organisation",
+    "antal": 2
+  },
+  "tierp": {
+    "etikett": "Tierps",
+    "typ": "plats",
+    "antal": 1
+  },
+  "tyreso": {
+    "etikett": "Tyresö",
+    "typ": "plats",
+    "antal": 1
+  },
+  "tyreso-bostader-ab": {
+    "etikett": "Tyresö Bostäder AB",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "uddevalla": {
+    "etikett": "Uddevalla",
+    "typ": "plats",
+    "antal": 2
+  },
+  "samhallsbyggnadsnamndens": {
+    "etikett": "Samhällsbyggnadsnämndens",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "upplands-bro": {
+    "etikett": "Upplands-Bro",
+    "typ": "plats",
+    "antal": 2
+  },
+  "samhallsbyggnadsutskottet": {
+    "etikett": "Samhällsbyggnadsutskottet",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "vaggeryd": {
+    "etikett": "Vaggeryds",
+    "typ": "plats",
+    "antal": 1
+  },
+  "ksau": {
+    "etikett": "KSAU",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "vasteras": {
+    "etikett": "Västerås",
+    "typ": "plats",
+    "antal": 2
+  },
+  "ale": {
+    "etikett": "Ale",
+    "typ": "plats",
+    "antal": 1
+  },
+  "kungorelse": {
+    "etikett": "Kungörelse",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "socialnamndens-s": {
+    "etikett": "Socialnämndens s",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "alvesta": {
+    "etikett": "Alvesta",
+    "typ": "plats",
+    "antal": 1
+  },
+  "tillganglighetsradets": {
+    "etikett": "Tillganglighetsradets",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "it-namnden": {
+    "etikett": "IT nämnden",
+    "typ": "organisation",
+    "antal": 2
+  },
+  "alvsbyn": {
+    "etikett": "Älvsbyns",
+    "typ": "plats",
+    "antal": 1
+  },
+  "aneby": {
+    "etikett": "Aneby",
+    "typ": "plats",
+    "antal": 1
+  },
+  "arboga": {
+    "etikett": "Arboga",
+    "typ": "plats",
+    "antal": 1
+  },
+  "fritids-och-kulturnamndens": {
+    "etikett": "Fritids och kulturnämndens",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "arjeplog": {
+    "etikett": "Arjeplogs",
+    "typ": "plats",
+    "antal": 1
+  },
+  "ks-digitalt": {
+    "etikett": "Ks digitalt",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "arvidsjaur": {
+    "etikett": "Arvidsjaurs",
+    "typ": "plats",
+    "antal": 1
+  },
+  "kf-signerad-pub": {
+    "etikett": "KF signerad pub",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "askersund": {
+    "etikett": "Askersunds",
+    "typ": "plats",
+    "antal": 1
+  },
+  "mob": {
+    "etikett": "MOB",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "avesta": {
+    "etikett": "Avesta",
+    "typ": "plats",
+    "antal": 1
+  },
+  "berg": {
+    "etikett": "Bergs",
+    "typ": "plats",
+    "antal": 1
+  },
+  "utbildningsnamndens": {
+    "etikett": "Utbildningsnämndens",
+    "typ": "organisation",
+    "antal": 2
+  },
+  "bjurholm": {
+    "etikett": "Bjurholms",
+    "typ": "plats",
+    "antal": 1
+  },
+  "mbn": {
+    "etikett": "MBN",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "grannehorande-skromberga": {
+    "etikett": "Grannehörande SKROMBERGA",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "s-grundskolenamnden": {
+    "etikett": "S Grundskolenämnden",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "borgholm": {
+    "etikett": "Borgholms",
+    "typ": "plats",
+    "antal": 2
+  },
+  "olands-it-namnd": {
+    "etikett": "Olands IT namnd",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "botkyrka": {
+    "etikett": "Botkyrka",
+    "typ": "plats",
+    "antal": 2
+  },
+  "socialnamnden-offentlig-signed": {
+    "etikett": "Socialnamnden Offentlig signed",
+    "typ": "organisation",
+    "antal": 2
+  },
+  "jn": {
+    "etikett": "JN",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "dalsed": {
+    "etikett": "Dals-Eds",
+    "typ": "plats",
+    "antal": 1
+  },
+  "eksjo": {
+    "etikett": "Eksjö",
+    "typ": "plats",
+    "antal": 1
+  },
+  "eslov": {
+    "etikett": "Eslövs",
+    "typ": "plats",
+    "antal": 1
+  },
+  "kommunfullmaktiges": {
+    "etikett": "Kommunfullmaktiges",
+    "typ": "organisation",
+    "antal": 3
+  },
+  "fagersta": {
+    "etikett": "Fagersta",
+    "typ": "plats",
+    "antal": 1
+  },
+  "nve": {
+    "etikett": "NVE",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "falkoping": {
+    "etikett": "Falköpings",
+    "typ": "plats",
+    "antal": 1
+  },
+  "barn-och-utbildningsnamnden": {
+    "etikett": "Barn och utbildningsnämnden",
+    "typ": "organisation",
+    "antal": 3
+  },
+  "fargelanda": {
+    "etikett": "Färgelanda",
+    "typ": "plats",
+    "antal": 1
+  },
+  "finspang": {
+    "etikett": "Finspångs",
+    "typ": "plats",
+    "antal": 1
+  },
+  "flen": {
+    "etikett": "Flens",
+    "typ": "plats",
+    "antal": 1
+  },
+  "brottsforebyggande-beredningens": {
+    "etikett": "Brottsförebyggande beredningens",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "gislaved": {
+    "etikett": "Gislaveds",
+    "typ": "plats",
+    "antal": 2
+  },
+  "hagfors": {
+    "etikett": "Hagfors",
+    "typ": "plats",
+    "antal": 2
+  },
+  "barn-och-bildningsutskottet": {
+    "etikett": "Barn och bildningsutskottet",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "haparanda": {
+    "etikett": "Haparanda",
+    "typ": "plats",
+    "antal": 1
+  },
+  "socialnamndens": {
+    "etikett": "Socialnämndens",
+    "typ": "organisation",
+    "antal": 2
+  },
+  "harryda": {
+    "etikett": "Härryda",
+    "typ": "plats",
+    "antal": 1
+  },
+  "hassleholm": {
+    "etikett": "Hässleholms",
+    "typ": "plats",
+    "antal": 1
+  },
+  "miljo-och-stadsbyggnadsnamndens": {
+    "etikett": "Miljö och stadsbyggnadsnämndens",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "heby": {
+    "etikett": "Heby",
+    "typ": "plats",
+    "antal": 1
+  },
+  "www": {
+    "etikett": "WWW",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "hedemora": {
+    "etikett": "Hedemora",
+    "typ": "plats",
+    "antal": 1
+  },
+  "on": {
+    "etikett": "ON",
+    "typ": "organisation",
+    "antal": 3
+  },
+  "hellefors": {
+    "etikett": "Hällefors",
+    "typ": "plats",
+    "antal": 1
+  },
+  "herjedalen": {
+    "etikett": "Härjedalens",
+    "typ": "plats",
+    "antal": 1
+  },
+  "valnamnden": {
+    "etikett": "Valnämnden",
+    "typ": "organisation",
+    "antal": 4
+  },
+  "hultsfred": {
+    "etikett": "Hultsfreds",
+    "typ": "plats",
+    "antal": 1
+  },
+  "jokkmokk": {
+    "etikett": "Jokkmokks",
+    "typ": "plats",
+    "antal": 1
+  },
+  "bun": {
+    "etikett": "BUN",
+    "typ": "organisation",
+    "antal": 4
+  },
+  "kalix": {
+    "etikett": "Kalix",
+    "typ": "plats",
+    "antal": 1
+  },
+  "tillstands-och-tillsynsnamndens-for-hems": {
+    "etikett": "Tillstands och tillsynsnamndens for hemsidan",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "karlsborg": {
+    "etikett": "Karlsborgs",
+    "typ": "plats",
+    "antal": 1
+  },
+  "karlskoga": {
+    "etikett": "Karlskoga",
+    "typ": "plats",
+    "antal": 1
+  },
+  "tillvaxt-och-tillsynsnamndens": {
+    "etikett": "Tillväxt och tillsynsnämndens",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "service-och-tekniknamndens": {
+    "etikett": "Service och tekniknämndens",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "kiruna": {
+    "etikett": "Kiruna",
+    "typ": "plats",
+    "antal": 1
+  },
+  "kultur-och-utbildningsnamnden": {
+    "etikett": "Kultur och utbildningsnämnden",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "klippan": {
+    "etikett": "Klippans",
+    "typ": "plats",
+    "antal": 2
+  },
+  "koping": {
+    "etikett": "Köpings",
+    "typ": "plats",
+    "antal": 2
+  },
+  "sbn": {
+    "etikett": "SBN",
+    "typ": "organisation",
+    "antal": 2
+  },
+  "kramfors": {
+    "etikett": "Kramfors",
+    "typ": "plats",
+    "antal": 1
+  },
+  "overformyndarnamnden-harnosand-kramfors": {
+    "etikett": "Överförmyndarnämnden Härnösand Kramfors",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "overformyndarnamndens": {
+    "etikett": "Överförmyndarnämndens",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "krokom": {
+    "etikett": "Krokoms",
+    "typ": "plats",
+    "antal": 2
+  },
+  "kungalv": {
+    "etikett": "Kungälvs",
+    "typ": "plats",
+    "antal": 1
+  },
+  "miljo-oh-byggnadsnamnden-m": {
+    "etikett": "Miljo oh byggnadsnamnden m",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "kungsbacka": {
+    "etikett": "Kungsbacka",
+    "typ": "plats",
+    "antal": 1
+  },
+  "kommunstyrelsens-arbetsutskott": {
+    "etikett": "Kommunstyrelsens arbetsutskott",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "kungsor": {
+    "etikett": "Kungsörs",
+    "typ": "plats",
+    "antal": 1
+  },
+  "laholm": {
+    "etikett": "Laholms",
+    "typ": "plats",
+    "antal": 1
+  },
+  "webb": {
+    "etikett": "WEBB",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "lessebo": {
+    "etikett": "Lessebo",
+    "typ": "plats",
+    "antal": 2
+  },
+  "kommunfullmaktige-acab4a7f-232f-4b6d-84a": {
+    "etikett": "Kommunfullmäktige {ACAB4A7F 232F 4B6D 84A8 C6F71E4",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "lindesberg": {
+    "etikett": "Lindesbergs",
+    "typ": "plats",
+    "antal": 1
+  },
+  "samhallsutvecklingsutskottet": {
+    "etikett": "Samhällsutvecklingsutskottet",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "ljusnarsberg": {
+    "etikett": "Ljusnarsbergs",
+    "typ": "plats",
+    "antal": 1
+  },
+  "mala": {
+    "etikett": "Malå",
+    "typ": "plats",
+    "antal": 1
+  },
+  "utbildningsnamnden": {
+    "etikett": "Utbildningsnämnden",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "kommunfullmaktige-kf": {
+    "etikett": "Kommunfullmäktige KF",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "mellerud": {
+    "etikett": "Melleruds",
+    "typ": "plats",
+    "antal": 1
+  },
+  "molndal": {
+    "etikett": "Mölndals",
+    "typ": "plats",
+    "antal": 1
+  },
+  "mijonamndens-mn-58-59": {
+    "etikett": "Mijönämndens mn 58 59",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "monsteras": {
+    "etikett": "Mönsterås",
+    "typ": "plats",
+    "antal": 1
+  },
+  "munkedal": {
+    "etikett": "Munkedals",
+    "typ": "plats",
+    "antal": 1
+  },
+  "kun-digitalt": {
+    "etikett": "KUN (Digitalt )",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "norberg": {
+    "etikett": "Norbergs",
+    "typ": "plats",
+    "antal": 1
+  },
+  "norsjo": {
+    "etikett": "Norsjö",
+    "typ": "plats",
+    "antal": 1
+  },
+  "nykvarn": {
+    "etikett": "Nykvarns",
+    "typ": "plats",
+    "antal": 1
+  },
+  "kommunfullmaktige-8aa66758-4d20-44d7-e2c": {
+    "etikett": "Kommunfullmäktige {8AA66758 4D20 44D7 E2CC3811657C",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "nynashamn": {
+    "etikett": "Nynäshamns",
+    "typ": "plats",
+    "antal": 1
+  },
+  "ockelbo": {
+    "etikett": "Ockelbo",
+    "typ": "plats",
+    "antal": 1
+  },
+  "kf-signerad": {
+    "etikett": "KF signerad",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "odeshog": {
+    "etikett": "Ödeshögs",
+    "typ": "plats",
+    "antal": 1
+  },
+  "osby": {
+    "etikett": "Osby",
+    "typ": "plats",
+    "antal": 1
+  },
+  "osthammar": {
+    "etikett": "Östhammars",
+    "typ": "plats",
+    "antal": 1
+  },
+  "kf-komp": {
+    "etikett": "Kf komp",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "ostragoinge": {
+    "etikett": "Östra Göinge",
+    "typ": "plats",
+    "antal": 1
+  },
+  "planeringsutskottet": {
+    "etikett": "Planeringsutskottet",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "overkalix": {
+    "etikett": "Överkalix",
+    "typ": "plats",
+    "antal": 1
+  },
+  "sociala-omsorgsutskottets-47signeradpub": {
+    "etikett": "Sociala omsorgsutskottets 47signeradpub",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "oxelosund": {
+    "etikett": "Oxelösunds",
+    "typ": "plats",
+    "antal": 1
+  },
+  "von": {
+    "etikett": "VON",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "pajala": {
+    "etikett": "Pajala",
+    "typ": "plats",
+    "antal": 1
+  },
+  "sammantrades-kultur-och-minoritetsutskot": {
+    "etikett": "Sammantrades kultur och minoritetsutskott",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "robertsfors": {
+    "etikett": "Robertsfors",
+    "typ": "plats",
+    "antal": 1
+  },
+  "funktionsrattsradet": {
+    "etikett": "Funktionsrättsrådet",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "saffle": {
+    "etikett": "Säffle",
+    "typ": "plats",
+    "antal": 1
+  },
+  "teknik-och-fritidsnamnd-saffle-amal": {
+    "etikett": "Teknik och fritidsnämnd Säffle Åmål",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "salem": {
+    "etikett": "Salems",
+    "typ": "plats",
+    "antal": 1
+  },
+  "s-kfn": {
+    "etikett": "S KFN",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "sandviken": {
+    "etikett": "Sandvikens",
+    "typ": "plats",
+    "antal": 1
+  },
+  "sater": {
+    "etikett": "Säters",
+    "typ": "plats",
+    "antal": 1
+  },
+  "sbn-au": {
+    "etikett": "Sbn au",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "skovde": {
+    "etikett": "Skövde",
+    "typ": "plats",
+    "antal": 1
+  },
+  "samordningsforbundet-skaraborg": {
+    "etikett": "Samordningsforbundet skaraborg",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "skurup": {
+    "etikett": "Skurups",
+    "typ": "plats",
+    "antal": 1
+  },
+  "digitalt-sbb-kvitto-vshs4": {
+    "etikett": "Digitalt SBB kvitto vshs4",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "soderkoping": {
+    "etikett": "Söderköpings",
+    "typ": "plats",
+    "antal": 1
+  },
+  "solna": {
+    "etikett": "Solna",
+    "typ": "plats",
+    "antal": 1
+  },
+  "sotenas": {
+    "etikett": "Sotenäs",
+    "typ": "plats",
+    "antal": 1
+  },
+  "kstu-signed": {
+    "etikett": "KSTU signed",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "stenungsund": {
+    "etikett": "Stenungsunds",
+    "typ": "plats",
+    "antal": 1
+  },
+  "storuman": {
+    "etikett": "Storumans",
+    "typ": "plats",
+    "antal": 1
+  },
+  "miljo-och-samhallsbyggnadsnamnden": {
+    "etikett": "Miljo och samhallsbyggnadsnamnden",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "strangnas": {
+    "etikett": "Strängnäs",
+    "typ": "plats",
+    "antal": 1
+  },
+  "valberedningen": {
+    "etikett": "Valberedningen",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "sundsvall": {
+    "etikett": "Sundsvalls",
+    "typ": "plats",
+    "antal": 2
+  },
+  "overformyndarnamnden-mitt": {
+    "etikett": "Överförmyndarnämnden Mitt",
+    "typ": "organisation",
+    "antal": 2
+  },
+  "svedala": {
+    "etikett": "Svedala",
+    "typ": "plats",
+    "antal": 1
+  },
+  "tekniska-namnden-september-paragrafer": {
+    "etikett": "Tekniska namnden september paragrafer",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "riksbanken": {
+    "etikett": "Riksbanken",
+    "typ": "organisation",
+    "antal": 6
+  },
+  "rantor": {
+    "etikett": "Räntor & penningpolitik",
+    "typ": "ämne",
+    "antal": 6
+  },
+  "borsen": {
+    "etikett": "Börsen",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "granskning": {
+    "etikett": "Granskning",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "reg-halland": {
+    "etikett": "Region Halland",
+    "typ": "organisation",
+    "antal": 7
+  },
+  "regionfullmaktige": {
+    "etikett": "Regionfullmaktige",
+    "typ": "organisation",
+    "antal": 13
+  },
+  "regionstyrelsen": {
+    "etikett": "Regionstyrelsen",
+    "typ": "organisation",
+    "antal": 9
+  },
+  "reg-orebro": {
+    "etikett": "Region Örebro län",
+    "typ": "organisation",
+    "antal": 6
+  },
+  "reg-vastmanland": {
+    "etikett": "Region Västmanland",
+    "typ": "organisation",
+    "antal": 2
+  },
+  "reg-jamtland": {
+    "etikett": "Region Jämtland Härjedalen",
+    "typ": "organisation",
+    "antal": 7
+  },
+  "reg-blekinge": {
+    "etikett": "Region Blekinge",
+    "typ": "organisation",
+    "antal": 2
+  },
+  "tn": {
+    "etikett": "TN",
+    "typ": "organisation",
+    "antal": 2
+  },
+  "miljo-och-byggnadsnamnden": {
+    "etikett": "Miljo och byggnadsnamnden",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "kommunledningsutskottet-natet": {
+    "etikett": "Kommunledningsutskottet natet",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "ks-s": {
+    "etikett": "Ks s",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "barn-och-utbildningsnamnden-signed": {
+    "etikett": "Barn och utbildningsnämnden signed",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "svenljunga": {
+    "etikett": "Svenljunga",
+    "typ": "plats",
+    "antal": 1
+  },
+  "pensionarsradet": {
+    "etikett": "Pensionärsrådet",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "taby": {
+    "etikett": "Täby",
+    "typ": "plats",
+    "antal": 1
+  },
+  "tibro": {
+    "etikett": "Tibro",
+    "typ": "plats",
+    "antal": 1
+  },
+  "bun-signerad-pub": {
+    "etikett": "Bun signerad pub",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "timra": {
+    "etikett": "Timrå",
+    "typ": "plats",
+    "antal": 1
+  },
+  "kommunala-tillganglighet-och-pensionarsr": {
+    "etikett": "Kommunala tillgänglighet och pensionärsrådet",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "tjorn": {
+    "etikett": "Tjörns",
+    "typ": "plats",
+    "antal": 1
+  },
+  "tranemo": {
+    "etikett": "Tranemo",
+    "typ": "plats",
+    "antal": 1
+  },
+  "ofn": {
+    "etikett": "ÖFN",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "trosa": {
+    "etikett": "Trosa",
+    "typ": "plats",
+    "antal": 1
+  },
+  "fran-kommunfullmaktige": {
+    "etikett": "Fran kommunfullmaktige",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "personalutskottets": {
+    "etikett": "Personalutskottets",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "ulricehamn": {
+    "etikett": "Ulricehamns",
+    "typ": "plats",
+    "antal": 1
+  },
+  "kommunfullmaktige-motion": {
+    "etikett": "Kommunfullmäktige motion",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "valdemarsvik": {
+    "etikett": "Valdemarsviks",
+    "typ": "plats",
+    "antal": 1
+  },
+  "fran-kommunstyrelsen": {
+    "etikett": "Fran kommunstyrelsen",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "vallentuna": {
+    "etikett": "Vallentuna",
+    "typ": "plats",
+    "antal": 1
+  },
+  "ks-au-signed": {
+    "etikett": "KS AU signed",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "vannas": {
+    "etikett": "Vännäs",
+    "typ": "plats",
+    "antal": 1
+  },
+  "vaxjo": {
+    "etikett": "Växjö",
+    "typ": "plats",
+    "antal": 1
+  },
+  "vetlanda": {
+    "etikett": "Vetlanda",
+    "typ": "plats",
+    "antal": 1
+  },
+  "vimmerby": {
+    "etikett": "Vimmerby",
+    "typ": "plats",
+    "antal": 1
+  },
+  "vindeln": {
+    "etikett": "Vindelns",
+    "typ": "plats",
+    "antal": 1
+  },
+  "vingaker": {
+    "etikett": "Vingåkers",
+    "typ": "plats",
+    "antal": 1
+  },
+  "socialnamnden-s": {
+    "etikett": "Socialnämnden s",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "ydre": {
+    "etikett": "Ydre",
+    "typ": "plats",
+    "antal": 1
+  },
+  "socialtjanst": {
+    "etikett": "Socialtjänst",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "bostadsbyggande": {
+    "etikett": "Bostadsbyggande",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "karin-wanngard": {
+    "etikett": "Karin Wanngård",
+    "typ": "person",
+    "antal": 1
+  },
+  "region-halland": {
+    "etikett": "Region Halland",
+    "typ": "organisation",
+    "antal": 3
+  },
+  "halland": {
+    "etikett": "Halland",
+    "typ": "plats",
+    "antal": 3
+  },
+  "regionalpolitik": {
+    "etikett": "Regionalpolitik",
+    "typ": "ämne",
+    "antal": 3
+  },
+  "region-orebro-lan": {
+    "etikett": "Region Örebro län",
+    "typ": "organisation",
+    "antal": 3
+  },
+  "sjukvard": {
+    "etikett": "Sjukvård",
+    "typ": "ämne",
+    "antal": 4
+  },
+  "klimat-och-miljo": {
+    "etikett": "Klimat och miljö",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "regional-forvaltning": {
+    "etikett": "Regional förvaltning",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "region-jamtland-harjedalen": {
+    "etikett": "Region Jämtland Härjedalen",
+    "typ": "organisation",
+    "antal": 3
+  },
+  "ostersund": {
+    "etikett": "Östersund",
+    "typ": "plats",
+    "antal": 1
+  },
+  "jamtland": {
+    "etikett": "Jämtland",
+    "typ": "plats",
+    "antal": 2
+  },
+  "regional-ekonomi": {
+    "etikett": "Regional ekonomi",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "skatteverket": {
+    "etikett": "Skatteverket",
+    "typ": "organisation",
+    "antal": 5
+  },
+  "pension": {
+    "etikett": "Pension",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "pensionsmyndigheten": {
+    "etikett": "Pensionsmyndigheten",
+    "typ": "organisation",
+    "antal": 5
+  },
+  "konsument": {
+    "etikett": "Konsument",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "konsumentverket": {
+    "etikett": "Konsumentverket",
+    "typ": "organisation",
+    "antal": 5
+  },
+  "halsa": {
+    "etikett": "Hälsa",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "folkhalsomyndigheten": {
+    "etikett": "Folkhälsomyndigheten",
+    "typ": "organisation",
+    "antal": 5
+  },
+  "krisberedskap": {
+    "etikett": "Krisberedskap",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "civilt-forsvar": {
+    "etikett": "Civilt försvar",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "mcf": {
+    "etikett": "Myndigheten för civilt försvar",
+    "typ": "organisation",
+    "antal": 5
+  },
+  "finland": {
+    "etikett": "Finland",
+    "typ": "plats",
+    "antal": 1
+  },
+  "ukraina": {
+    "etikett": "Ukraina",
+    "typ": "plats",
+    "antal": 1
+  },
+  "ryssland": {
+    "etikett": "Ryssland",
+    "typ": "plats",
+    "antal": 1
+  },
+  "krim": {
+    "etikett": "Krim",
+    "typ": "plats",
+    "antal": 1
   }
 }

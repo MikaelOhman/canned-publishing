@@ -7,7 +7,8 @@ const LS = { get:(k,d)=>localStorage.getItem('cp_'+k)||d, set:(k,v)=>localStorag
 const state = { lang:null, sprak:[], ui:{}, index:[], tags:{}, query:'', typer:new Set(), visa:30,
   axlar:new Set(), axdef:[], grupper:[], gruppnamn:{}, lagernamn:{}, lager:'privat',
   openGroups:new Set(['__typ']), mer:new Set(), filterQ:'', _akt:[],
-  ort:{privat:new Set(), foretag:new Set()}, orter:[], ortQ:'', konto:{namn:null, token:null}, fbKonton:[] };
+  ort:{privat:new Set(), foretag:new Set()}, orter:[], ortQ:'', konto:{namn:null, token:null}, fbKonton:[],
+  sok:false, srv:null };   // sok=serverside-sök (skalning); srv=senaste serversvar {results,total,facets,_page}
 const PAGE = 30;
 
 const THEME_STD = ['dark','light','sepia','midnatt','nord','dracula','solarized'];
@@ -100,7 +101,7 @@ function relScore(a){ const akt=state._akt; if(!akt.length||!a.relevans) return 
   let m=0; for(const id of akt){ const v=a.relevans[id]||0; if(v>m) m=v; } return m; }
 function sparaAxlar(){ LS.set('axlar',[...state.axlar].join('.')); autospar(); }
 function sparaTyper(){ LS.set('typer',[...state.typer].join('.')); autospar(); }
-function clearSit(){ state.axlar.clear(); state.typer.clear(); sparaAxlar(); sparaTyper(); renderSidebar(); state.visa=PAGE; renderList(); }
+function clearSit(){ state.axlar.clear(); state.typer.clear(); sparaAxlar(); sparaTyper(); renderSidebar(); state.visa=PAGE; refresh(); }
 
 /* ── Plats: kommunbeslut filtreras till användarens kommun(er) per lager ── */
 function ortFor(){ return state.ort[state.lager]; }
@@ -124,8 +125,8 @@ function renderOrt(){
     `<p class="ort-hint">${esc(s.ort_hint)}</p>`;
   $('#ort-sok').addEventListener('input',e=>{ state.ortQ=e.target.value.trim(); renderOrt(); });
   if(state.ortQ){ const i=$('#ort-sok'); i.focus(); i.setSelectionRange(i.value.length,i.value.length); }
-  box.querySelectorAll('[data-add]').forEach(b=>b.addEventListener('click',()=>{ ortFor().add(b.dataset.add); state.ortQ=''; sparaOrt(); renderOrt(); sideBtns(); state.visa=PAGE; renderList(); }));
-  box.querySelectorAll('[data-rm]').forEach(b=>b.addEventListener('click',()=>{ ortFor().delete(b.dataset.rm); sparaOrt(); renderOrt(); sideBtns(); state.visa=PAGE; renderList(); }));
+  box.querySelectorAll('[data-add]').forEach(b=>b.addEventListener('click',()=>{ ortFor().add(b.dataset.add); state.ortQ=''; sparaOrt(); renderOrt(); sideBtns(); state.visa=PAGE; refresh(); }));
+  box.querySelectorAll('[data-rm]').forEach(b=>b.addEventListener('click',()=>{ ortFor().delete(b.dataset.rm); sparaOrt(); renderOrt(); sideBtns(); state.visa=PAGE; refresh(); }));
 }
 
 /* artiklar som passerar typ + fritextsök (bas för faset-antal, oberoende av axel-val) */
@@ -142,12 +143,13 @@ function renderSidebar(){
   const u=ui(), s=sitT();
   const lagerHtml = `<div class="lager-val" role="group">`+['privat','foretag'].map(l=>
     `<button data-lager="${l}" class="${state.lager===l?'on':''}">${esc(lagerNamn(l))}</button>`).join('')+`</div>`;
-  // faset-antal över typ+sök-mängden
-  const bas = baseFiltered();
-  const cnt = {};
-  bas.forEach(a=>{ if(a.relevans) for(const id in a.relevans){ if(a.relevans[id]>=1) cnt[id]=(cnt[id]||0)+1; } });
+  // faset-antal: från servern i serverläge, annars klientberäknat över typ+sök-mängden
+  const srvf = (state.sok && state.srv) ? state.srv.facets : null;
+  let cnt;
+  if(srvf){ cnt = srvf.ax || {}; }
+  else { cnt = {}; baseFiltered().forEach(a=>{ if(a.relevans) for(const id in a.relevans){ if(a.relevans[id]>=1) cnt[id]=(cnt[id]||0)+1; } }); }
   // typ-facet (flerval: tom = alla)
-  const tc={}; TYPER.forEach(t=>tc[t]=state.index.filter(a=>(a.typ||'nyhet')===t).length);
+  const tc={}; TYPER.forEach(t=> tc[t] = srvf ? (srvf.typ[t]||0) : state.index.filter(a=>(a.typ||'nyhet')===t).length);
   const typOpts=TYPER.filter(t=>tc[t]>0).map(t=>[t,(u.types[t]||t),tc[t]]);
   const td=u.typdesc||{};
   const typHtml=`<details class="facet" data-grp="__typ" ${state.openGroups.has('__typ')?'open':''}>
@@ -177,11 +179,11 @@ function renderSidebar(){
   renderOrt();
 
   $('#lager-box').querySelectorAll('.lager-val button').forEach(b=>b.addEventListener('click',()=>{
-    state.lager=b.dataset.lager; LS.set('lager',state.lager); autospar(); renderSidebar(); state.visa=PAGE; renderList(); }));
+    state.lager=b.dataset.lager; LS.set('lager',state.lager); autospar(); renderSidebar(); state.visa=PAGE; refresh(); }));
   $('#facets').querySelectorAll('input[data-typ]').forEach(c=>c.addEventListener('change',()=>{
-    c.checked?state.typer.add(c.dataset.typ):state.typer.delete(c.dataset.typ); sparaTyper(); state.visa=PAGE; renderSidebar(); renderList(); }));
+    c.checked?state.typer.add(c.dataset.typ):state.typer.delete(c.dataset.typ); sparaTyper(); state.visa=PAGE; refresh(); }));
   $('#facets').querySelectorAll('input[data-ax]').forEach(c=>c.addEventListener('change',()=>{
-    c.checked?state.axlar.add(c.dataset.ax):state.axlar.delete(c.dataset.ax); sparaAxlar(); state.visa=PAGE; renderSidebar(); renderList(); }));
+    c.checked?state.axlar.add(c.dataset.ax):state.axlar.delete(c.dataset.ax); sparaAxlar(); state.visa=PAGE; refresh(); }));
   $('#facets').querySelectorAll('.facet-all').forEach(b=>b.addEventListener('click',e=>{ e.preventDefault(); markAll(b.dataset.all); }));
   $('#facets').querySelectorAll('.opt-mer').forEach(b=>b.addEventListener('click',()=>{
     state.mer.has(b.dataset.mer)?state.mer.delete(b.dataset.mer):state.mer.add(b.dataset.mer); renderSidebar(); }));
@@ -193,7 +195,7 @@ function markAll(g){
   const axs=state.axdef.filter(a=>a.grupp===g && (a.lager===state.lager||a.lager==='bada'));
   const allaPa=axs.every(a=>state.axlar.has(a.id));
   axs.forEach(a=> allaPa?state.axlar.delete(a.id):state.axlar.add(a.id));
-  sparaAxlar(); state.visa=PAGE; renderSidebar(); renderList();
+  sparaAxlar(); state.visa=PAGE; refresh();
 }
 function sideBtns(){
   const s=sitT();
@@ -352,7 +354,7 @@ async function boot(){
   $('#tema').addEventListener('change', e=>{ document.documentElement.setAttribute('data-theme', e.target.value); LS.set('tema', e.target.value); autospar(); });
   $('#text').addEventListener('change', e=>{ document.documentElement.setAttribute('data-text', e.target.value); LS.set('text', e.target.value); autospar(); });
   $('#font').addEventListener('change', e=>{ document.documentElement.setAttribute('data-font', e.target.value); LS.set('font', e.target.value); autospar(); });
-  $('#sok').addEventListener('input', e=>{ state.query=e.target.value.trim().toLowerCase(); state.visa=PAGE; renderSidebar(); renderList(); });
+  $('#sok').addEventListener('input', e=>{ state.query=e.target.value.trim().toLowerCase(); state.visa=PAGE; refresh(); });
   $('#filter-sok').addEventListener('input', e=>{ state.filterQ=e.target.value.trim(); renderSidebar(); });
   $('#filter-toggle').addEventListener('click', openDrawer);
   $('#side-close').addEventListener('click', closeDrawer);
@@ -385,10 +387,13 @@ async function loadLanguage(lang){
   try { state.about=await getJSON(`data/about.${lang}.json`); }
   catch(e){ try { state.about=await getJSON('data/about.en.json'); } catch(_){ state.about={}; } }
   if(!state.status){ try { state.status=await getJSON('data/status.json'); } catch(e){ state.status=null; } }
-  try { state.index=await getJSON(`data/index.${lang}.json`); state.tags=await getJSON(`data/tags.${lang}.json`); }
-  catch(e){ state.index=[]; state.tags={}; }
+  state.sok = /[?&]sok=1/.test(location.search) || LS.get('sok','')==='1';   // serverside-sök (skalning), default av
+  try { state.tags=await getJSON(`data/tags.${lang}.json`); } catch(e){ state.tags={}; }
+  if(!state.sok){    // klientläge: ladda hela indexet (serverläge hämtar via sok, faller tillbaka vid fel)
+    try { state.index=await getJSON(`data/index.${lang}.json`); } catch(e){ state.index=[]; }
+  }
   applyUI(); buildSettings();
-  renderSidebar(); renderList();
+  await refresh();
 }
 
 function matches(a){
@@ -449,20 +454,56 @@ function renderJamforelse(a){
     ${t.bedomning?`<div class="jamf-bedomning">${esc(t.bedomning)}</div>`:''}
   </div>`;
 }
+/* ── Serverside-sök (skalning): klienten slipper ladda hela indexet ──
+   sokQS bygger query; sokHamta hämtar; refresh() är server-medveten men beter
+   sig EXAKT som förr när state.sok=false (default). Faller tillbaka till klient-
+   filter om funktionen inte svarar. */
+function sokQS(page){
+  const p=new URLSearchParams(); p.set('lang', state.lang||'sv');
+  if(state.typer.size) p.set('typer',[...state.typer].join(','));
+  const akt=aktivaAxlar(); if(akt.length) p.set('akt',akt.join(','));
+  const ort=ortFor(); if(ort.size) p.set('ort',[...ort].join(','));
+  if(state.query) p.set('q',state.query);
+  p.set('page',page); p.set('ps',PAGE); return p.toString();
+}
+async function sokHamta(page){
+  try{ const r=await fetch('/.netlify/functions/sok?'+sokQS(page)); if(!r.ok) return null; return await r.json(); }
+  catch(e){ return null; }
+}
+async function refresh(reset=true){
+  if(state.sok){
+    const page = reset ? 0 : ((state.srv&&state.srv._page||0)+1);
+    const d = await sokHamta(page);
+    if(!d){                                  // fallback → klientläge (laddar index vid behov)
+      state.sok=false;
+      if(!state.index.length){ try{ state.index=await getJSON('data/index.'+state.lang+'.json'); }catch(e){} }
+      renderSidebar(); renderList(); return;
+    }
+    if(reset||!state.srv) state.srv={results:d.results,total:d.total,facets:d.facets,_page:0};
+    else { state.srv.results=state.srv.results.concat(d.results); state.srv._page=page; state.srv.total=d.total; }
+    renderSidebar(); renderList(); return;
+  }
+  renderSidebar(); renderList();
+}
 function renderList(){
   const u=ui();
   state._akt=aktivaAxlar();
-  let items=state.index.filter(matches);
-  if(state._akt.length){       // re-ranka på relevans (stabilt, behåll datum vid lika)
-    items=items.map((a,i)=>[a,i]).sort((A,B)=>(relScore(B[0])-relScore(A[0]))||(A[1]-B[1])).map(x=>x[0]);
-  } else if(state.typer.size===1 && state.typer.has('historia')){   // historia: kronologisk tidslinje
-    const eo=k=>{const i=EPOK_ORDER.indexOf(k); return i<0?99:i;};
-    items=items.slice().sort((a,b)=>eo(a.epok)-eo(b.epok));
+  let items, total, vis, mer;
+  if(state.sok && state.srv){                 // serverläge: redan filtrerat + paginerat
+    items=state.srv.results; total=state.srv.total; vis=items; mer=total>items.length;
+  } else {
+    items=state.index.filter(matches);
+    if(state._akt.length){       // re-ranka på relevans (stabilt, behåll datum vid lika)
+      items=items.map((a,i)=>[a,i]).sort((A,B)=>(relScore(B[0])-relScore(A[0]))||(A[1]-B[1])).map(x=>x[0]);
+    } else if(state.typer.size===1 && state.typer.has('historia')){   // historia: kronologisk tidslinje
+      const eo=k=>{const i=EPOK_ORDER.indexOf(k); return i<0?99:i;};
+      items=items.slice().sort((a,b)=>eo(a.epok)-eo(b.epok));
+    }
+    total=items.length; vis=items.slice(0, state.visa); mer=items.length>state.visa;
   }
-  $('#count').textContent=`${items.length} ${u.count}`;
-  const ap=$('#side-apply'); if(ap) ap.textContent=`${sitT().apply} ${items.length} ${u.count}`;
-  const vis=items.slice(0, state.visa);
-  $('#list').innerHTML=(items.length ? vis.map(a=>{
+  $('#count').textContent=`${total} ${u.count}`;
+  const ap=$('#side-apply'); if(ap) ap.textContent=`${sitT().apply} ${total} ${u.count}`;
+  $('#list').innerHTML=(vis.length ? vis.map(a=>{
     return `<button class="card ${KORT_KLASS[a.typ]||''}" data-id="${esc(a.id)}">
       <span class="toprow"><span class="badge-typ ${BADGE_KLASS[a.typ]||''}">${esc((u.typebadge[a.typ]||u.typebadge.nyhet))}</span>${a.tri?'<span class="badge-tri" title="⚖">⚖</span>':''}${a.typ==='historia'?renderTrov(a,false):relMark(a)}<span class="date">${a.typ==='historia'?esc([(u.epoknamn||{})[a.epok],a.tid].filter(Boolean).join(' · ')):esc(a.datum||'')}</span></span>
       <h2>${esc(a.titel)}</h2>
@@ -470,10 +511,10 @@ function renderList(){
       ${a.kalla?`<span class="src">${esc(u.kalla)}: <b>${esc(a.kalla)}</b></span>`:''}
       <span class="tags">${(a.taggar||[]).slice(0,5).map(id=>`<span>${esc((state.tags[id]||{}).etikett||id)}</span>`).join('')}</span>
     </button>`; }).join('') : `<div class="empty">${esc(u.none)}</div>`)
-    + (items.length>state.visa ? `<button class="loadmore">${esc(u.loadmore||'Ladda fler')} (${items.length-state.visa})</button>` : '');
+    + (mer ? `<button class="loadmore">${esc(u.loadmore||'Ladda fler')} (${total-vis.length})</button>` : '');
   $('#list').querySelectorAll('.card').forEach(c=>c.addEventListener('click',()=>{ location.hash='a/'+c.dataset.id; }));
   const lm=$('#list').querySelector('.loadmore');
-  if(lm) lm.addEventListener('click',()=>{ state.visa+=PAGE; renderList(); });
+  if(lm) lm.addEventListener('click',()=>{ if(state.sok){ refresh(false); } else { state.visa+=PAGE; renderList(); } });
 }
 
 const LISTVY=['.meta-row','#list'];
