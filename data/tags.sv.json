@@ -377,7 +377,7 @@
   "kommunfullmaktige": {
     "etikett": "Kommunfullmäktige",
     "typ": "organisation",
-    "antal": 90
+    "antal": 91
   },
   "kommunpolitik": {
     "etikett": "Kommunpolitik",
@@ -1661,6 +1661,11 @@
   },
   "vaxjo": {
     "etikett": "Växjö",
+    "typ": "plats",
+    "antal": 1
+  },
+  "vetlanda": {
+    "etikett": "Vetlanda",
     "typ": "plats",
     "antal": 1
   }

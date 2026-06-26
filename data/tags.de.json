@@ -352,7 +352,7 @@
   "kommunfullmaktige": {
     "etikett": "Gemeindevertretung",
     "typ": "organisation",
-    "antal": 90
+    "antal": 91
   },
   "kommunpolitik": {
     "etikett": "Kommunalpolitik.",
@@ -1626,6 +1626,11 @@
   },
   "vaxjo": {
     "etikett": "Växjö\n\n(No further context was provided, so a simple transliteration is the best option.)",
+    "typ": "plats",
+    "antal": 1
+  },
+  "vetlanda": {
+    "etikett": "Vetlanda.",
     "typ": "plats",
     "antal": 1
   }

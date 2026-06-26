@@ -292,7 +292,7 @@
   "kommunfullmaktige": {
     "etikett": "مجلس البلدية.",
     "typ": "organisation",
-    "antal": 90
+    "antal": 91
   },
   "kommunpolitik": {
     "etikett": "سياسة البلديات.",
@@ -1571,6 +1571,11 @@
   },
   "vaxjo": {
     "etikett": "فِيكْسْيُو.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "vetlanda": {
+    "etikett": "فيتلاندا.",
     "typ": "plats",
     "antal": 1
   }

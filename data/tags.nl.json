@@ -292,7 +292,7 @@
   "kommunfullmaktige": {
     "etikett": "Gemeenteraad.",
     "typ": "organisation",
-    "antal": 90
+    "antal": 91
   },
   "kommunpolitik": {
     "etikett": "Gemeentepolitiek.",
@@ -1566,6 +1566,11 @@
   },
   "vaxjo": {
     "etikett": "Växjö.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "vetlanda": {
+    "etikett": "Vetlanda",
     "typ": "plats",
     "antal": 1
   }
