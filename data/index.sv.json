@@ -2081,27 +2081,6 @@
     }
   },
   {
-    "id": "vasteras-protokoll-2026-06-16",
-    "typ": "kommunbeslut",
-    "titel": "Protokoll, Västerås stad 2026-06-16",
-    "ingress": "PROTOKOLL 2026-06-16 Informationsklass Västerås stads revisorer PUBLIK Sammanträdesdatum Tisdag den 16 juni 2026 Paragrafer § 523 - § 536 Plats och tid Södra Källtorps vård- och omsorgsboende, Vallby,",
-    "datum": "2026-06-16",
-    "kalla": "Västerås stad",
-    "kalla_url": "https://www.vasteras.se/download/18.1287f9119ed44c3e3bacc9/1782136315667/Protokoll%202026-06-16.pdf",
-    "taggar": [
-      "vasteras",
-      "protokoll"
-    ],
-    "relevans": {
-      "pensionar": 4,
-      "kronisk": 3,
-      "funktion": 3,
-      "anhorigvardare": 3,
-      "offentliganstalld": 3,
-      "b_vard": 4
-    }
-  },
-  {
     "id": "arvidsjaur-kf-signerad-pub-2026-06-16",
     "typ": "kommunbeslut",
     "titel": "KF signerad pub, Arvidsjaurs kommun 2026-06-16",
@@ -2363,6 +2342,23 @@
       "pendlare": 3,
       "kollektiv": 8,
       "kronisk": 8
+    }
+  },
+  {
+    "id": "vasteras-protokoll-2026-06-16",
+    "typ": "kommunbeslut",
+    "titel": "Protokoll, Västerås stad 2026-06-16",
+    "ingress": "Västerås stads revisorer har mötts för att gå igenom sina arbeten och har nu fastställt datum för alla sina möten under år 2027.",
+    "datum": "2026-06-16",
+    "kalla": "Västerås stad",
+    "kalla_url": "https://www.vasteras.se/download/18.1287f9119ed44c3e3bacc9/1782136315667/Protokoll%202026-06-16.pdf",
+    "taggar": [
+      "vasteras",
+      "protokoll"
+    ],
+    "relevans": {
+      "b_fastighet": 3,
+      "pensionar": 3
     }
   },
   {
