@@ -992,7 +992,7 @@
   "hagfors": {
     "etikett": "Hagfors",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "barn-och-bildningsutskottet": {
     "etikett": "Barn och bildningsutskottet",
@@ -1541,6 +1541,11 @@
   },
   "miljo-och-byggnadsnamnden": {
     "etikett": "Miljo och byggnadsnamnden",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "kommunledningsutskottet-natet": {
+    "etikett": "Kommunledningsutskottet natet",
     "typ": "organisation",
     "antal": 1
   }

@@ -897,7 +897,7 @@
   "hagfors": {
     "etikett": "Hagfors.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "barn-och-bildningsutskottet": {
     "etikett": "Commissione de l'enfance et de l'éducation.",
@@ -1436,6 +1436,11 @@
   },
   "miljo-och-byggnadsnamnden": {
     "etikett": "Service de l'environnement et de l'urbanisme.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "kommunledningsutskottet-natet": {
+    "etikett": "Commission de direction municipale, en ligne.",
     "typ": "organisation",
     "antal": 1
   }

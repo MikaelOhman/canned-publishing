@@ -907,7 +907,7 @@
   "hagfors": {
     "etikett": "Hagfors",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "barn-och-bildningsutskottet": {
     "etikett": "لجنة الشؤون الاجتماعية والأطفال والتعليم.",
@@ -1441,6 +1441,11 @@
   },
   "miljo-och-byggnadsnamnden": {
     "etikett": "لجنة البيئة والبناء.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "kommunledningsutskottet-natet": {
+    "etikett": "لجنة إدارة البلدية، عبر الإنترنت.",
     "typ": "organisation",
     "antal": 1
   }

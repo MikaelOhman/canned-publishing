@@ -957,7 +957,7 @@
   "hagfors": {
     "etikett": "Hagfors",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "barn-och-bildningsutskottet": {
     "etikett": "Der Ausschuss für Kinder- und Bildungsfragen.",
@@ -1496,6 +1496,11 @@
   },
   "miljo-och-byggnadsnamnden": {
     "etikett": "Der Ausschuss für Umwelt und Bauwesen.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "kommunledningsutskottet-natet": {
+    "etikett": "Der Gemeinderat hat sich heute online getroffen.",
     "typ": "organisation",
     "antal": 1
   }
