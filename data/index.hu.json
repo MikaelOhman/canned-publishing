@@ -112,6 +112,44 @@
     }
   },
   {
+    "id": "ecb-2026-06-25-ecb-to-integrate-non-financial",
+    "typ": "omvarld",
+    "titel": "Az Európai Központi Bank (EKKB) beépíti a nem pénzügyi hitelekből álló portfóliókat az általános biztosítékok rendszerébe, és megszünteti a ideiglenes intézkedéseket.",
+    "ingress": "Az Európai Központi Bank megkönnyíti a bankok számára, hogy kölcsönt vegyenek fel, azáltal, hogy egyszerűsíti azokat a szabályokat, amelyek meghatározzák, hogy milyen típusú hitelek használhatók fedezetként.",
+    "datum": "2026-06-25",
+    "kalla": "ECB",
+    "kalla_url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260625~edee181785.en.html",
+    "taggar": [
+      "ekonomi",
+      "ecb"
+    ],
+    "relevans": {
+      "b_finans": 8
+    }
+  },
+  {
+    "id": "ecb-2026-06-25-isabel-schnabel-interview-with",
+    "typ": "omvarld",
+    "titel": "Isabel Schnabel: Interjú a Die Zeit című újságban.",
+    "ingress": "Bár a közel-keleti békeszerződés után az olajárak csökkentek, az infláció (az árak emelkedése) továbbra is jelentős kihívást jelent Európa és Németország gazdasága számára. Ennek érdekében az Európai Központi Bank további kamatemelésre kész",
+    "datum": "2026-06-25",
+    "kalla": "ECB",
+    "kalla_url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260626~c18c7252f3.en.html",
+    "taggar": [
+      "ekonomi",
+      "ecb"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_energi": 3,
+      "lontagare": 3,
+      "sparare": 3,
+      "lantagare": 3,
+      "energikund": 3,
+      "konsument": 5
+    }
+  },
+  {
     "id": "ecb-2026-06-24-ecb-reports-on-progress-toward",
     "typ": "omvarld",
     "titel": "Az ECB (Európai Központi Bank) jelentést tett közzé az euró bevezetésével kapcsolatos előrehaladásról.",

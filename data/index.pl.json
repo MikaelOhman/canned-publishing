@@ -112,6 +112,44 @@
     }
   },
   {
+    "id": "ecb-2026-06-25-ecb-to-integrate-non-financial",
+    "typ": "omvarld",
+    "titel": "Europejski Bank Centralny (EBC) planuje włączyć do swojego systemu zabezpieczeń aktywa, które nie są instrumentami finansowymi, a także zamierza wycofać tymczasowe środki działania.",
+    "ingress": "Europejski Bank Centralny ułatwia bankom dostęp do kredytów, upraszczając zasady dotyczące rodzajów zabezpieczeń akceptowanych przy ich udzielaniu.",
+    "datum": "2026-06-25",
+    "kalla": "ECB",
+    "kalla_url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260625~edee181785.en.html",
+    "taggar": [
+      "ekonomi",
+      "ecb"
+    ],
+    "relevans": {
+      "b_finans": 8
+    }
+  },
+  {
+    "id": "ecb-2026-06-25-isabel-schnabel-interview-with",
+    "typ": "omvarld",
+    "titel": "Isabel Schnabel: Wywiad w czasopiśmie \"Die Zeit\".",
+    "ingress": "Pomimo obniżki cen ropy naftowej po zawarciu porozumienia pokojowego na Bliskim Wschodzie, inflacja (wzrost cen) pozostaje poważnym wyzwaniem dla gospodarki w Europie i Niemczech. Dlatego też Europejski Bank Centralny planuje podnieść stopy",
+    "datum": "2026-06-25",
+    "kalla": "ECB",
+    "kalla_url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260626~c18c7252f3.en.html",
+    "taggar": [
+      "ekonomi",
+      "ecb"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_energi": 3,
+      "lontagare": 3,
+      "sparare": 3,
+      "lantagare": 3,
+      "energikund": 3,
+      "konsument": 5
+    }
+  },
+  {
     "id": "ecb-2026-06-24-ecb-reports-on-progress-toward",
     "typ": "omvarld",
     "titel": "Europejski Bank Centralny (ECB) publikuje raport dotyczący postępów w procesie wprowadzenia euro.",

@@ -112,6 +112,44 @@
     }
   },
   {
+    "id": "ecb-2026-06-25-ecb-to-integrate-non-financial",
+    "typ": "omvarld",
+    "titel": "البنك المركزي الأوروبي (ECB) سيقوم بدمج محافظ القروض غير المالية في إطار عمله الخاص بالضمانات العامة، وسيقوم بإلغاء الإجراءات المؤقتة.",
+    "ingress": "يسعى البنك المركزي الأوروبي إلى تسهيل عملية حصول البنوك على القروض من خلال تبسيط القواعد المتعلقة بأنواع القروض التي يمكن استخدامها كضمانات.",
+    "datum": "2026-06-25",
+    "kalla": "ECB",
+    "kalla_url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260625~edee181785.en.html",
+    "taggar": [
+      "ekonomi",
+      "ecb"
+    ],
+    "relevans": {
+      "b_finans": 8
+    }
+  },
+  {
+    "id": "ecb-2026-06-25-isabel-schnabel-interview-with",
+    "typ": "omvarld",
+    "titel": "إيزابيل شنابل: مقابلة في مجلة \"Die Zeit\".",
+    "ingress": "على الرغم من انخفاض أسعار النفط بعد اتفاق سلام في الشرق الأوسط، إلا أن التضخم (ارتفاع الأسعار) لا يزال يمثل تحديًا كبيرًا للاقتصاد في أوروبا وألمانيا. ولهذا السبب، تخطط البنك المركزي الأوروبي لزيادة أسعار الفائدة بشكل أكبر للحفاظ على استقرا",
+    "datum": "2026-06-25",
+    "kalla": "ECB",
+    "kalla_url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260626~c18c7252f3.en.html",
+    "taggar": [
+      "ekonomi",
+      "ecb"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_energi": 3,
+      "lontagare": 3,
+      "sparare": 3,
+      "lantagare": 3,
+      "energikund": 3,
+      "konsument": 5
+    }
+  },
+  {
     "id": "ecb-2026-06-24-ecb-reports-on-progress-toward",
     "typ": "omvarld",
     "titel": "البنك المركزي الأوروبي يصدر تقريرًا حول التقدم المحرز نحو إدخال اليورو.",

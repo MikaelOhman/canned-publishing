@@ -112,6 +112,44 @@
     }
   },
   {
+    "id": "ecb-2026-06-25-ecb-to-integrate-non-financial",
+    "typ": "omvarld",
+    "titel": "La Banque centrale européenne (BCE) va intégrer les portefeuilles de créances non financières dans son cadre pour les garanties acceptées et mettra fin aux mesures temporaires en vigueur.",
+    "ingress": "La Banque centrale européenne facilite l'accès des banques aux prêts en simplifiant les règles concernant les types de garanties acceptées.",
+    "datum": "2026-06-25",
+    "kalla": "ECB",
+    "kalla_url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260625~edee181785.en.html",
+    "taggar": [
+      "ekonomi",
+      "ecb"
+    ],
+    "relevans": {
+      "b_finans": 8
+    }
+  },
+  {
+    "id": "ecb-2026-06-25-isabel-schnabel-interview-with",
+    "typ": "omvarld",
+    "titel": "Isabel Schnabel : Entretien publié dans le journal *Die Zeit*.",
+    "ingress": "Malgré la baisse des prix du pétrole suite à un accord de paix au Moyen-Orient, l'inflation (l'augmentation des prix) reste un défi majeur pour l'économie européenne et allemande. C'est pourquoi la Banque centrale européenne prévoit d'augme",
+    "datum": "2026-06-25",
+    "kalla": "ECB",
+    "kalla_url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260626~c18c7252f3.en.html",
+    "taggar": [
+      "ekonomi",
+      "ecb"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_energi": 3,
+      "lontagare": 3,
+      "sparare": 3,
+      "lantagare": 3,
+      "energikund": 3,
+      "konsument": 5
+    }
+  },
+  {
     "id": "ecb-2026-06-24-ecb-reports-on-progress-toward",
     "typ": "omvarld",
     "titel": "La Banque centrale européenne (BCE) publie un rapport sur les progrès réalisés en vue de l'introduction de l'euro.",

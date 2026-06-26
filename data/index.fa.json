@@ -112,6 +112,44 @@
     }
   },
   {
+    "id": "ecb-2026-06-25-ecb-to-integrate-non-financial",
+    "typ": "omvarld",
+    "titel": "بانک مرکزی اروپا (ECB) قصد دارد، مجموعه‌ای از دارایی‌های اعتباری غیرمالی را در چارچوب کلی خود برای ضمانت‌های عمومی ادغام کند و تدابیر موقت فعلی را به مرور زمان حذف خواهد کرد.",
+    "ingress": "بانک مرکزی اروپا، فرآیند دریافت وام برای بانک‌ها را تسهیل می‌کند، این کار از طریق ساده‌سازی قوانینی انجام می‌شود که تعیین می‌کنند چه نوع دارایی‌هایی می‌توانند به عنوان وثیقه در برابر وام استفاده شوند.",
+    "datum": "2026-06-25",
+    "kalla": "ECB",
+    "kalla_url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260625~edee181785.en.html",
+    "taggar": [
+      "ekonomi",
+      "ecb"
+    ],
+    "relevans": {
+      "b_finans": 8
+    }
+  },
+  {
+    "id": "ecb-2026-06-25-isabel-schnabel-interview-with",
+    "typ": "omvarld",
+    "titel": "ایزابل اشنابل: مصاحبه در مجله \"Die Zeit\".",
+    "ingress": "با وجود کاهش قیمت نفت پس از توافق صلح در خاورمیانه، تورم (افزایش قیمت‌ها) همچنان یک چالش بزرگ برای اقتصاد اروپا و آلمان است. به همین دلیل، بانک مرکزی اروپا قصد دارد نرخ بهره را مجدداً افزایش دهد تا از ثبات قیمت‌ها محافظت کند.",
+    "datum": "2026-06-25",
+    "kalla": "ECB",
+    "kalla_url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260626~c18c7252f3.en.html",
+    "taggar": [
+      "ekonomi",
+      "ecb"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_energi": 3,
+      "lontagare": 3,
+      "sparare": 3,
+      "lantagare": 3,
+      "energikund": 3,
+      "konsument": 5
+    }
+  },
+  {
     "id": "ecb-2026-06-24-ecb-reports-on-progress-toward",
     "typ": "omvarld",
     "titel": "بانک مرکزی اروپا (ECB) در مورد پیشرفت‌های حاصل شده در مسیر معرفی یورو گزارش ارائه می‌دهد.",

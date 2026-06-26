@@ -112,6 +112,44 @@
     }
   },
   {
+    "id": "ecb-2026-06-25-ecb-to-integrate-non-financial",
+    "typ": "omvarld",
+    "titel": "El Banco Central Europeo (BCE) integrará carteras de créditos que no son financieros en su marco para la gestión de riesgos sistémicos y eliminará las medidas temporales actualmente vigentes.",
+    "ingress": "El Banco Central Europeo está facilitando que los bancos obtengan préstamos al simplificar las normas sobre qué tipos de activos pueden utilizarse como garantía.",
+    "datum": "2026-06-25",
+    "kalla": "ECB",
+    "kalla_url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260625~edee181785.en.html",
+    "taggar": [
+      "ekonomi",
+      "ecb"
+    ],
+    "relevans": {
+      "b_finans": 8
+    }
+  },
+  {
+    "id": "ecb-2026-06-25-isabel-schnabel-interview-with",
+    "typ": "omvarld",
+    "titel": "Isabel Schnabel: Entrevista publicada en la revista *Die Zeit*.",
+    "ingress": "A pesar de que los precios del petróleo han disminuido tras un acuerdo de paz en Oriente Medio, la inflación (aumento de precios) sigue siendo un gran desafío para la economía de Europa y Alemania. Por lo tanto, el Banco Central Europeo pla",
+    "datum": "2026-06-25",
+    "kalla": "ECB",
+    "kalla_url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260626~c18c7252f3.en.html",
+    "taggar": [
+      "ekonomi",
+      "ecb"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_energi": 3,
+      "lontagare": 3,
+      "sparare": 3,
+      "lantagare": 3,
+      "energikund": 3,
+      "konsument": 5
+    }
+  },
+  {
     "id": "ecb-2026-06-24-ecb-reports-on-progress-toward",
     "typ": "omvarld",
     "titel": "El Banco Central Europeo (BCE) informa sobre los avances en la introducción del euro.",

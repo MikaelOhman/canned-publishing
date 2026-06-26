@@ -112,6 +112,44 @@
     }
   },
   {
+    "id": "ecb-2026-06-25-ecb-to-integrate-non-financial",
+    "typ": "omvarld",
+    "titel": "La Banca Centrale Europea (BCE) integrerà nel suo quadro delle garanzie ampie portafogli di crediti non finanziari e intende eliminare le misure temporanee attualmente in vigore.",
+    "ingress": "La Banca Centrale Europea ha semplificato le procedure per consentire alle banche di ottenere più facilmente prestiti, modificando le regole relative ai tipi di garanzie accettate.",
+    "datum": "2026-06-25",
+    "kalla": "ECB",
+    "kalla_url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260625~edee181785.en.html",
+    "taggar": [
+      "ekonomi",
+      "ecb"
+    ],
+    "relevans": {
+      "b_finans": 8
+    }
+  },
+  {
+    "id": "ecb-2026-06-25-isabel-schnabel-interview-with",
+    "typ": "omvarld",
+    "titel": "Isabel Schnabel: Intervista pubblicata sulla rivista \"Die Zeit\".",
+    "ingress": "Nonostante il calo dei prezzi del petrolio a seguito di un accordo di pace in Medio Oriente, l'inflazione (l'aumento dei prezzi) rimane una sfida importante per l'economia europea e tedesca. Pertanto, la Banca Centrale Europea prevede di au",
+    "datum": "2026-06-25",
+    "kalla": "ECB",
+    "kalla_url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260626~c18c7252f3.en.html",
+    "taggar": [
+      "ekonomi",
+      "ecb"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_energi": 3,
+      "lontagare": 3,
+      "sparare": 3,
+      "lantagare": 3,
+      "energikund": 3,
+      "konsument": 5
+    }
+  },
+  {
     "id": "ecb-2026-06-24-ecb-reports-on-progress-toward",
     "typ": "omvarld",
     "titel": "La Banca Centrale Europea (BCE) pubblica un rapporto sui progressi compiuti verso l'introduzione dell'euro.",

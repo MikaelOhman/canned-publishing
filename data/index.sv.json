@@ -113,6 +113,44 @@
     }
   },
   {
+    "id": "ecb-2026-06-25-ecb-to-integrate-non-financial",
+    "typ": "omvarld",
+    "titel": "Europeiska centralbanken (ECB) kommer att integrera portföljer av kreditfordringar som inte är finansiella i sitt ramverk för allmän säkerhet och fasar ut tillfälliga åtgärder.",
+    "ingress": "Europeiska centralbanken gör det enklare för banker att få låna pengar genom att förenkla reglerna för vilka typer av lån som får användas som säkerhet.",
+    "datum": "2026-06-25",
+    "kalla": "ECB",
+    "kalla_url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260625~edee181785.en.html",
+    "taggar": [
+      "ekonomi",
+      "ecb"
+    ],
+    "relevans": {
+      "b_finans": 8
+    }
+  },
+  {
+    "id": "ecb-2026-06-25-isabel-schnabel-interview-with",
+    "typ": "omvarld",
+    "titel": "Isabel Schnabel: Intervju i tidningen Die Zeit.",
+    "ingress": "Trots att oljepriserna har sjunkit efter ett fredsavtal i Mellanöstern, förblir inflationen (prisökningar) en stor utmaning för ekonomin i Europa och Tyskland. Därför planerar den europeiska centralbanken att höja räntan ytterligare för att",
+    "datum": "2026-06-25",
+    "kalla": "ECB",
+    "kalla_url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260626~c18c7252f3.en.html",
+    "taggar": [
+      "ekonomi",
+      "ecb"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_energi": 3,
+      "lontagare": 3,
+      "sparare": 3,
+      "lantagare": 3,
+      "energikund": 3,
+      "konsument": 5
+    }
+  },
+  {
     "id": "ecb-2026-06-24-ecb-reports-on-progress-toward",
     "typ": "omvarld",
     "titel": "ECB rapporterar om framstegen mot införandet av euron.",
