@@ -292,7 +292,7 @@
   "kommunfullmaktige": {
     "etikett": "مجلس البلدية.",
     "typ": "organisation",
-    "antal": 89
+    "antal": 90
   },
   "kommunpolitik": {
     "etikett": "سياسة البلديات.",
@@ -1532,6 +1532,11 @@
   "personalutskottets": {
     "etikett": "لجنة الشؤون الشخصية.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "ulricehamn": {
+    "etikett": "أولريكهامن.",
+    "typ": "plats",
     "antal": 1
   }
 }

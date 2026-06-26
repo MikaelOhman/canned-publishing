@@ -287,7 +287,7 @@
   "kommunfullmaktige": {
     "etikett": "شوراى شهر",
     "typ": "organisation",
-    "antal": 89
+    "antal": 90
   },
   "kommunpolitik": {
     "etikett": "سیاست‌های شهرداری",
@@ -1517,6 +1517,11 @@
   "personalutskottets": {
     "etikett": "کمیته‌ی مربوط به مسائل شخصی.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "ulricehamn": {
+    "etikett": "ترجمه:\n\nاولریکهامن (Ulricehamn)",
+    "typ": "plats",
     "antal": 1
   }
 }

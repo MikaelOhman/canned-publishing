@@ -292,7 +292,7 @@
   "kommunfullmaktige": {
     "etikett": "Gemeenteraad.",
     "typ": "organisation",
-    "antal": 89
+    "antal": 90
   },
   "kommunpolitik": {
     "etikett": "Gemeentepolitiek.",
@@ -1527,6 +1527,11 @@
   "personalutskottets": {
     "etikett": "Persoonlijk comité.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "ulricehamn": {
+    "etikett": "Ulricehamn.",
+    "typ": "plats",
     "antal": 1
   }
 }

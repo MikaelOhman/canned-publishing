@@ -292,7 +292,7 @@
   "kommunfullmaktige": {
     "etikett": "A települési közgyűlés.",
     "typ": "organisation",
-    "antal": 89
+    "antal": 90
   },
   "kommunpolitik": {
     "etikett": "Önkormányzati politika.",
@@ -1517,6 +1517,11 @@
   "personalutskottets": {
     "etikett": "A személyzeti bizottság.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "ulricehamn": {
+    "etikett": "Ulricehamn.",
+    "typ": "plats",
     "antal": 1
   }
 }

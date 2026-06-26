@@ -292,7 +292,7 @@
   "kommunfullmaktige": {
     "etikett": "Rada miejska.",
     "typ": "organisation",
-    "antal": 89
+    "antal": 90
   },
   "kommunpolitik": {
     "etikett": "Polityka samorządowa.",
@@ -1517,6 +1517,11 @@
   "personalutskottets": {
     "etikett": "Komisji Personalnej",
     "typ": "organisation",
+    "antal": 1
+  },
+  "ulricehamn": {
+    "etikett": "Ulricehamn.",
+    "typ": "plats",
     "antal": 1
   }
 }

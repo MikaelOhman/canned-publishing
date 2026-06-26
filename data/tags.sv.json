@@ -377,7 +377,7 @@
   "kommunfullmaktige": {
     "etikett": "Kommunfullmäktige",
     "typ": "organisation",
-    "antal": 89
+    "antal": 90
   },
   "kommunpolitik": {
     "etikett": "Kommunpolitik",
@@ -1622,6 +1622,11 @@
   "personalutskottets": {
     "etikett": "Personalutskottets",
     "typ": "organisation",
+    "antal": 1
+  },
+  "ulricehamn": {
+    "etikett": "Ulricehamns",
+    "typ": "plats",
     "antal": 1
   }
 }
