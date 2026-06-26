@@ -362,7 +362,7 @@
   "protokoll": {
     "etikett": "پروتکل",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "ulf-rapp": {
     "etikett": "Ulf Rapp",
@@ -1462,6 +1462,11 @@
   "pensionarsradet": {
     "etikett": "شورای بازنشستگان.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "taby": {
+    "etikett": "تا بی",
+    "typ": "plats",
     "antal": 1
   }
 }

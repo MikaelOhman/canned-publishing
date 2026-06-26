@@ -432,7 +432,7 @@
   "protokoll": {
     "etikett": "Protokoll",
     "typ": "händelse",
-    "antal": 7
+    "antal": 8
   },
   "alingsas": {
     "etikett": "Alingsås",
@@ -1567,6 +1567,11 @@
   "pensionarsradet": {
     "etikett": "Pensionärsrådet",
     "typ": "organisation",
+    "antal": 1
+  },
+  "taby": {
+    "etikett": "Täby",
+    "typ": "plats",
     "antal": 1
   }
 }

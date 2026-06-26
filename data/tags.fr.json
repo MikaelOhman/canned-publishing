@@ -367,7 +367,7 @@
   "protokoll": {
     "etikett": "Procès-verbal.",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "ulf-rapp": {
     "etikett": "Ulf Rapp",
@@ -1472,6 +1472,11 @@
   "pensionarsradet": {
     "etikett": "Le Conseil des retraités.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "taby": {
+    "etikett": "Täby.",
+    "typ": "plats",
     "antal": 1
   }
 }

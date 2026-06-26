@@ -362,7 +362,7 @@
   "protokoll": {
     "etikett": "محضر اجتماع.",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "ulf-rapp": {
     "etikett": "أولف راب.",
@@ -1477,6 +1477,11 @@
   "pensionarsradet": {
     "etikett": "مجلس المتقاعدين.",
     "typ": "organisation",
+    "antal": 1
+  },
+  "taby": {
+    "etikett": "تايبي.",
+    "typ": "plats",
     "antal": 1
   }
 }
