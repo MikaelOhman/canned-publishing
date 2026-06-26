@@ -2602,6 +2602,26 @@
     }
   },
   {
+    "id": "rr-faststallande-av-sgi-process-organisation-och-styr",
+    "typ": "myndighet",
+    "titel": "Festlegung des Sozialversicherungsbeitrags (SGI) – Prozesse, Organisation und Steuerung (RiR 2026:12).",
+    "ingress": "Das Rechnungshof hat geprüft, wie die schwedische Sozialversicherungsanstalt (Försäkringskassan) das für Krankengeld berechnete Einkommen (SGI – \"sjukpenninggrundande inkomst\") ermittelt, also das Gehalt, das als Grundlage für Leistungen im",
+    "datum": "2026-06-16",
+    "kalla": "Riksrevisionen",
+    "kalla_url": "https://www.riksrevisionen.se/granskningar/granskningsrapporter/2026/faststallande-av-sgi---process-organisation-och-styrning.html",
+    "taggar": [
+      "riksrevisionen",
+      "granskning"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "sjuklon": 3,
+      "lontagare": 3,
+      "sjukskriven": 5,
+      "skiftarbete": 3
+    }
+  },
+  {
     "id": "HD03285",
     "typ": "lagforslag",
     "titel": "Anhörung und vorübergehende Überstellung bei einem Haftbefehl",
@@ -4858,6 +4878,24 @@
     }
   },
   {
+    "id": "rr-konkurs-eller-rekonstruktion-statens-hantering-av-",
+    "typ": "myndighet",
+    "titel": "Insolvenz oder Sanierung – Wie der Staat Insolvenzverfahren für Unternehmen behandelt (RiR 2026:9).",
+    "ingress": "Der Staat prüft, wie Unternehmen mit hohen Schulden und Zahlungsunfähigkeit behandelt werden. Die Prüfung zeigt, dass das System grundsätzlich gut funktioniert, jedoch gibt es Probleme bei der Auswahl der Personen (Verwalter), die für die L",
+    "datum": "2026-05-12",
+    "kalla": "Riksrevisionen",
+    "kalla_url": "https://www.riksrevisionen.se/granskningar/granskningsrapporter/2026/konkurs-eller-rekonstruktion---statens-hantering-av-insolvensforfaranden-for-foretag.html",
+    "taggar": [
+      "riksrevisionen",
+      "granskning"
+    ],
+    "relevans": {
+      "konkurs": 8,
+      "lantagare": 3,
+      "skuldsatt": 3
+    }
+  },
+  {
     "id": "gavle-kommunfullmaktige-2026-05-11",
     "typ": "kommunbeslut",
     "titel": "Gemeindevertretung von Gävle, 11. Mai 2026.",
@@ -5879,6 +5917,25 @@
     "relevans": {
       "fortroendevald": 4,
       "utlandssvensk": 3
+    }
+  },
+  {
+    "id": "rr-etnisk-diskriminering-statens-arbete-for-att-motve",
+    "typ": "myndighet",
+    "titel": "Ethnische Diskriminierung – Die Arbeit des Staates zur Vermeidung von Risiken bei Entscheidungen von Behörden (RiR 2026:8).",
+    "ingress": "Der Staat leistet nicht ausreichend, um Diskriminierung aufgrund der Herkunft zu verhindern, wenn Behörden Entscheidungen über Privatpersonen treffen. Es bedarf einer besseren Präventionsarbeit seitens der Behörden, damit alle gleich behand",
+    "datum": "2026-04-16",
+    "kalla": "Riksrevisionen",
+    "kalla_url": "https://www.riksrevisionen.se/granskningar/granskningsrapporter/2026/etnisk-diskriminering---statens-arbete-for-att-motverka-risker-vid-myndigheters-beslut.html",
+    "taggar": [
+      "riksrevisionen",
+      "granskning"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "hbtq": 8,
+      "sjukskriven": 3,
+      "otrygg": 3
     }
   },
   {

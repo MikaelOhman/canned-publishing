@@ -2627,6 +2627,26 @@
     }
   },
   {
+    "id": "rr-faststallande-av-sgi-process-organisation-och-styr",
+    "typ": "myndighet",
+    "titel": "Fastställande av SGI – process, organisation och styrning (RiR 2026:12)",
+    "ingress": "Riksrevisionen har granskat hur Försäkringskassan räknar ut sjukpenninggrundande inkomst (SGI), vilket är den lön som ligger till grund för ersättning vid sjukdom. De menar att systemet behöver förbättras eftersom vissa kontroller inte är t",
+    "datum": "2026-06-16",
+    "kalla": "Riksrevisionen",
+    "kalla_url": "https://www.riksrevisionen.se/granskningar/granskningsrapporter/2026/faststallande-av-sgi---process-organisation-och-styrning.html",
+    "taggar": [
+      "riksrevisionen",
+      "granskning"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "sjuklon": 3,
+      "lontagare": 3,
+      "sjukskriven": 5,
+      "skiftarbete": 3
+    }
+  },
+  {
     "id": "HD03285",
     "typ": "lagforslag",
     "titel": "Hörande och tillfälligt överförande vid en arresteringsorder",
@@ -4909,6 +4929,24 @@
     }
   },
   {
+    "id": "rr-konkurs-eller-rekonstruktion-statens-hantering-av-",
+    "typ": "myndighet",
+    "titel": "Konkurs eller rekonstruktion – statens hantering av insolvensförfaranden för företag (RiR 2026:9)",
+    "ingress": "Staten granskar hur man hanterar företag som har stora skulder och inte kan betala sina räkningar. Granskningen visar att systemet fungerar bra, men att det finns problem med hur de personer som ska lösa problemen (förvaltare) väljs ut.",
+    "datum": "2026-05-12",
+    "kalla": "Riksrevisionen",
+    "kalla_url": "https://www.riksrevisionen.se/granskningar/granskningsrapporter/2026/konkurs-eller-rekonstruktion---statens-hantering-av-insolvensforfaranden-for-foretag.html",
+    "taggar": [
+      "riksrevisionen",
+      "granskning"
+    ],
+    "relevans": {
+      "konkurs": 8,
+      "lantagare": 3,
+      "skuldsatt": 3
+    }
+  },
+  {
     "id": "gavle-kommunfullmaktige-2026-05-11",
     "typ": "kommunbeslut",
     "titel": "Kommunfullmäktige, Gävle kommun 2026-05-11",
@@ -5934,6 +5972,25 @@
     "relevans": {
       "fortroendevald": 4,
       "utlandssvensk": 3
+    }
+  },
+  {
+    "id": "rr-etnisk-diskriminering-statens-arbete-for-att-motve",
+    "typ": "myndighet",
+    "titel": "Etnisk diskriminering – statens arbete för att motverka risker vid myndigheters beslut (RiR 2026:8)",
+    "ingress": "Staten gör inte tillräckligt bra arbete för att stoppa diskriminering baserat på ursprung när myndigheter fattar beslut om privatpersoner. Det behövs bättre förebyggande arbete från myndigheterna så att alla behandlas lika.",
+    "datum": "2026-04-16",
+    "kalla": "Riksrevisionen",
+    "kalla_url": "https://www.riksrevisionen.se/granskningar/granskningsrapporter/2026/etnisk-diskriminering---statens-arbete-for-att-motverka-risker-vid-myndigheters-beslut.html",
+    "taggar": [
+      "riksrevisionen",
+      "granskning"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "hbtq": 8,
+      "sjukskriven": 3,
+      "otrygg": 3
     }
   },
   {

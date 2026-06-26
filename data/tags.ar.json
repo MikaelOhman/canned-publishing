@@ -127,7 +127,7 @@
   "riksrevisionen": {
     "etikett": "الرقابة الوطنية.",
     "typ": "organisation",
-    "antal": 1
+    "antal": 4
   },
   "hogre-utbildning": {
     "etikett": "التعليم العالي",
@@ -1673,5 +1673,10 @@
     "etikett": "الاقتصاد الإقليمي.",
     "typ": "ämne",
     "antal": 1
+  },
+  "granskning": {
+    "etikett": "مراجعة.",
+    "typ": "ämne",
+    "antal": 3
   }
 }

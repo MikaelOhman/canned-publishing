@@ -127,7 +127,7 @@
   "riksrevisionen": {
     "etikett": "Camera Națională de Contabilitate.",
     "typ": "organisation",
-    "antal": 1
+    "antal": 4
   },
   "hogre-utbildning": {
     "etikett": "Educație superioară.",
@@ -1658,5 +1658,10 @@
     "etikett": "Economie regională.",
     "typ": "ämne",
     "antal": 1
+  },
+  "granskning": {
+    "etikett": "Verificare.",
+    "typ": "ämne",
+    "antal": 3
   }
 }

@@ -127,7 +127,7 @@
   "riksrevisionen": {
     "etikett": "Najwyższy audytor.",
     "typ": "organisation",
-    "antal": 1
+    "antal": 4
   },
   "hogre-utbildning": {
     "etikett": "Wyższe wykształcenie.",
@@ -1658,5 +1658,10 @@
     "etikett": "Ekonomia regionalna.",
     "typ": "ämne",
     "antal": 1
+  },
+  "granskning": {
+    "etikett": "Recenzja:\n\n*   [Data]\n*   [Nazwa produktu/usługi]\n*   [Autor recenzji]\n\n[Treść recenzji]",
+    "typ": "ämne",
+    "antal": 3
   }
 }

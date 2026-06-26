@@ -2624,6 +2624,26 @@
     }
   },
   {
+    "id": "rr-faststallande-av-sgi-process-organisation-och-styr",
+    "typ": "myndighet",
+    "titel": "Establishing a System of Guaranteed Income (SGI): Process, Organization, and Governance (Report RiR 2026:12).",
+    "ingress": "The Swedish National Audit Office has reviewed how the Swedish Social Insurance Agency (Försäkringskassan) calculates taxable income for sickness benefits (SGI), which is the salary used to determine benefit amounts in case of illness. They",
+    "datum": "2026-06-16",
+    "kalla": "Riksrevisionen",
+    "kalla_url": "https://www.riksrevisionen.se/granskningar/granskningsrapporter/2026/faststallande-av-sgi---process-organisation-och-styrning.html",
+    "taggar": [
+      "riksrevisionen",
+      "granskning"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "sjuklon": 3,
+      "lontagare": 3,
+      "sjukskriven": 5,
+      "skiftarbete": 3
+    }
+  },
+  {
     "id": "HD03285",
     "typ": "lagforslag",
     "titel": "Hearing and temporary transfer in arrest warrant cases",
@@ -4902,6 +4922,24 @@
     }
   },
   {
+    "id": "rr-konkurs-eller-rekonstruktion-statens-hantering-av-",
+    "typ": "myndighet",
+    "titel": "Bankruptcy or restructuring: The state's handling of insolvency proceedings for companies (Report RiR 2026:9).",
+    "ingress": "The government is reviewing how companies with significant debts and an inability to pay their bills are handled. The review indicates that the overall system functions well, but there are concerns regarding the selection process for the in",
+    "datum": "2026-05-12",
+    "kalla": "Riksrevisionen",
+    "kalla_url": "https://www.riksrevisionen.se/granskningar/granskningsrapporter/2026/konkurs-eller-rekonstruktion---statens-hantering-av-insolvensforfaranden-for-foretag.html",
+    "taggar": [
+      "riksrevisionen",
+      "granskning"
+    ],
+    "relevans": {
+      "konkurs": 8,
+      "lantagare": 3,
+      "skuldsatt": 3
+    }
+  },
+  {
     "id": "gavle-kommunfullmaktige-2026-05-11",
     "typ": "kommunbeslut",
     "titel": "Municipal Council, Gävle Municipality, May 11, 2026.",
@@ -5927,6 +5965,25 @@
     "relevans": {
       "fortroendevald": 4,
       "utlandssvensk": 3
+    }
+  },
+  {
+    "id": "rr-etnisk-diskriminering-statens-arbete-for-att-motve",
+    "typ": "myndighet",
+    "titel": "Ethnic discrimination - The government's efforts to mitigate risks of bias in decisions made by authorities (Report 2026:8).",
+    "ingress": "The government is not doing enough to prevent discrimination based on origin when authorities make decisions affecting individuals. Better preventative measures are needed from the authorities to ensure that everyone is treated equally.",
+    "datum": "2026-04-16",
+    "kalla": "Riksrevisionen",
+    "kalla_url": "https://www.riksrevisionen.se/granskningar/granskningsrapporter/2026/etnisk-diskriminering---statens-arbete-for-att-motverka-risker-vid-myndigheters-beslut.html",
+    "taggar": [
+      "riksrevisionen",
+      "granskning"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "hbtq": 8,
+      "sjukskriven": 3,
+      "otrygg": 3
     }
   },
   {

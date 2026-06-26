@@ -2575,6 +2575,26 @@
     }
   },
   {
+    "id": "rr-faststallande-av-sgi-process-organisation-och-styr",
+    "typ": "myndighet",
+    "titel": "Determinación del Índice de Gasto Estándar (SGI): proceso, organización y gestión (Informe de Investigación 2026:12).",
+    "ingress": "La Auditoría Nacional ha revisado cómo la Seguridad Social (Försäkringskassan) calcula los ingresos base para el cálculo de la prestación por enfermedad (sjukpenninggrundande inkomst), que es el salario que sirve como base para la compensac",
+    "datum": "2026-06-16",
+    "kalla": "Riksrevisionen",
+    "kalla_url": "https://www.riksrevisionen.se/granskningar/granskningsrapporter/2026/faststallande-av-sgi---process-organisation-och-styrning.html",
+    "taggar": [
+      "riksrevisionen",
+      "granskning"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "sjuklon": 3,
+      "lontagare": 3,
+      "sjukskriven": 5,
+      "skiftarbete": 3
+    }
+  },
+  {
     "id": "HD03285",
     "typ": "lagforslag",
     "titel": "Audiencia y notificación temporal durante el proceso de ejecución de una orden de arresto.",
@@ -4847,6 +4867,24 @@
     }
   },
   {
+    "id": "rr-konkurs-eller-rekonstruktion-statens-hantering-av-",
+    "typ": "myndighet",
+    "titel": "Concurso o reestructuración: la gestión estatal de los procedimientos de insolvencia para empresas (RiR 2026:9).",
+    "ingress": "El Estado está investigando cómo se gestionan las empresas con grandes deudas que no pueden pagar sus facturas. La investigación revela que el sistema funciona bien en general, pero existen problemas en la forma en que se seleccionan a las",
+    "datum": "2026-05-12",
+    "kalla": "Riksrevisionen",
+    "kalla_url": "https://www.riksrevisionen.se/granskningar/granskningsrapporter/2026/konkurs-eller-rekonstruktion---statens-hantering-av-insolvensforfaranden-for-foretag.html",
+    "taggar": [
+      "riksrevisionen",
+      "granskning"
+    ],
+    "relevans": {
+      "konkurs": 8,
+      "lantagare": 3,
+      "skuldsatt": 3
+    }
+  },
+  {
     "id": "gavle-kommunfullmaktige-2026-05-11",
     "typ": "kommunbeslut",
     "titel": "Ayuntamiento de Gävle, 11 de mayo de 2026.",
@@ -5868,6 +5906,25 @@
     "relevans": {
       "fortroendevald": 4,
       "utlandssvensk": 3
+    }
+  },
+  {
+    "id": "rr-etnisk-diskriminering-statens-arbete-for-att-motve",
+    "typ": "myndighet",
+    "titel": "Discriminación étnica: el trabajo del estado para prevenir riesgos en las decisiones de las autoridades (Informe al Parlamento, 2026:8).",
+    "ingress": "El Estado no está haciendo lo suficiente para evitar la discriminación basada en el origen étnico cuando las autoridades toman decisiones que afectan a los ciudadanos. Es necesario un trabajo preventivo más eficaz por parte de las autoridad",
+    "datum": "2026-04-16",
+    "kalla": "Riksrevisionen",
+    "kalla_url": "https://www.riksrevisionen.se/granskningar/granskningsrapporter/2026/etnisk-diskriminering---statens-arbete-for-att-motverka-risker-vid-myndigheters-beslut.html",
+    "taggar": [
+      "riksrevisionen",
+      "granskning"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "hbtq": 8,
+      "sjukskriven": 3,
+      "otrygg": 3
     }
   },
   {

@@ -192,7 +192,7 @@
   "riksrevisionen": {
     "etikett": "Das Rechnungshof.",
     "typ": "organisation",
-    "antal": 3
+    "antal": 6
   },
   "hogre-utbildning": {
     "etikett": "Höhere Bildung.",
@@ -1452,7 +1452,7 @@
   "granskning": {
     "etikett": "Überprüfung\n\nHier ist eine Liste von Punkten, die bei der Überprüfung berücksichtigt werden sollten:\n\n*   **Name:** [Name]\n*   **Datum:** [Datum]\n*   **URL:** [URL]\n\nBitte überprüfen Sie Folgendes:\n\n1.  [Punkt 1]\n2.  [Punkt 2]\n3.  [Punkt 3]",
     "typ": "ämne",
-    "antal": 2
+    "antal": 5
   },
   "reg-halland": {
     "etikett": "Region Halland",

@@ -127,7 +127,7 @@
   "riksrevisionen": {
     "etikett": "A Nemzeti Ellenőrzési Hivatal.",
     "typ": "organisation",
-    "antal": 1
+    "antal": 4
   },
   "hogre-utbildning": {
     "etikett": "Felsőoktatás",
@@ -1658,5 +1658,10 @@
     "etikett": "Regionális gazdaság.",
     "typ": "ämne",
     "antal": 1
+  },
+  "granskning": {
+    "etikett": "Vizsgálat.",
+    "typ": "ämne",
+    "antal": 3
   }
 }

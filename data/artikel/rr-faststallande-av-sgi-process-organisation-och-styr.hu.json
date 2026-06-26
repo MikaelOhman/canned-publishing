@@ -1,0 +1,22 @@
+{
+  "id": "rr-faststallande-av-sgi-process-organisation-och-styr",
+  "typ": "myndighet",
+  "titel": "A Szociális Biztosítási Jövedelem (SGI) meghatározásának folyamata, szervezete és irányítása (RiR 2026:12).",
+  "datum": "2026-06-16",
+  "kalla": "Riksrevisionen",
+  "kalla_url": "https://www.riksrevisionen.se/granskningar/granskningsrapporter/2026/faststallande-av-sgi---process-organisation-och-styrning.html",
+  "taggar": [
+    "riksrevisionen",
+    "granskning"
+  ],
+  "html": "<p>A betegellátási alapú jövedelem (SGI) a szociális biztosítás egyik központi eleme. Ez az összeg meghatározza több, jelentős részét képező ellátás mértékét, és néha jogosultságát is. A Szociális Biztosító Alap évente nagyon nagy számú SGI-t dolgoz fel, ami magas követelményeket támaszt a hatékonyság és az igazságosság szempontjából. A Ríksexamination (országos ellenőrző szervezet) általános következtetése, hogy a Szociális Biztosító Alap SGI-feldolgozása hatékonyabb lett, de még nem teljesen hatékony. Az ellenőrzés azt mutatja, hogy a Szociális Biztosító Alap SGI-vel kapcsolatos döntései általában tükrözik az egyén tényleges jövedelmét, azonban a kontrollok nem mindig elegendőek ahhoz, hogy biztosítsák a pontos döntéseket. Az SGI-feldolgozás egyes részei erőforrásigényesek, és hibák kockázata áll fenn, emellett a vezetés nem egyértelmű, és hiányzik a megfelelő ellenőrzés. Összességében a Ríksexamination úgy ítéli meg, hogy a Szociális Biztosító Alapnak erősítenie kell az SGI-feldolgozásának kontrollját, vezetését és ellenőrzését. A Szociális Biztosító Alap az elmúlt években hatékonyabbá tette az SGI-feldolgozást a digitalizálás és az automatizálás révén. Ezenkívül az SGI-vel kapcsolatos döntések általában tükrözik az egyén tényleges jövedelmi helyzetét, amennyiben az személy új jövedelmi információkat nyújtott. Ugyanakkor rendszeresen előfordulnak eltérések az egyén tényleges jövedelme és a Szociális Biztosító Alap által meghatározott SGI között, különösen részmunkaidős foglalkoztatás esetén, vagy akkor, ha hosszú idő telt el az utolsó jövedelmi ellenőrzés óta. Az ellenőrzés azt is megmutatta, hogy a Szociális Biztosító Alap korlátozott mértékben veszi figyelembe azokat a kockázatokat, amelyek az egyéni szinten a Svéd Adóhatóság által nyújtott jövedelmi információk minőségéhez kapcsolódnak, annak ellenére, hogy ezek az információk félrevezetőek vagy helytelenek lehetnek, például csalások eredményeként. Az ellenőrzés azt mutatja, hogy számos SGI-vel kapcsolatos döntés...</p>",
+  "relevans": {
+    "b_finans": 3,
+    "sjuklon": 3,
+    "lontagare": 3,
+    "sjukskriven": 5,
+    "skiftarbete": 3
+  },
+  "tldr": "A Riksrevisionen (Svéd Állami Számvevőszék) felülvizsgálta, hogy a Försäkringskassan (Svéd Biztosító Alap) hogyan számítja ki a betegellátás alapját képező jövedelmet (SGI – sjukpenninggrundande inkomst), ami az a fizetés, amely alapján járó támogatást lehet igényelni betegség esetén. A vizsgálat eredményeként megállapították, hogy a rendszer fejlesztésre szorul, mivel bizonyos ellenőrzések nem eléggé hatékonyak ahhoz, hogy biztosítsák a helyes döntéseket.",
+  "lattlast": "<p>A Svéd Biztosító Alap (Försäkringskassan) hat javította a ügyek kezelését azáltal, hogy több technológiát és automatizálást alkalmazott. A SGI (Sjukförsäkringsersättning – betegségbiztosítási járadék) az a jövedelem, amely alapján meghatározható, hogy egy személy mennyi pénzt kaphat állami támogatásként, ha beteg vagy sérült.</p><p>A fejlesztések ellenére továbbra is vannak problémák a felülvizsgálatokkal kapcsolatban. Ez azt jelenti, hogy a meghozott döntések nem mindig tükrözik pontosan az illető tényleges jövedelmét, különösen azoknál, akik részmunkaidőt dolgoznak vagy akiknél régóta nem történt ellenőrzés.</p><p>Veszélyt jelent továbbá, ha a Svéd Biztosító Alap (Försäkringskassan) adatokat használ az adóhatóság (Skatteverket) által nyújtott információkból anélkül, hogy alaposan ellenőrizné őket. Ha az adóhatósági információk hibásak – például csalások miatt –, akkor ez helytelen döntésekhez vezethet a támogatások tekintetében.</p><p>A Riksrevisionen (a svéd állami számvevőszék), amely egy olyan szerv, amely felügyeli, hogy az állami pénzek hogyan kerülnek felhasználásra, ezért úgy véli, hogy a Svéd Biztosító Alapnak (Försäkringskassan) javítania kell a működését és a felülvizsgálati eljárásait. Fontos, hogy olyan rutint fejlesztse ki, amely biztosítja, hogy a megfelelő személyek kapják meg a megfelelő összeget.</p>"
+}

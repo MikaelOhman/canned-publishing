@@ -2575,6 +2575,26 @@
     }
   },
   {
+    "id": "rr-faststallande-av-sgi-process-organisation-och-styr",
+    "typ": "myndighet",
+    "titel": "Détermination du Système de Gestion des Informations (SGI) : processus, organisation et gouvernance (Rapport d'audit RiR 2026:12).",
+    "ingress": "L'Agence nationale de contrôle des comptes (Riksrevisionen) a examiné la manière dont l'Administration centrale des assurances sociales (Försäkringskassan) calcule le revenu servant de base au calcul des indemnités journalières en cas de ma",
+    "datum": "2026-06-16",
+    "kalla": "Riksrevisionen",
+    "kalla_url": "https://www.riksrevisionen.se/granskningar/granskningsrapporter/2026/faststallande-av-sgi---process-organisation-och-styrning.html",
+    "taggar": [
+      "riksrevisionen",
+      "granskning"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "sjuklon": 3,
+      "lontagare": 3,
+      "sjukskriven": 5,
+      "skiftarbete": 3
+    }
+  },
+  {
     "id": "HD03285",
     "typ": "lagforslag",
     "titel": "Audition et transmission temporaire en cas d'ordonnance d'arrestation.",
@@ -4827,6 +4847,24 @@
     }
   },
   {
+    "id": "rr-konkurs-eller-rekonstruktion-statens-hantering-av-",
+    "typ": "myndighet",
+    "titel": "Faillite ou restructuration : la gestion par l'État des procédures d'insolvabilité pour les entreprises (RiR 2026:9).",
+    "ingress": "L'État examine la manière dont les entreprises confrontées à d'importantes dettes et incapables de payer leurs factures sont gérées. L'enquête révèle que le système fonctionne bien, mais qu'il existe des problèmes concernant la sélection de",
+    "datum": "2026-05-12",
+    "kalla": "Riksrevisionen",
+    "kalla_url": "https://www.riksrevisionen.se/granskningar/granskningsrapporter/2026/konkurs-eller-rekonstruktion---statens-hantering-av-insolvensforfaranden-for-foretag.html",
+    "taggar": [
+      "riksrevisionen",
+      "granskning"
+    ],
+    "relevans": {
+      "konkurs": 8,
+      "lantagare": 3,
+      "skuldsatt": 3
+    }
+  },
+  {
     "id": "gavle-kommunfullmaktige-2026-05-11",
     "typ": "kommunbeslut",
     "titel": "Conseil municipal, Commune de Gävle, 11 mai 2026.",
@@ -5848,6 +5886,25 @@
     "relevans": {
       "fortroendevald": 4,
       "utlandssvensk": 3
+    }
+  },
+  {
+    "id": "rr-etnisk-diskriminering-statens-arbete-for-att-motve",
+    "typ": "myndighet",
+    "titel": "Discrimination ethnique : l'action de l'État pour prévenir les risques liés aux décisions des administrations (Rapport du Riksdag, 2026:8).",
+    "ingress": "L'État ne fait pas suffisamment d'efforts pour lutter contre la discrimination fondée sur l'origine ethnique lorsqu'il s'agit de décisions prises par les administrations concernant des particuliers. Il est nécessaire que les autorités mette",
+    "datum": "2026-04-16",
+    "kalla": "Riksrevisionen",
+    "kalla_url": "https://www.riksrevisionen.se/granskningar/granskningsrapporter/2026/etnisk-diskriminering---statens-arbete-for-att-motverka-risker-vid-myndigheters-beslut.html",
+    "taggar": [
+      "riksrevisionen",
+      "granskning"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "hbtq": 8,
+      "sjukskriven": 3,
+      "otrygg": 3
     }
   },
   {

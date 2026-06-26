@@ -97,7 +97,7 @@
   "riksrevisionen": {
     "etikett": "بازرسی ملی",
     "typ": "organisation",
-    "antal": 1
+    "antal": 4
   },
   "hogre-utbildning": {
     "etikett": "آموزش عالی",
@@ -1658,5 +1658,10 @@
     "etikett": "اقتصاد منطقه‌ای",
     "typ": "ämne",
     "antal": 1
+  },
+  "granskning": {
+    "etikett": "بازبینی",
+    "typ": "ämne",
+    "antal": 3
   }
 }

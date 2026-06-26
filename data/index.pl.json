@@ -2572,6 +2572,26 @@
     }
   },
   {
+    "id": "rr-faststallande-av-sgi-process-organisation-och-styr",
+    "typ": "myndighet",
+    "titel": "Ustalanie wskaźnika dochodu podlegającego opodatkowaniu (SGI) – proces, organizacja i zarządzanie (Raport RiR 2026:12).",
+    "ingress": "Riksrevisionen przeprowadziła audyt w zakresie sposobu, w jaki Försäkringskassan (szwedzki urząd ubezpieczeń społecznych) oblicza podstawę wymiaru świadczenia chorobowego (SGI), czyli wynagrodzenie, które stanowi podstawę do przyznania zasi",
+    "datum": "2026-06-16",
+    "kalla": "Riksrevisionen",
+    "kalla_url": "https://www.riksrevisionen.se/granskningar/granskningsrapporter/2026/faststallande-av-sgi---process-organisation-och-styrning.html",
+    "taggar": [
+      "riksrevisionen",
+      "granskning"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "sjuklon": 3,
+      "lontagare": 3,
+      "sjukskriven": 5,
+      "skiftarbete": 3
+    }
+  },
+  {
     "id": "HD03285",
     "typ": "lagforslag",
     "titel": "Umożliwienie osobom niesłyszącym lub niedosłyszącym osobistego udziału w postępowaniu dotyczącym zatrzymania.",
@@ -4844,6 +4864,24 @@
     }
   },
   {
+    "id": "rr-konkurs-eller-rekonstruktion-statens-hantering-av-",
+    "typ": "myndighet",
+    "titel": "Konkurs czy restrukturyzacja? Sposób postępowania państwa w sprawach upadłościowych przedsiębiorstw (Raport RiR 2026:9).",
+    "ingress": "Państwo przeprowadziło kontrolę sposobu postępowania z firmami, które mają duże długi i nie są w stanie regulować swoich zobowiązań. Kontrola wykazała, że system działa dobrze, ale istnieją problemy związane z procesem wyboru osób odpowiedz",
+    "datum": "2026-05-12",
+    "kalla": "Riksrevisionen",
+    "kalla_url": "https://www.riksrevisionen.se/granskningar/granskningsrapporter/2026/konkurs-eller-rekonstruktion---statens-hantering-av-insolvensforfaranden-for-foretag.html",
+    "taggar": [
+      "riksrevisionen",
+      "granskning"
+    ],
+    "relevans": {
+      "konkurs": 8,
+      "lantagare": 3,
+      "skuldsatt": 3
+    }
+  },
+  {
     "id": "gavle-kommunfullmaktige-2026-05-11",
     "typ": "kommunbeslut",
     "titel": "Uchwała Rady Miejskiej, Gävle, 11 maja 2026 roku.",
@@ -5865,6 +5903,25 @@
     "relevans": {
       "fortroendevald": 4,
       "utlandssvensk": 3
+    }
+  },
+  {
+    "id": "rr-etnisk-diskriminering-statens-arbete-for-att-motve",
+    "typ": "myndighet",
+    "titel": "Dyskryminacja etniczna – działania rządu mające na celu przeciwdziałanie ryzykom związanym z decyzjami podejmowanymi przez organy administracji publicznej (Raport RiR 2026:8).",
+    "ingress": "Państwo nie robi wystarczająco dużo, aby zapobiegać dyskryminacji ze względu na pochodzenie, kiedy organy władzy podejmują decyzje dotyczące obywateli. Potrzebne są lepsze działania prewencyjne podejmowane przez te organy, aby zapewnić wszy",
+    "datum": "2026-04-16",
+    "kalla": "Riksrevisionen",
+    "kalla_url": "https://www.riksrevisionen.se/granskningar/granskningsrapporter/2026/etnisk-diskriminering---statens-arbete-for-att-motverka-risker-vid-myndigheters-beslut.html",
+    "taggar": [
+      "riksrevisionen",
+      "granskning"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "hbtq": 8,
+      "sjukskriven": 3,
+      "otrygg": 3
     }
   },
   {

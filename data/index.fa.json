@@ -2554,6 +2554,26 @@
     }
   },
   {
+    "id": "rr-faststallande-av-sgi-process-organisation-och-styr",
+    "typ": "myndighet",
+    "titel": "تعیین شاخص عملکرد سبز (SGI): فرآیند، سازماندهی و مدیریت (گزارش شماره 2026:12).",
+    "ingress": "اداره حسابرسی ملی، نحوه محاسبه درآمد مبنای مستمری بیماری (SGI) توسط سازمان بیمه تامین اجتماعی را بررسی کرده است. این درآمد، حقوقی است که مبنای پرداخت مستمری در زمان بیماری قرار می‌گیرد. اداره حسابرسی معتقد است که این سیستم نیازمند بهبود است",
+    "datum": "2026-06-16",
+    "kalla": "Riksrevisionen",
+    "kalla_url": "https://www.riksrevisionen.se/granskningar/granskningsrapporter/2026/faststallande-av-sgi---process-organisation-och-styrning.html",
+    "taggar": [
+      "riksrevisionen",
+      "granskning"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "sjuklon": 3,
+      "lontagare": 3,
+      "sjukskriven": 5,
+      "skiftarbete": 3
+    }
+  },
+  {
     "id": "stockholm-kommunfullmaktige-2026-06-15",
     "typ": "kommunbeslut",
     "titel": "جلسه شورای شهر، شهرداری استکهلم، 15 ژوئن 2026.",
@@ -4793,6 +4813,24 @@
     }
   },
   {
+    "id": "rr-konkurs-eller-rekonstruktion-statens-hantering-av-",
+    "typ": "myndighet",
+    "titel": "ورشکستگی یا بازسازی: نحوه برخورد دولت با رویه‌های ورشکستگی شرکت‌ها (گزارش تحقیقی شماره 2026:9).",
+    "ingress": "دولت در حال بررسی نحوه برخورد با شرکت‌هایی است که بدهی‌های زیادی دارند و قادر به پرداخت صورتحساب‌های خود نیستند. این بررسی نشان می‌دهد که سیستم موجود عملکرد خوبی دارد، اما مشکلاتی در فرآیند انتخاب افرادی وجود دارد که وظیفه حل این مشکلات را",
+    "datum": "2026-05-12",
+    "kalla": "Riksrevisionen",
+    "kalla_url": "https://www.riksrevisionen.se/granskningar/granskningsrapporter/2026/konkurs-eller-rekonstruktion---statens-hantering-av-insolvensforfaranden-for-foretag.html",
+    "taggar": [
+      "riksrevisionen",
+      "granskning"
+    ],
+    "relevans": {
+      "konkurs": 8,
+      "lantagare": 3,
+      "skuldsatt": 3
+    }
+  },
+  {
     "id": "gavle-kommunfullmaktige-2026-05-11",
     "typ": "kommunbeslut",
     "titel": "جلسه شورای شهر، شهرداری گیوله، 2026-05-11.",
@@ -5814,6 +5852,25 @@
       "gron_omstallning": 4,
       "regelborda": 6,
       "friluftsliv": 3
+    }
+  },
+  {
+    "id": "rr-etnisk-diskriminering-statens-arbete-for-att-motve",
+    "typ": "myndighet",
+    "titel": "تبعیض نژادی - تلاش‌های دولت برای کاهش خطرات مرتبط با تصمیمات اتخاذ شده توسط سازمان‌ها (گزارش پارلمانی 2026:8).",
+    "ingress": "دولت به اندازه کافی تلاش نمی‌کند تا از تبعیض مبتنی بر نژاد یا ملیت در تصمیم‌گیری‌های سازمان‌های دولتی در مورد افراد جلوگیری کند. لازم است که سازمان‌های دولتی اقدامات پیشگیرانه‌ای بهتری انجام دهند تا اطمینان حاصل شود که همه افراد با عدالت رف",
+    "datum": "2026-04-16",
+    "kalla": "Riksrevisionen",
+    "kalla_url": "https://www.riksrevisionen.se/granskningar/granskningsrapporter/2026/etnisk-diskriminering---statens-arbete-for-att-motverka-risker-vid-myndigheters-beslut.html",
+    "taggar": [
+      "riksrevisionen",
+      "granskning"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "hbtq": 8,
+      "sjukskriven": 3,
+      "otrygg": 3
     }
   },
   {

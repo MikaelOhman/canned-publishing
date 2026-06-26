@@ -2557,6 +2557,26 @@
     }
   },
   {
+    "id": "rr-faststallande-av-sgi-process-organisation-och-styr",
+    "typ": "myndighet",
+    "titel": "تحديد مؤشر الدخل المرجعي (SGI): الإجراءات، التنظيم، والإدارة (تقرير إداري رقم 2026:12).",
+    "ingress": "قامت هيئة الرقابة الحكومية بمراجعة طريقة حساب \"الدخل الأساسي لحساب التعويضات المرضية\" (SGI) من قبل مؤسسة التأمين الاجتماعي السويدية. وتعتبر الهيئة أن النظام بحاجة إلى تحسين، حيث أن بعض آليات التحقق ليست كافية لضمان اتخاذ القرارات الصحيحة.",
+    "datum": "2026-06-16",
+    "kalla": "Riksrevisionen",
+    "kalla_url": "https://www.riksrevisionen.se/granskningar/granskningsrapporter/2026/faststallande-av-sgi---process-organisation-och-styrning.html",
+    "taggar": [
+      "riksrevisionen",
+      "granskning"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "sjuklon": 3,
+      "lontagare": 3,
+      "sjukskriven": 5,
+      "skiftarbete": 3
+    }
+  },
+  {
     "id": "stockholm-kommunfullmaktige-2026-06-15",
     "typ": "kommunbeslut",
     "titel": "اجتماع مجلس مدينة ستوكهولم، تاريخ 2026-06-15.",
@@ -4796,6 +4816,24 @@
     }
   },
   {
+    "id": "rr-konkurs-eller-rekonstruktion-statens-hantering-av-",
+    "typ": "myndighet",
+    "titel": "إفلاس أم إعادة هيكلة؟ نظرة على كيفية تعامل الدولة مع إجراءات الإفلاس للشركات (تقرير برلماني رقم 2026:9).",
+    "ingress": "تقوم الدولة بمراجعة كيفية التعامل مع الشركات التي لديها ديون كبيرة وغير قادرة على سداد فواتيرها. أظهرت المراجعة أن النظام يعمل بشكل جيد، ولكن هناك مشاكل في طريقة اختيار الأشخاص المكلفين بحل هذه المشكلات (المديرين).",
+    "datum": "2026-05-12",
+    "kalla": "Riksrevisionen",
+    "kalla_url": "https://www.riksrevisionen.se/granskningar/granskningsrapporter/2026/konkurs-eller-rekonstruktion---statens-hantering-av-insolvensforfaranden-for-foretag.html",
+    "taggar": [
+      "riksrevisionen",
+      "granskning"
+    ],
+    "relevans": {
+      "konkurs": 8,
+      "lantagare": 3,
+      "skuldsatt": 3
+    }
+  },
+  {
     "id": "gavle-kommunfullmaktige-2026-05-11",
     "typ": "kommunbeslut",
     "titel": "إلى مجلس مدينة غيفله، تاريخ 11 مايو 2026.",
@@ -5817,6 +5855,25 @@
       "gron_omstallning": 4,
       "regelborda": 6,
       "friluftsliv": 3
+    }
+  },
+  {
+    "id": "rr-etnisk-diskriminering-statens-arbete-for-att-motve",
+    "typ": "myndighet",
+    "titel": "التمييز العرقي - عمل الدولة لمواجهة المخاطر المحتملة في قرارات السلطات الحكومية (تقرير حكومي رقم 2026:8).",
+    "ingress": "إن الدولة لا تبذل ما يكفي من الجهد لوقف التمييز القائم على الأصل عند اتخاذ السلطات قرارات بشأن الأفراد. هناك حاجة إلى بذل المزيد من الجهود الوقائية من قبل السلطات لضمان معاملة الجميع على قدم المساواة.",
+    "datum": "2026-04-16",
+    "kalla": "Riksrevisionen",
+    "kalla_url": "https://www.riksrevisionen.se/granskningar/granskningsrapporter/2026/etnisk-diskriminering---statens-arbete-for-att-motverka-risker-vid-myndigheters-beslut.html",
+    "taggar": [
+      "riksrevisionen",
+      "granskning"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "hbtq": 8,
+      "sjukskriven": 3,
+      "otrygg": 3
     }
   },
   {
