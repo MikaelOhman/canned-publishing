@@ -1178,6 +1178,42 @@
     }
   },
   {
+    "id": "migrationsverket-2026-06-22-tillfallig-begransning-av-stat",
+    "typ": "myndighet",
+    "titel": "Temporary restriction on statistics regarding international protection and asylum.\n\nHere's a breakdown of the changes:\n\n*   \"Tillfällig begränsning\" is translated to \"Temporary restriction\".\n*   \"statistik om\" is translated to \"statistics regarding\".\n*   \"internationellt skydd och asyl\" is translated to \"international protection and asylum\".",
+    "ingress": "The Swedish Migration Agency may temporarily be unable to provide complete statistics on asylum seekers because the European Union has introduced new regulations. While their data systems are being updated, they will only publish basic figu",
+    "datum": "2026-06-22",
+    "kalla": "Migrationsverket",
+    "kalla_url": "https://www.migrationsverket.se/nyhetsarkiv/nyhetsarkiv/2026-06-22-tillfallig-begransning-av-statistik-om-internationellt-skydd-och-asyl.html",
+    "taggar": [
+      "migration",
+      "migrationsverket"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "asyl": 8
+    }
+  },
+  {
+    "id": "migrationsverket-2026-06-22-migrationsverkets-medverkan-un",
+    "typ": "myndighet",
+    "titel": "The Swedish Migration Agency's participation during Almedalen Week 2026.",
+    "ingress": "The Swedish Migration Agency will participate in the Almedalen Week in 2026 to discuss new regulations within the EU and address topics such as refugee reception, technology, and security.",
+    "datum": "2026-06-22",
+    "kalla": "Migrationsverket",
+    "kalla_url": "https://www.migrationsverket.se/nyhetsarkiv/nyhetsarkiv/2026-06-22-migrationsverkets-medverkan-under-almedalsveckan-2026.html",
+    "taggar": [
+      "migration",
+      "migrationsverket"
+    ],
+    "relevans": {
+      "digitalisering": 3,
+      "hbtq": 3,
+      "asyl": 8,
+      "otrygg": 3
+    }
+  },
+  {
     "id": "ecb-2026-06-19-frank-elderson-fireside-chat",
     "typ": "omvarld",
     "titel": "Frank Elderson: A relaxed Q&A session.",
@@ -2741,6 +2777,23 @@
     }
   },
   {
+    "id": "migrationsverket-2026-06-16-migrationsverket-far-logotyp-m",
+    "typ": "myndighet",
+    "titel": "The Swedish Migration Agency (Migrationsverket) will now have a logo featuring a heraldic coat of arms.",
+    "ingress": "From September 1, 2026, the Swedish Migration Agency (Migrationsverket) will adopt a new logo featuring a national coat of arms. The purpose of this change is to more clearly demonstrate that the agency is an integral part of the Swedish go",
+    "datum": "2026-06-16",
+    "kalla": "Migrationsverket",
+    "kalla_url": "https://www.migrationsverket.se/nyhetsarkiv/nyhetsarkiv/2026-06-16-migrationsverket-far-logotyp-med-heraldiskt-vapen.html",
+    "taggar": [
+      "migration",
+      "migrationsverket"
+    ],
+    "relevans": {
+      "b_konsult": 3,
+      "asyl": 8
+    }
+  },
+  {
     "id": "HD03285",
     "typ": "lagforslag",
     "titel": "Hearing and temporary transfer in arrest warrant cases",
@@ -3130,6 +3183,23 @@
     }
   },
   {
+    "id": "migrationsverket-2026-06-12-nu-infors-gemensamma-migration",
+    "typ": "myndighet",
+    "titel": "Common migration rules are now being implemented for the member states of the European Union.",
+    "ingress": "Starting in June 2026, all countries within the EU will have the same regulations regarding the reception and handling of individuals seeking asylum. The goal is to improve control at borders and expedite the processing procedures.",
+    "datum": "2026-06-12",
+    "kalla": "Migrationsverket",
+    "kalla_url": "https://www.migrationsverket.se/nyhetsarkiv/nyhetsarkiv/2026-06-12-nu-infors-gemensamma-migrationsregler-for-eus-medlemslander.html",
+    "taggar": [
+      "migration",
+      "migrationsverket"
+    ],
+    "relevans": {
+      "asyl": 8,
+      "otrygg": 3
+    }
+  },
+  {
     "id": "kristianstad-kultur-och-fritidsnamnden-2026-06-11",
     "typ": "kommunbeslut",
     "titel": "Culture and Leisure Committee, Kristianstad Municipality, June 11, 2026.",
@@ -3252,6 +3322,26 @@
     "relevans": {
       "arbetsgivare": 3,
       "fortroendevald": 3
+    }
+  },
+  {
+    "id": "migrationsverket-2026-06-11-nya-regler-for-forskare-doktor",
+    "typ": "myndighet",
+    "titel": "New regulations apply to researchers, doctoral students, students, and individuals with temporary protection status.\n\nHere's a breakdown of the changes:\n\n*   **Researchers:** [Details about new rules for researchers]\n*   **Doctoral Students:** [Details about new rules for doctoral students]\n*   **Students:** [Details about new rules for students]\n*   **Individuals with Temporary Protection Status:** [Details about new rules for individuals with temporary protection status]\n\nFor more information, please visit: [URL]",
+    "ingress": "Starting June 11th, new regulations will be implemented for individuals residing in Sweden due to studies, research, or temporary protection.",
+    "datum": "2026-06-11",
+    "kalla": "Migrationsverket",
+    "kalla_url": "https://www.migrationsverket.se/nyhetsarkiv/nyhetsarkiv/2026-06-11-nya-regler-for-forskare-doktorander-studerande-och-personer-med-tillfalligt-skydd.html",
+    "taggar": [
+      "migration",
+      "migrationsverket"
+    ],
+    "relevans": {
+      "tillstand": 3,
+      "fou": 3,
+      "student": 3,
+      "ny_i_sverige": 3,
+      "asyl": 5
     }
   },
   {

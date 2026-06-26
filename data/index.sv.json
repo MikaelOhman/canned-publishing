@@ -1181,6 +1181,42 @@
     }
   },
   {
+    "id": "migrationsverket-2026-06-22-tillfallig-begransning-av-stat",
+    "typ": "myndighet",
+    "titel": "Tillfällig begränsning av statistik om internationellt skydd och asyl",
+    "ingress": "Migrationsverket kan under en period inte visa fullständig statistik om asylsökande eftersom EU har infört nya regler. Under tiden som deras datasystem byggs om kommer de bara att publicera enkla siffror på hur många ansökningar som kommit",
+    "datum": "2026-06-22",
+    "kalla": "Migrationsverket",
+    "kalla_url": "https://www.migrationsverket.se/nyhetsarkiv/nyhetsarkiv/2026-06-22-tillfallig-begransning-av-statistik-om-internationellt-skydd-och-asyl.html",
+    "taggar": [
+      "migration",
+      "migrationsverket"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "asyl": 8
+    }
+  },
+  {
+    "id": "migrationsverket-2026-06-22-migrationsverkets-medverkan-un",
+    "typ": "myndighet",
+    "titel": "Migrationsverkets medverkan under Almedalsveckan 2026",
+    "ingress": "Migrationsverket kommer att delta i Almedalsveckan 2026 för att berätta om nya regler inom EU och diskutera frågor som flyktingmottagande, teknik och säkerhet.",
+    "datum": "2026-06-22",
+    "kalla": "Migrationsverket",
+    "kalla_url": "https://www.migrationsverket.se/nyhetsarkiv/nyhetsarkiv/2026-06-22-migrationsverkets-medverkan-under-almedalsveckan-2026.html",
+    "taggar": [
+      "migration",
+      "migrationsverket"
+    ],
+    "relevans": {
+      "digitalisering": 3,
+      "hbtq": 3,
+      "asyl": 8,
+      "otrygg": 3
+    }
+  },
+  {
     "id": "ecb-2026-06-19-frank-elderson-fireside-chat",
     "typ": "omvarld",
     "titel": "Frank Elderson: En avslappnad frågestund.",
@@ -2744,6 +2780,23 @@
     }
   },
   {
+    "id": "migrationsverket-2026-06-16-migrationsverket-far-logotyp-m",
+    "typ": "myndighet",
+    "titel": "Migrationsverket får logotyp med heraldiskt vapen",
+    "ingress": "Migrationsverket får en ny logotyp med ett statligt vapen från och med den 1 september 2026. Syftet är att visa tydligare att myndigheten är en del av den svenska staten.",
+    "datum": "2026-06-16",
+    "kalla": "Migrationsverket",
+    "kalla_url": "https://www.migrationsverket.se/nyhetsarkiv/nyhetsarkiv/2026-06-16-migrationsverket-far-logotyp-med-heraldiskt-vapen.html",
+    "taggar": [
+      "migration",
+      "migrationsverket"
+    ],
+    "relevans": {
+      "b_konsult": 3,
+      "asyl": 8
+    }
+  },
+  {
     "id": "HD03285",
     "typ": "lagforslag",
     "titel": "Hörande och tillfälligt överförande vid en arresteringsorder",
@@ -3133,6 +3186,23 @@
     }
   },
   {
+    "id": "migrationsverket-2026-06-12-nu-infors-gemensamma-migration",
+    "typ": "myndighet",
+    "titel": "Nu införs gemensamma migrationsregler för EU:s medlemsländer",
+    "ingress": "Från juni 2026 kommer alla länder i EU ha samma regler för hur man tar emot och hanterar personer som söker asyl. Syftet är att få bättre kontroll vid gränserna och göra processerna snabbare.",
+    "datum": "2026-06-12",
+    "kalla": "Migrationsverket",
+    "kalla_url": "https://www.migrationsverket.se/nyhetsarkiv/nyhetsarkiv/2026-06-12-nu-infors-gemensamma-migrationsregler-for-eus-medlemslander.html",
+    "taggar": [
+      "migration",
+      "migrationsverket"
+    ],
+    "relevans": {
+      "asyl": 8,
+      "otrygg": 3
+    }
+  },
+  {
     "id": "kristianstad-kultur-och-fritidsnamnden-2026-06-11",
     "typ": "kommunbeslut",
     "titel": "kultur och fritidsnämnden, Kristianstads kommun 2026-06-11",
@@ -3255,6 +3325,26 @@
     "relevans": {
       "arbetsgivare": 3,
       "fortroendevald": 3
+    }
+  },
+  {
+    "id": "migrationsverket-2026-06-11-nya-regler-for-forskare-doktor",
+    "typ": "myndighet",
+    "titel": "Nya regler för forskare, doktorander, studerande och personer med tillfälligt skydd",
+    "ingress": "Från och med den 11 juni införs nya regler för personer som bor i Sverige på grund av studier, forskning eller tillfälligt skydd.",
+    "datum": "2026-06-11",
+    "kalla": "Migrationsverket",
+    "kalla_url": "https://www.migrationsverket.se/nyhetsarkiv/nyhetsarkiv/2026-06-11-nya-regler-for-forskare-doktorander-studerande-och-personer-med-tillfalligt-skydd.html",
+    "taggar": [
+      "migration",
+      "migrationsverket"
+    ],
+    "relevans": {
+      "tillstand": 3,
+      "fou": 3,
+      "student": 3,
+      "ny_i_sverige": 3,
+      "asyl": 5
     }
   },
   {
