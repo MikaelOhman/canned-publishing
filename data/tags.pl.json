@@ -1047,7 +1047,7 @@
   "krokom": {
     "etikett": "Krokoms.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "kungalv": {
     "etikett": "Kungälvs",
@@ -1431,6 +1431,11 @@
   },
   "kommunledningsutskottet-natet": {
     "etikett": "Komisja ds. Zarządzania Gminą (online).",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "ks-s": {
+    "etikett": "Przepraszam, nie rozumiem. Proszę podać więcej informacji lub kontekstu.",
     "typ": "organisation",
     "antal": 1
   }

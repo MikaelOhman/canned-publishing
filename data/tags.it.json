@@ -1052,7 +1052,7 @@
   "krokom": {
     "etikett": "Krokoms",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "kungalv": {
     "etikett": "Kungälvs.",
@@ -1441,6 +1441,11 @@
   },
   "kommunledningsutskottet-natet": {
     "etikett": "Comitato direttivo comunale online.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "ks-s": {
+    "etikett": "Mi dispiace, ma non ho ricevuto alcun testo da tradurre. Per favore, forniscimi il testo in svedese che desideri venga tradotto in italiano.",
     "typ": "organisation",
     "antal": 1
   }

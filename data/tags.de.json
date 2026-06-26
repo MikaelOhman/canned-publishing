@@ -1112,7 +1112,7 @@
   "krokom": {
     "etikett": "Krokoms",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "kungalv": {
     "etikett": "Kungälvs",
@@ -1501,6 +1501,11 @@
   },
   "kommunledningsutskottet-natet": {
     "etikett": "Der Gemeinderat hat sich heute online getroffen.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "ks-s": {
+    "etikett": "Es tut mir leid, aber ich kann diesen Text nicht übersetzen, da er keine vollständige oder verständliche Anfrage darstellt. Bitte geben Sie einen vollständigen Satz oder Absatz an, den ich ins Deutsche übersetzen soll.",
     "typ": "organisation",
     "antal": 1
   }

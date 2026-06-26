@@ -1052,7 +1052,7 @@
   "krokom": {
     "etikett": "Krokoms",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "kungalv": {
     "etikett": "Kungälvs",
@@ -1441,6 +1441,11 @@
   },
   "kommunledningsutskottet-natet": {
     "etikett": "Het gemeentebestuur heeft een online vergadering.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "ks-s": {
+    "etikett": "Het spijt me, maar ik kan die tekst niet vertalen omdat deze geen volledige zin of paragraaf vormt. Het lijkt een afkorting of enkele losse letters te zijn. Geef alsjeblieft de volledige tekst die u wilt laten vertalen.",
     "typ": "organisation",
     "antal": 1
   }

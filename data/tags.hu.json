@@ -1047,7 +1047,7 @@
   "krokom": {
     "etikett": "Krokoms",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "kungalv": {
     "etikett": "Kungälvs",
@@ -1431,6 +1431,11 @@
   },
   "kommunledningsutskottet-natet": {
     "etikett": "A települési ügyekkel foglalkozó bizottság online ülése.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "ks-s": {
+    "etikett": "Sajnálom, de nem tudok segíteni ebben a kérésben. Nem értem, mit szeretnél, hogy fordítsam. Kérlek, adj meg egy szöveget, amit lefordíthatok.",
     "typ": "organisation",
     "antal": 1
   }

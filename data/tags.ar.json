@@ -1062,7 +1062,7 @@
   "krokom": {
     "etikett": "Krokoms",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "kungalv": {
     "etikett": "مدينة كونجالف.",
@@ -1446,6 +1446,11 @@
   },
   "kommunledningsutskottet-natet": {
     "etikett": "لجنة إدارة البلدية، عبر الإنترنت.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "ks-s": {
+    "etikett": "أعتذر، ولكنني لا أستطيع معالجة هذا الإدخال لأنه غير مفهوم. يرجى تقديم نص باللغة السويدية لكي أتمكن من ترجمته إلى اللغة العربية.",
     "typ": "organisation",
     "antal": 1
   }

@@ -1147,7 +1147,7 @@
   "krokom": {
     "etikett": "Krokoms",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "kungalv": {
     "etikett": "Kungälvs",
@@ -1546,6 +1546,11 @@
   },
   "kommunledningsutskottet-natet": {
     "etikett": "Kommunledningsutskottet natet",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "ks-s": {
+    "etikett": "Ks s",
     "typ": "organisation",
     "antal": 1
   }

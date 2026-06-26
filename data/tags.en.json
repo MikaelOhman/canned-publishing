@@ -1122,7 +1122,7 @@
   "krokom": {
     "etikett": "Krokoms",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "kungalv": {
     "etikett": "Kungälvs",
@@ -1511,6 +1511,11 @@
   },
   "kommunledningsutskottet-natet": {
     "etikett": "The municipal board meeting is being held online.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "ks-s": {
+    "etikett": "I'm sorry, but I cannot translate that as it is not a complete sentence or phrase in any language I recognize. Please provide more context or a full sentence for me to accurately translate it into English.",
     "typ": "organisation",
     "antal": 1
   }

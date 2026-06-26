@@ -1047,7 +1047,7 @@
   "krokom": {
     "etikett": "Krokoms",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "kungalv": {
     "etikett": "Kungälvs",
@@ -1431,6 +1431,11 @@
   },
   "kommunledningsutskottet-natet": {
     "etikett": "Comitetul de conducere al municipalității, online.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "ks-s": {
+    "etikett": "Îmi pare rău, dar nu pot traduce textul \"Ks s\" deoarece nu reprezintă o propoziție sau un paragraf complet. Te rog să-mi furnizezi textul pe care dorești să îl traduc.",
     "typ": "organisation",
     "antal": 1
   }

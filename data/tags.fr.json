@@ -1052,7 +1052,7 @@
   "krokom": {
     "etikett": "Krokoms.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "kungalv": {
     "etikett": "Kungälvs.",
@@ -1441,6 +1441,11 @@
   },
   "kommunledningsutskottet-natet": {
     "etikett": "Commission de direction municipale, en ligne.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "ks-s": {
+    "etikett": "Je suis désolé, mais je ne peux pas traduire ce texte car il ne contient que des lettres sans contexte. Veuillez fournir un texte complet pour que je puisse le traduire en français.",
     "typ": "organisation",
     "antal": 1
   }
