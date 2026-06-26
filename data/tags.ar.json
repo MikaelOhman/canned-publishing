@@ -527,7 +527,7 @@
   "samhallsbyggnadsnamnden": {
     "etikett": "لجنة التخطيط العمراني والبناء.",
     "typ": "organisation",
-    "antal": 2
+    "antal": 3
   },
   "grums": {
     "etikett": "Grums",
@@ -1566,6 +1566,11 @@
   },
   "vannas": {
     "etikett": "فإنّاس.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "vaxjo": {
+    "etikett": "فِيكْسْيُو.",
     "typ": "plats",
     "antal": 1
   }

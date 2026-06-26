@@ -502,7 +502,7 @@
   "samhallsbyggnadsnamnden": {
     "etikett": "comisión de desarrollo urbano",
     "typ": "organisation",
-    "antal": 2
+    "antal": 3
   },
   "grums": {
     "etikett": "Grums.",
@@ -1556,6 +1556,11 @@
   },
   "vannas": {
     "etikett": "Vännäs.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "vaxjo": {
+    "etikett": "Växjö.",
     "typ": "plats",
     "antal": 1
   }

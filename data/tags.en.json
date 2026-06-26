@@ -587,7 +587,7 @@
   "samhallsbyggnadsnamnden": {
     "etikett": "the committee for urban development",
     "typ": "organisation",
-    "antal": 2
+    "antal": 3
   },
   "grums": {
     "etikett": "Grums",
@@ -1621,6 +1621,11 @@
   },
   "vannas": {
     "etikett": "Vännäs.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "vaxjo": {
+    "etikett": "Växjö:\n\n*   [No information provided in Swedish text]",
     "typ": "plats",
     "antal": 1
   }

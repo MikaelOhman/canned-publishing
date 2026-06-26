@@ -502,7 +502,7 @@
   "samhallsbyggnadsnamnden": {
     "etikett": "településépítési bizottság",
     "typ": "organisation",
-    "antal": 2
+    "antal": 3
   },
   "grums": {
     "etikett": "Grums",
@@ -1551,6 +1551,11 @@
   },
   "vannas": {
     "etikett": "Vännäs.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "vaxjo": {
+    "etikett": "Växjö\n\n(Nincs további szöveg a fordításhoz.)",
     "typ": "plats",
     "antal": 1
   }
