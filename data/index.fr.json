@@ -1433,6 +1433,22 @@
     ]
   },
   {
+    "id": "pensionsmyndigheten-2026-06-18-gas-i-pensionssystemet-infors-",
+    "typ": "myndighet",
+    "titel": "La réforme du système de retraite, incluant l'introduction d'un âge de départ flexible, entrera en vigueur en 2027.",
+    "ingress": "À partir de 2027, des fonds supplémentaires provenant des excédents du système général de retraite seront distribués à la fois aux retraités actuels et à ceux qui épargnent pour leur future retraite.",
+    "datum": "2026-06-18",
+    "kalla": "Pensionsmyndigheten",
+    "kalla_url": "https://www.pensionsmyndigheten.se/nyheter-och-press/nyheter/gas-i-pensionssystemet-infors-2027",
+    "taggar": [
+      "pension",
+      "pensionsmyndigheten"
+    ],
+    "relevans": {
+      "pensionar": 8
+    }
+  },
+  {
     "id": "stockholm-kommunstyrelsen-2026-06-17",
     "typ": "kommunbeslut",
     "titel": "Conseil municipal, Ville de Stockholm, 17 juin 2026.",
@@ -3349,6 +3365,23 @@
     }
   },
   {
+    "id": "pensionsmyndigheten-2026-06-10-pensionsmyndigheten-i-almedale",
+    "typ": "myndighet",
+    "titel": "La Pensionsmyndigheten (Agence des pensions) à Almedalen en 2026.",
+    "ingress": "L'Agence des pensions sera présente à Visby pendant la Semaine d'Almedalen, du 23 au 25 juin 2026. Vous pourrez y obtenir de l'aide concernant vos questions relatives à votre retraite et faire une estimation du montant que vous recevrez lor",
+    "datum": "2026-06-10",
+    "kalla": "Pensionsmyndigheten",
+    "kalla_url": "https://www.pensionsmyndigheten.se/nyheter-och-press/nyheter/pensionsmyndigheten-i-almedalen-2026",
+    "taggar": [
+      "pension",
+      "pensionsmyndigheten"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "pensionar": 8
+    }
+  },
+  {
     "id": "HD03282",
     "typ": "lagforslag",
     "titel": "Meilleures fonctionnalités de contrôle dans les systèmes de gestion des racines, des réseaux, des technologies vertes et des ressources humaines.",
@@ -4600,6 +4633,25 @@
     }
   },
   {
+    "id": "pensionsmyndigheten-2026-05-26-sanktionsavgift-och-bidragsspa",
+    "typ": "myndighet",
+    "titel": "Une pénalité financière et une suspension des aides seront mises en place le 1er juillet.",
+    "ingress": "À partir du 1er juillet 2026, de nouvelles règles seront mises en place pour lutter contre les versements incorrects d'allocations. Si vous fournissez des informations erronées, vous pourriez être amené à payer des frais supplémentaires ou",
+    "datum": "2026-05-26",
+    "kalla": "Pensionsmyndigheten",
+    "kalla_url": "https://www.pensionsmyndigheten.se/nyheter-och-press/nyheter/sanktionsavgift-och-bidragssparr-infors-1-juli",
+    "taggar": [
+      "pension",
+      "pensionsmyndigheten"
+    ],
+    "relevans": {
+      "infrastruktur": 3,
+      "barn": 3,
+      "pensionar": 3,
+      "batagare": 3
+    }
+  },
+  {
     "id": "stockholm-kommunfullmaktige-2026-05-25",
     "typ": "kommunbeslut",
     "titel": "Conseil municipal, Ville de Stockholm, 25 mai 2026.",
@@ -4945,6 +4997,22 @@
     }
   },
   {
+    "id": "pensionsmyndigheten-2026-05-12-har-du-blivit-kontaktad-av-dem",
+    "typ": "myndighet",
+    "titel": "Avez-vous été contacté par l'entreprise Demoskop pour une enquête ?",
+    "ingress": "L'Agence des pensions suédoise mène une enquête afin d'améliorer ses services et pourrait donc vous contacter si vous avez récemment fait une demande de retraite ou d'aide au logement.",
+    "datum": "2026-05-12",
+    "kalla": "Pensionsmyndigheten",
+    "kalla_url": "https://www.pensionsmyndigheten.se/nyheter-och-press/nyheter/har-du-blivit-kontaktad-av-demoskop-for-en-undersokning",
+    "taggar": [
+      "pension",
+      "pensionsmyndigheten"
+    ],
+    "relevans": {
+      "pensionar": 5
+    }
+  },
+  {
     "id": "gavle-kommunfullmaktige-2026-05-11",
     "typ": "kommunbeslut",
     "titel": "Conseil municipal, Commune de Gävle, 11 mai 2026.",
@@ -5127,6 +5195,25 @@
       "mindre_ort": 4,
       "bygger": 3,
       "klimat": 3
+    }
+  },
+  {
+    "id": "pensionsmyndigheten-2026-05-07-andrad-utskicksordning-for-lev",
+    "typ": "myndighet",
+    "titel": "Modification du calendrier d'envoi des attestations de vie pour l'année 2026.",
+    "ingress": "À partir de mai 2026, les modalités de transmission des attestations de vie pour les personnes résidant à l'étranger seront modifiées par la Försäkringskassan (l'agence suédoise de sécurité sociale). Il est essentiel d'envoyer votre attesta",
+    "datum": "2026-05-07",
+    "kalla": "Pensionsmyndigheten",
+    "kalla_url": "https://www.pensionsmyndigheten.se/nyheter-och-press/nyheter/andrad-utskicksordning-for-levnadsintyg-ar-2026",
+    "taggar": [
+      "pension",
+      "pensionsmyndigheten"
+    ],
+    "relevans": {
+      "b_finans": 5,
+      "pensionar": 3,
+      "sjukskriven": 3,
+      "digital_ovan": 3
     }
   },
   {

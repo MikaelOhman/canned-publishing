@@ -1668,5 +1668,15 @@
     "etikett": "Agencia Tributaria.",
     "typ": "organisation",
     "antal": 5
+  },
+  "pension": {
+    "etikett": "Pensión.",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "pensionsmyndigheten": {
+    "etikett": "Agencia de Pensiones.",
+    "typ": "organisation",
+    "antal": 5
   }
 }

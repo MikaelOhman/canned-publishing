@@ -1668,5 +1668,15 @@
     "etikett": "Agenția Fiscală Suedeză (Skatteverket)",
     "typ": "organisation",
     "antal": 5
+  },
+  "pension": {
+    "etikett": "Pensie.",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "pensionsmyndigheten": {
+    "etikett": "Agenția Națională pentru Pensii.",
+    "typ": "organisation",
+    "antal": 5
   }
 }

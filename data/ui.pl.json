@@ -41,7 +41,8 @@
     "omvarld": "UE i świat",
     "myndighet": "Urzędy państwowe",
     "marknad": "Rynki",
-    "region": "Region"
+    "region": "Region",
+    "historia": "Historia"
   },
   "typebadge": {
     "nyhet": "Wiadomość",
@@ -50,7 +51,8 @@
     "omvarld": "UE/świat",
     "myndighet": "Urząd",
     "marknad": "Rynek",
-    "region": "Region"
+    "region": "Region",
+    "historia": "Historia"
   },
   "tagtypes": {
     "ämne": "Temat",
@@ -292,6 +294,51 @@
     "region": "Opieka zdrowotna, stomatologia, transport publiczny",
     "kommunbeslut": "Szkoły, opieka, woda, pozwolenia na budowę",
     "omvarld": "UE i sprawy międzynarodowe",
-    "marknad": "Giełda i gospodarka"
+    "marknad": "Giełda i gospodarka",
+    "historia": "Historia Szwecji – oznaczona pod kątem wiarygodności"
+  },
+  "trov": {
+    "rubrik": "Jak pewne jest to, co wiemy?",
+    "kallage": {
+      "label": "Źródła",
+      "samtida": "Źródło współczesne",
+      "senare": "Późniejszy zapis",
+      "arkeologi": "Archeologia",
+      "tolkning": "Interpretacja",
+      "legend": "Tradycja/legenda"
+    },
+    "sakerhet": {
+      "label": "Pewność",
+      "belagt": "Udokumentowane",
+      "trolig": "Prawdopodobne",
+      "omtvistat": "Sporne",
+      "spekulativt": "Spekulatywne",
+      "legend": "Legenda/mit"
+    },
+    "konsensus": {
+      "label": "Stan badań",
+      "samsyn": "Zgodność",
+      "delade": "Podzielone zdania",
+      "foraldrad": "Przestarzały pogląd"
+    },
+    "flagg": {
+      "saknad": "Brakujący element",
+      "omtvistat": "Sporne",
+      "logik": "Nieścisłość logiczna",
+      "tidsavstand": "Źródło długo po wydarzeniu"
+    }
+  },
+  "epoknamn": {
+    "stenalder": "Epoka kamienia",
+    "bronsalder": "Epoka brązu",
+    "jarnalder": "Epoka żelaza",
+    "vendeltid": "Okres Vendel",
+    "vikingatid": "Epoka wikingów",
+    "medeltid": "Średniowiecze",
+    "vasatiden": "Epoka Wazów",
+    "stormaktstiden": "Mocarstwowość Szwecji",
+    "frihetstiden": "Era wolności",
+    "1800talet": "XIX wiek",
+    "1900talet": "XX wiek"
   }
 }

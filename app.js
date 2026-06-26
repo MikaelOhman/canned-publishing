@@ -15,18 +15,26 @@ const THEME_A11Y = ['hk-svart','hk-ljus','gul-svart'];
 const TEXTS = ['normal','large','xlarge'];
 const FONTS = ['standard','lasvanlig'];
 /* Typ-dimension = förvaltningsnivå ("Vem beslutar"), ordnad stat→region→kommun→EU. */
-const TYPER = ['lagforslag','myndighet','region','kommunbeslut','omvarld','marknad','nyhet'];
-const BADGE_KLASS = {lagforslag:'lag', kommunbeslut:'kommun', omvarld:'omv', myndighet:'mynd', marknad:'mark', region:'reg'};
-const KORT_KLASS = {lagforslag:'lagforslag', kommunbeslut:'kommunbeslut', omvarld:'omvarld', myndighet:'myndighet', marknad:'marknad', region:'region'};
+const TYPER = ['lagforslag','myndighet','region','kommunbeslut','omvarld','marknad','nyhet','historia'];
+const BADGE_KLASS = {lagforslag:'lag', kommunbeslut:'kommun', omvarld:'omv', myndighet:'mynd', marknad:'mark', region:'reg', historia:'hist'};
+const KORT_KLASS = {lagforslag:'lagforslag', kommunbeslut:'kommunbeslut', omvarld:'omvarld', myndighet:'myndighet', marknad:'marknad', region:'region', historia:'historia'};
+const FLAGG_IK = {saknad:'⚠️', omtvistat:'🔀', logik:'❗', tidsavstand:'🕰️'};
+const EPOK_ORDER = ['stenalder','bronsalder','jarnalder','vendeltid','vikingatid','medeltid','vasatiden','stormaktstiden','frihetstiden','1800talet','1900talet'];
 
 const UIDEF = {sub:"Multilingual news",search_label:"Search",search_ph:"Type a word…",language:"Language",
   settings:"Display",theme:"Theme",textsize:"Text size",font:"Font",
   themegroups:{standard:"Standard",a11y:"Accessibility"},
   themes:{dark:"Dark",light:"Light",sepia:"Sepia",midnatt:"Midnight (OLED)",nord:"Nord",dracula:"Dracula",solarized:"Solarized","hk-svart":"High contrast – black","hk-ljus":"High contrast – light","gul-svart":"Yellow on black"},
   texts:{normal:"Normal",large:"Large",xlarge:"Extra large"},fonts:{standard:"Standard",lasvanlig:"Readable"},
-  types:{alla:"All",nyhet:"News",lagforslag:"Parliament & government",kommunbeslut:"Municipality",omvarld:"EU & World",myndighet:"State agencies",marknad:"Markets",region:"Region"},
-  typebadge:{nyhet:"News",lagforslag:"Bill",kommunbeslut:"Municipality",omvarld:"EU/World",myndighet:"Agency",marknad:"Market",region:"Region"},
-  typdesc:{lagforslag:"Laws, taxes and national politics",myndighet:"Central bank, national audit and more",region:"Healthcare, dental care, public transport",kommunbeslut:"Schools, care, water, building permits",omvarld:"EU and international",marknad:"Stock market and economy"},
+  types:{alla:"All",nyhet:"News",lagforslag:"Parliament & government",kommunbeslut:"Municipality",omvarld:"EU & World",myndighet:"State agencies",marknad:"Markets",region:"Region",historia:"History"},
+  typebadge:{nyhet:"News",lagforslag:"Bill",kommunbeslut:"Municipality",omvarld:"EU/World",myndighet:"Agency",marknad:"Market",region:"Region",historia:"History"},
+  typdesc:{lagforslag:"Laws, taxes and national politics",myndighet:"Central bank, national audit and more",region:"Healthcare, dental care, public transport",kommunbeslut:"Schools, care, water, building permits",omvarld:"EU and international",marknad:"Stock market and economy",historia:"Swedish history — flagged for credibility"},
+  trov:{rubrik:"How sure are we?",
+    kallage:{label:"Evidence",samtida:"Contemporary source",senare:"Later account",arkeologi:"Archaeology",tolkning:"Interpretation",legend:"Tradition/legend"},
+    sakerhet:{label:"Certainty",belagt:"Documented",trolig:"Probable",omtvistat:"Disputed",spekulativt:"Speculative",legend:"Legend/myth"},
+    konsensus:{label:"Scholarly view",samsyn:"Consensus",delade:"Divided",foraldrad:"Outdated view"},
+    flagg:{saknad:"Missing piece",omtvistat:"Disputed",logik:"Logical oddity",tidsavstand:"Source long after the event"}},
+  epoknamn:{stenalder:"Stone Age",bronsalder:"Bronze Age",jarnalder:"Iron Age",vendeltid:"Vendel Period",vikingatid:"Viking Age",medeltid:"Middle Ages",vasatiden:"Vasa era",stormaktstiden:"Swedish Empire",frihetstiden:"Age of Liberty","1800talet":"19th century","1900talet":"20th century"},
   kalla:"Source",original:"Read the original at",count:"results",none:"No matches.",clear:"Clear",back:"← Back",
   tldr_label:"TL;DR",lattlast_label:"In plain language",fulltext_label:"Full text",loadmore:"Load more",
   lagernamn:{privat:"Private individual",foretag:"Business"},
@@ -391,7 +399,7 @@ function matches(a){
   if(a.typ==='kommunbeslut' && ortFor().size){               // plats: bara mina kommuner
     const k=artKommun(a); if(!k || !ortFor().has(k)) return false;
   }
-  if(state._akt.length && relScore(a) < 1) return false;     // filtrera till valda situationer
+  if(state._akt.length && a.typ!=='historia' && relScore(a) < 1) return false;   // situationsfilter (ej historia)
   return true;
 }
 function relNiv(r){ return r>=7?3:r>=4?2:r>=1?1:0; }   // 0-10 score → 1-3 prickar
@@ -400,19 +408,36 @@ function relMark(a){
   const niv=[sitT().low,sitT().mid,sitT().high][lvl-1]||'';
   return `<span class="rel rel${lvl}" title="${esc(sitT().affects)}: ${esc(niv)}">${'●'.repeat(lvl)}${'○'.repeat(3-lvl)}</span>`;
 }
+/* Trovärdighetsmodell för historia: källäge/säkerhet/konsensus-badges + flaggor.
+   full=true på detaljsidan (med etiketter), false = kompakt rad på kortet. */
+function renderTrov(a, full){
+  if(a.typ!=='historia' || !a.sakerhet) return '';
+  const t=ui().trov||{};
+  const lbl=(grp,k)=>((t[grp]||{})[k]||k);
+  const sak=`<span class="trov-sak sak-${esc(a.sakerhet)}">${esc(lbl('sakerhet',a.sakerhet))}</span>`;
+  const flaggor=(a.flaggor||[]).map(f=>
+    `<span class="trov-flagg" title="${esc(lbl('flagg',f))}">${FLAGG_IK[f]||'•'}${full?' '+esc(lbl('flagg',f)):''}</span>`).join('');
+  if(!full) return `<span class="trov-rad">${sak}${flaggor}</span>`;
+  const kl=a.kallage?`<span class="trov-meta">${esc((t.kallage||{}).label||'')}: <b>${esc(lbl('kallage',a.kallage))}</b></span>`:'';
+  const ko=a.konsensus?`<span class="trov-meta">${esc((t.konsensus||{}).label||'')}: <b>${esc(lbl('konsensus',a.konsensus))}</b></span>`:'';
+  return `<div class="trov">${sak}${kl}${ko}${flaggor?`<div class="trov-flaggor">${flaggor}</div>`:''}</div>`;
+}
 function renderList(){
   const u=ui();
   state._akt=aktivaAxlar();
   let items=state.index.filter(matches);
   if(state._akt.length){       // re-ranka på relevans (stabilt, behåll datum vid lika)
     items=items.map((a,i)=>[a,i]).sort((A,B)=>(relScore(B[0])-relScore(A[0]))||(A[1]-B[1])).map(x=>x[0]);
+  } else if(state.typer.size===1 && state.typer.has('historia')){   // historia: kronologisk tidslinje
+    const eo=k=>{const i=EPOK_ORDER.indexOf(k); return i<0?99:i;};
+    items=items.slice().sort((a,b)=>eo(a.epok)-eo(b.epok));
   }
   $('#count').textContent=`${items.length} ${u.count}`;
   const ap=$('#side-apply'); if(ap) ap.textContent=`${sitT().apply} ${items.length} ${u.count}`;
   const vis=items.slice(0, state.visa);
   $('#list').innerHTML=(items.length ? vis.map(a=>{
     return `<button class="card ${KORT_KLASS[a.typ]||''}" data-id="${esc(a.id)}">
-      <span class="toprow"><span class="badge-typ ${BADGE_KLASS[a.typ]||''}">${esc((u.typebadge[a.typ]||u.typebadge.nyhet))}</span>${relMark(a)}<span class="date">${esc(a.datum||'')}</span></span>
+      <span class="toprow"><span class="badge-typ ${BADGE_KLASS[a.typ]||''}">${esc((u.typebadge[a.typ]||u.typebadge.nyhet))}</span>${a.typ==='historia'?renderTrov(a,false):relMark(a)}<span class="date">${a.typ==='historia'?esc([(u.epoknamn||{})[a.epok],a.tid].filter(Boolean).join(' · ')):esc(a.datum||'')}</span></span>
       <h2>${esc(a.titel)}</h2>
       <p>${esc(a.ingress||'')}</p>
       ${a.kalla?`<span class="src">${esc(u.kalla)}: <b>${esc(a.kalla)}</b></span>`:''}
@@ -473,9 +498,10 @@ async function openArticle(id){
   el.innerHTML=`<button class="back">${esc(u.back)}</button>
     <span class="badge-typ ${BADGE_KLASS[a.typ]||''}">${esc(u.typebadge[a.typ]||u.typebadge.nyhet)}</span>
     <h1>${esc(a.titel)}</h1>
+    ${renderTrov(a,true)}
     <div class="source"><span class="lbl">${esc(u.kalla)}</span> <b>${esc(a.kalla||'—')}</b>
       ${a.kalla_url?`<a href="${esc(a.kalla_url)}" target="_blank" rel="noopener">${esc(u.original)} ${esc(a.kalla||'')} →</a>`:''}
-      <span style="font-size:.78rem;color:var(--txt3);flex-basis:100%">${esc(a.datum||'')}</span></div>
+      <span style="font-size:.78rem;color:var(--txt3);flex-basis:100%">${esc(a.typ==='historia'?(a.tid||''):(a.datum||''))}</span></div>
     ${tldr}${latt}${full}
     ${a.kalla_url?`<div class="source-foot">${esc(u.original)} <a href="${esc(a.kalla_url)}" target="_blank" rel="noopener">${esc(a.kalla||a.kalla_url)}</a>.</div>`:''}`;
   el.querySelector('.back').addEventListener('click',()=>{ location.hash=''; });

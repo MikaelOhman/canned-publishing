@@ -41,7 +41,8 @@
     "omvarld": "EU & wereld",
     "myndighet": "Rijksinstanties",
     "marknad": "Markten",
-    "region": "Regio"
+    "region": "Regio",
+    "historia": "Geschiedenis"
   },
   "typebadge": {
     "nyhet": "Nieuws",
@@ -50,7 +51,8 @@
     "omvarld": "EU/wereld",
     "myndighet": "Overheid",
     "marknad": "Markt",
-    "region": "Regio"
+    "region": "Regio",
+    "historia": "Geschiedenis"
   },
   "tagtypes": {
     "ämne": "Onderwerp",
@@ -292,6 +294,51 @@
     "region": "Zorg, tandzorg, openbaar vervoer",
     "kommunbeslut": "Scholen, zorg, water, bouwvergunningen",
     "omvarld": "EU en internationaal",
-    "marknad": "Beurs en economie"
+    "marknad": "Beurs en economie",
+    "historia": "Zweedse geschiedenis – met geloofwaardigheidslabel"
+  },
+  "trov": {
+    "rubrik": "Hoe zeker weten we dit?",
+    "kallage": {
+      "label": "Bronnen",
+      "samtida": "Gelijktijdige bron",
+      "senare": "Latere optekening",
+      "arkeologi": "Archeologie",
+      "tolkning": "Interpretatie",
+      "legend": "Overlevering/legende"
+    },
+    "sakerhet": {
+      "label": "Zekerheid",
+      "belagt": "Aangetoond",
+      "trolig": "Waarschijnlijk",
+      "omtvistat": "Omstreden",
+      "spekulativt": "Speculatief",
+      "legend": "Legende/mythe"
+    },
+    "konsensus": {
+      "label": "Wetenschappelijke visie",
+      "samsyn": "Consensus",
+      "delade": "Verdeeld",
+      "foraldrad": "Verouderd beeld"
+    },
+    "flagg": {
+      "saknad": "Ontbrekend stukje",
+      "omtvistat": "Omstreden",
+      "logik": "Logische ongerijmdheid",
+      "tidsavstand": "Bron lang na de gebeurtenis"
+    }
+  },
+  "epoknamn": {
+    "stenalder": "Steentijd",
+    "bronsalder": "Bronstijd",
+    "jarnalder": "IJzertijd",
+    "vendeltid": "Vendelperiode",
+    "vikingatid": "Vikingtijd",
+    "medeltid": "Middeleeuwen",
+    "vasatiden": "Vasa-tijd",
+    "stormaktstiden": "Grootmachttijd",
+    "frihetstiden": "Vrijheidstijd",
+    "1800talet": "19e eeuw",
+    "1900talet": "20e eeuw"
   }
 }

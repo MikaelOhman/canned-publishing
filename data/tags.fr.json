@@ -1668,5 +1668,15 @@
     "etikett": "L'Agence fiscale suédoise (Skatteverket).",
     "typ": "organisation",
     "antal": 5
+  },
+  "pension": {
+    "etikett": "Retraite.",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "pensionsmyndigheten": {
+    "etikett": "L'Agence des pensions.",
+    "typ": "organisation",
+    "antal": 5
   }
 }

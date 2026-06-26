@@ -1668,5 +1668,15 @@
     "etikett": "Urząd Podatkowy (Skatteverket)",
     "typ": "organisation",
     "antal": 5
+  },
+  "pension": {
+    "etikett": "Emerytura.",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "pensionsmyndigheten": {
+    "etikett": "Agencja Emerytalna.",
+    "typ": "organisation",
+    "antal": 5
   }
 }

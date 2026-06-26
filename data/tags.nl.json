@@ -1668,5 +1668,15 @@
     "etikett": "Belastingdienst",
     "typ": "organisation",
     "antal": 5
+  },
+  "pension": {
+    "etikett": "Pensioen.",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "pensionsmyndigheten": {
+    "etikett": "Pensioenautoriteit",
+    "typ": "organisation",
+    "antal": 5
   }
 }

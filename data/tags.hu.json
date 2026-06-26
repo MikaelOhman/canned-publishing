@@ -1668,5 +1668,15 @@
     "etikett": "A Svéd Adóhatóság (Svenska: Skatteverket).",
     "typ": "organisation",
     "antal": 5
+  },
+  "pension": {
+    "etikett": "Nyugdíj.",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "pensionsmyndigheten": {
+    "etikett": "A nyugdíjintézet.",
+    "typ": "organisation",
+    "antal": 5
   }
 }

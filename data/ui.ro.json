@@ -41,7 +41,8 @@
     "omvarld": "UE și lume",
     "myndighet": "Autorități de stat",
     "marknad": "Piețe",
-    "region": "Regiune"
+    "region": "Regiune",
+    "historia": "Istorie"
   },
   "typebadge": {
     "nyhet": "Știre",
@@ -50,7 +51,8 @@
     "omvarld": "UE/Lume",
     "myndighet": "Autoritate",
     "marknad": "Piață",
-    "region": "Regiune"
+    "region": "Regiune",
+    "historia": "Istorie"
   },
   "tagtypes": {
     "ämne": "Subiect",
@@ -292,6 +294,51 @@
     "region": "Sănătate, stomatologie, transport public",
     "kommunbeslut": "Școli, îngrijire, apă, autorizații de construcție",
     "omvarld": "UE și internațional",
-    "marknad": "Bursă și economie"
+    "marknad": "Bursă și economie",
+    "historia": "Istoria Suediei – marcată pentru credibilitate"
+  },
+  "trov": {
+    "rubrik": "Cât de sigur știm asta?",
+    "kallage": {
+      "label": "Surse",
+      "samtida": "Sursă contemporană",
+      "senare": "Relatare ulterioară",
+      "arkeologi": "Arheologie",
+      "tolkning": "Interpretare",
+      "legend": "Tradiție/legendă"
+    },
+    "sakerhet": {
+      "label": "Certitudine",
+      "belagt": "Documentat",
+      "trolig": "Probabil",
+      "omtvistat": "Disputat",
+      "spekulativt": "Speculativ",
+      "legend": "Legendă/mit"
+    },
+    "konsensus": {
+      "label": "Poziția cercetării",
+      "samsyn": "Consens",
+      "delade": "Păreri împărțite",
+      "foraldrad": "Viziune depășită"
+    },
+    "flagg": {
+      "saknad": "Piesă lipsă",
+      "omtvistat": "Disputat",
+      "logik": "Inconsecvență logică",
+      "tidsavstand": "Sursă mult ulterioară"
+    }
+  },
+  "epoknamn": {
+    "stenalder": "Epoca de piatră",
+    "bronsalder": "Epoca bronzului",
+    "jarnalder": "Epoca fierului",
+    "vendeltid": "Perioada Vendel",
+    "vikingatid": "Epoca vikingilor",
+    "medeltid": "Evul Mediu",
+    "vasatiden": "Epoca Vasa",
+    "stormaktstiden": "Suedia ca mare putere",
+    "frihetstiden": "Epoca Libertății",
+    "1800talet": "Secolul XIX",
+    "1900talet": "Secolul XX"
   }
 }

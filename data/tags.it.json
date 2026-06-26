@@ -1668,5 +1668,15 @@
     "etikett": "Agenzia delle Entrate.",
     "typ": "organisation",
     "antal": 5
+  },
+  "pension": {
+    "etikett": "Pensione.",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "pensionsmyndigheten": {
+    "etikett": "L'Agenzia Pensioni.",
+    "typ": "organisation",
+    "antal": 5
   }
 }

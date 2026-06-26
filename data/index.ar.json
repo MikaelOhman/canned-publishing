@@ -1412,6 +1412,22 @@
     ]
   },
   {
+    "id": "pensionsmyndigheten-2026-06-18-gas-i-pensionssystemet-infors-",
+    "typ": "myndighet",
+    "titel": "سيتم تطبيق نظام \"المرونة\" في نظام التقاعد اعتبارًا من عام 2027.",
+    "ingress": "ابتداءً من عام 2027، سيتم توزيع أموال إضافية مستمدة من الفائض في نظام التقاعد العام على كل من المتقاعدين الحاليين والأشخاص الذين يدخرون لمستقبلهم التقاعدي.",
+    "datum": "2026-06-18",
+    "kalla": "Pensionsmyndigheten",
+    "kalla_url": "https://www.pensionsmyndigheten.se/nyheter-och-press/nyheter/gas-i-pensionssystemet-infors-2027",
+    "taggar": [
+      "pension",
+      "pensionsmyndigheten"
+    ],
+    "relevans": {
+      "pensionar": 8
+    }
+  },
+  {
     "id": "stockholm-kommunstyrelsen-2026-06-17",
     "typ": "kommunbeslut",
     "titel": "لجنة الشؤون البلدية، بلدية ستوكهولم، بتاريخ 2026-06-17.",
@@ -3339,6 +3355,23 @@
     }
   },
   {
+    "id": "pensionsmyndigheten-2026-06-10-pensionsmyndigheten-i-almedale",
+    "typ": "myndighet",
+    "titel": "مؤسسة التقاعد في \"آلميدالن\" عام 2026.",
+    "ingress": "ستتواجد هيئة التقاعد في مدينة فيسباي خلال أسبوع \"آلmedal\" الذي سيقام في الفترة من 23 إلى 25 يونيو 2026. يمكنكم زيارة جناح الهيئة للحصول على المساعدة والإجابة على استفساراتكم المتعلقة بالتقاعد، بالإضافة إلى حساب المبلغ التقريبي الذي ستتلقونه",
+    "datum": "2026-06-10",
+    "kalla": "Pensionsmyndigheten",
+    "kalla_url": "https://www.pensionsmyndigheten.se/nyheter-och-press/nyheter/pensionsmyndigheten-i-almedalen-2026",
+    "taggar": [
+      "pension",
+      "pensionsmyndigheten"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "pensionar": 8
+    }
+  },
+  {
     "id": "HD03282",
     "typ": "lagforslag",
     "titel": "خيارات تحكم أكثر فعالية في الأنظمة الخاصة بـ \"روت\" (ROT)، و\"روت\" (RUT)، والتكنولوجيا الخضراء، وسجلات الموظفين.",
@@ -4572,6 +4605,25 @@
     }
   },
   {
+    "id": "pensionsmyndigheten-2026-05-26-sanktionsavgift-och-bidragsspa",
+    "typ": "myndighet",
+    "titel": "سيتم تطبيق رسوم جزاء وتعليق على المساعدات اعتبارًا من 1 يوليو.",
+    "ingress": "ابتداءً من الأول من يوليو عام 2026، سيتم تطبيق قواعد جديدة بهدف منع صرف الإعانات بشكل غير صحيح. إذا قدمت معلومات خاطئة، فقد تضطر إلى دفع رسوم إضافية أو قد يتم تعليق استحقاقك للإعانة لفترة معينة.",
+    "datum": "2026-05-26",
+    "kalla": "Pensionsmyndigheten",
+    "kalla_url": "https://www.pensionsmyndigheten.se/nyheter-och-press/nyheter/sanktionsavgift-och-bidragssparr-infors-1-juli",
+    "taggar": [
+      "pension",
+      "pensionsmyndigheten"
+    ],
+    "relevans": {
+      "infrastruktur": 3,
+      "barn": 3,
+      "pensionar": 3,
+      "batagare": 3
+    }
+  },
+  {
     "id": "norrtalje-kommunfullmaktige-2026-05-25",
     "typ": "kommunbeslut",
     "titel": "اجتماع مجلس مدينة نورشتالجه، 25 مايو 2026.",
@@ -4914,6 +4966,22 @@
     }
   },
   {
+    "id": "pensionsmyndigheten-2026-05-12-har-du-blivit-kontaktad-av-dem",
+    "typ": "myndighet",
+    "titel": "هل تم التواصل معك من قبل شركة \"ديموسكوب\" لإجراء استطلاع رأي؟",
+    "ingress": "تقوم هيئة التقاعد السويدية بإجراء استطلاع رأي بهدف تحسين خدماتها، وقد تتواصل معك إذا كنت قد تقدمت مؤخرًا بطلب للحصول على معاش تقاعد أو بدل سكن.",
+    "datum": "2026-05-12",
+    "kalla": "Pensionsmyndigheten",
+    "kalla_url": "https://www.pensionsmyndigheten.se/nyheter-och-press/nyheter/har-du-blivit-kontaktad-av-demoskop-for-en-undersokning",
+    "taggar": [
+      "pension",
+      "pensionsmyndigheten"
+    ],
+    "relevans": {
+      "pensionar": 5
+    }
+  },
+  {
     "id": "gavle-kommunfullmaktige-2026-05-11",
     "typ": "kommunbeslut",
     "titel": "إلى مجلس مدينة غيفله، تاريخ 11 مايو 2026.",
@@ -5096,6 +5164,25 @@
       "mindre_ort": 4,
       "bygger": 3,
       "klimat": 3
+    }
+  },
+  {
+    "id": "pensionsmyndigheten-2026-05-07-andrad-utskicksordning-for-lev",
+    "typ": "myndighet",
+    "titel": "تغيير في ترتيب إرسال طلبات إثبات الحياة اعتبارًا من عام 2026.",
+    "ingress": "ابتداءً من شهر مايو عام 2026، سيتم تغيير مواعيد استلام شهادات الإثبات على الحياة للأشخاص المقيمين في الخارج من قبل هيئة التأمين الاجتماعي السويدية (Försäkringskassan). من المهم جدًا إرسال شهادتك في الوقت المحدد لضمان استمرار حصولك على معاشك",
+    "datum": "2026-05-07",
+    "kalla": "Pensionsmyndigheten",
+    "kalla_url": "https://www.pensionsmyndigheten.se/nyheter-och-press/nyheter/andrad-utskicksordning-for-levnadsintyg-ar-2026",
+    "taggar": [
+      "pension",
+      "pensionsmyndigheten"
+    ],
+    "relevans": {
+      "b_finans": 5,
+      "pensionar": 3,
+      "sjukskriven": 3,
+      "digital_ovan": 3
     }
   },
   {

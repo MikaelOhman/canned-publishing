@@ -1683,5 +1683,15 @@
     "etikett": "مصلحة الضرائب السويدية.",
     "typ": "organisation",
     "antal": 5
+  },
+  "pension": {
+    "etikett": "المعاش التقاعدي.",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "pensionsmyndigheten": {
+    "etikett": "هيئة التقاعد.",
+    "typ": "organisation",
+    "antal": 5
   }
 }

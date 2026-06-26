@@ -41,7 +41,8 @@
     "omvarld": "EU és világ",
     "myndighet": "Állami hatóságok",
     "marknad": "Piacok",
-    "region": "Régió"
+    "region": "Régió",
+    "historia": "Történelem"
   },
   "typebadge": {
     "nyhet": "Hír",
@@ -50,7 +51,8 @@
     "omvarld": "EU/világ",
     "myndighet": "Hatóság",
     "marknad": "Piac",
-    "region": "Régió"
+    "region": "Régió",
+    "historia": "Történelem"
   },
   "tagtypes": {
     "ämne": "Téma",
@@ -292,6 +294,51 @@
     "region": "Egészségügy, fogászat, tömegközlekedés",
     "kommunbeslut": "Iskola, gondozás, víz, építési engedélyek",
     "omvarld": "EU és nemzetközi",
-    "marknad": "Tőzsde és gazdaság"
+    "marknad": "Tőzsde és gazdaság",
+    "historia": "Svédország történelme – hitelességi jelölésekkel"
+  },
+  "trov": {
+    "rubrik": "Mennyire biztos ez?",
+    "kallage": {
+      "label": "Források",
+      "samtida": "Egykorú forrás",
+      "senare": "Későbbi feljegyzés",
+      "arkeologi": "Régészet",
+      "tolkning": "Értelmezés",
+      "legend": "Hagyomány/legenda"
+    },
+    "sakerhet": {
+      "label": "Bizonyosság",
+      "belagt": "Dokumentált",
+      "trolig": "Valószínű",
+      "omtvistat": "Vitatott",
+      "spekulativt": "Spekulatív",
+      "legend": "Legenda/mítosz"
+    },
+    "konsensus": {
+      "label": "Tudományos álláspont",
+      "samsyn": "Egyetértés",
+      "delade": "Megosztott",
+      "foraldrad": "Elavult nézet"
+    },
+    "flagg": {
+      "saknad": "Hiányzó darab",
+      "omtvistat": "Vitatott",
+      "logik": "Logikai furcsaság",
+      "tidsavstand": "Jóval az esemény utáni forrás"
+    }
+  },
+  "epoknamn": {
+    "stenalder": "Kőkor",
+    "bronsalder": "Bronzkor",
+    "jarnalder": "Vaskor",
+    "vendeltid": "Vendel-kor",
+    "vikingatid": "Viking-kor",
+    "medeltid": "Középkor",
+    "vasatiden": "Vasa-kor",
+    "stormaktstiden": "Nagyhatalmi kor",
+    "frihetstiden": "Szabadság kora",
+    "1800talet": "19. század",
+    "1900talet": "20. század"
   }
 }

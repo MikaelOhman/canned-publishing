@@ -1668,5 +1668,15 @@
     "etikett": "سازمان مالیات سوئد (Skatteverket)",
     "typ": "organisation",
     "antal": 5
+  },
+  "pension": {
+    "etikett": "بازنشستگی",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "pensionsmyndigheten": {
+    "etikett": "سازمان بازنشستگی.",
+    "typ": "organisation",
+    "antal": 5
   }
 }

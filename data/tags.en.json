@@ -1733,5 +1733,15 @@
     "etikett": "The Swedish Tax Agency.",
     "typ": "organisation",
     "antal": 5
+  },
+  "pension": {
+    "etikett": "Retirement income.",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "pensionsmyndigheten": {
+    "etikett": "The Swedish Pensions Agency.",
+    "typ": "organisation",
+    "antal": 5
   }
 }

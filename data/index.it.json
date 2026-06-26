@@ -1433,6 +1433,22 @@
     ]
   },
   {
+    "id": "pensionsmyndigheten-2026-06-18-gas-i-pensionssystemet-infors-",
+    "typ": "myndighet",
+    "titel": "L'introduzione del sistema di \"gas\" nel sistema pensionistico avverrà nel 2027.",
+    "ingress": "A partire dal 2027, le eccedenze derivanti dal sistema pensionistico pubblico saranno distribuite sia ai pensionati attuali che a coloro che stanno risparmiando per la loro futura pensione.",
+    "datum": "2026-06-18",
+    "kalla": "Pensionsmyndigheten",
+    "kalla_url": "https://www.pensionsmyndigheten.se/nyheter-och-press/nyheter/gas-i-pensionssystemet-infors-2027",
+    "taggar": [
+      "pension",
+      "pensionsmyndigheten"
+    ],
+    "relevans": {
+      "pensionar": 8
+    }
+  },
+  {
     "id": "stockholm-kommunstyrelsen-2026-06-17",
     "typ": "kommunbeslut",
     "titel": "Comitato esecutivo, Comune di Stoccolma, 17 giugno 2026.",
@@ -3350,6 +3366,23 @@
     }
   },
   {
+    "id": "pensionsmyndigheten-2026-06-10-pensionsmyndigheten-i-almedale",
+    "typ": "myndighet",
+    "titel": "La Pensionsmyndigheten (Agenzia Pensioni) ad Almedalen nel 2026.",
+    "ingress": "L'Agenzia Pensioni sarà presente a Visby durante la Settimana di Almedalen, dal 23 al 25 giugno 2026. Potrete trovare assistenza per domande relative alla vostra pensione e calcolare l'importo che riceverete quando andrete in pensione.",
+    "datum": "2026-06-10",
+    "kalla": "Pensionsmyndigheten",
+    "kalla_url": "https://www.pensionsmyndigheten.se/nyheter-och-press/nyheter/pensionsmyndigheten-i-almedalen-2026",
+    "taggar": [
+      "pension",
+      "pensionsmyndigheten"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "pensionar": 8
+    }
+  },
+  {
     "id": "HD03282",
     "typ": "lagforslag",
     "titel": "Maggiore efficienza nei sistemi di controllo per la gestione delle radici, delle procedure operative standard, delle tecnologie verdi e delle risorse umane.",
@@ -4601,6 +4634,25 @@
     }
   },
   {
+    "id": "pensionsmyndigheten-2026-05-26-sanktionsavgift-och-bidragsspa",
+    "typ": "myndighet",
+    "titel": "A partire dal 1° luglio, saranno introdotte sanzioni pecuniarie e la sospensione dei contributi.",
+    "ingress": "A partire dal 1° luglio 2026, entreranno in vigore nuove normative volte a prevenire pagamenti errati di sussidi. Se si forniscono informazioni inaccurate, è possibile che venga applicata una tassa aggiuntiva o che l'erogazione del sussidio",
+    "datum": "2026-05-26",
+    "kalla": "Pensionsmyndigheten",
+    "kalla_url": "https://www.pensionsmyndigheten.se/nyheter-och-press/nyheter/sanktionsavgift-och-bidragssparr-infors-1-juli",
+    "taggar": [
+      "pension",
+      "pensionsmyndigheten"
+    ],
+    "relevans": {
+      "infrastruktur": 3,
+      "barn": 3,
+      "pensionar": 3,
+      "batagare": 3
+    }
+  },
+  {
     "id": "stockholm-kommunfullmaktige-2026-05-25",
     "typ": "kommunbeslut",
     "titel": "Consiglio comunale, Comune di Stoccolma, 25 maggio 2026.",
@@ -4946,6 +4998,22 @@
     }
   },
   {
+    "id": "pensionsmyndigheten-2026-05-12-har-du-blivit-kontaktad-av-dem",
+    "typ": "myndighet",
+    "titel": "Ti ha contattato l'istituto di sondaggi Demoskop per una ricerca?",
+    "ingress": "L'Agenzia Pensioni sta conducendo un sondaggio per migliorare i propri servizi e potrebbe contattarvi se avete recentemente richiesto una pensione o un sussidio per l'alloggio.",
+    "datum": "2026-05-12",
+    "kalla": "Pensionsmyndigheten",
+    "kalla_url": "https://www.pensionsmyndigheten.se/nyheter-och-press/nyheter/har-du-blivit-kontaktad-av-demoskop-for-en-undersokning",
+    "taggar": [
+      "pension",
+      "pensionsmyndigheten"
+    ],
+    "relevans": {
+      "pensionar": 5
+    }
+  },
+  {
     "id": "gavle-kommunfullmaktige-2026-05-11",
     "typ": "kommunbeslut",
     "titel": "Consiglio comunale, Comune di Gävle, 11 maggio 2026.",
@@ -5128,6 +5196,25 @@
       "mindre_ort": 4,
       "bygger": 3,
       "klimat": 3
+    }
+  },
+  {
+    "id": "pensionsmyndigheten-2026-05-07-andrad-utskicksordning-for-lev",
+    "typ": "myndighet",
+    "titel": "Modifica dell'ordine di invio delle dichiarazioni sostitutive di atto di notorietà (levaresintyg) a partire dal 2026.",
+    "ingress": "A partire da maggio 2026, cambieranno le modalità con cui i residenti all'estero ricevono la conferma della loro residenza (lebensintyg) dall'Agenzia Svedese per le Pensioni (Försäkringskassan). È fondamentale inviare la documentazione in t",
+    "datum": "2026-05-07",
+    "kalla": "Pensionsmyndigheten",
+    "kalla_url": "https://www.pensionsmyndigheten.se/nyheter-och-press/nyheter/andrad-utskicksordning-for-levnadsintyg-ar-2026",
+    "taggar": [
+      "pension",
+      "pensionsmyndigheten"
+    ],
+    "relevans": {
+      "b_finans": 5,
+      "pensionar": 3,
+      "sjukskriven": 3,
+      "digital_ovan": 3
     }
   },
   {

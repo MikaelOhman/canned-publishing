@@ -1768,5 +1768,15 @@
     "etikett": "Skatteverket",
     "typ": "organisation",
     "antal": 5
+  },
+  "pension": {
+    "etikett": "Pension",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "pensionsmyndigheten": {
+    "etikett": "Pensionsmyndigheten",
+    "typ": "organisation",
+    "antal": 5
   }
 }

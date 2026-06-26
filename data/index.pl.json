@@ -1430,6 +1430,22 @@
     ]
   },
   {
+    "id": "pensionsmyndigheten-2026-06-18-gas-i-pensionssystemet-infors-",
+    "typ": "myndighet",
+    "titel": "System uwzględniający inflację w systemie emerytalnym zostanie wprowadzony w roku 2027.",
+    "ingress": "Od roku 2027 dodatkowe środki pochodzące z nadwyżek w ogólnokrajowym systemie emerytalnym będą wypłacane zarówno obecnym emerytom, jak i osobom oszczędzającym na swoją przyszłą emeryturę.",
+    "datum": "2026-06-18",
+    "kalla": "Pensionsmyndigheten",
+    "kalla_url": "https://www.pensionsmyndigheten.se/nyheter-och-press/nyheter/gas-i-pensionssystemet-infors-2027",
+    "taggar": [
+      "pension",
+      "pensionsmyndigheten"
+    ],
+    "relevans": {
+      "pensionar": 8
+    }
+  },
+  {
     "id": "stockholm-kommunstyrelsen-2026-06-17",
     "typ": "kommunbeslut",
     "titel": "Komisja ds. spraw miejskich, Urząd Miasta Sztokholm, 2026-06-17.",
@@ -3369,6 +3385,23 @@
     }
   },
   {
+    "id": "pensionsmyndigheten-2026-06-10-pensionsmyndigheten-i-almedale",
+    "typ": "myndighet",
+    "titel": "Państwowa Agencja Emerytalna w Almedalen w roku 2026.",
+    "ingress": "Agencja ds. Emerytur będzie obecna w Visby podczas Tygodnia Almedalskiego, w dniach od 23 do 25 czerwca 2026 roku. Tam można uzyskać pomoc w sprawach związanych z emeryturą oraz dowiedzieć się, ile pieniędzy otrzyma się po przejściu na emer",
+    "datum": "2026-06-10",
+    "kalla": "Pensionsmyndigheten",
+    "kalla_url": "https://www.pensionsmyndigheten.se/nyheter-och-press/nyheter/pensionsmyndigheten-i-almedalen-2026",
+    "taggar": [
+      "pension",
+      "pensionsmyndigheten"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "pensionar": 8
+    }
+  },
+  {
     "id": "HD03282",
     "typ": "lagforslag",
     "titel": "Bardziej efektywne możliwości kontroli w systemach dotyczących uprawnień administratora, procedur, technologii ekologicznych i ewidencji pracowników.",
@@ -4620,6 +4653,25 @@
     }
   },
   {
+    "id": "pensionsmyndigheten-2026-05-26-sanktionsavgift-och-bidragsspa",
+    "typ": "myndighet",
+    "titel": "Od 1 lipca wprowadzane są kary finansowe i ograniczenia w przyznawaniu dotacji.",
+    "ingress": "Od 1 lipca 2026 roku wchodzą w życie nowe przepisy mające na celu zapobieganie nieprawidłowym wypłatom dotacji. Jeśli podasz błędne informacje, możesz zostać obciążony dodatkową opłatą lub Twoje świadczenie może zostać zawieszone na pewien",
+    "datum": "2026-05-26",
+    "kalla": "Pensionsmyndigheten",
+    "kalla_url": "https://www.pensionsmyndigheten.se/nyheter-och-press/nyheter/sanktionsavgift-och-bidragssparr-infors-1-juli",
+    "taggar": [
+      "pension",
+      "pensionsmyndigheten"
+    ],
+    "relevans": {
+      "infrastruktur": 3,
+      "barn": 3,
+      "pensionar": 3,
+      "batagare": 3
+    }
+  },
+  {
     "id": "norrtalje-kommunfullmaktige-2026-05-25",
     "typ": "kommunbeslut",
     "titel": "Uchwała Rady Miejskiej, Gmina Norrtälje, 25 maja 2026 roku.",
@@ -4962,6 +5014,22 @@
     }
   },
   {
+    "id": "pensionsmyndigheten-2026-05-12-har-du-blivit-kontaktad-av-dem",
+    "typ": "myndighet",
+    "titel": "Czy skontaktowało się z Państwem biuro badań rynkowych Demoskop w celu przeprowadzenia ankiety?",
+    "ingress": "Agencja ds. Emerytur przeprowadza ankietę, aby poprawić jakość swoich usług i może się z Tobą skontaktować, jeśli niedawno wnioskowałeś o emeryturę lub dodatek mieszkaniowy.",
+    "datum": "2026-05-12",
+    "kalla": "Pensionsmyndigheten",
+    "kalla_url": "https://www.pensionsmyndigheten.se/nyheter-och-press/nyheter/har-du-blivit-kontaktad-av-demoskop-for-en-undersokning",
+    "taggar": [
+      "pension",
+      "pensionsmyndigheten"
+    ],
+    "relevans": {
+      "pensionar": 5
+    }
+  },
+  {
     "id": "gavle-kommunfullmaktige-2026-05-11",
     "typ": "kommunbeslut",
     "titel": "Uchwała Rady Miejskiej, Gävle, 11 maja 2026 roku.",
@@ -5144,6 +5212,25 @@
       "mindre_ort": 4,
       "bygger": 3,
       "klimat": 3
+    }
+  },
+  {
+    "id": "pensionsmyndigheten-2026-05-07-andrad-utskicksordning-for-lev",
+    "typ": "myndighet",
+    "titel": "Zmiana kolejności wysyłki zaświadczeń o życiu w roku 2026.",
+    "ingress": "Od maja 2026 roku zmieniają się terminy składania zaświadczeń o życiu (tzw. \"lebensintyg\") przez osoby mieszkające poza Szwecją, do Zakładu Ubezpieczeń Społecznych (Försäkringskassan). Ważne jest, aby przesłać swoje zaświadczenie w odpowied",
+    "datum": "2026-05-07",
+    "kalla": "Pensionsmyndigheten",
+    "kalla_url": "https://www.pensionsmyndigheten.se/nyheter-och-press/nyheter/andrad-utskicksordning-for-levnadsintyg-ar-2026",
+    "taggar": [
+      "pension",
+      "pensionsmyndigheten"
+    ],
+    "relevans": {
+      "b_finans": 5,
+      "pensionar": 3,
+      "sjukskriven": 3,
+      "digital_ovan": 3
     }
   },
   {

@@ -1412,6 +1412,22 @@
     ]
   },
   {
+    "id": "pensionsmyndigheten-2026-06-18-gas-i-pensionssystemet-infors-",
+    "typ": "myndighet",
+    "titel": "Introducerea sistemului de gaz în cadrul sistemului de pensii va avea loc în anul 2027.",
+    "ingress": "Începând cu anul 2027, surplusurile din sistemul general de pensii vor fi distribuite atât pensionarilor actuali, cât și celor care economisesc pentru viitoarele lor pensii.",
+    "datum": "2026-06-18",
+    "kalla": "Pensionsmyndigheten",
+    "kalla_url": "https://www.pensionsmyndigheten.se/nyheter-och-press/nyheter/gas-i-pensionssystemet-infors-2027",
+    "taggar": [
+      "pension",
+      "pensionsmyndigheten"
+    ],
+    "relevans": {
+      "pensionar": 8
+    }
+  },
+  {
     "id": "stockholm-kommunstyrelsen-2026-06-17",
     "typ": "kommunbeslut",
     "titel": "Comisia municipală, Primăria Stockholmului, 17 iunie 2026.",
@@ -3307,6 +3323,23 @@
     }
   },
   {
+    "id": "pensionsmyndigheten-2026-06-10-pensionsmyndigheten-i-almedale",
+    "typ": "myndighet",
+    "titel": "Agenția Națională pentru Pensii la Almedalen în 2026.",
+    "ingress": "Agenția Națională pentru Pensii va fi prezentă în Visby în perioada Almedalsveckan, între 23 și 25 iunie 2026. Acolo, veți putea primi asistență cu privire la întrebările dumneavoastră despre pensie și puteți calcula estimativ suma de bani",
+    "datum": "2026-06-10",
+    "kalla": "Pensionsmyndigheten",
+    "kalla_url": "https://www.pensionsmyndigheten.se/nyheter-och-press/nyheter/pensionsmyndigheten-i-almedalen-2026",
+    "taggar": [
+      "pension",
+      "pensionsmyndigheten"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "pensionar": 8
+    }
+  },
+  {
     "id": "HD03282",
     "typ": "lagforslag",
     "titel": "Posibilități de control mai eficiente în sistemele pentru radacină, rutare, tehnologie verde și evidența personalului.",
@@ -4540,6 +4573,25 @@
     }
   },
   {
+    "id": "pensionsmyndigheten-2026-05-26-sanktionsavgift-och-bidragsspa",
+    "typ": "myndighet",
+    "titel": "O taxă de sancțiune și o restricție privind acordarea subvențiilor vor fi introduse începând cu 1 iulie.",
+    "ingress": "Începând cu 1 iulie 2026, vor fi introduse reguli noi pentru a preveni plăți incorecte de subvenții. Dacă furnizați informații eronate, puteți fi obligați să plătiți o taxă suplimentară sau vă poate fi suspendată plata subvenției pentru o a",
+    "datum": "2026-05-26",
+    "kalla": "Pensionsmyndigheten",
+    "kalla_url": "https://www.pensionsmyndigheten.se/nyheter-och-press/nyheter/sanktionsavgift-och-bidragssparr-infors-1-juli",
+    "taggar": [
+      "pension",
+      "pensionsmyndigheten"
+    ],
+    "relevans": {
+      "infrastruktur": 3,
+      "barn": 3,
+      "pensionar": 3,
+      "batagare": 3
+    }
+  },
+  {
     "id": "norrtalje-kommunfullmaktige-2026-05-25",
     "typ": "kommunbeslut",
     "titel": "Consiliul Municipal, Comuna Norrtälje, 25 mai 2026.",
@@ -4882,6 +4934,22 @@
     }
   },
   {
+    "id": "pensionsmyndigheten-2026-05-12-har-du-blivit-kontaktad-av-dem",
+    "typ": "myndighet",
+    "titel": "Ați fost contactat de compania Demoskop pentru un sondaj?",
+    "ingress": "Agenția Națională pentru Pensii efectuează un sondaj pentru a-și îmbunătăți serviciile și, prin urmare, te poate contacta dacă ai solicitat recent o pensie sau un ajutor de locuință.",
+    "datum": "2026-05-12",
+    "kalla": "Pensionsmyndigheten",
+    "kalla_url": "https://www.pensionsmyndigheten.se/nyheter-och-press/nyheter/har-du-blivit-kontaktad-av-demoskop-for-en-undersokning",
+    "taggar": [
+      "pension",
+      "pensionsmyndigheten"
+    ],
+    "relevans": {
+      "pensionar": 5
+    }
+  },
+  {
     "id": "gavle-kommunfullmaktige-2026-05-11",
     "typ": "kommunbeslut",
     "titel": "Consiliul Municipal, Primăria Gävle, 11 mai 2026.",
@@ -5064,6 +5132,25 @@
       "mindre_ort": 4,
       "bygger": 3,
       "klimat": 3
+    }
+  },
+  {
+    "id": "pensionsmyndigheten-2026-05-07-andrad-utskicksordning-for-lev",
+    "typ": "myndighet",
+    "titel": "Modificarea ordinii de trimitere a documentelor de confirmare a vieții începând cu anul 2026.",
+    "ingress": "Începând cu mai 2026, se vor modifica datele la care persoanele care locuiesc în străinătate primesc confirmările de existență (levnadsintyg) de la Agenția Națională pentru Asigurări Sociale (Försäkringskassan). Este important să trimiteți",
+    "datum": "2026-05-07",
+    "kalla": "Pensionsmyndigheten",
+    "kalla_url": "https://www.pensionsmyndigheten.se/nyheter-och-press/nyheter/andrad-utskicksordning-for-levnadsintyg-ar-2026",
+    "taggar": [
+      "pension",
+      "pensionsmyndigheten"
+    ],
+    "relevans": {
+      "b_finans": 5,
+      "pensionar": 3,
+      "sjukskriven": 3,
+      "digital_ovan": 3
     }
   },
   {

@@ -41,7 +41,8 @@
     "omvarld": "اتحادیه اروپا و جهان",
     "myndighet": "نهادهای دولتی",
     "marknad": "بازارها",
-    "region": "منطقه"
+    "region": "منطقه",
+    "historia": "تاریخ"
   },
   "typebadge": {
     "nyhet": "خبر",
@@ -50,7 +51,8 @@
     "omvarld": "اتحادیه/جهان",
     "myndighet": "نهاد",
     "marknad": "بازار",
-    "region": "منطقه"
+    "region": "منطقه",
+    "historia": "تاریخ"
   },
   "tagtypes": {
     "ämne": "موضوع",
@@ -292,6 +294,51 @@
     "region": "درمان، دندان‌پزشکی، حمل‌ونقل عمومی",
     "kommunbeslut": "مدارس، مراقبت، آب، مجوز ساخت",
     "omvarld": "اتحادیه اروپا و بین‌الملل",
-    "marknad": "بورس و اقتصاد"
+    "marknad": "بورس و اقتصاد",
+    "historia": "تاریخ سوئد – با نشانه‌گذاری اعتبار"
+  },
+  "trov": {
+    "rubrik": "چقدر مطمئن هستیم؟",
+    "kallage": {
+      "label": "منابع",
+      "samtida": "منبع هم‌زمان",
+      "senare": "روایت بعدی",
+      "arkeologi": "باستان‌شناسی",
+      "tolkning": "تفسیر",
+      "legend": "سنت/افسانه"
+    },
+    "sakerhet": {
+      "label": "میزان قطعیت",
+      "belagt": "مستند",
+      "trolig": "محتمل",
+      "omtvistat": "مورد مناقشه",
+      "spekulativt": "گمانه‌زنی",
+      "legend": "افسانه/اسطوره"
+    },
+    "konsensus": {
+      "label": "دیدگاه پژوهشی",
+      "samsyn": "اجماع",
+      "delade": "نظرات متفاوت",
+      "foraldrad": "دیدگاه منسوخ"
+    },
+    "flagg": {
+      "saknad": "قطعهٔ گمشده",
+      "omtvistat": "مورد مناقشه",
+      "logik": "ناسازگاری منطقی",
+      "tidsavstand": "منبع مدت‌ها پس از رویداد"
+    }
+  },
+  "epoknamn": {
+    "stenalder": "عصر حجر",
+    "bronsalder": "عصر برنز",
+    "jarnalder": "عصر آهن",
+    "vendeltid": "دورهٔ وندل",
+    "vikingatid": "عصر وایکینگ",
+    "medeltid": "قرون وسطی",
+    "vasatiden": "دورهٔ واسا",
+    "stormaktstiden": "عصر ابرقدرتی سوئد",
+    "frihetstiden": "عصر آزادی",
+    "1800talet": "سدهٔ نوزدهم",
+    "1900talet": "سدهٔ بیستم"
   }
 }

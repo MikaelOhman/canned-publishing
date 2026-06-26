@@ -5,7 +5,7 @@
   --bg:#0e1116; --bg2:#161b22; --bg3:#1f2630; --line:#ffffff14;
   --txt:#e6edf3; --txt2:#9aa7b4; --txt3:#64727f;
   --ac:#4a9eff; --ac2:#79b8ff; --chip:#1f2630; --chip-on:#1b3a5c;
-  --nyhet:#4a9eff; --lag:#e0b341; --kommun:#3fb950; --omvarld:#a371f7; --myndighet:#26c6c6; --marknad:#ff7b72; --region:#e879c7;
+  --nyhet:#4a9eff; --lag:#e0b341; --kommun:#3fb950; --omvarld:#a371f7; --myndighet:#26c6c6; --marknad:#ff7b72; --region:#e879c7; --historia:#b08968;
   --radius:12px; --maxw:1080px; --bg-opacity:0.05; --font:system-ui,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
   --fs:16px; --lh:1.6;
 }
@@ -90,6 +90,7 @@ select:focus-visible,.search input:focus-visible,.chip:focus-visible,.card:focus
 .card.myndighet{border-left-color:var(--myndighet)}
 .card.marknad{border-left-color:var(--marknad)}
 .card.region{border-left-color:var(--region)}
+.card.historia{border-left-color:var(--historia)}
 .card:hover{border-color:var(--ac);transform:translateY(-2px)}
 .card .toprow{display:flex;justify-content:space-between;align-items:center;gap:8px}
 .badge-typ{font-size:.64rem;text-transform:uppercase;letter-spacing:.07em;font-weight:700;padding:2px 8px;border-radius:6px;background:color-mix(in srgb,var(--nyhet) 22%,transparent);color:var(--nyhet)}
@@ -99,6 +100,15 @@ select:focus-visible,.search input:focus-visible,.chip:focus-visible,.card:focus
 .badge-typ.mynd{background:color-mix(in srgb,var(--myndighet) 24%,transparent);color:var(--myndighet)}
 .badge-typ.mark{background:color-mix(in srgb,var(--marknad) 24%,transparent);color:var(--marknad)}
 .badge-typ.reg{background:color-mix(in srgb,var(--region) 24%,transparent);color:var(--region)}
+.badge-typ.hist{background:color-mix(in srgb,var(--historia) 26%,transparent);color:var(--historia)}
+/* Trovärdighetsmodell (historia): säkerhets-badge + källäge/konsensus + flaggor */
+.trov{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:10px 0;padding:8px 10px;background:var(--bg3);border-radius:8px}
+.trov-rad{display:inline-flex;gap:5px;align-items:center;flex-wrap:wrap}
+.trov-sak{font-size:.62rem;font-weight:700;text-transform:uppercase;letter-spacing:.05em;padding:2px 7px;border-radius:6px;background:color-mix(in srgb,var(--sak) 24%,transparent);color:var(--sak)}
+.sak-belagt{--sak:#3fb950}.sak-trolig{--sak:#4a9eff}.sak-omtvistat{--sak:#e0b341}.sak-spekulativt{--sak:#ff9f43}.sak-legend{--sak:#ff7b72}
+.trov-meta{font-size:.74rem;color:var(--txt2)}
+.trov-flaggor{display:flex;flex-wrap:wrap;gap:10px;flex-basis:100%}
+.trov-flagg{font-size:.74rem;color:var(--txt2);display:inline-flex;gap:3px;align-items:center}
 /* förklaringsrad under varje nivå i "Vem beslutar"-filtret */
 .opt-typ{align-items:flex-start}
 .opt-typ .lbl{display:flex;flex-direction:column;line-height:1.25}

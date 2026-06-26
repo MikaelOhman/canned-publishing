@@ -41,7 +41,8 @@
     "omvarld": "UE & Monde",
     "myndighet": "Agences de l'État",
     "marknad": "Marchés",
-    "region": "Région"
+    "region": "Région",
+    "historia": "Histoire"
   },
   "typebadge": {
     "nyhet": "Actualité",
@@ -50,7 +51,8 @@
     "omvarld": "UE/Monde",
     "myndighet": "Autorité",
     "marknad": "Marché",
-    "region": "Région"
+    "region": "Région",
+    "historia": "Histoire"
   },
   "tagtypes": {
     "ämne": "Sujet",
@@ -292,6 +294,51 @@
     "region": "Santé, soins dentaires, transports publics",
     "kommunbeslut": "Écoles, soins, eau, permis de construire",
     "omvarld": "UE et international",
-    "marknad": "Bourse et économie"
+    "marknad": "Bourse et économie",
+    "historia": "Histoire de la Suède – signalée pour sa crédibilité"
+  },
+  "trov": {
+    "rubrik": "Dans quelle mesure le sait-on ?",
+    "kallage": {
+      "label": "Sources",
+      "samtida": "Source contemporaine",
+      "senare": "Récit postérieur",
+      "arkeologi": "Archéologie",
+      "tolkning": "Interprétation",
+      "legend": "Tradition/légende"
+    },
+    "sakerhet": {
+      "label": "Certitude",
+      "belagt": "Attesté",
+      "trolig": "Probable",
+      "omtvistat": "Contesté",
+      "spekulativt": "Spéculatif",
+      "legend": "Légende/mythe"
+    },
+    "konsensus": {
+      "label": "Point de vue des chercheurs",
+      "samsyn": "Consensus",
+      "delade": "Avis partagés",
+      "foraldrad": "Vue dépassée"
+    },
+    "flagg": {
+      "saknad": "Pièce manquante",
+      "omtvistat": "Contesté",
+      "logik": "Incohérence logique",
+      "tidsavstand": "Source bien postérieure"
+    }
+  },
+  "epoknamn": {
+    "stenalder": "Âge de pierre",
+    "bronsalder": "Âge du bronze",
+    "jarnalder": "Âge du fer",
+    "vendeltid": "Période de Vendel",
+    "vikingatid": "Âge des Vikings",
+    "medeltid": "Moyen Âge",
+    "vasatiden": "Époque Vasa",
+    "stormaktstiden": "Période de grande puissance",
+    "frihetstiden": "Ère de la Liberté",
+    "1800talet": "XIXe siècle",
+    "1900talet": "XXe siècle"
   }
 }

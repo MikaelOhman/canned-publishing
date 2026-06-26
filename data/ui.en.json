@@ -41,7 +41,8 @@
     "omvarld": "EU & World",
     "myndighet": "State agencies",
     "marknad": "Markets",
-    "region": "Region"
+    "region": "Region",
+    "historia": "History"
   },
   "typebadge": {
     "nyhet": "News",
@@ -50,7 +51,8 @@
     "omvarld": "EU/World",
     "myndighet": "Authority",
     "marknad": "Market",
-    "region": "Region"
+    "region": "Region",
+    "historia": "History"
   },
   "tagtypes": {
     "ämne": "Topic",
@@ -292,6 +294,51 @@
     "region": "Healthcare, dental care, public transport",
     "kommunbeslut": "Schools, care, water, building permits",
     "omvarld": "EU and international",
-    "marknad": "Stock market and economy"
+    "marknad": "Stock market and economy",
+    "historia": "Swedish history – flagged for credibility"
+  },
+  "trov": {
+    "rubrik": "How sure are we?",
+    "kallage": {
+      "label": "Evidence",
+      "samtida": "Contemporary source",
+      "senare": "Later account",
+      "arkeologi": "Archaeology",
+      "tolkning": "Interpretation",
+      "legend": "Tradition/legend"
+    },
+    "sakerhet": {
+      "label": "Certainty",
+      "belagt": "Documented",
+      "trolig": "Probable",
+      "omtvistat": "Disputed",
+      "spekulativt": "Speculative",
+      "legend": "Legend/myth"
+    },
+    "konsensus": {
+      "label": "Scholarly view",
+      "samsyn": "Consensus",
+      "delade": "Divided",
+      "foraldrad": "Outdated view"
+    },
+    "flagg": {
+      "saknad": "Missing piece",
+      "omtvistat": "Disputed",
+      "logik": "Logical oddity",
+      "tidsavstand": "Source long after the event"
+    }
+  },
+  "epoknamn": {
+    "stenalder": "Stone Age",
+    "bronsalder": "Bronze Age",
+    "jarnalder": "Iron Age",
+    "vendeltid": "Vendel Period",
+    "vikingatid": "Viking Age",
+    "medeltid": "Middle Ages",
+    "vasatiden": "Vasa era",
+    "stormaktstiden": "Swedish Empire",
+    "frihetstiden": "Age of Liberty",
+    "1800talet": "19th century",
+    "1900talet": "20th century"
   }
 }

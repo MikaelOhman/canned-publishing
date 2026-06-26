@@ -1728,5 +1728,15 @@
     "etikett": "Das schwedische Finanzamt (Skatteverket).",
     "typ": "organisation",
     "antal": 5
+  },
+  "pension": {
+    "etikett": "Rente.",
+    "typ": "ämne",
+    "antal": 5
+  },
+  "pensionsmyndigheten": {
+    "etikett": "Die Pensionsbehörde.",
+    "typ": "organisation",
+    "antal": 5
   }
 }

@@ -41,7 +41,8 @@
     "omvarld": "UE y mundo",
     "myndighet": "Organismos estatales",
     "marknad": "Mercados",
-    "region": "Región"
+    "region": "Región",
+    "historia": "Historia"
   },
   "typebadge": {
     "nyhet": "Noticia",
@@ -50,7 +51,8 @@
     "omvarld": "UE/Mundo",
     "myndighet": "Autoridad",
     "marknad": "Mercado",
-    "region": "Región"
+    "region": "Región",
+    "historia": "Historia"
   },
   "tagtypes": {
     "ämne": "Tema",
@@ -292,6 +294,51 @@
     "region": "Sanidad, odontología, transporte público",
     "kommunbeslut": "Escuelas, cuidados, agua, licencias de obra",
     "omvarld": "UE e internacional",
-    "marknad": "Bolsa y economía"
+    "marknad": "Bolsa y economía",
+    "historia": "Historia de Suecia – con indicadores de fiabilidad"
+  },
+  "trov": {
+    "rubrik": "¿Qué tan seguro lo sabemos?",
+    "kallage": {
+      "label": "Fuentes",
+      "samtida": "Fuente contemporánea",
+      "senare": "Relato posterior",
+      "arkeologi": "Arqueología",
+      "tolkning": "Interpretación",
+      "legend": "Tradición/leyenda"
+    },
+    "sakerhet": {
+      "label": "Certeza",
+      "belagt": "Documentado",
+      "trolig": "Probable",
+      "omtvistat": "Discutido",
+      "spekulativt": "Especulativo",
+      "legend": "Leyenda/mito"
+    },
+    "konsensus": {
+      "label": "Postura académica",
+      "samsyn": "Consenso",
+      "delade": "Opiniones divididas",
+      "foraldrad": "Visión obsoleta"
+    },
+    "flagg": {
+      "saknad": "Pieza que falta",
+      "omtvistat": "Discutido",
+      "logik": "Rareza lógica",
+      "tidsavstand": "Fuente muy posterior"
+    }
+  },
+  "epoknamn": {
+    "stenalder": "Edad de Piedra",
+    "bronsalder": "Edad de Bronce",
+    "jarnalder": "Edad de Hierro",
+    "vendeltid": "Período de Vendel",
+    "vikingatid": "Era vikinga",
+    "medeltid": "Edad Media",
+    "vasatiden": "Era Vasa",
+    "stormaktstiden": "Era del Imperio sueco",
+    "frihetstiden": "Era de la Libertad",
+    "1800talet": "Siglo XIX",
+    "1900talet": "Siglo XX"
   }
 }

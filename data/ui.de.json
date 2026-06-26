@@ -41,7 +41,8 @@
     "omvarld": "EU & Welt",
     "myndighet": "Staatliche Behörden",
     "marknad": "Märkte",
-    "region": "Region"
+    "region": "Region",
+    "historia": "Geschichte"
   },
   "typebadge": {
     "nyhet": "Nachricht",
@@ -50,7 +51,8 @@
     "omvarld": "EU/Welt",
     "myndighet": "Behörde",
     "marknad": "Markt",
-    "region": "Region"
+    "region": "Region",
+    "historia": "Geschichte"
   },
   "tagtypes": {
     "ämne": "Thema",
@@ -292,6 +294,51 @@
     "region": "Gesundheit, Zahnpflege, Nahverkehr",
     "kommunbeslut": "Schule, Pflege, Wasser, Baugenehmigungen",
     "omvarld": "EU und international",
-    "marknad": "Börse und Wirtschaft"
+    "marknad": "Börse und Wirtschaft",
+    "historia": "Schwedens Geschichte – mit Glaubwürdigkeits-Kennzeichnung"
+  },
+  "trov": {
+    "rubrik": "Wie sicher wissen wir das?",
+    "kallage": {
+      "label": "Quellenlage",
+      "samtida": "Zeitgenössische Quelle",
+      "senare": "Spätere Aufzeichnung",
+      "arkeologi": "Archäologie",
+      "tolkning": "Deutung/Rekonstruktion",
+      "legend": "Überlieferung/Legende"
+    },
+    "sakerhet": {
+      "label": "Sicherheit",
+      "belagt": "Belegt",
+      "trolig": "Wahrscheinlich",
+      "omtvistat": "Umstritten",
+      "spekulativt": "Spekulativ",
+      "legend": "Legende/Mythos"
+    },
+    "konsensus": {
+      "label": "Forschungsstand",
+      "samsyn": "Konsens",
+      "delade": "Geteilte Meinungen",
+      "foraldrad": "Überholte Auffassung"
+    },
+    "flagg": {
+      "saknad": "Fehlendes Puzzleteil",
+      "omtvistat": "Umstritten",
+      "logik": "Logische Ungereimtheit",
+      "tidsavstand": "Quelle lange nach dem Ereignis"
+    }
+  },
+  "epoknamn": {
+    "stenalder": "Steinzeit",
+    "bronsalder": "Bronzezeit",
+    "jarnalder": "Eisenzeit",
+    "vendeltid": "Vendelzeit",
+    "vikingatid": "Wikingerzeit",
+    "medeltid": "Mittelalter",
+    "vasatiden": "Vasa-Zeit",
+    "stormaktstiden": "Großmachtzeit",
+    "frihetstiden": "Freiheitszeit",
+    "1800talet": "19. Jahrhundert",
+    "1900talet": "20. Jahrhundert"
   }
 }

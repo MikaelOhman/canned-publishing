@@ -41,7 +41,8 @@
     "omvarld": "EU & omvärld",
     "myndighet": "Statliga myndigheter",
     "marknad": "Marknad",
-    "region": "Region"
+    "region": "Region",
+    "historia": "Historia"
   },
   "typebadge": {
     "nyhet": "Nyhet",
@@ -50,7 +51,8 @@
     "omvarld": "EU/Omvärld",
     "myndighet": "Myndighet",
     "marknad": "Marknad",
-    "region": "Region"
+    "region": "Region",
+    "historia": "Historia"
   },
   "tagtypes": {
     "ämne": "Ämne",
@@ -292,6 +294,51 @@
     "region": "Sjukvård, tandvård, kollektivtrafik",
     "kommunbeslut": "Skola, omsorg, vatten, bygglov",
     "omvarld": "EU och internationellt",
-    "marknad": "Börs och ekonomi"
+    "marknad": "Börs och ekonomi",
+    "historia": "Sveriges historia – flaggad för trovärdighet"
+  },
+  "trov": {
+    "rubrik": "Hur säkert vet vi det här?",
+    "kallage": {
+      "label": "Källäge",
+      "samtida": "Samtida källa",
+      "senare": "Senare nedteckning",
+      "arkeologi": "Arkeologi",
+      "tolkning": "Tolkning/rekonstruktion",
+      "legend": "Tradition/legend"
+    },
+    "sakerhet": {
+      "label": "Säkerhet",
+      "belagt": "Belagt",
+      "trolig": "Trolig",
+      "omtvistat": "Omtvistat",
+      "spekulativt": "Spekulativt",
+      "legend": "Legend/myt"
+    },
+    "konsensus": {
+      "label": "Forskningsläge",
+      "samsyn": "Samsyn",
+      "delade": "Delade meningar",
+      "foraldrad": "Föråldrad uppfattning"
+    },
+    "flagg": {
+      "saknad": "Saknad pusselbit",
+      "omtvistat": "Omtvistat",
+      "logik": "Logisk konstighet",
+      "tidsavstand": "Källa långt efter händelsen"
+    }
+  },
+  "epoknamn": {
+    "stenalder": "Stenåldern",
+    "bronsalder": "Bronsåldern",
+    "jarnalder": "Järnåldern",
+    "vendeltid": "Vendeltiden",
+    "vikingatid": "Vikingatiden",
+    "medeltid": "Medeltiden",
+    "vasatiden": "Vasatiden",
+    "stormaktstiden": "Stormaktstiden",
+    "frihetstiden": "Frihetstiden",
+    "1800talet": "1800-talet",
+    "1900talet": "1900-talet"
   }
 }
