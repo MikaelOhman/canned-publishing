@@ -77,6 +77,25 @@
     }
   },
   {
+    "id": "HD03300",
+    "typ": "lagforslag",
+    "titel": "Obowiązek płacenia za opiekę stomatologiczną – nowe przepisy dla niektórych cudzoziemców.\n\nNowe zasady dotyczą m.in.:\n\n*   Okresu pobytu w Szwecji.\n*   Statusu rezydenta.\n*   Rodzaju umowy o pracę lub innego tytułu do pobytu.\n\nSzczegółowe informacje można znaleźć na stronie: [URL]",
+    "ingress": "Proponowane są nowe przepisy, które nakładają obowiązek płacenia pełnej ceny za pilną opiekę stomatologiczną niektórym osobom zagranicznym przebywającym w Szwecji, zamiast dotychczasowej, niższej opłaty.",
+    "datum": "2026-06-25",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03300.html",
+    "taggar": [
+      "riksdagen"
+    ],
+    "relevans": {
+      "b_vard": 3,
+      "tillstand": 3,
+      "kronisk": 3,
+      "tandvard": 8,
+      "asyl": 5
+    }
+  },
+  {
     "id": "ecb-2026-06-24-ecb-reports-on-progress-toward",
     "typ": "omvarld",
     "titel": "Europejski Bank Centralny (ECB) publikuje raport dotyczący postępów w procesie wprowadzenia euro.",

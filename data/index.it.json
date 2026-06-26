@@ -77,6 +77,25 @@
     }
   },
   {
+    "id": "HD03300",
+    "typ": "lagforslag",
+    "titel": "Obbligo di pagamento per le cure dentistiche: nuove regole per alcuni stranieri.\n\nEcco un riepilogo delle nuove disposizioni:\n\n*   **Chi è interessato?** Le nuove regole si applicano a determinate categorie di cittadini stranieri.\n*   **Cosa cambia?** Alcuni stranieri potrebbero essere tenuti a pagare interamente o parzialmente per le cure dentistiche, mentre in precedenza potevano beneficiare di un finanziamento pubblico.\n*   **Quando entrano in vigore?** Le nuove regole sono entrate in vigore il [data].\n*   **Dove posso trovare maggiori informazioni?** È possibile consultare il sito web [URL] per ulteriori dettagli.",
+    "ingress": "Vengono proposte nuove regole che prevedono che alcuni cittadini stranieri residenti in Svezia debbano pagare il prezzo pieno per le cure odontoiatriche di emergenza, invece di una tariffa ridotta.",
+    "datum": "2026-06-25",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03300.html",
+    "taggar": [
+      "riksdagen"
+    ],
+    "relevans": {
+      "b_vard": 3,
+      "tillstand": 3,
+      "kronisk": 3,
+      "tandvard": 8,
+      "asyl": 5
+    }
+  },
+  {
     "id": "ecb-2026-06-24-ecb-reports-on-progress-toward",
     "typ": "omvarld",
     "titel": "La Banca Centrale Europea (BCE) pubblica un rapporto sui progressi compiuti verso l'introduzione dell'euro.",

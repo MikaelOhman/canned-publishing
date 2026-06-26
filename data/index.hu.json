@@ -77,6 +77,25 @@
     }
   },
   {
+    "id": "HD03300",
+    "typ": "lagforslag",
+    "titel": "Felszültség a fogászati ellátás költségeinek fedezésére – új szabályok bizonyos külföldiek számára.\n\nA következő pontok tartalmazza az új szabályokat:\n\n*   **Kik érintettek?** Az új szabályok bizonyos, Svédországban élő külföldieket érintik.\n*   **Milyen esetekben kell fizetni?** A szabályok meghatározzák, mely fogászati kezelések esetén kell a költségeket állni.\n*   **Kivételek:** Vannak kivételek is, amelyek alapján bizonyos külföldiek mentesülhetnek a fizetés alól.\n*   **További információk:** További részletekért látogasson el a következő weboldalra: [URL]",
+    "ingress": "Új szabályok javasolásra kerültek, amelyek értelmében bizonyos külföldi állampolgároknak Svédországban a sürgősségi fogászati ellátásért a teljes árat kell fizetniük, ahelyett hogy alacsonyabb díjat fizetnének.",
+    "datum": "2026-06-25",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03300.html",
+    "taggar": [
+      "riksdagen"
+    ],
+    "relevans": {
+      "b_vard": 3,
+      "tillstand": 3,
+      "kronisk": 3,
+      "tandvard": 8,
+      "asyl": 5
+    }
+  },
+  {
     "id": "ecb-2026-06-24-ecb-reports-on-progress-toward",
     "typ": "omvarld",
     "titel": "Az ECB (Európai Központi Bank) jelentést tett közzé az euró bevezetésével kapcsolatos előrehaladásról.",

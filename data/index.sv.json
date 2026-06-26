@@ -78,6 +78,25 @@
     }
   },
   {
+    "id": "HD03300",
+    "typ": "lagforslag",
+    "titel": "Skyldighet att betala för tandvård – nya regler för vissa utlänningar",
+    "ingress": "Nya regler föreslås som gör att vissa utländska personer i Sverige måste betala fullt pris för akut tandvård istället för en låg avgift.",
+    "datum": "2026-06-25",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03300.html",
+    "taggar": [
+      "riksdagen"
+    ],
+    "relevans": {
+      "b_vard": 3,
+      "tillstand": 3,
+      "kronisk": 3,
+      "tandvard": 8,
+      "asyl": 5
+    }
+  },
+  {
     "id": "ecb-2026-06-24-ecb-reports-on-progress-toward",
     "typ": "omvarld",
     "titel": "ECB rapporterar om framstegen mot införandet av euron.",

@@ -77,6 +77,25 @@
     }
   },
   {
+    "id": "HD03300",
+    "typ": "lagforslag",
+    "titel": "Obligación de pagar por la atención dental: nuevas normas para ciertos extranjeros.\n\n*   **Antecedentes:** Anteriormente, algunos extranjeros no estaban obligados a pagar por la atención dental en Suecia.\n*   **Nuevas reglas:** A partir del [fecha], se aplicarán nuevas reglas que exigen que ciertos grupos de extranjeros paguen por la atención dental.\n*   **Quién está afectado:** Estas nuevas normas afectan principalmente a personas que [descripción de los grupos afectados].\n*   **Excepciones:** Existen algunas excepciones a esta regla, como [ejemplos de excepciones].\n*   **Más información:** Para obtener más información sobre estas nuevas reglas, visite el sitio web: [URL].",
+    "ingress": "Se proponen nuevas normas que obligarán a ciertas personas extranjeras residentes en Suecia a pagar el precio completo por la atención odontológica de emergencia, en lugar de una tarifa reducida.",
+    "datum": "2026-06-25",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03300.html",
+    "taggar": [
+      "riksdagen"
+    ],
+    "relevans": {
+      "b_vard": 3,
+      "tillstand": 3,
+      "kronisk": 3,
+      "tandvard": 8,
+      "asyl": 5
+    }
+  },
+  {
     "id": "ecb-2026-06-24-ecb-reports-on-progress-toward",
     "typ": "omvarld",
     "titel": "El Banco Central Europeo (BCE) informa sobre los avances en la introducción del euro.",
