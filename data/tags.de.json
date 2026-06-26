@@ -1598,5 +1598,15 @@
     "etikett": "Antrag des Gemeinderats:\n\n[Hier folgt der Inhalt des Antrags, übersetzt ins Deutsche.]",
     "typ": "organisation",
     "antal": 1
+  },
+  "valdemarsvik": {
+    "etikett": "Valdemarsviks",
+    "typ": "plats",
+    "antal": 1
+  },
+  "fran-kommunstyrelsen": {
+    "etikett": "Von der Stadtverwaltung.",
+    "typ": "organisation",
+    "antal": 1
   }
 }

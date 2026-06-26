@@ -1528,5 +1528,15 @@
     "etikett": "Közgyűlési indítvány.",
     "typ": "organisation",
     "antal": 1
+  },
+  "valdemarsvik": {
+    "etikett": "Valdemarsvik.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "fran-kommunstyrelsen": {
+    "etikett": "A városi tanácstól.",
+    "typ": "organisation",
+    "antal": 1
   }
 }

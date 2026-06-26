@@ -1598,5 +1598,15 @@
     "etikett": "Motion to the Municipal Council\n\n[The following is a motion presented to the Municipal Council.]",
     "typ": "organisation",
     "antal": 1
+  },
+  "valdemarsvik": {
+    "etikett": "Valdemarsvik:",
+    "typ": "plats",
+    "antal": 1
+  },
+  "fran-kommunstyrelsen": {
+    "etikett": "From the Municipal Board:",
+    "typ": "organisation",
+    "antal": 1
   }
 }

@@ -1533,5 +1533,15 @@
     "etikett": "Propuesta al pleno municipal.",
     "typ": "organisation",
     "antal": 1
+  },
+  "valdemarsvik": {
+    "etikett": "Valdemarsviks.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "fran-kommunstyrelsen": {
+    "etikett": "Del texto del consejo municipal:",
+    "typ": "organisation",
+    "antal": 1
   }
 }
