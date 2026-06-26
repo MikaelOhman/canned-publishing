@@ -1443,5 +1443,15 @@
     "etikett": "A gyermek- és oktatási bizottság aláírta.",
     "typ": "organisation",
     "antal": 1
+  },
+  "svedala": {
+    "etikett": "Svedala.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "tekniska-namnden-september-paragrafer": {
+    "etikett": "A technikai bizottságok szeptemberi ülésének napirendje:\n\n*   ... (itt a konkrét pontok következnek)",
+    "typ": "organisation",
+    "antal": 1
   }
 }
