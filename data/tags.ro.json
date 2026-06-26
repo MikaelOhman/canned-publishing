@@ -802,7 +802,7 @@
   "borgholm": {
     "etikett": "Borgholms",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "olands-it-namnd": {
     "etikett": "Comisia IT a insulei Öland.",
@@ -1423,5 +1423,10 @@
     "etikett": "Îmi pare rău, dar nu am primit niciun text de tradus. Te rog să-mi furnizezi textul în suedeză pe care dorești să îl traduc în română.",
     "typ": "organisation",
     "antal": 2
+  },
+  "miljo-och-byggnadsnamnden": {
+    "etikett": "Comisia pentru mediu și construcții.",
+    "typ": "organisation",
+    "antal": 1
   }
 }

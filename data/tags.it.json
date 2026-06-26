@@ -807,7 +807,7 @@
   "borgholm": {
     "etikett": "Borgholms.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "olands-it-namnd": {
     "etikett": "Commissione IT di Öland.",
@@ -1433,5 +1433,10 @@
     "etikett": "Certo, ecco la traduzione:\n\n\"TN\"",
     "typ": "organisation",
     "antal": 2
+  },
+  "miljo-och-byggnadsnamnden": {
+    "etikett": "Commissione per l'ambiente e l'edilizia.",
+    "typ": "organisation",
+    "antal": 1
   }
 }

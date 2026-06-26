@@ -902,7 +902,7 @@
   "borgholm": {
     "etikett": "Borgholms",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "olands-it-namnd": {
     "etikett": "Olands IT namnd",
@@ -1538,5 +1538,10 @@
     "etikett": "TN",
     "typ": "organisation",
     "antal": 2
+  },
+  "miljo-och-byggnadsnamnden": {
+    "etikett": "Miljo och byggnadsnamnden",
+    "typ": "organisation",
+    "antal": 1
   }
 }

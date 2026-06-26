@@ -867,7 +867,7 @@
   "borgholm": {
     "etikett": "Borgholms",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "olands-it-namnd": {
     "etikett": "IT-Ausschuss von Öland.",
@@ -1493,5 +1493,10 @@
     "etikett": "TN",
     "typ": "organisation",
     "antal": 2
+  },
+  "miljo-och-byggnadsnamnden": {
+    "etikett": "Der Ausschuss für Umwelt und Bauwesen.",
+    "typ": "organisation",
+    "antal": 1
   }
 }

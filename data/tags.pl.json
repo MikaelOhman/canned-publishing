@@ -802,7 +802,7 @@
   "borgholm": {
     "etikett": "Borgholms",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "olands-it-namnd": {
     "etikett": "Komitet ds. IT na wyspie Öland.",
@@ -1423,5 +1423,10 @@
     "etikett": "TN",
     "typ": "organisation",
     "antal": 2
+  },
+  "miljo-och-byggnadsnamnden": {
+    "etikett": "Komisja ds. Środowiska i Planowania Przestrzennego.",
+    "typ": "organisation",
+    "antal": 1
   }
 }

@@ -802,7 +802,7 @@
   "borgholm": {
     "etikett": "Borgholms",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "olands-it-namnd": {
     "etikett": "Comisión de TI de Öland.",
@@ -1428,5 +1428,10 @@
     "etikett": "Claro, aquí tienes la traducción:\n\n\"El 1 de enero de 2023, se implementó una nueva política en la empresa XYZ. Esta política afecta a todos los empleados y tiene como objetivo mejorar la eficiencia y la productividad. A continuación, se detallan algunos aspectos clave de esta nueva política:\n\n*   **Horario de trabajo:** El horario de trabajo estándar es de 9:00 a 17:00, con una hora para el almuerzo.\n*   **Vacaciones:** Los empleados tienen derecho a 25 días hábiles de vacaciones al año.\n*   **Reembolso de gastos:** La empresa reembolsará los gastos relacionados con viajes de negocios, siempre que se presenten los recibos correspondientes.\n*   **Código de conducta:** Se espera que todos los empleados sigan un código de conducta profesional y respetuoso en todo momento.\n\nPara obtener más información sobre esta nueva política, visite el siguiente enlace: [URL inválida eliminada].\"",
     "typ": "organisation",
     "antal": 2
+  },
+  "miljo-och-byggnadsnamnden": {
+    "etikett": "Departamento de Medio Ambiente y Construcción.",
+    "typ": "organisation",
+    "antal": 1
   }
 }

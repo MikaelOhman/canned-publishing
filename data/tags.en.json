@@ -877,7 +877,7 @@
   "borgholm": {
     "etikett": "Borgholms",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "olands-it-namnd": {
     "etikett": "Öland IT Committee.",
@@ -1503,5 +1503,10 @@
     "etikett": "Sure, please provide the text you would like me to translate from Swedish into natural, fluent English. I will maintain the paragraph and list structure, keep names, numbers, dates, and URLs unchanged, and focus on conveying the meaning accurately.",
     "typ": "organisation",
     "antal": 2
+  },
+  "miljo-och-byggnadsnamnden": {
+    "etikett": "Environment and Construction Committee.",
+    "typ": "organisation",
+    "antal": 1
   }
 }
