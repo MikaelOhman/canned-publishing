@@ -9738,6 +9738,28 @@
     }
   },
   {
+    "id": "reg-orebro-regionstyrelsen-2026-02-26",
+    "typ": "region",
+    "titel": "Regionstyrelsen, Region Örebro län 2026-02-26",
+    "ingress": "Regionstyrelsen i Örebro län har tagit beslut om pengar till vårdcentraler och för bättre diabetesvård, samt planerat hur mediciner ska köpas in.",
+    "datum": "2026-02-26",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionstyrelsen/mote-2026-02-26",
+    "taggar": [
+      "reg-orebro",
+      "regionstyrelsen",
+      "region-orebro-lan",
+      "sjukvard",
+      "orebro",
+      "regionalpolitik"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_industri": 3,
+      "kronisk": 8
+    }
+  },
+  {
     "id": "alingsas-kommunfullmaktige-2026-02-25",
     "typ": "kommunbeslut",
     "titel": "Kommunfullmäktige, Alingsås kommun 2026-02-25",
@@ -11045,6 +11067,34 @@
       "kronisk": 3,
       "beroende": 3,
       "konsument": 3
+    }
+  },
+  {
+    "id": "reg-orebro-regionstyrelsen-2026-01-26",
+    "typ": "region",
+    "titel": "Regionstyrelsen, Region Örebro län 2026-01-26",
+    "ingress": "Regionstyrelsen i Örebro har tagit beslut om bland annat nya satsningar på hälso- och sjukvård, infrastruktur och lokala byggprojekt.",
+    "datum": "2026-01-26",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionstyrelsen/mote-2026-01-26",
+    "taggar": [
+      "reg-orebro",
+      "regionstyrelsen",
+      "region-orebro-lan",
+      "orebro",
+      "sjukvard",
+      "regionalpolitik"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_bygg": 3,
+      "b_transport": 3,
+      "infrastruktur": 3,
+      "barn": 3,
+      "flygresenar": 5,
+      "kronisk": 8,
+      "psykisk": 3,
+      "tandvard": 3
     }
   },
   {
@@ -13391,6 +13441,34 @@
     }
   },
   {
+    "id": "reg-orebro-regionfullmaktige-2025-10-14",
+    "typ": "region",
+    "titel": "Regionfullmaktige, Region Örebro län 2025-10-14",
+    "ingress": "Regionfullmäktige i Örebro län har mött och diskuterat en mängd frågor om hälso- och sjukvård, kollektivtrafik och regional utveckling.",
+    "datum": "2025-10-14",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionfullmaktige/mote-2025-10-14",
+    "taggar": [
+      "reg-orebro",
+      "regionfullmaktige",
+      "region-orebro-lan",
+      "orebro",
+      "sjukvard",
+      "karlskoga"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_kultur": 3,
+      "arbetsmiljo": 3,
+      "barn": 3,
+      "pendlare": 3,
+      "kollektiv": 8,
+      "kronisk": 8,
+      "klimat": 3,
+      "kultur": 3
+    }
+  },
+  {
     "id": "HD0325",
     "typ": "lagforslag",
     "titel": "Svenskt bidrag till Natos avskräckning och försvar under 2026",
@@ -14816,6 +14894,34 @@
       "ange",
       "kommunstyrelsen"
     ]
+  },
+  {
+    "id": "reg-orebro-regionfullmaktige-2025-06-16",
+    "typ": "region",
+    "titel": "Regionfullmaktige, Region Örebro län 2025-06-16",
+    "ingress": "Regionfullmäktige i Örebro län har tagit beslut om framtida planer för hälso- och sjukvård, kollektivtrafik och kultur. De har även planerat budgeten för 2026 och börjat titta på hur vården ska fungera vid hög beredskap.",
+    "datum": "2025-06-16",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionfullmaktige/mote-2025-06-16",
+    "taggar": [
+      "reg-orebro",
+      "regionfullmaktige",
+      "region-orebro-lan",
+      "orebro",
+      "sjukvard",
+      "kollektivtrafik"
+    ],
+    "relevans": {
+      "b_transport": 3,
+      "b_kultur": 3,
+      "arbetsmiljo": 3,
+      "pendlare": 3,
+      "kollektiv": 8,
+      "kronisk": 8,
+      "funktion": 3,
+      "tandvard": 3,
+      "kultur": 5
+    }
   },
   {
     "id": "HC03193",

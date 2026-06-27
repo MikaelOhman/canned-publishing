@@ -422,7 +422,7 @@
   "orebro": {
     "etikett": "Örebro",
     "typ": "plats",
-    "antal": 5
+    "antal": 9
   },
   "kommunal-ekonomi": {
     "etikett": "Kommunal ekonomi",
@@ -1092,7 +1092,7 @@
   "karlskoga": {
     "etikett": "Karlskoga",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "tillvaxt-och-tillsynsnamndens": {
     "etikett": "Tillväxt och tillsynsnämndens",
@@ -1507,17 +1507,17 @@
   "regionfullmaktige": {
     "etikett": "Regionfullmaktige",
     "typ": "organisation",
-    "antal": 15
+    "antal": 17
   },
   "regionstyrelsen": {
     "etikett": "Regionstyrelsen",
     "typ": "organisation",
-    "antal": 11
+    "antal": 13
   },
   "reg-orebro": {
     "etikett": "Region Örebro län",
     "typ": "organisation",
-    "antal": 6
+    "antal": 10
   },
   "reg-vastmanland": {
     "etikett": "Region Västmanland",
@@ -1722,17 +1722,17 @@
   "regionalpolitik": {
     "etikett": "Regionalpolitik",
     "typ": "ämne",
-    "antal": 6
+    "antal": 8
   },
   "region-orebro-lan": {
     "etikett": "Region Örebro län",
     "typ": "organisation",
-    "antal": 3
+    "antal": 7
   },
   "sjukvard": {
     "etikett": "Sjukvård",
     "typ": "ämne",
-    "antal": 4
+    "antal": 8
   },
   "klimat-och-miljo": {
     "etikett": "Klimat och miljö",
@@ -1998,5 +1998,10 @@
     "etikett": "Offentlig förvaltning",
     "typ": "ämne",
     "antal": 2
+  },
+  "kollektivtrafik": {
+    "etikett": "Kollektivtrafik",
+    "typ": "ämne",
+    "antal": 1
   }
 }
