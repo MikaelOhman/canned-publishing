@@ -22,12 +22,12 @@
   "svensk-historia": {
     "etikett": "Ruotsin historia:\n\n*   **Aikajana:**\n    *   [Päivämäärä] - [Tapahtuma]\n    *   [Päivämäärä] - [Tapahtuma]\n    *   [Päivämäärä] - [Tapahtuma]\n\n*   **Keskeiset henkilöt:**\n    *   [Nimi]: [Lyhyt kuvaus]\n    *   [Nimi]: [Lyhyt kuvaus]\n    *   [Nimi]: [Lyhyt kuvaus]\n\n*   **Tärkeitä paikkoja:**\n    *   [Paikan nimi]: [Lyhyt kuvaus]\n    *   [Paikan nimi]: [Lyhyt kuvaus]\n    *   [Paikan nimi]: [Lyhyt kuvaus]\n\n*   **Lisätietoja:**\n    *   Verkkosivusto: [URL]",
     "typ": "ämne",
-    "antal": 70
+    "antal": 78
   },
   "vikingatid": {
     "etikett": "Viikinkiaika\n\n*   Aikakausi: Noin 800-1066 jaa.\n*   Alue: Pohjois-Eurooppa, erityisesti Skandinavia.\n*   Merkittäviä tapahtumia: Laajentuminen, kaupankäynti, ryöstöt, kulttuurivaihto.\n*   Tärkeitä paikkoja: Kaupungit kuten Birka (Ruotsissa), Hedeby (Tanskassa) ja Dublin (Irlannissa).\n*   Lisätietoja: [URL ei annettu]",
     "typ": "epok",
-    "antal": 18
+    "antal": 24
   },
   "stenalder": {
     "etikett": "Varhaisvaihe:\n\n*   Keraaminen kausi (n. 8000–5000 eaa.)\n*   Kiinalainen pronssikausi (n. 2000–1500 eaa.)\n\nMyöhäisempi vaihe:\n\n*   Varhainen rautakausi (n. 1500–500 eaa.)\n*   Myöhäinen rautakausi (n. 500 eaa. – 0 jKr.)\n\nLisätietoja: [URL]",
@@ -42,7 +42,7 @@
   "jarnalder": {
     "etikett": "Pronssikausi.",
     "typ": "epok",
-    "antal": 1
+    "antal": 3
   },
   "vendeltid": {
     "etikett": "Vendeltid\n\n*   Aikakausi: Noin 500-800 jaa.\n*   Ominaisuudet: Merkittäviä muutoksia yhteiskunnassa, kulttuurissa ja teknologiassa.\n*   Esimerkkejä:\n    *   Pronssi- ja rautatyökalujen käyttö yleistyi.\n    *   Kaupankäynti lisääntyi.\n    *   Uusia uskomusmuotoja syntyi.\n*   Lisätietoja: [URL]",
@@ -1968,5 +1968,10 @@
     "etikett": "Historiallinen henkilö.",
     "typ": "ämne",
     "antal": 42
+  },
+  "runinskrift": {
+    "etikett": "Kirjoitusmerkintä.",
+    "typ": "ämne",
+    "antal": 8
   }
 }

@@ -1737,12 +1737,12 @@
   "svensk-historia": {
     "etikett": "Histoire suédoise.\n\n[Here, you would insert the content that was originally in Swedish, maintaining the paragraph and list structure, and keeping names, numbers, dates, and URLs unchanged.]",
     "typ": "ämne",
-    "antal": 70
+    "antal": 78
   },
   "vikingatid": {
     "etikett": "L'ère viking.",
     "typ": "epok",
-    "antal": 18
+    "antal": 24
   },
   "stenalder": {
     "etikett": "L'âge de pierre.",
@@ -1757,7 +1757,7 @@
   "jarnalder": {
     "etikett": "L'âge du fer.",
     "typ": "epok",
-    "antal": 1
+    "antal": 3
   },
   "vendeltid": {
     "etikett": "La période de Vendel.",
@@ -1848,5 +1848,10 @@
     "etikett": "Personne historique.",
     "typ": "ämne",
     "antal": 42
+  },
+  "runinskrift": {
+    "etikett": "Inscriptions rupestres.",
+    "typ": "ämne",
+    "antal": 8
   }
 }

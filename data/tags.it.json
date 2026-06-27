@@ -1737,12 +1737,12 @@
   "svensk-historia": {
     "etikett": "Storia svedese.\n\n(Followed by any lists or paragraphs that would normally follow this title in a document about Swedish history.)",
     "typ": "ämne",
-    "antal": 70
+    "antal": 78
   },
   "vikingatid": {
     "etikett": "L'era vichinga.",
     "typ": "epok",
-    "antal": 18
+    "antal": 24
   },
   "stenalder": {
     "etikett": "L'età della pietra.",
@@ -1757,7 +1757,7 @@
   "jarnalder": {
     "etikett": "L'Età del Ferro.",
     "typ": "epok",
-    "antal": 1
+    "antal": 3
   },
   "vendeltid": {
     "etikett": "L'epoca vendeliana\n\n*   **Periodo:** Circa dal IV al VI secolo d.C.\n*   **Area geografica:** Scandinavia e aree circostanti.\n*   **Caratteristiche principali:**\n    *   Sviluppo di una società più complessa, con differenze sociali marcate.\n    *   Aumento dei contatti commerciali con altre culture, come quella romana e germanica.\n    *   Produzione di oggetti d'arte raffinati in metallo, legno e vetro.\n    *   Primi segni di un potere politico centralizzato.\n*   **Siti archeologici importanti:**\n    *   Vendel (Svezia): ricca tomba principesca con corredi funerari eccezionali.\n    *   Gamla Uppsala (Svezia): centro religioso e politico importante.\n    *   Birka (Svezia): insediamento commerciale strategico sul lago Mälaren.\n*   **Ulteriori informazioni:** Per maggiori dettagli, consultare il sito web [URL non fornito].",
@@ -1848,5 +1848,10 @@
     "etikett": "Figura storica.",
     "typ": "ämne",
     "antal": 42
+  },
+  "runinskrift": {
+    "etikett": "Iscrizione rupestre.",
+    "typ": "ämne",
+    "antal": 8
   }
 }

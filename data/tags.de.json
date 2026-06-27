@@ -1797,12 +1797,12 @@
   "svensk-historia": {
     "etikett": "Schwedische Geschichte\n\nHier sind einige Informationen zur schwedischen Geschichte:\n\n*   **Frühgeschichte:** Die frühesten Spuren menschlicher Besiedlung in Schweden stammen aus der Zeit um 12.000 v. Chr.\n*   **Wikingerzeit:** Von etwa 800 bis 1060 n. Chr. waren die Wikinger eine bedeutende Kraft in Skandinavien und darüber hinaus.\n*   **Mittelalter:** Im Mittelalter entwickelte sich Schweden zu einem Königreich.\n*   **Reformation:** Die Reformation im 16. Jahrhundert führte zur Einführung des Protestantismus in Schweden.\n*   **Große Kriegsmächtezeit:** Das 17. und 18. Jahrhundert waren eine Zeit großer militärischer Macht für Schweden.\n*   **Industrialisierung:** Im 19. Jahrhundert erlebte Schweden eine rasante Industrialisierung.\n*   **20. Jahrhundert:** Im 20. Jahrhundert entwickelte sich Schweden zu einem modernen, wohlhabenden Land.\n\nWeitere Informationen finden Sie unter folgender URL: [URL einfügen]",
     "typ": "ämne",
-    "antal": 70
+    "antal": 78
   },
   "vikingatid": {
     "etikett": "Die Wikingerzeit\n\n*   Eine Epoche der nordischen Geschichte, die von etwa 800 bis 1066 n. Chr. dauerte.\n*   Gekennzeichnet durch Seefahrten, Raubzüge und Handel.\n*   Wichtige Ereignisse:\n    *   Die erste Wikingereinfahrt nach England im Jahr 793.\n    *   Die Schlacht von Stamford Bridge im Jahr 1066, die das Ende der Wikingerzeit markierte.\n*   Bekannte Wikinger:\n    *   Ragnarr Lodbrok\n    *   Harald Hårfager\n    *   Leif Eriksson\n*   Wichtige Orte:\n    *   Wikings Museet in Oslo: [https://www.vikingmuseum.no/](https://www.vikingmuseum.no/)\n    *   Birka, eine wichtige Handelsstadt in Schweden.",
     "typ": "epok",
-    "antal": 18
+    "antal": 24
   },
   "stenalder": {
     "etikett": "Die Steinzeit\n\n*   Eine Epoche der Menschheitsgeschichte, die durch die Verwendung von Steinwerkzeugen gekennzeichnet ist.\n*   Unterteilt in verschiedene Perioden: Altsteinzeit, Mittelsteinzeit und Jungsteinzeit.\n*   Beginn vor etwa 3,3 Millionen Jahren.\n*   Ende mit dem Aufkommen der Metallverarbeitung (Bronzezeit).\n*   Wichtige Fundstätten: Olduvai-Schlucht (Tansania), Atapuerca (Spanien).\n*   Weitere Informationen: [https://de.wikipedia.org/wiki/%C3%9Cbergang_zum_Ackerbau](https://de.wikipedia.org/wiki/%C3%9Cbergang_zum_Ackerbau)",
@@ -1817,7 +1817,7 @@
   "jarnalder": {
     "etikett": "Die Eisenzeit.",
     "typ": "epok",
-    "antal": 1
+    "antal": 3
   },
   "vendeltid": {
     "etikett": "Die Vendelzeit\n\n*   Eine Übergangsperiode zwischen der Wikingerzeit und der vorchristlichen Zeit in Skandinavien.\n*   Dauerte von ca. 550 bis 800 n. Chr.\n*   Gekennzeichnet durch eine zunehmende soziale Differenzierung und die Entstehung einer Elitenkultur.\n*   Wichtige Fundstätten: Vendel, Gamla Uppsala, Valsgärde.\n*   Typische Funde: Waffen, Schmuck, Grabbeigaben.\n*   Die Vendelzeit ist eng mit der Entwicklung des Wikerkönigtums verbunden.\n*   Weitere Informationen: [https://sv.wikipedia.org/wiki/Vendeltiden](https://sv.wikipedia.org/wiki/Vendeltiden)",
@@ -1908,5 +1908,10 @@
     "etikett": "Historische Person.",
     "typ": "ämne",
     "antal": 42
+  },
+  "runinskrift": {
+    "etikett": "Inschrift.",
+    "typ": "ämne",
+    "antal": 8
   }
 }

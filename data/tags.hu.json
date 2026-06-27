@@ -1737,12 +1737,12 @@
   "svensk-historia": {
     "etikett": "Svéd történelem:\n\n*   [Lista vagy bekezdés a svéd törtélemmel kapcsolatban]",
     "typ": "ämne",
-    "antal": 70
+    "antal": 78
   },
   "vikingatid": {
     "etikett": "A vikingkor.",
     "typ": "epok",
-    "antal": 18
+    "antal": 24
   },
   "stenalder": {
     "etikett": "Az újkőkorszak.",
@@ -1757,7 +1757,7 @@
   "jarnalder": {
     "etikett": "A vaskor időszak.",
     "typ": "epok",
-    "antal": 1
+    "antal": 3
   },
   "vendeltid": {
     "etikett": "A Vendel-kor.",
@@ -1848,5 +1848,10 @@
     "etikett": "Történelmi személyiség.",
     "typ": "ämne",
     "antal": 42
+  },
+  "runinskrift": {
+    "etikett": "Egy felirat szövege.",
+    "typ": "ämne",
+    "antal": 8
   }
 }

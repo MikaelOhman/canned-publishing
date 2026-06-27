@@ -1837,12 +1837,12 @@
   "svensk-historia": {
     "etikett": "Svensk historia",
     "typ": "ämne",
-    "antal": 71
+    "antal": 79
   },
   "vikingatid": {
     "etikett": "Vikingatiden",
     "typ": "epok",
-    "antal": 18
+    "antal": 24
   },
   "stenalder": {
     "etikett": "Stenåldern",
@@ -1857,7 +1857,7 @@
   "jarnalder": {
     "etikett": "Järnåldern",
     "typ": "epok",
-    "antal": 1
+    "antal": 3
   },
   "vendeltid": {
     "etikett": "Vendeltiden",
@@ -1968,5 +1968,10 @@
     "etikett": "Historisk person",
     "typ": "ämne",
     "antal": 43
+  },
+  "runinskrift": {
+    "etikett": "Runinskrift",
+    "typ": "ämne",
+    "antal": 8
   }
 }

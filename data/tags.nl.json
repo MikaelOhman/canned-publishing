@@ -1737,12 +1737,12 @@
   "svensk-historia": {
     "etikett": "Zweedse geschiedenis.\n\n*   [Naam], [getal] jaar geleden.\n*   [Datum].\n*   [URL].",
     "typ": "ämne",
-    "antal": 70
+    "antal": 78
   },
   "vikingatid": {
     "etikett": "De Vikingtijd\n\n*   Periode: ongeveer 800 tot 1066 na Christus.\n*   Geografisch gebied: Scandinavië, met invloed op gebieden rond de Noordzee en de Oostzee.\n*   Kenmerken:\n    *   Zeevaarders en ontdekkingsreizigers.\n    *   Handel en plunderingen.\n    *   Invloedrijke cultuur en technologie.\n*   Bekende Vikingen:\n    *   Erik de Rode.\n    *   Leif Erikson.\n    *   Harald Harefoot.\n*   Belangrijke gebeurtenissen:\n    *   De aanval op Lindisfarne (793).\n    *   De vestiging van Dublin.\n    *   De Slag bij Stamford Bridge (1066).\n*   Meer informatie: [www.voorbeeldwebsite.se](www.voorbeeldwebsite.se)",
     "typ": "epok",
-    "antal": 18
+    "antal": 24
   },
   "stenalder": {
     "etikett": "Het stenen tijdperk.",
@@ -1757,7 +1757,7 @@
   "jarnalder": {
     "etikett": "De IJzertijd.",
     "typ": "epok",
-    "antal": 1
+    "antal": 3
   },
   "vendeltid": {
     "etikett": "De Vendeltijd\n\n*   Periode: Circa 500-800 na Christus.\n*   Kenmerken: Een periode van grote veranderingen en ontwikkelingen in Scandinavië.\n*   Belangrijke aspecten:\n    *   Opkomst van machtige stammen en koninkrijken.\n    *   Intensivering van de handel met andere delen van Europa.\n    *   Ontwikkeling van nieuwe technologieën, zoals het gebruik van ijzer.\n    *   Rijke grafvondsten die inzicht geven in de cultuur en levenswijze van de mensen uit deze tijd.\n*   Voor meer informatie: [URL verwijderd]",
@@ -1848,5 +1848,10 @@
     "etikett": "Historische persoonlijkheid.",
     "typ": "ämne",
     "antal": 42
+  },
+  "runinskrift": {
+    "etikett": "Inschrijving.",
+    "typ": "ämne",
+    "antal": 8
   }
 }
