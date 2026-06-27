@@ -12,7 +12,7 @@
   "arbetsmarknad": {
     "etikett": "Työmarkkinat",
     "typ": "ämne",
-    "antal": 3
+    "antal": 4
   },
   "arbetsformedlingen": {
     "etikett": "Työ- ja elinkeinotoimisto.",
@@ -312,7 +312,7 @@
   "eu-ratt": {
     "etikett": "EU-rätt",
     "typ": "ämne",
-    "antal": 9
+    "antal": 11
   },
   "statligt-agande": {
     "etikett": "Statligt ägande",
@@ -322,7 +322,7 @@
   "ekonomi": {
     "etikett": "Ekonomi",
     "typ": "ämne",
-    "antal": 17
+    "antal": 19
   },
   "bolagsforvaltning": {
     "etikett": "Bolagsförvaltning",
@@ -387,7 +387,7 @@
   "skatt": {
     "etikett": "Skatt",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "finansmarknad": {
     "etikett": "Finansmarknad",
@@ -487,12 +487,12 @@
   "stockholm": {
     "etikett": "Stockholms",
     "typ": "plats",
-    "antal": 12
+    "antal": 16
   },
   "kommunstyrelsen": {
     "etikett": "Kommunstyrelsen",
     "typ": "organisation",
-    "antal": 74
+    "antal": 76
   },
   "kommunallagen": {
     "etikett": "Kommunallagen",
@@ -507,12 +507,12 @@
   "kommunfullmaktige": {
     "etikett": "Kommunfullmäktige",
     "typ": "organisation",
-    "antal": 93
+    "antal": 95
   },
   "kommunpolitik": {
     "etikett": "Kommunpolitik",
     "typ": "ämne",
-    "antal": 8
+    "antal": 9
   },
   "trafik": {
     "etikett": "Trafik",
@@ -527,7 +527,7 @@
   "kommunal-forvaltning": {
     "etikett": "Kommunal förvaltning",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "digitalisering": {
     "etikett": "Digitalisering",
@@ -537,22 +537,22 @@
   "ecb": {
     "etikett": "ECB",
     "typ": "organisation",
-    "antal": 9
+    "antal": 10
   },
   "eu": {
     "etikett": "EU",
     "typ": "organisation",
-    "antal": 21
+    "antal": 29
   },
   "eu-kommissionen": {
     "etikett": "EU-kommissionen",
     "typ": "organisation",
-    "antal": 14
+    "antal": 20
   },
   "orebro": {
     "etikett": "Örebro",
     "typ": "plats",
-    "antal": 5
+    "antal": 9
   },
   "kommunal-ekonomi": {
     "etikett": "Kommunal ekonomi",
@@ -562,7 +562,7 @@
   "protokoll": {
     "etikett": "Protokoll",
     "typ": "händelse",
-    "antal": 10
+    "antal": 11
   },
   "alingsas": {
     "etikett": "Alingsås",
@@ -602,7 +602,7 @@
   "kommunalpolitik": {
     "etikett": "Kommunalpolitik",
     "typ": "ämne",
-    "antal": 6
+    "antal": 10
   },
   "umea": {
     "etikett": "Umeå",
@@ -1222,7 +1222,7 @@
   "karlskoga": {
     "etikett": "Karlskoga",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "tillvaxt-och-tillsynsnamndens": {
     "etikett": "Tillväxt och tillsynsnämndens",
@@ -1632,22 +1632,22 @@
   "reg-halland": {
     "etikett": "Region Halland",
     "typ": "organisation",
-    "antal": 7
+    "antal": 11
   },
   "regionfullmaktige": {
     "etikett": "Regionfullmaktige",
     "typ": "organisation",
-    "antal": 13
+    "antal": 19
   },
   "regionstyrelsen": {
     "etikett": "Regionstyrelsen",
     "typ": "organisation",
-    "antal": 9
+    "antal": 15
   },
   "reg-orebro": {
     "etikett": "Region Örebro län",
     "typ": "organisation",
-    "antal": 6
+    "antal": 10
   },
   "reg-vastmanland": {
     "etikett": "Region Västmanland",
@@ -1657,7 +1657,7 @@
   "reg-jamtland": {
     "etikett": "Region Jämtland Härjedalen",
     "typ": "organisation",
-    "antal": 7
+    "antal": 11
   },
   "reg-blekinge": {
     "etikett": "Region Blekinge",
@@ -1837,32 +1837,32 @@
   "karin-wanngard": {
     "etikett": "Karin Wanngård",
     "typ": "person",
-    "antal": 1
+    "antal": 3
   },
   "region-halland": {
     "etikett": "Region Halland",
     "typ": "organisation",
-    "antal": 3
+    "antal": 7
   },
   "halland": {
     "etikett": "Halland",
     "typ": "plats",
-    "antal": 3
+    "antal": 7
   },
   "regionalpolitik": {
     "etikett": "Regionalpolitik",
     "typ": "ämne",
-    "antal": 3
+    "antal": 10
   },
   "region-orebro-lan": {
     "etikett": "Region Örebro län",
     "typ": "organisation",
-    "antal": 3
+    "antal": 7
   },
   "sjukvard": {
     "etikett": "Sjukvård",
     "typ": "ämne",
-    "antal": 4
+    "antal": 9
   },
   "klimat-och-miljo": {
     "etikett": "Klimat och miljö",
@@ -1872,12 +1872,12 @@
   "regional-forvaltning": {
     "etikett": "Regional förvaltning",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "region-jamtland-harjedalen": {
     "etikett": "Region Jämtland Härjedalen",
     "typ": "organisation",
-    "antal": 3
+    "antal": 7
   },
   "ostersund": {
     "etikett": "Östersund",
@@ -1887,7 +1887,7 @@
   "jamtland": {
     "etikett": "Jämtland",
     "typ": "plats",
-    "antal": 2
+    "antal": 6
   },
   "regional-ekonomi": {
     "etikett": "Regional ekonomi",
@@ -1897,52 +1897,52 @@
   "skatteverket": {
     "etikett": "Skatteverket",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "pension": {
     "etikett": "Pension",
     "typ": "ämne",
-    "antal": 5
+    "antal": 6
   },
   "pensionsmyndigheten": {
     "etikett": "Pensionsmyndigheten",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "konsument": {
     "etikett": "Konsument",
     "typ": "ämne",
-    "antal": 5
+    "antal": 6
   },
   "konsumentverket": {
     "etikett": "Konsumentverket",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "halsa": {
     "etikett": "Hälsa",
     "typ": "ämne",
-    "antal": 5
+    "antal": 6
   },
   "folkhalsomyndigheten": {
     "etikett": "Folkhälsomyndigheten",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "krisberedskap": {
     "etikett": "Krisberedskap",
     "typ": "ämne",
-    "antal": 5
+    "antal": 6
   },
   "civilt-forsvar": {
     "etikett": "Civilt försvar",
     "typ": "ämne",
-    "antal": 5
+    "antal": 6
   },
   "mcf": {
     "etikett": "Myndigheten för civilt försvar",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "finland": {
     "etikett": "Finland",
@@ -1973,5 +1973,35 @@
     "etikett": "Kirjoitusmerkintä.",
     "typ": "ämne",
     "antal": 8
+  },
+  "skola": {
+    "etikett": "Koulu.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "miljozoner": {
+    "etikett": "Ympäristövyöhykkeet\n\n*   **Syfte:** Miljözonerna är till för att förbättra luftkvaliteten och minska bullret i stadsområden.\n*   **Regler:** Inom miljözonerna gäller särskilda regler för vilka fordon som får köra in. Reglerna kan variera beroende på vilken zon det är.\n*   **Information:** Mer information om de olika miljözonerna finns att läsa på [www.exempelwebbsida.se](www.exempelwebbsida.se).\n\n*   **Exempel på regler:**\n    *   Vissa fordon, som äldre dieselfordon, kan vara förbjudna att köra in i miljözonen.\n    *   Det kan krävas ett särskilt tillstånd för att få köra in med vissa typer av fordon.\n    *   Hastighetsbegränsningar kan gälla inom miljözonerna.\n\n*   **Kontroll:** Kontroller utförs regelbundet för att säkerställa att reglerna följs. Böter kan utdelas till de som bryter mot reglerna.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "alexandra-mattsson": {
+    "etikett": "Alexandra Mattsson",
+    "typ": "person",
+    "antal": 1
+  },
+  "varberg": {
+    "etikett": "Varberg.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "offentlig-forvaltning": {
+    "etikett": "Julkinen hallinto.",
+    "typ": "ämne",
+    "antal": 3
+  },
+  "kollektivtrafik": {
+    "etikett": "Joukkoliikenne.",
+    "typ": "ämne",
+    "antal": 1
   }
 }

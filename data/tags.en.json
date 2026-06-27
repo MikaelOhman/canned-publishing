@@ -167,7 +167,7 @@
   "eu-ratt": {
     "etikett": "EU law",
     "typ": "ämne",
-    "antal": 9
+    "antal": 11
   },
   "statligt-agande": {
     "etikett": "State ownership.",
@@ -177,7 +177,7 @@
   "ekonomi": {
     "etikett": "Economics",
     "typ": "ämne",
-    "antal": 19
+    "antal": 21
   },
   "sverige": {
     "etikett": "Sweden",
@@ -247,7 +247,7 @@
   "skatt": {
     "etikett": "Tax",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "finansmarknad": {
     "etikett": "Financial market.",
@@ -347,17 +347,17 @@
   "stockholm": {
     "etikett": "Stockholm:",
     "typ": "plats",
-    "antal": 11
+    "antal": 15
   },
   "kommunfullmaktige": {
     "etikett": "Municipal council.",
     "typ": "organisation",
-    "antal": 93
+    "antal": 95
   },
   "kommunpolitik": {
     "etikett": "Municipal politics.",
     "typ": "ämne",
-    "antal": 8
+    "antal": 9
   },
   "trafik": {
     "etikett": "Traffic.",
@@ -372,12 +372,12 @@
   "kommunstyrelsen": {
     "etikett": "The Municipal Board.",
     "typ": "organisation",
-    "antal": 70
+    "antal": 72
   },
   "kommunal-forvaltning": {
     "etikett": "Municipal administration.",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "digitalisering": {
     "etikett": "Digitalization\n\n(The rest of the text would follow here, depending on what was originally in the Swedish text.)",
@@ -387,17 +387,17 @@
   "ecb": {
     "etikett": "ECB",
     "typ": "organisation",
-    "antal": 9
+    "antal": 10
   },
   "eu": {
     "etikett": "EU",
     "typ": "organisation",
-    "antal": 21
+    "antal": 29
   },
   "eu-kommissionen": {
     "etikett": "The European Commission.",
     "typ": "organisation",
-    "antal": 14
+    "antal": 20
   },
   "alingsas": {
     "etikett": "Alingsås is a municipality located in the county of Västra Götaland, Sweden. It is known for its beautiful natural surroundings, including forests, lakes, and rivers. The municipality also has a rich cultural heritage, with several historical sites and museums.\n\nHere are some of the things that Alingsås is known for:\n\n* Its beautiful natural surroundings\n* Its rich cultural heritage\n* Its friendly and welcoming people\n* Its high quality of life\n\nIf you are looking for a place to visit in Sweden, Alingsås is a great option. It offers something for everyone, from outdoor activities to cultural attractions.\n\nHere are some of the things you can do in Alingsås:\n\n* Visit the Alingsås Museum\n* Explore the surrounding forests and lakes\n* Go hiking or biking\n* Visit the Alingsås Golf Club\n* Attend a concert or performance at the Alingsås Concert Hall\n\nAlingsås is a great place to visit for a day trip or a longer stay. It is a beautiful and welcoming place that offers something for everyone.",
@@ -422,7 +422,7 @@
   "protokoll": {
     "etikett": "Minutes\n\n(Followed by the content of the minutes, which would be translated accordingly. For example, if the minutes contained a list, it would be translated as a list.)",
     "typ": "ämne",
-    "antal": 8
+    "antal": 9
   },
   "ulf-rapp": {
     "etikett": "Ulf Rapp",
@@ -442,7 +442,7 @@
   "kommunalpolitik": {
     "etikett": "Municipal politics.",
     "typ": "ämne",
-    "antal": 6
+    "antal": 10
   },
   "umea": {
     "etikett": "Umeå is a city in northern Sweden, known for its vibrant cultural scene and its proximity to nature. Here are some key facts about Umeå:\n\n*   **Population:** Approximately 140,000 (as of 2023).\n*   **Location:** Västerbotten County, northern Sweden.\n*   **University:** Home to Umeå University, a major research and educational institution.\n*   **Culture:** Umeå was designated European Capital of Culture in 2016, highlighting its rich artistic and cultural heritage.\n*   **Nature:** Surrounded by forests, lakes, and the Bothnian Sea, offering opportunities for outdoor activities.\n*   **Website:** [https://www.umea.se/](https://www.umea.se/)",
@@ -662,7 +662,7 @@
   "orebro": {
     "etikett": "Örebro is a city in Sweden.",
     "typ": "plats",
-    "antal": 5
+    "antal": 9
   },
   "orsa": {
     "etikett": "Orsa",
@@ -1067,7 +1067,7 @@
   "karlskoga": {
     "etikett": "Karlskoga is a municipality located in the province of Värmland, Sweden. It is known for its industrial heritage, particularly in the fields of metallurgy and engineering. The municipality offers a range of outdoor activities, including hiking, fishing, and skiing. It also has a number of cultural attractions, such as the Carl-Gustaf Bjurman Museum, which showcases the work of the renowned Swedish artist. Karlskoga is a vibrant and diverse community with a rich history and a promising future.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "tillvaxt-och-tillsynsnamndens": {
     "etikett": "The Growth and Supervision Board.",
@@ -1467,22 +1467,22 @@
   "reg-halland": {
     "etikett": "Region Halland.",
     "typ": "organisation",
-    "antal": 7
+    "antal": 11
   },
   "regionfullmaktige": {
     "etikett": "Regional representatives.",
     "typ": "organisation",
-    "antal": 13
+    "antal": 19
   },
   "regionstyrelsen": {
     "etikett": "Regional Board.",
     "typ": "organisation",
-    "antal": 9
+    "antal": 15
   },
   "reg-orebro": {
     "etikett": "Region Örebro County.",
     "typ": "organisation",
-    "antal": 6
+    "antal": 10
   },
   "reg-vastmanland": {
     "etikett": "Västmanland Region.",
@@ -1492,7 +1492,7 @@
   "reg-jamtland": {
     "etikett": "Region Jämtland Härjedalen.",
     "typ": "organisation",
-    "antal": 7
+    "antal": 11
   },
   "reg-blekinge": {
     "etikett": "Region Blekinge.",
@@ -1672,32 +1672,32 @@
   "karin-wanngard": {
     "etikett": "Karin Wanngård",
     "typ": "person",
-    "antal": 1
+    "antal": 3
   },
   "region-halland": {
     "etikett": "Region Halland.",
     "typ": "organisation",
-    "antal": 3
+    "antal": 7
   },
   "halland": {
     "etikett": "Halland is a region in southern Sweden.\n\nHere are some key facts about Halland:\n\n*   It is located on the west coast of Sweden, bordering Denmark to the south.\n*   The largest city in Halland is Halmstad.\n*   Halland has a rich history, having been part of both Sweden and Denmark at different times.\n*   The region is known for its beautiful coastline, forests, and agricultural land.\n*   Popular tourist destinations in Halland include the beaches of Båstad, the nature reserve of Apelviken, and the medieval castle of Galtabäck.\n\nFor more information about Halland, you can visit the following website: [insert URL here].",
     "typ": "plats",
-    "antal": 3
+    "antal": 7
   },
   "regionalpolitik": {
     "etikett": "Regional policy.",
     "typ": "ämne",
-    "antal": 3
+    "antal": 10
   },
   "region-orebro-lan": {
     "etikett": "Region Örebro County.",
     "typ": "organisation",
-    "antal": 3
+    "antal": 7
   },
   "sjukvard": {
     "etikett": "Healthcare.",
     "typ": "ämne",
-    "antal": 4
+    "antal": 9
   },
   "klimat-och-miljo": {
     "etikett": "Climate and Environment\n\n*   [Date] - [Description of event or information related to climate and environment]\n*   [Date] - [Description of event or information related to climate and environment]\n*   [Date] - [Description of event or information related to climate and environment]\n\n[URL]",
@@ -1707,12 +1707,12 @@
   "regional-forvaltning": {
     "etikett": "Regional administration.",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "region-jamtland-harjedalen": {
     "etikett": "Region Jämtland Härjedalen",
     "typ": "organisation",
-    "antal": 3
+    "antal": 7
   },
   "ostersund": {
     "etikett": "Östersund is a town in Sweden.",
@@ -1722,7 +1722,7 @@
   "jamtland": {
     "etikett": "Jämtland\n\n(No further context was provided to translate.)",
     "typ": "plats",
-    "antal": 2
+    "antal": 6
   },
   "regional-ekonomi": {
     "etikett": "Regional economy.",
@@ -1732,52 +1732,52 @@
   "skatteverket": {
     "etikett": "The Swedish Tax Agency.",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "pension": {
     "etikett": "Retirement income.",
     "typ": "ämne",
-    "antal": 5
+    "antal": 6
   },
   "pensionsmyndigheten": {
     "etikett": "The Swedish Pensions Agency.",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "konsument": {
     "etikett": "Consumer.",
     "typ": "ämne",
-    "antal": 5
+    "antal": 6
   },
   "konsumentverket": {
     "etikett": "The Swedish Consumer Agency (Konsumentverket).",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "halsa": {
     "etikett": "Health\n\n(No further context was provided to translate.)",
     "typ": "ämne",
-    "antal": 5
+    "antal": 6
   },
   "folkhalsomyndigheten": {
     "etikett": "The Swedish Public Health Agency.",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "krisberedskap": {
     "etikett": "Crisis Preparedness\n\nThis document outlines measures to be taken in the event of a crisis. It covers various areas:\n\n*   **Communication:** Establishing clear communication channels and protocols.\n*   **Emergency Response:** Procedures for responding to immediate threats and providing assistance.\n*   **Business Continuity:** Maintaining essential business functions during and after a crisis.\n*   **Risk Assessment:** Identifying potential risks and vulnerabilities.\n*   **Training and Exercises:** Preparing personnel through training and simulations.\n\nFor more information, please visit: [insert URL here]",
     "typ": "ämne",
-    "antal": 5
+    "antal": 6
   },
   "civilt-forsvar": {
     "etikett": "Civil Defense\n\n(This is a very short phrase and doesn't require further elaboration.)",
     "typ": "ämne",
-    "antal": 5
+    "antal": 6
   },
   "mcf": {
     "etikett": "The Agency for Civil Defence.",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "socialforsakring": {
     "etikett": "Social security.",
@@ -1792,7 +1792,7 @@
   "arbetsmarknad": {
     "etikett": "Labor Market\n\n*   [Date]\n*   [URL]",
     "typ": "ämne",
-    "antal": 3
+    "antal": 4
   },
   "arbetsformedlingen": {
     "etikett": "The Public Employment Service (PES).",
@@ -1918,5 +1918,35 @@
     "etikett": "Inscribed text.",
     "typ": "ämne",
     "antal": 8
+  },
+  "skola": {
+    "etikett": "School.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "miljozoner": {
+    "etikett": "Environmental Zones\n\nHere's some information about environmental zones:\n\n*   **Purpose:** Environmental zones are established to reduce air pollution in specific areas by restricting access for vehicles that do not meet certain emission standards.\n\n*   **How they work:** Vehicles entering an environmental zone must typically meet a minimum Euro standard (e.g., Euro 4, Euro 5, or Euro 6) for their emissions.  Vehicles that don't comply may be subject to fines.\n\n*   **Signage:** Environmental zones are clearly marked with signs indicating the applicable emission standards.\n\n*   **Exemptions:** Certain vehicles, such as emergency vehicles and some classic cars, may be exempt from the restrictions.\n\n*   **More information:** You can find more detailed information about environmental zones on the website: [Insert URL here]",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "alexandra-mattsson": {
+    "etikett": "Alexandra Mattsson",
+    "typ": "person",
+    "antal": 1
+  },
+  "varberg": {
+    "etikett": "Varberg\n\n(No further context was provided, so a simple translation of the name is all that can be offered.)",
+    "typ": "plats",
+    "antal": 1
+  },
+  "offentlig-forvaltning": {
+    "etikett": "Public administration.",
+    "typ": "ämne",
+    "antal": 3
+  },
+  "kollektivtrafik": {
+    "etikett": "Public transportation.",
+    "typ": "ämne",
+    "antal": 1
   }
 }

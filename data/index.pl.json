@@ -210,6 +210,76 @@
     "tri": true
   },
   {
+    "id": "ecb-2026-06-26-ecb-consumer-expectations-surv",
+    "typ": "omvarld",
+    "titel": "Wyniki badania Europejskiego Banku Centralnego dotyczącego oczekiwań konsumentów – maj 2026 roku.",
+    "ingress": "Badanie wykazało, że konsumenci spodziewają się w przyszłości mniejszych wzrostów cen towarów i usług, ale nadal obawiają się wysokiego poziomu bezrobocia.",
+    "datum": "2026-06-26",
+    "kalla": "ECB",
+    "kalla_url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260626_1~60a21704a8.en.html",
+    "taggar": [
+      "ekonomi",
+      "ecb"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "smaforetag": 3,
+      "lontagare": 3,
+      "arbetssokande": 3,
+      "bostadsagare": 3,
+      "sparare": 3,
+      "lantagare": 5,
+      "konsument": 5
+    }
+  },
+  {
+    "id": "eu-kommissionen-2026-06-26-remarks-by-commissioner-j-rgen",
+    "typ": "omvarld",
+    "titel": "Wypowiedź komisarza Jørgensena podczas konferencji prasowej Rady Energetycznej.",
+    "ingress": "Przedstawiciel kierownictwa Unii Europejskiej podziękował za ciężką pracę i dobre wyniki, które osiągnął radzie.",
+    "datum": "2026-06-26",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1472",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ],
+    "relevans": {
+      "b_energi": 8,
+      "energikund": 8
+    }
+  },
+  {
+    "id": "eu-kommissionen-2026-06-26-daily-news-26-06-2026",
+    "typ": "omvarld",
+    "titel": "Codzienne wiadomości z dnia 2026-06-26.",
+    "ingress": "Unia Europejska wysyła pilną pomoc i zespoły ratownicze do Wenezueli po silnych trzęsieniach ziemi.",
+    "datum": "2026-06-26",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1469",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ]
+  },
+  {
+    "id": "eu-kommissionen-2026-06-26-commissioner-tzitzikostas-deli",
+    "typ": "omvarld",
+    "titel": "Komisarz Tzitzikostas wygłosił przemówienie podczas wydarzenia zatytułowanego „Praga–Berlin–Kopenhaga: Pierwszy projekt pilotażowy UE dotyczący nowych międzynarodowych połączeń kolejowych”.",
+    "ingress": "Unia Europejska rozpoczyna nowy projekt mający na celu poprawę połączeń kolejowych między miastami Praga, Berlin i Kopenhaga. Celem jest ułatwienie i udoskonalenie podróży pociągiem pomiędzy tymi krajami.",
+    "datum": "2026-06-26",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1468",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ],
+    "relevans": {
+      "infrastruktur": 8,
+      "kollektiv": 3
+    }
+  },
+  {
     "id": "HD03301",
     "typ": "lagforslag",
     "titel": "Zaostrzone warunki dotyczące przywozu rodzinnego.\n\n*   Nowe przepisy dotyczą m.in.:\n    *   Wymagań finansowych dla osób przyjmujących rodziny z zagranicy.\n    *   Konieczności posiadania odpowiedniego mieszkania.\n    *   Sprawdzania tożsamości i legalności pobytu członków rodziny.\n\nSzczegółowe informacje można znaleźć na stronie: [URL]",
@@ -425,6 +495,89 @@
     "relevans": {
       "b_bygg": 3,
       "varnpliktig": 3
+    }
+  },
+  {
+    "id": "eu-kommissionen-2026-06-25-commission-proposes-to-extend-",
+    "typ": "omvarld",
+    "titel": "Komisja Europejska proponuje przedłużenie tymczasowej ochrony dla osób uciekających z Ukrainy o kolejny rok.",
+    "ingress": "Unia Europejska proponuje przedłużenie o rok pobytu w Europie oraz zapewnienie pomocy osobom, które uciekły z powodu wojny na Ukrainie. Jest to działanie mające na celu wsparcie osób, które zostały zmuszone do opuszczenia swoich domów w wyn",
+    "datum": "2026-06-25",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1462",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ]
+  },
+  {
+    "id": "eu-kommissionen-2026-06-25-commission-approves-state-aid-",
+    "typ": "omvarld",
+    "titel": "Komisja Europejska zatwierdziła pomoc państwową dla rumuńskiego banku inwestycyjnego i rozwojowego.",
+    "ingress": "Unia Europejska zatwierdziła możliwość udzielenia przez państwo rumuńskie wsparcia finansowego swojemu krajowemu bankowi inwestycyjnemu. Oznacza to, że bank może otrzymać dodatkowe środki, które pomogą w rozwoju Rumunii.",
+    "datum": "2026-06-25",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1453",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ],
+    "relevans": {
+      "smaforetag": 3,
+      "b_finans": 3,
+      "finansiering": 8
+    }
+  },
+  {
+    "id": "eu-kommissionen-2026-06-25-new-analysis-on-the-eu-s-most-",
+    "typ": "omvarld",
+    "titel": "Nowa analiza dotycząca najbardziej niebezpiecznych sieci przestępczych w Unii Europejskiej.\n\n*   [Opis analizy]\n*   [Lista wniosków lub punktów wynikających z analizy]\n*   [Imiona, liczby, daty i adresy URL pozostają bez zmian]",
+    "ingress": "Agencje Unii Europejskiej opublikowały nowy raport, który wskazuje, które zorganizowane grupy przestępcze stanowią największe zagrożenie dla bezpieczeństwa w Europie.",
+    "datum": "2026-06-25",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1463",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ],
+    "relevans": {
+      "otrygg": 8
+    }
+  },
+  {
+    "id": "eu-32026R1397",
+    "typ": "omvarld",
+    "titel": "ROZPORZĄDZENIE WYKONAWCZE KOMISJI (UE) 2026/1397",
+    "ingress": "Unia Europejska aktualizuje listę urzędów odpowiedzialnych za wypłatę alimentów na dzieci w kilku krajach, w tym w Finlandii. Dzięki temu będzie bardziej jasne, które placówki zajmują się tymi sprawami.",
+    "datum": "2026-06-25",
+    "kalla": "EU (EUR-Lex)",
+    "kalla_url": "https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32026R1397",
+    "taggar": [
+      "eu",
+      "eu-ratt"
+    ],
+    "relevans": {
+      "b_vard": 3,
+      "lokaler": 3,
+      "barn": 3,
+      "skild": 5
+    }
+  },
+  {
+    "id": "eu-32026R1398",
+    "typ": "omvarld",
+    "titel": "ROZPORZĄDZENIE WYKONAWCZE KOMISJI (UE) 2026/1398.",
+    "ingress": "Unia Europejska zaktualizowała listę organizacji, które są uprawnione do kontrolowania i zatwierdzania produktów ekologicznych pochodzących z krajów spoza UE. Dzięki temu jest bardziej jasne, jakie firmy mogą wydawać certyfikaty potwierdzaj",
+    "datum": "2026-06-25",
+    "kalla": "EU (EUR-Lex)",
+    "kalla_url": "https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32026R1398",
+    "taggar": [
+      "eu",
+      "eu-ratt"
+    ],
+    "relevans": {
+      "b_industri": 3,
+      "import": 3
     }
   },
   {
@@ -1402,6 +1555,23 @@
       "infrastruktur": 5,
       "beroende": 3,
       "batagare": 3,
+      "varnpliktig": 3
+    }
+  },
+  {
+    "id": "mcf-2026-06-22-skyddsrumstema-i-befolkningssk",
+    "typ": "myndighet",
+    "titel": "Tematem spotkania Rady Ochrony Ludności będzie kwestia schronów.",
+    "ingress": "Władze planują zmodernizować działanie schronów, aby lepiej odpowiadały na dzisiejsze zagrożenia. Chcą stworzyć więcej \"chronionych przestrzeni\", które będą bardziej elastyczne niż tradycyjne schrony.",
+    "datum": "2026-06-22",
+    "kalla": "Myndigheten för civilt försvar",
+    "kalla_url": "https://www.mcf.se/sv/aktuellt/nyheter/2026/juni/skyddsrumstema-i-befolkningsskyddsradet/",
+    "taggar": [
+      "krisberedskap",
+      "civilt-forsvar",
+      "mcf"
+    ],
+    "relevans": {
       "varnpliktig": 3
     }
   },
@@ -4271,6 +4441,23 @@
     }
   },
   {
+    "id": "skatteverket-2026-06-08-2-6-miljoner-personer-far-dela",
+    "typ": "myndighet",
+    "titel": "2,6 miliona osób otrzyma zwrot podatku w wysokości 35,7 miliardów koron.",
+    "ingress": "Wiele osób odzyskuje pieniądze, które zapłaciły za dużo w formie podatków w zeszłym roku, podczas gdy inne otrzymują informację, że muszą dopłacić.",
+    "datum": "2026-06-08",
+    "kalla": "Skatteverket",
+    "kalla_url": "http://skatteverket.se/omoss/pressochmedia/nyheter/2026/nyheter/26miljonerpersonerfardelapa357miljarderiskatteaterbaring.5.61831a4519e8f7372a3d1.html",
+    "taggar": [
+      "skatt",
+      "skatteverket"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "lantagare": 3
+    }
+  },
+  {
     "id": "konsumentverket-2026-06-05-konsumentverkets-hushallskostn",
     "typ": "myndighet",
     "titel": "Opublikowano prognozę kosztów utrzymania gospodarstwa domowego na rok 2026 opracowaną przez Konsumentverket (Szwedzką Agencję Ochrony Praw Konsumentów).",
@@ -4775,6 +4962,23 @@
       "idrott": 3,
       "volontar": 3,
       "bil": 3
+    }
+  },
+  {
+    "id": "folkhalsomyndigheten-2026-06-01-folkhalsomyndigheten-presenter",
+    "typ": "myndighet",
+    "titel": "Agencja ds. Zdrowia Publicznego (Folkhälsomyndigheten) przedstawia nowe zalecenia dotyczące korzystania z urządzeń elektronicznych przez rodziców.",
+    "ingress": "Agencja ds. Zdrowia Publicznego opracowała nowe wytyczne dla rodziców, dotyczące lepszego wykorzystania telefonów komórkowych i innych urządzeń elektronicznych podczas spędzania czasu z dziećmi. Celem jest poprawa relacji między dorosłymi a",
+    "datum": "2026-06-01",
+    "kalla": "Folkhälsomyndigheten",
+    "kalla_url": "https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2026/juni/folkhalsomyndigheten-presenterar-nya-rekommendationer-om-foraldrars-skarmvanor/",
+    "taggar": [
+      "halsa",
+      "folkhalsomyndigheten"
+    ],
+    "relevans": {
+      "fou": 3,
+      "barn": 5
     }
   },
   {
@@ -5686,6 +5890,22 @@
     }
   },
   {
+    "id": "konsumentverket-2026-05-08-konsumentverket-granskar-grill",
+    "typ": "myndighet",
+    "titel": "Agencja Ochrony Konsumentów (Konsumentverket) przeprowadza kontrole szczoteczek do czyszczenia grilli w związku z poważnymi wypadkami.",
+    "ingress": "Agencja Konsumencka prowadzi badania szczoteczek do czyszczenia grillów, które mają metalowe włosia, ponieważ mogą one powodować poważne obrażenia w przypadku połknięcia. Agencja apeluje do wszystkich osób korzystających z grilla, aby zacho",
+    "datum": "2026-05-08",
+    "kalla": "Konsumentverket",
+    "kalla_url": "https://www.konsumentverket.se/nyhet/konsumentverket-granskar-grillborstar-efter-allvarliga-olyckor/",
+    "taggar": [
+      "konsument",
+      "konsumentverket"
+    ],
+    "relevans": {
+      "kronisk": 3
+    }
+  },
+  {
     "id": "HD03267",
     "typ": "lagforslag",
     "titel": "Wzmocniona ochrona przed obcokrajowcami, którzy stanowią poważne zagrożenie dla bezpieczeństwa.",
@@ -5996,6 +6216,25 @@
       "kronisk": 3,
       "beroende": 3,
       "klimat": 3
+    }
+  },
+  {
+    "id": "pensionsmyndigheten-2026-05-04-handel-i-premiepensionen-8-13-",
+    "typ": "myndighet",
+    "titel": "Transakcje dotyczące premii emerytalnej w dniach od 8 do 13 maja 2026 roku.",
+    "ingress": "Od 8 maja 2026 roku rozpoczyna się okres, w którym będzie można zmieniać fundusze inwestycyjne w ramach swojego prywatnego systemu emerytalnego (premiepension). Większość zmian zostanie przeprowadzona najpóźniej do 13 maja.",
+    "datum": "2026-05-04",
+    "kalla": "Pensionsmyndigheten",
+    "kalla_url": "https://www.pensionsmyndigheten.se/nyheter-och-press/nyheter/handel-i-premiepensionen-813-maj-2026",
+    "taggar": [
+      "pension",
+      "pensionsmyndigheten"
+    ],
+    "relevans": {
+      "finansiering": 3,
+      "pensionar": 3,
+      "sparare": 3,
+      "pensionssparare": 8
     }
   },
   {
@@ -7700,6 +7939,48 @@
     }
   },
   {
+    "id": "stockholm-kommunstyrelsen-2026-03-25",
+    "typ": "kommunbeslut",
+    "titel": "Komisja ds. spraw miejskich, miasto Sztokholm, 25 marca 2026 roku.",
+    "ingress": "Miasto Sztokholm podjęło decyzję o kontynuacji projektu budowlanego w Stadshagen, którego koszt szacuje się na około 1,1 miliarda koron szwedzkich. Dodatkowo, zatwierdzono dodatkowe umowy dotyczące projektów budowlanych na Lilla Essingen.",
+    "datum": "2026-03-25",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunstyrelsen/mote-2026-03-25",
+    "taggar": [
+      "stockholm",
+      "kommunstyrelsen",
+      "karin-wanngard",
+      "kommunalpolitik"
+    ],
+    "relevans": {
+      "b_bygg": 3
+    }
+  },
+  {
+    "id": "reg-jamtland-regionstyrelsen-2026-03-25",
+    "typ": "region",
+    "titel": "Regionalna Rada Zarządzająca, Region Jämtland Härjedalen, 25 marca 2026.",
+    "ingress": "Regionalna władze prowincji Jämtland Härjedalen przeanalizowały listę spraw do rozpatrzenia i podjęły decyzję, które kwestie zostaną poruszone podczas posiedzenia. Do listy dodano m.in. sprawy dotyczące transportu pacjentów na leczenie oraz",
+    "datum": "2026-03-25",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionstyrelsen/mote-2026-03-25",
+    "taggar": [
+      "reg-jamtland",
+      "regionstyrelsen",
+      "region-jamtland-harjedalen",
+      "sjukvard",
+      "offentlig-forvaltning",
+      "jamtland"
+    ],
+    "relevans": {
+      "b_fastighet": 3,
+      "b_kultur": 3,
+      "lokaler": 3,
+      "kronisk": 8,
+      "kultur": 3
+    }
+  },
+  {
     "id": "HD03226",
     "typ": "lagforslag",
     "titel": "Raport Najwyższej Izby Kontroli dotyczący działalności Sida w zakresie pomocy humanitarnej.",
@@ -7937,6 +8218,29 @@
       "kronisk": 3,
       "beroende": 3,
       "klimat": 3
+    }
+  },
+  {
+    "id": "reg-halland-regionstyrelsen-2026-03-18",
+    "typ": "region",
+    "titel": "Regionalna Rada Zarządzająca, Region Halland, 18 marca 2026 roku.",
+    "ingress": "Region Halland planuje działania na przyszłość, w tym otwarcie nowego punktu opieki psychiatrycznej dla młodzieży w Falkenberg oraz poprawę świadczeń ambulatoryjnych dla osób z problemami psychicznymi.",
+    "datum": "2026-03-18",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionstyrelsen/mote-2026-03-18",
+    "taggar": [
+      "reg-halland",
+      "regionstyrelsen",
+      "region-halland",
+      "halland",
+      "regionalpolitik",
+      "offentlig-forvaltning"
+    ],
+    "relevans": {
+      "b_fastighet": 3,
+      "ung": 3,
+      "kronisk": 8,
+      "psykisk": 3
     }
   },
   {
@@ -8853,6 +9157,27 @@
     }
   },
   {
+    "id": "stockholm-kommunstyrelsen-2026-03-11",
+    "typ": "kommunbeslut",
+    "titel": "Komisja ds. spraw miejskich, Urząd Miasta Sztokholm, 11 marca 2026 roku.",
+    "ingress": "Miasto Sztokholm podjęło decyzję o zbadaniu i zaplanowaniu trzech różnych projektów: kompleksowych rozwiązań dotyczących ruchu drogowego na wschodniej stronie miasta, zwiększenia liczby miejsc do tworzenia sztuki ulicznej na obrzeżach oraz",
+    "datum": "2026-03-11",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunstyrelsen/mote-2026-03-11",
+    "taggar": [
+      "stockholm",
+      "kommunstyrelsen",
+      "kommunalpolitik",
+      "alexandra-mattsson"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "glesbygd": 3,
+      "klimat": 3,
+      "kultur": 3
+    }
+  },
+  {
     "id": "HD03174",
     "typ": "lagforslag",
     "titel": "Rozszerzone kontrole rejestrów w systemie edukacji.",
@@ -9568,6 +9893,28 @@
       "sjukskriven": 3,
       "kronisk": 3,
       "funktion": 8
+    }
+  },
+  {
+    "id": "reg-orebro-regionstyrelsen-2026-02-26",
+    "typ": "region",
+    "titel": "Regionalna Rada Zarządzająca, Region Örebro län, 26 lutego 2026 roku.",
+    "ingress": "Regionalna władze prowincji Örebro podjęły decyzje dotyczące finansowania placówek opieki zdrowotnej oraz poprawy leczenia cukrzycy, a także zaplanowały sposób zakupu leków.",
+    "datum": "2026-02-26",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionstyrelsen/mote-2026-02-26",
+    "taggar": [
+      "reg-orebro",
+      "regionstyrelsen",
+      "region-orebro-lan",
+      "sjukvard",
+      "orebro",
+      "regionalpolitik"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_industri": 3,
+      "kronisk": 8
     }
   },
   {
@@ -10338,6 +10685,32 @@
     }
   },
   {
+    "id": "reg-halland-regionstyrelsen-2026-02-11",
+    "typ": "region",
+    "titel": "Regionalna Rada Zarządzająca, Region Halland, 11 lutego 2026 r.",
+    "ingress": "Regionalna władze prowincji Halland podjęły decyzje w sprawie m.in. sprzedaży nieruchomości, rozbiórki budynku oraz przyznania dotacji Teatrowi Halland. Odniosły się również do wielu propozycji dotyczących opieki zdrowotnej, takich jak leps",
+    "datum": "2026-02-11",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionstyrelsen/mote-2026-02-11",
+    "taggar": [
+      "reg-halland",
+      "regionstyrelsen",
+      "region-halland",
+      "halland",
+      "regionalpolitik",
+      "offentlig-forvaltning"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_bygg": 3,
+      "b_fastighet": 5,
+      "lokaler": 3,
+      "barn": 3,
+      "kronisk": 8,
+      "psykisk": 3
+    }
+  },
+  {
     "id": "HD03124",
     "typ": "lagforslag",
     "titel": "Punkt dostępu do informacji finansowych i związanych ze zrównoważonym rozwojem na poziomie europejskim.",
@@ -10830,6 +11203,59 @@
     }
   },
   {
+    "id": "stockholm-kommunfullmaktige-2026-01-26",
+    "typ": "kommunbeslut",
+    "titel": "Rada Miejska, miasto Sztokholm, 26 stycznia 2026 roku.",
+    "ingress": "Miasto Sztokholm podjęło decyzje dotyczące nowych opłat za przedszkola i opiekę od roku 2026, a także wprowadza przepisy dotyczące zakazu spożywania alkoholu oraz używania gazu rozweselającego w miejscach publicznych.",
+    "datum": "2026-01-26",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunfullmaktige/mote-2026-01-26",
+    "taggar": [
+      "stockholm",
+      "kommunfullmaktige",
+      "kommunalpolitik",
+      "skola",
+      "arbetsmarknad"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_vard": 3,
+      "barn": 8,
+      "arbetssokande": 3,
+      "kronisk": 3,
+      "beroende": 3,
+      "konsument": 3
+    }
+  },
+  {
+    "id": "reg-orebro-regionstyrelsen-2026-01-26",
+    "typ": "region",
+    "titel": "Regionalna Rada Zarządzająca, Region Örebro län, 26 stycznia 2026 r.",
+    "ingress": "Regionalna władze w Örebro podjęły decyzje dotyczące m.in. nowych inwestycji w służbę zdrowia, infrastrukturę oraz lokalne projekty budowlane.",
+    "datum": "2026-01-26",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionstyrelsen/mote-2026-01-26",
+    "taggar": [
+      "reg-orebro",
+      "regionstyrelsen",
+      "region-orebro-lan",
+      "orebro",
+      "sjukvard",
+      "regionalpolitik"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_bygg": 3,
+      "b_transport": 3,
+      "infrastruktur": 3,
+      "barn": 3,
+      "flygresenar": 5,
+      "kronisk": 8,
+      "psykisk": 3,
+      "tandvard": 3
+    }
+  },
+  {
     "id": "HD0395",
     "typ": "lagforslag",
     "titel": "Bezpieczne przechowywanie – nowa, nieokreślona w czasie forma pozbawienia wolności.",
@@ -10915,6 +11341,34 @@
       "pensionar": 5,
       "anhorigvardare": 5,
       "ny_i_sverige": 5
+    }
+  },
+  {
+    "id": "reg-jamtland-regionstyrelsen-2026-01-20",
+    "typ": "region",
+    "titel": "Regionalna Rada Zarządzająca, Region Jämtland Härjedalen, 20 stycznia 2026 roku.",
+    "ingress": "Regionalna władze prowincji Jämtland Härjedalen podjęły decyzje w sprawie kilku ważnych kwestii dotyczących opieki zdrowotnej, finansów i infrastruktury. W planach jest m.in. budowa nowych obiektów przy bazie helikopterowej oraz zakup nowyc",
+    "datum": "2026-01-20",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionstyrelsen/mote-2026-01-20",
+    "taggar": [
+      "reg-jamtland",
+      "regionstyrelsen",
+      "region-jamtland-harjedalen",
+      "jamtland",
+      "regional-forvaltning",
+      "ekonomi"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_bygg": 3,
+      "b_fastighet": 3,
+      "finansiering": 3,
+      "lokaler": 3,
+      "infrastruktur": 3,
+      "barn": 3,
+      "kollektiv": 3,
+      "kronisk": 8
     }
   },
   {
@@ -11355,6 +11809,30 @@
       "b_konsult": 3,
       "redovisning": 3,
       "barn": 3
+    }
+  },
+  {
+    "id": "stockholm-kommunfullmaktige-2025-12-15",
+    "typ": "kommunbeslut",
+    "titel": "Rada Miejska, miasto Sztokholm, 15 grudnia 2025 roku.",
+    "ingress": "Miasto Sztokholm otrzymało od polityków szereg nowych zapytań dotyczących różnych tematów, takich jak strefy ochrony środowiska, domy dla osób starszych, sprzedaż alkoholu i plany budowlane.",
+    "datum": "2025-12-15",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunfullmaktige/mote-2025-12-15",
+    "taggar": [
+      "stockholm",
+      "kommunfullmaktige",
+      "kommunpolitik",
+      "miljozoner",
+      "karin-wanngard"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_finans": 3,
+      "bil": 3,
+      "beroende": 3,
+      "klimat": 3,
+      "fortroendevald": 3
     }
   },
   {
@@ -12928,6 +13406,59 @@
     }
   },
   {
+    "id": "reg-halland-regionfullmaktige-2025-10-22",
+    "typ": "region",
+    "titel": "Członkowie Regionalnej Rady, Region Halland, 2025-10-22.",
+    "ingress": "Region Halland podjęła decyzje dotyczące m.in. przyszłych posiłków, finansów oraz opieki zdrowotnej dla dzieci i młodzieży.",
+    "datum": "2025-10-22",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionfullmaktige/mote-2025-10-22",
+    "taggar": [
+      "reg-halland",
+      "regionfullmaktige",
+      "region-halland",
+      "halland",
+      "regionalpolitik",
+      "varberg"
+    ],
+    "relevans": {
+      "sjuklon": 3,
+      "barn": 3,
+      "sjukskriven": 3,
+      "bil": 3,
+      "kronisk": 8
+    }
+  },
+  {
+    "id": "reg-jamtland-regionfullmaktige-2025-10-22",
+    "typ": "region",
+    "titel": "Członkowie rady regionalnej regionu Jämtland Härjedalen, data: 2025-10-22.",
+    "ingress": "Poniżej znajduje się protokół posiedzenia z regionu Jämtland Härjedalen, na którym omawiano m.in. przepisy dotyczące transportu publicznego, cenniki usług stomatologicznych oraz lokalne współpracę.",
+    "datum": "2025-10-22",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionfullmaktige/mote-2025-10-22",
+    "taggar": [
+      "reg-jamtland",
+      "regionfullmaktige",
+      "region-jamtland-harjedalen",
+      "regionalpolitik",
+      "jamtland",
+      "protokoll"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "bolagsskatt": 3,
+      "lokaler": 3,
+      "fou": 3,
+      "barn": 3,
+      "pendlare": 3,
+      "kollektiv": 5,
+      "kronisk": 8,
+      "tandvard": 5,
+      "kultur": 3
+    }
+  },
+  {
     "id": "hylte-kommunfullmaktige-2025-10-21",
     "typ": "kommunbeslut",
     "titel": "Uchwała Rady Miejskiej, Gmina Hylte, 21.10.2025.",
@@ -13122,6 +13653,34 @@
     "relevans": {
       "infrastruktur": 3,
       "glesbygd": 3
+    }
+  },
+  {
+    "id": "reg-orebro-regionfullmaktige-2025-10-14",
+    "typ": "region",
+    "titel": "Członkowie rady regionalnej, region Örebro, data: 14 października 2025 roku.",
+    "ingress": "Regionalna zgromadzenia w hrabstwie Örebro spotkały się i przedyskutowały szereg kwestii związanych z opieką zdrowotną, transportem publicznym oraz rozwojem regionu.",
+    "datum": "2025-10-14",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionfullmaktige/mote-2025-10-14",
+    "taggar": [
+      "reg-orebro",
+      "regionfullmaktige",
+      "region-orebro-lan",
+      "orebro",
+      "sjukvard",
+      "karlskoga"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_kultur": 3,
+      "arbetsmiljo": 3,
+      "barn": 3,
+      "pendlare": 3,
+      "kollektiv": 8,
+      "kronisk": 8,
+      "klimat": 3,
+      "kultur": 3
     }
   },
   {
@@ -14348,6 +14907,56 @@
     }
   },
   {
+    "id": "reg-halland-regionfullmaktige-2025-06-18",
+    "typ": "region",
+    "titel": "Uchwała Regionalnej Rady, Region Halland, z dnia 18 czerwca 2025 roku.",
+    "ingress": "Region Halland podjęła decyzje dotyczące przyszłych celów, budżetów i przepisów dotyczących opieki zdrowotnej oraz transportu publicznego.",
+    "datum": "2025-06-18",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionfullmaktige/mote-2025-06-18",
+    "taggar": [
+      "reg-halland",
+      "regionfullmaktige",
+      "region-halland",
+      "halland",
+      "kommunalpolitik"
+    ],
+    "relevans": {
+      "b_grona": 3,
+      "barn": 3,
+      "pendlare": 3,
+      "kollektiv": 3,
+      "kronisk": 8
+    }
+  },
+  {
+    "id": "reg-jamtland-regionfullmaktige-2025-06-18",
+    "typ": "region",
+    "titel": "Członkowie rady regionalnej regionu Jämtland Härjedalen, data: 2025-06-18.",
+    "ingress": "Region Jämtland Härjedalen podjęła decyzje w sprawie kilku ważnych kwestii dotyczących opieki zdrowotnej, zakupu nieruchomości oraz przyszłych budżetów.",
+    "datum": "2025-06-18",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionfullmaktige/mote-2025-06-18",
+    "taggar": [
+      "reg-jamtland",
+      "regionfullmaktige",
+      "region-jamtland-harjedalen",
+      "jamtland",
+      "regionalpolitik",
+      "kommunal-forvaltning"
+    ],
+    "relevans": {
+      "b_fastighet": 5,
+      "b_energi": 3,
+      "barn": 3,
+      "kronisk": 8,
+      "tandvard": 3,
+      "energikund": 3,
+      "konsument": 3,
+      "klimat": 3
+    }
+  },
+  {
     "id": "HC03191",
     "typ": "lagforslag",
     "titel": "Rozliczenie alokacji środków z Funduszu Dziedzictwa Publicznego w roku budżetowym 2024.",
@@ -14563,6 +15172,34 @@
       "ange",
       "kommunstyrelsen"
     ]
+  },
+  {
+    "id": "reg-orebro-regionfullmaktige-2025-06-16",
+    "typ": "region",
+    "titel": "Członkowie rady regionalnej regionu Örebro, data: 2025-06-16.",
+    "ingress": "Regionalna zgromadzenie w regionie Örebro podjęło decyzje dotyczące przyszłych planów dotyczących opieki zdrowotnej, transportu publicznego i kultury. Zatwierdzono również budżet na rok 2026 oraz rozpoczęto analizę funkcjonowania systemu op",
+    "datum": "2025-06-16",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionfullmaktige/mote-2025-06-16",
+    "taggar": [
+      "reg-orebro",
+      "regionfullmaktige",
+      "region-orebro-lan",
+      "orebro",
+      "sjukvard",
+      "kollektivtrafik"
+    ],
+    "relevans": {
+      "b_transport": 3,
+      "b_kultur": 3,
+      "arbetsmiljo": 3,
+      "pendlare": 3,
+      "kollektiv": 8,
+      "kronisk": 8,
+      "funktion": 3,
+      "tandvard": 3,
+      "kultur": 5
+    }
   },
   {
     "id": "HC03193",

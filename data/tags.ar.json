@@ -97,7 +97,7 @@
   "eu-ratt": {
     "etikett": "قانون الاتحاد الأوروبي",
     "typ": "ämne",
-    "antal": 8
+    "antal": 10
   },
   "straffratt": {
     "etikett": "القانون الجنائي",
@@ -112,7 +112,7 @@
   "ekonomi": {
     "etikett": "الاقتصاد",
     "typ": "ämne",
-    "antal": 17
+    "antal": 19
   },
   "sverige": {
     "etikett": "السويد",
@@ -182,7 +182,7 @@
   "skatt": {
     "etikett": "الضرائب",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "finansmarknad": {
     "etikett": "# الأسواق المالية",
@@ -287,17 +287,17 @@
   "stockholm": {
     "etikett": "ستوكهولم.",
     "typ": "plats",
-    "antal": 12
+    "antal": 16
   },
   "kommunfullmaktige": {
     "etikett": "مجلس البلدية.",
     "typ": "organisation",
-    "antal": 93
+    "antal": 95
   },
   "kommunpolitik": {
     "etikett": "سياسة البلديات.",
     "typ": "ämne",
-    "antal": 7
+    "antal": 8
   },
   "trafik": {
     "etikett": "حركة المرور.",
@@ -307,17 +307,17 @@
   "kommunstyrelsen": {
     "etikett": "مجلس البلدية.",
     "typ": "organisation",
-    "antal": 71
+    "antal": 73
   },
   "kommunal-forvaltning": {
     "etikett": "الإدارة المحلية.",
     "typ": "ämne",
-    "antal": 8
+    "antal": 9
   },
   "karin-wanngard": {
     "etikett": "كارين وانغارد.",
     "typ": "person",
-    "antal": 2
+    "antal": 4
   },
   "digitalisering": {
     "etikett": "التحول الرقمي.",
@@ -327,17 +327,17 @@
   "ecb": {
     "etikett": "البنك المركزي الأوروبي.",
     "typ": "organisation",
-    "antal": 9
+    "antal": 10
   },
   "eu": {
     "etikett": "الاتحاد الأوروبي.",
     "typ": "organisation",
-    "antal": 19
+    "antal": 27
   },
   "eu-kommissionen": {
     "etikett": "لجنة الاتحاد الأوروبي.",
     "typ": "organisation",
-    "antal": 14
+    "antal": 20
   },
   "alingsas": {
     "etikett": "Alingsås",
@@ -362,7 +362,7 @@
   "protokoll": {
     "etikett": "محضر اجتماع.",
     "typ": "ämne",
-    "antal": 8
+    "antal": 9
   },
   "ulf-rapp": {
     "etikett": "أولف راب.",
@@ -427,7 +427,7 @@
   "kommunalpolitik": {
     "etikett": "السياسة المحلية.",
     "typ": "ämne",
-    "antal": 5
+    "antal": 9
   },
   "lekeberg": {
     "etikett": "ليكبِيرج.",
@@ -602,7 +602,7 @@
   "orebro": {
     "etikett": "أوربرو.",
     "typ": "plats",
-    "antal": 5
+    "antal": 9
   },
   "orsa": {
     "etikett": "أورسا.",
@@ -1007,7 +1007,7 @@
   "karlskoga": {
     "etikett": "كارلسكوغا.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "tillvaxt-och-tillsynsnamndens": {
     "etikett": "لجنة التنمية والإشراف.",
@@ -1402,22 +1402,22 @@
   "reg-halland": {
     "etikett": "منطقة هالان.",
     "typ": "organisation",
-    "antal": 7
+    "antal": 11
   },
   "regionfullmaktige": {
     "etikett": "أعضاء المجلس الإقليمي المنتخبون.",
     "typ": "organisation",
-    "antal": 13
+    "antal": 19
   },
   "regionstyrelsen": {
     "etikett": "مجلس المنطقة.",
     "typ": "organisation",
-    "antal": 9
+    "antal": 15
   },
   "reg-orebro": {
     "etikett": "منطقة أوربرو.",
     "typ": "organisation",
-    "antal": 6
+    "antal": 10
   },
   "reg-vastmanland": {
     "etikett": "منطقة فاستمانلاند.",
@@ -1427,7 +1427,7 @@
   "reg-jamtland": {
     "etikett": "منطقة يمتلاند هيريدالن.",
     "typ": "organisation",
-    "antal": 7
+    "antal": 11
   },
   "reg-blekinge": {
     "etikett": "منطقة بليكينغه.",
@@ -1622,27 +1622,27 @@
   "region-halland": {
     "etikett": "منطقة هالان.",
     "typ": "organisation",
-    "antal": 3
+    "antal": 7
   },
   "halland": {
     "etikett": "هالاند.",
     "typ": "plats",
-    "antal": 3
+    "antal": 7
   },
   "regionalpolitik": {
     "etikett": "السياسة الإقليمية.",
     "typ": "ämne",
-    "antal": 3
+    "antal": 10
   },
   "region-orebro-lan": {
     "etikett": "منطقة أوربرو.",
     "typ": "organisation",
-    "antal": 3
+    "antal": 7
   },
   "sjukvard": {
     "etikett": "الرعاية الصحية.",
     "typ": "ämne",
-    "antal": 4
+    "antal": 9
   },
   "klimat-och-miljo": {
     "etikett": "المناخ والبيئة:\n\n*   [قائمة بنقاط حول المناخ والبيئة]\n    *   [نقطة 1]\n    *   [نقطة 2]\n    *   [نقطة 3]\n*   [قائمة أخرى بنقاط حول المناخ والبيئة]\n    *   [نقطة 4]\n    *   [نقطة 5]\n    *   [نقطة 6]\n*   [معلومات إضافية أو روابط ذات صلة، مثل الأسماء والأرقام والتواريخ وعناوين URL]\n    *   اسم: [اسم]\n    *   رقم: [رقم]\n    *   تاريخ: [تاريخ]\n    *   عنوان URL: [عنوان URL]",
@@ -1652,12 +1652,12 @@
   "regional-forvaltning": {
     "etikett": "الإدارة الإقليمية.",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "region-jamtland-harjedalen": {
     "etikett": "منطقة يمتلاند هيريدالن.",
     "typ": "organisation",
-    "antal": 3
+    "antal": 7
   },
   "ostersund": {
     "etikett": "أوسترسوند.",
@@ -1667,7 +1667,7 @@
   "jamtland": {
     "etikett": "يامتلاند.",
     "typ": "plats",
-    "antal": 2
+    "antal": 6
   },
   "regional-ekonomi": {
     "etikett": "الاقتصاد الإقليمي.",
@@ -1682,52 +1682,52 @@
   "skatteverket": {
     "etikett": "مصلحة الضرائب السويدية.",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "pension": {
     "etikett": "المعاش التقاعدي.",
     "typ": "ämne",
-    "antal": 5
+    "antal": 6
   },
   "pensionsmyndigheten": {
     "etikett": "هيئة التقاعد.",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "konsument": {
     "etikett": "مستهلك.",
     "typ": "ämne",
-    "antal": 5
+    "antal": 6
   },
   "konsumentverket": {
     "etikett": "هيئة حماية المستهلك.",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "halsa": {
     "etikett": "الصحة.",
     "typ": "ämne",
-    "antal": 5
+    "antal": 6
   },
   "folkhalsomyndigheten": {
     "etikett": "وكالة الصحة العامة.",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "krisberedskap": {
     "etikett": "الاستعداد للأزمات\n\n*   **الوصف:** يشمل الاستعداد للأزمات مجموعة من الإجراءات والتدابير التي تهدف إلى تقليل تأثير الأزمات المحتملة على الأفراد والمجتمعات والمؤسسات.\n\n*   **الأهداف:**\n    *   تقليل الخسائر في الأرواح والممتلكات.\n    *   ضمان استمرارية الخدمات الأساسية.\n    *   تسريع عملية التعافي وإعادة البناء بعد وقوع الأزمة.\n\n*   **المكونات الرئيسية:**\n    1.  **التحليل والتقييم:** تحديد المخاطر المحتملة وتقييم تأثيرها.\n    2.  **التخطيط والاستعداد:** وضع خطط عمل وبروتوكولات للاستجابة للأزمات المختلفة.\n    3.  **التدريب والتوعية:** تدريب الأفراد والمؤسسات على كيفية التصرف في حالات الطوارئ وتوعيتهم بأهمية الاستعداد.\n    4.  **الموارد والإمدادات:** توفير الموارد اللازمة للاستجابة للأزمات، مثل المعدات واللوازم الطبية والأدوية.\n    5.  **التنسيق والشراكة:** التعاون بين مختلف الجهات المعنية، بما في ذلك الحكومات والمنظمات غير الحكومية والمجتمع المدني.\n\n*   **أمثلة على الأزمات التي يجب الاستعداد لها:**\n    *   الكوارث الطبيعية (الزلازل، الفيضانات، الأعاصير).\n    *   الحوادث الصناعية.\n    *   الهجمات الإرهابية.\n    *   الأوبئة والأمراض المعدية.\n\n*   **المصادر والمعلومات:**\n    *   يمكن الاطلاع على مزيد من المعلومات حول الاستعداد للأزمات على المواقع الإلكترونية الخاصة بالمنظمات والهيئات الحكومية المعنية. (مثال: [عنوان URL])",
     "typ": "ämne",
-    "antal": 5
+    "antal": 6
   },
   "civilt-forsvar": {
     "etikett": "الدفاع المدني.",
     "typ": "ämne",
-    "antal": 5
+    "antal": 6
   },
   "mcf": {
     "etikett": "الهيئة السويدية للدفاع المدني.",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "socialforsakring": {
     "etikett": "التأمين الاجتماعي.",
@@ -1742,7 +1742,7 @@
   "arbetsmarknad": {
     "etikett": "سوق العمل.",
     "typ": "ämne",
-    "antal": 3
+    "antal": 4
   },
   "arbetsformedlingen": {
     "etikett": "مكتب العمل الوطني (أو وكالة التوظيف الوطنية).",
@@ -1868,5 +1868,35 @@
     "etikett": "نقش توضيحي.",
     "typ": "ämne",
     "antal": 8
+  },
+  "skola": {
+    "etikett": "مدرسة.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "miljozoner": {
+    "etikett": "مناطق صديقة للبيئة.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "alexandra-mattsson": {
+    "etikett": "ألكساندرا ماتسون.",
+    "typ": "person",
+    "antal": 1
+  },
+  "varberg": {
+    "etikett": "فاربرغ.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "offentlig-forvaltning": {
+    "etikett": "الإدارة العامة.",
+    "typ": "ämne",
+    "antal": 3
+  },
+  "kollektivtrafik": {
+    "etikett": "النقل العام.",
+    "typ": "ämne",
+    "antal": 1
   }
 }

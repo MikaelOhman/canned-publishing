@@ -97,7 +97,7 @@
   "eu-ratt": {
     "etikett": "Droit de l'UE",
     "typ": "ämne",
-    "antal": 9
+    "antal": 11
   },
   "straffratt": {
     "etikett": "Droit pénal",
@@ -112,7 +112,7 @@
   "ekonomi": {
     "etikett": "Économie",
     "typ": "ämne",
-    "antal": 17
+    "antal": 19
   },
   "sverige": {
     "etikett": "Suède",
@@ -182,7 +182,7 @@
   "skatt": {
     "etikett": "Impôts.",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "finansmarknad": {
     "etikett": "Marché financier.",
@@ -287,17 +287,17 @@
   "stockholm": {
     "etikett": "Stockholm.",
     "typ": "plats",
-    "antal": 12
+    "antal": 16
   },
   "kommunfullmaktige": {
     "etikett": "Conseil municipal.",
     "typ": "organisation",
-    "antal": 93
+    "antal": 95
   },
   "kommunpolitik": {
     "etikett": "Politique municipale.",
     "typ": "ämne",
-    "antal": 8
+    "antal": 9
   },
   "trafik": {
     "etikett": "Circulation.",
@@ -312,17 +312,17 @@
   "kommunstyrelsen": {
     "etikett": "Le conseil municipal.",
     "typ": "organisation",
-    "antal": 71
+    "antal": 73
   },
   "kommunal-forvaltning": {
     "etikett": "Administration municipale.",
     "typ": "ämne",
-    "antal": 7
+    "antal": 8
   },
   "karin-wanngard": {
     "etikett": "Karin Wanngård.",
     "typ": "person",
-    "antal": 2
+    "antal": 4
   },
   "digitalisering": {
     "etikett": "Numérisation.",
@@ -332,17 +332,17 @@
   "ecb": {
     "etikett": "Banque centrale européenne.",
     "typ": "organisation",
-    "antal": 9
+    "antal": 10
   },
   "eu": {
     "etikett": "L'Union européenne (UE) est une organisation politique et économique regroupant plusieurs pays européens. Elle a été créée pour promouvoir la paix, la prospérité et la coopération entre ses membres.\n\nVoici quelques informations clés sur l'UE :\n\n*   **Objectifs :**\n    *   Promouvoir la paix et la stabilité.\n    *   Favoriser le développement économique et social.\n    *   Renforcer la coopération entre les États membres.\n    *   Établir une monnaie unique (l'euro).\n    *   Protéger l'environnement.\n\n*   **Membres :**\n    L'UE compte actuellement 27 États membres.\n\n*   **Institutions :**\n    *   Le Parlement européen : représente les citoyens de l'UE.\n    *   Le Conseil de l'Union européenne : représente les gouvernements des États membres.\n    *   La Commission européenne : propose des lois et veille à leur application.\n    *   La Cour de justice de l'Union européenne : assure le respect du droit de l'UE.\n\n*   **Politiques :**\n    L'UE dispose de politiques dans de nombreux domaines, notamment :\n    *   L'agriculture.\n    *   Le commerce.\n    *   L'environnement.\n    *   L'énergie.\n    *   La justice et les affaires intérieures.\n\n*   **Site web :**\n    Pour plus d'informations, vous pouvez consulter le site web de l'UE : [URL non fournie].",
     "typ": "organisation",
-    "antal": 20
+    "antal": 28
   },
   "eu-kommissionen": {
     "etikett": "La Commission européenne.",
     "typ": "organisation",
-    "antal": 14
+    "antal": 20
   },
   "alingsas": {
     "etikett": "Alingsås.",
@@ -367,7 +367,7 @@
   "protokoll": {
     "etikett": "Procès-verbal.",
     "typ": "ämne",
-    "antal": 8
+    "antal": 9
   },
   "ulf-rapp": {
     "etikett": "Ulf Rapp",
@@ -387,7 +387,7 @@
   "kommunalpolitik": {
     "etikett": "Politique municipale.",
     "typ": "ämne",
-    "antal": 6
+    "antal": 10
   },
   "ange": {
     "etikett": "Ånge.",
@@ -582,7 +582,7 @@
   "orebro": {
     "etikett": "Örebro.",
     "typ": "plats",
-    "antal": 5
+    "antal": 9
   },
   "orsa": {
     "etikett": "Orsa.",
@@ -997,7 +997,7 @@
   "karlskoga": {
     "etikett": "Karlskoga.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "tillvaxt-och-tillsynsnamndens": {
     "etikett": "Commission de croissance et de supervision.",
@@ -1397,22 +1397,22 @@
   "reg-halland": {
     "etikett": "Région de Halland.",
     "typ": "organisation",
-    "antal": 7
+    "antal": 11
   },
   "regionfullmaktige": {
     "etikett": "Membres du conseil régional.",
     "typ": "organisation",
-    "antal": 13
+    "antal": 19
   },
   "regionstyrelsen": {
     "etikett": "Conseil régional.",
     "typ": "organisation",
-    "antal": 9
+    "antal": 15
   },
   "reg-orebro": {
     "etikett": "Région d'Örebro län.",
     "typ": "organisation",
-    "antal": 6
+    "antal": 10
   },
   "reg-vastmanland": {
     "etikett": "Région du Västmanland.",
@@ -1422,7 +1422,7 @@
   "reg-jamtland": {
     "etikett": "Région de Jämtland et Härjedalen.",
     "typ": "organisation",
-    "antal": 7
+    "antal": 11
   },
   "reg-blekinge": {
     "etikett": "Région de Blekinge.",
@@ -1612,27 +1612,27 @@
   "region-halland": {
     "etikett": "Région de Halland.",
     "typ": "organisation",
-    "antal": 3
+    "antal": 7
   },
   "halland": {
     "etikett": "Halland.",
     "typ": "plats",
-    "antal": 3
+    "antal": 7
   },
   "regionalpolitik": {
     "etikett": "Politique régionale.",
     "typ": "ämne",
-    "antal": 3
+    "antal": 10
   },
   "region-orebro-lan": {
     "etikett": "Région d'Örebro län.",
     "typ": "organisation",
-    "antal": 3
+    "antal": 7
   },
   "sjukvard": {
     "etikett": "Soins de santé.",
     "typ": "ämne",
-    "antal": 4
+    "antal": 9
   },
   "klimat-och-miljo": {
     "etikett": "Climat et environnement.\n\n*   [Nom propre], [Nombre], [Date] : [URL]\n*   [Nom propre], [Nombre], [Date] : [URL]\n*   [Nom propre], [Nombre], [Date] : [URL]",
@@ -1642,12 +1642,12 @@
   "regional-forvaltning": {
     "etikett": "Administration régionale.",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "region-jamtland-harjedalen": {
     "etikett": "Région de Jämtland et Härjedalen.",
     "typ": "organisation",
-    "antal": 3
+    "antal": 7
   },
   "ostersund": {
     "etikett": "Östersund.",
@@ -1657,7 +1657,7 @@
   "jamtland": {
     "etikett": "Jämtland.",
     "typ": "plats",
-    "antal": 2
+    "antal": 6
   },
   "regional-ekonomi": {
     "etikett": "Économie régionale.",
@@ -1667,52 +1667,52 @@
   "skatteverket": {
     "etikett": "L'Agence fiscale suédoise (Skatteverket).",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "pension": {
     "etikett": "Retraite.",
     "typ": "ämne",
-    "antal": 5
+    "antal": 6
   },
   "pensionsmyndigheten": {
     "etikett": "L'Agence des pensions.",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "konsument": {
     "etikett": "Consommateur.",
     "typ": "ämne",
-    "antal": 5
+    "antal": 6
   },
   "konsumentverket": {
     "etikett": "L'Agence suédoise de protection des consommateurs (Konsumentverket).",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "halsa": {
     "etikett": "Santé.",
     "typ": "ämne",
-    "antal": 5
+    "antal": 6
   },
   "folkhalsomyndigheten": {
     "etikett": "Agence suédoise de santé publique (Folkhälsomyndigheten).",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "krisberedskap": {
     "etikett": "Préparation aux crises\n\nVoici quelques points importants concernant la préparation aux crises :\n\n*   **Définition:** La préparation aux crises consiste à anticiper et à se préparer aux événements imprévus qui pourraient avoir un impact négatif sur une organisation, une communauté ou un pays.\n\n*   **Objectifs:** Les objectifs de la préparation aux crises sont multiples, notamment :\n    *   Minimiser les dommages et les pertes en cas de crise.\n    *   Assurer la continuité des activités essentielles.\n    *   Protéger les personnes et les biens.\n    *   Faciliter la reprise après la crise.\n\n*   **Domaines d'intervention:** La préparation aux crises peut concerner différents domaines, tels que :\n    *   La gestion des catastrophes naturelles (inondations, tremblements de terre, incendies).\n    *   Les attaques terroristes.\n    *   Les pandémies.\n    *   Les cyberattaques.\n    *   Les crises économiques.\n\n*   **Mesures à prendre:** Pour se préparer aux crises, il est important de :\n    *   Évaluer les risques et les vulnérabilités.\n    *   Élaborer des plans d'urgence.\n    *   Mettre en place des systèmes d'alerte et de communication.\n    *   Former le personnel et la population.\n    *   Réserver des ressources (matérielles, financières, humaines).\n\n*   **Exemples concrets:**\n    *   Une entreprise peut mettre en place un plan de continuité des activités pour assurer la poursuite de ses opérations en cas d'incendie ou de cyberattaque.\n    *   Une commune peut organiser des exercices de simulation pour préparer sa population à faire face à une inondation ou à un tremblement de terre.\n    *   Un pays peut renforcer ses capacités de surveillance et de réponse aux pandémies.\n\nPour plus d'informations, vous pouvez consulter les ressources suivantes :\n\n*   [URL]\n*   [URL]\n*   [URL]",
     "typ": "ämne",
-    "antal": 5
+    "antal": 6
   },
   "civilt-forsvar": {
     "etikett": "Défense civile.",
     "typ": "ämne",
-    "antal": 5
+    "antal": 6
   },
   "mcf": {
     "etikett": "L'Agence de protection civile.",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "socialforsakring": {
     "etikett": "Sécurité sociale.",
@@ -1727,7 +1727,7 @@
   "arbetsmarknad": {
     "etikett": "Marché du travail.",
     "typ": "ämne",
-    "antal": 3
+    "antal": 4
   },
   "arbetsformedlingen": {
     "etikett": "L'agence nationale pour l'emploi (Arbetsförmedlingen).",
@@ -1853,5 +1853,35 @@
     "etikett": "Inscriptions rupestres.",
     "typ": "ämne",
     "antal": 8
+  },
+  "skola": {
+    "etikett": "École.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "miljozoner": {
+    "etikett": "Zones à faibles émissions.\n\nVoici quelques informations sur les zones à faibles émissions :\n\n*   **Définition :** Les zones à faibles émissions sont des zones géographiques où l'accès aux véhicules est restreint en fonction de leurs émissions polluantes. L'objectif est de réduire la pollution atmosphérique et d'améliorer la qualité de l'air.\n*   **Critères d'accès :** Les critères varient selon les villes et les pays, mais ils sont généralement basés sur le type de véhicule (voiture, camion, bus, etc.) et ses émissions de particules fines (PM) et/ou de gaz d'échappement (NOx).\n*   **Types de véhicules autorisés :** Les véhicules les plus récents et les moins polluants sont généralement autorisés à circuler dans ces zones. Les véhicules plus anciens ou plus polluants peuvent être interdits, ou soumis à des restrictions (par exemple, interdiction de circuler certains jours).\n*   **Sanctions en cas de non-respect :** Le non-respect des règles d'une zone à faibles émissions peut entraîner des amendes.\n*   **Exemples :** De nombreuses villes européennes ont mis en place des zones à faibles émissions, notamment Berlin, Londres et Paris.\n\nPour plus d'informations, vous pouvez consulter les sites web suivants :\n\n*   [URL]\n*   [URL]\n*   [URL]",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "alexandra-mattsson": {
+    "etikett": "Alexandra Mattsson.",
+    "typ": "person",
+    "antal": 1
+  },
+  "varberg": {
+    "etikett": "Varberg.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "offentlig-forvaltning": {
+    "etikett": "Administration publique.",
+    "typ": "ämne",
+    "antal": 3
+  },
+  "kollektivtrafik": {
+    "etikett": "Transports en commun.",
+    "typ": "ämne",
+    "antal": 1
   }
 }

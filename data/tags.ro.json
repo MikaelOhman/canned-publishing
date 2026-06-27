@@ -97,7 +97,7 @@
   "eu-ratt": {
     "etikett": "Dreptul UE",
     "typ": "ämne",
-    "antal": 7
+    "antal": 9
   },
   "straffratt": {
     "etikett": "Drept penal",
@@ -112,7 +112,7 @@
   "ekonomi": {
     "etikett": "Economie",
     "typ": "ämne",
-    "antal": 17
+    "antal": 19
   },
   "sverige": {
     "etikett": "Suedia",
@@ -182,7 +182,7 @@
   "skatt": {
     "etikett": "Impozite.",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "finansmarknad": {
     "etikett": "Piața financiară.",
@@ -287,17 +287,17 @@
   "stockholm": {
     "etikett": "Stockholm.",
     "typ": "plats",
-    "antal": 12
+    "antal": 16
   },
   "kommunfullmaktige": {
     "etikett": "Consiliul municipal.",
     "typ": "organisation",
-    "antal": 93
+    "antal": 95
   },
   "kommunpolitik": {
     "etikett": "Politica municipală.",
     "typ": "ämne",
-    "antal": 7
+    "antal": 8
   },
   "trafik": {
     "etikett": "Trafic",
@@ -307,17 +307,17 @@
   "kommunstyrelsen": {
     "etikett": "Consiliul municipal.",
     "typ": "organisation",
-    "antal": 71
+    "antal": 73
   },
   "kommunal-forvaltning": {
     "etikett": "Administrația locală.",
     "typ": "ämne",
-    "antal": 8
+    "antal": 9
   },
   "karin-wanngard": {
     "etikett": "Karin Wanngård",
     "typ": "person",
-    "antal": 2
+    "antal": 4
   },
   "digitalisering": {
     "etikett": "Digitalizarea.",
@@ -327,17 +327,17 @@
   "ecb": {
     "etikett": "Banca Centrală Europeană (BCE)",
     "typ": "organisation",
-    "antal": 9
+    "antal": 10
   },
   "eu": {
     "etikett": "Uniunea Europeană.",
     "typ": "organisation",
-    "antal": 19
+    "antal": 27
   },
   "eu-kommissionen": {
     "etikett": "Comisia Europeană.",
     "typ": "organisation",
-    "antal": 14
+    "antal": 20
   },
   "alingsas": {
     "etikett": "Alingsås",
@@ -362,7 +362,7 @@
   "protokoll": {
     "etikett": "Proces-verbal.",
     "typ": "ämne",
-    "antal": 8
+    "antal": 9
   },
   "ulf-rapp": {
     "etikett": "Ulf Rapp",
@@ -402,7 +402,7 @@
   "kommunalpolitik": {
     "etikett": "Politica locală.",
     "typ": "ämne",
-    "antal": 5
+    "antal": 9
   },
   "lekeberg": {
     "etikett": "Lekebergs",
@@ -577,7 +577,7 @@
   "orebro": {
     "etikett": "Örebro.",
     "typ": "plats",
-    "antal": 5
+    "antal": 9
   },
   "orsa": {
     "etikett": "Orsa.",
@@ -992,7 +992,7 @@
   "karlskoga": {
     "etikett": "Karlskoga",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "tillvaxt-och-tillsynsnamndens": {
     "etikett": "Comisia pentru creștere și supraveghere.",
@@ -1387,22 +1387,22 @@
   "reg-halland": {
     "etikett": "Regiunea Halland.",
     "typ": "organisation",
-    "antal": 7
+    "antal": 11
   },
   "regionfullmaktige": {
     "etikett": "Membrii consiliului regional.",
     "typ": "organisation",
-    "antal": 13
+    "antal": 19
   },
   "regionstyrelsen": {
     "etikett": "Consiliul regional.",
     "typ": "organisation",
-    "antal": 9
+    "antal": 15
   },
   "reg-orebro": {
     "etikett": "Regiunea Örebro län.",
     "typ": "organisation",
-    "antal": 6
+    "antal": 10
   },
   "reg-vastmanland": {
     "etikett": "Regiunea Västmanland.",
@@ -1412,7 +1412,7 @@
   "reg-jamtland": {
     "etikett": "Regiunea Jämtland Härjedalen.",
     "typ": "organisation",
-    "antal": 7
+    "antal": 11
   },
   "reg-blekinge": {
     "etikett": "Regiunea Blekinge.",
@@ -1607,27 +1607,27 @@
   "region-halland": {
     "etikett": "Regiunea Halland.",
     "typ": "organisation",
-    "antal": 3
+    "antal": 7
   },
   "halland": {
     "etikett": "Halland.",
     "typ": "plats",
-    "antal": 3
+    "antal": 7
   },
   "regionalpolitik": {
     "etikett": "Politica regională.",
     "typ": "ämne",
-    "antal": 3
+    "antal": 10
   },
   "region-orebro-lan": {
     "etikett": "Regiunea Örebro län.",
     "typ": "organisation",
-    "antal": 3
+    "antal": 7
   },
   "sjukvard": {
     "etikett": "Asistență medicală.",
     "typ": "ämne",
-    "antal": 4
+    "antal": 9
   },
   "klimat-och-miljo": {
     "etikett": "Clima și mediul înconjurător:\n\n*   **Impactul asupra climei:** Descrierea modului în care activitățile umane influențează clima globală.\n*   **Poluarea:** Informații despre diferitele tipuri de poluare (aer, apă, sol) și efectele lor asupra sănătății și a mediului.\n*   **Resursele naturale:** O prezentare generală a resurselor naturale (apă, energie, minerale) și importanța gestionării durabile a acestora.\n*   **Biodiversitatea:** Explicația conceptului de biodiversitate și necesitatea conservării speciilor și habitatelor.\n*   **Schimbările climatice:** O analiză detaliată a schimbărilor climatice, cauzele lor și potențialele consecințe.\n*   **Soluții:** Prezentarea unor soluții pentru reducerea impactului asupra climei și protejarea mediului înconjurător, cum ar fi energia regenerabilă, reciclarea și agricultura durabilă.",
@@ -1637,12 +1637,12 @@
   "regional-forvaltning": {
     "etikett": "Administrație regională.",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "region-jamtland-harjedalen": {
     "etikett": "Regiunea Jämtland Härjedalen.",
     "typ": "organisation",
-    "antal": 3
+    "antal": 7
   },
   "ostersund": {
     "etikett": "Östersund.",
@@ -1652,7 +1652,7 @@
   "jamtland": {
     "etikett": "Jämtland.",
     "typ": "plats",
-    "antal": 2
+    "antal": 6
   },
   "regional-ekonomi": {
     "etikett": "Economie regională.",
@@ -1667,52 +1667,52 @@
   "skatteverket": {
     "etikett": "Agenția Fiscală Suedeză (Skatteverket)",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "pension": {
     "etikett": "Pensie.",
     "typ": "ämne",
-    "antal": 5
+    "antal": 6
   },
   "pensionsmyndigheten": {
     "etikett": "Agenția Națională pentru Pensii.",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "konsument": {
     "etikett": "Consumator.",
     "typ": "ämne",
-    "antal": 5
+    "antal": 6
   },
   "konsumentverket": {
     "etikett": "Autoritatea pentru Consumatori.",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "halsa": {
     "etikett": "Sănătate.",
     "typ": "ämne",
-    "antal": 5
+    "antal": 6
   },
   "folkhalsomyndigheten": {
     "etikett": "Agenția Națională de Sănătate Publică.",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "krisberedskap": {
     "etikett": "Pregătirea pentru situații de criză\n\n*   **Ce este pregătirea pentru situații de criză?** Este un proces prin care indivizii, organizațiile și societatea în ansamblu se pregătesc să facă față unor evenimente neprevăzute și potențial dăunătoare.\n*   **De ce este importantă pregătirea pentru situații de criză?** Ajută la minimizarea impactului negativ al crizelor, protejând viețile, bunurile și mediul înconjurător.\n*   **Ce tipuri de crize pot exista?** Pot include dezastre naturale (inundații, cutremure), atacuri teroriste, pandemii, accidente industriale sau crize economice.\n*   **Cum ne putem pregăti pentru situații de criză?**\n\n    *   Informați-vă despre riscurile din zona dumneavoastră.\n    *   Elaborați un plan de urgență pentru familie și loc de muncă.\n    *   Asigurați-vă că aveți suficiente provizii (apă, alimente, medicamente).\n    *   Învățați tehnici de prim ajutor.\n    *   Participați la exerciții de simulare a crizelor.\n\n*   **Unde putem găsi informații suplimentare?** Puteți consulta site-uri web specializate, cum ar fi [URL invalid removed], sau contacta autoritățile locale.",
     "typ": "ämne",
-    "antal": 5
+    "antal": 6
   },
   "civilt-forsvar": {
     "etikett": "Apărare civilă.",
     "typ": "ämne",
-    "antal": 5
+    "antal": 6
   },
   "mcf": {
     "etikett": "Agenția pentru protecție civilă.",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "socialforsakring": {
     "etikett": "Asigurări sociale.",
@@ -1727,7 +1727,7 @@
   "arbetsmarknad": {
     "etikett": "Piața muncii.",
     "typ": "ämne",
-    "antal": 3
+    "antal": 4
   },
   "arbetsformedlingen": {
     "etikett": "Agenția Națională pentru Ocuparea Forței de Muncă.",
@@ -1853,5 +1853,35 @@
     "etikett": "Inscripție funerară.",
     "typ": "ämne",
     "antal": 8
+  },
+  "skola": {
+    "etikett": "Școală.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "miljozoner": {
+    "etikett": "Zone ecologice.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "alexandra-mattsson": {
+    "etikett": "Alexandra Mattsson",
+    "typ": "person",
+    "antal": 1
+  },
+  "varberg": {
+    "etikett": "Varberg.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "offentlig-forvaltning": {
+    "etikett": "Administrație publică.",
+    "typ": "ämne",
+    "antal": 3
+  },
+  "kollektivtrafik": {
+    "etikett": "Transport public.",
+    "typ": "ämne",
+    "antal": 1
   }
 }

@@ -97,7 +97,7 @@
   "eu-ratt": {
     "etikett": "Diritto dell'UE",
     "typ": "ämne",
-    "antal": 8
+    "antal": 10
   },
   "straffratt": {
     "etikett": "Diritto penale",
@@ -112,7 +112,7 @@
   "ekonomi": {
     "etikett": "Economia",
     "typ": "ämne",
-    "antal": 17
+    "antal": 19
   },
   "sverige": {
     "etikett": "Svezia",
@@ -182,7 +182,7 @@
   "skatt": {
     "etikett": "Tasse.",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "finansmarknad": {
     "etikett": "Mercato finanziario.",
@@ -287,17 +287,17 @@
   "stockholm": {
     "etikett": "Stockholm.",
     "typ": "plats",
-    "antal": 12
+    "antal": 16
   },
   "kommunfullmaktige": {
     "etikett": "Consiglio comunale.",
     "typ": "organisation",
-    "antal": 93
+    "antal": 95
   },
   "kommunpolitik": {
     "etikett": "Politica comunale.",
     "typ": "ämne",
-    "antal": 8
+    "antal": 9
   },
   "trafik": {
     "etikett": "Traffico.",
@@ -312,17 +312,17 @@
   "kommunstyrelsen": {
     "etikett": "La giunta comunale.",
     "typ": "organisation",
-    "antal": 71
+    "antal": 73
   },
   "kommunal-forvaltning": {
     "etikett": "Amministrazione comunale.",
     "typ": "ämne",
-    "antal": 7
+    "antal": 8
   },
   "karin-wanngard": {
     "etikett": "Karin Wanngård",
     "typ": "person",
-    "antal": 2
+    "antal": 4
   },
   "digitalisering": {
     "etikett": "Digitalizzazione.",
@@ -332,17 +332,17 @@
   "ecb": {
     "etikett": "Banca Centrale Europea.",
     "typ": "organisation",
-    "antal": 9
+    "antal": 10
   },
   "eu": {
     "etikett": "Unione Europea.",
     "typ": "organisation",
-    "antal": 20
+    "antal": 28
   },
   "eu-kommissionen": {
     "etikett": "La Commissione Europea.",
     "typ": "organisation",
-    "antal": 14
+    "antal": 20
   },
   "alingsas": {
     "etikett": "Alingsås",
@@ -367,7 +367,7 @@
   "protokoll": {
     "etikett": "Verbale.",
     "typ": "ämne",
-    "antal": 8
+    "antal": 9
   },
   "ulf-rapp": {
     "etikett": "Ulf Rapp",
@@ -387,7 +387,7 @@
   "kommunalpolitik": {
     "etikett": "Politica comunale.",
     "typ": "ämne",
-    "antal": 6
+    "antal": 10
   },
   "ange": {
     "etikett": "Ånge.",
@@ -582,7 +582,7 @@
   "orebro": {
     "etikett": "Örebro.",
     "typ": "plats",
-    "antal": 5
+    "antal": 9
   },
   "orsa": {
     "etikett": "Orsa",
@@ -997,7 +997,7 @@
   "karlskoga": {
     "etikett": "Karlskoga.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "tillvaxt-och-tillsynsnamndens": {
     "etikett": "Commissione per la crescita e la supervisione.",
@@ -1397,22 +1397,22 @@
   "reg-halland": {
     "etikett": "Regione Halland.",
     "typ": "organisation",
-    "antal": 7
+    "antal": 11
   },
   "regionfullmaktige": {
     "etikett": "Membri dell'assemblea regionale.",
     "typ": "organisation",
-    "antal": 13
+    "antal": 19
   },
   "regionstyrelsen": {
     "etikett": "Consiglio regionale.",
     "typ": "organisation",
-    "antal": 9
+    "antal": 15
   },
   "reg-orebro": {
     "etikett": "Regione di Örebro län.",
     "typ": "organisation",
-    "antal": 6
+    "antal": 10
   },
   "reg-vastmanland": {
     "etikett": "Regione del Västerbotten.",
@@ -1422,7 +1422,7 @@
   "reg-jamtland": {
     "etikett": "Regione di Jämtland Härjedalen.",
     "typ": "organisation",
-    "antal": 7
+    "antal": 11
   },
   "reg-blekinge": {
     "etikett": "Regione Blekinge.",
@@ -1612,27 +1612,27 @@
   "region-halland": {
     "etikett": "Regione Halland.",
     "typ": "organisation",
-    "antal": 3
+    "antal": 7
   },
   "halland": {
     "etikett": "Halland.",
     "typ": "plats",
-    "antal": 3
+    "antal": 7
   },
   "regionalpolitik": {
     "etikett": "Politica regionale.",
     "typ": "ämne",
-    "antal": 3
+    "antal": 10
   },
   "region-orebro-lan": {
     "etikett": "Regione di Örebro län.",
     "typ": "organisation",
-    "antal": 3
+    "antal": 7
   },
   "sjukvard": {
     "etikett": "Assistenza sanitaria.",
     "typ": "ämne",
-    "antal": 4
+    "antal": 9
   },
   "klimat-och-miljo": {
     "etikett": "Clima e ambiente.\n\n*   Informazioni sul clima e sull'ambiente.\n*   Dati relativi al clima e all'ambiente.\n*   Notizie riguardanti il clima e l'ambiente.\n*   Articoli dedicati al clima e all'ambiente.\n*   Risorse utili per approfondire la conoscenza del clima e dell'ambiente.",
@@ -1642,12 +1642,12 @@
   "regional-forvaltning": {
     "etikett": "Amministrazione regionale.",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "region-jamtland-harjedalen": {
     "etikett": "Regione di Jämtland Härjedalen.",
     "typ": "organisation",
-    "antal": 3
+    "antal": 7
   },
   "ostersund": {
     "etikett": "Östersund.",
@@ -1657,7 +1657,7 @@
   "jamtland": {
     "etikett": "Jämtland.",
     "typ": "plats",
-    "antal": 2
+    "antal": 6
   },
   "regional-ekonomi": {
     "etikett": "Economia regionale.",
@@ -1667,52 +1667,52 @@
   "skatteverket": {
     "etikett": "Agenzia delle Entrate.",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "pension": {
     "etikett": "Pensione.",
     "typ": "ämne",
-    "antal": 5
+    "antal": 6
   },
   "pensionsmyndigheten": {
     "etikett": "L'Agenzia Pensioni.",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "konsument": {
     "etikett": "Consumatore.",
     "typ": "ämne",
-    "antal": 5
+    "antal": 6
   },
   "konsumentverket": {
     "etikett": "Autorità dei consumatori.",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "halsa": {
     "etikett": "Salute.",
     "typ": "ämne",
-    "antal": 5
+    "antal": 6
   },
   "folkhalsomyndigheten": {
     "etikett": "Agenzia svedese per la salute pubblica.",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "krisberedskap": {
     "etikett": "Preparazione alle emergenze\n\n*   **Definizione:** La preparazione alle emergenze si riferisce all'insieme di misure e azioni volte a prevenire, mitigare e gestire le conseguenze di eventi imprevisti che possono mettere a rischio la sicurezza delle persone, l'ambiente o le infrastrutture.\n\n*   **Obiettivi:**\n    *   Ridurre al minimo i danni causati da eventi avversi.\n    *   Proteggere vite umane e proprietà.\n    *   Garantire la continuità dei servizi essenziali.\n    *   Favorire una rapida ripresa dopo un'emergenza.\n\n*   **Aree di intervento:**\n    *   Prevenzione: identificazione e riduzione dei rischi potenziali.\n    *   Mitigazione: adozione di misure per ridurre la vulnerabilità.\n    *   Preparazione: pianificazione, formazione e simulazioni.\n    *   Risposta: attivazione delle risorse e coordinamento degli interventi durante un'emergenza.\n    *   Ripristino: ripristino delle normali condizioni di vita e attività dopo un'emergenza.\n\n*   **Esempi di emergenze:**\n    *   Incendi\n    *   Inondazioni\n    *   Terremoti\n    *   Tempeste\n    *   Attacchi terroristici\n    *   Pandemie\n\n*   **Risorse utili:**\n    *   Siti web governativi dedicati alla protezione civile.\n    *   Manuali e guide sulla preparazione alle emergenze.\n    *   Corsi di formazione per operatori e cittadini.\n    *   App per smartphone con informazioni e avvisi in caso di emergenza.\n\n*   **Consigli pratici:**\n    *   Informarsi sui rischi presenti nella propria zona.\n    *   Preparare un piano di emergenza familiare.\n    *   Assemblare una scorta di beni di prima necessità (acqua, cibo, medicinali).\n    *   Imparare le tecniche di primo soccorso.\n    *   Partecipare a esercitazioni di protezione civile.",
     "typ": "ämne",
-    "antal": 5
+    "antal": 6
   },
   "civilt-forsvar": {
     "etikett": "Difesa civile.",
     "typ": "ämne",
-    "antal": 5
+    "antal": 6
   },
   "mcf": {
     "etikett": "L'Agenzia per la Protezione Civile.",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "socialforsakring": {
     "etikett": "Sicurezza sociale.",
@@ -1727,7 +1727,7 @@
   "arbetsmarknad": {
     "etikett": "Mercato del lavoro.",
     "typ": "ämne",
-    "antal": 3
+    "antal": 4
   },
   "arbetsformedlingen": {
     "etikett": "L'agenzia per l'impiego.",
@@ -1853,5 +1853,35 @@
     "etikett": "Iscrizione rupestre.",
     "typ": "ämne",
     "antal": 8
+  },
+  "skola": {
+    "etikett": "Scuola.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "miljozoner": {
+    "etikett": "Zone a traffico limitato (ZTL).",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "alexandra-mattsson": {
+    "etikett": "Alexandra Mattsson",
+    "typ": "person",
+    "antal": 1
+  },
+  "varberg": {
+    "etikett": "Varberg.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "offentlig-forvaltning": {
+    "etikett": "Amministrazione pubblica.",
+    "typ": "ämne",
+    "antal": 3
+  },
+  "kollektivtrafik": {
+    "etikett": "Trasporto pubblico.",
+    "typ": "ämne",
+    "antal": 1
   }
 }

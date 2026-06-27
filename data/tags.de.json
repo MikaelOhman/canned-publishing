@@ -167,7 +167,7 @@
   "eu-ratt": {
     "etikett": "EU-Recht",
     "typ": "ämne",
-    "antal": 8
+    "antal": 10
   },
   "statligt-agande": {
     "etikett": "Staatliche Eigentumsverhältnisse",
@@ -177,7 +177,7 @@
   "ekonomi": {
     "etikett": "Wirtschaftswissenschaften",
     "typ": "ämne",
-    "antal": 19
+    "antal": 21
   },
   "sverige": {
     "etikett": "Schweden",
@@ -247,7 +247,7 @@
   "skatt": {
     "etikett": "Steuern",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "finansmarknad": {
     "etikett": "Finanzmarkt",
@@ -347,17 +347,17 @@
   "stockholm": {
     "etikett": "Stockholm",
     "typ": "plats",
-    "antal": 12
+    "antal": 16
   },
   "kommunfullmaktige": {
     "etikett": "Gemeindevertretung",
     "typ": "organisation",
-    "antal": 93
+    "antal": 95
   },
   "kommunpolitik": {
     "etikett": "Kommunalpolitik.",
     "typ": "ämne",
-    "antal": 8
+    "antal": 9
   },
   "trafik": {
     "etikett": "Verkehr.",
@@ -372,17 +372,17 @@
   "kommunstyrelsen": {
     "etikett": "Der Gemeinderat.",
     "typ": "organisation",
-    "antal": 71
+    "antal": 73
   },
   "kommunal-forvaltning": {
     "etikett": "Kommunale Verwaltung.",
     "typ": "ämne",
-    "antal": 7
+    "antal": 8
   },
   "karin-wanngard": {
     "etikett": "Karin Wanngård",
     "typ": "person",
-    "antal": 2
+    "antal": 4
   },
   "digitalisering": {
     "etikett": "Digitalisierung\n\n(Followed by the original text, which I assume contains details about digitalisierung, but is not provided here.)",
@@ -392,17 +392,17 @@
   "ecb": {
     "etikett": "Europäische Zentralbank.",
     "typ": "organisation",
-    "antal": 9
+    "antal": 10
   },
   "eu": {
     "etikett": "Die Europäische Union (EU) ist ein politischer und wirtschaftlicher Zusammenschluss von Staaten in Europa. Sie wurde gegründet, um Frieden, Wohlstand und Zusammenarbeit in Europa zu fördern.\n\nDie EU hat folgende Ziele:\n\n*   Förderung des Friedens, der Sicherheit und der Zusammenarbeit in Europa.\n*   Etablierung eines gemeinsamen Marktes mit freiem Waren-, Personen-, Dienstleistungs- und Kapitalverkehr.\n*   Förderung einer nachhaltigen Entwicklung, die sowohl wirtschaftliche als auch soziale und ökologische Aspekte berücksichtigt.\n*   Stärkung der Rolle Europas in der Welt.\n\nDie EU besteht derzeit aus 27 Mitgliedstaaten. Die wichtigsten Institutionen der EU sind:\n\n*   Europäisches Parlament\n*   Europäischer Rat\n*   Europäische Kommission\n*   Europäischer Gerichtshof\n*   Europäische Zentralbank\n\nDie EU hat eine Reihe von Richtlinien und Verordnungen erlassen, die in allen Mitgliedstaaten gelten. Diese Richtlinien und Verordnungen umfassen Bereiche wie:\n\n*   Umwelt\n*   Landwirtschaft\n*   Verbraucherschutz\n*   Wirtschaft\n*   Recht\n\nDie EU ist ein wichtiger Akteur in der Welt und spielt eine wichtige Rolle bei der Bewältigung globaler Herausforderungen.\n\nWeitere Informationen finden Sie auf der Website der Europäischen Union: [URL einfügen]",
     "typ": "organisation",
-    "antal": 20
+    "antal": 28
   },
   "eu-kommissionen": {
     "etikett": "Die Europäische Kommission.",
     "typ": "organisation",
-    "antal": 14
+    "antal": 20
   },
   "alingsas": {
     "etikett": "Alingsås\n\n(No further context was provided, so a simple translation of the name is all that's possible.)",
@@ -427,7 +427,7 @@
   "protokoll": {
     "etikett": "Protokoll\n\n(Hier folgt der Text, den Sie übersetzen möchten. Bitte geben Sie den Text ein.)",
     "typ": "ämne",
-    "antal": 8
+    "antal": 9
   },
   "ulf-rapp": {
     "etikett": "Ulf Rapp",
@@ -447,7 +447,7 @@
   "kommunalpolitik": {
     "etikett": "Kommunalpolitik",
     "typ": "ämne",
-    "antal": 6
+    "antal": 10
   },
   "ange": {
     "etikett": "Ånge",
@@ -642,7 +642,7 @@
   "orebro": {
     "etikett": "Örebro\n\n(No translation needed, as it's a proper noun - a city name.)",
     "typ": "plats",
-    "antal": 5
+    "antal": 9
   },
   "orsa": {
     "etikett": "Orsa",
@@ -1057,7 +1057,7 @@
   "karlskoga": {
     "etikett": "Karlskoga",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "tillvaxt-och-tillsynsnamndens": {
     "etikett": "Der Ausschuss für Wachstum und Aufsicht.",
@@ -1457,22 +1457,22 @@
   "reg-halland": {
     "etikett": "Region Halland",
     "typ": "organisation",
-    "antal": 7
+    "antal": 11
   },
   "regionfullmaktige": {
     "etikett": "Regionalrät*innen.",
     "typ": "organisation",
-    "antal": 13
+    "antal": 19
   },
   "regionstyrelsen": {
     "etikett": "Regionalrat.",
     "typ": "organisation",
-    "antal": 9
+    "antal": 15
   },
   "reg-orebro": {
     "etikett": "Region Örebro län",
     "typ": "organisation",
-    "antal": 6
+    "antal": 10
   },
   "reg-vastmanland": {
     "etikett": "Region Västmanland",
@@ -1482,7 +1482,7 @@
   "reg-jamtland": {
     "etikett": "Region Jämtland Härjedalen.",
     "typ": "organisation",
-    "antal": 7
+    "antal": 11
   },
   "reg-blekinge": {
     "etikett": "Region Blekinge",
@@ -1672,27 +1672,27 @@
   "region-halland": {
     "etikett": "Region Halland",
     "typ": "organisation",
-    "antal": 3
+    "antal": 7
   },
   "halland": {
     "etikett": "Halland",
     "typ": "plats",
-    "antal": 3
+    "antal": 7
   },
   "regionalpolitik": {
     "etikett": "Regionale Politik\n\nHier sind einige Informationen zur regionalen Politik:\n\n*   **Definition:** Regionale Politik umfasst Maßnahmen und Strategien, die darauf abzielen, regionale Ungleichheiten zu verringern und die wirtschaftliche und soziale Entwicklung in bestimmten Regionen eines Landes oder einer Europäischen Union zu fördern.\n\n*   **Ziele:** Zu den Zielen der regionalen Politik gehören:\n    *   Förderung des Wirtschaftswachstums in benachteiligten Regionen.\n    *   Schaffung von Arbeitsplätzen und Verbesserung der Beschäftigungssituation.\n    *   Verbesserung der Infrastruktur, wie z.B. Straßen, Schienenwege und Telekommunikationsnetze.\n    *   Förderung des sozialen Zusammenhalts und der Chancengleichheit.\n    *   Erhaltung und Förderung der kulturellen Vielfalt.\n\n*   **Instrumente:** Die regionalen Politikmaßnahmen umfassen eine Vielzahl von Instrumenten, darunter:\n    *   Finanzielle Unterstützung in Form von Zuschüssen und Krediten.\n    *   Förderprogramme für Unternehmen und Investitionen.\n    *   Beratungs- und Schulungsangebote.\n    *   Initiativen zur Förderung der regionalen Zusammenarbeit.\n\n*   **Beispiele:** Beispiele für regionale Politikmaßnahmen sind:\n    *   Förderung des Tourismus in ländlichen Gebieten.\n    *   Unterstützung von Innovationsprojekten in bestimmten Regionen.\n    *   Ausbau der Infrastruktur in strukturschwachen Gebieten.\n\n*   **Kritik:** Die regionale Politik wird manchmal kritisiert, weil sie zu einer Verteilung von Ressourcen führen kann, die nicht immer effizient ist oder zu Abhängigkeiten führen kann.",
     "typ": "ämne",
-    "antal": 3
+    "antal": 10
   },
   "region-orebro-lan": {
     "etikett": "Region Örebro län",
     "typ": "organisation",
-    "antal": 3
+    "antal": 7
   },
   "sjukvard": {
     "etikett": "Gesundheitswesen",
     "typ": "ämne",
-    "antal": 4
+    "antal": 9
   },
   "klimat-och-miljo": {
     "etikett": "Klima und Umwelt\n\n*   Hier finden Sie Informationen zu Themen wie:\n    *   Klimawandel\n    *   Umweltschutz\n    *   Nachhaltigkeit\n*   Wir setzen uns für eine nachhaltige Entwicklung ein, die sowohl ökologische als auch soziale Aspekte berücksichtigt.\n*   Unsere Projekte umfassen unter anderem:\n    *   Förderung erneuerbarer Energien\n    *   Reduzierung von Emissionen\n    *   Schutz der Artenvielfalt\n*   Weitere Informationen finden Sie auf unserer Website: [URL]",
@@ -1702,12 +1702,12 @@
   "regional-forvaltning": {
     "etikett": "Regionale Verwaltung.",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "region-jamtland-harjedalen": {
     "etikett": "Region Jämtland Härjedalen.",
     "typ": "organisation",
-    "antal": 3
+    "antal": 7
   },
   "ostersund": {
     "etikett": "Östersund.",
@@ -1717,7 +1717,7 @@
   "jamtland": {
     "etikett": "Jämtland\n\n(No further context was provided, so a simple translation of the name is all that can be offered.)",
     "typ": "plats",
-    "antal": 2
+    "antal": 6
   },
   "regional-ekonomi": {
     "etikett": "Regionale Wirtschaft.",
@@ -1727,52 +1727,52 @@
   "skatteverket": {
     "etikett": "Das schwedische Finanzamt (Skatteverket).",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "pension": {
     "etikett": "Rente.",
     "typ": "ämne",
-    "antal": 5
+    "antal": 6
   },
   "pensionsmyndigheten": {
     "etikett": "Die Pensionsbehörde.",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "konsument": {
     "etikett": "Verbraucher.",
     "typ": "ämne",
-    "antal": 5
+    "antal": 6
   },
   "konsumentverket": {
     "etikett": "Verbraucherzentrale",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "halsa": {
     "etikett": "Gesundheit.",
     "typ": "ämne",
-    "antal": 5
+    "antal": 6
   },
   "folkhalsomyndigheten": {
     "etikett": "Das schwedische Gesundheitsinstitut (Folkhälsomyndigheten).",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "krisberedskap": {
     "etikett": "Krisbereitschaft\n\nHier sind einige wichtige Aspekte der Krisenbereitschaft:\n\n*   **Planung:** Entwicklung detaillierter Notfallpläne für verschiedene Szenarien.\n*   **Schulung:** Durchführung regelmäßiger Schulungen und Übungen, um das Personal auf Notfallsituationen vorzubereiten.\n*   **Kommunikation:** Einrichtung klarer Kommunikationswege innerhalb der Organisation und mit externen Partnern.\n*   **Ressourcen:** Sicherstellung des Vorhandenseins notwendiger Ressourcen wie Ausrüstung, Materialien und Personal.\n*   **Risikobewertung:** Durchführung regelmäßiger Risikobewertungen, um potenzielle Bedrohungen zu identifizieren und geeignete Maßnahmen zu ergreifen.\n*   **Kontinuitätsmanagement:** Implementierung von Strategien zur Aufrechterhaltung kritischer Geschäftsprozesse im Falle einer Krise.\n*   **Zusammenarbeit:** Aufbau von Partnerschaften mit anderen Organisationen, um bei Bedarf Unterstützung zu erhalten.\n*   **Überprüfung und Aktualisierung:** Regelmäßige Überprüfung und Aktualisierung der Notfallpläne und -verfahren, um sicherzustellen, dass sie relevant und effektiv bleiben.",
     "typ": "ämne",
-    "antal": 5
+    "antal": 6
   },
   "civilt-forsvar": {
     "etikett": "Zivilverteidigung.",
     "typ": "ämne",
-    "antal": 5
+    "antal": 6
   },
   "mcf": {
     "etikett": "Die Behörde für zivilen Schutz.",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "socialforsakring": {
     "etikett": "Sozialversicherung",
@@ -1787,7 +1787,7 @@
   "arbetsmarknad": {
     "etikett": "Arbeitsmarkt",
     "typ": "ämne",
-    "antal": 3
+    "antal": 4
   },
   "arbetsformedlingen": {
     "etikett": "Die Arbeitsagentur.",
@@ -1913,5 +1913,35 @@
     "etikett": "Inschrift.",
     "typ": "ämne",
     "antal": 8
+  },
+  "skola": {
+    "etikett": "Schule",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "miljozoner": {
+    "etikett": "Umweltzonen\n\nHier finden Sie Informationen zu Umweltzonen:\n\n*   **Was sind Umweltzonen?**\n    Umweltzonen sind Gebiete in Städten, in denen bestimmte Fahrzeuge aufgrund ihrer Schadstoffemissionenfahrverboten unterliegen. Ziel ist es, die Luftqualität zu verbessern und die Gesundheit der Bevölkerung zu schützen.\n\n*   **Wo gibt es Umweltzonen?**\n    Umweltzonen gibt es hauptsächlich in größeren Städten in Deutschland. Eine aktuelle Liste der Städte mit Umweltzonen finden Sie auf den folgenden Webseiten:\n\n    *   [Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz](https://www.bmu.de/)\n    *   [Umweltbundesamt](https://www.umweltbundesamt.de/)\n\n*   **Welche Fahrzeuge dürfen in Umweltzonen fahren?**\n    In Umweltzonen dürfen nur Fahrzeuge mit einer bestimmten Umweltplakette (meistens \"grüne Plakette\") oder ohne Plakettenpflicht fahren. Die genauen Bestimmungen sind von Stadt zu Stadt unterschiedlich.\n\n*   **Wie erhalte ich eine Umweltplakette?**\n    Eine Umweltplakette erhalten Sie in der Regel bei einer Hauptuntersuchung (HU) oder bei einer amtlich anerkannten Prüfstelle. Dafür benötigen Sie den Fahrzeugschein und gegebenenfalls einen Nachweis über die Schadstoffemissionen Ihres Fahrzeugs.\n\n*   **Was passiert, wenn ich gegen ein Fahrverbot verstoße?**\n    Wer in einer Umweltzone ohne die erforderliche Umweltplakette fährt, riskiert ein Bußgeld.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "alexandra-mattsson": {
+    "etikett": "Alexandra Mattsson",
+    "typ": "person",
+    "antal": 1
+  },
+  "varberg": {
+    "etikett": "Varberg\n\n(No further context was provided, so a simple translation of the name is all that can be offered.)",
+    "typ": "plats",
+    "antal": 1
+  },
+  "offentlig-forvaltning": {
+    "etikett": "Öffentliche Verwaltung",
+    "typ": "ämne",
+    "antal": 3
+  },
+  "kollektivtrafik": {
+    "etikett": "Öffentlicher Nahverkehr.",
+    "typ": "ämne",
+    "antal": 1
   }
 }

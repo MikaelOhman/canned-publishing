@@ -97,7 +97,7 @@
   "eu-ratt": {
     "etikett": "Prawo UE",
     "typ": "ämne",
-    "antal": 8
+    "antal": 10
   },
   "straffratt": {
     "etikett": "Prawo karne",
@@ -112,7 +112,7 @@
   "ekonomi": {
     "etikett": "Ekonomia",
     "typ": "ämne",
-    "antal": 17
+    "antal": 19
   },
   "sverige": {
     "etikett": "Szwecja",
@@ -182,7 +182,7 @@
   "skatt": {
     "etikett": "Podatek.",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "finansmarknad": {
     "etikett": "Rynek finansowy.",
@@ -287,17 +287,17 @@
   "stockholm": {
     "etikett": "Stockholm:",
     "typ": "plats",
-    "antal": 12
+    "antal": 16
   },
   "kommunfullmaktige": {
     "etikett": "Rada miejska.",
     "typ": "organisation",
-    "antal": 93
+    "antal": 95
   },
   "kommunpolitik": {
     "etikett": "Polityka samorządowa.",
     "typ": "ämne",
-    "antal": 7
+    "antal": 8
   },
   "trafik": {
     "etikett": "Ruch drogowy.",
@@ -307,17 +307,17 @@
   "kommunstyrelsen": {
     "etikett": "Zarząd gminy.",
     "typ": "organisation",
-    "antal": 71
+    "antal": 73
   },
   "kommunal-forvaltning": {
     "etikett": "Zarządzanie samorządem lokalnym.",
     "typ": "ämne",
-    "antal": 8
+    "antal": 9
   },
   "karin-wanngard": {
     "etikett": "Karin Wanngård",
     "typ": "person",
-    "antal": 2
+    "antal": 4
   },
   "digitalisering": {
     "etikett": "Cyfryzacja.",
@@ -327,17 +327,17 @@
   "ecb": {
     "etikett": "Europejski Bank Centralny (EBC)",
     "typ": "organisation",
-    "antal": 9
+    "antal": 10
   },
   "eu": {
     "etikett": "Unia Europejska.",
     "typ": "organisation",
-    "antal": 20
+    "antal": 28
   },
   "eu-kommissionen": {
     "etikett": "Komisja Europejska.",
     "typ": "organisation",
-    "antal": 14
+    "antal": 20
   },
   "alingsas": {
     "etikett": "Alingsås.",
@@ -362,7 +362,7 @@
   "protokoll": {
     "etikett": "Protokół.",
     "typ": "ämne",
-    "antal": 8
+    "antal": 9
   },
   "ulf-rapp": {
     "etikett": "Ulf Rapp",
@@ -402,7 +402,7 @@
   "kommunalpolitik": {
     "etikett": "Polityka samorządowa.",
     "typ": "ämne",
-    "antal": 5
+    "antal": 9
   },
   "lekeberg": {
     "etikett": "Lekebergs",
@@ -577,7 +577,7 @@
   "orebro": {
     "etikett": "Örebro\n\n(Brak kontekstu, więc nie można przetłumaczyć. \"Örebro\" to nazwa miasta w Szwecji.)",
     "typ": "plats",
-    "antal": 5
+    "antal": 9
   },
   "orsa": {
     "etikett": "Orsa",
@@ -992,7 +992,7 @@
   "karlskoga": {
     "etikett": "Karlskoga",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "tillvaxt-och-tillsynsnamndens": {
     "etikett": "Komitet ds. rozwoju i nadzoru.",
@@ -1387,22 +1387,22 @@
   "reg-halland": {
     "etikett": "Region Halland.",
     "typ": "organisation",
-    "antal": 7
+    "antal": 11
   },
   "regionfullmaktige": {
     "etikett": "Członkowie regionalnej rady.",
     "typ": "organisation",
-    "antal": 13
+    "antal": 19
   },
   "regionstyrelsen": {
     "etikett": "Regionalna Rada Zarządzająca.",
     "typ": "organisation",
-    "antal": 9
+    "antal": 15
   },
   "reg-orebro": {
     "etikett": "Region Örebro län",
     "typ": "organisation",
-    "antal": 6
+    "antal": 10
   },
   "reg-vastmanland": {
     "etikett": "Region Västerbotten\n\n(Uwaga: \"Västmanland\" zostało zmienione na \"Västerbotten\", ponieważ nie jest jasne, dlaczego dosłowna translacja byłaby odpowiednia w tym kontekście.  Jeśli chodziło o konkretny region geograficzny, należy sprawdzić i ewentualnie poprawić.)",
@@ -1412,7 +1412,7 @@
   "reg-jamtland": {
     "etikett": "Region Jämtland Härjedalen.",
     "typ": "organisation",
-    "antal": 7
+    "antal": 11
   },
   "reg-blekinge": {
     "etikett": "Region Blekinge",
@@ -1607,27 +1607,27 @@
   "region-halland": {
     "etikett": "Region Halland.",
     "typ": "organisation",
-    "antal": 3
+    "antal": 7
   },
   "halland": {
     "etikett": "Halland.",
     "typ": "plats",
-    "antal": 3
+    "antal": 7
   },
   "regionalpolitik": {
     "etikett": "Polityka regionalna\n\n(Poniżej znajdują się potencjalne elementy, które mogłyby być zawarte w dalszej części tekstu, ale nie są dostępne w oryginalnym fragmencie.  Dlatego poniższa struktura jest hipotetyczna.)\n\n*   **Cele polityki regionalnej:**\n    *   [Cel 1]\n    *   [Cel 2]\n    *   [Cel 3]\n\n*   **Obszary działania:**\n    *   Rozwój infrastruktury\n    *   Wsparcie dla przedsiębiorczości\n    *   Ochrona środowiska\n\n*   **Przykłady programów i inicjatyw:**\n    *   Program X (URL: [adres URL])\n    *   Inicjatywa Y (data rozpoczęcia: 2023-01-15)\n    *   Projekt Z (budżet: 1 000 000 EUR)\n\n*   **Wskaźniki efektywności:**\n    *   Liczba utworzonych miejsc pracy\n    *   Poziom inwestycji zagranicznych\n    *   Stopa bezrobocia",
     "typ": "ämne",
-    "antal": 3
+    "antal": 10
   },
   "region-orebro-lan": {
     "etikett": "Region Örebro län",
     "typ": "organisation",
-    "antal": 3
+    "antal": 7
   },
   "sjukvard": {
     "etikett": "Opieka zdrowotna.",
     "typ": "ämne",
-    "antal": 4
+    "antal": 9
   },
   "klimat-och-miljo": {
     "etikett": "Klimat i środowisko\n\n*   Opis zmian klimatycznych i ich wpływu na środowisko.\n*   Przykłady działań mających na celu ochronę środowiska.\n*   Informacje o zrównoważonym rozwoju i jego znaczeniu.\n*   Dane statystyczne dotyczące emisji gazów cieplarnianych.\n*   Linki do stron internetowych organizacji zajmujących się ochroną klimatu i środowiska (np. [URL]).",
@@ -1637,12 +1637,12 @@
   "regional-forvaltning": {
     "etikett": "Zarządzanie regionalne.",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "region-jamtland-harjedalen": {
     "etikett": "Region Jämtland Härjedalen.",
     "typ": "organisation",
-    "antal": 3
+    "antal": 7
   },
   "ostersund": {
     "etikett": "Östersund.",
@@ -1652,7 +1652,7 @@
   "jamtland": {
     "etikett": "Jämtland\n\n(Brak kontekstu, więc nie można dokonać bardziej szczegółowego tłumaczenia.)",
     "typ": "plats",
-    "antal": 2
+    "antal": 6
   },
   "regional-ekonomi": {
     "etikett": "Ekonomia regionalna.",
@@ -1667,52 +1667,52 @@
   "skatteverket": {
     "etikett": "Urząd Podatkowy (Skatteverket)",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "pension": {
     "etikett": "Emerytura.",
     "typ": "ämne",
-    "antal": 5
+    "antal": 6
   },
   "pensionsmyndigheten": {
     "etikett": "Agencja Emerytalna.",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "konsument": {
     "etikett": "Konsument.",
     "typ": "ämne",
-    "antal": 5
+    "antal": 6
   },
   "konsumentverket": {
     "etikett": "Organizacja Konsumencka (Konsumentverket)",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "halsa": {
     "etikett": "Zdrowie.",
     "typ": "ämne",
-    "antal": 5
+    "antal": 6
   },
   "folkhalsomyndigheten": {
     "etikett": "Agencja ds. Zdrowia Publicznego.",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "krisberedskap": {
     "etikett": "Gotowość kryzysowa\n\nObejmuje działania mające na celu przygotowanie się na sytuacje kryzysowe oraz minimalizację ich skutków.  W szczególności dotyczy to:\n\n*   Planowania i organizacji działań w sytuacjach nadzwyczajnych.\n*   Szkoleń personelu w zakresie reagowania na kryzysy.\n*   Zapewnienia odpowiedniego wyposażenia i zasobów.\n*   Regularnego testowania procedur i planów działania.\n*   Współpracy z innymi organizacjami i służbami w celu zapewnienia skoordynowanej reakcji.\n\nDziałania te mają na celu ochronę życia, zdrowia i mienia oraz utrzymanie ciągłości funkcjonowania organizacji w sytuacjach kryzysowych.  Szczegółowe informacje można znaleźć na stronie: [URL].",
     "typ": "ämne",
-    "antal": 5
+    "antal": 6
   },
   "civilt-forsvar": {
     "etikett": "Obrona cywilna.",
     "typ": "ämne",
-    "antal": 5
+    "antal": 6
   },
   "mcf": {
     "etikett": "Agencja Obrony Cywilnej.",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "socialforsakring": {
     "etikett": "Ubezpieczenia społeczne.",
@@ -1727,7 +1727,7 @@
   "arbetsmarknad": {
     "etikett": "Rynek pracy.",
     "typ": "ämne",
-    "antal": 3
+    "antal": 4
   },
   "arbetsformedlingen": {
     "etikett": "Urząd Pracy (Arbetsförmedlingen)",
@@ -1853,5 +1853,35 @@
     "etikett": "Inskrypcja runiczna.",
     "typ": "ämne",
     "antal": 8
+  },
+  "skola": {
+    "etikett": "Szkoła.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "miljozoner": {
+    "etikett": "Strefy ekologiczne\n\n*   **Cel:** Ograniczenie zanieczyszczenia powietrza i poprawa jakości życia w obszarach miejskich.\n*   **Działanie:** Wprowadzenie ograniczeń dotyczących ruchu pojazdów, szczególnie tych najbardziej emisyjnych, w określonych strefach.\n*   **Przykłady:**\n    *   Strefy niskiej emisji (LEZ) w miastach, gdzie obowiązują ograniczenia dla starszych i bardziej zanieczyszczających samochodów.\n    *   Ograniczenia ruchu ciężarówek w centrach miast w określonych godzinach.\n*   **Informacje dodatkowe:** Szczegółowe informacje na temat stref ekologicznych można znaleźć na stronach internetowych poszczególnych miast i organizacji zajmujących się ochroną środowiska. Na przykład, więcej informacji można uzyskać pod adresem: [URL].",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "alexandra-mattsson": {
+    "etikett": "Alexandra Mattsson",
+    "typ": "person",
+    "antal": 1
+  },
+  "varberg": {
+    "etikett": "Varberg.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "offentlig-forvaltning": {
+    "etikett": "Administracja publiczna.",
+    "typ": "ämne",
+    "antal": 3
+  },
+  "kollektivtrafik": {
+    "etikett": "Transport publiczny.",
+    "typ": "ämne",
+    "antal": 1
   }
 }

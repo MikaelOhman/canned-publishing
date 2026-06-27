@@ -97,7 +97,7 @@
   "eu-ratt": {
     "etikett": "EU-recht",
     "typ": "ämne",
-    "antal": 9
+    "antal": 11
   },
   "straffratt": {
     "etikett": "Strafrecht",
@@ -112,7 +112,7 @@
   "ekonomi": {
     "etikett": "Economie",
     "typ": "ämne",
-    "antal": 17
+    "antal": 19
   },
   "sverige": {
     "etikett": "Zweden",
@@ -182,7 +182,7 @@
   "skatt": {
     "etikett": "Belasting.",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "finansmarknad": {
     "etikett": "Financiële markt.",
@@ -287,17 +287,17 @@
   "stockholm": {
     "etikett": "Stockholm.",
     "typ": "plats",
-    "antal": 12
+    "antal": 16
   },
   "kommunfullmaktige": {
     "etikett": "Gemeenteraad.",
     "typ": "organisation",
-    "antal": 93
+    "antal": 95
   },
   "kommunpolitik": {
     "etikett": "Gemeentepolitiek.",
     "typ": "ämne",
-    "antal": 8
+    "antal": 9
   },
   "trafik": {
     "etikett": "Verkeer.",
@@ -312,17 +312,17 @@
   "kommunstyrelsen": {
     "etikett": "Het college van burgemeester en wethouders.",
     "typ": "organisation",
-    "antal": 71
+    "antal": 73
   },
   "kommunal-forvaltning": {
     "etikett": "Gemeentelijke administratie.",
     "typ": "ämne",
-    "antal": 7
+    "antal": 8
   },
   "karin-wanngard": {
     "etikett": "Karin Wanngård",
     "typ": "person",
-    "antal": 2
+    "antal": 4
   },
   "digitalisering": {
     "etikett": "Digitalisering\n\n(De tekst die hierna volgt is niet beschikbaar, dus ik kan deze niet vertalen. Geef de tekst die je vertaald wilt hebben.)",
@@ -332,17 +332,17 @@
   "ecb": {
     "etikett": "ECB",
     "typ": "organisation",
-    "antal": 9
+    "antal": 10
   },
   "eu": {
     "etikett": "EU",
     "typ": "organisation",
-    "antal": 20
+    "antal": 28
   },
   "eu-kommissionen": {
     "etikett": "De Europese Commissie.",
     "typ": "organisation",
-    "antal": 14
+    "antal": 20
   },
   "alingsas": {
     "etikett": "Alingsås",
@@ -367,7 +367,7 @@
   "protokoll": {
     "etikett": "Notulen.",
     "typ": "ämne",
-    "antal": 8
+    "antal": 9
   },
   "ulf-rapp": {
     "etikett": "Ulf Rapp",
@@ -387,7 +387,7 @@
   "kommunalpolitik": {
     "etikett": "Gemeentelijke politiek.",
     "typ": "ämne",
-    "antal": 6
+    "antal": 10
   },
   "ange": {
     "etikett": "Ånge",
@@ -582,7 +582,7 @@
   "orebro": {
     "etikett": "Örebro",
     "typ": "plats",
-    "antal": 5
+    "antal": 9
   },
   "orsa": {
     "etikett": "Orsa",
@@ -997,7 +997,7 @@
   "karlskoga": {
     "etikett": "Karlskoga",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "tillvaxt-och-tillsynsnamndens": {
     "etikett": "De commissie voor groei en toezicht.",
@@ -1397,22 +1397,22 @@
   "reg-halland": {
     "etikett": "Regio Halland.",
     "typ": "organisation",
-    "antal": 7
+    "antal": 11
   },
   "regionfullmaktige": {
     "etikett": "Regionale vertegenwoordigers.",
     "typ": "organisation",
-    "antal": 13
+    "antal": 19
   },
   "regionstyrelsen": {
     "etikett": "Regionale bestuursraad.",
     "typ": "organisation",
-    "antal": 9
+    "antal": 15
   },
   "reg-orebro": {
     "etikett": "Regio Örebro län.",
     "typ": "organisation",
-    "antal": 6
+    "antal": 10
   },
   "reg-vastmanland": {
     "etikett": "Regio Västergötland.",
@@ -1422,7 +1422,7 @@
   "reg-jamtland": {
     "etikett": "Regio Jämtland Härjedalen.",
     "typ": "organisation",
-    "antal": 7
+    "antal": 11
   },
   "reg-blekinge": {
     "etikett": "Regio Blekinge.",
@@ -1612,27 +1612,27 @@
   "region-halland": {
     "etikett": "Regio Halland.",
     "typ": "organisation",
-    "antal": 3
+    "antal": 7
   },
   "halland": {
     "etikett": "Halland",
     "typ": "plats",
-    "antal": 3
+    "antal": 7
   },
   "regionalpolitik": {
     "etikett": "Regionale politiek.\n\n*   Doelstellingen:\n    *   Bevorderen van economische groei en werkgelegenheid in regio's.\n    *   Verminderen van regionale verschillen.\n    *   Verbeteren van de infrastructuur en voorzieningen.\n*   Instrumenten:\n    *   Subsidies voor bedrijven en projecten.\n    *   Investeringen in infrastructuur.\n    *   Ondersteuning voor lokale initiatieven.\n*   Voorbeelden:\n    *   De Europese regionalefondsen.\n    *   Nationale programma's voor economische ontwikkeling.\n    *   Regionale ontwikkelingsmaatschappijen.\n*   Meer informatie:\n    *   Website: www.example.com (voorbeeld)\n    *   Contactpersoon: Jan Jansen, 0123456789, jan.jansen@email.com (voorbeeld)\n    *   Datum laatste update: 2023-10-27 (voorbeeld)",
     "typ": "ämne",
-    "antal": 3
+    "antal": 10
   },
   "region-orebro-lan": {
     "etikett": "Regio Örebro län.",
     "typ": "organisation",
-    "antal": 3
+    "antal": 7
   },
   "sjukvard": {
     "etikett": "Zorgsector",
     "typ": "ämne",
-    "antal": 4
+    "antal": 9
   },
   "klimat-och-miljo": {
     "etikett": "Klimaat en milieu.\n\n*   [Naam], [getal] [datum]\n*   [URL]",
@@ -1642,12 +1642,12 @@
   "regional-forvaltning": {
     "etikett": "Regionale administratie.",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "region-jamtland-harjedalen": {
     "etikett": "Regio Jämtland Härjedalen.",
     "typ": "organisation",
-    "antal": 3
+    "antal": 7
   },
   "ostersund": {
     "etikett": "Östersund.",
@@ -1657,7 +1657,7 @@
   "jamtland": {
     "etikett": "Jämtland\n\n(Geen verdere context beschikbaar om een betekenisvolle vertaling te geven.)",
     "typ": "plats",
-    "antal": 2
+    "antal": 6
   },
   "regional-ekonomi": {
     "etikett": "Regionale economie.",
@@ -1667,52 +1667,52 @@
   "skatteverket": {
     "etikett": "Belastingdienst",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "pension": {
     "etikett": "Pensioen.",
     "typ": "ämne",
-    "antal": 5
+    "antal": 6
   },
   "pensionsmyndigheten": {
     "etikett": "Pensioenautoriteit",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "konsument": {
     "etikett": "Consument.",
     "typ": "ämne",
-    "antal": 5
+    "antal": 6
   },
   "konsumentverket": {
     "etikett": "Het Consumentenbond.",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "halsa": {
     "etikett": "Gezondheid.",
     "typ": "ämne",
-    "antal": 5
+    "antal": 6
   },
   "folkhalsomyndigheten": {
     "etikett": "Het Zweedse Agentschap voor Volksgezondheid.",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "krisberedskap": {
     "etikett": "Crisisparaatheid\n\nHieronder vindt u een overzicht van belangrijke aspecten van crisisparaatheid:\n\n*   **Risicoanalyse:** Identificeer potentiële bedreigingen en kwetsbaarheden.\n*   **Noodplannen:** Ontwikkel gedetailleerde plannen voor verschillende soorten crises.\n*   **Communicatie:** Zorg voor effectieve communicatiekanalen met alle betrokken partijen.\n*   **Training en oefeningen:** Regelmatige trainingen en oefeningen om de paraatheid te verbeteren.\n*   **Voorraden:** Houd voldoende essentiële voorraden aan, zoals voedsel, water en medische benodigdheden.\n*   **Samenwerking:** Werk samen met andere organisaties en instanties om de crisisparaatheid te versterken.\n*   **Juridische aspecten:** Zorg ervoor dat alle maatregelen in overeenstemming zijn met relevante wet- en regelgeving.\n*   **Financiële planning:** Reserveer voldoende middelen voor crisisbeheersing.\n*   **Psychologische ondersteuning:** Bied psychologische ondersteuning aan getroffenen en hulpverleners.\n*   **Evaluatie en verbetering:** Evalueer regelmatig de crisisparaatheid en identificeer mogelijkheden tot verbetering.",
     "typ": "ämne",
-    "antal": 5
+    "antal": 6
   },
   "civilt-forsvar": {
     "etikett": "Burgerlijke defensie.",
     "typ": "ämne",
-    "antal": 5
+    "antal": 6
   },
   "mcf": {
     "etikett": "De Dienst voor Burgerbescherming.",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "socialforsakring": {
     "etikett": "Sociale zekerheid.",
@@ -1727,7 +1727,7 @@
   "arbetsmarknad": {
     "etikett": "Arbeidsmarkt",
     "typ": "ämne",
-    "antal": 3
+    "antal": 4
   },
   "arbetsformedlingen": {
     "etikett": "De arbeidsbemiddeling.",
@@ -1853,5 +1853,35 @@
     "etikett": "Inschrijving.",
     "typ": "ämne",
     "antal": 8
+  },
+  "skola": {
+    "etikett": "School.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "miljozoner": {
+    "etikett": "Milieuzones\n\nHieronder vindt u informatie over milieuzones.\n\n*   **Wat is een milieuzone?** Een milieuzone is een gebied waar bepaalde voertuigen met een hoge uitstoot niet mogen rijden of parkeren. Dit om de luchtkwaliteit te verbeteren en de gezondheid van omwonenden te beschermen.\n*   **Waarom zijn er milieuzones?** Milieuzones worden ingesteld om de emissies van schadelijke stoffen, zoals fijnstof en stikstofoxiden, te verminderen. Deze stoffen kunnen leiden tot luchtwegproblemen, hart- en vaatziekten en andere gezondheidsproblemen.\n*   **Welke voertuigen zijn toegestaan in een milieuzone?** In de meeste milieuzones mogen alleen voertuigen met een bepaald milieukeurmerk (zoals een sticker) rijden. De exacte regels verschillen per zone.\n*   **Hoe weet ik of mijn auto toegang heeft tot een milieuzone?** U kunt dit controleren op de website van de gemeente waar de milieuzone is gelegen, of via een online tool die aangeeft welke voertuigen toegestaan zijn.\n*   **Wat gebeurt er als ik met een niet-toegestaan voertuig in een milieuzone rij?** U kunt een boete krijgen.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "alexandra-mattsson": {
+    "etikett": "Alexandra Mattsson",
+    "typ": "person",
+    "antal": 1
+  },
+  "varberg": {
+    "etikett": "Varberg.",
+    "typ": "plats",
+    "antal": 1
+  },
+  "offentlig-forvaltning": {
+    "etikett": "Openbare sector",
+    "typ": "ämne",
+    "antal": 3
+  },
+  "kollektivtrafik": {
+    "etikett": "Openbaar vervoer.",
+    "typ": "ämne",
+    "antal": 1
   }
 }
