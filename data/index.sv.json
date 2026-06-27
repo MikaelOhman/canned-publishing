@@ -582,6 +582,42 @@
     }
   },
   {
+    "id": "eu-32026R1397",
+    "typ": "omvarld",
+    "titel": "KOMMISSIONENS GENOMFÖRANDEFÖRORDNING (EU) 2026/1397",
+    "ingress": "EU uppdaterar listan över myndigheter som ansvarar för underhållsbidrag (pengar till barn) i flera länder, bland annat Finland. Detta gör det tydligare vilka kontor som ska hantera dessa ärenden.",
+    "datum": "2026-06-25",
+    "kalla": "EU (EUR-Lex)",
+    "kalla_url": "https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32026R1397",
+    "taggar": [
+      "eu",
+      "eu-ratt"
+    ],
+    "relevans": {
+      "b_vard": 3,
+      "lokaler": 3,
+      "barn": 3,
+      "skild": 5
+    }
+  },
+  {
+    "id": "eu-32026R1398",
+    "typ": "omvarld",
+    "titel": "KOMMISSIONENS GENOMFÖRANDEFÖRORDNING (EU) 2026/1398",
+    "ingress": "EU har uppdaterat listan över organisationer som får kontrollera och godkänna ekologiska produkter från länder utanför EU. Detta gör det tydligare vilka företag som får ge certifikat för att produkter ska få säljas som ekologiska i Europa.",
+    "datum": "2026-06-25",
+    "kalla": "EU (EUR-Lex)",
+    "kalla_url": "https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32026R1398",
+    "taggar": [
+      "eu",
+      "eu-ratt"
+    ],
+    "relevans": {
+      "b_industri": 3,
+      "import": 3
+    }
+  },
+  {
     "id": "ecb-2026-06-24-ecb-reports-on-progress-toward",
     "typ": "omvarld",
     "titel": "ECB rapporterar om framstegen mot införandet av euron.",
