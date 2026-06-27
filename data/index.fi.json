@@ -38,6 +38,27 @@
     }
   },
   {
+    "id": "marknad-omxs30",
+    "typ": "marknad",
+    "titel": "Markets today: OMXS30",
+    "ingress": "Stockholm's large-cap index OMXS30 is at 3 154 (−1.2%) versus the previous trading day.",
+    "datum": "2026-06-27",
+    "kalla": "Nasdaq Stockholm",
+    "kalla_url": "https://www.nasdaq.com/european-market-activity",
+    "taggar": [
+      "ekonomi",
+      "borsen"
+    ],
+    "relevans": {
+      "sparare": 7,
+      "pensionssparare": 6,
+      "b_finans": 6,
+      "konsument": 3,
+      "lantagare": 3,
+      "foretagare": 3
+    }
+  },
+  {
     "id": "tri-2026-06-26-ukraina-40me",
     "typ": "nyhet",
     "titel": "Suomi lisää tukeaan Ukrainan puolustukselle 40 miljoonalla eurolla.",
@@ -122,27 +143,6 @@
       "enkalligt"
     ],
     "tri": true
-  },
-  {
-    "id": "marknad-omxs30",
-    "typ": "marknad",
-    "titel": "Pörssin tilanne tänään: OMXS30.",
-    "ingress": "Helsingin pörssin suurten yritysten indeksi OMXS30 on nyt 3 181 (+0,1 %), mikä on verrattuna edelliseen kaupankäyntipäivään.",
-    "datum": "2026-06-26",
-    "kalla": "Nasdaq Stockholm",
-    "kalla_url": "https://www.nasdaq.com/european-market-activity",
-    "taggar": [
-      "ekonomi",
-      "borsen"
-    ],
-    "relevans": {
-      "sparare": 7,
-      "pensionssparare": 6,
-      "b_finans": 6,
-      "konsument": 3,
-      "lantagare": 3,
-      "foretagare": 3
-    }
   },
   {
     "id": "mcf-2026-06-26-ansok-om-uppdragsersattning-fo",
