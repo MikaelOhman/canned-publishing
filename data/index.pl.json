@@ -20084,5 +20084,51 @@
     "sakerhet": "belagt",
     "konsensus": "samsyn",
     "flaggor": []
+  },
+  {
+    "id": "hist-q550662",
+    "typ": "historia",
+    "titel": "Johannes Magnus",
+    "ingress": "Johannes Magnus był szwedzkim księdzem i historykiem, który żył w XVI wieku. Jest najbardziej znany z autorstwa obszernej książki o historii Szwecji, która wywarła wpływ na postrzeganie tego kraju przez wiele stuleci.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Johannes_Magnus",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "b_it": 3,
+      "infrastruktur": 3,
+      "husdjur": 3,
+      "batagare": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1544",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q381010",
+    "typ": "historia",
+    "titel": "Olaus Petri",
+    "ingress": "Olaus Petri był ważną postacią w historii Szwecji, który przyczynił się do zmiany zasad kościelnych oraz przetłumaczył Biblię na język szwedzki.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Olaus_Petri",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "epok": "vasatiden",
+    "tid": "d. 1552",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
   }
 ]

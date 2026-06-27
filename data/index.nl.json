@@ -20073,5 +20073,51 @@
     "sakerhet": "belagt",
     "konsensus": "samsyn",
     "flaggor": []
+  },
+  {
+    "id": "hist-q550662",
+    "typ": "historia",
+    "titel": "Johannes Magnus",
+    "ingress": "Johannes Magnus was een Zweedse priester en historicus die leefde in de 16e eeuw. Hij staat vooral bekend om het schrijven van een uitgebreid boek over de geschiedenis van Zweden, dat de perceptie van Zweden beïnvloedde gedurende honderden",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Johannes_Magnus",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "b_it": 3,
+      "infrastruktur": 3,
+      "husdjur": 3,
+      "batagare": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1544",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q381010",
+    "typ": "historia",
+    "titel": "Olaus Petri",
+    "ingress": "Olaus Petri was een belangrijk figuur in de Zweedse geschiedenis die hielp bij het veranderen van de kerkelijke regels en de Bijbel vertaalde naar het Zweeds.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Olaus_Petri",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "epok": "vasatiden",
+    "tid": "d. 1552",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
   }
 ]

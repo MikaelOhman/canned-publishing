@@ -20103,5 +20103,51 @@
     "sakerhet": "belagt",
     "konsensus": "samsyn",
     "flaggor": []
+  },
+  {
+    "id": "hist-q550662",
+    "typ": "historia",
+    "titel": "Johannes Magnus",
+    "ingress": "Johannes Magnus war ein schwedischer Priester und Historiker, der im 16. Jahrhundert lebte. Er ist vor allem bekannt dafür, ein umfangreiches Werk über die schwedische Geschichte verfasst zu haben, das die Wahrnehmung Schwedens für mehrere",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Johannes_Magnus",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "b_it": 3,
+      "infrastruktur": 3,
+      "husdjur": 3,
+      "batagare": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1544",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q381010",
+    "typ": "historia",
+    "titel": "Olaus Petri",
+    "ingress": "Olaus Petri war eine bedeutende Persönlichkeit in der schwedischen Geschichte, die dazu beitrug, die Regeln der Kirche zu ändern und die Bibel ins Schwedische zu übersetzen.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Olaus_Petri",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "epok": "vasatiden",
+    "tid": "d. 1552",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
   }
 ]

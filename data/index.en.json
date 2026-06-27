@@ -20185,5 +20185,51 @@
     "sakerhet": "belagt",
     "konsensus": "samsyn",
     "flaggor": []
+  },
+  {
+    "id": "hist-q550662",
+    "typ": "historia",
+    "titel": "Johannes Magnus was a Swedish clergyman, historian, and writer. He is best known for his work \"Historia om de nordiske folken\" (History of the Nordic Peoples), which is an important source for understanding medieval Scandinavia.\n\nHere are some key facts about Johannes Magnus:\n\n*   **Born:** c. 1540\n*   **Died:** 1603\n*   **Occupation:** Clergyman, historian, writer\n*   **Notable work:** \"Historia om de nordiske folken\" (History of the Nordic Peoples)\n\nMagnus's historical account provides valuable insights into the cultures, customs, and beliefs of the people who lived in Scandinavia during that era. His work is considered a significant contribution to our understanding of medieval history.",
+    "ingress": "Johannes Magnus was a Swedish priest and historian who lived during the 16th century. He is best known for writing a comprehensive book on Swedish history, which significantly influenced perceptions of Sweden for centuries.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Johannes_Magnus",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "b_it": 3,
+      "infrastruktur": 3,
+      "husdjur": 3,
+      "batagare": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1544",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q381010",
+    "typ": "historia",
+    "titel": "Olaus Petri",
+    "ingress": "Olaus Petri was a significant figure in Swedish history who played a key role in reforming church regulations and translating the Bible into Swedish.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Olaus_Petri",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "epok": "vasatiden",
+    "tid": "d. 1552",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
   }
 ]

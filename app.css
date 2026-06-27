@@ -139,6 +139,14 @@ select:focus-visible,.search input:focus-visible,.chip:focus-visible,.card:focus
 .runa-lbl{flex:0 0 11em;font-size:.7rem;text-transform:uppercase;letter-spacing:.04em;color:var(--txt3);font-weight:700;padding-top:2px}
 .runa-txt{flex:1 1 14em;font-family:"Noto Sans Runic","Segoe UI Historic",ui-monospace,monospace;font-size:.95rem;line-height:1.5;word-break:break-word}
 [dir="rtl"] .runtext{border-left:none;border-right:4px solid #b8860b}
+/* About-sidans källista + ingress */
+#about .lead{font-size:1.08rem;line-height:1.6;color:var(--txt);font-weight:500;margin-bottom:1.2em}
+#about h3{font-size:.98rem;margin:1em 0 .3em}
+.kl-land{margin:.5em 0 .1em;color:var(--txt2)}
+.kl-lista{margin:.2em 0 .6em;padding-left:1.1em;line-height:1.5}
+.kl-lista li{margin:.15em 0}
+.kl-agare{color:var(--txt3);font-size:.86em}
+.kl-stat{display:inline-block;font-size:.72rem;font-weight:700;color:#c0392b;background:color-mix(in srgb,#c0392b 14%,transparent);padding:1px 6px;border-radius:5px;white-space:nowrap}
 /* förklaringsrad under varje nivå i "Vem beslutar"-filtret */
 .opt-typ{align-items:flex-start}
 .opt-typ .lbl{display:flex;flex-direction:column;line-height:1.25}

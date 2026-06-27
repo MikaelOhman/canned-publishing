@@ -19882,5 +19882,56 @@
     "sakerhet": "belagt",
     "konsensus": "samsyn",
     "flaggor": []
+  },
+  {
+    "id": "hist-q235659",
+    "typ": "historia",
+    "titel": "گونیلا بیلکه",
+    "ingress": "گونیا بیلکه، ملکه سوئد بود که در سال ۱۵۸۵ با پادشاه یوهان سوم ازدواج کرد. او برای کشور اهمیت داشت زیرا به پادشاه کمک کرد تا مسیری پروتستانتی‌تر را در کلیسا انتخاب کند.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Gunilla_Bielke",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "b_vard": 3,
+      "sambo_gift": 3,
+      "glesbygd": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1597",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q550662",
+    "typ": "historia",
+    "titel": "یوهانس ماگنوس",
+    "ingress": "یوهانس ماگنوس، یک روحانی و مورخ سوئدی بود که در قرن پانزدهم زندگی می‌کرد. او بیشتر به خاطر نگارش کتاب بزرگی درباره تاریخ سوئد شناخته می‌شود، کتابی که تأثیر بسزایی بر نگرش مردم به سوئد برای صدها سال داشت.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Johannes_Magnus",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "b_it": 3,
+      "infrastruktur": 3,
+      "husdjur": 3,
+      "batagare": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1544",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
   }
 ]
