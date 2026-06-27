@@ -22,7 +22,7 @@ const KORT_KLASS = {lagforslag:'lagforslag', kommunbeslut:'kommunbeslut', omvarl
 const FLAGG_IK = {saknad:'⚠️', omtvistat:'🔀', logik:'❗', tidsavstand:'🕰️'};
 const EPOK_ORDER = ['stenalder','bronsalder','jarnalder','vendeltid','vikingatid','medeltid','vasatiden','stormaktstiden','frihetstiden','1800talet','1900talet'];
 const SIT_FRI = new Set(['historia','nyhet']);   // undantagna situationsfiltret (allmänt innehåll, ej personberoende)
-const LAND_FLAGGA = {SE:'🇸🇪',NO:'🇳🇴',DK:'🇩🇰',FI:'🇫🇮',DE:'🇩🇪',US:'🇺🇸',CN:'🇨🇳',QA:'🇶🇦',BR:'🇧🇷',RU:'🇷🇺'};
+const LAND_FLAGGA = {SE:'🇸🇪',NO:'🇳🇴',DK:'🇩🇰',FI:'🇫🇮',DE:'🇩🇪',US:'🇺🇸',CN:'🇨🇳',QA:'🇶🇦',BR:'🇧🇷',RU:'🇷🇺',IN:'🇮🇳'};
 
 const UIDEF = {sub:"Multilingual news",search_label:"Search",search_ph:"Type a word…",language:"Language",
   settings:"Display",theme:"Theme",textsize:"Text size",font:"Font",
@@ -431,6 +431,18 @@ function renderTrov(a, full){
   const ko=a.konsensus?`<span class="trov-meta">${esc((t.konsensus||{}).label||'')}: <b>${esc(lbl('konsensus',a.konsensus))}</b></span>`:'';
   return `<div class="trov">${sak}${kl}${ko}${flaggor?`<div class="trov-flaggor">${flaggor}</div>`:''}</div>`;
 }
+/* Runinskrift: visar translitterering + normalisering VERBATIM (språkneutral
+   primärkälle-artefakt), bara etiketterna lokaliseras. */
+function renderRuntext(a){
+  const r=a.runtext; if(!r||(!r.translit&&!r.normalisering)) return '';
+  const u=ui().runtext||{};
+  const rad=(lbl,v)=>v?`<div class="runa-rad"><span class="runa-lbl">${esc(lbl)}</span><span class="runa-txt">${esc(v)}</span></div>`:'';
+  return `<div class="runtext">
+    <div class="runa-h">ᚱ ${esc(u.rubrik||'Inskriften')}${r.signum?` · ${esc(r.signum)}`:''}</div>
+    ${rad(u.translit||'Translitterering', r.translit)}
+    ${rad(u.normalisering||'Normalisering (fornnordiska)', r.normalisering)}
+  </div>`;
+}
 /* Vinkel-klass för lutnings-färg (parsar lutningstexten). */
 function leanKlass(txt){ txt=(txt||'').toLowerCase();
   if(txt.includes('vänster')) return txt.includes('center')?'l-cv':'l-v';
@@ -578,7 +590,7 @@ async function openArticle(id){
     <div class="source"><span class="lbl">${esc(u.kalla)}</span> <b>${esc(a.kalla||'—')}</b>
       ${a.kalla_url?`<a href="${esc(a.kalla_url)}" target="_blank" rel="noopener">${esc(u.original)} ${esc(a.kalla||'')} →</a>`:''}
       <span style="font-size:.78rem;color:var(--txt3);flex-basis:100%">${esc(a.typ==='historia'?(a.tid||''):(a.datum||''))}</span></div>
-    ${renderJamforelse(a)}${tldr}${latt}${full}
+    ${renderRuntext(a)}${renderJamforelse(a)}${tldr}${latt}${full}
     ${a.kalla_url?`<div class="source-foot">${esc(u.original)} <a href="${esc(a.kalla_url)}" target="_blank" rel="noopener">${esc(a.kalla||a.kalla_url)}</a>.</div>`:''}`;
   el.querySelector('.back').addEventListener('click',()=>{ location.hash=''; });
   LISTVY.forEach(s=>$(s).classList.add('hidden')); $('#about').classList.add('hidden'); closeDrawer();

@@ -22,7 +22,7 @@
   "svensk-historia": {
     "etikett": "Ruotsin historia:\n\n*   **Aikajana:**\n    *   [Päivämäärä] - [Tapahtuma]\n    *   [Päivämäärä] - [Tapahtuma]\n    *   [Päivämäärä] - [Tapahtuma]\n\n*   **Keskeiset henkilöt:**\n    *   [Nimi]: [Lyhyt kuvaus]\n    *   [Nimi]: [Lyhyt kuvaus]\n    *   [Nimi]: [Lyhyt kuvaus]\n\n*   **Tärkeitä paikkoja:**\n    *   [Paikan nimi]: [Lyhyt kuvaus]\n    *   [Paikan nimi]: [Lyhyt kuvaus]\n    *   [Paikan nimi]: [Lyhyt kuvaus]\n\n*   **Lisätietoja:**\n    *   Verkkosivusto: [URL]",
     "typ": "ämne",
-    "antal": 28
+    "antal": 70
   },
   "vikingatid": {
     "etikett": "Viikinkiaika\n\n*   Aikakausi: Noin 800-1066 jaa.\n*   Alue: Pohjois-Eurooppa, erityisesti Skandinavia.\n*   Merkittäviä tapahtumia: Laajentuminen, kaupankäynti, ryöstöt, kulttuurivaihto.\n*   Tärkeitä paikkoja: Kaupungit kuten Birka (Ruotsissa), Hedeby (Tanskassa) ja Dublin (Irlannissa).\n*   Lisätietoja: [URL ei annettu]",
@@ -52,7 +52,7 @@
   "medeltid": {
     "etikett": "Keskiaika\n\n*   Aikakausi: Noin vuodet 476–1492.\n*   Tärkeimmät tapahtumat:\n    *   Länsi-Rooman valtakunnan kaatuminen.\n    *   Feodalismia.\n    *   Kristinuskon vaikutuksen kasvu.\n    *   Kaupunginvaltiot ja kaupankäynnin kehitys.\n*   Lisätietoja: [www.example.com](www.example.com)",
     "typ": "epok",
-    "antal": 1
+    "antal": 43
   },
   "vasatiden": {
     "etikett": "Pronssikausi",
@@ -1963,5 +1963,10 @@
     "etikett": "Krim",
     "typ": "plats",
     "antal": 1
+  },
+  "historisk-person": {
+    "etikett": "Historiallinen henkilö.",
+    "typ": "ämne",
+    "antal": 42
   }
 }

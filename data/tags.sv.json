@@ -1837,7 +1837,7 @@
   "svensk-historia": {
     "etikett": "Svensk historia",
     "typ": "ämne",
-    "antal": 28
+    "antal": 71
   },
   "vikingatid": {
     "etikett": "Vikingatiden",
@@ -1867,7 +1867,7 @@
   "medeltid": {
     "etikett": "Medeltiden",
     "typ": "epok",
-    "antal": 1
+    "antal": 44
   },
   "vasatiden": {
     "etikett": "Vasatiden",
@@ -1963,5 +1963,10 @@
     "etikett": "Katastrof",
     "typ": "ämne",
     "antal": 1
+  },
+  "historisk-person": {
+    "etikett": "Historisk person",
+    "typ": "ämne",
+    "antal": 43
   }
 }

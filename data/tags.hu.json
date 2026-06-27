@@ -1737,7 +1737,7 @@
   "svensk-historia": {
     "etikett": "Svéd történelem:\n\n*   [Lista vagy bekezdés a svéd törtélemmel kapcsolatban]",
     "typ": "ämne",
-    "antal": 28
+    "antal": 70
   },
   "vikingatid": {
     "etikett": "A vikingkor.",
@@ -1767,7 +1767,7 @@
   "medeltid": {
     "etikett": "A középkor.",
     "typ": "epok",
-    "antal": 1
+    "antal": 43
   },
   "vasatiden": {
     "etikett": "A vaskor időszak.",
@@ -1843,5 +1843,10 @@
     "etikett": "Katasztrófa.",
     "typ": "ämne",
     "antal": 1
+  },
+  "historisk-person": {
+    "etikett": "Történelmi személyiség.",
+    "typ": "ämne",
+    "antal": 42
   }
 }

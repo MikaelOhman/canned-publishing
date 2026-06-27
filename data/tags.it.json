@@ -1737,7 +1737,7 @@
   "svensk-historia": {
     "etikett": "Storia svedese.\n\n(Followed by any lists or paragraphs that would normally follow this title in a document about Swedish history.)",
     "typ": "ämne",
-    "antal": 28
+    "antal": 70
   },
   "vikingatid": {
     "etikett": "L'era vichinga.",
@@ -1767,7 +1767,7 @@
   "medeltid": {
     "etikett": "Il Medioevo\n\n*   Un periodo storico che va dal V al XV secolo.\n*   Caratterizzato da un'economia agricola e da una società feudale.\n*   Importanti sviluppi culturali e artistici, come la nascita delle università e lo sviluppo dell'architettura gotica.\n*   Eventi significativi includono le Crociate, la Peste Nera e il Rinascimento.\n*   Per maggiori informazioni, visitare il sito web: [URL non fornito].",
     "typ": "epok",
-    "antal": 1
+    "antal": 43
   },
   "vasatiden": {
     "etikett": "L'epoca di Vasatiden.",
@@ -1843,5 +1843,10 @@
     "etikett": "Disastro.",
     "typ": "ämne",
     "antal": 1
+  },
+  "historisk-person": {
+    "etikett": "Figura storica.",
+    "typ": "ämne",
+    "antal": 42
   }
 }

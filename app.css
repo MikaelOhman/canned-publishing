@@ -132,6 +132,13 @@ select:focus-visible,.search input:focus-visible,.chip:focus-visible,.card:focus
 [dir="rtl"] .jamf{border-left:none;border-right:4px solid var(--ac)}
 [dir="rtl"] .jamf-kalla{border-left:none;border-right:3px solid var(--lean,var(--txt3))}
 [dir="rtl"] .jamf-block ul{padding-left:0;padding-right:20px}
+/* Runinskrift: primärkälle-artefakten (translitterering + normalisering) verbatim */
+.runtext{margin:14px 0;padding:12px 16px;background:var(--bg3);border-radius:12px;border-left:4px solid #b8860b}
+.runa-h{font-weight:700;font-size:.92rem;margin-bottom:8px;letter-spacing:.02em}
+.runa-rad{display:flex;gap:10px;margin:5px 0;flex-wrap:wrap}
+.runa-lbl{flex:0 0 11em;font-size:.7rem;text-transform:uppercase;letter-spacing:.04em;color:var(--txt3);font-weight:700;padding-top:2px}
+.runa-txt{flex:1 1 14em;font-family:"Noto Sans Runic","Segoe UI Historic",ui-monospace,monospace;font-size:.95rem;line-height:1.5;word-break:break-word}
+[dir="rtl"] .runtext{border-left:none;border-right:4px solid #b8860b}
 /* förklaringsrad under varje nivå i "Vem beslutar"-filtret */
 .opt-typ{align-items:flex-start}
 .opt-typ .lbl{display:flex;flex-direction:column;line-height:1.25}
