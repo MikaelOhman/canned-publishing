@@ -357,12 +357,12 @@
   "stockholm": {
     "etikett": "Stockholms",
     "typ": "plats",
-    "antal": 14
+    "antal": 16
   },
   "kommunstyrelsen": {
     "etikett": "Kommunstyrelsen",
     "typ": "organisation",
-    "antal": 74
+    "antal": 76
   },
   "kommunallagen": {
     "etikett": "Kommunallagen",
@@ -472,7 +472,7 @@
   "kommunalpolitik": {
     "etikett": "Kommunalpolitik",
     "typ": "ämne",
-    "antal": 7
+    "antal": 9
   },
   "umea": {
     "etikett": "Umeå",
@@ -1707,7 +1707,7 @@
   "karin-wanngard": {
     "etikett": "Karin Wanngård",
     "typ": "person",
-    "antal": 2
+    "antal": 3
   },
   "region-halland": {
     "etikett": "Region Halland",
@@ -1982,6 +1982,11 @@
   "miljozoner": {
     "etikett": "Miljözoner",
     "typ": "ämne",
+    "antal": 1
+  },
+  "alexandra-mattsson": {
+    "etikett": "Alexandra Mattsson",
+    "typ": "person",
     "antal": 1
   }
 }

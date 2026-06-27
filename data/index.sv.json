@@ -7805,6 +7805,24 @@
     }
   },
   {
+    "id": "stockholm-kommunstyrelsen-2026-03-25",
+    "typ": "kommunbeslut",
+    "titel": "Kommunstyrelsen, Stockholms stad 2026-03-25",
+    "ingress": "Stockholms stad har beslutat att gå vidare med byggprojektet i Stadshagen, där det beräknas kosta cirka 1,1 miljarder kronor. De har även godkänt tilläggsavtal för byggprojekt på Lilla Essingen.",
+    "datum": "2026-03-25",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunstyrelsen/mote-2026-03-25",
+    "taggar": [
+      "stockholm",
+      "kommunstyrelsen",
+      "karin-wanngard",
+      "kommunalpolitik"
+    ],
+    "relevans": {
+      "b_bygg": 3
+    }
+  },
+  {
     "id": "HD03226",
     "typ": "lagforslag",
     "titel": "Riksrevisionens rapport om Sidas arbete med det humanitära biståndet",
@@ -8955,6 +8973,27 @@
       "import": 4,
       "b_finans": 3,
       "storforetag": 3
+    }
+  },
+  {
+    "id": "stockholm-kommunstyrelsen-2026-03-11",
+    "typ": "kommunbeslut",
+    "titel": "Kommunstyrelsen, Stockholms stad 2026-03-11",
+    "ingress": "Stockholms stad har tagit beslut om att utreda och planera för tre olika projekt: en samling kring trafik på den östra sidan av staden, fler platser för gatukonst i ytterområdena samt möjligheten att skapa flytande parker i Stockholms vatte",
+    "datum": "2026-03-11",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunstyrelsen/mote-2026-03-11",
+    "taggar": [
+      "stockholm",
+      "kommunstyrelsen",
+      "kommunalpolitik",
+      "alexandra-mattsson"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "glesbygd": 3,
+      "klimat": 3,
+      "kultur": 3
     }
   },
   {
