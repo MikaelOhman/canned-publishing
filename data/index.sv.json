@@ -8063,6 +8063,29 @@
     }
   },
   {
+    "id": "reg-halland-regionstyrelsen-2026-03-18",
+    "typ": "region",
+    "titel": "Regionstyrelsen, Region Halland 2026-03-18",
+    "ingress": "Region Halland planerar för framtida verksamhet, bland annat genom att öppna en ny mottagning för ungas psykiska hälsa i Falkenberg och förbättra akutsjukvård för personer med psykiska besvär.",
+    "datum": "2026-03-18",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionstyrelsen/mote-2026-03-18",
+    "taggar": [
+      "reg-halland",
+      "regionstyrelsen",
+      "region-halland",
+      "halland",
+      "regionalpolitik",
+      "offentlig-forvaltning"
+    ],
+    "relevans": {
+      "b_fastighet": 3,
+      "ung": 3,
+      "kronisk": 8,
+      "psykisk": 3
+    }
+  },
+  {
     "id": "HD03209",
     "typ": "lagforslag",
     "titel": "En snabbare utbyggnad av kriminalvårdsanstalter och häkten",
@@ -10479,6 +10502,32 @@
       "beroende": 3,
       "idrott": 8,
       "kultur": 3
+    }
+  },
+  {
+    "id": "reg-halland-regionstyrelsen-2026-02-11",
+    "typ": "region",
+    "titel": "Regionstyrelsen, Region Halland 2026-02-11",
+    "ingress": "Regionstyrelsen i Halland har tagit beslut om bland annat en fastighetsförsäljning, rivning av en byggnad och bidrag till Teater Halland. De har även svarat på flera förslag som rör vården, exempelvis bättre hjälp för barn och unga samt frå",
+    "datum": "2026-02-11",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionstyrelsen/mote-2026-02-11",
+    "taggar": [
+      "reg-halland",
+      "regionstyrelsen",
+      "region-halland",
+      "halland",
+      "regionalpolitik",
+      "offentlig-forvaltning"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_bygg": 3,
+      "b_fastighet": 5,
+      "lokaler": 3,
+      "barn": 3,
+      "kronisk": 8,
+      "psykisk": 3
     }
   },
   {
@@ -13121,6 +13170,30 @@
     }
   },
   {
+    "id": "reg-halland-regionfullmaktige-2025-10-22",
+    "typ": "region",
+    "titel": "Regionfullmaktige, Region Halland 2025-10-22",
+    "ingress": "Region Halland har tagit beslut om bland annat framtida måltider, ekonomi och vård för barn och unga.",
+    "datum": "2025-10-22",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionfullmaktige/mote-2025-10-22",
+    "taggar": [
+      "reg-halland",
+      "regionfullmaktige",
+      "region-halland",
+      "halland",
+      "regionalpolitik",
+      "varberg"
+    ],
+    "relevans": {
+      "sjuklon": 3,
+      "barn": 3,
+      "sjukskriven": 3,
+      "bil": 3,
+      "kronisk": 8
+    }
+  },
+  {
     "id": "hylte-kommunfullmaktige-2025-10-21",
     "typ": "kommunbeslut",
     "titel": "Kommunfullmäktige, Hylte kommun 2025-10-21",
@@ -14507,6 +14580,29 @@
       "pendlare": 3,
       "kollektiv": 3,
       "kultur": 3
+    }
+  },
+  {
+    "id": "reg-halland-regionfullmaktige-2025-06-18",
+    "typ": "region",
+    "titel": "Regionfullmaktige, Region Halland 2025-06-18",
+    "ingress": "Region Halland har fattat beslut om framtida mål, budgetar och regler för hälso- och sjukvård samt kollektivtrafik.",
+    "datum": "2025-06-18",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionfullmaktige/mote-2025-06-18",
+    "taggar": [
+      "reg-halland",
+      "regionfullmaktige",
+      "region-halland",
+      "halland",
+      "kommunalpolitik"
+    ],
+    "relevans": {
+      "b_grona": 3,
+      "barn": 3,
+      "pendlare": 3,
+      "kollektiv": 3,
+      "kronisk": 8
     }
   },
   {
