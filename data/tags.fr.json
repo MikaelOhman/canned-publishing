@@ -287,12 +287,12 @@
   "stockholm": {
     "etikett": "Stockholm.",
     "typ": "plats",
-    "antal": 16
+    "antal": 18
   },
   "kommunfullmaktige": {
     "etikett": "Conseil municipal.",
     "typ": "organisation",
-    "antal": 95
+    "antal": 98
   },
   "kommunpolitik": {
     "etikett": "Politique municipale.",
@@ -312,7 +312,7 @@
   "kommunstyrelsen": {
     "etikett": "Le conseil municipal.",
     "typ": "organisation",
-    "antal": 73
+    "antal": 76
   },
   "kommunal-forvaltning": {
     "etikett": "Administration municipale.",
@@ -417,12 +417,12 @@
   "malmo": {
     "etikett": "Malmö.",
     "typ": "plats",
-    "antal": 13
+    "antal": 15
   },
   "norrtalje": {
     "etikett": "Norrtälje.",
     "typ": "plats",
-    "antal": 9
+    "antal": 11
   },
   "almhult": {
     "etikett": "Älmhults.",
@@ -1737,7 +1737,7 @@
   "svensk-historia": {
     "etikett": "Histoire suédoise.\n\n[Here, you would insert the content that was originally in Swedish, maintaining the paragraph and list structure, and keeping names, numbers, dates, and URLs unchanged.]",
     "typ": "ämne",
-    "antal": 195
+    "antal": 198
   },
   "vikingatid": {
     "etikett": "L'ère viking.",
@@ -1782,7 +1782,7 @@
   "frihetstiden": {
     "etikett": "L'ère de la liberté.",
     "typ": "epok",
-    "antal": 38
+    "antal": 41
   },
   "1800talet": {
     "etikett": "Le XIXe siècle.",
@@ -1847,7 +1847,7 @@
   "historisk-person": {
     "etikett": "Personne historique.",
     "typ": "ämne",
-    "antal": 159
+    "antal": 162
   },
   "runinskrift": {
     "etikett": "Inscriptions rupestres.",

@@ -10379,6 +10379,22 @@
     }
   },
   {
+    "id": "stockholm-kommunstyrelsen-2026-02-18",
+    "typ": "kommunbeslut",
+    "titel": "College van burgemeesters en wethouders, Gemeente Stockholm, 18 februari 2026.",
+    "ingress": "De gemeente Stockholm heeft verschillende rapporten en voorstellen ontvangen over onderwerpen zoals voedselverspilling, waterstof in het gasnetwerk en toekomstige afvalwaterzuivering.",
+    "datum": "2026-02-18",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunstyrelsen/mote-2026-02-18",
+    "taggar": [
+      "stockholm",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "upphandling": 3
+    }
+  },
+  {
     "id": "HD03141",
     "typ": "lagforslag",
     "titel": "Een nieuwe wapenwet.",
@@ -11080,6 +11096,25 @@
       "f_kommun": 5,
       "fortroendevald": 8,
       "mark_bygglov": 3
+    }
+  },
+  {
+    "id": "norrtalje-kommunstyrelsen-2026-02-02",
+    "typ": "kommunbeslut",
+    "titel": "College van burgemeesters en wethouders, gemeente Norrtälje, 2 februari 2026.",
+    "ingress": "De gemeente Norrtälje heeft een digitale dienst aangeschaft voor 71.820 Zweedse kronen, die mensen helpt om minder eenzaam te zijn.",
+    "datum": "2026-02-02",
+    "kalla": "Norrtälje kommun",
+    "kalla_url": "https://forum.norrtalje.se/committees/kommunstyrelsen/mote-2026-02-02",
+    "taggar": [
+      "norrtalje",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "b_vard": 3,
+      "b_it": 3,
+      "upphandling": 3,
+      "anhorigvardare": 3
     }
   },
   {
@@ -12270,6 +12305,28 @@
     }
   },
   {
+    "id": "stockholm-kommunfullmaktige-2025-12-01",
+    "typ": "kommunbeslut",
+    "titel": "Gemeenteraad, Stad Stockholm, 1 december 2025.",
+    "ingress": "De gemeente Stockholm heeft antwoorden ontvangen op verschillende vragen over onderwerpen zoals de sociale dienstverlening, het parkeren van elektrische fietsen en het woningbeleid.",
+    "datum": "2025-12-01",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunfullmaktige/mote-2025-12-01",
+    "taggar": [
+      "stockholm",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_fastighet": 3,
+      "pensionar": 3,
+      "arbetssokande": 3,
+      "bil": 3,
+      "beroende": 3,
+      "lantagare": 3,
+      "otrygg": 3
+    }
+  },
+  {
     "id": "HD0369",
     "typ": "lagforslag",
     "titel": "Verbeterd regelgeving over de belasting van bossen.",
@@ -12314,6 +12371,25 @@
       "ung_vuxen": 6,
       "arbetssokande": 5,
       "kompetens": 5
+    }
+  },
+  {
+    "id": "malmo-kommunfullmaktige-2025-11-26",
+    "typ": "kommunbeslut",
+    "titel": "Gemeenteraad, gemeente Malmö, 26 november 2025.",
+    "ingress": "De gemeente Malmö heeft een vergadering gehouden waarin het begrotingsvoorstel voor 2026 is besproken. De focus lag op onderwerpen zoals onderwijs, gezondheidszorg en verzorging, evenals de arbeidsmarkt.",
+    "datum": "2025-11-26",
+    "kalla": "Malmö stad",
+    "kalla_url": "https://motenmedborgarportal.malmo.se/committees/kommunfullmaktige/mote-2025-11-26",
+    "taggar": [
+      "malmo",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_vard": 3,
+      "barn": 3,
+      "arbetssokande": 3,
+      "kronisk": 3
     }
   },
   {
@@ -13244,6 +13320,23 @@
     }
   },
   {
+    "id": "malmo-kommunstyrelsen-2025-10-30",
+    "typ": "kommunbeslut",
+    "titel": "College van burgemeester en wethouders, gemeente Malmö, 30 oktober 2025.",
+    "ingress": "De gemeente Malmö heeft haar begroting voor 2026 vastgesteld en een plan opgesteld over hoe het geld tot en met 2028 zal worden besteed. Dit omvat onder andere dat de belastingsvoet in Malmö 21,24 procent zal bedragen in 2026.",
+    "datum": "2025-10-30",
+    "kalla": "Malmö stad",
+    "kalla_url": "https://motenmedborgarportal.malmo.se/committees/kommunstyrelsen/mote-2025-10-30",
+    "taggar": [
+      "malmo",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "b_vard": 3,
+      "barn": 3
+    }
+  },
+  {
     "id": "HD038",
     "typ": "lagforslag",
     "titel": "Het rapport van de Rijksrekenkamer over de transformatie van LKAB.",
@@ -13494,6 +13587,19 @@
       "idrott": 3,
       "klimat": 3
     }
+  },
+  {
+    "id": "norrtalje-kommunfullmaktige-2025-10-20",
+    "typ": "kommunbeslut",
+    "titel": "Gemeenteraad, gemeente Norrtälje, 20 oktober 2025.",
+    "ingress": "De gemeente Norrtälje heeft een rapport ontvangen van de Voogdij, waarin staat beschreven hoe zij zorg draagt voor mensen die hulp nodig hebben bij het regelen van hun zaken.",
+    "datum": "2025-10-20",
+    "kalla": "Norrtälje kommun",
+    "kalla_url": "https://forum.norrtalje.se/committees/kommunfullmaktige/mote-2025-10-20",
+    "taggar": [
+      "norrtalje",
+      "kommunfullmaktige"
+    ]
   },
   {
     "id": "HD0334",
@@ -22612,6 +22718,79 @@
     },
     "epok": "frihetstiden",
     "tid": "d. 1730",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q496775",
+    "typ": "historia",
+    "titel": "Anders Dahl",
+    "ingress": "Anders Dahl was een Zweedse botanicus die planten bestudeerde en leerling werd van de bekende wetenschapper Carl von Linné. Hij is zo belangrijk in zijn vakgebied dat de bloem *dahlia* naar hem is vernoemd.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Anders_Dahl",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "student": 3,
+      "kronisk": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1789",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q717179",
+    "typ": "historia",
+    "titel": "Arvid Horn",
+    "ingress": "Arvid Horn was een belangrijke Zweedse leider in de 18e eeuw die hielp om Zweden te transformeren van een koninkrijk met absolute macht naar een systeem waarin het parlement meer invloed had. Hij stond bekend om zijn voorzichtige buitenland",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Arvid_Horn",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "fortroendevald": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1742",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q961575",
+    "typ": "historia",
+    "titel": "Johan Agrell.",
+    "ingress": "Johan Agrell was een Zweedse muzikant en componist uit de 18e eeuw, die in Europa bekendheid verwierf met zijn composities. Hij woonde tijdens zijn laatste jaren in Duitsland en is tegenwoordig van groot belang in de muziekgeschiedenis.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Johan_Agrell",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_it": 3,
+      "b_kultur": 3,
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1765",
     "kallage": "samtida",
     "sakerhet": "belagt",
     "konsensus": "samsyn",

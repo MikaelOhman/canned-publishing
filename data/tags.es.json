@@ -287,12 +287,12 @@
   "stockholm": {
     "etikett": "Estocolmo.",
     "typ": "plats",
-    "antal": 16
+    "antal": 18
   },
   "kommunfullmaktige": {
     "etikett": "El ayuntamiento.",
     "typ": "organisation",
-    "antal": 95
+    "antal": 98
   },
   "kommunpolitik": {
     "etikett": "Política municipal.",
@@ -307,7 +307,7 @@
   "kommunstyrelsen": {
     "etikett": "El consejo municipal.",
     "typ": "organisation",
-    "antal": 73
+    "antal": 76
   },
   "kommunal-forvaltning": {
     "etikett": "Administración municipal.",
@@ -412,12 +412,12 @@
   "malmo": {
     "etikett": "Malmö\n\n*   **Ubicación:** Suecia.\n*   **Población:** [Insert population number here, if available].\n*   **Fecha de fundación:** [Insert founding date here, if available].\n*   **Sitio web:** [Insert website URL here, if available].",
     "typ": "plats",
-    "antal": 13
+    "antal": 15
   },
   "norrtalje": {
     "etikett": "Norrtälje.",
     "typ": "plats",
-    "antal": 9
+    "antal": 11
   },
   "almhult": {
     "etikett": "Älmhults",
@@ -1737,7 +1737,7 @@
   "svensk-historia": {
     "etikett": "Historia sueca:\n\n*   [Nombre propio]\n*   [Número]\n*   [Fecha]\n*   [URL]",
     "typ": "ämne",
-    "antal": 194
+    "antal": 198
   },
   "vikingatid": {
     "etikett": "La era vikinga.",
@@ -1782,7 +1782,7 @@
   "frihetstiden": {
     "etikett": "La época de la libertad.",
     "typ": "epok",
-    "antal": 37
+    "antal": 41
   },
   "1800talet": {
     "etikett": "Siglo XIX.",
@@ -1847,7 +1847,7 @@
   "historisk-person": {
     "etikett": "Figura histórica.",
     "typ": "ämne",
-    "antal": 158
+    "antal": 162
   },
   "runinskrift": {
     "etikett": "Inscripción rúnica.",

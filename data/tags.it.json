@@ -287,12 +287,12 @@
   "stockholm": {
     "etikett": "Stockholm.",
     "typ": "plats",
-    "antal": 16
+    "antal": 18
   },
   "kommunfullmaktige": {
     "etikett": "Consiglio comunale.",
     "typ": "organisation",
-    "antal": 95
+    "antal": 98
   },
   "kommunpolitik": {
     "etikett": "Politica comunale.",
@@ -312,7 +312,7 @@
   "kommunstyrelsen": {
     "etikett": "La giunta comunale.",
     "typ": "organisation",
-    "antal": 73
+    "antal": 76
   },
   "kommunal-forvaltning": {
     "etikett": "Amministrazione comunale.",
@@ -417,12 +417,12 @@
   "malmo": {
     "etikett": "Malmö.",
     "typ": "plats",
-    "antal": 13
+    "antal": 15
   },
   "norrtalje": {
     "etikett": "Norrtälje",
     "typ": "plats",
-    "antal": 9
+    "antal": 11
   },
   "almhult": {
     "etikett": "Älmhults.",
@@ -1737,7 +1737,7 @@
   "svensk-historia": {
     "etikett": "Storia svedese.\n\n(Followed by any lists or paragraphs that would normally follow this title in a document about Swedish history.)",
     "typ": "ämne",
-    "antal": 194
+    "antal": 198
   },
   "vikingatid": {
     "etikett": "L'era vichinga.",
@@ -1782,7 +1782,7 @@
   "frihetstiden": {
     "etikett": "L'era della libertà.",
     "typ": "epok",
-    "antal": 37
+    "antal": 41
   },
   "1800talet": {
     "etikett": "XIX secolo.",
@@ -1847,7 +1847,7 @@
   "historisk-person": {
     "etikett": "Figura storica.",
     "typ": "ämne",
-    "antal": 158
+    "antal": 162
   },
   "runinskrift": {
     "etikett": "Iscrizione rupestre.",

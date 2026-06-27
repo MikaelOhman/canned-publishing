@@ -287,12 +287,12 @@
   "stockholm": {
     "etikett": "Stockholm.",
     "typ": "plats",
-    "antal": 16
+    "antal": 18
   },
   "kommunfullmaktige": {
     "etikett": "A települési közgyűlés.",
     "typ": "organisation",
-    "antal": 95
+    "antal": 98
   },
   "kommunpolitik": {
     "etikett": "Önkormányzati politika.",
@@ -307,7 +307,7 @@
   "kommunstyrelsen": {
     "etikett": "A községi tanács.",
     "typ": "organisation",
-    "antal": 73
+    "antal": 76
   },
   "kommunal-forvaltning": {
     "etikett": "Helyi közigazgatás.",
@@ -412,12 +412,12 @@
   "malmo": {
     "etikett": "Malmö\n\n(A szöveg hiányos, ezért csak a helynév szerepel a fordításban.)",
     "typ": "plats",
-    "antal": 13
+    "antal": 15
   },
   "norrtalje": {
     "etikett": "Norrtälje",
     "typ": "plats",
-    "antal": 9
+    "antal": 11
   },
   "almhult": {
     "etikett": "Älmhult városában található.",
@@ -1737,7 +1737,7 @@
   "svensk-historia": {
     "etikett": "Svéd történelem:\n\n*   [Lista vagy bekezdés a svéd törtélemmel kapcsolatban]",
     "typ": "ämne",
-    "antal": 194
+    "antal": 197
   },
   "vikingatid": {
     "etikett": "A vikingkor.",
@@ -1782,7 +1782,7 @@
   "frihetstiden": {
     "etikett": "A szabadság kora.",
     "typ": "epok",
-    "antal": 37
+    "antal": 40
   },
   "1800talet": {
     "etikett": "A 19. század.",
@@ -1847,7 +1847,7 @@
   "historisk-person": {
     "etikett": "Történelmi személyiség.",
     "typ": "ämne",
-    "antal": 158
+    "antal": 161
   },
   "runinskrift": {
     "etikett": "Egy felirat szövege.",

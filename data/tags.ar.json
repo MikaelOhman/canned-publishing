@@ -287,12 +287,12 @@
   "stockholm": {
     "etikett": "ستوكهولم.",
     "typ": "plats",
-    "antal": 16
+    "antal": 18
   },
   "kommunfullmaktige": {
     "etikett": "مجلس البلدية.",
     "typ": "organisation",
-    "antal": 95
+    "antal": 98
   },
   "kommunpolitik": {
     "etikett": "سياسة البلديات.",
@@ -307,7 +307,7 @@
   "kommunstyrelsen": {
     "etikett": "مجلس البلدية.",
     "typ": "organisation",
-    "antal": 73
+    "antal": 76
   },
   "kommunal-forvaltning": {
     "etikett": "الإدارة المحلية.",
@@ -437,12 +437,12 @@
   "malmo": {
     "etikett": "مالمو",
     "typ": "plats",
-    "antal": 13
+    "antal": 15
   },
   "norrtalje": {
     "etikett": "نورتالجه.",
     "typ": "plats",
-    "antal": 9
+    "antal": 11
   },
   "almhult": {
     "etikett": "Älmhults",
@@ -1752,7 +1752,7 @@
   "svensk-historia": {
     "etikett": "التاريخ السويدي:\n\n*   [معلومات إضافية حول التاريخ السويدي يمكن إدراجها هنا، مثل الأحداث الهامة، والشخصيات البارزة، والفترات الزمنية المختلفة.]\n*   [يمكن إضافة قائمة من المواضيع الفرعية المتعلقة بالتاريخ السويدي، مثل:]\n    *   التاريخ القديم.\n    *   العصور الوسطى.\n    *   عصر النهضة.\n    *   الحرب الباردة.\n    *   [أمثلة أخرى يمكن إضافتها حسب الحاجة.]\n*   [يمكن أيضاً تضمين روابط لمواقع ويب أو مصادر أخرى ذات صلة بالتاريخ السويدي، مثل:]\n    *   [رابط إلى موقع ويب حول التاريخ السويدي: www.example.com]\n    *   [رابط إلى مقال أو كتاب عن التاريخ السويدي.]",
     "typ": "ämne",
-    "antal": 194
+    "antal": 197
   },
   "vikingatid": {
     "etikett": "العصر الفايكنجي.",
@@ -1797,7 +1797,7 @@
   "frihetstiden": {
     "etikett": "فترة الحرية.",
     "typ": "epok",
-    "antal": 37
+    "antal": 40
   },
   "1800talet": {
     "etikett": "القرن التاسع عشر.",
@@ -1862,7 +1862,7 @@
   "historisk-person": {
     "etikett": "شخصية تاريخية.",
     "typ": "ämne",
-    "antal": 158
+    "antal": 161
   },
   "runinskrift": {
     "etikett": "نقش توضيحي.",

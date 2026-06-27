@@ -287,12 +287,12 @@
   "stockholm": {
     "etikett": "Stockholm.",
     "typ": "plats",
-    "antal": 16
+    "antal": 18
   },
   "kommunfullmaktige": {
     "etikett": "Consiliul municipal.",
     "typ": "organisation",
-    "antal": 95
+    "antal": 98
   },
   "kommunpolitik": {
     "etikett": "Politica municipală.",
@@ -307,7 +307,7 @@
   "kommunstyrelsen": {
     "etikett": "Consiliul municipal.",
     "typ": "organisation",
-    "antal": 73
+    "antal": 76
   },
   "kommunal-forvaltning": {
     "etikett": "Administrația locală.",
@@ -412,12 +412,12 @@
   "malmo": {
     "etikett": "Malmö\n\n(Nu este necesară traducere, deoarece \"Malmö\" este un nume propriu.)",
     "typ": "plats",
-    "antal": 13
+    "antal": 15
   },
   "norrtalje": {
     "etikett": "Norrtälje",
     "typ": "plats",
-    "antal": 9
+    "antal": 11
   },
   "almhult": {
     "etikett": "Älmhults.",
@@ -1737,7 +1737,7 @@
   "svensk-historia": {
     "etikett": "Istoria Suediei:\n\n(Aici ar trebui să urmeze conținutul textului original în suedeză pentru a putea fi tradus.)",
     "typ": "ämne",
-    "antal": 194
+    "antal": 197
   },
   "vikingatid": {
     "etikett": "Era vikingilor\n\n*   **Perioada:** Aproximativ de la sfârșitul secolului al VIII-lea până în mijlocul secolului al XI-lea (c. 793 - c. 1066).\n*   **Caracteristici principale:** Expandare militară, comerț, explorare și colonizare din partea popoarelor scandinave.\n*   **Zone de influență:** Europa de Nord și de Est, inclusiv Rusia, Anglia, Franța, Italia și chiar America de Nord (Vinland).\n*   **Impact:** Schimbări politice, economice și culturale semnificative în regiunile afectate.\n*   **Exemple notabile:** Raidul asupra mănăstirii Lindisfarne (793), bătălia de la Stamford Bridge (1066).\n*   **Resurse suplimentare:** Puteți găsi mai multe informații pe site-uri precum [URL invalid] sau [URL invalid].",
@@ -1782,7 +1782,7 @@
   "frihetstiden": {
     "etikett": "Perioada de libertate.",
     "typ": "epok",
-    "antal": 37
+    "antal": 40
   },
   "1800talet": {
     "etikett": "Secolul al XIX-lea.",
@@ -1847,7 +1847,7 @@
   "historisk-person": {
     "etikett": "Persoană istorică.",
     "typ": "ämne",
-    "antal": 158
+    "antal": 161
   },
   "runinskrift": {
     "etikett": "Inscripție funerară.",

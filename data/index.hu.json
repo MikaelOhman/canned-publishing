@@ -10273,6 +10273,22 @@
     }
   },
   {
+    "id": "stockholm-kommunstyrelsen-2026-02-18",
+    "typ": "kommunbeslut",
+    "titel": "A stockholmi városi önkormányzat kommunális bizottsága, 2026. február 18.",
+    "ingress": "A stockholmi önkormányzat számos jelentést és javaslatot kapott, amelyek többek között a következő témákat érintik: élelmiszer-pazarlás, hidrogén felhasználása a gázhálózatban, valamint a jövőbeli szennyvíztisztítás.",
+    "datum": "2026-02-18",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunstyrelsen/mote-2026-02-18",
+    "taggar": [
+      "stockholm",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "upphandling": 3
+    }
+  },
+  {
     "id": "HD03141",
     "typ": "lagforslag",
     "titel": "Egy új fegyvertörvény.",
@@ -10974,6 +10990,25 @@
       "f_kommun": 5,
       "fortroendevald": 8,
       "mark_bygglov": 3
+    }
+  },
+  {
+    "id": "norrtalje-kommunstyrelsen-2026-02-02",
+    "typ": "kommunbeslut",
+    "titel": "A Norrtälje önkormányzat Kommunális Bizottsága, 2026. február 2.",
+    "ingress": "A Norrtälje önkormányzat 71 820 svéd koronába kerülő digitális szolgáltatást vásárol, amelynek célja, hogy segítsen az embereknek csökkenteni a magányérzetet.",
+    "datum": "2026-02-02",
+    "kalla": "Norrtälje kommun",
+    "kalla_url": "https://forum.norrtalje.se/committees/kommunstyrelsen/mote-2026-02-02",
+    "taggar": [
+      "norrtalje",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "b_vard": 3,
+      "b_it": 3,
+      "upphandling": 3,
+      "anhorigvardare": 3
     }
   },
   {
@@ -12164,6 +12199,28 @@
     }
   },
   {
+    "id": "stockholm-kommunfullmaktige-2025-12-01",
+    "typ": "kommunbeslut",
+    "titel": "Stockholm Város Tanácsa, 2025. december 1.",
+    "ingress": "A stockholmi önkormányzat válaszokat kapott számos kérdésre, amelyek többek között a szociális szolgáltatásokkal, az elektromos kerékpárok parkolásával és a lakhatási politikával kapcsolatosak voltak.",
+    "datum": "2025-12-01",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunfullmaktige/mote-2025-12-01",
+    "taggar": [
+      "stockholm",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_fastighet": 3,
+      "pensionar": 3,
+      "arbetssokande": 3,
+      "bil": 3,
+      "beroende": 3,
+      "lantagare": 3,
+      "otrygg": 3
+    }
+  },
+  {
     "id": "HD0369",
     "typ": "lagforslag",
     "titel": "A faállomány adózásának szabályozásának javítása.",
@@ -12208,6 +12265,25 @@
       "ung_vuxen": 6,
       "arbetssokande": 5,
       "kompetens": 5
+    }
+  },
+  {
+    "id": "malmo-kommunfullmaktige-2025-11-26",
+    "typ": "kommunbeslut",
+    "titel": "Malmö város önkormányzatának közgyűlése, 2025. november 26.",
+    "ingress": "A malmői önkormányzat egy találkozón tárgyalta a 2026-os költségvetést. A megbeszélés középpontjában az oktatás, az egészségügyi ellátás és a szociális szolgáltatások, valamint a munkaerőpiac szerepelt.",
+    "datum": "2025-11-26",
+    "kalla": "Malmö stad",
+    "kalla_url": "https://motenmedborgarportal.malmo.se/committees/kommunfullmaktige/mote-2025-11-26",
+    "taggar": [
+      "malmo",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_vard": 3,
+      "barn": 3,
+      "arbetssokande": 3,
+      "kronisk": 3
     }
   },
   {
@@ -13138,6 +13214,23 @@
     }
   },
   {
+    "id": "malmo-kommunstyrelsen-2025-10-30",
+    "typ": "kommunbeslut",
+    "titel": "A malmői önkormányzat kommunális bizottsága, 2025. október 30.",
+    "ingress": "Malmö városa jóváhagyta a 2026-os költségvetését, és megtervezte, hogy azokat az erőforrásokat hogyan fogja felhasználni 2028-ig. Ez magában foglalja többek között azt, hogy Malmöben a helyi adó mértéke 21,24 százalék lesz 2026-ban.",
+    "datum": "2025-10-30",
+    "kalla": "Malmö stad",
+    "kalla_url": "https://motenmedborgarportal.malmo.se/committees/kommunstyrelsen/mote-2025-10-30",
+    "taggar": [
+      "malmo",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "b_vard": 3,
+      "barn": 3
+    }
+  },
+  {
     "id": "HD038",
     "typ": "lagforslag",
     "titel": "A Svéd Számvevőszék LKAB átalakulásáról szóló jelentése.",
@@ -13388,6 +13481,19 @@
       "idrott": 3,
       "klimat": 3
     }
+  },
+  {
+    "id": "norrtalje-kommunfullmaktige-2025-10-20",
+    "typ": "kommunbeslut",
+    "titel": "Norrtälje önkormányzat közgyűlése, 2025. október 20.",
+    "ingress": "A Norrtälje önkormányzat egy jelentést kapott az \"Överförmyndaren\" (a gyámhivatal) vezetőjétől, amely arról szól, hogyan gondoskodnak azokról a személyekről, akiknek segítségre van szükségükük a saját ügyeik intézésében.",
+    "datum": "2025-10-20",
+    "kalla": "Norrtälje kommun",
+    "kalla_url": "https://forum.norrtalje.se/committees/kommunfullmaktige/mote-2025-10-20",
+    "taggar": [
+      "norrtalje",
+      "kommunfullmaktige"
+    ]
   },
   {
     "id": "HD0334",
@@ -22462,6 +22568,77 @@
     },
     "epok": "frihetstiden",
     "tid": "d. 1728",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q126270",
+    "typ": "historia",
+    "titel": "Sophia Elisabet Brenner",
+    "ingress": "Sophia Elisabet Brenner egy fontos svéd írónő volt a 18. században, aki a nők jogaiért küzdött. Ő volt az első nő Svédországban, aki svédből verseskötetet jelentetett meg.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Sophia_Elisabet_Brenner",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "kvinna": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1730",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q496775",
+    "typ": "historia",
+    "titel": "Anders Dahl",
+    "ingress": "Anders Dahl egy svéd botanikus volt, aki növényekkel foglalkozott, és Carl von Linné híres tudós tanítványa lett. Olyan jelentős szerepet töltött be a területén, hogy a dália virágnak ő az emlékére adták ezt a nevet.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Anders_Dahl",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "student": 3,
+      "kronisk": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1789",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q717179",
+    "typ": "historia",
+    "titel": "Arvid Horn",
+    "ingress": "Arvid Horn a 18. századi Svédország egyik fontos vezetője volt, aki hozzájárult ahhoz, hogy az ország a királyi önkényből egy olyan rendszer felé mozduljon el, ahol a parlament (Riksdag) nagyobb hatalommal rendelkezett. Híres volt óvatos kü",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Arvid_Horn",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "fortroendevald": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1742",
     "kallage": "samtida",
     "sakerhet": "belagt",
     "konsensus": "samsyn",
