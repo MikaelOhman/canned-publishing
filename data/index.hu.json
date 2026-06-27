@@ -21615,5 +21615,830 @@
     "sakerhet": "belagt",
     "konsensus": "samsyn",
     "flaggor": []
+  },
+  {
+    "id": "hist-q1043",
+    "typ": "historia",
+    "titel": "Carl von Linné",
+    "ingress": "Carl von Linné egy svéd tudós volt, aki egy rendszert dolgozott ki a világ összes növényének és állatának elnevezésére és csoportosítására. Munkája máig is az alapja annak, ahogyan a természetet osztályozzuk.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Carl_von_Linné",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "hallbarhetsrapport": 3,
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1778",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q81130",
+    "typ": "historia",
+    "titel": "Anders Celsius\n\n(Név nem változik)",
+    "ingress": "Anders Celsius egy svéd tudós volt, aki leginkább azért ismert, mert ő alkotta meg azt a hőmérsékleti mérési módszert, amelyet ma használunk, azaz a Celsius-skálát.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Anders_Celsius",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1744",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q185832",
+    "typ": "historia",
+    "titel": "Emanuel Swedenborg.",
+    "ingress": "Swedenborg Emanuel egy svéd tudós és vallási vezető volt, aki arról vált ismertté, hogy írásokat publikált a spirituális világról és a kereszténységről. Az ő gondolatai számos híres művésznek és gondolkodónak szolgáltak inspirációul.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Emanuel_Swedenborg",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "barn": 3,
+      "kultur": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1772",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q70538",
+    "typ": "historia",
+    "titel": "Carl Wilhelm Scheele.",
+    "ingress": "Carl Wilhelm Scheele egy svéd gyógyszerész volt, aki a 18. században vált Európa egyik leghíresebb tudósává a kémia területén. Leginkább azért ismert, mert számos fontos anyagot fedezett fel, többek között az oxigént és a klórt.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Carl_Wilhelm_Scheele",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "epok": "frihetstiden",
+    "tid": "d. 1786",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q52930",
+    "typ": "historia",
+    "titel": "Gustáv III.",
+    "ingress": "Gustav III svéd király volt, aki a 18. században jelentős változásokat vezetett be az ország kormányzása és törvényei terén. Híres arról, hogy betiltotta a kínzást, új szabadságjogokat biztosított bizonyos csoportok számára, és jelentős erő",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Gustav_III",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_kultur": 5,
+      "kultur": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1792",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q52933",
+    "typ": "historia",
+    "titel": "Ulrika Eleonora",
+    "ingress": "Ulrika Eleonóra egy svéd királyné volt, aki 1719 és 1720 között uralkodott. Ő volt I. Károly király lánya, és a királynéi címhez jutott, miután bátyja, II. Károly király, nem tudta átörökíteni a trónt.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Ulrika_Eleonora",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "barn": 3,
+      "sambo_gift": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1741",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q52931",
+    "typ": "historia",
+    "titel": "Adolf Fredrik.",
+    "ingress": "A következő szöveg Adolf Fredrikről szól, aki 1751-ben lett Svédország királya. Oroszország támogatásával került hatalomhoz, és Stockholmon egy nagyon látványos koronázási ceremóniát tartottak számára.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Adolf_Fredrik",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_vard": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1771",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q52932",
+    "typ": "historia",
+    "titel": "Fredrik I.",
+    "ingress": "A szöveg Fredrik I-ről szól, aki 1720-ban lett svéd király, miután feleségül vette Ulrika Eleonora hercegnőhöz. Ő egy tapasztalt katonai vezető volt, aki Svédországot olyan időszakban irányította, amikor a királyi hatalmat a parlament korlá",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Fredrik_I",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "varnpliktig": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1751",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q1393227",
+    "typ": "historia",
+    "titel": "Eva Ekeblad.",
+    "ingress": "Eva Ekeblad egy fontos személyiség volt a 18. században, aki az első nő lett a Svéd Királyi Tudományos Akadémiában. Leginkább arról ismert, hogy úttörő szerepet játszott a kémiában, és felfedezte, hogyan lehet pálinkát készíteni burgonyából",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Eva_Ekeblad",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "fou": 3,
+      "kvinna": 3,
+      "kultur": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1786",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q312498",
+    "typ": "historia",
+    "titel": "Carl Michael Bellman.",
+    "ingress": "Bellman Carl Michael egy híres svéd költő volt, aki a 18. században számos népszerű dalt és verset írt. Őt tartják Svédország egyik legfontosabb szerzőjének minden időkben.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Carl_Michael_Bellman",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "b_kultur": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1795",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q57852",
+    "typ": "historia",
+    "titel": "Karl Fredrik a Holstein-Gottorpi házból.",
+    "ingress": "Karl Fredrik egy svéd herceg volt, aki egy időben az egyik lehetséges jelöltje volt a svéd trónnak. Elhagyta az országot, és egy orosz hercegnővel kötött házasságot miután elvesztette esélyét a svéd trónra.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Karl_Fredrik_av_Holstein-Gottorp",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "epok": "frihetstiden",
+    "tid": "d. 1739",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q234251",
+    "typ": "historia",
+    "titel": "Lovisa Ulrika porosz hercegnő.",
+    "ingress": "A következő szöveg Lujza Ulrika porosz hercegnőről szól, aki 1751-ben Svédország királynéja lett. A szöveg bemutatja az életét, a gyermekkora, azt, hogyan választották ki, hogy feleségül menjen a svéd trónörököshöz, valamint az időt, amelye",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Lovisa_Ulrika_av_Preussen",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_vard": 8,
+      "b_kultur": 3,
+      "kultur": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1782",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q201347",
+    "typ": "historia",
+    "titel": "Torbern Bergman",
+    "ingress": "Torbern Bergman egy svéd tudós volt, aki a 18. században vált híressé jelentős felfedezéseiről a kémia és a természettudományok területén.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Torbern_Bergman",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_bygg": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1784",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q468351",
+    "typ": "historia",
+    "titel": "Axel Fredrik Cronstedt.",
+    "ingress": "Axel Fredrik Cronstedt egy svéd tudós volt, aki megalapozta a modern ásványtan és a Föld alkotóelemeinek tanulmányozásának (geológia) alapjait. Őt azzal is összefüggésbe hozza a történelem, hogy felfedezte a nikkemet.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Axel_Fredrik_Cronstedt",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1765",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q315102",
+    "typ": "historia",
+    "titel": "Alexander Roslin.",
+    "ingress": "Alexander Roslin egy svéd művész volt, aki Párizsban vált ismertté kiváló portréfestményeivel. Különösen ügyesen ábrázolta a ruházatot és az arc kifejezéseit, ami népszerűvé tette őt az arisztokrácia körében.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Alexander_Roslin",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "beroende": 3,
+      "kultur": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1793",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q353693",
+    "typ": "historia",
+    "titel": "Christopher Polhem.",
+    "ingress": "Christopher Polhem egy svéd feltaláló volt, akit a svéd mechanika apostjaként tartanak számon. Számos fontos gépet tervezett és épített, valamint alapította Svédország első mérnöki iskoláját.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Christopher_Polhem",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_industri": 5,
+      "b_bygg": 3,
+      "barn": 3,
+      "pensionar": 3,
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1751",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q178823",
+    "typ": "historia",
+    "titel": "Carl von Linné ifjabb.",
+    "ingress": "Carl von Linné, a fiatalabb, svéd természettudós volt, aki átvette édesapja pozícióját, mint növények és orvostan professzora. Bár ő maga nemigen érdeklődött a tudomány iránt, gondoskodott az édesapja értékes növénygyűjteményeiről.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Carl_von_Linné_den_yngre",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "student": 3,
+      "kronisk": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1783",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q27684",
+    "typ": "historia",
+    "titel": "Peter Forsskål",
+    "ingress": "Peter Forsskål svéd tudós és gondolkodó volt, aki a szabadságért és az emberek jogáért harcolt, hogy azt írjanak, amit akarnak. Jemenben hunyt el egy tudományos expedíció során, de az ő eszméi segítettek létrehozni a világ első sajtószabály",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Peter_Forsskål",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "fou": 3,
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1763",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q473225",
+    "typ": "historia",
+    "titel": "Georg Brandt.",
+    "ingress": "Georg Brandt egy svéd kémikus volt, aki a 18. században vált híressé azáltal, hogy felfedezte a kobalt nevű kémiai elemet. Több országban is tanult kémiát és orvostudományt, mielőtt fontos kutatóként tevékenykedett Svédországban.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Georg_Brandt",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1768",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q39789",
+    "typ": "historia",
+    "titel": "Daniel Solander.",
+    "ingress": "Daniel Solander egy svéd természettudós volt, aki a világot járta be, és ő volt az első svédet, aki Ausztráliába látogatott. Napjainkban főleg növények felfedezéseiről és különleges könyvtárolóládájáról ismert.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Daniel_Solander",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "glesbygd": 3,
+      "kultur": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1782",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q434380",
+    "typ": "historia",
+    "titel": "Carl Gustaf Rehnskiöld",
+    "ingress": "Carl Gustaf Rehnskiöld egy fontos svéd katonai vezető volt, és a király, Károly XII közel álló tanácsadója. Részt vett a svéd hadsereg vezetésében számos jelentős háborúban a 17. és 18. század során.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Carl_Gustaf_Rehnskiöld",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1722",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q453272",
+    "typ": "historia",
+    "titel": "Joseph Martin Kraus.",
+    "ingress": "Joseph Martin Kraus német-svéd zeneszerző volt, aki a 18. században élt. Híres arról, hogy jelentős zeneműveket alkotott Svédországban, és néha a svéd Mozartnak is nevezték.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Joseph_Martin_Kraus",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "b_konsult": 3,
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1792",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q447071",
+    "typ": "historia",
+    "titel": "Anders Johan Lexell.",
+    "ingress": "Anders Johan Lexell egy fontos finn tudós volt, aki világhírnévre tett szert a matematika és az asztronómia területén végzett kutatásai révén. Oroszországban dolgozott, és őt tartják az első finnek között, akik jelentős nemzetközi áttörések",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Anders_Johan_Lexell",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1784",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q490870",
+    "typ": "historia",
+    "titel": "Anders Chydenius:\n\n(Itt következhetne egy leírás Anders Chydeniusról, de mivel a szöveg hiányos, csak a nevet tudom megadni.)",
+    "ingress": "Anders Chydenius egy lelkész és író volt, aki azért küzdött, hogy a svédeknek joguk legyen ahhoz, hogy azt írják és nyomtassák, amit akarnak. Ő játszott fontos szerepet az első svéd sajtószabályozó törvény (tryckfrihetslagen) elfogadásában,",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Anders_Chydenius",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "epok": "frihetstiden",
+    "tid": "d. 1803",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q76639",
+    "typ": "historia",
+    "titel": "Philip Johan von Strahlenberg.",
+    "ingress": "Philip Johan von Strahlenberg svéd katona és térképész volt, aki a 18. századi háborúk során került szibériai fogságba. Ott fontos térképeket készített a területről, és hozzájárult ahhoz, hogy bebizonyítsák, hogy Ázsia és Amerika nem kapcso",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Philip_Johan_von_Strahlenberg",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "glesbygd": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1747",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q350346",
+    "typ": "historia",
+    "titel": "Adam Ludwig Lewenhaupt",
+    "ingress": "A következő szöveg Adam Ludwig Lewenhauptról szól, aki egy svéd gróf és tábornok volt, és aki a 18. századi nagybajszámú északi háború során vezette a svéd csapatokat.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Adam_Ludwig_Lewenhaupt",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "glesbygd": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1719",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q524071",
+    "typ": "historia",
+    "titel": "Peter Artedi.",
+    "ingress": "Peter Artedi egy svéd tudós volt, akit a modern biológia és az halak tanulmányozásának egyik alapítójának tekintenek. Szorosan együtt dolgozott a híres tudóssal, Carl von Linnével.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Peter_Artedi",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1735",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q455194",
+    "typ": "historia",
+    "titel": "Carl Alexander Clerck.",
+    "ingress": "Carl Alexander Clerck egy svéd tudós volt, aki a 18. században rovarokat és pókokat tanulmányozott.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Carl_Alexander_Clerck",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "epok": "frihetstiden",
+    "tid": "d. 1765",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q450744",
+    "typ": "historia",
+    "titel": "Hedvig Charlotta Nordenflycht",
+    "ingress": "Nordenflycht Hedvig Charlotta egy híres svéd írónő volt a 18. században, aki kiállt a nők jogaiért és oktatásáért.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Hedvig_Charlotta_Nordenflycht",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "kvinna": 3,
+      "varnpliktig": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1763",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q55069930",
+    "typ": "historia",
+    "titel": "Pehr Osbeck",
+    "ingress": "Pehr Osbeck egy svéd lelkész és természettudós volt, aki Kínába utazott, hogy növényeket gyűjtsön. Híressé vált a növénytan területén tett felfedezéseiről, ami a növényekről szóló tudomány.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Pehr_Osbeck",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "epok": "frihetstiden",
+    "tid": "d. 1805",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q543195",
+    "typ": "historia",
+    "titel": "Johan Henric Kellgren.",
+    "ingress": "Johan Henric Kellgren egy híres svéd író, költő és újságíró volt a 18. században. Hírnevét verseihez és ahhoz kapcsolták, hogy Svédország első színházi kritikusa volt.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Johan_Henric_Kellgren",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "pensionar": 3,
+      "kultur": 5
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1795",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q455143",
+    "typ": "historia",
+    "titel": "Nicodemus Tessin a fiatalabb.",
+    "ingress": "Nicodemus Tessin ifj., egy híres svéd építész volt, aki többek között a stockholmi kastélyt és számos más fontos épületet tervezett. Sokat utazott Európában, hogy tanulmányozza az építészetet, és a királyi udvarnál is nagyra becsült személy",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Nicodemus_Tessin_den_yngre",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_it": 3,
+      "infrastruktur": 3,
+      "batagare": 3,
+      "kultur": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1728",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q719204",
+    "typ": "historia",
+    "titel": "Pehr Kalm",
+    "ingress": "A következő szöveg Pehr Kalmról szól, egy svéd tudósról, aki híressé vált azért, mert növényeket tanulmányozott, és Amerikába utazott, hogy új, hasznos növényeket találjon Svédország számára.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Pehr_Kalm",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_industri": 3,
+      "b_grona": 3,
+      "klimat": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1779",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q1373367",
+    "typ": "historia",
+    "titel": "Olof von Dalin.",
+    "ingress": "Olof von Dalin a 18. század tehetséges írója és művésze volt, aki leginkább \"Then Swänska Argus\" című folyóiratával vált ismertté. Fontos szerepet töltött be az svéd irodalomtörténetben, mivel munkássága egy új korszak kezdetét jelentette.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Olof_von_Dalin",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "tillstand": 3,
+      "student": 3,
+      "kultur": 5
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1763",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q642336",
+    "typ": "historia",
+    "titel": "Johan Peter Falck.",
+    "ingress": "Johan Peter Falck egy svéd orvos és tudós volt, aki Carl von Linné híres tudóssal tanult. Hosszú utazásokat tett Oroszországban, hogy tanulmányozza a növényeket és állatokat.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Johan_Peter_Falck",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "fou": 3,
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1774",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
   }
 ]

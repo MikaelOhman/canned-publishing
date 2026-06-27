@@ -21751,5 +21751,830 @@
     "sakerhet": "belagt",
     "konsensus": "samsyn",
     "flaggor": []
+  },
+  {
+    "id": "hist-q1043",
+    "typ": "historia",
+    "titel": "Carl von Linné.",
+    "ingress": "Carl von Linnaeus fue un científico sueco que creó un sistema para nombrar y clasificar todas las plantas y animales del mundo. Su trabajo es, hasta el día de hoy, la base de cómo clasificamos la naturaleza.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Carl_von_Linné",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "hallbarhetsrapport": 3,
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1778",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q81130",
+    "typ": "historia",
+    "titel": "Anders Celsius.",
+    "ingress": "Anders Celsius fue un científico sueco que es más conocido por haber creado el sistema de medición de temperatura que utilizamos hoy en día, es decir, la escala Celsius.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Anders_Celsius",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1744",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q185832",
+    "typ": "historia",
+    "titel": "Emanuel Swedenborg.",
+    "ingress": "Emanuel Swedenborg fue un científico y líder religioso sueco, reconocido por sus escritos sobre el mundo espiritual y el cristianismo. Sus ideas inspiraron a numerosos artistas y pensadores destacados.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Emanuel_Swedenborg",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "barn": 3,
+      "kultur": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1772",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q70538",
+    "typ": "historia",
+    "titel": "Carl Wilhelm Scheele.",
+    "ingress": "Carl Wilhelm Scheele fue un farmacéutico sueco que, durante el siglo XVIII, se convirtió en uno de los químicos más reconocidos de Europa. Es principalmente conocido por haber descubierto importantes elementos, entre ellos el oxígeno y el c",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Carl_Wilhelm_Scheele",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "epok": "frihetstiden",
+    "tid": "d. 1786",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q52930",
+    "typ": "historia",
+    "titel": "Gustavo III.",
+    "ingress": "Gustav III fue un rey sueco que implementó importantes cambios en el gobierno y las leyes del país durante el siglo XVIII. Es conocido por haber prohibido la tortura, creado nuevas libertades para ciertos grupos y haber invertido considerab",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Gustav_III",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_kultur": 5,
+      "kultur": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1792",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q52933",
+    "typ": "historia",
+    "titel": "Ulrika Eleonora.",
+    "ingress": "Ulrika Eleonora fue una reina sueca que gobernó entre 1719 y 1720. Era hija del rey Carlos XI y se convirtió en reina después de que su hermano, el rey Carlos XII, no pudiera heredar el trono.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Ulrika_Eleonora",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "barn": 3,
+      "sambo_gift": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1741",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q52931",
+    "typ": "historia",
+    "titel": "Adolfo Federico",
+    "ingress": "El texto narra la historia de Adolfo Federico, quien se convirtió en rey de Suecia en el año 1751. Ascendió al poder con ayuda de Rusia y tuvo una ceremonia de coronación muy lujosa en Estocolmo.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Adolf_Fredrik",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_vard": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1771",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q52932",
+    "typ": "historia",
+    "titel": "Fredrik I.",
+    "ingress": "El texto trata sobre Federico I, quien se convirtió en rey de Suecia en 1720 después de casarse con la princesa Ulrika Eleonora. Era un experimentado líder militar que gobernó Suecia durante una época en la que el poder del rey estaba limit",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Fredrik_I",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "varnpliktig": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1751",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q1393227",
+    "typ": "historia",
+    "titel": "Eva Ekeblad.",
+    "ingress": "Eva Ekeblad fue una figura importante del siglo XVIII, y se convirtió en la primera mujer en ser admitida en la Academia de Ciencias de Suecia. Es más conocida por haber sido pionera en el campo de la química y por descubrir cómo producir a",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Eva_Ekeblad",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "fou": 3,
+      "kvinna": 3,
+      "kultur": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1786",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q312498",
+    "typ": "historia",
+    "titel": "Carl Michael Bellman.",
+    "ingress": "Carl Michael Bellman fue un reconocido poeta sueco que escribió numerosas canciones y poemas populares durante el siglo XVIII. Se le considera uno de los autores más importantes de la historia de Suecia.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Carl_Michael_Bellman",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "b_kultur": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1795",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q57852",
+    "typ": "historia",
+    "titel": "Karl Federico de Holstein-Gottorp.",
+    "ingress": "Karl Fredrik fue un príncipe sueco que, durante un tiempo, se consideró como uno de los posibles sucesores al trono de Suecia. Abandonó el país y contrajo matrimonio con una princesa rusa después de perder la oportunidad de convertirse en r",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Karl_Fredrik_av_Holstein-Gottorp",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "epok": "frihetstiden",
+    "tid": "d. 1739",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q234251",
+    "typ": "historia",
+    "titel": "Luisa Úrsula de Prusia.",
+    "ingress": "El texto narra la historia de Luisa Ulrika de Prusia, quien se convirtió en reina de Suecia en 1751. Describe su infancia, cómo fue elegida para casarse con el heredero al trono sueco y su período en Suecia.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Lovisa_Ulrika_av_Preussen",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_vard": 8,
+      "b_kultur": 3,
+      "kultur": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1782",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q201347",
+    "typ": "historia",
+    "titel": "Torbern Bergman.",
+    "ingress": "Torbern Bergman fue un científico sueco que se hizo famoso por sus importantes descubrimientos en el campo de la química y las ciencias naturales durante el siglo XVIII.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Torbern_Bergman",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_bygg": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1784",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q468351",
+    "typ": "historia",
+    "titel": "Axel Fredrik Cronstedt.",
+    "ingress": "Axel Fredrik Cronstedt fue un científico sueco que sentó las bases de la geología moderna, el estudio de las rocas y los componentes de la Tierra. También es conocido por haber descubierto el metal níquel.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Axel_Fredrik_Cronstedt",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1765",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q315102",
+    "typ": "historia",
+    "titel": "Alexander Roslin.",
+    "ingress": "Alexander Roslin fue un artista sueco que se hizo famoso en París por sus habilidosas pinturas de retratos. Era especialmente talentoso para representar la ropa y las expresiones faciales, lo que le convirtió en una figura popular entre la",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Alexander_Roslin",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "beroende": 3,
+      "kultur": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1793",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q353693",
+    "typ": "historia",
+    "titel": "Christopher Polhem.",
+    "ingress": "Christopher Polhem fue un inventor sueco, considerado el padre de la mecánica sueca. Creó numerosas máquinas importantes y fundó la primera escuela de ingeniería de Suecia.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Christopher_Polhem",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_industri": 5,
+      "b_bygg": 3,
+      "barn": 3,
+      "pensionar": 3,
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1751",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q178823",
+    "typ": "historia",
+    "titel": "Carl von Linné el joven.",
+    "ingress": "Carl von Linné el joven fue un naturalista sueco que heredó el puesto de su padre como profesor de botánica y medicina. Se encargó de las importantes colecciones de plantas de su padre, a pesar de no estar él mismo particularmente interesad",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Carl_von_Linné_den_yngre",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "student": 3,
+      "kronisk": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1783",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q27684",
+    "typ": "historia",
+    "titel": "Peter Forsskål",
+    "ingress": "Peter Forsskål fue un científico y pensador sueco que luchó por la libertad de las personas y por el derecho a expresar sus opiniones libremente. Falleció durante un viaje científico en Yemen, pero sus ideas contribuyeron a la creación de l",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Peter_Forsskål",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "fou": 3,
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1763",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q473225",
+    "typ": "historia",
+    "titel": "Georg Brandt.",
+    "ingress": "Georg Brandt fue un químico sueco que, en el siglo XVIII, se hizo famoso por descubrir el elemento cobalto. Estudió química y medicina en varios países antes de convertirse en un importante investigador en Suecia.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Georg_Brandt",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1768",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q39789",
+    "typ": "historia",
+    "titel": "Daniel Solander.",
+    "ingress": "Daniel Solander fue un naturalista sueco que viajó alrededor del mundo y se convirtió en el primer sueco en visitar Australia. Hoy en día, es conocido por sus descubrimientos de plantas y por su caja especial para guardar libros.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Daniel_Solander",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "glesbygd": 3,
+      "kultur": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1782",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q434380",
+    "typ": "historia",
+    "titel": "Carl Gustaf Rehnskiöld.",
+    "ingress": "Carl Gustaf Rehnskiöld fue un importante líder militar sueco y un estrecho consejero del rey Carlos XII. Participó en el liderazgo del ejército sueco durante varias grandes guerras en los siglos XVII y XVIII.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Carl_Gustaf_Rehnskiöld",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1722",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q453272",
+    "typ": "historia",
+    "titel": "Joseph Martin Kraus.",
+    "ingress": "Joseph Martin Kraus fue un compositor de origen alemán y sueco que vivió en el siglo XVIII. Es conocido por haber compuesto una importante obra musical en Suecia, y a menudo se le ha considerado como el equivalente sueco de Mozart.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Joseph_Martin_Kraus",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "b_konsult": 3,
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1792",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q447071",
+    "typ": "historia",
+    "titel": "Anders Johan Lexell.",
+    "ingress": "Anders Johan Lexell fue un importante científico finlandés que alcanzó fama mundial por sus estudios en matemáticas y astronomía. Trabajó en Rusia y es considerado el primer finlandés en lograr importantes avances a nivel internacional en e",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Anders_Johan_Lexell",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1784",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q490870",
+    "typ": "historia",
+    "titel": "Anders Chydenius.",
+    "ingress": "Anders Chydenius fue un sacerdote y escritor que luchó para que los suecos tuvieran el derecho a escribir e imprimir lo que quisieran. Fue una figura clave detrás de la primera ley de libertad de prensa en Suecia, promulgada en 1766.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Anders_Chydenius",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "epok": "frihetstiden",
+    "tid": "d. 1803",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q76639",
+    "typ": "historia",
+    "titel": "Philip Johan von Strahlenberg.",
+    "ingress": "Philip Johan von Strahlenberg fue un oficial y cartógrafo sueco que se convirtió en prisionero en Siberia durante una guerra en el siglo XVIII. Allí, creó mapas importantes de la región y contribuyó a demostrar que Asia y América no estaban",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Philip_Johan_von_Strahlenberg",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "glesbygd": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1747",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q350346",
+    "typ": "historia",
+    "titel": "Adam Ludwig Lewenhaupt.",
+    "ingress": "El texto describe a Adam Ludwig Lewenhaupt, un conde y general sueco que lideró tropas suecas durante la Gran Guerra del Norte en el siglo XVIII.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Adam_Ludwig_Lewenhaupt",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "glesbygd": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1719",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q524071",
+    "typ": "historia",
+    "titel": "Peter Artedi.",
+    "ingress": "Peter Artedi fue un científico sueco considerado uno de los fundadores de la biología moderna y del estudio de los peces. Trabajó en estrecha colaboración con el famoso científico Carl von Linné.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Peter_Artedi",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1735",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q455194",
+    "typ": "historia",
+    "titel": "Carl Alexander Clerck.",
+    "ingress": "Carl Alexander Clerck fue un científico sueco que estudió insectos y arañas durante el siglo XVIII.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Carl_Alexander_Clerck",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "epok": "frihetstiden",
+    "tid": "d. 1765",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q450744",
+    "typ": "historia",
+    "titel": "Hedvig Charlotta Nordenflycht.",
+    "ingress": "Hedvig Charlotta Nordenflycht fue una destacada escritora sueca del siglo XVIII que luchó por los derechos y la educación de las mujeres.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Hedvig_Charlotta_Nordenflycht",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "kvinna": 3,
+      "varnpliktig": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1763",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q55069930",
+    "typ": "historia",
+    "titel": "Pehr Osbeck.",
+    "ingress": "Pehr Osbeck fue un sacerdote y naturalista sueco que viajó a China para recolectar plantas. Se hizo famoso por sus descubrimientos en botánica, la ciencia que estudia las plantas.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Pehr_Osbeck",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "epok": "frihetstiden",
+    "tid": "d. 1805",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q543195",
+    "typ": "historia",
+    "titel": "Johan Henric Kellgren.",
+    "ingress": "Johan Henric Kellgren fue un reconocido escritor, poeta y editor de periódicos sueco durante el siglo XVIII. Se hizo famoso por sus poemas y es considerado el primer crítico teatral de Suecia.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Johan_Henric_Kellgren",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "pensionar": 3,
+      "kultur": 5
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1795",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q455143",
+    "typ": "historia",
+    "titel": "Nicodemus Tessin el joven.",
+    "ingress": "Nicodemus Tessin el joven fue un arquitecto sueco muy reconocido, que diseñó, entre otros proyectos, el Palacio de Estocolmo y varias otras edificaciones importantes. Viajó extensamente por Europa para estudiar arquitectura y se convirtió e",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Nicodemus_Tessin_den_yngre",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_it": 3,
+      "infrastruktur": 3,
+      "batagare": 3,
+      "kultur": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1728",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q719204",
+    "typ": "historia",
+    "titel": "Pehr Kalm.",
+    "ingress": "El texto trata sobre Pehr Kalm, un científico sueco que se hizo famoso por estudiar plantas y viajar a América para encontrar especies vegetales útiles para Suecia.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Pehr_Kalm",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_industri": 3,
+      "b_grona": 3,
+      "klimat": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1779",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q1373367",
+    "typ": "historia",
+    "titel": "Olof von Dalin.",
+    "ingress": "Olof von Dalin fue un escritor y artista talentoso del siglo XVIII, conocido por su revista \"Then Swänska Argus\". Es importante porque su obra marcó el inicio de una nueva etapa en la historia de la literatura sueca.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Olof_von_Dalin",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "tillstand": 3,
+      "student": 3,
+      "kultur": 5
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1763",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q642336",
+    "typ": "historia",
+    "titel": "Johan Peter Falck.",
+    "ingress": "Johan Peter Falck fue un médico e investigador sueco que estudió bajo la tutela del renombrado científico Carl von Linné. Viajó extensamente por Rusia para estudiar plantas y animales.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Johan_Peter_Falck",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "fou": 3,
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1774",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
   }
 ]

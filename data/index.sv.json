@@ -12402,6 +12402,25 @@
     }
   },
   {
+    "id": "malmo-kommunfullmaktige-2025-11-26",
+    "typ": "kommunbeslut",
+    "titel": "Kommunfullmäktige, Malmö stad 2025-11-26",
+    "ingress": "Malmö stad höll ett möte där de diskuterade budgeten för år 2026. De fokuserade på områden som skola, vård och omsorg samt arbetsmarknad.",
+    "datum": "2025-11-26",
+    "kalla": "Malmö stad",
+    "kalla_url": "https://motenmedborgarportal.malmo.se/committees/kommunfullmaktige/mote-2025-11-26",
+    "taggar": [
+      "malmo",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_vard": 3,
+      "barn": 3,
+      "arbetssokande": 3,
+      "kronisk": 3
+    }
+  },
+  {
     "id": "HD0368",
     "typ": "lagforslag",
     "titel": "Avvikande från bestämmelserna om tyst godkännande i EU:s förordning om gigabitinfrastruktur",
@@ -13326,6 +13345,23 @@
     "relevans": {
       "kollektivavtal": 3,
       "lontagare": 3
+    }
+  },
+  {
+    "id": "malmo-kommunstyrelsen-2025-10-30",
+    "typ": "kommunbeslut",
+    "titel": "Kommunstyrelsen, Malmö stad 2025-10-30",
+    "ingress": "Malmö stad har beslutat om sin budget för år 2026 och planerat hur pengarna ska användas fram till 2028. Detta inkluderar bland annat att skatten i Malmö ska vara 21,24 procent under 2026.",
+    "datum": "2025-10-30",
+    "kalla": "Malmö stad",
+    "kalla_url": "https://motenmedborgarportal.malmo.se/committees/kommunstyrelsen/mote-2025-10-30",
+    "taggar": [
+      "malmo",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "b_vard": 3,
+      "barn": 3
     }
   },
   {
@@ -21872,6 +21908,953 @@
     ],
     "epok": "stormaktstiden",
     "tid": "d. 1663",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q1043",
+    "typ": "historia",
+    "titel": "Carl von Linné",
+    "ingress": "Carl von Linné var en svensk vetenskapsman som skapade ett system för att namnge och sortera alla växter och djur i världen. Hans arbete är än idag grunden för hur vi klassificerar naturen.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Carl_von_Linné",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "hallbarhetsrapport": 3,
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1778",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q81130",
+    "typ": "historia",
+    "titel": "Anders Celsius",
+    "ingress": "Anders Celsius var en svensk vetenskapsman som är mest känd för att ha skapat den temperaturmätning vi använder idag, alltså Celsiusgraden.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Anders_Celsius",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1744",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q185832",
+    "typ": "historia",
+    "titel": "Emanuel Swedenborg",
+    "ingress": "Emanuel Swedenborg var en svensk vetenskapsman och religiös ledare som blev känd för sina texter om andevärlden och kristendomen. Han inspirerade många kända konstnärer och tänkare genom sina idéer.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Emanuel_Swedenborg",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "barn": 3,
+      "kultur": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1772",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q70538",
+    "typ": "historia",
+    "titel": "Carl Wilhelm Scheele",
+    "ingress": "Carl Wilhelm Scheele var en svensk apotekare som på 1700-talet blev en av Europas mest kända kemister. Han är främst känd för att ha upptäckt viktiga ämnen, bland annat syre och klor.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Carl_Wilhelm_Scheele",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "epok": "frihetstiden",
+    "tid": "d. 1786",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q52930",
+    "typ": "historia",
+    "titel": "Gustav III",
+    "ingress": "Gustav III var en svensk kung som genomförde stora förändringar i landets styre och lagar under 1700-talet. Han är känd för att ha förbjudit tortyr, skapat nya friheter för vissa grupper och satsat mycket på kultur.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Gustav_III",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_kultur": 5,
+      "kultur": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1792",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q52933",
+    "typ": "historia",
+    "titel": "Ulrika Eleonora",
+    "ingress": "Ulrika Eleonora var en svensk drottning som regerade mellan 1719 och 1720. Hon var dotter till kung Karl XI och blev drottning efter att hennes bror, kung Karl XII, inte kunde ärva tronen.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Ulrika_Eleonora",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "barn": 3,
+      "sambo_gift": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1741",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q52931",
+    "typ": "historia",
+    "titel": "Adolf Fredrik",
+    "ingress": "Texten berättar om Adolf Fredrik som blev svensk kung år 1751. Han kom till makten med hjälp från Ryssland och hade en mycket påkostad kröning i Stockholm.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Adolf_Fredrik",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_vard": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1771",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q52932",
+    "typ": "historia",
+    "titel": "Fredrik I",
+    "ingress": "Texten handlar om Fredrik I, som blev svensk kung år 1720 efter att ha gift sig med prinsessan Ulrika Eleonora. Han var en erfaren militärledare som styrde Sverige under en tid då kungens makt begränsades av riksdagen.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Fredrik_I",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "varnpliktig": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1751",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q1393227",
+    "typ": "historia",
+    "titel": "Eva Ekeblad",
+    "ingress": "Eva Ekeblad var en viktig kvinna under 1700-talet som blev den första kvinnan i Sveriges Vetenskapsakademi. Hon är mest känd för att ha varit en pionjär inom kemi och för att ha hittat ut hur man gör brännvin av potatis.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Eva_Ekeblad",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "fou": 3,
+      "kvinna": 3,
+      "kultur": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1786",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q312498",
+    "typ": "historia",
+    "titel": "Carl Michael Bellman",
+    "ingress": "Carl Michael Bellman var en känd svensk poet som skrev många populära sånger och dikter under 1700-talet. Han räknas som en av Sveriges viktigaste författare genom tiderna.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Carl_Michael_Bellman",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "b_kultur": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1795",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q57852",
+    "typ": "historia",
+    "titel": "Karl Fredrik av Holstein-Gottorp",
+    "ingress": "Karl Fredrik var en svensk prins som under en tid var en av de personer som kunde ha blivit kung av Sverige. Han lämnade landet och gifte sig med en rysk prinsessa efter att han förlorat sin chans till den svenska tronen.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Karl_Fredrik_av_Holstein-Gottorp",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "epok": "frihetstiden",
+    "tid": "d. 1739",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q234251",
+    "typ": "historia",
+    "titel": "Lovisa Ulrika av Preussen",
+    "ingress": "Texten berättar om Lovisa Ulrika av Preussen, som blev drottning av Sverige 1751. Den beskriver hennes uppväxt, hur hon valdes ut för att gifta sig med den svenska tronföljaren och hennes tid i Sverige.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Lovisa_Ulrika_av_Preussen",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_vard": 8,
+      "b_kultur": 3,
+      "kultur": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1782",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q201347",
+    "typ": "historia",
+    "titel": "Torbern Bergman",
+    "ingress": "Torbern Bergman var en svensk forskare som blev känd för sina viktiga upptäckter inom kemi och naturvetenskap på 1700-talet.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Torbern_Bergman",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_bygg": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1784",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q468351",
+    "typ": "historia",
+    "titel": "Axel Fredrik Cronstedt",
+    "ingress": "Axel Fredrik Cronstedt var en svensk forskare som lade grunden för den moderna läran om stenar och jordens beståndsdelar (geologi). Han är också känd för att ha upptäckt metallen nickel.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Axel_Fredrik_Cronstedt",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1765",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q315102",
+    "typ": "historia",
+    "titel": "Alexander Roslin",
+    "ingress": "Alexander Roslin var en svensk konstnär som blev känd i Paris för sina skickliga porträttmålningar. Han var särskilt duktig på att måla kläder och ansiktsuttryck, vilket gjorde honom populär bland adeln.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Alexander_Roslin",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "beroende": 3,
+      "kultur": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1793",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q353693",
+    "typ": "historia",
+    "titel": "Christopher Polhem",
+    "ingress": "Christopher Polhem var en svensk uppfinnare som kallas för den svenska mekanikens fader. Han skapade många viktiga maskiner och grundade Sveriges första ingenjörsskola.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Christopher_Polhem",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_industri": 5,
+      "b_bygg": 3,
+      "barn": 3,
+      "pensionar": 3,
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1751",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q178823",
+    "typ": "historia",
+    "titel": "Carl von Linné den yngre",
+    "ingress": "Carl von Linné den yngre var en svensk naturforskare som ärvde sin pappas jobb som professor i växter och medicin. Han tog hand om sina pappas viktiga samlingar av växter trots att han själv inte var särskilt intresserad av vetenskapen.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Carl_von_Linné_den_yngre",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "student": 3,
+      "kronisk": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1783",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q27684",
+    "typ": "historia",
+    "titel": "Peter Forsskål",
+    "ingress": "Peter Forsskål var en svensk forskare och tänkare som kämpade för människors frihet och rätt att få skriva vad man vill. Han dog under en vetenskaplig resa i Jemen, men hans idéer hjälpte till att skapa den första tryckfrihetslagen i världe",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Peter_Forsskål",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "fou": 3,
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1763",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q473225",
+    "typ": "historia",
+    "titel": "Georg Brandt",
+    "ingress": "Georg Brandt var en svensk kemist som på 1700-talet blev känd för att upptäcka grundämnet kobolt. Han studerade kemi och medicin i flera länder innan han blev en viktig forskare i Sverige.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Georg_Brandt",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1768",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q39789",
+    "typ": "historia",
+    "titel": "Daniel Solander",
+    "ingress": "Daniel Solander var en svensk naturforskare som reste jorden runt och blev den första svensken att besöka Australien. Han är idag känd för sina upptäckter av växter och för sin speciella låda för att förvara böcker.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Daniel_Solander",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "glesbygd": 3,
+      "kultur": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1782",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q434380",
+    "typ": "historia",
+    "titel": "Carl Gustaf Rehnskiöld",
+    "ingress": "Carl Gustaf Rehnskiöld var en viktig svensk militärledare och nära rådgivare till kung Karl XII. Han var med och ledde den svenska armén under flera stora krig på 1600- och 1700-talet.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Carl_Gustaf_Rehnskiöld",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1722",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q453272",
+    "typ": "historia",
+    "titel": "Joseph Martin Kraus",
+    "ingress": "Joseph Martin Kraus var en tysk-svensk musikkompositör som levde på 1700-talet. Han är känd för att ha skrivit stor musik i Sverige och har ibland kallats för den svenska motsvarigheten till Mozart.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Joseph_Martin_Kraus",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "b_konsult": 3,
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1792",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q447071",
+    "typ": "historia",
+    "titel": "Anders Johan Lexell",
+    "ingress": "Anders Johan Lexell var en viktig finländsk forskare som blev världskänd för sina studier inom matematik och astronomi. Han arbetade i Ryssland och räknas som den första finländaren att göra stora internationella genombrott inom dessa ämnen",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Anders_Johan_Lexell",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1784",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q490870",
+    "typ": "historia",
+    "titel": "Anders Chydenius",
+    "ingress": "Anders Chydenius var en präst och skriftställare som kämpade för att svenskar skulle få rätt att skriva och trycka vad de ville. Han var en viktig person bakom den första tryckfrihetslagen i Sverige år 1766.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Anders_Chydenius",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "epok": "frihetstiden",
+    "tid": "d. 1803",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q76639",
+    "typ": "historia",
+    "titel": "Philip Johan von Strahlenberg",
+    "ingress": "Philip Johan von Strahlenberg var en svensk officer och kartritare som blev fången i Sibirien under ett krig på 1700-talet. Där skapade han viktiga kartor över området och hjälpte till att bevisa att Asien och Amerika inte satt ihop.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Philip_Johan_von_Strahlenberg",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "glesbygd": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1747",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q350346",
+    "typ": "historia",
+    "titel": "Adam Ludwig Lewenhaupt",
+    "ingress": "Texten berättar om Adam Ludwig Lewenhaupt, en svensk greve och general som ledde svenska trupper under det stora nordiska kriget på 1700-talet.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Adam_Ludwig_Lewenhaupt",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "glesbygd": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1719",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q524071",
+    "typ": "historia",
+    "titel": "Peter Artedi",
+    "ingress": "Peter Artedi var en svensk forskare som räknas som en av grundarna till den moderna biologin och studiet av fiskar. Han arbetade nära den kända vetenskapsmannen Carl von Linné.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Peter_Artedi",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1735",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q455194",
+    "typ": "historia",
+    "titel": "Carl Alexander Clerck",
+    "ingress": "Carl Alexander Clerck var en svensk forskare som studerade insekter och spindlar under 1700-talet.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Carl_Alexander_Clerck",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "epok": "frihetstiden",
+    "tid": "d. 1765",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q450744",
+    "typ": "historia",
+    "titel": "Hedvig Charlotta Nordenflycht",
+    "ingress": "Hedvig Charlotta Nordenflycht var en känd svensk författare på 1700-talet som kämpade för kvinnors rättigheter och utbildning.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Hedvig_Charlotta_Nordenflycht",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "kvinna": 3,
+      "varnpliktig": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1763",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q55069930",
+    "typ": "historia",
+    "titel": "Pehr Osbeck",
+    "ingress": "Pehr Osbeck var en svensk präst och naturforskare som reste till Kina för att samla in växter. Han blev känd för sina upptäckter inom botanik, läran om växter.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Pehr_Osbeck",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "epok": "frihetstiden",
+    "tid": "d. 1805",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q543195",
+    "typ": "historia",
+    "titel": "Johan Henric Kellgren",
+    "ingress": "Johan Henric Kellgren var en känd svensk författare, poet och tidningsredaktör under 1700-talet. Han blev känd för sina dikter och som Sveriges första teaterkritiker.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Johan_Henric_Kellgren",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "pensionar": 3,
+      "kultur": 5
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1795",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q455143",
+    "typ": "historia",
+    "titel": "Nicodemus Tessin den yngre",
+    "ingress": "Nicodemus Tessin den yngre var en mycket känd svensk arkitekt som ritade bland annat Stockholms slott och flera andra viktiga byggnader. Han reste mycket i Europa för att lära sig om arkitektur och blev en högt uppskattad person vid hovet.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Nicodemus_Tessin_den_yngre",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_it": 3,
+      "infrastruktur": 3,
+      "batagare": 3,
+      "kultur": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1728",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q719204",
+    "typ": "historia",
+    "titel": "Pehr Kalm",
+    "ingress": "Texten berättar om Pehr Kalm, en svensk forskare som blev känd för att studera växter och resa till Amerika för att hitta nyttiga växter åt Sverige.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Pehr_Kalm",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_industri": 3,
+      "b_grona": 3,
+      "klimat": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1779",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q1373367",
+    "typ": "historia",
+    "titel": "Olof von Dalin",
+    "ingress": "Olof von Dalin var en begåvad författare och konstnär under 1700-talet som blev känd för sin tidskrift 'Then Swänska Argus'. Han är viktig eftersom hans arbete markerade starten på en ny period i svensk litteraturhistoria.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Olof_von_Dalin",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "tillstand": 3,
+      "student": 3,
+      "kultur": 5
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1763",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q642336",
+    "typ": "historia",
+    "titel": "Johan Peter Falck",
+    "ingress": "Johan Peter Falck var en svensk läkare och forskare som studerade under den kända vetenskapsmannen Carl von Linné. Han reste långt i Ryssland för att studera växter och djur.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Johan_Peter_Falck",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "fou": 3,
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1774",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q440427",
+    "typ": "historia",
+    "titel": "Aurora Königsmarck",
+    "ingress": "Aurora Königsmarck var en svensk adelskvinna under 1600-talet som blev känd för sitt intresse för teater och kultur. Hon blev senare älskarinna till den tyske fursten August den starke.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Aurora_Königsmarck",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "barn": 3,
+      "kvinna": 3,
+      "kultur": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1728",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q126270",
+    "typ": "historia",
+    "titel": "Sophia Elisabet Brenner",
+    "ingress": "Sophia Elisabet Brenner var en viktig svensk författare på 1700-talet som kämpade för kvinnors rättigheter. Hon var den första kvinnan i Sverige som gav ut dikter på svenska.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Sophia_Elisabet_Brenner",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "kvinna": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1730",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q496775",
+    "typ": "historia",
+    "titel": "Anders Dahl",
+    "ingress": "Anders Dahl var en svensk botaniker som studerade växter och blev elev till den kända forskaren Carl von Linné. Han är så viktig inom sitt område att blomman dahlia har fått sitt namn efter honom.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Anders_Dahl",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "student": 3,
+      "kronisk": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1789",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q717179",
+    "typ": "historia",
+    "titel": "Arvid Horn",
+    "ingress": "Arvid Horn var en viktig svensk ledare under 1700-talet som hjälpte Sverige att gå från kungens envälde till ett system där riksdagen bestämde mer. Han var känd för sin försiktiga utrikespolitik och sitt arbete med att skapa stabilitet i st",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Arvid_Horn",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "fortroendevald": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1742",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q961575",
+    "typ": "historia",
+    "titel": "Johan Agrell",
+    "ingress": "Johan Agrell var en svensk musiker och tonsättare under 1700-talet som blev känd i Europa för sina kompositioner. Han bodde i Tyskland under sina sista år och är idag viktig i musikhistorien.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Johan_Agrell",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_it": 3,
+      "b_kultur": 3,
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1765",
     "kallage": "samtida",
     "sakerhet": "belagt",
     "konsensus": "samsyn",

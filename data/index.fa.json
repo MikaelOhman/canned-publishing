@@ -21576,5 +21576,830 @@
     "sakerhet": "belagt",
     "konsensus": "samsyn",
     "flaggor": []
+  },
+  {
+    "id": "hist-q1043",
+    "typ": "historia",
+    "titel": "کارل فون لینِه",
+    "ingress": "کارل ون لینِ، یک دانشمند سوئدی بود که سیستمی را برای نام‌گذاری و طبقه‌بندی تمام گیاهان و جانوران جهان ایجاد کرد. کار او هنوز هم مبنایی برای نحوه طبقه‌بندی طبیعت است.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Carl_von_Linné",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "hallbarhetsrapport": 3,
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1778",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q81130",
+    "typ": "historia",
+    "titel": "آندرس سلسیوس",
+    "ingress": "آندرس سلسیوس، دانشمند سوئدی بود که بیشتر به خاطر اختراع روش اندازه‌گیری دما شناخته می‌شود که امروزه ما از آن با نام \"درجه سلسیوس\" استفاده می‌کنیم.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Anders_Celsius",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1744",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q185832",
+    "typ": "historia",
+    "titel": "امانوئل سوئدبرگ",
+    "ingress": "ایمانوئل سودنبرگ، دانشمند و رهبر مذهبی سوئدی بود که به خاطر نوشته‌هایش درباره جهان معنوی و مسیحیت مشهور شد. ایده‌های او الهام‌بخش بسیاری از هنرمندان و متفکران برجسته بودند.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Emanuel_Swedenborg",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "barn": 3,
+      "kultur": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1772",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q70538",
+    "typ": "historia",
+    "titel": "کارل ویلهلم شلِ (Carl Wilhelm Scheele)",
+    "ingress": "کارل ویلهلم شيله، یک داروساز سوئدی بود که در قرن هجدهم به یکی از شناخته‌شده‌ترین شیمی‌دانان اروپا تبدیل شد. او بیشتر به خاطر کشف مواد مهمی شناخته می‌شود، از جمله اکسیژن و کلر.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Carl_Wilhelm_Scheele",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "epok": "frihetstiden",
+    "tid": "d. 1786",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q52930",
+    "typ": "historia",
+    "titel": "گوستاو سوم",
+    "ingress": "گوستاو سوم، پادشاه سوئد، در طول قرن هجدهم، تحولات بزرگی را در نظام حکومتی و قوانین کشور به ارمغان آورد. او به خاطر ممنوعیت شکنجه، ایجاد آزادی‌های جدید برای گروه‌های خاص، و سرمایه‌گذاری گسترده در حوزه فرهنگ شناخته می‌شود.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Gustav_III",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_kultur": 5,
+      "kultur": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1792",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q52933",
+    "typ": "historia",
+    "titel": "اولریکا الئونورا",
+    "ingress": "اولریکا الئونورا، ملکه سوئد بود که از سال 1719 تا 1720 سلطنت کرد. او دختر پادشاه کارل یازدهم بود و پس از اینکه برادرش، پادشاه کارل دوازدهم، نتوانست تاج و تخت را به ارث برساند، به مقام ملکه رسید.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Ulrika_Eleonora",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "barn": 3,
+      "sambo_gift": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1741",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q52931",
+    "typ": "historia",
+    "titel": "آدولف فردریک",
+    "ingress": "این متن درباره آدولف فردریک صحبت می‌کند که در سال 1751 به عنوان پادشاه سوئد تاج‌گذاری کرد. او با کمک روسیه به قدرت رسید و مراسم تاج‌گذاری بسیار باشکوهی در استکهلم برگزار شد.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Adolf_Fredrik",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_vard": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1771",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q52932",
+    "typ": "historia",
+    "titel": "فردریش اول",
+    "ingress": "این متن درباره فردریک اول است که در سال 1720، پس از ازدواج با شاهدزاده الیزابت شارلوت، به عنوان پادشاه سوئد تاج‌گذاری کرد. او یک فرمانده نظامی باتجربه بود و در دوره‌ای حکومت می‌کرد که قدرت پادشاه توسط مجلس سنا محدود شده بود.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Fredrik_I",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "varnpliktig": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1751",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q1393227",
+    "typ": "historia",
+    "titel": "ایوا اِکِبْلاّد",
+    "ingress": "ایوا اِکِبْلا، شخصیتی برجسته در قرن هجدهم بود که به عنوان اولین زن، عضو آکادمی علوم سوئد شد. او بیشتر به خاطر پیشگام بودن در زمینه شیمی و همچنین کشف روش تولید ودکا از سیب‌زمینی شناخته می‌شود.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Eva_Ekeblad",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "fou": 3,
+      "kvinna": 3,
+      "kultur": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1786",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q312498",
+    "typ": "historia",
+    "titel": "کارل مایکل بلمن",
+    "ingress": "کارل مایکل بلمن، یک شاعر برجسته سوئدی بود که در طول قرن هجدهم، ترانه‌ها و اشعار محبوب بسیاری سرود. او به عنوان یکی از مهم‌ترین نویسندگان تاریخ سوئد شناخته می‌شود.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Carl_Michael_Bellman",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "b_kultur": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1795",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q57852",
+    "typ": "historia",
+    "titel": "کارل فردریش از هولشتاین-گوتورپ.",
+    "ingress": "کارل فردریک، شاهزاده‌ای سوئدی بود که در دوره‌ای از زندگی، یکی از نامزدهای احتمالی تاج و تخت سلطنتی سوئد محسوب می‌شد. او کشور را ترک کرد و با یک شاهزاده خانم روسی ازدواج کرد، پس از اینکه شانس خود برای رسیدن به مقام پادشاهی سوئد را از دست داد",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Karl_Fredrik_av_Holstein-Gottorp",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "epok": "frihetstiden",
+    "tid": "d. 1739",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q234251",
+    "typ": "historia",
+    "titel": "لوویسا اولریکای پروسی.",
+    "ingress": "این متن درباره لوییزی اولریکای پروس، که در سال 1751 ملکه سوئد شد، صحبت می‌کند. در این متن به دوران کودکی او، نحوه انتخابش برای ازدواج با ولیعهد سوئد و دوران زندگی‌اش در سوئد اشاره شده است.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Lovisa_Ulrika_av_Preussen",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_vard": 8,
+      "b_kultur": 3,
+      "kultur": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1782",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q201347",
+    "typ": "historia",
+    "titel": "توربرن برگمان",
+    "ingress": "توربرن برگمان، یک دانشمند سوئدی بود که در قرن هجدهم به دلیل اکتشافات مهمش در زمینه‌های شیمی و علوم طبیعی مشهور شد.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Torbern_Bergman",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_bygg": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1784",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q468351",
+    "typ": "historia",
+    "titel": "آکسل فردریک کرونشتدت.",
+    "ingress": "آکسل فردریك كرونشتدت، دانشمند سوئدی بود که مبانی علم مدرن زمین‌شناسی را پایه‌گذاری کرد. او همچنین به خاطر کشف فلز نیکل مشهور است.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Axel_Fredrik_Cronstedt",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1765",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q315102",
+    "typ": "historia",
+    "titel": "الکساندر روسلین",
+    "ingress": "الکساندر روسلین، هنرمندی سوئدی بود که در پاریس به خاطر نقاشی‌های پرتره ماهرانه خود مشهور شد. او به‌ویژه در نقاشی لباس‌ها و حالات چهره مهارت داشت، که این موضوع باعث محبوبیت او در میان اشراف شد.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Alexander_Roslin",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "beroende": 3,
+      "kultur": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1793",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q353693",
+    "typ": "historia",
+    "titel": "کریستوفر پولهم",
+    "ingress": "کریستوفر پولهم، یک مخترع سوئدی بود که به عنوان \"پدر مکانیزاسیون سوئد\" شناخته می‌شود. او ماشین‌آلات مهمی را اختراع کرد و اولین دانشکده مهندسی سوئد را تأسیس نمود.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Christopher_Polhem",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_industri": 5,
+      "b_bygg": 3,
+      "barn": 3,
+      "pensionar": 3,
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1751",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q178823",
+    "typ": "historia",
+    "titel": "کارل فون لینِه جوان.",
+    "ingress": "کارل فون لینئ جوان، یک طبیعت‌شناس سوئدی بود که شغل پدرش را به عنوان استاد گیاه‌شناسی و پزشکی به ارث برد. او از مجموعه‌های ارزشمند گیاهی متعلق به پدرش مراقبت می‌کرد، با اینکه خودش به‌طور خاص علاقه‌ای به علم نداشت.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Carl_von_Linné_den_yngre",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "student": 3,
+      "kronisk": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1783",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q27684",
+    "typ": "historia",
+    "titel": "پیتر فورسکول",
+    "ingress": "پیتر فورسکال، یک محقق و متفکر سوئدی بود که برای آزادی مردم و حق آنها در بیان نظراتشان تلاش کرد. او در حین یک سفر علمی در یمن درگذشت، اما ایده‌هایش به ایجاد اولین قانون مطبوعات جهان کمک کرد.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Peter_Forsskål",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "fou": 3,
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1763",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q473225",
+    "typ": "historia",
+    "titel": "جورج برانت",
+    "ingress": "جورج برانت، یک شیمی‌دان سوئدی بود که در قرن هفدهم میلادی به دلیل کشف عنصر کبالت مشهور شد. او قبل از اینکه به عنوان یک محقق برجسته در سوئد شناخته شود، در چندین کشور تحصیلات خود را در رشته‌های شیمی و پزشکی ادامه داد.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Georg_Brandt",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1768",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q39789",
+    "typ": "historia",
+    "titel": "دانیل سولاندر",
+    "ingress": "دانیل سولاندر، یک طبیعت‌شناس سوئدی بود که دور دنیا سفر کرد و اولین سوئدی‌ای شد که به استرالیا سفر کرد. امروزه او بیشتر به خاطر اکتشافاتش در زمینه گیاهان و همچنین جعبه خاصی که برای نگهداری کتاب‌ها طراحی کرده بود، شناخته می‌شود.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Daniel_Solander",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "glesbygd": 3,
+      "kultur": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1782",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q434380",
+    "typ": "historia",
+    "titel": "کارل گوستاف رنشیولد",
+    "ingress": "کارل گوستاف رنسکیولد، یک فرمانده نظامی مهم سوئدی و مشاور نزدیک پادشاه کارل دوازدهم بود. او در رهبری ارتش سوئد در چندین جنگ بزرگ در قرن‌های ۱۶ و ۱۷ نقش داشت.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Carl_Gustaf_Rehnskiöld",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1722",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q453272",
+    "typ": "historia",
+    "titel": "جوزف مارتین کرائوس",
+    "ingress": "ژوزف مارتین کرائوس، آهنگساز آلمانی-سوئدی بود که در قرن هجدهم زندگی می‌کرد. او به خاطر خلق آثار موسیقی برجسته در سوئد شناخته شده است و گاهی اوقات به عنوان معادل سوئدی موتزارت نامیده می‌شود.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Joseph_Martin_Kraus",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "b_konsult": 3,
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1792",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q447071",
+    "typ": "historia",
+    "titel": "آندرس یوهان لکسل",
+    "ingress": "آندرس یوهان لکسل، یک محقق برجسته فنلاندی بود که به دلیل تحقیقاتش در زمینه ریاضیات و نجوم در سطح جهانی مشهور شد. او در روسیه فعالیت می‌کرد و به عنوان اولین فرد فنلاندی شناخته می‌شود که دستاوردهای بزرگی را در این زمینه‌ها در سطح بین‌المللی کس",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Anders_Johan_Lexell",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1784",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q490870",
+    "typ": "historia",
+    "titel": "آندرس چیدنیوس",
+    "ingress": "آندرس چیدنیوس، یک روحانی و نویسنده بود که برای این حق مبارزه کرد که سوئدی‌ها بتوانند هر آنچه می‌خواهند بنویسند و منتشر کنند. او یکی از چهره‌های کلیدی در تصویب اولین قانون آزادی مطبوعات در سوئد در سال 1766 بود.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Anders_Chydenius",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "epok": "frihetstiden",
+    "tid": "d. 1803",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q76639",
+    "typ": "historia",
+    "titel": "فیلیپ یوهان فون استرالنبرگ",
+    "ingress": "فیلیپ یوهان فون اشتراهلنبرگ، یک افسر و نقشه‌نگار سوئدی بود که در طول جنگی در قرن هجدهم در سیبری به اسارت درآمد. او در آنجا نقشه‌های مهمی از منطقه تهیه کرد و به اثبات این موضوع کمک کرد که آسیا و آمریکای شمالی به هم متصل نیستند.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Philip_Johan_von_Strahlenberg",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "glesbygd": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1747",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q350346",
+    "typ": "historia",
+    "titel": "آدام لودویگ لوونهاوپت",
+    "ingress": "این متن درباره آدام لودویگ لوونهاوپت، یک اشراف‌زاده و ژنرال سوئدی است که در طول جنگ‌های بزرگ اسکاندیناوی در قرن هجدهم، فرماندهی نیروهای سوئدی را بر عهده داشت.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Adam_Ludwig_Lewenhaupt",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "glesbygd": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1719",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q524071",
+    "typ": "historia",
+    "titel": "پیتر آرتدی",
+    "ingress": "پیتر آرتدی، یک محقق سوئدی بود که به عنوان یکی از بنیانگذاران زیست‌شناسی مدرن و مطالعه ماهی‌ها شناخته می‌شود. او با دانشمند مشهور، کارل فون لینِه، همکاری نزدیکی داشت.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Peter_Artedi",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1735",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q455194",
+    "typ": "historia",
+    "titel": "کارل الکساندر کلرک",
+    "ingress": "کارل الکساندر کلرک، یک محقق سوئدی بود که در قرن هجدهم به مطالعه حشرات و عنکبوت‌ها پرداخت.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Carl_Alexander_Clerck",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "epok": "frihetstiden",
+    "tid": "d. 1765",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q450744",
+    "typ": "historia",
+    "titel": "هدویگ شارلوت نوردنفلیت",
+    "ingress": "هدویگ شارلوتا نوردنفلیکت، نویسنده مشهور سوئدی در قرن هجدهم بود که برای حقوق و آموزش زنان تلاش می‌کرد.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Hedvig_Charlotta_Nordenflycht",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "kvinna": 3,
+      "varnpliktig": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1763",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q55069930",
+    "typ": "historia",
+    "titel": "پهر اوسبک",
+    "ingress": "پهر اوسبک، یک روحانی و محقق طبیعت سوئدی بود که به چین سفر کرد تا گیاهان را جمع‌آوری کند. او به خاطر اکتشافاتش در زمینه گیاه‌شناسی، یعنی علم مطالعه گیاهان، مشهور شد.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Pehr_Osbeck",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "epok": "frihetstiden",
+    "tid": "d. 1805",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q543195",
+    "typ": "historia",
+    "titel": "یوهان هنریک کلوگرن",
+    "ingress": "یوهان هنریک کِلگرن، نویسنده، شاعر و ویراستار مشهور سوئدی بود که در قرن هجدهم فعالیت می‌کرد. او به خاطر اشعارش و همچنین به عنوان اولین منتقد تئاتر در سوئد شناخته شد.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Johan_Henric_Kellgren",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "pensionar": 3,
+      "kultur": 5
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1795",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q455143",
+    "typ": "historia",
+    "titel": "نیکودیموس تسین جوان‌تر.",
+    "ingress": "نیکودیموس تسین جوان، یک معمار سوئدی بسیار مشهور بود که طرح‌هایی از جمله کاخ سلطنتی استکهلم و چندین ساختمان مهم دیگر را ارائه داد. او سفرهای زیادی به اروپا داشت تا درباره معماری اطلاعات کسب کند و به همین دلیل، شخصیتی ارزشمند در دربار شد.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Nicodemus_Tessin_den_yngre",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_it": 3,
+      "infrastruktur": 3,
+      "batagare": 3,
+      "kultur": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1728",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q719204",
+    "typ": "historia",
+    "titel": "پهر کالم",
+    "ingress": "این متن درباره پیتر کالم، یک محقق سوئدی است که به دلیل مطالعاتش در زمینه گیاهان و سفرهایش به آمریکا برای یافتن گیاهان مفید برای سوئد مشهور شد.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Pehr_Kalm",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_industri": 3,
+      "b_grona": 3,
+      "klimat": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1779",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q1373367",
+    "typ": "historia",
+    "titel": "اولوف فون دالین",
+    "ingress": "اولوف فون دالین، نویسنده و هنرمندی برجسته در قرن هجدهم بود که به خاطر مجله‌اش با نام \"Then Swänska Argus\" شهرت یافت. اهمیت او از این جهت است که آثارش آغاز یک دوره جدید را در تاریخ ادبیات سوئد رقم زد.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Olof_von_Dalin",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "tillstand": 3,
+      "student": 3,
+      "kultur": 5
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1763",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q642336",
+    "typ": "historia",
+    "titel": "یوهان پیتر فالک",
+    "ingress": "یوهان پیتر فالک، یک پزشک و محقق سوئدی بود که در زیر نظر دانشمند مشهور، کارل فون لینِه، تحصیل کرد. او سفرهای طولانی به روسیه داشت تا گیاهان و جانوران را مطالعه کند.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Johan_Peter_Falck",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "fou": 3,
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1774",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
   }
 ]

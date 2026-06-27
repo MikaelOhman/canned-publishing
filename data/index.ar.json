@@ -21619,5 +21619,830 @@
     "sakerhet": "belagt",
     "konsensus": "samsyn",
     "flaggor": []
+  },
+  {
+    "id": "hist-q1043",
+    "typ": "historia",
+    "titel": "كارل فون لينيه.",
+    "ingress": "كان كارل فون لينيه عالمًا سويديًا ابتكر نظامًا لتسمية وترتيب جميع النباتات والحيوانات في العالم. ولا يزال عمله يشكل الأساس لكيفية تصنيفنا للطبيعة حتى اليوم.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Carl_von_Linné",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "hallbarhetsrapport": 3,
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1778",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q81130",
+    "typ": "historia",
+    "titel": "أندرس سيليسيوس.",
+    "ingress": "أندرس سيليزيوس كان عالمًا سويديًا، وهو معروف بشكل خاص بأنه ابتكر نظام قياس درجة الحرارة الذي نستخدمه اليوم، والذي يُعرف باسم \"درجة مئوية\".",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Anders_Celsius",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1744",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q185832",
+    "typ": "historia",
+    "titel": "إيمانويل سفيدنبورغ.",
+    "ingress": "إيمانويل سفيدنبورغ كان عالمًا سويديًا وقائدًا دينيًا، اشتهر بكتاباته حول العالم الروحي والمسيحية. ألهم أفكاره العديد من الفنانين والمفكرين المشهورين.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Emanuel_Swedenborg",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "barn": 3,
+      "kultur": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1772",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q70538",
+    "typ": "historia",
+    "titel": "كارل فيلهلم شيلي.",
+    "ingress": "كارل فيلهلم شيل، كان صيدليًا سويديًا، وفي القرن الثامن عشر أصبح أحد أشهر الكيميائيين في أوروبا. وهو معروف بشكل أساسي باكتشافه لعناصر مهمة، بما في ذلك الأكسجين والكلور.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Carl_Wilhelm_Scheele",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "epok": "frihetstiden",
+    "tid": "d. 1786",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q52930",
+    "typ": "historia",
+    "titel": "جوشتاف الثالث.",
+    "ingress": "كان الملك غوستاف الثالث ملكًا سويديًا أجرى تغييرات كبيرة في نظام الحكم والقوانين في السويد خلال القرن الثامن عشر. وهو معروف بحظره للتعذيب، وخلق حريات جديدة لبعض الفئات، واستثماره الكبير في مجال الثقافة.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Gustav_III",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_kultur": 5,
+      "kultur": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1792",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q52933",
+    "typ": "historia",
+    "titel": "أولريكا إيلونورا.",
+    "ingress": "كانت أولريكا إيلونورا ملكة السويد، وحكمت بين عامي 1719 و1720. كانت ابنة الملك كارل الحادي عشر، وأصبحت ملكة بعد أن لم يتمكن شقيقها، الملك كارل الثاني عشر، من وراثة العرش.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Ulrika_Eleonora",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "barn": 3,
+      "sambo_gift": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1741",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q52931",
+    "typ": "historia",
+    "titel": "أدولف فريدريك.",
+    "ingress": "يتحدث النص عن أدولف فريدريك، الذي أصبح ملكًا لـالسويد في عام 1751. وقد وصل إلى السلطة بمساعدة من روسيا، وشهد تتويجه في ستوكهولم مراسم باذخة ومكلفة للغاية.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Adolf_Fredrik",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_vard": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1771",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q52932",
+    "typ": "historia",
+    "titel": "فريدريك الأول.",
+    "ingress": "يتحدث النص عن فريدريك الأول، الذي أصبح ملكًا لـالسويد في عام 1720 بعد زواجه من الأميرة أولريكا إيلينورا. كان قائدًا عسكريًا متمرسًا حكم السويد خلال فترة كانت فيها سلطة الملك مقيدة من قبل البرلمان.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Fredrik_I",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "varnpliktig": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1751",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q1393227",
+    "typ": "historia",
+    "titel": "إيفا إيكبلاد.",
+    "ingress": "إيفا إيكبلاد كانت امرأة بارزة في القرن الثامن عشر، وأصبحت أول امرأة تنتسب إلى الأكاديمية السويدية للعلوم. وهي معروفة بشكل خاص لكونها رائدة في مجال الكيمياء واكتشافها طريقة إنتاج مشروب \"برن فين\" (نوع من المشروبات الكحولية) من البطاطس.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Eva_Ekeblad",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "fou": 3,
+      "kvinna": 3,
+      "kultur": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1786",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q312498",
+    "typ": "historia",
+    "titel": "كارل مايكل بلومان.",
+    "ingress": "كارل مايكل بلومان كان شاعرًا سويديًا مشهورًا، وقد كتب العديد من الأغاني والشعر التي لاقت شعبية كبيرة خلال القرن الثامن عشر. يُعتبر واحدًا من أهم الكتاب في تاريخ السويد.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Carl_Michael_Bellman",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "b_kultur": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1795",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q57852",
+    "typ": "historia",
+    "titel": "كارل فريدريك من هولشتاين-غوتورب.",
+    "ingress": "كان كارل فريدريك أميرًا سويديًا، وقد كان لفترة من الزمن أحد المرشحين المحتملين لتولي العرش السويدي. غادر البلاد وتزوج من أميرة روسية بعد أن فقد فرصته في اعتلاء العرش السويدي.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Karl_Fredrik_av_Holstein-Gottorp",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "epok": "frihetstiden",
+    "tid": "d. 1739",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q234251",
+    "typ": "historia",
+    "titel": "لويزا أولريكا من بروسيا.",
+    "ingress": "يتحدث النص عن لويزا أولريكا من بروسيا، التي أصبحت ملكة السويد في عام 1751. يصف النص طفولتها، وكيف تم اختيارها للزواج من وريث العرش السويدي، وفترة وجودها في السويد.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Lovisa_Ulrika_av_Preussen",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_vard": 8,
+      "b_kultur": 3,
+      "kultur": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1782",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q201347",
+    "typ": "historia",
+    "titel": "توربرن بيرجمان.",
+    "ingress": "توربيرن بيرجمان كان عالمًا سويديًا اشتهر باكتشافاته الهامة في مجال الكيمياء والعلوم الطبيعية خلال القرن الثامن عشر.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Torbern_Bergman",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_bygg": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1784",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q468351",
+    "typ": "historia",
+    "titel": "أكسل فريدريك كرونستدت.",
+    "ingress": "أوكسل فريدريك كرونستدت كان عالمًا سويديًا وضع الأسس للعلم الحديث الذي يدرس الصخور ومكونات الأرض (علم الجيولوجيا). وهو معروف أيضًا باكتشافه لفلز النيكل.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Axel_Fredrik_Cronstedt",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1765",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q315102",
+    "typ": "historia",
+    "titel": "ألكسندر روسلين.",
+    "ingress": "ألكسندر روزلين كان فنانًا سويديًا اشتهر في باريس بفضل رسوماته البورتريه المتقنة. كان يتميز بشكل خاص في تصوير الملابس وتعبيرات الوجه، مما جعله شائعًا بين طبقة النبلاء.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Alexander_Roslin",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "beroende": 3,
+      "kultur": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1793",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q353693",
+    "typ": "historia",
+    "titel": "كريستوفر بولهم.",
+    "ingress": "كريستوفر بولهم كان مخترعًا سويديًا يُعتبر \"أبو الهندسة الميكانيكية السويدية\". لقد ابتكر العديد من الآلات الهامة وأسس أول كلية هندسية في السويد.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Christopher_Polhem",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_industri": 5,
+      "b_bygg": 3,
+      "barn": 3,
+      "pensionar": 3,
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1751",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q178823",
+    "typ": "historia",
+    "titel": "كارل فون لينيه الابن.",
+    "ingress": "كان كارل فون لينيه الابن عالم طبيعة سويدي، وقد ورث من والده منصبه كأستاذ للنباتات والطب. فقد تولى مسؤولية مجموعات النباتات الهامة التي جمعها والده، على الرغم من أنه لم يكن مهتمًا بالعلوم بشكل خاص.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Carl_von_Linné_den_yngre",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "student": 3,
+      "kronisk": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1783",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q27684",
+    "typ": "historia",
+    "titel": "بيتر فورسكول.",
+    "ingress": "كان بيتر فورسكول باحثًا ومفكرًا سويديًا ناضل من أجل حرية الإنسان وحقه في التعبير عن آرائه وكتابة ما يشاء. توفي خلال رحلة علمية في اليمن، إلا أن أفكاره ساهمت في إقرار أول قانون لحرية الصحافة في العالم.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Peter_Forsskål",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "fou": 3,
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1763",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q473225",
+    "typ": "historia",
+    "titel": "جورج برانت.",
+    "ingress": "كان جورج برانت كيميائيًا سويديًا، اشتهر في القرن الثامن عشر باكتشافه للعنصر الكيميائي الكوبالت. درس الكيمياء والطب في عدة دول قبل أن يصبح باحثًا بارزًا في السويد.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Georg_Brandt",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1768",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q39789",
+    "typ": "historia",
+    "titel": "دانيال سولاندر.",
+    "ingress": "كان دانيال سولاندر عالم طبيعة سويدي قام برحلة حول العالم، وأصبح أول سويدي يزور أستراليا. يُعرف اليوم باكتشافاته للنباتات وبصندوقه الخاص الذي استخدم لتخزين الكتب.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Daniel_Solander",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "glesbygd": 3,
+      "kultur": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1782",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q434380",
+    "typ": "historia",
+    "titel": "كارل جوستاف رينسكيلد.",
+    "ingress": "كان كارل جوستاف رينسكيلد قائدًا عسكريًا سويديًا مهمًا، وكان مستشارًا مقربًا للملك تشارلز الثاني عشر. وقد شارك في قيادة الجيش السويدي خلال العديد من الحروب الكبرى في القرنين السابع عشر والثامن عشر.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Carl_Gustaf_Rehnskiöld",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1722",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q453272",
+    "typ": "historia",
+    "titel": "جوزيف مارتن كراوس.",
+    "ingress": "يوزيف مارتن كراوس كان مؤلفًا موسيقيًا ألمانيًا-سويديًا عاش في القرن الثامن عشر. وهو معروف بتأليف أعمال موسيقية عظيمة في السويد، وغالبًا ما يُعتبر بمثابة النظير السويدي لموزارت.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Joseph_Martin_Kraus",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "b_konsult": 3,
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1792",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q447071",
+    "typ": "historia",
+    "titel": "أندرس يوهان ليكسيل.",
+    "ingress": "كان أندرس يوهان ليكسيل باحثًا فنلنديًا بارزًا، اشتهر عالميًا بدراساته في الرياضيات وعلم الفلك. عمل في روسيا، ويُعتبر أول فنلندي يحقق اختراقات دولية كبيرة في هذين المجالين.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Anders_Johan_Lexell",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1784",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q490870",
+    "typ": "historia",
+    "titel": "أندرس تشيدينيوس.",
+    "ingress": "كان أندرس تشيدينيوس قساً وكاتباً ناضل من أجل منح السويديين الحق في الكتابة والنشر بحرية. كان شخصية مهمة وراء أول قانون للطباعة والإعلام في السويد عام 1766.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Anders_Chydenius",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "epok": "frihetstiden",
+    "tid": "d. 1803",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q76639",
+    "typ": "historia",
+    "titel": "فيليب يوهان فون ستراهلينبيرغ.",
+    "ingress": "كان فيليب يوهان فون ستراهلينبيرغ ضابطًا ومسحًا جغرافيًا سويديًا، وقد أُسر في سيبيريا خلال حرب في القرن الثامن عشر. هناك، قام بإنشاء خرائط مهمة للمنطقة، وساهم في إثبات أن آسيا وأمريكا ليستا متصلتين.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Philip_Johan_von_Strahlenberg",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "glesbygd": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1747",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q350346",
+    "typ": "historia",
+    "titel": "آدم لودفيغ ليونهاوبت.",
+    "ingress": "يتحدث النص عن آدم لودفيغ لوينهاوبت، وهو أحد نبلاء السويد وعميد سابق، وقاد قوات سويدية خلال الحرب الشمالية الكبرى في القرن الثامن عشر.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Adam_Ludwig_Lewenhaupt",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "glesbygd": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1719",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q524071",
+    "typ": "historia",
+    "titel": "بيتر آرتيدي.",
+    "ingress": "كان بيتر آرتيدي باحثًا سويديًا يُعتبر أحد رواد علم الأحياء الحديث ودراسة الأسماك. وقد عمل عن كثب مع العالم الشهير كارل فون لينيه.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Peter_Artedi",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1735",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q455194",
+    "typ": "historia",
+    "titel": "كارل ألكسندر كليرك.",
+    "ingress": "كارل ألكسندر كليرك كان باحثًا سويديًا درس الحشرات والعناكب خلال القرن الثامن عشر.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Carl_Alexander_Clerck",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "epok": "frihetstiden",
+    "tid": "d. 1765",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q450744",
+    "typ": "historia",
+    "titel": "هيدفيغ شارلوتا نوردنفليخت.",
+    "ingress": "هيدفيغ شارلوتا نوردنفليخت كانت كاتبة سويدية مشهورة في القرن الثامن عشر، وقد نادت بحقوق المرأة والتعليم.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Hedvig_Charlotta_Nordenflycht",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "kvinna": 3,
+      "varnpliktig": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1763",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q55069930",
+    "typ": "historia",
+    "titel": "بيير أوسبيك.",
+    "ingress": "كان بير أوسبيك قساً وعالماً في مجال العلوم الطبيعية سويدياً، وقد سافر إلى الصين لجمع النباتات. اشتهر باكتشافاته في علم النبات، وهو العلم الذي يدرس النباتات.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Pehr_Osbeck",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "epok": "frihetstiden",
+    "tid": "d. 1805",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q543195",
+    "typ": "historia",
+    "titel": "يوهان هنريك كيلغرين.",
+    "ingress": "كان يوهان هنريك كيلغرين كاتبًا وشاعرًا ومحرر صحف سويديًا معروفًا في القرن الثامن عشر. اشتهر بقصائده، وبأنه أول من كتب مقالات نقدية عن المسرحيات في السويد.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Johan_Henric_Kellgren",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "pensionar": 3,
+      "kultur": 5
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1795",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q455143",
+    "typ": "historia",
+    "titel": "نيكوديموس تسين الابن.",
+    "ingress": "كان نيكوديموس تيسين الابن مهندسًا معماريًا سويديًا مرموقًا، وقد صمم العديد من المباني الهامة، بما في ذلك قصر ستوكهولم ومباني أخرى ذات أهمية كبيرة. سافر على نطاق واسع في أوروبا لتعلم فن العمارة، وأصبح شخصية تحظى بتقدير كبير في البلاط الملكي.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Nicodemus_Tessin_den_yngre",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_it": 3,
+      "infrastruktur": 3,
+      "batagare": 3,
+      "kultur": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1728",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q719204",
+    "typ": "historia",
+    "titel": "بيير كالْم.",
+    "ingress": "يتحدث النص عن بيير كالْم، وهو باحث سويدي اشتهر بدراسة النباتات والسفر إلى أمريكا للعثور على نباتات مفيدة يمكن استخدامها في السويد.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Pehr_Kalm",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_industri": 3,
+      "b_grona": 3,
+      "klimat": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1779",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q1373367",
+    "typ": "historia",
+    "titel": "أولوف فون دالين.",
+    "ingress": "كان أولوف فون دالين كاتبًا وفنانًا موهوبًا في القرن الثامن عشر، واشتهر بمجلته \"Then Swänska Argus\". وهو شخصية مهمة لأنه عمله يمثل بداية حقبة جديدة في تاريخ الأدب السويدي.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Olof_von_Dalin",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "tillstand": 3,
+      "student": 3,
+      "kultur": 5
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1763",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q642336",
+    "typ": "historia",
+    "titel": "يوهان بيتر فالك.",
+    "ingress": "كان يوهان بيتر فالك طبيبًا وباحثًا سويديًا، وقد درس على يد العالم الشهير كارل فون لينيه. قام برحلات طويلة في روسيا لدراسة النباتات والحيوانات.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Johan_Peter_Falck",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "fou": 3,
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1774",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
   }
 ]

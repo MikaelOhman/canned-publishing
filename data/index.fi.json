@@ -21876,5 +21876,830 @@
     "sakerhet": "belagt",
     "konsensus": "samsyn",
     "flaggor": []
+  },
+  {
+    "id": "hist-q1043",
+    "typ": "historia",
+    "titel": "Carl von Linné",
+    "ingress": "Carl von Linné oli ruotsalainen tiedemies, joka kehitti järjestelmän kasvien ja eläinten nimeämiseen ja luokitteluun ympäri maailmaa. Hänen työnsä on edelleen perusta sille, miten luontoa luokitellaan nykyään.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Carl_von_Linné",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "hallbarhetsrapport": 3,
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1778",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q81130",
+    "typ": "historia",
+    "titel": "Anders Celsius oli ruotsalainen fyysikko ja astronomi. Hän on tunnetuin lämpötila-asteikon kehittäjänä, Celsius-asteena (°C).\n\nTässä joitain tärkeitä tietoja Anders Celsiuksesta:\n\n*   **Syntymäaika:** 29. marraskuuta 1701\n*   **Kuolintapaikka:** Uppsala, Ruotsi\n*   **Ammatti:** Fyysikko ja astronomi\n*   **Tunnetuin saavutus:** Celsius-asteikon kehittäminen\n*   **Lisätietoja:** [https://sv.wikipedia.org/wiki/Anders_Celsius](https://sv.wikipedia.org/wiki/Anders_Celsius)",
+    "ingress": "Anders Celsius oli ruotsalainen tiedemies, joka tunnetaan parhaiten siitä, että hän kehitti lämpötilamittausjärjestelmän, jota käytämme nykyään, eli Celsius-asteikon.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Anders_Celsius",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1744",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q185832",
+    "typ": "historia",
+    "titel": "Emanuel Swedenborg.",
+    "ingress": "Emanuel Swedenborg oli ruotsalainen tiedemies ja uskonnollinen johtaja, joka tuli tunnetuksi kirjoituksistaan henkimaailmasta ja kristinuskosta. Hänen ajatuksensa inspiroivat monia kuuluisia taiteilijoita ja ajattelijoita.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Emanuel_Swedenborg",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "barn": 3,
+      "kultur": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1772",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q70538",
+    "typ": "historia",
+    "titel": "Carl Wilhelm Scheele.",
+    "ingress": "Carl Wilhelm Scheele oli ruotsalainen apteekkari, joka 1700-luvulla tuli yhdeksi Euroopan tunnetuimmista kemisteistä. Hän on pääasiassa tunnettu tärkeiden aineiden löytämisestä, kuten hapesta ja kloorista.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Carl_Wilhelm_Scheele",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "epok": "frihetstiden",
+    "tid": "d. 1786",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q52930",
+    "typ": "historia",
+    "titel": "Kustaa III.",
+    "ingress": "Gustav III oli ruotsalainen kuningas, joka toteutti merkittäviä muutoksia maan hallintoon ja lakeihin 1700-luvulla. Hänet tunnetaan siitä, että hän kielsi kidutuksen, toi uusia vapauksia tietyille ryhmille ja panosti voimakkaasti kulttuurii",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Gustav_III",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_kultur": 5,
+      "kultur": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1792",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q52933",
+    "typ": "historia",
+    "titel": "Ulrika Eleonora",
+    "ingress": "Ulrika Eleonoora oli ruotsalainen kuningatar, joka hallitsi vuosina 1719–1720. Hän oli kuninkaan Kaarlen XI tytär, ja hänestä tuli kuningatar sen jälkeen, kun hänen veljensä, kuningas Kaarle XII, ei voinut periä valtaistuinta.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Ulrika_Eleonora",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "barn": 3,
+      "sambo_gift": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1741",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q52931",
+    "typ": "historia",
+    "titel": "Adolf Fredrik",
+    "ingress": "Teksti kertoo Adolf Fredrikinista, joka tuli Ruotsin kuninkaaksi vuonna 1751. Hän nousi valtaan Venäjän avustuksella ja hänet kruunattiin ylellisellä seremonialla Tukholmassa.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Adolf_Fredrik",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_vard": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1771",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q52932",
+    "typ": "historia",
+    "titel": "Fredrik I",
+    "ingress": "Teksti kertoo Fredrikistä I:stä, joka tuli Ruotsin kuninkaaksi vuonna 1720 avioliittonsa jälkeen prinsessa Ulrika Eleonoran kanssa. Hän oli kokenut sotilasjohtaja, ja hän hallitsi Ruotsia aikana, jolloin kuninkaan valta oli rajoitettu valti",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Fredrik_I",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "varnpliktig": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1751",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q1393227",
+    "typ": "historia",
+    "titel": "Eva Ekeblad.",
+    "ingress": "Eva Ekeblad oli merkittävä nainen 1700-luvulla, ja hänestä tuli Ruotsin tiedeakatemian ensimmäinen naisjäsen. Hän on tunnetuin kemian alan edelläkävijänä sekä siitä, että hän keksi miten valmistetaan viinaa perunasta.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Eva_Ekeblad",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "fou": 3,
+      "kvinna": 3,
+      "kultur": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1786",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q312498",
+    "typ": "historia",
+    "titel": "Carl Michael Bellman.",
+    "ingress": "Carl Michael Bellman oli tunnettu ruotsalainen runoilija, joka kirjoitti lukuisia suosittuja lauluja ja runoja 1700-luvulla. Häntä pidetään yhtenä Ruotsin tärkeimmistä kirjailijoista kautta aikojen.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Carl_Michael_Bellman",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "b_kultur": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1795",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q57852",
+    "typ": "historia",
+    "titel": "Kaarle Fredrik Holstein-Gottorpista.",
+    "ingress": "Kaarle Fredrik oli ruotsalainen prinssi, joka jossain vaiheessa oli yksi henkilöistä, joilla olisi voinut olla mahdollisuus tulla Ruotsin kuninkaaksi. Hän lähti maasta ja meni naimisiin venäläisen prinsessan kanssa sen jälkeen, kun hän mene",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Karl_Fredrik_av_Holstein-Gottorp",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "epok": "frihetstiden",
+    "tid": "d. 1739",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q234251",
+    "typ": "historia",
+    "titel": "Lovisa Ulrika Preussinista.",
+    "ingress": "Teksti kertoo preussilaisesta Louise Ulrikasta, joka tuli Ruotsin kuningattareksi vuonna 1751. Se kuvailee hänen lapsuuttaan, sitä miten hänet valittiin avioliittoon ruotsalaisen kruununperijän kanssa, sekä hänen aikaansa Ruotsissa.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Lovisa_Ulrika_av_Preussen",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_vard": 8,
+      "b_kultur": 3,
+      "kultur": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1782",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q201347",
+    "typ": "historia",
+    "titel": "Torbern Bergman.",
+    "ingress": "Torbern Bergman oli ruotsalainen tutkija, joka tuli tunnetuksi merkittävistä löydöistään kemian ja luonnontieteiden alalla 1700-luvulla.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Torbern_Bergman",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_bygg": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1784",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q468351",
+    "typ": "historia",
+    "titel": "Axel Fredrik Cronstedt.",
+    "ingress": "Axel Fredrik Cronstedt oli ruotsalainen tutkija, joka vaikutti merkittävästi nykyaikaisen geologian syntyyn ja perusti sen perustavanlaatuiset teoriat kivistä ja maapallon koostumuksesta. Hänet tunnetaan myös siitä, että hän löysi metallin",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Axel_Fredrik_Cronstedt",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1765",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q315102",
+    "typ": "historia",
+    "titel": "Alexander Roslin.",
+    "ingress": "Alexander Roslin oli ruotsalainen taiteilija, joka tuli tunnetuksi Pariisissa taitavista muotokuvistaan. Hän oli erityisen lahjakas maalaamaan vaatteita ja ilmeitä, mikä teki hänestä suositun aateliston keskuudessa.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Alexander_Roslin",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "beroende": 3,
+      "kultur": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1793",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q353693",
+    "typ": "historia",
+    "titel": "Christopher Polhem.",
+    "ingress": "Christopher Polhem oli ruotsalainen keksijä, jota kutsutaan usein Ruotsin mekaniikan isäksi. Hän kehitti monia tärkeitä koneita ja perusti Ruotsin ensimmäisen insinöörikoulun.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Christopher_Polhem",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_industri": 5,
+      "b_bygg": 3,
+      "barn": 3,
+      "pensionar": 3,
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1751",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q178823",
+    "typ": "historia",
+    "titel": "Carl von Linné nuorempi.",
+    "ingress": "Carl von Linné nuorempi oli ruotsalainen luonnontieteilijä, joka peri isältään professorin viran kasvitieteessä ja lääketieteessä. Hän huolehti isänsä tärkeistä kasvikokoelmista, vaikka hän itse ei ollutkaan erityisen kiinnostunut tieteestä",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Carl_von_Linné_den_yngre",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "student": 3,
+      "kronisk": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1783",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q27684",
+    "typ": "historia",
+    "titel": "Peter Forsskål",
+    "ingress": "Peter Forsskål oli ruotsalainen tutkija ja ajattelija, joka puolusti ihmisten vapautta ja oikeutta ilmaista mielipiteensä vapaasti. Hän kuoli tieteellisen matkan aikana Jemenissä, mutta hänen ideansa auttoivat luomaan maailman ensimmäisen s",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Peter_Forsskål",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "fou": 3,
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1763",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q473225",
+    "typ": "historia",
+    "titel": "Georg Brandt.",
+    "ingress": "Georg Brandt oli ruotsalainen kemisti, joka 1700-luvulla tuli tunnetuksi koboltin alkuaineen löytämisestä. Hän opiskeli kemiaa ja lääketiedettä useissa maissa ennen kuin hänestä tuli merkittävä tutkija Ruotsissa.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Georg_Brandt",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1768",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q39789",
+    "typ": "historia",
+    "titel": "Daniel Solander",
+    "ingress": "Daniel Solander oli ruotsalainen luonnontieteilijä, joka kiersi maailmaa ja oli ensimmäinen ruotsalainen, joka vieraili Australiassa. Nykyään hän on tunnettu kasvien löydöistään sekä erityisestä kirjahyllystään.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Daniel_Solander",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "glesbygd": 3,
+      "kultur": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1782",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q434380",
+    "typ": "historia",
+    "titel": "Carl Gustaf Rehnskiöld.",
+    "ingress": "Carl Gustaf Rehnskiöld oli merkittävä ruotsalainen sotilasjohtaja ja läheinen neuvonantaja kuningas Kaarle XII:lle. Hän osallistui useiden suurten sodankäyntien johtamiseen Ruotsin armeijassa 1600- ja 1700-luvuilla.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Carl_Gustaf_Rehnskiöld",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1722",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q453272",
+    "typ": "historia",
+    "titel": "Joseph Martin Kraus.",
+    "ingress": "Joseph Martin Kraus oli saksalais-ruotsalainen säveltäjä, joka eli 1700-luvulla. Hän on tunnettu siitä, että hän sävelsi merkittävää musiikkia Ruotsissa, ja häntä on joskus kutsuttu ruotsalaiseksi vastineeksi Mozartille.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Joseph_Martin_Kraus",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "b_konsult": 3,
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1792",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q447071",
+    "typ": "historia",
+    "titel": "Anders Johan Lexell.",
+    "ingress": "Anders Johan Lexell oli merkittävä suomalainen tutkija, joka saavutti maailmanlaajuista mainetta matematiikan ja tähtitieteen tutkimuksillaan. Hän työskenteli Venäjällä, ja hänet voidaan pitää ensimmäisenä suomalaisena, joka teki merkittävi",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Anders_Johan_Lexell",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1784",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q490870",
+    "typ": "historia",
+    "titel": "Anders Chydenius:\n\n*   Syntymäaika: 1729-03-28\n*   Kuolinvuosi: 1805-04-06\n*   Ammatti: Lääkäri, valtiomies ja vuorineuvos.\n*   Toiminta: Hän oli merkittävä uudistaja ja edisti muun muassa köyhäinhoitoa, koulutusta ja kauppaa.",
+    "ingress": "Anders Chydenius oli pappi ja kirjailija, joka taisteli sen puolesta, että ruotsalaisilla olisi oikeus kirjoittaa ja julkaista mitä halusivat. Hän oli keskeinen henkilö ensimmäisen sananvapauden lain säätämisessä Ruotsissa vuonna 1766.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Anders_Chydenius",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "epok": "frihetstiden",
+    "tid": "d. 1803",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q76639",
+    "typ": "historia",
+    "titel": "Philip Johan von Strahlenberg.",
+    "ingress": "Philip Johan von Strahlenberg oli ruotsalainen upseeri ja kartoittaja, joka joutui sotavangiksi Siperiaan 1700-luvulla. Siellä hän laati tärkeitä karttoja alueesta ja auttoi todistamaan, että Aasia ja Amerikka eivät ole yhteydessä toisiinsa",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Philip_Johan_von_Strahlenberg",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "glesbygd": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1747",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q350346",
+    "typ": "historia",
+    "titel": "Adam Ludwig Lewenhaupt.",
+    "ingress": "Teksti kertoo Adam Ludwig Lewenhaupista, ruotsalaisesta kreivistä ja kenraalista, joka johti ruotsalaisia joukkoja Suuren Pohjan sodan aikana 1700-luvulla.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Adam_Ludwig_Lewenhaupt",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "glesbygd": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1719",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q524071",
+    "typ": "historia",
+    "titel": "Peter Artedi.",
+    "ingress": "Peter Artedi oli ruotsalainen tutkija, jota pidetään yhtenä modernin biologian ja kalatieteiden perustajista. Hän työskenteli läheisessä yhteistyössä tunnetun tiedemiehen Carl von Linnén kanssa.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Peter_Artedi",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1735",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q455194",
+    "typ": "historia",
+    "titel": "Carl Alexander Clerck",
+    "ingress": "Carl Alexander Clerck oli ruotsalainen tutkija, joka 1700-luvulla tutki hyönteisiä ja hämähäkkejä.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Carl_Alexander_Clerck",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "epok": "frihetstiden",
+    "tid": "d. 1765",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q450744",
+    "typ": "historia",
+    "titel": "Hedvig Charlotta Nordenflycht",
+    "ingress": "Hedvig Charlotta Nordenflycht oli tunnettu ruotsalainen kirjailija 1700-luvulla, joka puolusti naisten oikeuksia ja koulutusta.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Hedvig_Charlotta_Nordenflycht",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "kvinna": 3,
+      "varnpliktig": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1763",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q55069930",
+    "typ": "historia",
+    "titel": "Pehr Osbeck.",
+    "ingress": "Pehr Osbeck oli ruotsalainen pappi ja luonnontieteilijä, joka matkusti Kiinaan kerätäkseen kasveja. Hän tuli tunnetuksi löydöistään kasvitieteessä, eli kasvien tutkimuksen alalla.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Pehr_Osbeck",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "epok": "frihetstiden",
+    "tid": "d. 1805",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q543195",
+    "typ": "historia",
+    "titel": "Johan Henric Kellgren",
+    "ingress": "Johan Henric Kellgren oli tunnettu ruotsalainen kirjailija, runoilija ja sanomalehden päätoimittaja 1700-luvulla. Hän tuli tunnetuksi runoistaan sekä Ruotsin ensimmäisenä teatterikriitikkona.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Johan_Henric_Kellgren",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "pensionar": 3,
+      "kultur": 5
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1795",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q455143",
+    "typ": "historia",
+    "titel": "Nikodemus Tessin nuorempi.",
+    "ingress": "Nicodemus Tessin nuorempi oli tunnettu ruotsalainen arkkitehti, joka suunnitteli muun muassa Tukholman linnan ja useita muita tärkeitä rakennuksia. Hän matkusti paljon Euroopassa oppiakseen lisää arkkitehtuurista, ja hänestä tuli arvostettu",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Nicodemus_Tessin_den_yngre",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_it": 3,
+      "infrastruktur": 3,
+      "batagare": 3,
+      "kultur": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1728",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q719204",
+    "typ": "historia",
+    "titel": "Pehr Kalm",
+    "ingress": "Teksti kertoo Pehr Kalmista, ruotsalaisesta tutkijasta, joka tuli tunnetuksi kasvien tutkimisesta ja matkustamisesta Amerikkaan löytääkseen hyödyllisiä kasveja Ruotsille.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Pehr_Kalm",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "b_industri": 3,
+      "b_grona": 3,
+      "klimat": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1779",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q1373367",
+    "typ": "historia",
+    "titel": "Olof von Dalin.",
+    "ingress": "Olof von Dalin oli lahjakas kirjailija ja taiteilija 1700-luvulla, joka tuli tunnetuksi aikakauslehdestään nimeltä \"Then Swänska Argus\". Hän on merkittävä, koska hänen työnsä merkitsi uuden ajanjakson alkua ruotsalaisessa kirjallisuushistor",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Olof_von_Dalin",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "tillstand": 3,
+      "student": 3,
+      "kultur": 5
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1763",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q642336",
+    "typ": "historia",
+    "titel": "Johan Peter Falck.",
+    "ingress": "Johan Peter Falck oli ruotsalainen lääkäri ja tutkija, joka opiskeli tunnetun tiedemiehen Carl von Linnén johdolla. Hän matkusti pitkiä matkoja Venäjälle tutkiakseen kasveja ja eläimiä.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Johan_Peter_Falck",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "frihetstiden"
+    ],
+    "relevans": {
+      "fou": 3,
+      "student": 3
+    },
+    "epok": "frihetstiden",
+    "tid": "d. 1774",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
   }
 ]
