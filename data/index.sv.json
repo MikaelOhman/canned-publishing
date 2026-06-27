@@ -11168,6 +11168,25 @@
     }
   },
   {
+    "id": "norrtalje-kommunstyrelsen-2026-02-02",
+    "typ": "kommunbeslut",
+    "titel": "Kommunstyrelsen, Norrtälje kommun 2026-02-02",
+    "ingress": "Norrtälje kommun köper in en digital tjänst för 71 820 kronor som ska hjälpa människor att få mindre kontakt med ensamhet.",
+    "datum": "2026-02-02",
+    "kalla": "Norrtälje kommun",
+    "kalla_url": "https://forum.norrtalje.se/committees/kommunstyrelsen/mote-2026-02-02",
+    "taggar": [
+      "norrtalje",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "b_vard": 3,
+      "b_it": 3,
+      "upphandling": 3,
+      "anhorigvardare": 3
+    }
+  },
+  {
     "id": "alingsas-kommunfullmaktige-2026-01-28",
     "typ": "kommunbeslut",
     "titel": "Kommunfullmäktige, Alingsås kommun 2026-01-28",
@@ -13615,6 +13634,19 @@
       "idrott": 3,
       "klimat": 3
     }
+  },
+  {
+    "id": "norrtalje-kommunfullmaktige-2025-10-20",
+    "typ": "kommunbeslut",
+    "titel": "Kommunfullmäktige, Norrtälje kommun 2025-10-20",
+    "ingress": "Norrtälje kommun har tagit emot en rapport från Överförmyndaren som handlar om hur de tar hand om personer som behöver hjälp att sköta sina ärenden.",
+    "datum": "2025-10-20",
+    "kalla": "Norrtälje kommun",
+    "kalla_url": "https://forum.norrtalje.se/committees/kommunfullmaktige/mote-2025-10-20",
+    "taggar": [
+      "norrtalje",
+      "kommunfullmaktige"
+    ]
   },
   {
     "id": "HD0334",
