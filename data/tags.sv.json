@@ -872,7 +872,7 @@
   "berg": {
     "etikett": "Bergs",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "utbildningsnamndens": {
     "etikett": "Utbildningsnämndens",
@@ -2002,6 +2002,11 @@
   "kollektivtrafik": {
     "etikett": "Kollektivtrafik",
     "typ": "ämne",
+    "antal": 1
+  },
+  "utbildningsnamndens-pdf-bortredigerad": {
+    "etikett": "Utbildningsnämndens pdf Bortredigerad",
+    "typ": "organisation",
     "antal": 1
   }
 }
