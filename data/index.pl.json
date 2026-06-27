@@ -20813,5 +20813,945 @@
     "sakerhet": "belagt",
     "konsensus": "samsyn",
     "flaggor": []
+  },
+  {
+    "id": "hist-q52937",
+    "typ": "historia",
+    "titel": "Kristina ze Szwecji.",
+    "ingress": "W historii Szwecji żyło wiele kobiet o imionach Kristina lub Christina. Większość z nich to królowe, księżniczki lub inne ważne osoby w rodzinie królewskiej.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Kristina_av_Sverige",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "stormaktstiden"
+    ],
+    "relevans": {
+      "kvinna": 3,
+      "husdjur": 3
+    },
+    "epok": "stormaktstiden",
+    "tid": "d. 1689",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q52938",
+    "typ": "historia",
+    "titel": "Gustaw II Adolf.",
+    "ingress": "Gustaw II Adolf był królem Szwecji, który w XVII wieku przekształcił kraj w potęgę dzięki wojnom i reformom. Jest znany z tego, że zmodernizował system zarządzania państwem i stworzył bardzo silną armię.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Gustav_II_Adolf",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "stormaktstiden"
+    ],
+    "relevans": {
+      "b_industri": 3,
+      "b_bygg": 3
+    },
+    "epok": "stormaktstiden",
+    "tid": "d. 1632",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q52934",
+    "typ": "historia",
+    "titel": "Karol XII",
+    "ingress": "Karol XII był królem Szwecji, który panował w czasach, gdy Szwecja była potęgą. Jego długie wojny doprowadziły do ogromnych strat dla Szwecji i zmieniły sposób rządzenia krajem po jego śmierci.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Karl_XII",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "stormaktstiden"
+    ],
+    "relevans": {
+      "barn": 3,
+      "glesbygd": 3
+    },
+    "epok": "stormaktstiden",
+    "tid": "d. 1718",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q52936",
+    "typ": "historia",
+    "titel": "Karol X Gustaw",
+    "ingress": "Karol X Gustaw był królem Szwecji, który panował w latach 60. XVII wieku. Jest najbardziej znany z dowodzenia szwedzką armią do wielkich zwycięstw w wojnach przeciwko innym krajom.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Karl_X_Gustav",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "stormaktstiden"
+    ],
+    "epok": "stormaktstiden",
+    "tid": "d. 1660",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q52935",
+    "typ": "historia",
+    "titel": "Karol XI",
+    "ingress": "Tekst opisuje króla Karola XI, który rządził Szwecją pod koniec XVII wieku. Był znany z umacniania gospodarki i armii kraju poprzez ograniczanie wpływów szlachty.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Karl_XI",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "stormaktstiden"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "varnpliktig": 3
+    },
+    "epok": "stormaktstiden",
+    "tid": "d. 1697",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q155127",
+    "typ": "historia",
+    "titel": "Axel Oxenstierna.",
+    "ingress": "Axel Oxenstierna był bardzo wpływowym szwedzkim przywódcą z XVII wieku, który stworzył szwedzki system państwowy i podzielił kraj na prowincje (län).",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Axel_Oxenstierna",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "stormaktstiden"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "lokaler": 3,
+      "student": 3
+    },
+    "epok": "stormaktstiden",
+    "tid": "d. 1654",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q57186",
+    "typ": "historia",
+    "titel": "Samuel von Pufendorf.",
+    "ingress": "Samuel von Pufendorf był niemiecko-szwedzkim filozofem, który pisał o tym, jak powinno być zarządzane społeczeństwo oraz jakie prawa obowiązują między państwami.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Samuel_von_Pufendorf",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "stormaktstiden"
+    ],
+    "relevans": {
+      "b_konsult": 3,
+      "student": 3,
+      "varnpliktig": 3
+    },
+    "epok": "stormaktstiden",
+    "tid": "d. 1694",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q233319",
+    "typ": "historia",
+    "titel": "Maria Eleonora z Brandenburga.",
+    "ingress": "Maria Eleonora była niemiecką księżniczką, która po ślubie z królem Gustawem II Adolfem w roku 1620 została królową Szwecji. Była znana ze swojej niezwykłej urody oraz zamiłowania do sztuki i muzyki, ale nie interesowała się polityką.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Maria_Eleonora_av_Brandenburg",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "stormaktstiden"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_kultur": 5,
+      "sambo_gift": 3,
+      "kvinna": 3,
+      "kultur": 5
+    },
+    "epok": "stormaktstiden",
+    "tid": "d. 1655",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q420706",
+    "typ": "historia",
+    "titel": "Hedwig Zofia ze Szwecji.",
+    "ingress": "Hedvig Sofia była szwedzką księżniczką, żyjącą w XVII i na początku XVIII wieku. Była znana jako osoba pogodna, utalentowana śpiewaczka oraz ważna postać na szwedzkim dworze.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Hedvig_Sofia_av_Sverige",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "stormaktstiden"
+    ],
+    "relevans": {
+      "sambo_gift": 3
+    },
+    "epok": "stormaktstiden",
+    "tid": "d. 1708",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q233496",
+    "typ": "historia",
+    "titel": "Kristina z rodu Holstein-Gottorp.",
+    "ingress": "Kristina z Holstein-Gottorp była potężną królową, która rządziła Szwecją w sytuacjach, gdy jej mąż nie mógł tego robić. Była znana ze swojej zdecydowania i umiejętności zarządzania zarówno polityką, jak i gospodarką.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Kristina_av_Holstein-Gottorp",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "stormaktstiden"
+    ],
+    "relevans": {
+      "b_industri": 3,
+      "infrastruktur": 3,
+      "batagare": 3,
+      "varnpliktig": 3
+    },
+    "epok": "stormaktstiden",
+    "tid": "d. 1625",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q161322",
+    "typ": "historia",
+    "titel": "Hedwig Eleonora z Holstein-Gottorpu.",
+    "ingress": "Hedwig Eleonora była królową Szwecji, która rządziła krajem jako regent dla swoich synów, gdy ci byli jeszcze zbyt młodzi, aby samodzielnie sprawować władzę. Była znana ze swojej siły i odwagi, nawet w czasach wojny.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Hedvig_Eleonora_av_Holstein-Gottorp",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "stormaktstiden"
+    ],
+    "relevans": {
+      "sambo_gift": 3,
+      "glesbygd": 3
+    },
+    "epok": "stormaktstiden",
+    "tid": "d. 1715",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q316816",
+    "typ": "historia",
+    "titel": "Lennart Torstenson.",
+    "ingress": "Lennart Torstenson był wybitnym szwedzkim dowódcą wojskowym XVII wieku, który zasłynął ze swojej biegłości w obsłudze artylerii oraz z odniesionych zwycięstw w wojnach prowadzonych na terenie Niemiec.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Lennart_Torstenson",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "stormaktstiden"
+    ],
+    "epok": "stormaktstiden",
+    "tid": "d. 1651",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q350198",
+    "typ": "historia",
+    "titel": "Olof Rudbeck starszy.",
+    "ingress": "Olof Rudbeck był szwedzkim naukowcem, który zyskał światową sławę dzięki odkryciu naczyń limfatycznych w organizmie. Był również założycielem pierwszego ogrodu botanicznego w Szwecji.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Olof_Rudbeck_den_äldre",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "stormaktstiden"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "student": 3
+    },
+    "epok": "stormaktstiden",
+    "tid": "d. 1702",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q439909",
+    "typ": "historia",
+    "titel": "Carl Gustaf Wrangel.",
+    "ingress": "Carl Gustaf Wrangel był potężnym szwedzkim dowódcą wojskowym i arystokratą żyjącym w XVII wieku. Dowodził dużymi armiami podczas wojen, otrzymał wysokie tytuły i budował imponujące zamki, aby zademonstrować swoją władzę.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Carl_Gustaf_Wrangel",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "stormaktstiden"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "student": 3,
+      "kultur": 3
+    },
+    "epok": "stormaktstiden",
+    "tid": "d. 1676",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q2073728",
+    "typ": "historia",
+    "titel": "Katarina Karlsdotter Vasa.",
+    "ingress": "Tekst opisuje księżniczkę Katarinę Karlsdottę Vasę, ważną postać w szwedzkiej rodzinie królewskiej w XVII wieku. Była ona istotnym łącznikiem między różnymi dynastiami i znana była ze swoich umiejętności zarządzania oraz oszczędnego prowadz",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Katarina_Karlsdotter_Vasa",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "stormaktstiden"
+    ],
+    "relevans": {
+      "barn": 3
+    },
+    "epok": "stormaktstiden",
+    "tid": "d. 1638",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q237937",
+    "typ": "historia",
+    "titel": "Karin Månsdotter",
+    "ingress": "Karin Månsdotter pochodziła z prostych warstw społecznych i została królową Szwecji dzięki małżeństwu z królem Erykiem XIV. Jest wyjątkowa, ponieważ nie wywodziła się z arystokratycznej ani królewskiej rodziny.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Karin_Månsdotter",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "stormaktstiden"
+    ],
+    "relevans": {
+      "barn": 3,
+      "sambo_gift": 3
+    },
+    "epok": "stormaktstiden",
+    "tid": "d. 1612",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q498046",
+    "typ": "historia",
+    "titel": "Johan Banér.",
+    "ingress": "Johan Banér był bardzo utalentowanym szwedzkim dowódcą wojskowym w XVII wieku. Zyskał sławę dzięki swoim zwycięstwom w wojnach oraz swojej odważnej, choć wymagającej osobowości.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Johan_Banér",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "stormaktstiden"
+    ],
+    "relevans": {
+      "infrastruktur": 3,
+      "batagare": 3
+    },
+    "epok": "stormaktstiden",
+    "tid": "d. 1641",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q271940",
+    "typ": "historia",
+    "titel": "Cecilia Vasa.",
+    "ingress": "Cecilia Vasa była szwedzką księżniczką, która stała się znana w XVI wieku z powodu skandalu, kiedy to została przyłapana na intymnościach z mężczyzną w swoim pokoju. Incydent ten, znany jako \"Wadstenabullret\", doprowadził do wprowadzenia su",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Cecilia_Vasa",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "stormaktstiden"
+    ],
+    "epok": "stormaktstiden",
+    "tid": "d. 1627",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q62247",
+    "typ": "historia",
+    "titel": "Jan Kazimierz z Palatynatu-Cewbrücka.",
+    "ingress": "Johann Casimir był niemiecko-szwedzkim arystokratą, który został teściem króla. Jest najbardziej znany jako ojciec szwedzkiego króla Karola X Gustawa.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Johan_Kasimir_av_Pfalz-Zweibrücken",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "stormaktstiden"
+    ],
+    "relevans": {
+      "barn": 3
+    },
+    "epok": "stormaktstiden",
+    "tid": "d. 1652",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q472692",
+    "typ": "historia",
+    "titel": "Per Brahe młodszy.",
+    "ingress": "Per Brahe Młodszy był potężnym szwedzkim arystokratą z XVII wieku, który posiadał rozległe ziemie i cieszył się ogromną władzą zarówno w Szwecji, jak i w Finlandii. Budował miasta, szkoły i fortyfikacje, szczególnie w czasach wojny.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Per_Brahe_den_yngre",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "stormaktstiden"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_kultur": 5,
+      "student": 3,
+      "kultur": 3,
+      "varnpliktig": 3
+    },
+    "epok": "stormaktstiden",
+    "tid": "d. 1680",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q256139",
+    "typ": "historia",
+    "titel": "Katarina Gustavsdotter (z rodu Stenbock).",
+    "ingress": "Katarina Gustavsdotter została królową Szwecji po ślubie z królem Gustawem Wasą w roku 1552. Wybrano ją, ponieważ pochodziła z rodziny, której król ufał, oraz dlatego, że było praktyczne wybrać żonę ze szwedzkiej arystokracji zamiast sprowa",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Katarina_Gustavsdotter_(Stenbock)",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "stormaktstiden"
+    ],
+    "relevans": {
+      "barn": 3,
+      "sambo_gift": 3
+    },
+    "epok": "stormaktstiden",
+    "tid": "d. 1621",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q61188",
+    "typ": "historia",
+    "titel": "Nicodemus Tessin starszy.",
+    "ingress": "Nicodemus Tessin starszy był wybitnym architektem, który zaprojektował wiele z najbardziej znanych zamków i budynków w Szwecji w XVII wieku.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Nicodemus_Tessin_den_äldre",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "stormaktstiden"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_it": 3
+    },
+    "epok": "stormaktstiden",
+    "tid": "d. 1681",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q62884",
+    "typ": "historia",
+    "titel": "Fryderyk VI z Baden-Durlach.",
+    "ingress": "Fredrik VI był niemieckim arystokratą i dowódcą wojskowym, który żył w XVII wieku. Pełnił funkcję zarówno margrabiego, jak i generała w szwedzkiej armii.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Fredrik_VI_av_Baden-Durlach",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "stormaktstiden"
+    ],
+    "relevans": {
+      "barn": 3
+    },
+    "epok": "stormaktstiden",
+    "tid": "d. 1677",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q434533",
+    "typ": "historia",
+    "titel": "Erik Dahlbergh.",
+    "ingress": "Erik Dahlbergh był ważną postacią w Szwecji w XVII wieku, pełniąc funkcje wojskowe, architektoniczne i urzędnicze. Jest najbardziej znany ze swoich prac w dziedzinie fortyfikacji oraz z projektów ilustrujących szwedzkie zamki i miasta.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Erik_Dahlbergh",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "stormaktstiden"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_it": 3,
+      "kollektiv": 3,
+      "varnpliktig": 3
+    },
+    "epok": "stormaktstiden",
+    "tid": "d. 1703",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q77508",
+    "typ": "historia",
+    "titel": "Hermann Conring.",
+    "ingress": "Hermann Conring był niemieckim naukowcem, który zasłynął dzięki swoim badaniom w dziedzinie medycyny i prawa. Pracował m.in. jako lekarz królowej Kristiny.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Hermann_Conring",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "stormaktstiden"
+    ],
+    "relevans": {
+      "b_konsult": 3,
+      "student": 3
+    },
+    "epok": "stormaktstiden",
+    "tid": "d. 1681",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q550657",
+    "typ": "historia",
+    "titel": "Gustaf Horn.",
+    "ingress": "Gustaf Horn był bardzo ważnym szwedzkim dowódcą wojskowym i urzędnikiem w XVII wieku. Był znany jako wybitny generał, który dowodził armiami szwedzkimi w wielu wojnach za granicą.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Gustaf_Horn",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "stormaktstiden"
+    ],
+    "relevans": {
+      "varnpliktig": 3
+    },
+    "epok": "stormaktstiden",
+    "tid": "d. 1657",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q553292",
+    "typ": "historia",
+    "titel": "Jakob De la Gardie",
+    "ingress": "Tekst dotyczy Jakoba de la Gardie, ważnego szwedzkiego dowódcy wojskowego z XVII wieku, który dowodził w kluczowych wojnach na terenie Rosji i Estonii.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Jakob_De_la_Gardie",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "stormaktstiden"
+    ],
+    "epok": "stormaktstiden",
+    "tid": "d. 1652",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q514315",
+    "typ": "historia",
+    "titel": "Georg Stiernhielm",
+    "ingress": "Georg Stiernhielm był ważnym szwedzkim urzędnikiem, naukowcem i poetą z XVII wieku, uważanym za ojca szwedzkiej liryki.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Georg_Stiernhielm",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "stormaktstiden"
+    ],
+    "relevans": {
+      "student": 3
+    },
+    "epok": "stormaktstiden",
+    "tid": "d. 1672",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q449530",
+    "typ": "historia",
+    "titel": "Magnus Stenbock.",
+    "ingress": "Magnus Stenbock był szwedzkim dowódcą wojskowym i hrabią, który zasłynął swoimi zwycięstwami podczas Wielkiej Wojny Północnej. Był również utalentowanym artystą, a jego imię do dziś jest znane w historii Szwecji.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Magnus_Stenbock",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "stormaktstiden"
+    ],
+    "relevans": {
+      "infrastruktur": 3,
+      "batagare": 3,
+      "kultur": 3,
+      "varnpliktig": 3
+    },
+    "epok": "stormaktstiden",
+    "tid": "d. 1717",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q67194",
+    "typ": "historia",
+    "titel": "Adolf Jan z Palatynatu-Cewbruck.",
+    "ingress": "Tekst opisuje Adolfa Johana, księcia Szwecji, który był bratem króla Karola X Gustawa. Posiadał wysokie stopnie wojskowe i dorastał w potężnej rodzinie w XVII wieku.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Adolf_Johan_av_Pfalz-Zweibrücken",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "stormaktstiden"
+    ],
+    "epok": "stormaktstiden",
+    "tid": "d. 1689",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q920243",
+    "typ": "historia",
+    "titel": "Magnus Gabriel De la Gardie",
+    "ingress": "Magnus Gabriel De la Gardie był potężnym szwedzkim arystokratą, wojskowym i poetą żyjącym w XVII wieku. Otrzymywał wysokie stanowiska i był blisko związany z królową Krystyną, ale czasami krytykowano go za to, że bardziej interesowały go pr",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Magnus_Gabriel_De_la_Gardie",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "stormaktstiden"
+    ],
+    "relevans": {
+      "infrastruktur": 3,
+      "barn": 3,
+      "lantagare": 3,
+      "batagare": 3,
+      "varnpliktig": 3
+    },
+    "epok": "stormaktstiden",
+    "tid": "d. 1686",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q469783",
+    "typ": "historia",
+    "titel": "Anna Vasa",
+    "ingress": "Anna Vasa była szwedzką księżniczką, żyjącą w XVI wieku. Była znana z bliskich relacji ze swoim bratem, królem Zygmuntem, oraz z tego, że wybrała luteranizm zamiast katolicyzmu.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Anna_Vasa",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "stormaktstiden"
+    ],
+    "relevans": {
+      "infrastruktur": 3,
+      "batagare": 3
+    },
+    "epok": "stormaktstiden",
+    "tid": "d. 1625",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q938013",
+    "typ": "historia",
+    "titel": "Karl Filip",
+    "ingress": "Karol Filip był szwedzkim księciem, który prawie został carem Rosji, ale zmarł w młodym wieku podczas wojny. Obecnie jest znany głównie dlatego, że miasto Filipstad nosi jego imię.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Karl_Filip",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "stormaktstiden"
+    ],
+    "relevans": {
+      "klimat": 3
+    },
+    "epok": "stormaktstiden",
+    "tid": "d. 1622",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q2443616",
+    "typ": "historia",
+    "titel": "Sigrid Eriksdotter Vasa.",
+    "ingress": "Sigrid Eriksdotter Vasa była szwedzką księżniczką, córką króla Eryka XIV i Karin Månsdotter. Prowadziła życie na dworze i dwukrotnie wyszła za mąż w czasach, gdy nie było jasne, czy powinna być uznawana za prawdziwą księżniczkę.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Sigrid_Eriksdotter_Vasa",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "stormaktstiden"
+    ],
+    "relevans": {
+      "sambo_gift": 3
+    },
+    "epok": "stormaktstiden",
+    "tid": "d. 1633",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q71236",
+    "typ": "historia",
+    "titel": "Maria Eufrozyna z Palatynatu.",
+    "ingress": "Tekst opisuje Marię Eufrozynę, księżniczkę żyjącą w XVII wieku. Była znana ze swojego wykształcenia oraz z tego, że często pomagała w nawiązywaniu kontaktów między ważnymi osobami na dworze królewskim.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Maria_Eufrosyne_av_Pfalz",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "stormaktstiden"
+    ],
+    "relevans": {
+      "kvinna": 3
+    },
+    "epok": "stormaktstiden",
+    "tid": "d. 1687",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q452243",
+    "typ": "historia",
+    "titel": "Ebba Brahe\n\n(Brak dalszej treści do przetłumaczenia)",
+    "ingress": "Ebba Brahe była zamożną arystokratką, która zasłynęła głębokim uczuciem do króla Gustawa II Adolfa, z którym nigdy nie mogła się ożenić. Później wyszła za mąż za marszałka i stała się odnoszącą sukcesy bizneswoman, zarządzającą rozległymi m",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Ebba_Brahe",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "stormaktstiden"
+    ],
+    "relevans": {
+      "barn": 3,
+      "kultur": 3
+    },
+    "epok": "stormaktstiden",
+    "tid": "d. 1674",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q698453",
+    "typ": "historia",
+    "titel": "Georg von Derfflinger.",
+    "ingress": "Georg von Derfflinger był utalentowanym dowódcą wojskowym, który służył zarówno Szwecji, jak i Brandenburgii-Prus w XVII wieku. Zyskał sławę dzięki swoim sukcesom w wielu ważnych wojnach i osiągnął wysokie stanowiska w armii.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Georg_von_Derfflinger",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "stormaktstiden"
+    ],
+    "relevans": {
+      "b_bygg": 3
+    },
+    "epok": "stormaktstiden",
+    "tid": "d. 1695",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q705427",
+    "typ": "historia",
+    "titel": "Johann Patkul.",
+    "ingress": "Tekst dotyczy Johana Patkula, arystokraty, który był ważną, ale jednocześnie bardzo kontrowersyjną postacią w XVII i XVIII wieku. Pracował dla różnych krajów, w tym Rosji, a ostatecznie został stracony przez Szwedów z powodu swojego sprzeci",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Johann_Patkul",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "stormaktstiden"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "varnpliktig": 3
+    },
+    "epok": "stormaktstiden",
+    "tid": "d. 1707",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q494863",
+    "typ": "historia",
+    "titel": "Herman Wrangel.",
+    "ingress": "Herman Wrangel był wpływowym szwedzkim dowódcą wojskowym z XVII wieku, który dowodził armiami w wielu wojnach. Zyskał sławę dzięki swoim zwycięstwą na polu bitwy, ale często miał trudne konflikty z innymi wysokimi oficerami.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Herman_Wrangel",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "stormaktstiden"
+    ],
+    "epok": "stormaktstiden",
+    "tid": "d. 1643",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q68163",
+    "typ": "historia",
+    "titel": "Hans Christoph von Königsmarck.",
+    "ingress": "Hans Christoph von Königsmarck był potężnym dowódcą wojskowym i arystokratą żyjącym w XVII wieku. Został bardzo bogaty i odniósł wiele sukcesów dzięki służbie wojskowej w Niemczech, stając się jednym z najbogatszych ludzi w Szwecji.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Hans_Christoph_von_Königsmarck",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "stormaktstiden"
+    ],
+    "epok": "stormaktstiden",
+    "tid": "d. 1663",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
   }
 ]
