@@ -247,6 +247,29 @@
     "tri": true
   },
   {
+    "id": "ecb-2026-06-26-ecb-consumer-expectations-surv",
+    "typ": "omvarld",
+    "titel": "Resultat från ECB:s undersökning om konsumenternas förväntningar – maj 2026.",
+    "ingress": "En undersökning visar att konsumenter förväntar sig lägre prisökningar på varor och tjänster framöver, men de är fortfarande oroliga för hög arbetslöshet.",
+    "datum": "2026-06-26",
+    "kalla": "ECB",
+    "kalla_url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260626_1~60a21704a8.en.html",
+    "taggar": [
+      "ekonomi",
+      "ecb"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "smaforetag": 3,
+      "lontagare": 3,
+      "arbetssokande": 3,
+      "bostadsagare": 3,
+      "sparare": 3,
+      "lantagare": 5,
+      "konsument": 5
+    }
+  },
+  {
     "id": "HD03301",
     "typ": "lagforslag",
     "titel": "Skärpta villkor för anhöriginvandring",
