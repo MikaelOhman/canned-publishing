@@ -7823,6 +7823,30 @@
     }
   },
   {
+    "id": "reg-jamtland-regionstyrelsen-2026-03-25",
+    "typ": "region",
+    "titel": "Regionstyrelsen, Region Jämtland Härjedalen 2026-03-25",
+    "ingress": "Regionstyrelsen i Jämtland Härjedalen har gått igenom sin lista över ärenden och beslutat vilka frågor som ska behandlas under mötet. De har bland annat lagt till frågor om sjukresor och valarbeten, samt tagit del av en rapport om regionens",
+    "datum": "2026-03-25",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionstyrelsen/mote-2026-03-25",
+    "taggar": [
+      "reg-jamtland",
+      "regionstyrelsen",
+      "region-jamtland-harjedalen",
+      "sjukvard",
+      "offentlig-forvaltning",
+      "jamtland"
+    ],
+    "relevans": {
+      "b_fastighet": 3,
+      "b_kultur": 3,
+      "lokaler": 3,
+      "kronisk": 8,
+      "kultur": 3
+    }
+  },
+  {
     "id": "HD03226",
     "typ": "lagforslag",
     "titel": "Riksrevisionens rapport om Sidas arbete med det humanitära biståndet",
@@ -11186,6 +11210,34 @@
     }
   },
   {
+    "id": "reg-jamtland-regionstyrelsen-2026-01-20",
+    "typ": "region",
+    "titel": "Regionstyrelsen, Region Jämtland Härjedalen 2026-01-20",
+    "ingress": "Regionstyrelsen i Jämtland Härjedalen har tagit beslut om flera viktiga frågor som rör sjukvård, ekonomi och infrastruktur. Bland annat planeras nybyggnation av lokaler vid en helikopterbas och nya inköp av tåg.",
+    "datum": "2026-01-20",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionstyrelsen/mote-2026-01-20",
+    "taggar": [
+      "reg-jamtland",
+      "regionstyrelsen",
+      "region-jamtland-harjedalen",
+      "jamtland",
+      "regional-forvaltning",
+      "ekonomi"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_bygg": 3,
+      "b_fastighet": 3,
+      "finansiering": 3,
+      "lokaler": 3,
+      "infrastruktur": 3,
+      "barn": 3,
+      "kollektiv": 3,
+      "kronisk": 8
+    }
+  },
+  {
     "id": "malmo-kommunstyrelsen-2026-01-07",
     "typ": "kommunbeslut",
     "titel": "Kommunstyrelsen, Malmö stad 2026-01-07",
@@ -13244,6 +13296,35 @@
     }
   },
   {
+    "id": "reg-jamtland-regionfullmaktige-2025-10-22",
+    "typ": "region",
+    "titel": "Regionfullmaktige, Region Jämtland Härjedalen 2025-10-22",
+    "ingress": "Detta är ett mötesprotokoll från Region Jämtland Härjedalen där man bland annat diskuterade regler för kollektivtrafik, tandvårdstaxor och lokala samarbeten.",
+    "datum": "2025-10-22",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionfullmaktige/mote-2025-10-22",
+    "taggar": [
+      "reg-jamtland",
+      "regionfullmaktige",
+      "region-jamtland-harjedalen",
+      "regionalpolitik",
+      "jamtland",
+      "protokoll"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "bolagsskatt": 3,
+      "lokaler": 3,
+      "fou": 3,
+      "barn": 3,
+      "pendlare": 3,
+      "kollektiv": 5,
+      "kronisk": 8,
+      "tandvard": 5,
+      "kultur": 3
+    }
+  },
+  {
     "id": "hylte-kommunfullmaktige-2025-10-21",
     "typ": "kommunbeslut",
     "titel": "Kommunfullmäktige, Hylte kommun 2025-10-21",
@@ -14681,6 +14762,33 @@
       "pendlare": 3,
       "kollektiv": 3,
       "kronisk": 8
+    }
+  },
+  {
+    "id": "reg-jamtland-regionfullmaktige-2025-06-18",
+    "typ": "region",
+    "titel": "Regionfullmaktige, Region Jämtland Härjedalen 2025-06-18",
+    "ingress": "Regionen Jämtland Härjedalen har fattat beslut om flera viktiga frågor som rör hälso- och sjukvård, fastighetsköp samt framtida budgetar.",
+    "datum": "2025-06-18",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionfullmaktige/mote-2025-06-18",
+    "taggar": [
+      "reg-jamtland",
+      "regionfullmaktige",
+      "region-jamtland-harjedalen",
+      "jamtland",
+      "regionalpolitik",
+      "kommunal-forvaltning"
+    ],
+    "relevans": {
+      "b_fastighet": 5,
+      "b_energi": 3,
+      "barn": 3,
+      "kronisk": 8,
+      "tandvard": 3,
+      "energikund": 3,
+      "konsument": 3,
+      "klimat": 3
     }
   },
   {

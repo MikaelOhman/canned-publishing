@@ -192,7 +192,7 @@
   "ekonomi": {
     "etikett": "Ekonomi",
     "typ": "ämne",
-    "antal": 19
+    "antal": 20
   },
   "bolagsforvaltning": {
     "etikett": "Bolagsförvaltning",
@@ -397,7 +397,7 @@
   "kommunal-forvaltning": {
     "etikett": "Kommunal förvaltning",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "digitalisering": {
     "etikett": "Digitalisering",
@@ -432,7 +432,7 @@
   "protokoll": {
     "etikett": "Protokoll",
     "typ": "händelse",
-    "antal": 10
+    "antal": 11
   },
   "alingsas": {
     "etikett": "Alingsås",
@@ -1507,12 +1507,12 @@
   "regionfullmaktige": {
     "etikett": "Regionfullmaktige",
     "typ": "organisation",
-    "antal": 17
+    "antal": 19
   },
   "regionstyrelsen": {
     "etikett": "Regionstyrelsen",
     "typ": "organisation",
-    "antal": 13
+    "antal": 15
   },
   "reg-orebro": {
     "etikett": "Region Örebro län",
@@ -1527,7 +1527,7 @@
   "reg-jamtland": {
     "etikett": "Region Jämtland Härjedalen",
     "typ": "organisation",
-    "antal": 7
+    "antal": 11
   },
   "reg-blekinge": {
     "etikett": "Region Blekinge",
@@ -1722,7 +1722,7 @@
   "regionalpolitik": {
     "etikett": "Regionalpolitik",
     "typ": "ämne",
-    "antal": 8
+    "antal": 10
   },
   "region-orebro-lan": {
     "etikett": "Region Örebro län",
@@ -1732,7 +1732,7 @@
   "sjukvard": {
     "etikett": "Sjukvård",
     "typ": "ämne",
-    "antal": 8
+    "antal": 9
   },
   "klimat-och-miljo": {
     "etikett": "Klimat och miljö",
@@ -1742,12 +1742,12 @@
   "regional-forvaltning": {
     "etikett": "Regional förvaltning",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "region-jamtland-harjedalen": {
     "etikett": "Region Jämtland Härjedalen",
     "typ": "organisation",
-    "antal": 3
+    "antal": 7
   },
   "ostersund": {
     "etikett": "Östersund",
@@ -1757,7 +1757,7 @@
   "jamtland": {
     "etikett": "Jämtland",
     "typ": "plats",
-    "antal": 2
+    "antal": 6
   },
   "regional-ekonomi": {
     "etikett": "Regional ekonomi",
@@ -1997,7 +1997,7 @@
   "offentlig-forvaltning": {
     "etikett": "Offentlig förvaltning",
     "typ": "ämne",
-    "antal": 2
+    "antal": 3
   },
   "kollektivtrafik": {
     "etikett": "Kollektivtrafik",
