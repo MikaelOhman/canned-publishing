@@ -10464,6 +10464,22 @@
     }
   },
   {
+    "id": "stockholm-kommunstyrelsen-2026-02-18",
+    "typ": "kommunbeslut",
+    "titel": "Kommunstyrelsen, Stockholms stad 2026-02-18",
+    "ingress": "Stockholms stad har tagit emot flera rapporter och förslag om bland annat matsvinn, vätgas i gasnätet och framtida avloppsrening.",
+    "datum": "2026-02-18",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunstyrelsen/mote-2026-02-18",
+    "taggar": [
+      "stockholm",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "upphandling": 3
+    }
+  },
+  {
     "id": "HD03141",
     "typ": "lagforslag",
     "titel": "En ny vapenlag",
@@ -12371,6 +12387,28 @@
       "glesbygd": 3,
       "pendlare": 3,
       "kollektiv": 3
+    }
+  },
+  {
+    "id": "stockholm-kommunfullmaktige-2025-12-01",
+    "typ": "kommunbeslut",
+    "titel": "Kommunfullmäktige, Stockholms stad 2025-12-01",
+    "ingress": "Stockholms stad har tagit emot svar på flera frågor om bland annat socialtjänst, elcykelparkering och bostadspolitik.",
+    "datum": "2025-12-01",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunfullmaktige/mote-2025-12-01",
+    "taggar": [
+      "stockholm",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_fastighet": 3,
+      "pensionar": 3,
+      "arbetssokande": 3,
+      "bil": 3,
+      "beroende": 3,
+      "lantagare": 3,
+      "otrygg": 3
     }
   },
   {
