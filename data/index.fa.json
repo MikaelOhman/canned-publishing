@@ -19933,5 +19933,708 @@
     "sakerhet": "belagt",
     "konsensus": "samsyn",
     "flaggor": []
+  },
+  {
+    "id": "hist-q381010",
+    "typ": "historia",
+    "titel": "Olaus Petri",
+    "ingress": "اولوس پتری، شخصیتی مهم در تاریخ سوئد بود که به تغییر قوانین کلیسا و ترجمه کتاب مقدس به زبان سوئدی کمک کرد.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Olaus_Petri",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "epok": "vasatiden",
+    "tid": "d. 1552",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q2211749",
+    "typ": "historia",
+    "titel": "کاتارینا گوستافس‌دوتتر واسا.",
+    "ingress": "کاتارینا واسا، یک شاهزاده خانم سوئدی بود که با کنت اوست‌فرایسلند ازدواج کرد تا روابط تجاری و سیاسی سوئد را در خارج از کشور تقویت کند.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Katarina_Gustavsdotter_Vasa",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "sambo_gift": 3,
+      "varnpliktig": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1610",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q438481",
+    "typ": "historia",
+    "titel": "کریستینا نیلزدوتر (گیلنسترنا)",
+    "ingress": "کریستینا گیلنستیِرنا، شخصیتی برجسته در تاریخ سوئد بود که پس از فوت همسرش، رهبری دفاع از شهر استکهلم را بر عهده گرفت و در برابر دانمارکی‌ها ایستاد. او به خاطر شجاعتش و مبارزه برای آزادی سوئد مشهور شد.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Kristina_Nilsdotter_(Gyllenstierna)",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "kvinna": 3,
+      "varnpliktig": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1559",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q890742",
+    "typ": "historia",
+    "titel": "آنا گوستافس‌دوتِر واسا.",
+    "ingress": "آنا گوستافس‌دوتتر واسا، یک شاهزاده خانم سوئدی بود که با یک شاهزاده آلمانی ازدواج کرد تا ارتباطات مهمی در اروپا ایجاد کند. او بعداً، پس از فوت همسرش، رهبری قلمرو او را بر عهده گرفت و سخت تلاش کرد تا مشکلات اقتصادی و اختلافات مربوط به ارث را",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Anna_Gustavsdotter_Vasa",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "sambo_gift": 3,
+      "lantagare": 3,
+      "fortroendevald": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1610",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q654753",
+    "typ": "historia",
+    "titel": "الیزابت واسا",
+    "ingress": "الیزابت واسا، یک شاهزاده خانم سوئدی بود که در قرن شانزدهم زندگی می‌کرد. او به عنوان زنی بسیار بااستعداد و زیبا توصیف شده بود، اما زندگی‌اش تحت تاثیر بازی‌های سیاسی پیرامون این موضوع قرار داشت که او با چه کسی ازدواج خواهد کرد.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Elisabet_Vasa",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "b_it": 3,
+      "b_kultur": 3,
+      "sambo_gift": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1597",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q942376",
+    "typ": "historia",
+    "titel": "گوشتاف تروله",
+    "ingress": "گوستاف اریکسون تروله، متولد سپتامبر 1488 و درگذشته در تابستان 1535، یک روحانی و اسقف اعظم اوپسالا از سال 1515 تا 1521 بود. او یکی از مسئولان اصلی ماجرای قتل عام استکهلم بود. == زندگی‌نامه == گوستاف تر",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Gustaf_Trolle",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "student": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1535",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q561050",
+    "typ": "historia",
+    "titel": "لورنتیوس پتری نیریکیوس",
+    "ingress": "لورنتیوس پتری، یک روحانی برجسته سوئدی بود که در قرن شانزدهم، اولین اسقف اعظم کلیسای لوتری جدید شد. او فعالیت‌های گسترده‌ای در زمینه نویسندگی، ترجمه کتاب مقدس و تدوین قوانین مربوط به نحوه عملکرد کلیسا انجام داد.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Laurentius_Petri_Nericius",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "b_kultur": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1573",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q525903",
+    "typ": "historia",
+    "titel": "پانتوس د لا گاردی",
+    "ingress": "پانتوس د لا گاردی، یک نظامی فرانسوی بود که در طول قرن پانزدهم میلادی (معادل قرن هشتم هجری) به مقام و نفوذ فراوانی در سوئد دست یافت. او در جنگ‌های مهمی رهبری کرد و قبل از اینکه در یک حادثه قایق جان خود را از دست بدهد، به یکی از مهم‌ترین مشاو",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Pontus_De_la_Gardie",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "batagare": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1585",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q958817",
+    "typ": "historia",
+    "titel": "اریک تروله",
+    "ingress": "اریک تروله، شخصیتی برجسته در سیاست و کلیسا سوئد در قرن پانزدهم بود. او مناصب مهمی مانند عضو شورای ملی و قاضی ارشد را بر عهده داشت که به این معنا بود که او نفوذ زیادی بر قوانین و حکومت کشور داشت.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Erik_Trolle",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "epok": "vasatiden",
+    "tid": "d. 1530",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q2618045",
+    "typ": "historia",
+    "titel": "صوفیا واسا",
+    "ingress": "صوفیا واسا، یک شاهزاده خانم سوئدی بود که مجبور شد با مردی ازدواج کند که رفتارهای نامناسبی با او داشت. او زندگی دشواری را به دلیل رفتار خشونت‌آمیز همسرش و سوء استفاده او از قدرت سپری کرد.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Sofia_Vasa",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "sambo_gift": 3,
+      "glesbygd": 3,
+      "beroende": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1611",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q950278",
+    "typ": "historia",
+    "titel": "ماگنوس، دوک اوسترگوتلند.",
+    "ingress": "مگنوس، شاهزاده‌ای سوئدی بود که به عنوان دوک (حاکم) منطقه اوسترگوتلند منصوب شد، اما هرگز پادشاه نشد. او از یک بیماری روانی جدی رنج می‌برد که باعث از دست دادن عقل و توانایی اداره مناطق تحت حکومتش شد.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Magnus,_hertig_av_Östergötland",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "tillstand": 3,
+      "barn": 3,
+      "kvinna": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1595",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q553569",
+    "typ": "historia",
+    "titel": "کلز فلمینگ",
+    "ingress": "این متن فهرستی از چندین شخصیت تاریخی را ارائه می‌دهد که همگی نام \"کلاس\" یا \"فلِمینگ\" داشته‌اند. تعیین دقیق جزئیات زندگی این افراد دشوار است، زیرا اسناد قدیمی اغلب توسط افرادی با قدرت و نفوذ نوشته شده‌اند.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Claes_Fleming",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "b_industri": 5
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1597",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q1357329",
+    "typ": "historia",
+    "titel": "پِر براهه (نسخه اول)\n\n(ترجمه: Per Brahe the Elder)",
+    "ingress": "این متن درباره \"پِر براهه\" (Per Brahe) بزرگ، یک اشراف‌زاده بسیار قدرتمند و تأثیرگذار در سوئد در قرن شانزدهم میلادی صحبت می‌کند. او روابط نزدیکی با خانواده سلطنتی داشت و نقش‌های رهبری مهمی را در کشور ایفا می‌کرد.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Per_Brahe_den_äldre",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "barn": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1590",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q1347396",
+    "typ": "historia",
+    "titel": "نلس داکه",
+    "ingress": "نِلس داکه، یک دهقان اهل منطقه سمولاند، در قرن شانزدهم، شورشی را علیه مالیات‌های سنگین و تغییراتی که پادشاه گوستاو واسا در کلیسا ایجاد کرده بود، رهبری کرد. او به نمادی از مقاومت در برابر قدرت پادشاه تبدیل شد، اما پس از شکست در برابر ارتش پاد",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Nils_Dacke",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "epok": "vasatiden",
+    "tid": "d. 1543",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q1347644",
+    "typ": "historia",
+    "titel": "لورنتیوس آندرائه",
+    "ingress": "لورنتیوس آندره، یک روحانی برجسته و مشاور مهم برای پادشاه گوستاو واسا بود که در قرن شانزدهم میلادی به تغییرات اساسی در کلیسای سوئد کمک کرد.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Laurentius_Andreæ",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "epok": "vasatiden",
+    "tid": "d. 1552",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q2595418",
+    "typ": "historia",
+    "titel": "گوستاو اریکسون واسا",
+    "ingress": "گوستاو اریکسون واسا، یک شاهزاده سوئدی بود که پس از اینکه پدرش از مقام سلطنتی خلع شد، به تبعید رفت. او اغلب به عنوان ابزاری در بازی‌های سیاسی بین کشورهای مختلف مورد استفاده قرار می‌گرفت، و در نهایت در روسیه فوت کرد و زندگی فقیرانه‌ای داشت.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Gustav_Eriksson_Vasa",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "sambo_gift": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1607",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q2625684",
+    "typ": "historia",
+    "titel": "یوران پرسون",
+    "ingress": "یوران پرسون، یک مقام دولتی مهم بود که در کنار پادشاه اریک چهاردهم کار می‌کرد و به تعیین مجازات برای دیگران به دلیل ارتکاب جرم کمک می‌رسید. با این حال، پس از اینکه پادشاه سرنگون شد، او خود به اعدام محکوم شد و اعدام گردید.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Jöran_Persson",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "b_fastighet": 3,
+      "b_konsult": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1568",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q704851",
+    "typ": "historia",
+    "titel": "ولفگانگ میوسلین",
+    "ingress": "این متن دربارهٔ وولفگانگ مِوسلین است، یک الهیدان که در قرن پانزدهم زندگی می‌کرد و ترجمه او از یک سرود مسیحی قدیمی در کتاب ترانه‌های سوئدی (psalmboken) گنجانده شده است.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Wolfgang_Meusslin",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "epok": "vasatiden",
+    "tid": "d. 1563",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q368077",
+    "typ": "historia",
+    "titel": "یاکوب اولفسون",
+    "ingress": "یاکوب اولفسون، یک اسقف اعظم برجسته در اوپسالا بود که برای مدت طولانی بر کلیسای سوئد حکومت کرد. او از اهمیت بسزایی در تاریخ سوئد برخوردار بود، زیرا به تأسیس دانشگاه اوپسالا کمک کرد و دستگاه چاپ را معرفی نمود.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Jakob_Ulfsson",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "student": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1521",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q439136",
+    "typ": "historia",
+    "titel": "مارگارتای اریکزدوتر",
+    "ingress": "این متن توضیح می‌دهد که نام \"مارگارت اِریکس‌دوتِر\" توسط چندین زن مختلف در طول تاریخ استفاده شده است، از جمله چندین ملکه و شاهدزاده خانم.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Margareta_Eriksdotter",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "kvinna": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1536",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q935691",
+    "typ": "historia",
+    "titel": "لورنتیوس پتری گوتوس",
+    "ingress": "لورنتیوس پتری گوتوس، یک رهبر و نویسنده برجسته کلیسای سوئد در قرن پانزدهم بود. او بیشتر به خاطر نوشتن سرودها و همچنین سمتش به عنوان اسقف اعظم شناخته شده است.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Laurentius_Petri_Gothus",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "student": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1579",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q3738574",
+    "typ": "historia",
+    "titel": "کلاس هورن.",
+    "ingress": "نام \"کلاس هورن\" در طول تاریخ سوئد توسط افراد برجسته متعددی به کار رفته است، از جمله اشراف و نظامیان. این نام همچنین برای سه کشتی جنگی مختلف استفاده شده است.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Klas_Horn",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "epok": "vasatiden",
+    "tid": "d. 1566",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q4969190",
+    "typ": "historia",
+    "titel": "بریتای اولوفزدوتر",
+    "ingress": "بریتا اولوفزدوتر، زنی بود که در قرن شانزدهم، برای اینکه بتواند به عنوان سرباز در جنگ شرکت کند، لباس مردانه پوشید. او یکی از اولین زنانی محسوب می‌شود که در تاریخ سوئد به عنوان سرباز فعالیت کرده است.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Brita_Olofsdotter",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "kvinna": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1569",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q630424",
+    "typ": "historia",
+    "titel": "یاکوب باگه",
+    "ingress": "یاکوب باگه، یک دریاسالار و قهرمان جنگ سوئدی مشهور بودند که در قرن پانزدهم میلادی، فرماندهی ناوگان سوئد را در چندین جنگ مهم بر عهده داشتند.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Jakob_Bagge",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "epok": "vasatiden",
+    "tid": "d. 1577",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q468037",
+    "typ": "historia",
+    "titel": "یورگن فون فارنسباخ",
+    "ingress": "یورگن فون فارنسباخ، یک نظامی بود که در طول قرن پانزدهم، در ارتش‌های کشورهای مختلف از جمله سوئد و لهستان خدمت کرد.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Jürgen_von_Farensbach",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "epok": "vasatiden",
+    "tid": "d. 1602",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q2589657",
+    "typ": "historia",
+    "titel": "پل یوستن",
+    "ingress": "پل یوستن، یک اسقف فنلاندی بود که پس از اعزام به روسیه به عنوان نماینده پادشاه سوئد، به مدت سه سال در آنجا اسیر شد.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Paul_Juusten",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "epok": "vasatiden",
+    "tid": "d. 1575",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q447040",
+    "typ": "historia",
+    "titel": "کاترین هانس‌دوتِر",
+    "ingress": "کارین هانس‌دوتِر، زنی بود که در قرن شانزدهم زندگی می‌کرد و به عنوان معشوقه رسمی دوک یوهان (که بعدها پادشاه شد) خدمت می‌کرد. او چهار فرزند از او داشت و پس از پایان رابطه‌شان، هدایای ارزشمند و املاک بزرگی را به عنوان \"پرداخت\" دریافت کرد.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Karin_Hansdotter",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "barn": 3,
+      "pensionar": 3,
+      "glesbygd": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1596",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q1776694",
+    "typ": "historia",
+    "titel": "دیدریک سلاگهک",
+    "ingress": "دیدریک سلاگهک، یک اسقف دانمارکی بود که در تعیین مجازات‌های سنگینی که در حمام خون استکهلم در سال ۱۵۲۰ اعمال شد، نقش داشت. او بعدها به اعدام محکوم شد و در سال ۱۵۲۲ در کپنهاگ زنده سوزانده شد.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Didrik_Slagheck",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "infrastruktur": 3,
+      "lantagare": 3,
+      "batagare": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1522",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q3603769",
+    "typ": "historia",
+    "titel": "آبراهاموس آندرائه آنگرمانوس.",
+    "ingress": "آبراهاموس آندرئاس آنگرمنوس، یک اسقف اعظم سوئدی بود که در قرن پانزدهم میلادی زندگی می‌کرد و به خاطر تلاش‌هایش برای دفاع از باورهای پروتستانتی و مخالفت با سنت‌های کاتولیکی مشهور شد.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Abrahamus_Andreæ_Angermannus",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "epok": "vasatiden",
+    "tid": "d. 1607",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q3737971",
+    "typ": "historia",
+    "titel": "کارل هنریکسون (هورن)",
+    "ingress": "کارل هنریکسون، یک رهبر نظامی و مقام دولتی مهم سوئدی در قرن پانزدهم بود. او فرماندهی نیروهای سوئدی را در جنگ‌هایی علیه روسیه بر عهده داشت و مناصب ارشد مانند \"فیلد مارشال\" (ژنرال) و عضو شورای ملی را دارا بود.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Karl_Henriksson_(Horn)",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "b_fastighet": 3,
+      "varnpliktig": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1601",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q95359",
+    "typ": "historia",
+    "titel": "یوهان فون هویا.",
+    "ingress": "یوهان فون هویا، یک اشراف‌زاده آلمانی بود که با خواهر پادشاه گوستاو واسا ازدواج کرد و به عنوان مشاور در سوئد کار می‌کرد. او دچار اختلاف با پادشاه شد و مجبور شد کشور را ترک کند، جایی که بعدها در جنگ جان خود را از دست داد.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Johan_av_Hoya",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "infrastruktur": 3,
+      "lantagare": 3,
+      "batagare": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1535",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
   }
 ]

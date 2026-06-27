@@ -20134,5 +20134,688 @@
     "sakerhet": "belagt",
     "konsensus": "samsyn",
     "flaggor": []
+  },
+  {
+    "id": "hist-q2211749",
+    "typ": "historia",
+    "titel": "Katarina Gustavsdotter Vasa.",
+    "ingress": "Katarina Vasa était une princesse suédoise qui a épousé le comte d'Ost-Frise afin de renforcer les relations commerciales et politiques de la Suède à l'étranger.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Katarina_Gustavsdotter_Vasa",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "sambo_gift": 3,
+      "varnpliktig": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1610",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q438481",
+    "typ": "historia",
+    "titel": "Kristina Nilsdotter (de Gyllenstierna)",
+    "ingress": "Kristina Gyllenstierna a été une figure importante de l'histoire suédoise, ayant mené la défense de Stockholm contre les Danois après le décès de son mari. Elle est devenue célèbre pour son courage et son engagement en faveur de la liberté",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Kristina_Nilsdotter_(Gyllenstierna)",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "kvinna": 3,
+      "varnpliktig": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1559",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q890742",
+    "typ": "historia",
+    "titel": "Anna Gustavsdotter Vasa.",
+    "ingress": "Anna Gustavsdotter Vasa était une princesse suédoise qui a épousé un prince allemand afin de créer des contacts importants en Europe. Après le décès de son mari, elle est devenue la dirigeante de ses terres et s'est efforcée de résoudre les",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Anna_Gustavsdotter_Vasa",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "sambo_gift": 3,
+      "lantagare": 3,
+      "fortroendevald": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1610",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q654753",
+    "typ": "historia",
+    "titel": "Élisabeth de Vasa.",
+    "ingress": "Élisabeth Vasa était une princesse suédoise qui a vécu au XVIe siècle. Elle était décrite comme une femme très talentueuse et belle, mais sa vie fut marquée par des manœuvres politiques concernant son mariage.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Elisabet_Vasa",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "b_it": 3,
+      "b_kultur": 3,
+      "sambo_gift": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1597",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q942376",
+    "typ": "historia",
+    "titel": "Gustaf Trolle.",
+    "ingress": "Gustaf Eriksson Trolle, né en septembre 1488 et décédé pendant l'été 1535, était un prêtre suédois et archevêque d'Uppsala de 1515 à 1521. Il a été l'un des responsables du massacre de Stockholm. == B",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Gustaf_Trolle",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "student": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1535",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q561050",
+    "typ": "historia",
+    "titel": "Laurentius Petri Nericius.",
+    "ingress": "Laurentius Petri était un prêtre suédois important qui est devenu le premier archevêque de la nouvelle Église luthérienne au XVIe siècle. Il a beaucoup travaillé sur l'écriture de livres, la traduction de la Bible et la création de règles p",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Laurentius_Petri_Nericius",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "b_kultur": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1573",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q525903",
+    "typ": "historia",
+    "titel": "Pontus De la Gardie.",
+    "ingress": "Pontus De la Gardie était un militaire français qui a acquis une grande influence en Suède au cours du XVIe siècle. Il a mené des guerres importantes et est devenu l'un des conseillers les plus influents du pays avant de décéder dans un acc",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Pontus_De_la_Gardie",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "batagare": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1585",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q958817",
+    "typ": "historia",
+    "titel": "Erik Trolle.",
+    "ingress": "Erik Trolle était une figure influente de la politique et de l'église suédoises au XVIe siècle. Il occupait des postes importants tels que celui de conseiller du royaume et de juge, ce qui lui conférait une grande influence sur les lois et",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Erik_Trolle",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "epok": "vasatiden",
+    "tid": "d. 1530",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q2618045",
+    "typ": "historia",
+    "titel": "Sofia Vasa.",
+    "ingress": "Sofia Vasa était une princesse suédoise qui a été contrainte d'épouser un homme qui la traitait mal. Elle a mené une vie difficile en raison du comportement violent de son mari et de ses abus de pouvoir.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Sofia_Vasa",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "sambo_gift": 3,
+      "glesbygd": 3,
+      "beroende": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1611",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q950278",
+    "typ": "historia",
+    "titel": "Magnus, duc de l'Östergötland.",
+    "ingress": "Magnus était un prince suédois qui a été nommé duc d'Östergötland, mais il n'est jamais devenu roi. Il souffrait d'une grave maladie mentale qui l'a conduit à perdre la raison et à ne plus pouvoir gouverner ses territoires de sa propre pers",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Magnus,_hertig_av_Östergötland",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "tillstand": 3,
+      "barn": 3,
+      "kvinna": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1595",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q553569",
+    "typ": "historia",
+    "titel": "Claes Fleming.",
+    "ingress": "Le texte présente plusieurs figures historiques, toutes portant le prénom Claes ou Klas Fleming. Il est difficile de connaître avec précision leur mode de vie, car les anciens documents sont souvent rédigés par des personnes détenant le pou",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Claes_Fleming",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "b_industri": 5
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1597",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q1357329",
+    "typ": "historia",
+    "titel": "Per Brahe l'Ancien.",
+    "ingress": "Ce texte relate l'histoire de Per Brahe le Vieux, un noble suédois extrêmement puissant et influent au XVIe siècle. Il était proche de la famille royale et a occupé des postes de leadership importants dans le pays.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Per_Brahe_den_äldre",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "barn": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1590",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q1347396",
+    "typ": "historia",
+    "titel": "Nils Dacke.",
+    "ingress": "Nils Dacke était un paysan de Småland qui a dirigé une révolte contre les impôts excessifs et les changements apportés à l'église par le roi Gustave Vasa au XVIe siècle. Il est devenu un symbole de la résistance contre le pouvoir royal, mai",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Nils_Dacke",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "epok": "vasatiden",
+    "tid": "d. 1543",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q1347644",
+    "typ": "historia",
+    "titel": "Laurentius Andreæ.",
+    "ingress": "Laurentius Andreæ était un prêtre et conseiller important auprès du roi Gustave Vasa, qui a contribué à transformer l'église suédoise au cours du XVIe siècle.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Laurentius_Andreæ",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "epok": "vasatiden",
+    "tid": "d. 1552",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q2595418",
+    "typ": "historia",
+    "titel": "Gustav Eriksson Vasa.",
+    "ingress": "Gustav Eriksson Vasa était un prince suédois qui a vécu en exil après que son père ait été déposé de sa fonction royale. Il a souvent été utilisé comme un pion dans les jeux politiques entre différents pays, et il est mort pauvre en Russie.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Gustav_Eriksson_Vasa",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "sambo_gift": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1607",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q2625684",
+    "typ": "historia",
+    "titel": "Jöran Persson.",
+    "ingress": "Jöran Persson était un haut fonctionnaire qui travaillait en étroite collaboration avec le roi Éric XIV et participait à la condamnation d'autres personnes pour divers crimes. Cependant, il fut lui-même condamné à mort et exécuté après l'ab",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Jöran_Persson",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "b_fastighet": 3,
+      "b_konsult": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1568",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q704851",
+    "typ": "historia",
+    "titel": "Wolfgang Meusslin",
+    "ingress": "Le texte parle de Wolfgang Meusslin, un théologien qui a vécu au XVIe siècle et dont la traduction d'un ancien cantique chrétien est incluse dans le recueil de psaumes suédois.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Wolfgang_Meusslin",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "epok": "vasatiden",
+    "tid": "d. 1563",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q368077",
+    "typ": "historia",
+    "titel": "Jakob Ulfsson",
+    "ingress": "Jakob Ulfsson était un puissant archevêque d'Uppsala qui a dirigé l'église suédoise pendant une longue période. Il a joué un rôle très important dans l'histoire de la Suède, car il a contribué à la fondation de l'Université d'Uppsala et a i",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Jakob_Ulfsson",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "student": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1521",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q439136",
+    "typ": "historia",
+    "titel": "Margareta Eriksdotter.",
+    "ingress": "Le texte explique que le nom Margareta Eriksdotter a été porté par plusieurs femmes différentes au cours de l'histoire, notamment plusieurs reines et princesses.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Margareta_Eriksdotter",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "kvinna": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1536",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q935691",
+    "typ": "historia",
+    "titel": "Laurentius Petri Gothus.",
+    "ingress": "Laurentius Petri Gothus fut un important chef religieux et écrivain suédois au XVIe siècle. Il est surtout connu pour avoir écrit des psaumes et pour avoir été archevêque.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Laurentius_Petri_Gothus",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "student": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1579",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q3738574",
+    "typ": "historia",
+    "titel": "Klas Horn.",
+    "ingress": "Le nom \"Klas Horn\" a été porté par plusieurs figures importantes de l'histoire suédoise, notamment des nobles et des militaires. Ce nom a également été attribué à trois navires de guerre différents.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Klas_Horn",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "epok": "vasatiden",
+    "tid": "d. 1566",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q4969190",
+    "typ": "historia",
+    "titel": "Brita Olofsdotter.",
+    "ingress": "Brita Olofsdotter était une femme qui, au XVIe siècle, se déguisa en homme pour pouvoir servir comme soldate dans les guerres. Elle est considérée comme l'une des premières femmes soldats de l'histoire suédoise.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Brita_Olofsdotter",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "kvinna": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1569",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q630424",
+    "typ": "historia",
+    "titel": "Jakob Bagge.",
+    "ingress": "Jakob Bagge était un célèbre amiral et héros de guerre suédois au XVIe siècle, qui a mené la flotte suédoise dans plusieurs conflits importants.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Jakob_Bagge",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "epok": "vasatiden",
+    "tid": "d. 1577",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q468037",
+    "typ": "historia",
+    "titel": "Jürgen von Farensbach.",
+    "ingress": "Jürgen von Farensbach était un militaire qui a servi dans les armées de plusieurs pays au cours du XVIe siècle, notamment en Suède et en Pologne.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Jürgen_von_Farensbach",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "epok": "vasatiden",
+    "tid": "d. 1602",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q2589657",
+    "typ": "historia",
+    "titel": "Paul Juusten.",
+    "ingress": "Paul Juusten était un évêque finlandais qui a été emprisonné en Russie pendant trois ans, après avoir été envoyé là en tant qu'émissaire du roi suédois.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Paul_Juusten",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "epok": "vasatiden",
+    "tid": "d. 1575",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q447040",
+    "typ": "historia",
+    "titel": "Karin Hansdotter.",
+    "ingress": "Karin Hansdotter était une femme du XVIe siècle qui fut la maîtresse officielle du duc Jean (qui devint plus tard roi). Elle eut quatre enfants avec lui et, à la fin de leur relation, elle reçut de généreux cadeaux et des propriétés en guis",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Karin_Hansdotter",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "barn": 3,
+      "pensionar": 3,
+      "glesbygd": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1596",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q1776694",
+    "typ": "historia",
+    "titel": "Didrik Slagheck",
+    "ingress": "Didrik Slagheck était un évêque danois qui a participé à la détermination des sévères peines infligées lors du massacre de Stockholm en 1520. Il a été condamné à mort et brûlé vif à Copenhague en 1522.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Didrik_Slagheck",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "infrastruktur": 3,
+      "lantagare": 3,
+      "batagare": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1522",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q3603769",
+    "typ": "historia",
+    "titel": "Abrahamus Andreæ Angermannus.",
+    "ingress": "Abrahamus Andreæ Angermannus était un archevêque suédois du XVIe siècle, connu pour son combat acharné en faveur de la foi protestante et contre les traditions catholiques.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Abrahamus_Andreæ_Angermannus",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "epok": "vasatiden",
+    "tid": "d. 1607",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q3737971",
+    "typ": "historia",
+    "titel": "Karl Henriksson (surnom Horn)",
+    "ingress": "Karl Henriksson fut un important chef militaire et fonctionnaire suédois au XVIe siècle. Il commanda les troupes suédoises lors de guerres contre la Russie et occupa des postes élevés tels que celui de maréchal de campagne et conseiller du",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Karl_Henriksson_(Horn)",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "b_fastighet": 3,
+      "varnpliktig": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1601",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q95359",
+    "typ": "historia",
+    "titel": "Johan de Hoya.",
+    "ingress": "Johan de Hoya était un comte allemand qui a épousé la sœur du roi Gustave Vasa et a travaillé comme conseiller en Suède. Il est entré en conflit avec le roi et a été contraint de fuir le pays, où il est décédé plus tard lors d'une guerre.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Johan_av_Hoya",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "infrastruktur": 3,
+      "lantagare": 3,
+      "batagare": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1535",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
   }
 ]

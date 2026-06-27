@@ -20354,29 +20354,6 @@
     "flaggor": []
   },
   {
-    "id": "hist-q942376",
-    "typ": "historia",
-    "titel": "Gustaf Trolle",
-    "ingress": "Gustaf Eriksson Trolle, född i september 1488, död sommaren 1535, var en svensk präst och ärkebiskop av Uppsala 1515–1521. Han var en av de ansvariga bakom Stockholms blodbad. == Biografi == Gustaf Tr",
-    "datum": "",
-    "kalla": "Wikipedia",
-    "kalla_url": "https://sv.wikipedia.org/wiki/Gustaf_Trolle",
-    "taggar": [
-      "svensk-historia",
-      "historisk-person",
-      "vasatiden"
-    ],
-    "relevans": {
-      "student": 3
-    },
-    "epok": "vasatiden",
-    "tid": "d. 1535",
-    "kallage": "samtida",
-    "sakerhet": "belagt",
-    "konsensus": "samsyn",
-    "flaggor": []
-  },
-  {
     "id": "hist-q561050",
     "typ": "historia",
     "titel": "Laurentius Petri Nericius",
@@ -20929,6 +20906,29 @@
       "infrastruktur": 3,
       "lantagare": 3,
       "batagare": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1535",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q942376",
+    "typ": "historia",
+    "titel": "Gustaf Trolle",
+    "ingress": "Gustaf Eriksson Trolle, född i september 1488, död sommaren 1535, var en svensk präst och ärkebiskop av Uppsala 1515–1521. Han var en av de ansvariga bakom Stockholms blodbad. == Biografi == Gustaf Tr",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Gustaf_Trolle",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "student": 3
     },
     "epok": "vasatiden",
     "tid": "d. 1535",

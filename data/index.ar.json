@@ -19976,5 +19976,708 @@
     "sakerhet": "belagt",
     "konsensus": "samsyn",
     "flaggor": []
+  },
+  {
+    "id": "hist-q381010",
+    "typ": "historia",
+    "titel": "أولوس بيتري.",
+    "ingress": "كان أولوس بيتري شخصية مهمة في تاريخ السويد، حيث ساهم في تغيير قواعد الكنيسة وترجمة الكتاب المقدس إلى اللغة السويدية.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Olaus_Petri",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "epok": "vasatiden",
+    "tid": "d. 1552",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q2211749",
+    "typ": "historia",
+    "titel": "كاتارينا جوستافسدوتير فاسي.",
+    "ingress": "كانت كاترين فازا أميرة سويدية تزوجت من كونت أوستفرلاند بهدف تعزيز التجارة السويدية والعلاقات السياسية للسويد مع الخارج.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Katarina_Gustavsdotter_Vasa",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "sambo_gift": 3,
+      "varnpliktig": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1610",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q438481",
+    "typ": "historia",
+    "titel": "كريستينا نيلزدوتر (غيلينستينيرنا).",
+    "ingress": "كانت كريستينا جيليستينير شخصية بارزة في التاريخ السويدي، حيث قادت الدفاع عن ستوكهولم ضد الدنماركيين بعد وفاة زوجها. اشتهرت بشجاعتها وبدفاعها عن حرية السويد.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Kristina_Nilsdotter_(Gyllenstierna)",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "kvinna": 3,
+      "varnpliktig": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1559",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q890742",
+    "typ": "historia",
+    "titel": "آنا جوستافسدوتير فاسي.",
+    "ingress": "كانت آنا جوستافسدوتير فاسي أميرة سويدية تزوجت من أمير ألماني بهدف إقامة علاقات مهمة في أوروبا. لاحقًا، أصبحت زعيمة منطقة زوجها بعد وفاته، وعملت بجد لحل المشاكل الاقتصادية والنزاعات المتعلقة بالميراث.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Anna_Gustavsdotter_Vasa",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "sambo_gift": 3,
+      "lantagare": 3,
+      "fortroendevald": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1610",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q654753",
+    "typ": "historia",
+    "titel": "إليزابيث فازا.",
+    "ingress": "إليزابيث فازا كانت أميرة سويدية عاشت في القرن السادس عشر. وُصفت بأنها امرأة موهوبة وجميلة للغاية، لكن حياتها اتسمت بالتلاعب السياسي المتعلق بالشخص الذي ستتزوج منه.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Elisabet_Vasa",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "b_it": 3,
+      "b_kultur": 3,
+      "sambo_gift": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1597",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q942376",
+    "typ": "historia",
+    "titel": "غوستاف تروله.",
+    "ingress": "غوستاف إريكsson تروله، الذي ولد في سبتمبر عام 1488 وتوفي في صيف عام 1535، كان قساً سويدياً وأسقوفًا رئيسيين لأوبسالا من عام 1515 إلى عام 1521. وكان من المسؤولين عن مذبحة ستوكهولم. == السيرة الذاتية ==",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Gustaf_Trolle",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "student": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1535",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q561050",
+    "typ": "historia",
+    "titel": "لورنتيوس بيترو نيريشيوس.",
+    "ingress": "كان لورنتيوس بيتري كاهناً سويدياً مهماً، وأصبح أول أسقف رئيسي للكنيسة اللوثرية الجديدة في القرن السادس عشر. عمل بشكل مكثف في كتابة الكتب وترجمة الكتاب المقدس ووضع القواعد التي تحدد كيفية عمل الكنيسة.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Laurentius_Petri_Nericius",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "b_kultur": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1573",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q525903",
+    "typ": "historia",
+    "titel": "بونتوس دي لا غاردي.",
+    "ingress": "كان بونتوس دي لا غاردي ضابطًا عسكريًا فرنسيًا، اكتسب نفوذًا كبيرًا في السويد خلال القرن الخامس عشر. قاد حروبًا مهمة وأصبح أحد أهم المستشارين للبلاد قبل أن يموت في حادث بحري.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Pontus_De_la_Gardie",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "batagare": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1585",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q958817",
+    "typ": "historia",
+    "titel": "إريك تروله.",
+    "ingress": "كان إريك تروله شخصية بارزة وذات نفوذ كبير في السياسة والكنيسة السويدية خلال القرن الخامس عشر. شغل مناصب رفيعة المستوى، مثل منصب عضو مجلس الدولة وقاضي المحكمة، مما يعني أنه كان يتمتع بتأثير كبير على قوانين البلاد وإدارتها.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Erik_Trolle",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "epok": "vasatiden",
+    "tid": "d. 1530",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q2618045",
+    "typ": "historia",
+    "titel": "صوفيا فاسا.",
+    "ingress": "كانت صوفيا فاسا أميرة سويدية أُجبرت على الزواج من رجل عامله معاملة سيئة. عاشت حياة قاسية بسبب سلوك زوجها العنيف وإساءة استخدامه للسلطة.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Sofia_Vasa",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "sambo_gift": 3,
+      "glesbygd": 3,
+      "beroende": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1611",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q950278",
+    "typ": "historia",
+    "titel": "ماгнуس، دوق أوسترغوتلاند.",
+    "ingress": "كان ماغنوس أميرًا سويديًا، وأصبح دوقًا لمنطقة أُسترغوتلاند، لكنه لم يصبح ملكًا قط. عانى من مرض نفسي خطير أدى إلى تدهور حالته العقلية وعدم قدرته على إدارة المناطق التي يحكمها بنفسه.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Magnus,_hertig_av_Östergötland",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "tillstand": 3,
+      "barn": 3,
+      "kvinna": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1595",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q553569",
+    "typ": "historia",
+    "titel": "كلَاس فِلِمينغ.",
+    "ingress": "تتضمن هذه القائمة عدة شخصيات تاريخية، وجميعهم يحملون الاسم \"كلاس\" أو \"فليمينغ\". من الصعب تحديد تفاصيل دقيقة حول حياة هؤلاء الأشخاص، وذلك لأن الوثائق القديمة غالبًا ما كانت تُكتب من قبل أشخاص يتمتعون بالسلطة.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Claes_Fleming",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "b_industri": 5
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1597",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q1357329",
+    "typ": "historia",
+    "titel": "بير برايه الأكبر.",
+    "ingress": "يتحدث النص عن بير برايه الأكبر، وهو نبيل سويدي يتمتع بنفوذ وسلطة كبيرين خلال القرن الخامس عشر. كان مقربًا من العائلة المالكة وشغل مناصب قيادية مهمة في البلاد.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Per_Brahe_den_äldre",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "barn": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1590",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q1347396",
+    "typ": "historia",
+    "titel": "نيلز داكي.",
+    "ingress": "كان نيلز داكي مزارعًا من منطقة سمولاند، وقاد تمردًا في القرن السادس عشر ضد الضرائب الباهظة والتغييرات التي أحدثها الملك غوستاف فاسا في الكنيسة. أصبح رمزًا للمقاومة ضد سلطة الملك، لكنه قُتل في القتال بعد أن هُزم أمام جيش الملك.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Nils_Dacke",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "epok": "vasatiden",
+    "tid": "d. 1543",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q1347644",
+    "typ": "historia",
+    "titel": "لورنتيوس أندرياي.",
+    "ingress": "لورنتيوس أندرياي كان كاهناً هاماً ومستشاراً للملك غوستاف فاسا، وقد ساهم في إحداث تغييرات في الكنيسة السويدية خلال القرن الخامس عشر.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Laurentius_Andreæ",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "epok": "vasatiden",
+    "tid": "d. 1552",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q2595418",
+    "typ": "historia",
+    "titel": "غوستاف إريكsson فاسا.",
+    "ingress": "غوستاف إريكسون فاسا كان أميرًا سويديًا عاش في المنفى بعد أن أُطيح بوالده من منصبه كملك. غالبًا ما استُخدم كأداة في المناورات السياسية بين الدول المختلفة، قبل أن يموت فقيراً في روسيا.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Gustav_Eriksson_Vasa",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "sambo_gift": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1607",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q2625684",
+    "typ": "historia",
+    "titel": "يوران بيرسون.",
+    "ingress": "كان يوران بيرسون مسؤولًا حكوميًا مهمًا عمل عن كثب مع الملك إريك الرابع عشر وساعد في إصدار الأحكام على الآخرين بتهمة ارتكاب جرائم. ومع ذلك، فقد حُكم عليه بالإعدام ونُفذ فيه الحكم بعد أن أطيح بالملك من منصبه.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Jöran_Persson",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "b_fastighet": 3,
+      "b_konsult": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1568",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q704851",
+    "typ": "historia",
+    "titel": "ولفغانغ ميسلين.",
+    "ingress": "النص يتحدث عن فولفغانغ ميوسلين، وهو عالم دين عاش في القرن الخامس عشر، وترجمة له لترنيمة مسيحية قديمة موجودة في الترانيم السويدية.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Wolfgang_Meusslin",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "epok": "vasatiden",
+    "tid": "d. 1563",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q368077",
+    "typ": "historia",
+    "titel": "ياكوب أولفسون.",
+    "ingress": "كان ياكوب أولفسون أسقفًا رئيسيًا بارزًا في أوبسالا، وقد حكم الكنيسة في السويد لفترة طويلة. كان له أهمية كبيرة في تاريخ السويد لأنه ساهم في تأسيس جامعة أوبسالا وقدم آلة الطباعة.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Jakob_Ulfsson",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "student": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1521",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q439136",
+    "typ": "historia",
+    "titel": "مارغريتا إريكزدوتر.",
+    "ingress": "يشرح النص أن اسم \"مارغريتا إريكزدوتر\" قد استُخدم لأسماء عدة نساء مختلفات في التاريخ، بما في ذلك العديد من الملكات والأميرات.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Margareta_Eriksdotter",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "kvinna": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1536",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q935691",
+    "typ": "historia",
+    "titel": "لورنتيوس بيتري جوثوس.",
+    "ingress": "لورنتيوس بيتري جوثوس كان شخصية بارزة في قيادة الكنيسة والكتابة في السويد خلال القرن الخامس عشر. وهو معروف بشكل خاص بأنه كتب ترانيم وكان أسقفًا رئيسيًا.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Laurentius_Petri_Gothus",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "student": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1579",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q3738574",
+    "typ": "historia",
+    "titel": "كلاس هورن.",
+    "ingress": "لقد استخدم اسم \"كلاس هورن\" للإشارة إلى العديد من الشخصيات الهامة في تاريخ السويد، بما في ذلك النبلاء والعسكريين. كما تم إطلاق هذا الاسم على ثلاثة سفن حربية مختلفة.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Klas_Horn",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "epok": "vasatiden",
+    "tid": "d. 1566",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q4969190",
+    "typ": "historia",
+    "titel": "بريتا أولوفسدوتير.",
+    "ingress": "بريتا أولوفزدوتر كانت امرأة تنكرت في زي رجل خلال القرن السادس عشر من أجل القتال كجندية في الحروب. تُعتبر واحدة من أوائل الجنود الإناث في التاريخ السويدي.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Brita_Olofsdotter",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "kvinna": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1569",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q630424",
+    "typ": "historia",
+    "titel": "ياكوب باغه.",
+    "ingress": "كان ياكوب باغيه أميرالًا سويديًا مشهورًا وبطلاً عسكريًا خلال القرن الخامس عشر، حيث قاد الأسطول السويدي في العديد من الحروب الهامة.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Jakob_Bagge",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "epok": "vasatiden",
+    "tid": "d. 1577",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q468037",
+    "typ": "historia",
+    "titel": "يورغن فون فارنسباخ.",
+    "ingress": "خدم يورغن فون فارنسباخ في جيوش عدة دول خلال القرن الخامس عشر، بما في ذلك السويد وبولندا، وكان عسكريًا.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Jürgen_von_Farensbach",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "epok": "vasatiden",
+    "tid": "d. 1602",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q2589657",
+    "typ": "historia",
+    "titel": "بول يوستن.",
+    "ingress": "بول يوستن كان أسقوفًا فنلنديًا، وقد أُسر في روسيا لمدة ثلاث سنوات بعد إرساله إلى هناك كسفير عن ملك السويد.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Paul_Juusten",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "epok": "vasatiden",
+    "tid": "d. 1575",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q447040",
+    "typ": "historia",
+    "titel": "كارين هانسدوتر.",
+    "ingress": "كانت كارين هانسدوتير امرأة عاشت في القرن الخامس عشر، وكانت عشيقته الرسمية للدوق يوهان (الذي أصبح لاحقًا ملكًا). أنجبت له أربعة أبناء، وتلقت منه هدايا وممتلكات كبيرة كتعويض عند انتهاء علاقتهما.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Karin_Hansdotter",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "barn": 3,
+      "pensionar": 3,
+      "glesbygd": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1596",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q1776694",
+    "typ": "historia",
+    "titel": "ديدريك سلاغهك",
+    "ingress": "كان \"ديدريك سلاغهيك\" أسقفًا دانمركيًا، وقد شارك في تحديد العقوبات القاسية التي فرضت خلال مذبحة ستوكهولم عام 1520. لاحقًا، حُكم عليه بالإعدام وأُحرق حيًا في كوبنهاغن عام 1522.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Didrik_Slagheck",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "infrastruktur": 3,
+      "lantagare": 3,
+      "batagare": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1522",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q3603769",
+    "typ": "historia",
+    "titel": "أبراهاموس أندريا أنجرمانوس.",
+    "ingress": "كان أبراهاموس أندريا أنجرمانوس (Abrahamus Andreæ Angermannus) أسقفًا رئيسيًا سويديًا خلال القرن الخامس عشر، واشتهر بنضاله الشديد من أجل العقيدة البروتستانتية ومعارضة التقاليد الكاثوليكية.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Abrahamus_Andreæ_Angermannus",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "epok": "vasatiden",
+    "tid": "d. 1607",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q3737971",
+    "typ": "historia",
+    "titel": "كارل هنريكسون (هورن).",
+    "ingress": "كان كارل هنريكسون قائدًا عسكريًا ومسؤولًا بارزًا في السويد خلال القرن الخامس عشر. قاد القوات السويدية في الحروب ضد روسيا، وشغل مناصب رفيعة المستوى مثل منصب \"فيلدمارشال\" (مشير) وعضو في مجلس الدولة.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Karl_Henriksson_(Horn)",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "b_fastighet": 3,
+      "varnpliktig": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1601",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q95359",
+    "typ": "historia",
+    "titel": "يوهان من هويا.",
+    "ingress": "كان يوهان فون هويا، وهو نبيل ألماني، قد تزوج من شقيقة الملك غوستاف فاسا وعمل كمستشار في السويد. لكنه دخل في صراع مع الملك وأُجبر على مغادرة البلاد، حيث توفي لاحقًا في حرب.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Johan_av_Hoya",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "infrastruktur": 3,
+      "lantagare": 3,
+      "batagare": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1535",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
   }
 ]
