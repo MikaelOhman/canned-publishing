@@ -182,42 +182,6 @@
     "tri": true
   },
   {
-    "id": "batchtest-1",
-    "typ": "nyhet",
-    "titel": "Testartikel 1 über den Leitzins der Zentralbank.",
-    "ingress": "Die Zentralbank (Riksbanken) erhöht die Zinsen, um die Preissteigerungen in der Gesellschaft zu verlangsamen. Dies macht es für viele Menschen teurer, ihre Hypotheken abzubezahlen.",
-    "datum": "2026-06-26",
-    "kalla": "Test",
-    "kalla_url": "",
-    "taggar": [
-      "ekonomi"
-    ],
-    "relevans": {
-      "bostadsagare": 3,
-      "sparare": 8,
-      "lantagare": 8,
-      "konsument": 5
-    }
-  },
-  {
-    "id": "batchtest-2",
-    "typ": "nyhet",
-    "titel": "Testartikel 2 über den Leitzins der Zentralbank.",
-    "ingress": "Die Zentralbank erhöht die Zinsen, um die Preissteigerungen in der Gesellschaft zu verlangsamen. Dies macht es für viele Menschen teurer, ihre Hypotheken abzubezahlen.",
-    "datum": "2026-06-26",
-    "kalla": "Test",
-    "kalla_url": "",
-    "taggar": [
-      "ekonomi"
-    ],
-    "relevans": {
-      "bostadsagare": 3,
-      "sparare": 8,
-      "lantagare": 8,
-      "konsument": 5
-    }
-  },
-  {
     "id": "tri-2026-06-26-israel-libanon-avtal",
     "typ": "nyhet",
     "titel": "Israel und Libanon einigen sich auf einen Rahmenvertrag – aber der Vertrag ist umstritten.\n\nHier sind einige Details:\n\n*   **Einigung:** Israel und Libanon haben sich auf einen Rahmenvertrag geeinigt.\n*   **Umstrittenheit:** Der Vertrag ist umstritten.\n*   **Details:** Die genauen Details des Vertrags sind noch nicht öffentlich bekannt.",
@@ -19946,5 +19910,198 @@
       "translit": "§A hᴀidz runo ronu ¶ fᴀlᴀhᴀk hᴀiderᴀ g¶inᴀrunᴀz ᴀrᴀgeu ¶ hᴀerᴀmᴀlᴀusz ¶ utiᴀz welᴀdᴀude ¶ sᴀz þᴀt bᴀrutz §B uþᴀrᴀbᴀ sbᴀ",
       "normalisering": "§A Haidz runo runu, falh'k hedra ginnarunaz. Argiu hermalausz, … weladauþe, saz þat brytz. §B Uþarba spa."
     }
+  },
+  {
+    "id": "hist-q52939",
+    "typ": "historia",
+    "titel": "Karl IX",
+    "ingress": "Der Text beschreibt das Leben von König Karl IX., von seiner Zeit als Herzog bis zu seiner Thronbesteigung in Schweden. Er schildert, wie er die Macht durch einen Aufstand erlangte und später für seine eigene Machtposition sowie für die Aus",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Karl_IX",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "infrastruktur": 3,
+      "batagare": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1611",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q215346",
+    "typ": "historia",
+    "titel": "Mikael Agricola",
+    "ingress": "Mikael Agricola war eine bedeutende Persönlichkeit in der finnischen Geschichte, die dazu beitrug, die protestantische Lehre zu verbreiten und die erste schriftliche Form der finnischen Sprache zu entwickeln.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Mikael_Agricola",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "kultur": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1557",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q52944",
+    "typ": "historia",
+    "titel": "Johan III.",
+    "ingress": "Der Text handelt von König Johann III., der nach dem Sturz seines Bruders Erik XIV. zum König von Schweden wurde. Er interessierte sich für Kultur und Religion und versuchte, den Einfluss der katholischen Kirche im Land wiederherzustellen.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Johan_III",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "infrastruktur": 3,
+      "barn": 3,
+      "student": 3,
+      "batagare": 3,
+      "kultur": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1592",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q52945",
+    "typ": "historia",
+    "titel": "Erik XIV\n\n(Bitte beachten Sie: Da der Name \"Erik XIV\" ein Eigenname ist und keine Übersetzung benötigt, bleibt er unverändert.)",
+    "ingress": "Erich XIV war ein hochgebildeter, aber von wechselhaftem Gemüt geprägter König, der Schweden zwischen 1560 und 1568 regierte. Er wurde aufgrund einer psychischen Erkrankung abgesetzt und starb später an einer Vergiftung.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Erik_XIV",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "epok": "vasatiden",
+    "tid": "d. 1577",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q315804",
+    "typ": "historia",
+    "titel": "Olaus Magnus",
+    "ingress": "Olaus Magnus war ein schwedischer Priester und Gelehrter, der im 16. Jahrhundert in ganz Europa durch seine Bücher und Karten über Skandinavien bekannt wurde. Er trug dazu bei, die skandinavischen Länder im Ausland bekannter zu machen, inde",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Olaus_Magnus",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "b_it": 3,
+      "b_kultur": 3,
+      "student": 3,
+      "kultur": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1557",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q236774",
+    "typ": "historia",
+    "titel": "Katarina von Sachsen-Lauenburg.",
+    "ingress": "Katharina von Sachsen-Lauenburg war von 1531 bis 1535 Königin von Schweden. Sie heiratete König Gustav Vasa, um wichtige politische Kontakte in Europa zu knüpfen.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Katarina_av_Sachsen-Lauenburg",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "sambo_gift": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1535",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q239443",
+    "typ": "historia",
+    "titel": "Margareta Eriksdotter",
+    "ingress": "Der Text erklärt, dass der Name Margareta Eriksdotter sich auf verschiedene historische Frauen beziehen könnte, darunter Königinnen und Prinzessinnen.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Margareta_Eriksdotter",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "kvinna": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1551",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q235659",
+    "typ": "historia",
+    "titel": "Gunilla Bielke",
+    "ingress": "Gunilla Bielke war eine schwedische Königin, die im Jahr 1585 mit König Johann III. heiratete. Sie spielte eine wichtige Rolle für das Land, da sie dem König half, einen stärker protestantischen Kurs in der Kirche zu verfolgen.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Gunilla_Bielke",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "b_vard": 3,
+      "sambo_gift": 3,
+      "glesbygd": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1597",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
   }
 ]

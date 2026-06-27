@@ -183,42 +183,6 @@
     "tri": true
   },
   {
-    "id": "batchtest-1",
-    "typ": "nyhet",
-    "titel": "Testartikel 1 om Riksbankens ränta",
-    "ingress": "Riksbanken höjer räntan för att få ner prisökningarna i samhället. Detta gör det dyrare för många att betala sina bolån.",
-    "datum": "2026-06-26",
-    "kalla": "Test",
-    "kalla_url": "",
-    "taggar": [
-      "ekonomi"
-    ],
-    "relevans": {
-      "bostadsagare": 3,
-      "sparare": 8,
-      "lantagare": 8,
-      "konsument": 5
-    }
-  },
-  {
-    "id": "batchtest-2",
-    "typ": "nyhet",
-    "titel": "Testartikel 2 om Riksbankens ränta",
-    "ingress": "Riksbanken höjer räntan för att få ner prisökningarna i samhället. Detta gör det dyrare för många att betala sina bolån.",
-    "datum": "2026-06-26",
-    "kalla": "Test",
-    "kalla_url": "",
-    "taggar": [
-      "ekonomi"
-    ],
-    "relevans": {
-      "bostadsagare": 3,
-      "sparare": 8,
-      "lantagare": 8,
-      "konsument": 5
-    }
-  },
-  {
     "id": "tri-2026-06-26-israel-libanon-avtal",
     "typ": "nyhet",
     "titel": "Israel och Libanon enas om ramavtal – men avtalet är omstritt",
@@ -20050,5 +20014,927 @@
       "translit": "§A hᴀidz runo ronu ¶ fᴀlᴀhᴀk hᴀiderᴀ g¶inᴀrunᴀz ᴀrᴀgeu ¶ hᴀerᴀmᴀlᴀusz ¶ utiᴀz welᴀdᴀude ¶ sᴀz þᴀt bᴀrutz §B uþᴀrᴀbᴀ sbᴀ",
       "normalisering": "§A Haidz runo runu, falh'k hedra ginnarunaz. Argiu hermalausz, … weladauþe, saz þat brytz. §B Uþarba spa."
     }
+  },
+  {
+    "id": "hist-q52939",
+    "typ": "historia",
+    "titel": "Karl IX",
+    "ingress": "Texten berättar om kung Karl IX:s liv, från hans tid som hertig till att han blev kung av Sverige. Den beskriver hur han tog makten genom ett uppror och hur han senare kämpade för sin egen makt och för den svenska kyrkans riktning.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Karl_IX",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "infrastruktur": 3,
+      "batagare": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1611",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q215346",
+    "typ": "historia",
+    "titel": "Mikael Agricola",
+    "ingress": "Mikael Agricola var en viktig person i Finlands historia som hjälpte till att sprida den protestantiska läran och skapade det första skrivna finska språket.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Mikael_Agricola",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "kultur": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1557",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q52944",
+    "typ": "historia",
+    "titel": "Johan III",
+    "ingress": "Texten berättar om kung Johan III, som blev kung av Sverige efter att ha tagit makten från sin bror Erik XIV. Han var intresserad av kultur och religion och försökte få tillbaka den katolska kyrkans inflytande i landet.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Johan_III",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "infrastruktur": 3,
+      "barn": 3,
+      "student": 3,
+      "batagare": 3,
+      "kultur": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1592",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q52945",
+    "typ": "historia",
+    "titel": "Erik XIV",
+    "ingress": "Erik XIV var en välutbildad men svårtemperamentsfull kung som styrde Sverige mellan 1560 och 1568. Han avsattes på grund av psykisk sjukdom och dog senare förgiftad.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Erik_XIV",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "epok": "vasatiden",
+    "tid": "d. 1577",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q315804",
+    "typ": "historia",
+    "titel": "Olaus Magnus",
+    "ingress": "Olaus Magnus var en svensk präst och lärd man som på 1500-talet blev känd i hela Europa för sina böcker och kartor över Norden. Han hjälpte till att göra nordiska länder mer kända utomlands genom sina beskrivningar av historia och kultur.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Olaus_Magnus",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "b_it": 3,
+      "b_kultur": 3,
+      "student": 3,
+      "kultur": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1557",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q236774",
+    "typ": "historia",
+    "titel": "Katarina av Sachsen-Lauenburg",
+    "ingress": "Katarina av Sachsen-Lauenburg var drottning av Sverige mellan 1531 och 1535. Hon gifte sig med kung Gustav Vasa för att skapa viktiga politiska kontakter i Europa.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Katarina_av_Sachsen-Lauenburg",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "sambo_gift": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1535",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q239443",
+    "typ": "historia",
+    "titel": "Margareta Eriksdotter",
+    "ingress": "Texten förklarar att namnet Margareta Eriksdotter kan syfta på flera olika historiska kvinnor, bland annat drottningar och prinsessor.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Margareta_Eriksdotter",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "kvinna": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1551",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q235659",
+    "typ": "historia",
+    "titel": "Gunilla Bielke",
+    "ingress": "Gunilla Bielke var en svensk drottning som gifte sig med kung Johan III år 1585. Hon blev viktig för landet eftersom hon hjälpte kungen att välja en mer protestantisk väg i kyrkan.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Gunilla_Bielke",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "b_vard": 3,
+      "sambo_gift": 3,
+      "glesbygd": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1597",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q550662",
+    "typ": "historia",
+    "titel": "Johannes Magnus",
+    "ingress": "Johannes Magnus var en svensk präst och historiker som levde under 1500-talet. Han är mest känd för att ha skrivit en stor bok om svensk historia som påverkade hur man såg på Sverige i flera hundra år.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Johannes_Magnus",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "b_it": 3,
+      "infrastruktur": 3,
+      "husdjur": 3,
+      "batagare": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1544",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q381010",
+    "typ": "historia",
+    "titel": "Olaus Petri",
+    "ingress": "Olaus Petri var en viktig person i Sveriges historia som hjälpte till att ändra kyrkans regler och översätta Bibeln till svenska.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Olaus_Petri",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "epok": "vasatiden",
+    "tid": "d. 1552",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q2211749",
+    "typ": "historia",
+    "titel": "Katarina Gustavsdotter Vasa",
+    "ingress": "Katarina Vasa var en svensk prinsessa som gifte sig med greven av Ostfriesland för att stärka Sveriges handel och politiska kontakter utomlands.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Katarina_Gustavsdotter_Vasa",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "sambo_gift": 3,
+      "varnpliktig": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1610",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q438481",
+    "typ": "historia",
+    "titel": "Kristina Nilsdotter (Gyllenstierna)",
+    "ingress": "Kristina Gyllenstierna var en viktig kvinna i svensk historia som ledde försvaret av Stockholm mot danskarna efter sin mans död. Hon blev känd för sitt mod och för att hon kämpade för Sveriges frihet.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Kristina_Nilsdotter_(Gyllenstierna)",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "kvinna": 3,
+      "varnpliktig": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1559",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q890742",
+    "typ": "historia",
+    "titel": "Anna Gustavsdotter Vasa",
+    "ingress": "Anna Gustavsdotter Vasa var en svensk prinsessa som gifte sig med en tysk furste för att skapa viktiga kontakter i Europa. Hon blev senare ledare för sin makes område efter hans död och arbetade hårt för att lösa ekonomiska problem och konf",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Anna_Gustavsdotter_Vasa",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "sambo_gift": 3,
+      "lantagare": 3,
+      "fortroendevald": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1610",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q654753",
+    "typ": "historia",
+    "titel": "Elisabet Vasa",
+    "ingress": "Elisabet Vasa var en svensk prinsessa som levde på 1500-talet. Hon beskrevs som en mycket begåvning och vacker kvinna, men hennes liv präglades av politiska spel kring vem hon skulle gifta sig med.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Elisabet_Vasa",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "b_it": 3,
+      "b_kultur": 3,
+      "sambo_gift": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1597",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q942376",
+    "typ": "historia",
+    "titel": "Gustaf Trolle",
+    "ingress": "Gustaf Eriksson Trolle, född i september 1488, död sommaren 1535, var en svensk präst och ärkebiskop av Uppsala 1515–1521. Han var en av de ansvariga bakom Stockholms blodbad. == Biografi == Gustaf Tr",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Gustaf_Trolle",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "student": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1535",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q561050",
+    "typ": "historia",
+    "titel": "Laurentius Petri Nericius",
+    "ingress": "Laurentius Petri var en viktig svensk präst som blev den första ärkebiskopen i den nya lutherska kyrkan på 1500-talet. Han arbetade mycket med att skriva böcker, översätta bibeln och skapa regler för hur kyrkan skulle fungera.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Laurentius_Petri_Nericius",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "b_kultur": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1573",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q525903",
+    "typ": "historia",
+    "titel": "Pontus De la Gardie",
+    "ingress": "Pontus De la Gardie var en fransk militär som blev mycket mäktig i Sverige under 1500-talet. Han ledde viktiga krig och blev en av landets viktigaste rådgivare innan han dog i en båtolycka.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Pontus_De_la_Gardie",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "batagare": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1585",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q958817",
+    "typ": "historia",
+    "titel": "Erik Trolle",
+    "ingress": "Erik Trolle var en mäktig man i svensk politik och kyrka under 1500-talet. Han innehade höga ämbeten som riksråd och lagman, vilket innebar att han hade stort inflytande över landets lagar och styre.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Erik_Trolle",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "epok": "vasatiden",
+    "tid": "d. 1530",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q2618045",
+    "typ": "historia",
+    "titel": "Sofia Vasa",
+    "ingress": "Sofia Vasa var en svensk prinsessa som tvingades gifta sig med en man som behandlade henne illa. Hon levde ett svårt liv på grund av sin makes våldsamma beteende och hans missbruk av makt.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Sofia_Vasa",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "sambo_gift": 3,
+      "glesbygd": 3,
+      "beroende": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1611",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q950278",
+    "typ": "historia",
+    "titel": "Magnus, hertig av Östergötland",
+    "ingress": "Magnus var en svensk prins som blev hertig av Östergötland men aldrig blev kung. Han led av en allvarlig psykisk sjukdom som gjorde att han förlorade sitt förstånd och inte kunde styra sina områden själv.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Magnus,_hertig_av_Östergötland",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "tillstand": 3,
+      "barn": 3,
+      "kvinna": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1595",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q553569",
+    "typ": "historia",
+    "titel": "Claes Fleming",
+    "ingress": "Texten listar flera historiska personer som alla hette Claes eller Klas Fleming. Det är svårt att veta exakt hur de levde då gamla dokument ofta skrevs av personer med makt.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Claes_Fleming",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "b_industri": 5
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1597",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q1357329",
+    "typ": "historia",
+    "titel": "Per Brahe den äldre",
+    "ingress": "Texten berättar om Per Brahe den äldre, en mycket mäktig och inflytelserik adelsman i Sverige under 1500-talet. Han var nära med kungahuset och hade viktiga ledarroller i landet.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Per_Brahe_den_äldre",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "barn": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1590",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q1347396",
+    "typ": "historia",
+    "titel": "Nils Dacke",
+    "ingress": "Nils Dacke var en småländsk bonde som ledde ett uppror mot kung Gustav Vasas hårda skatter och förändringar av kyrkan på 1500-talet. Han blev en symbol för motstånd mot kungens makt, men dog i strid efter att ha förlorat mot kungens armé.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Nils_Dacke",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "epok": "vasatiden",
+    "tid": "d. 1543",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q1347644",
+    "typ": "historia",
+    "titel": "Laurentius Andreæ",
+    "ingress": "Laurentius Andreæ var en viktig präst och rådgivare till kung Gustav Vasa som hjälpte till att förändra den svenska kyrkan under 1500-talet.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Laurentius_Andreæ",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "epok": "vasatiden",
+    "tid": "d. 1552",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q2595418",
+    "typ": "historia",
+    "titel": "Gustav Eriksson Vasa",
+    "ingress": "Gustav Eriksson Vasa var en svensk prins som levde i landsflykt efter att hans far blivit avsatt som kung. Han användes ofta som ett verktyg i politiska spel mellan olika länder innan han dog fattig i Ryssland.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Gustav_Eriksson_Vasa",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "sambo_gift": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1607",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q2625684",
+    "typ": "historia",
+    "titel": "Jöran Persson",
+    "ingress": "Jöran Persson var en viktig ämbetsman som arbetade nära kung Erik XIV och hjälpte till att döma andra för brott. Han blev dock dömd till döden och avrättad efter att kungen avsattes.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Jöran_Persson",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "b_fastighet": 3,
+      "b_konsult": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1568",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q704851",
+    "typ": "historia",
+    "titel": "Wolfgang Meusslin",
+    "ingress": "Texten handlar om Wolfgang Meusslin, en teolog som levde på 1500-talet och vars översättning av en gammal kristen psalm finns med i den svenska psalmboken.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Wolfgang_Meusslin",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "epok": "vasatiden",
+    "tid": "d. 1563",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q368077",
+    "typ": "historia",
+    "titel": "Jakob Ulfsson",
+    "ingress": "Jakob Ulfsson var en mäktig ärkebiskop i Uppsala som styrde kyrkan i Sverige under lång tid. Han var mycket viktig för Sveriges historia eftersom han hjälpte till att starta Uppsala universitet och införde tryckpressen.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Jakob_Ulfsson",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "student": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1521",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q439136",
+    "typ": "historia",
+    "titel": "Margareta Eriksdotter",
+    "ingress": "Texten förklarar att namnet Margareta Eriksdotter har använts av flera olika kvinnor i historien, bland annat flera drottningar och prinsessor.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Margareta_Eriksdotter",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "kvinna": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1536",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q935691",
+    "typ": "historia",
+    "titel": "Laurentius Petri Gothus",
+    "ingress": "Laurentius Petri Gothus var en viktig svensk kyrkoledare och författare under 1500-talet. Han är mest känd för att ha skrivit psalmer och varit ärkebiskop.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Laurentius_Petri_Gothus",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "student": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1579",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q3738574",
+    "typ": "historia",
+    "titel": "Klas Horn",
+    "ingress": "Namnet Klas Horn har använts av flera viktiga personer i Sveriges historia, bland annat adelsmän och militärer. Namnet har också getts till tre olika krigsfartyg.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Klas_Horn",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "epok": "vasatiden",
+    "tid": "d. 1566",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q4969190",
+    "typ": "historia",
+    "titel": "Brita Olofsdotter",
+    "ingress": "Brita Olofsdotter var en kvinna som på 1500-talet klädde ut sig till man för att få strida som soldat i krig. Hon räknas som en av de första kvinnliga soldaterna i svensk historia.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Brita_Olofsdotter",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "kvinna": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1569",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q630424",
+    "typ": "historia",
+    "titel": "Jakob Bagge",
+    "ingress": "Jakob Bagge var en känd svensk amiral och krigshjälte under 1500-talet som ledde den svenska flottan i flera viktiga krig.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Jakob_Bagge",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "epok": "vasatiden",
+    "tid": "d. 1577",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q468037",
+    "typ": "historia",
+    "titel": "Jürgen von Farensbach",
+    "ingress": "Jürgen von Farensbach var en militär som tjänade i flera olika länders arméer under 1500-talet, bland annat i Sverige och Polen.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Jürgen_von_Farensbach",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "epok": "vasatiden",
+    "tid": "d. 1602",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q2589657",
+    "typ": "historia",
+    "titel": "Paul Juusten",
+    "ingress": "Paul Juusten var en finländsk biskop som blev fången i Ryssland under tre år efter att ha skickats dit som sändebud för den svenska kungen.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Paul_Juusten",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "epok": "vasatiden",
+    "tid": "d. 1575",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q447040",
+    "typ": "historia",
+    "titel": "Karin Hansdotter",
+    "ingress": "Karin Hansdotter var en kvinna på 1500-talet som var officiell älskarinna till hertig Johan (som senare blev kung). Hon fick fyra barn med honom och fick stora gåvor och gods som pension när deras förhållande tog slut.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Karin_Hansdotter",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "barn": 3,
+      "pensionar": 3,
+      "glesbygd": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1596",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q1776694",
+    "typ": "historia",
+    "titel": "Didrik Slagheck",
+    "ingress": "Didrik Slagheck var en dansk biskop som var med och bestämde de hårda straff som gavs vid Stockholms blodbad 1520. Han blev senare dömd till döden och brändes levande i Köpenhamn år 1522.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Didrik_Slagheck",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "infrastruktur": 3,
+      "lantagare": 3,
+      "batagare": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1522",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q3603769",
+    "typ": "historia",
+    "titel": "Abrahamus Andreæ Angermannus",
+    "ingress": "Abrahamus Andreæ Angermannus var en svensk ärkebiskop under 1500-talet som blev känd för att kämpa hårt för den protestantiska tron och mot katolska traditioner.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Abrahamus_Andreæ_Angermannus",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "epok": "vasatiden",
+    "tid": "d. 1607",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q3737971",
+    "typ": "historia",
+    "titel": "Karl Henriksson (Horn)",
+    "ingress": "Karl Henriksson var en viktig svensk militärledare och ämbetsman under 1500-talet. Han ledde svenska trupper i krig mot Ryssland och innehade höga positioner som fältmarskalk och riksråd.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Karl_Henriksson_(Horn)",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "b_fastighet": 3,
+      "varnpliktig": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1601",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q95359",
+    "typ": "historia",
+    "titel": "Johan av Hoya",
+    "ingress": "Johan av Hoya var en tysk greve som gifte sig med kung Gustav Vasas syster och arbetade som rådgivare i Sverige. Han hamnade i konflikt med kungen och tvingades fly landet, där han senare dog i ett krig.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Johan_av_Hoya",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "infrastruktur": 3,
+      "lantagare": 3,
+      "batagare": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1535",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
   }
 ]

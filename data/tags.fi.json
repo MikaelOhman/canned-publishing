@@ -22,7 +22,7 @@
   "svensk-historia": {
     "etikett": "Ruotsin historia:\n\n*   **Aikajana:**\n    *   [Päivämäärä] - [Tapahtuma]\n    *   [Päivämäärä] - [Tapahtuma]\n    *   [Päivämäärä] - [Tapahtuma]\n\n*   **Keskeiset henkilöt:**\n    *   [Nimi]: [Lyhyt kuvaus]\n    *   [Nimi]: [Lyhyt kuvaus]\n    *   [Nimi]: [Lyhyt kuvaus]\n\n*   **Tärkeitä paikkoja:**\n    *   [Paikan nimi]: [Lyhyt kuvaus]\n    *   [Paikan nimi]: [Lyhyt kuvaus]\n    *   [Paikan nimi]: [Lyhyt kuvaus]\n\n*   **Lisätietoja:**\n    *   Verkkosivusto: [URL]",
     "typ": "ämne",
-    "antal": 78
+    "antal": 86
   },
   "vikingatid": {
     "etikett": "Viikinkiaika\n\n*   Aikakausi: Noin 800-1066 jaa.\n*   Alue: Pohjois-Eurooppa, erityisesti Skandinavia.\n*   Merkittäviä tapahtumia: Laajentuminen, kaupankäynti, ryöstöt, kulttuurivaihto.\n*   Tärkeitä paikkoja: Kaupungit kuten Birka (Ruotsissa), Hedeby (Tanskassa) ja Dublin (Irlannissa).\n*   Lisätietoja: [URL ei annettu]",
@@ -57,7 +57,7 @@
   "vasatiden": {
     "etikett": "Pronssikausi",
     "typ": "epok",
-    "antal": 1
+    "antal": 9
   },
   "stormaktstiden": {
     "etikett": "Suurvaltojen aika\n\n*   Aikakausi: 1600-luvulta 1700-luvulle\n*   Keskeiset tapahtumat:\n    *   Suomen sodat (1808–1809)\n    *   Pohjoisen sodan vaikutukset\n    *   Ruotsin vallan vahvistuminen ja heikkeneminen\n*   Merkittäviä henkilöitä:\n    *   Kustaa Vaasa\n    *   Kaarle XII\n*   Lisätietoja: [www.example.com](www.example.com)",
@@ -1967,7 +1967,7 @@
   "historisk-person": {
     "etikett": "Historiallinen henkilö.",
     "typ": "ämne",
-    "antal": 42
+    "antal": 50
   },
   "runinskrift": {
     "etikett": "Kirjoitusmerkintä.",

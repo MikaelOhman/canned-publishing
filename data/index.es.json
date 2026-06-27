@@ -19889,5 +19889,198 @@
       "translit": "§A hᴀidz runo ronu ¶ fᴀlᴀhᴀk hᴀiderᴀ g¶inᴀrunᴀz ᴀrᴀgeu ¶ hᴀerᴀmᴀlᴀusz ¶ utiᴀz welᴀdᴀude ¶ sᴀz þᴀt bᴀrutz §B uþᴀrᴀbᴀ sbᴀ",
       "normalisering": "§A Haidz runo runu, falh'k hedra ginnarunaz. Argiu hermalausz, … weladauþe, saz þat brytz. §B Uþarba spa."
     }
+  },
+  {
+    "id": "hist-q52939",
+    "typ": "historia",
+    "titel": "Karl IX.",
+    "ingress": "El texto narra la vida del rey Carlos IX, desde su época como duque hasta que se convirtió en rey de Suecia. Describe cómo tomó el poder a través de una rebelión y cómo posteriormente luchó por consolidar su propio poder y por determinar la",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Karl_IX",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "infrastruktur": 3,
+      "batagare": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1611",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q215346",
+    "typ": "historia",
+    "titel": "Mikael Agricola.",
+    "ingress": "Mikael Agricola fue una figura clave en la historia de Finlandia, quien contribuyó a difundir las doctrinas protestantes y creó el primer sistema de escritura para el idioma finlandés.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Mikael_Agricola",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "kultur": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1557",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q52944",
+    "typ": "historia",
+    "titel": "Johan III.",
+    "ingress": "El texto narra la historia del rey Juan III, quien se convirtió en rey de Suecia tras tomar el poder a su hermano, Eric XIV. Juan III mostró interés por la cultura y la religión, e intentó restablecer la influencia de la Iglesia Católica en",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Johan_III",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "infrastruktur": 3,
+      "barn": 3,
+      "student": 3,
+      "batagare": 3,
+      "kultur": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1592",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q52945",
+    "typ": "historia",
+    "titel": "Erik XIV.",
+    "ingress": "Erik XIV fue un rey sueco, muy culto pero de carácter volátil, que gobernó Suecia entre 1560 y 1568. Fue destituido debido a problemas de salud mental y murió posteriormente envenenado.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Erik_XIV",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "epok": "vasatiden",
+    "tid": "d. 1577",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q315804",
+    "typ": "historia",
+    "titel": "Olaus Magnus",
+    "ingress": "Olaus Magnus fue un sacerdote y erudito sueco que, en el siglo XVI, se hizo famoso en toda Europa gracias a sus libros y mapas sobre Escandinavia. Contribuyó a dar mayor reconocimiento internacional a los países nórdicos a través de sus des",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Olaus_Magnus",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "b_it": 3,
+      "b_kultur": 3,
+      "student": 3,
+      "kultur": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1557",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q236774",
+    "typ": "historia",
+    "titel": "Catalina de Sajonia-Lauenburgo.",
+    "ingress": "Catalina de Sajonia-Lauenburgo fue reina de Suecia entre 1531 y 1535. Se casó con el rey Gustavo Vasa para establecer importantes contactos políticos en Europa.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Katarina_av_Sachsen-Lauenburg",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "sambo_gift": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1535",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q239443",
+    "typ": "historia",
+    "titel": "Margareta Eriksdotter.",
+    "ingress": "El texto explica que el nombre \"Margareta Eriksdotter\" puede referirse a varias mujeres históricas diferentes, incluyendo reinas y princesas.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Margareta_Eriksdotter",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "kvinna": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1551",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q235659",
+    "typ": "historia",
+    "titel": "Gunilla Bielke.",
+    "ingress": "Gunilla Bielke fue una reina sueca que se casó con el rey Juan III en 1585. Fue importante para el país porque ayudó al rey a elegir un camino más protestante dentro de la iglesia.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Gunilla_Bielke",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "b_vard": 3,
+      "sambo_gift": 3,
+      "glesbygd": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1597",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
   }
 ]

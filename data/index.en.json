@@ -182,42 +182,6 @@
     "tri": true
   },
   {
-    "id": "batchtest-1",
-    "typ": "nyhet",
-    "titel": "Test Article 1: About the Central Bank's Interest Rate\n\nThis article provides information about the interest rate set by the central bank. Key aspects covered include:\n\n*   **Definition:** What is the central bank's interest rate?\n*   **Purpose:** Why does the central bank adjust its interest rate?\n*   **Impact:** How does the interest rate affect the economy?\n*   **Current Rate:** What is the current level of the interest rate?\n*   **Future Expectations:** What are the expectations for future changes to the interest rate?\n\nFor more information, please visit: [Insert URL here]",
-    "ingress": "The central bank is raising interest rates to curb inflation in society. This makes it more expensive for many people to pay their mortgages.",
-    "datum": "2026-06-26",
-    "kalla": "Test",
-    "kalla_url": "",
-    "taggar": [
-      "ekonomi"
-    ],
-    "relevans": {
-      "bostadsagare": 3,
-      "sparare": 8,
-      "lantagare": 8,
-      "konsument": 5
-    }
-  },
-  {
-    "id": "batchtest-2",
-    "typ": "nyhet",
-    "titel": "Test Article 2: About the Central Bank's Interest Rate\n\nThis article discusses the central bank's interest rate. Here are some key points:\n\n*   The central bank sets the interest rate to influence economic activity.\n*   A higher interest rate can slow down inflation, while a lower interest rate can stimulate growth.\n*   The central bank considers various factors when setting the interest rate, including inflation, unemployment, and global economic conditions.\n*   Changes in the interest rate can affect borrowing costs for businesses and consumers.\n\nFor more information, please visit: [Insert URL here]",
-    "ingress": "The central bank is raising interest rates to curb inflation in society. This makes it more expensive for many people to pay their mortgages.",
-    "datum": "2026-06-26",
-    "kalla": "Test",
-    "kalla_url": "",
-    "taggar": [
-      "ekonomi"
-    ],
-    "relevans": {
-      "bostadsagare": 3,
-      "sparare": 8,
-      "lantagare": 8,
-      "konsument": 5
-    }
-  },
-  {
     "id": "tri-2026-06-26-israel-libanon-avtal",
     "typ": "nyhet",
     "titel": "Israel and Lebanon have reached a framework agreement, but the agreement is controversial.",
@@ -20028,5 +19992,198 @@
       "translit": "§A hᴀidz runo ronu ¶ fᴀlᴀhᴀk hᴀiderᴀ g¶inᴀrunᴀz ᴀrᴀgeu ¶ hᴀerᴀmᴀlᴀusz ¶ utiᴀz welᴀdᴀude ¶ sᴀz þᴀt bᴀrutz §B uþᴀrᴀbᴀ sbᴀ",
       "normalisering": "§A Haidz runo runu, falh'k hedra ginnarunaz. Argiu hermalausz, … weladauþe, saz þat brytz. §B Uþarba spa."
     }
+  },
+  {
+    "id": "hist-q52939",
+    "typ": "historia",
+    "titel": "Karl IX",
+    "ingress": "The text recounts the life of King Charles IX, from his time as a duke to his ascension to the throne of Sweden. It describes how he seized power through a rebellion and how he later fought for his own authority and for the direction of the",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Karl_IX",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "infrastruktur": 3,
+      "batagare": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1611",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q215346",
+    "typ": "historia",
+    "titel": "Mikael Agricola.",
+    "ingress": "Mikael Agricola was a significant figure in Finnish history who played a crucial role in spreading Protestant teachings and creating the first written form of the Finnish language.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Mikael_Agricola",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "kultur": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1557",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q52944",
+    "typ": "historia",
+    "titel": "Johan III",
+    "ingress": "The text describes King John III, who became king of Sweden after seizing power from his brother, Eric XIV. He was interested in culture and religion, and he attempted to restore the influence of the Catholic Church within the country.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Johan_III",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "infrastruktur": 3,
+      "barn": 3,
+      "student": 3,
+      "batagare": 3,
+      "kultur": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1592",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q52945",
+    "typ": "historia",
+    "titel": "Erik XIV was king of Sweden from 1560 to 1568. He is known for his erratic behavior and increasing paranoia during his reign.\n\nHere are some key facts about Erik XIV:\n\n*   **Reign:** 1560-1568\n*   **Born:** 1533\n*   **Died:** 1567\n*   **Cause of death:** Possibly syphilis or mental illness\n*   **Successor:** John III\n*   **Notable events during his reign:**\n    *   The Northern Seven Years' War (1563-1570)\n    *   The execution of Gustav Vasa, his father.\n    *   Increasing persecution of religious minorities.\n\nErik XIV's reign was marked by political instability and economic hardship. He was eventually deposed from the throne in 1568 and died shortly thereafter. His legacy is one of a troubled and ultimately tragic monarch.",
+    "ingress": "Eric XIV was a well-educated but volatile king who ruled Sweden between 1560 and 1568. He was deposed due to mental illness and later died of poisoning.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Erik_XIV",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "epok": "vasatiden",
+    "tid": "d. 1577",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q315804",
+    "typ": "historia",
+    "titel": "Olaus Magnus",
+    "ingress": "Olaus Magnus was a Swedish priest and scholar who, in the 16th century, became renowned throughout Europe for his books and maps of Scandinavia. He contributed to making the Nordic countries more well-known abroad through his descriptions o",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Olaus_Magnus",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "b_it": 3,
+      "b_kultur": 3,
+      "student": 3,
+      "kultur": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1557",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q236774",
+    "typ": "historia",
+    "titel": "Catherine of Saxe-Lauenburg.",
+    "ingress": "Catherine of Saxe-Lauenburg was Queen of Sweden from 1531 to 1535. She married King Gustav Vasa in order to establish important political connections in Europe.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Katarina_av_Sachsen-Lauenburg",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "sambo_gift": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1535",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q239443",
+    "typ": "historia",
+    "titel": "Margareta Eriksdotter.",
+    "ingress": "The text explains that the name \"Margareta Eriksdotter\" could refer to several different historical women, including queens and princesses.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Margareta_Eriksdotter",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "kvinna": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1551",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q235659",
+    "typ": "historia",
+    "titel": "Gunilla Bielke.",
+    "ingress": "Gunilla Bielke was a Swedish queen who married King John III in 1585. She became important to the country because she helped the king choose a more Protestant path for the church.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Gunilla_Bielke",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "vasatiden"
+    ],
+    "relevans": {
+      "b_vard": 3,
+      "sambo_gift": 3,
+      "glesbygd": 3
+    },
+    "epok": "vasatiden",
+    "tid": "d. 1597",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
   }
 ]
