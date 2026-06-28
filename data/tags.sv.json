@@ -1067,7 +1067,7 @@
   "jokkmokk": {
     "etikett": "Jokkmokks",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "bun": {
     "etikett": "BUN",
@@ -2011,6 +2011,11 @@
   },
   "samhallsutvecklingsnamndens": {
     "etikett": "Samhällsutvecklingsnämndens",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "socialnaemnden": {
+    "etikett": "Socialnaemnden",
     "typ": "organisation",
     "antal": 1
   }
