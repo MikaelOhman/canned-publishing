@@ -581,6 +581,24 @@
     }
   },
   {
+    "id": "vaxjo-miljo-och-byggnamndens-mbn-2026-06-25",
+    "typ": "kommunbeslut",
+    "titel": "Umwelt- und Bauamt (MBN) der Stadt Växjö, 25. Juni 2026.",
+    "ingress": "Der Umwelt- und Bauausschuss der Gemeinde Växjö hat Beschlüsse über mehrere Bauprojekte gefasst, darunter neue Feuerwachen, ein Eiskeller und verschiedene Anbauten an Wohngebäuden.",
+    "datum": "2026-06-25",
+    "kalla": "Växjö kommun",
+    "kalla_url": "https://vaxjo.se/download/18.2b1bff1d19ed453c405409af/1782462452007/Milj%C3%B6-och%20byggn%C3%A4mndens%20protokoll%20(MBN)%202026-06-25.pdf",
+    "taggar": [
+      "vaxjo",
+      "miljo-och-byggnamndens-mbn"
+    ],
+    "relevans": {
+      "b_bygg": 8,
+      "klimat": 8,
+      "kultur": 3
+    }
+  },
+  {
     "id": "ecb-2026-06-24-ecb-reports-on-progress-toward",
     "typ": "omvarld",
     "titel": "Die Europäische Zentralbank (EZB) berichtet über die Fortschritte bei der Einführung des Euro.",
@@ -2859,6 +2877,22 @@
       "b_kultur": 5,
       "barn": 8,
       "kultur": 5
+    }
+  },
+  {
+    "id": "vindeln-ofn-2026-06-17",
+    "typ": "kommunbeslut",
+    "titel": "ÖFN, Gemeinde Vännäs, 17. Juni 2026.",
+    "ingress": "Das Vormundschaftsgericht der Region Umeå passt seine internen Richtlinien bezüglich der Personen, die Entscheidungen in bestimmten Fällen treffen dürfen, an. Dies geschieht, um die Arbeit des Gerichts an neue Gesetze anzupassen, die am 1.",
+    "datum": "2026-06-17",
+    "kalla": "Vindelns kommun",
+    "kalla_url": "https://vindeln.se/download/18.6c3763f119eb331c33c1c1/1782462668528/%C3%96FN%202026-06-17%20protokoll.pdf",
+    "taggar": [
+      "vindeln",
+      "ofn"
+    ],
+    "relevans": {
+      "arbetsgivare": 3
     }
   },
   {

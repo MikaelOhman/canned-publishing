@@ -581,6 +581,24 @@
     }
   },
   {
+    "id": "vaxjo-miljo-och-byggnamndens-mbn-2026-06-25",
+    "typ": "kommunbeslut",
+    "titel": "A Växjö önkormányzat környezetvédelmi és építési bizottsága (MBN) által kiadott dokumentum, keltezés: 2026. június 25.",
+    "ingress": "A Växjö önkormányzat környezetvédelmi és építészeti bizottsága több építkezési projektről hozott döntést, többek között új tűzoltóállomásokról, egy hidegfürdőről és különböző lakásokhoz kapcsolódó melléképületekről.",
+    "datum": "2026-06-25",
+    "kalla": "Växjö kommun",
+    "kalla_url": "https://vaxjo.se/download/18.2b1bff1d19ed453c405409af/1782462452007/Milj%C3%B6-och%20byggn%C3%A4mndens%20protokoll%20(MBN)%202026-06-25.pdf",
+    "taggar": [
+      "vaxjo",
+      "miljo-och-byggnamndens-mbn"
+    ],
+    "relevans": {
+      "b_bygg": 8,
+      "klimat": 8,
+      "kultur": 3
+    }
+  },
+  {
     "id": "ecb-2026-06-24-ecb-reports-on-progress-toward",
     "typ": "omvarld",
     "titel": "Az ECB (Európai Központi Bank) jelentést tett közzé az euró bevezetésével kapcsolatos előrehaladásról.",
@@ -2814,6 +2832,22 @@
       "b_kultur": 5,
       "barn": 8,
       "kultur": 5
+    }
+  },
+  {
+    "id": "vindeln-ofn-2026-06-17",
+    "typ": "kommunbeslut",
+    "titel": "ÖFN, Vinde város önkormányzata, 2026. június 17.",
+    "ingress": "Az Umeå régióban működő gyámsági felügyeleti bizottság módosítja a belső szabályzatait, hogy meghatározza, ki jogosult bizonyos ügyekben döntéseket hozni. Ez a változás azért történik, mert az intézkedéseknek összhangba kell kerülniük az új",
+    "datum": "2026-06-17",
+    "kalla": "Vindelns kommun",
+    "kalla_url": "https://vindeln.se/download/18.6c3763f119eb331c33c1c1/1782462668528/%C3%96FN%202026-06-17%20protokoll.pdf",
+    "taggar": [
+      "vindeln",
+      "ofn"
+    ],
+    "relevans": {
+      "arbetsgivare": 3
     }
   },
   {

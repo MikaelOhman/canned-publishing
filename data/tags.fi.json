@@ -1737,7 +1737,7 @@
   "ofn": {
     "etikett": "ÖFN",
     "typ": "organisation",
-    "antal": 2
+    "antal": 3
   },
   "trosa": {
     "etikett": "Trosa",
@@ -1792,7 +1792,7 @@
   "vaxjo": {
     "etikett": "Växjö",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "vetlanda": {
     "etikett": "Vetlanda",
@@ -1807,7 +1807,7 @@
   "vindeln": {
     "etikett": "Vindelns",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "vingaker": {
     "etikett": "Vingåkers",
@@ -2056,6 +2056,11 @@
   },
   "overformyndarnamnden-eskilstuna-strangna": {
     "etikett": "Eskilstunan ja Strängnäsin ylivuorineuvoston toimisto.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "miljo-och-byggnamndens-mbn": {
+    "etikett": "Ympäristö- ja rakennuslautakunnan (YRL).",
     "typ": "organisation",
     "antal": 1
   }

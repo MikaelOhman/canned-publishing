@@ -1502,7 +1502,7 @@
   "ofn": {
     "etikett": "Sajnálom, de nem tudom, hogy mit jelent az \"ÖFN\". Kérlek, adj több információt, vagy egy másik szöveget, amit lefordíthatok.",
     "typ": "organisation",
-    "antal": 2
+    "antal": 3
   },
   "trosa": {
     "etikett": "Trosa.",
@@ -1557,7 +1557,7 @@
   "vaxjo": {
     "etikett": "Växjö\n\n(Nincs további szöveg a fordításhoz.)",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "vetlanda": {
     "etikett": "Vetlanda.",
@@ -1572,7 +1572,7 @@
   "vindeln": {
     "etikett": "Vindelns.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "vingaker": {
     "etikett": "Vingåkers",
@@ -1936,6 +1936,11 @@
   },
   "overformyndarnamnden-eskilstuna-strangna": {
     "etikett": "Az Eskilstuna és Strängnäs körzet közgyámhivatalának (Överförmyndarnämnden) elérhetősége:",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "miljo-och-byggnamndens-mbn": {
+    "etikett": "A környezetvédelmi és építészeti bizottság (MBN).",
     "typ": "organisation",
     "antal": 1
   }

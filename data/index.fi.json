@@ -582,6 +582,24 @@
     }
   },
   {
+    "id": "vaxjo-miljo-och-byggnamndens-mbn-2026-06-25",
+    "typ": "kommunbeslut",
+    "titel": "Ympäristö- ja rakennuslautakunnan (MBN) päätös, Växjön kunta, 25.6.2026.",
+    "ingress": "Växjön kunnan ympäristö- ja rakennuslautakunta teki päätöksiä useista rakennushankkeista, joihin sisältyi muun muassa uusia paloasemia, kylpylää sekä erilaisia asuinrakennusten laajennuksia.",
+    "datum": "2026-06-25",
+    "kalla": "Växjö kommun",
+    "kalla_url": "https://vaxjo.se/download/18.2b1bff1d19ed453c405409af/1782462452007/Milj%C3%B6-och%20byggn%C3%A4mndens%20protokoll%20(MBN)%202026-06-25.pdf",
+    "taggar": [
+      "vaxjo",
+      "miljo-och-byggnamndens-mbn"
+    ],
+    "relevans": {
+      "b_bygg": 8,
+      "klimat": 8,
+      "kultur": 3
+    }
+  },
+  {
     "id": "almhult-socialnamndens-s-2026-06-24",
     "typ": "kommunbeslut",
     "titel": "Älmhultin kunnan sosiaalilautakunnan päätös, päivämäärä 24.6.2026.",
@@ -2888,6 +2906,22 @@
       "b_kultur": 5,
       "barn": 8,
       "kultur": 5
+    }
+  },
+  {
+    "id": "vindeln-ofn-2026-06-17",
+    "typ": "kommunbeslut",
+    "titel": "ÖFN, Vindelbyn kunta, 17.6.2026.",
+    "ingress": "Uumajan alueen holhoojaneuvosto muuttaa sisäisiä sääntöjään siitä, kuka saa tehdä päätöksiä tietyissä asioissa. Tämä tehdään, jotta toimintaa voidaan mukauttaa uusiin lakeihin, jotka astuvat voimaan 1. heinäkuuta 2026.",
+    "datum": "2026-06-17",
+    "kalla": "Vindelns kommun",
+    "kalla_url": "https://vindeln.se/download/18.6c3763f119eb331c33c1c1/1782462668528/%C3%96FN%202026-06-17%20protokoll.pdf",
+    "taggar": [
+      "vindeln",
+      "ofn"
+    ],
+    "relevans": {
+      "arbetsgivare": 3
     }
   },
   {

@@ -1507,7 +1507,7 @@
   "ofn": {
     "etikett": "Lo siento, no puedo traducir eso porque \"ÖFN\" no es una palabra o frase completa en sueco que pueda entender. Por favor, proporcione un texto más completo para que pueda traducirlo al español.",
     "typ": "organisation",
-    "antal": 2
+    "antal": 3
   },
   "trosa": {
     "etikett": "Trosa.",
@@ -1562,7 +1562,7 @@
   "vaxjo": {
     "etikett": "Växjö.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "vetlanda": {
     "etikett": "Vetlanda.",
@@ -1577,7 +1577,7 @@
   "vindeln": {
     "etikett": "Vindelns.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "vingaker": {
     "etikett": "Vingåkers.",
@@ -1936,6 +1936,11 @@
   },
   "overformyndarnamnden-eskilstuna-strangna": {
     "etikett": "La Oficina de Tutela Legal de Eskilstuna-Strängnäs.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "miljo-och-byggnamndens-mbn": {
+    "etikett": "Comisión de Medio Ambiente y Construcción (MBN).",
     "typ": "organisation",
     "antal": 1
   }

@@ -581,6 +581,24 @@
     }
   },
   {
+    "id": "vaxjo-miljo-och-byggnamndens-mbn-2026-06-25",
+    "typ": "kommunbeslut",
+    "titel": "Commission environnementale et d'urbanisme (MBN) de la municipalité de Växjö, 25 juin 2026.",
+    "ingress": "La commission de l'environnement et de la construction de la municipalité de Växjö a pris des décisions concernant plusieurs projets de construction, notamment de nouvelles casernes de pompiers, un établissement de bains froids et diverses",
+    "datum": "2026-06-25",
+    "kalla": "Växjö kommun",
+    "kalla_url": "https://vaxjo.se/download/18.2b1bff1d19ed453c405409af/1782462452007/Milj%C3%B6-och%20byggn%C3%A4mndens%20protokoll%20(MBN)%202026-06-25.pdf",
+    "taggar": [
+      "vaxjo",
+      "miljo-och-byggnamndens-mbn"
+    ],
+    "relevans": {
+      "b_bygg": 8,
+      "klimat": 8,
+      "kultur": 3
+    }
+  },
+  {
     "id": "ecb-2026-06-24-ecb-reports-on-progress-toward",
     "typ": "omvarld",
     "titel": "La Banque centrale européenne (BCE) publie un rapport sur les progrès réalisés en vue de l'introduction de l'euro.",
@@ -2835,6 +2853,22 @@
       "b_kultur": 5,
       "barn": 8,
       "kultur": 5
+    }
+  },
+  {
+    "id": "vindeln-ofn-2026-06-17",
+    "typ": "kommunbeslut",
+    "titel": "ÖFN, Commune de Vindeln, 17 juin 2026.",
+    "ingress": "Le conseil de tutelle de la région d'Umeå modifie ses règles internes concernant les personnes autorisées à prendre des décisions sur certains dossiers. Cette modification est effectuée afin d'adapter les activités aux nouvelles lois qui en",
+    "datum": "2026-06-17",
+    "kalla": "Vindelns kommun",
+    "kalla_url": "https://vindeln.se/download/18.6c3763f119eb331c33c1c1/1782462668528/%C3%96FN%202026-06-17%20protokoll.pdf",
+    "taggar": [
+      "vindeln",
+      "ofn"
+    ],
+    "relevans": {
+      "arbetsgivare": 3
     }
   },
   {

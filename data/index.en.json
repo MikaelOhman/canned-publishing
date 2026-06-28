@@ -581,6 +581,24 @@
     }
   },
   {
+    "id": "vaxjo-miljo-och-byggnamndens-mbn-2026-06-25",
+    "typ": "kommunbeslut",
+    "titel": "Environment and Construction Committee (MBN), City of Växjö, June 25, 2026.",
+    "ingress": "The Environment and Construction Committee of the Växjö municipality made decisions regarding several construction projects, including new fire stations, a cold water bathhouse, and various extensions to residential properties.",
+    "datum": "2026-06-25",
+    "kalla": "Växjö kommun",
+    "kalla_url": "https://vaxjo.se/download/18.2b1bff1d19ed453c405409af/1782462452007/Milj%C3%B6-och%20byggn%C3%A4mndens%20protokoll%20(MBN)%202026-06-25.pdf",
+    "taggar": [
+      "vaxjo",
+      "miljo-och-byggnamndens-mbn"
+    ],
+    "relevans": {
+      "b_bygg": 8,
+      "klimat": 8,
+      "kultur": 3
+    }
+  },
+  {
     "id": "ecb-2026-06-24-ecb-reports-on-progress-toward",
     "typ": "omvarld",
     "titel": "The ECB (European Central Bank) reports on the progress made towards the introduction of the euro.",
@@ -2881,6 +2899,22 @@
       "b_kultur": 5,
       "barn": 8,
       "kultur": 5
+    }
+  },
+  {
+    "id": "vindeln-ofn-2026-06-17",
+    "typ": "kommunbeslut",
+    "titel": "ÖFN, Vindel Municipality, 2026-06-17.",
+    "ingress": "The Board of Guardians in the Umeå region is changing its internal rules regarding who can make decisions on certain cases. This change is being implemented to align operations with new laws that will come into effect on July 1, 2026.",
+    "datum": "2026-06-17",
+    "kalla": "Vindelns kommun",
+    "kalla_url": "https://vindeln.se/download/18.6c3763f119eb331c33c1c1/1782462668528/%C3%96FN%202026-06-17%20protokoll.pdf",
+    "taggar": [
+      "vindeln",
+      "ofn"
+    ],
+    "relevans": {
+      "arbetsgivare": 3
     }
   },
   {

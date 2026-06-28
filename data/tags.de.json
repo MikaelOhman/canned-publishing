@@ -1572,7 +1572,7 @@
   "ofn": {
     "etikett": "ÖFN",
     "typ": "organisation",
-    "antal": 2
+    "antal": 3
   },
   "trosa": {
     "etikett": "Trosa.",
@@ -1627,7 +1627,7 @@
   "vaxjo": {
     "etikett": "Växjö\n\n(No further context was provided, so a simple transliteration is the best option.)",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "vetlanda": {
     "etikett": "Vetlanda.",
@@ -1642,7 +1642,7 @@
   "vindeln": {
     "etikett": "Vindelns",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "vingaker": {
     "etikett": "Vingåkers",
@@ -1996,6 +1996,11 @@
   },
   "overformyndarnamnden-eskilstuna-strangna": {
     "etikett": "Das Vormundschaftsgericht von Eskilstuna und Strängnäs.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "miljo-och-byggnamndens-mbn": {
+    "etikett": "Der Umwelt- und Bauausschuss (MBN).",
     "typ": "organisation",
     "antal": 1
   }

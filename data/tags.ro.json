@@ -1502,7 +1502,7 @@
   "ofn": {
     "etikett": "Îmi pare rău, dar nu pot traduce acest cuvânt deoarece nu are sens în limba suedeză. Poți să-mi dai mai multe informații despre contextul în care a fost folosit?",
     "typ": "organisation",
-    "antal": 2
+    "antal": 3
   },
   "trosa": {
     "etikett": "Trosa",
@@ -1557,7 +1557,7 @@
   "vaxjo": {
     "etikett": "Växjö.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "vetlanda": {
     "etikett": "Vetlanda.",
@@ -1572,7 +1572,7 @@
   "vindeln": {
     "etikett": "Vindelns.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "vingaker": {
     "etikett": "Vingåkers.",
@@ -1936,6 +1936,11 @@
   },
   "overformyndarnamnden-eskilstuna-strangna": {
     "etikett": "Comisia de Tutelă din Eskilstuna și Strängnäs.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "miljo-och-byggnamndens-mbn": {
+    "etikett": "Comisia de Mediu și Construcții (MBN).",
     "typ": "organisation",
     "antal": 1
   }

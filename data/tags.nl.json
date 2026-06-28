@@ -1512,7 +1512,7 @@
   "ofn": {
     "etikett": "ÖFN",
     "typ": "organisation",
-    "antal": 2
+    "antal": 3
   },
   "trosa": {
     "etikett": "Trosa",
@@ -1567,7 +1567,7 @@
   "vaxjo": {
     "etikett": "Växjö.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "vetlanda": {
     "etikett": "Vetlanda",
@@ -1582,7 +1582,7 @@
   "vindeln": {
     "etikett": "Vindelns",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "vingaker": {
     "etikett": "Vingåkers.",
@@ -1936,6 +1936,11 @@
   },
   "overformyndarnamnden-eskilstuna-strangna": {
     "etikett": "Het voogdijschap van Eskilstuna en Strängnäs.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "miljo-och-byggnamndens-mbn": {
+    "etikett": "De milieudienst en de bouwafdeling (gezamenlijk MBN genoemd).",
     "typ": "organisation",
     "antal": 1
   }
