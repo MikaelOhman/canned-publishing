@@ -3504,6 +3504,24 @@
     }
   },
   {
+    "id": "gislaved-samhallsutvecklingsnamndens-2026-06-15",
+    "typ": "kommunbeslut",
+    "titel": "Comisión de Desarrollo Comunitario del Municipio de Gislaved, 15 de junio de 2026.",
+    "ingress": "El ayuntamiento de Gislaved ha tomado la decisión de invertir en el entorno urbano, incluyendo la construcción de una nueva torre del reloj en el centro y el desarrollo de las áreas de Hestra y Smålandsstenar. También planean mejorar los ca",
+    "datum": "2026-06-15",
+    "kalla": "Gislaveds kommun",
+    "kalla_url": "https://gislaved.se/download/18.101faef219df7a3639f2cb19/1781688883139/Samh%C3%A4llsutvecklingsn%C3%A4mndens%20protokoll%202026-06-15.pdf",
+    "taggar": [
+      "gislaved",
+      "samhallsutvecklingsnamndens"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "finansiering": 3,
+      "klimat": 3
+    }
+  },
+  {
     "id": "tvangsvard-tanum",
     "typ": "nyhet",
     "titel": "Negación de la atención obligatoria: encontrada muerta en la nieve.",
@@ -18140,7 +18158,7 @@
   {
     "id": "hist-birka",
     "typ": "historia",
-    "titel": "Birka\n\n*   Una de las ciudades más importantes de la era vikinga.\n*   Ubicada en una isla en el lago Mälaren, cerca de Estocolmo.\n*   Centro comercial y cultural clave desde aproximadamente el año 750 hasta el siglo X.\n*   Importante lugar para el comercio con Europa del Este y Oriente Medio.\n*   Descubrimientos arqueológicos incluyen joyas, armas, herramientas y restos de barcos.\n*   Hoy en día, Birka es un sitio histórico protegido y accesible por barco desde Estocolmo.\n*   Para obtener más información, visite: [URL inválido removida]",
+    "titel": "Birka",
     "ingress": "Birka fue un centro comercial muy importante durante la era vikinga y se considera la primera ciudad de Suecia. Se ubicaba en la isla de Björkö, en el lago Mälaren, y hoy en día es Patrimonio de la Humanidad, protegido por la UNESCO.",
     "datum": "",
     "kalla": "Wikipedia",
@@ -18165,7 +18183,7 @@
   {
     "id": "hist-vikingatag",
     "typ": "historia",
-    "titel": "Viajes de la época vikinga:\n\n*   Exploración y comercio: Los vikingos se aventuraron en largas travesías marítimas para explorar nuevas tierras y establecer rutas comerciales.\n*   Incursiones y conquistas: También realizaron incursiones y conquistas militares en diversas regiones, como Europa Occidental y Rusia.\n*   Descubrimientos geográficos: Se les atribuye el descubrimiento de lugares como Islandia, Groenlandia y América del Norte (Vinland).\n*   Tecnología naval: Desarrollaron embarcaciones avanzadas, como los drakkar, que les permitieron navegar en aguas poco profundas y enfrentarse a las condiciones marítimas adversas.\n*   Impacto cultural: Sus viajes tuvieron un impacto significativo en la historia y la cultura de muchas regiones, influyendo en el comercio, la política y la sociedad.",
+    "titel": "Expediciones vikingas",
     "ingress": "Los viajes de los vikingos se centraban en el comercio, la incursión y la colonización de nuevos territorios. Utilizaban sus barcos para establecer extensas redes comerciales que abarcaban todo el mundo.",
     "datum": "",
     "kalla": "Wikipedia",
@@ -18314,7 +18332,7 @@
   {
     "id": "hist-bravalla",
     "typ": "historia",
-    "titel": "La Batalla de Brávalla.\n\n*   **Fecha:** 10 de octubre de 1275.\n*   **Lugar:** Brávalla, Suecia.\n*   **Participantes:** El rey Valdemar I de Dinamarca contra el duque Eric V de Sajonia y varios señores alemanes.\n*   **Resultado:** Victoria danesa.",
+    "titel": "Batalla de Brávellir",
     "ingress": "La batalla de Brávalla es una historia famosa sobre una gran guerra entre dos reyes en el siglo VIII, pero no está claro si la batalla realmente tuvo lugar o si simplemente existe en antiguas leyendas.",
     "datum": "",
     "kalla": "Wikipedia",
@@ -18502,7 +18520,7 @@
   {
     "id": "hist-medeltiden",
     "typ": "historia",
-    "titel": "La Edad Media\n\n*   **Características generales:**\n    *   Un período de la historia europea que abarca desde la caída del Imperio Romano de Occidente (476 d.C.) hasta el Renacimiento (siglo XV).\n    *   Marcada por la influencia dominante de la Iglesia Católica y el sistema feudal.\n    *   Desarrollo de las ciudades, universidades y comercio a partir del siglo XI.\n\n*   **Principales etapas:**\n    *   Alta Edad Media: Siglos V al X. Caracterizada por la inestabilidad política, las invasiones bárbaras y la ruralización de la sociedad.\n    *   Baja Edad Media: Siglos XI al XV. Marcada por el crecimiento demográfico, el desarrollo económico y cultural, y las crisis como la Peste Negra (siglo XIV).\n\n*   **Aspectos destacados:**\n    *   Arte románico y gótico.\n    *   Desarrollo de las órdenes religiosas militares.\n    *   Las Cruzadas (siglos XI al XIII).\n    *   La construcción de grandes catedrales.\n    *   El surgimiento de los primeros estados nacionales.\n\nPara más información, visita: [URL inválida eliminada]",
+    "titel": "Edad Media",
     "ingress": "La Edad Media es un período extenso en la historia de Europa que abarca desde aproximadamente el año 476 hasta el 1500. Fue durante esta época cuando el cristianismo se extendió, las ciudades prosperaron y se sentaron las bases del actual c",
     "datum": "",
     "kalla": "Wikipedia",
@@ -18614,7 +18632,7 @@
   {
     "id": "hist-1900talet",
     "typ": "historia",
-    "titel": "\"Folkhemmet\" es un término sueco que se refiere al modelo de sociedad nórdica caracterizado por un estado de bienestar fuerte y una amplia gama de servicios sociales disponibles para todos los ciudadanos. Este modelo busca garantizar la igualdad de oportunidades y el bienestar social, promoviendo la solidaridad y la cohesión social.\n\nCaracterísticas principales del \"Folkhemmet\":\n\n*   **Estado de bienestar universal:** Acceso a servicios básicos como atención médica, educación, vivienda y seguridad social para todos los ciudadanos, independientemente de su origen o situación económica.\n*   **Impuestos progresivos:** Un sistema fiscal donde las personas con mayores ingresos contribuyen proporcionalmente más al financiamiento de los servicios públicos.\n*   **Fuerte regulación laboral:** Protección de los derechos de los trabajadores y promoción de condiciones laborales justas.\n*   **Diálogo social:** Colaboración entre el gobierno, los sindicatos y los empleadores para la toma de decisiones y la resolución de conflictos.\n*   **Énfasis en la igualdad:** Políticas destinadas a reducir las desigualdades sociales y promover la inclusión.\n\nEl \"Folkhemmet\" ha sido un modelo influyente en muchos países del mundo, aunque su implementación puede variar según el contexto político y económico.",
+    "titel": "Folkhemmet",
     "ingress": "El \"folkhemmet\" es un símbolo del sistema de bienestar sueco, donde todos los ciudadanos deben tener los mismos derechos y recibir el mismo apoyo por parte del Estado.",
     "datum": "",
     "kalla": "Wikipedia",
@@ -19807,7 +19825,7 @@
   {
     "id": "runa-ög-136",
     "typ": "historia",
-    "titel": "La Piedra Rúnica de Rö\n\n*   **Descripción:** La Piedra Rúnica de Rö es una piedra rúnica vikinga descubierta en la parroquia de Husby, al norte de Estocolmo, Suecia. Se data del siglo III después de Cristo.\n*   **Ubicación actual:** El Museo Histórico de Estocolmo (Kungliga Myntkabinettet).\n*   **Contenido:** La inscripción rúnica en la piedra es una oración o bendición.  Se cree que fue erigida para conmemorar a alguien, posiblemente un miembro de la familia.\n*   **Importancia:** Es uno de los ejemplos más antiguos de escritura rúnica en Suecia y proporciona información valiosa sobre las creencias y costumbres vikingas.\n*   **Más información:** Se puede encontrar más información en línea, por ejemplo, en [URL inválido removida].",
+    "titel": "Piedra de Rök",
     "ingress": "La Piedra Rök es una de las runas más famosas de Suecia y contiene la inscripción más larga del mundo, con más de 700 caracteres. Es un objeto histórico importante de la época vikinga que narra historias de antiguos guerreros y reyes.",
     "datum": "",
     "kalla": "Samnordisk runtextdatabas (Rundata), Uppsala universitet",
@@ -19837,7 +19855,7 @@
   {
     "id": "runa-öl-1",
     "typ": "historia",
-    "titel": "Karlevistenen\n\n(No further context was provided, so I'm assuming this is a name or title that should remain as is.)",
+    "titel": "Piedra de Karlevi",
     "ingress": "La piedra rúnica de Karlevi es la más antigua de la isla de Öland y fue erigida alrededor del año 1000 para honrar a un jefe danés llamado Sibbe.",
     "datum": "",
     "kalla": "Samnordisk runtextdatabas (Rundata), Uppsala universitet",
@@ -19864,7 +19882,7 @@
   {
     "id": "runa-g-110",
     "typ": "historia",
-    "titel": "Tjängvide Sten\n\n*   Una piedra rúnica de la época vikinga.\n*   Se encuentra en Tjängvide, Gotland, Suecia.\n*   Datada alrededor del año 980 d.C.\n*   Contiene una inscripción rúnica que conmemora a alguien llamado \"Torgny\".\n*   La piedra se puede visitar en el lugar o ver imágenes online.\n*   Para más información, visite: [URL inválido removida]",
+    "titel": "Piedra de Tjängvide",
     "ingress": "La piedra de Tjängvide es una antigua losa de la época vikinga que fue encontrada en Gotland. Presenta imágenes de diversos elementos, incluyendo un caballo y un barco, así como textos escritos con runas.",
     "datum": "",
     "kalla": "Samnordisk runtextdatabas (Rundata), Uppsala universitet",
@@ -19949,7 +19967,7 @@
   {
     "id": "runa-u-11",
     "typ": "historia",
-    "titel": "Inscripciones rúnicas de Uppland 11.\n\n*   [Información adicional sobre la inscripción]\n*   [Otra información relevante]\n*   [Posible ubicación o contexto histórico]\n*   [Referencias a estudios o análisis académicos]\n*   [Enlaces a recursos online, como bases de datos o imágenes]",
+    "titel": "Inscripción rúnica de Uppland 11",
     "ingress": "La piedra rúnica de Hovgård es una antigua piedra rúnica de la época vikinga que se encuentra a orillas del lago Mälaren, en la isla de Adelsö. Cuenta la historia de dos personas, Tolir y Gyla, quienes hicieron grabar sus nombres en la pied",
     "datum": "",
     "kalla": "Samnordisk runtextdatabas (Rundata), Uppsala universitet",

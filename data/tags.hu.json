@@ -887,7 +887,7 @@
   "gislaved": {
     "etikett": "Gislaveds",
     "typ": "plats",
-    "antal": 2
+    "antal": 3
   },
   "hagfors": {
     "etikett": "Hagfors",
@@ -1886,6 +1886,11 @@
   },
   "utbildningsnamndens-pdf-bortredigerad": {
     "etikett": "A \"Bortredigerad\" nevű PDF dokumentum található az oktatási bizottság oldalán.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "samhallsutvecklingsnamndens": {
+    "etikett": "A társadalmi fejlődés bizottságának",
     "typ": "organisation",
     "antal": 1
   }

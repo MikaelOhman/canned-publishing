@@ -3483,6 +3483,24 @@
     }
   },
   {
+    "id": "gislaved-samhallsutvecklingsnamndens-2026-06-15",
+    "typ": "kommunbeslut",
+    "titel": "A Gislavedi önkormányzat társadalmi fejlesztési bizottságának tájékoztatása, 2026. június 15.",
+    "ingress": "A Gislaved önkormányzat döntést hozott a városi környezet fejlesztéséről, többek között egy új óratorony építéséről a központban, valamint a Hestra és Smålandsstenar területek fejlesztéséről. Emellett tervezték, hogy 2030-ig javítsák a gyal",
+    "datum": "2026-06-15",
+    "kalla": "Gislaveds kommun",
+    "kalla_url": "https://gislaved.se/download/18.101faef219df7a3639f2cb19/1781688883139/Samh%C3%A4llsutvecklingsn%C3%A4mndens%20protokoll%202026-06-15.pdf",
+    "taggar": [
+      "gislaved",
+      "samhallsutvecklingsnamndens"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "finansiering": 3,
+      "klimat": 3
+    }
+  },
+  {
     "id": "herjedalen-valnamnden-2026-06-12",
     "typ": "kommunbeslut",
     "titel": "A választási bizottság, Härjedalen önkormányzata, 2026. június 12.",
@@ -17982,7 +18000,7 @@
   {
     "id": "hist-runstenar",
     "typ": "historia",
-    "titel": "A runakő egy olyan típusú ősi emlék, amelyen rúnák vannak feltüntetve. Általában kőből készülnek, és gyakran találhatók a skandináv országokban. A runakövek különböző célokra szolgáltak, például emlékműként, határrájelzőként vagy történetek elmesélésére.\n\nÍme néhány példa a híres runakövekre:\n\n* **Röksten:** Ez az egyik leghíresebb runakő Svédországban, és egy hosszú verset tartalmaz, amelynek jelentése még mindig vita tárgyát képezi.\n* **Gotlandrunar:** Ezek a runakövek Gotland szigetén találhatók, és különböző témákat érintenek, például a vikingek történetét és a helyi kultúrát.\n* **Klingnákövei:** Ez egy runakőcsoport Dél-Svédországban, amely gazdag információt nyújt a viking korról.\n\nA runakövek értékes forrásai lehetnek a múlt megértéséhez, és fontos szerepet játszanak a skandináv kulturális örökségben.",
+    "titel": "Rúnakő",
     "ingress": "A rúnakövek ősi kövekből állnak, melyekre bevésve találhatók szövegek. Ezeket a köveket használták a meghalt családtagok emlékére, valamint arra, hogy feltüntessék, ki végezte el egy fontos feladatot. A rúnakövek segítenek a kutatóknak abba",
     "datum": "",
     "kalla": "Wikipedia",
@@ -18004,7 +18022,7 @@
   {
     "id": "hist-birka",
     "typ": "historia",
-    "titel": "Birka\n\n(Nincs további szöveg a fordításhoz.)",
+    "titel": "Birka",
     "ingress": "A Birka egykor rendkívül fontos kereskedelmi központ volt a viking korban, és tekinthető Svédország első városának. A Mälaren-tó szigetéjén, Björköön található, és ma egy UNESCO által védett világörökség része.",
     "datum": "",
     "kalla": "Wikipedia",
@@ -18029,7 +18047,7 @@
   {
     "id": "hist-vikingatag",
     "typ": "historia",
-    "titel": "A viking kor szakasza alatt végzett utazások.\n\n*   **Időszak:** Viking kor\n*   **Téma:** Utazások",
+    "titel": "Viking hadjáratok",
     "ingress": "A vikingek utazásai a kereskedelemről, a fosztogatásokról és az új országokban való letelepedésről szóltak. Hajóikat arra használták, hogy hatalmas kereskedelmi hálózatokat hozzanak létre, amelyek a világ minden részébe terjedtek.",
     "datum": "",
     "kalla": "Wikipedia",
@@ -18103,7 +18121,7 @@
   {
     "id": "hist-adam-av-bremen",
     "typ": "historia",
-    "titel": "Adam von Bremen (kb. 980 – kb. 1075) volt egy német krónikás és püspök. Életét és munkásságát a következő pontok jellemzik:\n\n*   **Élete:** Adam von Bremen körülbelül 980-ban született, és valószínűleg 1075 körül halt meg. A pontos származása nem ismert, de valószínűleg német területről származott.\n*   **Püspöki karrierje:** 1043-ban Adamot nevezték ki Bremen püspökévé. Ez a pozíció jelentős politikai befolyással járt.\n*   **Fő műve: \"Historia Hironimianae\" (Jeromos élete):** Ez Adam von Bremen legfontosabb munkája, amely Jeromosnak, a korai keresztény teológusnak az életét és munkásságát mutatja be. A mű tartalmazza a \"Gesta Christophori\" című apokrifikus szöveget is, amely a Szent Kristóf legendáját meséli el.\n*   **Történelmi jelentősége:** Adam von Bremen krónikái fontos forrásként szolgálnak a korai középkori német történelemhez, különösen az északi területekhez. Munkái értékes betekintést nyújtanak a politikai, társadalmi és vallási életbe abban a korban.\n*   **További információk:** További részleteket Adam von Bremenről a következő forrásból szerezhet: [https://de.wikipedia.org/wiki/Adam_von_Bremen](https://de.wikipedia.org/wiki/Adam_von_Bremen)",
+    "titel": "Brémai Ádám",
     "ingress": "Adam von Bremen egy 10. századi történész volt, aki egy fontos könyvet írt a skandináv történelemről. Szövegei értékes források ahhoz, hogy megértsük, milyen volt az élet Svédországban, Dániában és Norvégiában ezer évvel ezelőtt.",
     "datum": "",
     "kalla": "Wikipedia",
@@ -18205,7 +18223,7 @@
   {
     "id": "hist-ledung",
     "typ": "historia",
-    "titel": "A \"Ledung\" kifejezés jelentése a szövegkörnyezet nélkül nem egyértelmű. Kérlek, add meg a teljes szöveget, hogy pontosan le tudjam fordítani és értelmezni.",
+    "titel": "Leidang",
     "ingress": "A ledung egy középkori rendszer volt, amelynek célja a hadsereg és a flottát megszervezni, hogy megvédje az országot ellenségektől és kalózoktól. Ez azt jelentette, hogy bizonyos területeken kötelező volt hajókat, katonákat és felszerelést",
     "datum": "",
     "kalla": "Wikipedia",
@@ -18232,7 +18250,7 @@
   {
     "id": "hist-tralar",
     "typ": "historia",
-    "titel": "Sajnálom, de nem tudom ezt lefordítani. Nem értem a szöveget. Kérlek, adj meg egy másik szöveget, amit le szeretnék fordítani.",
+    "titel": "Rabszolga (thrall)",
     "ingress": "A træl volt egy olyan személy, aki a nordikus vaskorban és középkorban rabszolgaságban élt. Ezek az emberek különböző okokból kerülhettek rabszolgává: öröklés útján, büntetésként, vagy háborúk során elfogva.",
     "datum": "",
     "kalla": "Wikipedia",
@@ -18478,7 +18496,7 @@
   {
     "id": "hist-1900talet",
     "typ": "historia",
-    "titel": "A \"folkhemmet\" kifejezés egy svéd szakkifejérést jelent, melynek nincs közvetlen magyar megfelelője. A legközelebbi értelmezése a következő:\n\n*   **Értelmezés:** Egy olyan társadalom, amelyben az állam aktívan felelősséget vállal a lakosság jólétéért és biztonságáért, biztosítva a lehetőségeket mindenki számára a fejlődéshez és a boldog élethez. Ez magában foglalja a szolidaritást, az egyenlőséget és a közösségi értékeket.\n\n*   **Jellemzői:**\n    *   Állami támogatású egészségügy.\n    *   Oktatási rendszer mindenki számára elérhetővé téve.\n    *   Szociális biztonsági háló, amely védi a legkiszolgáltatóbbakat.\n    *   Erős munkavállalói jogok és szakszervezetek.\n    *   A társadalmi egyenlőségre törekvés.\n\n*   **Cél:** Egy olyan harmóniás és igazságos társadalom megteremtése, ahol mindenki hozzájárulhat a közös javakhoz, és élvezheti az élet alapvető előnyeit.",
+    "titel": "Folkhemmet",
     "ingress": "A \"folkhemmet\" (népi otthon) a svéd jóléti állam szimbóluma, amely azt jelenti, hogy minden polgárnak egyenlő jogai legyenek, és azonos támogatást kapjon az államtól.",
     "datum": "",
     "kalla": "Wikipedia",
@@ -19462,7 +19480,7 @@
   {
     "id": "hist-q428694",
     "typ": "historia",
-    "titel": "Boëthius de Dacia:\n\n(A következők a szövegben szereplő nevek, számok, dátumok és URL-ek nem változtathatók.)",
+    "titel": "Boëthius de Dacia",
     "ingress": "Boëthius de Dacia egy középkori filozófus volt, aki Párizsban tanult, és számos könyvet írt a filozófia témájáról. Később Franciaországból kitették, vallási nézetei miatt.",
     "datum": "",
     "kalla": "Wikipedia",
@@ -19671,7 +19689,7 @@
   {
     "id": "runa-ög-136",
     "typ": "historia",
-    "titel": "A Rök-kő egy fontos régészeti lelet Svédországban.\n\n*   Egy hatalmas, kb. 3,5 méter magas és 1,5 méter széles gránit kő.\n*   Idézeteket tartalmaz a viking korból, valószínűleg a 8. század végéről vagy a 9. század elejéről.\n*   A feliratok egy részét nehezen értelmezhető runákkal írták.\n*   A kő pontos helye: Rök, Östergötland megyében.\n*   A feliraton szereplő személyek közé tartozik Valdrand és Herja.\n*   Az egyik lehetséges fordítás a következőképpen hangzik (bár ez csak egy értelmezés): \"Valdrand emlékműve, aki Herjával együtt itt nyugszik. A vikingeket ábrázoló történetek.\"\n*   A Rök-kő jelentősége abban rejlik, hogy értékes információkat nyújt a viking korról, a nyelvtanról és a kultúráról.\n*   További információ: [https://www.smhi.se/en/weather-and-climate/observations/historical-data/rökstenen-1.1203](https://www.smhi.se/en/weather-and-climate/observations/historical-data/rökstenen-1.1203)",
+    "titel": "Röki kő",
     "ingress": "A Rök-kő egy Svédország egyik leghíresebb rúnakője, és a világ legbővebb feliratát tartalmazza, több mint 700 karakterrel. Ez egy fontos történelmi emlék a viking korból, amely régi harcosokról és királyokról szól.",
     "datum": "",
     "kalla": "Samnordisk runtextdatabas (Rundata), Uppsala universitet",
@@ -19813,7 +19831,7 @@
   {
     "id": "runa-u-11",
     "typ": "historia",
-    "titel": "Uppsala régiókörzetének rúnakőfeliratok – 11.\n\n(A következők listája a szövegben szereplő információk alapján nem áll rendelkezésre.)",
+    "titel": "Upplandi rúnafelirat 11",
     "ingress": "A Hovgårds-kő egy régi runafeliratú kő, amely a viking korból származik és az Mälaren-tó partján, Adelsö területén található. A felirat két személyről, Tolirról és Gyláról szól, akik azt akarták, hogy nevüket vésse be a kőbe, ezzel létrehoz",
     "datum": "",
     "kalla": "Samnordisk runtextdatabas (Rundata), Uppsala universitet",
@@ -19869,7 +19887,7 @@
   {
     "id": "runa-dr-360",
     "typ": "historia",
-    "titel": "A Björketorps-kő (Björketorpsstenen) egy fontos régészeti lelet Svédországban.\n\n*   **Leírás:** A kő egy korai viking kori rúnakő.\n*   **Helyszín:** Björkétorp, Småland megyében található.\n*   **Dátum:** Körülbelül 800-900 körül készült.\n*   **Tartalom:** A rúnák egy férfi nevét említik, valószínűleg egy viking harcosról van szó.\n*   **Fontosság:** Fontos információkat nyújt a korai viking korszakról és a vikingek életéről.",
+    "titel": "Björketorpi kő",
     "ingress": "A Björketorps-kő egy nagyon magas és régi rúnakő Blekingében, amely egy varázslatos átkot tartalmaz arra vonatkozóan, aki megrongálja azt.",
     "datum": "",
     "kalla": "Samnordisk runtextdatabas (Rundata), Uppsala universitet",
@@ -21784,7 +21802,7 @@
   {
     "id": "hist-q81130",
     "typ": "historia",
-    "titel": "Anders Celsius\n\n(Név nem változik)",
+    "titel": "Anders Celsius",
     "ingress": "Anders Celsius egy svéd tudós volt, aki leginkább azért ismert, mert ő alkotta meg azt a hőmérsékleti mérési módszert, amelyet ma használunk, azaz a Celsius-skálát.",
     "datum": "",
     "kalla": "Wikipedia",
@@ -22305,7 +22323,7 @@
   {
     "id": "hist-q490870",
     "typ": "historia",
-    "titel": "Anders Chydenius:\n\n(Itt következhetne egy leírás Anders Chydeniusról, de mivel a szöveg hiányos, csak a nevet tudom megadni.)",
+    "titel": "Anders Chydenius",
     "ingress": "Anders Chydenius egy lelkész és író volt, aki azért küzdött, hogy a svédeknek joguk legyen ahhoz, hogy azt írják és nyomtassák, amit akarnak. Ő játszott fontos szerepet az első svéd sajtószabályozó törvény (tryckfrihetslagen) elfogadásában,",
     "datum": "",
     "kalla": "Wikipedia",

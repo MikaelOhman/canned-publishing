@@ -892,7 +892,7 @@
   "gislaved": {
     "etikett": "Gislaveds.",
     "typ": "plats",
-    "antal": 2
+    "antal": 3
   },
   "hagfors": {
     "etikett": "Hagfors.",
@@ -1886,6 +1886,11 @@
   },
   "utbildningsnamndens-pdf-bortredigerad": {
     "etikett": "Document PDF de la commission de l'éducation, version modifiée et épurée.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "samhallsutvecklingsnamndens": {
+    "etikett": "Commission de développement social.",
     "typ": "organisation",
     "antal": 1
   }
