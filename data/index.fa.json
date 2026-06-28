@@ -22966,5 +22966,506 @@
     "sakerhet": "belagt",
     "konsensus": "samsyn",
     "flaggor": []
+  },
+  {
+    "id": "hist-q23810",
+    "typ": "historia",
+    "titel": "آلفرد نوبل",
+    "ingress": "آلفرد نوبل، یک مخترع سوئدی بود که اختراع دینامیت را به نام خود ثبت کرد و بنیاد جایزه نوبل را تأسیس نمود تا از دستاوردهای برجسته در زمینه‌های علم، ادبیات و صلح تقدیر کند.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Alfred_Nobel",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "barn": 3,
+      "konsument": 3,
+      "kultur": 5
+    },
+    "epok": "1800talet",
+    "tid": "d. 1896",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q184535",
+    "typ": "historia",
+    "titel": "صوفیا کووالفسکایا",
+    "ingress": "سوفیا کووالفسکایا، ریاضیدانی روس بود که اولین زن در اروپا شد که عنوان پروفسور را دریافت کرد. او پیشگام زنان در علم بود و دستاوردهای مهمی در زمینه ریاضیات داشت.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Sofja_Kovalevskaja",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "kvinna": 3,
+      "student": 5,
+      "konsument": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1891",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q104884",
+    "typ": "historia",
+    "titel": "کاسپار دیوید فریدریش",
+    "ingress": "کاسپار دیوید فریدریش، هنرمند آلمانی مشهور در قرن نوزدهم، به خاطر نقاشی‌های تأثیرگذاری که از طبیعت و مناظر ارائه می‌داد، شناخته شده است.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Caspar_David_Friedrich",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "kultur": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1840",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q151911",
+    "typ": "historia",
+    "titel": "یونس یعقوب برزلیوس",
+    "ingress": "یونس یعقوب برزلیوس، یک شیمی‌دان سوئدی بسیار مهم بود که به عنوان \"پدر علم شیمی سوئد\" شناخته می‌شود. او عناصر متعددی را کشف کرد و سیستم حروف‌گذاری را ایجاد کرد که امروزه ما از آن برای نوشتن فرمول‌های شیمیایی استفاده می‌کنیم.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Jöns_Jacob_Berzelius",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "pensionar": 3,
+      "student": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1848",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q52925",
+    "typ": "historia",
+    "titel": "کارل پانزدهم.",
+    "ingress": "این متن درباره زندگی پادشاه کارل XV، از دوران کودکی‌اش به عنوان شاهزاده تا زمانی که به پادشاهی هم سوئد و هم نروژ رسید، صحبت می‌کند.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Karl_XV",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "b_vard": 3,
+      "student": 3,
+      "kultur": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1872",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q187258",
+    "typ": "historia",
+    "titel": "آندرس آنگستروم",
+    "ingress": "آندرس آنگستروم، یک محقق برجسته سوئدی در زمینه‌های فیزیک و اخترشناسی در قرن نوزدهم بود. او بیشتر به خاطر بنیان‌گذاری حوزه‌ای که به مطالعه نور می‌پردازد، شناخته می‌شود، همچنین یک دهانه برخوردی (کراتر) و یک واحد اندازه‌گیری نام خود را از او گر",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Anders_Ångström",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "fou": 3,
+      "student": 3,
+      "konsument": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1874",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q52926",
+    "typ": "historia",
+    "titel": "اسکار اول.",
+    "ingress": "این متن درباره زندگی اسکار اول، پادشاه سوئد و نروژ از سال 1844 تا 1859، صحبت می‌کند. در آن به دوران کودکی او در فرانسه، تحصیلاتش در سوئد و نحوه رسیدنش به مقام ولیعهد اشاره شده است.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Oscar_I",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "student": 3,
+      "kultur": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1859",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q231345",
+    "typ": "historia",
+    "titel": "جنی لیند",
+    "ingress": "جنی لیند، یک خواننده اپرا مشهور سوئدی در قرن نوزدهم بود که به شهرت جهانی دست یافت و لقب \"بلبل سوئدی\" را دریافت کرد. او در بسیاری از کشورها تور برگزار کرد و به یک ستاره بزرگ در ایالات متحده تبدیل شد.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Jenny_Lind",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "bolagsskatt": 3,
+      "barn": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1887",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q52928",
+    "typ": "historia",
+    "titel": "کارل سیزدهم",
+    "ingress": "این متن درباره زندگی پادشاه کارلXIII صحبت می‌کند، از دوران او به عنوان یک رهبر نظامی گرفته تا زمانی که به پادشاه سوئد و نروژ تبدیل شد. همچنین توضیح می‌دهد که چگونه او جانشینی برای تاج و تخت انتخاب کرد که آغازگر خاندان سلطنتی کنونی بود.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Karl_XIII",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "barn": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1818",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q153522",
+    "typ": "historia",
+    "titel": "گربرت لئوبرت فون بلوخر",
+    "ingress": "گربرت لبرخت فون بلوخر، یک فرمانده نظامی آلمانی بود که به خاطر پیروزی‌هایش در برابر ناپلئون در اوایل قرن نوزدهم مشهور شد. او بیشتر به خاطر نقش مهمی که در پیروزی نبرد واترلوی داشت، شناخته می‌شود.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Gebhard_Leberecht_von_Blücher",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "epok": "1800talet",
+    "tid": "d. 1819",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q52929",
+    "typ": "historia",
+    "titel": "گوستاو چهارم آدوف.",
+    "ingress": "گوستاو چهارم آدلف، پادشاهی سوئدی بود که از سال 1792 تا 1809 بر کشور حکومت کرد. او در جنگ‌هایی علیه ناپلئون، بخش بزرگی از اراضی سوئد را از دست داد و در نهایت از سلطنت خلع شد.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Gustav_IV_Adolf",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "arbetsmiljo": 3,
+      "barn": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1837",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q312571",
+    "typ": "historia",
+    "titel": "یوهان گادولین.",
+    "ingress": "یوهان گادولین، یک محقق برجسته سوئدی و فنلاندی در زمینه‌های شیمی و فیزیک بود که در قرن‌های ۱۷ و ۱۸ فعالیت داشت. او بیشتر به خاطر کشف عنصر ایتریوم شناخته شده است.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Johan_Gadolin",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "b_industri": 3,
+      "fou": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1852",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q211749",
+    "typ": "historia",
+    "titel": "ملکه دزیدِریا.",
+    "ingress": "ملکه دزیدره، زنی فرانسوی بود که پس از ازدواج با ژان باپتیست برنادوت، به ملکه سوئد و نروژ تبدیل شد.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Drottning_Desideria",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "sambo_gift": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1860",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q15405",
+    "typ": "historia",
+    "titel": "الیاس فریز",
+    "ingress": "الیاس فریس، یک محقق برجسته سوئدی در قرن نوزدهم بود که به خاطر مطالعاتش در زمینه گیاهان، به‌ویژه قارچ‌ها، شناخته شد. او یکی از بنیانگذاران علم مدرن مربوط به قارچ‌ها محسوب می‌شود.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Elias_Fries",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "barn": 3,
+      "student": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1878",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q262145",
+    "typ": "historia",
+    "titel": "فردریکا برمر",
+    "ingress": "فرِدريكا برمر، نویسنده و فعال برجسته در زمینه حقوق زنان در قرن نوزدهم بود. کتاب‌های او باعث شدند که زنان مجرد در سوئد از آزادی و حقوق بیشتری برخوردار شوند.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Fredrika_Bremer",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "barn": 3,
+      "kvinna": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1865",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q229810",
+    "typ": "historia",
+    "titel": "ژوزفینا از لوشتنبرگ.",
+    "ingress": "یوزفینا از لوختنبرگ، یک شاهدخت آلمانی-فرانسوی بود که پس از ازدواج با پادشاه اسکار اول در سال 1844، به ملکه سوئد و نروژ تبدیل شد.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Josefina_av_Leuchtenberg",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "b_it": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1876",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q316381",
+    "typ": "historia",
+    "titel": "کارل یوناس لوو آلکوویست",
+    "ingress": "کارل یوناس لوو آلکوویست، نویسنده، کشیش و معلم مشهور سوئدی بود که در قرن نوزدهم آثار متنوعی خلق کرد. او به خاطر زندگی پر فراز و نشیبش، از جمله سفرهایش به خارج از کشور، و همچنین نوشته‌هایش درباره زندگی روستایی شناخته شد.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Carl_Jonas_Love_Almqvist",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "b_grona": 3,
+      "b_vard": 8,
+      "f_landsbygd": 3,
+      "barn": 3,
+      "student": 3,
+      "glesbygd": 3,
+      "kultur": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1866",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q39658",
+    "typ": "historia",
+    "titel": "کارل پیتر تونبرگ",
+    "ingress": "کارل پیتر تونبرگ، یک محقق سوئدی بود که سفرهای طولانی را برای مطالعه گیاهان و جانوران در آفریقای جنوبی و ژاپن انجام داد. او به عنوان شخصیتی برجسته در علم طبیعت هم در ژاپن و هم در آفریقای جنوبی شناخته شد.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Carl_Peter_Thunberg",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "student": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1828",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q217044",
+    "typ": "historia",
+    "titel": "فرانتس بروالد",
+    "ingress": "فرانتس بروالد، یک موسیقی‌دان و آهنگساز سوئدی بود که در قرن نوزدهم زندگی می‌کرد و همچنین به خاطر اختراع روش‌های جدیدی در زمینه فیزیوتراپی شناخته شد. یک سالن کنسرت در استکهلم به نام او نامگذاری شده است.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Franz_Berwald",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "b_kultur": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1868",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q365923",
+    "typ": "historia",
+    "titel": "اریک آشاروس",
+    "ingress": "اریک آشاروس، یک پزشک و محقق سوئدی بود که به خاطر مطالعاتش در زمینه خزه ها مشهور شد. او به عنوان یکی از مهمترین شخصیت‌ها در تاریخ مطالعه این گیاهان شناخته می‌شود.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Erik_Acharius",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "fou": 3,
+      "kronisk": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1819",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q236208",
+    "typ": "historia",
+    "titel": "هداویگ الیزابت شارلوت از هولشتاین-گوتروپ.",
+    "ingress": "این متن درباره ملکه شارلوتا است، زنی که به خاطر شخصیت پرجنب و جوشش و دفتر خاطرات مهمش شناخته شده بود. نوشته‌های او امروزه دریچه‌ای منحصر به فرد را به ما نشان می‌دهند از اینکه زندگی در دربار سلطنتی در گذشته چگونه بود.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Hedvig_Elisabet_Charlotta_av_Holstein-Gottorp",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "epok": "1800talet",
+    "tid": "d. 1818",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
   }
 ]

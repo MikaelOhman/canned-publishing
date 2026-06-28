@@ -23015,5 +23015,506 @@
     "sakerhet": "belagt",
     "konsensus": "samsyn",
     "flaggor": []
+  },
+  {
+    "id": "hist-q23810",
+    "typ": "historia",
+    "titel": "Alfred Nobel",
+    "ingress": "Alfred Nobel a fost un inventator suedez care a creat dinamita și a înființat Premiul Nobel pentru a onora excelența în știință, literatură și promovarea păcii.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Alfred_Nobel",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "barn": 3,
+      "konsument": 3,
+      "kultur": 5
+    },
+    "epok": "1800talet",
+    "tid": "d. 1896",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q184535",
+    "typ": "historia",
+    "titel": "Sofja Kovalevskaja.",
+    "ingress": "Sofia Kovalevskaya a fost o matematiciană rusă, care a devenit prima femeie din Europa care a obținut titlul de profesor. Ea a fost un pionier pentru femei în domeniul științei și a făcut descoperiri importante în matematică.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Sofja_Kovalevskaja",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "kvinna": 3,
+      "student": 5,
+      "konsument": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1891",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q104884",
+    "typ": "historia",
+    "titel": "Caspar David Friedrich",
+    "ingress": "Caspar David Friedrich a fost un artist german foarte cunoscut în secolul al XIX-lea, renumit pentru picturile sale dramatice care surprind natura și peisajele.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Caspar_David_Friedrich",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "kultur": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1840",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q151911",
+    "typ": "historia",
+    "titel": "Jöns Jacob Berzelius.",
+    "ingress": "Jöns Jacob Berzelius a fost un chimist suedez extrem de important, considerat \"părintele chimiei suedeze\". El a descoperit mai multe elemente și a creat sistemul de simboluri alfabetic pe care îl folosim și astăzi pentru a scrie formulele c",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Jöns_Jacob_Berzelius",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "pensionar": 3,
+      "student": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1848",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q52925",
+    "typ": "historia",
+    "titel": "Karl al XV-lea.",
+    "ingress": "Textul descrie viața regelui Carol al XV-lea, de la copilăria sa ca prinț până când a devenit rege atât al Suediei, cât și al Norvegiei.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Karl_XV",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "b_vard": 3,
+      "student": 3,
+      "kultur": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1872",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q187258",
+    "typ": "historia",
+    "titel": "Anders Ångström.",
+    "ingress": "Anders Ångström a fost un cercetător suedez important în domeniile fizicii și astronomiei în secolul al XIX-lea. Este cel mai bine cunoscut pentru că a fondat un domeniu de studiu care investighează lumina, iar o lună și o unitate de măsură",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Anders_Ångström",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "fou": 3,
+      "student": 3,
+      "konsument": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1874",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q52926",
+    "typ": "historia",
+    "titel": "Oscar I.",
+    "ingress": "Textul descrie viața lui Oscar I, care a fost rege al Suediei și al Norvegiei între 1844 și 1859. Acesta prezintă copilăria sa petrecută în Franța, educația primită în Suedia și modul în care a devenit moștenitor al tronului.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Oscar_I",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "student": 3,
+      "kultur": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1859",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q231345",
+    "typ": "historia",
+    "titel": "Jenny Lind",
+    "ingress": "Jenny Lind a fost o cântăreață de operă suedeză renumită în secolul al XIX-lea, care a devenit celebru la nivel mondial și a primit porecla de \"privighetoarea suedeză\". A turneat în multe țări și a devenit o vedetă importantă în Statele Uni",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Jenny_Lind",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "bolagsskatt": 3,
+      "barn": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1887",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q52928",
+    "typ": "historia",
+    "titel": "Karl al XIII-lea",
+    "ingress": "Textul relatează despre viața regelui Carl al XIII-lea, de la perioada sa ca lider militar până când a devenit rege al Suediei și al Norvegiei. De asemenea, explică modul în care el a ales un nou succesor la tron, dând naștere familiei rega",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Karl_XIII",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "barn": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1818",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q153522",
+    "typ": "historia",
+    "titel": "Gebhard Leberecht von Blücher.",
+    "ingress": "Gebhard Leberecht von Blücher a fost un lider militar german, cunoscut pentru victoriile sale împotriva lui Napoleon la începutul secolului al XIX-lea. Este cel mai bine cunoscut pentru rolul său crucial în victoria de la Waterloo.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Gebhard_Leberecht_von_Blücher",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "epok": "1800talet",
+    "tid": "d. 1819",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q52929",
+    "typ": "historia",
+    "titel": "Gustav al IV-lea Adolf.",
+    "ingress": "Gustav al IV-lea a fost regele Suediei, conducând țara între anii 1792 și 1809. El a pierdut o parte semnificativă din teritoriile Suediei în războaiele cu Napoleon și, în cele din urmă, a fost destituit de pe tron.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Gustav_IV_Adolf",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "arbetsmiljo": 3,
+      "barn": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1837",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q312571",
+    "typ": "historia",
+    "titel": "Johan Gadolin",
+    "ingress": "Johan Gadolin a fost un cercetător suedez și finlandez important în domeniile chimiei și fizicii, activ în secolele al XVIII-lea și al XIX-lea. Este cel mai bine cunoscut pentru descoperirea elementului ytriu.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Johan_Gadolin",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "b_industri": 3,
+      "fou": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1852",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q211749",
+    "typ": "historia",
+    "titel": "Regina Desideria.",
+    "ingress": "Desideria a fost o femeie franceză care a devenit regina Suediei și a Norvegiei după ce s-a căsătorit cu Jean-Baptiste Bernadotte.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Drottning_Desideria",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "sambo_gift": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1860",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q15405",
+    "typ": "historia",
+    "titel": "Elias Fries",
+    "ingress": "Elias Fries a fost un cercetător suedez important din secolul al XIX-lea, cunoscut pentru studiile sale despre plante, în special despre ciuperci. Este considerat unul dintre fondatorii științei moderne a micologiei (studiul ciupercilor).",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Elias_Fries",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "barn": 3,
+      "student": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1878",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q262145",
+    "typ": "historia",
+    "titel": "Fredrika Bremer",
+    "ingress": "Fredrika Bremer a fost o scriitoare importantă și o luptătoare pentru drepturile femeilor în secolul al XIX-lea. Cărțile ei au contribuit la faptul că femeile necăsătorite din Suedia au dobândit mai multă libertate și drepturi.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Fredrika_Bremer",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "barn": 3,
+      "kvinna": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1865",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q229810",
+    "typ": "historia",
+    "titel": "Josefina de Leuchtenberg.",
+    "ingress": "Josefina de Leuchtenberg a fost o prințesă germano-franceză, care a devenit regină a Suediei și a Norvegiei după ce s-a căsătorit cu regele Oscar I în anul 1844.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Josefina_av_Leuchtenberg",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "b_it": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1876",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q316381",
+    "typ": "historia",
+    "titel": "Carl Jonas Love Almqvist.",
+    "ingress": "Carl Jonas Love Almqvist a fost un scriitor, preot și profesor suedez renumit din secolul al XIX-lea, care a scris o literatură foarte variată. A devenit cunoscut pentru viața sa tumultoasă, cu călătorii în străinătate, și pentru textele sa",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Carl_Jonas_Love_Almqvist",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "b_grona": 3,
+      "b_vard": 8,
+      "f_landsbygd": 3,
+      "barn": 3,
+      "student": 3,
+      "glesbygd": 3,
+      "kultur": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1866",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q39658",
+    "typ": "historia",
+    "titel": "Carl Peter Thunberg.",
+    "ingress": "Carl Peter Thunberg a fost un cercetător suedez care a călătorit mult pentru a studia plantele și animalele din Africa de Sud și Japonia. A devenit cunoscut ca o persoană importantă pentru știința naturii atât în Japonia, cât și în Africa d",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Carl_Peter_Thunberg",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "student": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1828",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q217044",
+    "typ": "historia",
+    "titel": "Franz Berwald",
+    "ingress": "Franz Berwald a fost un muzician și compozitor suedez din secolul al XIX-lea, care a devenit cunoscut și pentru inventarea unor noi metode de kinetoterapie. O sală de concerte din Stockholm îi poartă numele.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Franz_Berwald",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "b_kultur": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1868",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q365923",
+    "typ": "historia",
+    "titel": "Erik Acharius",
+    "ingress": "Erik Acharius a fost un medic și cercetător suedez, cunoscut pentru studiile sale despre licheni. Este considerat una dintre persoanele cele mai importante din istorie în ceea ce privește studiul acestor plante.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Erik_Acharius",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "fou": 3,
+      "kronisk": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1819",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q236208",
+    "typ": "historia",
+    "titel": "Hedvig Elisabet Charlotta de Holstein-Gottorp.",
+    "ingress": "Textul prezintă regina Charlotte, o femeie cunoscută pentru personalitatea ei vibrantă și jurnalul său important. Scrierile sale ne oferă astăzi o perspectivă unică asupra modului în care era viața la curtea regală în trecut.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Hedvig_Elisabet_Charlotta_av_Holstein-Gottorp",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "epok": "1800talet",
+    "tid": "d. 1818",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
   }
 ]

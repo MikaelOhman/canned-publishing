@@ -23244,5 +23244,506 @@
     "sakerhet": "belagt",
     "konsensus": "samsyn",
     "flaggor": []
+  },
+  {
+    "id": "hist-q23810",
+    "typ": "historia",
+    "titel": "Alfred Nobel",
+    "ingress": "Alfred Nobel was a Swedish inventor who created dynamite and established the Nobel Prize to honor achievements in science, literature, and peace.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Alfred_Nobel",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "barn": 3,
+      "konsument": 3,
+      "kultur": 5
+    },
+    "epok": "1800talet",
+    "tid": "d. 1896",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q184535",
+    "typ": "historia",
+    "titel": "Sofja Kovalevskaja:",
+    "ingress": "Sofia Kovalevskaya was a Russian mathematician who became the first woman in Europe to earn the title of professor. She was a pioneer for women in science and made significant discoveries in mathematics.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Sofja_Kovalevskaja",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "kvinna": 3,
+      "student": 5,
+      "konsument": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1891",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q104884",
+    "typ": "historia",
+    "titel": "Caspar David Friedrich",
+    "ingress": "Caspar David Friedrich was a highly renowned German artist of the 19th century, celebrated for his dramatic paintings depicting nature and landscapes.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Caspar_David_Friedrich",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "kultur": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1840",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q151911",
+    "typ": "historia",
+    "titel": "Jöns Jacob Berzelius.",
+    "ingress": "Jöns Jacob Berzelius was a highly significant Swedish chemist, often referred to as the \"father of Swedish chemistry.\" He discovered several chemical elements and developed the system of using letters that we still use today to write chemic",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Jöns_Jacob_Berzelius",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "pensionar": 3,
+      "student": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1848",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q52925",
+    "typ": "historia",
+    "titel": "Charles XV",
+    "ingress": "The text describes the life of King Charles XV, from his upbringing as a prince to his ascension to the throne of both Sweden and Norway.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Karl_XV",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "b_vard": 3,
+      "student": 3,
+      "kultur": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1872",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q187258",
+    "typ": "historia",
+    "titel": "Anders Ångström.",
+    "ingress": "Anders Ångström was a significant Swedish researcher in physics and astronomy during the 19th century. He is best known for establishing a field of study focused on light, and for having a lunar crater and a unit of measurement named after",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Anders_Ångström",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "fou": 3,
+      "student": 3,
+      "konsument": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1874",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q52926",
+    "typ": "historia",
+    "titel": "Oscar I.",
+    "ingress": "The text describes the life of Oscar I, who was King of Sweden and Norway from 1844 to 1859. It details his upbringing in France, his education in Sweden, and how he became Crown Prince.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Oscar_I",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "student": 3,
+      "kultur": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1859",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q231345",
+    "typ": "historia",
+    "titel": "Jenny Lind.",
+    "ingress": "Jenny Lind was a renowned Swedish opera singer in the 19th century who became world-famous and earned the nickname \"the Swedish nightingale.\" She toured many countries and became a major star in the United States.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Jenny_Lind",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "bolagsskatt": 3,
+      "barn": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1887",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q52928",
+    "typ": "historia",
+    "titel": "Karl XIII was a Swedish king.",
+    "ingress": "The text describes the life of King Charles XIII, from his time as a military leader to his ascension to the throne of Sweden and Norway. It also explains how he chose a successor who became the founder of the current royal family.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Karl_XIII",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "barn": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1818",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q153522",
+    "typ": "historia",
+    "titel": "Gebhard Leberecht von Blücher.",
+    "ingress": "Gebhard Leberecht von Blücher was a German military leader who became famous for his victories against Napoleon in the early 19th century. He is best known for his crucial role in the victory at Waterloo.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Gebhard_Leberecht_von_Blücher",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "epok": "1800talet",
+    "tid": "d. 1819",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q52929",
+    "typ": "historia",
+    "titel": "Gustav IV Adolph.",
+    "ingress": "Gustav IV Adolph was a Swedish king who ruled the country between 1792 and 1809. He lost significant portions of Sweden's territory in wars against Napoleon, and he was eventually deposed from his throne.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Gustav_IV_Adolf",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "arbetsmiljo": 3,
+      "barn": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1837",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q312571",
+    "typ": "historia",
+    "titel": "Johan Gadolin.",
+    "ingress": "Johan Gadolin was a significant Swedish and Finnish researcher in the fields of chemistry and physics during the 18th and 19th centuries. He is best known for discovering the element yttrium.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Johan_Gadolin",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "b_industri": 3,
+      "fou": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1852",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q211749",
+    "typ": "historia",
+    "titel": "Queen Desideria.",
+    "ingress": "Queen Désirée was a French woman who became Queen of Sweden and Norway after she married Jean-Baptiste Bernadotte.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Drottning_Desideria",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "sambo_gift": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1860",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q15405",
+    "typ": "historia",
+    "titel": "Elias Fries.",
+    "ingress": "Elias Fries was a significant Swedish researcher during the 19th century, renowned for his studies of plants, particularly fungi. He is considered one of the founders of modern mycology (the scientific study of fungi).",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Elias_Fries",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "barn": 3,
+      "student": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1878",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q262145",
+    "typ": "historia",
+    "titel": "Fredrika Bremer",
+    "ingress": "Fredrika Bremer was a significant author and advocate for women's rights during the 19th century. Her books helped to grant unmarried women in Sweden greater freedom and rights.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Fredrika_Bremer",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "barn": 3,
+      "kvinna": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1865",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q229810",
+    "typ": "historia",
+    "titel": "Josephine of Leuchtenberg.",
+    "ingress": "Josefina of Leuchtenberg was a German-French princess who became Queen of Sweden and Norway after marrying King Oscar I in 1844.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Josefina_av_Leuchtenberg",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "b_it": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1876",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q316381",
+    "typ": "historia",
+    "titel": "Carl Jonas Love Almqvist.",
+    "ingress": "Carl Jonas Love Almqvist was a well-known Swedish author, priest, and teacher during the 19th century who wrote a wide variety of literature. He became famous for his dramatic life, which included travels abroad, and for his writings about",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Carl_Jonas_Love_Almqvist",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "b_grona": 3,
+      "b_vard": 8,
+      "f_landsbygd": 3,
+      "barn": 3,
+      "student": 3,
+      "glesbygd": 3,
+      "kultur": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1866",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q39658",
+    "typ": "historia",
+    "titel": "Carl Peter Thunberg.",
+    "ingress": "Carl Peter Thunberg was a Swedish researcher who traveled extensively to study plants and animals in South Africa and Japan. He became known as an important figure in both Japanese and South African natural science.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Carl_Peter_Thunberg",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "student": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1828",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q217044",
+    "typ": "historia",
+    "titel": "Franz Berwald",
+    "ingress": "Franz Berwald was a Swedish musician and composer from the 19th century who also became known for inventing new methods of physiotherapy. A concert hall in Stockholm is named after him.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Franz_Berwald",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "b_kultur": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1868",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q365923",
+    "typ": "historia",
+    "titel": "Erik Acharius.",
+    "ingress": "Erik Acharius was a Swedish physician and researcher who became renowned for his studies of lichens. He is considered one of the most important figures in the history of lichen research.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Erik_Acharius",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "fou": 3,
+      "kronisk": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1819",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q236208",
+    "typ": "historia",
+    "titel": "Hedwig Elisabeth Charlotte of Holstein-Gottorp.",
+    "ingress": "The text is about Queen Charlotte, a woman known for her vibrant personality and important diary. Her writings offer us today a unique glimpse into what life was like at the royal court in the past.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Hedvig_Elisabet_Charlotta_av_Holstein-Gottorp",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "epok": "1800talet",
+    "tid": "d. 1818",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
   }
 ]

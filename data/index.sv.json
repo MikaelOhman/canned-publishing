@@ -13134,6 +13134,31 @@
     }
   },
   {
+    "id": "stockholm-kommunfullmaktige-2025-11-19",
+    "typ": "kommunbeslut",
+    "titel": "Kommunfullmäktige, Stockholms stad 2025-11-19",
+    "ingress": "Stockholms stad har beslutat om sin budget för år 2026 och planerna för åren 2027 och 2028. Beslutet innebär att staden får pengar och riktlinjer för att driva skolor, omsorg, kultur och andra viktiga verksamheter.",
+    "datum": "2025-11-19",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunfullmaktige/mote-2025-11-19",
+    "taggar": [
+      "stockholm",
+      "kommunfullmaktige",
+      "kommunalpolitik",
+      "budget"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_vard": 3,
+      "b_fastighet": 3,
+      "b_kultur": 3,
+      "barn": 5,
+      "pensionar": 3,
+      "kronisk": 3,
+      "kultur": 3
+    }
+  },
+  {
     "id": "HD0358",
     "typ": "lagforslag",
     "titel": "Riksrevisionens rapport om socialförsäkringsskyddet vid internationell rörlighet",
@@ -13287,6 +13312,31 @@
       "pendlare": 3,
       "miljo": 4,
       "b_energi": 4
+    }
+  },
+  {
+    "id": "stockholm-kommunfullmaktige-2025-11-18",
+    "typ": "kommunbeslut",
+    "titel": "Kommunfullmäktige, Stockholms stad 2025-11-18",
+    "ingress": "Stockholms stad har diskuterat och tagit beslut om sin budget för år 2026 samt planerna för åren 2027 och 2028. Besluten rör bland annat hur pengar ska användas för miljö, idrott, byggprojekt och omsorg.",
+    "datum": "2025-11-18",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunfullmaktige/mote-2025-11-18",
+    "taggar": [
+      "stockholm",
+      "kommunfullmaktige",
+      "kommunalpolitik",
+      "budget",
+      "skola"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_bygg": 3,
+      "b_vard": 3,
+      "barn": 3,
+      "konsument": 3,
+      "idrott": 3,
+      "klimat": 3
     }
   },
   {
@@ -23262,6 +23312,973 @@
     },
     "epok": "frihetstiden",
     "tid": "d. 1765",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q23810",
+    "typ": "historia",
+    "titel": "Alfred Nobel",
+    "ingress": "Alfred Nobel var en svensk uppfinnare som skapade dynamit och grundade Nobelpriset för att hylla vetenskap, litteratur och fred.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Alfred_Nobel",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "barn": 3,
+      "konsument": 3,
+      "kultur": 5
+    },
+    "epok": "1800talet",
+    "tid": "d. 1896",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q184535",
+    "typ": "historia",
+    "titel": "Sofja Kovalevskaja",
+    "ingress": "Sofja Kovalevskaja var en rysk matematiker som blev den första kvinnan i Europa att få titeln professor. Hon var en pionjär för kvinnor inom vetenskap och gjorde viktiga upptäckter inom matematik.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Sofja_Kovalevskaja",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "kvinna": 3,
+      "student": 5,
+      "konsument": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1891",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q104884",
+    "typ": "historia",
+    "titel": "Caspar David Friedrich",
+    "ingress": "Caspar David Friedrich var en mycket känd tysk konstnär under 1800-talet som är känd för sina dramatiska målningar av natur och landskap.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Caspar_David_Friedrich",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "kultur": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1840",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q151911",
+    "typ": "historia",
+    "titel": "Jöns Jacob Berzelius",
+    "ingress": "Jöns Jacob Berzelius var en mycket viktig svensk kemist som kallas för den svenska kemins fader. Han upptäckte flera grundämnen och skapade det system med bokstäver som vi än idag använder för att skriva kemiska formler.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Jöns_Jacob_Berzelius",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "pensionar": 3,
+      "student": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1848",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q52925",
+    "typ": "historia",
+    "titel": "Karl XV",
+    "ingress": "Texten berättar om kung Karl XV:s liv, från hans uppväxt som prins till att han blev kung över både Sverige och Norge.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Karl_XV",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "b_vard": 3,
+      "student": 3,
+      "kultur": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1872",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q187258",
+    "typ": "historia",
+    "titel": "Anders Ångström",
+    "ingress": "Anders Ångström var en viktig svensk forskare inom fysik och astronomi på 1800-talet. Han är mest känd för att ha grundat ett område som studerar ljus och för att en måndal och en måttenhet har fått hans namn.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Anders_Ångström",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "fou": 3,
+      "student": 3,
+      "konsument": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1874",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q52926",
+    "typ": "historia",
+    "titel": "Oscar I",
+    "ingress": "Texten berättar om livet för Oscar I, som var kung av Sverige och Norge mellan 1844 och 1859. Den beskriver hans uppväxt i Frankrike, hans utbildning i Sverige och hur han blev kronprins.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Oscar_I",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "student": 3,
+      "kultur": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1859",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q231345",
+    "typ": "historia",
+    "titel": "Jenny Lind",
+    "ingress": "Jenny Lind var en känd svensk operasångerska på 1800-talet som blev världsberömd och fick smeknamnet 'den svenska näktergalen'. Hon turnerade i många länder och blev en stor stjärna i USA.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Jenny_Lind",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "bolagsskatt": 3,
+      "barn": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1887",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q52928",
+    "typ": "historia",
+    "titel": "Karl XIII",
+    "ingress": "Texten berättar om kung Karl XIII:s liv, från hans tid som militär ledare till att han blev kung av Sverige och Norge. Den förklarar också hur han valde en ny tronföljare som startade den nuvarande kungafamiljen.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Karl_XIII",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "barn": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1818",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q153522",
+    "typ": "historia",
+    "titel": "Gebhard Leberecht von Blücher",
+    "ingress": "Gebhard Leberecht von Blücher var en tysk militärledare som blev känd för sina segrar mot Napoleon under början av 1800-talet. Han är mest känd för sin viktiga roll i segern vid Waterloo.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Gebhard_Leberecht_von_Blücher",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "epok": "1800talet",
+    "tid": "d. 1819",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q52929",
+    "typ": "historia",
+    "titel": "Gustav IV Adolf",
+    "ingress": "Gustav IV Adolf var en svensk kung som styrde landet mellan 1792 och 1809. Han förlorade stora delar av Sveriges landområden i krig mot Napoleon och blev till slut avsatt från sin tron.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Gustav_IV_Adolf",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "arbetsmiljo": 3,
+      "barn": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1837",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q312571",
+    "typ": "historia",
+    "titel": "Johan Gadolin",
+    "ingress": "Johan Gadolin var en viktig svensk och finländsk forskare inom kemi och fysik på 1700- och 1800-talet. Han är mest känd för att ha upptäckt grundämnet yttrium.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Johan_Gadolin",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "b_industri": 3,
+      "fou": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1852",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q211749",
+    "typ": "historia",
+    "titel": "Drottning Desideria",
+    "ingress": "Drottning Desideria var en fransk kvinna som blev drottning av Sverige och Norge efter att hon gifte sig med Jean Baptiste Bernadotte.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Drottning_Desideria",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "sambo_gift": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1860",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q15405",
+    "typ": "historia",
+    "titel": "Elias Fries",
+    "ingress": "Elias Fries var en viktig svensk forskare under 1800-talet som blev känd för sina studier av växter och särskilt svampar. Han räknas som en av grundarna av den moderna vetenskapen kring svampar.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Elias_Fries",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "barn": 3,
+      "student": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1878",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q262145",
+    "typ": "historia",
+    "titel": "Fredrika Bremer",
+    "ingress": "Fredrika Bremer var en viktig författare och kämpe för kvinnors rättigheter under 1800-talet. Hennes böcker ledde till att ogifta kvinnor i Sverige fick större frihet och rättigheter.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Fredrika_Bremer",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "barn": 3,
+      "kvinna": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1865",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q229810",
+    "typ": "historia",
+    "titel": "Josefina av Leuchtenberg",
+    "ingress": "Josefina av Leuchtenberg var en tysk-fransk prinsessa som blev drottning av Sverige och Norge efter att ha gift sig med kung Oscar I år 1844.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Josefina_av_Leuchtenberg",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "b_it": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1876",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q316381",
+    "typ": "historia",
+    "titel": "Carl Jonas Love Almqvist",
+    "ingress": "Carl Jonas Love Almqvist var en känd svensk författare, präst och lärare under 1800-talet som skrev mycket varierad litteratur. Han blev känd för sitt dramatiska liv med resor till utlandet och sina texter om livet på landsbygden.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Carl_Jonas_Love_Almqvist",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "b_grona": 3,
+      "b_vard": 8,
+      "f_landsbygd": 3,
+      "barn": 3,
+      "student": 3,
+      "glesbygd": 3,
+      "kultur": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1866",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q39658",
+    "typ": "historia",
+    "titel": "Carl Peter Thunberg",
+    "ingress": "Carl Peter Thunberg var en svensk forskare som reste långt för att studera växter och djur i Sydafrika och Japan. Han blev känd som en viktig person för både den japanska och sydafrikanska naturens vetenskap.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Carl_Peter_Thunberg",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "student": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1828",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q217044",
+    "typ": "historia",
+    "titel": "Franz Berwald",
+    "ingress": "Franz Berwald var en svensk musiker och kompositör på 1800-talet som också blev känd för att uppfinna nya metoder för sjukgymnastik. Ett konserthus i Stockholm är döpt efter honom.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Franz_Berwald",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "b_kultur": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1868",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q236208",
+    "typ": "historia",
+    "titel": "Hedvig Elisabet Charlotta av Holstein-Gottorp",
+    "ingress": "Texten handlar om drottning Charlotta, en kvinna som var känd för sin livliga personlighet och sin viktiga dagbok. Hennes skrifter ger oss idag en unik inblick i hur livet vid det kungliga hovet såg ut förr.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Hedvig_Elisabet_Charlotta_av_Holstein-Gottorp",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "epok": "1800talet",
+    "tid": "d. 1818",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q234241",
+    "typ": "historia",
+    "titel": "Fredrika av Baden",
+    "ingress": "Fredrika av Baden var Sveriges drottning mellan 1797 och 1809. Hon blev avsatt som drottning efter ett krig och tvingades lämna Sverige med sina barn.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Fredrika_av_Baden",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "barn": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1826",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q313568",
+    "typ": "historia",
+    "titel": "Johan August Arfwedson",
+    "ingress": "Johan August Arfwedson var en svensk kemist som blev känd för att upptäcka grundämnet litium under 1800-talet.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Johan_August_Arfwedson",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "b_industri": 5,
+      "student": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1841",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q345654",
+    "typ": "historia",
+    "titel": "Carl Adolph Agardh",
+    "ingress": "Carl Adolph Agardh var en svensk forskare och biskop på 1800-talet som blev känd för sin stora forskning om växter, särskilt alger.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Carl_Adolph_Agardh",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "b_it": 3,
+      "fou": 3,
+      "student": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1859",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q234311",
+    "typ": "historia",
+    "titel": "Sofia Magdalena av Danmark",
+    "ingress": "Sofia Magdalena var en dansk prinsessa som blev drottning av Sverige efter att hon gifte sig med kung Gustav III. Hon växte upp i Danmark och blev drottning under en tid av politiska spänningar mellan de två länderna.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Sofia_Magdalena_av_Danmark",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "b_vard": 3,
+      "b_kultur": 3,
+      "sambo_gift": 3,
+      "husdjur": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1813",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q526915",
+    "typ": "historia",
+    "titel": "Prinsessan Eugénie av Sverige och Norge",
+    "ingress": "Prinsessan Eugénie var en svensk prinsessa på 1800-talet som var känd för sin konst, musik och sitt arbete för att hjälpa sjuka barn.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Prinsessan_Eugénie_av_Sverige_och_Norge",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_kultur": 3,
+      "barn": 3,
+      "kvinna": 3,
+      "kultur": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1889",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q353490",
+    "typ": "historia",
+    "titel": "Johan Gottlieb Gahn",
+    "ingress": "Johan Gottlieb Gahn var en svensk forskare som gjorde viktiga upptäckter inom kemi och mineraler på 1700-talet. Han var en viktig person i vetenskapen, även om han sällan skrev ner sina egna resultat.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Johan_Gottlieb_Gahn",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "epok": "1800talet",
+    "tid": "d. 1818",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q350420",
+    "typ": "historia",
+    "titel": "Salomon August Andrée",
+    "ingress": "S.A. Andrée var en svensk uppfinnare och forskare som blev känd för sitt misslyckade försök att nå Nordpolen med en luftballong år 1897. Han och hans två följeslagare dog på isen, och deras dagböcker hittades först 33 år senare.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Salomon_August_Andrée",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "b_transport": 3,
+      "b_kultur": 3,
+      "immaterialratt": 3,
+      "flygresenar": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1897",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q468303",
+    "typ": "historia",
+    "titel": "Anders Gustaf Ekeberg",
+    "ingress": "Anders Gustaf Ekeberg var en svensk kemist på 1700-talet som upptäckte grundämnet tantal och hjälpte till att ge svenska namn åt ämnen som syre, väte och kväve.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Anders_Gustaf_Ekeberg",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "fou": 3,
+      "student": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1813",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q468316",
+    "typ": "historia",
+    "titel": "Carl Gustaf Mosander",
+    "ingress": "Carl Gustaf Mosander var en svensk kemist och lärare under 1800-talet. Han är mest känd för att ha upptäckt flera nya grundämnen genom sin forskning.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Carl_Gustaf_Mosander",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "miljo": 3,
+      "fou": 3,
+      "student": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1858",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q444538",
+    "typ": "historia",
+    "titel": "Per Daniel Amadeus Atterbom",
+    "ingress": "Per Daniel Amadeus Atterbom var en känd svensk författare, lärare och professor under 1800-talet. Han är mest känd för sina känslosamma dikter och för att han introducerade nya, fantasifulla stilar i den svenska litteraturen.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Per_Daniel_Amadeus_Atterbom",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "barn": 3,
+      "student": 3,
+      "klimat": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1855",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q432129",
+    "typ": "historia",
+    "titel": "Viktor Rydberg",
+    "ingress": "Viktor Rydberg var en mycket viktig svensk författare och poet under 1800-talet. Han är känd för sina dikter, översättningar av utländska böcker och för att ha varit medlem i Svenska Akademien.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Viktor_Rydberg",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "ung": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1895",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q77103",
+    "typ": "historia",
+    "titel": "Carl Ludvig Engel",
+    "ingress": "Carl Ludvig Engel var en tysk arkitekt som ritade många av de viktigaste byggnaderna i Helsingfors under 1800-talet. Han hjälpte till att göra staden till en fin huvudstad genom sin speciella stil och sina planer för flera andra städer.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Carl_Ludvig_Engel",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "student": 3,
+      "klimat": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1840",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q435781",
+    "typ": "historia",
+    "titel": "Carl J. Sundevall",
+    "ingress": "Carl Jacob Sundevall var en svensk forskare som studerade djur, särskilt fåglar. Han arbetade på ett stort naturhistoriskt museum och skrev flera viktiga böcker om hur djur är besläktade.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Carl_J._Sundevall",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "student": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1875",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q241254",
+    "typ": "historia",
+    "titel": "Sofia av Sverige",
+    "ingress": "Det finns många olika kvinnor i historien som har burit namnet Sofia av Sverige. Bland dem finns både gamla drottningar, prinsessor och den nuvarande prinsessan Sofia.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Sofia_av_Sverige",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "kvinna": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1865",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q632088",
+    "typ": "historia",
+    "titel": "Olof Swartz",
+    "ingress": "Olof Swartz var en mycket kunnig svensk naturforskare och expert på växter under 1700-talet. Han reste mycket i världen för att studera naturen och är känd för sina viktiga böcker om bland annat mossor, svampar och ormbunkar.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Olof_Swartz",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "fou": 3,
+      "student": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1817",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q380937",
+    "typ": "historia",
+    "titel": "Erik Gustaf Geijer",
+    "ingress": "Erik Gustaf Geijer var en mycket viktig svensk författare, historiker och lärare under 1800-talet. Han hjälpte till att forma svenska idéer om historia, politik och kultur.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Erik_Gustaf_Geijer",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "b_kultur": 5,
+      "student": 3,
+      "kultur": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1847",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q472635",
+    "typ": "historia",
+    "titel": "Gustav av Wasa",
+    "ingress": "Gustav av Wasa var en svensk prins som förlorade sin rätt till tronen efter att hans far störtts i en statskupp 1809. Han levde resten av sitt liv i utlandet, främst i Österrike, där han blev adelsman och militär.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Gustav_av_Wasa",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "b_vard": 3,
+      "sambo_gift": 3,
+      "skild": 3,
+      "jagare": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1877",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q435290",
+    "typ": "historia",
+    "titel": "John Ericsson",
+    "ingress": "John Ericsson var en svensk uppfinnare som blev världsberömd för sina tekniska nyheter, bland annat den första fungerande propellern och konstruktionen av ett känt krigsfartyg.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/John_Ericsson",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "barn": 3,
+      "kultur": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1889",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q4346827",
+    "typ": "historia",
+    "titel": "Sophie Adlersparre",
+    "ingress": "Sophie Adlersparre var en viktig person i den tidiga svenska kvinnorörelsen på 1800-talet. Hon startade tidskrifter, grundade föreningar och kämpade för att förbättra kvinnors rättigheter och utbildning.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Sophie_Adlersparre",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "barn": 5,
+      "kvinna": 3,
+      "kronisk": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1895",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q365923",
+    "typ": "historia",
+    "titel": "Erik Acharius",
+    "ingress": "Erik Acharius var en svensk läkare och forskare som blev känd för sina studier av lavar. Han räknas som en av de viktigaste personerna i historien när det gäller att studera dessa växter.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Erik_Acharius",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "fou": 3,
+      "kronisk": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1819",
     "kallage": "samtida",
     "sakerhet": "belagt",
     "konsensus": "samsyn",

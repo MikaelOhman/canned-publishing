@@ -357,7 +357,7 @@
   "stockholm": {
     "etikett": "Stockholms",
     "typ": "plats",
-    "antal": 18
+    "antal": 20
   },
   "kommunstyrelsen": {
     "etikett": "Kommunstyrelsen",
@@ -377,7 +377,7 @@
   "kommunfullmaktige": {
     "etikett": "Kommunfullmäktige",
     "typ": "organisation",
-    "antal": 100
+    "antal": 102
   },
   "kommunpolitik": {
     "etikett": "Kommunpolitik",
@@ -447,7 +447,7 @@
   "budget": {
     "etikett": "Budget",
     "typ": "ämne",
-    "antal": 1
+    "antal": 3
   },
   "bollebygd": {
     "etikett": "Bollebygds",
@@ -472,7 +472,7 @@
   "kommunalpolitik": {
     "etikett": "Kommunalpolitik",
     "typ": "ämne",
-    "antal": 10
+    "antal": 12
   },
   "umea": {
     "etikett": "Umeå",
@@ -1837,7 +1837,7 @@
   "svensk-historia": {
     "etikett": "Svensk historia",
     "typ": "ämne",
-    "antal": 200
+    "antal": 241
   },
   "vikingatid": {
     "etikett": "Vikingatiden",
@@ -1887,7 +1887,7 @@
   "1800talet": {
     "etikett": "1800-talet",
     "typ": "epok",
-    "antal": 1
+    "antal": 42
   },
   "1900talet": {
     "etikett": "1900-talet",
@@ -1967,7 +1967,7 @@
   "historisk-person": {
     "etikett": "Historisk person",
     "typ": "ämne",
-    "antal": 164
+    "antal": 205
   },
   "runinskrift": {
     "etikett": "Runinskrift",
@@ -1977,7 +1977,7 @@
   "skola": {
     "etikett": "Skola",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "miljozoner": {
     "etikett": "Miljözoner",
