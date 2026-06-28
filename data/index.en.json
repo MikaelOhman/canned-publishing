@@ -23769,5 +23769,29 @@
     "sakerhet": "belagt",
     "konsensus": "samsyn",
     "flaggor": []
+  },
+  {
+    "id": "hist-q313568",
+    "typ": "historia",
+    "titel": "Johan August Arfwedson.",
+    "ingress": "Johan August Arfwedson was a Swedish chemist who became famous for discovering the element lithium during the 19th century.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Johan_August_Arfwedson",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "b_industri": 5,
+      "student": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1841",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
   }
 ]

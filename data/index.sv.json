@@ -12552,6 +12552,31 @@
     }
   },
   {
+    "id": "reg-orebro-regionstyrelsen-2025-12-09",
+    "typ": "region",
+    "titel": "Regionstyrelsen, Region Örebro län 2025-12-09",
+    "ingress": "Regionstyrelsen i Örebro län har fattat beslut om viktiga frågor för år 2026, bland annat budget, hälso- och sjukvård, stöd till föreningar och trafikplanering.",
+    "datum": "2025-12-09",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionstyrelsen/mote-2025-12-09",
+    "taggar": [
+      "reg-orebro",
+      "regionstyrelsen",
+      "region-orebro-lan",
+      "orebro",
+      "regional-forvaltning",
+      "politik"
+    ],
+    "relevans": {
+      "b_transport": 3,
+      "b_fastighet": 3,
+      "infrastruktur": 3,
+      "barn": 3,
+      "glesbygd": 3,
+      "kronisk": 8
+    }
+  },
+  {
     "id": "HD0378",
     "typ": "lagforslag",
     "titel": "En grundlagsskyddad aborträtt samt utökade möjligheter att begränsa föreningsfriheten och rätten till medborgarskap",
@@ -13718,6 +13743,27 @@
       "b_utbildning": 4,
       "mark_bygglov": 4,
       "infrastruktur": 3
+    }
+  },
+  {
+    "id": "reg-orebro-regionstyrelsen-2025-11-05",
+    "typ": "region",
+    "titel": "Regionstyrelsen, Region Örebro län 2025-11-05",
+    "ingress": "Regionstyrelsen i Örebro län har tagit emot ett förslag om att uppdatera reglerna för hur tjänsteresor ska bokas och betalas.",
+    "datum": "2025-11-05",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionstyrelsen/mote-2025-11-05",
+    "taggar": [
+      "reg-orebro",
+      "regionstyrelsen",
+      "region-orebro-lan",
+      "orebro",
+      "regionalpolitik"
+    ],
+    "relevans": {
+      "b_transport": 3,
+      "kronisk": 8,
+      "idrott": 3
     }
   },
   {
@@ -16872,6 +16918,33 @@
     }
   },
   {
+    "id": "reg-orebro-regionfullmaktige-2025-04-08",
+    "typ": "region",
+    "titel": "Regionfullmaktige, Region Örebro län 2025-04-08",
+    "ingress": "Regionfullmäktige i Örebro län har tagit emot flera förslag och frågor om bland annat vård, kollektivtrafik och kultur. De ska nu utreda eller svara på dessa ärenden under det kommande året.",
+    "datum": "2025-04-08",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionfullmaktige/mote-2025-04-08",
+    "taggar": [
+      "reg-orebro",
+      "regionfullmaktige",
+      "region-orebro-lan",
+      "orebro",
+      "sjukvard",
+      "kommunalpolitik"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "redovisning": 3,
+      "barn": 3,
+      "pendlare": 3,
+      "bil": 3,
+      "kollektiv": 8,
+      "kronisk": 8,
+      "kultur": 3
+    }
+  },
+  {
     "id": "HC03152",
     "typ": "lagforslag",
     "titel": "Rättens sammansättning vid överprövning av upphandling av fonder till premiepensionens fondtorg",
@@ -17792,6 +17865,30 @@
     ],
     "relevans": {
       "b_energi": 3
+    }
+  },
+  {
+    "id": "reg-orebro-regionfullmaktige-2025-02-26",
+    "typ": "region",
+    "titel": "Regionfullmaktige, Region Örebro län 2025-02-26",
+    "ingress": "Regionfullmäktige i Örebro län har tagit emot flera rapporter från sina revisorer. Rapporterna handlar om hur vården fungerar för barn med vissa funktionsnedsättningar, hur man kan stoppa brott inom välfärden och hur regionens pengar hanter",
+    "datum": "2025-02-26",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionfullmaktige/mote-2025-02-26",
+    "taggar": [
+      "reg-orebro",
+      "regionfullmaktige",
+      "region-orebro-lan",
+      "orebro",
+      "kommunalpolitik",
+      "sjukvard"
+    ],
+    "relevans": {
+      "b_vard": 3,
+      "b_finans": 3,
+      "barn": 5,
+      "kronisk": 8,
+      "funktion": 3
     }
   },
   {

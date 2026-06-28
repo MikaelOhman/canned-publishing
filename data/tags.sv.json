@@ -422,7 +422,7 @@
   "orebro": {
     "etikett": "Örebro",
     "typ": "plats",
-    "antal": 9
+    "antal": 13
   },
   "kommunal-ekonomi": {
     "etikett": "Kommunal ekonomi",
@@ -472,7 +472,7 @@
   "kommunalpolitik": {
     "etikett": "Kommunalpolitik",
     "typ": "ämne",
-    "antal": 15
+    "antal": 17
   },
   "umea": {
     "etikett": "Umeå",
@@ -1507,17 +1507,17 @@
   "regionfullmaktige": {
     "etikett": "Regionfullmaktige",
     "typ": "organisation",
-    "antal": 21
+    "antal": 23
   },
   "regionstyrelsen": {
     "etikett": "Regionstyrelsen",
     "typ": "organisation",
-    "antal": 17
+    "antal": 19
   },
   "reg-orebro": {
     "etikett": "Region Örebro län",
     "typ": "organisation",
-    "antal": 10
+    "antal": 14
   },
   "reg-vastmanland": {
     "etikett": "Region Västmanland",
@@ -1722,17 +1722,17 @@
   "regionalpolitik": {
     "etikett": "Regionalpolitik",
     "typ": "ämne",
-    "antal": 12
+    "antal": 13
   },
   "region-orebro-lan": {
     "etikett": "Region Örebro län",
     "typ": "organisation",
-    "antal": 7
+    "antal": 11
   },
   "sjukvard": {
     "etikett": "Sjukvård",
     "typ": "ämne",
-    "antal": 9
+    "antal": 11
   },
   "klimat-och-miljo": {
     "etikett": "Klimat och miljö",
@@ -1742,7 +1742,7 @@
   "regional-forvaltning": {
     "etikett": "Regional förvaltning",
     "typ": "ämne",
-    "antal": 2
+    "antal": 3
   },
   "region-jamtland-harjedalen": {
     "etikett": "Region Jämtland Härjedalen",
@@ -2067,6 +2067,11 @@
   "mikaela-waltersson": {
     "etikett": "Mikaela Waltersson",
     "typ": "person",
+    "antal": 1
+  },
+  "politik": {
+    "etikett": "Politik",
+    "typ": "ämne",
     "antal": 1
   }
 }
