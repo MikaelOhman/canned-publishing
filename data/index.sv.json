@@ -3694,6 +3694,24 @@
     }
   },
   {
+    "id": "storfors-ks-extra-2026-06-15",
+    "typ": "kommunbeslut",
+    "titel": "KS Extra, Storfors kommun 2026-06-15",
+    "ingress": "Storfors kommun har bestämt hur mycket pengar elever som bor utanför sin hemkommun ska få i ersättning för boende och resor under skolgången 2026–2027.",
+    "datum": "2026-06-15",
+    "kalla": "Storfors kommun",
+    "kalla_url": "https://www.storfors.se/download/18.6b6d7bf19ed44ea63d7d4b7/1782482350561/Protokoll%20KS%202026-06-15%20Extra.pdf",
+    "taggar": [
+      "storfors",
+      "ks-extra"
+    ],
+    "relevans": {
+      "pendlare": 3,
+      "kollektiv": 8,
+      "beroende": 3
+    }
+  },
+  {
     "id": "tvangsvard-tanum",
     "typ": "nyhet",
     "titel": "Nekades tvångsvård – hittades död i snön",

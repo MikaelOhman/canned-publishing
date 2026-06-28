@@ -722,7 +722,7 @@
   "storfors": {
     "etikett": "Storfors",
     "typ": "plats",
-    "antal": 2
+    "antal": 3
   },
   "stromstad": {
     "etikett": "Strömstads",
@@ -2046,6 +2046,11 @@
   },
   "mbnau-signed": {
     "etikett": "MBNAU signed",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "ks-extra": {
+    "etikett": "KS Extra",
     "typ": "organisation",
     "antal": 1
   }
