@@ -772,7 +772,7 @@
   "berg": {
     "etikett": "Bergs",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "utbildningsnamndens": {
     "etikett": "A képviselőtestületnek",
@@ -1882,6 +1882,11 @@
   "kollektivtrafik": {
     "etikett": "A tömegközlekedés.",
     "typ": "ämne",
+    "antal": 1
+  },
+  "utbildningsnamndens-pdf-bortredigerad": {
+    "etikett": "A \"Bortredigerad\" nevű PDF dokumentum található az oktatási bizottság oldalán.",
+    "typ": "organisation",
     "antal": 1
   }
 }

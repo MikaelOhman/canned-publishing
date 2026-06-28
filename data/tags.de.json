@@ -837,7 +837,7 @@
   "berg": {
     "etikett": "Bergs",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "utbildningsnamndens": {
     "etikett": "Der Bildungsausschuss.",
@@ -1942,6 +1942,11 @@
   "kollektivtrafik": {
     "etikett": "Öffentlicher Nahverkehr.",
     "typ": "ämne",
+    "antal": 1
+  },
+  "utbildningsnamndens-pdf-bortredigerad": {
+    "etikett": "Aus dem Bildungsrat entferntes PDF.",
+    "typ": "organisation",
     "antal": 1
   }
 }

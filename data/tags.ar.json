@@ -292,7 +292,7 @@
   "kommunfullmaktige": {
     "etikett": "مجلس البلدية.",
     "typ": "organisation",
-    "antal": 98
+    "antal": 99
   },
   "kommunpolitik": {
     "etikett": "سياسة البلديات.",
@@ -752,7 +752,7 @@
   "arjeplog": {
     "etikett": "Arjeplog.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "ks-digitalt": {
     "etikett": "Ks digitalt:\n\n(لا يوجد نص باللغة السويدية ليتم ترجمته. يرجى تزويدي بالنص الذي تريد ترجمته.)",
@@ -787,7 +787,7 @@
   "berg": {
     "etikett": "جبال.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "utbildningsnamndens": {
     "etikett": "لجنة التعليم.",
@@ -1897,6 +1897,11 @@
   "kollektivtrafik": {
     "etikett": "النقل العام.",
     "typ": "ämne",
+    "antal": 1
+  },
+  "utbildningsnamndens-pdf-bortredigerad": {
+    "etikett": "وثيقة صادرة عن لجنة التعليم بصيغة PDF، وقد تم حذف بعض أجزائها أو تعديلها.",
+    "typ": "organisation",
     "antal": 1
   }
 }

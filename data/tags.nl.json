@@ -777,7 +777,7 @@
   "berg": {
     "etikett": "Bergs",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "utbildningsnamndens": {
     "etikett": "De onderwijscommissie.",
@@ -1882,6 +1882,11 @@
   "kollektivtrafik": {
     "etikett": "Openbaar vervoer.",
     "typ": "ämne",
+    "antal": 1
+  },
+  "utbildningsnamndens-pdf-bortredigerad": {
+    "etikett": "Het PDF-document van de onderwijscommissie, met inhoud die is verwijderd.",
+    "typ": "organisation",
     "antal": 1
   }
 }

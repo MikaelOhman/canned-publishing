@@ -777,7 +777,7 @@
   "berg": {
     "etikett": "Bergs",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "utbildningsnamndens": {
     "etikett": "Commissione per l'istruzione.",
@@ -1882,6 +1882,11 @@
   "kollektivtrafik": {
     "etikett": "Trasporto pubblico.",
     "typ": "ämne",
+    "antal": 1
+  },
+  "utbildningsnamndens-pdf-bortredigerad": {
+    "etikett": "Documento PDF del comitato per l'istruzione, con alcune parti omesse.",
+    "typ": "organisation",
     "antal": 1
   }
 }

@@ -292,7 +292,7 @@
   "kommunfullmaktige": {
     "etikett": "Consiliul municipal.",
     "typ": "organisation",
-    "antal": 98
+    "antal": 99
   },
   "kommunpolitik": {
     "etikett": "Politica municipală.",
@@ -737,7 +737,7 @@
   "arjeplog": {
     "etikett": "Arjeplog.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "ks-digitalt": {
     "etikett": "Ks digitalt",
@@ -772,7 +772,7 @@
   "berg": {
     "etikett": "Bergs.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "utbildningsnamndens": {
     "etikett": "Comisia de educație.",
@@ -1882,6 +1882,11 @@
   "kollektivtrafik": {
     "etikett": "Transport public.",
     "typ": "ämne",
+    "antal": 1
+  },
+  "utbildningsnamndens-pdf-bortredigerad": {
+    "etikett": "Document PDF al comitetului de educație, versiune editată.",
+    "typ": "organisation",
     "antal": 1
   }
 }

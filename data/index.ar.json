@@ -1555,6 +1555,24 @@
     }
   },
   {
+    "id": "arjeplog-kommunfullmaktige-2026-06-22",
+    "typ": "kommunbeslut",
+    "titel": "محضر اجتماع مجلس مدينة أرجبلوغ، بتاريخ 2026-06-22.",
+    "ingress": "لقد اتخذت بلدية أرجيبلوغ قرارها بشأن خطة العمل والميزانية للفترة من عام 2027 إلى عام 2030، بالإضافة إلى تحديد القواعد التي يجب على مختلف اللجان والإدارات التابعة للبلدية اتباعها في عملها.",
+    "datum": "2026-06-22",
+    "kalla": "Arjeplogs kommun",
+    "kalla_url": "https://arjeplog.se/wp-content/uploads/se/2026/06/kf-2026-06-22-protokoll-signerat.pdf",
+    "taggar": [
+      "arjeplog",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_bygg": 3,
+      "klimat": 3
+    }
+  },
+  {
     "id": "ecb-2026-06-19-frank-elderson-fireside-chat",
     "typ": "omvarld",
     "titel": "فرانك إلديرسون: جلسة أسئلة وأجوبة غير رسمية.",
@@ -3916,6 +3934,23 @@
     "relevans": {
       "arbetsgivare": 3,
       "pensionar": 8
+    }
+  },
+  {
+    "id": "berg-utbildningsnamndens-pdf-bortredigerad-2026-06-10",
+    "typ": "kommunbeslut",
+    "titel": "وثيقة صادرة عن لجنة التعليم بصيغة PDF، بتاريخ 2026-06-10، وهي نسخة معدلة من مستند أصلي صادر عن بلدية بيرغ.",
+    "ingress": "لقد اتخذت لجنة التعليم في بلدية بيرغ قرارًا باعتماد إرشادات جديدة للعمل المتعلق بالسلامة داخل المدارس ودور الحضانة. يهدف هذا الإجراء إلى خلق بيئة أكثر أمانًا للطلاب، مما يمكنهم من التعلم بشكل أفضل.",
+    "datum": "2026-06-10",
+    "kalla": "Bergs kommun",
+    "kalla_url": "https://berg.se/download/18.7484b8b219eb4989ca54f35/1781254192541/Utbildningsn%C3%A4mndens%20protokoll%202026-06-10.pdf_Bortredigerad.pdf",
+    "taggar": [
+      "berg",
+      "utbildningsnamndens-pdf-bortredigerad"
+    ],
+    "relevans": {
+      "barn": 8,
+      "klimat": 3
     }
   },
   {

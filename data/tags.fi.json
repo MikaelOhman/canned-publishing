@@ -507,7 +507,7 @@
   "kommunfullmaktige": {
     "etikett": "Kommunfullmäktige",
     "typ": "organisation",
-    "antal": 98
+    "antal": 99
   },
   "kommunpolitik": {
     "etikett": "Kommunpolitik",
@@ -967,7 +967,7 @@
   "arjeplog": {
     "etikett": "Arjeplogs",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "ks-digitalt": {
     "etikett": "Ks digitalt",
@@ -1002,7 +1002,7 @@
   "berg": {
     "etikett": "Bergs",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "utbildningsnamndens": {
     "etikett": "Utbildningsnämndens",
@@ -2002,6 +2002,11 @@
   "kollektivtrafik": {
     "etikett": "Joukkoliikenne.",
     "typ": "ämne",
+    "antal": 1
+  },
+  "utbildningsnamndens-pdf-bortredigerad": {
+    "etikett": "Opetustoimikunnan PDF-tiedosto, josta on poistettu osia.",
+    "typ": "organisation",
     "antal": 1
   }
 }
