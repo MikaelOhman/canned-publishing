@@ -22,7 +22,7 @@
   "svensk-historia": {
     "etikett": "Ruotsin historia:\n\n*   **Aikajana:**\n    *   [Päivämäärä] - [Tapahtuma]\n    *   [Päivämäärä] - [Tapahtuma]\n    *   [Päivämäärä] - [Tapahtuma]\n\n*   **Keskeiset henkilöt:**\n    *   [Nimi]: [Lyhyt kuvaus]\n    *   [Nimi]: [Lyhyt kuvaus]\n    *   [Nimi]: [Lyhyt kuvaus]\n\n*   **Tärkeitä paikkoja:**\n    *   [Paikan nimi]: [Lyhyt kuvaus]\n    *   [Paikan nimi]: [Lyhyt kuvaus]\n    *   [Paikan nimi]: [Lyhyt kuvaus]\n\n*   **Lisätietoja:**\n    *   Verkkosivusto: [URL]",
     "typ": "ämne",
-    "antal": 220
+    "antal": 230
   },
   "vikingatid": {
     "etikett": "Viikinkiaika\n\n*   Aikakausi: Noin 800-1066 jaa.\n*   Alue: Pohjois-Eurooppa, erityisesti Skandinavia.\n*   Merkittäviä tapahtumia: Laajentuminen, kaupankäynti, ryöstöt, kulttuurivaihto.\n*   Tärkeitä paikkoja: Kaupungit kuten Birka (Ruotsissa), Hedeby (Tanskassa) ja Dublin (Irlannissa).\n*   Lisätietoja: [URL ei annettu]",
@@ -72,7 +72,7 @@
   "1800talet": {
     "etikett": "1800-luku.",
     "typ": "epok",
-    "antal": 23
+    "antal": 33
   },
   "1900talet": {
     "etikett": "1900-luku:\n\n*   [Sisältö tässä]",
@@ -322,7 +322,7 @@
   "ekonomi": {
     "etikett": "Ekonomi",
     "typ": "ämne",
-    "antal": 19
+    "antal": 21
   },
   "bolagsforvaltning": {
     "etikett": "Bolagsförvaltning",
@@ -487,12 +487,12 @@
   "stockholm": {
     "etikett": "Stockholms",
     "typ": "plats",
-    "antal": 18
+    "antal": 22
   },
   "kommunstyrelsen": {
     "etikett": "Kommunstyrelsen",
     "typ": "organisation",
-    "antal": 79
+    "antal": 81
   },
   "kommunallagen": {
     "etikett": "Kommunallagen",
@@ -507,7 +507,7 @@
   "kommunfullmaktige": {
     "etikett": "Kommunfullmäktige",
     "typ": "organisation",
-    "antal": 100
+    "antal": 102
   },
   "kommunpolitik": {
     "etikett": "Kommunpolitik",
@@ -527,7 +527,7 @@
   "kommunal-forvaltning": {
     "etikett": "Kommunal förvaltning",
     "typ": "ämne",
-    "antal": 7
+    "antal": 8
   },
   "digitalisering": {
     "etikett": "Digitalisering",
@@ -542,17 +542,17 @@
   "eu": {
     "etikett": "EU",
     "typ": "organisation",
-    "antal": 29
+    "antal": 30
   },
   "eu-kommissionen": {
     "etikett": "EU-kommissionen",
     "typ": "organisation",
-    "antal": 20
+    "antal": 21
   },
   "orebro": {
     "etikett": "Örebro",
     "typ": "plats",
-    "antal": 9
+    "antal": 13
   },
   "kommunal-ekonomi": {
     "etikett": "Kommunal ekonomi",
@@ -562,7 +562,7 @@
   "protokoll": {
     "etikett": "Protokoll",
     "typ": "händelse",
-    "antal": 11
+    "antal": 12
   },
   "alingsas": {
     "etikett": "Alingsås",
@@ -577,7 +577,7 @@
   "budget": {
     "etikett": "Budget",
     "typ": "ämne",
-    "antal": 1
+    "antal": 3
   },
   "bollebygd": {
     "etikett": "Bollebygds",
@@ -602,7 +602,7 @@
   "kommunalpolitik": {
     "etikett": "Kommunalpolitik",
     "typ": "ämne",
-    "antal": 10
+    "antal": 17
   },
   "umea": {
     "etikett": "Umeå",
@@ -1632,22 +1632,22 @@
   "reg-halland": {
     "etikett": "Region Halland",
     "typ": "organisation",
-    "antal": 11
+    "antal": 15
   },
   "regionfullmaktige": {
     "etikett": "Regionfullmaktige",
     "typ": "organisation",
-    "antal": 19
+    "antal": 25
   },
   "regionstyrelsen": {
     "etikett": "Regionstyrelsen",
     "typ": "organisation",
-    "antal": 15
+    "antal": 21
   },
   "reg-orebro": {
     "etikett": "Region Örebro län",
     "typ": "organisation",
-    "antal": 10
+    "antal": 14
   },
   "reg-vastmanland": {
     "etikett": "Region Västmanland",
@@ -1657,7 +1657,7 @@
   "reg-jamtland": {
     "etikett": "Region Jämtland Härjedalen",
     "typ": "organisation",
-    "antal": 11
+    "antal": 15
   },
   "reg-blekinge": {
     "etikett": "Region Blekinge",
@@ -1837,32 +1837,32 @@
   "karin-wanngard": {
     "etikett": "Karin Wanngård",
     "typ": "person",
-    "antal": 3
+    "antal": 4
   },
   "region-halland": {
     "etikett": "Region Halland",
     "typ": "organisation",
-    "antal": 7
+    "antal": 10
   },
   "halland": {
     "etikett": "Halland",
     "typ": "plats",
-    "antal": 7
+    "antal": 11
   },
   "regionalpolitik": {
     "etikett": "Regionalpolitik",
     "typ": "ämne",
-    "antal": 10
+    "antal": 16
   },
   "region-orebro-lan": {
     "etikett": "Region Örebro län",
     "typ": "organisation",
-    "antal": 7
+    "antal": 11
   },
   "sjukvard": {
     "etikett": "Sjukvård",
     "typ": "ämne",
-    "antal": 9
+    "antal": 12
   },
   "klimat-och-miljo": {
     "etikett": "Klimat och miljö",
@@ -1872,22 +1872,22 @@
   "regional-forvaltning": {
     "etikett": "Regional förvaltning",
     "typ": "ämne",
-    "antal": 2
+    "antal": 4
   },
   "region-jamtland-harjedalen": {
     "etikett": "Region Jämtland Härjedalen",
     "typ": "organisation",
-    "antal": 7
+    "antal": 11
   },
   "ostersund": {
     "etikett": "Östersund",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "jamtland": {
     "etikett": "Jämtland",
     "typ": "plats",
-    "antal": 6
+    "antal": 7
   },
   "regional-ekonomi": {
     "etikett": "Regional ekonomi",
@@ -1967,7 +1967,7 @@
   "historisk-person": {
     "etikett": "Historiallinen henkilö.",
     "typ": "ämne",
-    "antal": 184
+    "antal": 194
   },
   "runinskrift": {
     "etikett": "Kirjoitusmerkintä.",
@@ -1977,7 +1977,7 @@
   "skola": {
     "etikett": "Koulu.",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "miljozoner": {
     "etikett": "Ympäristövyöhykkeet\n\n*   **Syfte:** Miljözonerna är till för att förbättra luftkvaliteten och minska bullret i stadsområden.\n*   **Regler:** Inom miljözonerna gäller särskilda regler för vilka fordon som får köra in. Reglerna kan variera beroende på vilken zon det är.\n*   **Information:** Mer information om de olika miljözonerna finns att läsa på [www.exempelwebbsida.se](www.exempelwebbsida.se).\n\n*   **Exempel på regler:**\n    *   Vissa fordon, som äldre dieselfordon, kan vara förbjudna att köra in i miljözonen.\n    *   Det kan krävas ett särskilt tillstånd för att få köra in med vissa typer av fordon.\n    *   Hastighetsbegränsningar kan gälla inom miljözonerna.\n\n*   **Kontroll:** Kontroller utförs regelbundet för att säkerställa att reglerna följs. Böter kan utdelas till de som bryter mot reglerna.",
@@ -1992,7 +1992,7 @@
   "varberg": {
     "etikett": "Varberg.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "offentlig-forvaltning": {
     "etikett": "Julkinen hallinto.",
@@ -2062,6 +2062,26 @@
   "miljo-och-byggnamndens-mbn": {
     "etikett": "Ympäristö- ja rakennuslautakunnan (YRL).",
     "typ": "organisation",
+    "antal": 1
+  },
+  "mikaela-waltersson": {
+    "etikett": "Mikaela Waltersson",
+    "typ": "person",
+    "antal": 1
+  },
+  "politik": {
+    "etikett": "Politiikka.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "anders-sundin": {
+    "etikett": "Anders Sundin.",
+    "typ": "person",
+    "antal": 2
+  },
+  "halso-och-sjukvard": {
+    "etikett": "Terveys- ja sairaanhoito.",
+    "typ": "ämne",
     "antal": 1
   }
 }

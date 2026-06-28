@@ -112,7 +112,7 @@
   "ekonomi": {
     "etikett": "الاقتصاد",
     "typ": "ämne",
-    "antal": 19
+    "antal": 21
   },
   "sverige": {
     "etikett": "السويد",
@@ -287,12 +287,12 @@
   "stockholm": {
     "etikett": "ستوكهولم.",
     "typ": "plats",
-    "antal": 18
+    "antal": 22
   },
   "kommunfullmaktige": {
     "etikett": "مجلس البلدية.",
     "typ": "organisation",
-    "antal": 100
+    "antal": 102
   },
   "kommunpolitik": {
     "etikett": "سياسة البلديات.",
@@ -307,17 +307,17 @@
   "kommunstyrelsen": {
     "etikett": "مجلس البلدية.",
     "typ": "organisation",
-    "antal": 76
+    "antal": 78
   },
   "kommunal-forvaltning": {
     "etikett": "الإدارة المحلية.",
     "typ": "ämne",
-    "antal": 9
+    "antal": 10
   },
   "karin-wanngard": {
     "etikett": "كارين وانغارد.",
     "typ": "person",
-    "antal": 4
+    "antal": 5
   },
   "digitalisering": {
     "etikett": "التحول الرقمي.",
@@ -332,12 +332,12 @@
   "eu": {
     "etikett": "الاتحاد الأوروبي.",
     "typ": "organisation",
-    "antal": 27
+    "antal": 28
   },
   "eu-kommissionen": {
     "etikett": "لجنة الاتحاد الأوروبي.",
     "typ": "organisation",
-    "antal": 20
+    "antal": 21
   },
   "alingsas": {
     "etikett": "Alingsås",
@@ -352,7 +352,7 @@
   "budget": {
     "etikett": "الميزانية.",
     "typ": "ämne",
-    "antal": 1
+    "antal": 3
   },
   "bollebygd": {
     "etikett": "بلولبيغد.",
@@ -362,7 +362,7 @@
   "protokoll": {
     "etikett": "محضر اجتماع.",
     "typ": "ämne",
-    "antal": 9
+    "antal": 10
   },
   "ulf-rapp": {
     "etikett": "أولف راب.",
@@ -427,7 +427,7 @@
   "kommunalpolitik": {
     "etikett": "السياسة المحلية.",
     "typ": "ämne",
-    "antal": 9
+    "antal": 16
   },
   "lekeberg": {
     "etikett": "ليكبِيرج.",
@@ -602,7 +602,7 @@
   "orebro": {
     "etikett": "أوربرو.",
     "typ": "plats",
-    "antal": 9
+    "antal": 13
   },
   "orsa": {
     "etikett": "أورسا.",
@@ -1402,22 +1402,22 @@
   "reg-halland": {
     "etikett": "منطقة هالان.",
     "typ": "organisation",
-    "antal": 11
+    "antal": 15
   },
   "regionfullmaktige": {
     "etikett": "أعضاء المجلس الإقليمي المنتخبون.",
     "typ": "organisation",
-    "antal": 19
+    "antal": 25
   },
   "regionstyrelsen": {
     "etikett": "مجلس المنطقة.",
     "typ": "organisation",
-    "antal": 15
+    "antal": 21
   },
   "reg-orebro": {
     "etikett": "منطقة أوربرو.",
     "typ": "organisation",
-    "antal": 10
+    "antal": 14
   },
   "reg-vastmanland": {
     "etikett": "منطقة فاستمانلاند.",
@@ -1427,7 +1427,7 @@
   "reg-jamtland": {
     "etikett": "منطقة يمتلاند هيريدالن.",
     "typ": "organisation",
-    "antal": 11
+    "antal": 15
   },
   "reg-blekinge": {
     "etikett": "منطقة بليكينغه.",
@@ -1622,27 +1622,27 @@
   "region-halland": {
     "etikett": "منطقة هالان.",
     "typ": "organisation",
-    "antal": 7
+    "antal": 10
   },
   "halland": {
     "etikett": "هالاند.",
     "typ": "plats",
-    "antal": 7
+    "antal": 11
   },
   "regionalpolitik": {
     "etikett": "السياسة الإقليمية.",
     "typ": "ämne",
-    "antal": 10
+    "antal": 16
   },
   "region-orebro-lan": {
     "etikett": "منطقة أوربرو.",
     "typ": "organisation",
-    "antal": 7
+    "antal": 11
   },
   "sjukvard": {
     "etikett": "الرعاية الصحية.",
     "typ": "ämne",
-    "antal": 9
+    "antal": 12
   },
   "klimat-och-miljo": {
     "etikett": "المناخ والبيئة:\n\n*   [قائمة بنقاط حول المناخ والبيئة]\n    *   [نقطة 1]\n    *   [نقطة 2]\n    *   [نقطة 3]\n*   [قائمة أخرى بنقاط حول المناخ والبيئة]\n    *   [نقطة 4]\n    *   [نقطة 5]\n    *   [نقطة 6]\n*   [معلومات إضافية أو روابط ذات صلة، مثل الأسماء والأرقام والتواريخ وعناوين URL]\n    *   اسم: [اسم]\n    *   رقم: [رقم]\n    *   تاريخ: [تاريخ]\n    *   عنوان URL: [عنوان URL]",
@@ -1652,22 +1652,22 @@
   "regional-forvaltning": {
     "etikett": "الإدارة الإقليمية.",
     "typ": "ämne",
-    "antal": 2
+    "antal": 4
   },
   "region-jamtland-harjedalen": {
     "etikett": "منطقة يمتلاند هيريدالن.",
     "typ": "organisation",
-    "antal": 7
+    "antal": 11
   },
   "ostersund": {
     "etikett": "أوسترسوند.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "jamtland": {
     "etikett": "يامتلاند.",
     "typ": "plats",
-    "antal": 6
+    "antal": 7
   },
   "regional-ekonomi": {
     "etikett": "الاقتصاد الإقليمي.",
@@ -1752,7 +1752,7 @@
   "svensk-historia": {
     "etikett": "التاريخ السويدي:\n\n*   [معلومات إضافية حول التاريخ السويدي يمكن إدراجها هنا، مثل الأحداث الهامة، والشخصيات البارزة، والفترات الزمنية المختلفة.]\n*   [يمكن إضافة قائمة من المواضيع الفرعية المتعلقة بالتاريخ السويدي، مثل:]\n    *   التاريخ القديم.\n    *   العصور الوسطى.\n    *   عصر النهضة.\n    *   الحرب الباردة.\n    *   [أمثلة أخرى يمكن إضافتها حسب الحاجة.]\n*   [يمكن أيضاً تضمين روابط لمواقع ويب أو مصادر أخرى ذات صلة بالتاريخ السويدي، مثل:]\n    *   [رابط إلى موقع ويب حول التاريخ السويدي: www.example.com]\n    *   [رابط إلى مقال أو كتاب عن التاريخ السويدي.]",
     "typ": "ämne",
-    "antal": 220
+    "antal": 230
   },
   "vikingatid": {
     "etikett": "العصر الفايكنجي.",
@@ -1802,7 +1802,7 @@
   "1800talet": {
     "etikett": "القرن التاسع عشر.",
     "typ": "epok",
-    "antal": 23
+    "antal": 33
   },
   "1900talet": {
     "etikett": "القرن العشرون.",
@@ -1862,7 +1862,7 @@
   "historisk-person": {
     "etikett": "شخصية تاريخية.",
     "typ": "ämne",
-    "antal": 184
+    "antal": 194
   },
   "runinskrift": {
     "etikett": "نقش توضيحي.",
@@ -1872,7 +1872,7 @@
   "skola": {
     "etikett": "مدرسة.",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "miljozoner": {
     "etikett": "مناطق صديقة للبيئة.",
@@ -1887,7 +1887,7 @@
   "varberg": {
     "etikett": "فاربرغ.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "offentlig-forvaltning": {
     "etikett": "الإدارة العامة.",
@@ -1957,6 +1957,26 @@
   "miljo-och-byggnamndens-mbn": {
     "etikett": "لجنة البيئة والبناء (اختصارها MBN).",
     "typ": "organisation",
+    "antal": 1
+  },
+  "mikaela-waltersson": {
+    "etikett": "ميكايلا والترسون.",
+    "typ": "person",
+    "antal": 1
+  },
+  "politik": {
+    "etikett": "السياسة.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "anders-sundin": {
+    "etikett": "أندرس سوندين.",
+    "typ": "person",
+    "antal": 2
+  },
+  "halso-och-sjukvard": {
+    "etikett": "الرعاية الصحية والخدمات الطبية.",
+    "typ": "ämne",
     "antal": 1
   }
 }

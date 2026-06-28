@@ -58,6 +58,23 @@
     }
   },
   {
+    "id": "eu-kommissionen-2026-06-27-doorstep-statement-by-commissi",
+    "typ": "omvarld",
+    "titel": "Déclaration de la commissaire européenne Lahbib lors du Budapest Pride, prononcée directement devant le public :",
+    "ingress": "La commissaire européenne Lahbib a prononcé un discours lors d'une parade de la fierté à Budapest pour exprimer son soutien aux droits des personnes LGBTQ+. Elle a souligné l'importance de la liberté, notamment après que la parade ait été i",
+    "datum": "2026-06-27",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1474",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ],
+    "relevans": {
+      "hbtq": 3,
+      "klimat": 3
+    }
+  },
+  {
     "id": "mcf-2026-06-26-krav-pa-sakerhetsatgarder-som-",
     "typ": "myndighet",
     "titel": "Exigences concernant les mesures de sécurité visant à renforcer la cybersécurité.",
@@ -11286,6 +11303,29 @@
     }
   },
   {
+    "id": "stockholm-kommunstyrelsen-2026-02-04",
+    "typ": "kommunbeslut",
+    "titel": "Commission municipale de la ville de Stockholm, 4 février 2026.",
+    "ingress": "La ville de Stockholm a pris des décisions concernant de nouvelles règles pour un parc à chiens, a reçu un rapport sur un nouveau centre sportif et a répondu à des propositions concernant des cours de natation pour la formation continue des",
+    "datum": "2026-02-04",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunstyrelsen/mote-2026-02-04",
+    "taggar": [
+      "stockholm",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "b_industri": 3,
+      "b_bygg": 3,
+      "b_utbildning": 3,
+      "barn": 3,
+      "vuxenstudier": 3,
+      "ny_i_sverige": 3,
+      "husdjur": 3,
+      "idrott": 5
+    }
+  },
+  {
     "id": "HD03111",
     "typ": "lagforslag",
     "titel": "Rapport de l'Inspection générale des finances concernant les actions de l'État dans la gestion des successions : enquête, administration et partage.",
@@ -11654,6 +11694,25 @@
     }
   },
   {
+    "id": "stockholm-kommunstyrelsen-2026-01-21",
+    "typ": "kommunbeslut",
+    "titel": "Commission municipale de la ville de Stockholm, 21 janvier 2026.",
+    "ingress": "La ville de Stockholm a pris la décision de prolonger un poste de direction au sein du département des services et a examiné des questions relatives aux tarifs de stationnement et au développement du quai de Stadsgården.",
+    "datum": "2026-01-21",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunstyrelsen/mote-2026-01-21",
+    "taggar": [
+      "stockholm",
+      "kommunstyrelsen",
+      "kommunalpolitik",
+      "karin-wanngard"
+    ],
+    "relevans": {
+      "b_fastighet": 3,
+      "bil": 3
+    }
+  },
+  {
     "id": "HD0394",
     "typ": "lagforslag",
     "titel": "Dispositions complémentaires au règlement de l'UE sur l'étiquetage environnemental.",
@@ -11835,6 +11894,28 @@
       "solo": 4,
       "aktiebolag": 4,
       "storforetag": 4
+    }
+  },
+  {
+    "id": "reg-halland-regionstyrelsen-2025-12-17",
+    "typ": "region",
+    "titel": "Conseil régional, Région de Halland, 17 décembre 2025.",
+    "ingress": "La région de Halland prévoit de réduire les délais d'attente dans le secteur de la santé et a mis à jour sa stratégie à long terme pour les soins de santé, qui s'étend jusqu'en 2035.",
+    "datum": "2025-12-17",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionstyrelsen/mote-2025-12-17",
+    "taggar": [
+      "reg-halland",
+      "regionstyrelsen",
+      "halland",
+      "region-halland",
+      "regionalpolitik",
+      "kommunal-forvaltning"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_fastighet": 3,
+      "kronisk": 8
     }
   },
   {
@@ -12399,6 +12480,57 @@
       "otrygg": 3,
       "b_handel": 3,
       "fortroendevald": 3
+    }
+  },
+  {
+    "id": "reg-orebro-regionstyrelsen-2025-12-09",
+    "typ": "region",
+    "titel": "Conseil régional, Région d'Örebro, 9 décembre 2025.",
+    "ingress": "Le conseil régional de la province d'Örebro a pris des décisions importantes concernant l'année 2026, notamment en matière de budget, de soins de santé, de soutien aux associations et de planification des transports.",
+    "datum": "2025-12-09",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionstyrelsen/mote-2025-12-09",
+    "taggar": [
+      "reg-orebro",
+      "regionstyrelsen",
+      "region-orebro-lan",
+      "orebro",
+      "regional-forvaltning",
+      "politik"
+    ],
+    "relevans": {
+      "b_transport": 3,
+      "b_fastighet": 3,
+      "infrastruktur": 3,
+      "barn": 3,
+      "glesbygd": 3,
+      "kronisk": 8
+    }
+  },
+  {
+    "id": "reg-jamtland-regionstyrelsen-2025-12-09",
+    "typ": "region",
+    "titel": "Conseil régional, Région de Jämtland Härjedalen, 9 décembre 2025.",
+    "ingress": "Le conseil régional de Jämtland Härjedalen a examiné ses rapports pour l'année 2025 et constate qu'il enregistre une perte économique d'environ 300 millions de couronnes suédoises.",
+    "datum": "2025-12-09",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionstyrelsen/mote-2025-12-09",
+    "taggar": [
+      "reg-jamtland",
+      "regionstyrelsen",
+      "region-jamtland-harjedalen",
+      "regional-forvaltning",
+      "ekonomi",
+      "halso-och-sjukvard"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_fastighet": 3,
+      "kollektivavtal": 3,
+      "arbetsmiljo": 3,
+      "pensionar": 3,
+      "kronisk": 8,
+      "kultur": 3
     }
   },
   {
@@ -13008,6 +13140,30 @@
     }
   },
   {
+    "id": "reg-jamtland-regionstyrelsen-2025-11-24",
+    "typ": "region",
+    "titel": "Conseil régional, Région de Jämtland Härjedalen, 24 novembre 2025.",
+    "ingress": "La région a décidé de reporter sa décision concernant la politique tarifaire pour le voyage en Norvège à la première moitié de 2026. Cette décision est motivée par le fait que le nouveau système national de billetterie est encore en cours d",
+    "datum": "2025-11-24",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionstyrelsen/mote-2025-11-24",
+    "taggar": [
+      "reg-jamtland",
+      "regionstyrelsen",
+      "region-jamtland-harjedalen",
+      "sjukvard",
+      "regionalpolitik",
+      "ekonomi"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "pendlare": 3,
+      "kollektiv": 5,
+      "kronisk": 8,
+      "konsument": 3
+    }
+  },
+  {
     "id": "ange-kommunstyrelsen-2025-11-21",
     "typ": "kommunbeslut",
     "titel": "Conseil municipal, commune d'Ånge, 21 novembre 2025.",
@@ -13045,6 +13201,54 @@
       "b_utbildning": 4,
       "idrott": 4,
       "mark_bygglov": 4
+    }
+  },
+  {
+    "id": "stockholm-kommunfullmaktige-2025-11-19",
+    "typ": "kommunbeslut",
+    "titel": "Conseil municipal de la ville de Stockholm, 19 novembre 2025.",
+    "ingress": "La ville de Stockholm a approuvé son budget pour l'année 2026 et ses plans pour les années 2027 et 2028. Cette décision alloue des fonds et définit des orientations à la ville pour le fonctionnement des écoles, des services de soins, de la",
+    "datum": "2025-11-19",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunfullmaktige/mote-2025-11-19",
+    "taggar": [
+      "stockholm",
+      "kommunfullmaktige",
+      "kommunalpolitik",
+      "budget"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_vard": 3,
+      "b_fastighet": 3,
+      "b_kultur": 3,
+      "barn": 5,
+      "pensionar": 3,
+      "kronisk": 3,
+      "kultur": 3
+    }
+  },
+  {
+    "id": "reg-halland-regionstyrelsen-2025-11-19",
+    "typ": "region",
+    "titel": "Conseil régional, Région de Halland, 19 novembre 2025.",
+    "ingress": "Le conseil régional de Halland a pris des décisions concernant les investissements futurs dans le transport ferroviaire, les soins de santé et les projets locaux pour 2026. Il prévoit également d'améliorer les services de soins aux personne",
+    "datum": "2025-11-19",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionstyrelsen/mote-2025-11-19",
+    "taggar": [
+      "reg-halland",
+      "regionstyrelsen",
+      "halland",
+      "regionalpolitik",
+      "mikaela-waltersson"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "fou": 3,
+      "kollektiv": 5,
+      "kronisk": 8,
+      "kultur": 3
     }
   },
   {
@@ -13201,6 +13405,31 @@
       "pendlare": 3,
       "miljo": 4,
       "b_energi": 4
+    }
+  },
+  {
+    "id": "stockholm-kommunfullmaktige-2025-11-18",
+    "typ": "kommunbeslut",
+    "titel": "Conseil municipal de la ville de Stockholm, 18 novembre 2025.",
+    "ingress": "La ville de Stockholm a discuté et pris des décisions concernant son budget pour l'année 2026, ainsi que les plans pour les années 2027 et 2028. Ces décisions concernent notamment l'allocation des fonds destinés à l'environnement, au sport,",
+    "datum": "2025-11-18",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunfullmaktige/mote-2025-11-18",
+    "taggar": [
+      "stockholm",
+      "kommunfullmaktige",
+      "kommunalpolitik",
+      "budget",
+      "skola"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_bygg": 3,
+      "b_vard": 3,
+      "barn": 3,
+      "konsument": 3,
+      "idrott": 3,
+      "klimat": 3
     }
   },
   {
@@ -13495,6 +13724,27 @@
       "b_utbildning": 4,
       "mark_bygglov": 4,
       "infrastruktur": 3
+    }
+  },
+  {
+    "id": "reg-orebro-regionstyrelsen-2025-11-05",
+    "typ": "region",
+    "titel": "Conseil régional, Région d'Örebro, 5 novembre 2025.",
+    "ingress": "La commission régionale de la province d'Örebro a reçu une proposition visant à mettre à jour les règles concernant la réservation et le remboursement des déplacements professionnels.",
+    "datum": "2025-11-05",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionstyrelsen/mote-2025-11-05",
+    "taggar": [
+      "reg-orebro",
+      "regionstyrelsen",
+      "region-orebro-lan",
+      "orebro",
+      "regionalpolitik"
+    ],
+    "relevans": {
+      "b_transport": 3,
+      "kronisk": 8,
+      "idrott": 3
     }
   },
   {
@@ -16315,6 +16565,27 @@
     }
   },
   {
+    "id": "reg-jamtland-regionfullmaktige-2025-04-30",
+    "typ": "region",
+    "titel": "Membres du conseil régional de Jämtland Härjedalen, mandat valable jusqu'au 30 avril 2025.",
+    "ingress": "Voici le procès-verbal de la réunion de la région de Jämtland Härjedalen qui s'est tenue le 30 avril 2025. Pour l'instant, ce document ne contient que des informations concernant l'ordre du jour et les personnes ayant participé à la réunion",
+    "datum": "2025-04-30",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionfullmaktige/mote-2025-04-30",
+    "taggar": [
+      "reg-jamtland",
+      "regionfullmaktige",
+      "region-jamtland-harjedalen",
+      "jamtland",
+      "regionalpolitik",
+      "anders-sundin"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "kronisk": 8
+    }
+  },
+  {
     "id": "HC03159",
     "typ": "lagforslag",
     "titel": "Agrément pour la taxe F – nouveaux obstacles et motifs de retrait",
@@ -16393,6 +16664,34 @@
       "arbetstillstand": 5,
       "integritet": 4,
       "offentliganstalld": 3
+    }
+  },
+  {
+    "id": "reg-halland-regionfullmaktige-2025-04-23",
+    "typ": "region",
+    "titel": "Membres du conseil régional, Région de Halland, le 23 avril 2025.",
+    "ingress": "La région de Halland a pris des décisions concernant ses finances, son rapport annuel et la décharge de responsabilité de ses dirigeants pour les années suivant 2024. Des discussions ont également eu lieu sur plusieurs propositions relative",
+    "datum": "2025-04-23",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionfullmaktige/mote-2025-04-23",
+    "taggar": [
+      "reg-halland",
+      "regionfullmaktige",
+      "region-halland",
+      "halland",
+      "kommunalpolitik",
+      "protokoll"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_kultur": 3,
+      "redovisning": 3,
+      "barn": 3,
+      "kronisk": 8,
+      "psykisk": 3,
+      "idrott": 3,
+      "klimat": 3,
+      "kultur": 5
     }
   },
   {
@@ -16654,6 +16953,33 @@
       "eu_marknad": 4,
       "b_it": 3,
       "fortroendevald": 3
+    }
+  },
+  {
+    "id": "reg-orebro-regionfullmaktige-2025-04-08",
+    "typ": "region",
+    "titel": "Membres du conseil régional d'Örebro län, 8 avril 2025.",
+    "ingress": "Le conseil régional d'Örebro a reçu plusieurs propositions et questions concernant divers sujets, notamment les soins de santé, les transports en commun et la culture. Il est désormais prévu qu'il examine ou réponde à ces dossiers au cours",
+    "datum": "2025-04-08",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionfullmaktige/mote-2025-04-08",
+    "taggar": [
+      "reg-orebro",
+      "regionfullmaktige",
+      "region-orebro-lan",
+      "orebro",
+      "sjukvard",
+      "kommunalpolitik"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "redovisning": 3,
+      "barn": 3,
+      "pendlare": 3,
+      "bil": 3,
+      "kollektiv": 8,
+      "kronisk": 8,
+      "kultur": 3
     }
   },
   {
@@ -17580,6 +17906,30 @@
     }
   },
   {
+    "id": "reg-orebro-regionfullmaktige-2025-02-26",
+    "typ": "region",
+    "titel": "Membres du conseil régional d'Örebro län, décision du 26 février 2025.",
+    "ingress": "Le conseil régional d'Örebro a reçu plusieurs rapports de ses auditeurs. Ces rapports traitent du fonctionnement des services de soins pour les enfants atteints de certains handicaps, des moyens de lutter contre la criminalité dans le secte",
+    "datum": "2025-02-26",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionfullmaktige/mote-2025-02-26",
+    "taggar": [
+      "reg-orebro",
+      "regionfullmaktige",
+      "region-orebro-lan",
+      "orebro",
+      "kommunalpolitik",
+      "sjukvard"
+    ],
+    "relevans": {
+      "b_vard": 3,
+      "b_finans": 3,
+      "barn": 5,
+      "kronisk": 8,
+      "funktion": 3
+    }
+  },
+  {
     "id": "HC03110",
     "typ": "lagforslag",
     "titel": "Allègements réglementaires et transparence accrue sur le marché des valeurs mobilières",
@@ -17729,6 +18079,29 @@
       "mark_bygglov": 5,
       "lokaler": 4,
       "bil": 3
+    }
+  },
+  {
+    "id": "reg-jamtland-regionfullmaktige-2025-02-11",
+    "typ": "region",
+    "titel": "À l'attention des membres du conseil régional de Jämtland Härjedalen,",
+    "ingress": "Le conseil régional de Jämtland Härjedalen a tenu une réunion au cours de laquelle il a examiné des rapports provenant de différentes commissions et a répondu à des propositions d'habitants concernant, notamment, les transports médicaux et",
+    "datum": "2025-02-11",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionfullmaktige/mote-2025-02-11",
+    "taggar": [
+      "reg-jamtland",
+      "regionfullmaktige",
+      "region-jamtland-harjedalen",
+      "ostersund",
+      "regionalpolitik",
+      "anders-sundin"
+    ],
+    "relevans": {
+      "fou": 3,
+      "pensionar": 3,
+      "kronisk": 8,
+      "klimat": 5
     }
   },
   {
@@ -18103,6 +18476,33 @@
       "ung": 3,
       "kronisk": 3,
       "otrygg": 3
+    }
+  },
+  {
+    "id": "reg-halland-regionfullmaktige-2024-12-04",
+    "typ": "region",
+    "titel": "À l'attention des membres du conseil régional, Région de Halland,",
+    "ingress": "La région de Halland a pris des décisions concernant plusieurs questions importantes liées à la santé, à l'éducation et aux soins du personnel.",
+    "datum": "2024-12-04",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionfullmaktige/mote-2024-12-04",
+    "taggar": [
+      "reg-halland",
+      "regionfullmaktige",
+      "region-halland",
+      "halland",
+      "kommunalpolitik",
+      "varberg"
+    ],
+    "relevans": {
+      "arbetsgivare": 5,
+      "barn": 5,
+      "ung": 3,
+      "kvinna": 3,
+      "man": 3,
+      "gymnasieelev": 3,
+      "kronisk": 8,
+      "tandvard": 3
     }
   },
   {
@@ -23692,6 +24092,253 @@
     },
     "epok": "1800talet",
     "tid": "d. 1841",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q345654",
+    "typ": "historia",
+    "titel": "Carl Adolph Agardh.",
+    "ingress": "Carl Adolph Agardh était un scientifique et évêque suédois du XIXe siècle, connu pour ses importantes recherches sur les plantes, en particulier les algues.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Carl_Adolph_Agardh",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "b_it": 3,
+      "fou": 3,
+      "student": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1859",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q234311",
+    "typ": "historia",
+    "titel": "Sofia Magdalena de Danemark.",
+    "ingress": "Sofia Magdalena était une princesse danoise qui devint reine de Suède après son mariage avec le roi Gustave III. Elle a grandi au Danemark et est devenue reine à une époque marquée par des tensions politiques entre les deux pays.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Sofia_Magdalena_av_Danmark",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "b_vard": 3,
+      "b_kultur": 3,
+      "sambo_gift": 3,
+      "husdjur": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1813",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q526915",
+    "typ": "historia",
+    "titel": "La princesse Eugénie de Suède et de Norvège.",
+    "ingress": "La princesse Eugénie était une princesse suédoise du XIXe siècle, connue pour son talent artistique, sa passion pour la musique et son engagement envers les enfants malades.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Prinsessan_Eugénie_av_Sverige_och_Norge",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_kultur": 3,
+      "barn": 3,
+      "kvinna": 3,
+      "kultur": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1889",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q353490",
+    "typ": "historia",
+    "titel": "Johan Gottlieb Gahn.",
+    "ingress": "Johan Gottlieb Gahn était un scientifique suédois qui a réalisé des découvertes importantes dans les domaines de la chimie et des minéraux au XVIIIe siècle. Il a été une figure importante dans le monde scientifique, bien qu'il ait rarement",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Johan_Gottlieb_Gahn",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "epok": "1800talet",
+    "tid": "d. 1818",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q350420",
+    "typ": "historia",
+    "titel": "Salomon August Andrée.",
+    "ingress": "S.A. Andrée était un inventeur et chercheur suédois qui est devenu célèbre pour sa tentative infructueuse d'atteindre le Pôle Nord en ballon en 1897. Lui et ses deux compagnons sont morts sur la glace, et leurs journaux n'ont été retrouvés",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Salomon_August_Andrée",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "b_transport": 3,
+      "b_kultur": 3,
+      "immaterialratt": 3,
+      "flygresenar": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1897",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q468303",
+    "typ": "historia",
+    "titel": "Anders Gustaf Ekeberg.",
+    "ingress": "Au XVIIIe siècle, Anders Gustaf Ekeberg était un chimiste suédois qui a découvert l'élément tantale et a contribué à attribuer des noms suédois à des éléments tels que l'oxygène, l'hydrogène et l'azote.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Anders_Gustaf_Ekeberg",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "fou": 3,
+      "student": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1813",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q468316",
+    "typ": "historia",
+    "titel": "Carl Gustaf Mosander.",
+    "ingress": "Carl Gustaf Mosander était un chimiste et enseignant suédois du XIXe siècle. Il est surtout connu pour avoir découvert plusieurs nouveaux éléments grâce à ses recherches.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Carl_Gustaf_Mosander",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "miljo": 3,
+      "fou": 3,
+      "student": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1858",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q444538",
+    "typ": "historia",
+    "titel": "Per Daniel Amadeus Atterbom.",
+    "ingress": "Per Daniel Amadeus Atterbom était un célèbre écrivain, enseignant et professeur suédois au XIXe siècle. Il est surtout connu pour ses poèmes empreints d'émotion et pour avoir introduit de nouveaux styles imaginatifs dans la littérature suéd",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Per_Daniel_Amadeus_Atterbom",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "barn": 3,
+      "student": 3,
+      "klimat": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1855",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q432129",
+    "typ": "historia",
+    "titel": "Viktor Rydberg.",
+    "ingress": "Viktor Rydberg a été un écrivain et poète suédois d'une grande importance au XIXe siècle. Il est connu pour ses poèmes, ses traductions d'œuvres étrangères et son appartenance à l'Académie suédoise.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Viktor_Rydberg",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "ung": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1895",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q77103",
+    "typ": "historia",
+    "titel": "Carl Ludvig Engel.",
+    "ingress": "Carl Ludvig Engel était un architecte allemand qui a conçu de nombreux bâtiments importants à Helsinki au cours du XIXe siècle. Il a contribué à faire de la ville une capitale prestigieuse grâce à son style particulier et à ses plans pour p",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Carl_Ludvig_Engel",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "student": 3,
+      "klimat": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1840",
     "kallage": "samtida",
     "sakerhet": "belagt",
     "konsensus": "samsyn",

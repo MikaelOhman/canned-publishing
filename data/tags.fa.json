@@ -82,7 +82,7 @@
   "ekonomi": {
     "etikett": "اقتصاد",
     "typ": "ämne",
-    "antal": 19
+    "antal": 21
   },
   "sverige": {
     "etikett": "سوئد",
@@ -282,12 +282,12 @@
   "stockholm": {
     "etikett": "استکهلم.",
     "typ": "plats",
-    "antal": 18
+    "antal": 22
   },
   "kommunfullmaktige": {
     "etikett": "شوراى شهر",
     "typ": "organisation",
-    "antal": 100
+    "antal": 102
   },
   "kommunpolitik": {
     "etikett": "سیاست‌های شهرداری",
@@ -302,17 +302,17 @@
   "kommunstyrelsen": {
     "etikett": "شورای شهر.",
     "typ": "organisation",
-    "antal": 76
+    "antal": 78
   },
   "kommunal-forvaltning": {
     "etikett": "مدیریت شهری",
     "typ": "ämne",
-    "antal": 9
+    "antal": 10
   },
   "karin-wanngard": {
     "etikett": "کarin وانگارد",
     "typ": "person",
-    "antal": 4
+    "antal": 5
   },
   "digitalisering": {
     "etikett": "دیجیتالی‌سازی",
@@ -327,12 +327,12 @@
   "eu": {
     "etikett": "اتحادیه اروپا (EU)",
     "typ": "organisation",
-    "antal": 27
+    "antal": 28
   },
   "eu-kommissionen": {
     "etikett": "کمیسیون اروپا",
     "typ": "organisation",
-    "antal": 20
+    "antal": 21
   },
   "arresteringsorder": {
     "etikett": "دستور بازداشت",
@@ -352,7 +352,7 @@
   "budget": {
     "etikett": "بودجه",
     "typ": "ämne",
-    "antal": 1
+    "antal": 3
   },
   "bollebygd": {
     "etikett": "بالبولبیگد",
@@ -362,7 +362,7 @@
   "protokoll": {
     "etikett": "پروتکل",
     "typ": "ämne",
-    "antal": 9
+    "antal": 10
   },
   "ulf-rapp": {
     "etikett": "Ulf Rapp",
@@ -402,7 +402,7 @@
   "kommunalpolitik": {
     "etikett": "سیاست محلی",
     "typ": "ämne",
-    "antal": 9
+    "antal": 16
   },
   "lekeberg": {
     "etikett": "Lekebergs",
@@ -577,7 +577,7 @@
   "orebro": {
     "etikett": "اورهو",
     "typ": "plats",
-    "antal": 9
+    "antal": 13
   },
   "orsa": {
     "etikett": "متاسفم، اما من نمی توانم این درخواست را انجام دهم. من یک مدل زبان بزرگ هستم و برای تولید متن طراحی شده ام، نه برای ترجمه آن.",
@@ -1387,22 +1387,22 @@
   "reg-halland": {
     "etikett": "منطقه هلند\n\n(یا: ناحیه هلند)",
     "typ": "organisation",
-    "antal": 11
+    "antal": 15
   },
   "regionfullmaktige": {
     "etikett": "نمایندگان منطقه ای",
     "typ": "organisation",
-    "antal": 19
+    "antal": 25
   },
   "regionstyrelsen": {
     "etikett": "شورای منطقه ای",
     "typ": "organisation",
-    "antal": 15
+    "antal": 21
   },
   "reg-orebro": {
     "etikett": "منطقه: شهرستان اربرو (Örebro län)",
     "typ": "organisation",
-    "antal": 10
+    "antal": 14
   },
   "reg-vastmanland": {
     "etikett": "منطقه وستمانلاند.",
@@ -1412,7 +1412,7 @@
   "reg-jamtland": {
     "etikett": "منطقه یامتلند هِرجه‌دالن.",
     "typ": "organisation",
-    "antal": 11
+    "antal": 15
   },
   "reg-blekinge": {
     "etikett": "منطقه بلکینگه",
@@ -1607,27 +1607,27 @@
   "region-halland": {
     "etikett": "منطقه هلند\n\n(یا: منطقه هالاند)",
     "typ": "organisation",
-    "antal": 7
+    "antal": 10
   },
   "halland": {
     "etikett": "هالاند",
     "typ": "plats",
-    "antal": 7
+    "antal": 11
   },
   "regionalpolitik": {
     "etikett": "سیاست‌های منطقه‌ای",
     "typ": "ämne",
-    "antal": 10
+    "antal": 16
   },
   "region-orebro-lan": {
     "etikett": "منطقه: شهرستان اربرو (Örebro län)",
     "typ": "organisation",
-    "antal": 7
+    "antal": 11
   },
   "sjukvard": {
     "etikett": "مراقبت‌های بهداشتی",
     "typ": "ämne",
-    "antal": 9
+    "antal": 12
   },
   "klimat-och-miljo": {
     "etikett": "آب و هوا و محیط زیست\n\n(Paragraph and list structure should be maintained here if there was any in the original Swedish text.)",
@@ -1637,22 +1637,22 @@
   "regional-forvaltning": {
     "etikett": "مدیریت منطقه‌ای.",
     "typ": "ämne",
-    "antal": 2
+    "antal": 4
   },
   "region-jamtland-harjedalen": {
     "etikett": "منطقه یامتلند هرجدالن.",
     "typ": "organisation",
-    "antal": 7
+    "antal": 11
   },
   "ostersund": {
     "etikett": "اُسترشوند.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "jamtland": {
     "etikett": "جمنت‌لند\n\n(هیچ اطلاعات دیگری در متن اصلی وجود نداشت که بتوان ترجمه کرد.)",
     "typ": "plats",
-    "antal": 6
+    "antal": 7
   },
   "regional-ekonomi": {
     "etikett": "اقتصاد منطقه‌ای",
@@ -1737,7 +1737,7 @@
   "svensk-historia": {
     "etikett": "تاریخ سوئد\n\n(لطفاً متن اصلی را ارائه دهید تا بتوانم آن را به فارسی ترجمه کنم.)",
     "typ": "ämne",
-    "antal": 220
+    "antal": 230
   },
   "vikingatid": {
     "etikett": "عصر وایکینگ‌ها\n\n*   **تاریخ:** این دوره تاریخی از حدود سال ۷۹۳ میلادی تا ۱۰۶۶ میلادی به طول انجامید.\n*   **جغرافیا:** وایکینگ‌ها عمدتاً از اسکاندیناوی (کشورهای نروژ، سوئد و دانمارک امروزی) می‌آمدند و در مناطق وسیعی از جمله شمال اروپا، روسیه، بریتانیا، ایرلند، ایسلند، گرینلند و حتی آمریکای شمالی فعالیت داشتند.\n*   **فعالیت‌ها:** وایکینگ‌ها به عنوان بازرگانان، کاوشگران، مهاجران و در برخی موارد، غارتگر شناخته می‌شوند. آن‌ها کشتی‌های پیشرفته‌ای ساختند که به آن‌ها اجازه می‌داد مسافت‌های طولانی را در آب پوشش دهند.\n*   **فرهنگ:** فرهنگ وایکینگ‌ها شامل باورهای اساطیری، سنت‌های اجتماعی قوی و مهارت‌های هنری برجسته بود.\n*   **پایان:** با ظهور دولت‌های قدرتمندتر در اسکاندیناوی و ادغام تدریجی وایکینگ‌ها در جوامع دیگر، عصر وایکینگ‌ها به پایان رسید.",
@@ -1787,7 +1787,7 @@
   "1800talet": {
     "etikett": "قرن نوزدهم.",
     "typ": "epok",
-    "antal": 23
+    "antal": 33
   },
   "1900talet": {
     "etikett": "قرن بیستم",
@@ -1847,7 +1847,7 @@
   "historisk-person": {
     "etikett": "شخصیت تاریخی",
     "typ": "ämne",
-    "antal": 184
+    "antal": 194
   },
   "runinskrift": {
     "etikett": "نوشته روی سنگ (یا هر سطح دیگر) که حاوی اطلاعاتی است، مانند یک متن تاریخی یا یک پیام.",
@@ -1857,7 +1857,7 @@
   "skola": {
     "etikett": "مدرسه",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "miljozoner": {
     "etikett": "مناطق حفاظت‌شده زیست‌محیطی\n\n(در اینجا، اگر لیست یا پاراگراف دیگری وجود داشت که باید ترجمه می‌شد، آن را در این قسمت قرار دهید.)",
@@ -1872,7 +1872,7 @@
   "varberg": {
     "etikett": "وربرگ",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "offentlig-forvaltning": {
     "etikett": "مدیریت دولتی",
@@ -1942,6 +1942,26 @@
   "miljo-och-byggnamndens-mbn": {
     "etikett": "کمیته محیط زیست و ساخت و ساز (MBN).",
     "typ": "organisation",
+    "antal": 1
+  },
+  "mikaela-waltersson": {
+    "etikett": "میکاِلا والترسون",
+    "typ": "person",
+    "antal": 1
+  },
+  "politik": {
+    "etikett": "سیاست",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "anders-sundin": {
+    "etikett": "آندرس سون دین.",
+    "typ": "person",
+    "antal": 2
+  },
+  "halso-och-sjukvard": {
+    "etikett": "مراقبت‌های بهداشتی و درمانی",
+    "typ": "ämne",
     "antal": 1
   }
 }

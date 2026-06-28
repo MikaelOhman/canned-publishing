@@ -112,7 +112,7 @@
   "ekonomi": {
     "etikett": "Economía",
     "typ": "ämne",
-    "antal": 19
+    "antal": 21
   },
   "sverige": {
     "etikett": "Suecia",
@@ -287,12 +287,12 @@
   "stockholm": {
     "etikett": "Estocolmo.",
     "typ": "plats",
-    "antal": 18
+    "antal": 22
   },
   "kommunfullmaktige": {
     "etikett": "El ayuntamiento.",
     "typ": "organisation",
-    "antal": 100
+    "antal": 102
   },
   "kommunpolitik": {
     "etikett": "Política municipal.",
@@ -307,17 +307,17 @@
   "kommunstyrelsen": {
     "etikett": "El consejo municipal.",
     "typ": "organisation",
-    "antal": 76
+    "antal": 78
   },
   "kommunal-forvaltning": {
     "etikett": "Administración municipal.",
     "typ": "ämne",
-    "antal": 8
+    "antal": 9
   },
   "karin-wanngard": {
     "etikett": "Karin Wanngård.",
     "typ": "person",
-    "antal": 4
+    "antal": 5
   },
   "digitalisering": {
     "etikett": "Digitalización.",
@@ -332,12 +332,12 @@
   "eu": {
     "etikett": "La Unión Europea (UE)",
     "typ": "organisation",
-    "antal": 28
+    "antal": 29
   },
   "eu-kommissionen": {
     "etikett": "La Comisión Europea.",
     "typ": "organisation",
-    "antal": 20
+    "antal": 21
   },
   "alingsas": {
     "etikett": "Alingsås.",
@@ -352,7 +352,7 @@
   "budget": {
     "etikett": "Presupuesto.",
     "typ": "ämne",
-    "antal": 1
+    "antal": 3
   },
   "bollebygd": {
     "etikett": "Bollebygds.",
@@ -362,7 +362,7 @@
   "protokoll": {
     "etikett": "Acta.",
     "typ": "ämne",
-    "antal": 9
+    "antal": 10
   },
   "ulf-rapp": {
     "etikett": "Ulf Rapp",
@@ -382,7 +382,7 @@
   "kommunalpolitik": {
     "etikett": "Política municipal.",
     "typ": "ämne",
-    "antal": 10
+    "antal": 17
   },
   "ange": {
     "etikett": "Ånge.",
@@ -577,7 +577,7 @@
   "orebro": {
     "etikett": "Örebro.",
     "typ": "plats",
-    "antal": 9
+    "antal": 13
   },
   "orsa": {
     "etikett": "Orsa.",
@@ -1392,22 +1392,22 @@
   "reg-halland": {
     "etikett": "Región de Halland.",
     "typ": "organisation",
-    "antal": 11
+    "antal": 15
   },
   "regionfullmaktige": {
     "etikett": "Concejales regionales.",
     "typ": "organisation",
-    "antal": 19
+    "antal": 25
   },
   "regionstyrelsen": {
     "etikett": "Junta regional.",
     "typ": "organisation",
-    "antal": 15
+    "antal": 21
   },
   "reg-orebro": {
     "etikett": "Región de Örebro län.",
     "typ": "organisation",
-    "antal": 10
+    "antal": 14
   },
   "reg-vastmanland": {
     "etikett": "Región de Västmanland.",
@@ -1417,7 +1417,7 @@
   "reg-jamtland": {
     "etikett": "Región de Jämtland y Härjedalen.",
     "typ": "organisation",
-    "antal": 11
+    "antal": 15
   },
   "reg-blekinge": {
     "etikett": "Región de Blekinge.",
@@ -1612,27 +1612,27 @@
   "region-halland": {
     "etikett": "Región de Halland.",
     "typ": "organisation",
-    "antal": 7
+    "antal": 10
   },
   "halland": {
     "etikett": "Halland.",
     "typ": "plats",
-    "antal": 7
+    "antal": 11
   },
   "regionalpolitik": {
     "etikett": "Política regional.",
     "typ": "ämne",
-    "antal": 10
+    "antal": 16
   },
   "region-orebro-lan": {
     "etikett": "Región de Örebro län.",
     "typ": "organisation",
-    "antal": 7
+    "antal": 11
   },
   "sjukvard": {
     "etikett": "Atención médica.",
     "typ": "ämne",
-    "antal": 9
+    "antal": 12
   },
   "klimat-och-miljo": {
     "etikett": "Clima y medio ambiente.\n\n*   [Nombre], [Número de teléfono], [Dirección de correo electrónico]\n*   [Fecha]\n*   [URL]",
@@ -1642,22 +1642,22 @@
   "regional-forvaltning": {
     "etikett": "Administración regional.",
     "typ": "ämne",
-    "antal": 2
+    "antal": 4
   },
   "region-jamtland-harjedalen": {
     "etikett": "Región de Jämtland y Härjedalen.",
     "typ": "organisation",
-    "antal": 7
+    "antal": 11
   },
   "ostersund": {
     "etikett": "Östersund.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "jamtland": {
     "etikett": "Jämtland.",
     "typ": "plats",
-    "antal": 6
+    "antal": 7
   },
   "regional-ekonomi": {
     "etikett": "Economía regional.",
@@ -1737,7 +1737,7 @@
   "svensk-historia": {
     "etikett": "Historia sueca:\n\n*   [Nombre propio]\n*   [Número]\n*   [Fecha]\n*   [URL]",
     "typ": "ämne",
-    "antal": 221
+    "antal": 230
   },
   "vikingatid": {
     "etikett": "La era vikinga.",
@@ -1787,7 +1787,7 @@
   "1800talet": {
     "etikett": "Siglo XIX.",
     "typ": "epok",
-    "antal": 24
+    "antal": 33
   },
   "1900talet": {
     "etikett": "Siglo XX.",
@@ -1847,7 +1847,7 @@
   "historisk-person": {
     "etikett": "Figura histórica.",
     "typ": "ämne",
-    "antal": 185
+    "antal": 194
   },
   "runinskrift": {
     "etikett": "Inscripción rúnica.",
@@ -1857,7 +1857,7 @@
   "skola": {
     "etikett": "Escuela.",
     "typ": "ämne",
-    "antal": 1
+    "antal": 2
   },
   "miljozoner": {
     "etikett": "Zonas de protección ambiental.\n\n*   **Vad är en miljözon?** (¿Qué es una zona de protección ambiental?)\n*   **Var finns det miljözoner?** (¿Dónde se encuentran las zonas de protección ambiental?)\n*   **Vilka regler gäller i en miljözon?** (¿Qué normas se aplican en una zona de protección ambiental?)\n*   **Hur påverkar miljözonerna trafiken?** (¿Cómo afectan las zonas de protección ambiental al tráfico?)\n*   **Mer information:** [www.exempelwebbplats.se](www.exempelwebbplats.se) (Más información: [www.exempelwebbplats.se])",
@@ -1872,7 +1872,7 @@
   "varberg": {
     "etikett": "Varberg.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "offentlig-forvaltning": {
     "etikett": "Administración pública.",
@@ -1942,6 +1942,26 @@
   "miljo-och-byggnamndens-mbn": {
     "etikett": "Comisión de Medio Ambiente y Construcción (MBN).",
     "typ": "organisation",
+    "antal": 1
+  },
+  "mikaela-waltersson": {
+    "etikett": "Mikaela Waltersson.",
+    "typ": "person",
+    "antal": 1
+  },
+  "politik": {
+    "etikett": "Política.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "anders-sundin": {
+    "etikett": "Anders Sundin.",
+    "typ": "person",
+    "antal": 2
+  },
+  "halso-och-sjukvard": {
+    "etikett": "Atención médica y sanitaria.",
+    "typ": "ämne",
     "antal": 1
   }
 }

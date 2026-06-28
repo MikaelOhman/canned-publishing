@@ -58,6 +58,23 @@
     }
   },
   {
+    "id": "eu-kommissionen-2026-06-27-doorstep-statement-by-commissi",
+    "typ": "omvarld",
+    "titel": "Az Európai Bizottság izraeli biztosának, Lahbibnek a budapesti Pride rendezvényen elhangzott nyilatkozata, közvetlenül a közönségnek szólva:",
+    "ingress": "Az EU bizottságának tagja, Lahbib részt vett egy melegségünnepségen (Pride-parádén) Budapesten, hogy kifejezze támogatását a LMBTQ+ személyek jogai iránt. Kiemelte a szabadság fontosságát, különösen azért, mert a tavalyi évben a felvonulást",
+    "datum": "2026-06-27",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1474",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ],
+    "relevans": {
+      "hbtq": 3,
+      "klimat": 3
+    }
+  },
+  {
     "id": "mcf-2026-06-26-krav-pa-sakerhetsatgarder-som-",
     "typ": "myndighet",
     "titel": "Kiberbiztonságot erősítő biztonsági intézkedésekre vonatkozó követelmények",
@@ -11181,6 +11198,29 @@
     }
   },
   {
+    "id": "stockholm-kommunstyrelsen-2026-02-04",
+    "typ": "kommunbeslut",
+    "titel": "A stockholmi városháza kommunális bizottsága, 2026. február 4.",
+    "ingress": "A stockholmi önkormányzat új szabályokat fogadott el egy kutyasétáló hely terén, valamint egy új sportközpontról szóló jelentést dolgozott ki, és válaszolt a felnőttképzés keretében szervezett úszásoktatás javaslatára.",
+    "datum": "2026-02-04",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunstyrelsen/mote-2026-02-04",
+    "taggar": [
+      "stockholm",
+      "kommunstyrelsen"
+    ],
+    "relevans": {
+      "b_industri": 3,
+      "b_bygg": 3,
+      "b_utbildning": 3,
+      "barn": 3,
+      "vuxenstudier": 3,
+      "ny_i_sverige": 3,
+      "husdjur": 3,
+      "idrott": 5
+    }
+  },
+  {
     "id": "HD03111",
     "typ": "lagforslag",
     "titel": "A Számvevőszék jelentése a állami intézkedésekről a hagyatéki ügyek kezelésében – vizsgálat, kezelés és elosztás.",
@@ -11549,6 +11589,25 @@
     }
   },
   {
+    "id": "stockholm-kommunstyrelsen-2026-01-21",
+    "typ": "kommunbeslut",
+    "titel": "A stockholmi városháza kommunális bizottsága, 2026. január 21.",
+    "ingress": "A stockholmi önkormányzat döntést hozott egy vezetői pozíció meghosszabbításáról a szolgáltatási igazgatóságon, és véleményt formált a parkolási díjakról, valamint a Stadsgårdskaj kikötő fejlesztéséről.",
+    "datum": "2026-01-21",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunstyrelsen/mote-2026-01-21",
+    "taggar": [
+      "stockholm",
+      "kommunstyrelsen",
+      "kommunalpolitik",
+      "karin-wanngard"
+    ],
+    "relevans": {
+      "b_fastighet": 3,
+      "bil": 3
+    }
+  },
+  {
     "id": "HD0394",
     "typ": "lagforslag",
     "titel": "Az EU fenntarthatósági besorolási rendeletének kiegészítő rendelkezései.",
@@ -11730,6 +11789,28 @@
       "solo": 4,
       "aktiebolag": 4,
       "storforetag": 4
+    }
+  },
+  {
+    "id": "reg-halland-regionstyrelsen-2025-12-17",
+    "typ": "region",
+    "titel": "A Halland régió regionális testülete, 2025. december 17.",
+    "ingress": "A Halland régió tervezi a várólisták csökkentését, és frissítette a hosszú távú egészségügyi stratégiáját, amely 2035-ig terjed.",
+    "datum": "2025-12-17",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionstyrelsen/mote-2025-12-17",
+    "taggar": [
+      "reg-halland",
+      "regionstyrelsen",
+      "halland",
+      "region-halland",
+      "regionalpolitik",
+      "kommunal-forvaltning"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_fastighet": 3,
+      "kronisk": 8
     }
   },
   {
@@ -12294,6 +12375,57 @@
       "otrygg": 3,
       "b_handel": 3,
       "fortroendevald": 3
+    }
+  },
+  {
+    "id": "reg-orebro-regionstyrelsen-2025-12-09",
+    "typ": "region",
+    "titel": "A Regionális Igazgatóság (Regionstyrelsen), az Örebro megyei régió részét képező szervezet, 2025. december 9-én kelt dokumentum.",
+    "ingress": "Az Örebro megyei regionális tanács fontos döntéseket hozott a 2026-os évre vonatkozóan, többek között a költségvetésről, az egészségügyi ellátásról, a szervezetek támogatásáról és a közlekedési tervezésről.",
+    "datum": "2025-12-09",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionstyrelsen/mote-2025-12-09",
+    "taggar": [
+      "reg-orebro",
+      "regionstyrelsen",
+      "region-orebro-lan",
+      "orebro",
+      "regional-forvaltning",
+      "politik"
+    ],
+    "relevans": {
+      "b_transport": 3,
+      "b_fastighet": 3,
+      "infrastruktur": 3,
+      "barn": 3,
+      "glesbygd": 3,
+      "kronisk": 8
+    }
+  },
+  {
+    "id": "reg-jamtland-regionstyrelsen-2025-12-09",
+    "typ": "region",
+    "titel": "A Jämtland Härjedalen régió regionális testülete, 2025. december 9.",
+    "ingress": "A Jämtland Härjedalen régió igazgatósága áttekintette a 2025-ös évi jelentéseit, és megállapította, hogy közel 300 millió svéd koronával járó veszteséggel kell számolniuk.",
+    "datum": "2025-12-09",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionstyrelsen/mote-2025-12-09",
+    "taggar": [
+      "reg-jamtland",
+      "regionstyrelsen",
+      "region-jamtland-harjedalen",
+      "regional-forvaltning",
+      "ekonomi",
+      "halso-och-sjukvard"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_fastighet": 3,
+      "kollektivavtal": 3,
+      "arbetsmiljo": 3,
+      "pensionar": 3,
+      "kronisk": 8,
+      "kultur": 3
     }
   },
   {
@@ -12903,6 +13035,30 @@
     }
   },
   {
+    "id": "reg-jamtland-regionstyrelsen-2025-11-24",
+    "typ": "region",
+    "titel": "A Jämtland Härjedalen régió regionális testülete, 2025. november 24.",
+    "ingress": "A régió úgy döntött, hogy a \"Norrlandsresan\" utazás árazásáról szóló döntést a 2026 első felére halasztja el. Ennek oka az, hogy az új országos jegyrendszer még folyamatban van a bevezetése.",
+    "datum": "2025-11-24",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionstyrelsen/mote-2025-11-24",
+    "taggar": [
+      "reg-jamtland",
+      "regionstyrelsen",
+      "region-jamtland-harjedalen",
+      "sjukvard",
+      "regionalpolitik",
+      "ekonomi"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "pendlare": 3,
+      "kollektiv": 5,
+      "kronisk": 8,
+      "konsument": 3
+    }
+  },
+  {
     "id": "ange-kommunstyrelsen-2025-11-21",
     "typ": "kommunbeslut",
     "titel": "Az Ånge önkormányzat kommunális bizottsága, 2025. november 21.",
@@ -12940,6 +13096,54 @@
       "b_utbildning": 4,
       "idrott": 4,
       "mark_bygglov": 4
+    }
+  },
+  {
+    "id": "stockholm-kommunfullmaktige-2025-11-19",
+    "typ": "kommunbeslut",
+    "titel": "Stockholm Város Tanácsa, 2025. november 19.",
+    "ingress": "Stockholm városa jóváhagyta a 2026-os költségvetését, valamint a 2027-es és 2028-as évekre vonatkozó terveket. Ez a döntés azt jelenti, hogy a város rendelkezik azokkal az összegekkel és irányelvekkel, amelyek szükségesek az iskolák, a szoc",
+    "datum": "2025-11-19",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunfullmaktige/mote-2025-11-19",
+    "taggar": [
+      "stockholm",
+      "kommunfullmaktige",
+      "kommunalpolitik",
+      "budget"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_vard": 3,
+      "b_fastighet": 3,
+      "b_kultur": 3,
+      "barn": 5,
+      "pensionar": 3,
+      "kronisk": 3,
+      "kultur": 3
+    }
+  },
+  {
+    "id": "reg-halland-regionstyrelsen-2025-11-19",
+    "typ": "region",
+    "titel": "A Halland régió regionális testülete, 2025. november 19.",
+    "ingress": "A Halland megyei regionális tanács döntést hozott a jövőbeli beruházásokról, amelyek érintik a vasúti forgalmat, az egészségügyet és a helyi projekteket 2026-tól kezdve. Tervezik továbbá a bántalmazás áldozatainak jobb ellátását, valamint a",
+    "datum": "2025-11-19",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionstyrelsen/mote-2025-11-19",
+    "taggar": [
+      "reg-halland",
+      "regionstyrelsen",
+      "halland",
+      "regionalpolitik",
+      "mikaela-waltersson"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "fou": 3,
+      "kollektiv": 5,
+      "kronisk": 8,
+      "kultur": 3
     }
   },
   {
@@ -13096,6 +13300,31 @@
       "pendlare": 3,
       "miljo": 4,
       "b_energi": 4
+    }
+  },
+  {
+    "id": "stockholm-kommunfullmaktige-2025-11-18",
+    "typ": "kommunbeslut",
+    "titel": "Stockholmi Város Tanácsa, 2025. november 18.",
+    "ingress": "Stockholm városa megvitatta és jóváhagyta a 2026-os költségvetését, valamint terveket dolgozott ki a 2027-es és 2028-as évekre. A döntések többek között érintik azokat a területeket, amelyekre pénzügyi forrás áll rendelkezésre: környezetvéd",
+    "datum": "2025-11-18",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunfullmaktige/mote-2025-11-18",
+    "taggar": [
+      "stockholm",
+      "kommunfullmaktige",
+      "kommunalpolitik",
+      "budget",
+      "skola"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_bygg": 3,
+      "b_vard": 3,
+      "barn": 3,
+      "konsument": 3,
+      "idrott": 3,
+      "klimat": 3
     }
   },
   {
@@ -13390,6 +13619,27 @@
       "b_utbildning": 4,
       "mark_bygglov": 4,
       "infrastruktur": 3
+    }
+  },
+  {
+    "id": "reg-orebro-regionstyrelsen-2025-11-05",
+    "typ": "region",
+    "titel": "A Regionális Igazgatóság (Regionstyrelsen), az Örebro megyei régió részéről, 2025. november 5.",
+    "ingress": "Az Örebro megyei regionális önkormányzat egy javaslatot kapott, amely a szolgáltatásnyújtás keretében történő utazások foglalására és kifizetésére vonatkozó szabályok frissítését célozza meg.",
+    "datum": "2025-11-05",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionstyrelsen/mote-2025-11-05",
+    "taggar": [
+      "reg-orebro",
+      "regionstyrelsen",
+      "region-orebro-lan",
+      "orebro",
+      "regionalpolitik"
+    ],
+    "relevans": {
+      "b_transport": 3,
+      "kronisk": 8,
+      "idrott": 3
     }
   },
   {
@@ -16194,6 +16444,27 @@
     }
   },
   {
+    "id": "reg-jamtland-regionfullmaktige-2025-04-30",
+    "typ": "region",
+    "titel": "Jämtland Härjedalen megye regionális képviselője, 2025. április 30.",
+    "ingress": "Ez a jegyzőkönyv a Jämtland Härjedalen régió 2025. április 30-i ülésének dokumentációja. A jelenlegi állapot szerint a dokumentum csak az ülés napirendjét és a résztvevők listáját tartalmazza.",
+    "datum": "2025-04-30",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionfullmaktige/mote-2025-04-30",
+    "taggar": [
+      "reg-jamtland",
+      "regionfullmaktige",
+      "region-jamtland-harjedalen",
+      "jamtland",
+      "regionalpolitik",
+      "anders-sundin"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "kronisk": 8
+    }
+  },
+  {
     "id": "HC03159",
     "typ": "lagforslag",
     "titel": "F-adó jóváhagyása – új akadályok és visszavonási okok",
@@ -16272,6 +16543,34 @@
       "arbetstillstand": 5,
       "integritet": 4,
       "offentliganstalld": 3
+    }
+  },
+  {
+    "id": "reg-halland-regionfullmaktige-2025-04-23",
+    "typ": "region",
+    "titel": "Hallandi Megyei Közgyűlés tagjai, 2025. április 23.",
+    "ingress": "A Halland régió vezetősége döntéseket hozott a 2024-es év utáni gazdasági helyzetről, az éves jelentésről és a vezetőkre vonatkozó felelősségvállalásról. Emellett több javaslatot is megvitattak, amelyek érintették például a munkahelyi egész",
+    "datum": "2025-04-23",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionfullmaktige/mote-2025-04-23",
+    "taggar": [
+      "reg-halland",
+      "regionfullmaktige",
+      "region-halland",
+      "halland",
+      "kommunalpolitik",
+      "protokoll"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_kultur": 3,
+      "redovisning": 3,
+      "barn": 3,
+      "kronisk": 8,
+      "psykisk": 3,
+      "idrott": 3,
+      "klimat": 3,
+      "kultur": 5
     }
   },
   {
@@ -16533,6 +16832,33 @@
       "eu_marknad": 4,
       "b_it": 3,
       "fortroendevald": 3
+    }
+  },
+  {
+    "id": "reg-orebro-regionfullmaktige-2025-04-08",
+    "typ": "region",
+    "titel": "Örebro megyei regionális képviselőtestület, 2025. április 8.",
+    "ingress": "Az Örebro megyei regionális gyűlés számos javaslatot és kérdést kapott, amelyek a következőkkel kapcsolatosak: egészségügy, tömegközlekedés és kultúra. A következő év során ezeket az ügyeket felül fogják vizsgálni vagy válaszolni rájuk.",
+    "datum": "2025-04-08",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionfullmaktige/mote-2025-04-08",
+    "taggar": [
+      "reg-orebro",
+      "regionfullmaktige",
+      "region-orebro-lan",
+      "orebro",
+      "sjukvard",
+      "kommunalpolitik"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "redovisning": 3,
+      "barn": 3,
+      "pendlare": 3,
+      "bil": 3,
+      "kollektiv": 8,
+      "kronisk": 8,
+      "kultur": 3
     }
   },
   {
@@ -17459,6 +17785,30 @@
     }
   },
   {
+    "id": "reg-orebro-regionfullmaktige-2025-02-26",
+    "typ": "region",
+    "titel": "Örebro megyei regionális képviselőtestület, 2025. február 26.",
+    "ingress": "Az Örebro megyei regionális gyűlés több jelentést kapott a könyvvizsgálókól. A jelentések arról szólnak, hogyan működik az egészségügyi ellátás bizonyos fogyatékossággal élő gyermekek számára, hogyan lehet megakadályozni a visszaéléseket a",
+    "datum": "2025-02-26",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionfullmaktige/mote-2025-02-26",
+    "taggar": [
+      "reg-orebro",
+      "regionfullmaktige",
+      "region-orebro-lan",
+      "orebro",
+      "kommunalpolitik",
+      "sjukvard"
+    ],
+    "relevans": {
+      "b_vard": 3,
+      "b_finans": 3,
+      "barn": 5,
+      "kronisk": 8,
+      "funktion": 3
+    }
+  },
+  {
     "id": "HC03110",
     "typ": "lagforslag",
     "titel": "Szabályozási könnyítések és nagyobb átláthatóság az értékpapírpiacon",
@@ -17608,6 +17958,29 @@
       "mark_bygglov": 5,
       "lokaler": 4,
       "bil": 3
+    }
+  },
+  {
+    "id": "reg-jamtland-regionfullmaktige-2025-02-11",
+    "typ": "region",
+    "titel": "Jämtland Härjedalen megyei képviselőtestület, 2025. február 11.",
+    "ingress": "A Jämtland Härjedalen régió képviselőháza egy ülést tartott, ahol áttekintették a különböző bizottságok jelentéseit, és válaszoltak a polgári kezdeményezésekre, többek között az utazási támogatásokkal kapcsolatos kérdésekre és a demenciás b",
+    "datum": "2025-02-11",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionfullmaktige/mote-2025-02-11",
+    "taggar": [
+      "reg-jamtland",
+      "regionfullmaktige",
+      "region-jamtland-harjedalen",
+      "ostersund",
+      "regionalpolitik",
+      "anders-sundin"
+    ],
+    "relevans": {
+      "fou": 3,
+      "pensionar": 3,
+      "kronisk": 8,
+      "klimat": 5
     }
   },
   {
@@ -17961,6 +18334,33 @@
       "ung": 3,
       "kronisk": 3,
       "otrygg": 3
+    }
+  },
+  {
+    "id": "reg-halland-regionfullmaktige-2024-12-04",
+    "typ": "region",
+    "titel": "Halland megyei képviselőtestület, 2024. december 4.",
+    "ingress": "A Hallandi régió több fontos döntést hozott az egészségügy, az oktatás és a személyzet ellátása terén.",
+    "datum": "2024-12-04",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionfullmaktige/mote-2024-12-04",
+    "taggar": [
+      "reg-halland",
+      "regionfullmaktige",
+      "region-halland",
+      "halland",
+      "kommunalpolitik",
+      "varberg"
+    ],
+    "relevans": {
+      "arbetsgivare": 5,
+      "barn": 5,
+      "ung": 3,
+      "kvinna": 3,
+      "man": 3,
+      "gymnasieelev": 3,
+      "kronisk": 8,
+      "tandvard": 3
     }
   },
   {
@@ -23550,6 +23950,228 @@
     },
     "epok": "1800talet",
     "tid": "d. 1841",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q345654",
+    "typ": "historia",
+    "titel": "Carl Adolph Agardh.",
+    "ingress": "Carl Adolph Agardh egy svéd tudós és püspök volt a 19. században, aki nagy hírnévre tett szert növényekkel kapcsolatos kutatásairól, különösen algákkal kapcsolatban.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Carl_Adolph_Agardh",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "b_it": 3,
+      "fou": 3,
+      "student": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1859",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q234311",
+    "typ": "historia",
+    "titel": "Dánia hercegnője, Sofia Mária Magdaléna.",
+    "ingress": "Sofia Mária dán hercegnő volt, aki Svédország királynéja lett, miután feleségül ment a svéd királyhoz, Gusztáv III-hoz. Dániában nőtt fel, és uralkodása alatt politikai feszültségek jellemezték a két ország közötti kapcsolatot.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Sofia_Magdalena_av_Danmark",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "b_vard": 3,
+      "b_kultur": 3,
+      "sambo_gift": 3,
+      "husdjur": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1813",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q526915",
+    "typ": "historia",
+    "titel": "Eugénia svéd és norvég hercegnő.",
+    "ingress": "Eugénia hercegnő a 19. századi svéd hercegnő volt, aki híres volt művészetéről, zenéjéről és arról, hogy segített beteg gyerekeknek.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Prinsessan_Eugénie_av_Sverige_och_Norge",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_kultur": 3,
+      "barn": 3,
+      "kvinna": 3,
+      "kultur": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1889",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q353490",
+    "typ": "historia",
+    "titel": "Johan Gottlieb Gahn.",
+    "ingress": "Johan Gottlieb Gahn egy svéd tudós volt, aki a 18. században jelentős felfedezéseket tett a kémia és a mineralógia területén. Fontos személyisége volt a tudományos életnek, bár ritkán jegyezte fel saját eredményeit.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Johan_Gottlieb_Gahn",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "epok": "1800talet",
+    "tid": "d. 1818",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q350420",
+    "typ": "historia",
+    "titel": "Salomon August Andrée",
+    "ingress": "S.A. Andrée svéd feltaláló és kutató volt, aki híressé vált azért a kudarcba fulladt kísérletért, hogy léggömbbel elérje az Északi-sarkot 1897-ben. Ő és két társával együtt meghalt a jégtakarón, és naplóik csak 33 évvel később kerültek elő.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Salomon_August_Andrée",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "b_transport": 3,
+      "b_kultur": 3,
+      "immaterialratt": 3,
+      "flygresenar": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1897",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q468303",
+    "typ": "historia",
+    "titel": "Anders Gustaf Ekeberg.",
+    "ingress": "Anders Gustaf Ekeberg egy 18. századi svéd kémikus volt, aki felfedezte a tantált, és hozzájárult ahhoz, hogy svéd neveket adjanak olyan elemeknek, mint az oxigén, a hidrogén és a nitrogén.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Anders_Gustaf_Ekeberg",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "fou": 3,
+      "student": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1813",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q468316",
+    "typ": "historia",
+    "titel": "Carl Gustaf Mosander",
+    "ingress": "Carl Gustaf Mosander egy svéd kémikus és tanár volt a 19. században. Leginkább arról ismert, hogy kutatásai során több új kémiai elemet fedezett fel.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Carl_Gustaf_Mosander",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "miljo": 3,
+      "fou": 3,
+      "student": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1858",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q444538",
+    "typ": "historia",
+    "titel": "Per Daniel Amadeus Atterbom.",
+    "ingress": "Per Daniel Amadeus Atterbom egy híres svéd író, tanár és professzor volt a 19. században. Leginkább érzékeny verseiről ismert, valamint arról, hogy új, fantáziadús stílusokat vezetett be a svéd irodalomban.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Per_Daniel_Amadeus_Atterbom",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "barn": 3,
+      "student": 3,
+      "klimat": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1855",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q432129",
+    "typ": "historia",
+    "titel": "Viktor Rydberg.",
+    "ingress": "Viktor Rydberg a 19. század egyik legfontosabb svéd írója és költője volt. Híres verseiről, külföldi könyvek fordításairól és arról, hogy tagja volt a Svéd Királyi Akadémiának.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Viktor_Rydberg",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "ung": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1895",
     "kallage": "samtida",
     "sakerhet": "belagt",
     "konsensus": "samsyn",
