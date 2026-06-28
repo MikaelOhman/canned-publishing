@@ -365,5 +365,33 @@
     "rubrik": "Inskrypcja",
     "translit": "Transliteracja",
     "normalisering": "Normalizacja (staronordyjski)"
+  },
+  "granskat": {
+    "rubrik": "Sprawdzone dzisiaj",
+    "intro": "Najszerzej relacjonowane wiadomości w tej chwili, ważone pod kątem niezależności. Oddzielamy media kontrolowane przez państwo (państwo wyznacza linię – ryzyko propagandy) od finansowanych publicznie, lecz niezależnych redakcyjnie mediów publicznych, i oznaczamy, gdzie relacja opiera się na niewielu właścicielach lub gdzie media państwowe forsują inny punkt widzenia.",
+    "kallor": "źródła",
+    "lander": "kraje",
+    "oberoende": "niezależni właściciele",
+    "statsfin": "media publiczne",
+    "statskontr": "kontrolowane przez państwo",
+    "faktabas": "Baza faktów",
+    "faktabas_hjalp": "Jak dobrze niezależne źródła potwierdzają kluczowe fakty.",
+    "faktaniv": {
+      "hög": "solidna",
+      "medel": "średnia",
+      "låg": "słaba"
+    },
+    "risk": {
+      "låg": "Niskie ryzyko propagandy",
+      "medel": "Średnie ryzyko propagandy",
+      "hög": "Wysokie ryzyko propagandy"
+    },
+    "framing": "Relacjonują to zarówno media niezależne, jak i kontrolowane przez państwo – porównaj ujęcie krytycznie.",
+    "visa_kallor": "Pokaż źródła",
+    "sk": {
+      "statsfinansierat": "media publiczne",
+      "statskontrollerat": "kontrolowane przez państwo"
+    },
+    "tom": "Brak analizy – pojawi się przy następnym uruchomieniu."
   }
 }

@@ -365,5 +365,33 @@
     "rubrik": "De inscriptie",
     "translit": "Transliteratie",
     "normalisering": "Normalisatie (Oudnoords)"
+  },
+  "granskat": {
+    "rubrik": "Vandaag beoordeeld",
+    "intro": "Het meest gedekte nieuws op dit moment, gewogen op onafhankelijkheid. We onderscheiden staatsgecontroleerde media (de staat bepaalt de lijn – propagandarisico) van publiek gefinancierde maar redactioneel onafhankelijke publieke omroep, en markeren waar de berichtgeving op weinig eigenaren steunt of waar staatsmedia een andere invalshoek pushen.",
+    "kallor": "bronnen",
+    "lander": "landen",
+    "oberoende": "onafhankelijke eigenaren",
+    "statsfin": "publieke omroep",
+    "statskontr": "staatsgecontroleerd",
+    "faktabas": "Feitenbasis",
+    "faktabas_hjalp": "Hoe goed onafhankelijke bronnen de kernfeiten bevestigen.",
+    "faktaniv": {
+      "hög": "solide",
+      "medel": "gemiddeld",
+      "låg": "zwak"
+    },
+    "risk": {
+      "låg": "Laag propagandarisico",
+      "medel": "Gemiddeld propagandarisico",
+      "hög": "Hoog propagandarisico"
+    },
+    "framing": "Zowel onafhankelijke als staatsgecontroleerde media berichten hierover – vergelijk de invalshoek kritisch.",
+    "visa_kallor": "Bronnen tonen",
+    "sk": {
+      "statsfinansierat": "publieke omroep",
+      "statskontrollerat": "staatsgecontroleerd"
+    },
+    "tom": "Nog geen beoordeling – komt met de volgende run."
   }
 }

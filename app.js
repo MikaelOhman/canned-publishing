@@ -39,6 +39,15 @@ const UIDEF = {sub:"Multilingual news",search_label:"Search",search_ph:"Type a w
     flagg:{saknad:"Missing piece",omtvistat:"Disputed",logik:"Logical oddity",tidsavstand:"Source long after the event"}},
   epoknamn:{stenalder:"Stone Age",bronsalder:"Bronze Age",jarnalder:"Iron Age",vendeltid:"Vendel Period",vikingatid:"Viking Age",medeltid:"Middle Ages",vasatiden:"Vasa era",stormaktstiden:"Swedish Empire",frihetstiden:"Age of Liberty","1800talet":"19th century","1900talet":"20th century"},
   jamf:{rubrik:"Source comparison",kallor:"sources",lander:"countries",konfidens:"confidence",samstammigt:"What sources agree on",divergenser:"Where sources differ",enkalligt:"Only one source",vinkel:"Each source's angle",partisk:"party-affiliated",konf_niv:{"hög":"high","medel":"medium","låg":"low"},statskontroll:{statsfinansierat:"state-funded",statskontrollerat:"state-controlled"}},
+  granskat:{rubrik:"Reviewed today",
+    intro:"The most widely covered news right now, weighed for independence. We separate state-controlled media (the state sets the line — propaganda risk) from state-funded but editorially independent public service, and flag where coverage relies on few owners or where state outlets push a different angle.",
+    kallor:"sources",lander:"countries",oberoende:"independent owners",statsfin:"public service",statskontr:"state-controlled",
+    faktabas:"Fact base",faktabas_hjalp:"How well independent sources corroborate the core facts.",
+    faktaniv:{"hög":"solid","medel":"medium","låg":"weak"},
+    risk:{"låg":"Low propaganda risk","medel":"Medium propaganda risk","hög":"High propaganda risk"},
+    framing:"Both independent and state-controlled outlets cover this — compare the angle critically.",
+    visa_kallor:"Show sources",sk:{statsfinansierat:"public service",statskontrollerat:"state-controlled"},
+    tom:"No review available yet — comes with the next run."},
   kalla:"Source",original:"Read the original at",count:"results",none:"No matches.",clear:"Clear",back:"← Back",
   tldr_label:"TL;DR",lattlast_label:"In plain language",fulltext_label:"Full text",loadmore:"Load more",
   lagernamn:{privat:"Private individual",foretag:"Business"},
@@ -84,6 +93,7 @@ function applyUI(){
   $('#lbl-tema').textContent = u.theme; $('#lbl-text').textContent = u.textsize; $('#lbl-font').textContent = u.font;
   $('.langpick').title = u.language; $('#lang').setAttribute('aria-label', u.language);
   $('#omlank').textContent = (state.about && state.about.label) || 'Om';
+  $('#granskatlank').textContent = (ui().granskat||UIDEF.granskat).rubrik;
   $('#foot-ai').textContent = (state.about && state.about.disclosure) || '';
   $('#rsslank').href = `feed.${state.lang}.xml`;
   const alt = $('#rss-alt'); if(alt) alt.href = `feed.${state.lang}.xml`;
@@ -367,6 +377,7 @@ async function boot(){
   $('#side-share').addEventListener('click', ()=>{ const b=$('#share-box'); const open=b.classList.toggle('hidden')===false; if(open) renderShareBox(); $('#side-share').setAttribute('aria-expanded', open); });
   window.addEventListener('hashchange', route);
   $('#omlank').addEventListener('click', ()=>{ location.hash='om'; });
+  $('#granskatlank').addEventListener('click', ()=>{ location.hash='granskat'; });
   $('#fb-btn').addEventListener('click', openFb);
 
   try { state.sprak=await getJSON('data/sprak.json'); } catch(e){ state.sprak=[{kod:'sv',namn:'Svenska',rtl:false}]; }
@@ -538,11 +549,12 @@ function renderList(){
 }
 
 const LISTVY=['.meta-row','#list'];
-function stangOverlay(){ ['#article','#about'].forEach(s=>$(s).classList.add('hidden')); LISTVY.forEach(s=>$(s).classList.remove('hidden')); }
+function stangOverlay(){ ['#article','#about','#granskat'].forEach(s=>$(s).classList.add('hidden')); LISTVY.forEach(s=>$(s).classList.remove('hidden')); }
 function route(){
   const m=location.hash.match(/^#a\/(.+)$/);
   if(m) openArticle(decodeURIComponent(m[1]));
   else if(location.hash==='#om') openAbout();
+  else if(location.hash==='#granskat') openGranskat();
   else stangOverlay();
 }
 function statusHTML(){
@@ -572,6 +584,49 @@ function openAbout(){
   el.innerHTML=`<button class="back">${esc(ui().back)}</button><h1>${esc(a.title||'')}</h1>${a.body||''}${statusHTML()}`;
   el.querySelector('.back').addEventListener('click',()=>{ location.hash=''; });
   LISTVY.forEach(s=>$(s).classList.add('hidden')); $('#article').classList.add('hidden'); closeDrawer();
+  el.classList.remove('hidden'); el.focus(); window.scrollTo(0,0);
+}
+/* "Granskat idag": konsoliderade toppnyheter med propagandanivå (statskontrollerat ≠
+   statsfinansierat). Data: data/screening.json (sv-nav-rubriker; topic_i18n om översatt). */
+const RISK_IK={'låg':'🟢','medel':'🟡','hög':'🔴'};
+function renderStory(s,g){
+  const risk=s.propagandarisk||'medel';
+  const topic=(s.topic_i18n&&s.topic_i18n[state.lang])||s.topic||'';
+  const flaggor=(s.lander||[]).map(l=>LAND_FLAGGA[l]||'').join('');
+  const kb=s.kallbild||{};
+  const sf=(kb.statsfinansierat||[]), sk=(kb.statskontrollerat||[]);
+  const bild=[`${kb.oberoende_agare||0} ${esc(g.oberoende)}`]
+    .concat(sf.length?`${sf.length} ${esc(g.statsfin)} (${esc(sf.join(', '))})`:[])
+    .concat(sk.length?`<b class="gr-sk-txt">${sk.length} ${esc(g.statskontr)} (${esc(sk.join(', '))})</b>`:[]).join(' · ');
+  const arts=(s.artiklar||[]).map(a=>{
+    const sb=a.statskontroll&&a.statskontroll!=='oberoende'
+      ?` <span class="gr-skbadge sk-${esc(a.statskontroll)}">⚑ ${esc((g.sk||{})[a.statskontroll]||a.statskontroll)}</span>`:'';
+    const namn=a.url?`<a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.kalla)}</a>`:esc(a.kalla);
+    return `<li class="gr-art ${leanKlass(a.lutning)}">${a.land&&LAND_FLAGGA[a.land]?LAND_FLAGGA[a.land]+' ':''}${namn}${sb}<span class="gr-art-t">${esc(a.titel_sv||'')}</span></li>`;
+  }).join('');
+  return `<div class="gr-story r-${esc(risk)}">
+    <div class="gr-head"><span class="gr-risk r-${esc(risk)}">${RISK_IK[risk]} ${esc((g.risk||{})[risk]||risk)}</span>
+      <span class="gr-bredd">${s.kallor} ${esc(g.kallor)} · ${(s.lander||[]).length} ${esc(g.lander)} ${flaggor}</span>
+      <span class="gr-fakta" title="${esc(g.faktabas_hjalp||'')}">${esc(g.faktabas)}: <b>${esc((g.faktaniv||{})[s.faktabas]||s.faktabas)}</b></span></div>
+    <h3 class="gr-topic">${esc(topic)}</h3>
+    <div class="gr-kallbild">${bild}</div>
+    ${s.jamfor_framing?`<div class="gr-framing">⚖ ${esc(g.framing)}</div>`:''}
+    <details class="gr-kallor"><summary>${esc(g.visa_kallor)} (${(s.artiklar||[]).length})</summary><ul>${arts}</ul></details>
+  </div>`;
+}
+async function openGranskat(){
+  const el=$('#granskat'); const u=ui(); const g=Object.assign({},UIDEF.granskat,u.granskat||{});
+  if(!state.screening){ try{ state.screening=await getJSON('data/screening.json'); }catch(e){ state.screening={stories:[]}; } }
+  const sc=state.screening||{}; const stories=sc.stories||[];
+  const body=stories.length
+    ? stories.map(s=>renderStory(s,g)).join('')
+    : `<p class="gr-tom">${esc(g.tom||'—')}</p>`;
+  el.innerHTML=`<button class="back">${esc(u.back)}</button>
+    <h1>${esc(g.rubrik)}</h1>
+    <p class="gr-intro">${esc(g.intro)}${sc.datum?` <span class="gr-datum">(${esc(sc.datum)})</span>`:''}</p>
+    <div class="gr-lista">${body}</div>`;
+  el.querySelector('.back').addEventListener('click',()=>{ location.hash=''; });
+  LISTVY.forEach(s=>$(s).classList.add('hidden')); $('#article').classList.add('hidden'); $('#about').classList.add('hidden'); closeDrawer();
   el.classList.remove('hidden'); el.focus(); window.scrollTo(0,0);
 }
 async function openArticle(id){

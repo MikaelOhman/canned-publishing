@@ -365,5 +365,33 @@
     "rubrik": "Kirjoitus",
     "translit": "Translitterointi",
     "normalisering": "Normalisointi (muinaisnorja)"
+  },
+  "granskat": {
+    "rubrik": "Tarkastettu tänään",
+    "intro": "Tällä hetkellä laajimmin uutisoidut aiheet, riippumattomuuden mukaan painotettuna. Erotamme valtion hallitseman median (valtio määrää linjan – propagandariski) julkisesti rahoitetusta mutta toimituksellisesti riippumattomasta yleisradiosta, ja merkitsemme, missä uutisointi nojaa harvoihin omistajiin tai missä valtiolliset kanavat työntävät eri näkökulmaa.",
+    "kallor": "lähdettä",
+    "lander": "maata",
+    "oberoende": "riippumattomat omistajat",
+    "statsfin": "yleisradio",
+    "statskontr": "valtion hallitsema",
+    "faktabas": "Faktapohja",
+    "faktabas_hjalp": "Kuinka hyvin riippumattomat lähteet vahvistavat ydinfaktat.",
+    "faktaniv": {
+      "hög": "vankka",
+      "medel": "keskitaso",
+      "låg": "heikko"
+    },
+    "risk": {
+      "låg": "Matala propagandariski",
+      "medel": "Keskitason propagandariski",
+      "hög": "Korkea propagandariski"
+    },
+    "framing": "Sekä riippumattomat että valtion hallitsemat kanavat uutisoivat tästä – vertaa näkökulmaa kriittisesti.",
+    "visa_kallor": "Näytä lähteet",
+    "sk": {
+      "statsfinansierat": "yleisradio",
+      "statskontrollerat": "valtion hallitsema"
+    },
+    "tom": "Ei vielä analyysiä – tulee seuraavalla ajolla."
   }
 }

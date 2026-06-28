@@ -365,5 +365,33 @@
     "rubrik": "La inscripción",
     "translit": "Transliteración",
     "normalisering": "Normalización (nórdico antiguo)"
+  },
+  "granskat": {
+    "rubrik": "Revisado hoy",
+    "intro": "Las noticias más cubiertas ahora mismo, ponderadas por independencia. Distinguimos los medios controlados por el Estado (el Estado fija la línea – riesgo de propaganda) del servicio público financiado por el Estado pero editorialmente independiente, y señalamos cuándo la cobertura se apoya en pocos propietarios o cuándo medios estatales empujan otro ángulo.",
+    "kallor": "fuentes",
+    "lander": "países",
+    "oberoende": "propietarios independientes",
+    "statsfin": "servicio público",
+    "statskontr": "controlado por el Estado",
+    "faktabas": "Base factual",
+    "faktabas_hjalp": "Hasta qué punto fuentes independientes corroboran los hechos esenciales.",
+    "faktaniv": {
+      "hög": "sólida",
+      "medel": "media",
+      "låg": "débil"
+    },
+    "risk": {
+      "låg": "Bajo riesgo de propaganda",
+      "medel": "Riesgo de propaganda medio",
+      "hög": "Alto riesgo de propaganda"
+    },
+    "framing": "Tanto medios independientes como controlados por el Estado lo cubren – compara el ángulo con criterio.",
+    "visa_kallor": "Mostrar fuentes",
+    "sk": {
+      "statsfinansierat": "servicio público",
+      "statskontrollerat": "controlado por el Estado"
+    },
+    "tom": "Aún no hay revisión – llega con la próxima ejecución."
   }
 }

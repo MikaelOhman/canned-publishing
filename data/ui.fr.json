@@ -365,5 +365,33 @@
     "rubrik": "L'inscription",
     "translit": "Translittération",
     "normalisering": "Normalisation (vieux norrois)"
+  },
+  "granskat": {
+    "rubrik": "Examiné aujourd'hui",
+    "intro": "Les actualités les plus couvertes en ce moment, pondérées selon l'indépendance. Nous distinguons les médias contrôlés par l'État (l'État fixe la ligne – risque de propagande) du service public financé par l'État mais éditorialement indépendant, et signalons quand la couverture repose sur peu de propriétaires ou quand des médias d'État poussent un autre angle.",
+    "kallor": "sources",
+    "lander": "pays",
+    "oberoende": "propriétaires indépendants",
+    "statsfin": "service public",
+    "statskontr": "contrôlé par l'État",
+    "faktabas": "Base factuelle",
+    "faktabas_hjalp": "Dans quelle mesure des sources indépendantes corroborent les faits essentiels.",
+    "faktaniv": {
+      "hög": "solide",
+      "medel": "moyen",
+      "låg": "faible"
+    },
+    "risk": {
+      "låg": "Faible risque de propagande",
+      "medel": "Risque de propagande moyen",
+      "hög": "Risque de propagande élevé"
+    },
+    "framing": "Des médias indépendants et contrôlés par l'État couvrent ceci – comparez l'angle de façon critique.",
+    "visa_kallor": "Afficher les sources",
+    "sk": {
+      "statsfinansierat": "service public",
+      "statskontrollerat": "contrôlé par l'État"
+    },
+    "tom": "Aucun examen pour l'instant – arrive au prochain passage."
   }
 }

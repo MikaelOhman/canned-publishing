@@ -365,5 +365,33 @@
     "rubrik": "Die Inschrift",
     "translit": "Transliteration",
     "normalisering": "Normalisierung (Altnordisch)"
+  },
+  "granskat": {
+    "rubrik": "Heute geprüft",
+    "intro": "Die derzeit am breitesten abgedeckten Nachrichten, nach Unabhängigkeit gewichtet. Wir trennen staatlich kontrollierte Medien (der Staat gibt die Linie vor – Propagandarisiko) von staatlich finanziertem, aber redaktionell unabhängigem öffentlich-rechtlichem Rundfunk und kennzeichnen, wo die Berichterstattung auf wenigen Eigentümern beruht oder staatliche Sender einen anderen Blickwinkel verfolgen.",
+    "kallor": "Quellen",
+    "lander": "Länder",
+    "oberoende": "unabhängige Eigentümer",
+    "statsfin": "öffentlich-rechtlich",
+    "statskontr": "staatlich kontrolliert",
+    "faktabas": "Faktenbasis",
+    "faktabas_hjalp": "Wie gut unabhängige Quellen die Kernfakten bestätigen.",
+    "faktaniv": {
+      "hög": "solide",
+      "medel": "mittel",
+      "låg": "schwach"
+    },
+    "risk": {
+      "låg": "Geringes Propagandarisiko",
+      "medel": "Mittleres Propagandarisiko",
+      "hög": "Hohes Propagandarisiko"
+    },
+    "framing": "Sowohl unabhängige als auch staatlich kontrollierte Sender berichten darüber – vergleiche den Blickwinkel kritisch.",
+    "visa_kallor": "Quellen anzeigen",
+    "sk": {
+      "statsfinansierat": "öffentlich-rechtlich",
+      "statskontrollerat": "staatlich kontrolliert"
+    },
+    "tom": "Noch keine Prüfung – kommt mit dem nächsten Lauf."
   }
 }

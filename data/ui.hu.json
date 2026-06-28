@@ -365,5 +365,33 @@
     "rubrik": "A felirat",
     "translit": "Átírás",
     "normalisering": "Normalizálás (óészaki)"
+  },
+  "granskat": {
+    "rubrik": "Ma ellenőrizve",
+    "intro": "A jelenleg legszélesebb körben tárgyalt hírek, függetlenség szerint súlyozva. Elkülönítjük az állam által ellenőrzött médiát (az állam szabja meg az irányt – propagandakockázat) az államilag finanszírozott, de szerkesztőileg független közszolgálati médiától, és jelöljük, ahol a tudósítás kevés tulajdonoson nyugszik, vagy ahol állami csatornák más szemszöget tolnak.",
+    "kallor": "forrás",
+    "lander": "ország",
+    "oberoende": "független tulajdonosok",
+    "statsfin": "közszolgálati",
+    "statskontr": "állam által ellenőrzött",
+    "faktabas": "Ténybázis",
+    "faktabas_hjalp": "Mennyire erősítik meg független források az alapvető tényeket.",
+    "faktaniv": {
+      "hög": "szilárd",
+      "medel": "közepes",
+      "låg": "gyenge"
+    },
+    "risk": {
+      "låg": "Alacsony propagandakockázat",
+      "medel": "Közepes propagandakockázat",
+      "hög": "Magas propagandakockázat"
+    },
+    "framing": "Független és állam által ellenőrzött csatornák egyaránt tudósítanak róla – vesd össze kritikusan a szemszöget.",
+    "visa_kallor": "Források megjelenítése",
+    "sk": {
+      "statsfinansierat": "közszolgálati",
+      "statskontrollerat": "állam által ellenőrzött"
+    },
+    "tom": "Még nincs elemzés – a következő futtatással érkezik."
   }
 }

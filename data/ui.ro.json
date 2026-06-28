@@ -365,5 +365,33 @@
     "rubrik": "Inscripția",
     "translit": "Transliterare",
     "normalisering": "Normalizare (nordică veche)"
+  },
+  "granskat": {
+    "rubrik": "Analizat azi",
+    "intro": "Cele mai mediatizate știri în acest moment, ponderate după independență. Separăm mass-media controlată de stat (statul dă linia – risc de propagandă) de serviciul public finanțat de stat dar independent editorial, și semnalăm unde acoperirea se sprijină pe puțini proprietari sau unde canalele de stat împing un alt unghi.",
+    "kallor": "surse",
+    "lander": "țări",
+    "oberoende": "proprietari independenți",
+    "statsfin": "serviciu public",
+    "statskontr": "controlat de stat",
+    "faktabas": "Bază factuală",
+    "faktabas_hjalp": "Cât de bine confirmă sursele independente faptele esențiale.",
+    "faktaniv": {
+      "hög": "solidă",
+      "medel": "medie",
+      "låg": "slabă"
+    },
+    "risk": {
+      "låg": "Risc redus de propagandă",
+      "medel": "Risc mediu de propagandă",
+      "hög": "Risc ridicat de propagandă"
+    },
+    "framing": "Atât media independentă cât și cea controlată de stat o acoperă – compară unghiul critic.",
+    "visa_kallor": "Arată sursele",
+    "sk": {
+      "statsfinansierat": "serviciu public",
+      "statskontrollerat": "controlat de stat"
+    },
+    "tom": "Încă nicio analiză – vine la următoarea rulare."
   }
 }

@@ -365,5 +365,33 @@
     "rubrik": "The inscription",
     "translit": "Transliteration",
     "normalisering": "Normalisation (Old Norse)"
+  },
+  "granskat": {
+    "rubrik": "Reviewed today",
+    "intro": "The most widely covered news right now, weighed for independence. We separate state-controlled media (the state sets the line — propaganda risk) from state-funded but editorially independent public service, and flag where coverage rests on few owners or where state outlets push a different angle.",
+    "kallor": "sources",
+    "lander": "countries",
+    "oberoende": "independent owners",
+    "statsfin": "public service",
+    "statskontr": "state-controlled",
+    "faktabas": "Fact base",
+    "faktabas_hjalp": "How well independent sources corroborate the core facts.",
+    "faktaniv": {
+      "hög": "solid",
+      "medel": "medium",
+      "låg": "weak"
+    },
+    "risk": {
+      "låg": "Low propaganda risk",
+      "medel": "Medium propaganda risk",
+      "hög": "High propaganda risk"
+    },
+    "framing": "Both independent and state-controlled outlets cover this — compare the angle critically.",
+    "visa_kallor": "Show sources",
+    "sk": {
+      "statsfinansierat": "public service",
+      "statskontrollerat": "state-controlled"
+    },
+    "tom": "No review available yet — comes with the next run."
   }
 }

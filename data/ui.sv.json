@@ -365,5 +365,33 @@
     "rubrik": "Inskriften",
     "translit": "Translitterering",
     "normalisering": "Normalisering (fornnordiska)"
+  },
+  "granskat": {
+    "rubrik": "Granskat idag",
+    "intro": "De mest spridda nyheterna just nu, vägda för oberoende. Vi skiljer statskontrollerade medier (staten styr linjen – propagandarisk) från statsfinansierat men redaktionellt självständigt public service, och flaggar där bevakningen vilar på få ägare eller där statliga kanaler driver en annan vinkel.",
+    "kallor": "källor",
+    "lander": "länder",
+    "oberoende": "oberoende ägare",
+    "statsfin": "public service",
+    "statskontr": "statskontrollerade",
+    "faktabas": "Faktabas",
+    "faktabas_hjalp": "Hur väl oberoende källor bekräftar kärnfakta.",
+    "faktaniv": {
+      "hög": "solid",
+      "medel": "medel",
+      "låg": "svag"
+    },
+    "risk": {
+      "låg": "Låg propagandarisk",
+      "medel": "Medel propagandarisk",
+      "hög": "Hög propagandarisk"
+    },
+    "framing": "Både oberoende och statskontrollerade kanaler bevakar detta – jämför vinkeln kritiskt.",
+    "visa_kallor": "Visa källor",
+    "sk": {
+      "statsfinansierat": "public service",
+      "statskontrollerat": "statskontrollerade"
+    },
+    "tom": "Ingen granskning ännu – kommer med nästa körning."
   }
 }

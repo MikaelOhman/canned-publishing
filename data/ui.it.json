@@ -365,5 +365,33 @@
     "rubrik": "L'iscrizione",
     "translit": "Traslitterazione",
     "normalisering": "Normalizzazione (norreno)"
+  },
+  "granskat": {
+    "rubrik": "Esaminato oggi",
+    "intro": "Le notizie più coperte in questo momento, ponderate per indipendenza. Distinguiamo i media controllati dallo Stato (lo Stato detta la linea – rischio propaganda) dal servizio pubblico finanziato dallo Stato ma editorialmente indipendente, e segnaliamo dove la copertura poggia su pochi proprietari o dove i media statali spingono un'angolazione diversa.",
+    "kallor": "fonti",
+    "lander": "paesi",
+    "oberoende": "proprietari indipendenti",
+    "statsfin": "servizio pubblico",
+    "statskontr": "controllato dallo Stato",
+    "faktabas": "Base fattuale",
+    "faktabas_hjalp": "Quanto bene fonti indipendenti confermano i fatti essenziali.",
+    "faktaniv": {
+      "hög": "solida",
+      "medel": "media",
+      "låg": "debole"
+    },
+    "risk": {
+      "låg": "Basso rischio di propaganda",
+      "medel": "Medio rischio di propaganda",
+      "hög": "Alto rischio di propaganda"
+    },
+    "framing": "Sia media indipendenti che controllati dallo Stato lo coprono – confronta l'angolazione in modo critico.",
+    "visa_kallor": "Mostra le fonti",
+    "sk": {
+      "statsfinansierat": "servizio pubblico",
+      "statskontrollerat": "controllato dallo Stato"
+    },
+    "tom": "Nessuna analisi ancora – arriva col prossimo ciclo."
   }
 }
