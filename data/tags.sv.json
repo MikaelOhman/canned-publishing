@@ -1662,7 +1662,7 @@
   "vaxjo": {
     "etikett": "Växjö",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "vetlanda": {
     "etikett": "Vetlanda",
@@ -2056,6 +2056,11 @@
   },
   "overformyndarnamnden-eskilstuna-strangna": {
     "etikett": "Överförmyndarnämnden Eskilstuna Strängnäs",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "miljo-och-byggnamndens-mbn": {
+    "etikett": "Miljö och byggnämndens (MBN)",
     "typ": "organisation",
     "antal": 1
   }
