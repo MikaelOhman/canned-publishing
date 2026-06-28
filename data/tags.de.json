@@ -1152,7 +1152,7 @@
   "lessebo": {
     "etikett": "Lessebo",
     "typ": "plats",
-    "antal": 2
+    "antal": 3
   },
   "kommunfullmaktige-acab4a7f-232f-4b6d-84a": {
     "etikett": "Kommunfullmäktige {ACAB4A7F 232F 4B6D 84A8 C6F71E4",
@@ -1956,6 +1956,11 @@
   },
   "socialnaemnden": {
     "etikett": "Sozialausschuss",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "mn-mn-redacted": {
+    "etikett": "MN MN (Text entfernt)",
     "typ": "organisation",
     "antal": 1
   }
