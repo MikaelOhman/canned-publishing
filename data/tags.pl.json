@@ -1087,7 +1087,7 @@
   "lessebo": {
     "etikett": "Lessebo.",
     "typ": "plats",
-    "antal": 2
+    "antal": 3
   },
   "kommunfullmaktige-acab4a7f-232f-4b6d-84a": {
     "etikett": "Komisja ds. spraw miejskich.\n\n{ACAB4A7F 232F 4B6D 84A8 C6F71E4}",
@@ -1112,7 +1112,7 @@
   "mala": {
     "etikett": "Malå",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "utbildningsnamnden": {
     "etikett": "Komisja ds. edukacji.",
@@ -1132,7 +1132,7 @@
   "molndal": {
     "etikett": "Mölndals",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "mijonamndens-mn-58-59": {
     "etikett": "Kommunstyrelsens beslut, protokoll nr 58, punkt 59.",
@@ -1896,6 +1896,21 @@
   },
   "socialnaemnden": {
     "etikett": "Komisja ds. spraw społecznych.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "mn-mn-redacted": {
+    "etikett": "MN MN Usunięto poufne informacje.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "mala-norsjo-miljo-och-byggnamnd": {
+    "etikett": "Komisja ds. środowiska i budownictwa gminy Malung-Sälven.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "miljonamndens-mn": {
+    "etikett": "Komitet ds spraw środowiskowych.",
     "typ": "organisation",
     "antal": 1
   }

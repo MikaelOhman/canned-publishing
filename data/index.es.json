@@ -1240,6 +1240,24 @@
     }
   },
   {
+    "id": "mala-mala-norsjo-miljo-och-byggnamnd-2026-06-23",
+    "typ": "kommunbeslut",
+    "titel": "Comisión de Medio Ambiente y Construcción de Malå, Municipio de Malå, 23 de junio de 2026.",
+    "ingress": "La comisión aprobó un informe financiero que demuestra que tienen más fondos de lo previsto, y propuso que la junta municipal asuma la responsabilidad de ciertas decisiones relacionadas con los servicios de emergencia.",
+    "datum": "2026-06-23",
+    "kalla": "Malå kommun",
+    "kalla_url": "https://www.mala.se/media/nmujnz5s/protokoll-malä-norsjö-miljö-och-byggnämnd-2026-06-23.pdf",
+    "taggar": [
+      "mala",
+      "mala-norsjo-miljo-och-byggnamnd"
+    ],
+    "relevans": {
+      "b_bygg": 8,
+      "miljo": 3,
+      "klimat": 8
+    }
+  },
+  {
     "id": "HD03287",
     "typ": "lagforslag",
     "titel": "Nueva orientación política para un país del cine más fuerte",
@@ -3540,6 +3558,30 @@
     }
   },
   {
+    "id": "lessebo-mn-mn-redacted-2026-06-15",
+    "typ": "kommunbeslut",
+    "titel": "MN MN, información confidencial eliminada, municipio de Lessebo, 15 de junio de 2026.",
+    "ingress": "El municipio de Lessebo ha decidido conceder un permiso de construcción para una nueva residencia asistida con 60 plazas, pero ha denegado el permiso para construir cerca de una playa.",
+    "datum": "2026-06-15",
+    "kalla": "Lessebo kommun",
+    "kalla_url": "https://www.lessebo.se/download/18.80f0cb019eb48925bd17b21/1781587640630/MN_2026-06-15-Protokoll%20MN%202026-06-15_Redacted.pdf",
+    "taggar": [
+      "lessebo",
+      "mn-mn-redacted"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_bygg": 3,
+      "b_fastighet": 3,
+      "tillstand": 3,
+      "mark_bygglov": 3,
+      "bygger": 5,
+      "glesbygd": 3,
+      "kronisk": 3,
+      "beroende": 3
+    }
+  },
+  {
     "id": "tvangsvard-tanum",
     "typ": "nyhet",
     "titel": "Negación de la atención obligatoria: encontrada muerta en la nieve.",
@@ -4376,6 +4418,26 @@
       "foraldraledig": 3,
       "hyresgast": 3,
       "konsument": 3
+    }
+  },
+  {
+    "id": "molndal-miljonamndens-mn-2026-06-09",
+    "typ": "kommunbeslut",
+    "titel": "Comisión de Medio Ambiente, Ayuntamiento de Mölnndal, 9 de junio de 2026.",
+    "ingress": "La comisión de medio ambiente de Mölndal ha aprobado el presupuesto para las actividades ambientales entre 2027 y 2029, así como ha decidido establecer nuevas tarifas por las inspecciones ambientales a partir de 2027.",
+    "datum": "2026-06-09",
+    "kalla": "Mölndals kommun",
+    "kalla_url": "https://www.molndal.se/download/18.5e25731519ed44a57ac1f489/1782218310160/2026-06-09_Milj%C3%B6n%C3%A4mndens_protokoll_mn.pdf",
+    "taggar": [
+      "molndal",
+      "miljonamndens-mn"
+    ],
+    "relevans": {
+      "b_life": 3,
+      "miljo": 3,
+      "kronisk": 3,
+      "konsument": 3,
+      "klimat": 8
     }
   },
   {

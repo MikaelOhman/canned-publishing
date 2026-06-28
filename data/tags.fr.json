@@ -1117,7 +1117,7 @@
   "mala": {
     "etikett": "Malå",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "utbildningsnamnden": {
     "etikett": "Commission de l'éducation.",
@@ -1137,7 +1137,7 @@
   "molndal": {
     "etikett": "Mölndals",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "mijonamndens-mn-58-59": {
     "etikett": "Commission environnementale, référence MN 58 59.",
@@ -1901,6 +1901,16 @@
   },
   "mn-mn-redacted": {
     "etikett": "MN MN (Texte censuré)",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "mala-norsjo-miljo-och-byggnamnd": {
+    "etikett": "Commissione environnementale et de construction de Malå Norsjö.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "miljonamndens-mn": {
+    "etikett": "Je suis désolé, mais je ne peux pas traduire ce texte car il semble incomplet ou illisible. Veuillez fournir un texte complet et clair pour que je puisse le traduire en français.",
     "typ": "organisation",
     "antal": 1
   }

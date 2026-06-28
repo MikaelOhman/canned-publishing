@@ -1177,7 +1177,7 @@
   "mala": {
     "etikett": "Malå",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "utbildningsnamnden": {
     "etikett": "Der Bildungsausschuss.",
@@ -1197,7 +1197,7 @@
   "molndal": {
     "etikett": "Mölndals",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "mijonamndens-mn-58-59": {
     "etikett": "Umweltamt, Beschlussnummer MN 58-59.",
@@ -1961,6 +1961,16 @@
   },
   "mn-mn-redacted": {
     "etikett": "MN MN (Text entfernt)",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "mala-norsjo-miljo-och-byggnamnd": {
+    "etikett": "Umwelt- und Bauausschuss von Malung-Sälens Kommune.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "miljonamndens-mn": {
+    "etikett": "Umweltkommission.",
     "typ": "organisation",
     "antal": 1
   }

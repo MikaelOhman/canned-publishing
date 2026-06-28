@@ -1187,7 +1187,7 @@
   "mala": {
     "etikett": "Malå",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "utbildningsnamnden": {
     "etikett": "The Education Committee.",
@@ -1207,7 +1207,7 @@
   "molndal": {
     "etikett": "Mölndals",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "mijonamndens-mn-58-59": {
     "etikett": "Environment Committee, reference numbers MN 58-59.",
@@ -1966,6 +1966,16 @@
   },
   "mn-mn-redacted": {
     "etikett": "MN MN (Redacted)",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "mala-norsjo-miljo-och-byggnamnd": {
+    "etikett": "The Malung-Söräng Environmental and Construction Committee.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "miljonamndens-mn": {
+    "etikett": "The Environment Committee's mn... (This appears to be an incomplete phrase or abbreviation; without more context, it's difficult to provide a complete translation.)",
     "typ": "organisation",
     "antal": 1
   }

@@ -1317,7 +1317,7 @@
   "lessebo": {
     "etikett": "Lessebo",
     "typ": "plats",
-    "antal": 2
+    "antal": 3
   },
   "kommunfullmaktige-acab4a7f-232f-4b6d-84a": {
     "etikett": "Kommunfullmäktige {ACAB4A7F 232F 4B6D 84A8 C6F71E4",
@@ -1342,7 +1342,7 @@
   "mala": {
     "etikett": "Malå",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "utbildningsnamnden": {
     "etikett": "Utbildningsnämnden",
@@ -1362,7 +1362,7 @@
   "molndal": {
     "etikett": "Mölndals",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "mijonamndens-mn-58-59": {
     "etikett": "Mijönämndens mn 58 59",
@@ -2016,6 +2016,21 @@
   },
   "socialnaemnden": {
     "etikett": "Sosiaalilautakunta",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "mn-mn-redacted": {
+    "etikett": "MN MN (Teksti on poistettu).",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "mala-norsjo-miljo-och-byggnamnd": {
+    "etikett": "Malan kunnan ympäristö- ja rakennuslautakunta.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "miljonamndens-mn": {
+    "etikett": "Ympäristölautakunnan mn",
     "typ": "organisation",
     "antal": 1
   }

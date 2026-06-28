@@ -1087,7 +1087,7 @@
   "lessebo": {
     "etikett": "Lessebo.",
     "typ": "plats",
-    "antal": 2
+    "antal": 3
   },
   "kommunfullmaktige-acab4a7f-232f-4b6d-84a": {
     "etikett": "Comisia municipală a aprobat următoarele:\n\n*   **Data:** 2023-10-27\n*   **Subiect:** Acordarea unei subvenții pentru un proiect cultural.\n*   **Descriere:** Proiectul vizează organizarea unui festival de muzică tradițională în oraș.\n*   **Valoarea subvenției:** 10.000 de euro.\n*   **URL:** [URL invalid]",
@@ -1112,7 +1112,7 @@
   "mala": {
     "etikett": "Malå",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "utbildningsnamnden": {
     "etikett": "Comisia de educație.",
@@ -1132,7 +1132,7 @@
   "molndal": {
     "etikett": "Mölndals",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "mijonamndens-mn-58-59": {
     "etikett": "Comisia de Mediu, numărul de referință MN 58 59.",
@@ -1896,6 +1896,21 @@
   },
   "socialnaemnden": {
     "etikett": "Comisia de Asistență Socială.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "mn-mn-redacted": {
+    "etikett": "MN MN (Text redacted)",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "mala-norsjo-miljo-och-byggnamnd": {
+    "etikett": "Comisia de mediu și construcții din Malung-Sörsele.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "miljonamndens-mn": {
+    "etikett": "Îmi pare rău, dar nu pot traduce acest text deoarece conține doar inițiale și nu are un context clar. Pentru a oferi o traducere corectă și fluentă în limba română, am nevoie de mai multe informații despre ce reprezintă \"Miljönämndens mn\".",
     "typ": "organisation",
     "antal": 1
   }
