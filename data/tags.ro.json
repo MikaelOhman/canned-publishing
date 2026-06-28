@@ -887,7 +887,7 @@
   "gislaved": {
     "etikett": "Gislaveds.",
     "typ": "plats",
-    "antal": 2
+    "antal": 3
   },
   "hagfors": {
     "etikett": "Hagfors",
@@ -907,7 +907,7 @@
   "socialnamndens": {
     "etikett": "Comisia de Asistență Socială.",
     "typ": "organisation",
-    "antal": 2
+    "antal": 3
   },
   "harryda": {
     "etikett": "Härryda",
@@ -967,7 +967,7 @@
   "jokkmokk": {
     "etikett": "Jokkmokks",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "bun": {
     "etikett": "BUN",
@@ -992,7 +992,7 @@
   "karlskoga": {
     "etikett": "Karlskoga",
     "typ": "plats",
-    "antal": 2
+    "antal": 3
   },
   "tillvaxt-och-tillsynsnamndens": {
     "etikett": "Comisia pentru creștere și supraveghere.",
@@ -1886,6 +1886,16 @@
   },
   "utbildningsnamndens-pdf-bortredigerad": {
     "etikett": "Document PDF al comitetului de educație, versiune editată.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "samhallsutvecklingsnamndens": {
+    "etikett": "Comisia pentru dezvoltare comunitară.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "socialnaemnden": {
+    "etikett": "Comisia de Asistență Socială.",
     "typ": "organisation",
     "antal": 1
   }

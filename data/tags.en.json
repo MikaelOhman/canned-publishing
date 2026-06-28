@@ -982,7 +982,7 @@
   "socialnamndens": {
     "etikett": "Social Services Department.",
     "typ": "organisation",
-    "antal": 2
+    "antal": 3
   },
   "harryda": {
     "etikett": "Härryda",
@@ -1042,7 +1042,7 @@
   "jokkmokk": {
     "etikett": "Jokkmokks",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "bun": {
     "etikett": "BUN",
@@ -1067,7 +1067,7 @@
   "karlskoga": {
     "etikett": "Karlskoga is a municipality located in the province of Värmland, Sweden. It is known for its industrial heritage, particularly in the fields of metallurgy and engineering. The municipality offers a range of outdoor activities, including hiking, fishing, and skiing. It also has a number of cultural attractions, such as the Carl-Gustaf Bjurman Museum, which showcases the work of the renowned Swedish artist. Karlskoga is a vibrant and diverse community with a rich history and a promising future.",
     "typ": "plats",
-    "antal": 2
+    "antal": 3
   },
   "tillvaxt-och-tillsynsnamndens": {
     "etikett": "The Growth and Supervision Board.",
@@ -1956,6 +1956,11 @@
   },
   "samhallsutvecklingsnamndens": {
     "etikett": "The Social Development Committee's...",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "socialnaemnden": {
+    "etikett": "The Social Services Committee.",
     "typ": "organisation",
     "antal": 1
   }

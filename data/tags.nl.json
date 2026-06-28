@@ -912,7 +912,7 @@
   "socialnamndens": {
     "etikett": "De sociale dienst.",
     "typ": "organisation",
-    "antal": 2
+    "antal": 3
   },
   "harryda": {
     "etikett": "Härryda",
@@ -972,7 +972,7 @@
   "jokkmokk": {
     "etikett": "Jokkmokks",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "bun": {
     "etikett": "BUN",
@@ -997,7 +997,7 @@
   "karlskoga": {
     "etikett": "Karlskoga",
     "typ": "plats",
-    "antal": 2
+    "antal": 3
   },
   "tillvaxt-och-tillsynsnamndens": {
     "etikett": "De commissie voor groei en toezicht.",
@@ -1891,6 +1891,11 @@
   },
   "samhallsutvecklingsnamndens": {
     "etikett": "Commissie voor maatschappelijke ontwikkeling.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "socialnaemnden": {
+    "etikett": "De sociale dienst.",
     "typ": "organisation",
     "antal": 1
   }

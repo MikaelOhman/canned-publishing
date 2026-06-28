@@ -3141,6 +3141,24 @@
     }
   },
   {
+    "id": "karlskoga-socialnamndens-2026-06-16",
+    "typ": "kommunbeslut",
+    "titel": "A karlskogai önkormányzat szociális bizottsága, 2026. június 16.",
+    "ingress": "A karlskogai szociális bizottság több fontos ügyet is tárgyalt, amelyek érintik az idősek ellátását, a lakhatási támogatást és a különböző szervezetek közötti együttműködést.",
+    "datum": "2026-06-16",
+    "kalla": "Karlskoga kommun",
+    "kalla_url": "https://karlskoga.se/download/18.48e87bb819ec3d3dd4b2f3d/1782463964232/Socialn%C3%A4mndens%20protokoll%202026-06-16.pdf",
+    "taggar": [
+      "karlskoga",
+      "socialnamndens"
+    ],
+    "relevans": {
+      "pensionar": 3,
+      "kronisk": 3,
+      "funktion": 3
+    }
+  },
+  {
     "id": "HD03285",
     "typ": "lagforslag",
     "titel": "Hallgatás és ideiglenes átvitel egy letartóztatási parancs végrehajtása során.",
@@ -5360,6 +5378,25 @@
       "barn": 3,
       "pensionar": 3,
       "batagare": 3
+    }
+  },
+  {
+    "id": "jokkmokk-socialnaemnden-2026-05-26",
+    "typ": "kommunbeslut",
+    "titel": "A Jokkmokk önkormányzat szociális bizottsága, 2026. május 26.",
+    "ingress": "A Jokkmokk önkormányzat szociális bizottsága döntést hozott arról, hogy jobb támogatást és lakhatási lehetőségeket biztosítson a gyermekeknek és fiataloknak, többek között egy saját rövid távú tartózkodási hely létrehozásával és a rövid táv",
+    "datum": "2026-05-26",
+    "kalla": "Jokkmokks kommun",
+    "kalla_url": "https://www.jokkmokk.se/media/nf1pg54t/protokoll-socialnaemnden-2026-05-26-signerat.pdf",
+    "taggar": [
+      "jokkmokk",
+      "socialnaemnden"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_vard": 3,
+      "barn": 5,
+      "ung": 3
     }
   },
   {

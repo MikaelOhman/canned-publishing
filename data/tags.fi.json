@@ -1117,7 +1117,7 @@
   "gislaved": {
     "etikett": "Gislaveds",
     "typ": "plats",
-    "antal": 2
+    "antal": 3
   },
   "hagfors": {
     "etikett": "Hagfors",
@@ -1137,7 +1137,7 @@
   "socialnamndens": {
     "etikett": "Socialnämndens",
     "typ": "organisation",
-    "antal": 2
+    "antal": 3
   },
   "harryda": {
     "etikett": "Härryda",
@@ -1197,7 +1197,7 @@
   "jokkmokk": {
     "etikett": "Jokkmokks",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "bun": {
     "etikett": "BUN",
@@ -1222,7 +1222,7 @@
   "karlskoga": {
     "etikett": "Karlskoga",
     "typ": "plats",
-    "antal": 2
+    "antal": 3
   },
   "tillvaxt-och-tillsynsnamndens": {
     "etikett": "Tillväxt och tillsynsnämndens",
@@ -2006,6 +2006,16 @@
   },
   "utbildningsnamndens-pdf-bortredigerad": {
     "etikett": "Opetustoimikunnan PDF-tiedosto, josta on poistettu osia.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "samhallsutvecklingsnamndens": {
+    "etikett": "Ympäristö- ja yhteiskuntakehityksen lautakunta.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "socialnaemnden": {
+    "etikett": "Sosiaalilautakunta",
     "typ": "organisation",
     "antal": 1
   }

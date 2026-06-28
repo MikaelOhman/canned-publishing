@@ -3211,6 +3211,24 @@
     }
   },
   {
+    "id": "karlskoga-socialnamndens-2026-06-16",
+    "typ": "kommunbeslut",
+    "titel": "Social Services Department, Karlskoga Municipality, June 16, 2026.",
+    "ingress": "The Social Services Board in Karlskoga has received information regarding several important matters related to elderly care, housing support, and collaboration between different organizations.",
+    "datum": "2026-06-16",
+    "kalla": "Karlskoga kommun",
+    "kalla_url": "https://karlskoga.se/download/18.48e87bb819ec3d3dd4b2f3d/1782463964232/Socialn%C3%A4mndens%20protokoll%202026-06-16.pdf",
+    "taggar": [
+      "karlskoga",
+      "socialnamndens"
+    ],
+    "relevans": {
+      "pensionar": 3,
+      "kronisk": 3,
+      "funktion": 3
+    }
+  },
+  {
     "id": "HD03285",
     "typ": "lagforslag",
     "titel": "Hearing and temporary transfer in arrest warrant cases",
@@ -5517,6 +5535,25 @@
       "barn": 3,
       "pensionar": 3,
       "batagare": 3
+    }
+  },
+  {
+    "id": "jokkmokk-socialnaemnden-2026-05-26",
+    "typ": "kommunbeslut",
+    "titel": "Social Services Department, Jokkmokk Municipality, May 26, 2026.",
+    "ingress": "The Social Services Board of the Jokkmokk municipality has made a decision to improve support and housing options for children and young people, including by opening its own short-term residential facility and introducing short-term supervi",
+    "datum": "2026-05-26",
+    "kalla": "Jokkmokks kommun",
+    "kalla_url": "https://www.jokkmokk.se/media/nf1pg54t/protokoll-socialnaemnden-2026-05-26-signerat.pdf",
+    "taggar": [
+      "jokkmokk",
+      "socialnaemnden"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_vard": 3,
+      "barn": 5,
+      "ung": 3
     }
   },
   {

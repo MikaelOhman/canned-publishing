@@ -3189,6 +3189,24 @@
     }
   },
   {
+    "id": "karlskoga-socialnamndens-2026-06-16",
+    "typ": "kommunbeslut",
+    "titel": "Sozialamt der Gemeinde Karlskoga, 16. Juni 2026.",
+    "ingress": "Der Sozialausschuss von Karlskoga hat Informationen zu mehreren wichtigen Angelegenheiten erhalten, die den Bereich der Altenpflege, die Wohnunterstützung und die Zusammenarbeit zwischen verschiedenen Einrichtungen betreffen.",
+    "datum": "2026-06-16",
+    "kalla": "Karlskoga kommun",
+    "kalla_url": "https://karlskoga.se/download/18.48e87bb819ec3d3dd4b2f3d/1782463964232/Socialn%C3%A4mndens%20protokoll%202026-06-16.pdf",
+    "taggar": [
+      "karlskoga",
+      "socialnamndens"
+    ],
+    "relevans": {
+      "pensionar": 3,
+      "kronisk": 3,
+      "funktion": 3
+    }
+  },
+  {
     "id": "HD03285",
     "typ": "lagforslag",
     "titel": "Anhörung und vorübergehende Überstellung bei einem Haftbefehl",
@@ -5473,6 +5491,25 @@
       "barn": 3,
       "pensionar": 3,
       "batagare": 3
+    }
+  },
+  {
+    "id": "jokkmokk-socialnaemnden-2026-05-26",
+    "typ": "kommunbeslut",
+    "titel": "Sozialausschuss, Gemeinde Jokkmokk, 26. Mai 2026.",
+    "ingress": "Der Sozialausschuss der Gemeinde Jokkmokk hat beschlossen, bessere Unterstützung und Unterkünfte für Kinder und Jugendliche zu schaffen, unter anderem durch die Einrichtung einer eigenen Kurzzeitunterkunft und die Einführung von kurzfristig",
+    "datum": "2026-05-26",
+    "kalla": "Jokkmokks kommun",
+    "kalla_url": "https://www.jokkmokk.se/media/nf1pg54t/protokoll-socialnaemnden-2026-05-26-signerat.pdf",
+    "taggar": [
+      "jokkmokk",
+      "socialnaemnden"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_vard": 3,
+      "barn": 5,
+      "ung": 3
     }
   },
   {

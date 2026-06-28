@@ -3141,6 +3141,24 @@
     }
   },
   {
+    "id": "karlskoga-socialnamndens-2026-06-16",
+    "typ": "kommunbeslut",
+    "titel": "Comisia de Asistență Socială a municipiului Karlskoga, data: 16 iunie 2026.",
+    "ingress": "Comisia de asistență socială din Karlskoga a primit informații despre mai multe aspecte importante legate de îngrijirea persoanelor vârstnice, sprijinul pentru locuințe și colaborarea dintre diferite instituții.",
+    "datum": "2026-06-16",
+    "kalla": "Karlskoga kommun",
+    "kalla_url": "https://karlskoga.se/download/18.48e87bb819ec3d3dd4b2f3d/1782463964232/Socialn%C3%A4mndens%20protokoll%202026-06-16.pdf",
+    "taggar": [
+      "karlskoga",
+      "socialnamndens"
+    ],
+    "relevans": {
+      "pensionar": 3,
+      "kronisk": 3,
+      "funktion": 3
+    }
+  },
+  {
     "id": "HD03285",
     "typ": "lagforslag",
     "titel": "Ascultarea și transmiterea temporară a informațiilor în timpul procesării unei ordonanțe de arestare.",
@@ -3480,6 +3498,24 @@
       "gdpr": 3,
       "integritet": 3,
       "digital_ovan": 3
+    }
+  },
+  {
+    "id": "gislaved-samhallsutvecklingsnamndens-2026-06-15",
+    "typ": "kommunbeslut",
+    "titel": "Comisia pentru dezvoltare comunitară a municipiului Gislaved, 15 iunie 2026.",
+    "ingress": "Comuna Gislaved a luat decizia de a investi în îmbunătățirea mediului urban, incluzând construirea unui nou turn cu ceas în centrul orașului și dezvoltarea zonelor Hestra și Smålandsstenar. De asemenea, se planifică îmbunătățirea trotuarelo",
+    "datum": "2026-06-15",
+    "kalla": "Gislaveds kommun",
+    "kalla_url": "https://gislaved.se/download/18.101faef219df7a3639f2cb19/1781688883139/Samh%C3%A4llsutvecklingsn%C3%A4mndens%20protokoll%202026-06-15.pdf",
+    "taggar": [
+      "gislaved",
+      "samhallsutvecklingsnamndens"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "finansiering": 3,
+      "klimat": 3
     }
   },
   {
@@ -5364,6 +5400,25 @@
       "barn": 3,
       "pensionar": 3,
       "batagare": 3
+    }
+  },
+  {
+    "id": "jokkmokk-socialnaemnden-2026-05-26",
+    "typ": "kommunbeslut",
+    "titel": "Comisia de Asistență Socială a comunei Jokkmokk, 26 mai 2026.",
+    "ingress": "Consiliul social din comuna Jokkmokk a luat decizia de a oferi sprijin și locuințe îmbunătățite pentru copii și tineri, printre altele, prin deschiderea unui centru propriu de cazare pe termen scurt și introducerea serviciilor de supraveghe",
+    "datum": "2026-05-26",
+    "kalla": "Jokkmokks kommun",
+    "kalla_url": "https://www.jokkmokk.se/media/nf1pg54t/protokoll-socialnaemnden-2026-05-26-signerat.pdf",
+    "taggar": [
+      "jokkmokk",
+      "socialnaemnden"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_vard": 3,
+      "barn": 5,
+      "ung": 3
     }
   },
   {

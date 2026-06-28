@@ -907,7 +907,7 @@
   "socialnamndens": {
     "etikett": "Komitet ds. spraw społecznych.",
     "typ": "organisation",
-    "antal": 2
+    "antal": 3
   },
   "harryda": {
     "etikett": "Härryda",
@@ -967,7 +967,7 @@
   "jokkmokk": {
     "etikett": "Jokkmokks",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "bun": {
     "etikett": "BUN",
@@ -992,7 +992,7 @@
   "karlskoga": {
     "etikett": "Karlskoga",
     "typ": "plats",
-    "antal": 2
+    "antal": 3
   },
   "tillvaxt-och-tillsynsnamndens": {
     "etikett": "Komitet ds. rozwoju i nadzoru.",
@@ -1891,6 +1891,11 @@
   },
   "samhallsutvecklingsnamndens": {
     "etikett": "Komisja rozwoju społecznego.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "socialnaemnden": {
+    "etikett": "Komisja ds. spraw społecznych.",
     "typ": "organisation",
     "antal": 1
   }

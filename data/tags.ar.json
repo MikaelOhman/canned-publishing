@@ -902,7 +902,7 @@
   "gislaved": {
     "etikett": "جيславаيدز.",
     "typ": "plats",
-    "antal": 2
+    "antal": 3
   },
   "hagfors": {
     "etikett": "Hagfors",
@@ -922,7 +922,7 @@
   "socialnamndens": {
     "etikett": "لجنة الشؤون الاجتماعية.",
     "typ": "organisation",
-    "antal": 2
+    "antal": 3
   },
   "harryda": {
     "etikett": "هاريودا.",
@@ -982,7 +982,7 @@
   "jokkmokk": {
     "etikett": "Jokkmokks",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "bun": {
     "etikett": "خبز.",
@@ -1007,7 +1007,7 @@
   "karlskoga": {
     "etikett": "كارلسكوغا.",
     "typ": "plats",
-    "antal": 2
+    "antal": 3
   },
   "tillvaxt-och-tillsynsnamndens": {
     "etikett": "لجنة التنمية والإشراف.",
@@ -1901,6 +1901,16 @@
   },
   "utbildningsnamndens-pdf-bortredigerad": {
     "etikett": "وثيقة صادرة عن لجنة التعليم بصيغة PDF، وقد تم حذف بعض أجزائها أو تعديلها.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "samhallsutvecklingsnamndens": {
+    "etikett": "لجنة التنمية المجتمعية.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "socialnaemnden": {
+    "etikett": "لجنة الرعاية الاجتماعية.",
     "typ": "organisation",
     "antal": 1
   }

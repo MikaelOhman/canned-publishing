@@ -3162,6 +3162,24 @@
     }
   },
   {
+    "id": "karlskoga-socialnamndens-2026-06-16",
+    "typ": "kommunbeslut",
+    "titel": "Comisión de Asuntos Sociales del municipio de Karlskoga, 16 de junio de 2026.",
+    "ingress": "La comisión de servicios sociales de Karlskoga ha recibido información sobre varios asuntos importantes relacionados con la atención a personas mayores, el apoyo para la vivienda y la colaboración entre diferentes entidades.",
+    "datum": "2026-06-16",
+    "kalla": "Karlskoga kommun",
+    "kalla_url": "https://karlskoga.se/download/18.48e87bb819ec3d3dd4b2f3d/1782463964232/Socialn%C3%A4mndens%20protokoll%202026-06-16.pdf",
+    "taggar": [
+      "karlskoga",
+      "socialnamndens"
+    ],
+    "relevans": {
+      "pensionar": 3,
+      "kronisk": 3,
+      "funktion": 3
+    }
+  },
+  {
     "id": "HD03285",
     "typ": "lagforslag",
     "titel": "Audiencia y notificación temporal durante el proceso de ejecución de una orden de arresto.",
@@ -5465,6 +5483,25 @@
       "barn": 3,
       "pensionar": 3,
       "batagare": 3
+    }
+  },
+  {
+    "id": "jokkmokk-socialnaemnden-2026-05-26",
+    "typ": "kommunbeslut",
+    "titel": "Comité Social de la Municipalidad de Jokkmokk, 26 de mayo de 2026.",
+    "ingress": "El departamento de servicios sociales del municipio de Jokkmokk ha tomado la decisión de crear mejores sistemas de apoyo y alojamiento para niños y jóvenes, incluyendo la apertura de una residencia temporal propia e implementando un servici",
+    "datum": "2026-05-26",
+    "kalla": "Jokkmokks kommun",
+    "kalla_url": "https://www.jokkmokk.se/media/nf1pg54t/protokoll-socialnaemnden-2026-05-26-signerat.pdf",
+    "taggar": [
+      "jokkmokk",
+      "socialnaemnden"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_vard": 3,
+      "barn": 5,
+      "ung": 3
     }
   },
   {

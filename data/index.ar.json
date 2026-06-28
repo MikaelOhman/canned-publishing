@@ -3144,6 +3144,24 @@
     }
   },
   {
+    "id": "karlskoga-socialnamndens-2026-06-16",
+    "typ": "kommunbeslut",
+    "titel": "مرفق من لجنة الشؤون الاجتماعية، بلدية كارلسكوجا، بتاريخ 2026-06-16.",
+    "ingress": "لقد استلمت لجنة الشؤون الاجتماعية في كارلسكوغا معلومات حول عدة قضايا مهمة تتعلق برعاية كبار السن، والدعم السكني، والتعاون بين مختلف المؤسسات.",
+    "datum": "2026-06-16",
+    "kalla": "Karlskoga kommun",
+    "kalla_url": "https://karlskoga.se/download/18.48e87bb819ec3d3dd4b2f3d/1782463964232/Socialn%C3%A4mndens%20protokoll%202026-06-16.pdf",
+    "taggar": [
+      "karlskoga",
+      "socialnamndens"
+    ],
+    "relevans": {
+      "pensionar": 3,
+      "kronisk": 3,
+      "funktion": 3
+    }
+  },
+  {
     "id": "stockholm-kommunfullmaktige-2026-06-15",
     "typ": "kommunbeslut",
     "titel": "اجتماع مجلس مدينة ستوكهولم، تاريخ 2026-06-15.",
@@ -3486,6 +3504,24 @@
       "gdpr": 3,
       "integritet": 3,
       "digital_ovan": 3
+    }
+  },
+  {
+    "id": "gislaved-samhallsutvecklingsnamndens-2026-06-15",
+    "typ": "kommunbeslut",
+    "titel": "لجنة التنمية المجتمعية، بلدية غيسليد، بتاريخ 15 يونيو 2026.",
+    "ingress": "اتخذت بلدية غيسليد قرارًا بالاستثمار في البيئة الحضرية، بما في ذلك بناء برج ساعة جديد في المركز وتطوير مناطق هيسترا وسمولاندستينار. كما تخطط لتحسين مسارات المشي وركوب الدراجات وزيادة السلامة لجميع من يتنقلون سيرًا على الأقدام أو بالدراجة حت",
+    "datum": "2026-06-15",
+    "kalla": "Gislaveds kommun",
+    "kalla_url": "https://gislaved.se/download/18.101faef219df7a3639f2cb19/1781688883139/Samh%C3%A4llsutvecklingsn%C3%A4mndens%20protokoll%202026-06-15.pdf",
+    "taggar": [
+      "gislaved",
+      "samhallsutvecklingsnamndens"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "finansiering": 3,
+      "klimat": 3
     }
   },
   {
@@ -5396,6 +5432,25 @@
       "barn": 3,
       "pensionar": 3,
       "batagare": 3
+    }
+  },
+  {
+    "id": "jokkmokk-socialnaemnden-2026-05-26",
+    "typ": "kommunbeslut",
+    "titel": "لجنة الخدمات الاجتماعية، بلدية جوكموك، بتاريخ 2026-05-26.",
+    "ingress": "اتخذت لجنة الشؤون الاجتماعية في بلدية يوكيموك قرارًا بإنشاء دعم وإقامة أفضل للأطفال والشباب، وذلك من خلال عدة إجراءات، بما في ذلك: * افتتاح مركز إقامة قصير الأمد خاص. * توفير خدمات رعاية مؤقتة.",
+    "datum": "2026-05-26",
+    "kalla": "Jokkmokks kommun",
+    "kalla_url": "https://www.jokkmokk.se/media/nf1pg54t/protokoll-socialnaemnden-2026-05-26-signerat.pdf",
+    "taggar": [
+      "jokkmokk",
+      "socialnaemnden"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_vard": 3,
+      "barn": 5,
+      "ung": 3
     }
   },
   {

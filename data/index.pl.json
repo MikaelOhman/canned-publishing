@@ -3159,6 +3159,24 @@
     }
   },
   {
+    "id": "karlskoga-socialnamndens-2026-06-16",
+    "typ": "kommunbeslut",
+    "titel": "Komisja ds. spraw społecznych gminy Karlskoga, 16 czerwca 2026 roku.",
+    "ingress": "Komisja ds spraw socjalnych w Karlskoga otrzymała informacje dotyczące kilku ważnych spraw związanych z opieką nad osobami starszymi, wsparciem mieszkaniowym oraz współpracą między różnymi placówkami.",
+    "datum": "2026-06-16",
+    "kalla": "Karlskoga kommun",
+    "kalla_url": "https://karlskoga.se/download/18.48e87bb819ec3d3dd4b2f3d/1782463964232/Socialn%C3%A4mndens%20protokoll%202026-06-16.pdf",
+    "taggar": [
+      "karlskoga",
+      "socialnamndens"
+    ],
+    "relevans": {
+      "pensionar": 3,
+      "kronisk": 3,
+      "funktion": 3
+    }
+  },
+  {
     "id": "HD03285",
     "typ": "lagforslag",
     "titel": "Umożliwienie osobom niesłyszącym lub niedosłyszącym osobistego udziału w postępowaniu dotyczącym zatrzymania.",
@@ -5462,6 +5480,25 @@
       "barn": 3,
       "pensionar": 3,
       "batagare": 3
+    }
+  },
+  {
+    "id": "jokkmokk-socialnaemnden-2026-05-26",
+    "typ": "kommunbeslut",
+    "titel": "Komisja ds. Spraw Społecznych, Gmina Jokkmokk, 26 maja 2026 roku.",
+    "ingress": "Władze gminy Jokkmokk podjęły decyzję o stworzeniu lepszego wsparcia i zakwaterowania dla dzieci i młodzieży, w tym poprzez otwarcie własnego ośrodka krótkoterminowego pobytu oraz wprowadzenie usług opiekuńczych na krótki okres.",
+    "datum": "2026-05-26",
+    "kalla": "Jokkmokks kommun",
+    "kalla_url": "https://www.jokkmokk.se/media/nf1pg54t/protokoll-socialnaemnden-2026-05-26-signerat.pdf",
+    "taggar": [
+      "jokkmokk",
+      "socialnaemnden"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_vard": 3,
+      "barn": 5,
+      "ung": 3
     }
   },
   {
