@@ -943,6 +943,41 @@
     }
   },
   {
+    "id": "strangnas-overformyndarnamnden-eskilstuna-strangna-2026-06-24",
+    "typ": "kommunbeslut",
+    "titel": "مرجع سرپرستی قانونی شهرستان‌های اسکیلستونا و استرنگناس، شهرداری استرنگناس، تاریخ: 24 ژوئن 2026.",
+    "ingress": "شورای سرپرستی قانونی در شهرهای اِسکیلستون و استرنگناس، تصمیماتی را در مورد چندین پرونده مربوط به حمایت از افرادی که قادر به دفاع از خود نیستند، اتخاذ کرده است. این تصمیمات شامل مواردی مانند برداشت وجه از حساب‌های بانکی مسدود شده و تغییر سرپ",
+    "datum": "2026-06-24",
+    "kalla": "Strängnäs kommun",
+    "kalla_url": "https://www.strangnas.se/download/18.64a5cda419ed441e70955667/1782459558762/000%20%C3%96verf%C3%B6rmyndarn%C3%A4mnden%20Eskilstuna%20Str%C3%A4ngn%C3%A4s%20protokoll%202026-06-24.pdf",
+    "taggar": [
+      "strangnas",
+      "overformyndarnamnden-eskilstuna-strangna"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "varnpliktig": 3
+    }
+  },
+  {
+    "id": "tjorn-ofn-2026-06-24",
+    "typ": "kommunbeslut",
+    "titel": "مرجع: ÖFN، شهرداری تورن، تاریخ: 24 ژوئن 2026.",
+    "ingress": "شورای سرپرستی قانونی در شهرداری استنونسوند، به بررسی چندین پرونده مربوط به حمایت از افرادی پرداخته است که قادر به نمایندگی خود نیستند. تصمیمات اتخاذ شده شامل تعیین یا عزل قیم (سرپرست)، و همچنین اجازه فروش خانه‌ها و املاک بوده است.",
+    "datum": "2026-06-24",
+    "kalla": "Tjörns kommun",
+    "kalla_url": "https://www.tjorn.se/download/18.256d89c019efe4197b56e29a/1782461156761/Protokoll%20%C3%96FN%202026-06-24.pdf",
+    "taggar": [
+      "tjorn",
+      "ofn"
+    ],
+    "relevans": {
+      "b_fastighet": 3,
+      "tillstand": 3,
+      "bostadsagare": 3
+    }
+  },
+  {
     "id": "HD03288",
     "typ": "lagforslag",
     "titel": "گزارش حسابرسی ملی در مورد نحوه مدیریت دولت در مورد اختیارات شهرداری‌ها، مربوط به قانون حمایت از افراد دارای معلولیت (LSS).",
@@ -1255,6 +1290,53 @@
       "b_bygg": 8,
       "miljo": 3,
       "klimat": 8
+    }
+  },
+  {
+    "id": "sotenas-mbnau-signed-2026-06-23",
+    "typ": "kommunbeslut",
+    "titel": "امضای MBNAU، شهرداری سوتنäs، تاریخ: 2026-06-23.",
+    "ingress": "شهرداری سوتنäs تصمیماتی را در مورد صدور مجوزهای ساخت برای تغییرات در ساختمان‌ها، احداث بناهای جدید و فضاهای تجاری در این منطقه اتخاذ کرده است.",
+    "datum": "2026-06-23",
+    "kalla": "Sotenäs kommun",
+    "kalla_url": "https://sotenas.se/download/18.710527ed19ecd292b433fa95/1782453147511/MBNAU%20protokoll%202026-06-23%20signed.pdf",
+    "taggar": [
+      "sotenas",
+      "mbnau-signed"
+    ],
+    "relevans": {
+      "b_handel": 3,
+      "b_bygg": 3,
+      "b_fastighet": 3,
+      "tillstand": 3,
+      "lokaler": 3,
+      "mark_bygglov": 3,
+      "infrastruktur": 3,
+      "bygger": 3,
+      "batagare": 3,
+      "klimat": 3,
+      "kultur": 3
+    }
+  },
+  {
+    "id": "stromstad-kommunfullmaktige-2026-06-23",
+    "typ": "kommunbeslut",
+    "titel": "جلسه شورای شهر، شهرداری استرومستاد، تاریخ: 23 ژوئن 2026.",
+    "ingress": "شهرداری استرومستاد تصمیماتی در مورد چندین طرح ساختمانی جدید، مقررات مربوط به ایمنی آتش‌نشانی و استراتژی‌های مربوط به انرژی خورشیدی اتخاذ کرده است.",
+    "datum": "2026-06-23",
+    "kalla": "Strömstads kommun",
+    "kalla_url": "https://stromstad.se/download/18.1bdd229a19ed468cde73e62d/1782549522430/Protokoll%20KF%202026-06-23.pdf",
+    "taggar": [
+      "stromstad",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_fastighet": 3,
+      "mark_bygglov": 3,
+      "bygger": 3,
+      "ny_i_sverige": 3,
+      "husdjur": 3
     }
   },
   {
@@ -3591,6 +3673,24 @@
       "bygger": 5,
       "glesbygd": 3,
       "kronisk": 3,
+      "beroende": 3
+    }
+  },
+  {
+    "id": "storfors-ks-extra-2026-06-15",
+    "typ": "kommunbeslut",
+    "titel": "KS Extra، شهرداری استورفورس، تاریخ: 2026-06-15.",
+    "ingress": "شهرداری استورفورس تصمیم گرفته است که چه مقدار پول به دانش‌آموزانی تعلق خواهد گرفت که در خارج از محل سکونت خود زندگی می‌کنند، برای پوشش هزینه‌های مسکن و رفت‌وآمد در طول تحصیل، در سال‌های تحصیلی 2026-2027.",
+    "datum": "2026-06-15",
+    "kalla": "Storfors kommun",
+    "kalla_url": "https://www.storfors.se/download/18.6b6d7bf19ed44ea63d7d4b7/1782482350561/Protokoll%20KS%202026-06-15%20Extra.pdf",
+    "taggar": [
+      "storfors",
+      "ks-extra"
+    ],
+    "relevans": {
+      "pendlare": 3,
+      "kollektiv": 8,
       "beroende": 3
     }
   },

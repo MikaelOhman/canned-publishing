@@ -352,7 +352,7 @@
   "kommunfullmaktige": {
     "etikett": "Gemeindevertretung",
     "typ": "organisation",
-    "antal": 99
+    "antal": 100
   },
   "kommunpolitik": {
     "etikett": "Kommunalpolitik.",
@@ -677,12 +677,12 @@
   "storfors": {
     "etikett": "Storfors",
     "typ": "plats",
-    "antal": 2
+    "antal": 3
   },
   "stromstad": {
     "etikett": "Strömstads.",
     "typ": "plats",
-    "antal": 2
+    "antal": 3
   },
   "vn": {
     "etikett": "VN",
@@ -1392,7 +1392,7 @@
   "sotenas": {
     "etikett": "Sotenäs\n\n(No further context was provided, so I'm assuming this is a place name and no translation is needed beyond transliteration.)",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "kstu-signed": {
     "etikett": "KSTU hat eine Vereinbarung unterzeichnet.",
@@ -1417,7 +1417,7 @@
   "strangnas": {
     "etikett": "Strängnäs",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "valberedningen": {
     "etikett": "Der Wahlvorstand.",
@@ -1562,7 +1562,7 @@
   "tjorn": {
     "etikett": "Tjörns",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "tranemo": {
     "etikett": "Tranemo ist eine Gemeinde in Schweden.\n\n*   **Gemeinde:** Tranemo\n*   **Lage:** Südschweden\n*   **Einwohnerzahl (2020):** ca. 5.300\n*   **Website:** [www.tranemo.se](www.tranemo.se)",
@@ -1572,7 +1572,7 @@
   "ofn": {
     "etikett": "ÖFN",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "trosa": {
     "etikett": "Trosa.",
@@ -1981,6 +1981,21 @@
   },
   "barn-och-utbildningsnamnd": {
     "etikett": "Der Ausschuss für Kinder und Bildung.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "mbnau-signed": {
+    "etikett": "MBNAU hat unterzeichnet.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "ks-extra": {
+    "etikett": "KS Extra",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "overformyndarnamnden-eskilstuna-strangna": {
+    "etikett": "Das Vormundschaftsgericht von Eskilstuna und Strängnäs.",
     "typ": "organisation",
     "antal": 1
   }

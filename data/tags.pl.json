@@ -292,7 +292,7 @@
   "kommunfullmaktige": {
     "etikett": "Rada miejska.",
     "typ": "organisation",
-    "antal": 99
+    "antal": 100
   },
   "kommunpolitik": {
     "etikett": "Polityka samorządowa.",
@@ -612,12 +612,12 @@
   "storfors": {
     "etikett": "Storfors",
     "typ": "plats",
-    "antal": 2
+    "antal": 3
   },
   "stromstad": {
     "etikett": "Strömstad.",
     "typ": "plats",
-    "antal": 2
+    "antal": 3
   },
   "vn": {
     "etikett": "VN",
@@ -1327,7 +1327,7 @@
   "sotenas": {
     "etikett": "Sotenäs\n\n(Brak dalszej treści do przetłumaczenia. Proszę podać więcej tekstu, jeśli chcesz, abym go przetłumaczył.)",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "kstu-signed": {
     "etikett": "KSTU podpisał umowę.",
@@ -1352,7 +1352,7 @@
   "strangnas": {
     "etikett": "Strängnäs.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "valberedningen": {
     "etikett": "Komitet wyłaniająca kandydatów.",
@@ -1492,7 +1492,7 @@
   "tjorn": {
     "etikett": "Tjörns.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "tranemo": {
     "etikett": "Tranemo.",
@@ -1502,7 +1502,7 @@
   "ofn": {
     "etikett": "Przepraszam, nie rozumiem. Proszę podać więcej informacji lub kontekstu.",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "trosa": {
     "etikett": "Trosa.",
@@ -1921,6 +1921,21 @@
   },
   "barn-och-utbildningsnamnd": {
     "etikett": "Komisja ds. dzieci i edukacji.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "mbnau-signed": {
+    "etikett": "MBNAU podpisało umowę.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "ks-extra": {
+    "etikett": "KS Extra.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "overformyndarnamnden-eskilstuna-strangna": {
+    "etikett": "Województwo Östergötland, Gmina Eskilstuna-Strängnäs, Wydział Opieki nad Nieletnimi.",
     "typ": "organisation",
     "antal": 1
   }

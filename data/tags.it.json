@@ -292,7 +292,7 @@
   "kommunfullmaktige": {
     "etikett": "Consiglio comunale.",
     "typ": "organisation",
-    "antal": 99
+    "antal": 100
   },
   "kommunpolitik": {
     "etikett": "Politica comunale.",
@@ -617,12 +617,12 @@
   "storfors": {
     "etikett": "Storfors.",
     "typ": "plats",
-    "antal": 2
+    "antal": 3
   },
   "stromstad": {
     "etikett": "Strömstads.",
     "typ": "plats",
-    "antal": 2
+    "antal": 3
   },
   "vn": {
     "etikett": "VN",
@@ -1332,7 +1332,7 @@
   "sotenas": {
     "etikett": "Sotenäs",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "kstu-signed": {
     "etikett": "KSTU ha firmato.",
@@ -1357,7 +1357,7 @@
   "strangnas": {
     "etikett": "Strängnäs.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "valberedningen": {
     "etikett": "La commissione elettorale.",
@@ -1502,7 +1502,7 @@
   "tjorn": {
     "etikett": "Tjörns.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "tranemo": {
     "etikett": "Tranemo.",
@@ -1512,7 +1512,7 @@
   "ofn": {
     "etikett": "ÖFN",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "trosa": {
     "etikett": "Trosa.",
@@ -1921,6 +1921,21 @@
   },
   "barn-och-utbildningsnamnd": {
     "etikett": "Commissione per l'infanzia e l'istruzione.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "mbnau-signed": {
+    "etikett": "MBNAU ha firmato.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "ks-extra": {
+    "etikett": "KS Extra.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "overformyndarnamnden-eskilstuna-strangna": {
+    "etikett": "La Commissione di Tutela degli Incapaci di Eskilstuna-Strängnäs.",
     "typ": "organisation",
     "antal": 1
   }

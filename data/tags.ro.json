@@ -292,7 +292,7 @@
   "kommunfullmaktige": {
     "etikett": "Consiliul municipal.",
     "typ": "organisation",
-    "antal": 99
+    "antal": 100
   },
   "kommunpolitik": {
     "etikett": "Politica municipală.",
@@ -612,12 +612,12 @@
   "storfors": {
     "etikett": "Storfors.",
     "typ": "plats",
-    "antal": 2
+    "antal": 3
   },
   "stromstad": {
     "etikett": "Strömstads.",
     "typ": "plats",
-    "antal": 2
+    "antal": 3
   },
   "vn": {
     "etikett": "VN",
@@ -1327,7 +1327,7 @@
   "sotenas": {
     "etikett": "Sotenäs",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "kstu-signed": {
     "etikett": "KSTU a semnat.",
@@ -1352,7 +1352,7 @@
   "strangnas": {
     "etikett": "Strängnäs.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "valberedningen": {
     "etikett": "Comisia de selecție.",
@@ -1492,7 +1492,7 @@
   "tjorn": {
     "etikett": "Tjörns.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "tranemo": {
     "etikett": "Tranemo.",
@@ -1502,7 +1502,7 @@
   "ofn": {
     "etikett": "Îmi pare rău, dar nu pot traduce acest cuvânt deoarece nu are sens în limba suedeză. Poți să-mi dai mai multe informații despre contextul în care a fost folosit?",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "trosa": {
     "etikett": "Trosa",
@@ -1921,6 +1921,21 @@
   },
   "barn-och-utbildningsnamnd": {
     "etikett": "Comisia pentru copii și educație.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "mbnau-signed": {
+    "etikett": "MBNAU a semnat.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "ks-extra": {
+    "etikett": "KS Extra",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "overformyndarnamnden-eskilstuna-strangna": {
+    "etikett": "Comisia de Tutelă din Eskilstuna și Strängnäs.",
     "typ": "organisation",
     "antal": 1
   }

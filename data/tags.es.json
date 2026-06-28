@@ -292,7 +292,7 @@
   "kommunfullmaktige": {
     "etikett": "El ayuntamiento.",
     "typ": "organisation",
-    "antal": 99
+    "antal": 100
   },
   "kommunpolitik": {
     "etikett": "Política municipal.",
@@ -612,12 +612,12 @@
   "storfors": {
     "etikett": "Storfors.",
     "typ": "plats",
-    "antal": 2
+    "antal": 3
   },
   "stromstad": {
     "etikett": "Strömstads.",
     "typ": "plats",
-    "antal": 2
+    "antal": 3
   },
   "vn": {
     "etikett": "VN",
@@ -1327,7 +1327,7 @@
   "sotenas": {
     "etikett": "Sotenäs\n\n(No further context was provided, so I'm assuming \"Sotenäs\" is a name and should remain unchanged.)",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "kstu-signed": {
     "etikett": "KSTU ha firmado.",
@@ -1352,7 +1352,7 @@
   "strangnas": {
     "etikett": "Strängnäs.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "valberedningen": {
     "etikett": "La comisión de selección.",
@@ -1497,7 +1497,7 @@
   "tjorn": {
     "etikett": "Tjörns.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "tranemo": {
     "etikett": "Tranemo.",
@@ -1507,7 +1507,7 @@
   "ofn": {
     "etikett": "Lo siento, no puedo traducir eso porque \"ÖFN\" no es una palabra o frase completa en sueco que pueda entender. Por favor, proporcione un texto más completo para que pueda traducirlo al español.",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "trosa": {
     "etikett": "Trosa.",
@@ -1921,6 +1921,21 @@
   },
   "barn-och-utbildningsnamnd": {
     "etikett": "Comisión de Asuntos Infanto-juveniles y Educación.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "mbnau-signed": {
+    "etikett": "MBNAU ha firmado.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "ks-extra": {
+    "etikett": "KS Extra.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "overformyndarnamnden-eskilstuna-strangna": {
+    "etikett": "La Oficina de Tutela Legal de Eskilstuna-Strängnäs.",
     "typ": "organisation",
     "antal": 1
   }

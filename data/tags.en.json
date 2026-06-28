@@ -352,7 +352,7 @@
   "kommunfullmaktige": {
     "etikett": "Municipal council.",
     "typ": "organisation",
-    "antal": 99
+    "antal": 100
   },
   "kommunpolitik": {
     "etikett": "Municipal politics.",
@@ -697,12 +697,12 @@
   "storfors": {
     "etikett": "Storfors",
     "typ": "plats",
-    "antal": 2
+    "antal": 3
   },
   "stromstad": {
     "etikett": "Strömstads",
     "typ": "plats",
-    "antal": 2
+    "antal": 3
   },
   "vn": {
     "etikett": "VN",
@@ -1402,7 +1402,7 @@
   "sotenas": {
     "etikett": "Sotenäs is a coastal area located in southwestern Sweden. It's known for its beautiful beaches, charming fishing villages, and opportunities for outdoor activities. Here are some key features:\n\n*   **Location:** Southwestern Sweden\n*   **Features:** Beaches, fishing villages, outdoor activities",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "kstu-signed": {
     "etikett": "KSTU signed.",
@@ -1427,7 +1427,7 @@
   "strangnas": {
     "etikett": "Strängnäs",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "valberedningen": {
     "etikett": "The Nomination Committee.",
@@ -1562,7 +1562,7 @@
   "tjorn": {
     "etikett": "Tjörn:\n\n[No further context was provided to translate.]",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "tranemo": {
     "etikett": "Tranemo\n\n(Assuming this is a place name or company name, I will leave it as is.)",
@@ -1572,7 +1572,7 @@
   "ofn": {
     "etikett": "Unfortunately, \"ÖFN\" doesn't provide enough context for me to translate it into English. It could be an abbreviation, a code, or a term specific to a certain field. To give you an accurate and meaningful translation, I need more information about what \"ÖFN\" refers to.",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "trosa": {
     "etikett": "Trosa is a charming town located in Sweden, known for its well-preserved wooden buildings and picturesque canals. It offers a variety of attractions and activities for visitors, including:\n\n*   **Historical sites:** Explore the medieval castle ruins and learn about the town's rich history.\n*   **Shopping:** Browse through unique boutiques and local craft shops.\n*   **Outdoor recreation:** Enjoy boating on the canals or hiking in the surrounding countryside.\n*   **Dining:** Savor delicious Swedish cuisine at one of the many restaurants and cafes.\n\nWhether you're interested in history, culture, nature, or simply relaxing, Trosa has something to offer everyone.",
@@ -1986,6 +1986,21 @@
   },
   "barn-och-utbildningsnamnd": {
     "etikett": "Children and Education Committee.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "mbnau-signed": {
+    "etikett": "MBNAU signed.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "ks-extra": {
+    "etikett": "KS Extra\n\n[The rest of the text would go here, translated into natural, fluent English.]",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "overformyndarnamnden-eskilstuna-strangna": {
+    "etikett": "The Board of Guardianship (Överförmyndarnämnden) of Eskilstuna-Strängnäs.",
     "typ": "organisation",
     "antal": 1
   }

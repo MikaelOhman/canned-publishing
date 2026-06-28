@@ -943,6 +943,41 @@
     }
   },
   {
+    "id": "strangnas-overformyndarnamnden-eskilstuna-strangna-2026-06-24",
+    "typ": "kommunbeslut",
+    "titel": "لجنة حماية القاصرين في منطقة إسكيلستونا سترانغناس، بلدية سترانغناس، بتاريخ 2026-06-24.",
+    "ingress": "اتخذت لجنة حماية القاصرين في مدينة إسكيلستونا وسترانغناس عدة قرارات تتعلق بحماية الأشخاص الذين لا يستطيعون الدفاع عن أنفسهم، مثل سحب الأموال من الحسابات المصرفية المقيدة وتغيير الأوصياء.",
+    "datum": "2026-06-24",
+    "kalla": "Strängnäs kommun",
+    "kalla_url": "https://www.strangnas.se/download/18.64a5cda419ed441e70955667/1782459558762/000%20%C3%96verf%C3%B6rmyndarn%C3%A4mnden%20Eskilstuna%20Str%C3%A4ngn%C3%A4s%20protokoll%202026-06-24.pdf",
+    "taggar": [
+      "strangnas",
+      "overformyndarnamnden-eskilstuna-strangna"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "varnpliktig": 3
+    }
+  },
+  {
+    "id": "tjorn-ofn-2026-06-24",
+    "typ": "kommunbeslut",
+    "titel": "مستند رسمي، بلدية تجورن، بتاريخ 2026-06-24.",
+    "ingress": "لقد نظرت لجنة حماية القاصرين في بلدية ستينونغزوند في العديد من القضايا المتعلقة بحماية الأشخاص الذين لا يستطيعون تمثيل أنفسهم. تتعلق القرارات الصادرة بتعيين أو إقالة الأوصياء، أو بالسماح ببيع المنازل والعقارات.",
+    "datum": "2026-06-24",
+    "kalla": "Tjörns kommun",
+    "kalla_url": "https://www.tjorn.se/download/18.256d89c019efe4197b56e29a/1782461156761/Protokoll%20%C3%96FN%202026-06-24.pdf",
+    "taggar": [
+      "tjorn",
+      "ofn"
+    ],
+    "relevans": {
+      "b_fastighet": 3,
+      "tillstand": 3,
+      "bostadsagare": 3
+    }
+  },
+  {
     "id": "HD03288",
     "typ": "lagforslag",
     "titel": "تقرير مكتب التدقيق الوطني حول إدارة الدولة لمهام السلطات المحلية المتعلقة بقانون دعم الأشخاص ذوي الإعاقة (LSS).",
@@ -1255,6 +1290,53 @@
       "b_bygg": 8,
       "miljo": 3,
       "klimat": 8
+    }
+  },
+  {
+    "id": "sotenas-mbnau-signed-2026-06-23",
+    "typ": "kommunbeslut",
+    "titel": "توقيع: MBNAU، بلدية سوتينيس، بتاريخ 2026-06-23.",
+    "ingress": "قامت بلدية سوتنäs بالموافقة على عدة تراخيص بناء لتعديلات في المنازل، والمباني الجديدة، والمساحات التجارية في المنطقة.",
+    "datum": "2026-06-23",
+    "kalla": "Sotenäs kommun",
+    "kalla_url": "https://sotenas.se/download/18.710527ed19ecd292b433fa95/1782453147511/MBNAU%20protokoll%202026-06-23%20signed.pdf",
+    "taggar": [
+      "sotenas",
+      "mbnau-signed"
+    ],
+    "relevans": {
+      "b_handel": 3,
+      "b_bygg": 3,
+      "b_fastighet": 3,
+      "tillstand": 3,
+      "lokaler": 3,
+      "mark_bygglov": 3,
+      "infrastruktur": 3,
+      "bygger": 3,
+      "batagare": 3,
+      "klimat": 3,
+      "kultur": 3
+    }
+  },
+  {
+    "id": "stromstad-kommunfullmaktige-2026-06-23",
+    "typ": "kommunbeslut",
+    "titel": "مجلس مدينة سترومستاد، تاريخ 23 يونيو 2026.",
+    "ingress": "اتخذت بلدية سترومستاد عدة قرارات جديدة تتعلق بخطط البناء، وأنظمة السلامة من الحرائق، واستراتيجيات الطاقة الشمسية.",
+    "datum": "2026-06-23",
+    "kalla": "Strömstads kommun",
+    "kalla_url": "https://stromstad.se/download/18.1bdd229a19ed468cde73e62d/1782549522430/Protokoll%20KF%202026-06-23.pdf",
+    "taggar": [
+      "stromstad",
+      "kommunfullmaktige"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_fastighet": 3,
+      "mark_bygglov": 3,
+      "bygger": 3,
+      "ny_i_sverige": 3,
+      "husdjur": 3
     }
   },
   {
@@ -3594,6 +3676,24 @@
       "bygger": 5,
       "glesbygd": 3,
       "kronisk": 3,
+      "beroende": 3
+    }
+  },
+  {
+    "id": "storfors-ks-extra-2026-06-15",
+    "typ": "kommunbeslut",
+    "titel": "KS Extra، بلدية ستورفورس، تاريخ: 2026-06-15.",
+    "ingress": "قامت بلدية ستورفورس بتحديد المبلغ الذي سيحصل عليه الطلاب الذين يقيمون خارج نطاق البلدية، كتعويض عن تكاليف السكن والمواصلات خلال فترة الدراسة من عام 2026 إلى عام 2027.",
+    "datum": "2026-06-15",
+    "kalla": "Storfors kommun",
+    "kalla_url": "https://www.storfors.se/download/18.6b6d7bf19ed44ea63d7d4b7/1782482350561/Protokoll%20KS%202026-06-15%20Extra.pdf",
+    "taggar": [
+      "storfors",
+      "ks-extra"
+    ],
+    "relevans": {
+      "pendlare": 3,
+      "kollektiv": 8,
       "beroende": 3
     }
   },

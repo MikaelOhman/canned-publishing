@@ -292,7 +292,7 @@
   "kommunfullmaktige": {
     "etikett": "مجلس البلدية.",
     "typ": "organisation",
-    "antal": 99
+    "antal": 100
   },
   "kommunpolitik": {
     "etikett": "سياسة البلديات.",
@@ -637,12 +637,12 @@
   "storfors": {
     "etikett": "Storfors",
     "typ": "plats",
-    "antal": 2
+    "antal": 3
   },
   "stromstad": {
     "etikett": "Strömstads.",
     "typ": "plats",
-    "antal": 2
+    "antal": 3
   },
   "vn": {
     "etikett": "VN",
@@ -1342,7 +1342,7 @@
   "sotenas": {
     "etikett": "سوتنäs",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "kstu-signed": {
     "etikett": "تم توقيع اتفاقية مع KSTU.",
@@ -1367,7 +1367,7 @@
   "strangnas": {
     "etikett": "Strängnäs",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "valberedningen": {
     "etikett": "لجنة الاختيار.",
@@ -1507,7 +1507,7 @@
   "tjorn": {
     "etikett": "جزيرة تجورن.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "tranemo": {
     "etikett": "ترانيمو.",
@@ -1517,7 +1517,7 @@
   "ofn": {
     "etikett": "بالتأكيد، يرجى تزويدي بالنص السويدي الذي تريد ترجمته إلى اللغة العربية. سأحرص على أن تكون الترجمة دقيقة وطبيعية، مع الحفاظ على التنسيق الأصلي للنص (فقرات وقوائم) وعدم تغيير الأسماء والأرقام والتواريخ وعناوين الويب.",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "trosa": {
     "etikett": "تروزا.",
@@ -1936,6 +1936,21 @@
   },
   "barn-och-utbildningsnamnd": {
     "etikett": "لجنة شؤون الأطفال والتعليم.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "mbnau-signed": {
+    "etikett": "قامت مؤسسة MBNAU بالتوقيع.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "ks-extra": {
+    "etikett": "KS Extra",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "overformyndarnamnden-eskilstuna-strangna": {
+    "etikett": "لجنة حماية القاصرين في منطقة إسكيلستونا-سترنجناس.",
     "typ": "organisation",
     "antal": 1
   }

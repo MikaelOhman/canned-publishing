@@ -507,7 +507,7 @@
   "kommunfullmaktige": {
     "etikett": "Kommunfullmäktige",
     "typ": "organisation",
-    "antal": 99
+    "antal": 100
   },
   "kommunpolitik": {
     "etikett": "Kommunpolitik",
@@ -852,12 +852,12 @@
   "storfors": {
     "etikett": "Storfors",
     "typ": "plats",
-    "antal": 2
+    "antal": 3
   },
   "stromstad": {
     "etikett": "Strömstads",
     "typ": "plats",
-    "antal": 2
+    "antal": 3
   },
   "vn": {
     "etikett": "VN",
@@ -1557,7 +1557,7 @@
   "sotenas": {
     "etikett": "Sotenäs",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "kstu-signed": {
     "etikett": "KSTU signed",
@@ -1582,7 +1582,7 @@
   "strangnas": {
     "etikett": "Strängnäs",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "valberedningen": {
     "etikett": "Valberedningen",
@@ -1727,7 +1727,7 @@
   "tjorn": {
     "etikett": "Tjörns",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "tranemo": {
     "etikett": "Tranemo",
@@ -1737,7 +1737,7 @@
   "ofn": {
     "etikett": "ÖFN",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "trosa": {
     "etikett": "Trosa",
@@ -2041,6 +2041,21 @@
   },
   "barn-och-utbildningsnamnd": {
     "etikett": "Lapsi- ja koulutuslautakunta.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "mbnau-signed": {
+    "etikett": "MBNAU on allekirjoitettu.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "ks-extra": {
+    "etikett": "KS Extra -lisätietoja:\n\n*   [URL]\n*   Päivämäärä: [DATE]\n*   Nimi: [NAME]\n*   Numero: [NUMBER]",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "overformyndarnamnden-eskilstuna-strangna": {
+    "etikett": "Eskilstunan ja Strängnäsin ylivuorineuvoston toimisto.",
     "typ": "organisation",
     "antal": 1
   }

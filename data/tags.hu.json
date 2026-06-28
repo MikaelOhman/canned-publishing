@@ -292,7 +292,7 @@
   "kommunfullmaktige": {
     "etikett": "A települési közgyűlés.",
     "typ": "organisation",
-    "antal": 99
+    "antal": 100
   },
   "kommunpolitik": {
     "etikett": "Önkormányzati politika.",
@@ -612,12 +612,12 @@
   "storfors": {
     "etikett": "Storfors",
     "typ": "plats",
-    "antal": 2
+    "antal": 3
   },
   "stromstad": {
     "etikett": "Strömstad.",
     "typ": "plats",
-    "antal": 2
+    "antal": 3
   },
   "vn": {
     "etikett": "A VN egy rövidítés, amelynek jelentése a vietnámi nyelven \"Việt Nam\", azaz Vietnam.",
@@ -1327,7 +1327,7 @@
   "sotenas": {
     "etikett": "Sotenäs\n\n(A következők a szövegben szereplő elemek, melyeket nem szabad fordítani, csak a szövegkörnyezetbe illeszteni.)\n* Sotenäs\n* URL-ek\n* Számok\n* Dátumok\n* Nevek",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "kstu-signed": {
     "etikett": "A KSTU aláírt.",
@@ -1352,7 +1352,7 @@
   "strangnas": {
     "etikett": "Strängnäs.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "valberedningen": {
     "etikett": "A választási bizottság.",
@@ -1492,7 +1492,7 @@
   "tjorn": {
     "etikett": "Tjörns.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "tranemo": {
     "etikett": "Tranemo.",
@@ -1502,7 +1502,7 @@
   "ofn": {
     "etikett": "Sajnálom, de nem tudom, hogy mit jelent az \"ÖFN\". Kérlek, adj több információt, vagy egy másik szöveget, amit lefordíthatok.",
     "typ": "organisation",
-    "antal": 1
+    "antal": 2
   },
   "trosa": {
     "etikett": "Trosa.",
@@ -1921,6 +1921,21 @@
   },
   "barn-och-utbildningsnamnd": {
     "etikett": "Gyermek- és oktatási bizottság.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "mbnau-signed": {
+    "etikett": "Az MBNAU aláírt.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "ks-extra": {
+    "etikett": "KS Extra\n\n(A szöveg hiányos, ezért nem tudom pontosan lefordítani. Kérlek, add meg a teljes szöveget, hogy helyes fordítást kapj.)",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "overformyndarnamnden-eskilstuna-strangna": {
+    "etikett": "Az Eskilstuna és Strängnäs körzet közgyámhivatalának (Överförmyndarnämnden) elérhetősége:",
     "typ": "organisation",
     "antal": 1
   }
