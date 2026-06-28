@@ -1452,7 +1452,7 @@
   "strangnas": {
     "etikett": "Strängnäs",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "valberedningen": {
     "etikett": "Valberedningen",
@@ -2051,6 +2051,11 @@
   },
   "ks-extra": {
     "etikett": "KS Extra",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "overformyndarnamnden-eskilstuna-strangna": {
+    "etikett": "Överförmyndarnämnden Eskilstuna Strängnäs",
     "typ": "organisation",
     "antal": 1
   }
