@@ -1342,7 +1342,7 @@
   "pajala": {
     "etikett": "Pajala",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "sammantrades-kultur-och-minoritetsutskot": {
     "etikett": "Sammantrades kultur och minoritetsutskott",
@@ -2031,6 +2031,11 @@
   },
   "miljonamndens-mn": {
     "etikett": "Miljönämndens mn",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "tu": {
+    "etikett": "TU",
     "typ": "organisation",
     "antal": 1
   }
