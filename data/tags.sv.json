@@ -1362,7 +1362,7 @@
   "saffle": {
     "etikett": "Säffle",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "teknik-och-fritidsnamnd-saffle-amal": {
     "etikett": "Teknik och fritidsnämnd Säffle Åmål",
@@ -2036,6 +2036,11 @@
   },
   "tu": {
     "etikett": "TU",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "barn-och-utbildningsnamnd": {
+    "etikett": "Barn och utbildningsnämnd",
     "typ": "organisation",
     "antal": 1
   }
