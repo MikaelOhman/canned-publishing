@@ -234,7 +234,7 @@ function applyInst(j){
   if(!j) return null;
   state.axlar.clear(); state.typer.clear(); state.ort.privat.clear(); state.ort.foretag.clear();
   if(Array.isArray(j.a)) j.a.forEach(x=>state.axlar.add(x));
-  if(Array.isArray(j.ty)) j.ty.forEach(x=>state.typer.add(x));
+  if(Array.isArray(j.ty)) j.ty.forEach(x=>{ if(TYPER.includes(x)) state.typer.add(x); });  // släng okända/föråldrade typ-id
   LS.set('typer',[...state.typer].join('.'));
   if(Array.isArray(j.op)) j.op.forEach(s=>state.ort.privat.add(s));
   if(Array.isArray(j.of)) j.of.forEach(s=>state.ort.foretag.add(s));
@@ -349,7 +349,7 @@ async function boot(){
   let kodLang=null;
   if(sp.get('s')){ kodLang=avkodaInst(sp.get('s')); history.replaceState(null,'',location.pathname); }
   if(!state.axlar.size) LS.get('axlar','').split('.').filter(Boolean).forEach(x=>state.axlar.add(x));
-  if(!state.typer.size) LS.get('typer','').split('.').filter(Boolean).forEach(x=>state.typer.add(x));
+  if(!state.typer.size) LS.get('typer','').split('.').filter(Boolean).forEach(x=>{ if(TYPER.includes(x)) state.typer.add(x); });
   state.lager = LS.get('lager','privat');
   initPrefAttrs();
   try { const ax=await getJSON('data/axlar.json'); state.axdef=ax.axlar||[]; state.grupper=ax.grupper||[]; state.gruppnamn=ax.gruppnamn||{}; state.lagernamn=ax.lagernamn||{}; } catch(e){}
