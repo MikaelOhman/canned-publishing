@@ -24180,5 +24180,201 @@
     "sakerhet": "belagt",
     "konsensus": "samsyn",
     "flaggor": []
+  },
+  {
+    "id": "hist-q77103",
+    "typ": "historia",
+    "titel": "كارل لودفيغ إنجل.",
+    "ingress": "كان كارل لودفيغ إنجل مهندسًا معماريًا ألمانيًا، وقد صمم العديد من أهم المباني في هلسنكي خلال القرن التاسع عشر. ساهم بفضل أسلوبه الفريد وخططه للمدن الأخرى في تحويل المدينة إلى عاصمة رائعة.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Carl_Ludvig_Engel",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "student": 3,
+      "klimat": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1840",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q435781",
+    "typ": "historia",
+    "titel": "كارل جيه. سوندفال.",
+    "ingress": "كان كارل ياكوب سوندفال باحثًا سويديًا درس الحيوانات، وخاصة الطيور. عمل في متحف كبير للتاريخ الطبيعي، وكتب العديد من الكتب الهامة حول العلاقات بين أنواع الحيوانات المختلفة.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Carl_J._Sundevall",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "student": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1875",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q241254",
+    "typ": "historia",
+    "titel": "صوفيا ملكة السويد.",
+    "ingress": "هناك العديد من النساء اللواتي حملن اسم \"صوفيا\" في تاريخ السويد. ومن بينهن، توجد ملكات وسيمات وملكات وملكة أخرى، وهي الأميرة صوفيا الحالية.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Sofia_av_Sverige",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "kvinna": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1865",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q632088",
+    "typ": "historia",
+    "titel": "أولوف سوازرت.",
+    "ingress": "كان أولوف سواز عالمًا سويديًا بارزًا وخبيرًا في علم النبات خلال القرن الثامن عشر. قام برحلات عديدة حول العالم لدراسة الطبيعة، وهو معروف بكتبه الهامة التي تتناول موضوعات مختلفة مثل الطحالب والفطريات والنباتات الزاحفة.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Olof_Swartz",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "fou": 3,
+      "student": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1817",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q380937",
+    "typ": "historia",
+    "titel": "إريك جوستاف غيجر.",
+    "ingress": "كان إريك جوستاف غيجر كاتبًا ومؤرخًا ومعلمًا سويديًا بالغ الأهمية خلال القرن التاسع عشر. لقد ساهم في تشكيل الأفكار السويدية حول التاريخ والسياسة والثقافة.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Erik_Gustaf_Geijer",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "b_kultur": 5,
+      "student": 3,
+      "kultur": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1847",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q472635",
+    "typ": "historia",
+    "titel": "غوستاف فاسا.",
+    "ingress": "غوستاف فون واسا كان أميرًا سويديًا فقد حقه في العرش بعد الإطاحة بوالده خلال انقلاب عسكري عام 1809. عاش بقية حياته في الخارج، وخاصة في النمسا، حيث أصبح نبيلًا وعسكريًا.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Gustav_av_Wasa",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "b_vard": 3,
+      "sambo_gift": 3,
+      "skild": 3,
+      "jagare": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1877",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q435290",
+    "typ": "historia",
+    "titel": "جون إريكسون.",
+    "ingress": "كان جون إريكسون مخترعًا سويديًا اشتهر عالميًا بابتكاراته التقنية، بما في ذلك أول مروحة تعمل بكفاءة وتصميم سفينة حربية مشهورة.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/John_Ericsson",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "barn": 3,
+      "kultur": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1889",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q4346827",
+    "typ": "historia",
+    "titel": "صوفي أدلرسبار.",
+    "ingress": "كانت صوفي أدلرسبار شخصية بارزة في حركة حقوق المرأة السويدية المبكرة خلال القرن التاسع عشر. فقد أسست مجلات، وأنشأت جمعيات، ونادت بتحسين حقوق المرأة وتعليمها.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Sophie_Adlersparre",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "barn": 5,
+      "kvinna": 3,
+      "kronisk": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1895",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
   }
 ]

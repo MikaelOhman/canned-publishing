@@ -24437,5 +24437,201 @@
     "sakerhet": "belagt",
     "konsensus": "samsyn",
     "flaggor": []
+  },
+  {
+    "id": "hist-q77103",
+    "typ": "historia",
+    "titel": "Carl Ludvig Engel.",
+    "ingress": "Carl Ludvig Engel oli saksalainen arkkitehti, joka suunnitteli monia Helsingin tärkeimpiä rakennuksia 1800-luvulla. Hän auttoi tekemään kaupungista kauniin pääkaupungin omalla tyylillään ja suunnitelmillaan useisiin muihin kaupunkeihin.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Carl_Ludvig_Engel",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "student": 3,
+      "klimat": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1840",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q435781",
+    "typ": "historia",
+    "titel": "Carl J. Sundevall",
+    "ingress": "Carl Jacob Sundevall oli ruotsalainen tutkija, joka keskittyi eläintieteeseen, erityisesti lintuihin. Hän työskenteli suuressa luonnontieteellisessä museossa ja kirjoitti useita tärkeitä teoksia, joissa hän käsitteli eri eläinlajien sukulai",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Carl_J._Sundevall",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "student": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1875",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q241254",
+    "typ": "historia",
+    "titel": "Sofia Ruotsista.",
+    "ingress": "Ruotsin historiassa on ollut monia eri naisia, jotka ovat kantaneet nimeä Sofia. Näiden joukossa on sekä vanhoja kuningattaria, että prinsessoja, mukaan lukien nykyinen prinsessa Sofia.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Sofia_av_Sverige",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "kvinna": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1865",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q632088",
+    "typ": "historia",
+    "titel": "Olof Swartz.",
+    "ingress": "Olof Swartz oli 1700-luvulla elänyt ruotsalainen luonnontieteilijä ja kasvitieteellinen asiantuntija. Hän matkusti paljon ympäri maailmaa tutkiakseen luontoa, ja hän on tunnettu tärkeistä teoksistaan, jotka käsittelevät muun muassa sammalia",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Olof_Swartz",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "fou": 3,
+      "student": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1817",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q380937",
+    "typ": "historia",
+    "titel": "Erik Gustaf Geijer.",
+    "ingress": "Erik Gustaf Geijer oli erittäin merkittävä ruotsalainen kirjailija, historioitsija ja opettaja 1800-luvulla. Hän vaikutti merkittävästi ruotsalaisten käsityksiin historiasta, politiikasta ja kulttuurista.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Erik_Gustaf_Geijer",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "b_kultur": 5,
+      "student": 3,
+      "kultur": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1847",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q472635",
+    "typ": "historia",
+    "titel": "Gustav Vasa.",
+    "ingress": "Gustav Wasa oli ruotsalainen prinssi, joka menetti oikeutensa valtaistuimeen isänsä syrjäytyttyä vallankaappauksessa vuonna 1809. Hän eli loppuelämänsä ulkomailla, pääasiassa Itävallissa, jossa hänestä tuli aatelismies ja sotilas.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Gustav_av_Wasa",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "b_vard": 3,
+      "sambo_gift": 3,
+      "skild": 3,
+      "jagare": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1877",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q435290",
+    "typ": "historia",
+    "titel": "John Ericsson.",
+    "ingress": "John Ericsson oli ruotsalainen keksijä, joka saavutti maailmanlaajuista mainetta innovatiivisilla teknisillä ratkaisuillaan, kuten ensimmäisellä toimivalla potkurilla ja tunnetun sotilaalalaston suunnittelulla.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/John_Ericsson",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "barn": 3,
+      "kultur": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1889",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q4346827",
+    "typ": "historia",
+    "titel": "Sophie Adlersparre.",
+    "ingress": "Sophie Adlersparre oli keskeinen hahmo varhaisessa ruotsalaisessa naisasialiikkeessä 1800-luvulla. Hän perusti aikakauslehtiä, toimi yhdistysten perustajana ja taisteli parantaakseen naisten oikeuksia ja koulutusta.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Sophie_Adlersparre",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "barn": 5,
+      "kvinna": 3,
+      "kronisk": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1895",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
   }
 ]

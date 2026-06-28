@@ -24440,5 +24440,176 @@
     "sakerhet": "belagt",
     "konsensus": "samsyn",
     "flaggor": []
+  },
+  {
+    "id": "hist-q435781",
+    "typ": "historia",
+    "titel": "Carl J. Sundevall",
+    "ingress": "Carl Jacob Sundevall was a Swedish researcher who studied animals, particularly birds. He worked at a large natural history museum and wrote several important books about the relationships between different animal species.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Carl_J._Sundevall",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "student": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1875",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q241254",
+    "typ": "historia",
+    "titel": "Sofia of Sweden.",
+    "ingress": "Throughout history, many women have borne the name Sofia of Sweden. Among them are former queens, princesses, and the current Princess Sofia.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Sofia_av_Sverige",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "kvinna": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1865",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q632088",
+    "typ": "historia",
+    "titel": "Olof Swartz.",
+    "ingress": "Olof Swartz was a highly knowledgeable Swedish naturalist and expert on plants during the 18th century. He traveled extensively around the world to study nature, and he is known for his important books on various topics, including mosses, f",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Olof_Swartz",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "fou": 3,
+      "student": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1817",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q380937",
+    "typ": "historia",
+    "titel": "Erik Gustaf Geijer.",
+    "ingress": "Erik Gustaf Geijer was a highly significant Swedish author, historian, and teacher during the 19th century. He played a crucial role in shaping Swedish ideas about history, politics, and culture.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Erik_Gustaf_Geijer",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "b_kultur": 5,
+      "student": 3,
+      "kultur": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1847",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q472635",
+    "typ": "historia",
+    "titel": "Gustav Vasa.",
+    "ingress": "Gustav of Vasa was a Swedish prince who lost his claim to the throne after his father was overthrown in a coup d'état in 1809. He spent the rest of his life abroad, primarily in Austria, where he became a nobleman and served in the military",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Gustav_av_Wasa",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "b_vard": 3,
+      "sambo_gift": 3,
+      "skild": 3,
+      "jagare": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1877",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q435290",
+    "typ": "historia",
+    "titel": "John Ericsson:",
+    "ingress": "John Ericsson was a Swedish inventor who became world-renowned for his technological innovations, including the first working propeller and the design of a famous warship.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/John_Ericsson",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "barn": 3,
+      "kultur": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1889",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q4346827",
+    "typ": "historia",
+    "titel": "Sophie Adlersparre.",
+    "ingress": "Sophie Adlersparre was a significant figure in the early Swedish women's movement during the 19th century. She founded journals, established organizations, and worked to improve women's rights and education.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Sophie_Adlersparre",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "barn": 5,
+      "kvinna": 3,
+      "kronisk": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1895",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
   }
 ]
