@@ -1427,7 +1427,7 @@
   "sotenas": {
     "etikett": "Sotenäs",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "kstu-signed": {
     "etikett": "KSTU signed",
@@ -2041,6 +2041,11 @@
   },
   "barn-och-utbildningsnamnd": {
     "etikett": "Barn och utbildningsnämnd",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "mbnau-signed": {
+    "etikett": "MBNAU signed",
     "typ": "organisation",
     "antal": 1
   }
