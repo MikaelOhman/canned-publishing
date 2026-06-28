@@ -397,7 +397,7 @@
   "kommunal-forvaltning": {
     "etikett": "Kommunal förvaltning",
     "typ": "ämne",
-    "antal": 7
+    "antal": 8
   },
   "digitalisering": {
     "etikett": "Digitalisering",
@@ -432,7 +432,7 @@
   "protokoll": {
     "etikett": "Protokoll",
     "typ": "händelse",
-    "antal": 11
+    "antal": 12
   },
   "alingsas": {
     "etikett": "Alingsås",
@@ -472,7 +472,7 @@
   "kommunalpolitik": {
     "etikett": "Kommunalpolitik",
     "typ": "ämne",
-    "antal": 13
+    "antal": 15
   },
   "umea": {
     "etikett": "Umeå",
@@ -1502,17 +1502,17 @@
   "reg-halland": {
     "etikett": "Region Halland",
     "typ": "organisation",
-    "antal": 11
+    "antal": 15
   },
   "regionfullmaktige": {
     "etikett": "Regionfullmaktige",
     "typ": "organisation",
-    "antal": 19
+    "antal": 21
   },
   "regionstyrelsen": {
     "etikett": "Regionstyrelsen",
     "typ": "organisation",
-    "antal": 15
+    "antal": 17
   },
   "reg-orebro": {
     "etikett": "Region Örebro län",
@@ -1712,17 +1712,17 @@
   "region-halland": {
     "etikett": "Region Halland",
     "typ": "organisation",
-    "antal": 7
+    "antal": 10
   },
   "halland": {
     "etikett": "Halland",
     "typ": "plats",
-    "antal": 7
+    "antal": 11
   },
   "regionalpolitik": {
     "etikett": "Regionalpolitik",
     "typ": "ämne",
-    "antal": 10
+    "antal": 12
   },
   "region-orebro-lan": {
     "etikett": "Region Örebro län",
@@ -1992,7 +1992,7 @@
   "varberg": {
     "etikett": "Varberg",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "offentlig-forvaltning": {
     "etikett": "Offentlig förvaltning",
@@ -2062,6 +2062,11 @@
   "miljo-och-byggnamndens-mbn": {
     "etikett": "Miljö och byggnämndens (MBN)",
     "typ": "organisation",
+    "antal": 1
+  },
+  "mikaela-waltersson": {
+    "etikett": "Mikaela Waltersson",
+    "typ": "person",
     "antal": 1
   }
 }
