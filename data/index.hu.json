@@ -2717,6 +2717,24 @@
     }
   },
   {
+    "id": "saffle-barn-och-utbildningsnamnd-2026-06-17",
+    "typ": "kommunbeslut",
+    "titel": "A Säffle önkormányzat gyermekekért és oktatásért felelős bizottsága, 2026. június 17.",
+    "ingress": "A Säffle önkormányzat gyermek- és oktatási bizottsága többek között döntést hozott a következőkről: pénzügyi támogatás a Herrgårdsgymnasiet gimnázium számára, szabályok a látogatók iskolai tartózkodására vonatkozóan, valamint vizsgálatok ar",
+    "datum": "2026-06-17",
+    "kalla": "Säffle kommun",
+    "kalla_url": "https://saffle.se/download/18.7ed3ab5119ed43d88f641259/1782463434833/Protokoll%20Barn-%20och%20utbildningsn%C3%A4mnd%202026-06-17.pdf",
+    "taggar": [
+      "saffle",
+      "barn-och-utbildningsnamnd"
+    ],
+    "relevans": {
+      "b_kultur": 5,
+      "barn": 8,
+      "kultur": 5
+    }
+  },
+  {
     "id": "HD03286",
     "typ": "lagforslag",
     "titel": "A bíróságok és bírák függetlenségének megerősítése.",
@@ -3175,6 +3193,19 @@
       "kronisk": 3,
       "funktion": 3
     }
+  },
+  {
+    "id": "pajala-tu-2026-06-16",
+    "typ": "kommunbeslut",
+    "titel": "Pajala önkormányzat, 2026. június 16.",
+    "ingress": "A Pajala önkormányzat úgy dönt, hogy új szennyvíztisztító járművet vásárol, mivel a régi túl öreg és a javítása túl költséges lenne. A vásárlás becsült költsége körülbelül 5,6 millió svéd korona.",
+    "datum": "2026-06-16",
+    "kalla": "Pajala kommun",
+    "kalla_url": "https://www.pajala.se/media/ya1kjzcm/tu-2026-06-16-protokoll.pdf",
+    "taggar": [
+      "pajala",
+      "tu"
+    ]
   },
   {
     "id": "HD03285",
@@ -3758,6 +3789,26 @@
       "gravid": 8,
       "sjukskriven": 3,
       "foraldraledig": 8
+    }
+  },
+  {
+    "id": "osthammar-bun-2026-06-11",
+    "typ": "kommunbeslut",
+    "titel": "BUN, Östhammar önkormányzata, 2026. június 11.",
+    "ingress": "Az Östhammar önkormányzat jóváhagyta egy új előrejelzést arról, hogy a jövőben hány gyermeknek lesz szüksége óvodai helyekhez. Ez segít az önkormányzatnak abban, hogy megfelelően tervezzen személyzetet, helyiségeket és erőforrásokat.",
+    "datum": "2026-06-11",
+    "kalla": "Östhammars kommun",
+    "kalla_url": "https://www.osthammar.se/globalassets/dokument/moteshandlingar/barn--och-utbildningsnamnd/2026/2026-06-11/protokoll-bun-2026-06-11.pdf",
+    "taggar": [
+      "osthammar",
+      "bun"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_bygg": 3,
+      "lokaler": 3,
+      "barn": 5,
+      "gymnasieelev": 3
     }
   },
   {

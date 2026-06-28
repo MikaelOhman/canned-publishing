@@ -2735,6 +2735,24 @@
     }
   },
   {
+    "id": "saffle-barn-och-utbildningsnamnd-2026-06-17",
+    "typ": "kommunbeslut",
+    "titel": "Komisja ds. dzieci i edukacji, gmina Säffle, 17 czerwca 2026 roku.",
+    "ingress": "Komisja ds. edukacji dzieci i młodzieży w gminie Säffle podjęła decyzje dotyczące m.in. finansowania dla szkoły średniej Herrgårdsgymnasiet, zasad odwiedzin w szkole oraz prowadzenia badań na temat możliwości pozyskiwania owoców od osób pry",
+    "datum": "2026-06-17",
+    "kalla": "Säffle kommun",
+    "kalla_url": "https://saffle.se/download/18.7ed3ab5119ed43d88f641259/1782463434833/Protokoll%20Barn-%20och%20utbildningsn%C3%A4mnd%202026-06-17.pdf",
+    "taggar": [
+      "saffle",
+      "barn-och-utbildningsnamnd"
+    ],
+    "relevans": {
+      "b_kultur": 5,
+      "barn": 8,
+      "kultur": 5
+    }
+  },
+  {
     "id": "HD03286",
     "typ": "lagforslag",
     "titel": "Wzmocnienie ochrony niezależności sądów i sędziów.",
@@ -3193,6 +3211,19 @@
       "kronisk": 3,
       "funktion": 3
     }
+  },
+  {
+    "id": "pajala-tu-2026-06-16",
+    "typ": "kommunbeslut",
+    "titel": "Gmina Pajala, numer sprawy: 2026-06-16.",
+    "ingress": "Gmina Pajala podjęła decyzję o zakupie nowego samochodu do czyszczenia zbiorników szamb, ponieważ stary pojazd jest zbyt stary i jego naprawa byłaby zbyt kosztowna. Zakup ten ma wynieść około 5,6 miliona koron szwedzkich.",
+    "datum": "2026-06-16",
+    "kalla": "Pajala kommun",
+    "kalla_url": "https://www.pajala.se/media/ya1kjzcm/tu-2026-06-16-protokoll.pdf",
+    "taggar": [
+      "pajala",
+      "tu"
+    ]
   },
   {
     "id": "HD03285",
@@ -3820,6 +3851,26 @@
       "gravid": 8,
       "sjukskriven": 3,
       "foraldraledig": 8
+    }
+  },
+  {
+    "id": "osthammar-bun-2026-06-11",
+    "typ": "kommunbeslut",
+    "titel": "BUN, Gmina Östhammar, 11 czerwca 2026 roku.",
+    "ingress": "Gmina Östhammar zatwierdziła nową prognozę dotyczącą liczby dzieci, które będą potrzebować miejsc w przedszkolach w przyszłości. To pomoże gminie odpowiednio zaplanować zasoby ludzkie, lokalizacje i środki finansowe.",
+    "datum": "2026-06-11",
+    "kalla": "Östhammars kommun",
+    "kalla_url": "https://www.osthammar.se/globalassets/dokument/moteshandlingar/barn--och-utbildningsnamnd/2026/2026-06-11/protokoll-bun-2026-06-11.pdf",
+    "taggar": [
+      "osthammar",
+      "bun"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_bygg": 3,
+      "lokaler": 3,
+      "barn": 5,
+      "gymnasieelev": 3
     }
   },
   {

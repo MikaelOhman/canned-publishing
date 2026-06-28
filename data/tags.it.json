@@ -977,7 +977,7 @@
   "bun": {
     "etikett": "BUN",
     "typ": "organisation",
-    "antal": 4
+    "antal": 5
   },
   "kalix": {
     "etikett": "Kalix.",
@@ -1207,7 +1207,7 @@
   "osthammar": {
     "etikett": "Östhammars.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "kf-komp": {
     "etikett": "Kf komp.",
@@ -1247,7 +1247,7 @@
   "pajala": {
     "etikett": "Pajala",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "sammantrades-kultur-och-minoritetsutskot": {
     "etikett": "Riunione della commissione cultura e minoranze.",
@@ -1267,7 +1267,7 @@
   "saffle": {
     "etikett": "Säffle.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "teknik-och-fritidsnamnd-saffle-amal": {
     "etikett": "Commissione per la tecnologia e il tempo libero di Säffle e Åmål.",
@@ -1911,6 +1911,16 @@
   },
   "miljonamndens-mn": {
     "etikett": "Mi spiace, ma non riesco a capire cosa intendi con \"Miljönämndens mn\". Potresti fornirmi maggiori informazioni o un contesto più chiaro?",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "tu": {
+    "etikett": "TU",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "barn-och-utbildningsnamnd": {
+    "etikett": "Commissione per l'infanzia e l'istruzione.",
     "typ": "organisation",
     "antal": 1
   }

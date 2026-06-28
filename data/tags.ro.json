@@ -972,7 +972,7 @@
   "bun": {
     "etikett": "BUN",
     "typ": "organisation",
-    "antal": 4
+    "antal": 5
   },
   "kalix": {
     "etikett": "Kalix.",
@@ -1202,7 +1202,7 @@
   "osthammar": {
     "etikett": "Östhammars",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "kf-komp": {
     "etikett": "Kf komp",
@@ -1242,7 +1242,7 @@
   "pajala": {
     "etikett": "Pajala",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "sammantrades-kultur-och-minoritetsutskot": {
     "etikett": "Reuniunea Comisiei pentru Cultură și Minorități.",
@@ -1262,7 +1262,7 @@
   "saffle": {
     "etikett": "Säffle",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "teknik-och-fritidsnamnd-saffle-amal": {
     "etikett": "Comisia pentru tehnologie și recreere, Säffle, Åmål.",
@@ -1911,6 +1911,16 @@
   },
   "miljonamndens-mn": {
     "etikett": "Îmi pare rău, dar nu pot traduce acest text deoarece conține doar inițiale și nu are un context clar. Pentru a oferi o traducere corectă și fluentă în limba română, am nevoie de mai multe informații despre ce reprezintă \"Miljönämndens mn\".",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "tu": {
+    "etikett": "TU",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "barn-och-utbildningsnamnd": {
+    "etikett": "Comisia pentru copii și educație.",
     "typ": "organisation",
     "antal": 1
   }

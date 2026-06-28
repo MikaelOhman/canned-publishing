@@ -1037,7 +1037,7 @@
   "bun": {
     "etikett": "BUN",
     "typ": "organisation",
-    "antal": 4
+    "antal": 5
   },
   "kalix": {
     "etikett": "Kalix",
@@ -1267,7 +1267,7 @@
   "osthammar": {
     "etikett": "Östhammar",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "kf-komp": {
     "etikett": "Kf komp",
@@ -1307,7 +1307,7 @@
   "pajala": {
     "etikett": "Pajala",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "sammantrades-kultur-och-minoritetsutskot": {
     "etikett": "Sitzung des Ausschusses für Kultur und Minderheitenfragen.",
@@ -1327,7 +1327,7 @@
   "saffle": {
     "etikett": "Säffle",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "teknik-och-fritidsnamnd-saffle-amal": {
     "etikett": "Technischer und Freizeit-Ausschuss Säffle Åmål.",
@@ -1971,6 +1971,16 @@
   },
   "miljonamndens-mn": {
     "etikett": "Umweltkommission.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "tu": {
+    "etikett": "TU",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "barn-och-utbildningsnamnd": {
+    "etikett": "Der Ausschuss für Kinder und Bildung.",
     "typ": "organisation",
     "antal": 1
   }

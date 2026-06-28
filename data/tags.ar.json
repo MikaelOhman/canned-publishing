@@ -987,7 +987,7 @@
   "bun": {
     "etikett": "خبز.",
     "typ": "organisation",
-    "antal": 4
+    "antal": 5
   },
   "kalix": {
     "etikett": "كاليكس.",
@@ -1217,7 +1217,7 @@
   "osthammar": {
     "etikett": "أوستهامار.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "kf-komp": {
     "etikett": "بالتأكيد. يرجى تزويدي بالنص الذي تريد ترجمته من السويدية إلى العربية.",
@@ -1257,7 +1257,7 @@
   "pajala": {
     "etikett": "Pajala",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "sammantrades-kultur-och-minoritetsutskot": {
     "etikett": "اجتماع لجنة الثقافة والأقليات.",
@@ -1277,7 +1277,7 @@
   "saffle": {
     "etikett": "سأفل.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "teknik-och-fritidsnamnd-saffle-amal": {
     "etikett": "لجنة الشؤون التقنية والترفيهية، منطقة سيفله-أمول.",
@@ -1926,6 +1926,16 @@
   },
   "miljonamndens-mn": {
     "etikett": "لجنة البيئة:\n\n(النص الأصلي غير مكتمل، لذا لا يمكن تقديم ترجمة كاملة.  يرجى تزويد النص الكامل للحصول على ترجمة دقيقة.)",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "tu": {
+    "etikett": "بالتأكيد، يرجى تزويدي بالنص السويدي الذي تريد ترجمته إلى اللغة العربية. سأحرص على أن تكون الترجمة دقيقة وطبيعية وسلسة، مع الحفاظ على الفقرات والقوائم وهيكلة النص الأصلية، بالإضافة إلى عدم تغيير الأسماء والأرقام والتواريخ وعناوين الويب.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "barn-och-utbildningsnamnd": {
+    "etikett": "لجنة شؤون الأطفال والتعليم.",
     "typ": "organisation",
     "antal": 1
   }

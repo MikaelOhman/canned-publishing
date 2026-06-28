@@ -972,7 +972,7 @@
   "bun": {
     "etikett": "A BUN (Blood Urea Nitrogen) teszt egy vérvizsgálat, amely a vérben található urea mennyiségét méri. Az urea egy hulladékanyag, amely a máj által a fehérjék lebontásakor keletkezik. A BUN szintjét a vesék szűrik ki a vizelettel.\n\nA magas BUN szint a következő állapotokra utalhat:\n\n* Dehidratáció (folyadékhiány)\n* Veseelégtelenség\n* Szívszövődmények\n* Bizonyos gyógyszerek szedése\n\nA normál BUN szint általában 7-20 mg/dL (milligramm/deciliter) között van.\n\nHa a BUN szintje magas, orvoshoz kell fordulni, hogy kiderítsük az okát és a megfelelő kezelést kapjuk.",
     "typ": "organisation",
-    "antal": 4
+    "antal": 5
   },
   "kalix": {
     "etikett": "Kalix.",
@@ -1202,7 +1202,7 @@
   "osthammar": {
     "etikett": "Östhammar.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "kf-komp": {
     "etikett": "Sajnálom, de nem tudom, hogy mit jelent a \"Kf komp\". Kérlek, adj több információt, hogy tudjak segíteni.",
@@ -1242,7 +1242,7 @@
   "pajala": {
     "etikett": "Pajala",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "sammantrades-kultur-och-minoritetsutskot": {
     "etikett": "A kultúra és kisebbségek bizottságának ülése.",
@@ -1262,7 +1262,7 @@
   "saffle": {
     "etikett": "Säffle.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "teknik-och-fritidsnamnd-saffle-amal": {
     "etikett": "Säffle és Åmål települései technológiai és szabadidős ügyekkel foglalkozó bizottsága.",
@@ -1911,6 +1911,16 @@
   },
   "miljonamndens-mn": {
     "etikett": "A környezetvédelmi bizottság... (a mondat nem teljes, hiányzik a folytatás)",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "tu": {
+    "etikett": "Sajnálom, de nem tudok segíteni ebben a kérésben. Nem értem, mit szeretnél, hogy fordítsam. Kérlek, adj meg egy konkrét szöveget, amit le kell fordítanom.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "barn-och-utbildningsnamnd": {
+    "etikett": "Gyermek- és oktatási bizottság.",
     "typ": "organisation",
     "antal": 1
   }

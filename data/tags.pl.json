@@ -972,7 +972,7 @@
   "bun": {
     "etikett": "BUN",
     "typ": "organisation",
-    "antal": 4
+    "antal": 5
   },
   "kalix": {
     "etikett": "Kalix.",
@@ -1202,7 +1202,7 @@
   "osthammar": {
     "etikett": "Östhammar.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "kf-komp": {
     "etikett": "Przepraszam, nie rozumiem. Czy możesz podać więcej informacji?",
@@ -1242,7 +1242,7 @@
   "pajala": {
     "etikett": "Pajala",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "sammantrades-kultur-och-minoritetsutskot": {
     "etikett": "Spotkanie komisji kultury i spraw mniejszości.",
@@ -1262,7 +1262,7 @@
   "saffle": {
     "etikett": "Säffle",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "teknik-och-fritidsnamnd-saffle-amal": {
     "etikett": "Komisja ds. technologii i rekreacji, Säffle, Åmål.",
@@ -1911,6 +1911,16 @@
   },
   "miljonamndens-mn": {
     "etikett": "Komitet ds spraw środowiskowych.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "tu": {
+    "etikett": "Przepraszam, nie rozumiem pytania. Proszę podać tekst do przetłumaczenia ze szwedzkiego na polski.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "barn-och-utbildningsnamnd": {
+    "etikett": "Komisja ds. dzieci i edukacji.",
     "typ": "organisation",
     "antal": 1
   }

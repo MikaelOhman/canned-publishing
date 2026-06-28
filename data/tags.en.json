@@ -1047,7 +1047,7 @@
   "bun": {
     "etikett": "BUN",
     "typ": "organisation",
-    "antal": 4
+    "antal": 5
   },
   "kalix": {
     "etikett": "Kalix is a municipality in Norrbotten County, Sweden. It is located on the coast of the Gulf of Bothnia. The municipality has a population of approximately 17,000 people. The main industries in the municipality are forestry, fishing, and tourism. Kalix is also a popular destination for outdoor activities, such as hiking, skiing, and fishing.\n\nHere are some of the things you can do in Kalix:\n\n* Visit the Kalix Museum, which tells the story of the municipality's history and culture.\n* Go hiking in the surrounding forests and mountains.\n* Go skiing or snowboarding at one of the local ski resorts.\n* Go fishing in the Gulf of Bothnia.\n* Visit the Kalix Church, which is a beautiful example of Swedish architecture.\n\nIf you are planning a trip to Sweden, Kalix is a great place to visit. It is a beautiful and peaceful place with a lot to offer.",
@@ -1277,7 +1277,7 @@
   "osthammar": {
     "etikett": "Östhammar.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "kf-komp": {
     "etikett": "Unfortunately, I cannot translate \"Kf komp\" because it appears to be an abbreviation or code that I don't recognize. To provide an accurate translation, I need more context or information about what \"Kf komp\" refers to.",
@@ -1317,7 +1317,7 @@
   "pajala": {
     "etikett": "Pajala",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "sammantrades-kultur-och-minoritetsutskot": {
     "etikett": "The Committee on Culture and Minority Affairs convened a meeting.",
@@ -1337,7 +1337,7 @@
   "saffle": {
     "etikett": "Säffle is a town in Sweden.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "teknik-och-fritidsnamnd-saffle-amal": {
     "etikett": "Technology and Leisure Committee, Säffle-Åmål.",
@@ -1976,6 +1976,16 @@
   },
   "miljonamndens-mn": {
     "etikett": "The Environment Committee's mn... (This appears to be an incomplete phrase or abbreviation; without more context, it's difficult to provide a complete translation.)",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "tu": {
+    "etikett": "Unfortunately, I can't translate \"TU\" because it doesn't provide enough context. It could be an abbreviation, a code, or part of a larger phrase. To give you an accurate and fluent English translation, please provide more information about what \"TU\" refers to. For example:\n\n*   Is it an acronym? If so, what does it stand for?\n*   Is it a specific term used in a particular field or industry?\n*   What is the surrounding text or sentence where \"TU\" appears?\n\nWith more context, I can provide a helpful and accurate translation.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "barn-och-utbildningsnamnd": {
+    "etikett": "Children and Education Committee.",
     "typ": "organisation",
     "antal": 1
   }

@@ -972,7 +972,7 @@
   "bun": {
     "etikett": "BUN",
     "typ": "organisation",
-    "antal": 4
+    "antal": 5
   },
   "kalix": {
     "etikett": "Kalix.",
@@ -1202,7 +1202,7 @@
   "osthammar": {
     "etikett": "Östhammars",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "kf-komp": {
     "etikett": "Kf komp",
@@ -1242,7 +1242,7 @@
   "pajala": {
     "etikett": "Pajala",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "sammantrades-kultur-och-minoritetsutskot": {
     "etikett": "Reunión de la comisión de cultura y minorías.",
@@ -1262,7 +1262,7 @@
   "saffle": {
     "etikett": "Säffle.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "teknik-och-fritidsnamnd-saffle-amal": {
     "etikett": "Comisión de Tecnología y Ocio de Säffle y Åmål.",
@@ -1911,6 +1911,16 @@
   },
   "miljonamndens-mn": {
     "etikett": "Lo siento, pero no puedo traducir eso porque parece ser una abreviatura o un código sin contexto. Por favor, proporciona el texto completo que deseas que traduzca.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "tu": {
+    "etikett": "Lo siento, pero no puedo traducir eso porque \"TU\" es una abreviatura que necesita contexto para ser traducida correctamente. Por favor, proporciona más información o la frase completa en sueco que deseas que traduzca.",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "barn-och-utbildningsnamnd": {
+    "etikett": "Comisión de Asuntos Infanto-juveniles y Educación.",
     "typ": "organisation",
     "antal": 1
   }

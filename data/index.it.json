@@ -2738,6 +2738,24 @@
     }
   },
   {
+    "id": "saffle-barn-och-utbildningsnamnd-2026-06-17",
+    "typ": "kommunbeslut",
+    "titel": "Commissione per l'infanzia e l'istruzione, Comune di Säffle, 17 giugno 2026.",
+    "ingress": "La commissione per l'infanzia e l'istruzione del comune di Säffle ha preso decisioni riguardanti diverse questioni, tra cui: finanziamenti per il liceo Herrgårdsgymnasiet, regolamenti relativi alle visite scolastiche e indagini su come racc",
+    "datum": "2026-06-17",
+    "kalla": "Säffle kommun",
+    "kalla_url": "https://saffle.se/download/18.7ed3ab5119ed43d88f641259/1782463434833/Protokoll%20Barn-%20och%20utbildningsn%C3%A4mnd%202026-06-17.pdf",
+    "taggar": [
+      "saffle",
+      "barn-och-utbildningsnamnd"
+    ],
+    "relevans": {
+      "b_kultur": 5,
+      "barn": 8,
+      "kultur": 5
+    }
+  },
+  {
     "id": "HD03286",
     "typ": "lagforslag",
     "titel": "Maggiore protezione dell'indipendenza dei tribunali e dei giudici.",
@@ -3196,6 +3214,19 @@
       "kronisk": 3,
       "funktion": 3
     }
+  },
+  {
+    "id": "pajala-tu-2026-06-16",
+    "typ": "kommunbeslut",
+    "titel": "TU, Comune di Pajala, 16 giugno 2026.",
+    "ingress": "Il comune di Pajala ha deciso di acquistare un nuovo camion per lo svuotamento delle fosse settiche, poiché quello vecchio è troppo obsoleto e costoso da riparare. L'acquisto dovrebbe costare circa 5,6 milioni di corone svedesi.",
+    "datum": "2026-06-16",
+    "kalla": "Pajala kommun",
+    "kalla_url": "https://www.pajala.se/media/ya1kjzcm/tu-2026-06-16-protokoll.pdf",
+    "taggar": [
+      "pajala",
+      "tu"
+    ]
   },
   {
     "id": "HD03285",
@@ -3823,6 +3854,26 @@
       "gravid": 8,
       "sjukskriven": 3,
       "foraldraledig": 8
+    }
+  },
+  {
+    "id": "osthammar-bun-2026-06-11",
+    "typ": "kommunbeslut",
+    "titel": "BUN, Comune di Östhammar, 11 giugno 2026.",
+    "ingress": "Il comune di Östhammar ha approvato una nuova previsione sul numero di bambini che avranno bisogno di posti nell'asilo nido in futuro. Questo aiuta il comune a pianificare adeguatamente in termini di personale, locali e risorse.",
+    "datum": "2026-06-11",
+    "kalla": "Östhammars kommun",
+    "kalla_url": "https://www.osthammar.se/globalassets/dokument/moteshandlingar/barn--och-utbildningsnamnd/2026/2026-06-11/protokoll-bun-2026-06-11.pdf",
+    "taggar": [
+      "osthammar",
+      "bun"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_bygg": 3,
+      "lokaler": 3,
+      "barn": 5,
+      "gymnasieelev": 3
     }
   },
   {

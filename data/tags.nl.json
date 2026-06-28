@@ -977,7 +977,7 @@
   "bun": {
     "etikett": "BUN",
     "typ": "organisation",
-    "antal": 4
+    "antal": 5
   },
   "kalix": {
     "etikett": "Kalix",
@@ -1207,7 +1207,7 @@
   "osthammar": {
     "etikett": "Östhammar.",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "kf-komp": {
     "etikett": "Kf komp",
@@ -1247,7 +1247,7 @@
   "pajala": {
     "etikett": "Pajala",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "sammantrades-kultur-och-minoritetsutskot": {
     "etikett": "De gemeenschappelijke commissie voor cultuur en minderheden.",
@@ -1267,7 +1267,7 @@
   "saffle": {
     "etikett": "Säffle",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "teknik-och-fritidsnamnd-saffle-amal": {
     "etikett": "Techniek- en vrijetijdskommissie Säffle Åmål.",
@@ -1911,6 +1911,16 @@
   },
   "miljonamndens-mn": {
     "etikett": "De milieudienst heeft de volgende informatie:",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "tu": {
+    "etikett": "TU",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "barn-och-utbildningsnamnd": {
+    "etikett": "Commissie voor Kinderen en Onderwijs.",
     "typ": "organisation",
     "antal": 1
   }

@@ -1202,7 +1202,7 @@
   "bun": {
     "etikett": "BUN",
     "typ": "organisation",
-    "antal": 4
+    "antal": 5
   },
   "kalix": {
     "etikett": "Kalix",
@@ -1432,7 +1432,7 @@
   "osthammar": {
     "etikett": "Östhammars",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "kf-komp": {
     "etikett": "Kf komp",
@@ -1472,7 +1472,7 @@
   "pajala": {
     "etikett": "Pajala",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "sammantrades-kultur-och-minoritetsutskot": {
     "etikett": "Sammantrades kultur och minoritetsutskott",
@@ -1492,7 +1492,7 @@
   "saffle": {
     "etikett": "Säffle",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "teknik-och-fritidsnamnd-saffle-amal": {
     "etikett": "Teknik och fritidsnämnd Säffle Åmål",
@@ -2031,6 +2031,16 @@
   },
   "miljonamndens-mn": {
     "etikett": "Ympäristölautakunnan mn",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "tu": {
+    "etikett": "Olen pahoillani, mutta en ymmärrä pyyntöäsi. Voitko selventää, mitä haluat minun tekevän?",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "barn-och-utbildningsnamnd": {
+    "etikett": "Lapsi- ja koulutuslautakunta.",
     "typ": "organisation",
     "antal": 1
   }
