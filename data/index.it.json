@@ -23652,5 +23652,29 @@
     "sakerhet": "belagt",
     "konsensus": "samsyn",
     "flaggor": []
+  },
+  {
+    "id": "hist-q313568",
+    "typ": "historia",
+    "titel": "Johan August Arfwedson.",
+    "ingress": "Johan August Arfwedson è stato un chimico svedese, noto per aver scoperto l'elemento litio nel corso del XIX secolo.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Johan_August_Arfwedson",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1800talet"
+    ],
+    "relevans": {
+      "b_industri": 5,
+      "student": 3
+    },
+    "epok": "1800talet",
+    "tid": "d. 1841",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
   }
 ]

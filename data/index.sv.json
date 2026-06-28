@@ -12577,6 +12577,32 @@
     }
   },
   {
+    "id": "reg-jamtland-regionstyrelsen-2025-12-09",
+    "typ": "region",
+    "titel": "Regionstyrelsen, Region Jämtland Härjedalen 2025-12-09",
+    "ingress": "Regionstyrelsen i Jämtland Härjedalen har tagit del av sina rapporter för året 2025 och konstaterat att de har en ekonomisk förlust på nästan 300 miljoner kronor.",
+    "datum": "2025-12-09",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionstyrelsen/mote-2025-12-09",
+    "taggar": [
+      "reg-jamtland",
+      "regionstyrelsen",
+      "region-jamtland-harjedalen",
+      "regional-forvaltning",
+      "ekonomi",
+      "halso-och-sjukvard"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_fastighet": 3,
+      "kollektivavtal": 3,
+      "arbetsmiljo": 3,
+      "pensionar": 3,
+      "kronisk": 8,
+      "kultur": 3
+    }
+  },
+  {
     "id": "HD0378",
     "typ": "lagforslag",
     "titel": "En grundlagsskyddad aborträtt samt utökade möjligheter att begränsa föreningsfriheten och rätten till medborgarskap",
@@ -13180,6 +13206,30 @@
     ],
     "relevans": {
       "b_bygg": 3
+    }
+  },
+  {
+    "id": "reg-jamtland-regionstyrelsen-2025-11-24",
+    "typ": "region",
+    "titel": "Regionstyrelsen, Region Jämtland Härjedalen 2025-11-24",
+    "ingress": "Regionen har beslutat att skjuta upp beslutet om hur prissättningen för Norrlandsresan ska hanteras till första halvan av 2026. Detta beror på att det nya nationella biljettsystemet fortfarande håller på att införas.",
+    "datum": "2025-11-24",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionstyrelsen/mote-2025-11-24",
+    "taggar": [
+      "reg-jamtland",
+      "regionstyrelsen",
+      "region-jamtland-harjedalen",
+      "sjukvard",
+      "regionalpolitik",
+      "ekonomi"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "pendlare": 3,
+      "kollektiv": 5,
+      "kronisk": 8,
+      "konsument": 3
     }
   },
   {
@@ -16548,6 +16598,27 @@
     }
   },
   {
+    "id": "reg-jamtland-regionfullmaktige-2025-04-30",
+    "typ": "region",
+    "titel": "Regionfullmaktige, Region Jämtland Härjedalen 2025-04-30",
+    "ingress": "Detta är ett protokoll från Region Jämtland Härjedalens möte den 30 april 2025. Dokumentet innehåller för tillfället endast information om mötets ordning och vilka personer som deltog.",
+    "datum": "2025-04-30",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionfullmaktige/mote-2025-04-30",
+    "taggar": [
+      "reg-jamtland",
+      "regionfullmaktige",
+      "region-jamtland-harjedalen",
+      "jamtland",
+      "regionalpolitik",
+      "anders-sundin"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "kronisk": 8
+    }
+  },
+  {
     "id": "HC03159",
     "typ": "lagforslag",
     "titel": "Godkännande för F-skatt – nya hinder och återkallelsegrunder",
@@ -18041,6 +18112,29 @@
       "mark_bygglov": 5,
       "lokaler": 4,
       "bil": 3
+    }
+  },
+  {
+    "id": "reg-jamtland-regionfullmaktige-2025-02-11",
+    "typ": "region",
+    "titel": "Regionfullmaktige, Region Jämtland Härjedalen 2025-02-11",
+    "ingress": "Regionfullmäktige i Jämtland Härjedalen har hållit ett möte där de gått igenom rapporter från olika nämnder och svarat på medborgarförslag om bland annat sjukresor och vård för demenssjukdom.",
+    "datum": "2025-02-11",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionfullmaktige/mote-2025-02-11",
+    "taggar": [
+      "reg-jamtland",
+      "regionfullmaktige",
+      "region-jamtland-harjedalen",
+      "ostersund",
+      "regionalpolitik",
+      "anders-sundin"
+    ],
+    "relevans": {
+      "fou": 3,
+      "pensionar": 3,
+      "kronisk": 8,
+      "klimat": 5
     }
   },
   {

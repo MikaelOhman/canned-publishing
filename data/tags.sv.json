@@ -192,7 +192,7 @@
   "ekonomi": {
     "etikett": "Ekonomi",
     "typ": "ämne",
-    "antal": 21
+    "antal": 23
   },
   "bolagsforvaltning": {
     "etikett": "Bolagsförvaltning",
@@ -1507,12 +1507,12 @@
   "regionfullmaktige": {
     "etikett": "Regionfullmaktige",
     "typ": "organisation",
-    "antal": 23
+    "antal": 25
   },
   "regionstyrelsen": {
     "etikett": "Regionstyrelsen",
     "typ": "organisation",
-    "antal": 19
+    "antal": 21
   },
   "reg-orebro": {
     "etikett": "Region Örebro län",
@@ -1527,7 +1527,7 @@
   "reg-jamtland": {
     "etikett": "Region Jämtland Härjedalen",
     "typ": "organisation",
-    "antal": 11
+    "antal": 15
   },
   "reg-blekinge": {
     "etikett": "Region Blekinge",
@@ -1722,7 +1722,7 @@
   "regionalpolitik": {
     "etikett": "Regionalpolitik",
     "typ": "ämne",
-    "antal": 13
+    "antal": 16
   },
   "region-orebro-lan": {
     "etikett": "Region Örebro län",
@@ -1732,7 +1732,7 @@
   "sjukvard": {
     "etikett": "Sjukvård",
     "typ": "ämne",
-    "antal": 11
+    "antal": 12
   },
   "klimat-och-miljo": {
     "etikett": "Klimat och miljö",
@@ -1742,22 +1742,22 @@
   "regional-forvaltning": {
     "etikett": "Regional förvaltning",
     "typ": "ämne",
-    "antal": 3
+    "antal": 4
   },
   "region-jamtland-harjedalen": {
     "etikett": "Region Jämtland Härjedalen",
     "typ": "organisation",
-    "antal": 7
+    "antal": 11
   },
   "ostersund": {
     "etikett": "Östersund",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "jamtland": {
     "etikett": "Jämtland",
     "typ": "plats",
-    "antal": 6
+    "antal": 7
   },
   "regional-ekonomi": {
     "etikett": "Regional ekonomi",
@@ -2071,6 +2071,16 @@
   },
   "politik": {
     "etikett": "Politik",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "anders-sundin": {
+    "etikett": "Anders Sundin",
+    "typ": "person",
+    "antal": 2
+  },
+  "halso-och-sjukvard": {
+    "etikett": "Hälso- och sjukvård",
     "typ": "ämne",
     "antal": 1
   }
