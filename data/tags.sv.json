@@ -987,7 +987,7 @@
   "gislaved": {
     "etikett": "Gislaveds",
     "typ": "plats",
-    "antal": 2
+    "antal": 3
   },
   "hagfors": {
     "etikett": "Hagfors",
@@ -2006,6 +2006,11 @@
   },
   "utbildningsnamndens-pdf-bortredigerad": {
     "etikett": "Utbildningsnämndens pdf Bortredigerad",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "samhallsutvecklingsnamndens": {
+    "etikett": "Samhällsutvecklingsnämndens",
     "typ": "organisation",
     "antal": 1
   }
