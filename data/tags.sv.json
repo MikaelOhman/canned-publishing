@@ -1232,7 +1232,7 @@
   "molndal": {
     "etikett": "Mölndals",
     "typ": "plats",
-    "antal": 1
+    "antal": 2
   },
   "mijonamndens-mn-58-59": {
     "etikett": "Mijönämndens mn 58 59",
@@ -2026,6 +2026,11 @@
   },
   "mala-norsjo-miljo-och-byggnamnd": {
     "etikett": "Malä norsjö miljö och byggnämnd",
+    "typ": "organisation",
+    "antal": 1
+  },
+  "miljonamndens-mn": {
+    "etikett": "Miljönämndens mn",
     "typ": "organisation",
     "antal": 1
   }
