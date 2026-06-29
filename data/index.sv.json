@@ -13998,6 +13998,31 @@
     }
   },
   {
+    "id": "reg-jamtland-regionstyrelsen-2025-11-04",
+    "typ": "region",
+    "titel": "Regionstyrelsen, Region Jämtland Härjedalen 2025-11-04",
+    "ingress": "Regionstyrelsen i Jämtland Härjedalen har tagit beslut om flera viktiga frågor som rör hälso- och sjukvård, bland annat nya avgifter för vård under 2026 och regler för hur AI (artificiell intelligens) ska användas.",
+    "datum": "2025-11-04",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionstyrelsen/mote-2025-11-04",
+    "taggar": [
+      "reg-jamtland",
+      "regionstyrelsen",
+      "region-jamtland-harjedalen",
+      "regionalpolitik",
+      "ekonomi",
+      "halso-och-sjukvard"
+    ],
+    "relevans": {
+      "lokaler": 3,
+      "digitalisering": 3,
+      "barn": 3,
+      "kronisk": 8,
+      "funktion": 3,
+      "konsument": 3
+    }
+  },
+  {
     "id": "alingsas-kommunstyrelsen-2025-11-03",
     "typ": "kommunbeslut",
     "titel": "Kommunstyrelsen, Alingsås kommun 2025-11-03",
@@ -14720,6 +14745,33 @@
       "ung_vuxen": 4,
       "konsument": 5,
       "b_it": 3
+    }
+  },
+  {
+    "id": "reg-jamtland-regionstyrelsen-2025-09-30",
+    "typ": "region",
+    "titel": "Regionstyrelsen, Region Jämtland Härjedalen 2025-09-30",
+    "ingress": "Regionstyrelsen i Jämtland Härjedalen har tagit beslut om viktiga frågor som rör sjukvård, ekonomi och framtidsplaner för regionen.",
+    "datum": "2025-09-30",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionstyrelsen/mote-2025-09-30",
+    "taggar": [
+      "reg-jamtland",
+      "regionstyrelsen",
+      "region-jamtland-harjedalen",
+      "regionalpolitik",
+      "jamtland",
+      "budget"
+    ],
+    "relevans": {
+      "b_energi": 3,
+      "b_kultur": 3,
+      "lokaler": 3,
+      "barn": 3,
+      "kollektiv": 3,
+      "kronisk": 8,
+      "tandvard": 3,
+      "konsument": 3
     }
   },
   {
@@ -18801,6 +18853,32 @@
     }
   },
   {
+    "id": "reg-jamtland-regionfullmaktige-2024-11-26",
+    "typ": "region",
+    "titel": "Regionfullmaktige, Region Jämtland Härjedalen 2024-11-26",
+    "ingress": "Region Jämtland Härjedalen har fattat beslut om viktiga frågor som rör hälso- och sjukvård, kulturstöd och kollektivtrafik för 2025.",
+    "datum": "2024-11-26",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionfullmaktige/mote-2024-11-26",
+    "taggar": [
+      "reg-jamtland",
+      "regionfullmaktige",
+      "region-jamtland-harjedalen",
+      "jamtland",
+      "regionalpolitik",
+      "anders-sundin"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "pendlare": 3,
+      "kollektiv": 8,
+      "kronisk": 8,
+      "tandvard": 3,
+      "konsument": 3,
+      "kultur": 8
+    }
+  },
+  {
     "id": "ange-kommunfullmaktige-2024-11-25",
     "typ": "kommunbeslut",
     "titel": "Kommunfullmäktige, Ånge kommun 2024-11-25",
@@ -18868,6 +18946,37 @@
       "pendlare": 3,
       "kollektiv": 3,
       "kronisk": 8,
+      "kultur": 3
+    }
+  },
+  {
+    "id": "reg-jamtland-regionfullmaktige-2024-10-23",
+    "typ": "region",
+    "titel": "Regionfullmaktige, Region Jämtland Härjedalen 2024-10-23",
+    "ingress": "Regionen Jämtland Härjedalen har tagit beslut om flera viktiga ärenden som rör hälsa, miljö, kollektivtrafik och framtidsplaner för området.",
+    "datum": "2024-10-23",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionfullmaktige/mote-2024-10-23",
+    "taggar": [
+      "reg-jamtland",
+      "regionfullmaktige",
+      "region-jamtland-harjedalen",
+      "jamtland",
+      "regionalpolitik",
+      "kommunal-forvaltning"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_transport": 3,
+      "b_fastighet": 3,
+      "finansiering": 3,
+      "konsumentratt": 3,
+      "immaterialratt": 3,
+      "glesbygd": 3,
+      "pendlare": 3,
+      "kollektiv": 8,
+      "kronisk": 8,
+      "klimat": 3,
       "kultur": 3
     }
   },

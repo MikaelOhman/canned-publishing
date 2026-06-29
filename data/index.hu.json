@@ -24726,5 +24726,30 @@
     "sakerhet": "belagt",
     "konsensus": "samsyn",
     "flaggor": []
+  },
+  {
+    "id": "hist-q160518",
+    "typ": "historia",
+    "titel": "Gustaf Dalén.",
+    "ingress": "Gustaf Dalén volt egy svéd feltaláló és mérnök, aki világhírű lett a világítótornyai miatt, és 1912-ben megkapta a fizikai Nobel-díjjal.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Gustaf_Dalén",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "arbetsmiljo": 3,
+      "student": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1937",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
   }
 ]

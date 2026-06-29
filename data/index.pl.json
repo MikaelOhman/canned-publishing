@@ -24864,5 +24864,30 @@
     "sakerhet": "belagt",
     "konsensus": "samsyn",
     "flaggor": []
+  },
+  {
+    "id": "hist-q160518",
+    "typ": "historia",
+    "titel": "Gustaf Dalén",
+    "ingress": "Gustaf Dalén był szwedzkim wynalazcą i inżynierem, który zasłynął na całym świecie dzięki swoim latarniom morskich i otrzymał Nagrodę Nobla w dziedzinie fizyki w 1912 roku.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Gustaf_Dalén",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "arbetsmiljo": 3,
+      "student": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1937",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
   }
 ]
