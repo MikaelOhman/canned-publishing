@@ -1708,6 +1708,19 @@
     }
   },
   {
+    "id": "eu-32026R1418",
+    "typ": "omvarld",
+    "titel": "آیین‌نامه اجرایی کمیسیون اروپا با شماره (EU) 2026/1418.",
+    "ingress": "اتحادیه اروپا اخیراً موافقت داده است که یک محصول خاص از اسلواکی، دارای نشان جغرافیایی محافظت‌شده (Protected Geographical Indication - PGI) باشد. این بدان معناست که نام این محصول در کل اتحادیه اروپا تحت حفاظت قرار گرفته است.",
+    "datum": "2026-06-22",
+    "kalla": "EU (EUR-Lex)",
+    "kalla_url": "https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32026R1418",
+    "taggar": [
+      "eu",
+      "eu-ratt"
+    ]
+  },
+  {
     "id": "ecb-2026-06-19-frank-elderson-fireside-chat",
     "typ": "omvarld",
     "titel": "فرانک الدسون: یک جلسه پرسش و پاسخ صمیمانه.",
@@ -11839,6 +11852,29 @@
     }
   },
   {
+    "id": "stockholm-kommunstyrelsen-2025-12-17",
+    "typ": "kommunbeslut",
+    "titel": "شورای شهر، شهرداری استکهلم، تاریخ: 2025-12-17.",
+    "ingress": "شهرداری استکهلم، توافق جدیدی را در مورد نحوه استفاده از زمین‌ها در منطقه سَترا تصویب کرده است و همچنین به موضوعاتی مانند حمایت از کسب‌وکارها، بازسازی ساختمان‌ها و قیمت نوشیدنی‌ها برای باشگاه‌های ورزشی رسیدگی کرده است.",
+    "datum": "2025-12-17",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunstyrelsen/mote-2025-12-17",
+    "taggar": [
+      "stockholm",
+      "kommunstyrelsen",
+      "karin-wanngard",
+      "kommunal-forvaltning"
+    ],
+    "relevans": {
+      "b_bygg": 5,
+      "b_fastighet": 5,
+      "b_energi": 3,
+      "energikund": 3,
+      "konsument": 3,
+      "idrott": 5
+    }
+  },
+  {
     "id": "HD0387",
     "typ": "lagforslag",
     "titel": "قوانین جدید برای مهاجرت نیروی کار",
@@ -13809,6 +13845,31 @@
     }
   },
   {
+    "id": "reg-jamtland-regionstyrelsen-2025-11-04",
+    "typ": "region",
+    "titel": "هیئت منطقه ای، منطقه جمتلند هرجدالن، تاریخ ۱۴ نوامبر ۲۰۲۵.",
+    "ingress": "شورای منطقه ای جمتلاند هرجدالن تصمیماتی در مورد مسائل مهم مربوط به خدمات بهداشتی و درمانی اتخاذ کرده است، از جمله:",
+    "datum": "2025-11-04",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionstyrelsen/mote-2025-11-04",
+    "taggar": [
+      "reg-jamtland",
+      "regionstyrelsen",
+      "region-jamtland-harjedalen",
+      "regionalpolitik",
+      "ekonomi",
+      "halso-och-sjukvard"
+    ],
+    "relevans": {
+      "lokaler": 3,
+      "digitalisering": 3,
+      "barn": 3,
+      "kronisk": 8,
+      "funktion": 3,
+      "konsument": 3
+    }
+  },
+  {
     "id": "alingsas-kommunstyrelsen-2025-11-03",
     "typ": "kommunbeslut",
     "titel": "شورای شهر، شهرداری آلینگزوس، 3 نوامبر 2025.",
@@ -13823,6 +13884,34 @@
     "relevans": {
       "kollektivavtal": 3,
       "lontagare": 3
+    }
+  },
+  {
+    "id": "stockholm-kommunfullmaktige-2025-11-03",
+    "typ": "kommunbeslut",
+    "titel": "جلسه شورای شهر، شهرداری استکهلم، تاریخ: 3 نوامبر 2025.",
+    "ingress": "شهرداری استکهلم پاسخ‌هایی را در مورد موضوعاتی از جمله پناهگاه‌ها، ساختمان‌های تاریخی و خانه‌های جدید نگهداری از افراد دارای معلولیت دریافت کرده است. همچنین، سوالات جدیدی در مورد ترافیک در استکهلم، بدهی‌های شهرداری و مدارس مطرح شده است.",
+    "datum": "2025-11-03",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunfullmaktige/mote-2025-11-03",
+    "taggar": [
+      "stockholm",
+      "kommunfullmaktige",
+      "kommunpolitik",
+      "fastighetsforvaltning",
+      "stadsplanering"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_fastighet": 3,
+      "b_kultur": 3,
+      "barn": 3,
+      "bygger": 3,
+      "storstad": 3,
+      "funktion": 3,
+      "lantagare": 3,
+      "kultur": 3,
+      "fortroendevald": 3
     }
   },
   {
@@ -14506,6 +14595,33 @@
     }
   },
   {
+    "id": "reg-jamtland-regionstyrelsen-2025-09-30",
+    "typ": "region",
+    "titel": "هیئت منطقه ای، منطقه جمتلند هرجدالن، تاریخ: 30 سپتامبر 2025.",
+    "ingress": "هیئت منطقه ای \"یامتلاند هرجه‌دالن\" تصمیماتی مهم در مورد مسائل مربوط به خدمات درمانی، اقتصاد و برنامه های توسعه آینده برای این منطقه اتخاذ کرده است.",
+    "datum": "2025-09-30",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionstyrelsen/mote-2025-09-30",
+    "taggar": [
+      "reg-jamtland",
+      "regionstyrelsen",
+      "region-jamtland-harjedalen",
+      "regionalpolitik",
+      "jamtland",
+      "budget"
+    ],
+    "relevans": {
+      "b_energi": 3,
+      "b_kultur": 3,
+      "lokaler": 3,
+      "barn": 3,
+      "kollektiv": 3,
+      "kronisk": 8,
+      "tandvard": 3,
+      "konsument": 3
+    }
+  },
+  {
     "id": "gavle-kommunfullmaktige-2025-09-29",
     "typ": "kommunbeslut",
     "titel": "جلسه شورای شهر، شهرداری گیوله، ۲۹ سپتامبر ۲۰۲۵.",
@@ -14527,6 +14643,38 @@
       "funktion": 8,
       "sparare": 3,
       "konsument": 3
+    }
+  },
+  {
+    "id": "reg-orebro-regionstyrelsen-2025-09-29",
+    "typ": "region",
+    "titel": "هیئت منطقه ای، منطقه اربرو، تاریخ: 29 سپتامبر 2025.",
+    "ingress": "هیئت منطقه ای استان اوربرو تصمیماتی مهم در مورد مسائل مربوط به خدمات بهداشتی و درمانی، حمل و نقل عمومی، انرژی و برنامه های توسعه منطقه ای برای سال های آینده اتخاذ کرده است.",
+    "datum": "2025-09-29",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionstyrelsen/mote-2025-09-29",
+    "taggar": [
+      "reg-orebro",
+      "regionstyrelsen",
+      "region-orebro-lan",
+      "orebro",
+      "sjukvard",
+      "regionalpolitik"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_transport": 3,
+      "b_energi": 3,
+      "infrastruktur": 3,
+      "barn": 3,
+      "glesbygd": 3,
+      "pendlare": 3,
+      "kollektiv": 5,
+      "kronisk": 8,
+      "funktion": 3,
+      "tandvard": 3,
+      "energikund": 3,
+      "klimat": 5
     }
   },
   {
@@ -14972,6 +15120,32 @@
     }
   },
   {
+    "id": "reg-halland-regionstyrelsen-2025-09-10",
+    "typ": "region",
+    "titel": "هیئت مدیره منطقه، منطقه هالاند، تاریخ: 2025-09-10.",
+    "ingress": "هیئت منطقه ای هالاند تصمیماتی مهم در مورد مسائل مختلفی از جمله بهداشت و درمان، مدیریت دارو، سیستم های فناوری اطلاعات و همکاری با سایر سازمان ها اتخاذ کرده است.",
+    "datum": "2025-09-10",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionstyrelsen/mote-2025-09-10",
+    "taggar": [
+      "reg-halland",
+      "regionstyrelsen",
+      "region-halland",
+      "halland",
+      "regional-forvaltning",
+      "protokoll"
+    ],
+    "relevans": {
+      "b_it": 3,
+      "b_fastighet": 3,
+      "b_life": 3,
+      "gdpr": 3,
+      "kronisk": 8,
+      "integritet": 3,
+      "volontar": 3
+    }
+  },
+  {
     "id": "HC03208",
     "typ": "lagforslag",
     "titel": "مسئولیت کیفری جامع‌تر در حملات به اسرار تجاری",
@@ -15148,6 +15322,26 @@
     ],
     "relevans": {
       "finansiering": 3
+    }
+  },
+  {
+    "id": "reg-orebro-regionstyrelsen-2025-08-29",
+    "typ": "region",
+    "titel": "هیئت منطقه ای، سازمان منطقه ای اربرو، تاریخ: 29 اوت 2025.",
+    "ingress": "شورای منطقه، پیشنهادی را از یکی از شهروندان دریافت کرده است مبنی بر کاهش زمان انتظار برای خدمات شنوایی در کارلskogا.",
+    "datum": "2025-08-29",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionstyrelsen/mote-2025-08-29",
+    "taggar": [
+      "reg-orebro",
+      "regionstyrelsen",
+      "region-orebro-lan",
+      "orebro",
+      "sjukvard",
+      "regionalpolitik"
+    ],
+    "relevans": {
+      "kronisk": 8
     }
   },
   {
@@ -16019,6 +16213,31 @@
       "klimat": 3,
       "kultur": 3,
       "fortroendevald": 3
+    }
+  },
+  {
+    "id": "reg-halland-regionstyrelsen-2025-06-04",
+    "typ": "region",
+    "titel": "هیئت مدیره منطقه، منطقه هالاند، تاریخ: 4 ژوئن 2025.",
+    "ingress": "هیئت منطقه ای هالند تصمیمی در مورد موارد مختلف اتخاذ کرده است، از جمله بودجه آتی، قوانین مربوط به پارکینگ در بیمارستان هالمستاد و حمایت از شرکت های محلی.",
+    "datum": "2025-06-04",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionstyrelsen/mote-2025-06-04",
+    "taggar": [
+      "reg-halland",
+      "regionstyrelsen",
+      "region-halland",
+      "halland",
+      "regional-forvaltning",
+      "mikaela-waltersson"
+    ],
+    "relevans": {
+      "b_grona": 3,
+      "b_fastighet": 3,
+      "pendlare": 3,
+      "bil": 3,
+      "kollektiv": 3,
+      "kronisk": 8
     }
   },
   {
@@ -18298,6 +18517,35 @@
     }
   },
   {
+    "id": "reg-orebro-regionfullmaktige-2024-12-09",
+    "typ": "region",
+    "titel": "به اطلاع می‌رساند که این سند، مجوز رسمی از سوی اعضای شورای منطقه \"örebro län\" است و تاریخ صدور آن ۹ دسامبر ۲۰۲۴ می‌باشد.",
+    "ingress": "منطقه اربرو (Örebro län) تصمیماتی مهمی در مورد مسائل مختلف از جمله بهداشت و درمان، حمل‌ونقل عمومی و سرمایه‌گذاری‌های محلی در این منطقه اتخاذ کرده است.",
+    "datum": "2024-12-09",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionfullmaktige/mote-2024-12-09",
+    "taggar": [
+      "reg-orebro",
+      "regionfullmaktige",
+      "region-orebro-lan",
+      "orebro",
+      "kollektivtrafik",
+      "sjukvard"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "finansiering": 3,
+      "infrastruktur": 3,
+      "barn": 3,
+      "ung": 3,
+      "pendlare": 3,
+      "kollektiv": 8,
+      "kronisk": 8,
+      "batagare": 3,
+      "kultur": 3
+    }
+  },
+  {
     "id": "reg-halland-regionfullmaktige-2024-12-04",
     "typ": "region",
     "titel": "به نمایندگی از شورای منطقه، منطقه هالاند، تاریخ ۱۴ دسامبر ۲۰۲۴.",
@@ -18322,6 +18570,32 @@
       "gymnasieelev": 3,
       "kronisk": 8,
       "tandvard": 3
+    }
+  },
+  {
+    "id": "reg-jamtland-regionfullmaktige-2024-11-26",
+    "typ": "region",
+    "titel": "به نمایندگان شورای منطقه، منطقه یمتلند هرجدالن، تاریخ: 26 نوامبر 2024.",
+    "ingress": "منطقه یامتلند هرجدالن تصمیماتی مهم در مورد مسائل مربوط به خدمات بهداشتی و درمانی، حمایت از فرهنگ و هنر، و حمل و نقل عمومی برای سال ۲۰۲۵ اتخاذ کرده است.",
+    "datum": "2024-11-26",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionfullmaktige/mote-2024-11-26",
+    "taggar": [
+      "reg-jamtland",
+      "regionfullmaktige",
+      "region-jamtland-harjedalen",
+      "jamtland",
+      "regionalpolitik",
+      "anders-sundin"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "pendlare": 3,
+      "kollektiv": 8,
+      "kronisk": 8,
+      "tandvard": 3,
+      "konsument": 3,
+      "kultur": 8
     }
   },
   {
@@ -18369,6 +18643,90 @@
     }
   },
   {
+    "id": "reg-halland-regionfullmaktige-2024-10-23",
+    "typ": "region",
+    "titel": "به اطلاع می‌رساند که این سند، مجوز رسمی از سوی اعضای شورای منطقه هالند است و تاریخ صدور آن 23 اکتبر 2024 می‌باشد.",
+    "ingress": "منطقه هالاند تصمیماتی در مورد برنامه‌های آتی برای فرهنگ، بهداشت و درمان و حمل‌ونقل عمومی اتخاذ کرده است و همچنین تحقیقات متعددی را در زمینه مراقبت از کودکان و نوجوانان انجام داده است.",
+    "datum": "2024-10-23",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionfullmaktige/mote-2024-10-23",
+    "taggar": [
+      "reg-halland",
+      "regionfullmaktige",
+      "region-halland",
+      "halland",
+      "regionalpolitik",
+      "kommunal-forvaltning"
+    ],
+    "relevans": {
+      "b_fastighet": 3,
+      "b_kultur": 3,
+      "barn": 3,
+      "kvinna": 3,
+      "pendlare": 3,
+      "kollektiv": 3,
+      "kronisk": 8,
+      "kultur": 3
+    }
+  },
+  {
+    "id": "reg-jamtland-regionfullmaktige-2024-10-23",
+    "typ": "region",
+    "titel": "به نمایندگان شورای منطقه، منطقه جمتلند هرجدالن، تاریخ: 23 اکتبر 2024.",
+    "ingress": "منطقه یامتلند هرجدالن تصمیماتی مهمی در مورد مسائل مختلف از جمله بهداشت، محیط زیست، حمل و نقل عمومی و برنامه های توسعه آینده این منطقه اتخاذ کرده است.",
+    "datum": "2024-10-23",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionfullmaktige/mote-2024-10-23",
+    "taggar": [
+      "reg-jamtland",
+      "regionfullmaktige",
+      "region-jamtland-harjedalen",
+      "jamtland",
+      "regionalpolitik",
+      "kommunal-forvaltning"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_transport": 3,
+      "b_fastighet": 3,
+      "finansiering": 3,
+      "konsumentratt": 3,
+      "immaterialratt": 3,
+      "glesbygd": 3,
+      "pendlare": 3,
+      "kollektiv": 8,
+      "kronisk": 8,
+      "klimat": 3,
+      "kultur": 3
+    }
+  },
+  {
+    "id": "reg-orebro-regionfullmaktige-2024-10-10",
+    "typ": "region",
+    "titel": "به نمایندگی از شورای منطقه، استان اربرو، تاریخ: ۱۰ اکتبر ۲۰۲۴.",
+    "ingress": "شورا یا مجلس نمایندگان منطقه اربرو در جلسات خود، به موضوعاتی از جمله مراقبت‌های بهداشتی، حمل و نقل عمومی، برنامه‌های فرهنگی و مسائل زیست‌محیطی پرداخته و در مورد آن‌ها تصمیم‌گیری کرده است.",
+    "datum": "2024-10-10",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionfullmaktige/mote-2024-10-10",
+    "taggar": [
+      "reg-orebro",
+      "regionfullmaktige",
+      "region-orebro-lan",
+      "orebro",
+      "sjukvard",
+      "kollektivtrafik"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_kultur": 3,
+      "pendlare": 3,
+      "kollektiv": 5,
+      "kronisk": 8,
+      "klimat": 3,
+      "kultur": 5
+    }
+  },
+  {
     "id": "norsjo-protokoll-2024-09-30",
     "typ": "kommunbeslut",
     "titel": "پروتکل، شهرداری نورشو، تاریخ 30 سپتامبر 2024.",
@@ -18384,6 +18742,30 @@
       "b_vard": 3,
       "barn": 5,
       "kultur": 3
+    }
+  },
+  {
+    "id": "reg-halland-regionfullmaktige-2024-06-19",
+    "typ": "region",
+    "titel": "به اطلاع می‌رساند که این سند، مجوز رسمی از سوی اعضای شورای منطقه هالند است و تاریخ صدور آن 19 ژوئن 2024 می‌باشد.",
+    "ingress": "منطقه هالاند تصمیماتی در مورد بودجه آتی، ساختار مراقبت‌های بهداشتی و پروژه‌های ساختمانی در محوطه‌های بیمارستانی اتخاذ کرده است. همچنین، آن‌ها در مورد خرید املاک تصمیم‌گیری کرده‌اند و به سوالاتی درباره موضوعاتی مانند تجهیزات کاری کارکنان و ف",
+    "datum": "2024-06-19",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionfullmaktige/mote-2024-06-19",
+    "taggar": [
+      "reg-halland",
+      "regionfullmaktige",
+      "region-halland",
+      "halland",
+      "kommunalpolitik",
+      "protokoll"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_bygg": 3,
+      "b_fastighet": 3,
+      "kronisk": 8,
+      "klimat": 3
     }
   },
   {
@@ -24683,6 +25065,231 @@
     },
     "epok": "1900talet",
     "tid": "d. 1995",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q160518",
+    "typ": "historia",
+    "titel": "گوشتاف دالن",
+    "ingress": "گوستاف دالن، یک مخترع و مهندس سوئدی بود که به دلیل اختراعاتش در زمینه چراغ‌های راهنما مشهور جهانی شد و جایزه نوبل فیزیک را در سال ۱۹۱۲ دریافت کرد.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Gustaf_Dalén",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "arbetsmiljo": 3,
+      "student": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1937",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q132695",
+    "typ": "historia",
+    "titel": "هری مارتینسون",
+    "ingress": "هری مارتینسون، نویسنده مشهور سوئدی بود که در سال 1974 جایزه نوبل ادبیات را دریافت کرد. زندگی او به عنوان یک ملوان و تجربیاتش در طبقه کارگر، تأثیر زیادی بر آثارش داشت.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Harry_Martinson",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_industri": 3,
+      "kultur": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1978",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q170741",
+    "typ": "historia",
+    "titel": "منه سیگباین.",
+    "ingress": "مانه زیگ‌باخ، فیزیکدانی سوئدی بود که در سال 1924 جایزه نوبل فیزیک را به دلیل اکتشافات مهمش در زمینه تحقیقات مربوط به پرتوهای ایکس دریافت کرد.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Manne_Siegbahn",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_energi": 3,
+      "fou": 3,
+      "student": 3,
+      "energikund": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1978",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q152452",
+    "typ": "historia",
+    "titel": "گونا مِردال",
+    "ingress": "گونار میردال، یک محقق و سیاستمدار برجسته سوئدی بودند که در زمینه اقتصاد و مسائل اجتماعی فعالیت داشتند. ایشان جوایز متعددی را برای تحقیقات خود دریافت کردند و کتاب‌های مهمی درباره موضوعاتی از جمله سیاست خانواده و نژادپرستی در ایالات متحده آمر",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Gunnar_Myrdal",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "fou": 3,
+      "stor_familj": 3,
+      "kvinna": 3,
+      "arbetssokande": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1987",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q152437",
+    "typ": "historia",
+    "titel": "آلوا میردال",
+    "ingress": "آلوا میردال، یک سیاستمدار و دیپلمات برجسته سوئدی بود که فعالیت‌های گسترده‌ای در زمینه حقوق کودکان و آموزش انجام داد. ایشان در سال 1982 جایزه نوبل صلح را به خاطر تلاش‌هایشان دریافت کردند.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Alva_Myrdal",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "barn": 5
+    },
+    "epok": "1900talet",
+    "tid": "d. 1986",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q52890",
+    "typ": "historia",
+    "titel": "گوستاف پنجم",
+    "ingress": "گوستاف پنجم، پادشاه سوئد بود که تقریباً ۴۳ سال در اوایل قرن بیستم حکومت کرد. او به عنوان فردی شناخته می‌شد که علاقه‌مند به موسیقی، هنر و ورزش بود.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Gustaf_V",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "student": 3,
+      "idrott": 3,
+      "kultur": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1950",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q78478",
+    "typ": "historia",
+    "titel": "روبرت بارانی",
+    "ingress": "رابرت بارانی، پزشک سوئدی-اتریشی، برنده جایزه نوبل در سال ۱۹۱۴ به خاطر تحقیقاتش در زمینه گوش بود. او به سوئد مهاجرت کرد، تابعیت سوئدی گرفت و تا زمان فوت خود، به عنوان استاد در دانشگاه اوپسالا مشغول به کار بود.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Robert_Bárány",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "fou": 3,
+      "student": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1936",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q76951",
+    "typ": "historia",
+    "titel": "جورج دو هِوِزی",
+    "ingress": "جورج دو هِوِسی، یک شیمی‌دان مجارستانی-سوئدی بود که در سال ۱۹۴۳ جایزه نوبل را برای تحقیقاتش درباره نحوه عملکرد بدن با استفاده از مواد رادیواکتیو دریافت کرد. او همچنین به خاطر کشف یک عنصر جدید و فرار از دست نازی‌ها در طول جنگ جهانی دوم شناخته",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/George_de_Hevesy",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "infrastruktur": 3,
+      "fou": 3,
+      "student": 3,
+      "batagare": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1966",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q186391",
+    "typ": "historia",
+    "titel": "سوهبرگ\" (Svedberg)",
+    "ingress": "ثئودور سوِدبرگ، یک شیمی‌دان سوئدی بود که در سال 1926 جایزه نوبل شیمی را به دلیل تحقیقاتش درباره نحوه حرکت و تجزیه ذرات ریز دریافت کرد.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/The_Svedberg",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "fou": 3,
+      "student": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1971",
     "kallage": "samtida",
     "sakerhet": "belagt",
     "konsensus": "samsyn",

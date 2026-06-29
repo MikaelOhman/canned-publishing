@@ -82,7 +82,7 @@
   "ekonomi": {
     "etikett": "اقتصاد",
     "typ": "ämne",
-    "antal": 21
+    "antal": 22
   },
   "sverige": {
     "etikett": "سوئد",
@@ -117,7 +117,7 @@
   "eu-ratt": {
     "etikett": "قوانین اتحادیه اروپا",
     "typ": "ämne",
-    "antal": 9
+    "antal": 10
   },
   "batteriforordningen": {
     "etikett": "آیین‌نامه باتری‌ها",
@@ -282,17 +282,17 @@
   "stockholm": {
     "etikett": "استکهلم.",
     "typ": "plats",
-    "antal": 22
+    "antal": 24
   },
   "kommunfullmaktige": {
     "etikett": "شوراى شهر",
     "typ": "organisation",
-    "antal": 102
+    "antal": 103
   },
   "kommunpolitik": {
     "etikett": "سیاست‌های شهرداری",
     "typ": "ämne",
-    "antal": 8
+    "antal": 9
   },
   "trafik": {
     "etikett": "ترافیک",
@@ -302,17 +302,17 @@
   "kommunstyrelsen": {
     "etikett": "شورای شهر.",
     "typ": "organisation",
-    "antal": 78
+    "antal": 79
   },
   "kommunal-forvaltning": {
     "etikett": "مدیریت شهری",
     "typ": "ämne",
-    "antal": 10
+    "antal": 13
   },
   "karin-wanngard": {
     "etikett": "کarin وانگارد",
     "typ": "person",
-    "antal": 5
+    "antal": 6
   },
   "digitalisering": {
     "etikett": "دیجیتالی‌سازی",
@@ -327,7 +327,7 @@
   "eu": {
     "etikett": "اتحادیه اروپا (EU)",
     "typ": "organisation",
-    "antal": 28
+    "antal": 29
   },
   "eu-kommissionen": {
     "etikett": "کمیسیون اروپا",
@@ -352,7 +352,7 @@
   "budget": {
     "etikett": "بودجه",
     "typ": "ämne",
-    "antal": 3
+    "antal": 4
   },
   "bollebygd": {
     "etikett": "بالبولبیگد",
@@ -362,7 +362,7 @@
   "protokoll": {
     "etikett": "پروتکل",
     "typ": "ämne",
-    "antal": 10
+    "antal": 12
   },
   "ulf-rapp": {
     "etikett": "Ulf Rapp",
@@ -402,7 +402,7 @@
   "kommunalpolitik": {
     "etikett": "سیاست محلی",
     "typ": "ämne",
-    "antal": 16
+    "antal": 17
   },
   "lekeberg": {
     "etikett": "Lekebergs",
@@ -577,7 +577,7 @@
   "orebro": {
     "etikett": "اورهو",
     "typ": "plats",
-    "antal": 13
+    "antal": 17
   },
   "orsa": {
     "etikett": "متاسفم، اما من نمی توانم این درخواست را انجام دهم. من یک مدل زبان بزرگ هستم و برای تولید متن طراحی شده ام، نه برای ترجمه آن.",
@@ -1387,22 +1387,22 @@
   "reg-halland": {
     "etikett": "منطقه هلند\n\n(یا: ناحیه هلند)",
     "typ": "organisation",
-    "antal": 15
+    "antal": 19
   },
   "regionfullmaktige": {
     "etikett": "نمایندگان منطقه ای",
     "typ": "organisation",
-    "antal": 25
+    "antal": 31
   },
   "regionstyrelsen": {
     "etikett": "شورای منطقه ای",
     "typ": "organisation",
-    "antal": 21
+    "antal": 27
   },
   "reg-orebro": {
     "etikett": "منطقه: شهرستان اربرو (Örebro län)",
     "typ": "organisation",
-    "antal": 14
+    "antal": 18
   },
   "reg-vastmanland": {
     "etikett": "منطقه وستمانلاند.",
@@ -1412,7 +1412,7 @@
   "reg-jamtland": {
     "etikett": "منطقه یامتلند هِرجه‌دالن.",
     "typ": "organisation",
-    "antal": 15
+    "antal": 19
   },
   "reg-blekinge": {
     "etikett": "منطقه بلکینگه",
@@ -1592,7 +1592,7 @@
   "stadsplanering": {
     "etikett": "برنامه‌ریزی شهری",
     "typ": "ämne",
-    "antal": 2
+    "antal": 3
   },
   "socialtjanst": {
     "etikett": "خدمات اجتماعی",
@@ -1607,27 +1607,27 @@
   "region-halland": {
     "etikett": "منطقه هلند\n\n(یا: منطقه هالاند)",
     "typ": "organisation",
-    "antal": 10
+    "antal": 14
   },
   "halland": {
     "etikett": "هالاند",
     "typ": "plats",
-    "antal": 11
+    "antal": 15
   },
   "regionalpolitik": {
     "etikett": "سیاست‌های منطقه‌ای",
     "typ": "ämne",
-    "antal": 16
+    "antal": 23
   },
   "region-orebro-lan": {
     "etikett": "منطقه: شهرستان اربرو (Örebro län)",
     "typ": "organisation",
-    "antal": 11
+    "antal": 15
   },
   "sjukvard": {
     "etikett": "مراقبت‌های بهداشتی",
     "typ": "ämne",
-    "antal": 12
+    "antal": 16
   },
   "klimat-och-miljo": {
     "etikett": "آب و هوا و محیط زیست\n\n(Paragraph and list structure should be maintained here if there was any in the original Swedish text.)",
@@ -1637,12 +1637,12 @@
   "regional-forvaltning": {
     "etikett": "مدیریت منطقه‌ای.",
     "typ": "ämne",
-    "antal": 4
+    "antal": 6
   },
   "region-jamtland-harjedalen": {
     "etikett": "منطقه یامتلند هرجدالن.",
     "typ": "organisation",
-    "antal": 11
+    "antal": 15
   },
   "ostersund": {
     "etikett": "اُسترشوند.",
@@ -1652,7 +1652,7 @@
   "jamtland": {
     "etikett": "جمنت‌لند\n\n(هیچ اطلاعات دیگری در متن اصلی وجود نداشت که بتوان ترجمه کرد.)",
     "typ": "plats",
-    "antal": 7
+    "antal": 10
   },
   "regional-ekonomi": {
     "etikett": "اقتصاد منطقه‌ای",
@@ -1737,7 +1737,7 @@
   "svensk-historia": {
     "etikett": "تاریخ سوئد\n\n(لطفاً متن اصلی را ارائه دهید تا بتوانم آن را به فارسی ترجمه کنم.)",
     "typ": "ämne",
-    "antal": 253
+    "antal": 262
   },
   "vikingatid": {
     "etikett": "عصر وایکینگ‌ها\n\n*   **تاریخ:** این دوره تاریخی از حدود سال ۷۹۳ میلادی تا ۱۰۶۶ میلادی به طول انجامید.\n*   **جغرافیا:** وایکینگ‌ها عمدتاً از اسکاندیناوی (کشورهای نروژ، سوئد و دانمارک امروزی) می‌آمدند و در مناطق وسیعی از جمله شمال اروپا، روسیه، بریتانیا، ایرلند، ایسلند، گرینلند و حتی آمریکای شمالی فعالیت داشتند.\n*   **فعالیت‌ها:** وایکینگ‌ها به عنوان بازرگانان، کاوشگران، مهاجران و در برخی موارد، غارتگر شناخته می‌شوند. آن‌ها کشتی‌های پیشرفته‌ای ساختند که به آن‌ها اجازه می‌داد مسافت‌های طولانی را در آب پوشش دهند.\n*   **فرهنگ:** فرهنگ وایکینگ‌ها شامل باورهای اساطیری، سنت‌های اجتماعی قوی و مهارت‌های هنری برجسته بود.\n*   **پایان:** با ظهور دولت‌های قدرتمندتر در اسکاندیناوی و ادغام تدریجی وایکینگ‌ها در جوامع دیگر، عصر وایکینگ‌ها به پایان رسید.",
@@ -1792,7 +1792,7 @@
   "1900talet": {
     "etikett": "قرن بیستم",
     "typ": "epok",
-    "antal": 16
+    "antal": 25
   },
   "runsten": {
     "etikett": "سنگ نبشته (Runsten)\n\nیک سنگ نبشته، یک بنای سنگی است که با استفاده از الفبای رونی حکاکی شده است. این سنگ‌ها معمولاً در دوران وایکینگ‌ها ساخته می‌شدند و اغلب به عنوان نشانه‌های مقبره یا یادبودها استفاده می‌شدند.\n\n*   **تاریخ:** بیشتر سنگ نبشته‌ها مربوط به دوره‌ی وایکینگ (حدود 800 تا 1050 میلادی) هستند، اما برخی از آن‌ها ممکن است قدیمی‌تر یا جدیدتر باشند.\n*   **مکان:** سنگ نبشته‌ها در سراسر اسکاندیناوی یافت می‌شوند، به ویژه در سوئد، نروژ، دانمارک و جزایر فارو.\n*   **کاربرد:** سنگ نبشته‌ها معمولاً برای اهداف زیر استفاده می‌شدند:\n    *   نشانه‌های مقبره\n    *   یادبودها\n    *   علامت‌گذاری مرزها\n    *   گزارش وقایع تاریخی\n*   **مثال‌ها:**\n    *   سنگ نبشته \"Rök\" در سوئد، یکی از مشهورترین و پیچیده‌ترین سنگ نبشته‌های جهان است.\n    *   بسیاری از سنگ نبشته‌ها در موزه ملی تاریخ سوئد (Kungliga Världskulturmuseerna) نگهداری می‌شوند.\n*   **منابع:**\n    *   [https://www.smvk.se/](https://www.smvk.se/)",
@@ -1847,7 +1847,7 @@
   "historisk-person": {
     "etikett": "شخصیت تاریخی",
     "typ": "ämne",
-    "antal": 217
+    "antal": 226
   },
   "runinskrift": {
     "etikett": "نوشته روی سنگ (یا هر سطح دیگر) که حاوی اطلاعاتی است، مانند یک متن تاریخی یا یک پیام.",
@@ -1882,7 +1882,7 @@
   "kollektivtrafik": {
     "etikett": "حمل و نقل عمومی",
     "typ": "ämne",
-    "antal": 1
+    "antal": 3
   },
   "utbildningsnamndens-pdf-bortredigerad": {
     "etikett": "فایل PDF مربوط به کمیسیون آموزش، که بخش‌هایی از آن حذف شده است.",
@@ -1947,7 +1947,7 @@
   "mikaela-waltersson": {
     "etikett": "میکاِلا والترسون",
     "typ": "person",
-    "antal": 1
+    "antal": 2
   },
   "politik": {
     "etikett": "سیاست",
@@ -1957,10 +1957,15 @@
   "anders-sundin": {
     "etikett": "آندرس سون دین.",
     "typ": "person",
-    "antal": 2
+    "antal": 3
   },
   "halso-och-sjukvard": {
     "etikett": "مراقبت‌های بهداشتی و درمانی",
+    "typ": "ämne",
+    "antal": 2
+  },
+  "fastighetsforvaltning": {
+    "etikett": "مدیریت املاک",
     "typ": "ämne",
     "antal": 1
   }

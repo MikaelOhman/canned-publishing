@@ -1708,6 +1708,19 @@
     }
   },
   {
+    "id": "eu-32026R1418",
+    "typ": "omvarld",
+    "titel": "لوائح التنفيذ الصادرة عن المفوضية الأوروبية (الاتحاد الأوروبي) رقم 2026/1418.",
+    "ingress": "لقد وافقت الاتحاد الأوروبي الآن على منح منتج معين من سلوفاكيا تسمية جغرافية محمية. وهذا يعني أن اسم هذا المنتج محمي في جميع أنحاء الاتحاد الأوروبي.",
+    "datum": "2026-06-22",
+    "kalla": "EU (EUR-Lex)",
+    "kalla_url": "https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32026R1418",
+    "taggar": [
+      "eu",
+      "eu-ratt"
+    ]
+  },
+  {
     "id": "ecb-2026-06-19-frank-elderson-fireside-chat",
     "typ": "omvarld",
     "titel": "فرانك إلديرسون: جلسة أسئلة وأجوبة غير رسمية.",
@@ -11868,6 +11881,29 @@
     }
   },
   {
+    "id": "stockholm-kommunstyrelsen-2025-12-17",
+    "typ": "kommunbeslut",
+    "titel": "لجنة الشؤون البلدية، بلدية ستوكهولم، بتاريخ 2025-12-17.",
+    "ingress": "قررت مدينة ستوكهولم إبرام اتفاقية جديدة بشأن استخدام الأراضي في منطقة سترة، كما اتخذت مواقف بشأن قضايا تتعلق بالشركات المحلية، وتجديد المباني، وأسعار المشروبات التي تقدمها الأندية الرياضية.",
+    "datum": "2025-12-17",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunstyrelsen/mote-2025-12-17",
+    "taggar": [
+      "stockholm",
+      "kommunstyrelsen",
+      "karin-wanngard",
+      "kommunal-forvaltning"
+    ],
+    "relevans": {
+      "b_bygg": 5,
+      "b_fastighet": 5,
+      "b_energi": 3,
+      "energikund": 3,
+      "konsument": 3,
+      "idrott": 5
+    }
+  },
+  {
     "id": "HD0386",
     "typ": "lagforslag",
     "titel": "قواعد جديدة لتسهيل تسجيل الأوراق المالية.",
@@ -13838,6 +13874,31 @@
     }
   },
   {
+    "id": "reg-jamtland-regionstyrelsen-2025-11-04",
+    "typ": "region",
+    "titel": "مجلس الإدارة الإقليمي، منطقة يمتلاند هيريدالن، بتاريخ 4 نوفمبر 2025.",
+    "ingress": "اتخذت هيئة المنطقة في مقاطعتي يمتلاند وهيريدالن عدة قرارات مهمة تتعلق بالرعاية الصحية، بما في ذلك فرض رسوم جديدة على الخدمات الطبية اعتبارًا من عام 2026، بالإضافة إلى وضع قواعد حول كيفية استخدام الذكاء الاصطناعي.",
+    "datum": "2025-11-04",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionstyrelsen/mote-2025-11-04",
+    "taggar": [
+      "reg-jamtland",
+      "regionstyrelsen",
+      "region-jamtland-harjedalen",
+      "regionalpolitik",
+      "ekonomi",
+      "halso-och-sjukvard"
+    ],
+    "relevans": {
+      "lokaler": 3,
+      "digitalisering": 3,
+      "barn": 3,
+      "kronisk": 8,
+      "funktion": 3,
+      "konsument": 3
+    }
+  },
+  {
     "id": "alingsas-kommunstyrelsen-2025-11-03",
     "typ": "kommunbeslut",
     "titel": "مجلس بلدية ألينجسو، تاريخ 3 نوفمبر 2025.",
@@ -13852,6 +13913,34 @@
     "relevans": {
       "kollektivavtal": 3,
       "lontagare": 3
+    }
+  },
+  {
+    "id": "stockholm-kommunfullmaktige-2025-11-03",
+    "typ": "kommunbeslut",
+    "titel": "اجتماع مجلس مدينة ستوكهولم، تاريخ 2025-11-03.",
+    "ingress": "استلمت مدينة ستوكهولم إجابات على أسئلة تتعلق بمجموعة متنوعة من المواضيع، بما في ذلك: ملاجئ الحماية، والمباني ذات الأهمية التاريخية والثقافية، ومراكز الإقامة الجديدة للأشخاص ذوي الإعاقة. بالإضافة إلى ذلك، تم طرح أسئلة جديدة حول مواضيع مثل حر",
+    "datum": "2025-11-03",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunfullmaktige/mote-2025-11-03",
+    "taggar": [
+      "stockholm",
+      "kommunfullmaktige",
+      "kommunpolitik",
+      "fastighetsforvaltning",
+      "stadsplanering"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_fastighet": 3,
+      "b_kultur": 3,
+      "barn": 3,
+      "bygger": 3,
+      "storstad": 3,
+      "funktion": 3,
+      "lantagare": 3,
+      "kultur": 3,
+      "fortroendevald": 3
     }
   },
   {
@@ -14535,6 +14624,33 @@
     }
   },
   {
+    "id": "reg-jamtland-regionstyrelsen-2025-09-30",
+    "typ": "region",
+    "titel": "مجلس الإدارة الإقليمي، منطقة يمتلاند هيريدالن، بتاريخ 30 سبتمبر 2025.",
+    "ingress": "اتخذت هيئة المنطقة في مقاطعتي يمتلاند وهيريدالن قرارات مهمة تتعلق بقضايا مختلفة، بما في ذلك الرعاية الصحية والاقتصاد وخطط التنمية المستقبلية للمنطقة.",
+    "datum": "2025-09-30",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionstyrelsen/mote-2025-09-30",
+    "taggar": [
+      "reg-jamtland",
+      "regionstyrelsen",
+      "region-jamtland-harjedalen",
+      "regionalpolitik",
+      "jamtland",
+      "budget"
+    ],
+    "relevans": {
+      "b_energi": 3,
+      "b_kultur": 3,
+      "lokaler": 3,
+      "barn": 3,
+      "kollektiv": 3,
+      "kronisk": 8,
+      "tandvard": 3,
+      "konsument": 3
+    }
+  },
+  {
     "id": "gavle-kommunfullmaktige-2025-09-29",
     "typ": "kommunbeslut",
     "titel": "اجتماع مجلس مدينة غيفله، بتاريخ 2025-09-29.",
@@ -14556,6 +14672,38 @@
       "funktion": 8,
       "sparare": 3,
       "konsument": 3
+    }
+  },
+  {
+    "id": "reg-orebro-regionstyrelsen-2025-09-29",
+    "typ": "region",
+    "titel": "مجلس الإدارة الإقليمي، منطقة أوربرو، بتاريخ 29 سبتمبر 2025.",
+    "ingress": "اتخذت هيئة الإدارة الإقليمية في مقاطعة أوربرو قرارات بشأن قضايا مهمة تتعلق بالرعاية الصحية، والنقل العام، والطاقة، وخطط التنمية الإقليمية للسنوات القادمة.",
+    "datum": "2025-09-29",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionstyrelsen/mote-2025-09-29",
+    "taggar": [
+      "reg-orebro",
+      "regionstyrelsen",
+      "region-orebro-lan",
+      "orebro",
+      "sjukvard",
+      "regionalpolitik"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_transport": 3,
+      "b_energi": 3,
+      "infrastruktur": 3,
+      "barn": 3,
+      "glesbygd": 3,
+      "pendlare": 3,
+      "kollektiv": 5,
+      "kronisk": 8,
+      "funktion": 3,
+      "tandvard": 3,
+      "energikund": 3,
+      "klimat": 5
     }
   },
   {
@@ -15001,6 +15149,32 @@
     }
   },
   {
+    "id": "reg-halland-regionstyrelsen-2025-09-10",
+    "typ": "region",
+    "titel": "مجلس الإدارة الإقليمي، منطقة هالان، بتاريخ 2025-09-10.",
+    "ingress": "اتخذت هيئة المنطقة في هالاند عدة قرارات مهمة تتعلق بمجالات الرعاية الصحية، وإدارة الأدوية، وأنظمة تكنولوجيا المعلومات، والتعاون مع المنظمات الأخرى.",
+    "datum": "2025-09-10",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionstyrelsen/mote-2025-09-10",
+    "taggar": [
+      "reg-halland",
+      "regionstyrelsen",
+      "region-halland",
+      "halland",
+      "regional-forvaltning",
+      "protokoll"
+    ],
+    "relevans": {
+      "b_it": 3,
+      "b_fastighet": 3,
+      "b_life": 3,
+      "gdpr": 3,
+      "kronisk": 8,
+      "integritet": 3,
+      "volontar": 3
+    }
+  },
+  {
     "id": "HC03208",
     "typ": "lagforslag",
     "titel": "مسؤولية جنائية أوسع نطاقًا في حالات انتهاك الأسرار التجارية.",
@@ -15177,6 +15351,26 @@
     ],
     "relevans": {
       "finansiering": 3
+    }
+  },
+  {
+    "id": "reg-orebro-regionstyrelsen-2025-08-29",
+    "typ": "region",
+    "titel": "مجلس الإدارة الإقليمي، منطقة أوربرو، بتاريخ 29 أغسطس 2025.",
+    "ingress": "لقد تلقت هيئة المنطقة اقتراحًا من أحد المواطنين يتعلق بتقليل أوقات الانتظار في خدمات العناية بالسمع في مدينة كارلسكوغا.",
+    "datum": "2025-08-29",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionstyrelsen/mote-2025-08-29",
+    "taggar": [
+      "reg-orebro",
+      "regionstyrelsen",
+      "region-orebro-lan",
+      "orebro",
+      "sjukvard",
+      "regionalpolitik"
+    ],
+    "relevans": {
+      "kronisk": 8
     }
   },
   {
@@ -16043,6 +16237,31 @@
       "klimat": 3,
       "kultur": 3,
       "fortroendevald": 3
+    }
+  },
+  {
+    "id": "reg-halland-regionstyrelsen-2025-06-04",
+    "typ": "region",
+    "titel": "مجلس الإدارة الإقليمي، منطقة هالان، بتاريخ 2025-06-04.",
+    "ingress": "اتخذت هيئة المنطقة في منطقة هالاند قرارات بشأن عدة أمور، بما في ذلك الميزانية المستقبلية، وقواعد مواقف السيارات بجوار مستشفى هالمستاد، والدعم المقدم للشركات المحلية.",
+    "datum": "2025-06-04",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionstyrelsen/mote-2025-06-04",
+    "taggar": [
+      "reg-halland",
+      "regionstyrelsen",
+      "region-halland",
+      "halland",
+      "regional-forvaltning",
+      "mikaela-waltersson"
+    ],
+    "relevans": {
+      "b_grona": 3,
+      "b_fastighet": 3,
+      "pendlare": 3,
+      "bil": 3,
+      "kollektiv": 3,
+      "kronisk": 8
     }
   },
   {
@@ -18341,6 +18560,35 @@
     }
   },
   {
+    "id": "reg-orebro-regionfullmaktige-2024-12-09",
+    "typ": "region",
+    "titel": "إلى أعضاء مجلس الإدارة الإقليمي، منطقة أوربرو، بتاريخ 9 ديسمبر 2024.",
+    "ingress": "منطقة أوربرو (مقاطعة أوربرو) اتخذت عدة قرارات مهمة تتعلق بمجالات مختلفة، بما في ذلك الرعاية الصحية، والنقل العام، والمبادرات المحلية داخل المقاطعة.",
+    "datum": "2024-12-09",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionfullmaktige/mote-2024-12-09",
+    "taggar": [
+      "reg-orebro",
+      "regionfullmaktige",
+      "region-orebro-lan",
+      "orebro",
+      "kollektivtrafik",
+      "sjukvard"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "finansiering": 3,
+      "infrastruktur": 3,
+      "barn": 3,
+      "ung": 3,
+      "pendlare": 3,
+      "kollektiv": 8,
+      "kronisk": 8,
+      "batagare": 3,
+      "kultur": 3
+    }
+  },
+  {
     "id": "reg-halland-regionfullmaktige-2024-12-04",
     "typ": "region",
     "titel": "إلى أعضاء المجلس الإقليمي، منطقة هالان، بتاريخ 4 ديسمبر 2024:",
@@ -18365,6 +18613,32 @@
       "gymnasieelev": 3,
       "kronisk": 8,
       "tandvard": 3
+    }
+  },
+  {
+    "id": "reg-jamtland-regionfullmaktige-2024-11-26",
+    "typ": "region",
+    "titel": "إلى أعضاء المجلس الإقليمي، منطقة يمتلاند هيريدالن، بتاريخ 26 نوفمبر 2024.",
+    "ingress": "منطقة يمتلاند هيريدالن اتخذت قرارات مهمة تتعلق بقضايا مختلفة، بما في ذلك الرعاية الصحية، ودعم الثقافة، والنقل العام، وذلك للعام 2025.",
+    "datum": "2024-11-26",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionfullmaktige/mote-2024-11-26",
+    "taggar": [
+      "reg-jamtland",
+      "regionfullmaktige",
+      "region-jamtland-harjedalen",
+      "jamtland",
+      "regionalpolitik",
+      "anders-sundin"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "pendlare": 3,
+      "kollektiv": 8,
+      "kronisk": 8,
+      "tandvard": 3,
+      "konsument": 3,
+      "kultur": 8
     }
   },
   {
@@ -18412,6 +18686,90 @@
     }
   },
   {
+    "id": "reg-halland-regionfullmaktige-2024-10-23",
+    "typ": "region",
+    "titel": "إلى أعضاء المجلس الإقليمي، منطقة هالان، بتاريخ 23 أكتوبر 2024:",
+    "ingress": "منطقة هالانด์ اتخذت قرارات بشأن الخطط المستقبلية للثقافة والرعاية الصحية والنقل العام، بالإضافة إلى إجراء العديد من الدراسات حول رعاية الأطفال والشباب.",
+    "datum": "2024-10-23",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionfullmaktige/mote-2024-10-23",
+    "taggar": [
+      "reg-halland",
+      "regionfullmaktige",
+      "region-halland",
+      "halland",
+      "regionalpolitik",
+      "kommunal-forvaltning"
+    ],
+    "relevans": {
+      "b_fastighet": 3,
+      "b_kultur": 3,
+      "barn": 3,
+      "kvinna": 3,
+      "pendlare": 3,
+      "kollektiv": 3,
+      "kronisk": 8,
+      "kultur": 3
+    }
+  },
+  {
+    "id": "reg-jamtland-regionfullmaktige-2024-10-23",
+    "typ": "region",
+    "titel": "إلى أعضاء المجلس الإقليمي، منطقة يمتلاند هيريدالن، بتاريخ 23 أكتوبر 2024.",
+    "ingress": "منطقة يمتلاند هيريدالن اتخذت عدة قرارات مهمة تتعلق بمجالات الصحة، والبيئة، والنقل العام، وخطط التنمية المستقبلية للمنطقة.",
+    "datum": "2024-10-23",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionfullmaktige/mote-2024-10-23",
+    "taggar": [
+      "reg-jamtland",
+      "regionfullmaktige",
+      "region-jamtland-harjedalen",
+      "jamtland",
+      "regionalpolitik",
+      "kommunal-forvaltning"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_transport": 3,
+      "b_fastighet": 3,
+      "finansiering": 3,
+      "konsumentratt": 3,
+      "immaterialratt": 3,
+      "glesbygd": 3,
+      "pendlare": 3,
+      "kollektiv": 8,
+      "kronisk": 8,
+      "klimat": 3,
+      "kultur": 3
+    }
+  },
+  {
+    "id": "reg-orebro-regionfullmaktige-2024-10-10",
+    "typ": "region",
+    "titel": "إلى أعضاء المجلس الإقليمي، منطقة أوربرو، بتاريخ 10 أكتوبر 2024:",
+    "ingress": "ناقش مجلس الإدارة الإقليمي في مقاطعة أوربرو وقرر مجموعة من الأمور، بما في ذلك: الرعاية الصحية، والنقل العام، وخطط الثقافة، والقضايا البيئية.",
+    "datum": "2024-10-10",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionfullmaktige/mote-2024-10-10",
+    "taggar": [
+      "reg-orebro",
+      "regionfullmaktige",
+      "region-orebro-lan",
+      "orebro",
+      "sjukvard",
+      "kollektivtrafik"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_kultur": 3,
+      "pendlare": 3,
+      "kollektiv": 5,
+      "kronisk": 8,
+      "klimat": 3,
+      "kultur": 5
+    }
+  },
+  {
     "id": "norsjo-protokoll-2024-09-30",
     "typ": "kommunbeslut",
     "titel": "محضر اجتماع، بلدية نورشو، 30 سبتمبر 2024.",
@@ -18427,6 +18785,30 @@
       "b_vard": 3,
       "barn": 5,
       "kultur": 3
+    }
+  },
+  {
+    "id": "reg-halland-regionfullmaktige-2024-06-19",
+    "typ": "region",
+    "titel": "إلى أعضاء المجلس الإقليمي، منطقة هالان، بتاريخ 19 يونيو 2024:",
+    "ingress": "اتخذت منطقة هولاند قرارًا بشأن الميزانية المستقبلية، وتنظيم الخدمات الصحية، ومشاريع البناء في مستشفيات المنطقة. كما اتخذت قرارًا بشأن شراء العقارات وأجابت على أسئلة تتعلق بمواضيع مختلفة، بما في ذلك معدات العمل والمستلزمات التقنية الخاصة بال",
+    "datum": "2024-06-19",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionfullmaktige/mote-2024-06-19",
+    "taggar": [
+      "reg-halland",
+      "regionfullmaktige",
+      "region-halland",
+      "halland",
+      "kommunalpolitik",
+      "protokoll"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_bygg": 3,
+      "b_fastighet": 3,
+      "kronisk": 8,
+      "klimat": 3
     }
   },
   {
@@ -24726,6 +25108,231 @@
     },
     "epok": "1900talet",
     "tid": "d. 1995",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q160518",
+    "typ": "historia",
+    "titel": "غوستاف دالين.",
+    "ingress": "كان جوستاف دالين مخترعًا ومهندسًا سويديًا، اشتهر عالميًا بإنشاءه للمنقذات البحرية (أو الأبراج الإرشادية)، وحصل على جائزة نوبل في الفيزياء عام 1912.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Gustaf_Dalén",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "arbetsmiljo": 3,
+      "student": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1937",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q132695",
+    "typ": "historia",
+    "titel": "هاري مارتينسون.",
+    "ingress": "كان هاري مارتينسون كاتبًا سويديًا مرموقًا، وقد حصل على جائزة نوبل في الأدب عام 1974. لقد أثرت حياته كبحار وتجاربه كعضو في الطبقة العاملة بشكل كبير على أعماله الأدبية.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Harry_Martinson",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_industri": 3,
+      "kultur": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1978",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q170741",
+    "typ": "historia",
+    "titel": "ماني سيغباهن.",
+    "ingress": "ماني سيغباهن كان عالم فيزياء سويدي، وقد حصل على جائزة نوبل في الفيزياء عام 1924 تقديراً لاكتشافاته الهامة في مجال أبحاث الأشعة السينية.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Manne_Siegbahn",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_energi": 3,
+      "fou": 3,
+      "student": 3,
+      "energikund": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1978",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q152452",
+    "typ": "historia",
+    "titel": "جونار موردال.",
+    "ingress": "كان غونار ميردال باحثًا وسياسيًا سويديًا مرموقًا، عمل في مجالات الاقتصاد والمجتمع. حصل على جائزة مرموقة عن أبحاثه، وكتب كتبًا مهمة تناولت موضوعات مختلفة، بما في ذلك السياسات المتعلقة بالأسرة والعنصرية في الولايات المتحدة.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Gunnar_Myrdal",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "fou": 3,
+      "stor_familj": 3,
+      "kvinna": 3,
+      "arbetssokande": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1987",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q152437",
+    "typ": "historia",
+    "titel": "آلڤا ميردال.",
+    "ingress": "كانت ألڤا ميردال سياسية ودبلوماسية سويدية بارزة، وقد عملت بشكل كبير من أجل حقوق الأطفال والتعليم. حصلت على جائزة نوبل للسلام في عام 1982 تقديرًا لجهودها.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Alva_Myrdal",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "barn": 5
+    },
+    "epok": "1900talet",
+    "tid": "d. 1986",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q52890",
+    "typ": "historia",
+    "titel": "جوشتاف الخامس.",
+    "ingress": "كان الملك غوستاف الخامس ملكًا لسويديا، وقد حكم البلاد لمدة تقارب 43 عامًا في بداية القرن العشرين. وكان معروفًا بأنه شخص محب للموسيقى والفنون والرياضة.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Gustaf_V",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "student": 3,
+      "idrott": 3,
+      "kultur": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1950",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q78478",
+    "typ": "historia",
+    "titel": "روبرت باراني.",
+    "ingress": "كان روبرت باراني طبيبًا حصل على جائزة نوبل في الطب عام 1914 لمساهماته البحثية في مجال دراسة الأذن. انتقل إلى السويد، وأصبح مواطنًا سويديًا، وعمل أستاذًا في جامعة أوبسالا حتى وفاته.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Robert_Bárány",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "fou": 3,
+      "student": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1936",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q76951",
+    "typ": "historia",
+    "titel": "جورج دي هيفي سي.",
+    "ingress": "جورج دي هيفيسي كان كيميائيًا مجريًا-سويديًا، وقد حصل على جائزة نوبل عام 1943 لمساهماته في البحث حول كيفية عمل الجسم الحي باستخدام المواد المشعة. وهو معروف أيضًا باكتشافه لعنصر جديد، وبهروبه من النازيين خلال الحرب العالمية الثانية.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/George_de_Hevesy",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "infrastruktur": 3,
+      "fou": 3,
+      "student": 3,
+      "batagare": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1966",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q186391",
+    "typ": "historia",
+    "titel": "السيد سفيرغ\" (أو \"سفيرغ\")",
+    "ingress": "كان ثيودور سفيدبيرغ كيميائيًا سويديًا، وقد حصل على جائزة نوبل في الكيمياء عام 1926 لجهوده البحثية حول كيفية حركة وتجزئة الجسيمات الصغيرة.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/The_Svedberg",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "fou": 3,
+      "student": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1971",
     "kallage": "samtida",
     "sakerhet": "belagt",
     "konsensus": "samsyn",

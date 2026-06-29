@@ -97,7 +97,7 @@
   "eu-ratt": {
     "etikett": "Droit de l'UE",
     "typ": "ämne",
-    "antal": 11
+    "antal": 12
   },
   "straffratt": {
     "etikett": "Droit pénal",
@@ -112,7 +112,7 @@
   "ekonomi": {
     "etikett": "Économie",
     "typ": "ämne",
-    "antal": 21
+    "antal": 22
   },
   "sverige": {
     "etikett": "Suède",
@@ -287,17 +287,17 @@
   "stockholm": {
     "etikett": "Stockholm.",
     "typ": "plats",
-    "antal": 22
+    "antal": 24
   },
   "kommunfullmaktige": {
     "etikett": "Conseil municipal.",
     "typ": "organisation",
-    "antal": 102
+    "antal": 103
   },
   "kommunpolitik": {
     "etikett": "Politique municipale.",
     "typ": "ämne",
-    "antal": 9
+    "antal": 10
   },
   "trafik": {
     "etikett": "Circulation.",
@@ -307,22 +307,22 @@
   "stadsplanering": {
     "etikett": "Aménagement urbain.",
     "typ": "ämne",
-    "antal": 3
+    "antal": 4
   },
   "kommunstyrelsen": {
     "etikett": "Le conseil municipal.",
     "typ": "organisation",
-    "antal": 78
+    "antal": 79
   },
   "kommunal-forvaltning": {
     "etikett": "Administration municipale.",
     "typ": "ämne",
-    "antal": 9
+    "antal": 12
   },
   "karin-wanngard": {
     "etikett": "Karin Wanngård.",
     "typ": "person",
-    "antal": 5
+    "antal": 6
   },
   "digitalisering": {
     "etikett": "Numérisation.",
@@ -337,7 +337,7 @@
   "eu": {
     "etikett": "L'Union européenne (UE) est une organisation politique et économique regroupant plusieurs pays européens. Elle a été créée pour promouvoir la paix, la prospérité et la coopération entre ses membres.\n\nVoici quelques informations clés sur l'UE :\n\n*   **Objectifs :**\n    *   Promouvoir la paix et la stabilité.\n    *   Favoriser le développement économique et social.\n    *   Renforcer la coopération entre les États membres.\n    *   Établir une monnaie unique (l'euro).\n    *   Protéger l'environnement.\n\n*   **Membres :**\n    L'UE compte actuellement 27 États membres.\n\n*   **Institutions :**\n    *   Le Parlement européen : représente les citoyens de l'UE.\n    *   Le Conseil de l'Union européenne : représente les gouvernements des États membres.\n    *   La Commission européenne : propose des lois et veille à leur application.\n    *   La Cour de justice de l'Union européenne : assure le respect du droit de l'UE.\n\n*   **Politiques :**\n    L'UE dispose de politiques dans de nombreux domaines, notamment :\n    *   L'agriculture.\n    *   Le commerce.\n    *   L'environnement.\n    *   L'énergie.\n    *   La justice et les affaires intérieures.\n\n*   **Site web :**\n    Pour plus d'informations, vous pouvez consulter le site web de l'UE : [URL non fournie].",
     "typ": "organisation",
-    "antal": 29
+    "antal": 30
   },
   "eu-kommissionen": {
     "etikett": "La Commission européenne.",
@@ -357,7 +357,7 @@
   "budget": {
     "etikett": "Budget.",
     "typ": "ämne",
-    "antal": 3
+    "antal": 4
   },
   "bollebygd": {
     "etikett": "Bollebygds",
@@ -367,7 +367,7 @@
   "protokoll": {
     "etikett": "Procès-verbal.",
     "typ": "ämne",
-    "antal": 10
+    "antal": 12
   },
   "ulf-rapp": {
     "etikett": "Ulf Rapp",
@@ -387,7 +387,7 @@
   "kommunalpolitik": {
     "etikett": "Politique municipale.",
     "typ": "ämne",
-    "antal": 17
+    "antal": 18
   },
   "ange": {
     "etikett": "Ånge.",
@@ -582,7 +582,7 @@
   "orebro": {
     "etikett": "Örebro.",
     "typ": "plats",
-    "antal": 13
+    "antal": 17
   },
   "orsa": {
     "etikett": "Orsa.",
@@ -1397,22 +1397,22 @@
   "reg-halland": {
     "etikett": "Région de Halland.",
     "typ": "organisation",
-    "antal": 15
+    "antal": 19
   },
   "regionfullmaktige": {
     "etikett": "Membres du conseil régional.",
     "typ": "organisation",
-    "antal": 25
+    "antal": 31
   },
   "regionstyrelsen": {
     "etikett": "Conseil régional.",
     "typ": "organisation",
-    "antal": 21
+    "antal": 27
   },
   "reg-orebro": {
     "etikett": "Région d'Örebro län.",
     "typ": "organisation",
-    "antal": 14
+    "antal": 18
   },
   "reg-vastmanland": {
     "etikett": "Région du Västmanland.",
@@ -1422,7 +1422,7 @@
   "reg-jamtland": {
     "etikett": "Région de Jämtland et Härjedalen.",
     "typ": "organisation",
-    "antal": 15
+    "antal": 19
   },
   "reg-blekinge": {
     "etikett": "Région de Blekinge.",
@@ -1612,27 +1612,27 @@
   "region-halland": {
     "etikett": "Région de Halland.",
     "typ": "organisation",
-    "antal": 10
+    "antal": 14
   },
   "halland": {
     "etikett": "Halland.",
     "typ": "plats",
-    "antal": 11
+    "antal": 15
   },
   "regionalpolitik": {
     "etikett": "Politique régionale.",
     "typ": "ämne",
-    "antal": 16
+    "antal": 23
   },
   "region-orebro-lan": {
     "etikett": "Région d'Örebro län.",
     "typ": "organisation",
-    "antal": 11
+    "antal": 15
   },
   "sjukvard": {
     "etikett": "Soins de santé.",
     "typ": "ämne",
-    "antal": 12
+    "antal": 16
   },
   "klimat-och-miljo": {
     "etikett": "Climat et environnement.\n\n*   [Nom propre], [Nombre], [Date] : [URL]\n*   [Nom propre], [Nombre], [Date] : [URL]\n*   [Nom propre], [Nombre], [Date] : [URL]",
@@ -1642,12 +1642,12 @@
   "regional-forvaltning": {
     "etikett": "Administration régionale.",
     "typ": "ämne",
-    "antal": 4
+    "antal": 6
   },
   "region-jamtland-harjedalen": {
     "etikett": "Région de Jämtland et Härjedalen.",
     "typ": "organisation",
-    "antal": 11
+    "antal": 15
   },
   "ostersund": {
     "etikett": "Östersund.",
@@ -1657,7 +1657,7 @@
   "jamtland": {
     "etikett": "Jämtland.",
     "typ": "plats",
-    "antal": 7
+    "antal": 10
   },
   "regional-ekonomi": {
     "etikett": "Économie régionale.",
@@ -1737,7 +1737,7 @@
   "svensk-historia": {
     "etikett": "Histoire suédoise.\n\n[Here, you would insert the content that was originally in Swedish, maintaining the paragraph and list structure, and keeping names, numbers, dates, and URLs unchanged.]",
     "typ": "ämne",
-    "antal": 254
+    "antal": 262
   },
   "vikingatid": {
     "etikett": "L'ère viking.",
@@ -1792,7 +1792,7 @@
   "1900talet": {
     "etikett": "Le XXe siècle.",
     "typ": "epok",
-    "antal": 17
+    "antal": 25
   },
   "runsten": {
     "etikett": "Felsökningsguide pour les runestones\n\nCette section fournit des conseils pour résoudre les problèmes courants rencontrés lors de l'utilisation des runestones.\n\n* **Problème :** Les runestones ne s'affichent pas correctement.\n    * **Solution :** Vérifiez que les pilotes graphiques sont à jour. Redémarrez votre ordinateur. Assurez-vous que la résolution de l'écran est compatible avec les runestones.\n\n* **Problème :** Les runestones fonctionnent lentement.\n    * **Solution :** Fermez les applications inutiles. Augmentez la mémoire vive (RAM) de votre ordinateur. Désactivez les effets visuels.\n\n* **Problème :** Vous ne parvenez pas à vous connecter aux serveurs des runestones.\n    * **Solution :** Vérifiez votre connexion Internet. Redémarrez votre routeur. Contactez votre fournisseur d'accès Internet (FAI).\n\nSi vous rencontrez d'autres problèmes, veuillez consulter la documentation en ligne ou contacter le support technique.",
@@ -1847,7 +1847,7 @@
   "historisk-person": {
     "etikett": "Personne historique.",
     "typ": "ämne",
-    "antal": 218
+    "antal": 226
   },
   "runinskrift": {
     "etikett": "Inscriptions rupestres.",
@@ -1882,7 +1882,7 @@
   "kollektivtrafik": {
     "etikett": "Transports en commun.",
     "typ": "ämne",
-    "antal": 1
+    "antal": 3
   },
   "utbildningsnamndens-pdf-bortredigerad": {
     "etikett": "Document PDF de la commission de l'éducation, version modifiée et épurée.",
@@ -1947,7 +1947,7 @@
   "mikaela-waltersson": {
     "etikett": "Mikaela Waltersson.",
     "typ": "person",
-    "antal": 1
+    "antal": 2
   },
   "politik": {
     "etikett": "Politique.",
@@ -1957,10 +1957,15 @@
   "anders-sundin": {
     "etikett": "Anders Sundin.",
     "typ": "person",
-    "antal": 2
+    "antal": 3
   },
   "halso-och-sjukvard": {
     "etikett": "Soins de santé.",
+    "typ": "ämne",
+    "antal": 2
+  },
+  "fastighetsforvaltning": {
+    "etikett": "Gestion immobilière.",
     "typ": "ämne",
     "antal": 1
   }

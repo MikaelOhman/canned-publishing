@@ -97,7 +97,7 @@
   "eu-ratt": {
     "etikett": "Diritto dell'UE",
     "typ": "ämne",
-    "antal": 10
+    "antal": 11
   },
   "straffratt": {
     "etikett": "Diritto penale",
@@ -112,7 +112,7 @@
   "ekonomi": {
     "etikett": "Economia",
     "typ": "ämne",
-    "antal": 21
+    "antal": 22
   },
   "sverige": {
     "etikett": "Svezia",
@@ -287,17 +287,17 @@
   "stockholm": {
     "etikett": "Stockholm.",
     "typ": "plats",
-    "antal": 22
+    "antal": 24
   },
   "kommunfullmaktige": {
     "etikett": "Consiglio comunale.",
     "typ": "organisation",
-    "antal": 102
+    "antal": 103
   },
   "kommunpolitik": {
     "etikett": "Politica comunale.",
     "typ": "ämne",
-    "antal": 9
+    "antal": 10
   },
   "trafik": {
     "etikett": "Traffico.",
@@ -307,22 +307,22 @@
   "stadsplanering": {
     "etikett": "Pianificazione urbana.",
     "typ": "ämne",
-    "antal": 3
+    "antal": 4
   },
   "kommunstyrelsen": {
     "etikett": "La giunta comunale.",
     "typ": "organisation",
-    "antal": 78
+    "antal": 79
   },
   "kommunal-forvaltning": {
     "etikett": "Amministrazione comunale.",
     "typ": "ämne",
-    "antal": 9
+    "antal": 12
   },
   "karin-wanngard": {
     "etikett": "Karin Wanngård",
     "typ": "person",
-    "antal": 5
+    "antal": 6
   },
   "digitalisering": {
     "etikett": "Digitalizzazione.",
@@ -337,7 +337,7 @@
   "eu": {
     "etikett": "Unione Europea.",
     "typ": "organisation",
-    "antal": 29
+    "antal": 30
   },
   "eu-kommissionen": {
     "etikett": "La Commissione Europea.",
@@ -357,7 +357,7 @@
   "budget": {
     "etikett": "Budget.",
     "typ": "ämne",
-    "antal": 3
+    "antal": 4
   },
   "bollebygd": {
     "etikett": "Bollebygds",
@@ -367,7 +367,7 @@
   "protokoll": {
     "etikett": "Verbale.",
     "typ": "ämne",
-    "antal": 10
+    "antal": 12
   },
   "ulf-rapp": {
     "etikett": "Ulf Rapp",
@@ -387,7 +387,7 @@
   "kommunalpolitik": {
     "etikett": "Politica comunale.",
     "typ": "ämne",
-    "antal": 17
+    "antal": 18
   },
   "ange": {
     "etikett": "Ånge.",
@@ -582,7 +582,7 @@
   "orebro": {
     "etikett": "Örebro.",
     "typ": "plats",
-    "antal": 13
+    "antal": 17
   },
   "orsa": {
     "etikett": "Orsa",
@@ -1397,22 +1397,22 @@
   "reg-halland": {
     "etikett": "Regione Halland.",
     "typ": "organisation",
-    "antal": 15
+    "antal": 19
   },
   "regionfullmaktige": {
     "etikett": "Membri dell'assemblea regionale.",
     "typ": "organisation",
-    "antal": 25
+    "antal": 31
   },
   "regionstyrelsen": {
     "etikett": "Consiglio regionale.",
     "typ": "organisation",
-    "antal": 21
+    "antal": 27
   },
   "reg-orebro": {
     "etikett": "Regione di Örebro län.",
     "typ": "organisation",
-    "antal": 14
+    "antal": 18
   },
   "reg-vastmanland": {
     "etikett": "Regione del Västerbotten.",
@@ -1422,7 +1422,7 @@
   "reg-jamtland": {
     "etikett": "Regione di Jämtland Härjedalen.",
     "typ": "organisation",
-    "antal": 15
+    "antal": 19
   },
   "reg-blekinge": {
     "etikett": "Regione Blekinge.",
@@ -1612,27 +1612,27 @@
   "region-halland": {
     "etikett": "Regione Halland.",
     "typ": "organisation",
-    "antal": 10
+    "antal": 14
   },
   "halland": {
     "etikett": "Halland.",
     "typ": "plats",
-    "antal": 11
+    "antal": 15
   },
   "regionalpolitik": {
     "etikett": "Politica regionale.",
     "typ": "ämne",
-    "antal": 16
+    "antal": 23
   },
   "region-orebro-lan": {
     "etikett": "Regione di Örebro län.",
     "typ": "organisation",
-    "antal": 11
+    "antal": 15
   },
   "sjukvard": {
     "etikett": "Assistenza sanitaria.",
     "typ": "ämne",
-    "antal": 12
+    "antal": 16
   },
   "klimat-och-miljo": {
     "etikett": "Clima e ambiente.\n\n*   Informazioni sul clima e sull'ambiente.\n*   Dati relativi al clima e all'ambiente.\n*   Notizie riguardanti il clima e l'ambiente.\n*   Articoli dedicati al clima e all'ambiente.\n*   Risorse utili per approfondire la conoscenza del clima e dell'ambiente.",
@@ -1642,12 +1642,12 @@
   "regional-forvaltning": {
     "etikett": "Amministrazione regionale.",
     "typ": "ämne",
-    "antal": 4
+    "antal": 6
   },
   "region-jamtland-harjedalen": {
     "etikett": "Regione di Jämtland Härjedalen.",
     "typ": "organisation",
-    "antal": 11
+    "antal": 15
   },
   "ostersund": {
     "etikett": "Östersund.",
@@ -1657,7 +1657,7 @@
   "jamtland": {
     "etikett": "Jämtland.",
     "typ": "plats",
-    "antal": 7
+    "antal": 10
   },
   "regional-ekonomi": {
     "etikett": "Economia regionale.",
@@ -1737,7 +1737,7 @@
   "svensk-historia": {
     "etikett": "Storia svedese.\n\n(Followed by any lists or paragraphs that would normally follow this title in a document about Swedish history.)",
     "typ": "ämne",
-    "antal": 254
+    "antal": 262
   },
   "vikingatid": {
     "etikett": "L'era vichinga.",
@@ -1792,7 +1792,7 @@
   "1900talet": {
     "etikett": "Il XX secolo.",
     "typ": "epok",
-    "antal": 17
+    "antal": 25
   },
   "runsten": {
     "etikett": "Pietra runica.",
@@ -1847,7 +1847,7 @@
   "historisk-person": {
     "etikett": "Figura storica.",
     "typ": "ämne",
-    "antal": 218
+    "antal": 226
   },
   "runinskrift": {
     "etikett": "Iscrizione rupestre.",
@@ -1882,7 +1882,7 @@
   "kollektivtrafik": {
     "etikett": "Trasporto pubblico.",
     "typ": "ämne",
-    "antal": 1
+    "antal": 3
   },
   "utbildningsnamndens-pdf-bortredigerad": {
     "etikett": "Documento PDF del comitato per l'istruzione, con alcune parti omesse.",
@@ -1947,7 +1947,7 @@
   "mikaela-waltersson": {
     "etikett": "Mikaela Waltersson",
     "typ": "person",
-    "antal": 1
+    "antal": 2
   },
   "politik": {
     "etikett": "Politica.",
@@ -1957,10 +1957,15 @@
   "anders-sundin": {
     "etikett": "Anders Sundin.",
     "typ": "person",
-    "antal": 2
+    "antal": 3
   },
   "halso-och-sjukvard": {
     "etikett": "Assistenza sanitaria.",
+    "typ": "ämne",
+    "antal": 2
+  },
+  "fastighetsforvaltning": {
+    "etikett": "Gestione immobiliare.",
     "typ": "ämne",
     "antal": 1
   }

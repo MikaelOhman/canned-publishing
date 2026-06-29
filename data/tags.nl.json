@@ -97,7 +97,7 @@
   "eu-ratt": {
     "etikett": "EU-recht",
     "typ": "ämne",
-    "antal": 11
+    "antal": 12
   },
   "straffratt": {
     "etikett": "Strafrecht",
@@ -112,7 +112,7 @@
   "ekonomi": {
     "etikett": "Economie",
     "typ": "ämne",
-    "antal": 21
+    "antal": 22
   },
   "sverige": {
     "etikett": "Zweden",
@@ -287,17 +287,17 @@
   "stockholm": {
     "etikett": "Stockholm.",
     "typ": "plats",
-    "antal": 22
+    "antal": 24
   },
   "kommunfullmaktige": {
     "etikett": "Gemeenteraad.",
     "typ": "organisation",
-    "antal": 102
+    "antal": 103
   },
   "kommunpolitik": {
     "etikett": "Gemeentepolitiek.",
     "typ": "ämne",
-    "antal": 9
+    "antal": 10
   },
   "trafik": {
     "etikett": "Verkeer.",
@@ -307,22 +307,22 @@
   "stadsplanering": {
     "etikett": "Stadsplanning.",
     "typ": "ämne",
-    "antal": 3
+    "antal": 4
   },
   "kommunstyrelsen": {
     "etikett": "Het college van burgemeester en wethouders.",
     "typ": "organisation",
-    "antal": 78
+    "antal": 79
   },
   "kommunal-forvaltning": {
     "etikett": "Gemeentelijke administratie.",
     "typ": "ämne",
-    "antal": 9
+    "antal": 12
   },
   "karin-wanngard": {
     "etikett": "Karin Wanngård",
     "typ": "person",
-    "antal": 5
+    "antal": 6
   },
   "digitalisering": {
     "etikett": "Digitalisering\n\n(De tekst die hierna volgt is niet beschikbaar, dus ik kan deze niet vertalen. Geef de tekst die je vertaald wilt hebben.)",
@@ -337,7 +337,7 @@
   "eu": {
     "etikett": "EU",
     "typ": "organisation",
-    "antal": 29
+    "antal": 30
   },
   "eu-kommissionen": {
     "etikett": "De Europese Commissie.",
@@ -357,7 +357,7 @@
   "budget": {
     "etikett": "Budget.",
     "typ": "ämne",
-    "antal": 3
+    "antal": 4
   },
   "bollebygd": {
     "etikett": "Bollebygds",
@@ -367,7 +367,7 @@
   "protokoll": {
     "etikett": "Notulen.",
     "typ": "ämne",
-    "antal": 10
+    "antal": 12
   },
   "ulf-rapp": {
     "etikett": "Ulf Rapp",
@@ -387,7 +387,7 @@
   "kommunalpolitik": {
     "etikett": "Gemeentelijke politiek.",
     "typ": "ämne",
-    "antal": 17
+    "antal": 18
   },
   "ange": {
     "etikett": "Ånge",
@@ -582,7 +582,7 @@
   "orebro": {
     "etikett": "Örebro",
     "typ": "plats",
-    "antal": 13
+    "antal": 17
   },
   "orsa": {
     "etikett": "Orsa",
@@ -1397,22 +1397,22 @@
   "reg-halland": {
     "etikett": "Regio Halland.",
     "typ": "organisation",
-    "antal": 15
+    "antal": 19
   },
   "regionfullmaktige": {
     "etikett": "Regionale vertegenwoordigers.",
     "typ": "organisation",
-    "antal": 25
+    "antal": 31
   },
   "regionstyrelsen": {
     "etikett": "Regionale bestuursraad.",
     "typ": "organisation",
-    "antal": 21
+    "antal": 27
   },
   "reg-orebro": {
     "etikett": "Regio Örebro län.",
     "typ": "organisation",
-    "antal": 14
+    "antal": 18
   },
   "reg-vastmanland": {
     "etikett": "Regio Västergötland.",
@@ -1422,7 +1422,7 @@
   "reg-jamtland": {
     "etikett": "Regio Jämtland Härjedalen.",
     "typ": "organisation",
-    "antal": 15
+    "antal": 19
   },
   "reg-blekinge": {
     "etikett": "Regio Blekinge.",
@@ -1612,27 +1612,27 @@
   "region-halland": {
     "etikett": "Regio Halland.",
     "typ": "organisation",
-    "antal": 10
+    "antal": 14
   },
   "halland": {
     "etikett": "Halland",
     "typ": "plats",
-    "antal": 11
+    "antal": 15
   },
   "regionalpolitik": {
     "etikett": "Regionale politiek.\n\n*   Doelstellingen:\n    *   Bevorderen van economische groei en werkgelegenheid in regio's.\n    *   Verminderen van regionale verschillen.\n    *   Verbeteren van de infrastructuur en voorzieningen.\n*   Instrumenten:\n    *   Subsidies voor bedrijven en projecten.\n    *   Investeringen in infrastructuur.\n    *   Ondersteuning voor lokale initiatieven.\n*   Voorbeelden:\n    *   De Europese regionalefondsen.\n    *   Nationale programma's voor economische ontwikkeling.\n    *   Regionale ontwikkelingsmaatschappijen.\n*   Meer informatie:\n    *   Website: www.example.com (voorbeeld)\n    *   Contactpersoon: Jan Jansen, 0123456789, jan.jansen@email.com (voorbeeld)\n    *   Datum laatste update: 2023-10-27 (voorbeeld)",
     "typ": "ämne",
-    "antal": 16
+    "antal": 23
   },
   "region-orebro-lan": {
     "etikett": "Regio Örebro län.",
     "typ": "organisation",
-    "antal": 11
+    "antal": 15
   },
   "sjukvard": {
     "etikett": "Zorgsector",
     "typ": "ämne",
-    "antal": 12
+    "antal": 16
   },
   "klimat-och-miljo": {
     "etikett": "Klimaat en milieu.\n\n*   [Naam], [getal] [datum]\n*   [URL]",
@@ -1642,12 +1642,12 @@
   "regional-forvaltning": {
     "etikett": "Regionale administratie.",
     "typ": "ämne",
-    "antal": 4
+    "antal": 6
   },
   "region-jamtland-harjedalen": {
     "etikett": "Regio Jämtland Härjedalen.",
     "typ": "organisation",
-    "antal": 11
+    "antal": 15
   },
   "ostersund": {
     "etikett": "Östersund.",
@@ -1657,7 +1657,7 @@
   "jamtland": {
     "etikett": "Jämtland\n\n(Geen verdere context beschikbaar om een betekenisvolle vertaling te geven.)",
     "typ": "plats",
-    "antal": 7
+    "antal": 10
   },
   "regional-ekonomi": {
     "etikett": "Regionale economie.",
@@ -1737,7 +1737,7 @@
   "svensk-historia": {
     "etikett": "Zweedse geschiedenis.\n\n*   [Naam], [getal] jaar geleden.\n*   [Datum].\n*   [URL].",
     "typ": "ämne",
-    "antal": 254
+    "antal": 262
   },
   "vikingatid": {
     "etikett": "De Vikingtijd\n\n*   Periode: ongeveer 800 tot 1066 na Christus.\n*   Geografisch gebied: Scandinavië, met invloed op gebieden rond de Noordzee en de Oostzee.\n*   Kenmerken:\n    *   Zeevaarders en ontdekkingsreizigers.\n    *   Handel en plunderingen.\n    *   Invloedrijke cultuur en technologie.\n*   Bekende Vikingen:\n    *   Erik de Rode.\n    *   Leif Erikson.\n    *   Harald Harefoot.\n*   Belangrijke gebeurtenissen:\n    *   De aanval op Lindisfarne (793).\n    *   De vestiging van Dublin.\n    *   De Slag bij Stamford Bridge (1066).\n*   Meer informatie: [www.voorbeeldwebsite.se](www.voorbeeldwebsite.se)",
@@ -1792,7 +1792,7 @@
   "1900talet": {
     "etikett": "De 20e eeuw.",
     "typ": "epok",
-    "antal": 17
+    "antal": 25
   },
   "runsten": {
     "etikett": "Runensteen.",
@@ -1847,7 +1847,7 @@
   "historisk-person": {
     "etikett": "Historische persoonlijkheid.",
     "typ": "ämne",
-    "antal": 218
+    "antal": 226
   },
   "runinskrift": {
     "etikett": "Inschrijving.",
@@ -1882,7 +1882,7 @@
   "kollektivtrafik": {
     "etikett": "Openbaar vervoer.",
     "typ": "ämne",
-    "antal": 1
+    "antal": 3
   },
   "utbildningsnamndens-pdf-bortredigerad": {
     "etikett": "Het PDF-document van de onderwijscommissie, met inhoud die is verwijderd.",
@@ -1947,7 +1947,7 @@
   "mikaela-waltersson": {
     "etikett": "Mikaela Waltersson",
     "typ": "person",
-    "antal": 1
+    "antal": 2
   },
   "politik": {
     "etikett": "Politiek",
@@ -1957,10 +1957,15 @@
   "anders-sundin": {
     "etikett": "Anders Sundin",
     "typ": "person",
-    "antal": 2
+    "antal": 3
   },
   "halso-och-sjukvard": {
     "etikett": "Gezondheidszorg.",
+    "typ": "ämne",
+    "antal": 2
+  },
+  "fastighetsforvaltning": {
+    "etikett": "Vastgoedbeheer.",
     "typ": "ämne",
     "antal": 1
   }

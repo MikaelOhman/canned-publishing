@@ -1708,6 +1708,19 @@
     }
   },
   {
+    "id": "eu-32026R1418",
+    "typ": "omvarld",
+    "titel": "Az Európai Bizottság végrehajtási rendelete (EU) 2026/1418.",
+    "ingress": "Az Európai Unió jóváhagyta, hogy egy konkrét termék, mely Szlovákiából származik, védett földrajzi jelzéssel rendelkezzen. Ez azt jelenti, hogy a termék neve az egész Európai Unión belül védett.",
+    "datum": "2026-06-22",
+    "kalla": "EU (EUR-Lex)",
+    "kalla_url": "https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32026R1418",
+    "taggar": [
+      "eu",
+      "eu-ratt"
+    ]
+  },
+  {
     "id": "ecb-2026-06-19-frank-elderson-fireside-chat",
     "typ": "omvarld",
     "titel": "Frank Elderson: Egy lazált kérdezz-felelek.",
@@ -11814,6 +11827,29 @@
     }
   },
   {
+    "id": "stockholm-kommunstyrelsen-2025-12-17",
+    "typ": "kommunbeslut",
+    "titel": "A stockholmi városi önkormányzat kommunális bizottsága, 2025. december 17.",
+    "ingress": "A stockholmi önkormányzat új megállapodást fogadott el a Sätra területén történő földhasználatról, és döntéseket hozott olyan kérdésekben, mint például a helyi vállalkozások támogatása, az épületek felújítása és a sportegyesületek által kín",
+    "datum": "2025-12-17",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunstyrelsen/mote-2025-12-17",
+    "taggar": [
+      "stockholm",
+      "kommunstyrelsen",
+      "karin-wanngard",
+      "kommunal-forvaltning"
+    ],
+    "relevans": {
+      "b_bygg": 5,
+      "b_fastighet": 5,
+      "b_energi": 3,
+      "energikund": 3,
+      "konsument": 3,
+      "idrott": 5
+    }
+  },
+  {
     "id": "HD0387",
     "typ": "lagforslag",
     "titel": "Új szabályok a munkaerő-bevitelre vonatkozóan.",
@@ -13784,6 +13820,31 @@
     }
   },
   {
+    "id": "reg-jamtland-regionstyrelsen-2025-11-04",
+    "typ": "region",
+    "titel": "A Jämtland Härjedalen régió regionális testülete, 2025. november 4.",
+    "ingress": "A Jämtland Härjedalen régió önkormányzati testülete több fontos döntést hozott az egészségügyi szolgáltatásokkal kapcsolatban, többek között új díjak bevezetéséről a 2026-os évtől kezdődően, valamint arról, hogy hogyan kell alkalmazni a mes",
+    "datum": "2025-11-04",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionstyrelsen/mote-2025-11-04",
+    "taggar": [
+      "reg-jamtland",
+      "regionstyrelsen",
+      "region-jamtland-harjedalen",
+      "regionalpolitik",
+      "ekonomi",
+      "halso-och-sjukvard"
+    ],
+    "relevans": {
+      "lokaler": 3,
+      "digitalisering": 3,
+      "barn": 3,
+      "kronisk": 8,
+      "funktion": 3,
+      "konsument": 3
+    }
+  },
+  {
     "id": "alingsas-kommunstyrelsen-2025-11-03",
     "typ": "kommunbeslut",
     "titel": "A kommunális bizottság, Alingsås önkormányzata, 2025. november 3.",
@@ -13798,6 +13859,34 @@
     "relevans": {
       "kollektivavtal": 3,
       "lontagare": 3
+    }
+  },
+  {
+    "id": "stockholm-kommunfullmaktige-2025-11-03",
+    "typ": "kommunbeslut",
+    "titel": "Stockholm Város Tanácsa, 2025. november 3.",
+    "ingress": "A stockholmi önkormányzat megkapta a válaszokat számos kérdésre, amelyek többek között a védelmi menedékelemekről, a kulturális örökségű épületekről és az új, fogyatékos személyek számára fenntartott lakóhelyekről szóltak. Újabb kérdések is",
+    "datum": "2025-11-03",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunfullmaktige/mote-2025-11-03",
+    "taggar": [
+      "stockholm",
+      "kommunfullmaktige",
+      "kommunpolitik",
+      "fastighetsforvaltning",
+      "stadsplanering"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_fastighet": 3,
+      "b_kultur": 3,
+      "barn": 3,
+      "bygger": 3,
+      "storstad": 3,
+      "funktion": 3,
+      "lantagare": 3,
+      "kultur": 3,
+      "fortroendevald": 3
     }
   },
   {
@@ -14481,6 +14570,33 @@
     }
   },
   {
+    "id": "reg-jamtland-regionstyrelsen-2025-09-30",
+    "typ": "region",
+    "titel": "A Jämtland Härjedalen régió regionális testülete, 2025. szeptember 30.",
+    "ingress": "A Jämtland Härjedalen régió igazgatótanácsa fontos döntéseket hozott a régió egészségügyi ellátásával, gazdaságával és jövőbeli terveivel kapcsolatban.",
+    "datum": "2025-09-30",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionstyrelsen/mote-2025-09-30",
+    "taggar": [
+      "reg-jamtland",
+      "regionstyrelsen",
+      "region-jamtland-harjedalen",
+      "regionalpolitik",
+      "jamtland",
+      "budget"
+    ],
+    "relevans": {
+      "b_energi": 3,
+      "b_kultur": 3,
+      "lokaler": 3,
+      "barn": 3,
+      "kollektiv": 3,
+      "kronisk": 8,
+      "tandvard": 3,
+      "konsument": 3
+    }
+  },
+  {
     "id": "gavle-kommunfullmaktige-2025-09-29",
     "typ": "kommunbeslut",
     "titel": "Gävle város önkormányzatának közgyűlése, 2025. szeptember 29.",
@@ -14502,6 +14618,38 @@
       "funktion": 8,
       "sparare": 3,
       "konsument": 3
+    }
+  },
+  {
+    "id": "reg-orebro-regionstyrelsen-2025-09-29",
+    "typ": "region",
+    "titel": "A Regionális Igazgatóság (Regionstyrelsen), az Örebro megyei régió részét képező szervezet, 2025. szeptember 29-én kelt okirat.",
+    "ingress": "Az Örebro megyei regionális tanács fontos döntéseket hozott az egészségügyi ellátásról, a tömegközlekedésről, az energiáról és a jövőbeni regionális fejlesztési tervekkel kapcsolatban.",
+    "datum": "2025-09-29",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionstyrelsen/mote-2025-09-29",
+    "taggar": [
+      "reg-orebro",
+      "regionstyrelsen",
+      "region-orebro-lan",
+      "orebro",
+      "sjukvard",
+      "regionalpolitik"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_transport": 3,
+      "b_energi": 3,
+      "infrastruktur": 3,
+      "barn": 3,
+      "glesbygd": 3,
+      "pendlare": 3,
+      "kollektiv": 5,
+      "kronisk": 8,
+      "funktion": 3,
+      "tandvard": 3,
+      "energikund": 3,
+      "klimat": 5
     }
   },
   {
@@ -14947,6 +15095,32 @@
     }
   },
   {
+    "id": "reg-halland-regionstyrelsen-2025-09-10",
+    "typ": "region",
+    "titel": "A Halland régió regionális testülete, 2025. szeptember 10.",
+    "ingress": "A Hallandi Régió Tanácsa több fontos döntést hozott az egészségügyi ellátással, a gyógyszerellátással, az informatikai rendszerekkel és más szervezetekkel való együttműködéssel kapcsolatos területeken.",
+    "datum": "2025-09-10",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionstyrelsen/mote-2025-09-10",
+    "taggar": [
+      "reg-halland",
+      "regionstyrelsen",
+      "region-halland",
+      "halland",
+      "regional-forvaltning",
+      "protokoll"
+    ],
+    "relevans": {
+      "b_it": 3,
+      "b_fastighet": 3,
+      "b_life": 3,
+      "gdpr": 3,
+      "kronisk": 8,
+      "integritet": 3,
+      "volontar": 3
+    }
+  },
+  {
     "id": "HC03208",
     "typ": "lagforslag",
     "titel": "A vállalati titkok elleni támadásokkal kapcsolatos büntetőjogi felelősség kiterjesztése.",
@@ -15123,6 +15297,26 @@
     ],
     "relevans": {
       "finansiering": 3
+    }
+  },
+  {
+    "id": "reg-orebro-regionstyrelsen-2025-08-29",
+    "typ": "region",
+    "titel": "A Regionális Igazgatóság (Regionstyrelsen), az Örebro megyei régió részéről, 2025. augusztus 29.",
+    "ingress": "A regionális igazgatóság egy polgártól kapott javaslatot, amelynek célja a hallásvizsgálatokra való várakozási idő csökkentése Karlskogában.",
+    "datum": "2025-08-29",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionstyrelsen/mote-2025-08-29",
+    "taggar": [
+      "reg-orebro",
+      "regionstyrelsen",
+      "region-orebro-lan",
+      "orebro",
+      "sjukvard",
+      "regionalpolitik"
+    ],
+    "relevans": {
+      "kronisk": 8
     }
   },
   {
@@ -15978,6 +16172,31 @@
       "klimat": 3,
       "kultur": 3,
       "fortroendevald": 3
+    }
+  },
+  {
+    "id": "reg-halland-regionstyrelsen-2025-06-04",
+    "typ": "region",
+    "titel": "A Halland régió regionális testülete, 2025. június 4.",
+    "ingress": "A Hallandi Régió Tanácsa többek között döntést hozott a jövőbeli költségvetésről, a Halmstad kórházához tartozó parkolási szabályokról és a helyi vállalkozások támogatásáról.",
+    "datum": "2025-06-04",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionstyrelsen/mote-2025-06-04",
+    "taggar": [
+      "reg-halland",
+      "regionstyrelsen",
+      "region-halland",
+      "halland",
+      "regional-forvaltning",
+      "mikaela-waltersson"
+    ],
+    "relevans": {
+      "b_grona": 3,
+      "b_fastighet": 3,
+      "pendlare": 3,
+      "bil": 3,
+      "kollektiv": 3,
+      "kronisk": 8
     }
   },
   {
@@ -18337,6 +18556,35 @@
     }
   },
   {
+    "id": "reg-orebro-regionfullmaktige-2024-12-09",
+    "typ": "region",
+    "titel": "Örebro megyei regionális képviselőtestület, 2024. december 9.",
+    "ingress": "Az Örebro megyei önkormányzat több fontos döntést hozott az egészségügy, a tömegközlekedés és a helyi fejlesztések terén a megyében.",
+    "datum": "2024-12-09",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionfullmaktige/mote-2024-12-09",
+    "taggar": [
+      "reg-orebro",
+      "regionfullmaktige",
+      "region-orebro-lan",
+      "orebro",
+      "kollektivtrafik",
+      "sjukvard"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "finansiering": 3,
+      "infrastruktur": 3,
+      "barn": 3,
+      "ung": 3,
+      "pendlare": 3,
+      "kollektiv": 8,
+      "kronisk": 8,
+      "batagare": 3,
+      "kultur": 3
+    }
+  },
+  {
     "id": "reg-halland-regionfullmaktige-2024-12-04",
     "typ": "region",
     "titel": "Halland megyei képviselőtestület, 2024. december 4.",
@@ -18361,6 +18609,32 @@
       "gymnasieelev": 3,
       "kronisk": 8,
       "tandvard": 3
+    }
+  },
+  {
+    "id": "reg-jamtland-regionfullmaktige-2024-11-26",
+    "typ": "region",
+    "titel": "Jämtland Härjedalen megyei képviselőtestület, 2024. november 26.",
+    "ingress": "A Jämtland Härjedalen régió fontos döntéseket hozott az egészségügyi ellátásról, a kulturális támogatásokról és a tömegközlekedésről szóló intézkedésekről, amelyek 2025-től lépnek életbe.",
+    "datum": "2024-11-26",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionfullmaktige/mote-2024-11-26",
+    "taggar": [
+      "reg-jamtland",
+      "regionfullmaktige",
+      "region-jamtland-harjedalen",
+      "jamtland",
+      "regionalpolitik",
+      "anders-sundin"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "pendlare": 3,
+      "kollektiv": 8,
+      "kronisk": 8,
+      "tandvard": 3,
+      "konsument": 3,
+      "kultur": 8
     }
   },
   {
@@ -18408,6 +18682,90 @@
     }
   },
   {
+    "id": "reg-halland-regionfullmaktige-2024-10-23",
+    "typ": "region",
+    "titel": "Hallandi Megyei Közgyűlés tagjai, 2024. október 23.",
+    "ingress": "A Halland régió vezetősége döntéseket hozott a jövőbeli kultúrális, egészségügyi és közösségi közlekedési tervekkel kapcsolatban, valamint számos tanulmányt végzett gyermekek és fiatalok ellátásával kapcsolatban.",
+    "datum": "2024-10-23",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionfullmaktige/mote-2024-10-23",
+    "taggar": [
+      "reg-halland",
+      "regionfullmaktige",
+      "region-halland",
+      "halland",
+      "regionalpolitik",
+      "kommunal-forvaltning"
+    ],
+    "relevans": {
+      "b_fastighet": 3,
+      "b_kultur": 3,
+      "barn": 3,
+      "kvinna": 3,
+      "pendlare": 3,
+      "kollektiv": 3,
+      "kronisk": 8,
+      "kultur": 3
+    }
+  },
+  {
+    "id": "reg-jamtland-regionfullmaktige-2024-10-23",
+    "typ": "region",
+    "titel": "Jämtland Härjedalen megyei képviselőtestület, 2024. október 23.",
+    "ingress": "A Jämtland Härjedalen régió több fontos döntést hozott a következő területekkel kapcsolatban: egészségügy, környezetvédelem, tömegközlekedés és a régió jövőjét érintő tervezési kérdések.",
+    "datum": "2024-10-23",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionfullmaktige/mote-2024-10-23",
+    "taggar": [
+      "reg-jamtland",
+      "regionfullmaktige",
+      "region-jamtland-harjedalen",
+      "jamtland",
+      "regionalpolitik",
+      "kommunal-forvaltning"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_transport": 3,
+      "b_fastighet": 3,
+      "finansiering": 3,
+      "konsumentratt": 3,
+      "immaterialratt": 3,
+      "glesbygd": 3,
+      "pendlare": 3,
+      "kollektiv": 8,
+      "kronisk": 8,
+      "klimat": 3,
+      "kultur": 3
+    }
+  },
+  {
+    "id": "reg-orebro-regionfullmaktige-2024-10-10",
+    "typ": "region",
+    "titel": "Örebro megyei regionális képviselőtestület, 2024. október 10.",
+    "ingress": "Az Örebro megyei regionális gyűlés megvitatta és döntést hozott többek között az egészségügyről, a tömegközlekedésről, a kulturális tervekkel kapcsolatos kérdésekről és a környezetvédelmi ügyekről.",
+    "datum": "2024-10-10",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionfullmaktige/mote-2024-10-10",
+    "taggar": [
+      "reg-orebro",
+      "regionfullmaktige",
+      "region-orebro-lan",
+      "orebro",
+      "sjukvard",
+      "kollektivtrafik"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_kultur": 3,
+      "pendlare": 3,
+      "kollektiv": 5,
+      "kronisk": 8,
+      "klimat": 3,
+      "kultur": 5
+    }
+  },
+  {
     "id": "norsjo-protokoll-2024-09-30",
     "typ": "kommunbeslut",
     "titel": "Jegyzőkönyv, Norsjö önkormányzata, 2024. szeptember 30.",
@@ -18423,6 +18781,30 @@
       "b_vard": 3,
       "barn": 5,
       "kultur": 3
+    }
+  },
+  {
+    "id": "reg-halland-regionfullmaktige-2024-06-19",
+    "typ": "region",
+    "titel": "Hallandi Megye Közgyűlése, 2024. június 19.",
+    "ingress": "A Region Halland döntést hozott a jövőbeli költségvetésről, az egészségügyi ellátás szervezeti felépítéséről és a kórházterületeken tervezett építkezésekről. Emellett határozatot vettek ingatlanok vásárlásáról, és válaszoltak kérdésekre oly",
+    "datum": "2024-06-19",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionfullmaktige/mote-2024-06-19",
+    "taggar": [
+      "reg-halland",
+      "regionfullmaktige",
+      "region-halland",
+      "halland",
+      "kommunalpolitik",
+      "protokoll"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_bygg": 3,
+      "b_fastighet": 3,
+      "kronisk": 8,
+      "klimat": 3
     }
   },
   {
@@ -24747,6 +25129,206 @@
     },
     "epok": "1900talet",
     "tid": "d. 1937",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q132695",
+    "typ": "historia",
+    "titel": "Harry Martinson svéd író volt.",
+    "ingress": "Harry Martinson egy nagyon híres svéd író volt, aki 1974-ben kapta meg az irodalmi Nobel-díjat. Élete tengerészként és a munkásosztályhoz való tartozása nagy hatással volt könyveire.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Harry_Martinson",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_industri": 3,
+      "kultur": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1978",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q170741",
+    "typ": "historia",
+    "titel": "Manne Siegbahn.",
+    "ingress": "Siegbahn Manne egy svéd fizikus volt, aki 1924-ben kapta a fizikai Nobel-díjat jelentős felfedezéseiért a röntgensugárzás kutatása terén.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Manne_Siegbahn",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_energi": 3,
+      "fou": 3,
+      "student": 3,
+      "energikund": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1978",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q152452",
+    "typ": "historia",
+    "titel": "Gunnar Myrdal",
+    "ingress": "Gunnar Myrdal egy nagyon híres svéd kutató és politikus volt, aki a gazdaság és a társadalom területén dolgozott. Nagy díjat nyert a munkájáért, és fontos könyveket írt, többek között a családpolitikáról és az USA-ban tapasztalható rasszizm",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Gunnar_Myrdal",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "fou": 3,
+      "stor_familj": 3,
+      "kvinna": 3,
+      "arbetssokande": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1987",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q152437",
+    "typ": "historia",
+    "titel": "Alva Myrdal",
+    "ingress": "Alva Myrdal egy fontos svéd politikus és diplomata volt, aki nagy hangsúlyt fektetett a gyermekek jogaira és az oktatásra. Ő kapta meg a Nobel béke díjat 1982-ben munkájáért.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Alva_Myrdal",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "barn": 5
+    },
+    "epok": "1900talet",
+    "tid": "d. 1986",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q52890",
+    "typ": "historia",
+    "titel": "Gustav V.",
+    "ingress": "Gustav V volt a svédség királya, és közel 43 évig uralkodott a 20. század elején. Híres volt arról, hogy szeretett zenét, művészetet és sportot.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Gustaf_V",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "student": 3,
+      "idrott": 3,
+      "kultur": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1950",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q78478",
+    "typ": "historia",
+    "titel": "Robert Bárány.",
+    "ingress": "Robert Bárány orvosi doktor volt, aki 1914-ben kapta a Nobel-díjat a fül működéséről szóló kutatásaiért. Svájcba költözött, svéd állampolgárrá vált, és professzorként dolgozott Uppsalában egészen haláláig.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Robert_Bárány",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "fou": 3,
+      "student": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1936",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q76951",
+    "typ": "historia",
+    "titel": "George de Hevesy.",
+    "ingress": "George de Hevesy magyar-svéd kémikus volt, aki 1943-ban kapta meg a Nobel-díjat azért, mert rádióaktív anyagokat használt az élőlények működésének tanulmányozására. Emellett ismert arról is, hogy egy új kémiai elemet fedezett fel, és a máso",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/George_de_Hevesy",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "infrastruktur": 3,
+      "fou": 3,
+      "student": 3,
+      "batagare": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1966",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q186391",
+    "typ": "historia",
+    "titel": "A Svedberg.",
+    "ingress": "Theodor Svedberg egy svéd vegyész volt, aki 1926-ban kémiai Nobel-díjjal tüntették ki a kis részecskék mozgásáról és szétválásáról szóló kutatásaiért.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/The_Svedberg",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "fou": 3,
+      "student": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1971",
     "kallage": "samtida",
     "sakerhet": "belagt",
     "konsensus": "samsyn",

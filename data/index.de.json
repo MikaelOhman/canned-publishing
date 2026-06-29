@@ -1729,6 +1729,19 @@
     }
   },
   {
+    "id": "eu-32026R1418",
+    "typ": "omvarld",
+    "titel": "KOMMISSIONSMISSIONSDURCHFÜHRUNGSVERORDNUNG (EU) 2026/1418",
+    "ingress": "Die Europäische Union hat nun die Genehmigung erteilt, dass ein bestimmtes Produkt aus der Slowakei eine geschützte geografische Angabe erhält. Das bedeutet, dass der Name dieses Produkts innerhalb der gesamten Europäischen Union geschützt",
+    "datum": "2026-06-22",
+    "kalla": "EU (EUR-Lex)",
+    "kalla_url": "https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32026R1418",
+    "taggar": [
+      "eu",
+      "eu-ratt"
+    ]
+  },
+  {
     "id": "ecb-2026-06-19-frank-elderson-fireside-chat",
     "typ": "omvarld",
     "titel": "Frank Elderson: Eine entspannte Frage-und-Antwort-Runde.",
@@ -11950,6 +11963,29 @@
     }
   },
   {
+    "id": "stockholm-kommunstyrelsen-2025-12-17",
+    "typ": "kommunbeslut",
+    "titel": "Gemeindeverwaltungsrat, Stadt Stockholm, 17. Dezember 2025.",
+    "ingress": "Die Stadt Stockholm hat eine neue Vereinbarung zur Flächennutzung in Sätra beschlossen und sich mit Fragen im Zusammenhang mit lokalen Unternehmen, Gebäudesanierungen und Getränkepreisen für Sportvereine auseinandergesetzt.",
+    "datum": "2025-12-17",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunstyrelsen/mote-2025-12-17",
+    "taggar": [
+      "stockholm",
+      "kommunstyrelsen",
+      "karin-wanngard",
+      "kommunal-forvaltning"
+    ],
+    "relevans": {
+      "b_bygg": 5,
+      "b_fastighet": 5,
+      "b_energi": 3,
+      "energikund": 3,
+      "konsument": 3,
+      "idrott": 5
+    }
+  },
+  {
     "id": "HD0387",
     "typ": "lagforslag",
     "titel": "Neue Regeln für die Arbeitskräfteeinwanderung",
@@ -13920,6 +13956,31 @@
     }
   },
   {
+    "id": "reg-jamtland-regionstyrelsen-2025-11-04",
+    "typ": "region",
+    "titel": "Regionalrat, Region Jämtland Härjedalen, 4. November 2025.",
+    "ingress": "Der Regionsrat von Jämtland Härjedalen hat Beschlüsse zu mehreren wichtigen Fragen im Bereich Gesundheitswesen gefasst, darunter neue Gebühren für medizinische Leistungen ab 2026 und Richtlinien zur Nutzung von Künstlicher Intelligenz (KI).",
+    "datum": "2025-11-04",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionstyrelsen/mote-2025-11-04",
+    "taggar": [
+      "reg-jamtland",
+      "regionstyrelsen",
+      "region-jamtland-harjedalen",
+      "regionalpolitik",
+      "ekonomi",
+      "halso-och-sjukvard"
+    ],
+    "relevans": {
+      "lokaler": 3,
+      "digitalisering": 3,
+      "barn": 3,
+      "kronisk": 8,
+      "funktion": 3,
+      "konsument": 3
+    }
+  },
+  {
     "id": "alingsas-kommunstyrelsen-2025-11-03",
     "typ": "kommunbeslut",
     "titel": "Gemeindeverwaltungsrat, Gemeinde Alingsås, 03.11.2025.",
@@ -13934,6 +13995,34 @@
     "relevans": {
       "kollektivavtal": 3,
       "lontagare": 3
+    }
+  },
+  {
+    "id": "stockholm-kommunfullmaktige-2025-11-03",
+    "typ": "kommunbeslut",
+    "titel": "Gemeindevertretung von Stockholm, 03. November 2025.",
+    "ingress": "Die Stadt Stockholm hat Antworten auf Fragen erhalten, die sich unter anderem mit Schutzräumen, historischen Gebäuden und neuen Wohngruppen für Menschen mit Behinderungen befasst haben. Es gibt außerdem neue Fragen zu Themen wie Verkehr in",
+    "datum": "2025-11-03",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunfullmaktige/mote-2025-11-03",
+    "taggar": [
+      "stockholm",
+      "kommunfullmaktige",
+      "kommunpolitik",
+      "fastighetsforvaltning",
+      "stadsplanering"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_fastighet": 3,
+      "b_kultur": 3,
+      "barn": 3,
+      "bygger": 3,
+      "storstad": 3,
+      "funktion": 3,
+      "lantagare": 3,
+      "kultur": 3,
+      "fortroendevald": 3
     }
   },
   {
@@ -14617,6 +14706,33 @@
     }
   },
   {
+    "id": "reg-jamtland-regionstyrelsen-2025-09-30",
+    "typ": "region",
+    "titel": "Regionalrat, Region Jämtland Härjedalen, 30. September 2025.",
+    "ingress": "Der Regionsrat von Jämtland Härjedalen hat wichtige Entscheidungen in Bezug auf Gesundheitswesen, Wirtschaft und Zukunftspläne für die Region getroffen.",
+    "datum": "2025-09-30",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionstyrelsen/mote-2025-09-30",
+    "taggar": [
+      "reg-jamtland",
+      "regionstyrelsen",
+      "region-jamtland-harjedalen",
+      "regionalpolitik",
+      "jamtland",
+      "budget"
+    ],
+    "relevans": {
+      "b_energi": 3,
+      "b_kultur": 3,
+      "lokaler": 3,
+      "barn": 3,
+      "kollektiv": 3,
+      "kronisk": 8,
+      "tandvard": 3,
+      "konsument": 3
+    }
+  },
+  {
     "id": "gavle-kommunfullmaktige-2025-09-29",
     "typ": "kommunbeslut",
     "titel": "Gemeindevertretung von Gävle, 29. September 2025.",
@@ -14638,6 +14754,38 @@
       "funktion": 8,
       "sparare": 3,
       "konsument": 3
+    }
+  },
+  {
+    "id": "reg-orebro-regionstyrelsen-2025-09-29",
+    "typ": "region",
+    "titel": "Regionalrat, Region Örebro län, 29. September 2025.",
+    "ingress": "Der Regionsrat des Bezirks Örebro hat wichtige Entscheidungen in Bezug auf Gesundheitswesen, öffentlicher Nahverkehr, Energie sowie regionale Entwicklungspläne für die kommenden Jahre getroffen.",
+    "datum": "2025-09-29",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionstyrelsen/mote-2025-09-29",
+    "taggar": [
+      "reg-orebro",
+      "regionstyrelsen",
+      "region-orebro-lan",
+      "orebro",
+      "sjukvard",
+      "regionalpolitik"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_transport": 3,
+      "b_energi": 3,
+      "infrastruktur": 3,
+      "barn": 3,
+      "glesbygd": 3,
+      "pendlare": 3,
+      "kollektiv": 5,
+      "kronisk": 8,
+      "funktion": 3,
+      "tandvard": 3,
+      "energikund": 3,
+      "klimat": 5
     }
   },
   {
@@ -15083,6 +15231,32 @@
     }
   },
   {
+    "id": "reg-halland-regionstyrelsen-2025-09-10",
+    "typ": "region",
+    "titel": "Regionalrat, Region Halland, 10. September 2025.",
+    "ingress": "Der Regionsrat von Halland hat Beschlüsse zu mehreren wichtigen Themen erlassen, die den Gesundheits- und Sozialbereich, das Medikamentenmanagement, IT-Systeme und die Zusammenarbeit mit anderen Organisationen betreffen.",
+    "datum": "2025-09-10",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionstyrelsen/mote-2025-09-10",
+    "taggar": [
+      "reg-halland",
+      "regionstyrelsen",
+      "region-halland",
+      "halland",
+      "regional-forvaltning",
+      "protokoll"
+    ],
+    "relevans": {
+      "b_it": 3,
+      "b_fastighet": 3,
+      "b_life": 3,
+      "gdpr": 3,
+      "kronisk": 8,
+      "integritet": 3,
+      "volontar": 3
+    }
+  },
+  {
     "id": "HC03208",
     "typ": "lagforslag",
     "titel": "Eine umfassendere Strafbarkeit bei Angriffen auf Geschäftsgeheimnisse",
@@ -15259,6 +15433,26 @@
     ],
     "relevans": {
       "finansiering": 3
+    }
+  },
+  {
+    "id": "reg-orebro-regionstyrelsen-2025-08-29",
+    "typ": "region",
+    "titel": "Regionalrat, Region Örebro län, 29. August 2025.",
+    "ingress": "Der Regionsrat hat einen Vorschlag von einem Bürger erhalten, der darauf abzielt, die Wartezeiten für Hörpflegeleistungen in Karlskoga zu verkürzen.",
+    "datum": "2025-08-29",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionstyrelsen/mote-2025-08-29",
+    "taggar": [
+      "reg-orebro",
+      "regionstyrelsen",
+      "region-orebro-lan",
+      "orebro",
+      "sjukvard",
+      "regionalpolitik"
+    ],
+    "relevans": {
+      "kronisk": 8
     }
   },
   {
@@ -16114,6 +16308,31 @@
       "klimat": 3,
       "kultur": 3,
       "fortroendevald": 3
+    }
+  },
+  {
+    "id": "reg-halland-regionstyrelsen-2025-06-04",
+    "typ": "region",
+    "titel": "Regionalrat, Region Halland, 4. Juni 2025.",
+    "ingress": "Der Regionsrat von Halland hat Beschlüsse gefasst, unter anderem bezüglich des zukünftigen Haushalts, der Parkordnung am Krankenhaus in Halmstad und der Unterstützung für lokale Unternehmen.",
+    "datum": "2025-06-04",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionstyrelsen/mote-2025-06-04",
+    "taggar": [
+      "reg-halland",
+      "regionstyrelsen",
+      "region-halland",
+      "halland",
+      "regional-forvaltning",
+      "mikaela-waltersson"
+    ],
+    "relevans": {
+      "b_grona": 3,
+      "b_fastighet": 3,
+      "pendlare": 3,
+      "bil": 3,
+      "kollektiv": 3,
+      "kronisk": 8
     }
   },
   {
@@ -18494,6 +18713,35 @@
     }
   },
   {
+    "id": "reg-orebro-regionfullmaktige-2024-12-09",
+    "typ": "region",
+    "titel": "Regionalrät*innen, Region Örebro län, 9. Dezember 2024.",
+    "ingress": "Die Region Örebro Län hat Beschlüsse zu mehreren wichtigen Fragen in den Bereichen Gesundheitswesen, öffentlicher Nahverkehr und regionale Investitionen gefasst.",
+    "datum": "2024-12-09",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionfullmaktige/mote-2024-12-09",
+    "taggar": [
+      "reg-orebro",
+      "regionfullmaktige",
+      "region-orebro-lan",
+      "orebro",
+      "kollektivtrafik",
+      "sjukvard"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "finansiering": 3,
+      "infrastruktur": 3,
+      "barn": 3,
+      "ung": 3,
+      "pendlare": 3,
+      "kollektiv": 8,
+      "kronisk": 8,
+      "batagare": 3,
+      "kultur": 3
+    }
+  },
+  {
     "id": "reg-halland-regionfullmaktige-2024-12-04",
     "typ": "region",
     "titel": "Regionalrätin, Region Halland, 4. Dezember 2024.",
@@ -18518,6 +18766,32 @@
       "gymnasieelev": 3,
       "kronisk": 8,
       "tandvard": 3
+    }
+  },
+  {
+    "id": "reg-jamtland-regionfullmaktige-2024-11-26",
+    "typ": "region",
+    "titel": "Regionalrät*innen, Region Jämtland Härjedalen, 26. November 2024.",
+    "ingress": "Die Region Jämtland Härjedalen hat wichtige Entscheidungen bezüglich des Gesundheitswesens, der Kulturförderung und des öffentlichen Personennahverkehrs für das Jahr 2025 getroffen.",
+    "datum": "2024-11-26",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionfullmaktige/mote-2024-11-26",
+    "taggar": [
+      "reg-jamtland",
+      "regionfullmaktige",
+      "region-jamtland-harjedalen",
+      "jamtland",
+      "regionalpolitik",
+      "anders-sundin"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "pendlare": 3,
+      "kollektiv": 8,
+      "kronisk": 8,
+      "tandvard": 3,
+      "konsument": 3,
+      "kultur": 8
     }
   },
   {
@@ -18565,6 +18839,90 @@
     }
   },
   {
+    "id": "reg-halland-regionfullmaktige-2024-10-23",
+    "typ": "region",
+    "titel": "Regionalrät*innen, Region Halland, 23. Oktober 2024.",
+    "ingress": "Die Region Halland hat Beschlüsse über zukünftige Pläne für Kultur, Gesundheitswesen und öffentlichen Nahverkehr gefasst und mehrere Untersuchungen zum Bereich der Versorgung von Kindern und Jugendlichen durchgeführt.",
+    "datum": "2024-10-23",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionfullmaktige/mote-2024-10-23",
+    "taggar": [
+      "reg-halland",
+      "regionfullmaktige",
+      "region-halland",
+      "halland",
+      "regionalpolitik",
+      "kommunal-forvaltning"
+    ],
+    "relevans": {
+      "b_fastighet": 3,
+      "b_kultur": 3,
+      "barn": 3,
+      "kvinna": 3,
+      "pendlare": 3,
+      "kollektiv": 3,
+      "kronisk": 8,
+      "kultur": 3
+    }
+  },
+  {
+    "id": "reg-jamtland-regionfullmaktige-2024-10-23",
+    "typ": "region",
+    "titel": "Regionalrät*innen, Region Jämtland Härjedalen, 23. Oktober 2024.",
+    "ingress": "Die Region Jämtland Härjedalen hat mehrere wichtige Entscheidungen in Bezug auf Gesundheit, Umwelt, öffentlichen Nahverkehr und Zukunftspläne für die Region getroffen.",
+    "datum": "2024-10-23",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionfullmaktige/mote-2024-10-23",
+    "taggar": [
+      "reg-jamtland",
+      "regionfullmaktige",
+      "region-jamtland-harjedalen",
+      "jamtland",
+      "regionalpolitik",
+      "kommunal-forvaltning"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_transport": 3,
+      "b_fastighet": 3,
+      "finansiering": 3,
+      "konsumentratt": 3,
+      "immaterialratt": 3,
+      "glesbygd": 3,
+      "pendlare": 3,
+      "kollektiv": 8,
+      "kronisk": 8,
+      "klimat": 3,
+      "kultur": 3
+    }
+  },
+  {
+    "id": "reg-orebro-regionfullmaktige-2024-10-10",
+    "typ": "region",
+    "titel": "Regionalrät*innen, Region Örebro län, 10. Oktober 2024.",
+    "ingress": "Der Regionalrat der Provinz Örebro hat in seiner Sitzung unter anderem über Gesundheitswesen, öffentlichen Nahverkehr, Kulturpläne und Umweltfragen diskutiert und Beschlüsse gefasst.",
+    "datum": "2024-10-10",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionfullmaktige/mote-2024-10-10",
+    "taggar": [
+      "reg-orebro",
+      "regionfullmaktige",
+      "region-orebro-lan",
+      "orebro",
+      "sjukvard",
+      "kollektivtrafik"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_kultur": 3,
+      "pendlare": 3,
+      "kollektiv": 5,
+      "kronisk": 8,
+      "klimat": 3,
+      "kultur": 5
+    }
+  },
+  {
     "id": "norsjo-protokoll-2024-09-30",
     "typ": "kommunbeslut",
     "titel": "Protokoll, Gemeinde Norsjö, 30. September 2024.",
@@ -18580,6 +18938,30 @@
       "b_vard": 3,
       "barn": 5,
       "kultur": 3
+    }
+  },
+  {
+    "id": "reg-halland-regionfullmaktige-2024-06-19",
+    "typ": "region",
+    "titel": "Regionalrätin/Regionalrat, Region Halland, 19. Juni 2024.",
+    "ingress": "Die Region Halland hat Beschlüsse bezüglich des zukünftigen Budgets, der Organisationsstruktur im Gesundheitswesen und von Bauprojekten in Krankenhausgebieten gefasst. Darüber hinaus wurden Entscheidungen über den Erwerb von Immobilien getr",
+    "datum": "2024-06-19",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionfullmaktige/mote-2024-06-19",
+    "taggar": [
+      "reg-halland",
+      "regionfullmaktige",
+      "region-halland",
+      "halland",
+      "kommunalpolitik",
+      "protokoll"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_bygg": 3,
+      "b_fastighet": 3,
+      "kronisk": 8,
+      "klimat": 3
     }
   },
   {
@@ -24904,6 +25286,230 @@
     },
     "epok": "1900talet",
     "tid": "d. 1937",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q132695",
+    "typ": "historia",
+    "titel": "Harry Martinson",
+    "ingress": "Harry Martinson war ein sehr bekannter schwedischer Schriftsteller, der 1974 den Nobelpreis für Literatur erhielt. Sein Leben als Seemann und seine Erfahrungen als Angehöriger der Arbeiterklasse hatten einen großen Einfluss auf seine Werke.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Harry_Martinson",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_industri": 3,
+      "kultur": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1978",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q170741",
+    "typ": "historia",
+    "titel": "Manne Siegbahn",
+    "ingress": "Manne Siegbahn war ein schwedischer Physiker, der 1924 den Nobelpreis für Physik erhielt. Er wurde für seine bedeutenden Entdeckungen auf dem Gebiet der Röntgenstrahlenforschung ausgezeichnet.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Manne_Siegbahn",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_energi": 3,
+      "fou": 3,
+      "student": 3,
+      "energikund": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1978",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q152452",
+    "typ": "historia",
+    "titel": "Gunnar Myrdal",
+    "ingress": "Gunnar Myrdal war ein sehr bekannter schwedischer Wissenschaftler und Politiker, der sich mit Wirtschaft und Gesellschaft beschäftigte. Er erhielt einen bedeutenden Preis für seine Forschung und verfasste wichtige Bücher über Themen wie Fam",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Gunnar_Myrdal",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "fou": 3,
+      "stor_familj": 3,
+      "kvinna": 3,
+      "arbetssokande": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1987",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q152437",
+    "typ": "historia",
+    "titel": "Alva Myrdal",
+    "ingress": "Alva Myrdal war eine bedeutende schwedische Politikerin und Diplomatin, die sich intensiv für die Rechte von Kindern und Bildung einsetzte. Sie erhielt den Friedensnobelpreis im Jahr 1982 für ihre Arbeit.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Alva_Myrdal",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "barn": 5
+    },
+    "epok": "1900talet",
+    "tid": "d. 1986",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q52890",
+    "typ": "historia",
+    "titel": "Gustaf V.",
+    "ingress": "Gustaf V war ein schwedischer König, der fast 43 Jahre lang im frühen 20. Jahrhundert regierte. Er war bekannt dafür, eine Person zu sein, die Musik, Kunst und Sport sehr mochte.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Gustaf_V",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "student": 3,
+      "idrott": 3,
+      "kultur": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1950",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q78478",
+    "typ": "historia",
+    "titel": "Robert Bárány",
+    "ingress": "Robert Bárány war ein Arzt, der 1914 den Nobelpreis für Medizin erhielt, aufgrund seiner Forschung im Bereich des Ohrs. Er zog nach Schweden, erwarb die schwedische Staatsbürgerschaft und arbeitete bis zu seinem Tod als Professor in Uppsala",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Robert_Bárány",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "fou": 3,
+      "student": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1936",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q76951",
+    "typ": "historia",
+    "titel": "George de Hevesy",
+    "ingress": "George de Hevesy war ein ungarisch-schwedischer Chemiker, der 1943 den Nobelpreis für seine Forschung über die Funktionsweise des Körpers unter Verwendung radioaktiver Substanzen erhielt. Er ist auch bekannt dafür, ein neues chemisches Elem",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/George_de_Hevesy",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "infrastruktur": 3,
+      "fou": 3,
+      "student": 3,
+      "batagare": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1966",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q186391",
+    "typ": "historia",
+    "titel": "Der Svedberg.",
+    "ingress": "Theodor Svedberg war ein schwedischer Chemiker, der 1926 den Nobelpreis für Chemie erhielt. Er wurde für seine Forschung über die Bewegung und Aufspaltung kleiner Partikel ausgezeichnet.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/The_Svedberg",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "fou": 3,
+      "student": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1971",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q52878",
+    "typ": "historia",
+    "titel": "Gustaf VI. Adolf",
+    "ingress": "Der Text beschreibt das Leben von König Gustav VI. Adolf, von seiner Geburt als Prinz bis zu seiner Thronbesteigung als König von Schweden im Jahr 1950.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Gustaf_VI_Adolf",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "upphandling": 3,
+      "barn": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1973",
     "kallage": "samtida",
     "sakerhet": "belagt",
     "konsensus": "samsyn",

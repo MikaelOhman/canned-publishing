@@ -1708,6 +1708,19 @@
     }
   },
   {
+    "id": "eu-32026R1418",
+    "typ": "omvarld",
+    "titel": "REGULAMENTUL DE PUNERE ÎN APLICARE (UE) 2026/1418 AL COMISIEI EUROPEENE.",
+    "ingress": "Uniunea Europeană a aprobat recent acordarea unei indicații geografice protejate (IGP) unui produs specific provenit din Slovacia. Acest lucru înseamnă că denumirea acestui produs este protejată la nivelul întregii Uniuni Europene.",
+    "datum": "2026-06-22",
+    "kalla": "EU (EUR-Lex)",
+    "kalla_url": "https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32026R1418",
+    "taggar": [
+      "eu",
+      "eu-ratt"
+    ]
+  },
+  {
     "id": "ecb-2026-06-19-frank-elderson-fireside-chat",
     "typ": "omvarld",
     "titel": "Frank Elderson: O sesiune de întrebări și răspunsuri într-o atmosferă relaxată.",
@@ -11836,6 +11849,29 @@
     }
   },
   {
+    "id": "stockholm-kommunstyrelsen-2025-12-17",
+    "typ": "kommunbeslut",
+    "titel": "Comisia municipală a orașului Stockholm, 17 decembrie 2025.",
+    "ingress": "Primăria Stockholm a decis asupra unui nou acord privind utilizarea terenurilor în zona Sätra și a luat o poziție cu privire la aspecte legate de afacerile locale, renovarea clădirilor și prețurile băuturilor pentru asociațiile sportive.",
+    "datum": "2025-12-17",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunstyrelsen/mote-2025-12-17",
+    "taggar": [
+      "stockholm",
+      "kommunstyrelsen",
+      "karin-wanngard",
+      "kommunal-forvaltning"
+    ],
+    "relevans": {
+      "b_bygg": 5,
+      "b_fastighet": 5,
+      "b_energi": 3,
+      "energikund": 3,
+      "konsument": 3,
+      "idrott": 5
+    }
+  },
+  {
     "id": "HD0387",
     "typ": "lagforslag",
     "titel": "Noi reguli pentru imigrarea forței de muncă.",
@@ -13806,6 +13842,31 @@
     }
   },
   {
+    "id": "reg-jamtland-regionstyrelsen-2025-11-04",
+    "typ": "region",
+    "titel": "Consiliul Regional, Regiunea Jämtland Härjedalen, 4 noiembrie 2025.",
+    "ingress": "Consiliul regional din Jämtland Härjedalen a luat decizii importante referitoare la domeniul sănătății, printre care introducerea unor noi taxe pentru serviciile medicale începând cu anul 2026 și stabilirea regulilor privind utilizarea inte",
+    "datum": "2025-11-04",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionstyrelsen/mote-2025-11-04",
+    "taggar": [
+      "reg-jamtland",
+      "regionstyrelsen",
+      "region-jamtland-harjedalen",
+      "regionalpolitik",
+      "ekonomi",
+      "halso-och-sjukvard"
+    ],
+    "relevans": {
+      "lokaler": 3,
+      "digitalisering": 3,
+      "barn": 3,
+      "kronisk": 8,
+      "funktion": 3,
+      "konsument": 3
+    }
+  },
+  {
     "id": "alingsas-kommunstyrelsen-2025-11-03",
     "typ": "kommunbeslut",
     "titel": "Comisia municipală, Primăria Alingsås, 3 noiembrie 2025.",
@@ -13820,6 +13881,34 @@
     "relevans": {
       "kollektivavtal": 3,
       "lontagare": 3
+    }
+  },
+  {
+    "id": "stockholm-kommunfullmaktige-2025-11-03",
+    "typ": "kommunbeslut",
+    "titel": "Consiliul Municipal al orașului Stockholm, 3 noiembrie 2025.",
+    "ingress": "Primăria orașului Stockholm a primit răspunsuri la întrebări referitoare, printre altele, la adăposturile de protecție, clădirile cu valoare istorică și noile centre de plasament (locuințe pentru persoane cu dizabilități). De asemenea, au f",
+    "datum": "2025-11-03",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunfullmaktige/mote-2025-11-03",
+    "taggar": [
+      "stockholm",
+      "kommunfullmaktige",
+      "kommunpolitik",
+      "fastighetsforvaltning",
+      "stadsplanering"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_fastighet": 3,
+      "b_kultur": 3,
+      "barn": 3,
+      "bygger": 3,
+      "storstad": 3,
+      "funktion": 3,
+      "lantagare": 3,
+      "kultur": 3,
+      "fortroendevald": 3
     }
   },
   {
@@ -14503,6 +14592,33 @@
     }
   },
   {
+    "id": "reg-jamtland-regionstyrelsen-2025-09-30",
+    "typ": "region",
+    "titel": "Consiliul Regional, Regiunea Jämtland Härjedalen, 30 septembrie 2025.",
+    "ingress": "Consiliul regional din Jämtland Härjedalen a luat decizii importante referitoare la domeniul sănătății, economie și planurile de viitor ale regiunii.",
+    "datum": "2025-09-30",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionstyrelsen/mote-2025-09-30",
+    "taggar": [
+      "reg-jamtland",
+      "regionstyrelsen",
+      "region-jamtland-harjedalen",
+      "regionalpolitik",
+      "jamtland",
+      "budget"
+    ],
+    "relevans": {
+      "b_energi": 3,
+      "b_kultur": 3,
+      "lokaler": 3,
+      "barn": 3,
+      "kollektiv": 3,
+      "kronisk": 8,
+      "tandvard": 3,
+      "konsument": 3
+    }
+  },
+  {
     "id": "gavle-kommunfullmaktige-2025-09-29",
     "typ": "kommunbeslut",
     "titel": "Consiliul Municipal, Primăria Gävle, 29.09.2025.",
@@ -14524,6 +14640,38 @@
       "funktion": 8,
       "sparare": 3,
       "konsument": 3
+    }
+  },
+  {
+    "id": "reg-orebro-regionstyrelsen-2025-09-29",
+    "typ": "region",
+    "titel": "Consiliul Regional, Regiunea Örebro, 29 septembrie 2025.",
+    "ingress": "Consiliul Regional din regiunea Örebro a luat decizii importante referitoare la domeniile sănătății și asistenței medicale, transportului public, energiei, precum și planurilor de dezvoltare regională pentru următorii ani.",
+    "datum": "2025-09-29",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionstyrelsen/mote-2025-09-29",
+    "taggar": [
+      "reg-orebro",
+      "regionstyrelsen",
+      "region-orebro-lan",
+      "orebro",
+      "sjukvard",
+      "regionalpolitik"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_transport": 3,
+      "b_energi": 3,
+      "infrastruktur": 3,
+      "barn": 3,
+      "glesbygd": 3,
+      "pendlare": 3,
+      "kollektiv": 5,
+      "kronisk": 8,
+      "funktion": 3,
+      "tandvard": 3,
+      "energikund": 3,
+      "klimat": 5
     }
   },
   {
@@ -14969,6 +15117,32 @@
     }
   },
   {
+    "id": "reg-halland-regionstyrelsen-2025-09-10",
+    "typ": "region",
+    "titel": "Consiliul Regional, Regiunea Halland, 10 septembrie 2025.",
+    "ingress": "Consiliul regional al regiunii Halland a luat decizii importante cu privire la mai multe aspecte, printre care: serviciile de sănătate și asistență medicală, gestionarea medicamentelor, sistemele IT și colaborarea cu alte organizații.",
+    "datum": "2025-09-10",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionstyrelsen/mote-2025-09-10",
+    "taggar": [
+      "reg-halland",
+      "regionstyrelsen",
+      "region-halland",
+      "halland",
+      "regional-forvaltning",
+      "protokoll"
+    ],
+    "relevans": {
+      "b_it": 3,
+      "b_fastighet": 3,
+      "b_life": 3,
+      "gdpr": 3,
+      "kronisk": 8,
+      "integritet": 3,
+      "volontar": 3
+    }
+  },
+  {
     "id": "HC03208",
     "typ": "lagforslag",
     "titel": "O răspundere penală mai cuprinzătoare în cazul atacurilor asupra secretelor comerciale",
@@ -15145,6 +15319,26 @@
     ],
     "relevans": {
       "finansiering": 3
+    }
+  },
+  {
+    "id": "reg-orebro-regionstyrelsen-2025-08-29",
+    "typ": "region",
+    "titel": "Consiliul Regional, Regiunea Örebro, 29 august 2025.",
+    "ingress": "Consiliul regional a primit o propunere de la un cetățean privind reducerea timpilor de așteptare pentru serviciile de îngrijire auditivă din Karlskoga.",
+    "datum": "2025-08-29",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionstyrelsen/mote-2025-08-29",
+    "taggar": [
+      "reg-orebro",
+      "regionstyrelsen",
+      "region-orebro-lan",
+      "orebro",
+      "sjukvard",
+      "regionalpolitik"
+    ],
+    "relevans": {
+      "kronisk": 8
     }
   },
   {
@@ -16010,6 +16204,31 @@
       "klimat": 3,
       "kultur": 3,
       "fortroendevald": 3
+    }
+  },
+  {
+    "id": "reg-halland-regionstyrelsen-2025-06-04",
+    "typ": "region",
+    "titel": "Consiliul Regional, Regiunea Halland, 4 iunie 2025.",
+    "ingress": "Consiliul regional din Halland a luat o serie de decizii, printre care: bugetul viitor, regulile de parcare la spitalul din Halmstad și sprijin pentru companiile locale.",
+    "datum": "2025-06-04",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionstyrelsen/mote-2025-06-04",
+    "taggar": [
+      "reg-halland",
+      "regionstyrelsen",
+      "region-halland",
+      "halland",
+      "regional-forvaltning",
+      "mikaela-waltersson"
+    ],
+    "relevans": {
+      "b_grona": 3,
+      "b_fastighet": 3,
+      "pendlare": 3,
+      "bil": 3,
+      "kollektiv": 3,
+      "kronisk": 8
     }
   },
   {
@@ -18347,6 +18566,35 @@
     }
   },
   {
+    "id": "reg-orebro-regionfullmaktige-2024-12-09",
+    "typ": "region",
+    "titel": "Adresat: Membrii consiliului regional, Regiunea Örebro, data: 9 decembrie 2024.",
+    "ingress": "Regiunea Örebro a luat decizii importante referitoare la mai multe aspecte, printre care serviciile medicale, transportul public și investițiile locale din regiune.",
+    "datum": "2024-12-09",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionfullmaktige/mote-2024-12-09",
+    "taggar": [
+      "reg-orebro",
+      "regionfullmaktige",
+      "region-orebro-lan",
+      "orebro",
+      "kollektivtrafik",
+      "sjukvard"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "finansiering": 3,
+      "infrastruktur": 3,
+      "barn": 3,
+      "ung": 3,
+      "pendlare": 3,
+      "kollektiv": 8,
+      "kronisk": 8,
+      "batagare": 3,
+      "kultur": 3
+    }
+  },
+  {
     "id": "reg-halland-regionfullmaktige-2024-12-04",
     "typ": "region",
     "titel": "Adresat: Membrii Consiliului Regional, Regiunea Halland",
@@ -18371,6 +18619,32 @@
       "gymnasieelev": 3,
       "kronisk": 8,
       "tandvard": 3
+    }
+  },
+  {
+    "id": "reg-jamtland-regionfullmaktige-2024-11-26",
+    "typ": "region",
+    "titel": "Adresat: Membrii Consiliului Regional, Regiunea Jämtland Härjedalen",
+    "ingress": "Regiunea Jämtland Härjedalen a adoptat decizii importante referitoare la serviciile de sănătate, sprijinul pentru cultură și transportul public pentru anul 2025.",
+    "datum": "2024-11-26",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionfullmaktige/mote-2024-11-26",
+    "taggar": [
+      "reg-jamtland",
+      "regionfullmaktige",
+      "region-jamtland-harjedalen",
+      "jamtland",
+      "regionalpolitik",
+      "anders-sundin"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "pendlare": 3,
+      "kollektiv": 8,
+      "kronisk": 8,
+      "tandvard": 3,
+      "konsument": 3,
+      "kultur": 8
     }
   },
   {
@@ -18418,6 +18692,90 @@
     }
   },
   {
+    "id": "reg-halland-regionfullmaktige-2024-10-23",
+    "typ": "region",
+    "titel": "Adresat: Membrii Consiliului Regional, Regiunea Halland",
+    "ingress": "Regiunea Halland a luat decizii cu privire la planurile viitoare pentru cultură, asistență medicală și transport public, precum și a efectuat mai multe studii privind îngrijirea copiilor și a tinerilor.",
+    "datum": "2024-10-23",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionfullmaktige/mote-2024-10-23",
+    "taggar": [
+      "reg-halland",
+      "regionfullmaktige",
+      "region-halland",
+      "halland",
+      "regionalpolitik",
+      "kommunal-forvaltning"
+    ],
+    "relevans": {
+      "b_fastighet": 3,
+      "b_kultur": 3,
+      "barn": 3,
+      "kvinna": 3,
+      "pendlare": 3,
+      "kollektiv": 3,
+      "kronisk": 8,
+      "kultur": 3
+    }
+  },
+  {
+    "id": "reg-jamtland-regionfullmaktige-2024-10-23",
+    "typ": "region",
+    "titel": "Adresați către membrii consiliului regional, regiunea Jämtland Härjedalen, data: 23 octombrie 2024.",
+    "ingress": "Regiunea Jämtland Härjedalen a luat decizii importante referitoare la diverse aspecte, printre care sănătatea, mediul înconjurător, transportul public și planurile de viitor pentru regiune.",
+    "datum": "2024-10-23",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionfullmaktige/mote-2024-10-23",
+    "taggar": [
+      "reg-jamtland",
+      "regionfullmaktige",
+      "region-jamtland-harjedalen",
+      "jamtland",
+      "regionalpolitik",
+      "kommunal-forvaltning"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_transport": 3,
+      "b_fastighet": 3,
+      "finansiering": 3,
+      "konsumentratt": 3,
+      "immaterialratt": 3,
+      "glesbygd": 3,
+      "pendlare": 3,
+      "kollektiv": 8,
+      "kronisk": 8,
+      "klimat": 3,
+      "kultur": 3
+    }
+  },
+  {
+    "id": "reg-orebro-regionfullmaktige-2024-10-10",
+    "typ": "region",
+    "titel": "Adresați către membrii consiliului regional al regiunii Örebro, data: 10 octombrie 2024.",
+    "ingress": "Consiliul regional din regiunea Örebro a discutat și a luat decizii cu privire la diverse aspecte, printre care: asistența medicală, transportul public, planurile culturale și problemele de mediu.",
+    "datum": "2024-10-10",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionfullmaktige/mote-2024-10-10",
+    "taggar": [
+      "reg-orebro",
+      "regionfullmaktige",
+      "region-orebro-lan",
+      "orebro",
+      "sjukvard",
+      "kollektivtrafik"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_kultur": 3,
+      "pendlare": 3,
+      "kollektiv": 5,
+      "kronisk": 8,
+      "klimat": 3,
+      "kultur": 5
+    }
+  },
+  {
     "id": "norsjo-protokoll-2024-09-30",
     "typ": "kommunbeslut",
     "titel": "Proces-verbal, Comuna Norsjö, 30 septembrie 2024.",
@@ -18433,6 +18791,30 @@
       "b_vard": 3,
       "barn": 5,
       "kultur": 3
+    }
+  },
+  {
+    "id": "reg-halland-regionfullmaktige-2024-06-19",
+    "typ": "region",
+    "titel": "Adresat: Membrii consiliului regional, Regiunea Halland",
+    "ingress": "Regiunea Halland a luat decizii cu privire la bugetul viitor, organizarea serviciilor medicale și proiectele de construcție din incinta spitalelor. De asemenea, au decis asupra achiziționării de proprietăți și au răspuns la întrebări referi",
+    "datum": "2024-06-19",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionfullmaktige/mote-2024-06-19",
+    "taggar": [
+      "reg-halland",
+      "regionfullmaktige",
+      "region-halland",
+      "halland",
+      "kommunalpolitik",
+      "protokoll"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_bygg": 3,
+      "b_fastighet": 3,
+      "kronisk": 8,
+      "klimat": 3
     }
   },
   {
@@ -24757,6 +25139,206 @@
     },
     "epok": "1900talet",
     "tid": "d. 1937",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q132695",
+    "typ": "historia",
+    "titel": "Harry Martinson",
+    "ingress": "Harry Martinson a fost un scriitor suedez foarte cunoscut, care a câștigat Premiul Nobel pentru Literatură în 1974. Viața sa de marinar și experiențele sale din clasa muncitoare au influențat profund cărțile sale.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Harry_Martinson",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_industri": 3,
+      "kultur": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1978",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q170741",
+    "typ": "historia",
+    "titel": "Manne Siegbahn",
+    "ingress": "Manne Siegbahn a fost un fizician suedez care a câștigat Premiul Nobel pentru Fizică în 1924, datorită descoperirilor sale importante în domeniul cercetării razelor X.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Manne_Siegbahn",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_energi": 3,
+      "fou": 3,
+      "student": 3,
+      "energikund": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1978",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q152452",
+    "typ": "historia",
+    "titel": "Gunnar Myrdal",
+    "ingress": "Gunnar Myrdal a fost un cercetător și politician suedez foarte cunoscut, care s-a ocupat de probleme economice și sociale. A câștigat un premiu important pentru cercetările sale și a scris cărți importante despre diverse subiecte, printre c",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Gunnar_Myrdal",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "fou": 3,
+      "stor_familj": 3,
+      "kvinna": 3,
+      "arbetssokande": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1987",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q152437",
+    "typ": "historia",
+    "titel": "Alva Myrdal.",
+    "ingress": "Alva Myrdal a fost o politiciană și diplomată suedeză importantă, care s-a dedicat în mod special drepturilor copiilor și educației. A primit Premiul Nobel pentru Pace în anul 1982, ca recunoaștere a activității sale.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Alva_Myrdal",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "barn": 5
+    },
+    "epok": "1900talet",
+    "tid": "d. 1986",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q52890",
+    "typ": "historia",
+    "titel": "Gustaf al V-lea",
+    "ingress": "Gustaf al V-lea a fost un rege suedez care a domnit timp de aproape 43 de ani la începutul secolului XX. Era cunoscut pentru pasiunea sa pentru muzică, artă și sport.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Gustaf_V",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "student": 3,
+      "idrott": 3,
+      "kultur": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1950",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q78478",
+    "typ": "historia",
+    "titel": "Robert Bárány",
+    "ingress": "Robert Bárány a fost un medic care a primit Premiul Nobel pentru Medicină în 1914 pentru cercetările sale despre ureche. S-a mutat în Suedia, a devenit cetățean suedez și a lucrat ca profesor la Uppsala până la moartea sa.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Robert_Bárány",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "fou": 3,
+      "student": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1936",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q76951",
+    "typ": "historia",
+    "titel": "George de Hevesy.",
+    "ingress": "George de Hevesy a fost un chimist de origine maghiară și suedeză, care a câștigat Premiul Nobel în 1943 pentru cercetările sale privind modul în care funcționează corpul uman folosind substanțe radioactive. El este cunoscut și pentru desco",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/George_de_Hevesy",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "infrastruktur": 3,
+      "fou": 3,
+      "student": 3,
+      "batagare": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1966",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q186391",
+    "typ": "historia",
+    "titel": "Svedberg.",
+    "ingress": "Theodor Svedberg a fost un chimist suedez care a câștigat Premiul Nobel pentru Chimie în 1926, datorită cercetărilor sale despre modul în care particulele mici se mișcă și se separă.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/The_Svedberg",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "fou": 3,
+      "student": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1971",
     "kallage": "samtida",
     "sakerhet": "belagt",
     "konsensus": "samsyn",

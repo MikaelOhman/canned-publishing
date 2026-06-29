@@ -1751,6 +1751,19 @@
     }
   },
   {
+    "id": "eu-32026R1418",
+    "typ": "omvarld",
+    "titel": "EUROOPAN KOMISSIONIN TÄYTÄNTÖSÄÄDÖS (EU) 2026/1418.",
+    "ingress": "Euroopan unioni on nyt hyväksynyt, että tietylle tuotteelle Slovakiasta voidaan myöntää suojattu maantieteellinen merkintä. Tämä tarkoittaa, että tuotteen nimen käyttö on suojattua koko Euroopan unionin alueella.",
+    "datum": "2026-06-22",
+    "kalla": "EU (EUR-Lex)",
+    "kalla_url": "https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32026R1418",
+    "taggar": [
+      "eu",
+      "eu-ratt"
+    ]
+  },
+  {
     "id": "ecb-2026-06-19-ecb-publishes-consolidated-ban",
     "typ": "omvarld",
     "titel": "Euroopan keskuspankki (EKP) julkaisee yhdistettyjä pankkitietoja joulukuulta 2025.",
@@ -12005,6 +12018,29 @@
     }
   },
   {
+    "id": "stockholm-kommunstyrelsen-2025-12-17",
+    "typ": "kommunbeslut",
+    "titel": "Kaupunginhallitus, Helsingin kaupunki, 17.12.2025.",
+    "ingress": "Helsingin kaupunki on päättänyt uudesta maan käytön sopimuksesta Sätrassa ja ottanut kantaa kysymyksiin liittyen paikallisiin yrityksiin, rakennusten kunnostamiseen sekä juomahintoihin urheiluseuroille.",
+    "datum": "2025-12-17",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunstyrelsen/mote-2025-12-17",
+    "taggar": [
+      "stockholm",
+      "kommunstyrelsen",
+      "karin-wanngard",
+      "kommunal-forvaltning"
+    ],
+    "relevans": {
+      "b_bygg": 5,
+      "b_fastighet": 5,
+      "b_energi": 3,
+      "energikund": 3,
+      "konsument": 3,
+      "idrott": 5
+    }
+  },
+  {
     "id": "HD0370",
     "typ": "lagforslag",
     "titel": "Tietosuoja viestintävalvonnassa puolustus tiedustelutoiminnassa.",
@@ -13975,6 +14011,31 @@
     }
   },
   {
+    "id": "reg-jamtland-regionstyrelsen-2025-11-04",
+    "typ": "region",
+    "titel": "Aluehallitus, Jämtland Härjedalenin alue, 4. marraskuuta 2025.",
+    "ingress": "Jämtland Härjedalenin aluehallitus on tehnyt päätöksiä useista tärkeistä terveydenhuoltoon liittyvistä asioista, kuten uusista maksuista terveyspalveluista vuodesta 2026 alkaen sekä säännöistä siitä, miten tekoälyä (AI) voidaan käyttää.",
+    "datum": "2025-11-04",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionstyrelsen/mote-2025-11-04",
+    "taggar": [
+      "reg-jamtland",
+      "regionstyrelsen",
+      "region-jamtland-harjedalen",
+      "regionalpolitik",
+      "ekonomi",
+      "halso-och-sjukvard"
+    ],
+    "relevans": {
+      "lokaler": 3,
+      "digitalisering": 3,
+      "barn": 3,
+      "kronisk": 8,
+      "funktion": 3,
+      "konsument": 3
+    }
+  },
+  {
     "id": "alingsas-kommunstyrelsen-2025-11-03",
     "typ": "kommunbeslut",
     "titel": "Alingsåsin kunnan kaupunginhallitus, 3. marraskuuta 2025.",
@@ -13989,6 +14050,34 @@
     "relevans": {
       "kollektivavtal": 3,
       "lontagare": 3
+    }
+  },
+  {
+    "id": "stockholm-kommunfullmaktige-2025-11-03",
+    "typ": "kommunbeslut",
+    "titel": "Kaupunginvaltuusto, Tukholman kaupunki, 3. marraskuuta 2025.",
+    "ingress": "Helsingin kaupunki on vastaanottanut vastauksia kysymyksiin, jotka koskevat muun muassa suojakoteja, kulttuurihistoriallisesti arvokkaita rakennuksia ja uusia palveluasuntoja (asuntoja vammaisille henkilöille). Lisäksi on esitetty uusia kys",
+    "datum": "2025-11-03",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunfullmaktige/mote-2025-11-03",
+    "taggar": [
+      "stockholm",
+      "kommunfullmaktige",
+      "kommunpolitik",
+      "fastighetsforvaltning",
+      "stadsplanering"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_fastighet": 3,
+      "b_kultur": 3,
+      "barn": 3,
+      "bygger": 3,
+      "storstad": 3,
+      "funktion": 3,
+      "lantagare": 3,
+      "kultur": 3,
+      "fortroendevald": 3
     }
   },
   {
@@ -14672,6 +14761,33 @@
     }
   },
   {
+    "id": "reg-jamtland-regionstyrelsen-2025-09-30",
+    "typ": "region",
+    "titel": "Aluehallitus, Jämtland Härjedalenin alue, 30.9.2025.",
+    "ingress": "Jämtland Härjedalenin aluehallitus on tehnyt päätöksiä tärkeistä asioista, jotka koskevat terveydenhuoltoa, taloutta ja alueen tulevaisuuden suunnitelmia.",
+    "datum": "2025-09-30",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionstyrelsen/mote-2025-09-30",
+    "taggar": [
+      "reg-jamtland",
+      "regionstyrelsen",
+      "region-jamtland-harjedalen",
+      "regionalpolitik",
+      "jamtland",
+      "budget"
+    ],
+    "relevans": {
+      "b_energi": 3,
+      "b_kultur": 3,
+      "lokaler": 3,
+      "barn": 3,
+      "kollektiv": 3,
+      "kronisk": 8,
+      "tandvard": 3,
+      "konsument": 3
+    }
+  },
+  {
     "id": "gavle-kommunfullmaktige-2025-09-29",
     "typ": "kommunbeslut",
     "titel": "Gävlen kunnan valtuuston kokouspöytäkirja, päivämäärä 29.9.2025.",
@@ -14693,6 +14809,38 @@
       "funktion": 8,
       "sparare": 3,
       "konsument": 3
+    }
+  },
+  {
+    "id": "reg-orebro-regionstyrelsen-2025-09-29",
+    "typ": "region",
+    "titel": "Aluehallitus, Örebron läänin alue, 29.9.2025.",
+    "ingress": "Örebron läänin aluehallitus on tehnyt päätöksiä tärkeistä asioista, jotka koskevat terveydenhuoltoa, joukkoliikennettä, energiaa sekä alueellisia kehityssuunnitelmia tuleville vuosille.",
+    "datum": "2025-09-29",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionstyrelsen/mote-2025-09-29",
+    "taggar": [
+      "reg-orebro",
+      "regionstyrelsen",
+      "region-orebro-lan",
+      "orebro",
+      "sjukvard",
+      "regionalpolitik"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_transport": 3,
+      "b_energi": 3,
+      "infrastruktur": 3,
+      "barn": 3,
+      "glesbygd": 3,
+      "pendlare": 3,
+      "kollektiv": 5,
+      "kronisk": 8,
+      "funktion": 3,
+      "tandvard": 3,
+      "energikund": 3,
+      "klimat": 5
     }
   },
   {
@@ -15138,6 +15286,32 @@
     }
   },
   {
+    "id": "reg-halland-regionstyrelsen-2025-09-10",
+    "typ": "region",
+    "titel": "Aluehallitus, Länsi-Hallannin alue, 10.9.2025.",
+    "ingress": "Hallandin aluehallitus on tehnyt päätöksiä useista tärkeistä asioista, jotka koskevat terveydenhuoltoa, lääkkeiden hallintaa, tietojärjestelmiä ja yhteistyötä muiden organisaatioiden kanssa.",
+    "datum": "2025-09-10",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionstyrelsen/mote-2025-09-10",
+    "taggar": [
+      "reg-halland",
+      "regionstyrelsen",
+      "region-halland",
+      "halland",
+      "regional-forvaltning",
+      "protokoll"
+    ],
+    "relevans": {
+      "b_it": 3,
+      "b_fastighet": 3,
+      "b_life": 3,
+      "gdpr": 3,
+      "kronisk": 8,
+      "integritet": 3,
+      "volontar": 3
+    }
+  },
+  {
     "id": "HC03204",
     "typ": "lagforslag",
     "titel": "Säännöt koskien valtion virkamiesten työsuhteen keskeyttämistä.",
@@ -15314,6 +15488,26 @@
       "barn": 3,
       "bygger": 3,
       "storstad": 3
+    }
+  },
+  {
+    "id": "reg-orebro-regionstyrelsen-2025-08-29",
+    "typ": "region",
+    "titel": "Aluehallitus, Örebron läänin alue, 29.8.2025.",
+    "ingress": "Aluehallitus on vastaanottanut kansalaiselta ehdotuksen, jonka tarkoituksena on lyhentää odotusaikoja kuulovammaisten palveluissa Karlskogassa.",
+    "datum": "2025-08-29",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionstyrelsen/mote-2025-08-29",
+    "taggar": [
+      "reg-orebro",
+      "regionstyrelsen",
+      "region-orebro-lan",
+      "orebro",
+      "sjukvard",
+      "regionalpolitik"
+    ],
+    "relevans": {
+      "kronisk": 8
     }
   },
   {
@@ -16149,6 +16343,31 @@
       "klimat": 3,
       "kultur": 3,
       "fortroendevald": 3
+    }
+  },
+  {
+    "id": "reg-halland-regionstyrelsen-2025-06-04",
+    "typ": "region",
+    "titel": "Aluemääräysviranomainen, Region Halland, 4. kesäkuuta 2025.",
+    "ingress": "Hallandin aluehallitus on tehnyt päätöksiä muun muassa tulevasta budjetista, pysäköintisäännöistä Halmstadin sairaalalla sekä tuesta paikallisille yrityksille.",
+    "datum": "2025-06-04",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionstyrelsen/mote-2025-06-04",
+    "taggar": [
+      "reg-halland",
+      "regionstyrelsen",
+      "region-halland",
+      "halland",
+      "regional-forvaltning",
+      "mikaela-waltersson"
+    ],
+    "relevans": {
+      "b_grona": 3,
+      "b_fastighet": 3,
+      "pendlare": 3,
+      "bil": 3,
+      "kollektiv": 3,
+      "kronisk": 8
     }
   },
   {
@@ -18591,6 +18810,35 @@
     }
   },
   {
+    "id": "reg-orebro-regionfullmaktige-2024-12-09",
+    "typ": "region",
+    "titel": "Aluevaltuutettu, Örebron läänin aluehallitus, 9.12.2024.",
+    "ingress": "Örebron alue on tehnyt päätöksiä useista tärkeistä asioista, jotka koskevat terveydenhuoltoa, joukkoliikennettä ja paikallisia investointeja alueella.",
+    "datum": "2024-12-09",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionfullmaktige/mote-2024-12-09",
+    "taggar": [
+      "reg-orebro",
+      "regionfullmaktige",
+      "region-orebro-lan",
+      "orebro",
+      "kollektivtrafik",
+      "sjukvard"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "finansiering": 3,
+      "infrastruktur": 3,
+      "barn": 3,
+      "ung": 3,
+      "pendlare": 3,
+      "kollektiv": 8,
+      "kronisk": 8,
+      "batagare": 3,
+      "kultur": 3
+    }
+  },
+  {
     "id": "reg-halland-regionfullmaktige-2024-12-04",
     "typ": "region",
     "titel": "Hallandin läänin aluevaltuuston jäsen, 4.12.2024.",
@@ -18615,6 +18863,32 @@
       "gymnasieelev": 3,
       "kronisk": 8,
       "tandvard": 3
+    }
+  },
+  {
+    "id": "reg-jamtland-regionfullmaktige-2024-11-26",
+    "typ": "region",
+    "titel": "Aluevaltuutettu, Jämtland Härjedalenin alue, 2024-11-26.",
+    "ingress": "Jämtland Härjedalenin alue on tehnyt tärkeitä päätöksiä terveydenhuoltoon, kulttuuritukeen ja joukkoliikenteeseen liittyvistä asioista vuodelle 2025.",
+    "datum": "2024-11-26",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionfullmaktige/mote-2024-11-26",
+    "taggar": [
+      "reg-jamtland",
+      "regionfullmaktige",
+      "region-jamtland-harjedalen",
+      "jamtland",
+      "regionalpolitik",
+      "anders-sundin"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "pendlare": 3,
+      "kollektiv": 8,
+      "kronisk": 8,
+      "tandvard": 3,
+      "konsument": 3,
+      "kultur": 8
     }
   },
   {
@@ -18662,6 +18936,90 @@
     }
   },
   {
+    "id": "reg-halland-regionfullmaktige-2024-10-23",
+    "typ": "region",
+    "titel": "Hallandin läänin aluevaltuuston jäsen, 23.10.2024.",
+    "ingress": "Hallandin alue on tehnyt päätöksiä tulevaisuuden suunnitelmista kulttuurin, terveydenhuollon ja joukkoliikenteen osalta, sekä toteuttanut useita selvityksiä lasten ja nuorten hoidosta.",
+    "datum": "2024-10-23",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionfullmaktige/mote-2024-10-23",
+    "taggar": [
+      "reg-halland",
+      "regionfullmaktige",
+      "region-halland",
+      "halland",
+      "regionalpolitik",
+      "kommunal-forvaltning"
+    ],
+    "relevans": {
+      "b_fastighet": 3,
+      "b_kultur": 3,
+      "barn": 3,
+      "kvinna": 3,
+      "pendlare": 3,
+      "kollektiv": 3,
+      "kronisk": 8,
+      "kultur": 3
+    }
+  },
+  {
+    "id": "reg-jamtland-regionfullmaktige-2024-10-23",
+    "typ": "region",
+    "titel": "Aluevaltuutettu, Jämtland Härjedalenin alue, 23.10.2024.",
+    "ingress": "Jämtland Härjedalenin alue on tehnyt useita tärkeitä päätöksiä, jotka koskevat terveyttä, ympäristöä, joukkoliikennettä ja alueen tulevaisuuden suunnitelmia.",
+    "datum": "2024-10-23",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionfullmaktige/mote-2024-10-23",
+    "taggar": [
+      "reg-jamtland",
+      "regionfullmaktige",
+      "region-jamtland-harjedalen",
+      "jamtland",
+      "regionalpolitik",
+      "kommunal-forvaltning"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_transport": 3,
+      "b_fastighet": 3,
+      "finansiering": 3,
+      "konsumentratt": 3,
+      "immaterialratt": 3,
+      "glesbygd": 3,
+      "pendlare": 3,
+      "kollektiv": 8,
+      "kronisk": 8,
+      "klimat": 3,
+      "kultur": 3
+    }
+  },
+  {
+    "id": "reg-orebro-regionfullmaktige-2024-10-10",
+    "typ": "region",
+    "titel": "Aluevaltuutettu, Örebron läänin aluehallitus, 10.10.2024.",
+    "ingress": "Örebron läänin maakuntahallituksen on keskusteltu ja päätetty muun muassa terveydenhuollosta, joukkoliikenteestä, kulttuurisuunnitelmista ja ympäristöasioista.",
+    "datum": "2024-10-10",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionfullmaktige/mote-2024-10-10",
+    "taggar": [
+      "reg-orebro",
+      "regionfullmaktige",
+      "region-orebro-lan",
+      "orebro",
+      "sjukvard",
+      "kollektivtrafik"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_kultur": 3,
+      "pendlare": 3,
+      "kollektiv": 5,
+      "kronisk": 8,
+      "klimat": 3,
+      "kultur": 5
+    }
+  },
+  {
     "id": "norsjo-protokoll-2024-09-30",
     "typ": "kommunbeslut",
     "titel": "Pöytäkirja, Norsjön kunta, 30.9.2024.",
@@ -18677,6 +19035,30 @@
       "b_vard": 3,
       "barn": 5,
       "kultur": 3
+    }
+  },
+  {
+    "id": "reg-halland-regionfullmaktige-2024-06-19",
+    "typ": "region",
+    "titel": "Hallandin läänin aluevaltuusto, 19. kesäkuuta 2024.",
+    "ingress": "Hallandin alue on tehnyt päätöksiä tulevasta budjetista, terveydenhuollon organisaatiosta ja sairaalakiinteistöjen rakennusprojekteista. Lisäksi se on päättänyt kiinteistökaupoista ja vastannut kysymyksiin muun muassa henkilöstön työvälinei",
+    "datum": "2024-06-19",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionfullmaktige/mote-2024-06-19",
+    "taggar": [
+      "reg-halland",
+      "regionfullmaktige",
+      "region-halland",
+      "halland",
+      "kommunalpolitik",
+      "protokoll"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_bygg": 3,
+      "b_fastighet": 3,
+      "kronisk": 8,
+      "klimat": 3
     }
   },
   {
@@ -25008,6 +25390,206 @@
     },
     "epok": "1900talet",
     "tid": "d. 1937",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q132695",
+    "typ": "historia",
+    "titel": "Harry Martinson.",
+    "ingress": "Harry Martinson oli erittäin tunnettu ruotsalainen kirjailija, joka sai Nobelin kirjallisuuspalkinnon vuonna 1974. Hänen elämänsä merimiehenä ja kokemuksensa työläisluokasta vaikuttivat voimakkaasti hänen kirjoihinsa.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Harry_Martinson",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_industri": 3,
+      "kultur": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1978",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q170741",
+    "typ": "historia",
+    "titel": "Manne Siegbahn.",
+    "ingress": "Manne Siegbahn oli ruotsalainen fyysikko, joka sai Nobelin fysiikan palkinnon vuonna 1924 merkittävistä löydöksistään röntgensäteilyn tutkimuksen alalla.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Manne_Siegbahn",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_energi": 3,
+      "fou": 3,
+      "student": 3,
+      "energikund": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1978",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q152452",
+    "typ": "historia",
+    "titel": "Gunnar Myrdal",
+    "ingress": "Gunnar Myrdal oli tunnettu ruotsalainen tutkija ja poliitikko, joka työskenteli talouden ja yhteiskunnan parissa. Hän sai merkittävän palkinnon tutkimustyöstään ja kirjoitti tärkeitä kirjoja muun muassa perhepolitiikasta sekä rasismin ilmen",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Gunnar_Myrdal",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "fou": 3,
+      "stor_familj": 3,
+      "kvinna": 3,
+      "arbetssokande": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1987",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q152437",
+    "typ": "historia",
+    "titel": "Alva Myrdal",
+    "ingress": "Alva Myrdal oli merkittävä ruotsalainen poliitikko ja diplomaatti, joka työskenteli paljon lasten oikeuksien ja koulutuksen eteen. Hän sai Nobelin rauhanpalkinnon vuonna 1982 työstään.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Alva_Myrdal",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "barn": 5
+    },
+    "epok": "1900talet",
+    "tid": "d. 1986",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q52890",
+    "typ": "historia",
+    "titel": "Kustaa V.",
+    "ingress": "Kustaa V oli ruotsalainen kuningas, joka hallitsi lähes 43 vuotta 1900-luvun alussa. Hänet tunnettiin siitä, että hän piti musiikista, taiteesta ja urheilusta.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Gustaf_V",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "student": 3,
+      "idrott": 3,
+      "kultur": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1950",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q78478",
+    "typ": "historia",
+    "titel": "Robert Bárány",
+    "ingress": "Robert Bárány oli lääkäri, joka sai Nobelin lääketieteen palkinnon vuonna 1914 korvatutkimuksistaan. Hän muutti Ruotsiin,estä tuli ruotsalainen kansalainen ja työskenteli professorina Uppsalassa kuolemaansa asti.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Robert_Bárány",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "fou": 3,
+      "student": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1936",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q76951",
+    "typ": "historia",
+    "titel": "George de Hevesy.",
+    "ingress": "George de Hevesy oli unkarilais-ruotsalainen kemisti, joka sai Nobelin palkinnon vuonna 1943 tutkimuksistaan siitä, miten kehot toimivat radioaktiivisten aineiden avulla. Hän on myös tunnettu siitä, että hän löysi uuden alkuaineen ja pakeni",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/George_de_Hevesy",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "infrastruktur": 3,
+      "fou": 3,
+      "student": 3,
+      "batagare": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1966",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q186391",
+    "typ": "historia",
+    "titel": "Svedberg.",
+    "ingress": "Theodor Svedberg oli ruotsalainen kemisti, joka sai Nobelin kemian palkinnon vuonna 1926 työstään, jossa hän tutki pienten hiukkasten liikettä ja jakautumista.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/The_Svedberg",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "fou": 3,
+      "student": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1971",
     "kallage": "samtida",
     "sakerhet": "belagt",
     "konsensus": "samsyn",
