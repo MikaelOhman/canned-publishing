@@ -15189,6 +15189,32 @@
     }
   },
   {
+    "id": "reg-halland-regionstyrelsen-2025-09-10",
+    "typ": "region",
+    "titel": "Regionstyrelsen, Region Halland 2025-09-10",
+    "ingress": "Regionstyrelsen i Halland har tagit beslut om flera viktiga frågor som rör hälso- och sjukvård, medicinhantering, IT-system och samarbete med andra organisationer.",
+    "datum": "2025-09-10",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionstyrelsen/mote-2025-09-10",
+    "taggar": [
+      "reg-halland",
+      "regionstyrelsen",
+      "region-halland",
+      "halland",
+      "regional-forvaltning",
+      "protokoll"
+    ],
+    "relevans": {
+      "b_it": 3,
+      "b_fastighet": 3,
+      "b_life": 3,
+      "gdpr": 3,
+      "kronisk": 8,
+      "integritet": 3,
+      "volontar": 3
+    }
+  },
+  {
     "id": "HC03208",
     "typ": "lagforslag",
     "titel": "Ett mer heltäckande straffansvar vid angrepp på företagshemligheter",
@@ -16200,6 +16226,31 @@
       "klimat": 3,
       "kultur": 3,
       "fortroendevald": 3
+    }
+  },
+  {
+    "id": "reg-halland-regionstyrelsen-2025-06-04",
+    "typ": "region",
+    "titel": "Regionstyrelsen, Region Halland 2025-06-04",
+    "ingress": "Regionstyrelsen i Halland har fattat beslut om bland annat framtida budget, parkeringsregler vid sjukhuset i Halmstad och stöd till lokala företag.",
+    "datum": "2025-06-04",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionstyrelsen/mote-2025-06-04",
+    "taggar": [
+      "reg-halland",
+      "regionstyrelsen",
+      "region-halland",
+      "halland",
+      "regional-forvaltning",
+      "mikaela-waltersson"
+    ],
+    "relevans": {
+      "b_grona": 3,
+      "b_fastighet": 3,
+      "pendlare": 3,
+      "bil": 3,
+      "kollektiv": 3,
+      "kronisk": 8
     }
   },
   {
@@ -18713,6 +18764,33 @@
     }
   },
   {
+    "id": "reg-halland-regionfullmaktige-2024-10-23",
+    "typ": "region",
+    "titel": "Regionfullmaktige, Region Halland 2024-10-23",
+    "ingress": "Region Halland har fattat beslut om framtida planer för kultur, hälsovård och kollektivtrafik samt genomfört flera utredningar kring vård av barn och unga.",
+    "datum": "2024-10-23",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionfullmaktige/mote-2024-10-23",
+    "taggar": [
+      "reg-halland",
+      "regionfullmaktige",
+      "region-halland",
+      "halland",
+      "regionalpolitik",
+      "kommunal-forvaltning"
+    ],
+    "relevans": {
+      "b_fastighet": 3,
+      "b_kultur": 3,
+      "barn": 3,
+      "kvinna": 3,
+      "pendlare": 3,
+      "kollektiv": 3,
+      "kronisk": 8,
+      "kultur": 3
+    }
+  },
+  {
     "id": "norsjo-protokoll-2024-09-30",
     "typ": "kommunbeslut",
     "titel": "Protokoll, Norsjö kommun 2024-09-30",
@@ -18728,6 +18806,30 @@
       "b_vard": 3,
       "barn": 5,
       "kultur": 3
+    }
+  },
+  {
+    "id": "reg-halland-regionfullmaktige-2024-06-19",
+    "typ": "region",
+    "titel": "Regionfullmaktige, Region Halland 2024-06-19",
+    "ingress": "Region Halland har fattat beslut om framtida budget, vårdens organisation och byggprojekt på sjukhusområden. De har även tagit beslut om köp av fastigheter och svarat på frågor om bland annat personalens arbetsutrustning och teknik i vården",
+    "datum": "2024-06-19",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionfullmaktige/mote-2024-06-19",
+    "taggar": [
+      "reg-halland",
+      "regionfullmaktige",
+      "region-halland",
+      "halland",
+      "kommunalpolitik",
+      "protokoll"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "b_bygg": 3,
+      "b_fastighet": 3,
+      "kronisk": 8,
+      "klimat": 3
     }
   },
   {
