@@ -24372,5 +24372,334 @@
     "sakerhet": "belagt",
     "konsensus": "samsyn",
     "flaggor": []
+  },
+  {
+    "id": "hist-q44519",
+    "typ": "historia",
+    "titel": "Selma Lagerlöf:",
+    "ingress": "Selma Lagerlöf egy nagyon híres svéd írónő volt, aki az első nőként kapta meg a Nobel-díjjal járó irodalmi díjat. Ismert kalandregényeiről és mesei könyveiről, valamint arról, hogy Mårbacka nevű háza ma már múzeum.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Selma_Lagerlöf",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "barn": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1940",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q2514",
+    "typ": "historia",
+    "titel": "Willy Brandt.",
+    "ingress": "Willy Brandt egy fontos német politikus volt, aki 1969 és 1974 között Németország kancellárja (miniszterelnöke) volt. Híres arról, hogy javította a kapcsolatokat a kelet-európai országokkal, és ezért kapta meg a Nobel békeszolgálatot munkáj",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Willy_Brandt",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "epok": "1900talet",
+    "tid": "d. 1992",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q1267",
+    "typ": "historia",
+    "titel": "Dag Hammarskjöld.",
+    "ingress": "Dag Hammarskjöld egy svéd szakértő volt a gazdaság és a jog területén, aki az Egyesült Nemzetek Szervezetének főtitkára lett. Leginkább az ENSZ-ben végzett munkájáról ismert, valamint arról, hogy egy repülőgép-baleset során hunyt el hivatal",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Dag_Hammarskjöld",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_transport": 3,
+      "b_finans": 3,
+      "b_konsult": 3,
+      "student": 3,
+      "flygresenar": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1961",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q43247",
+    "typ": "historia",
+    "titel": "Ingrid Bergman.",
+    "ingress": "Ingrid Bergman egy nagyon híres svéd színésznő volt, aki világhírű sztár lett Hollywoodban. Számos elismert filmes díjat nyert, és máig az egyik legfontosabb női színészi alak a filmtörténetben.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Ingrid_Bergman",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_it": 3,
+      "b_kultur": 3,
+      "kvinna": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1982",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q7724",
+    "typ": "historia",
+    "titel": "August Strindberg",
+    "ingress": "August Strindberg egy rendkívül fontos svéd író volt, aki híres regényeket és színdarabokat alkotott. Ő az egyik legjelentősebb személyiség a svéd irodalomtörténetben.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/August_Strindberg",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "infrastruktur": 3,
+      "student": 3,
+      "batagare": 3,
+      "kultur": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1912",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q5443",
+    "typ": "historia",
+    "titel": "Greta Garbo.",
+    "ingress": "Greta Garbo a világ egyik leghíresebb filmsztárja volt az 1920-as és 30-as években. Hírnevét színészi tehetségének köszönhette, de nagyon magánemberként élt, és soha nem adott interjúkat.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Greta_Garbo",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_handel": 3,
+      "b_kultur": 3,
+      "barn": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1990",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q57074",
+    "typ": "historia",
+    "titel": "Nelly Sachs",
+    "ingress": "Nelly Sachs német-svéd írónő volt, aki 1966-ban kapta meg az irodalmi Nobel-díjjal. 1940-ben a náci Németország elnyomása elől menekült Svédországba, és fontos könyveket írt arról, amit átélt.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Nelly_Sachs",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_vard": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1970",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q80956",
+    "typ": "historia",
+    "titel": "Svante Arrhenius.",
+    "ingress": "Svante Arrhenius egy svéd tudós volt, aki az első svédből kapta meg a kémiai Nobel-díjat. Híres arról, hogy felfedezte az üvegházhatást, és elmagyarázta, hogyan befolyásolja a szén-dioxid a Föld hőmérsékletét.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Svante_Arrhenius",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "student": 5,
+      "klimat": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1927",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q93137",
+    "typ": "historia",
+    "titel": "Pär Lagerkvist.",
+    "ingress": "Pär Lagerkvist egy nagyon híres svéd író és költő volt, aki 1951-ben kapta meg az irodalmi Nobel-díjat. Azért vált ismertté, mert a műveiben a modern világban élő emberek érzéseit és hitét járultatta le.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Pär_Lagerkvist",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "epok": "1900talet",
+    "tid": "d. 1974",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q129173",
+    "typ": "historia",
+    "titel": "Verner von Heidenstam.",
+    "ingress": "Verner von Heidenstam egy híres svéd író és költő volt, aki 1916-ban kapta meg a Nobel-díjjal járó irodalmi díjat. Leginkább történelmi és természeti témájú verseiről ismert, és szoros baráti kapcsolatban állt August Strindberg íróval.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Verner_von_Heidenstam",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_it": 3,
+      "barn": 5
+    },
+    "epok": "1900talet",
+    "tid": "d. 1940",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q56189",
+    "typ": "historia",
+    "titel": "Lise Meitner",
+    "ingress": "Lise Meitner egy fontos tudós volt, aki felfedezte a maghasadás működését, ami mind az atomenergia, mind pedig az atombomba kifejlesztéséhez vezetett. Annak ellenére, hogy rendkívül jelentős szerepet játszott, nem kapta meg azt a Nobel-díja",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Lise_Meitner",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_energi": 3,
+      "kvinna": 3,
+      "student": 3,
+      "energikund": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1968",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q53713",
+    "typ": "historia",
+    "titel": "Olof Palme",
+    "ingress": "Olof Palme egy nagyon ismert svéd politikus volt, aki hosszú éveken át volt miniszterelnök és a Szocialista Párt vezetője. 1986-ban meggyilkolták, ami nagy visszhangot váltott ki szerte a világon.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Olof_Palme",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "epok": "1900talet",
+    "tid": "d. 1986",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q134641",
+    "typ": "historia",
+    "titel": "Erik Axel Karlfeldt.",
+    "ingress": "Erik Axel Karlfeldt egy híres svéd költő és író volt, aki posztumusz kapta meg az irodalmi Nobel-díjat. Nehéz gyermekkoron nőtt fel, de később sikeres szerzőként tevékenykedett, és számos fontos pozíciót töltött be.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Erik_Axel_Karlfeldt",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "infrastruktur": 5,
+      "barn": 5,
+      "batagare": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1931",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q131326",
+    "typ": "historia",
+    "titel": "Eyvind Johnson",
+    "ingress": "Eyvind Johnson egy híres svéd író volt, aki 1974-ben kapta meg az irodalmi Nobel-díjat. Ismert arról, hogy a hétköznapi emberek életéről írt, és erős elkötelezettséggel rendelkezett a náci ideológia ellen.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Eyvind_Johnson",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "epok": "1900talet",
+    "tid": "d. 1976",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
   }
 ]

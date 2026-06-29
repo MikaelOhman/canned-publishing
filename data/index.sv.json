@@ -13992,6 +13992,34 @@
     }
   },
   {
+    "id": "stockholm-kommunfullmaktige-2025-11-03",
+    "typ": "kommunbeslut",
+    "titel": "Kommunfullmäktige, Stockholms stad 2025-11-03",
+    "ingress": "Stockholms stad har tagit emot svar på frågor om bland annat skyddsrum, kulturhistoriska byggnader och nya HVB-hem (boenden för personer med funktionsnedsättning). Det finns även nya frågor som ställs om trafik i Stockholm, stadens skulder",
+    "datum": "2025-11-03",
+    "kalla": "Stockholms stad",
+    "kalla_url": "https://meetingspublic.stockholm.se/committees/kommunfullmaktige/mote-2025-11-03",
+    "taggar": [
+      "stockholm",
+      "kommunfullmaktige",
+      "kommunpolitik",
+      "fastighetsforvaltning",
+      "stadsplanering"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_fastighet": 3,
+      "b_kultur": 3,
+      "barn": 3,
+      "bygger": 3,
+      "storstad": 3,
+      "funktion": 3,
+      "lantagare": 3,
+      "kultur": 3,
+      "fortroendevald": 3
+    }
+  },
+  {
     "id": "malmo-kommunstyrelsen-2025-10-30",
     "typ": "kommunbeslut",
     "titel": "Kommunstyrelsen, Malmö stad 2025-10-30",
@@ -25230,6 +25258,988 @@
     },
     "epok": "1900talet",
     "tid": "d. 1971",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q76951",
+    "typ": "historia",
+    "titel": "George de Hevesy",
+    "ingress": "George de Hevesy var en ungersk-svensk kemist som vann Nobelpriset 1943 för sin forskning om hur kroppar fungerar med hjälp av radioaktiva ämnen. Han är även känd för att ha upptäckt ett nytt grundämne och för att han flydde från nazisterna",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/George_de_Hevesy",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "infrastruktur": 3,
+      "fou": 3,
+      "student": 3,
+      "batagare": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1966",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q53620",
+    "typ": "historia",
+    "titel": "Hjalmar Branting",
+    "ingress": "Hjalmar Branting var en viktig svensk politiker som ledde Socialdemokraterna och blev Sveriges första socialdemokratiska statsminister.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Hjalmar_Branting",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "b_konsult": 3,
+      "barn": 3,
+      "student": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1925",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q233026",
+    "typ": "historia",
+    "titel": "Arne Tiselius",
+    "ingress": "Arne Tiselius var en svensk kemist som fick Nobelpriset i kemi 1948. Han uppfann en metod för att studera proteiner i blod, vilket har varit mycket viktigt för både medicin och teknik.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Arne_Tiselius",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_life": 3,
+      "fou": 3,
+      "student": 3,
+      "kronisk": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1971",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q52924",
+    "typ": "historia",
+    "titel": "Oscar II",
+    "ingress": "Texten berättar om kung Oscar II:s liv, från hans uppväxt som prins till hans tid som kung av Sverige och Norge.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Oscar_II",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_industri": 3,
+      "b_kultur": 3,
+      "barn": 3,
+      "student": 3,
+      "kultur": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1907",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q57188",
+    "typ": "historia",
+    "titel": "Ernst Cassirer",
+    "ingress": "Ernst Cassirer var en känd tysk filosof som studerade hur människor använder symboler för att förstå världen. Han flydde från Tyskland på grund av nazisterna och arbetade senare i Sverige och USA.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Ernst_Cassirer",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "student": 3,
+      "kultur": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1945",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q179493",
+    "typ": "historia",
+    "titel": "Bertil Ohlin",
+    "ingress": "Bertil Ohlin var en känd svensk ekonom, lärare och politiker som blev mycket populär under 1940- och 1950-talen. Han är mest känd för sina teorier om handel och för att han ledde Folkpartiet under många år.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Bertil_Ohlin",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "fou": 3,
+      "student": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1979",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q76613",
+    "typ": "historia",
+    "titel": "Hans von Euler-Chelpin",
+    "ingress": "Hans von Euler-Chelpin var en tysk-svensk kemist som vann Nobelpriset i kemi 1929 för sin forskning om hur socker jäses och hur kroppens ämnen bryts ner.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Hans_von_Euler-Chelpin",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_transport": 3,
+      "fou": 3,
+      "student": 3,
+      "flygresenar": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1964",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q154759",
+    "typ": "historia",
+    "titel": "Sven Hedin",
+    "ingress": "Sven Hedin var en mycket känd svensk upptäcktsresande som utforskade stora delar av Asien. Han blev berömd för sina kartor men fick senare kritik för att han stödde nazistpartiet i Tyskland.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Sven_Hedin",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "epok": "1900talet",
+    "tid": "d. 1952",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q187310",
+    "typ": "historia",
+    "titel": "Carl Larsson",
+    "ingress": "Carl Larsson var en mycket känd svensk konstnär som blev berömd för sina vackra akvareller av familjeliv och vardagliga scener.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Carl_Larsson",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "kultur": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1919",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q217722",
+    "typ": "historia",
+    "titel": "Ragnar Granit",
+    "ingress": "Ragnar Arthur Granit, född 30 oktober 1900 i Riihimäki, död 12 mars 1991 i Engelbrekts församling, Stockholm, var en finlandssvensk fysiolog och neurofysiolog. Granit hör till de mest kända medicin­fo",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Ragnar_Granit",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "fou": 3,
+      "barn": 5,
+      "student": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1991",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q159723",
+    "typ": "historia",
+    "titel": "Nathan Söderblom",
+    "ingress": "Nathan Söderblom var en svensk kyrkoledare och forskare som blev ärkebiskop 1914. Han vann Nobels fredspris 1930 för sitt arbete med att skapa fred mellan olika religioner.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Nathan_Söderblom",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "student": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1931",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q110111",
+    "typ": "historia",
+    "titel": "Gunnar Nordahl",
+    "ingress": "Nils Gunnar Nordahl, född 19 oktober 1921 i Hörnefors i Västerbottens län, död 15 september 1995 i Alghero, Sardinien i Italien, var en svensk fotbollsspelare (centerforward) som år 1949 blev Sveriges",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Gunnar_Nordahl",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_industri": 3,
+      "b_it": 3,
+      "barn": 3,
+      "idrott": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1995",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q206820",
+    "typ": "historia",
+    "titel": "Anders Zorn",
+    "ingress": "Anders Zorn var en mycket känd svensk konstnär som blev berömd för sina porträtt av viktiga personer, bland annat amerikanska presidenter.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Anders_Zorn",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "kultur": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1920",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q230238",
+    "typ": "historia",
+    "titel": "Astrid av Sverige",
+    "ingress": "Prinsessan Astrid var en svensk prinsessa som blev drottning av Belgien efter att hon gifte sig med den belgiske kronprinsen. Hon dog tragiskt i en bilolycka 1935 när hon var ung.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Astrid_av_Sverige",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "arbetsmiljo": 3,
+      "barn": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1935",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q156749",
+    "typ": "historia",
+    "titel": "Adolf Erik Nordenskiöld",
+    "ingress": "Nordenskiöld var en känd forskare och äventyrare som reste mycket i Arktis för att studera naturvetenskap. Han är mest känd för sina resor till bland annat Grönland och Svalbard.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Adolf_Erik_Nordenskiöld",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "fou": 3,
+      "glesbygd": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1901",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q154410",
+    "typ": "historia",
+    "titel": "Marie Under",
+    "ingress": "Marie Under var en mycket känd estnisk poet som flydde till Sverige 1944 för att slippa undan sovjetiskt styre. Hon blev en av Estlands viktigaste författare och hennes dikter var länge förbjudna i hennes hemland.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Marie_Under",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "kultur": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1980",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q41580",
+    "typ": "historia",
+    "titel": "Axel Munthe",
+    "ingress": "Axel Munthe var en svensk läkare och författare som blev känd i hela Europa. Han arbetade som personlig läkare åt drottning Victoria och byggde ett känt hus på ön Capri.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Axel_Munthe",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_it": 3,
+      "b_kultur": 3,
+      "bostadsagare": 3,
+      "kultur": 5
+    },
+    "epok": "1900talet",
+    "tid": "d. 1949",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q237413",
+    "typ": "historia",
+    "titel": "Karin Boye",
+    "ingress": "Karin Boye var en känd svensk författare och poet som skrev både dikter och romaner. Hon är särskilt känd för sin diktning och boken Kallocain.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Karin_Boye",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "student": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1941",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q57312",
+    "typ": "historia",
+    "titel": "Peter Weiss",
+    "ingress": "Peter Weiss var en tysk-svensk konstnär, författare och regissör som blev känd över hela världen för sina dramatiska pjäser.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Peter_Weiss",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "kultur": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1982",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q311567",
+    "typ": "historia",
+    "titel": "Janne Rydberg",
+    "ingress": "Janne Rydberg var en svensk fysiker som upptäckte en viktig matematisk formel för att förstå hur atomer är uppbyggda. Hans arbete inom ljus och ämnen lade grunden för modern kunskap om atomers struktur.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Janne_Rydberg",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "fou": 3,
+      "skiftarbete": 3,
+      "student": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1919",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q231281",
+    "typ": "historia",
+    "titel": "Märtha av Sverige",
+    "ingress": "Texten handlar om prinsessan Märtha av Sverige, som var kronprinsessa i Norge. Hon blev en hjälte under andra världskriget och är idag hedrad med namn på platser, fartyg och en kyrka.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Märtha_av_Sverige",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "barn": 3,
+      "glesbygd": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1954",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q214043",
+    "typ": "historia",
+    "titel": "John Bauer",
+    "ingress": "John Bauer var en känd svensk konstnär som är mest känd för sina bilder i boken Bland tomtar och troll. Han blev en av Sveriges viktigaste tecknare av sagor och folktro.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/John_Bauer",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_it": 3,
+      "b_kultur": 3,
+      "kultur": 5
+    },
+    "epok": "1900talet",
+    "tid": "d. 1918",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q238443",
+    "typ": "historia",
+    "titel": "Ellen Key",
+    "ingress": "Ellen Key var en känd svensk författare och förespråkare för kvinnors rättigheter som hade stor påverkan på hur barn skulle fostras och utbildas.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Ellen_Key",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "barn": 5,
+      "kvinna": 3,
+      "kultur": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1926",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q331845",
+    "typ": "historia",
+    "titel": "Hjalmar Söderberg",
+    "ingress": "Hjalmar Söderberg var en mycket viktig svensk författare under 1900-talet som skrev bland annat boken Doktor Glas.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Hjalmar_Söderberg",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_kultur": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1941",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q53707",
+    "typ": "historia",
+    "titel": "Tage Erlander",
+    "ingress": "Tage Erlander var Sveriges statsminister mellan 1946 och 1969. Han satt längst på posten av alla världens ledare i en demokrati under den tiden.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Tage_Erlander",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "student": 3,
+      "fortroendevald": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1985",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q57648",
+    "typ": "historia",
+    "titel": "Victoria av Baden",
+    "ingress": "Texten berättar om Victoria av Baden, som blev drottning av Sverige efter att hon gifte sig med kung Gustaf V. Hon var känd för att vara ofta sjuk och spenderade mycket tid utomlands.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Victoria_av_Baden",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_it": 3,
+      "b_kultur": 3,
+      "kultur": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1930",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q186261",
+    "typ": "historia",
+    "titel": "Gideon Sundbäck",
+    "ingress": "Gideon Sundbäck var en svensk uppfinnare i USA som skapade det moderna blixtlåset. Han gjorde det möjligt att tillverka blixtlås med maskiner istället för för hand, vilket gjorde produkten känd över hela världen.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Gideon_Sundbäck",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_industri": 3,
+      "immaterialratt": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1954",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q232402",
+    "typ": "historia",
+    "titel": "Louise av Sverige",
+    "ingress": "Louise av Sverige var en prinsessa som blev drottning av Danmark efter att hon gifte sig med den danske kungen.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Louise_av_Sverige",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "upphandling": 8,
+      "sambo_gift": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1926",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q436267",
+    "typ": "historia",
+    "titel": "Hilma af Klint",
+    "ingress": "Hilma af Klint var en svensk konstnär som var en pionjär inom abstrakt måleri, vilket innebär att hon målade bilder som inte föreställde verkligheten utan idéer. Hennes verk är numera en viktig del av Sveriges kulturarv.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Hilma_af_Klint",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_transport": 3,
+      "b_kultur": 5,
+      "kvinna": 3,
+      "kultur": 5
+    },
+    "epok": "1900talet",
+    "tid": "d. 1944",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q212163",
+    "typ": "historia",
+    "titel": "Folke Bernadotte",
+    "ingress": "Folke Bernadotte var en svensk militär och ledare för Röda Korset som blev känd för att rädda tusentals krigsfångar under andra världskriget.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Folke_Bernadotte",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_transport": 3,
+      "barn": 3,
+      "kollektiv": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1948",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q115477",
+    "typ": "historia",
+    "titel": "Louise av Battenberg",
+    "ingress": "Louise av Battenberg var en prinsessa som blev drottning av Sverige år 1950. Hon var känd för sitt arbete som sjuksköterska under första världskriget och för sin roll i den kungliga familjen.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Louise_av_Battenberg",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "upphandling": 8,
+      "barn": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1965",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q53660",
+    "typ": "historia",
+    "titel": "Per Albin Hansson",
+    "ingress": "Per Albin Hansson var en mycket viktig svensk politiker som ledde Socialdemokraterna och var Sveriges statsminister under lång tid. Han arbetade för att förbättra villkoren för arbetare och kämpade för rätten för alla att få rösta.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Per_Albin_Hansson",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "barn": 3,
+      "ung": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1946",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q55170",
+    "typ": "historia",
+    "titel": "Victor Sjöström",
+    "ingress": "Victor Sjöström var en mycket känd svensk skådespelare, regissör och manusförfattare som blev en av de viktigaste personerna inom den tidiga svenska stumfilmen.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Victor_Sjöström",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_kultur": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1960",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q46479",
+    "typ": "historia",
+    "titel": "Zarah Leander",
+    "ingress": "Zarah Leander var en svensk sångerska och skådespelare som blev en stor internationell stjärna, särskilt i Tyskland under andra världskriget.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Zarah_Leander",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_kultur": 5,
+      "lokaler": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1981",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q558166",
+    "typ": "historia",
+    "titel": "Johannes Aavik",
+    "ingress": "Johannes Aavik var en estnisk språkexpert som påverkade hur det estniska språket utvecklades genom att skapa nya ord och ändra grammatiska regler.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Johannes_Aavik",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "student": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1973",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q314511",
+    "typ": "historia",
+    "titel": "Gunnar Gren",
+    "ingress": "Gunnar Gren var en mycket framgångsrik svensk fotbollsspelare som vann guld i OS och silver i VM. Han blev känd i Italien för sin skicklighet och fick smeknamnet 'Professorn'.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Gunnar_Gren",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_it": 3,
+      "konsument": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1991",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q345283",
+    "typ": "historia",
+    "titel": "Rolf Sievert",
+    "ingress": "Rolf Sievert var en svensk forskare som blev expert på hur strålning påverkar kroppen. Han uppfann verktyg för att mäta strålning och är så viktig inom sitt område att den internationella måttenheten för stråldos fick hans namn.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Rolf_Sievert",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "fou": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1966",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q793616",
+    "typ": "historia",
+    "titel": "Prins Carl, hertig av Västergötland",
+    "ingress": "Texten berättar om prins Carl, en svensk kunglig person som var aktiv inom militären och hjälporganisationen Röda Korset. Han kallas ofta för 'Blå prinsen' på grund av sitt arbete med kavalleriet.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Prins_Carl,_hertig_av_Västergötland",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "barn": 3,
+      "student": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1951",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q1625",
+    "typ": "historia",
+    "titel": "J. Sigfrid Edström",
+    "ingress": "Johannes Sigfrid Edström var en viktig svensk ingenjör och företagsledare som bland annat ledde det stora företaget ASEA. Han var också en mycket inflytelserik person inom internationell idrott och var ordförande för den olympiska kommittén",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/J._Sigfrid_Edström",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_industri": 3,
+      "b_bygg": 3,
+      "b_energi": 3,
+      "kollektiv": 3,
+      "idrott": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1964",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q57626",
+    "typ": "historia",
+    "titel": "Sibylla av Sachsen-Coburg-Gotha",
+    "ingress": "Sibylla var en tysk prinsessa som gifte sig med den svenska arvprinsen Gustaf Adolf och blev mor till dagens kung. Hon mötte mycket kritik i Sverige på grund av sin familjs kopplingar till nazismen.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Sibylla_av_Sachsen-Coburg-Gotha",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "barn": 3,
+      "friluftsliv": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1972",
     "kallage": "samtida",
     "sakerhet": "belagt",
     "konsensus": "samsyn",

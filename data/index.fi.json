@@ -24633,5 +24633,334 @@
     "sakerhet": "belagt",
     "konsensus": "samsyn",
     "flaggor": []
+  },
+  {
+    "id": "hist-q44519",
+    "typ": "historia",
+    "titel": "Selma Lagerlöf.",
+    "ingress": "Selma Lagerlöf oli erittäin tunnettu ruotsalainen kirjailija, joka oli ensimmäinen nainen, joka sai Nobelin kirjallisuuspalkinnon. Hän on tunnettu seikkailu- ja satukirjoistaan, ja hänen kotinsa Mårbackassa on nykyään museo.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Selma_Lagerlöf",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "barn": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1940",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q2514",
+    "typ": "historia",
+    "titel": "Willy Brandt.",
+    "ingress": "Willy Brandt oli merkittävä saksalainen poliitikko, joka toimi Saksan liittokanslerina (pääministerinä) vuosina 1969–1974. Hän on tunnettu siitä, että hän paransi suhteita Itä-Saksaan ja muihin itävaltioihin, ja sai Nobelin rauhanpalkinnon",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Willy_Brandt",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "epok": "1900talet",
+    "tid": "d. 1992",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q1267",
+    "typ": "historia",
+    "titel": "Dag Hammarskjöld.",
+    "ingress": "Dag Hammarskjöld oli ruotsalainen talous- ja oikeustieteen asiantuntija, joka toimi Yhdistyneiden kansakuntien pääsihteerinä. Hän on tunnetuin työstään YK:ssa sekä siitä, että hän kuoli lentokoneonnettomuudessa virkamatkalla.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Dag_Hammarskjöld",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_transport": 3,
+      "b_finans": 3,
+      "b_konsult": 3,
+      "student": 3,
+      "flygresenar": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1961",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q43247",
+    "typ": "historia",
+    "titel": "Ingrid Bergman.",
+    "ingress": "Ingrid Bergman oli erittäin tunnettu ruotsalainen näyttelijä, joka nousi maailmanlaajuisesti tunnetuksi Hollywoodissa. Hän voitti useita arvostettuja elokuvapalkintoja ja on edelleen yksi merkittävimmistä naisnäyttelijöistä elokuvahistorias",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Ingrid_Bergman",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_it": 3,
+      "b_kultur": 3,
+      "kvinna": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1982",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q7724",
+    "typ": "historia",
+    "titel": "August Strindberg",
+    "ingress": "August Strindberg oli erittäin tärkeä ruotsalainen kirjailija, joka kirjoitti tunnettuja romaaneja ja näytelmiä. Hän on yksi merkittävimmistä henkilöistä ruotsalaisen kirjallisuushistorian kannalta.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/August_Strindberg",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "infrastruktur": 3,
+      "student": 3,
+      "batagare": 3,
+      "kultur": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1912",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q5443",
+    "typ": "historia",
+    "titel": "Greta Garbo.",
+    "ingress": "Greta Garbo oli yksi maailman tunnetuimmista elokuvatähdistä 1920- ja 30-luvuilla. Hän tuli tunnetuksi näyttelijäntaidostaan, mutta hän valitsi hyvin yksityisen elämän ja kieltäytyi antamasta haastatteluja.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Greta_Garbo",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_handel": 3,
+      "b_kultur": 3,
+      "barn": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1990",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q57074",
+    "typ": "historia",
+    "titel": "Nelly Sachs.",
+    "ingress": "Nelly Sachs oli saksalais-ruotsalainen kirjailija, joka sai Nobelin kirjallisuuspalkinnon vuonna 1966. Hän pakeni natsien sortoa Saksasta Ruotsiin vuonna 1940 ja kirjoitti tärkeitä teoksia kokemuksistaan.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Nelly_Sachs",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_vard": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1970",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q80956",
+    "typ": "historia",
+    "titel": "Svante Arrhenius.",
+    "ingress": "Svante Arrhenius oli ruotsalainen tutkija, joka oli ensimmäinen ruotsalainen, joka sai Nobelin kemian palkinnon. Hän on tunnettu siitä, että hän havaitsi kasvihuoneilmiön ja selitti, miten hiilidioksidi vaikuttaa maapallon lämpötilaan.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Svante_Arrhenius",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "student": 5,
+      "klimat": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1927",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q93137",
+    "typ": "historia",
+    "titel": "Pär Lagerkvist.",
+    "ingress": "Pär Lagerkvist oli tunnettu ruotsalainen kirjailija ja runoilija, joka sai Nobelin kirjallisuuspalkinnon vuonna 1951. Hän on tunnettu teoksistaan, joissa hän käsitteli ihmisen tunteita ja uskoa modernissa maailmassa.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Pär_Lagerkvist",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "epok": "1900talet",
+    "tid": "d. 1974",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q129173",
+    "typ": "historia",
+    "titel": "Verner von Heidenstam.",
+    "ingress": "Verner von Heidenstam oli tunnettu ruotsalainen kirjailija ja runoilija, joka sai Nobelin kirjallisuuspalkinnon vuonna 1916. Hän tuli tunnetuksi runoistaan, jotka käsittelivät historiaa ja luontoa, ja hänellä oli läheinen ystävyyssuhde kirj",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Verner_von_Heidenstam",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_it": 3,
+      "barn": 5
+    },
+    "epok": "1900talet",
+    "tid": "d. 1940",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q56189",
+    "typ": "historia",
+    "titel": "Lise Meitner",
+    "ingress": "Lise Meitner oli merkittävä tutkija, joka löysi ydinfission periaatteet, mikä johti sekä ydinvoimaan että atomipommiin. Huolimatta hänen valtavasta panoksestaan, hän ei saanut Nobelin palkintoa, toisin kuin hänen kollegansa.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Lise_Meitner",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_energi": 3,
+      "kvinna": 3,
+      "student": 3,
+      "energikund": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1968",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q53713",
+    "typ": "historia",
+    "titel": "Olof Palme",
+    "ingress": "Olof Palme oli erittäin tunnettu ruotsalainen poliitikko, joka toimi pääministerinä ja Ruotsin sosiaalidemokraattisen puolueen johtajana useiden vuosien ajan. Hänet murhattiin vuonna 1986, mikä herätti suurta huomiota ympäri maailmaa.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Olof_Palme",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "epok": "1900talet",
+    "tid": "d. 1986",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q134641",
+    "typ": "historia",
+    "titel": "Erik Axel Karlfeldt.",
+    "ingress": "Erik Axel Karlfeldt oli tunnettu ruotsalainen runoilija ja kirjailija, joka sai Nobelin kirjallisuuspalkinnon kuolemansa jälkeen. Hänellä oli vaikea lapsuus, mutta hänestä tuli menestynyt kirjoittaja, jolla oli monia tärkeitä tehtäviä.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Erik_Axel_Karlfeldt",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "infrastruktur": 5,
+      "barn": 5,
+      "batagare": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1931",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q131326",
+    "typ": "historia",
+    "titel": "Eyvind Johnson.",
+    "ingress": "Eyvind Johnson oli tunnettu ruotsalainen kirjailija, joka sai Nobelin kirjallisuuspalkinnon vuonna 1974. Hän on tunnettu siitä, että hän kirjoitti tavallisten ihmisten elämästä ja osoitti vahvaa sitoutumistaan natsismia vastaan.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Eyvind_Johnson",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "epok": "1900talet",
+    "tid": "d. 1976",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
   }
 ]

@@ -24529,5 +24529,359 @@
     "sakerhet": "belagt",
     "konsensus": "samsyn",
     "flaggor": []
+  },
+  {
+    "id": "hist-q44519",
+    "typ": "historia",
+    "titel": "Selma Lagerlöf",
+    "ingress": "Selma Lagerlöf war eine sehr bekannte schwedische Schriftstellerin, die als erste Frau den Nobelpreis für Literatur erhielt. Sie ist bekannt für ihre Bücher über Abenteuer und Märchen, und ihr Haus in Mårbacka ist heute ein Museum.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Selma_Lagerlöf",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "barn": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1940",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q2514",
+    "typ": "historia",
+    "titel": "Willy Brandt",
+    "ingress": "Willy Brandt war ein bedeutender deutscher Politiker, der von 1969 bis 1974 Bundeskanzler (Ministerpräsident) des Landes war. Er ist bekannt dafür, die Beziehungen zu den Staaten im Osten verbessert zu haben, und erhielt für seine Arbeit de",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Willy_Brandt",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "epok": "1900talet",
+    "tid": "d. 1992",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q1267",
+    "typ": "historia",
+    "titel": "Dag Hammarskjöld.",
+    "ingress": "Dag Hammarskjöld war ein schwedischer Experte für Wirtschaft und Recht, der zum Generalsekretär der Vereinten Nationen ernannt wurde. Er ist vor allem bekannt für seine Arbeit bei den UN und dafür, dass er während seines Einsatzes bei einem",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Dag_Hammarskjöld",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_transport": 3,
+      "b_finans": 3,
+      "b_konsult": 3,
+      "student": 3,
+      "flygresenar": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1961",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q43247",
+    "typ": "historia",
+    "titel": "Ingrid Bergman.",
+    "ingress": "Ingrid Bergman war eine sehr bekannte schwedische Schauspielerin, die in Hollywood zu einem weltberühmten Star wurde. Sie gewann zahlreiche renommierte Filmpreise und ist bis heute eine der bedeutendsten Schauspielerinnen in der Filmgeschic",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Ingrid_Bergman",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_it": 3,
+      "b_kultur": 3,
+      "kvinna": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1982",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q7724",
+    "typ": "historia",
+    "titel": "August Strindberg",
+    "ingress": "August Strindberg war ein sehr bedeutender schwedischer Schriftsteller, der berühmte Romane und Theaterstücke verfasste. Er ist eine der wichtigsten Figuren in der schwedischen Literaturgeschichte.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/August_Strindberg",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "infrastruktur": 3,
+      "student": 3,
+      "batagare": 3,
+      "kultur": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1912",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q5443",
+    "typ": "historia",
+    "titel": "Greta Garbo.",
+    "ingress": "Greta Garbo war eine der bekanntesten Filmstars der Welt in den 1920er und 1930er Jahren. Sie wurde für ihre schauspielerischen Leistungen berühmt, entschied sich aber dafür, ein sehr zurückhaltendes Privatleben zu führen, und gab nie Inter",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Greta_Garbo",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_handel": 3,
+      "b_kultur": 3,
+      "barn": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1990",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q57074",
+    "typ": "historia",
+    "titel": "Nelly Sachs",
+    "ingress": "Nelly Sachs war eine deutsch-schwedische Schriftstellerin, die 1966 den Nobelpreis für Literatur erhielt. Sie floh vor der nationalsozialistischen Verfolgung in Deutschland nach Schweden im Jahr 1940 und verfasste bedeutende Werke über ihre",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Nelly_Sachs",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_vard": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1970",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q80956",
+    "typ": "historia",
+    "titel": "Svante Arrhenius.",
+    "ingress": "Svante Arrhenius war ein schwedischer Wissenschaftler, der als erster Schwede den Nobelpreis für Chemie erhielt. Er ist bekannt dafür, den Treibhauseffekt entdeckt und erklärt zu haben, wie Kohlendioxid die Erdtemperatur beeinflusst.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Svante_Arrhenius",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "student": 5,
+      "klimat": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1927",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q93137",
+    "typ": "historia",
+    "titel": "Pär Lagerkvist",
+    "ingress": "Pär Lagerkvist war ein sehr bekannter schwedischer Schriftsteller und Dichter, der 1951 den Nobelpreis für Literatur erhielt. Er ist bekannt dafür, über die Gefühle und Überzeugungen des Menschen in einer modernen Welt zu schreiben.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Pär_Lagerkvist",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "epok": "1900talet",
+    "tid": "d. 1974",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q129173",
+    "typ": "historia",
+    "titel": "Verner von Heidenstam",
+    "ingress": "Verner von Heidenstam war ein bekannter schwedischer Schriftsteller und Dichter, der 1916 den Nobelpreis für Literatur erhielt. Er wurde berühmt für seine Gedichte über Geschichte und Natur und pflegte eine enge Freundschaft mit dem Schrift",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Verner_von_Heidenstam",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_it": 3,
+      "barn": 5
+    },
+    "epok": "1900talet",
+    "tid": "d. 1940",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q56189",
+    "typ": "historia",
+    "titel": "Lise Meitner",
+    "ingress": "Lise Meitner war eine bedeutende Wissenschaftlerin, die die Funktionsweise der Kernspaltung entdeckte und damit den Weg für sowohl Kernenergie als auch Atombomben ebnete. Trotz ihrer immensen Bedeutung erhielt sie keinen Nobelpreis, während",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Lise_Meitner",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_energi": 3,
+      "kvinna": 3,
+      "student": 3,
+      "energikund": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1968",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q53713",
+    "typ": "historia",
+    "titel": "Olof Palme",
+    "ingress": "Olof Palme war ein sehr bekannter schwedischer Politiker, der viele Jahre lang Ministerpräsident und Vorsitzender der Sozialdemokraten war. Er wurde 1986 ermordet, was weltweit große Aufmerksamkeit erregte.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Olof_Palme",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "epok": "1900talet",
+    "tid": "d. 1986",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q134641",
+    "typ": "historia",
+    "titel": "Erik Axel Karlfeldt",
+    "ingress": "Erik Axel Karlfeldt war ein bekannter schwedischer Dichter und Schriftsteller, der posthum mit dem Nobelpreis für Literatur ausgezeichnet wurde. Er hatte eine schwierige Kindheit, entwickelte sich aber zu einer erfolgreichen Persönlichkeit",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Erik_Axel_Karlfeldt",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "infrastruktur": 5,
+      "barn": 5,
+      "batagare": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1931",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q131326",
+    "typ": "historia",
+    "titel": "Eyvind Johnson",
+    "ingress": "Eyvind Johnson war ein bekannter schwedischer Schriftsteller, der 1974 den Nobelpreis für Literatur erhielt. Er ist bekannt dafür, das Leben gewöhnlicher Menschen zu beschreiben und sich entschieden gegen den Nationalsozialismus einzusetzen",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Eyvind_Johnson",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "epok": "1900talet",
+    "tid": "d. 1976",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q54945",
+    "typ": "historia",
+    "titel": "Hannes Alfvén",
+    "ingress": "Hannes Alfvén war ein schwedischer Physiker, der 1970 den Nobelpreis für seine bedeutenden Entdeckungen darüber erhielt, wie Magnetfelder und Gase miteinander interagieren. Er war außerdem ein engagierter Debattierer, der sich klar gegen di",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Hannes_Alfvén",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "fou": 3,
+      "student": 5
+    },
+    "epok": "1900talet",
+    "tid": "d. 1995",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
   }
 ]

@@ -24376,5 +24376,334 @@
     "sakerhet": "belagt",
     "konsensus": "samsyn",
     "flaggor": []
+  },
+  {
+    "id": "hist-q44519",
+    "typ": "historia",
+    "titel": "سلمى لاغرلوف.",
+    "ingress": "سلمى لاغرفلو كانت كاتبة سويدية مشهورة، وهي أول امرأة حصلت على جائزة نوبل في الأدب. تشتهر سلمى بكتاباتها التي تتناول المغامرات والحكايات الخيالية، ويُعتبر منزلها الواقع في مارباكا اليوم متحفًا.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Selma_Lagerlöf",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "barn": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1940",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q2514",
+    "typ": "historia",
+    "titel": "ويلهيلم براندت.",
+    "ingress": "كان ويلي برانت سياسيًا ألمانيًا بارزًا، وشغل منصب مستشار ألمانيا (رئيس الوزراء) بين عامي 1969 و 1974. وهو معروف بتحسين العلاقات مع دول الكتلة الشرقية، وحصل على جائزة نوبل للسلام تقديرًا لجهوده.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Willy_Brandt",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "epok": "1900talet",
+    "tid": "d. 1992",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q1267",
+    "typ": "historia",
+    "titel": "داغ هامرشولد.",
+    "ingress": "كان \"داغ هامرشولد\" خبيرًا سويديًا في الاقتصاد والقانون، وشغل منصب الأمين العام للأمم المتحدة. وهو معروف بشكل خاص بعمله في الأمم المتحدة، وبوفاته في حادث تحطم طائرة أثناء قيامه بمهام عمله.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Dag_Hammarskjöld",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_transport": 3,
+      "b_finans": 3,
+      "b_konsult": 3,
+      "student": 3,
+      "flygresenar": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1961",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q43247",
+    "typ": "historia",
+    "titel": "إنغريد بيرغمان.",
+    "ingress": "كانت إنغريد بيرغمان ممثلة سويدية مشهورة، وأصبحت نجمة عالمية في هوليوود. فازت بالعديد من الجوائز السينمائية المرموقة، ولا تزال حتى اليوم واحدة من أهم الممثلات اللاتي تركن بصمة في تاريخ السينما.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Ingrid_Bergman",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_it": 3,
+      "b_kultur": 3,
+      "kvinna": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1982",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q7724",
+    "typ": "historia",
+    "titel": "أغوست ستريندبيرغ.",
+    "ingress": "كان أغسطس ستريندبيرغ كاتبًا سويديًا بالغ الأهمية، وقد ألّف روايات ومسرحيات مشهورة. وهو أحد أبرز الشخصيات في تاريخ الأدب السويدي.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/August_Strindberg",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "infrastruktur": 3,
+      "student": 3,
+      "batagare": 3,
+      "kultur": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1912",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q5443",
+    "typ": "historia",
+    "titel": "جريتا جاربو.",
+    "ingress": "كانت جريتا جاربو واحدة من أشهر نجمات السينما في العالم خلال حقبتي العشرينات والثلاثينيات. اشتهرت بموهبتها التمثيلية، لكنها فضلت الحفاظ على خصوصيتها ولم تمنح أي مقابلات صحفية قط.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Greta_Garbo",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_handel": 3,
+      "b_kultur": 3,
+      "barn": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1990",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q57074",
+    "typ": "historia",
+    "titel": "نلي ساكس.",
+    "ingress": "نلي ساكس كانت كاتبة ألمانية-سويدية، وقد حصلت على جائزة نوبل في الأدب عام 1966. هاجرت من ألمانيا النازية إلى السويد في عام 1940، وكتبت كتبًا مهمة تتناول التجارب التي مرت بها.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Nelly_Sachs",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_vard": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1970",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q80956",
+    "typ": "historia",
+    "titel": "سفانتي أرهنيوس.",
+    "ingress": "كان سوانتي أرينيوس عالمًا سويديًا، وكان أول سويدي يفوز بجائزة نوبل في الكيمياء. وهو معروف باكتشافه تأثير الاحتباس الحراري وشرحه لكيفية تأثير ثاني أكسيد الكربون على درجة حرارة الأرض.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Svante_Arrhenius",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "student": 5,
+      "klimat": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1927",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q93137",
+    "typ": "historia",
+    "titel": "بير لاجركفيست.",
+    "ingress": "كان بير لاجركفيست كاتبًا وشاعرًا سويديًا مرموقًا، وقد حصل على جائزة نوبل في الأدب عام 1951. وهو معروف بكتاباته التي تتناول مشاعر الإنسان وإيمانه في عالم حديث.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Pär_Lagerkvist",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "epok": "1900talet",
+    "tid": "d. 1974",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q129173",
+    "typ": "historia",
+    "titel": "فيرنر فون هايدنشتام.",
+    "ingress": "كان فيرنر فون هايدنشتام كاتبًا وشاعرًا سويديًا مشهورًا، وقد حصل على جائزة نوبل في الأدب عام 1916. اشتهر بقصائده التي تتناول التاريخ والطبيعة، وكان تربطه صداقة وثيقة مع الكاتب أغسطس ستريندبيرغ.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Verner_von_Heidenstam",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_it": 3,
+      "barn": 5
+    },
+    "epok": "1900talet",
+    "tid": "d. 1940",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q56189",
+    "typ": "historia",
+    "titel": "ليز مايتنر",
+    "ingress": "كانت ليزي مايتنر باحثة مرموقة اكتشفت كيفية عمل الانشطار النووي، مما أدى إلى تطوير كل من الطاقة النووية والقنبلة الذرية. وعلى الرغم من أهميتها الكبيرة، لم تحصل على جائزة نوبل التي حصل عليها زميلها.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Lise_Meitner",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_energi": 3,
+      "kvinna": 3,
+      "student": 3,
+      "energikund": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1968",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q53713",
+    "typ": "historia",
+    "titel": "أولوف بالمه.",
+    "ingress": "كان أولوف بالمه سياسيًا سويديًا بارزًا، شغل منصب رئيس الوزراء وقاد حزب العمال الديمقراطي لسنوات عديدة. وقد اغتيل عام 1986، مما أثار اهتمامًا واسع النطاق في جميع أنحاء العالم.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Olof_Palme",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "epok": "1900talet",
+    "tid": "d. 1986",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q134641",
+    "typ": "historia",
+    "titel": "إريك أكسل كارلفيلت.",
+    "ingress": "كان إريك أكسل كارلفيلد شاعرًا وكاتبًا سويديًا مشهورًا، وقد حصل على جائزة نوبل في الأدب بعد وفاته. لقد مرّ بطفولة صعبة، ولكنه أصبح شخصية ناجحة ومتمكنة في الكتابة، وشغل العديد من المناصب الهامة.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Erik_Axel_Karlfeldt",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "infrastruktur": 5,
+      "barn": 5,
+      "batagare": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1931",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q131326",
+    "typ": "historia",
+    "titel": "إيفيند يوهانسون.",
+    "ingress": "كان إيفيند يوهانسون كاتبًا سويديًا مشهورًا، وقد حصل على جائزة نوبل في الأدب عام 1974. وهو معروف بكتاباته التي تتناول حياة الناس العاديين، والتزامه القوي ضد النازية.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Eyvind_Johnson",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "epok": "1900talet",
+    "tid": "d. 1976",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
   }
 ]
