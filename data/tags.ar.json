@@ -97,7 +97,7 @@
   "eu-ratt": {
     "etikett": "قانون الاتحاد الأوروبي",
     "typ": "ämne",
-    "antal": 11
+    "antal": 13
   },
   "straffratt": {
     "etikett": "القانون الجنائي",
@@ -112,7 +112,7 @@
   "ekonomi": {
     "etikett": "الاقتصاد",
     "typ": "ämne",
-    "antal": 22
+    "antal": 26
   },
   "sverige": {
     "etikett": "السويد",
@@ -182,7 +182,7 @@
   "skatt": {
     "etikett": "الضرائب",
     "typ": "ämne",
-    "antal": 7
+    "antal": 9
   },
   "finansmarknad": {
     "etikett": "# الأسواق المالية",
@@ -312,7 +312,7 @@
   "kommunal-forvaltning": {
     "etikett": "الإدارة المحلية.",
     "typ": "ämne",
-    "antal": 13
+    "antal": 14
   },
   "karin-wanngard": {
     "etikett": "كارين وانغارد.",
@@ -327,17 +327,17 @@
   "ecb": {
     "etikett": "البنك المركزي الأوروبي.",
     "typ": "organisation",
-    "antal": 10
+    "antal": 11
   },
   "eu": {
     "etikett": "الاتحاد الأوروبي.",
     "typ": "organisation",
-    "antal": 29
+    "antal": 37
   },
   "eu-kommissionen": {
     "etikett": "لجنة الاتحاد الأوروبي.",
     "typ": "organisation",
-    "antal": 21
+    "antal": 27
   },
   "alingsas": {
     "etikett": "Alingsås",
@@ -362,7 +362,7 @@
   "protokoll": {
     "etikett": "محضر اجتماع.",
     "typ": "ämne",
-    "antal": 12
+    "antal": 13
   },
   "ulf-rapp": {
     "etikett": "أولف راب.",
@@ -427,7 +427,7 @@
   "kommunalpolitik": {
     "etikett": "السياسة المحلية.",
     "typ": "ämne",
-    "antal": 17
+    "antal": 19
   },
   "lekeberg": {
     "etikett": "ليكبِيرج.",
@@ -602,7 +602,7 @@
   "orebro": {
     "etikett": "أوربرو.",
     "typ": "plats",
-    "antal": 17
+    "antal": 20
   },
   "orsa": {
     "etikett": "أورسا.",
@@ -1402,22 +1402,22 @@
   "reg-halland": {
     "etikett": "منطقة هالان.",
     "typ": "organisation",
-    "antal": 19
+    "antal": 23
   },
   "regionfullmaktige": {
     "etikett": "أعضاء المجلس الإقليمي المنتخبون.",
     "typ": "organisation",
-    "antal": 31
+    "antal": 35
   },
   "regionstyrelsen": {
     "etikett": "مجلس المنطقة.",
     "typ": "organisation",
-    "antal": 27
+    "antal": 33
   },
   "reg-orebro": {
     "etikett": "منطقة أوربرو.",
     "typ": "organisation",
-    "antal": 18
+    "antal": 21
   },
   "reg-vastmanland": {
     "etikett": "منطقة فاستمانلاند.",
@@ -1427,7 +1427,7 @@
   "reg-jamtland": {
     "etikett": "منطقة يمتلاند هيريدالن.",
     "typ": "organisation",
-    "antal": 19
+    "antal": 22
   },
   "reg-blekinge": {
     "etikett": "منطقة بليكينغه.",
@@ -1622,27 +1622,27 @@
   "region-halland": {
     "etikett": "منطقة هالان.",
     "typ": "organisation",
-    "antal": 14
+    "antal": 18
   },
   "halland": {
     "etikett": "هالاند.",
     "typ": "plats",
-    "antal": 15
+    "antal": 19
   },
   "regionalpolitik": {
     "etikett": "السياسة الإقليمية.",
     "typ": "ämne",
-    "antal": 23
+    "antal": 27
   },
   "region-orebro-lan": {
     "etikett": "منطقة أوربرو.",
     "typ": "organisation",
-    "antal": 15
+    "antal": 18
   },
   "sjukvard": {
     "etikett": "الرعاية الصحية.",
     "typ": "ämne",
-    "antal": 16
+    "antal": 19
   },
   "klimat-och-miljo": {
     "etikett": "المناخ والبيئة:\n\n*   [قائمة بنقاط حول المناخ والبيئة]\n    *   [نقطة 1]\n    *   [نقطة 2]\n    *   [نقطة 3]\n*   [قائمة أخرى بنقاط حول المناخ والبيئة]\n    *   [نقطة 4]\n    *   [نقطة 5]\n    *   [نقطة 6]\n*   [معلومات إضافية أو روابط ذات صلة، مثل الأسماء والأرقام والتواريخ وعناوين URL]\n    *   اسم: [اسم]\n    *   رقم: [رقم]\n    *   تاريخ: [تاريخ]\n    *   عنوان URL: [عنوان URL]",
@@ -1652,12 +1652,12 @@
   "regional-forvaltning": {
     "etikett": "الإدارة الإقليمية.",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "region-jamtland-harjedalen": {
     "etikett": "منطقة يمتلاند هيريدالن.",
     "typ": "organisation",
-    "antal": 15
+    "antal": 18
   },
   "ostersund": {
     "etikett": "أوسترسوند.",
@@ -1667,7 +1667,7 @@
   "jamtland": {
     "etikett": "يامتلاند.",
     "typ": "plats",
-    "antal": 10
+    "antal": 12
   },
   "regional-ekonomi": {
     "etikett": "الاقتصاد الإقليمي.",
@@ -1682,7 +1682,7 @@
   "skatteverket": {
     "etikett": "مصلحة الضرائب السويدية.",
     "typ": "organisation",
-    "antal": 6
+    "antal": 8
   },
   "pension": {
     "etikett": "المعاش التقاعدي.",
@@ -1732,12 +1732,12 @@
   "socialforsakring": {
     "etikett": "التأمين الاجتماعي.",
     "typ": "ämne",
-    "antal": 5
+    "antal": 6
   },
   "forsakringskassan": {
     "etikett": "صندوق التأمين الاجتماعي.",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "arbetsmarknad": {
     "etikett": "سوق العمل.",
@@ -1887,17 +1887,17 @@
   "varberg": {
     "etikett": "فاربرغ.",
     "typ": "plats",
-    "antal": 2
+    "antal": 3
   },
   "offentlig-forvaltning": {
     "etikett": "الإدارة العامة.",
     "typ": "ämne",
-    "antal": 3
+    "antal": 5
   },
   "kollektivtrafik": {
     "etikett": "النقل العام.",
     "typ": "ämne",
-    "antal": 3
+    "antal": 4
   },
   "utbildningsnamndens-pdf-bortredigerad": {
     "etikett": "وثيقة صادرة عن لجنة التعليم بصيغة PDF، وقد تم حذف بعض أجزائها أو تعديلها.",
@@ -1982,6 +1982,16 @@
   "fastighetsforvaltning": {
     "etikett": "إدارة العقارات.",
     "typ": "ämne",
+    "antal": 1
+  },
+  "regional-utveckling": {
+    "etikett": "التنمية الإقليمية.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "jenny-steen": {
+    "etikett": "جيني ستين.",
+    "typ": "person",
     "antal": 1
   }
 }

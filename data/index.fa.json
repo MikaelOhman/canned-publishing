@@ -58,6 +58,186 @@
     }
   },
   {
+    "id": "ecb-2026-06-29-christine-lagarde-back-to-basi",
+    "typ": "omvarld",
+    "titel": "کریستین لاگارد: بازگشت به اصول اساسی در یک محیط پر از ابهام.",
+    "ingress": "رئیس بانک مرکزی اروپا (ECB) اعلام کرده است که این بانک اکنون می‌تواند به استفاده از روش‌های معمول برای کنترل قیمت‌ها در اروپا بازگردد. پس از سال‌ها بحران و اقدامات غیرمعمول، اقتصاد اکنون ثبات بیشتری یافته است، که این امر کنترل را با استفاده",
+    "datum": "2026-06-29",
+    "kalla": "ECB",
+    "kalla_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260629~cb5a2e2168.en.html",
+    "taggar": [
+      "ekonomi",
+      "ecb"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "b_energi": 3,
+      "sparare": 3,
+      "lantagare": 3,
+      "energikund": 3,
+      "konsument": 3
+    }
+  },
+  {
+    "id": "eu-kommissionen-2026-06-29-joint-press-statement-by-commi",
+    "typ": "omvarld",
+    "titel": "بیانیه مشترک مطبوعاتی از سوی کمیسر Šefčovič و وزیر Wang.",
+    "ingress": "نمایندگانی از اتحادیه اروپا و یک وزیر چینی، با همکاری یکدیگر، یک سند مشترک در زمینه تجارت و اقتصاد امضا کردند. هدف این اقدام، افزایش شفافیت و بهبود همکاری بین اروپا و چین است.",
+    "datum": "2026-06-29",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1480",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ],
+    "relevans": {
+      "kronisk": 3
+    }
+  },
+  {
+    "id": "eu-kommissionen-2026-06-29-daily-news-29-06-2026",
+    "typ": "omvarld",
+    "titel": "اخبار روزانه، تاریخ 29 ژوئن 2026.",
+    "ingress": "اتحادیه اروپا کمک‌های فوری ارسال می‌کند و پروازهای حامل کمک‌های اضطراری را به ونزوئلا سازماندهی کرده است، این اقدامات در پی وقوع زلزله‌های شدید در این کشور انجام می‌شوند.",
+    "datum": "2026-06-29",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1476",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ],
+    "relevans": {
+      "b_transport": 3,
+      "flygresenar": 3
+    }
+  },
+  {
+    "id": "eu-kommissionen-2026-06-29-commissioner-roswall-s-keynote",
+    "typ": "omvarld",
+    "titel": "سخنرانی افتتاحیه کمیسر روسوال در کنفرانس \"تامین مالی و سرمایه‌گذاری سبز\" در مولداوی.",
+    "ingress": "کمیسیون اروپا جلسه‌ای را در مولداوی برگزار می‌کند تا درباره چگونگی سرمایه‌گذاری در پروژه‌های سازگار با محیط زیست گفتگو کند.",
+    "datum": "2026-06-29",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1475",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ],
+    "relevans": {
+      "b_finans": 8,
+      "finansiering": 8,
+      "miljo": 3,
+      "klimat": 5
+    }
+  },
+  {
+    "id": "skatteverket-2026-06-29-forsta-steg-taget-mot-digital-",
+    "typ": "myndighet",
+    "titel": "اولین قدم‌ها برای دیجیتالی‌سازی فرایند ثبت اموال و دارایی‌های متوفی برداشته شد.",
+    "ingress": "از تاریخ ۱ جولای، انجام مراحل مربوط به ارزیابی دارایی‌های متوفی (bouppteckning) به صورت دیجیتالی قانونی خواهد شد. این یک گام اولیه در جهت تسهیل فرآیند برای افرادی است که مسئول رسیدگی به اموال و ترکه متوفی هستند.",
+    "datum": "2026-06-29",
+    "kalla": "Skatteverket",
+    "kalla_url": "http://skatteverket.se/omoss/pressochmedia/pressmeddelanden/2026/2026/forstastegtagetmotdigitalbouppteckning.5.3129d65419ef1497c0615dc.html",
+    "taggar": [
+      "skatt",
+      "skatteverket"
+    ],
+    "relevans": {
+      "b_it": 3,
+      "lantagare": 3
+    }
+  },
+  {
+    "id": "skatteverket-2026-06-29-forandringar-som-ror-bouppteck",
+    "typ": "myndighet",
+    "titel": "تغییراتی که مربوط به تنظیم فهرست اموال منقول و غیرمنقول (bouppteckning) هستند:",
+    "ingress": "از تاریخ ۱ جولای، قوانین جدیدی برای نحوه تهیه \"وصیت‌نامه\" (مستنداتی که نشان می‌دهد یک فرد فوت‌شده چه دارایی‌هایی داشته است) اعمال خواهد شد. همچنین، در آینده، ارسال مدارک به صورت دیجیتال آسان‌تر خواهد شد.",
+    "datum": "2026-06-29",
+    "kalla": "Skatteverket",
+    "kalla_url": "http://skatteverket.se/omoss/pressochmedia/nyheter/2026/nyheter/forandringarsomrorbouppteckning.5.3129d65419ef1497c0615a8.html",
+    "taggar": [
+      "skatt",
+      "skatteverket"
+    ],
+    "relevans": {
+      "lantagare": 3
+    }
+  },
+  {
+    "id": "fk-2026-06-29-fler-skadade-under-sommaren",
+    "typ": "myndighet",
+    "titel": "تعداد مجروحان در طول تابستان افزایش یافت.",
+    "ingress": "در طول تابستان، تعداد افرادی که دچار آسیب‌دیدگی می‌شوند و نیاز به مرخصی استعلاجی پیدا می‌کنند، افزایش می‌یابد. این امر احتمالاً به دلیل افزایش فعالیت‌های افراد در فضای باز است، اما آن‌ها کارهایی را انجام می‌دهند که با آن آشنایی ندارند.",
+    "datum": "2026-06-29",
+    "kalla": "Försäkringskassan",
+    "kalla_url": "https://www.forsakringskassan.se/nyhetsarkiv/nyheter-press/2026-06-29-fler-skadade-under-sommaren",
+    "taggar": [
+      "socialforsakring",
+      "forsakringskassan"
+    ],
+    "relevans": {
+      "arbetsgivare": 5,
+      "b_bygg": 3,
+      "b_finans": 3,
+      "sjuklon": 3,
+      "sjukskriven": 5,
+      "psykisk": 3
+    }
+  },
+  {
+    "id": "eu-kommissionen-2026-06-28-commission-approves-402-millio",
+    "typ": "omvarld",
+    "titel": "کمیسیون، حمایت مالی دولتی اسپانیا به مبلغ 402 میلیون یورو را برای شرکت‌های حمل و نقل جاده‌ای که تحت تأثیر افزایش قیمت سوخت قرار گرفته‌اند، تایید کرد.",
+    "ingress": "اسپانیا به شرکت‌های حمل و نقل که تحت تأثیر افزایش قیمت سوخت قرار گرفته‌اند، کمک مالی ارائه می‌دهد. این اقدام با هدف حمایت از شرکت‌هایی انجام می‌شود که در زمینه حمل بار و استفاده از وسایل نقلیه مختلف فعالیت دارند.",
+    "datum": "2026-06-28",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1470",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ],
+    "relevans": {
+      "b_transport": 3,
+      "arbetsratt": 3,
+      "glesbygd": 8
+    }
+  },
+  {
+    "id": "eu-kommissionen-2026-06-28-commission-calls-on-the-nether",
+    "typ": "omvarld",
+    "titel": "کمیسیون از هلند خواست تا رقابت را در بخش قطارهای مسافربری بین‌المللی بهبود بخشد.",
+    "ingress": "اتحادیه اروپا، هلند را به دلیل قوانینی که در مورد تردد قطارها در خطوط ریلی این کشور وضع شده است، مورد انتقاد قرار داده است. این قوانین ممکن است مانع از ایجاد رقابت شود. هدف از این اقدام، تسهیل فعالیت شرکت‌های مختلف برای ارائه خدمات حمل و نق",
+    "datum": "2026-06-28",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1460",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ],
+    "relevans": {
+      "konkurrens": 8,
+      "infrastruktur": 3,
+      "kollektiv": 3
+    }
+  },
+  {
+    "id": "eu-kommissionen-2026-06-28-press-remarks-by-commissioner-",
+    "typ": "omvarld",
+    "titel": "اظهارات کمیسیونر Šefčovič درباره مشاوره‌های تجاری و سرمایه‌گذاری بین اتحادیه اروپا و چین.",
+    "ingress": "اتحادیه اروپا و چین گفتگوهایی را آغاز کرده‌اند تا در مورد نحوه همکاری در زمینه تجارت و سرمایه‌گذاری به توافق برسند. هدف از این گفتگوها، ایجاد شرایط بهتر برای انجام فعالیت‌های تجاری بین این دو منطقه بزرگ است.",
+    "datum": "2026-06-28",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1344",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ],
+    "relevans": {
+      "finansiering": 8,
+      "kronisk": 3
+    }
+  },
+  {
     "id": "eu-kommissionen-2026-06-27-doorstep-statement-by-commissi",
     "typ": "omvarld",
     "titel": "اظهاراتی از خانم لاهبیب، کمیسیونر اتحادیه اروپا، در مراسم Budapest Pride که مستقیماً خطاب به حضار ایراد شد:",
@@ -294,6 +474,41 @@
     "relevans": {
       "infrastruktur": 8,
       "kollektiv": 3
+    }
+  },
+  {
+    "id": "eu-32026R1406",
+    "typ": "omvarld",
+    "titel": "آیین‌نامه اجرایی کمیسیون اروپا با شماره (EU) 2026/1406.",
+    "ingress": "قوانین جدید، استفاده از مناطقی که قبلاً برای پرورش صدف مورد تایید و بازرسی قرار گرفته‌اند را آسان‌تر می‌کند. فقط در صورتی که تغییرات چشمگیری در محیط زیست آن منطقه رخ دهد، نیاز به انجام معاینات بهداشتی مجدد است.",
+    "datum": "2026-06-26",
+    "kalla": "EU (EUR-Lex)",
+    "kalla_url": "https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32026R1406",
+    "taggar": [
+      "eu",
+      "eu-ratt"
+    ],
+    "relevans": {
+      "klimat": 3,
+      "integritet": 3
+    }
+  },
+  {
+    "id": "eu-32026R1412",
+    "typ": "omvarld",
+    "titel": "آیین‌نامه اجرایی کمیسیون اروپا با شماره (EU) 2026/1412.",
+    "ingress": "اتحادیه اروپا مقررات جدیدی را برای نحوه تخصیص مجانی حق انتشار آلاینده‌ها به صنایع، بین سال‌های 2026 تا 2030، تعیین کرده است. هدف از این اقدام، کاهش میزان انتشار گازهای گلخانه‌ای از کارخانه‌های تولیدکننده‌ی محصولاتی مانند سیمان، سنگ آهن و هی",
+    "datum": "2026-06-26",
+    "kalla": "EU (EUR-Lex)",
+    "kalla_url": "https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32026R1412",
+    "taggar": [
+      "eu",
+      "eu-ratt"
+    ],
+    "relevans": {
+      "b_industri": 5,
+      "miljo": 3,
+      "klimat": 5
     }
   },
   {
@@ -3756,6 +3971,31 @@
       "pendlare": 3,
       "kollektiv": 8,
       "beroende": 3
+    }
+  },
+  {
+    "id": "reg-orebro-regionfullmaktige-2026-06-15",
+    "typ": "region",
+    "titel": "اعضای شورای منطقه، استان اربرو، تاریخ: 2026-06-15.",
+    "ingress": "منطقه اربرو (Örebro län) تصمیماتی را در مورد برنامه عملیاتی و بودجه خود برای سال ۲۰۲۷ اتخاذ کرده است، و همچنین تصمیمات مهمی در رابطه با خدمات بهداشتی و درمانی گرفته است.",
+    "datum": "2026-06-15",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionfullmaktige/mote-2026-06-15",
+    "taggar": [
+      "reg-orebro",
+      "regionfullmaktige",
+      "region-orebro-lan",
+      "orebro",
+      "kollektivtrafik",
+      "sjukvard"
+    ],
+    "relevans": {
+      "b_konsult": 3,
+      "sjuklon": 3,
+      "sjukskriven": 3,
+      "pendlare": 3,
+      "kollektiv": 3,
+      "kronisk": 8
     }
   },
   {
@@ -15409,6 +15649,26 @@
     }
   },
   {
+    "id": "reg-jamtland-regionstyrelsen-2025-08-26",
+    "typ": "region",
+    "titel": "هیئت منطقه ای، منطقه یامتلند هرجدالن، تاریخ: 26 اوت 2025.",
+    "ingress": "این منطقه گزارشی را بررسی کرده است که نشان می‌دهد شرایط اقتصادی دشوار است و هزینه‌ها در نیمه اول سال ۲۰۲۵ از میزان پیش‌بینی‌شده بیشتر شده‌اند.",
+    "datum": "2025-08-26",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionstyrelsen/mote-2025-08-26",
+    "taggar": [
+      "reg-jamtland",
+      "regionstyrelsen",
+      "region-jamtland-harjedalen",
+      "sjukvard",
+      "regionalpolitik",
+      "ekonomi"
+    ],
+    "relevans": {
+      "kronisk": 8
+    }
+  },
+  {
     "id": "bollebygd-kommunstyrelsen-2025-07-11",
     "typ": "kommunbeslut",
     "titel": "شورای شهر، شهرداری بولهبیگد، ۱۱ جولای ۲۰۲۵.",
@@ -16281,6 +16541,39 @@
     }
   },
   {
+    "id": "reg-orebro-regionstyrelsen-2025-06-03",
+    "typ": "region",
+    "titel": "هیئت منطقه ای، سازمان منطقه ای اربرو، تاریخ: 3 ژوئن 2025.",
+    "ingress": "هیئت منطقه ای استان اوربرو تصمیماتی مهم در مورد مسائل مربوط به خدمات بهداشتی و درمانی، حمل و نقل عمومی، پروژه های ساختمانی و برنامه های زیست محیطی برای آینده اتخاذ کرده است.",
+    "datum": "2025-06-03",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionstyrelsen/mote-2025-06-03",
+    "taggar": [
+      "reg-orebro",
+      "regionstyrelsen",
+      "region-orebro-lan",
+      "orebro",
+      "regionalpolitik",
+      "jenny-steen"
+    ],
+    "relevans": {
+      "b_industri": 3,
+      "b_bygg": 3,
+      "b_energi": 5,
+      "finansiering": 3,
+      "infrastruktur": 3,
+      "gravid": 3,
+      "pendlare": 3,
+      "kollektiv": 8,
+      "kronisk": 8,
+      "tandvard": 3,
+      "energikund": 3,
+      "konsument": 3,
+      "klimat": 5,
+      "kultur": 3
+    }
+  },
+  {
     "id": "HC03167",
     "typ": "lagforslag",
     "titel": "آمادگی نظام بهداشت و درمان",
@@ -16535,6 +16828,33 @@
     }
   },
   {
+    "id": "reg-jamtland-regionstyrelsen-2025-05-27",
+    "typ": "region",
+    "titel": "هیئت منطقه ای، منطقه جمتلند هرجدالن، تاریخ: 27 مه 2025.",
+    "ingress": "هیئت منطقه ای ژمتلند هرجدالن تصمیماتی مهم در مورد مسائل مربوط به خدمات بهداشتی و درمانی، اقتصاد و پروژه های محلی را برای سال 2025 و سال‌های بعد اتخاذ کرده است.",
+    "datum": "2025-05-27",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionstyrelsen/mote-2025-05-27",
+    "taggar": [
+      "reg-jamtland",
+      "regionstyrelsen",
+      "region-jamtland-harjedalen",
+      "regional-forvaltning",
+      "jamtland",
+      "offentlig-forvaltning"
+    ],
+    "relevans": {
+      "b_fastighet": 5,
+      "b_energi": 3,
+      "finansiering": 3,
+      "barn": 3,
+      "kronisk": 8,
+      "tandvard": 3,
+      "energikund": 3,
+      "klimat": 5
+    }
+  },
+  {
     "id": "HC03174",
     "typ": "lagforslag",
     "titel": "اقدامات اجرایی قابل اعمال علیه کشتی‌ها در چارچوب سیستم تجارت انتشار گازهای گلخانه‌ای اتحادیه اروپا.",
@@ -16684,6 +17004,31 @@
     }
   },
   {
+    "id": "reg-halland-regionstyrelsen-2025-05-07",
+    "typ": "region",
+    "titel": "هیئت مدیره منطقه، منطقه هالاند، تاریخ: 7 مه 2025.",
+    "ingress": "هیئت منطقه ای هالند در مورد چندین موضوع مهم مربوط به خدمات بهداشتی و درمانی، توسعه منطقه ای و برنامه های زیست محیطی تصمیماتی اتخاذ کرده است.",
+    "datum": "2025-05-07",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionstyrelsen/mote-2025-05-07",
+    "taggar": [
+      "reg-halland",
+      "regionstyrelsen",
+      "halland",
+      "region-halland",
+      "regional-utveckling",
+      "sjukvard"
+    ],
+    "relevans": {
+      "b_transport": 3,
+      "b_it": 3,
+      "fou": 3,
+      "barn": 3,
+      "kronisk": 8,
+      "klimat": 3
+    }
+  },
+  {
     "id": "HC03164",
     "typ": "lagforslag",
     "titel": "یک فعالیت رادیویی تجاری که از نظر اقتصادی و زیست‌محیطی در بلندمدت پایدار باشد.",
@@ -16746,6 +17091,32 @@
       "export": 4,
       "eu_marknad": 3,
       "gron_omstallning": 3
+    }
+  },
+  {
+    "id": "reg-orebro-regionstyrelsen-2025-04-29",
+    "typ": "region",
+    "titel": "هیئت منطقه ای، سازمان منطقه ای اربرو، تاریخ: ۲۹ آوریل ۲۰۲۵.",
+    "ingress": "هیئت منطقه ای استان اوربرو تصمیماتی مهمی در مورد مسائل مربوط به خدمات بهداشتی و درمانی، فرهنگ، اقتصاد و همکاری های محلی اتخاذ کرده است.",
+    "datum": "2025-04-29",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionstyrelsen/mote-2025-04-29",
+    "taggar": [
+      "reg-orebro",
+      "regionstyrelsen",
+      "region-orebro-lan",
+      "orebro",
+      "regionalpolitik",
+      "ekonomi"
+    ],
+    "relevans": {
+      "arbetsgivare": 5,
+      "b_kultur": 3,
+      "kvinna": 3,
+      "student": 3,
+      "kronisk": 8,
+      "kultur": 3,
+      "varnpliktig": 3
     }
   },
   {
@@ -16987,6 +17358,28 @@
       "finansiering": 3,
       "f_kommun": 3,
       "regelborda": 3
+    }
+  },
+  {
+    "id": "reg-halland-regionstyrelsen-2025-04-14",
+    "typ": "region",
+    "titel": "هیئت مدیره منطقه، منطقه هالاند، ۱۴ آوریل ۲۰۲۵.",
+    "ingress": "این یک پروتکل است که فقط شامل اصلاحات فنی در متن و ارقام موجود در گزارش‌های اقتصادی منطقه می‌باشد.",
+    "datum": "2025-04-14",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionstyrelsen/mote-2025-04-14",
+    "taggar": [
+      "reg-halland",
+      "regionstyrelsen",
+      "region-halland",
+      "halland",
+      "ekonomi",
+      "offentlig-forvaltning"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "b_fastighet": 3,
+      "kronisk": 8
     }
   },
   {
@@ -18769,6 +19162,34 @@
     }
   },
   {
+    "id": "reg-jamtland-regionfullmaktige-2024-06-19",
+    "typ": "region",
+    "titel": "به اطلاع می‌رساند که این سند، مصوبه شورای منطقه \"یِمتلند هرجه‌دالن\" است و تاریخ صدور آن 19 ژوئن 2024 می‌باشد.",
+    "ingress": "منطقه یامتلند هرجدالن تصمیماتی مهم در مورد مسائل مربوط به خدمات بهداشتی و درمانی، حمل و نقل عمومی و بودجه های آتی برای سال های 2025-2027 اتخاذ کرده است.",
+    "datum": "2024-06-19",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionfullmaktige/mote-2024-06-19",
+    "taggar": [
+      "reg-jamtland",
+      "regionfullmaktige",
+      "region-jamtland-harjedalen",
+      "jamtland",
+      "regionalpolitik",
+      "kommunal-forvaltning"
+    ],
+    "relevans": {
+      "b_fastighet": 3,
+      "b_konsult": 3,
+      "redovisning": 3,
+      "digitalisering": 3,
+      "pendlare": 3,
+      "kollektiv": 3,
+      "kronisk": 8,
+      "konsument": 3,
+      "digital_ovan": 3
+    }
+  },
+  {
     "id": "ange-kommunfullmaktige-2024-06-10",
     "typ": "kommunbeslut",
     "titel": "جلسه شورای شهر، شهرداری Ånge، تاریخ 2024-06-10.",
@@ -18794,6 +19215,31 @@
     }
   },
   {
+    "id": "reg-halland-regionfullmaktige-2024-04-24",
+    "typ": "region",
+    "titel": "به اطلاع می‌رساند که این سند، مجوز منطقه‌ای است که توسط شورای منطقه هالند در تاریخ 24 آوریل 2024 صادر شده است.",
+    "ingress": "این سند، صورتجلسه یک جلسه از منطقه \"هالاند\" است که در آن موضوعاتی مربوط به خدمات بهداشتی و درمانی، حمل‌ونقل عمومی و مسائل اقتصادی مورد بحث قرار گرفتند.",
+    "datum": "2024-04-24",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionfullmaktige/mote-2024-04-24",
+    "taggar": [
+      "reg-halland",
+      "regionfullmaktige",
+      "halland",
+      "region-halland",
+      "kommunalpolitik",
+      "protokoll"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "redovisning": 3,
+      "pendlare": 3,
+      "kollektiv": 8,
+      "kronisk": 8,
+      "kultur": 3
+    }
+  },
+  {
     "id": "grums-grundlaggande-granskning-av-kommunstyrel-2024-03-25",
     "typ": "kommunbeslut",
     "titel": "بازبینی اولیه از شورای شهر، شهرداری گرومز، تاریخ 25 مارس 2024.",
@@ -18809,6 +19255,30 @@
       "fortroendevald": 7,
       "offentliganstalld": 5,
       "f_kommun": 6
+    }
+  },
+  {
+    "id": "reg-halland-regionfullmaktige-2024-02-28",
+    "typ": "region",
+    "titel": "به اطلاع می‌رساند که این سند، مصوبه شورای منطقه هالند است و تاریخ صدور آن 28 فوریه 2024 می‌باشد.",
+    "ingress": "منطقه هلند تصمیم گرفته است برنامه‌های خود را هم در زمینه خدمات بهداشتی و درمانی و هم در زمینه خدمات کتابخانه‌ای، تمدید کند.",
+    "datum": "2024-02-28",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionfullmaktige/mote-2024-02-28",
+    "taggar": [
+      "reg-halland",
+      "regionfullmaktige",
+      "region-halland",
+      "halland",
+      "kommunalpolitik",
+      "varberg"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "barn": 3,
+      "kronisk": 8,
+      "konsument": 3,
+      "kultur": 3
     }
   },
   {

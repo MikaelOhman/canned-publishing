@@ -1,6 +1,6 @@
 {
-  "uppdaterad": "2026-06-29T09:11",
-  "artiklar": 1217,
+  "uppdaterad": "2026-06-30T07:49",
+  "artiklar": 1239,
   "sprak": 13,
   "kommuner": 134,
   "kommuner_bevakade": 160,
@@ -8,28 +8,28 @@
   "per_typ": {
     "kommunbeslut": 322,
     "marknad": 1,
-    "omvarld": 41,
-    "myndighet": 54,
+    "omvarld": 50,
+    "myndighet": 57,
     "nyhet": 10,
     "lagforslag": 426,
-    "region": 60,
+    "region": 70,
     "historia": 303
   },
   "per_sprak": {
-    "sv": 1217,
-    "en": 1175,
-    "de": 1172,
-    "fr": 1170,
-    "nl": 1170,
-    "it": 1169,
-    "es": 1170,
-    "pl": 1170,
-    "hu": 1164,
-    "ro": 1164,
-    "fi": 1176,
-    "ar": 1163,
-    "fa": 1161
+    "sv": 1239,
+    "en": 1229,
+    "de": 1226,
+    "fr": 1225,
+    "nl": 1225,
+    "it": 1224,
+    "es": 1225,
+    "pl": 1225,
+    "hu": 1219,
+    "ro": 1218,
+    "fi": 1230,
+    "ar": 1217,
+    "fa": 1215
   },
-  "nytt_7d": 92,
-  "nytt_30d": 263
+  "nytt_7d": 85,
+  "nytt_30d": 276
 }

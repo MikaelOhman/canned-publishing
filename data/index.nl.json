@@ -58,6 +58,186 @@
     }
   },
   {
+    "id": "ecb-2026-06-29-christine-lagarde-back-to-basi",
+    "typ": "omvarld",
+    "titel": "Christine Lagarde: Terugkeer naar de basisprincipes in een onzekere omgeving.",
+    "ingress": "De president van de ECB heeft verklaard dat de centrale bank nu weer gebruik kan maken van de gebruikelijke methoden om de prijzen in Europa te beheersen. Na jaren van crises en ongebruikelijke maatregelen is de economie nu stabieler, waard",
+    "datum": "2026-06-29",
+    "kalla": "ECB",
+    "kalla_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260629~cb5a2e2168.en.html",
+    "taggar": [
+      "ekonomi",
+      "ecb"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "b_energi": 3,
+      "sparare": 3,
+      "lantagare": 3,
+      "energikund": 3,
+      "konsument": 3
+    }
+  },
+  {
+    "id": "eu-kommissionen-2026-06-29-joint-press-statement-by-commi",
+    "typ": "omvarld",
+    "titel": "Gemeenschappelijke persconferentie van commissaris Šefčovič en minister Wang.",
+    "ingress": "Europese vertegenwoordigers en een Chinese minister hebben gezamenlijk een document ondertekend over handel en economie. Het doel is om de samenwerking tussen Europa en China te verduidelijken.",
+    "datum": "2026-06-29",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1480",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ],
+    "relevans": {
+      "kronisk": 3
+    }
+  },
+  {
+    "id": "eu-kommissionen-2026-06-29-daily-news-29-06-2026",
+    "typ": "omvarld",
+    "titel": "Nieuws van vandaag, 29 juni 2026.",
+    "ingress": "De Europese Unie stuurt dringend hulp en organiseert vluchten met noodvoorraden naar Venezuela, na de zware aardbevingen die het land hebben getroffen.",
+    "datum": "2026-06-29",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1476",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ],
+    "relevans": {
+      "b_transport": 3,
+      "flygresenar": 3
+    }
+  },
+  {
+    "id": "eu-kommissionen-2026-06-29-commissioner-roswall-s-keynote",
+    "typ": "omvarld",
+    "titel": "Commissaris Roswall's openingsspeech tijdens het forum over groene financiering en investeringen in Moldavië.",
+    "ingress": "De Europese Commissie houdt een bijeenkomst in Moldavië om te bespreken hoe er geïnvesteerd kan worden in milieuvriendelijke projecten.",
+    "datum": "2026-06-29",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1475",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ],
+    "relevans": {
+      "b_finans": 8,
+      "finansiering": 8,
+      "miljo": 3,
+      "klimat": 5
+    }
+  },
+  {
+    "id": "skatteverket-2026-06-29-forsta-steg-taget-mot-digital-",
+    "typ": "myndighet",
+    "titel": "Eerste stappen gezet richting digitale inventarisatie van nalatenschappen.",
+    "ingress": "Vanaf 1 juli wordt het legaal om een overlijdensinventaris digitaal op te stellen, wat een eerste stap is naar een eenvoudiger proces voor degenen die verantwoordelijk zijn voor de afhandeling van nalatenschappen.",
+    "datum": "2026-06-29",
+    "kalla": "Skatteverket",
+    "kalla_url": "http://skatteverket.se/omoss/pressochmedia/pressmeddelanden/2026/2026/forstastegtagetmotdigitalbouppteckning.5.3129d65419ef1497c0615dc.html",
+    "taggar": [
+      "skatt",
+      "skatteverket"
+    ],
+    "relevans": {
+      "b_it": 3,
+      "lantagare": 3
+    }
+  },
+  {
+    "id": "skatteverket-2026-06-29-forandringar-som-ror-bouppteck",
+    "typ": "myndighet",
+    "titel": "Wijzigingen met betrekking tot overlijdensakten.",
+    "ingress": "Vanaf 1 juli gelden er nieuwe regels voor het opstellen van een overlijdensregister, dat is het document waarin staat wat een overledene bezat. In de toekomst wordt het ook eenvoudiger om de benodigde documenten digitaal in te dienen.",
+    "datum": "2026-06-29",
+    "kalla": "Skatteverket",
+    "kalla_url": "http://skatteverket.se/omoss/pressochmedia/nyheter/2026/nyheter/forandringarsomrorbouppteckning.5.3129d65419ef1497c0615a8.html",
+    "taggar": [
+      "skatt",
+      "skatteverket"
+    ],
+    "relevans": {
+      "lantagare": 3
+    }
+  },
+  {
+    "id": "fk-2026-06-29-fler-skadade-under-sommaren",
+    "typ": "myndighet",
+    "titel": "Meer letselgevallen in de zomer.",
+    "ingress": "Tijdens de zomerperiode raken meer mensen gewond en moeten ze zich ziekgemeld melden, vaak als gevolg van activiteiten zoals wandelen in de bergen of bouwprojecten. Dit komt waarschijnlijk doordat mensen actiever zijn buitenshuis, maar dan",
+    "datum": "2026-06-29",
+    "kalla": "Försäkringskassan",
+    "kalla_url": "https://www.forsakringskassan.se/nyhetsarkiv/nyheter-press/2026-06-29-fler-skadade-under-sommaren",
+    "taggar": [
+      "socialforsakring",
+      "forsakringskassan"
+    ],
+    "relevans": {
+      "arbetsgivare": 5,
+      "b_bygg": 3,
+      "b_finans": 3,
+      "sjuklon": 3,
+      "sjukskriven": 5,
+      "psykisk": 3
+    }
+  },
+  {
+    "id": "eu-kommissionen-2026-06-28-commission-approves-402-millio",
+    "typ": "omvarld",
+    "titel": "De Europese Commissie heeft een Spaanse overheidssteun van 402 miljoen euro goedgekeurd voor transportbedrijven die te maken hebben met stijgende brandstofprijzen.",
+    "ingress": "Spanje ontvangt steun om financiële hulp te bieden aan transportbedrijven die worden getroffen door de hoge brandstofprijzen. Dit is bedoeld om bedrijven te helpen die vrachtwagens en andere voertuigen gebruiken.",
+    "datum": "2026-06-28",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1470",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ],
+    "relevans": {
+      "b_transport": 3,
+      "arbetsratt": 3,
+      "glesbygd": 8
+    }
+  },
+  {
+    "id": "eu-kommissionen-2026-06-28-commission-calls-on-the-nether",
+    "typ": "omvarld",
+    "titel": "De Europese Commissie roept Nederland op om de concurrentie binnen het internationale treinvervoer te verbeteren.",
+    "ingress": "De Europese Unie bekritiseert Nederland omdat de regels voor treinverkeer op het Nederlandse spoorwegnet mogelijk concurrentie belemmeren. Het doel is om het gemakkelijker te maken voor verschillende bedrijven om internationale passagiersdi",
+    "datum": "2026-06-28",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1460",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ],
+    "relevans": {
+      "konkurrens": 8,
+      "infrastruktur": 3,
+      "kollektiv": 3
+    }
+  },
+  {
+    "id": "eu-kommissionen-2026-06-28-press-remarks-by-commissioner-",
+    "typ": "omvarld",
+    "titel": "Verklaringen van commissaris Šefčovič over de handels- en investeringsconsultaties tussen de Europese Unie en China.",
+    "ingress": "De Europese Unie en China zijn begonnen met discussies over hoe ze kunnen samenwerken op het gebied van handel en investeringen. Het doel is om betere voorwaarden te creëren voor zakelijke transacties tussen de twee grote regio's.",
+    "datum": "2026-06-28",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1344",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ],
+    "relevans": {
+      "finansiering": 8,
+      "kronisk": 3
+    }
+  },
+  {
     "id": "eu-kommissionen-2026-06-27-doorstep-statement-by-commissi",
     "typ": "omvarld",
     "titel": "Verklaring van EU-commissaris Lahbib tijdens Budapest Pride, direct gericht aan het publiek:",
@@ -294,6 +474,41 @@
     "relevans": {
       "infrastruktur": 8,
       "kollektiv": 3
+    }
+  },
+  {
+    "id": "eu-32026R1406",
+    "typ": "omvarld",
+    "titel": "COMMISSIEVERORDENING (EU) 2026/1406",
+    "ingress": "Nieuwe regels maken het gemakkelijker om bestaande, goedgekeurde en gecontroleerde mosselkweekgebieden te blijven gebruiken. Er hoeven alleen nieuwe gezondheidscontroles uitgevoerd te worden als er sprake is van significante veranderingen i",
+    "datum": "2026-06-26",
+    "kalla": "EU (EUR-Lex)",
+    "kalla_url": "https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32026R1406",
+    "taggar": [
+      "eu",
+      "eu-ratt"
+    ],
+    "relevans": {
+      "klimat": 3,
+      "integritet": 3
+    }
+  },
+  {
+    "id": "eu-32026R1412",
+    "typ": "omvarld",
+    "titel": "COMMISSIEVERORDENING (EU) 2026/1412",
+    "ingress": "De Europese Unie heeft nieuwe regels vastgesteld voor de manier waarop industrieën gratis emissierechten kunnen verdelen tussen 2026 en 2030. Het doel is om de uitstoot van broeikasgassen te verminderen van fabrieken die onder andere cement",
+    "datum": "2026-06-26",
+    "kalla": "EU (EUR-Lex)",
+    "kalla_url": "https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32026R1412",
+    "taggar": [
+      "eu",
+      "eu-ratt"
+    ],
+    "relevans": {
+      "b_industri": 5,
+      "miljo": 3,
+      "klimat": 5
     }
   },
   {
@@ -3774,6 +3989,31 @@
       "pendlare": 3,
       "kollektiv": 8,
       "beroende": 3
+    }
+  },
+  {
+    "id": "reg-orebro-regionfullmaktige-2026-06-15",
+    "typ": "region",
+    "titel": "Regionaal volmachtigde, Regio Örebro län, 15 juni 2026.",
+    "ingress": "De provincie Örebro heeft haar operationeel plan en begroting voor 2027 vastgesteld, en tevens belangrijke beslissingen genomen met betrekking tot de gezondheidszorg.",
+    "datum": "2026-06-15",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionfullmaktige/mote-2026-06-15",
+    "taggar": [
+      "reg-orebro",
+      "regionfullmaktige",
+      "region-orebro-lan",
+      "orebro",
+      "kollektivtrafik",
+      "sjukvard"
+    ],
+    "relevans": {
+      "b_konsult": 3,
+      "sjuklon": 3,
+      "sjukskriven": 3,
+      "pendlare": 3,
+      "kollektiv": 3,
+      "kronisk": 8
     }
   },
   {
@@ -15490,6 +15730,26 @@
     }
   },
   {
+    "id": "reg-jamtland-regionstyrelsen-2025-08-26",
+    "typ": "region",
+    "titel": "Regionale Raad, Regio Jämtland Härjedalen, 26 augustus 2025.",
+    "ingress": "De regio heeft een rapport ontvangen dat aantoont dat de economische situatie moeilijk is en dat de uitgaven in het eerste halfjaar van 2025 hoger waren dan gepland.",
+    "datum": "2025-08-26",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionstyrelsen/mote-2025-08-26",
+    "taggar": [
+      "reg-jamtland",
+      "regionstyrelsen",
+      "region-jamtland-harjedalen",
+      "sjukvard",
+      "regionalpolitik",
+      "ekonomi"
+    ],
+    "relevans": {
+      "kronisk": 8
+    }
+  },
+  {
     "id": "bollebygd-kommunstyrelsen-2025-07-11",
     "typ": "kommunbeslut",
     "titel": "Gemeenteraad, gemeente Bollebygd, 11 juli 2025.",
@@ -16346,6 +16606,39 @@
     }
   },
   {
+    "id": "reg-orebro-regionstyrelsen-2025-06-03",
+    "typ": "region",
+    "titel": "Regioraad, Regio Örebro län, 3 juni 2025.",
+    "ingress": "Het regionaal bestuur van de provincie Örebro heeft belangrijke beslissingen genomen over onderwerpen zoals gezondheidszorg, openbaar vervoer, bouwprojecten en milieuplannen voor de toekomst.",
+    "datum": "2025-06-03",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionstyrelsen/mote-2025-06-03",
+    "taggar": [
+      "reg-orebro",
+      "regionstyrelsen",
+      "region-orebro-lan",
+      "orebro",
+      "regionalpolitik",
+      "jenny-steen"
+    ],
+    "relevans": {
+      "b_industri": 3,
+      "b_bygg": 3,
+      "b_energi": 5,
+      "finansiering": 3,
+      "infrastruktur": 3,
+      "gravid": 3,
+      "pendlare": 3,
+      "kollektiv": 8,
+      "kronisk": 8,
+      "tandvard": 3,
+      "energikund": 3,
+      "konsument": 3,
+      "klimat": 5,
+      "kultur": 3
+    }
+  },
+  {
     "id": "HC03167",
     "typ": "lagforslag",
     "titel": "Voorbereiding op de gezondheidszorg.",
@@ -16600,6 +16893,33 @@
     }
   },
   {
+    "id": "reg-jamtland-regionstyrelsen-2025-05-27",
+    "typ": "region",
+    "titel": "Regioraad, Regio Jämtland Härjedalen, 27 mei 2025.",
+    "ingress": "Het regionaal bestuur van Jämtland Härjedalen heeft beslissingen genomen over verschillende belangrijke kwesties met betrekking tot de gezondheidszorg, financiën en lokale projecten voor het jaar 2025 en daarna.",
+    "datum": "2025-05-27",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionstyrelsen/mote-2025-05-27",
+    "taggar": [
+      "reg-jamtland",
+      "regionstyrelsen",
+      "region-jamtland-harjedalen",
+      "regional-forvaltning",
+      "jamtland",
+      "offentlig-forvaltning"
+    ],
+    "relevans": {
+      "b_fastighet": 5,
+      "b_energi": 3,
+      "finansiering": 3,
+      "barn": 3,
+      "kronisk": 8,
+      "tandvard": 3,
+      "energikund": 3,
+      "klimat": 5
+    }
+  },
+  {
     "id": "HC03174",
     "typ": "lagforslag",
     "titel": "Uitvoerbare dwangmiddelen tegen vaartuigen binnen het EU-emissiehandelssysteem",
@@ -16749,6 +17069,31 @@
     }
   },
   {
+    "id": "reg-halland-regionstyrelsen-2025-05-07",
+    "typ": "region",
+    "titel": "Regioraad, Regio Halland, 7 mei 2025.",
+    "ingress": "Het regionaal bestuur van Halland heeft beslissingen genomen over verschillende belangrijke kwesties met betrekking tot de gezondheidszorg, regionale ontwikkeling en milieuplannen.",
+    "datum": "2025-05-07",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionstyrelsen/mote-2025-05-07",
+    "taggar": [
+      "reg-halland",
+      "regionstyrelsen",
+      "halland",
+      "region-halland",
+      "regional-utveckling",
+      "sjukvard"
+    ],
+    "relevans": {
+      "b_transport": 3,
+      "b_it": 3,
+      "fou": 3,
+      "barn": 3,
+      "kronisk": 8,
+      "klimat": 3
+    }
+  },
+  {
     "id": "HC03164",
     "typ": "lagforslag",
     "titel": "Een commerciële radio-omroep die op lange termijn duurzaam is.",
@@ -16811,6 +17156,32 @@
       "export": 4,
       "eu_marknad": 3,
       "gron_omstallning": 3
+    }
+  },
+  {
+    "id": "reg-orebro-regionstyrelsen-2025-04-29",
+    "typ": "region",
+    "titel": "Regioraad, Regio Örebro län, 29 april 2025.",
+    "ingress": "Het regionaal bestuur van de provincie Örebro heeft beslissingen genomen over verschillende belangrijke kwesties met betrekking tot gezondheidszorg, cultuur, economie en lokale samenwerkingen.",
+    "datum": "2025-04-29",
+    "kalla": "Region Örebro län",
+    "kalla_url": "https://politiskamoten.regionorebrolan.se/committees/regionstyrelsen/mote-2025-04-29",
+    "taggar": [
+      "reg-orebro",
+      "regionstyrelsen",
+      "region-orebro-lan",
+      "orebro",
+      "regionalpolitik",
+      "ekonomi"
+    ],
+    "relevans": {
+      "arbetsgivare": 5,
+      "b_kultur": 3,
+      "kvinna": 3,
+      "student": 3,
+      "kronisk": 8,
+      "kultur": 3,
+      "varnpliktig": 3
     }
   },
   {
@@ -17052,6 +17423,28 @@
       "finansiering": 3,
       "f_kommun": 3,
       "regelborda": 3
+    }
+  },
+  {
+    "id": "reg-halland-regionstyrelsen-2025-04-14",
+    "typ": "region",
+    "titel": "Regionale Raad, Regio Halland, 14 april 2025.",
+    "ingress": "Dit is een verslag dat uitsluitend technische correcties bevat van tekst en cijfers in de economische rapporten van de regio.",
+    "datum": "2025-04-14",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionstyrelsen/mote-2025-04-14",
+    "taggar": [
+      "reg-halland",
+      "regionstyrelsen",
+      "region-halland",
+      "halland",
+      "ekonomi",
+      "offentlig-forvaltning"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "b_fastighet": 3,
+      "kronisk": 8
     }
   },
   {
@@ -18935,6 +19328,34 @@
     }
   },
   {
+    "id": "reg-jamtland-regionfullmaktige-2024-06-19",
+    "typ": "region",
+    "titel": "Regionaal volksvertegenwoordiger, Regio Jämtland Härjedalen, 19 juni 2024.",
+    "ingress": "De regio Jämtland Härjedalen heeft belangrijke beslissingen genomen over onderwerpen zoals de gezondheidszorg, het openbaar vervoer en de toekomstige begrotingen voor 2025-2027.",
+    "datum": "2024-06-19",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionfullmaktige/mote-2024-06-19",
+    "taggar": [
+      "reg-jamtland",
+      "regionfullmaktige",
+      "region-jamtland-harjedalen",
+      "jamtland",
+      "regionalpolitik",
+      "kommunal-forvaltning"
+    ],
+    "relevans": {
+      "b_fastighet": 3,
+      "b_konsult": 3,
+      "redovisning": 3,
+      "digitalisering": 3,
+      "pendlare": 3,
+      "kollektiv": 3,
+      "kronisk": 8,
+      "konsument": 3,
+      "digital_ovan": 3
+    }
+  },
+  {
     "id": "ange-kommunfullmaktige-2024-06-10",
     "typ": "kommunbeslut",
     "titel": "Gemeenteraad, gemeente Ånge, 10 juni 2024.",
@@ -18960,6 +19381,31 @@
     }
   },
   {
+    "id": "reg-halland-regionfullmaktige-2024-04-24",
+    "typ": "region",
+    "titel": "Regionaal volksvertegenwoordiger, Regio Halland, 24 april 2024.",
+    "ingress": "Dit document is een verslaglegging van een vergadering in de regio Halland, waarin onderwerpen werden besproken die betrekking hebben op gezondheidszorg, openbaar vervoer en financiën.",
+    "datum": "2024-04-24",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionfullmaktige/mote-2024-04-24",
+    "taggar": [
+      "reg-halland",
+      "regionfullmaktige",
+      "halland",
+      "region-halland",
+      "kommunalpolitik",
+      "protokoll"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "redovisning": 3,
+      "pendlare": 3,
+      "kollektiv": 8,
+      "kronisk": 8,
+      "kultur": 3
+    }
+  },
+  {
     "id": "grums-grundlaggande-granskning-av-kommunstyrel-2024-03-25",
     "typ": "kommunbeslut",
     "titel": "Basisonderzoek van het gemeentebestuur, gemeente Grums, 25 maart 2024.",
@@ -18975,6 +19421,30 @@
       "fortroendevald": 7,
       "offentliganstalld": 5,
       "f_kommun": 6
+    }
+  },
+  {
+    "id": "reg-halland-regionfullmaktige-2024-02-28",
+    "typ": "region",
+    "titel": "Regionaal volksvertegenwoordiger, Regio Halland, 28 februari 2024.",
+    "ingress": "De regio Halland heeft besloten de plannen voor zowel gezondheidszorg als bibliotheekdiensten te verlengen.",
+    "datum": "2024-02-28",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionfullmaktige/mote-2024-02-28",
+    "taggar": [
+      "reg-halland",
+      "regionfullmaktige",
+      "region-halland",
+      "halland",
+      "kommunalpolitik",
+      "varberg"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "barn": 3,
+      "kronisk": 8,
+      "konsument": 3,
+      "kultur": 3
     }
   },
   {

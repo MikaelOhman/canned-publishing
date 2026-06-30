@@ -97,7 +97,7 @@
   "eu-ratt": {
     "etikett": "Uniós jog",
     "typ": "ämne",
-    "antal": 10
+    "antal": 12
   },
   "straffratt": {
     "etikett": "Büntetőjog",
@@ -112,7 +112,7 @@
   "ekonomi": {
     "etikett": "Gazdaságtan.",
     "typ": "ämne",
-    "antal": 22
+    "antal": 26
   },
   "sverige": {
     "etikett": "Svédország",
@@ -182,7 +182,7 @@
   "skatt": {
     "etikett": "Adó.",
     "typ": "ämne",
-    "antal": 7
+    "antal": 9
   },
   "finansmarknad": {
     "etikett": "Pénzügyi piac.",
@@ -312,7 +312,7 @@
   "kommunal-forvaltning": {
     "etikett": "Helyi közigazgatás.",
     "typ": "ämne",
-    "antal": 13
+    "antal": 14
   },
   "karin-wanngard": {
     "etikett": "Karin Wanngård",
@@ -327,17 +327,17 @@
   "ecb": {
     "etikett": "Az Európai Központi Bank (ECB).",
     "typ": "organisation",
-    "antal": 10
+    "antal": 11
   },
   "eu": {
     "etikett": "Az Európai Unió (EU) egy politikai és gazdasági szövetség, amely 27 európai tagállamból áll. A tagállamok közösen működnek számos területen, többek között a gazdaságban, a kereskedelemben, a környezetvédelemben és a biztonságban. Az EU célja a béke, a jólét és a szabadság előmozdítása a tagállamokban és a világban.\n\nAz EU működését alapvetően a következő intézmények biztosítják:\n\n*   **Európai Bizottság:** Javaslatokat készít, végrehajtja a jogszabályokat és felügyeli a tagállamok munkáját.\n*   **Európai Parlament:** Közvetlenül választott képviselőkből áll, és részt vesz a jogszabályok elfogadásában, valamint felügyeli a Bizottság munkáját.\n*   **Tanács:** A tagállamok kormányainak képviselőiből áll, és részt vesz a jogszabályok elfogadásában.\n*   **Bíróság:** Biztosítja a jogszabályok helyes alkalmazását és értelmezését.\n\nAz EU működésével kapcsolatban további információkat talál a következő weboldalon: [URL] (Az URL helye a szövegben.)",
     "typ": "organisation",
-    "antal": 29
+    "antal": 37
   },
   "eu-kommissionen": {
     "etikett": "Az Európai Unió Bizottsága.",
     "typ": "organisation",
-    "antal": 21
+    "antal": 27
   },
   "alingsas": {
     "etikett": "Alingsås\n\n(A következők Alingsås városára vonatkoznak.)",
@@ -362,7 +362,7 @@
   "protokoll": {
     "etikett": "Jegelző.",
     "typ": "ämne",
-    "antal": 12
+    "antal": 13
   },
   "ulf-rapp": {
     "etikett": "Ulf Rapp",
@@ -402,7 +402,7 @@
   "kommunalpolitik": {
     "etikett": "Helyi politika.",
     "typ": "ämne",
-    "antal": 17
+    "antal": 19
   },
   "lekeberg": {
     "etikett": "Lekebergs",
@@ -577,7 +577,7 @@
   "orebro": {
     "etikett": "Örebro.",
     "typ": "plats",
-    "antal": 17
+    "antal": 20
   },
   "orsa": {
     "etikett": "Orsa",
@@ -1387,22 +1387,22 @@
   "reg-halland": {
     "etikett": "Hallandi régió.",
     "typ": "organisation",
-    "antal": 19
+    "antal": 23
   },
   "regionfullmaktige": {
     "etikett": "Régióközi képviselőtestület.",
     "typ": "organisation",
-    "antal": 31
+    "antal": 35
   },
   "regionstyrelsen": {
     "etikett": "A regionális igazgatóság.",
     "typ": "organisation",
-    "antal": 27
+    "antal": 33
   },
   "reg-orebro": {
     "etikett": "Örebro megye.",
     "typ": "organisation",
-    "antal": 18
+    "antal": 21
   },
   "reg-vastmanland": {
     "etikett": "Västmanland régió.",
@@ -1412,7 +1412,7 @@
   "reg-jamtland": {
     "etikett": "A Jämtland és Härjedalen régió.",
     "typ": "organisation",
-    "antal": 19
+    "antal": 22
   },
   "reg-blekinge": {
     "etikett": "Blekinge régió.",
@@ -1607,27 +1607,27 @@
   "region-halland": {
     "etikett": "Hallandi régió.",
     "typ": "organisation",
-    "antal": 14
+    "antal": 18
   },
   "halland": {
     "etikett": "Halland.",
     "typ": "plats",
-    "antal": 15
+    "antal": 19
   },
   "regionalpolitik": {
     "etikett": "Regionális politika.",
     "typ": "ämne",
-    "antal": 23
+    "antal": 27
   },
   "region-orebro-lan": {
     "etikett": "Örebro megye.",
     "typ": "organisation",
-    "antal": 15
+    "antal": 18
   },
   "sjukvard": {
     "etikett": "Egészségügy",
     "typ": "ämne",
-    "antal": 16
+    "antal": 19
   },
   "klimat-och-miljo": {
     "etikett": "Éghajlat és környezet\n\n*   **Datum:** [A dátumot itt be kell írni]\n*   **URL:** [Az URL-t itt kell beírni]",
@@ -1637,12 +1637,12 @@
   "regional-forvaltning": {
     "etikett": "Regionális igazgatás.",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "region-jamtland-harjedalen": {
     "etikett": "A Jämtland Härjedalen régió.",
     "typ": "organisation",
-    "antal": 15
+    "antal": 18
   },
   "ostersund": {
     "etikett": "Östersund.",
@@ -1652,7 +1652,7 @@
   "jamtland": {
     "etikett": "Jämtland\n\n(Nincs további szöveg a fordításhoz.)",
     "typ": "plats",
-    "antal": 10
+    "antal": 12
   },
   "regional-ekonomi": {
     "etikett": "Regionális gazdaság.",
@@ -1667,7 +1667,7 @@
   "skatteverket": {
     "etikett": "A Svéd Adóhatóság (Svenska: Skatteverket).",
     "typ": "organisation",
-    "antal": 6
+    "antal": 8
   },
   "pension": {
     "etikett": "Nyugdíj.",
@@ -1717,12 +1717,12 @@
   "socialforsakring": {
     "etikett": "Szociális biztosítás.",
     "typ": "ämne",
-    "antal": 5
+    "antal": 6
   },
   "forsakringskassan": {
     "etikett": "A Svéd Biztosítási Alap (Försäkringskassan).",
     "typ": "organisation",
-    "antal": 5
+    "antal": 6
   },
   "arbetsmarknad": {
     "etikett": "A munkaerőpiac.",
@@ -1872,17 +1872,17 @@
   "varberg": {
     "etikett": "Varberg.",
     "typ": "plats",
-    "antal": 2
+    "antal": 3
   },
   "offentlig-forvaltning": {
     "etikett": "Közigazgatás",
     "typ": "ämne",
-    "antal": 3
+    "antal": 5
   },
   "kollektivtrafik": {
     "etikett": "A tömegközlekedés.",
     "typ": "ämne",
-    "antal": 3
+    "antal": 4
   },
   "utbildningsnamndens-pdf-bortredigerad": {
     "etikett": "A \"Bortredigerad\" nevű PDF dokumentum található az oktatási bizottság oldalán.",
@@ -1967,6 +1967,16 @@
   "fastighetsforvaltning": {
     "etikett": "Ingatlanvagány.",
     "typ": "ämne",
+    "antal": 1
+  },
+  "regional-utveckling": {
+    "etikett": "Regionális fejlesztés.",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "jenny-steen": {
+    "etikett": "Jenny Steen",
+    "typ": "person",
     "antal": 1
   }
 }
