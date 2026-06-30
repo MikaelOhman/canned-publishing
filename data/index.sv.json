@@ -16814,6 +16814,31 @@
     }
   },
   {
+    "id": "reg-halland-regionstyrelsen-2025-05-07",
+    "typ": "region",
+    "titel": "Regionstyrelsen, Region Halland 2025-05-07",
+    "ingress": "Regionstyrelsen i Halland har tagit beslut om flera viktiga frågor som rör hälso- och sjukvård, regional utveckling och miljöplaner.",
+    "datum": "2025-05-07",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionstyrelsen/mote-2025-05-07",
+    "taggar": [
+      "reg-halland",
+      "regionstyrelsen",
+      "halland",
+      "region-halland",
+      "regional-utveckling",
+      "sjukvard"
+    ],
+    "relevans": {
+      "b_transport": 3,
+      "b_it": 3,
+      "fou": 3,
+      "barn": 3,
+      "kronisk": 8,
+      "klimat": 3
+    }
+  },
+  {
     "id": "HC03164",
     "typ": "lagforslag",
     "titel": "En långsiktigt hållbar kommersiell radioverksamhet",
@@ -17117,6 +17142,28 @@
       "aktiebolag": 3,
       "bolagsskatt": 3,
       "moms": 3
+    }
+  },
+  {
+    "id": "reg-halland-regionstyrelsen-2025-04-14",
+    "typ": "region",
+    "titel": "Regionstyrelsen, Region Halland 2025-04-14",
+    "ingress": "Detta är ett protokoll som endast innehåller tekniska rättelser av text och siffror i regionens ekonomiska rapporter.",
+    "datum": "2025-04-14",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionstyrelsen/mote-2025-04-14",
+    "taggar": [
+      "reg-halland",
+      "regionstyrelsen",
+      "region-halland",
+      "halland",
+      "ekonomi",
+      "offentlig-forvaltning"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "b_fastighet": 3,
+      "kronisk": 8
     }
   },
   {
@@ -19087,6 +19134,31 @@
     }
   },
   {
+    "id": "reg-halland-regionfullmaktige-2024-04-24",
+    "typ": "region",
+    "titel": "Regionfullmaktige, Region Halland 2024-04-24",
+    "ingress": "Detta dokument är ett mötesprotokoll från Region Halland där de diskuterade ärenden som rör hälso- och sjukvård, kollektivtrafik och ekonomi.",
+    "datum": "2024-04-24",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionfullmaktige/mote-2024-04-24",
+    "taggar": [
+      "reg-halland",
+      "regionfullmaktige",
+      "halland",
+      "region-halland",
+      "kommunalpolitik",
+      "protokoll"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "redovisning": 3,
+      "pendlare": 3,
+      "kollektiv": 8,
+      "kronisk": 8,
+      "kultur": 3
+    }
+  },
+  {
     "id": "grums-grundlaggande-granskning-av-kommunstyrel-2024-03-25",
     "typ": "kommunbeslut",
     "titel": "Grundläggande granskning av kommunstyrelsen, Grums kommun 2024-03-25",
@@ -19102,6 +19174,30 @@
       "fortroendevald": 7,
       "offentliganstalld": 5,
       "f_kommun": 6
+    }
+  },
+  {
+    "id": "reg-halland-regionfullmaktige-2024-02-28",
+    "typ": "region",
+    "titel": "Regionfullmaktige, Region Halland 2024-02-28",
+    "ingress": "Region Halland har fattat beslut om att förlänga sina planer för både hälso- och sjukvård samt bibliotekstjänster.",
+    "datum": "2024-02-28",
+    "kalla": "Region Halland",
+    "kalla_url": "https://politik.regionhalland.se/committees/regionfullmaktige/mote-2024-02-28",
+    "taggar": [
+      "reg-halland",
+      "regionfullmaktige",
+      "region-halland",
+      "halland",
+      "kommunalpolitik",
+      "varberg"
+    ],
+    "relevans": {
+      "arbetsgivare": 3,
+      "barn": 3,
+      "kronisk": 8,
+      "konsument": 3,
+      "kultur": 3
     }
   },
   {
@@ -25843,31 +25939,6 @@
     "flaggor": []
   },
   {
-    "id": "hist-q217722",
-    "typ": "historia",
-    "titel": "Ragnar Granit",
-    "ingress": "Ragnar Arthur Granit, född 30 oktober 1900 i Riihimäki, död 12 mars 1991 i Engelbrekts församling, Stockholm, var en finlandssvensk fysiolog och neurofysiolog. Granit hör till de mest kända medicin­fo",
-    "datum": "",
-    "kalla": "Wikipedia",
-    "kalla_url": "https://sv.wikipedia.org/wiki/Ragnar_Granit",
-    "taggar": [
-      "svensk-historia",
-      "historisk-person",
-      "1900talet"
-    ],
-    "relevans": {
-      "fou": 3,
-      "barn": 5,
-      "student": 3
-    },
-    "epok": "1900talet",
-    "tid": "d. 1991",
-    "kallage": "samtida",
-    "sakerhet": "belagt",
-    "konsensus": "samsyn",
-    "flaggor": []
-  },
-  {
     "id": "hist-q159723",
     "typ": "historia",
     "titel": "Nathan Söderblom",
@@ -25885,32 +25956,6 @@
     },
     "epok": "1900talet",
     "tid": "d. 1931",
-    "kallage": "samtida",
-    "sakerhet": "belagt",
-    "konsensus": "samsyn",
-    "flaggor": []
-  },
-  {
-    "id": "hist-q110111",
-    "typ": "historia",
-    "titel": "Gunnar Nordahl",
-    "ingress": "Nils Gunnar Nordahl, född 19 oktober 1921 i Hörnefors i Västerbottens län, död 15 september 1995 i Alghero, Sardinien i Italien, var en svensk fotbollsspelare (centerforward) som år 1949 blev Sveriges",
-    "datum": "",
-    "kalla": "Wikipedia",
-    "kalla_url": "https://sv.wikipedia.org/wiki/Gunnar_Nordahl",
-    "taggar": [
-      "svensk-historia",
-      "historisk-person",
-      "1900talet"
-    ],
-    "relevans": {
-      "b_industri": 3,
-      "b_it": 3,
-      "barn": 3,
-      "idrott": 3
-    },
-    "epok": "1900talet",
-    "tid": "d. 1995",
     "kallage": "samtida",
     "sakerhet": "belagt",
     "konsensus": "samsyn",
@@ -26594,6 +26639,52 @@
     },
     "epok": "1900talet",
     "tid": "d. 1972",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q217722",
+    "typ": "historia",
+    "titel": "Ragnar Granit",
+    "ingress": "Ragnar Granit var en mycket känd finsk forskare som vann Nobelpriset 1967 för sina upptäckter om hur våra ögon och vårt synsinne fungerar.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Ragnar_Granit",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "student": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1991",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q110111",
+    "typ": "historia",
+    "titel": "Gunnar Nordahl",
+    "ingress": "Gunnar Nordahl var en svensk fotbollsspelare som blev känd för att göra väldigt många mål. Han var den första svensken som blev proffs i Italien och är än idag en av de bästa målskyttarna i den italienska ligan.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Gunnar_Nordahl",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_it": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1995",
     "kallage": "samtida",
     "sakerhet": "belagt",
     "konsensus": "samsyn",

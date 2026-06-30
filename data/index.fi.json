@@ -25594,5 +25594,786 @@
     "sakerhet": "belagt",
     "konsensus": "samsyn",
     "flaggor": []
+  },
+  {
+    "id": "hist-q52878",
+    "typ": "historia",
+    "titel": "Kustaa VI Aadolf.",
+    "ingress": "Teksti kertoo kuningas Gustaaf VI Adolfin elämästä, syntymästä prinssiksi aina vuoteen 1950, jolloin hänestä tuli Ruotsin kuningas.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Gustaf_VI_Adolf",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "upphandling": 3,
+      "barn": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1973",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q53620",
+    "typ": "historia",
+    "titel": "Hjalmar Branting.",
+    "ingress": "Hjalmar Branting oli merkittävä ruotsalainen poliitikko, joka johti sosiaalidemokraattista puoluetta ja toimi Ruotsin ensimmäisenä sosiaalidemokraattisena pääministerinä.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Hjalmar_Branting",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "b_konsult": 3,
+      "barn": 3,
+      "student": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1925",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q233026",
+    "typ": "historia",
+    "titel": "Arne Tiselius",
+    "ingress": "Arne Tiselius oli ruotsalainen kemisti, joka sai Nobelin kemian palkinnon vuonna 1948. Hän kehitti menetelmän proteiinien tutkimiseen veressä, mikä on ollut erittäin tärkeää sekä lääketieteelle että tekniikalle.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Arne_Tiselius",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_life": 3,
+      "fou": 3,
+      "student": 3,
+      "kronisk": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1971",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q52924",
+    "typ": "historia",
+    "titel": "Oskar II",
+    "ingress": "Teksti kertoo kuningas Oskari II:n elämästä, hänen lapsuudestaan prinssinä aina aikaan, jolloin hän oli Ruotsin ja Norjan kuningas.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Oscar_II",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_industri": 3,
+      "b_kultur": 3,
+      "barn": 3,
+      "student": 3,
+      "kultur": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1907",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q57188",
+    "typ": "historia",
+    "titel": "Ernst Cassirer.",
+    "ingress": "Ernst Cassirer oli tunnettu saksalainen filosofi, joka tutki sitä, miten ihmiset käyttävät symboleja maailman ymmärtämiseen. Hän pakeni Saksasta natsien vuoksi ja työskenteli myöhemmin Ruotsissa ja Yhdysvalloissa.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Ernst_Cassirer",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "student": 3,
+      "kultur": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1945",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q179493",
+    "typ": "historia",
+    "titel": "Bertil Ohlin.",
+    "ingress": "Bertil Ohlin oli tunnettu ruotsalainen ekonomisti, opettaja ja poliitikko, joka saavutti suurta suosiota 1940- ja 1950-luvuilla. Hän on eniten tunnettu kaupankäyntiä koskevista teorioistaan sekä siitä, että hän johti Kansanpuoluetta useiden",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Bertil_Ohlin",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "fou": 3,
+      "student": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1979",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q76613",
+    "typ": "historia",
+    "titel": "Hans von Euler-Chelpin",
+    "ingress": "Hans von Euler-Chelpin oli saksalais-ruotsalainen kemisti, joka sai Nobelin kemian palkinnon vuonna 1929 työstään, jossa hän tutki sokerin käymisprosessia ja miten kehon aineet hajoavat.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Hans_von_Euler-Chelpin",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_transport": 3,
+      "fou": 3,
+      "student": 3,
+      "flygresenar": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1964",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q154759",
+    "typ": "historia",
+    "titel": "Sven Hedin.",
+    "ingress": "Sven Hedin oli erittäin tunnettu ruotsalainen tutkimusmatkailija, joka tutki suuria osia Aasiaa. Hän saavutti mainetta erityisesti karttojensa ansiosta, mutta myöhemmin häntä arvosteltiin siitä, että hän tuki natsipuoluetta Saksassa.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Sven_Hedin",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "epok": "1900talet",
+    "tid": "d. 1952",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q187310",
+    "typ": "historia",
+    "titel": "Carl Larsson.",
+    "ingress": "Carl Larsson oli erittäin tunnettu ruotsalainen taiteilija, joka tuli kuuluisaksi kauniista akvarelleistaan, joissa hän kuvasi perhe-elämää ja arkipäivän tilanteita.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Carl_Larsson",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "kultur": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1919",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q217722",
+    "typ": "historia",
+    "titel": "Ragnar Granit.",
+    "ingress": "Ragnar Granit oli erittäin tunnettu suomalainen tutkija, joka sai Nobelin palkinnon vuonna 1967 merkittävistä löydöksistään liittyen siihen, miten silmämme ja näköaistimme toimivat.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Ragnar_Granit",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "student": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1991",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q159723",
+    "typ": "historia",
+    "titel": "Nathan Söderblom.",
+    "ingress": "Nathan Söderblom oli ruotsalainen kirkonjohtaja ja tutkija, joka valittiin arkkipiispäksi vuonna 1914. Hän sai Nobelin rauhanpalkinnon vuonna 1930 työstään edistää rauhaa eri uskontojen välillä.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Nathan_Söderblom",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "student": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1931",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q110111",
+    "typ": "historia",
+    "titel": "Gunnar Nordahl",
+    "ingress": "Gunnar Nordahl oli ruotsalainen jalkapalloilija, joka tuli tunnetuksi siitä, että hän teki erittäin paljon maaleja. Hän oli ensimmäinen ruotsalainen, joka siirtyi ammattilaiseksi Italiaan, ja on edelleen yksi kaikkien aikojen parhaista maal",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Gunnar_Nordahl",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_it": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1995",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q206820",
+    "typ": "historia",
+    "titel": "Anders Zorn.",
+    "ingress": "Anders Zorn oli erittäin tunnettu ruotsalainen taiteilija, joka tuli kuuluisaksi erityisesti tärkeiden henkilöiden muotokuvistaan, mukaan lukien Yhdysvaltain presidentit.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Anders_Zorn",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "kultur": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1920",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q230238",
+    "typ": "historia",
+    "titel": "Astrid Ruotsista.",
+    "ingress": "Ruhtinas Astrid oli ruotsalainen prinsessa, joka tuli Belgian kuningattareksi avioliittonsa myötä belgialaisen kruununperijän kanssa. Hän kuoli traagisesti auto-onnettomuudessa vuonna 1935 ollessaan vielä nuori.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Astrid_av_Sverige",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "arbetsmiljo": 3,
+      "barn": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1935",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q156749",
+    "typ": "historia",
+    "titel": "Adolf Erik Nordenskiöld:",
+    "ingress": "Nordenskiöld oli tunnettu tutkija ja seikkailija, joka matkusti laajasti arktisilla alueilla luonnontieteellisten tutkimusten parissa. Hän on erityisen tunnettu matkoistaan muun muassa Grönlantiin ja Svalbardiin.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Adolf_Erik_Nordenskiöld",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "fou": 3,
+      "glesbygd": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1901",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q154410",
+    "typ": "historia",
+    "titel": "Marie Under",
+    "ingress": "Marie Under oli erittäin tunnettu virolainen runoilija, joka pakeni Ruotsiin vuonna 1944 välttääkseen neuvostovaltaa. Hänestä tuli yksi Viron tärkeimmistä kirjailijoista, ja hänen runojaan ei pitkään aikaan julkaistu kotimaassaan.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Marie_Under",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "kultur": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1980",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q41580",
+    "typ": "historia",
+    "titel": "Axel Munthe.",
+    "ingress": "Axel Munthe oli ruotsalainen lääkäri ja kirjailija, joka tuli tunnetuksi koko Euroopassa. Hän toimi henkilökohtaisena lääkärinä kuningatar Victorian palveluksessa ja rakensi tunnetun talon Caprin saarelle.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Axel_Munthe",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_it": 3,
+      "b_kultur": 3,
+      "bostadsagare": 3,
+      "kultur": 5
+    },
+    "epok": "1900talet",
+    "tid": "d. 1949",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q237413",
+    "typ": "historia",
+    "titel": "Karin Boye.",
+    "ingress": "Karin Boye oli tunnettu ruotsalainen kirjailija ja runoilija, joka kirjoitti sekä runoja että romaaneja. Hän on erityisen tunnettu runoistaan ja teoksestaan \"Kallocain\".",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Karin_Boye",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "student": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1941",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q57312",
+    "typ": "historia",
+    "titel": "Peter Weiss",
+    "ingress": "Peter Weiss oli saksalais-ruotsalainen taiteilija, kirjailija ja ohjaaja, joka tuli tunnetuksi ympäri maailmaa dramaattisten näytelmien ansiosta.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Peter_Weiss",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "kultur": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1982",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q311567",
+    "typ": "historia",
+    "titel": "Janne Rydberg",
+    "ingress": "Janne Rydberg oli ruotsalainen fyysikko, joka löysi tärkeän matemaattisen kaavan ymmärtääkseen atomien rakennetta. Hänen työnsä valon ja aineiden parissa loi perustan nykyiselle tiedolle atomien rakenteesta.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Janne_Rydberg",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "fou": 3,
+      "skiftarbete": 3,
+      "student": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1919",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q231281",
+    "typ": "historia",
+    "titel": "Ruotsin Märtha.",
+    "ingress": "Teksti kertoo Ruotsin prinsessa Märthasta, joka toimi Norjan kruununperijättärenä. Hänestä tuli sankari toisen maailmansodan aikana, ja häntä muistetaan nykyään monilla paikoilla, aluksilla sekä kirkossa.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Märtha_av_Sverige",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "barn": 3,
+      "glesbygd": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1954",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q214043",
+    "typ": "historia",
+    "titel": "John Bauer",
+    "ingress": "John Bauer oli tunnettu ruotsalainen taiteilija, joka on erityisen tunnettu kuvituksistaan kirjassa \"Bland tomtar och troll\". Hänestä tuli yksi Ruotsin tärkeimmistä satujen ja kansanuskomusten kuvaajista.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/John_Bauer",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_it": 3,
+      "b_kultur": 3,
+      "kultur": 5
+    },
+    "epok": "1900talet",
+    "tid": "d. 1918",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q238443",
+    "typ": "historia",
+    "titel": "Ellen Key",
+    "ingress": "Ellen Key oli tunnettu ruotsalainen kirjailija ja naisten oikeuksien puolustaja, jonka ajatukset vaikuttivat merkittävästi siihen, miten lapsia tulisi kasvattaa ja kouluttaa.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Ellen_Key",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "barn": 5,
+      "kvinna": 3,
+      "kultur": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1926",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q331845",
+    "typ": "historia",
+    "titel": "Hjalmar Söderberg.",
+    "ingress": "Hjalmar Söderberg oli erittäin merkittävä ruotsalainen kirjailija 1900-luvulla, ja hän kirjoitti muun muassa teoksen \"Doktor Glas\".",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Hjalmar_Söderberg",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_kultur": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1941",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q53707",
+    "typ": "historia",
+    "titel": "Tage Erlander",
+    "ingress": "Tage Erlander oli Ruotsin pääministeri vuosina 1946–1969. Hän toimi pisimpään virassaan kaikista maailman johtajista demokraattisissa maissa tuona aikana.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Tage_Erlander",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "student": 3,
+      "fortroendevald": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1985",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q57648",
+    "typ": "historia",
+    "titel": "Viktorian perheestä kotoisin oleva henkilö.",
+    "ingress": "Teksti kertoo Victorinasta, joka oli Badenin prinsessa ja myöhemmin Ruotsin kuningatar, kun hän meni naimisiin kuningas Kustaa V:n kanssa. Hänet tunnettiin siitä, että hän oli usein sairas ja vietti paljon aikaa ulkomailla.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Victoria_av_Baden",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_it": 3,
+      "b_kultur": 3,
+      "kultur": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1930",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q186261",
+    "typ": "historia",
+    "titel": "Gideon Sundbäck.",
+    "ingress": "Gideon Sundbäck oli ruotsalainen keksijä, joka työskenteli Yhdysvalloissa ja kehitti nykyaikaisen vetoketjun. Hän mahdollisti vetoketjujen valmistuksen koneilla sen sijaan, että ne olisi tehty käsin, mikä teki tuotteesta tunnetun ympäri maa",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Gideon_Sundbäck",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_industri": 3,
+      "immaterialratt": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1954",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q232402",
+    "typ": "historia",
+    "titel": "Ruotsin prinsessa Louise.",
+    "ingress": "Ruotsin prinssi Louise oli kuningatar Tanskassa avioliittonsa myötä, kun hän meni naimisiin Tanskan kuninkaan kanssa.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Louise_av_Sverige",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "upphandling": 8,
+      "sambo_gift": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1926",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q436267",
+    "typ": "historia",
+    "titel": "Hilma af Klint.",
+    "ingress": "Hilma af Klint oli ruotsalainen taiteilija, joka oli edelläkävijä abstraktin maalaustaidan alalla. Tämä tarkoittaa, että hän maalasi kuvia, jotka eivät esittäneet todellisuutta, vaan ajatuksia. Hänen teoksensa ovat nykyään tärkeä osa Ruotsi",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Hilma_af_Klint",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_transport": 3,
+      "b_kultur": 5,
+      "kvinna": 3,
+      "kultur": 5
+    },
+    "epok": "1900talet",
+    "tid": "d. 1944",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q212163",
+    "typ": "historia",
+    "titel": "Folke Bernadotte.",
+    "ingress": "Folke Bernadotte oli ruotsalainen sotilas ja Punaisen Ristin johtaja, joka tuli tunnetuksi siitä, kuinka hän pelasti tuhansia sotavankeja toisen maailmansodan aikana.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Folke_Bernadotte",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_transport": 3,
+      "barn": 3,
+      "kollektiv": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1948",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q115477",
+    "typ": "historia",
+    "titel": "Louise von Baden.",
+    "ingress": "Louise von Baden oli prinsessa, joka tuli Ruotsin kuningattareksi vuonna 1950. Hän tunnettiin työstään sairaanhoitajana ensimmäisen maailmansodan aikana sekä roolistaan kuninkaallisessa perheessä.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Louise_av_Battenberg",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "upphandling": 8,
+      "barn": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1965",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q53660",
+    "typ": "historia",
+    "titel": "Per Albin Hansson.",
+    "ingress": "Per Albin Hansson oli erittäin tärkeä ruotsalainen poliitikko, joka johti sosiaalidemokraattista puoluetta ja toimi Ruotsin pääministerinä pitkään. Hän työskenteli parantaakseen työntekijöiden elinolosuhteita ja puolusti kaikkien äänioikeut",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Per_Albin_Hansson",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "barn": 3,
+      "ung": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1946",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
   }
 ]

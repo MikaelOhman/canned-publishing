@@ -192,7 +192,7 @@
   "ekonomi": {
     "etikett": "Ekonomi",
     "typ": "ämne",
-    "antal": 24
+    "antal": 25
   },
   "bolagsforvaltning": {
     "etikett": "Bolagsförvaltning",
@@ -432,7 +432,7 @@
   "protokoll": {
     "etikett": "Protokoll",
     "typ": "händelse",
-    "antal": 14
+    "antal": 15
   },
   "alingsas": {
     "etikett": "Alingsås",
@@ -472,7 +472,7 @@
   "kommunalpolitik": {
     "etikett": "Kommunalpolitik",
     "typ": "ämne",
-    "antal": 18
+    "antal": 20
   },
   "umea": {
     "etikett": "Umeå",
@@ -1502,17 +1502,17 @@
   "reg-halland": {
     "etikett": "Region Halland",
     "typ": "organisation",
-    "antal": 19
+    "antal": 23
   },
   "regionfullmaktige": {
     "etikett": "Regionfullmaktige",
     "typ": "organisation",
-    "antal": 31
+    "antal": 33
   },
   "regionstyrelsen": {
     "etikett": "Regionstyrelsen",
     "typ": "organisation",
-    "antal": 27
+    "antal": 29
   },
   "reg-orebro": {
     "etikett": "Region Örebro län",
@@ -1712,12 +1712,12 @@
   "region-halland": {
     "etikett": "Region Halland",
     "typ": "organisation",
-    "antal": 14
+    "antal": 18
   },
   "halland": {
     "etikett": "Halland",
     "typ": "plats",
-    "antal": 15
+    "antal": 19
   },
   "regionalpolitik": {
     "etikett": "Regionalpolitik",
@@ -1732,7 +1732,7 @@
   "sjukvard": {
     "etikett": "Sjukvård",
     "typ": "ämne",
-    "antal": 16
+    "antal": 17
   },
   "klimat-och-miljo": {
     "etikett": "Klimat och miljö",
@@ -1837,7 +1837,7 @@
   "svensk-historia": {
     "etikett": "Svensk historia",
     "typ": "ämne",
-    "antal": 306
+    "antal": 308
   },
   "vikingatid": {
     "etikett": "Vikingatiden",
@@ -1892,7 +1892,7 @@
   "1900talet": {
     "etikett": "1900-talet",
     "typ": "epok",
-    "antal": 66
+    "antal": 68
   },
   "finland": {
     "etikett": "Finland",
@@ -1967,7 +1967,7 @@
   "historisk-person": {
     "etikett": "Historisk person",
     "typ": "ämne",
-    "antal": 270
+    "antal": 272
   },
   "runinskrift": {
     "etikett": "Runinskrift",
@@ -1992,12 +1992,12 @@
   "varberg": {
     "etikett": "Varberg",
     "typ": "plats",
-    "antal": 2
+    "antal": 3
   },
   "offentlig-forvaltning": {
     "etikett": "Offentlig förvaltning",
     "typ": "ämne",
-    "antal": 3
+    "antal": 4
   },
   "kollektivtrafik": {
     "etikett": "Kollektivtrafik",
@@ -2086,6 +2086,11 @@
   },
   "fastighetsforvaltning": {
     "etikett": "Fastighetsförvaltning",
+    "typ": "ämne",
+    "antal": 1
+  },
+  "regional-utveckling": {
+    "etikett": "Regional utveckling",
     "typ": "ämne",
     "antal": 1
   }

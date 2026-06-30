@@ -22,7 +22,7 @@
   "svensk-historia": {
     "etikett": "Ruotsin historia:\n\n*   **Aikajana:**\n    *   [Päivämäärä] - [Tapahtuma]\n    *   [Päivämäärä] - [Tapahtuma]\n    *   [Päivämäärä] - [Tapahtuma]\n\n*   **Keskeiset henkilöt:**\n    *   [Nimi]: [Lyhyt kuvaus]\n    *   [Nimi]: [Lyhyt kuvaus]\n    *   [Nimi]: [Lyhyt kuvaus]\n\n*   **Tärkeitä paikkoja:**\n    *   [Paikan nimi]: [Lyhyt kuvaus]\n    *   [Paikan nimi]: [Lyhyt kuvaus]\n    *   [Paikan nimi]: [Lyhyt kuvaus]\n\n*   **Lisätietoja:**\n    *   Verkkosivusto: [URL]",
     "typ": "ämne",
-    "antal": 262
+    "antal": 294
   },
   "vikingatid": {
     "etikett": "Viikinkiaika\n\n*   Aikakausi: Noin 800-1066 jaa.\n*   Alue: Pohjois-Eurooppa, erityisesti Skandinavia.\n*   Merkittäviä tapahtumia: Laajentuminen, kaupankäynti, ryöstöt, kulttuurivaihto.\n*   Tärkeitä paikkoja: Kaupungit kuten Birka (Ruotsissa), Hedeby (Tanskassa) ja Dublin (Irlannissa).\n*   Lisätietoja: [URL ei annettu]",
@@ -77,7 +77,7 @@
   "1900talet": {
     "etikett": "1900-luku:\n\n*   [Sisältö tässä]",
     "typ": "epok",
-    "antal": 25
+    "antal": 57
   },
   "runsten": {
     "etikett": "Juoksukivi.",
@@ -1967,7 +1967,7 @@
   "historisk-person": {
     "etikett": "Historiallinen henkilö.",
     "typ": "ämne",
-    "antal": 226
+    "antal": 258
   },
   "runinskrift": {
     "etikett": "Kirjoitusmerkintä.",

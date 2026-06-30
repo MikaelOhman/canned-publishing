@@ -25469,5 +25469,810 @@
     "sakerhet": "belagt",
     "konsensus": "samsyn",
     "flaggor": []
+  },
+  {
+    "id": "hist-q52878",
+    "typ": "historia",
+    "titel": "Gustavo VI Adolfo.",
+    "ingress": "El texto narra la vida del rey Gustavo VI Adolfo, desde su nacimiento como príncipe hasta que se convirtió en el rey de Suecia en 1950.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Gustaf_VI_Adolf",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "upphandling": 3,
+      "barn": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1973",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q53620",
+    "typ": "historia",
+    "titel": "Hjalmar Branting.",
+    "ingress": "Hjalmar Branting fue un importante político sueco que lideró el Partido Socialdemócrata y se convirtió en el primer ministro socialdemócrata de Suecia.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Hjalmar_Branting",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "b_konsult": 3,
+      "barn": 3,
+      "student": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1925",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q233026",
+    "typ": "historia",
+    "titel": "Arne Tiselius.",
+    "ingress": "Arne Tiselius fue un químico sueco que recibió el Premio Nobel de Química en 1948. Inventó un método para estudiar las proteínas presentes en la sangre, lo cual ha sido muy importante tanto para la medicina como para la tecnología.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Arne_Tiselius",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_life": 3,
+      "fou": 3,
+      "student": 3,
+      "kronisk": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1971",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q52924",
+    "typ": "historia",
+    "titel": "Oscar II.",
+    "ingress": "El texto narra la vida del rey Óscar II, desde su infancia como príncipe hasta su reinado en Suecia y Noruega.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Oscar_II",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_industri": 3,
+      "b_kultur": 3,
+      "barn": 3,
+      "student": 3,
+      "kultur": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1907",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q57188",
+    "typ": "historia",
+    "titel": "Ernst Cassirer.",
+    "ingress": "Ernst Cassirer fue un reconocido filósofo alemán que estudió cómo las personas utilizan los símbolos para comprender el mundo. Huyó de Alemania debido al régimen nazi y posteriormente trabajó en Suecia y Estados Unidos.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Ernst_Cassirer",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "student": 3,
+      "kultur": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1945",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q179493",
+    "typ": "historia",
+    "titel": "Bertil Ohlin.",
+    "ingress": "Bertil Ohlin fue un reconocido economista, profesor y político sueco que se hizo muy popular durante las décadas de 1940 y 1950. Es más conocido por sus teorías sobre el comercio internacional y por haber liderado el Partido Popular Liberal",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Bertil_Ohlin",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "fou": 3,
+      "student": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1979",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q76613",
+    "typ": "historia",
+    "titel": "Hans von Euler-Chelpin",
+    "ingress": "Hans von Euler-Chelpin fue un químico de origen alemán y sueco que ganó el Premio Nobel de Química en 1929 por sus investigaciones sobre la fermentación del azúcar y la descomposición de sustancias en el cuerpo humano.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Hans_von_Euler-Chelpin",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_transport": 3,
+      "fou": 3,
+      "student": 3,
+      "flygresenar": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1964",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q154759",
+    "typ": "historia",
+    "titel": "Sven Hedin.",
+    "ingress": "Sven Hedin fue un reconocido explorador sueco que recorrió gran parte de Asia. Se hizo famoso por sus mapas, pero más tarde recibió críticas por haber apoyado al partido nazi en Alemania.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Sven_Hedin",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "epok": "1900talet",
+    "tid": "d. 1952",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q187310",
+    "typ": "historia",
+    "titel": "Carl Larsson.",
+    "ingress": "Carl Larsson fue un reconocido artista sueco que se hizo famoso por sus hermosas acuarelas que representaban la vida familiar y escenas cotidianas.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Carl_Larsson",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "kultur": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1919",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q217722",
+    "typ": "historia",
+    "titel": "Ragnar Granit.",
+    "ingress": "Ragnar Granit fue un reconocido científico finlandés que ganó el Premio Nobel en 1967 por sus descubrimientos sobre el funcionamiento de nuestros ojos y nuestro sentido de la visión.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Ragnar_Granit",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "student": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1991",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q159723",
+    "typ": "historia",
+    "titel": "Nathan Söderblom.",
+    "ingress": "Nathan Söderblom fue un líder eclesiástico y académico sueco que se convirtió en arzobispo en 1914. Recibió el Premio Nobel de la Paz en 1930 por su trabajo para fomentar la paz entre diferentes religiones.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Nathan_Söderblom",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "student": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1931",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q110111",
+    "typ": "historia",
+    "titel": "Gunnar Nordahl.",
+    "ingress": "Gunnar Nordahl fue un futbolista sueco que se hizo famoso por marcar una gran cantidad de goles. Fue el primer sueco en convertirse en profesional en Italia, y hasta hoy sigue siendo uno de los mejores goleadores de la liga italiana.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Gunnar_Nordahl",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_it": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1995",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q206820",
+    "typ": "historia",
+    "titel": "Anders Zorn.",
+    "ingress": "Anders Zorn fue un reconocido artista sueco que se hizo famoso por sus retratos de personajes importantes, incluyendo a varios presidentes estadounidenses.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Anders_Zorn",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "kultur": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1920",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q230238",
+    "typ": "historia",
+    "titel": "Astrid de Suecia.",
+    "ingress": "La princesa Astrid fue una princesa sueca que se convirtió en reina de Bélgica tras casarse con el príncipe heredero belga. Falleció trágicamente en un accidente automovilístico en 1935, a una edad temprana.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Astrid_av_Sverige",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "arbetsmiljo": 3,
+      "barn": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1935",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q156749",
+    "typ": "historia",
+    "titel": "Adolf Erik Nordenskiöld.",
+    "ingress": "Nordenskiöld fue un reconocido científico y aventurero que viajó extensamente por el Ártico para estudiar las ciencias naturales. Es más conocido por sus viajes a lugares como Groenlandia y Svalbard.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Adolf_Erik_Nordenskiöld",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "fou": 3,
+      "glesbygd": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1901",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q154410",
+    "typ": "historia",
+    "titel": "Marie Under",
+    "ingress": "Marie Under fue una destacada poeta estonia que huyó a Suecia en 1944 para escapar del régimen soviético. Se convirtió en una de las escritoras más importantes de Estonia, y sus poemas estuvieron prohibidos durante mucho tiempo en su país n",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Marie_Under",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "kultur": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1980",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q41580",
+    "typ": "historia",
+    "titel": "Axel Munthe.",
+    "ingress": "Axel Munthe fue un médico y escritor sueco que se hizo famoso en toda Europa. Trabajó como médico personal de la reina Victoria y construyó una famosa casa en la isla de Capri.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Axel_Munthe",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_it": 3,
+      "b_kultur": 3,
+      "bostadsagare": 3,
+      "kultur": 5
+    },
+    "epok": "1900talet",
+    "tid": "d. 1949",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q237413",
+    "typ": "historia",
+    "titel": "Karin Boye.",
+    "ingress": "Karin Boye fue una reconocida escritora y poeta sueca que escribió tanto poesía como novelas. Es especialmente conocida por sus obras poéticas y por el libro \"Kallocain\".",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Karin_Boye",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "student": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1941",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q57312",
+    "typ": "historia",
+    "titel": "Peter Weiss.",
+    "ingress": "Peter Weiss fue un artista, escritor y director alemán-sueco que se hizo famoso mundialmente por sus obras de teatro dramáticas.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Peter_Weiss",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "kultur": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1982",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q311567",
+    "typ": "historia",
+    "titel": "Janne Rydberg.",
+    "ingress": "Janne Rydberg fue un físico sueco que descubrió una importante fórmula matemática para comprender la estructura de los átomos. Su trabajo en el campo de la luz y la materia sentó las bases del conocimiento moderno sobre la estructura atómic",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Janne_Rydberg",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "fou": 3,
+      "skiftarbete": 3,
+      "student": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1919",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q231281",
+    "typ": "historia",
+    "titel": "Märtha de Suecia.",
+    "ingress": "El texto trata sobre la princesa Märtha de Suecia, que fue princesa heredera de Noruega. Se convirtió en una heroína durante la Segunda Guerra Mundial y, hoy en día, es honrada con su nombre en lugares, barcos y una iglesia.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Märtha_av_Sverige",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "barn": 3,
+      "glesbygd": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1954",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q214043",
+    "typ": "historia",
+    "titel": "John Bauer.",
+    "ingress": "John Bauer fue un reconocido artista sueco, más conocido por sus ilustraciones del libro \"Bland tomtar och troll\". Se convirtió en uno de los ilustradores más importantes de cuentos y folklore en Suecia.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/John_Bauer",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_it": 3,
+      "b_kultur": 3,
+      "kultur": 5
+    },
+    "epok": "1900talet",
+    "tid": "d. 1918",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q238443",
+    "typ": "historia",
+    "titel": "Ellen Key",
+    "ingress": "Ellen Key fue una reconocida escritora y defensora de los derechos de las mujeres sueca, que tuvo una gran influencia en la forma en que se educaba y formaba a los niños.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Ellen_Key",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_kultur": 3,
+      "barn": 5,
+      "kvinna": 3,
+      "kultur": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1926",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q331845",
+    "typ": "historia",
+    "titel": "Hjalmar Söderberg.",
+    "ingress": "Hjalmar Söderberg fue un autor sueco muy importante durante el siglo XX, y entre sus obras se encuentra el libro \"Doktor Glas\".",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Hjalmar_Söderberg",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_kultur": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1941",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q53707",
+    "typ": "historia",
+    "titel": "Tage Erlander.",
+    "ingress": "Tage Erlander fue Primer Ministro de Suecia entre 1946 y 1969. Ocupó el cargo por más tiempo que cualquier otro líder democrático del mundo durante ese período.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Tage_Erlander",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "student": 3,
+      "fortroendevald": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1985",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q57648",
+    "typ": "historia",
+    "titel": "Victoria de Baden.",
+    "ingress": "El texto habla de Victoria de Baden, quien se convirtió en reina de Suecia tras casarse con el rey Gustavo V. Era conocida por ser una persona que frecuentemente enfermaba y pasaba mucho tiempo fuera del país.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Victoria_av_Baden",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_it": 3,
+      "b_kultur": 3,
+      "kultur": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1930",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q186261",
+    "typ": "historia",
+    "titel": "Gideon Sundbäck.",
+    "ingress": "Gideon Sundbäck fue un inventor sueco que vivía en Estados Unidos y quien creó la cremallera moderna. Gracias a él, se hizo posible fabricar cremalleras con máquinas en lugar de hacerlo manualmente, lo que contribuyó a que este producto se",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Gideon_Sundbäck",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_industri": 3,
+      "immaterialratt": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1954",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q232402",
+    "typ": "historia",
+    "titel": "Luisa de Suecia.",
+    "ingress": "Luisa de Suecia fue una princesa que se convirtió en reina de Dinamarca tras casarse con el rey danés.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Louise_av_Sverige",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "upphandling": 8,
+      "sambo_gift": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1926",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q436267",
+    "typ": "historia",
+    "titel": "Hilma af Klint.",
+    "ingress": "Hilma af Klint fue una artista sueca que fue pionera en la pintura abstracta, lo que significa que pintaba obras que no representaban la realidad, sino ideas. Su obra es ahora una parte importante del patrimonio cultural de Suecia.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Hilma_af_Klint",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_transport": 3,
+      "b_kultur": 5,
+      "kvinna": 3,
+      "kultur": 5
+    },
+    "epok": "1900talet",
+    "tid": "d. 1944",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q212163",
+    "typ": "historia",
+    "titel": "Folke Bernadotte.",
+    "ingress": "Folke Bernadotte fue un militar y líder sueco de la Cruz Roja, conocido por haber rescatado a miles de prisioneros de guerra durante la Segunda Guerra Mundial.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Folke_Bernadotte",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_transport": 3,
+      "barn": 3,
+      "kollektiv": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1948",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q115477",
+    "typ": "historia",
+    "titel": "Luisa de Battenburg.",
+    "ingress": "Luisa de Battenberg fue una princesa que se convirtió en reina de Suecia en el año 1950. Era conocida por su trabajo como enfermera durante la Primera Guerra Mundial y por su papel dentro de la familia real.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Louise_av_Battenberg",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "upphandling": 8,
+      "barn": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1965",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q53660",
+    "typ": "historia",
+    "titel": "Per Albin Hansson.",
+    "ingress": "Per Albin Hansson fue un político sueco muy importante que lideró el Partido Socialdemócrata y fue Primer Ministro de Suecia durante mucho tiempo. Trabajó para mejorar las condiciones de los trabajadores y luchó por el derecho al voto para",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Per_Albin_Hansson",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "barn": 3,
+      "ung": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1946",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
+  },
+  {
+    "id": "hist-q55170",
+    "typ": "historia",
+    "titel": "Victor Sjöström.",
+    "ingress": "Victor Sjöström fue un reconocido actor, director y guionista sueco que se convirtió en una de las figuras más importantes del cine mudo sueco temprano.",
+    "datum": "",
+    "kalla": "Wikipedia",
+    "kalla_url": "https://sv.wikipedia.org/wiki/Victor_Sjöström",
+    "taggar": [
+      "svensk-historia",
+      "historisk-person",
+      "1900talet"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_kultur": 3
+    },
+    "epok": "1900talet",
+    "tid": "d. 1960",
+    "kallage": "samtida",
+    "sakerhet": "belagt",
+    "konsensus": "samsyn",
+    "flaggor": []
   }
 ]
