@@ -15600,6 +15600,26 @@
     }
   },
   {
+    "id": "reg-jamtland-regionstyrelsen-2025-08-26",
+    "typ": "region",
+    "titel": "Regionstyrelsen, Region Jämtland Härjedalen 2025-08-26",
+    "ingress": "Regionen har tagit del av en rapport som visar att det ekonomiska läget är svårt och att utgifterna under första halvåret av 2025 blev högre än planerat.",
+    "datum": "2025-08-26",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionstyrelsen/mote-2025-08-26",
+    "taggar": [
+      "reg-jamtland",
+      "regionstyrelsen",
+      "region-jamtland-harjedalen",
+      "sjukvard",
+      "regionalpolitik",
+      "ekonomi"
+    ],
+    "relevans": {
+      "kronisk": 8
+    }
+  },
+  {
     "id": "bollebygd-kommunstyrelsen-2025-07-11",
     "typ": "kommunbeslut",
     "titel": "Kommunstyrelsen, Bollebygds kommun 2025-07-11",
@@ -16720,6 +16740,33 @@
       "glesbygd": 5,
       "regelborda": 5,
       "smaforetag": 4
+    }
+  },
+  {
+    "id": "reg-jamtland-regionstyrelsen-2025-05-27",
+    "typ": "region",
+    "titel": "Regionstyrelsen, Region Jämtland Härjedalen 2025-05-27",
+    "ingress": "Regionstyrelsen i Jämtland Härjedalen har tagit beslut om flera viktiga frågor som rör hälso- och sjukvård, ekonomi och lokala projekt för år 2025 och framåt.",
+    "datum": "2025-05-27",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionstyrelsen/mote-2025-05-27",
+    "taggar": [
+      "reg-jamtland",
+      "regionstyrelsen",
+      "region-jamtland-harjedalen",
+      "regional-forvaltning",
+      "jamtland",
+      "offentlig-forvaltning"
+    ],
+    "relevans": {
+      "b_fastighet": 5,
+      "b_energi": 3,
+      "finansiering": 3,
+      "barn": 3,
+      "kronisk": 8,
+      "tandvard": 3,
+      "energikund": 3,
+      "klimat": 5
     }
   },
   {
@@ -19190,6 +19237,34 @@
       "b_fastighet": 3,
       "kronisk": 8,
       "klimat": 3
+    }
+  },
+  {
+    "id": "reg-jamtland-regionfullmaktige-2024-06-19",
+    "typ": "region",
+    "titel": "Regionfullmaktige, Region Jämtland Härjedalen 2024-06-19",
+    "ingress": "Regionen Jämtland Härjedalen har tagit beslut om viktiga frågor som rör hälso- och sjukvård, kollektivtrafik och framtida budgetar för 2025–2027.",
+    "datum": "2024-06-19",
+    "kalla": "Region Jämtland Härjedalen",
+    "kalla_url": "https://forum.regionjh.se/committees/regionfullmaktige/mote-2024-06-19",
+    "taggar": [
+      "reg-jamtland",
+      "regionfullmaktige",
+      "region-jamtland-harjedalen",
+      "jamtland",
+      "regionalpolitik",
+      "kommunal-forvaltning"
+    ],
+    "relevans": {
+      "b_fastighet": 3,
+      "b_konsult": 3,
+      "redovisning": 3,
+      "digitalisering": 3,
+      "pendlare": 3,
+      "kollektiv": 3,
+      "kronisk": 8,
+      "konsument": 3,
+      "digital_ovan": 3
     }
   },
   {
