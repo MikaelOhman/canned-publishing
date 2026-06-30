@@ -80,6 +80,111 @@
     }
   },
   {
+    "id": "eu-kommissionen-2026-06-29-joint-press-statement-by-commi",
+    "typ": "omvarld",
+    "titel": "Gemensam presstale från kommissionär Šefčovič och minister Wang.",
+    "ingress": "EU:s företrädare och en kinesisk minister har tillsammans skrivit under ett gemensamt dokument om handel och ekonomi. Det handlar om att samarbetet mellan Europa och Kina ska bli tydligare.",
+    "datum": "2026-06-29",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1480",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ],
+    "relevans": {
+      "kronisk": 3
+    }
+  },
+  {
+    "id": "eu-kommissionen-2026-06-29-daily-news-29-06-2026",
+    "typ": "omvarld",
+    "titel": "Dagliga nyheter 2026-06-29.",
+    "ingress": "EU skickar akut hjälp och organiserar flyg med nödhjälp till Venezuela efter kraftiga jordbävningar.",
+    "datum": "2026-06-29",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1476",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ],
+    "relevans": {
+      "b_transport": 3,
+      "flygresenar": 3
+    }
+  },
+  {
+    "id": "eu-kommissionen-2026-06-29-commissioner-roswall-s-keynote",
+    "typ": "omvarld",
+    "titel": "Kommissionär Roswalls inledningsanförande vid forumet för grön finansiering och investeringar i Moldavien.",
+    "ingress": "Europakommissionen håller ett möte i Moldavien för att prata om hur man kan investera pengar i miljövänliga projekt.",
+    "datum": "2026-06-29",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1475",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ],
+    "relevans": {
+      "b_finans": 8,
+      "finansiering": 8,
+      "miljo": 3,
+      "klimat": 5
+    }
+  },
+  {
+    "id": "eu-kommissionen-2026-06-28-commission-approves-402-millio",
+    "typ": "omvarld",
+    "titel": "Kommissionen godkänner ett spanskt statligt stöd på 402 miljoner euro till vägtransportföretag som drabbas av ökade bränslepriser.",
+    "ingress": "Spanien får hjälp att ge pengar till transportföretag som drabbas av höga bränslepriser. Detta görs för att hjälpa företag som kör lastbilar och andra fordon.",
+    "datum": "2026-06-28",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1470",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ],
+    "relevans": {
+      "b_transport": 3,
+      "arbetsratt": 3,
+      "glesbygd": 8
+    }
+  },
+  {
+    "id": "eu-kommissionen-2026-06-28-commission-calls-on-the-nether",
+    "typ": "omvarld",
+    "titel": "Kommissionen uppmanar Nederländerna att förbättra konkurrensen inom internationella persontåg.",
+    "ingress": "EU kritiserar Nederländerna för att reglerna för tågtrafik på deras järnvägar kan hindra konkurrens. Syftet är att göra det lättare för olika företag att köra internationella passagerartåg.",
+    "datum": "2026-06-28",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1460",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ],
+    "relevans": {
+      "konkurrens": 8,
+      "infrastruktur": 3,
+      "kollektiv": 3
+    }
+  },
+  {
+    "id": "eu-kommissionen-2026-06-28-press-remarks-by-commissioner-",
+    "typ": "omvarld",
+    "titel": "Uttalanden från kommissionär Šefčovič om EU:s och Kinas handels- och investeringskonsultationer.",
+    "ingress": "EU och Kina har börjat diskutera hur de ska samarbeta kring handel och investeringar. Målet är att skapa bättre förutsättningar för affärer mellan de två stora regionerna.",
+    "datum": "2026-06-28",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1344",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ],
+    "relevans": {
+      "finansiering": 8,
+      "kronisk": 3
+    }
+  },
+  {
     "id": "eu-kommissionen-2026-06-27-doorstep-statement-by-commissi",
     "typ": "omvarld",
     "titel": "Uttalande från EU-kommissionären Lahbib vid Budapest Pride, framfört direkt till publiken:\n\nHär är en sammanfattning av vad som sagdes:\n\n*   **Inledning:** Kommissionären uttryckte sin stolthet över a",
