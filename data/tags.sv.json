@@ -192,7 +192,7 @@
   "ekonomi": {
     "etikett": "Ekonomi",
     "typ": "ämne",
-    "antal": 25
+    "antal": 26
   },
   "bolagsforvaltning": {
     "etikett": "Bolagsförvaltning",
@@ -422,7 +422,7 @@
   "orebro": {
     "etikett": "Örebro",
     "typ": "plats",
-    "antal": 17
+    "antal": 20
   },
   "kommunal-ekonomi": {
     "etikett": "Kommunal ekonomi",
@@ -1507,17 +1507,17 @@
   "regionfullmaktige": {
     "etikett": "Regionfullmaktige",
     "typ": "organisation",
-    "antal": 33
+    "antal": 34
   },
   "regionstyrelsen": {
     "etikett": "Regionstyrelsen",
     "typ": "organisation",
-    "antal": 29
+    "antal": 31
   },
   "reg-orebro": {
     "etikett": "Region Örebro län",
     "typ": "organisation",
-    "antal": 18
+    "antal": 21
   },
   "reg-vastmanland": {
     "etikett": "Region Västmanland",
@@ -1722,17 +1722,17 @@
   "regionalpolitik": {
     "etikett": "Regionalpolitik",
     "typ": "ämne",
-    "antal": 23
+    "antal": 25
   },
   "region-orebro-lan": {
     "etikett": "Region Örebro län",
     "typ": "organisation",
-    "antal": 15
+    "antal": 18
   },
   "sjukvard": {
     "etikett": "Sjukvård",
     "typ": "ämne",
-    "antal": 17
+    "antal": 18
   },
   "klimat-och-miljo": {
     "etikett": "Klimat och miljö",
@@ -2002,7 +2002,7 @@
   "kollektivtrafik": {
     "etikett": "Kollektivtrafik",
     "typ": "ämne",
-    "antal": 3
+    "antal": 4
   },
   "utbildningsnamndens-pdf-bortredigerad": {
     "etikett": "Utbildningsnämndens pdf Bortredigerad",
@@ -2092,6 +2092,11 @@
   "regional-utveckling": {
     "etikett": "Regional utveckling",
     "typ": "ämne",
+    "antal": 1
+  },
+  "jenny-steen": {
+    "etikett": "Jenny Steen",
+    "typ": "person",
     "antal": 1
   }
 }
