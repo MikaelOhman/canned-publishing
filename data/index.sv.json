@@ -165,6 +165,27 @@
     }
   },
   {
+    "id": "fk-2026-06-29-fler-skadade-under-sommaren",
+    "typ": "myndighet",
+    "titel": "Fler skadade under sommaren",
+    "ingress": "Fler personer skadar sig under sommaren och blir sjukskrivna på grund av aktiviteter som fjällvandring eller byggprojekt. Detta beror troligen på att folk är mer aktiva utomhus men gör saker de inte är vana vid.",
+    "datum": "2026-06-29",
+    "kalla": "Försäkringskassan",
+    "kalla_url": "https://www.forsakringskassan.se/nyhetsarkiv/nyheter-press/2026-06-29-fler-skadade-under-sommaren",
+    "taggar": [
+      "socialforsakring",
+      "forsakringskassan"
+    ],
+    "relevans": {
+      "arbetsgivare": 5,
+      "b_bygg": 3,
+      "b_finans": 3,
+      "sjuklon": 3,
+      "sjukskriven": 5,
+      "psykisk": 3
+    }
+  },
+  {
     "id": "eu-kommissionen-2026-06-28-commission-approves-402-millio",
     "typ": "omvarld",
     "titel": "Kommissionen godkänner ett spanskt statligt stöd på 402 miljoner euro till vägtransportföretag som drabbas av ökade bränslepriser.",
