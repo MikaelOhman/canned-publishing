@@ -74,6 +74,24 @@
     }
   },
   {
+    "id": "HD03297",
+    "typ": "lagforslag",
+    "titel": "Ett nytt straffrättsligt påföljdssystem",
+    "ingress": "Regeringen vill ändra reglerna för hur straff bestäms och utförs för att göra rättssystemet mer rättvist. Det innebär bland annat nya regler för fängelse, hårdare straff för personer som begår flera brott och bättre skydd för samhället.",
+    "datum": "2026-06-30",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03297.html",
+    "taggar": [
+      "riksdagen"
+    ],
+    "relevans": {
+      "kronisk": 3,
+      "beroende": 3,
+      "brottsoffer": 3,
+      "domd": 8
+    }
+  },
+  {
     "id": "ecb-2026-06-29-christine-lagarde-back-to-basi",
     "typ": "omvarld",
     "titel": "Christine Lagarde: Återgång till grunderna i en osäker omgivning.",
