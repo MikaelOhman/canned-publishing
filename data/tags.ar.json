@@ -32,7 +32,7 @@
   "riksdagen": {
     "etikett": "البرلمان.",
     "typ": "organisation",
-    "antal": 432
+    "antal": 439
   },
   "underrattelsetjanst": {
     "etikett": "جهاز الاستخبارات",
@@ -97,7 +97,7 @@
   "eu-ratt": {
     "etikett": "قانون الاتحاد الأوروبي",
     "typ": "ämne",
-    "antal": 13
+    "antal": 15
   },
   "straffratt": {
     "etikett": "القانون الجنائي",
@@ -112,7 +112,7 @@
   "ekonomi": {
     "etikett": "الاقتصاد",
     "typ": "ämne",
-    "antal": 26
+    "antal": 27
   },
   "sverige": {
     "etikett": "السويد",
@@ -182,7 +182,7 @@
   "skatt": {
     "etikett": "الضرائب",
     "typ": "ämne",
-    "antal": 9
+    "antal": 11
   },
   "finansmarknad": {
     "etikett": "# الأسواق المالية",
@@ -327,17 +327,17 @@
   "ecb": {
     "etikett": "البنك المركزي الأوروبي.",
     "typ": "organisation",
-    "antal": 11
+    "antal": 12
   },
   "eu": {
     "etikett": "الاتحاد الأوروبي.",
     "typ": "organisation",
-    "antal": 37
+    "antal": 45
   },
   "eu-kommissionen": {
     "etikett": "لجنة الاتحاد الأوروبي.",
     "typ": "organisation",
-    "antal": 27
+    "antal": 33
   },
   "alingsas": {
     "etikett": "Alingsås",
@@ -1682,7 +1682,7 @@
   "skatteverket": {
     "etikett": "مصلحة الضرائب السويدية.",
     "typ": "organisation",
-    "antal": 8
+    "antal": 10
   },
   "pension": {
     "etikett": "المعاش التقاعدي.",
@@ -1732,12 +1732,12 @@
   "socialforsakring": {
     "etikett": "التأمين الاجتماعي.",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "forsakringskassan": {
     "etikett": "صندوق التأمين الاجتماعي.",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "arbetsmarknad": {
     "etikett": "سوق العمل.",

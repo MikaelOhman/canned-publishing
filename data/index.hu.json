@@ -58,6 +58,299 @@
     }
   },
   {
+    "id": "HD03299",
+    "typ": "lagforslag",
+    "titel": "A \"Allmänna arvsfonden\" (Általános Örökség Alap) által a 2025-ös költségvetési évben biztosított támogatások felhasználásának áttekintése.",
+    "ingress": "A kormány bemutatta, hogyan kell elkölteni az Általános Örökségalapból származó pénzt 2025-ben. Részletezték, mely területekre érdemes a jövőben nagyobb hangsúlyt fektetni.",
+    "datum": "2026-06-30",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03299.html",
+    "taggar": [
+      "riksdagen"
+    ],
+    "relevans": {
+      "b_konsult": 8
+    }
+  },
+  {
+    "id": "HD03297",
+    "typ": "lagforslag",
+    "titel": "Egy új büntetőjogi szankciórendszer.",
+    "ingress": "A kormány szeretné megváltoztatni azokat a szabályokat, amelyek alapján a büntetéseket szabják ki és végrehajtják, hogy igazságosabb legyen a jogrendszer. Ez többek között új szabályokat jelent a börtönnel kapcsolatban, szigorúbb büntetések",
+    "datum": "2026-06-30",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03297.html",
+    "taggar": [
+      "riksdagen"
+    ],
+    "relevans": {
+      "kronisk": 3,
+      "beroende": 3,
+      "brottsoffer": 3,
+      "domd": 8
+    }
+  },
+  {
+    "id": "HD03296",
+    "typ": "lagforslag",
+    "titel": "Adótranszparens befektetési alapok intézményi befektetők számára.",
+    "ingress": "Az új szabályozások lehetővé teszik a nagy szervezetnek, amelyek nyugdíjalapokat kezelnek, hogy olyan speciális alapokba fektessenek be, amelyek egyszerűbb adószabályokkal rendelkeznek. Ennek célja, hogy a nyugdíjasok számára olcsóbb és kén",
+    "datum": "2026-06-30",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03296.html",
+    "taggar": [
+      "riksdagen"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "konkurrens": 3,
+      "pensionar": 3,
+      "sparare": 3
+    }
+  },
+  {
+    "id": "HD03295",
+    "typ": "lagforslag",
+    "titel": "A szociális szolgálatok megelőző intézkedései a gyermekek és fiatalok védelmére, különösen akkor, ha a család nem működik együtt.",
+    "ingress": "Egy új törvényt javasolnak, amelynek célja a gyermekek és fiatalok védelme, különösen azok esetében, akik nem kapnak segítséget szüleiktől vagy gondozóiktól. Ez lehetővé teszi a szociális szolgálat számára, hogy intézkedéseket fogadjon el a",
+    "datum": "2026-06-30",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03295.html",
+    "taggar": [
+      "riksdagen"
+    ],
+    "relevans": {
+      "gdpr": 3,
+      "barn": 8,
+      "foraldraledig": 3,
+      "glesbygd": 3,
+      "kronisk": 3,
+      "otrygg": 3,
+      "integritet": 5
+    }
+  },
+  {
+    "id": "HD03294",
+    "typ": "lagforslag",
+    "titel": "A gyermekek jogainak és biztonságának védelméért – egy új törvény a gyermekek és fiatalok gondozása céljából történő elhelyezésről.",
+    "ingress": "Egy új törvény lép életbe, amely felváltja a jelenlegi gyermekjóléti törvényt, hogy jobb jogokat és biztonságot nyújtson a gyerekeknek. Az új szabályozás pontosabban fogja meghatározni, hogyan védik meg a gyermekeket, különösen azokat, akik",
+    "datum": "2026-06-30",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03294.html",
+    "taggar": [
+      "riksdagen"
+    ],
+    "relevans": {
+      "gdpr": 3,
+      "barn": 8,
+      "kronisk": 8,
+      "otrygg": 8,
+      "integritet": 3
+    }
+  },
+  {
+    "id": "HD03293",
+    "typ": "lagforslag",
+    "titel": "Szigorúbb szabályok a fiatal bűnözők számára.",
+    "ingress": "A kormány szigorítani szeretné a szabályokat azoknak a fiataloknak, akik súlyos bűncselekményeket követnek el. Ez többek között azt jelenti, hogy a büntetések súlyosabbak lesznek, és bizonyos korcsoporti kedvezmények megszűnnek.",
+    "datum": "2026-06-30",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03293.html",
+    "taggar": [
+      "riksdagen"
+    ],
+    "relevans": {
+      "ung": 3,
+      "otrygg": 3,
+      "domd": 3,
+      "integritet": 3
+    }
+  },
+  {
+    "id": "HD03140",
+    "typ": "lagforslag",
+    "titel": "A svéd kormány által tulajdonolt vállalatok 2026-os éves jelentése.",
+    "ingress": "A kormány arról jelentést készít, hogyan kezelte az állami tulajdonban lévő vállalatokat, valamint három konkrét alap és egy kölcsönös hitintézmény tevékenységét.",
+    "datum": "2026-06-30",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03140.html",
+    "taggar": [
+      "riksdagen"
+    ],
+    "relevans": {
+      "b_industri": 3,
+      "sparare": 3
+    }
+  },
+  {
+    "id": "ecb-2026-06-30-ecb-publishes-indicative-opera",
+    "typ": "omvarld",
+    "titel": "Az Európai Központi Bank (EKKB) közzétette a 2028. évi tevékenységének előzetes naptárát.",
+    "ingress": "Az Európai Központi Bank közzétette az első tervezetét arról, hogyan tervezi kezelni a piaci hitelek és pénzforgalmat 2028-ban.",
+    "datum": "2026-06-30",
+    "kalla": "ECB",
+    "kalla_url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260630_1~ff55b9e99a.en.html",
+    "taggar": [
+      "ekonomi",
+      "ecb"
+    ],
+    "relevans": {
+      "b_finans": 3
+    }
+  },
+  {
+    "id": "eu-kommissionen-2026-06-30-closing-keynote-speech-by-comm",
+    "typ": "omvarld",
+    "titel": "A záró főbeszédet Kubilius bizottsági tag tartotta a Nagy-Britannia és az EU közötti kapcsolatok jövőjéről szóló konferencián.",
+    "ingress": "Egy uniós képviselő tart egy beszédet arról, hogy milyen legyen a jövőben a Nagy-Britannia és az Európai Unió közötti kapcsolat.",
+    "datum": "2026-06-30",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1496",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ]
+  },
+  {
+    "id": "eu-kommissionen-2026-06-30-solidarity-in-action-president",
+    "typ": "omvarld",
+    "titel": "Szolidaritás a cselekedetben\": Von der Leyen, az Európai Bizottság elnöke, Gdańskban gyűjtötte össze a támogatást Ukrajna újjáépítéséhez.",
+    "ingress": "Az Európai Unió vezetői támogatást gyűjtöttek össze Ukrajna háború utáni újjáépítéséhez.",
+    "datum": "2026-06-30",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_1493",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "infrastruktur": 3
+    }
+  },
+  {
+    "id": "eu-kommissionen-2026-06-30-commission-disburses-3-9-billi",
+    "typ": "omvarld",
+    "titel": "Az Európai Bizottság 3,9 milliárd eurót folyósított drónokra az Ukrajnának nyújtott, 90 milliárd eurós támogatási program keretében.",
+    "ingress": "Az EU 3,9 milliárd eurós támogatást nyújt Ukrajnának, melyet drónok vásárlására fordítanak. Ez egy nagyobb hitelprogram része, amelynek célja, hogy segítsen az országnak védekezni Oroszország támadásai ellen.",
+    "datum": "2026-06-30",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1490",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ],
+    "relevans": {
+      "varnpliktig": 3
+    }
+  },
+  {
+    "id": "eu-kommissionen-2026-06-30-questions-and-answers-on-the-f",
+    "typ": "omvarld",
+    "titel": "Montenegróra vonatkozó pénzügyi csomaggal kapcsolatos kérdések és válaszok.",
+    "ingress": "Az Európai Unió döntött egy új támogatási programról Montenegró számára. A pénzeket arra használják, hogy segítsék az ország gazdaságát és fejlődését.",
+    "datum": "2026-06-30",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/qanda_26_1489",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ],
+    "relevans": {
+      "b_finans": 8
+    }
+  },
+  {
+    "id": "eu-kommissionen-2026-06-30-commission-presents-financial-",
+    "typ": "omvarld",
+    "titel": "Az Európai Bizottság bejelentette a Montenegróhoz szóló finanszírozási csomagot, amelynek célja az ország uniós csatlakozásának támogatása.",
+    "ingress": "Az Európai Unió egy tervet dolgozott ki arról, hogyan biztosíthatja Montenegró számára a szükséges pénzügyi támogatást és hogy az ország betartsa a szabályokat, amikor csatlakozik az EU-hoz. Ez egy fontos lépés azon az úton, amelyen kereszt",
+    "datum": "2026-06-30",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1488",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ],
+    "relevans": {
+      "b_finans": 8,
+      "glesbygd": 3
+    }
+  },
+  {
+    "id": "eu-kommissionen-2026-06-30-daily-news-30-06-2026",
+    "typ": "omvarld",
+    "titel": "Napi hírek, 2026. június 30.",
+    "ingress": "Az EU 3,9 milliárd eurós összeget fordít arra, hogy drónokat vásároljon Ukrajnának. Az összeg egy nagyobb hitelből származik, amelynek célja az ország támogatása.",
+    "datum": "2026-06-30",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1487",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ]
+  },
+  {
+    "id": "skatteverket-2026-06-30-radrum-for-foretag-med-tillfal",
+    "typ": "myndighet",
+    "titel": "A vállalkozások számára elérhető rugalmas fizetési lehetőségek azoknál, akiknek átmeneti fizetési nehézségeik vannak.",
+    "ingress": "2026. június 30-tól egy új szabály lép érvénybe, amely nagyobb biztonságot nyújt a jól működő vállalatok vezetőinek abban az esetben, ha váratlan problémáik merülnek fel adókat illetően.",
+    "datum": "2026-06-30",
+    "kalla": "Skatteverket",
+    "kalla_url": "http://skatteverket.se/omoss/pressochmedia/nyheter/2026/nyheter/radrumforforetagmedtillfalligabetalningsproblem.5.3129d65419ef1497c0613d9.html",
+    "taggar": [
+      "skatt",
+      "skatteverket"
+    ],
+    "relevans": {
+      "aktiebolag": 3,
+      "konsument": 3,
+      "otrygg": 3
+    }
+  },
+  {
+    "id": "skatteverket-2026-06-30-nya-lagar-fran-halvarsskiftet-",
+    "typ": "myndighet",
+    "titel": "Új törvények lépnek hatályba 2026 második felétől kezdve.",
+    "ingress": "2026. július 1-jétől számos új szabály lép életbe adókkal, elektromos autó töltéssel és a családi joggal kapcsolatban. Ezek között többek között az is szerepel, hogy az adóhatóság számára könnyebb lesz a csalások megakadályozása, míg bizony",
+    "datum": "2026-06-30",
+    "kalla": "Skatteverket",
+    "kalla_url": "http://skatteverket.se/omoss/pressochmedia/nyheter/2026/nyheter/nyalagarfranhalvarsskiftet2026.5.650b4a9d19ebd1653db1700.html",
+    "taggar": [
+      "skatt",
+      "skatteverket"
+    ],
+    "relevans": {
+      "b_grona": 3,
+      "b_energi": 3,
+      "moms": 3,
+      "bil": 3,
+      "beroende": 3,
+      "energikund": 3,
+      "konsument": 3,
+      "batagare": 3
+    }
+  },
+  {
+    "id": "fk-2026-06-30-ny-mojlighet-att-vabba-har-nyttjats-mest-for-moten-i-skolan",
+    "typ": "myndighet",
+    "titel": "A \"vabba\" (gyermekápolási szabadság) új lehetősége leginkább a következő célokra került felhasználásra: iskolai találkozókra való részvétel.",
+    "ingress": "Azok a szülők, akik munkaszünetet vehetnek ki abból, hogy találkozhassanak gyermekeikkel az iskolában vagy óvodában, leginkább éltek ezzel az új lehetőséggel.",
+    "datum": "2026-06-30",
+    "kalla": "Försäkringskassan",
+    "kalla_url": "https://www.forsakringskassan.se/nyhetsarkiv/nyheter-press/2026-06-30-ny-mojlighet-att-vabba-har-nyttjats-mest-for-moten-i-skolan",
+    "taggar": [
+      "socialforsakring",
+      "forsakringskassan"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "barn": 8,
+      "sjukskriven": 3,
+      "foraldraledig": 8
+    }
+  },
+  {
     "id": "ecb-2026-06-29-christine-lagarde-back-to-basi",
     "typ": "omvarld",
     "titel": "Christine Lagarde: Visszatérés az alapvető elvekhez egy bizonytalan környezetben.",
@@ -182,6 +475,23 @@
       "sjuklon": 3,
       "sjukskriven": 5,
       "psykisk": 3
+    }
+  },
+  {
+    "id": "eu-32026R1457",
+    "typ": "omvarld",
+    "titel": "Az Európai Bizottság végrehajtási rendelete (EU) 2026/1457.",
+    "ingress": "Az Európai Unió határozza meg, hogy mennyi acélt lehet vámmentesen importálni olyan országokból, amelyek nem tagjai az EU-nak. Ennek célja a európai acélpiac védelme, miközben szabályozza a kereskedelmet más országokkal.",
+    "datum": "2026-06-29",
+    "kalla": "EU (EUR-Lex)",
+    "kalla_url": "https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32026R1457",
+    "taggar": [
+      "eu",
+      "eu-ratt"
+    ],
+    "relevans": {
+      "import": 5,
+      "konsument": 3
     }
   },
   {
@@ -828,6 +1138,28 @@
       "b_bygg": 8,
       "klimat": 8,
       "kultur": 3
+    }
+  },
+  {
+    "id": "eu-32026R1455",
+    "typ": "omvarld",
+    "titel": "Az Európai Parlament és a Tanács rendelete (EU) 2026/1455.",
+    "ingress": "Az Európai Unió és az Egyesült Államok megállapodott abban, hogy csökkentik a vámokat azoknak a termékekre, amelyek kereskedése a két ország között zajlik, ezzel stabilabb kereskedelemre törekszik. Ez megkönnyíti és olcsóbbá teszi a vállala",
+    "datum": "2026-06-25",
+    "kalla": "EU (EUR-Lex)",
+    "kalla_url": "https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32026R1455",
+    "taggar": [
+      "eu",
+      "eu-ratt"
+    ],
+    "relevans": {
+      "b_industri": 3,
+      "b_transport": 3,
+      "b_grona": 3,
+      "import": 3,
+      "flygresenar": 3,
+      "kronisk": 3,
+      "konsument": 3
     }
   },
   {

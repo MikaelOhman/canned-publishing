@@ -58,6 +58,299 @@
     }
   },
   {
+    "id": "HD03299",
+    "typ": "lagforslag",
+    "titel": "Bericht über die Verteilung von Mitteln aus dem Allgemeinen Erbfonds während des Haushaltsjahres 2025.",
+    "ingress": "Die Regierung zeigt auf, wie Gelder aus dem \"Allmänna arvsfonden\" (öffentlichen Erbfonds) im Jahr 2025 verwendet werden sollen. Sie erläutert, welche Bereiche in Zukunft Priorität haben.",
+    "datum": "2026-06-30",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03299.html",
+    "taggar": [
+      "riksdagen"
+    ],
+    "relevans": {
+      "b_konsult": 8
+    }
+  },
+  {
+    "id": "HD03297",
+    "typ": "lagforslag",
+    "titel": "Ein neues System von Strafrechtlichen Sanktionen",
+    "ingress": "Die Regierung möchte die Regeln für die Festsetzung und Vollstreckung von Strafen ändern, um das Rechtssystem gerechter zu gestalten. Dies beinhaltet unter anderem neue Regelungen für Gefängnisse, härtere Strafen für Personen, die mehrere V",
+    "datum": "2026-06-30",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03297.html",
+    "taggar": [
+      "riksdagen"
+    ],
+    "relevans": {
+      "kronisk": 3,
+      "beroende": 3,
+      "brottsoffer": 3,
+      "domd": 8
+    }
+  },
+  {
+    "id": "HD03296",
+    "typ": "lagforslag",
+    "titel": "Steuerlich transparente Investmentfonds für institutionelle Anleger.",
+    "ingress": "Neue Regeln ermöglichen es großen Organisationen, die Pensionsfonds verwalten, in spezielle Fonds mit vereinfachten Steuerregelungen zu investieren. Dies soll es für Rentner kostengünstiger und einfacher machen, ihre Geldanlagen zu verwalte",
+    "datum": "2026-06-30",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03296.html",
+    "taggar": [
+      "riksdagen"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "konkurrens": 3,
+      "pensionar": 3,
+      "sparare": 3
+    }
+  },
+  {
+    "id": "HD03295",
+    "typ": "lagforslag",
+    "titel": "Präventive Maßnahmen im Bereich des Sozialwesens zum Schutz von Kindern und Jugendlichen bei mangelnder Kooperationsbereitschaft.",
+    "ingress": "Ein neues Gesetz wird vorgeschlagen, um Kinder und Jugendliche zu schützen, die nicht von ihren Eltern oder Erziehungsberechtigten unterstützt werden. Es ermöglicht den Sozialdiensten, Maßnahmen auch ohne Zustimmung durchzuführen, beispiels",
+    "datum": "2026-06-30",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03295.html",
+    "taggar": [
+      "riksdagen"
+    ],
+    "relevans": {
+      "gdpr": 3,
+      "barn": 8,
+      "foraldraledig": 3,
+      "glesbygd": 3,
+      "kronisk": 3,
+      "otrygg": 3,
+      "integritet": 5
+    }
+  },
+  {
+    "id": "HD03294",
+    "typ": "lagforslag",
+    "titel": "Für die Rechte und Sicherheit von Kindern – ein neues Gesetz über die Unterbringung von Kindern und Jugendlichen zur Erziehung.",
+    "ingress": "Ein neues Gesetz soll das derzeitige Kinderbetreuungsgesetz ersetzen, um Kindern bessere Rechte und mehr Sicherheit zu gewährleisten. Die neuen Bestimmungen sollen klarer darlegen, wie Kinder geschützt werden, insbesondere für diejenigen, d",
+    "datum": "2026-06-30",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03294.html",
+    "taggar": [
+      "riksdagen"
+    ],
+    "relevans": {
+      "gdpr": 3,
+      "barn": 8,
+      "kronisk": 8,
+      "otrygg": 8,
+      "integritet": 3
+    }
+  },
+  {
+    "id": "HD03293",
+    "typ": "lagforslag",
+    "titel": "Strengere Regeln für jugendliche Rechtsverstöße.",
+    "ingress": "Die Regierung plant, die Regeln für junge Personen zu verschärfen, die schwere Verbrechen begehen. Dies beinhaltet unter anderem härtere Strafen und den Wegfall bestimmter Rabatte aufgrund des jungen Alters.",
+    "datum": "2026-06-30",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03293.html",
+    "taggar": [
+      "riksdagen"
+    ],
+    "relevans": {
+      "ung": 3,
+      "otrygg": 3,
+      "domd": 3,
+      "integritet": 3
+    }
+  },
+  {
+    "id": "HD03140",
+    "typ": "lagforslag",
+    "titel": "Bericht für Unternehmen mit staatlicher Beteiligung – Jahr 2026.",
+    "ingress": "Die Regierung berichtet darüber, wie sie die Unternehmen verwaltet hat, die im Staatsbesitz sind, sowie über die Aktivitäten in drei bestimmten Fonds und einer Kreditgenossenschaft.",
+    "datum": "2026-06-30",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03140.html",
+    "taggar": [
+      "riksdagen"
+    ],
+    "relevans": {
+      "b_industri": 3,
+      "sparare": 3
+    }
+  },
+  {
+    "id": "ecb-2026-06-30-ecb-publishes-indicative-opera",
+    "typ": "omvarld",
+    "titel": "Die Europäische Zentralbank (EZB) hat vorläufige Terminpläne für ihre Aktivitäten im Jahr 2028 veröffentlicht.",
+    "ingress": "Die Europäische Zentralbank hat einen ersten Entwurf ihres Zeitplans veröffentlicht, der darlegt, wie sie Kredite und Geldmärkte im Jahr 2028 handhaben will.",
+    "datum": "2026-06-30",
+    "kalla": "ECB",
+    "kalla_url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260630_1~ff55b9e99a.en.html",
+    "taggar": [
+      "ekonomi",
+      "ecb"
+    ],
+    "relevans": {
+      "b_finans": 3
+    }
+  },
+  {
+    "id": "eu-kommissionen-2026-06-30-closing-keynote-speech-by-comm",
+    "typ": "omvarld",
+    "titel": "Abschlussvortrag von Kommissar Kubilius auf der Konferenz über die Zukunft der Beziehungen zwischen Großbritannien und der Europäischen Union.",
+    "ingress": "Ein Vertreter der Europäischen Union hält eine Rede darüber, wie die zukünftige Beziehung zwischen Großbritannien und der EU aussehen soll.",
+    "datum": "2026-06-30",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1496",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ]
+  },
+  {
+    "id": "eu-kommissionen-2026-06-30-solidarity-in-action-president",
+    "typ": "omvarld",
+    "titel": "Solidarität in Aktion\": Die Präsidentin der Europäischen Kommission, Ursula von der Leyen, hat in Danzig Unterstützung für den Wiederaufbau der Ukraine gesammelt.",
+    "ingress": "Die europäischen Staats- und Regierungschefs haben Unterstützung gesammelt, um beim Wiederaufbau der Ukraine nach dem Krieg zu helfen.",
+    "datum": "2026-06-30",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_1493",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "infrastruktur": 3
+    }
+  },
+  {
+    "id": "eu-kommissionen-2026-06-30-commission-disburses-3-9-billi",
+    "typ": "omvarld",
+    "titel": "Die Kommission hat 3,9 Milliarden Euro für Drohnen aus dem Rahmen des ukrainischen Förderprogramms von 90 Milliarden Euro bereitgestellt.",
+    "ingress": "Die EU zahlt 3,9 Milliarden Euro an die Ukraine, um dort Drohnen zu kaufen. Dies ist Teil eines größeren Kredits, der dem Land helfen soll, sich gegen den Angriff Russlands zu verteidigen.",
+    "datum": "2026-06-30",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1490",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ],
+    "relevans": {
+      "varnpliktig": 3
+    }
+  },
+  {
+    "id": "eu-kommissionen-2026-06-30-questions-and-answers-on-the-f",
+    "typ": "omvarld",
+    "titel": "Fragen und Antworten zum Finanzpaket für Montenegro.",
+    "ingress": "Die Europäische Union hat beschlossen, zusätzliche Mittel für das Land Montenegro bereitzustellen. Diese Gelder sollen dazu verwendet werden, die Wirtschaft und Entwicklung des Landes zu unterstützen.",
+    "datum": "2026-06-30",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/qanda_26_1489",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ],
+    "relevans": {
+      "b_finans": 8
+    }
+  },
+  {
+    "id": "eu-kommissionen-2026-06-30-commission-presents-financial-",
+    "typ": "omvarld",
+    "titel": "Die Europäische Kommission präsentiert ein Finanzierungspaket zur Unterstützung des Beitritts von Montenegro zur Europäischen Union.",
+    "ingress": "Die Europäische Union hat einen Plan entwickelt, der festlegt, wie Montenegro finanzielle Mittel erhalten und die Regeln einhalten kann, wenn das Land Mitglied der EU wird. Dies ist ein wichtiger Schritt auf dem Weg, Montenegro in die Union",
+    "datum": "2026-06-30",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1488",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ],
+    "relevans": {
+      "b_finans": 8,
+      "glesbygd": 3
+    }
+  },
+  {
+    "id": "eu-kommissionen-2026-06-30-daily-news-30-06-2026",
+    "typ": "omvarld",
+    "titel": "Tägliche Nachrichten vom 30. Juni 2026.",
+    "ingress": "Die EU investiert 3,9 Milliarden Euro in den Kauf von Drohnen für die Ukraine. Die Mittel stammen aus einem größeren Kreditrahmen zur Unterstützung des Landes.",
+    "datum": "2026-06-30",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1487",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ]
+  },
+  {
+    "id": "skatteverket-2026-06-30-radrum-for-foretag-med-tillfal",
+    "typ": "myndighet",
+    "titel": "Atemsraum für Unternehmen mit vorübergehenden Zahlungsschwierigkeiten.",
+    "ingress": "Ab dem 30. Juni 2026 tritt eine neue Regelung in Kraft, die Führungskräften von Unternehmen mit guter wirtschaftlicher Lage mehr Sicherheit bietet, falls es unerwartete Probleme bei der Zahlung von Steuern gibt.",
+    "datum": "2026-06-30",
+    "kalla": "Skatteverket",
+    "kalla_url": "http://skatteverket.se/omoss/pressochmedia/nyheter/2026/nyheter/radrumforforetagmedtillfalligabetalningsproblem.5.3129d65419ef1497c0613d9.html",
+    "taggar": [
+      "skatt",
+      "skatteverket"
+    ],
+    "relevans": {
+      "aktiebolag": 3,
+      "konsument": 3,
+      "otrygg": 3
+    }
+  },
+  {
+    "id": "skatteverket-2026-06-30-nya-lagar-fran-halvarsskiftet-",
+    "typ": "myndighet",
+    "titel": "Neue Gesetze ab dem zweiten Halbjahr 2026.",
+    "ingress": "Ab dem 1. Juli 2026 treten mehrere neue Regelungen in Kraft, die sich auf Steuern, das Aufladen von Elektroautos und Familienrecht beziehen. Dazu gehört unter anderem, dass es für das Finanzamt (Skatteverket) einfacher wird, Betrug zu verhi",
+    "datum": "2026-06-30",
+    "kalla": "Skatteverket",
+    "kalla_url": "http://skatteverket.se/omoss/pressochmedia/nyheter/2026/nyheter/nyalagarfranhalvarsskiftet2026.5.650b4a9d19ebd1653db1700.html",
+    "taggar": [
+      "skatt",
+      "skatteverket"
+    ],
+    "relevans": {
+      "b_grona": 3,
+      "b_energi": 3,
+      "moms": 3,
+      "bil": 3,
+      "beroende": 3,
+      "energikund": 3,
+      "konsument": 3,
+      "batagare": 3
+    }
+  },
+  {
+    "id": "fk-2026-06-30-ny-mojlighet-att-vabba-har-nyttjats-mest-for-moten-i-skolan",
+    "typ": "myndighet",
+    "titel": "Die neue Möglichkeit, Elternzeit zu nehmen, wurde am häufigsten für Schulbesprechungen genutzt.",
+    "ingress": "Eltern, die freie Tage vom Job bekommen, um ihre Kinder in der Schule oder im Kindergarten zu besuchen, haben diese neue Möglichkeit am häufigsten genutzt.",
+    "datum": "2026-06-30",
+    "kalla": "Försäkringskassan",
+    "kalla_url": "https://www.forsakringskassan.se/nyhetsarkiv/nyheter-press/2026-06-30-ny-mojlighet-att-vabba-har-nyttjats-mest-for-moten-i-skolan",
+    "taggar": [
+      "socialforsakring",
+      "forsakringskassan"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "barn": 8,
+      "sjukskriven": 3,
+      "foraldraledig": 8
+    }
+  },
+  {
     "id": "ecb-2026-06-29-christine-lagarde-back-to-basi",
     "typ": "omvarld",
     "titel": "Christine Lagarde: Rückkehr zu den Grundlagen in einer unsicheren Umgebung.",
@@ -182,6 +475,23 @@
       "sjuklon": 3,
       "sjukskriven": 5,
       "psykisk": 3
+    }
+  },
+  {
+    "id": "eu-32026R1457",
+    "typ": "omvarld",
+    "titel": "KOMMISSIONSMISSIONSDURCHFÜHRUNGSVERORDNUNG (EU) 2026/1457",
+    "ingress": "Die Europäische Union legt fest, in welchem Umfang Stahl aus Ländern außerhalb der EU ohne zusätzliche Zölle importiert werden darf. Ziel ist es, den europäischen Stahlmarkt zu schützen und gleichzeitig den Handel mit anderen Ländern zu reg",
+    "datum": "2026-06-29",
+    "kalla": "EU (EUR-Lex)",
+    "kalla_url": "https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32026R1457",
+    "taggar": [
+      "eu",
+      "eu-ratt"
+    ],
+    "relevans": {
+      "import": 5,
+      "konsument": 3
     }
   },
   {
@@ -828,6 +1138,28 @@
       "b_bygg": 8,
       "klimat": 8,
       "kultur": 3
+    }
+  },
+  {
+    "id": "eu-32026R1455",
+    "typ": "omvarld",
+    "titel": "VERORDNUNG DES EUROPÄISCHEN PARLAMENTS UND DES RATES (EU) 2026/1455",
+    "ingress": "Die EU und die USA haben sich darauf geeinigt, die Zölle auf Waren zu senken, die zwischen den Ländern gehandelt werden, um einen stabileren Handel zu fördern. Dies erleichtert und verbilligt es für Unternehmen in beiden Regionen, ihre Prod",
+    "datum": "2026-06-25",
+    "kalla": "EU (EUR-Lex)",
+    "kalla_url": "https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32026R1455",
+    "taggar": [
+      "eu",
+      "eu-ratt"
+    ],
+    "relevans": {
+      "b_industri": 3,
+      "b_transport": 3,
+      "b_grona": 3,
+      "import": 3,
+      "flygresenar": 3,
+      "kronisk": 3,
+      "konsument": 3
     }
   },
   {

@@ -58,6 +58,299 @@
     }
   },
   {
+    "id": "HD03299",
+    "typ": "lagforslag",
+    "titel": "گزارش مربوط به نحوه توزیع بودجه از \"صندوق ارث عمومی\" در سال مالی 2025.",
+    "ingress": "دولت نشان می‌دهد که چگونه از بودجه \"صندوق عمومی ارث\" در سال ۲۰۲۵ استفاده خواهد شد. آن‌ها توضیح می‌دهند که کدام حوزه‌ها در آینده اولویت دارند و باید به آن‌ها توجه ویژه‌ای شود.",
+    "datum": "2026-06-30",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03299.html",
+    "taggar": [
+      "riksdagen"
+    ],
+    "relevans": {
+      "b_konsult": 8
+    }
+  },
+  {
+    "id": "HD03297",
+    "typ": "lagforslag",
+    "titel": "یک سیستم جدید برای تعیین مجازات‌های کیفری",
+    "ingress": "دولت قصد دارد قوانین مربوط به تعیین و اجرای مجازات‌ها را تغییر دهد تا سیستم قضایی عادلانه‌تر شود. این تغییرات شامل موارد زیر است:",
+    "datum": "2026-06-30",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03297.html",
+    "taggar": [
+      "riksdagen"
+    ],
+    "relevans": {
+      "kronisk": 3,
+      "beroende": 3,
+      "brottsoffer": 3,
+      "domd": 8
+    }
+  },
+  {
+    "id": "HD03296",
+    "typ": "lagforslag",
+    "titel": "صندوق‌های سرمایه‌گذاری سهامی با شفافیت مالی برای سرمایه‌گذاران سازمانی.",
+    "ingress": "قوانین جدید این امکان را برای سازمان‌های بزرگ که مسئول مدیریت وجوه بازنشستگی هستند، فراهم می‌کند تا در صندوق‌های ویژه‌ای سرمایه‌گذاری کنند که از قوانین مالیاتی ساده‌تری برخوردارند. هدف از این اقدام، کاهش هزینه‌ها و تسهیل فرآیند مدیریت دارای",
+    "datum": "2026-06-30",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03296.html",
+    "taggar": [
+      "riksdagen"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "konkurrens": 3,
+      "pensionar": 3,
+      "sparare": 3
+    }
+  },
+  {
+    "id": "HD03295",
+    "typ": "lagforslag",
+    "titel": "اقدامات پیشگیرانه در حوزه خدمات اجتماعی برای حمایت از کودکان و نوجوانان، به ویژه در مواردی که همکاری لازم وجود ندارد.",
+    "ingress": "یک قانون جدید پیشنهاد شده است تا از کودکان و نوجوانانی که از کمک والدین یا سرپرستان خود برخوردار نیستند، محافظت شود. این قانون به خدمات اجتماعی اجازه می‌دهد تا حتی بدون رضایت، اقداماتی را انجام دهد، مانند اعمال جریمه یا نظارت، در صورت لزوم.",
+    "datum": "2026-06-30",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03295.html",
+    "taggar": [
+      "riksdagen"
+    ],
+    "relevans": {
+      "gdpr": 3,
+      "barn": 8,
+      "foraldraledig": 3,
+      "glesbygd": 3,
+      "kronisk": 3,
+      "otrygg": 3,
+      "integritet": 5
+    }
+  },
+  {
+    "id": "HD03294",
+    "typ": "lagforslag",
+    "titel": "برای حفظ حقوق و امنیت کودکان - یک قانون جدید در مورد نگهداری از کودکان و نوجوانان.",
+    "ingress": "یک قانون جدید جایگزین قانون فعلی مربوط به مراقبت از کودکان خواهد شد، تا حقوق و امنیت بهتری برای کودکان فراهم شود. این قوانین جدید باید مشخص کنند که چگونه از کودکان محافظت می‌شود، به‌ویژه کودکانی که در خانه‌های یتیم یا خانواده‌های جایگزین زن",
+    "datum": "2026-06-30",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03294.html",
+    "taggar": [
+      "riksdagen"
+    ],
+    "relevans": {
+      "gdpr": 3,
+      "barn": 8,
+      "kronisk": 8,
+      "otrygg": 8,
+      "integritet": 3
+    }
+  },
+  {
+    "id": "HD03293",
+    "typ": "lagforslag",
+    "titel": "قوانین سختگیرانه‌تر برای مجرمان جوان",
+    "ingress": "دولت قصد دارد قوانین مربوط به جوانانی که مرتکب جرایم جدی می‌شوند را سخت‌تر کند. این امر شامل مواردی مانند تشدید مجازات‌ها و حذف برخی تخفیف‌هایی است که بر اساس سن در نظر گرفته می‌شود.",
+    "datum": "2026-06-30",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03293.html",
+    "taggar": [
+      "riksdagen"
+    ],
+    "relevans": {
+      "ung": 3,
+      "otrygg": 3,
+      "domd": 3,
+      "integritet": 3
+    }
+  },
+  {
+    "id": "HD03140",
+    "typ": "lagforslag",
+    "titel": "گزارش سال 2026 شرکت‌های متعلق به دولت.",
+    "ingress": "دولت گزارشی ارائه کرده است که در آن نحوه مدیریت شرکت‌هایی که دولت مالکیت آنها را دارد، و همچنین فعالیت‌های سه صندوق خاص و یک موسسه وام‌دهی توضیح داده شده است.",
+    "datum": "2026-06-30",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03140.html",
+    "taggar": [
+      "riksdagen"
+    ],
+    "relevans": {
+      "b_industri": 3,
+      "sparare": 3
+    }
+  },
+  {
+    "id": "ecb-2026-06-30-ecb-publishes-indicative-opera",
+    "typ": "omvarld",
+    "titel": "بانک مرکزی اروپا (ECB) تقویم‌های اولیه فعالیت‌های خود را برای سال ۲۰۲۸ منتشر کرده است.",
+    "ingress": "بانک مرکزی اروپا، پیش‌نویس اولیه برنامه‌ریزی خود را برای نحوه مدیریت وام‌ها و پول در بازار تا سال ۲۰۲۸ منتشر کرده است.",
+    "datum": "2026-06-30",
+    "kalla": "ECB",
+    "kalla_url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260630_1~ff55b9e99a.en.html",
+    "taggar": [
+      "ekonomi",
+      "ecb"
+    ],
+    "relevans": {
+      "b_finans": 3
+    }
+  },
+  {
+    "id": "eu-kommissionen-2026-06-30-closing-keynote-speech-by-comm",
+    "typ": "omvarld",
+    "titel": "سخنرانی پایانی کلیدی توسط کمیسر کوبیلیوس در کنفرانسی درباره آینده روابط بین بریتانیا و اتحادیه اروپا.",
+    "ingress": "یک مقام اتحادیه اروپا سخنرانی می کند و در مورد نحوه شکل گیری روابط بین بریتانیا و اتحادیه اروپا در آینده صحبت می کند.",
+    "datum": "2026-06-30",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1496",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ]
+  },
+  {
+    "id": "eu-kommissionen-2026-06-30-solidarity-in-action-president",
+    "typ": "omvarld",
+    "titel": "همبستگی در عمل\": رئیس کمیسیون اروپا، خانم فون در لاین، در شهر گدانسک، لهستان، از حمایت‌ها برای بازسازی اوکراین بهره‌مند شد.",
+    "ingress": "رهبران اتحادیه اروپا از حمایت‌هایی برای کمک به بازسازی اوکراین پس از جنگ جمع‌آوری کرده‌اند.",
+    "datum": "2026-06-30",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_1493",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "infrastruktur": 3
+    }
+  },
+  {
+    "id": "eu-kommissionen-2026-06-30-commission-disburses-3-9-billi",
+    "typ": "omvarld",
+    "titel": "کمیسیون، مبلغ ۳.۹ میلیارد یورو را برای تامین مالی پهپادها از طریق طرح وام ۹۰ میلیارد یورویی به اوکراین پرداخت کرده است.",
+    "ingress": "اتحادیه اروپا مبلغ ۳.۹ میلیارد یورو به اوکراین پرداخت می‌کند تا از آن برای خرید پهپادها استفاده شود. این مبلغ بخشی از یک وام بزرگتر است که هدف آن کمک به کشور اوکراین در دفاع از خود در برابر حملات روسیه است.",
+    "datum": "2026-06-30",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1490",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ],
+    "relevans": {
+      "varnpliktig": 3
+    }
+  },
+  {
+    "id": "eu-kommissionen-2026-06-30-questions-and-answers-on-the-f",
+    "typ": "omvarld",
+    "titel": "سوالات و پاسخ‌ها درباره بسته مالی برای مونته‌نگرو.",
+    "ingress": "اتحادیه اروپا تصمیم گرفته است مبلغی جدید را به کشور مونته نگرو اختصاص دهد. این مبالغ برای کمک به کشور در زمینه اقتصاد و توسعه مورد استفاده قرار خواهد گرفت.",
+    "datum": "2026-06-30",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/qanda_26_1489",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ],
+    "relevans": {
+      "b_finans": 8
+    }
+  },
+  {
+    "id": "eu-kommissionen-2026-06-30-commission-presents-financial-",
+    "typ": "omvarld",
+    "titel": "کمیسیون اروپا بسته‌ای از کمک‌های مالی را برای تسهیل پیوست مونته‌نگرو به اتحادیه اروپا ارائه کرد.",
+    "ingress": "اتحادیه اروپا طرحی را تدوین کرده است که در آن نحوه تخصیص بودجه و رعایت قوانین برای مونته‌نگرو، زمانی که به عضویت اتحادیه اروپا در می‌آید، مشخص شده است. این یک گام مهم در مسیر پیوستن مونته‌نگرو به این اتحادیه محسوب می‌شود.",
+    "datum": "2026-06-30",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1488",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ],
+    "relevans": {
+      "b_finans": 8,
+      "glesbygd": 3
+    }
+  },
+  {
+    "id": "eu-kommissionen-2026-06-30-daily-news-30-06-2026",
+    "typ": "omvarld",
+    "titel": "اخبار روزانه، تاریخ 30 ژوئن 2026.",
+    "ingress": "اتحادیه اروپا ۳.۹ میلیارد یورو برای خرید پهپادها به منظور ارسال به اوکراین اختصاص داده است. این مبلغ از یک وام بزرگتر که برای حمایت از این کشور در نظر گرفته شده، تامین خواهد شد.",
+    "datum": "2026-06-30",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1487",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ]
+  },
+  {
+    "id": "skatteverket-2026-06-30-radrum-for-foretag-med-tillfal",
+    "typ": "myndighet",
+    "titel": "فضای کاری مشترک برای شرکت‌هایی که با مشکلات موقت در پرداخت‌ها مواجه هستند.",
+    "ingress": "از تاریخ 30 ژوئن 2026، یک قانون جدید تصویب می‌شود که به مدیران شرکت‌هایی که عملکرد خوبی دارند، اطمینان خاطر بیشتری می‌دهد در صورتی که با مشکلات غیرمنتظره‌ای در پرداخت مالیات مواجه شوند.",
+    "datum": "2026-06-30",
+    "kalla": "Skatteverket",
+    "kalla_url": "http://skatteverket.se/omoss/pressochmedia/nyheter/2026/nyheter/radrumforforetagmedtillfalligabetalningsproblem.5.3129d65419ef1497c0613d9.html",
+    "taggar": [
+      "skatt",
+      "skatteverket"
+    ],
+    "relevans": {
+      "aktiebolag": 3,
+      "konsument": 3,
+      "otrygg": 3
+    }
+  },
+  {
+    "id": "skatteverket-2026-06-30-nya-lagar-fran-halvarsskiftet-",
+    "typ": "myndighet",
+    "titel": "قوانین جدید از نیمه سال 2026.",
+    "ingress": "از تاریخ ۱ جولای ۲۰۲۶، قوانین جدیدی در زمینه‌های مالیات، شارژ خودروهای برقی و حقوق خانواده اجرایی خواهد شد. این تغییرات شامل مواردی مانند تسهیل روند جلوگیری از تقلب برای سازمان مالیاتی (Skatteverket) می‌شود، در حالی که برخی از مالیات‌های مر",
+    "datum": "2026-06-30",
+    "kalla": "Skatteverket",
+    "kalla_url": "http://skatteverket.se/omoss/pressochmedia/nyheter/2026/nyheter/nyalagarfranhalvarsskiftet2026.5.650b4a9d19ebd1653db1700.html",
+    "taggar": [
+      "skatt",
+      "skatteverket"
+    ],
+    "relevans": {
+      "b_grona": 3,
+      "b_energi": 3,
+      "moms": 3,
+      "bil": 3,
+      "beroende": 3,
+      "energikund": 3,
+      "konsument": 3,
+      "batagare": 3
+    }
+  },
+  {
+    "id": "fk-2026-06-30-ny-mojlighet-att-vabba-har-nyttjats-mest-for-moten-i-skolan",
+    "typ": "myndighet",
+    "titel": "فرصت استفاده از مرخصی والدین (vabba) بیشتر برای شرکت در جلسات مدرسه مورد استفاده قرار گرفته است.",
+    "ingress": "والدینی که از کار مرخصی گرفته‌اند تا بتوانند به ملاقات فرزندانشان در مدرسه یا پیش‌دبستانی بروند، بیشتر از همه از این فرصت جدید استفاده کرده‌اند.",
+    "datum": "2026-06-30",
+    "kalla": "Försäkringskassan",
+    "kalla_url": "https://www.forsakringskassan.se/nyhetsarkiv/nyheter-press/2026-06-30-ny-mojlighet-att-vabba-har-nyttjats-mest-for-moten-i-skolan",
+    "taggar": [
+      "socialforsakring",
+      "forsakringskassan"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "barn": 8,
+      "sjukskriven": 3,
+      "foraldraledig": 8
+    }
+  },
+  {
     "id": "ecb-2026-06-29-christine-lagarde-back-to-basi",
     "typ": "omvarld",
     "titel": "کریستین لاگارد: بازگشت به اصول اساسی در یک محیط پر از ابهام.",
@@ -182,6 +475,23 @@
       "sjuklon": 3,
       "sjukskriven": 5,
       "psykisk": 3
+    }
+  },
+  {
+    "id": "eu-32026R1457",
+    "typ": "omvarld",
+    "titel": "آیین‌نامه اجرایی کمیسیون اروپا با شماره (EU) 2026/1457.",
+    "ingress": "اتحادیه اروپا تعیین می‌کند که چه مقدار فولاد از کشورهایی خارج از اتحادیه مجاز به واردات بدون پرداخت تعرفه اضافی است. هدف این اقدام، محافظت از بازار فولاد اروپا در عین تنظیم تجارت با سایر کشورها می‌باشد.",
+    "datum": "2026-06-29",
+    "kalla": "EU (EUR-Lex)",
+    "kalla_url": "https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32026R1457",
+    "taggar": [
+      "eu",
+      "eu-ratt"
+    ],
+    "relevans": {
+      "import": 5,
+      "konsument": 3
     }
   },
   {
@@ -828,6 +1138,28 @@
       "b_bygg": 8,
       "klimat": 8,
       "kultur": 3
+    }
+  },
+  {
+    "id": "eu-32026R1455",
+    "typ": "omvarld",
+    "titel": "آیین‌نامه پارلمان اروپا و شورای اتحادیه اروپا با شماره (EU) 2026/1455.",
+    "ingress": "اتحادیه اروپا و ایالات متحده به توافق رسیده‌اند که تعرفه‌های گمرکی بر روی کالاهایی که بین این دو کشور مبادله می‌شود را کاهش دهند، تا بدین ترتیب تجارت پایدارتری ایجاد شود. این اقدام باعث تسهیل و ارزان‌تر شدن فروش محصولات شرکت‌ها در هر دو منط",
+    "datum": "2026-06-25",
+    "kalla": "EU (EUR-Lex)",
+    "kalla_url": "https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32026R1455",
+    "taggar": [
+      "eu",
+      "eu-ratt"
+    ],
+    "relevans": {
+      "b_industri": 3,
+      "b_transport": 3,
+      "b_grona": 3,
+      "import": 3,
+      "flygresenar": 3,
+      "kronisk": 3,
+      "konsument": 3
     }
   },
   {

@@ -32,7 +32,7 @@
   "riksdagen": {
     "etikett": "El Parlamento.",
     "typ": "organisation",
-    "antal": 428
+    "antal": 435
   },
   "underrattelsetjanst": {
     "etikett": "Servicio de inteligencia",
@@ -97,7 +97,7 @@
   "eu-ratt": {
     "etikett": "Derecho de la UE",
     "typ": "ämne",
-    "antal": 13
+    "antal": 15
   },
   "straffratt": {
     "etikett": "Derecho penal",
@@ -112,7 +112,7 @@
   "ekonomi": {
     "etikett": "Economía",
     "typ": "ämne",
-    "antal": 26
+    "antal": 27
   },
   "sverige": {
     "etikett": "Suecia",
@@ -182,7 +182,7 @@
   "skatt": {
     "etikett": "Impuestos.",
     "typ": "ämne",
-    "antal": 9
+    "antal": 11
   },
   "finansmarknad": {
     "etikett": "Mercado financiero.",
@@ -327,17 +327,17 @@
   "ecb": {
     "etikett": "Banco Central Europeo.",
     "typ": "organisation",
-    "antal": 11
+    "antal": 12
   },
   "eu": {
     "etikett": "La Unión Europea (UE)",
     "typ": "organisation",
-    "antal": 38
+    "antal": 46
   },
   "eu-kommissionen": {
     "etikett": "La Comisión Europea.",
     "typ": "organisation",
-    "antal": 27
+    "antal": 33
   },
   "alingsas": {
     "etikett": "Alingsås.",
@@ -1667,7 +1667,7 @@
   "skatteverket": {
     "etikett": "Agencia Tributaria.",
     "typ": "organisation",
-    "antal": 8
+    "antal": 10
   },
   "pension": {
     "etikett": "Pensión.",
@@ -1717,12 +1717,12 @@
   "socialforsakring": {
     "etikett": "Seguro social.",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "forsakringskassan": {
     "etikett": "La Caixa de Seguros (Försäkringskassan).",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "arbetsmarknad": {
     "etikett": "Mercado laboral.",

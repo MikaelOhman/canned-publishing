@@ -32,7 +32,7 @@
   "riksdagen": {
     "etikett": "Il Parlamento.",
     "typ": "organisation",
-    "antal": 428
+    "antal": 435
   },
   "underrattelsetjanst": {
     "etikett": "Servizio di intelligence",
@@ -97,7 +97,7 @@
   "eu-ratt": {
     "etikett": "Diritto dell'UE",
     "typ": "ämne",
-    "antal": 13
+    "antal": 15
   },
   "straffratt": {
     "etikett": "Diritto penale",
@@ -112,7 +112,7 @@
   "ekonomi": {
     "etikett": "Economia",
     "typ": "ämne",
-    "antal": 26
+    "antal": 27
   },
   "sverige": {
     "etikett": "Svezia",
@@ -182,7 +182,7 @@
   "skatt": {
     "etikett": "Tasse.",
     "typ": "ämne",
-    "antal": 9
+    "antal": 11
   },
   "finansmarknad": {
     "etikett": "Mercato finanziario.",
@@ -332,17 +332,17 @@
   "ecb": {
     "etikett": "Banca Centrale Europea.",
     "typ": "organisation",
-    "antal": 11
+    "antal": 12
   },
   "eu": {
     "etikett": "Unione Europea.",
     "typ": "organisation",
-    "antal": 38
+    "antal": 46
   },
   "eu-kommissionen": {
     "etikett": "La Commissione Europea.",
     "typ": "organisation",
-    "antal": 27
+    "antal": 33
   },
   "alingsas": {
     "etikett": "Alingsås",
@@ -1667,7 +1667,7 @@
   "skatteverket": {
     "etikett": "Agenzia delle Entrate.",
     "typ": "organisation",
-    "antal": 8
+    "antal": 10
   },
   "pension": {
     "etikett": "Pensione.",
@@ -1717,12 +1717,12 @@
   "socialforsakring": {
     "etikett": "Sicurezza sociale.",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "forsakringskassan": {
     "etikett": "L'Agenzia svedese per le assicurazioni sociali (Försäkringskassan).",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "arbetsmarknad": {
     "etikett": "Mercato del lavoro.",

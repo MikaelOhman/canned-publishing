@@ -32,7 +32,7 @@
   "riksdagen": {
     "etikett": "Parlamentul.",
     "typ": "organisation",
-    "antal": 427
+    "antal": 434
   },
   "underrattelsetjanst": {
     "etikett": "Serviciu de informații",
@@ -97,7 +97,7 @@
   "eu-ratt": {
     "etikett": "Dreptul UE",
     "typ": "ämne",
-    "antal": 12
+    "antal": 14
   },
   "straffratt": {
     "etikett": "Drept penal",
@@ -112,7 +112,7 @@
   "ekonomi": {
     "etikett": "Economie",
     "typ": "ämne",
-    "antal": 26
+    "antal": 27
   },
   "sverige": {
     "etikett": "Suedia",
@@ -182,7 +182,7 @@
   "skatt": {
     "etikett": "Impozite.",
     "typ": "ämne",
-    "antal": 9
+    "antal": 11
   },
   "finansmarknad": {
     "etikett": "Piața financiară.",
@@ -327,17 +327,17 @@
   "ecb": {
     "etikett": "Banca Centrală Europeană (BCE)",
     "typ": "organisation",
-    "antal": 11
+    "antal": 12
   },
   "eu": {
     "etikett": "Uniunea Europeană.",
     "typ": "organisation",
-    "antal": 37
+    "antal": 45
   },
   "eu-kommissionen": {
     "etikett": "Comisia Europeană.",
     "typ": "organisation",
-    "antal": 27
+    "antal": 33
   },
   "alingsas": {
     "etikett": "Alingsås",
@@ -1667,7 +1667,7 @@
   "skatteverket": {
     "etikett": "Agenția Fiscală Suedeză (Skatteverket)",
     "typ": "organisation",
-    "antal": 8
+    "antal": 10
   },
   "pension": {
     "etikett": "Pensie.",
@@ -1717,12 +1717,12 @@
   "socialforsakring": {
     "etikett": "Asigurări sociale.",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "forsakringskassan": {
     "etikett": "Casa de Asigurări Sociale (Försäkringskassan)",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "arbetsmarknad": {
     "etikett": "Piața muncii.",

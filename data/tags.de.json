@@ -72,7 +72,7 @@
   "riksdagen": {
     "etikett": "Schwedisches Parlament",
     "typ": "organisation",
-    "antal": 430
+    "antal": 437
   },
   "straffratt": {
     "etikett": "Strafrecht",
@@ -167,7 +167,7 @@
   "eu-ratt": {
     "etikett": "EU-Recht",
     "typ": "ämne",
-    "antal": 13
+    "antal": 15
   },
   "statligt-agande": {
     "etikett": "Staatliche Eigentumsverhältnisse",
@@ -177,7 +177,7 @@
   "ekonomi": {
     "etikett": "Wirtschaftswissenschaften",
     "typ": "ämne",
-    "antal": 28
+    "antal": 29
   },
   "sverige": {
     "etikett": "Schweden",
@@ -247,7 +247,7 @@
   "skatt": {
     "etikett": "Steuern",
     "typ": "ämne",
-    "antal": 9
+    "antal": 11
   },
   "finansmarknad": {
     "etikett": "Finanzmarkt",
@@ -392,17 +392,17 @@
   "ecb": {
     "etikett": "Europäische Zentralbank.",
     "typ": "organisation",
-    "antal": 11
+    "antal": 12
   },
   "eu": {
     "etikett": "Die Europäische Union (EU) ist ein politischer und wirtschaftlicher Zusammenschluss von Staaten in Europa. Sie wurde gegründet, um Frieden, Wohlstand und Zusammenarbeit in Europa zu fördern.\n\nDie EU hat folgende Ziele:\n\n*   Förderung des Friedens, der Sicherheit und der Zusammenarbeit in Europa.\n*   Etablierung eines gemeinsamen Marktes mit freiem Waren-, Personen-, Dienstleistungs- und Kapitalverkehr.\n*   Förderung einer nachhaltigen Entwicklung, die sowohl wirtschaftliche als auch soziale und ökologische Aspekte berücksichtigt.\n*   Stärkung der Rolle Europas in der Welt.\n\nDie EU besteht derzeit aus 27 Mitgliedstaaten. Die wichtigsten Institutionen der EU sind:\n\n*   Europäisches Parlament\n*   Europäischer Rat\n*   Europäische Kommission\n*   Europäischer Gerichtshof\n*   Europäische Zentralbank\n\nDie EU hat eine Reihe von Richtlinien und Verordnungen erlassen, die in allen Mitgliedstaaten gelten. Diese Richtlinien und Verordnungen umfassen Bereiche wie:\n\n*   Umwelt\n*   Landwirtschaft\n*   Verbraucherschutz\n*   Wirtschaft\n*   Recht\n\nDie EU ist ein wichtiger Akteur in der Welt und spielt eine wichtige Rolle bei der Bewältigung globaler Herausforderungen.\n\nWeitere Informationen finden Sie auf der Website der Europäischen Union: [URL einfügen]",
     "typ": "organisation",
-    "antal": 38
+    "antal": 46
   },
   "eu-kommissionen": {
     "etikett": "Die Europäische Kommission.",
     "typ": "organisation",
-    "antal": 27
+    "antal": 33
   },
   "alingsas": {
     "etikett": "Alingsås\n\n(No further context was provided, so a simple translation of the name is all that's possible.)",
@@ -1727,7 +1727,7 @@
   "skatteverket": {
     "etikett": "Das schwedische Finanzamt (Skatteverket).",
     "typ": "organisation",
-    "antal": 8
+    "antal": 10
   },
   "pension": {
     "etikett": "Rente.",
@@ -1777,12 +1777,12 @@
   "socialforsakring": {
     "etikett": "Sozialversicherung",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "forsakringskassan": {
     "etikett": "Die schwedische Sozialversicherungsanstalt (Försäkringskassan).",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "arbetsmarknad": {
     "etikett": "Arbeitsmarkt",

@@ -32,7 +32,7 @@
   "riksdagen": {
     "etikett": "Le Riksdag.",
     "typ": "organisation",
-    "antal": 428
+    "antal": 435
   },
   "underrattelsetjanst": {
     "etikett": "Service de renseignement",
@@ -97,7 +97,7 @@
   "eu-ratt": {
     "etikett": "Droit de l'UE",
     "typ": "ämne",
-    "antal": 14
+    "antal": 16
   },
   "straffratt": {
     "etikett": "Droit pénal",
@@ -112,7 +112,7 @@
   "ekonomi": {
     "etikett": "Économie",
     "typ": "ämne",
-    "antal": 26
+    "antal": 27
   },
   "sverige": {
     "etikett": "Suède",
@@ -182,7 +182,7 @@
   "skatt": {
     "etikett": "Impôts.",
     "typ": "ämne",
-    "antal": 9
+    "antal": 11
   },
   "finansmarknad": {
     "etikett": "Marché financier.",
@@ -332,17 +332,17 @@
   "ecb": {
     "etikett": "Banque centrale européenne.",
     "typ": "organisation",
-    "antal": 11
+    "antal": 12
   },
   "eu": {
     "etikett": "L'Union européenne (UE) est une organisation politique et économique regroupant plusieurs pays européens. Elle a été créée pour promouvoir la paix, la prospérité et la coopération entre ses membres.\n\nVoici quelques informations clés sur l'UE :\n\n*   **Objectifs :**\n    *   Promouvoir la paix et la stabilité.\n    *   Favoriser le développement économique et social.\n    *   Renforcer la coopération entre les États membres.\n    *   Établir une monnaie unique (l'euro).\n    *   Protéger l'environnement.\n\n*   **Membres :**\n    L'UE compte actuellement 27 États membres.\n\n*   **Institutions :**\n    *   Le Parlement européen : représente les citoyens de l'UE.\n    *   Le Conseil de l'Union européenne : représente les gouvernements des États membres.\n    *   La Commission européenne : propose des lois et veille à leur application.\n    *   La Cour de justice de l'Union européenne : assure le respect du droit de l'UE.\n\n*   **Politiques :**\n    L'UE dispose de politiques dans de nombreux domaines, notamment :\n    *   L'agriculture.\n    *   Le commerce.\n    *   L'environnement.\n    *   L'énergie.\n    *   La justice et les affaires intérieures.\n\n*   **Site web :**\n    Pour plus d'informations, vous pouvez consulter le site web de l'UE : [URL non fournie].",
     "typ": "organisation",
-    "antal": 38
+    "antal": 46
   },
   "eu-kommissionen": {
     "etikett": "La Commission européenne.",
     "typ": "organisation",
-    "antal": 27
+    "antal": 33
   },
   "alingsas": {
     "etikett": "Alingsås.",
@@ -1667,7 +1667,7 @@
   "skatteverket": {
     "etikett": "L'Agence fiscale suédoise (Skatteverket).",
     "typ": "organisation",
-    "antal": 8
+    "antal": 10
   },
   "pension": {
     "etikett": "Retraite.",
@@ -1717,12 +1717,12 @@
   "socialforsakring": {
     "etikett": "Sécurité sociale.",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "forsakringskassan": {
     "etikett": "La Försäkringskassan (Caisse d'Assurance Sociale).",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "arbetsmarknad": {
     "etikett": "Marché du travail.",

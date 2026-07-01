@@ -2,12 +2,12 @@
   "socialforsakring": {
     "etikett": "Sosiaaliturva.",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "forsakringskassan": {
     "etikett": "Vakuutusrahasto.",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "arbetsmarknad": {
     "etikett": "Työmarkkinat",
@@ -202,7 +202,7 @@
   "riksdagen": {
     "etikett": "Riksdagen",
     "typ": "organisation",
-    "antal": 726
+    "antal": 733
   },
   "straffratt": {
     "etikett": "Straffrätt",
@@ -312,7 +312,7 @@
   "eu-ratt": {
     "etikett": "EU-rätt",
     "typ": "ämne",
-    "antal": 14
+    "antal": 16
   },
   "statligt-agande": {
     "etikett": "Statligt ägande",
@@ -322,7 +322,7 @@
   "ekonomi": {
     "etikett": "Ekonomi",
     "typ": "ämne",
-    "antal": 26
+    "antal": 27
   },
   "bolagsforvaltning": {
     "etikett": "Bolagsförvaltning",
@@ -387,7 +387,7 @@
   "skatt": {
     "etikett": "Skatt",
     "typ": "ämne",
-    "antal": 9
+    "antal": 11
   },
   "finansmarknad": {
     "etikett": "Finansmarknad",
@@ -537,17 +537,17 @@
   "ecb": {
     "etikett": "ECB",
     "typ": "organisation",
-    "antal": 11
+    "antal": 12
   },
   "eu": {
     "etikett": "EU",
     "typ": "organisation",
-    "antal": 39
+    "antal": 47
   },
   "eu-kommissionen": {
     "etikett": "EU-kommissionen",
     "typ": "organisation",
-    "antal": 27
+    "antal": 33
   },
   "orebro": {
     "etikett": "Örebro",
@@ -1897,7 +1897,7 @@
   "skatteverket": {
     "etikett": "Skatteverket",
     "typ": "organisation",
-    "antal": 8
+    "antal": 10
   },
   "pension": {
     "etikett": "Pension",

@@ -59,6 +59,299 @@
     }
   },
   {
+    "id": "HD03299",
+    "typ": "lagforslag",
+    "titel": "Yleisen perintörahaston varojen jakautumisen raportti budjettivuodelle 2025.",
+    "ingress": "Hallitus kertoo, miten Yleisen perintörahaston varoja tulisi käyttää vuonna 2025. Se selittää, mitkä alueet ovat tärkeimpiä tulevaisuuden investointien kannalta.",
+    "datum": "2026-06-30",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03299.html",
+    "taggar": [
+      "riksdagen"
+    ],
+    "relevans": {
+      "b_konsult": 8
+    }
+  },
+  {
+    "id": "HD03297",
+    "typ": "lagforslag",
+    "titel": "Uusi järjestelmä rikosoikeudellisten seuraamusten määrittämiseen.",
+    "ingress": "Hallitus haluaa muuttaa sääntöjä siitä, miten rangaistuksia määrätään ja toimeenpannaan, jotta oikeusjärjestelmästä tulisi oikeudenmukaisempi. Tämä sisältää muun muassa uusia sääntöjä vankilatuomioista, ankarampia rangaistuksia henkilöille,",
+    "datum": "2026-06-30",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03297.html",
+    "taggar": [
+      "riksdagen"
+    ],
+    "relevans": {
+      "kronisk": 3,
+      "beroende": 3,
+      "brottsoffer": 3,
+      "domd": 8
+    }
+  },
+  {
+    "id": "HD03296",
+    "typ": "lagforslag",
+    "titel": "Verotuksellisesti läpinäkyvät sijoitusrahastot instituutiosijoittajille.",
+    "ingress": "Uudet säännöt mahdollistavat suurille organisaatioille, jotka hallinnoivat eläkkeitä, investoimisen erityisiin rahastoihin, joilla on yksinkertaisemmat verosäännöt. Tämän pitäisi tehdä eläkerahastojen hallinnasta edullisempaa ja helpompaa e",
+    "datum": "2026-06-30",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03296.html",
+    "taggar": [
+      "riksdagen"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "konkurrens": 3,
+      "pensionar": 3,
+      "sparare": 3
+    }
+  },
+  {
+    "id": "HD03295",
+    "typ": "lagforslag",
+    "titel": "Sosiaalitoimen ennaltaehkäisevät toimet lasten ja nuorten suojeluksi tilanteissa, joissa heidän osallistumisensa on puutteellista.",
+    "ingress": "Ehdotetaan uutta lakia, jonka tarkoituksena on suojella lapsia ja nuoria, jotka eivät saa tarvitsemaansa apua vanhemmiltaan tai huoltajiltaan. Laki mahdollistaa sosiaalitoimenpiteiden toteuttamisen myös ilman asianosaisten suostumusta, esim",
+    "datum": "2026-06-30",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03295.html",
+    "taggar": [
+      "riksdagen"
+    ],
+    "relevans": {
+      "gdpr": 3,
+      "barn": 8,
+      "foraldraledig": 3,
+      "glesbygd": 3,
+      "kronisk": 3,
+      "otrygg": 3,
+      "integritet": 5
+    }
+  },
+  {
+    "id": "HD03294",
+    "typ": "lagforslag",
+    "titel": "Lasten oikeuksien ja turvallisuuden puolesta – uusi laki lasten ja nuorten huostaanotosta.",
+    "ingress": "Uusi laki tulee korvaamaan nykyisen lapsenhoitolain, jotta lapsille voidaan taata paremmat oikeudet ja turvallisuus. Uusien sääntöjen tarkoituksena on selkeyttää, miten lapsia suojellaan, erityisesti niitä, jotka asuvat perhekotona.",
+    "datum": "2026-06-30",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03294.html",
+    "taggar": [
+      "riksdagen"
+    ],
+    "relevans": {
+      "gdpr": 3,
+      "barn": 8,
+      "kronisk": 8,
+      "otrygg": 8,
+      "integritet": 3
+    }
+  },
+  {
+    "id": "HD03293",
+    "typ": "lagforslag",
+    "titel": "Tiukemmat säännöt nuorille rikollisille.",
+    "ingress": "Hallitus haluaa tiukentaa sääntöjä nuorille, jotka syyllistyvät vakaviin rikoksiin. Tämä tarkoittaa muun muassa sitä, että rangaistukset kovenevat ja tietyt alennukset, joita myönnetään nuorelle iälle, poistetaan.",
+    "datum": "2026-06-30",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03293.html",
+    "taggar": [
+      "riksdagen"
+    ],
+    "relevans": {
+      "ung": 3,
+      "otrygg": 3,
+      "domd": 3,
+      "integritet": 3
+    }
+  },
+  {
+    "id": "HD03140",
+    "typ": "lagforslag",
+    "titel": "Valtion omistamien yritysten vuoden 2026 raportti.",
+    "ingress": "Hallitus raportoi siitä, miten se on hoitanut valtion omistamia yrityksiä sekä toimintaa kolmessa tietyssä rahastossa ja yhdessä lainarahastossa.",
+    "datum": "2026-06-30",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03140.html",
+    "taggar": [
+      "riksdagen"
+    ],
+    "relevans": {
+      "b_industri": 3,
+      "sparare": 3
+    }
+  },
+  {
+    "id": "ecb-2026-06-30-ecb-publishes-indicative-opera",
+    "typ": "omvarld",
+    "titel": "Euroopan keskuspankki (EKP) on julkaissut alustavat aikataulut sen toiminnalle vuoden 2028 ajalle.",
+    "ingress": "Euroopan keskuspankki on julkaissut ensimmäisen luonnoksen aikataulusta, jossa esitetään sen suunnitelmat lainojen ja rahan hallinnoinnista markkinoilla vuonna 2028.",
+    "datum": "2026-06-30",
+    "kalla": "ECB",
+    "kalla_url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260630_1~ff55b9e99a.en.html",
+    "taggar": [
+      "ekonomi",
+      "ecb"
+    ],
+    "relevans": {
+      "b_finans": 3
+    }
+  },
+  {
+    "id": "eu-kommissionen-2026-06-30-closing-keynote-speech-by-comm",
+    "typ": "omvarld",
+    "titel": "Komissaari Kubiliuksen pääpuhe konferenssissa, jossa keskusteltiin Ison-Britannian ja Euroopan unionin välisten suhteiden tulevaisuudesta.",
+    "ingress": "EU:n edustaja pitää puheen siitä, millainen suhteen tulisi olla Ison-Britannian ja EU:n välillä tulevaisuudessa.",
+    "datum": "2026-06-30",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1496",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ]
+  },
+  {
+    "id": "eu-kommissionen-2026-06-30-solidarity-in-action-president",
+    "typ": "omvarld",
+    "titel": "Solidaarisuutta käytännössä\": Euroopan komission puheenjohtaja Ursula von der Leyen keräsi tukea Ukrainan jälleenrakentamiseen Gdanskissa.",
+    "ingress": "Euroopan unionin johtajat ovat keränneet tukea Ukrainan jälleenrakentamiseen sodan jälkeen.",
+    "datum": "2026-06-30",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_1493",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "infrastruktur": 3
+    }
+  },
+  {
+    "id": "eu-kommissionen-2026-06-30-commission-disburses-3-9-billi",
+    "typ": "omvarld",
+    "titel": "Komissio on maksanut 3,9 miljardia euroa droneihin osana Ukrainelle myönnettyä 90 miljardin euron tukipakettia.",
+    "ingress": "EU myöntää Ukrainalle 3,9 miljardia euroa dronejen ostamiseen. Tämä on osa suurempaa lainaa, jonka tarkoituksena on auttaa maata puolustautumaan Venäjän hyökkäyksiä vastaan.",
+    "datum": "2026-06-30",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1490",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ],
+    "relevans": {
+      "varnpliktig": 3
+    }
+  },
+  {
+    "id": "eu-kommissionen-2026-06-30-questions-and-answers-on-the-f",
+    "typ": "omvarld",
+    "titel": "Kysymyksiä ja vastauksia Montenegron taloudellisesta tukipakettista.",
+    "ingress": "Euroopan unioni on päättänyt myöntää uudelleen rahoitusta Montenegron. Varojen tarkoituksena on auttaa maata sen talouden ja kehityksen kanssa.",
+    "datum": "2026-06-30",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/qanda_26_1489",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ],
+    "relevans": {
+      "b_finans": 8
+    }
+  },
+  {
+    "id": "eu-kommissionen-2026-06-30-commission-presents-financial-",
+    "typ": "omvarld",
+    "titel": "Euroopan komissio esittelee rahoituspaketin, jonka avulla Montenegroa tuetaan sen liittymisessä Euroopan unioniin.",
+    "ingress": "Euroopan unioni on laatinut suunnitelman, jonka avulla Montenegro voi saada rahoitusta ja noudattaa sääntöjä liittyessään EU:n jäseneksi. Tämä on tärkeä askel Montenegron tiellä kohti sen liittymistä unioniin.",
+    "datum": "2026-06-30",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1488",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ],
+    "relevans": {
+      "b_finans": 8,
+      "glesbygd": 3
+    }
+  },
+  {
+    "id": "eu-kommissionen-2026-06-30-daily-news-30-06-2026",
+    "typ": "omvarld",
+    "titel": "Päivittäiset uutiset 30.6.2026.",
+    "ingress": "EU aikoo investoida 3,9 miljardia euroa dronejen hankintaan Ukrainan tueksi. Varat ovat peräisin suuremmasta lainasta, joka on tarkoitettu maan tukemiseen.",
+    "datum": "2026-06-30",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1487",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ]
+  },
+  {
+    "id": "skatteverket-2026-06-30-radrum-for-foretag-med-tillfal",
+    "typ": "myndighet",
+    "titel": "Yrityksille tarjottavia tilapäisiä maksujärjestelyjä taloudellisten vaikeuksien varalta.",
+    "ingress": "30. kesäkuuta 2026 alkaen voimaan astuu uusi sääntö, joka antaa hyvin hoidetuissa yrityksissä toimiville johtajille enemmän turvaa, jos he kohtaavat odottamattomia ongelmia verojen maksamisessa.",
+    "datum": "2026-06-30",
+    "kalla": "Skatteverket",
+    "kalla_url": "http://skatteverket.se/omoss/pressochmedia/nyheter/2026/nyheter/radrumforforetagmedtillfalligabetalningsproblem.5.3129d65419ef1497c0613d9.html",
+    "taggar": [
+      "skatt",
+      "skatteverket"
+    ],
+    "relevans": {
+      "aktiebolag": 3,
+      "konsument": 3,
+      "otrygg": 3
+    }
+  },
+  {
+    "id": "skatteverket-2026-06-30-nya-lagar-fran-halvarsskiftet-",
+    "typ": "myndighet",
+    "titel": "Uudet lait astuvat voimaan vuoden 2026 puolivälin jälkeen.",
+    "ingress": "1. heinäkuuta 2026 alkaen tulee voimaan useita uusia säännöksiä verotuksesta, sähköautojen lataamisesta ja perheoikeudesta. Muutosten myötä esimerkiksi Verohallinnon on helpompi estää petoksia, ja tietyt polttoaine- ja alkoholiverot lasketa",
+    "datum": "2026-06-30",
+    "kalla": "Skatteverket",
+    "kalla_url": "http://skatteverket.se/omoss/pressochmedia/nyheter/2026/nyheter/nyalagarfranhalvarsskiftet2026.5.650b4a9d19ebd1653db1700.html",
+    "taggar": [
+      "skatt",
+      "skatteverket"
+    ],
+    "relevans": {
+      "b_grona": 3,
+      "b_energi": 3,
+      "moms": 3,
+      "bil": 3,
+      "beroende": 3,
+      "energikund": 3,
+      "konsument": 3,
+      "batagare": 3
+    }
+  },
+  {
+    "id": "fk-2026-06-30-ny-mojlighet-att-vabba-har-nyttjats-mest-for-moten-i-skolan",
+    "typ": "myndighet",
+    "titel": "Uudesta mahdollisuudesta käyttää vanhempainvapaita on hyödynnetty eniten koulussa järjestettäviin kokouksiin osallistumiseen.",
+    "ingress": "Vanhemmat, jotka ovat saaneet vapaata työstä päästäkseen tapaamaan lapsiaan koulussa tai päiväkodissa, ovat käyttäneet tätä uutta mahdollisuutta eniten.",
+    "datum": "2026-06-30",
+    "kalla": "Försäkringskassan",
+    "kalla_url": "https://www.forsakringskassan.se/nyhetsarkiv/nyheter-press/2026-06-30-ny-mojlighet-att-vabba-har-nyttjats-mest-for-moten-i-skolan",
+    "taggar": [
+      "socialforsakring",
+      "forsakringskassan"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "barn": 8,
+      "sjukskriven": 3,
+      "foraldraledig": 8
+    }
+  },
+  {
     "id": "ecb-2026-06-29-christine-lagarde-back-to-basi",
     "typ": "omvarld",
     "titel": "Christine Lagarde: Paluu perusasioihin epävarmassa ympäristössä.",
@@ -183,6 +476,23 @@
       "sjuklon": 3,
       "sjukskriven": 5,
       "psykisk": 3
+    }
+  },
+  {
+    "id": "eu-32026R1457",
+    "typ": "omvarld",
+    "titel": "EUROOPAN KOMISSIONIN TÄYTÄNTÖSÄÄDÖS (EU) 2026/1457.",
+    "ingress": "Euroopan unioni päättää, kuinka paljon terästä maista, jotka eivät ole EU:n jäseniä, saa tuoda EU:hun ilman lisätullimaksuja. Tämän tarkoituksena on suojella eurooppalaista teräsmarkkinaa samalla kun säännellään kauppaa muiden maiden kanssa",
+    "datum": "2026-06-29",
+    "kalla": "EU (EUR-Lex)",
+    "kalla_url": "https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32026R1457",
+    "taggar": [
+      "eu",
+      "eu-ratt"
+    ],
+    "relevans": {
+      "import": 5,
+      "konsument": 3
     }
   },
   {
@@ -829,6 +1139,28 @@
       "b_bygg": 8,
       "klimat": 8,
       "kultur": 3
+    }
+  },
+  {
+    "id": "eu-32026R1455",
+    "typ": "omvarld",
+    "titel": "Euroopan parlamentin ja neuvoston asetus (EU) 2026/1455.",
+    "ingress": "EU ja Yhdysvallat ovat päässeet sopimukseen tullien alentamisesta maiden välisessä kaupankäynnissä, jotta voidaan luoda vakaampi kauppaympäristö. Tämä helpottaa ja halventaa yritysten mahdollisuuksia myydä tuotteitaan toistensa markkinoilla",
+    "datum": "2026-06-25",
+    "kalla": "EU (EUR-Lex)",
+    "kalla_url": "https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32026R1455",
+    "taggar": [
+      "eu",
+      "eu-ratt"
+    ],
+    "relevans": {
+      "b_industri": 3,
+      "b_transport": 3,
+      "b_grona": 3,
+      "import": 3,
+      "flygresenar": 3,
+      "kronisk": 3,
+      "konsument": 3
     }
   },
   {

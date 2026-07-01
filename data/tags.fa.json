@@ -32,7 +32,7 @@
   "riksdagen": {
     "etikett": "مجلس نمایندگان",
     "typ": "organisation",
-    "antal": 431
+    "antal": 438
   },
   "underrattelsetjanst": {
     "etikett": "سازمان اطلاعات",
@@ -82,7 +82,7 @@
   "ekonomi": {
     "etikett": "اقتصاد",
     "typ": "ämne",
-    "antal": 26
+    "antal": 27
   },
   "sverige": {
     "etikett": "سوئد",
@@ -117,7 +117,7 @@
   "eu-ratt": {
     "etikett": "قوانین اتحادیه اروپا",
     "typ": "ämne",
-    "antal": 12
+    "antal": 14
   },
   "batteriforordningen": {
     "etikett": "آیین‌نامه باتری‌ها",
@@ -157,7 +157,7 @@
   "skatt": {
     "etikett": "مالیات",
     "typ": "ämne",
-    "antal": 9
+    "antal": 11
   },
   "finansmarknad": {
     "etikett": "بازار مالی",
@@ -322,17 +322,17 @@
   "ecb": {
     "etikett": "بانک مرکزی اروپا (ECB)",
     "typ": "organisation",
-    "antal": 11
+    "antal": 12
   },
   "eu": {
     "etikett": "اتحادیه اروپا (EU)",
     "typ": "organisation",
-    "antal": 37
+    "antal": 45
   },
   "eu-kommissionen": {
     "etikett": "کمیسیون اروپا",
     "typ": "organisation",
-    "antal": 27
+    "antal": 33
   },
   "arresteringsorder": {
     "etikett": "دستور بازداشت",
@@ -1667,7 +1667,7 @@
   "skatteverket": {
     "etikett": "سازمان مالیات سوئد (Skatteverket)",
     "typ": "organisation",
-    "antal": 8
+    "antal": 10
   },
   "pension": {
     "etikett": "بازنشستگی",
@@ -1717,12 +1717,12 @@
   "socialforsakring": {
     "etikett": "بیمه اجتماعی",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "forsakringskassan": {
     "etikett": "سازمان تامین اجتماعی (Försäkringskassan)",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "arbetsmarknad": {
     "etikett": "بازار کار",

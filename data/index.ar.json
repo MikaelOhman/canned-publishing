@@ -58,6 +58,299 @@
     }
   },
   {
+    "id": "HD03299",
+    "typ": "lagforslag",
+    "titel": "تقرير عن توزيع الأموال من \"الصندوق العام للميراث\" خلال السنة المالية 2025.",
+    "ingress": "توضح الحكومة كيفية استخدام الأموال المخصصة من \"صندوق التراث العام\" خلال عام 2025، وتحدد المجالات التي تعتبرها ذات أهمية قصوى للاستثمار في المستقبل.",
+    "datum": "2026-06-30",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03299.html",
+    "taggar": [
+      "riksdagen"
+    ],
+    "relevans": {
+      "b_konsult": 8
+    }
+  },
+  {
+    "id": "HD03297",
+    "typ": "lagforslag",
+    "titel": "نظام جديد للعقوبات الجنائية.",
+    "ingress": "ترغب الحكومة في تعديل القواعد المتعلقة بتحديد وتنفيذ العقوبات بهدف جعل النظام القضائي أكثر عدالة. ويشمل ذلك، على سبيل المثال، قواعد جديدة تتعلق بالسجون، وعقوبات أشد للأفراد الذين يرتكبون جرائم متعددة، وتوفير حماية أفضل للمجتمع.",
+    "datum": "2026-06-30",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03297.html",
+    "taggar": [
+      "riksdagen"
+    ],
+    "relevans": {
+      "kronisk": 3,
+      "beroende": 3,
+      "brottsoffer": 3,
+      "domd": 8
+    }
+  },
+  {
+    "id": "HD03296",
+    "typ": "lagforslag",
+    "titel": "صناديق استثمارية شفافة من حيث الضرائب، مخصصة للمستثمرين المؤسسيين.",
+    "ingress": "تسمح القواعد الجديدة للمؤسسات الكبيرة التي تدير صناديق التقاعد بالاستثمار في صناديق خاصة تتمتع بقواعد ضريبية مبسطة. يهدف هذا الإجراء إلى جعل إدارة أموال المتقاعدين أرخص وأسهل.",
+    "datum": "2026-06-30",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03296.html",
+    "taggar": [
+      "riksdagen"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "konkurrens": 3,
+      "pensionar": 3,
+      "sparare": 3
+    }
+  },
+  {
+    "id": "HD03295",
+    "typ": "lagforslag",
+    "titel": "تدابير وقائية تتخذها الخدمات الاجتماعية لحماية الأطفال والشباب في الحالات التي لا يوجد فيها تعاون كافٍ.",
+    "ingress": "يُقترح قانون جديد لحماية الأطفال والشباب الذين لا يتلقون المساعدة من آبائهم أو أولياء أمورهم. يتيح هذا القانون لخدمات الرعاية الاجتماعية اتخاذ إجراءات حتى بدون الحصول على موافقة، وذلك عن طريق فرض غرامات أو تطبيق إجراءات مراقبة إذا لزم الأمر",
+    "datum": "2026-06-30",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03295.html",
+    "taggar": [
+      "riksdagen"
+    ],
+    "relevans": {
+      "gdpr": 3,
+      "barn": 8,
+      "foraldraledig": 3,
+      "glesbygd": 3,
+      "kronisk": 3,
+      "otrygg": 3,
+      "integritet": 5
+    }
+  },
+  {
+    "id": "HD03294",
+    "typ": "lagforslag",
+    "titel": "من أجل حقوق الأطفال وسلامتهم: قانون جديد بشأن الحضانة والرعاية للأطفال والشباب.",
+    "ingress": "سيحل قانون جديد محل القانون الحالي المتعلق برعاية الأطفال، وذلك بهدف منح الأطفال حقوقًا وحماية أكبر. تهدف القواعد الجديدة إلى توضيح كيفية حماية الأطفال، وخاصة أولئك الذين يعيشون في دور الرعاية الأسرية.",
+    "datum": "2026-06-30",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03294.html",
+    "taggar": [
+      "riksdagen"
+    ],
+    "relevans": {
+      "gdpr": 3,
+      "barn": 8,
+      "kronisk": 8,
+      "otrygg": 8,
+      "integritet": 3
+    }
+  },
+  {
+    "id": "HD03293",
+    "typ": "lagforslag",
+    "titel": "قواعد أكثر صرامة للمخالفين للقانون من الشباب.",
+    "ingress": "ترغب الحكومة في تشديد القواعد المتعلقة بالشباب الذين يرتكبون جرائم خطيرة. ويشمل ذلك، على سبيل المثال، زيادة العقوبات وإلغاء بعض التخفيفات الممنوحة بناءً على السن.",
+    "datum": "2026-06-30",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03293.html",
+    "taggar": [
+      "riksdagen"
+    ],
+    "relevans": {
+      "ung": 3,
+      "otrygg": 3,
+      "domd": 3,
+      "integritet": 3
+    }
+  },
+  {
+    "id": "HD03140",
+    "typ": "lagforslag",
+    "titel": "تقرير عام 2026 للشركات المملوكة للدولة.",
+    "ingress": "أفادت الحكومة عن كيفية إدارتها للشركات المملوكة للدولة، بالإضافة إلى العمليات التي تجري في ثلاث صناديق محددة ومؤسسة قروض.",
+    "datum": "2026-06-30",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03140.html",
+    "taggar": [
+      "riksdagen"
+    ],
+    "relevans": {
+      "b_industri": 3,
+      "sparare": 3
+    }
+  },
+  {
+    "id": "ecb-2026-06-30-ecb-publishes-indicative-opera",
+    "typ": "omvarld",
+    "titel": "البنك المركزي الأوروبي (ECB) قد نشر جداول أعمال أولية لأنشطته المقررة خلال عام 2028.",
+    "ingress": "البنك المركزي الأوروبي أصدر مسودة أولية لخطة عمله المتعلقة بإدارة القروض والأموال في السوق خلال عام 2028.",
+    "datum": "2026-06-30",
+    "kalla": "ECB",
+    "kalla_url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260630_1~ff55b9e99a.en.html",
+    "taggar": [
+      "ekonomi",
+      "ecb"
+    ],
+    "relevans": {
+      "b_finans": 3
+    }
+  },
+  {
+    "id": "eu-kommissionen-2026-06-30-closing-keynote-speech-by-comm",
+    "typ": "omvarld",
+    "titel": "كلمة ختامية ألقاها المفوض كوبيليوس في المؤتمر الذي تناول مستقبل العلاقات بين المملكة المتحدة والاتحاد الأوروبي.",
+    "ingress": "ألقى ممثل عن الاتحاد الأوروبي خطابًا حول كيفية شكل العلاقة المستقبلية بين المملكة المتحدة والاتحاد الأوروبي.",
+    "datum": "2026-06-30",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1496",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ]
+  },
+  {
+    "id": "eu-kommissionen-2026-06-30-solidarity-in-action-president",
+    "typ": "omvarld",
+    "titel": "التضامن في العمل\": جمعت رئيسة المفوضية الأوروبية، أورسولا فون دير لاين، الدعم لجهود إعادة إعمار أوكرانيا في مدينة غدانسك.",
+    "ingress": "لقد جمع قادة الاتحاد الأوروبي الدعم للمساهمة في إعادة بناء أوكرانيا بعد الحرب.",
+    "datum": "2026-06-30",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_1493",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "infrastruktur": 3
+    }
+  },
+  {
+    "id": "eu-kommissionen-2026-06-30-commission-disburses-3-9-billi",
+    "typ": "omvarld",
+    "titel": "لقد دفعت المفوضية الأوروبية مبلغ 3.9 مليار يورو لتمويل شراء طائرات بدون طيار، وذلك في إطار برنامج المساعدات الأوكرانية الذي تبلغ قيمته الإجمالية 90 مليار يورو.",
+    "ingress": "قامت الاتحاد الأوروبي بتحويل مبلغ 3.9 مليار يورو إلى أوكرانيا لشراء طائرات بدون طيار. ويشكل هذا المبلغ جزءًا من قرض أكبر يهدف إلى مساعدة البلاد في الدفاع عن نفسها ضد الهجمات الروسية.",
+    "datum": "2026-06-30",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1490",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ],
+    "relevans": {
+      "varnpliktig": 3
+    }
+  },
+  {
+    "id": "eu-kommissionen-2026-06-30-questions-and-answers-on-the-f",
+    "typ": "omvarld",
+    "titel": "أسئلة وأجوبة حول الحزمة المالية لجمهورية الجبل الأسود.",
+    "ingress": "قررت الاتحاد الأوروبي تخصيص مبلغ جديد من المال لجمهورية مونتينيغرو. سيتم استخدام هذه الأموال لمساعدة البلاد في تعزيز اقتصادها وتحقيق التنمية.",
+    "datum": "2026-06-30",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/qanda_26_1489",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ],
+    "relevans": {
+      "b_finans": 8
+    }
+  },
+  {
+    "id": "eu-kommissionen-2026-06-30-commission-presents-financial-",
+    "typ": "omvarld",
+    "titel": "المفوضية الأوروبية تعلن عن حزمة تمويل لدعم انضمام مونتينيغرو إلى الاتحاد الأوروبي.",
+    "ingress": "لقد وضعت الاتحاد الأوروبي خطة لتحديد كيفية حصول الجبل الأسود على الأموال والالتزام بالقواعد عندما يصبح دولة عضو في الاتحاد الأوروبي. هذا يمثل خطوة مهمة نحو انضمام الجبل الأسود إلى الاتحاد.",
+    "datum": "2026-06-30",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1488",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ],
+    "relevans": {
+      "b_finans": 8,
+      "glesbygd": 3
+    }
+  },
+  {
+    "id": "eu-kommissionen-2026-06-30-daily-news-30-06-2026",
+    "typ": "omvarld",
+    "titel": "الأخبار اليومية، بتاريخ 2026-06-30.",
+    "ingress": "تستثمر الاتحاد الأوروبي مبلغ 3.9 مليار يورو لشراء طائرات بدون طيار (طائرات مسيرة) لصالح أوكرانيا. يأتي هذا المبلغ من قرض أكبر مخصص لتقديم الدعم للبلاد.",
+    "datum": "2026-06-30",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1487",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ]
+  },
+  {
+    "id": "skatteverket-2026-06-30-radrum-for-foretag-med-tillfal",
+    "typ": "myndighet",
+    "titel": "مساحات عمل مخصصة للشركات التي تواجه مشاكل مؤقتة في السداد.",
+    "ingress": "ابتداءً من 30 يونيو 2026، سيتم تطبيق قاعدة جديدة تمنح مديري الشركات التي تتمتع بإدارة جيدة مزيدًا من الأمان في حالة مواجهة مشاكل غير متوقعة في سداد الضرائب.",
+    "datum": "2026-06-30",
+    "kalla": "Skatteverket",
+    "kalla_url": "http://skatteverket.se/omoss/pressochmedia/nyheter/2026/nyheter/radrumforforetagmedtillfalligabetalningsproblem.5.3129d65419ef1497c0613d9.html",
+    "taggar": [
+      "skatt",
+      "skatteverket"
+    ],
+    "relevans": {
+      "aktiebolag": 3,
+      "konsument": 3,
+      "otrygg": 3
+    }
+  },
+  {
+    "id": "skatteverket-2026-06-30-nya-lagar-fran-halvarsskiftet-",
+    "typ": "myndighet",
+    "titel": "قوانين جديدة ستدخل حيز التنفيذ اعتبارًا من منتصف عام 2026.",
+    "ingress": "ابتداءً من الأول من يوليو عام 2026، سيتم تطبيق العديد من القواعد الجديدة المتعلقة بالضرائب، وشحن السيارات الكهربائية، والقانون الأسري. تشمل هذه التغييرات تسهيل مهمة مصلحة الضرائب في مكافحة عمليات الاحتيال، بينما سيتم تخفيض بعض الضرائب على ا",
+    "datum": "2026-06-30",
+    "kalla": "Skatteverket",
+    "kalla_url": "http://skatteverket.se/omoss/pressochmedia/nyheter/2026/nyheter/nyalagarfranhalvarsskiftet2026.5.650b4a9d19ebd1653db1700.html",
+    "taggar": [
+      "skatt",
+      "skatteverket"
+    ],
+    "relevans": {
+      "b_grona": 3,
+      "b_energi": 3,
+      "moms": 3,
+      "bil": 3,
+      "beroende": 3,
+      "energikund": 3,
+      "konsument": 3,
+      "batagare": 3
+    }
+  },
+  {
+    "id": "fk-2026-06-30-ny-mojlighet-att-vabba-har-nyttjats-mest-for-moten-i-skolan",
+    "typ": "myndighet",
+    "titel": "تم استخدام إجازة رعاية الأطفال (vabba) بشكل أكبر في الحالات التالية:",
+    "ingress": "لقد استفاد الآباء والأمهات بشكل كبير من الإجازة التي يحق لهم الحصول عليها من العمل للقاء أطفالهم في المدرسة أو الحضانة، حيث استخدموا هذه الفرصة الجديدة على نطاق واسع.",
+    "datum": "2026-06-30",
+    "kalla": "Försäkringskassan",
+    "kalla_url": "https://www.forsakringskassan.se/nyhetsarkiv/nyheter-press/2026-06-30-ny-mojlighet-att-vabba-har-nyttjats-mest-for-moten-i-skolan",
+    "taggar": [
+      "socialforsakring",
+      "forsakringskassan"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "barn": 8,
+      "sjukskriven": 3,
+      "foraldraledig": 8
+    }
+  },
+  {
     "id": "ecb-2026-06-29-christine-lagarde-back-to-basi",
     "typ": "omvarld",
     "titel": "كريستين لاغارد: العودة إلى الأسس في بيئة غير مستقرة.",
@@ -182,6 +475,23 @@
       "sjuklon": 3,
       "sjukskriven": 5,
       "psykisk": 3
+    }
+  },
+  {
+    "id": "eu-32026R1457",
+    "typ": "omvarld",
+    "titel": "لوائح التنفيذ الصادرة عن المفوضية الأوروبية (الاتحاد الأوروبي) رقم 2026/1457.",
+    "ingress": "تحدد الاتحاد الأوروبي كمية الفولاذ التي يمكن استيرادها من الدول غير الأعضاء في الاتحاد الأوروبي دون فرض رسوم جمركية إضافية. يهدف هذا الإجراء إلى حماية سوق الفولاذ الأوروبي، مع تنظيم التجارة مع الدول الأخرى في الوقت نفسه.",
+    "datum": "2026-06-29",
+    "kalla": "EU (EUR-Lex)",
+    "kalla_url": "https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32026R1457",
+    "taggar": [
+      "eu",
+      "eu-ratt"
+    ],
+    "relevans": {
+      "import": 5,
+      "konsument": 3
     }
   },
   {
@@ -828,6 +1138,28 @@
       "b_bygg": 8,
       "klimat": 8,
       "kultur": 3
+    }
+  },
+  {
+    "id": "eu-32026R1455",
+    "typ": "omvarld",
+    "titel": "لوائح البرلمان الأوروبي والمجلس (الاتحاد الأوروبي) رقم 2026/1455.",
+    "ingress": "لقد توصلت كل من الاتحاد الأوروبي والولايات المتحدة إلى اتفاق لخفض الرسوم الجمركية على السلع المتبادلة بين البلدين، وذلك بهدف تعزيز الاستقرار التجاري. هذا الإجراء يسهل ويقلل تكلفة بيع المنتجات للشركات في كلا المنطقتين.",
+    "datum": "2026-06-25",
+    "kalla": "EU (EUR-Lex)",
+    "kalla_url": "https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32026R1455",
+    "taggar": [
+      "eu",
+      "eu-ratt"
+    ],
+    "relevans": {
+      "b_industri": 3,
+      "b_transport": 3,
+      "b_grona": 3,
+      "import": 3,
+      "flygresenar": 3,
+      "kronisk": 3,
+      "konsument": 3
     }
   },
   {
