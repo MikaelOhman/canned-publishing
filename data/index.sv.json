@@ -200,6 +200,98 @@
     }
   },
   {
+    "id": "eu-kommissionen-2026-06-30-closing-keynote-speech-by-comm",
+    "typ": "omvarld",
+    "titel": "Avslutande huvudtal av kommissionär Kubilius vid konferensen om framtiden för relationerna mellan Storbritannien och EU.",
+    "ingress": "En företrädare för EU håller ett tal om hur relationen mellan Storbritannien och EU ska se ut i framtiden.",
+    "datum": "2026-06-30",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1496",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ]
+  },
+  {
+    "id": "eu-kommissionen-2026-06-30-solidarity-in-action-president",
+    "typ": "omvarld",
+    "titel": "\"Solidaritet i handling\": EU-kommissionens ordförande von der Leyen samlade stöd för Ukraines återuppbyggnad i Gdańsk.",
+    "ingress": "EU:s ledare har samlat in stöd för att hjälpa till med att bygga upp Ukraina efter kriget.",
+    "datum": "2026-06-30",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_1493",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "infrastruktur": 3
+    }
+  },
+  {
+    "id": "eu-kommissionen-2026-06-30-commission-disburses-3-9-billi",
+    "typ": "omvarld",
+    "titel": "Kommissionen har betalat ut 3,9 miljarder euro för drönare inom ramen för det ukrainska stödlånet på 90 miljarder euro.",
+    "ingress": "EU betalar ut 3,9 miljarder euro till Ukraina för att köpa drönare. Detta är en del av ett större lån som ska hjälpa landet att försvara sig mot Rysslands anfall.",
+    "datum": "2026-06-30",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1490",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ],
+    "relevans": {
+      "varnpliktig": 3
+    }
+  },
+  {
+    "id": "eu-kommissionen-2026-06-30-questions-and-answers-on-the-f",
+    "typ": "omvarld",
+    "titel": "Frågor och svar om det finansiella paketet för Montenegro.\n\n*   **Vad omfattar det finansiella paketet?**\n    *   Det finansiella paketet inkluderar...\n*   **Vilka är målen med detta paket?**\n    *   ",
+    "ingress": "EU har beslutat om en ny sats pengar till landet Montenegro. Pengarna ska användas för att hjälpa landet med deras ekonomi och utveckling.",
+    "datum": "2026-06-30",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/qanda_26_1489",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ],
+    "relevans": {
+      "b_finans": 8
+    }
+  },
+  {
+    "id": "eu-kommissionen-2026-06-30-commission-presents-financial-",
+    "typ": "omvarld",
+    "titel": "Europakommissionen presenterar ett finansieringspaket för Montenegros anslutning till EU.",
+    "ingress": "EU har tagit fram en plan för hur Montenegro ska få pengar och följa regler när landet blir medlem i EU. Detta är ett viktigt steg på vägen mot att Montenegro blir en del av unionen.",
+    "datum": "2026-06-30",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1488",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ],
+    "relevans": {
+      "b_finans": 8,
+      "glesbygd": 3
+    }
+  },
+  {
+    "id": "eu-kommissionen-2026-06-30-daily-news-30-06-2026",
+    "typ": "omvarld",
+    "titel": "Dagliga nyheter 2026-06-30.",
+    "ingress": "EU satsar 3,9 miljarder euro på att köpa drönare till Ukraina. Pengarna kommer från ett större lån för att ge stöd åt landet.",
+    "datum": "2026-06-30",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1487",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ]
+  },
+  {
     "id": "ecb-2026-06-29-christine-lagarde-back-to-basi",
     "typ": "omvarld",
     "titel": "Christine Lagarde: Återgång till grunderna i en osäker omgivning.",
