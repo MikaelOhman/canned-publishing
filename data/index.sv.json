@@ -333,6 +333,25 @@
     }
   },
   {
+    "id": "fk-2026-06-30-ny-mojlighet-att-vabba-har-nyttjats-mest-for-moten-i-skolan",
+    "typ": "myndighet",
+    "titel": "Ny möjlighet att vabba har nyttjats mest för möten i skolan",
+    "ingress": "Föräldrar som får vara lediga från jobbet för att träffa sina barn i skolan eller förskola har använt den nya möjligheten mest.",
+    "datum": "2026-06-30",
+    "kalla": "Försäkringskassan",
+    "kalla_url": "https://www.forsakringskassan.se/nyhetsarkiv/nyheter-press/2026-06-30-ny-mojlighet-att-vabba-har-nyttjats-mest-for-moten-i-skolan",
+    "taggar": [
+      "socialforsakring",
+      "forsakringskassan"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "barn": 8,
+      "sjukskriven": 3,
+      "foraldraledig": 8
+    }
+  },
+  {
     "id": "ecb-2026-06-29-christine-lagarde-back-to-basi",
     "typ": "omvarld",
     "titel": "Christine Lagarde: Återgång till grunderna i en osäker omgivning.",
