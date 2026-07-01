@@ -110,6 +110,27 @@
     }
   },
   {
+    "id": "HD03295",
+    "typ": "lagforslag",
+    "titel": "Förebyggande insatser inom socialtjänsten till skydd för barn och unga vid bristande medverkan",
+    "ingress": "En ny lag föreslås för att skydda barn och unga som inte får hjälp av sina föräldrar eller vårdnadshavare. Det gör det möjligt för socialtjänsten att genomföra insatser även utan samtycke, exempelvis med böter eller övervakning om det behöv",
+    "datum": "2026-06-30",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03295.html",
+    "taggar": [
+      "riksdagen"
+    ],
+    "relevans": {
+      "gdpr": 3,
+      "barn": 8,
+      "foraldraledig": 3,
+      "glesbygd": 3,
+      "kronisk": 3,
+      "otrygg": 3,
+      "integritet": 5
+    }
+  },
+  {
     "id": "ecb-2026-06-29-christine-lagarde-back-to-basi",
     "typ": "omvarld",
     "titel": "Christine Lagarde: Återgång till grunderna i en osäker omgivning.",
