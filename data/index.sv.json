@@ -131,6 +131,25 @@
     }
   },
   {
+    "id": "HD03294",
+    "typ": "lagforslag",
+    "titel": "För barns rättigheter och trygghet – en ny lag om omhändertagande för vård av barn och unga",
+    "ingress": "En ny lag kommer att ersätta den nuvarande lagen om barnomsorg för att ge barn bättre rättigheter och trygghet. De nya reglerna ska göra det tydligare hur barn skyddas, särskilt för de som bor i familjehem.",
+    "datum": "2026-06-30",
+    "kalla": "Riksdagen",
+    "kalla_url": "https://data.riksdagen.se/dokument/HD03294.html",
+    "taggar": [
+      "riksdagen"
+    ],
+    "relevans": {
+      "gdpr": 3,
+      "barn": 8,
+      "kronisk": 8,
+      "otrygg": 8,
+      "integritet": 3
+    }
+  },
+  {
     "id": "ecb-2026-06-29-christine-lagarde-back-to-basi",
     "typ": "omvarld",
     "titel": "Christine Lagarde: Återgång till grunderna i en osäker omgivning.",
