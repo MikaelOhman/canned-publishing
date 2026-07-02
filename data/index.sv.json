@@ -218,6 +218,28 @@
     }
   },
   {
+    "id": "fk-2026-07-01-lagandringar-1-juli-som-beror-socialforsakringen",
+    "typ": "myndighet",
+    "titel": "Lagändringar 1 juli som berör socialförsäkringen",
+    "ingress": "Från och med 1 juli 2026 blir det strängare straff för de som ger felaktiga uppgifter till Försäkringskassan, samtidigt som det blir enklare att ansöka om föräldrapenning.",
+    "datum": "2026-07-01",
+    "kalla": "Försäkringskassan",
+    "kalla_url": "https://www.forsakringskassan.se/nyhetsarkiv/nyheter-press/2026-07-01-lagandringar-1-juli-som-beror-socialforsakringen",
+    "taggar": [
+      "socialforsakring",
+      "forsakringskassan"
+    ],
+    "relevans": {
+      "b_vard": 3,
+      "b_finans": 3,
+      "barn": 3,
+      "pensionar": 3,
+      "sjukskriven": 3,
+      "foraldraledig": 3,
+      "kronisk": 3
+    }
+  },
+  {
     "id": "HD03299",
     "typ": "lagforslag",
     "titel": "Redovisning av fördelning av medel från Allmänna arvsfonden under budgetåret 2025",
