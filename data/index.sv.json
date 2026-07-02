@@ -198,6 +198,26 @@
     }
   },
   {
+    "id": "mcf-2026-07-01-nu-tas-se-alert-i-bruk-se-till",
+    "typ": "myndighet",
+    "titel": "Nu tas SE-Alert i bruk – se till att din telefon är uppdaterad",
+    "ingress": "Från den 1 juli används ett nytt system som heter SE-Alert för att skicka viktiga varningar direkt till mobiltelefoner vid akuta faror. Se till att din mobil är uppdaterad så att du kan ta emot dessa meddelanden om det skulle behövas.",
+    "datum": "2026-07-01",
+    "kalla": "Myndigheten för civilt försvar",
+    "kalla_url": "https://www.mcf.se/sv/aktuellt/nyheter/2026/juli/nu-tas-se-alert-i-bruk--se-till-att-din-telefon-ar-uppdaterad/",
+    "taggar": [
+      "krisberedskap",
+      "civilt-forsvar",
+      "mcf"
+    ],
+    "relevans": {
+      "b_transport": 3,
+      "b_it": 3,
+      "flygresenar": 3,
+      "varnpliktig": 3
+    }
+  },
+  {
     "id": "HD03299",
     "typ": "lagforslag",
     "titel": "Redovisning av fördelning av medel från Allmänna arvsfonden under budgetåret 2025",
