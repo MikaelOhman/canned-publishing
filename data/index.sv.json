@@ -59,6 +59,69 @@
     }
   },
   {
+    "id": "eu-kommissionen-2026-07-01-statement-by-president-von-der",
+    "typ": "omvarld",
+    "titel": "Uttalande från EU-kommissionens ordförande Ursula von der Leyen tillsammans med Azerbajdzjans president Ilham Alijev.",
+    "ingress": "EU-ledaren Ursula von der Leyen besökte Azerbajdzjan för att träffa landets president. Mötet handlar om samarbetet mellan EU och landet.",
+    "datum": "2026-07-01",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1503",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_kultur": 3,
+      "kultur": 3
+    }
+  },
+  {
+    "id": "eu-kommissionen-2026-07-01-opening-remarks-by-commissione",
+    "typ": "omvarld",
+    "titel": "Inledande anförande av kommissionär Kubilius vid seminariet \"Att säkra Europas ögon i skyn: säkerheten för EU:s satelliter\".",
+    "ingress": "Europakommissionen ska förbättra säkerheten för Europas satelliter i rymden eftersom de är viktiga för ekonomin.",
+    "datum": "2026-07-01",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1500",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ],
+    "relevans": {
+      "otrygg": 3
+    }
+  },
+  {
+    "id": "eu-kommissionen-2026-07-01-transposition-entry-into-force",
+    "typ": "omvarld",
+    "titel": "Överföring till nationell lagstiftning, ikraftträdande eller tillämpning av EU-lagstiftning: viktiga milstolpar | 1 juli – 15 augusti 2026.",
+    "ingress": "Mellan den 1 juli och 15 augusti 2026 kommer flera nya EU-regler börja gälla eller börja användas i Sverige. Det handlar om viktiga ändringar i lagar som påverkar hur olika regler följs inom hela Europa.",
+    "datum": "2026-07-01",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/fs_26_1498",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ]
+  },
+  {
+    "id": "eu-kommissionen-2026-07-01-daily-news-01-07-2026",
+    "typ": "omvarld",
+    "titel": "Dagliga nyheter 2026-07-01.",
+    "ingress": "EU-kommissionen vill göra det enklare och mindre krångligt att bygga och sälja bostäder i Europa.",
+    "datum": "2026-07-01",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1497",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ],
+    "relevans": {
+      "b_bygg": 3
+    }
+  },
+  {
     "id": "HD03299",
     "typ": "lagforslag",
     "titel": "Redovisning av fördelning av medel från Allmänna arvsfonden under budgetåret 2025",
@@ -349,6 +412,43 @@
       "barn": 8,
       "sjukskriven": 3,
       "foraldraledig": 8
+    }
+  },
+  {
+    "id": "eu-kommissionen-2026-06-30-eu-launches-connectivity-and-c",
+    "typ": "omvarld",
+    "titel": "EU lanserar stödprogram för att främja sammankoppling och gemenskap i syfte att skapa fred i Sydkaukasus.",
+    "ingress": "EU startar ett nytt program för att skapa fred i Sydkaukasus genom att förbättra samarbetet mellan grannländer. Syftet är att skapa gemenskap och stärka handeln med Azerbajdzjan.",
+    "datum": "2026-06-30",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1494",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ],
+    "relevans": {
+      "b_bygg": 3,
+      "b_energi": 3,
+      "infrastruktur": 3,
+      "kronisk": 3,
+      "energikund": 3
+    }
+  },
+  {
+    "id": "eu-kommissionen-2026-06-30-questions-and-answers-on-3-cus",
+    "typ": "omvarld",
+    "titel": "Frågor och svar om tullavgiften på 3 euro.\n\n*   **Vad är det?** En tullavgift på 3 euro som införs för att förenkla gränskontroller och minska kontantbetalningar.\n*   **När gäller den?** Från och med ",
+    "ingress": "Från och med juli 2026 införs en avgift på 3 euro för vissa paket som skickas över gränser. Syftet är att göra gränskontroller smidigare och minska behovet av kontanter.",
+    "datum": "2026-06-30",
+    "kalla": "EU-kommissionen",
+    "kalla_url": "https://ec.europa.eu/commission/presscorner/detail/en/qanda_26_1492",
+    "taggar": [
+      "eu",
+      "eu-kommissionen"
+    ],
+    "relevans": {
+      "import": 8,
+      "digital_ovan": 3
     }
   },
   {
