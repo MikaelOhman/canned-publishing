@@ -140,6 +140,46 @@
     }
   },
   {
+    "id": "skatteverket-2026-07-01-skatteverket-bygger-grunden-fo",
+    "typ": "myndighet",
+    "titel": "Skatteverket bygger grunden för AI-användning inom offentlig sektor",
+    "ingress": "Skatteverket och Försäkringskassan startar en ny verksamhet som heter AI-verkstaden för att hjälpa myndigheter, kommuner och regioner att använda ny teknik (AI) på ett säkert sätt.",
+    "datum": "2026-07-01",
+    "kalla": "Skatteverket",
+    "kalla_url": "http://skatteverket.se/omoss/pressochmedia/nyheter/2026/nyheter/skatteverketbyggergrundenforaianvandninginomoffentligsektor.5.3129d65419ef1497c0610c7.html",
+    "taggar": [
+      "skatt",
+      "skatteverket"
+    ],
+    "relevans": {
+      "b_bygg": 8,
+      "b_finans": 3,
+      "b_fastighet": 3,
+      "b_konsult": 3,
+      "digitalisering": 3,
+      "sjukskriven": 3,
+      "kronisk": 3
+    }
+  },
+  {
+    "id": "skatteverket-2026-07-01-nya-regler-ska-minska-momsbedr",
+    "typ": "myndighet",
+    "titel": "Nya regler ska minska momsbedrägerier",
+    "ingress": "Från den 1 juli införs nya regler för att stoppa bedrägerier med moms. Det blir svårare för oseriösa företag att fuska, vilket skapar en tryggare handel för alla.",
+    "datum": "2026-07-01",
+    "kalla": "Skatteverket",
+    "kalla_url": "http://skatteverket.se/omoss/pressochmedia/nyheter/2026/nyheter/nyareglerskaminskamomsbedragerier.5.61831a4519e8f7372a3102c.html",
+    "taggar": [
+      "skatt",
+      "skatteverket"
+    ],
+    "relevans": {
+      "moms": 8,
+      "lokaler": 3,
+      "konsument": 8
+    }
+  },
+  {
     "id": "HD03299",
     "typ": "lagforslag",
     "titel": "Redovisning av fördelning av medel från Allmänna arvsfonden under budgetåret 2025",
