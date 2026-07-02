@@ -1,230 +1,89 @@
 {
-  "datum": "2026-07-01",
+  "datum": "2026-07-02",
   "stories": [
     {
-      "topic": "Trump gör miljardvinst på krypto",
+      "topic": "Trump har indviet sit \"flyvende palads\". Men selv fra egne rækker spreder kritikken sig",
       "ankare": [
-        "alaska",
-        "colorado",
+        "beijing",
+        "deputy",
         "donald",
-        "nearly",
-        "supreme",
-        "taiwan"
+        "flygplanet",
+        "iranian",
+        "israel",
+        "palestinian"
       ],
       "lander": [
         "CN",
-        "DE",
         "DK",
         "FI",
         "IN",
-        "NO",
-        "QA",
         "RU",
         "SE",
         "US"
       ],
-      "kallor": 17,
-      "antal": 27,
+      "kallor": 14,
+      "antal": 21,
       "propagandarisk": "medel",
       "faktabas": "medel",
       "jamfor_framing": true,
       "kallbild": {
-        "oberoende_agare": 14,
-        "statsfinansierat": [
-          "Al Jazeera",
-          "NRK",
-          "Yle (svenska)"
-        ],
+        "oberoende_agare": 13,
+        "statsfinansierat": [],
         "statskontrollerat": [
+          "CGTN",
           "Global Times",
           "RT",
-          "TASS"
+          "Xinhua"
         ]
       },
       "artiklar": [
         {
-          "kalla": "Dagens Nyheter",
-          "land": "SE",
+          "kalla": "Jyllands-Posten",
+          "land": "DK",
           "statskontroll": "oberoende",
-          "lutning": "oberoende liberal",
-          "titel_sv": "Trump gör miljardvinst på krypto",
-          "url": "https://www.dn.se/varlden/trump-gor-miljardvinst-pa-krypto/"
-        },
-        {
-          "kalla": "Svenska Dagbladet",
-          "land": "SE",
-          "statskontroll": "oberoende",
-          "lutning": "obunden moderat",
-          "titel_sv": "Iran möter medlare – Trump briefad om nya anfall",
-          "url": "https://www.svd.se/a/WvoG1Q/iran-moter-medlare-trump-briefad-om-nya-anfall"
-        },
-        {
-          "kalla": "NRK",
-          "land": "NO",
-          "statskontroll": "statsfinansierat",
-          "lutning": "mitten",
-          "titel_sv": "Trump tjente over 1 milliard dollar på krypto i fjor",
-          "url": "https://www.nrk.no/nyheter/trump-tjente-over-1-milliard-dollar-pa-krypto-i-fjor-1.17942879"
-        },
-        {
-          "kalla": "Aftenposten",
-          "land": "NO",
-          "statskontroll": "oberoende",
-          "lutning": "konservativ",
-          "titel_sv": "Tjente over 1 milliard dollar på krypto i fjor",
-          "url": "https://www.aftenposten.no/okonomi/i/0p36OB/trump-tjente-over-1-milliard-dollar-paa-krypto-i-fjor"
+          "lutning": "konservativ-liberal",
+          "titel_sv": "Trump har indviet sit \"flyvende palads\". Men selv fra egne rækker spreder kritikken sig",
+          "url": "https://jyllands-posten.dk/international/usa/ECE19445228/trump-har-indviet-sit-flyvende-palads-men-selv-fra-egne-raekker-spreder-kritikken-sig/"
         },
         {
           "kalla": "Jyllands-Posten",
           "land": "DK",
           "statskontroll": "oberoende",
           "lutning": "konservativ-liberal",
-          "titel_sv": "Nato holder (igen) vejret: Analyse: Trump tropper op i Ankara som tidsindstillet bombe",
-          "url": "https://jyllands-posten.dk/international/ECE19435822/nato-holder-igen-vejret-foer-trump-tropper-op-i-ankara/"
+          "titel_sv": "Timeløn på 200.000 kr.: På begge sider af Atlanten er toppolitik en fed forretning",
+          "url": "https://jyllands-posten.dk/international/ECE19442122/trump-og-farage-tordner-mod-den-politiske-elite-men-de-skovler-millioner-ind-paa-deres-status/"
         },
         {
-          "kalla": "Jyllands-Posten",
-          "land": "DK",
-          "statskontroll": "oberoende",
-          "lutning": "konservativ-liberal",
-          "titel_sv": "Nu er der ingen vej tilbage: Trump skal betale millioner for sit sexovergreb",
-          "url": "https://jyllands-posten.dk/international/ECE19438361/nu-er-der-ingen-vej-tilbage-trump-skal-betale-millioner-for-sexovergreb/"
-        },
-        {
-          "kalla": "Børsen",
-          "land": "DK",
-          "statskontroll": "oberoende",
-          "lutning": "näringslivsvänlig",
-          "titel_sv": "Trump tjente mere end 1 mia. dollar på kryptovaluta i 2025",
-          "url": "https://borsen.dk/nyheder/udland/trump-tjente-mere-end-1-mia-dollar-pa-kryptovaluta-i-2025"
-        },
-        {
-          "kalla": "Yle (svenska)",
-          "land": "FI",
-          "statskontroll": "statsfinansierat",
-          "lutning": "mitten",
-          "titel_sv": "Trump har tjänat över två miljarder efter returen till Vita huset",
-          "url": "https://yle.fi/a/7-10101437?origin=rss"
-        },
-        {
-          "kalla": "FAZ",
-          "land": "DE",
-          "statskontroll": "oberoende",
-          "lutning": "konservativ-liberal",
-          "titel_sv": "USA unter Trump: Trump verdient mehr als eine Milliarde mit Krypto-Geschäften",
-          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-krypto-geschaefte-bringen-trump-ueber-eine-milliarde-ein-faz-19444916.html"
-        },
-        {
-          "kalla": "NPR",
-          "land": "US",
-          "statskontroll": "oberoende",
-          "lutning": "mitten/center-vänster",
-          "titel_sv": "What the Supreme Court did on the final day of its term",
-          "url": "https://www.npr.org/2026/06/30/nx-s1-5876238/the-biggest-news-from-the-final-day-of-this-supreme-court-term"
-        },
-        {
-          "kalla": "NPR",
-          "land": "US",
-          "statskontroll": "oberoende",
-          "lutning": "mitten/center-vänster",
-          "titel_sv": "NPR discusses error in reporting on the last day of the Supreme Court term",
-          "url": "https://www.npr.org/2026/06/30/nx-s1-5876268/npr-discusses-error-in-reporting-on-the-last-day-of-the-supreme-court-term"
-        },
-        {
-          "kalla": "NPR",
-          "land": "US",
-          "statskontroll": "oberoende",
-          "lutning": "mitten/center-vänster",
-          "titel_sv": "Law professor discusses Supreme Court's final rulings this term",
-          "url": "https://www.npr.org/2026/06/30/nx-s1-5876109/law-professor-discusses-supreme-courts-final-rulings-this-term"
-        },
-        {
-          "kalla": "Al Jazeera",
-          "land": "QA",
-          "statskontroll": "statsfinansierat",
-          "lutning": "statsfinansierad (Global South-vinkel)",
-          "titel_sv": "Why is MAGA in meltdown over the Supreme Court birthright ruling?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/why-is-maga-in-meltdown-over-the-supreme-court-birthright-ruling-2?traffic_source=rss"
-        },
-        {
-          "kalla": "Al Jazeera",
-          "land": "QA",
-          "statskontroll": "statsfinansierat",
-          "lutning": "statsfinansierad (Global South-vinkel)",
-          "titel_sv": "Supreme Court’s divided ruling on birthright citizenship may be revisited",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/supreme-courts-divided-ruling-on-birthright-citizenship-may-be-revisited?traffic_source=rss"
-        },
-        {
-          "kalla": "RT",
-          "land": "RU",
+          "kalla": "CGTN",
+          "land": "CN",
           "statskontroll": "statskontrollerat",
-          "lutning": "statlig (desinformationsrisk)",
-          "titel_sv": "Supreme Court strikes down Trump’s birthright citizenship order",
-          "url": "https://www.rt.com/news/642419-supreme-court-trump-birthright-citizenship/?utm_source=rss&utm_medium=rss&utm_campaign=RSS"
+          "lutning": "statlig partilinje",
+          "titel_sv": "Trump says Iran requested a meeting in Doha on Tuesday, Iran denies",
+          "url": "https://news.cgtn.com/news/2026-06-29/news-1OnhmSQ2aPe/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World"
         },
         {
-          "kalla": "RT",
-          "land": "RU",
-          "statskontroll": "statskontrollerat",
-          "lutning": "statlig (desinformationsrisk)",
-          "titel_sv": "US Supreme Court upholds transgender bans in female sports",
-          "url": "https://www.rt.com/news/642414-supreme-court-transgender-ban/?utm_source=rss&utm_medium=rss&utm_campaign=RSS"
+          "kalla": "The Hindu",
+          "land": "IN",
+          "statskontroll": "oberoende",
+          "lutning": "center-vänster",
+          "titel_sv": "U.S. and Iran enter technical talks to secure peace deal, restart shipping",
+          "url": "https://www.thehindu.com/news/international/us-and-iran-enter-technical-talks-to-secure-peace-deal-restart-shipping/article71171539.ece"
         },
         {
           "kalla": "NDTV",
           "land": "IN",
           "statskontroll": "oberoende",
           "lutning": "regeringsnära (Adani-ägd)",
-          "titel_sv": "'Can Bring In Legislation': Trump On Supreme Court's Citizenship Ruling",
-          "url": "https://www.ndtv.com/world-news/can-bring-in-legislation-trump-on-supreme-courts-citizenship-ruling-11709280#publisher=newsstand"
+          "titel_sv": "Trump's First Flight On $400 Million Qatari-Gifted Air Force One",
+          "url": "https://www.ndtv.com/world-news/president-donald-trump-takes-first-flight-on-400-million-qatari-gifted-air-force-one-11715688#publisher=newsstand"
         },
         {
-          "kalla": "Fox News",
-          "land": "US",
-          "statskontroll": "oberoende",
-          "lutning": "höger",
-          "titel_sv": "Socialism goes west as DSA-backed challenger ousts longtime Democrat",
-          "url": "https://www.foxnews.com/politics/socialism-goes-west-dsa-backed-challenger-ousts-longtime-democrat"
-        },
-        {
-          "kalla": "Fox News",
-          "land": "US",
-          "statskontroll": "oberoende",
-          "lutning": "höger",
-          "titel_sv": "Anti-Trump senator defeated by far-left rival after heated gubernatorial primary",
-          "url": "https://www.foxnews.com/politics/anti-trump-senator-defeated-far-left-rival-after-heated-dem-primary"
-        },
-        {
-          "kalla": "Fox News",
-          "land": "US",
-          "statskontroll": "oberoende",
-          "lutning": "höger",
-          "titel_sv": "Mamdani comparisons follow Colorado Democrat into pivotal House race after primary win",
-          "url": "https://www.foxnews.com/politics/mamdani-comparisons-follow-colorado-democrat-pivotal-house-race-primary-win"
-        },
-        {
-          "kalla": "Al Jazeera",
-          "land": "QA",
-          "statskontroll": "statsfinansierat",
-          "lutning": "statsfinansierad (Global South-vinkel)",
-          "titel_sv": "Democratic socialist Kiros defeats longtime incumbent in Colorado primary",
-          "url": "https://www.aljazeera.com/news/2026/7/1/democratic-socialist-kiros-defeats-longtime-incumbent-in-colorado-primary?traffic_source=rss"
-        },
-        {
-          "kalla": "Washington Post",
+          "kalla": "CNN",
           "land": "US",
           "statskontroll": "oberoende",
           "lutning": "center-vänster",
-          "titel_sv": "As war stalls, Putin concedes he never cut a deal with Trump in Alaska",
-          "url": "https://www.washingtonpost.com/world/2026/06/30/war-stalls-putin-concedes-he-never-cut-deal-with-trump-alaska/"
-        },
-        {
-          "kalla": "RT",
-          "land": "RU",
-          "statskontroll": "statskontrollerat",
-          "lutning": "statlig (desinformationsrisk)",
-          "titel_sv": "Why the Alaska understandings no longer matter",
-          "url": "https://www.rt.com/news/642413-alaska-understandings-rubio-lavrov/?utm_source=rss&utm_medium=rss&utm_campaign=RSS"
+          "titel_sv": "Suspected Chinese spy balloon was able to transmit information back to Beijing",
+          "url": "https://www.cnn.com/2023/04/03/politics/chinese-spy-balloon/index.html"
         },
         {
           "kalla": "CNN",
@@ -235,319 +94,29 @@
           "url": "https://www.cnn.com/2023/04/04/asia/tsai-ing-wen-taiwan-mccarthy-meeting-analysis-intl-hnk/index.html"
         },
         {
-          "kalla": "TASS",
-          "land": "RU",
-          "statskontroll": "statskontrollerat",
-          "lutning": "statlig partilinje",
-          "titel_sv": "Xi Jinping calls reunification with Taiwan Chinese Communist Party’s ‘historic mission’",
-          "url": "https://tass.com/world/2153795"
-        },
-        {
           "kalla": "Global Times",
           "land": "CN",
           "statskontroll": "statskontrollerat",
           "lutning": "statlig (nationalistisk)",
-          "titel_sv": "Nearly 4.9 million visits from Taiwan to mainland in 2025 with one-third made by young people: CPPCC member",
-          "url": "https://www.globaltimes.cn/page/202603/1356809.shtml"
+          "titel_sv": "China to introduce new train timetable from July 1, including high-speed train service between Beijing and Urumqi",
+          "url": "https://www.globaltimes.cn/page/202606/1363810.shtml"
         },
         {
-          "kalla": "NDTV",
+          "kalla": "Times of India",
           "land": "IN",
           "statskontroll": "oberoende",
-          "lutning": "regeringsnära (Adani-ägd)",
-          "titel_sv": "Trump Earned Nearly $1.2 Billion From Crypto Businesses Last Year",
-          "url": "https://www.ndtv.com/world-news/trump-filing-shows-he-took-in-about-1-2-billion-from-crypto-business-last-year-11710060#publisher=newsstand"
-        }
-      ],
-      "topic_i18n": {}
-    },
-    {
-      "topic": "WHO varnar för smitta – efter dödsskalven",
-      "ankare": [
-        "venezuela"
-      ],
-      "lander": [
-        "BR",
-        "CN",
-        "DK",
-        "IN",
-        "RU",
-        "SE",
-        "US"
-      ],
-      "kallor": 10,
-      "antal": 17,
-      "propagandarisk": "medel",
-      "faktabas": "medel",
-      "jamfor_framing": true,
-      "kallbild": {
-        "oberoende_agare": 10,
-        "statsfinansierat": [
-          "DR"
-        ],
-        "statskontrollerat": [
-          "CGTN",
-          "TASS"
-        ]
-      },
-      "artiklar": [
-        {
-          "kalla": "Expressen",
-          "land": "SE",
-          "statskontroll": "oberoende",
-          "lutning": "oberoende liberal",
-          "titel_sv": "WHO varnar för smitta – efter dödsskalven",
-          "url": "https://www.expressen.se/nyheter/varlden/who-varnar-for-smitta-efter-dodsskalven/"
-        },
-        {
-          "kalla": "DR",
-          "land": "DK",
-          "statskontroll": "statsfinansierat",
-          "lutning": "mitten",
-          "titel_sv": "Dødstal efter jordskælv i Venezuela stiger til næsten 2.000, mens antallet af sårede er næsten fordoblet",
-          "url": "https://www.dr.dk/nyheder/seneste/doedstal-efter-jordskaelv-i-venezuela-stiger-til-naesten-2-000-mens-antallet-af-saarede-er-naesten"
-        },
-        {
-          "kalla": "Politiken",
-          "land": "DK",
-          "statskontroll": "oberoende",
-          "lutning": "center-vänster (social-liberal)",
-          "titel_sv": "De finder stadig overlevende i Venezuela, men håbet svinder hurtigt",
-          "url": "https://politiken.dk/internationalt/art10900650/De-finder-stadig-overlevende-i-Venezuela-men-h%C3%A5bet-svinder-hurtigt"
-        },
-        {
-          "kalla": "New York Times",
-          "land": "US",
-          "statskontroll": "oberoende",
-          "lutning": "center-vänster",
-          "titel_sv": "The Hidden Dead: The True Toll in Venezuela Is Buried Under Rubble",
-          "url": "https://www.nytimes.com/2026/06/30/world/americas/venezuela-earthquake-death-toll.html"
-        },
-        {
-          "kalla": "New York Times",
-          "land": "US",
-          "statskontroll": "oberoende",
-          "lutning": "center-vänster",
-          "titel_sv": "Shortages of Rescue Equipment Hampered Venezuela’s Earthquake Response",
-          "url": "https://www.nytimes.com/2026/06/30/world/americas/venezuela-earthquake-rescue-equipment-aid.html"
-        },
-        {
-          "kalla": "CGTN",
-          "land": "CN",
-          "statskontroll": "statskontrollerat",
-          "lutning": "statlig partilinje",
-          "titel_sv": "Experts explain cause of Venezuela's two consecutive earthquakes",
-          "url": "https://news.cgtn.com/news/2026-06-28/Experts-explain-cause-of-Venezuela-s-two-consecutive-earthquakes-1OlK6oUuses/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World"
-        },
-        {
-          "kalla": "G1 (Globo)",
-          "land": "BR",
-          "statskontroll": "oberoende",
-          "lutning": "mitten",
-          "titel_sv": "Venezuela: o terremoto e a crise generalizada - O Assunto #1751",
-          "url": "https://g1.globo.com/podcast/o-assunto/noticia/2026/07/01/venezuela-o-terremoto-e-a-crise-generalizada-o-assunto-1751.ghtml"
-        },
-        {
-          "kalla": "G1 (Globo)",
-          "land": "BR",
-          "statskontroll": "oberoende",
-          "lutning": "mitten",
-          "titel_sv": "Grupos de ajuda humanitária alertam para colapso do sistema de saúde da Venezuela após terremoto",
-          "url": "https://g1.globo.com/mundo/noticia/2026/07/01/grupos-de-ajuda-humanitaria-alertam-para-colapso-do-sistema-de-saude-da-venezuela-apos-terremoto.ghtml"
-        },
-        {
-          "kalla": "G1 (Globo)",
-          "land": "BR",
-          "statskontroll": "oberoende",
-          "lutning": "mitten",
-          "titel_sv": "Terremoto na Venezuela: número de mortos sobe para 1.943",
-          "url": "https://g1.globo.com/mundo/noticia/2026/06/30/terremoto-na-venezuela-numero-de-mortos-sobe-para-1943.ghtml"
-        },
-        {
-          "kalla": "Folha de S.Paulo",
-          "land": "BR",
-          "statskontroll": "oberoende",
-          "lutning": "center",
-          "titel_sv": "Criança de três anos é resgatada de escombros no sexto dia de operações após terremotos na Venezuela",
-          "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/06/crianca-de-tres-anos-e-resgatada-de-escombros-no-sexto-dia-de-operacoes-apos-terremotos-na-venezuela.shtml"
-        },
-        {
-          "kalla": "Folha de S.Paulo",
-          "land": "BR",
-          "statskontroll": "oberoende",
-          "lutning": "center",
-          "titel_sv": "Sobe para 1.943 o número de mortos confirmados em terremotos na Venezuela",
-          "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/06/sobe-para-1943-o-numero-de-mortos-confirmados-em-terremotos-na-venezuela.shtml"
-        },
-        {
-          "kalla": "Folha de S.Paulo",
-          "land": "BR",
-          "statskontroll": "oberoende",
-          "lutning": "center",
-          "titel_sv": "Celulares Android podem ajudar a prever terremoto?",
-          "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/06/celulares-android-podem-ajudar-a-prever-terremoto.shtml"
-        },
-        {
-          "kalla": "Folha de S.Paulo",
-          "land": "BR",
-          "statskontroll": "oberoende",
-          "lutning": "center",
-          "titel_sv": "Em declaração, Mercosul manifesta solidariedade à Venezuela após terremoto",
-          "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/06/lula-pede-um-minuto-de-silencio-para-vitimas-de-venezuela-em-cupula-do-mercosul.shtml"
-        },
-        {
-          "kalla": "TASS",
-          "land": "RU",
-          "statskontroll": "statskontrollerat",
-          "lutning": "statlig partilinje",
-          "titel_sv": "Several people still alive under rubble in Venezuela after earthquake — TV",
-          "url": "https://tass.com/emergencies/2153801"
-        },
-        {
-          "kalla": "The Hindu",
-          "land": "IN",
-          "statskontroll": "oberoende",
-          "lutning": "center-vänster",
-          "titel_sv": "WHO sounds alarm on disease outbreaks in quake-hit Venezuela",
-          "url": "https://www.thehindu.com/news/international/who-sounds-alarm-on-disease-outbreaks-in-quake-hit-venezuela/article71167071.ece"
-        },
-        {
-          "kalla": "The Hindu",
-          "land": "IN",
-          "statskontroll": "oberoende",
-          "lutning": "center-vänster",
-          "titel_sv": "Venezuela quake deaths rise to 1,943, lawmaker says",
-          "url": "https://www.thehindu.com/news/international/venezuela-earthquakes-death-toll-nearly-touches-2000-as-healthcare-system-nears-its-limit/article71167382.ece"
-        },
-        {
-          "kalla": "NDTV",
-          "land": "IN",
-          "statskontroll": "oberoende",
-          "lutning": "regeringsnära (Adani-ägd)",
-          "titel_sv": "3-Year-Old Rescued From Collapsed Building 6 Days After Venezuela Quakes",
-          "url": "https://www.ndtv.com/world-news/3-year-old-rescued-from-collapsed-building-6-days-after-venezuela-quakes-11709957#publisher=newsstand"
-        }
-      ],
-      "topic_i18n": {}
-    },
-    {
-      "topic": "Anti-immigration protesters march in South Africa, as some immigrants leave the country",
-      "ankare": [
-        "bosnia",
-        "tuesday"
-      ],
-      "lander": [
-        "CN",
-        "IN",
-        "QA",
-        "RU",
-        "US"
-      ],
-      "kallor": 6,
-      "antal": 7,
-      "propagandarisk": "medel",
-      "faktabas": "hög",
-      "jamfor_framing": true,
-      "kallbild": {
-        "oberoende_agare": 6,
-        "statsfinansierat": [
-          "Al Jazeera"
-        ],
-        "statskontrollerat": [
-          "CGTN",
-          "RT"
-        ]
-      },
-      "artiklar": [
-        {
-          "kalla": "AP",
-          "land": "US",
-          "statskontroll": "oberoende",
-          "lutning": "nyhetsbyrå (faktabas)",
-          "titel_sv": "Anti-immigration protesters march in South Africa, as some immigrants leave the country",
-          "url": "https://apnews.com/article/south-africa-illegal-immigration-protests-deadline-0ba4b5c3e797e0ac018f9e3f06101c34"
-        },
-        {
-          "kalla": "CGTN",
-          "land": "CN",
-          "statskontroll": "statskontrollerat",
-          "lutning": "statlig partilinje",
-          "titel_sv": "UN relief chief sounds alarm over escalation in Sudan's North Kordofan",
-          "url": "https://news.cgtn.com/news/2026-07-01/UN-relief-chief-sounds-alarm-over-escalation-in-Sudan-s-North-Kordofan-1OpOK8M1uSY/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World"
-        },
-        {
-          "kalla": "RT",
-          "land": "RU",
-          "statskontroll": "statskontrollerat",
-          "lutning": "statlig (desinformationsrisk)",
-          "titel_sv": "Train crash triggers HAZMAT response in US (VIDEOS)",
-          "url": "https://www.rt.com/news/642422-train-crash-hazmat-pennsylvania/?utm_source=rss&utm_medium=rss&utm_campaign=RSS"
-        },
-        {
-          "kalla": "NDTV",
-          "land": "IN",
-          "statskontroll": "oberoende",
-          "lutning": "regeringsnära (Adani-ägd)",
-          "titel_sv": "World Bank To Phase Out Lending To China By 2031",
-          "url": "https://www.ndtv.com/world-news/world-bank-to-phase-out-lending-to-china-by-2031-11710162#publisher=newsstand"
+          "lutning": "mainstream/etablissemang",
+          "titel_sv": "'China trying to take over': Trump calls giving away Panama Canal 'stupid mistake'",
+          "url": "https://timesofindia.indiatimes.com/world/us/china-trying-to-take-over-trump-calls-giving-away-panama-canal-stupid-mistake/articleshow/132126951.cms"
         },
         {
           "kalla": "AP",
           "land": "US",
           "statskontroll": "oberoende",
           "lutning": "nyhetsbyrå (faktabas)",
-          "titel_sv": "World Cup what to know: US looks to win first knockout match in 24 years against Bosnia-Herzegovina",
-          "url": "https://apnews.com/article/world-cup-schedule-results-news-81645977a722c4020c9644d17589bdbb"
+          "titel_sv": "Palestinians face uncertain future as Gaza marks 1,000 days of war",
+          "url": "https://apnews.com/article/gaza-palestinian-israel-thousand-days-war-ceasefire-f81c32c32a96cd7dd7952ef9b70b06b3"
         },
-        {
-          "kalla": "NPR",
-          "land": "US",
-          "statskontroll": "oberoende",
-          "lutning": "mitten/center-vänster",
-          "titel_sv": "Win or go home: The U.S. to face Bosnia and Herzegovina in World Cup knockout game",
-          "url": "https://www.npr.org/2026/07/01/nx-s1-5876418/2026-world-cup-fifa-usmnt-bosnia-herzegovina-round-of-32"
-        },
-        {
-          "kalla": "Al Jazeera",
-          "land": "QA",
-          "statskontroll": "statsfinansierat",
-          "lutning": "statsfinansierad (Global South-vinkel)",
-          "titel_sv": "USA face Bosnia in World Cup knockouts, with pride, credentials on the line",
-          "url": "https://www.aljazeera.com/sports/2026/7/1/usa-face-bosnia-in-world-cup-knockouts-with-pride-credentials-on-the-line?traffic_source=rss"
-        }
-      ],
-      "topic_i18n": {}
-    },
-    {
-      "topic": "Palestinians Stream Back to Northern Gaza on Foot",
-      "ankare": [
-        "israel",
-        "israeli",
-        "palestinian"
-      ],
-      "lander": [
-        "CN",
-        "IN",
-        "QA",
-        "RU",
-        "US"
-      ],
-      "kallor": 5,
-      "antal": 6,
-      "propagandarisk": "medel",
-      "faktabas": "hög",
-      "jamfor_framing": true,
-      "kallbild": {
-        "oberoende_agare": 5,
-        "statsfinansierat": [
-          "Al Jazeera"
-        ],
-        "statskontrollerat": [
-          "RT",
-          "Xinhua"
-        ]
-      },
-      "artiklar": [
         {
           "kalla": "Xinhua",
           "land": "CN",
@@ -557,73 +126,136 @@
           "url": "http://www.xinhuanet.com/english/world/2018-01/24/c_136919909.htm"
         },
         {
-          "kalla": "Al Jazeera",
-          "land": "QA",
-          "statskontroll": "statsfinansierat",
-          "lutning": "statsfinansierad (Global South-vinkel)",
-          "titel_sv": "UN chief fears for ‘millions’ of Palestinians amid UNRWA funding shortfall",
-          "url": "https://www.aljazeera.com/news/2026/7/1/un-chief-fears-for-millions-of-palestinians-amid-unrwa-funding-shortfall?traffic_source=rss"
-        },
-        {
-          "kalla": "Wall Street Journal",
-          "land": "US",
-          "statskontroll": "oberoende",
-          "lutning": "center-höger / näringsliv",
-          "titel_sv": "Palestinians Stream Back to Northern Gaza on Foot",
-          "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-        },
-        {
-          "kalla": "RT",
-          "land": "RU",
-          "statskontroll": "statskontrollerat",
-          "lutning": "statlig (desinformationsrisk)",
-          "titel_sv": "One killed in car bombing in Israel (VIDEOS)",
-          "url": "https://www.rt.com/news/642415-one-killed-car-bombing-israel/?utm_source=rss&utm_medium=rss&utm_campaign=RSS"
-        },
-        {
-          "kalla": "RT",
-          "land": "RU",
-          "statskontroll": "statskontrollerat",
-          "lutning": "statlig (desinformationsrisk)",
-          "titel_sv": "Iran emerged ‘stronger’ from war – geopolitical analyst",
-          "url": "https://www.rt.com/news/642418-iran-stronger-us-israel-war/?utm_source=rss&utm_medium=rss&utm_campaign=RSS"
-        },
-        {
-          "kalla": "NDTV",
+          "kalla": "The Hindu",
           "land": "IN",
           "statskontroll": "oberoende",
-          "lutning": "regeringsnära (Adani-ägd)",
-          "titel_sv": "\"Microsoft Powered Genocide\": Employee Resigns, Sends Mass Email",
-          "url": "https://www.ndtv.com/world-news/microsoft-powered-genocide-employee-resigns-sends-mass-email-11710675#publisher=newsstand"
+          "lutning": "center-vänster",
+          "titel_sv": "Around 2% of Gaza’s child population killed by Israeli security forces : UN report",
+          "url": "https://www.thehindu.com/data/around-2-of-gazas-child-population-killed-by-israeli-security-forces-un-report/article71167425.ece"
+        },
+        {
+          "kalla": "Aftonbladet",
+          "land": "SE",
+          "statskontroll": "oberoende",
+          "lutning": "oberoende socialdemokratisk",
+          "titel_sv": "Trumps kontroversiella nya flygplan invigt",
+          "url": "https://www.aftonbladet.se/nyheter/a/XMWVmx/trumps-kontroversiella-nya-flygplan-invigt?utm_medium=rss"
+        },
+        {
+          "kalla": "Dagens Industri",
+          "land": "SE",
+          "statskontroll": "oberoende",
+          "lutning": "näringslivsvänlig",
+          "titel_sv": "Trumps kontroversiella nya flygplan invigt",
+          "url": "https://www.di.se/nyheter/trumps-kontroversiella-nya-flygplan-invigt/"
+        },
+        {
+          "kalla": "Hufvudstadsbladet",
+          "land": "FI",
+          "statskontroll": "oberoende",
+          "lutning": "liberal",
+          "titel_sv": "Trumps kontroversiella nya flygplan invigt",
+          "url": "https://www.hbl.fi/varlden/trumps-kontroversiella-nya-flygplan-invigt/"
+        },
+        {
+          "kalla": "Xinhua",
+          "land": "CN",
+          "statskontroll": "statskontrollerat",
+          "lutning": "statlig partilinje",
+          "titel_sv": "U.S. failure to appoint Australian ambassador \"diplomatic insult\": former deputy PM",
+          "url": "http://www.xinhuanet.com/english/2018-01/03/c_136868968.htm"
+        },
+        {
+          "kalla": "The Hindu",
+          "land": "IN",
+          "statskontroll": "oberoende",
+          "lutning": "center-vänster",
+          "titel_sv": "West Asia war LIVE: Iran says talks in Qatar on implementing MoU with U.S. have concluded",
+          "url": "https://www.thehindu.com/news/international/us-iran-deal-strikes-live-updates-july-2-2026-trump-israel-west-asia-war/article71172891.ece"
+        },
+        {
+          "kalla": "NPR",
+          "land": "US",
+          "statskontroll": "oberoende",
+          "lutning": "mitten/center-vänster",
+          "titel_sv": "U.S. and Iran hold separate meetings in Qatar and agree to continue discussions",
+          "url": "https://www.npr.org/2026/07/02/nx-s1-5878887/us-iran-meetings-qatar"
+        },
+        {
+          "kalla": "The Hindu",
+          "land": "IN",
+          "statskontroll": "oberoende",
+          "lutning": "center-vänster",
+          "titel_sv": "West Asia war updates: U.S. had 'very good' meetings with Iran in Doha, Trump says",
+          "url": "https://www.thehindu.com/news/international/us-iran-deal-strikes-live-updates-july-1-2026-trump-israel-west-asia-war/article71168436.ece"
+        },
+        {
+          "kalla": "AP",
+          "land": "US",
+          "statskontroll": "oberoende",
+          "lutning": "nyhetsbyrå (faktabas)",
+          "titel_sv": "The Onion’s new parody of Alex Jones’ Infowars starts with $100,000 to Sandy Hook families",
+          "url": "https://apnews.com/article/infowars-alex-jones-newtown-shooting-onion-e38e5447435e6dc117e1ce996a58ac5c"
+        },
+        {
+          "kalla": "RT",
+          "land": "RU",
+          "statskontroll": "statskontrollerat",
+          "lutning": "statlig (desinformationsrisk)",
+          "titel_sv": "Israel to occupy parts of Gaza, Lebanon and Syria indefinitely – defense minister",
+          "url": "https://www.rt.com/news/642456-israel-troops-occupied-territories-lebanon/?utm_source=rss&utm_medium=rss&utm_campaign=RSS"
         }
       ],
       "topic_i18n": {}
     },
     {
-      "topic": "Video shows moment of deadly explosion at cafe in Russia",
+      "topic": "Russian missiles and drones kill 11 and cause damage across Ukraine capital",
       "ankare": [
-        "russia",
-        "ukrainian"
+        "russian",
+        "stream",
+        "vladimir",
+        "zelensky"
       ],
       "lander": [
+        "DE",
         "IN",
+        "NO",
+        "QA",
         "RU",
         "US"
       ],
-      "kallor": 5,
-      "antal": 5,
-      "propagandarisk": "hög",
+      "kallor": 10,
+      "antal": 16,
+      "propagandarisk": "medel",
       "faktabas": "medel",
       "jamfor_framing": true,
       "kallbild": {
-        "oberoende_agare": 4,
-        "statsfinansierat": [],
+        "oberoende_agare": 9,
+        "statsfinansierat": [
+          "Al Jazeera"
+        ],
         "statskontrollerat": [
           "RT",
           "TASS"
         ]
       },
       "artiklar": [
+        {
+          "kalla": "NPR",
+          "land": "US",
+          "statskontroll": "oberoende",
+          "lutning": "mitten/center-vänster",
+          "titel_sv": "Russian missiles and drones kill 11 and cause damage across Ukraine capital",
+          "url": "https://www.npr.org/2026/07/02/g-s1-131681/russian-attack-ukraine"
+        },
+        {
+          "kalla": "CNN",
+          "land": "US",
+          "statskontroll": "oberoende",
+          "lutning": "center-vänster",
+          "titel_sv": "Russian authorities detain suspect over St. Petersburg cafe blast",
+          "url": "https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-04-03-23/index.html"
+        },
         {
           "kalla": "CNN",
           "land": "US",
@@ -633,309 +265,551 @@
           "url": "https://www.cnn.com/videos/world/2023/04/02/russian-military-blogger-vladlen-tatarsky-killed-cafe-explosion-chance-vpx.cnn"
         },
         {
-          "kalla": "RT",
+          "kalla": "TASS",
           "land": "RU",
           "statskontroll": "statskontrollerat",
-          "lutning": "statlig (desinformationsrisk)",
-          "titel_sv": "Leader of Germany’s most popular party wants to restore ties with Russia",
-          "url": "https://www.rt.com/news/642417-germany-party-restore-ties-russia/?utm_source=rss&utm_medium=rss&utm_campaign=RSS"
+          "lutning": "statlig partilinje",
+          "titel_sv": "Russian forces deliver retaliatory massive strike on Ukraine — top brass",
+          "url": "https://tass.com/defense/2154227"
         },
         {
           "kalla": "TASS",
           "land": "RU",
           "statskontroll": "statskontrollerat",
           "lutning": "statlig partilinje",
-          "titel_sv": "Russian-Finland agreement on double taxation avoidance suspended as of July 1",
-          "url": "https://tass.com/economy/2153779"
-        },
-        {
-          "kalla": "AP",
-          "land": "US",
-          "statskontroll": "oberoende",
-          "lutning": "nyhetsbyrå (faktabas)",
-          "titel_sv": "Ukrainian drone attacks on oil refineries plunge Russia into a summer fuel crisis",
-          "url": "https://apnews.com/article/russia-ukraine-war-fuel-crisis-gas-ec7e67f94ead8bf3ba064c785c2a8871"
+          "titel_sv": "US stance regarding Ukraine limited by shifts in rhetoric so far — Russian senator",
+          "url": "https://tass.com/politics/2154215"
         },
         {
           "kalla": "The Hindu",
           "land": "IN",
           "statskontroll": "oberoende",
           "lutning": "center-vänster",
-          "titel_sv": "Ukrainian drone attacks on oil refineries plunge Russia into a summer fuel crisis",
-          "url": "https://www.thehindu.com/news/international/ukrainian-drone-attacks-on-oil-refineries-plunge-russia-into-a-summer-fuel-crisis/article71168818.ece"
-        }
-      ],
-      "topic_i18n": {}
-    },
-    {
-      "topic": "Boy, 2, pulled alive from rubble six days after Venezuela's devastating twin earthquakes",
-      "ankare": [
-        "guaira"
-      ],
-      "lander": [
-        "BR",
-        "US"
-      ],
-      "kallor": 3,
-      "antal": 4,
-      "propagandarisk": "medel",
-      "faktabas": "medel",
-      "jamfor_framing": false,
-      "kallbild": {
-        "oberoende_agare": 3,
-        "statsfinansierat": [],
-        "statskontrollerat": []
-      },
-      "artiklar": [
-        {
-          "kalla": "Fox News",
-          "land": "US",
-          "statskontroll": "oberoende",
-          "lutning": "höger",
-          "titel_sv": "Boy, 2, pulled alive from rubble six days after Venezuela's devastating twin earthquakes",
-          "url": "https://www.foxnews.com/world/boy-2-pulled-alive-from-rubble-six-days-after-venezuelas-devastating-twin-earthquakes"
-        },
-        {
-          "kalla": "G1 (Globo)",
-          "land": "BR",
-          "statskontroll": "oberoende",
-          "lutning": "mitten",
-          "titel_sv": "'Arquitetura chavista' pode ter agravado danos de terremotos na Venezuela",
-          "url": "https://g1.globo.com/mundo/noticia/2026/07/01/arquitetura-chavista-pode-ter-agravado-danos-de-terremotos-na-venezuela.ghtml"
-        },
-        {
-          "kalla": "G1 (Globo)",
-          "land": "BR",
-          "statskontroll": "oberoende",
-          "lutning": "mitten",
-          "titel_sv": "Respirar sem se desesperar: mulher conta como sobreviveu por 48 horas sob os escombros na Venezuela",
-          "url": "https://g1.globo.com/mundo/noticia/2026/07/01/respirar-sem-se-desesperar-mulher-conta-como-sobreviveu-por-48-horas-sob-os-escombros-na-venezuela.ghtml"
-        },
-        {
-          "kalla": "Folha de S.Paulo",
-          "land": "BR",
-          "statskontroll": "oberoende",
-          "lutning": "center",
-          "titel_sv": "Brasil opera hospital com centro cirúrgico no epicentro da crise na Venezuela",
-          "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/06/brasil-opera-hospital-com-centro-cirurgico-no-epicentro-da-crise-na-venezuela.shtml"
-        }
-      ],
-      "topic_i18n": {}
-    },
-    {
-      "topic": "USA fjerner Anthropics KI-begrensninger",
-      "ankare": [
-        "anthropic"
-      ],
-      "lander": [
-        "IN",
-        "NO"
-      ],
-      "kallor": 3,
-      "antal": 3,
-      "propagandarisk": "medel",
-      "faktabas": "medel",
-      "jamfor_framing": false,
-      "kallbild": {
-        "oberoende_agare": 3,
-        "statsfinansierat": [],
-        "statskontrollerat": []
-      },
-      "artiklar": [
-        {
-          "kalla": "Aftenposten",
-          "land": "NO",
-          "statskontroll": "oberoende",
-          "lutning": "konservativ",
-          "titel_sv": "USA fjerner Anthropics KI-begrensninger",
-          "url": "https://www.aftenposten.no/verden/i/d4qWrq/usa-fjerner-anthropics-ki-begrensninger"
+          "titel_sv": "Russian missiles and drones kill eight and cause damage across Ukraine capital",
+          "url": "https://www.thehindu.com/news/international/russia-strikes-ukraine-capital-with-missiles-and-drones/article71172816.ece"
         },
         {
           "kalla": "The Hindu",
           "land": "IN",
           "statskontroll": "oberoende",
           "lutning": "center-vänster",
-          "titel_sv": "U.S. government lifts restrictions on powerful AI models, Anthropic says",
-          "url": "https://www.thehindu.com/sci-tech/technology/us-government-lifts-restrictions-on-powerful-ai-models-anthropic-says/article71168442.ece"
+          "titel_sv": "Zelenskyy condemns ’horrific attacks’ as Russian strikes kill 8, wound 35 in Ukraine",
+          "url": "https://www.thehindu.com/news/international/russia-attack-on-ukraine-updates-june-29-2026/article71161727.ece"
+        },
+        {
+          "kalla": "Times of India",
+          "land": "IN",
+          "statskontroll": "oberoende",
+          "lutning": "mainstream/etablissemang",
+          "titel_sv": "Watch: 9-storey Kyiv apartment building partially collapses after Russian attack; residents trapped",
+          "url": "https://timesofindia.indiatimes.com/world/europe/watch-9-storey-kyiv-apartment-building-partially-collapses-after-russian-attack-residents-trapped/articleshow/132127343.cms"
+        },
+        {
+          "kalla": "FAZ",
+          "land": "DE",
+          "statskontroll": "oberoende",
+          "lutning": "konservativ-liberal",
+          "titel_sv": "Liveblog Ukrainekrieg: Russland fliegt heftige Luftangriffe – Tote und Verletzte in Kiew",
+          "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-erste-anklage-wegen-nord-stream-sabotage-faz-110683325.html"
+        },
+        {
+          "kalla": "Al Jazeera",
+          "land": "QA",
+          "statskontroll": "statsfinansierat",
+          "lutning": "statsfinansierad (Global South-vinkel)",
+          "titel_sv": "German prosecutors charge Ukrainian suspect over Nord Stream explosions",
+          "url": "https://www.aljazeera.com/news/2026/7/2/german-prosecutors-charge-ukrainian-suspect-over-nord-stream-explosions?traffic_source=rss"
+        },
+        {
+          "kalla": "RT",
+          "land": "RU",
+          "statskontroll": "statskontrollerat",
+          "lutning": "statlig (desinformationsrisk)",
+          "titel_sv": "Germany now treats Nord Stream attack as ‘war crime’ – media",
+          "url": "https://www.rt.com/news/642457-nord-stream-war-crime/?utm_source=rss&utm_medium=rss&utm_campaign=RSS"
+        },
+        {
+          "kalla": "RT",
+          "land": "RU",
+          "statskontroll": "statskontrollerat",
+          "lutning": "statlig (desinformationsrisk)",
+          "titel_sv": "Bombed Ukrainian oligarch could expose Kiev’s corruption – former French spy",
+          "url": "https://www.rt.com/news/642470-ukrainian-oligarch-blast-corruption/?utm_source=rss&utm_medium=rss&utm_campaign=RSS"
+        },
+        {
+          "kalla": "RT",
+          "land": "RU",
+          "statskontroll": "statskontrollerat",
+          "lutning": "statlig (desinformationsrisk)",
+          "titel_sv": "Poland slams Zelensky for escalating Nazi collaborator rift",
+          "url": "https://www.rt.com/news/642458-poland-slams-zelensky-nazi-collaborators/?utm_source=rss&utm_medium=rss&utm_campaign=RSS"
         },
         {
           "kalla": "NDTV",
           "land": "IN",
           "statskontroll": "oberoende",
           "lutning": "regeringsnära (Adani-ägd)",
-          "titel_sv": "US Lifts Restrictions On Anthropic's Fable 5, Mythos 5 AI Models",
-          "url": "https://www.ndtv.com/world-news/us-lifts-restrictions-on-anthropics-fable-5-mythos-5-ai-models-11710187#publisher=newsstand"
+          "titel_sv": "9 Killed, 11 Injured As Russia Launches Massive Drone Attack On Ukraine",
+          "url": "https://www.ndtv.com/world-news/russia-ukraine-war-2-killed-11-injured-as-russia-launches-massive-drone-attack-on-ukraine-11715638#publisher=newsstand"
+        },
+        {
+          "kalla": "Dagbladet",
+          "land": "NO",
+          "statskontroll": "oberoende",
+          "lutning": "liberal-vänster",
+          "titel_sv": "- Putins dager er talte",
+          "url": "https://www.dagbladet.no/nyheter/putins-dager-er-talte/84841783"
+        },
+        {
+          "kalla": "TASS",
+          "land": "RU",
+          "statskontroll": "statskontrollerat",
+          "lutning": "statlig partilinje",
+          "titel_sv": "Russia to have decent representation at upcoming G20 summit in US — sherpa",
+          "url": "https://tass.com/politics/2154233"
         }
       ],
       "topic_i18n": {}
     },
     {
-      "topic": "Wall Street Journal reporter Evan Gershkovich appeals against arrest, Russian state media says",
+      "topic": "- Skjønner ingenting",
       "ankare": [
-        "russian"
+        "balogun",
+        "belgium",
+        "folarin",
+        "hercegovina"
       ],
       "lander": [
+        "FI",
+        "NO",
+        "QA",
         "RU",
+        "SE",
         "US"
       ],
-      "kallor": 2,
-      "antal": 5,
-      "propagandarisk": "hög",
-      "faktabas": "låg",
+      "kallor": 6,
+      "antal": 10,
+      "propagandarisk": "medel",
+      "faktabas": "hög",
       "jamfor_framing": true,
       "kallbild": {
-        "oberoende_agare": 2,
-        "statsfinansierat": [],
+        "oberoende_agare": 6,
+        "statsfinansierat": [
+          "Al Jazeera",
+          "Yle (svenska)"
+        ],
         "statskontrollerat": [
           "TASS"
         ]
       },
       "artiklar": [
         {
-          "kalla": "CNN",
+          "kalla": "Al Jazeera",
+          "land": "QA",
+          "statskontroll": "statsfinansierat",
+          "lutning": "statsfinansierad (Global South-vinkel)",
+          "titel_sv": "Belgium fans erupt after latest-ever goal seals place in last 16",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/belgium-fans-erupt-after-latest-ever-goal-seals-place-in-last-16?traffic_source=rss"
+        },
+        {
+          "kalla": "TASS",
+          "land": "RU",
+          "statskontroll": "statskontrollerat",
+          "lutning": "statlig partilinje",
+          "titel_sv": "US advances to Round of 16 at 2026 World Cup after 2-0 win over Bosnia and Herzegovina",
+          "url": "https://tass.com/sports/2154217"
+        },
+        {
+          "kalla": "TASS",
+          "land": "RU",
+          "statskontroll": "statskontrollerat",
+          "lutning": "statlig partilinje",
+          "titel_sv": "Belgium edges out Senegal with 3-2 comeback win at 2026 FIFA World Cup",
+          "url": "https://tass.com/sports/2154205"
+        },
+        {
+          "kalla": "Dagbladet",
+          "land": "NO",
+          "statskontroll": "oberoende",
+          "lutning": "liberal-vänster",
+          "titel_sv": "- Skjønner ingenting",
+          "url": "https://www.dagbladet.no/sport/var-i-fokus-skjonner-ingenting/84847296"
+        },
+        {
+          "kalla": "Fox News",
           "land": "US",
           "statskontroll": "oberoende",
-          "lutning": "center-vänster",
-          "titel_sv": "Wall Street Journal reporter Evan Gershkovich appeals against arrest, Russian state media says",
-          "url": "https://www.cnn.com/collections/intl-ukraine-030423/"
+          "lutning": "höger",
+          "titel_sv": "USA World Cup star Folarin Balogun receives controversial red card during Round of 32 match",
+          "url": "https://www.foxnews.com/sports/usa-world-cup-star-folarin-balogun-receives-controversial-red-card-during-round-32-match"
         },
         {
-          "kalla": "TASS",
-          "land": "RU",
-          "statskontroll": "statskontrollerat",
-          "lutning": "statlig partilinje",
-          "titel_sv": "Russian Federation Council considers Zelensky’s threats against Belarus serious",
-          "url": "https://tass.com/politics/2153797"
+          "kalla": "Fox News",
+          "land": "US",
+          "statskontroll": "oberoende",
+          "lutning": "höger",
+          "titel_sv": "USA World Cup star Folarin Balogun pays tribute to LeBron James after scoring in Round of 32 match",
+          "url": "https://www.foxnews.com/sports/usa-world-cup-star-folarin-balogun-pays-tribute-lebron-james-scoring-round-32-match"
         },
         {
-          "kalla": "TASS",
-          "land": "RU",
-          "statskontroll": "statskontrollerat",
-          "lutning": "statlig partilinje",
-          "titel_sv": "EU cannot be allowed at negotiating table on Ukraine — senior Russian senator",
-          "url": "https://tass.com/politics/2153793"
+          "kalla": "Svenska Dagbladet",
+          "land": "SE",
+          "statskontroll": "oberoende",
+          "lutning": "obunden moderat",
+          "titel_sv": "Säker seger för USA – rött kort till stjärnan",
+          "url": "https://www.svd.se/a/8pRyxE/trots-rott-kort-usa-avancerar-i-vm"
         },
         {
-          "kalla": "TASS",
-          "land": "RU",
-          "statskontroll": "statskontrollerat",
-          "lutning": "statlig partilinje",
-          "titel_sv": "Control over Malinovka enables Russian Armed Forces to advance on Kramatorsk — expert",
-          "url": "https://tass.com/politics/2153783"
+          "kalla": "Yle (svenska)",
+          "land": "FI",
+          "statskontroll": "statsfinansierat",
+          "lutning": "mitten",
+          "titel_sv": "USA vidare trots Baloguns röda kort: ”Det var inte avsiktligt”",
+          "url": "https://yle.fi/a/7-10101510?origin=rss"
         },
         {
-          "kalla": "TASS",
-          "land": "RU",
-          "statskontroll": "statskontrollerat",
-          "lutning": "statlig partilinje",
-          "titel_sv": "Liberation of Rovnoye makes it possible to establish bridgehead for offensive on Dolinka",
-          "url": "https://tass.com/politics/2153777"
+          "kalla": "Fox News",
+          "land": "US",
+          "statskontroll": "oberoende",
+          "lutning": "höger",
+          "titel_sv": "USA advances in World Cup after controversial red card vs Bosnia and Herzegovina",
+          "url": "https://www.foxnews.com/sports/usa-advances-world-cup-controversial-red-card-vs-bosnia-herzegovina"
+        },
+        {
+          "kalla": "Al Jazeera",
+          "land": "QA",
+          "statskontroll": "statsfinansierat",
+          "lutning": "statsfinansierad (Global South-vinkel)",
+          "titel_sv": "USA beat Bosnia 2-0 despite Balogun red card, enter World Cup last 16",
+          "url": "https://www.aljazeera.com/sports/2026/7/2/usa-beat-bosnia-2-0-despite-balogun-red-card-enter-world-cup-last-16?traffic_source=rss"
         }
       ],
       "topic_i18n": {}
     },
     {
-      "topic": "Tar internett med storm",
+      "topic": "Belgien vidare i VM efter förlängningsdrama",
       "ankare": [
-        "elfenbenskysten"
+        "belgien",
+        "tielemans"
       ],
       "lander": [
+        "DE",
         "DK",
-        "NO"
+        "FI",
+        "SE"
       ],
-      "kallor": 2,
-      "antal": 4,
-      "propagandarisk": "medel",
-      "faktabas": "låg",
+      "kallor": 5,
+      "antal": 5,
+      "propagandarisk": "låg",
+      "faktabas": "hög",
       "jamfor_framing": false,
       "kallbild": {
-        "oberoende_agare": 2,
+        "oberoende_agare": 5,
         "statsfinansierat": [],
         "statskontrollerat": []
       },
       "artiklar": [
         {
-          "kalla": "Dagbladet",
-          "land": "NO",
+          "kalla": "Dagens Nyheter",
+          "land": "SE",
           "statskontroll": "oberoende",
-          "lutning": "liberal-vänster",
-          "titel_sv": "Tar internett med storm",
-          "url": "https://www.dagbladet.no/video/tar-internett-med-storm/6mf4sQgy"
+          "lutning": "oberoende liberal",
+          "titel_sv": "Belgien vidare i VM efter förlängningsdrama",
+          "url": "https://www.dn.se/sport/belgien-vidare-i-vm-efter-forlangningsdrama/"
         },
         {
-          "kalla": "Dagbladet",
-          "land": "NO",
+          "kalla": "Svenska Dagbladet",
+          "land": "SE",
           "statskontroll": "oberoende",
-          "lutning": "liberal-vänster",
-          "titel_sv": "Oppdatering i natt",
-          "url": "https://www.dagbladet.no/sport/oppdatering-i-natt/84840190"
+          "lutning": "obunden moderat",
+          "titel_sv": "Belgien vidare i VM – efter drama",
+          "url": "https://www.svd.se/a/8pRyxw/belgien-vidare-i-vm-efter-forlangningsdrama"
         },
         {
-          "kalla": "Dagbladet",
-          "land": "NO",
+          "kalla": "Hufvudstadsbladet",
+          "land": "FI",
           "statskontroll": "oberoende",
-          "lutning": "liberal-vänster",
-          "titel_sv": "Bildene «alle» så: - Prøver å hjelpe",
-          "url": "https://www.dagbladet.no/video/bildene-alle-sa-prover-a-hjelpe/iBsBIwha"
+          "lutning": "liberal",
+          "titel_sv": "Total härdsmälta då Senegal tappade allt",
+          "url": "https://www.hbl.fi/sport/total-hardsmalta-da-senegal-tappade-allt/"
         },
         {
           "kalla": "Politiken",
           "land": "DK",
           "statskontroll": "oberoende",
           "lutning": "center-vänster (social-liberal)",
-          "titel_sv": "Haaland sparker Norge i armene på Brasilien",
-          "url": "https://politiken.dk/sport/fodbold/VM_i_fodbold/art10902306/Haaland-sparker-Norge-i-armene-p%C3%A5-Brasilien"
+          "titel_sv": "Mirakuløst belgisk comeback sender Senegal ud af VM efter vild afslutning på mærkværdig kamp",
+          "url": "https://politiken.dk/sport/fodbold/VM_i_fodbold/art10904238/Mirakul%C3%B8st-belgisk-comeback-sender-Senegal-ud-af-VM-efter-vild-afslutning-p%C3%A5-m%C3%A6rkv%C3%A6rdig-kamp"
+        },
+        {
+          "kalla": "Süddeutsche Zeitung",
+          "land": "DE",
+          "statskontroll": "oberoende",
+          "lutning": "center-vänster liberal",
+          "titel_sv": "Sechzehntelfinale gegen Senegal: Belgien siegt dank eines Elfmeters in der 119. Minute",
+          "url": "https://www.sueddeutsche.de/sport/wm-2026-fussball-wm-belgien-senegal-elfmeter-119-minute-foul-tielemans-achtelfinale-li.3508926"
         }
       ],
       "topic_i18n": {}
     },
     {
-      "topic": "Ryska draget vid finska gränsen efter hotet",
+      "topic": "Massivt angrep mot Kyiv i natt",
       "ankare": [
-        "estland"
+        "ryssland",
+        "ukrainas"
       ],
       "lander": [
         "FI",
+        "NO",
         "SE"
       ],
-      "kallor": 2,
-      "antal": 2,
+      "kallor": 7,
+      "antal": 7,
       "propagandarisk": "medel",
       "faktabas": "låg",
       "jamfor_framing": false,
       "kallbild": {
-        "oberoende_agare": 2,
-        "statsfinansierat": [],
+        "oberoende_agare": 5,
+        "statsfinansierat": [
+          "NRK",
+          "SVT Nyheter",
+          "Yle (svenska)"
+        ],
         "statskontrollerat": []
       },
       "artiklar": [
+        {
+          "kalla": "SVT Nyheter",
+          "land": "SE",
+          "statskontroll": "statsfinansierat",
+          "lutning": "mitten",
+          "titel_sv": "Omfattande attack mot Ukraina – flera döda i Kiev",
+          "url": "https://www.svt.se/nyheter/utrikes/omfattande-attack-mot-ukraina-flera-doda-i-kiev"
+        },
+        {
+          "kalla": "NRK",
+          "land": "NO",
+          "statskontroll": "statsfinansierat",
+          "lutning": "mitten",
+          "titel_sv": "Boligblokk kollapset i Kyiv etter russisk angrep",
+          "url": "https://www.nrk.no/nyheter/boligblokk-kollapset-i-kyiv-etter-russisk-angrep-1.17944410"
+        },
+        {
+          "kalla": "Aftenposten",
+          "land": "NO",
+          "statskontroll": "oberoende",
+          "lutning": "konservativ",
+          "titel_sv": "Massivt angrep mot Kyiv i natt",
+          "url": "https://www.aftenposten.no/verden/i/j0mqgz/minst-aatte-drept-i-russisk-angrep-mot-kyiv"
+        },
+        {
+          "kalla": "Yle (svenska)",
+          "land": "FI",
+          "statskontroll": "statsfinansierat",
+          "lutning": "mitten",
+          "titel_sv": "Många döda i massiva ryska anfall mot Kiev",
+          "url": "https://yle.fi/a/7-10101507?origin=rss"
+        },
+        {
+          "kalla": "Dagens Nyheter",
+          "land": "SE",
+          "statskontroll": "oberoende",
+          "lutning": "oberoende liberal",
+          "titel_sv": "Omfattande angrepp mot Kiev: ”Under rasande attack”",
+          "url": "https://www.dn.se/varlden/omfattande-angrepp-mot-kiev-under-rasande-attack/"
+        },
         {
           "kalla": "Expressen",
           "land": "SE",
           "statskontroll": "oberoende",
           "lutning": "oberoende liberal",
-          "titel_sv": "Ryska draget vid finska gränsen efter hotet",
-          "url": "https://www.expressen.se/nyheter/varlden/ryska-draget-vid-finska-gransen-efter-hotet/"
+          "titel_sv": "Omfattande angrepp mot Kiev: ”Under rasande attack”",
+          "url": "https://www.expressen.se/nyheter/varlden/omfattande-angrepp-mot-kiev-under-rasande-attack/"
         },
         {
           "kalla": "Hufvudstadsbladet",
           "land": "FI",
           "statskontroll": "oberoende",
           "lutning": "liberal",
-          "titel_sv": "Ryssland stänger gränsövergångar mot Finland",
-          "url": "https://www.hbl.fi/varlden/ryssland-stanger-gransovergangar-mot-finland/"
+          "titel_sv": "Omfattande angrepp mot Kiev: ”Under rasande attack”",
+          "url": "https://www.hbl.fi/varlden/omfattande-angrepp-mot-kiev-under-rasande-attack/"
         }
       ],
       "topic_i18n": {}
     },
     {
-      "topic": "Stabil seger för Mexiko – säkrar avancemang",
+      "topic": "Heiratsantrag auf Antenne des Empire State Building – russisches Paar festgenommen",
       "ankare": [
-        "hemmanationen"
+        "empire"
       ],
       "lander": [
-        "FI",
-        "SE"
+        "DE",
+        "IN",
+        "RU"
+      ],
+      "kallor": 3,
+      "antal": 4,
+      "propagandarisk": "medel",
+      "faktabas": "medel",
+      "jamfor_framing": true,
+      "kallbild": {
+        "oberoende_agare": 3,
+        "statsfinansierat": [],
+        "statskontrollerat": [
+          "RT"
+        ]
+      },
+      "artiklar": [
+        {
+          "kalla": "Die Welt",
+          "land": "DE",
+          "statskontroll": "oberoende",
+          "lutning": "konservativ",
+          "titel_sv": "Heiratsantrag auf Antenne des Empire State Building – russisches Paar festgenommen",
+          "url": "https://www.welt.de/vermischtes/article6a45f45ec154597ea93e3864/new-york-heiratsantrag-auf-antenne-des-empire-state-building-russisches-paar-festgenommen.html"
+        },
+        {
+          "kalla": "Die Welt",
+          "land": "DE",
+          "statskontroll": "oberoende",
+          "lutning": "konservativ",
+          "titel_sv": "Extremkletterer entrollen Friedensbanner auf Empire State Building",
+          "url": "https://www.welt.de/videos/video6a45f87bc154597ea93e38aa/in-443-metern-hoehe-extremkletterer-entrollen-friedensbanner-auf-empire-state-building.html"
+        },
+        {
+          "kalla": "RT",
+          "land": "RU",
+          "statskontroll": "statskontrollerat",
+          "lutning": "statlig (desinformationsrisk)",
+          "titel_sv": "Russian couple gets engaged on top of Empire State Building (VIDEOS)",
+          "url": "https://www.rt.com/news/642471-empire-state-russian-marriage-proposal/?utm_source=rss&utm_medium=rss&utm_campaign=RSS"
+        },
+        {
+          "kalla": "Times of India",
+          "land": "IN",
+          "statskontroll": "oberoende",
+          "lutning": "mainstream/etablissemang",
+          "titel_sv": "Empire State Building climb: Couple arrested after proposal atop New York's skyscraper - video",
+          "url": "https://timesofindia.indiatimes.com/world/us/empire-state-building-climb-couple-arrested-after-proposal-atop-new-yorks-skyscraper-video/articleshow/132126648.cms"
+        }
+      ],
+      "topic_i18n": {}
+    },
+    {
+      "topic": "Untold casualties and humanitarian needs: What to know a week from Venezuela's quakes",
+      "ankare": [
+        "venezuela"
+      ],
+      "lander": [
+        "BR",
+        "QA",
+        "US"
+      ],
+      "kallor": 3,
+      "antal": 4,
+      "propagandarisk": "medel",
+      "faktabas": "medel",
+      "jamfor_framing": false,
+      "kallbild": {
+        "oberoende_agare": 3,
+        "statsfinansierat": [
+          "Al Jazeera"
+        ],
+        "statskontrollerat": []
+      },
+      "artiklar": [
+        {
+          "kalla": "NPR",
+          "land": "US",
+          "statskontroll": "oberoende",
+          "lutning": "mitten/center-vänster",
+          "titel_sv": "Untold casualties and humanitarian needs: What to know a week from Venezuela's quakes",
+          "url": "https://www.npr.org/2026/07/01/nx-s1-5877369/venezuela-earthquakes-updates"
+        },
+        {
+          "kalla": "Al Jazeera",
+          "land": "QA",
+          "statskontroll": "statsfinansierat",
+          "lutning": "statsfinansierad (Global South-vinkel)",
+          "titel_sv": "Survivors look to foreign aid after the earthquakes in Venezuela",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/survivors-look-to-foreign-aid-after-the-earthquakes-in-venezuela?traffic_source=rss"
+        },
+        {
+          "kalla": "Folha de S.Paulo",
+          "land": "BR",
+          "statskontroll": "oberoende",
+          "lutning": "center",
+          "titel_sv": "Mãe que perdeu filho deportado pelos EUA em terremotos na Venezuela levou 5 dias para achar corpo",
+          "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/07/mae-que-perdeu-filho-deportado-pelos-eua-em-terremotos-na-venezuela-levou-5-dias-para-achar-corpo.shtml"
+        },
+        {
+          "kalla": "Folha de S.Paulo",
+          "land": "BR",
+          "statskontroll": "oberoende",
+          "lutning": "center",
+          "titel_sv": "Polícia da Venezuela prende e expulsa agentes acusados de roubar bens de valor achados em destroços",
+          "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/07/policia-prende-e-expulsa-agentes-acusados-de-roubar-bens-de-valor-achados-em-destrocos-na-venezuela.shtml"
+        }
+      ],
+      "topic_i18n": {}
+    },
+    {
+      "topic": "The Declaration’s forgotten (non)signer: John Dickinson’s missing 1776 signature haunts his legacy",
+      "ankare": [
+        "states"
+      ],
+      "lander": [
+        "CN",
+        "US"
+      ],
+      "kallor": 3,
+      "antal": 3,
+      "propagandarisk": "medel",
+      "faktabas": "medel",
+      "jamfor_framing": true,
+      "kallbild": {
+        "oberoende_agare": 3,
+        "statsfinansierat": [],
+        "statskontrollerat": [
+          "CGTN"
+        ]
+      },
+      "artiklar": [
+        {
+          "kalla": "AP",
+          "land": "US",
+          "statskontroll": "oberoende",
+          "lutning": "nyhetsbyrå (faktabas)",
+          "titel_sv": "The Declaration’s forgotten (non)signer: John Dickinson’s missing 1776 signature haunts his legacy",
+          "url": "https://apnews.com/article/john-dickinson-1776-declaration-independence-940e074f90c1a9e1ffe5eee6f253b897"
+        },
+        {
+          "kalla": "New York Times",
+          "land": "US",
+          "statskontroll": "oberoende",
+          "lutning": "center-vänster",
+          "titel_sv": "After Venezuela Earthquakes, Deportees from the U.S. Are Missing or Found Dead",
+          "url": "https://www.nytimes.com/2026/07/01/world/americas/venezuela-earthquakes-deportees-us-deaths.html"
+        },
+        {
+          "kalla": "CGTN",
+          "land": "CN",
+          "statskontroll": "statskontrollerat",
+          "lutning": "statlig partilinje",
+          "titel_sv": "US infant mortality rate drops, but some communities still suffer",
+          "url": "https://newsus.cgtn.com/news/2026-07-02/US-infant-mortality-rate-drops-but-some-communities-still-suffer-1Ore0WNle3C/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World"
+        }
+      ],
+      "topic_i18n": {}
+    },
+    {
+      "topic": "- Aldri sett noe liknende",
+      "ankare": [
+        "erling"
+      ],
+      "lander": [
+        "DE",
+        "NO"
       ],
       "kallor": 2,
       "antal": 2,
@@ -949,31 +823,73 @@
       },
       "artiklar": [
         {
-          "kalla": "Svenska Dagbladet",
-          "land": "SE",
+          "kalla": "Dagbladet",
+          "land": "NO",
           "statskontroll": "oberoende",
-          "lutning": "obunden moderat",
-          "titel_sv": "Stabil seger för Mexiko – säkrar avancemang",
-          "url": "https://www.svd.se/a/bOq1Ql/stabil-seger-for-mexiko-sakrar-avancemang"
+          "lutning": "liberal-vänster",
+          "titel_sv": "- Aldri sett noe liknende",
+          "url": "https://www.dagbladet.no/sport/aldri-sett-noe-liknende/84847386"
         },
         {
-          "kalla": "Hufvudstadsbladet",
-          "land": "FI",
+          "kalla": "Bild",
+          "land": "DE",
           "statskontroll": "oberoende",
-          "lutning": "liberal",
-          "titel_sv": "Mexiko dundrar på – fyra raka segrar imponerar",
-          "url": "https://www.hbl.fi/sport/mexiko-dundrar-pa-fyra-raka-segrar-imponerar/"
+          "lutning": "höger-populistisk tabloid",
+          "titel_sv": "„Ganz persönliche Meinung“ - Moderator feiert diesen Haaland-Auftritt",
+          "url": "https://www.bild.de/sport/fussball/meine-ganz-persoenliche-meinung-moderator-feiert-diesen-haaland-auftritt-6a44c73288b80dfa50d93384"
         }
       ],
       "topic_i18n": {}
     },
     {
-      "topic": "36 elever kidnappade i Nigeria",
+      "topic": "USA-diplomat: – Droner skal gjøre Taiwan til et «vepsebol»",
       "ankare": [
-        "nigeria"
+        "greene"
       ],
       "lander": [
-        "DK",
+        "NO",
+        "QA"
+      ],
+      "kallor": 2,
+      "antal": 2,
+      "propagandarisk": "medel",
+      "faktabas": "låg",
+      "jamfor_framing": false,
+      "kallbild": {
+        "oberoende_agare": 2,
+        "statsfinansierat": [
+          "Al Jazeera",
+          "NRK"
+        ],
+        "statskontrollerat": []
+      },
+      "artiklar": [
+        {
+          "kalla": "NRK",
+          "land": "NO",
+          "statskontroll": "statsfinansierat",
+          "lutning": "mitten",
+          "titel_sv": "USA-diplomat: – Droner skal gjøre Taiwan til et «vepsebol»",
+          "url": "https://www.nrk.no/nyheter/usa-diplomat_-_-droner-skal-gjore-taiwan-til-et-_vepsebol_-1.17944412"
+        },
+        {
+          "kalla": "Al Jazeera",
+          "land": "QA",
+          "statskontroll": "statsfinansierat",
+          "lutning": "statsfinansierad (Global South-vinkel)",
+          "titel_sv": "Taiwan needs to become a ‘hornet’s nest’ of drones, US diplomat says",
+          "url": "https://www.aljazeera.com/news/2026/7/2/taiwan-needs-to-become-a-hornets-nest-of-drones-us-diplomat-says?traffic_source=rss"
+        }
+      ],
+      "topic_i18n": {}
+    },
+    {
+      "topic": "Skjutning i Malmö – en död",
+      "ankare": [
+        "västra"
+      ],
+      "lander": [
+        "NO",
         "SE"
       ],
       "kallor": 2,
@@ -984,75 +900,76 @@
       "kallbild": {
         "oberoende_agare": 2,
         "statsfinansierat": [
-          "DR"
+          "NRK"
         ],
         "statskontrollerat": []
       },
       "artiklar": [
         {
-          "kalla": "Aftonbladet",
+          "kalla": "Expressen",
           "land": "SE",
           "statskontroll": "oberoende",
-          "lutning": "oberoende socialdemokratisk",
-          "titel_sv": "36 elever kidnappade i Nigeria",
-          "url": "https://www.aftonbladet.se/nyheter/a/0p382A/36-elever-kidnappade-i-nigeria?utm_medium=rss"
+          "lutning": "oberoende liberal",
+          "titel_sv": "Skjutning i Malmö – en död",
+          "url": "https://www.expressen.se/nyheter/sverige/misstankt-skottlossning-i-malmo-polisinsats/"
+        },
+        {
+          "kalla": "NRK",
+          "land": "NO",
+          "statskontroll": "statsfinansierat",
+          "lutning": "mitten",
+          "titel_sv": "Mann skutt og drept i Malmö - en pågrepet",
+          "url": "https://www.nrk.no/nyheter/mann-skutt-og-drept-i-malmo---en-pagrepet-1.17944399"
+        }
+      ],
+      "topic_i18n": {}
+    },
+    {
+      "topic": "Flere ebola-smittede i Kongo",
+      "ankare": [
+        "antallet"
+      ],
+      "lander": [
+        "DK",
+        "NO"
+      ],
+      "kallor": 2,
+      "antal": 2,
+      "propagandarisk": "medel",
+      "faktabas": "låg",
+      "jamfor_framing": false,
+      "kallbild": {
+        "oberoende_agare": 1,
+        "statsfinansierat": [
+          "DR",
+          "NRK"
+        ],
+        "statskontrollerat": []
+      },
+      "artiklar": [
+        {
+          "kalla": "NRK",
+          "land": "NO",
+          "statskontroll": "statsfinansierat",
+          "lutning": "mitten",
+          "titel_sv": "Flere ebola-smittede i Kongo",
+          "url": "https://www.nrk.no/nyheter/flere-ebola-smittede-i-kongo-1.17944390"
         },
         {
           "kalla": "DR",
           "land": "DK",
           "statskontroll": "statsfinansierat",
           "lutning": "mitten",
-          "titel_sv": "37 elever er fortsat savnet efter angreb under eksamener i Nigeria",
-          "url": "https://www.dr.dk/nyheder/seneste/37-elever-er-fortsat-savnet-efter-angreb-under-eksamener-i-nigeria"
+          "titel_sv": "Japan oplever flere bjørneangreb",
+          "url": "https://www.dr.dk/nyheder/seneste/japan-oplever-flere-bjoerneangreb"
         }
       ],
       "topic_i18n": {}
     },
     {
-      "topic": "'Ready for war': Iran draws red line for US, says no final talks until MoU terms are met",
+      "topic": "Det var fornærmende slapt!",
       "ankare": [
-        "parliament"
-      ],
-      "lander": [
-        "CN",
-        "IN"
-      ],
-      "kallor": 2,
-      "antal": 2,
-      "propagandarisk": "hög",
-      "faktabas": "låg",
-      "jamfor_framing": true,
-      "kallbild": {
-        "oberoende_agare": 2,
-        "statsfinansierat": [],
-        "statskontrollerat": [
-          "Xinhua"
-        ]
-      },
-      "artiklar": [
-        {
-          "kalla": "Xinhua",
-          "land": "CN",
-          "statskontroll": "statskontrollerat",
-          "lutning": "statlig partilinje",
-          "titel_sv": "Speaker of Hungarian Parliament addresses in Budapest",
-          "url": "http://www.xinhuanet.com/english/2017-10/28/c_136711043.htm"
-        },
-        {
-          "kalla": "Times of India",
-          "land": "IN",
-          "statskontroll": "oberoende",
-          "lutning": "mainstream/etablissemang",
-          "titel_sv": "'Ready for war': Iran draws red line for US, says no final talks until MoU terms are met",
-          "url": "https://timesofindia.indiatimes.com/world/middle-east/ready-for-war-iran-draws-red-line-for-us-says-no-final-talks-until-mou-terms-are-met/articleshow/132101599.cms"
-        }
-      ],
-      "topic_i18n": {}
-    },
-    {
-      "topic": "Verdenshavene slår varmerekord for juni",
-      "ankare": [
-        "verdenshavene"
+        "hollywood"
       ],
       "lander": [
         "DK",
@@ -1076,141 +993,16 @@
           "land": "NO",
           "statskontroll": "statsfinansierat",
           "lutning": "mitten",
-          "titel_sv": "Ny varmerekord i verdenshavene",
-          "url": "https://www.nrk.no/nyheter/ny-varmerekord-i-verdenshavene-1.17942807"
+          "titel_sv": "Danny Glover har fått alzheimer",
+          "url": "https://www.nrk.no/nyheter/danny-glover-har-fatt-alzheimer-1.17944379"
         },
         {
-          "kalla": "Berlingske",
+          "kalla": "Politiken",
           "land": "DK",
           "statskontroll": "oberoende",
-          "lutning": "konservativ",
-          "titel_sv": "Verdenshavene slår varmerekord for juni",
-          "url": "https://www.berlingske.dk/internationalt/verdenshavene-slaar-varmerekord-for-juni?referrer=RSS"
-        }
-      ],
-      "topic_i18n": {}
-    },
-    {
-      "topic": "- Fullstendig utspilt",
-      "ankare": [
-        "mexico"
-      ],
-      "lander": [
-        "NO",
-        "QA"
-      ],
-      "kallor": 2,
-      "antal": 2,
-      "propagandarisk": "medel",
-      "faktabas": "låg",
-      "jamfor_framing": false,
-      "kallbild": {
-        "oberoende_agare": 2,
-        "statsfinansierat": [
-          "Al Jazeera"
-        ],
-        "statskontrollerat": []
-      },
-      "artiklar": [
-        {
-          "kalla": "Dagbladet",
-          "land": "NO",
-          "statskontroll": "oberoende",
-          "lutning": "liberal-vänster",
-          "titel_sv": "- Fullstendig utspilt",
-          "url": "https://www.dagbladet.no/sport/drommerekke-lever-videre/84841312"
-        },
-        {
-          "kalla": "Al Jazeera",
-          "land": "QA",
-          "statskontroll": "statsfinansierat",
-          "lutning": "statsfinansierad (Global South-vinkel)",
-          "titel_sv": "Mexico beat Ecuador 2-0 to reach World Cup last-16 and break 40-year curse",
-          "url": "https://www.aljazeera.com/news/2026/7/1/mexico-ecuador-fifa-world-cup-2026-score-jimenez-quinones-hincapie?traffic_source=rss"
-        }
-      ],
-      "topic_i18n": {}
-    },
-    {
-      "topic": "Turkey tightens security and showcases strength and commitment ahead of NATO summit",
-      "ankare": [
-        "ankara"
-      ],
-      "lander": [
-        "DE",
-        "US"
-      ],
-      "kallor": 2,
-      "antal": 2,
-      "propagandarisk": "medel",
-      "faktabas": "låg",
-      "jamfor_framing": false,
-      "kallbild": {
-        "oberoende_agare": 2,
-        "statsfinansierat": [
-          "Deutsche Welle"
-        ],
-        "statskontrollerat": []
-      },
-      "artiklar": [
-        {
-          "kalla": "Deutsche Welle",
-          "land": "DE",
-          "statskontroll": "statsfinansierat",
-          "lutning": "mitten",
-          "titel_sv": "Türkei: Umstrittene Festnahmen vor NATO-Gipfel",
-          "url": "https://www.dw.com/de/türkei-umstrittene-festnahmen-vor-nato-gipfel/a-77764650?maca=de-rss-de-all-1119-xml-mrss"
-        },
-        {
-          "kalla": "AP",
-          "land": "US",
-          "statskontroll": "oberoende",
-          "lutning": "nyhetsbyrå (faktabas)",
-          "titel_sv": "Turkey tightens security and showcases strength and commitment ahead of NATO summit",
-          "url": "https://apnews.com/article/turkey-nato-summit-tight-security-c2423abfaa605dbfb8228972047c1dbf"
-        }
-      ],
-      "topic_i18n": {}
-    },
-    {
-      "topic": "U.S. failure to appoint Australian ambassador \"diplomatic insult\": former deputy PM",
-      "ankare": [
-        "minister"
-      ],
-      "lander": [
-        "CN",
-        "QA"
-      ],
-      "kallor": 2,
-      "antal": 2,
-      "propagandarisk": "hög",
-      "faktabas": "låg",
-      "jamfor_framing": false,
-      "kallbild": {
-        "oberoende_agare": 2,
-        "statsfinansierat": [
-          "Al Jazeera"
-        ],
-        "statskontrollerat": [
-          "Xinhua"
-        ]
-      },
-      "artiklar": [
-        {
-          "kalla": "Xinhua",
-          "land": "CN",
-          "statskontroll": "statskontrollerat",
-          "lutning": "statlig partilinje",
-          "titel_sv": "U.S. failure to appoint Australian ambassador \"diplomatic insult\": former deputy PM",
-          "url": "http://www.xinhuanet.com/english/2018-01/03/c_136868968.htm"
-        },
-        {
-          "kalla": "Al Jazeera",
-          "land": "QA",
-          "statskontroll": "statsfinansierat",
-          "lutning": "statsfinansierad (Global South-vinkel)",
-          "titel_sv": "Gojek co-founder, turned Indonesian Education Minister jailed for 10 years",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/gojek-co-founder-turned-indonesian-education-minister-jailed-for-10-years?traffic_source=rss"
+          "lutning": "center-vänster (social-liberal)",
+          "titel_sv": "Det var fornærmende slapt!",
+          "url": "https://politiken.dk/kultur/musik/roskildefestival/art10698966/Det-var-forn%C3%A6rmende-slapt"
         }
       ],
       "topic_i18n": {}
