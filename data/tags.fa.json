@@ -82,7 +82,7 @@
   "ekonomi": {
     "etikett": "اقتصاد",
     "typ": "ämne",
-    "antal": 27
+    "antal": 28
   },
   "sverige": {
     "etikett": "سوئد",
@@ -117,7 +117,7 @@
   "eu-ratt": {
     "etikett": "قوانین اتحادیه اروپا",
     "typ": "ämne",
-    "antal": 14
+    "antal": 15
   },
   "batteriforordningen": {
     "etikett": "آیین‌نامه باتری‌ها",
@@ -157,7 +157,7 @@
   "skatt": {
     "etikett": "مالیات",
     "typ": "ämne",
-    "antal": 11
+    "antal": 13
   },
   "finansmarknad": {
     "etikett": "بازار مالی",
@@ -327,12 +327,12 @@
   "eu": {
     "etikett": "اتحادیه اروپا (EU)",
     "typ": "organisation",
-    "antal": 45
+    "antal": 52
   },
   "eu-kommissionen": {
     "etikett": "کمیسیون اروپا",
     "typ": "organisation",
-    "antal": 33
+    "antal": 39
   },
   "arresteringsorder": {
     "etikett": "دستور بازداشت",
@@ -1372,12 +1372,12 @@
   "riksbanken": {
     "etikett": "بانک مرکزی سوئد (Riksbanken)",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "rantor": {
     "etikett": "نرخ بهره و سیاست پولی",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "borsen": {
     "etikett": "بورس",
@@ -1667,7 +1667,7 @@
   "skatteverket": {
     "etikett": "سازمان مالیات سوئد (Skatteverket)",
     "typ": "organisation",
-    "antal": 10
+    "antal": 12
   },
   "pension": {
     "etikett": "بازنشستگی",
@@ -1682,12 +1682,12 @@
   "konsument": {
     "etikett": "مصرف‌کننده",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "konsumentverket": {
     "etikett": "سازمان حمایت از مصرف‌کنندگان.",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "halsa": {
     "etikett": "سلامت",
@@ -1702,27 +1702,27 @@
   "krisberedskap": {
     "etikett": "آمادگی برای بحران\n\n*   **بررسی و ارزیابی ریسک:** شناسایی و تحلیل خطرات احتمالی که ممکن است بر سازمان یا جامعه تأثیر بگذارند.\n*   **تدوین طرح‌های واکنش:** ایجاد برنامه‌های عملیاتی مشخص برای مقابله با انواع مختلف بحران‌ها.\n*   **آموزش و تمرین:** برگزاری دوره‌های آموزشی و مانورهای عملی برای کارکنان و افراد درگیر، به منظور افزایش آمادگی و تسلط بر رویه ها.\n*   **تامین منابع:** فراهم کردن تجهیزات، مواد غذایی، داروها و سایر ملزومات مورد نیاز برای مقابله با بحران.\n*   **ایجاد شبکه‌های ارتباطی:** برقراری کانال‌های ارتباطی مطمئن و کارآمد برای تبادل اطلاعات و هماهنگی در شرایط اضطراری.\n*   **همکاری و مشارکت:** ایجاد روابط و تعامل با سایر سازمان‌ها، نهادها و جوامع محلی برای تقویت ظرفیت مقابله با بحران.\n*   **بهبود مستمر:** ارزیابی و بازبینی مداوم طرح‌ها و رویه‌ها، و اعمال تغییرات لازم بر اساس تجربیات کسب شده.",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "civilt-forsvar": {
     "etikett": "دفاع مدنی",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "mcf": {
     "etikett": "سازمان دفاع مدنی.",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "socialforsakring": {
     "etikett": "بیمه اجتماعی",
     "typ": "ämne",
-    "antal": 7
+    "antal": 8
   },
   "forsakringskassan": {
     "etikett": "سازمان تامین اجتماعی (Försäkringskassan)",
     "typ": "organisation",
-    "antal": 7
+    "antal": 8
   },
   "arbetsmarknad": {
     "etikett": "بازار کار",

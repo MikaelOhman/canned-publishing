@@ -167,7 +167,7 @@
   "eu-ratt": {
     "etikett": "EU law",
     "typ": "ämne",
-    "antal": 16
+    "antal": 17
   },
   "statligt-agande": {
     "etikett": "State ownership.",
@@ -177,7 +177,7 @@
   "ekonomi": {
     "etikett": "Economics",
     "typ": "ämne",
-    "antal": 29
+    "antal": 30
   },
   "sverige": {
     "etikett": "Sweden",
@@ -247,7 +247,7 @@
   "skatt": {
     "etikett": "Tax",
     "typ": "ämne",
-    "antal": 11
+    "antal": 13
   },
   "finansmarknad": {
     "etikett": "Financial market.",
@@ -392,12 +392,12 @@
   "eu": {
     "etikett": "EU",
     "typ": "organisation",
-    "antal": 47
+    "antal": 54
   },
   "eu-kommissionen": {
     "etikett": "The European Commission.",
     "typ": "organisation",
-    "antal": 33
+    "antal": 39
   },
   "alingsas": {
     "etikett": "Alingsås is a municipality located in the county of Västra Götaland, Sweden. It is known for its beautiful natural surroundings, including forests, lakes, and rivers. The municipality also has a rich cultural heritage, with several historical sites and museums.\n\nHere are some of the things that Alingsås is known for:\n\n* Its beautiful natural surroundings\n* Its rich cultural heritage\n* Its friendly and welcoming people\n* Its high quality of life\n\nIf you are looking for a place to visit in Sweden, Alingsås is a great option. It offers something for everyone, from outdoor activities to cultural attractions.\n\nHere are some of the things you can do in Alingsås:\n\n* Visit the Alingsås Museum\n* Explore the surrounding forests and lakes\n* Go hiking or biking\n* Visit the Alingsås Golf Club\n* Attend a concert or performance at the Alingsås Concert Hall\n\nAlingsås is a great place to visit for a day trip or a longer stay. It is a beautiful and welcoming place that offers something for everyone.",
@@ -1447,12 +1447,12 @@
   "riksbanken": {
     "etikett": "The National Bank of Sweden.",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "rantor": {
     "etikett": "Interest Rates & Monetary Policy",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "borsen": {
     "etikett": "Stock market",
@@ -1732,7 +1732,7 @@
   "skatteverket": {
     "etikett": "The Swedish Tax Agency.",
     "typ": "organisation",
-    "antal": 10
+    "antal": 12
   },
   "pension": {
     "etikett": "Retirement income.",
@@ -1747,12 +1747,12 @@
   "konsument": {
     "etikett": "Consumer.",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "konsumentverket": {
     "etikett": "The Swedish Consumer Agency (Konsumentverket).",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "halsa": {
     "etikett": "Health\n\n(No further context was provided to translate.)",
@@ -1767,27 +1767,27 @@
   "krisberedskap": {
     "etikett": "Crisis Preparedness\n\nThis document outlines measures to be taken in the event of a crisis. It covers various areas:\n\n*   **Communication:** Establishing clear communication channels and protocols.\n*   **Emergency Response:** Procedures for responding to immediate threats and providing assistance.\n*   **Business Continuity:** Maintaining essential business functions during and after a crisis.\n*   **Risk Assessment:** Identifying potential risks and vulnerabilities.\n*   **Training and Exercises:** Preparing personnel through training and simulations.\n\nFor more information, please visit: [insert URL here]",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "civilt-forsvar": {
     "etikett": "Civil Defense\n\n(This is a very short phrase and doesn't require further elaboration.)",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "mcf": {
     "etikett": "The Agency for Civil Defence.",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "socialforsakring": {
     "etikett": "Social security.",
     "typ": "ämne",
-    "antal": 7
+    "antal": 8
   },
   "forsakringskassan": {
     "etikett": "The Swedish Social Insurance Agency (Försäkringskassan).",
     "typ": "organisation",
-    "antal": 7
+    "antal": 8
   },
   "arbetsmarknad": {
     "etikett": "Labor Market\n\n*   [Date]\n*   [URL]",

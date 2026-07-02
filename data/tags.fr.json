@@ -97,7 +97,7 @@
   "eu-ratt": {
     "etikett": "Droit de l'UE",
     "typ": "ämne",
-    "antal": 16
+    "antal": 17
   },
   "straffratt": {
     "etikett": "Droit pénal",
@@ -112,7 +112,7 @@
   "ekonomi": {
     "etikett": "Économie",
     "typ": "ämne",
-    "antal": 27
+    "antal": 28
   },
   "sverige": {
     "etikett": "Suède",
@@ -182,7 +182,7 @@
   "skatt": {
     "etikett": "Impôts.",
     "typ": "ämne",
-    "antal": 11
+    "antal": 13
   },
   "finansmarknad": {
     "etikett": "Marché financier.",
@@ -337,12 +337,12 @@
   "eu": {
     "etikett": "L'Union européenne (UE) est une organisation politique et économique regroupant plusieurs pays européens. Elle a été créée pour promouvoir la paix, la prospérité et la coopération entre ses membres.\n\nVoici quelques informations clés sur l'UE :\n\n*   **Objectifs :**\n    *   Promouvoir la paix et la stabilité.\n    *   Favoriser le développement économique et social.\n    *   Renforcer la coopération entre les États membres.\n    *   Établir une monnaie unique (l'euro).\n    *   Protéger l'environnement.\n\n*   **Membres :**\n    L'UE compte actuellement 27 États membres.\n\n*   **Institutions :**\n    *   Le Parlement européen : représente les citoyens de l'UE.\n    *   Le Conseil de l'Union européenne : représente les gouvernements des États membres.\n    *   La Commission européenne : propose des lois et veille à leur application.\n    *   La Cour de justice de l'Union européenne : assure le respect du droit de l'UE.\n\n*   **Politiques :**\n    L'UE dispose de politiques dans de nombreux domaines, notamment :\n    *   L'agriculture.\n    *   Le commerce.\n    *   L'environnement.\n    *   L'énergie.\n    *   La justice et les affaires intérieures.\n\n*   **Site web :**\n    Pour plus d'informations, vous pouvez consulter le site web de l'UE : [URL non fournie].",
     "typ": "organisation",
-    "antal": 46
+    "antal": 53
   },
   "eu-kommissionen": {
     "etikett": "La Commission européenne.",
     "typ": "organisation",
-    "antal": 33
+    "antal": 39
   },
   "alingsas": {
     "etikett": "Alingsås.",
@@ -1377,12 +1377,12 @@
   "riksbanken": {
     "etikett": "La Banque centrale de Suède (Riksbanken).",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "rantor": {
     "etikett": "Taux d'intérêt et politique monétaire.",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "borsen": {
     "etikett": "Bourse",
@@ -1667,7 +1667,7 @@
   "skatteverket": {
     "etikett": "L'Agence fiscale suédoise (Skatteverket).",
     "typ": "organisation",
-    "antal": 10
+    "antal": 12
   },
   "pension": {
     "etikett": "Retraite.",
@@ -1682,12 +1682,12 @@
   "konsument": {
     "etikett": "Consommateur.",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "konsumentverket": {
     "etikett": "L'Agence suédoise de protection des consommateurs (Konsumentverket).",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "halsa": {
     "etikett": "Santé.",
@@ -1702,27 +1702,27 @@
   "krisberedskap": {
     "etikett": "Préparation aux crises\n\nVoici quelques points importants concernant la préparation aux crises :\n\n*   **Définition:** La préparation aux crises consiste à anticiper et à se préparer aux événements imprévus qui pourraient avoir un impact négatif sur une organisation, une communauté ou un pays.\n\n*   **Objectifs:** Les objectifs de la préparation aux crises sont multiples, notamment :\n    *   Minimiser les dommages et les pertes en cas de crise.\n    *   Assurer la continuité des activités essentielles.\n    *   Protéger les personnes et les biens.\n    *   Faciliter la reprise après la crise.\n\n*   **Domaines d'intervention:** La préparation aux crises peut concerner différents domaines, tels que :\n    *   La gestion des catastrophes naturelles (inondations, tremblements de terre, incendies).\n    *   Les attaques terroristes.\n    *   Les pandémies.\n    *   Les cyberattaques.\n    *   Les crises économiques.\n\n*   **Mesures à prendre:** Pour se préparer aux crises, il est important de :\n    *   Évaluer les risques et les vulnérabilités.\n    *   Élaborer des plans d'urgence.\n    *   Mettre en place des systèmes d'alerte et de communication.\n    *   Former le personnel et la population.\n    *   Réserver des ressources (matérielles, financières, humaines).\n\n*   **Exemples concrets:**\n    *   Une entreprise peut mettre en place un plan de continuité des activités pour assurer la poursuite de ses opérations en cas d'incendie ou de cyberattaque.\n    *   Une commune peut organiser des exercices de simulation pour préparer sa population à faire face à une inondation ou à un tremblement de terre.\n    *   Un pays peut renforcer ses capacités de surveillance et de réponse aux pandémies.\n\nPour plus d'informations, vous pouvez consulter les ressources suivantes :\n\n*   [URL]\n*   [URL]\n*   [URL]",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "civilt-forsvar": {
     "etikett": "Défense civile.",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "mcf": {
     "etikett": "L'Agence de protection civile.",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "socialforsakring": {
     "etikett": "Sécurité sociale.",
     "typ": "ämne",
-    "antal": 7
+    "antal": 8
   },
   "forsakringskassan": {
     "etikett": "La Försäkringskassan (Caisse d'Assurance Sociale).",
     "typ": "organisation",
-    "antal": 7
+    "antal": 8
   },
   "arbetsmarknad": {
     "etikett": "Marché du travail.",

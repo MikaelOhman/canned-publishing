@@ -97,7 +97,7 @@
   "eu-ratt": {
     "etikett": "Prawo UE",
     "typ": "ämne",
-    "antal": 15
+    "antal": 16
   },
   "straffratt": {
     "etikett": "Prawo karne",
@@ -112,7 +112,7 @@
   "ekonomi": {
     "etikett": "Ekonomia",
     "typ": "ämne",
-    "antal": 27
+    "antal": 28
   },
   "sverige": {
     "etikett": "Szwecja",
@@ -182,7 +182,7 @@
   "skatt": {
     "etikett": "Podatek.",
     "typ": "ämne",
-    "antal": 11
+    "antal": 13
   },
   "finansmarknad": {
     "etikett": "Rynek finansowy.",
@@ -332,12 +332,12 @@
   "eu": {
     "etikett": "Unia Europejska.",
     "typ": "organisation",
-    "antal": 46
+    "antal": 53
   },
   "eu-kommissionen": {
     "etikett": "Komisja Europejska.",
     "typ": "organisation",
-    "antal": 33
+    "antal": 39
   },
   "alingsas": {
     "etikett": "Alingsås.",
@@ -1372,12 +1372,12 @@
   "riksbanken": {
     "etikett": "Narodowy Bank Szwecji.",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "rantor": {
     "etikett": "Stopy procentowe i polityka pieniężna.",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "borsen": {
     "etikett": "Giełda",
@@ -1667,7 +1667,7 @@
   "skatteverket": {
     "etikett": "Urząd Podatkowy (Skatteverket)",
     "typ": "organisation",
-    "antal": 10
+    "antal": 12
   },
   "pension": {
     "etikett": "Emerytura.",
@@ -1682,12 +1682,12 @@
   "konsument": {
     "etikett": "Konsument.",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "konsumentverket": {
     "etikett": "Organizacja Konsumencka (Konsumentverket)",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "halsa": {
     "etikett": "Zdrowie.",
@@ -1702,27 +1702,27 @@
   "krisberedskap": {
     "etikett": "Gotowość kryzysowa\n\nObejmuje działania mające na celu przygotowanie się na sytuacje kryzysowe oraz minimalizację ich skutków.  W szczególności dotyczy to:\n\n*   Planowania i organizacji działań w sytuacjach nadzwyczajnych.\n*   Szkoleń personelu w zakresie reagowania na kryzysy.\n*   Zapewnienia odpowiedniego wyposażenia i zasobów.\n*   Regularnego testowania procedur i planów działania.\n*   Współpracy z innymi organizacjami i służbami w celu zapewnienia skoordynowanej reakcji.\n\nDziałania te mają na celu ochronę życia, zdrowia i mienia oraz utrzymanie ciągłości funkcjonowania organizacji w sytuacjach kryzysowych.  Szczegółowe informacje można znaleźć na stronie: [URL].",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "civilt-forsvar": {
     "etikett": "Obrona cywilna.",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "mcf": {
     "etikett": "Agencja Obrony Cywilnej.",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "socialforsakring": {
     "etikett": "Ubezpieczenia społeczne.",
     "typ": "ämne",
-    "antal": 7
+    "antal": 8
   },
   "forsakringskassan": {
     "etikett": "Zakład Ubezpieczeń Społecznych (Försäkringskassan)",
     "typ": "organisation",
-    "antal": 7
+    "antal": 8
   },
   "arbetsmarknad": {
     "etikett": "Rynek pracy.",

@@ -97,7 +97,7 @@
   "eu-ratt": {
     "etikett": "Diritto dell'UE",
     "typ": "ämne",
-    "antal": 15
+    "antal": 16
   },
   "straffratt": {
     "etikett": "Diritto penale",
@@ -112,7 +112,7 @@
   "ekonomi": {
     "etikett": "Economia",
     "typ": "ämne",
-    "antal": 27
+    "antal": 28
   },
   "sverige": {
     "etikett": "Svezia",
@@ -182,7 +182,7 @@
   "skatt": {
     "etikett": "Tasse.",
     "typ": "ämne",
-    "antal": 11
+    "antal": 13
   },
   "finansmarknad": {
     "etikett": "Mercato finanziario.",
@@ -337,12 +337,12 @@
   "eu": {
     "etikett": "Unione Europea.",
     "typ": "organisation",
-    "antal": 46
+    "antal": 53
   },
   "eu-kommissionen": {
     "etikett": "La Commissione Europea.",
     "typ": "organisation",
-    "antal": 33
+    "antal": 39
   },
   "alingsas": {
     "etikett": "Alingsås",
@@ -1377,12 +1377,12 @@
   "riksbanken": {
     "etikett": "La Banca Centrale Svedese (Riksbanken).",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "rantor": {
     "etikett": "Tassi di interesse e politica monetaria.",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "borsen": {
     "etikett": "Borsa",
@@ -1667,7 +1667,7 @@
   "skatteverket": {
     "etikett": "Agenzia delle Entrate.",
     "typ": "organisation",
-    "antal": 10
+    "antal": 12
   },
   "pension": {
     "etikett": "Pensione.",
@@ -1682,12 +1682,12 @@
   "konsument": {
     "etikett": "Consumatore.",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "konsumentverket": {
     "etikett": "Autorità dei consumatori.",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "halsa": {
     "etikett": "Salute.",
@@ -1702,27 +1702,27 @@
   "krisberedskap": {
     "etikett": "Preparazione alle emergenze\n\n*   **Definizione:** La preparazione alle emergenze si riferisce all'insieme di misure e azioni volte a prevenire, mitigare e gestire le conseguenze di eventi imprevisti che possono mettere a rischio la sicurezza delle persone, l'ambiente o le infrastrutture.\n\n*   **Obiettivi:**\n    *   Ridurre al minimo i danni causati da eventi avversi.\n    *   Proteggere vite umane e proprietà.\n    *   Garantire la continuità dei servizi essenziali.\n    *   Favorire una rapida ripresa dopo un'emergenza.\n\n*   **Aree di intervento:**\n    *   Prevenzione: identificazione e riduzione dei rischi potenziali.\n    *   Mitigazione: adozione di misure per ridurre la vulnerabilità.\n    *   Preparazione: pianificazione, formazione e simulazioni.\n    *   Risposta: attivazione delle risorse e coordinamento degli interventi durante un'emergenza.\n    *   Ripristino: ripristino delle normali condizioni di vita e attività dopo un'emergenza.\n\n*   **Esempi di emergenze:**\n    *   Incendi\n    *   Inondazioni\n    *   Terremoti\n    *   Tempeste\n    *   Attacchi terroristici\n    *   Pandemie\n\n*   **Risorse utili:**\n    *   Siti web governativi dedicati alla protezione civile.\n    *   Manuali e guide sulla preparazione alle emergenze.\n    *   Corsi di formazione per operatori e cittadini.\n    *   App per smartphone con informazioni e avvisi in caso di emergenza.\n\n*   **Consigli pratici:**\n    *   Informarsi sui rischi presenti nella propria zona.\n    *   Preparare un piano di emergenza familiare.\n    *   Assemblare una scorta di beni di prima necessità (acqua, cibo, medicinali).\n    *   Imparare le tecniche di primo soccorso.\n    *   Partecipare a esercitazioni di protezione civile.",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "civilt-forsvar": {
     "etikett": "Difesa civile.",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "mcf": {
     "etikett": "L'Agenzia per la Protezione Civile.",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "socialforsakring": {
     "etikett": "Sicurezza sociale.",
     "typ": "ämne",
-    "antal": 7
+    "antal": 8
   },
   "forsakringskassan": {
     "etikett": "L'Agenzia svedese per le assicurazioni sociali (Försäkringskassan).",
     "typ": "organisation",
-    "antal": 7
+    "antal": 8
   },
   "arbetsmarknad": {
     "etikett": "Mercato del lavoro.",

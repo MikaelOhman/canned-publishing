@@ -97,7 +97,7 @@
   "eu-ratt": {
     "etikett": "Derecho de la UE",
     "typ": "ämne",
-    "antal": 15
+    "antal": 16
   },
   "straffratt": {
     "etikett": "Derecho penal",
@@ -112,7 +112,7 @@
   "ekonomi": {
     "etikett": "Economía",
     "typ": "ämne",
-    "antal": 27
+    "antal": 28
   },
   "sverige": {
     "etikett": "Suecia",
@@ -182,7 +182,7 @@
   "skatt": {
     "etikett": "Impuestos.",
     "typ": "ämne",
-    "antal": 11
+    "antal": 13
   },
   "finansmarknad": {
     "etikett": "Mercado financiero.",
@@ -332,12 +332,12 @@
   "eu": {
     "etikett": "La Unión Europea (UE)",
     "typ": "organisation",
-    "antal": 46
+    "antal": 53
   },
   "eu-kommissionen": {
     "etikett": "La Comisión Europea.",
     "typ": "organisation",
-    "antal": 33
+    "antal": 39
   },
   "alingsas": {
     "etikett": "Alingsås.",
@@ -1372,12 +1372,12 @@
   "riksbanken": {
     "etikett": "El Banco Central de Suecia.",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "rantor": {
     "etikett": "Tipos de interés y política monetaria.",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "borsen": {
     "etikett": "Bolsa",
@@ -1667,7 +1667,7 @@
   "skatteverket": {
     "etikett": "Agencia Tributaria.",
     "typ": "organisation",
-    "antal": 10
+    "antal": 12
   },
   "pension": {
     "etikett": "Pensión.",
@@ -1682,12 +1682,12 @@
   "konsument": {
     "etikett": "Consumidor.",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "konsumentverket": {
     "etikett": "La Agencia de Consumidores.",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "halsa": {
     "etikett": "Salud.",
@@ -1702,27 +1702,27 @@
   "krisberedskap": {
     "etikett": "Preparación para crisis\n\n*   **Vad är krisberedskap?**\n    *   Förberedelser för att hantera oväntade och allvarliga händelser som kan påverka samhället eller individer.\n*   **Varför är krisberedskap viktigt?**\n    *   Minskar sårbarheten och ökar möjligheterna att klara av en kris.\n    *   Skyddar liv, egendom och miljön.\n*   **Vilka typer av kriser kan uppstå?**\n    *   Naturkatastrofer (t.ex. översvämningar, skogsbränder).\n    *   Olyckor (t.ex. trafikolyckor, industrihaverier).\n    *   Samhällsstörningar (t.ex. strömavbrott, cyberattacker).\n    *   Epidemier och pandemier.\n*   **Hur kan man förbereda sig för kriser?**\n    *   Skapa en beredskapsplan för hemmet och arbetsplatsen.\n    *   Samla in nödvändig utrustning (t.ex. första hjälpen-kit, vatten, mat).\n    *   Lär dig grundläggande överlevnadstekniker.\n    *   Håll dig informerad om potentiella hot och risker.\n\n*   **Vad är en beredskapsplan?**\n    *   En detaljerad plan som beskriver hur man ska agera i olika krisituationer.\n    *   Den bör inkludera information om:\n        *   Kontaktuppgifter till viktiga personer.\n        *   Evakueringsvägar och mötesplatser.\n        *   Åtgärder för att säkra hemmet och egendomen.\n        *   Rutiner för kommunikation och informationsspridning.\n\n*   **Vilken utrustning bör ingå i ett första hjälpen-kit?**\n    *   Förbandsmaterial (t.ex. plåster, gasbindor).\n    *   Smärtstillande medel.\n    *   Desinfektionsmedel.\n    *   Vattenreningstabletter.\n    *   Ficklampa.\n    *   Batterier.\n\n*   **Var kan man få mer information om krisberedskap?**\n    *   Myndigheters webbplatser (t.ex. Civilförsvaret).\n    *   Organisationers informationsmaterial (t.ex. Röda Korset).\n    *   Kurser och utbildningar i krisberedskap.\n\n---\n\nPreparación para crisis:\n\n*   **¿Qué es la preparación para crisis?**\n    *   Preparativos para manejar eventos inesperados y graves que pueden afectar a la sociedad o a los individuos.\n*   **¿Por qué es importante la preparación para crisis?**\n    *   Reduce la vulnerabilidad y aumenta las posibilidades de superar una crisis.\n    *   Protege vidas, propiedades y el medio ambiente.\n*   **¿Qué tipos de crisis pueden ocurrir?**\n    *   Desastres naturales (por ejemplo, inundaciones, incendios forestales).\n    *   Accidentes (por ejemplo, accidentes de tráfico, fallos industriales).\n    *   Interrupciones sociales (por ejemplo, cortes de energía, ciberataques).\n    *   Epidemias y pandemias.\n*   **¿Cómo se puede prepararse para las crisis?**\n    *   Crear un plan de preparación para el hogar y el lugar de trabajo.\n    *   Reunir el equipo necesario (por ejemplo, botiquín de primeros auxilios, agua, comida).\n    *   Aprender técnicas básicas de supervivencia.\n    *   Mantenerse informado sobre posibles amenazas y riesgos.\n\n*   **¿Qué es un plan de preparación?**\n    *   Un plan detallado que describe cómo actuar en diferentes situaciones de crisis.\n    *   Debe incluir información sobre:\n        *   Datos de contacto de personas importantes.\n        *   Rutas de evacuación y puntos de encuentro.\n        *   Medidas para asegurar el hogar y la propiedad.\n        *   Rutinas para la comunicación y la difusión de información.\n\n*   **¿Qué equipo debe incluir un botiquín de primeros auxilios?**\n    *   Material de vendaje (por ejemplo, tiritas, gasas).\n    *   Analgésicos.\n    *   Desinfectante.\n    *   Comprimidos para purificar agua.\n    *   Linterna.\n    *   Pilas.\n\n*   **¿Dónde se puede obtener más información sobre la preparación para crisis?**\n    *   Sitios web de las autoridades (por ejemplo, Protección Civil).\n    *   Material informativo de organizaciones (por ejemplo, Cruz Roja).\n    *   Cursos y formaciones en preparación para crisis.",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "civilt-forsvar": {
     "etikett": "Defensa civil.",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "mcf": {
     "etikett": "La Agencia para la Defensa Civil.",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "socialforsakring": {
     "etikett": "Seguro social.",
     "typ": "ämne",
-    "antal": 7
+    "antal": 8
   },
   "forsakringskassan": {
     "etikett": "La Caixa de Seguros (Försäkringskassan).",
     "typ": "organisation",
-    "antal": 7
+    "antal": 8
   },
   "arbetsmarknad": {
     "etikett": "Mercado laboral.",

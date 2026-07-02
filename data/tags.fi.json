@@ -2,12 +2,12 @@
   "socialforsakring": {
     "etikett": "Sosiaaliturva.",
     "typ": "ämne",
-    "antal": 7
+    "antal": 8
   },
   "forsakringskassan": {
     "etikett": "Vakuutusrahasto.",
     "typ": "organisation",
-    "antal": 7
+    "antal": 8
   },
   "arbetsmarknad": {
     "etikett": "Työmarkkinat",
@@ -312,7 +312,7 @@
   "eu-ratt": {
     "etikett": "EU-rätt",
     "typ": "ämne",
-    "antal": 16
+    "antal": 17
   },
   "statligt-agande": {
     "etikett": "Statligt ägande",
@@ -322,7 +322,7 @@
   "ekonomi": {
     "etikett": "Ekonomi",
     "typ": "ämne",
-    "antal": 27
+    "antal": 28
   },
   "bolagsforvaltning": {
     "etikett": "Bolagsförvaltning",
@@ -387,7 +387,7 @@
   "skatt": {
     "etikett": "Skatt",
     "typ": "ämne",
-    "antal": 11
+    "antal": 13
   },
   "finansmarknad": {
     "etikett": "Finansmarknad",
@@ -542,12 +542,12 @@
   "eu": {
     "etikett": "EU",
     "typ": "organisation",
-    "antal": 47
+    "antal": 54
   },
   "eu-kommissionen": {
     "etikett": "EU-kommissionen",
     "typ": "organisation",
-    "antal": 33
+    "antal": 39
   },
   "orebro": {
     "etikett": "Örebro",
@@ -1612,12 +1612,12 @@
   "riksbanken": {
     "etikett": "Riksbanken",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "rantor": {
     "etikett": "Räntor & penningpolitik",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "borsen": {
     "etikett": "Börsen",
@@ -1897,7 +1897,7 @@
   "skatteverket": {
     "etikett": "Skatteverket",
     "typ": "organisation",
-    "antal": 10
+    "antal": 12
   },
   "pension": {
     "etikett": "Pension",
@@ -1912,12 +1912,12 @@
   "konsument": {
     "etikett": "Konsument",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "konsumentverket": {
     "etikett": "Konsumentverket",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "halsa": {
     "etikett": "Hälsa",
@@ -1932,17 +1932,17 @@
   "krisberedskap": {
     "etikett": "Krisberedskap",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "civilt-forsvar": {
     "etikett": "Civilt försvar",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "mcf": {
     "etikett": "Myndigheten för civilt försvar",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "finland": {
     "etikett": "Finland",

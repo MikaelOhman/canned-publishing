@@ -97,7 +97,7 @@
   "eu-ratt": {
     "etikett": "Dreptul UE",
     "typ": "ämne",
-    "antal": 14
+    "antal": 15
   },
   "straffratt": {
     "etikett": "Drept penal",
@@ -112,7 +112,7 @@
   "ekonomi": {
     "etikett": "Economie",
     "typ": "ämne",
-    "antal": 27
+    "antal": 28
   },
   "sverige": {
     "etikett": "Suedia",
@@ -182,7 +182,7 @@
   "skatt": {
     "etikett": "Impozite.",
     "typ": "ämne",
-    "antal": 11
+    "antal": 13
   },
   "finansmarknad": {
     "etikett": "Piața financiară.",
@@ -332,12 +332,12 @@
   "eu": {
     "etikett": "Uniunea Europeană.",
     "typ": "organisation",
-    "antal": 45
+    "antal": 52
   },
   "eu-kommissionen": {
     "etikett": "Comisia Europeană.",
     "typ": "organisation",
-    "antal": 33
+    "antal": 39
   },
   "alingsas": {
     "etikett": "Alingsås",
@@ -1372,12 +1372,12 @@
   "riksbanken": {
     "etikett": "Banca Centrală a Suediei.",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "rantor": {
     "etikett": "Rate și politica monetară.",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "borsen": {
     "etikett": "Bursă",
@@ -1667,7 +1667,7 @@
   "skatteverket": {
     "etikett": "Agenția Fiscală Suedeză (Skatteverket)",
     "typ": "organisation",
-    "antal": 10
+    "antal": 12
   },
   "pension": {
     "etikett": "Pensie.",
@@ -1682,12 +1682,12 @@
   "konsument": {
     "etikett": "Consumator.",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "konsumentverket": {
     "etikett": "Autoritatea pentru Consumatori.",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "halsa": {
     "etikett": "Sănătate.",
@@ -1702,27 +1702,27 @@
   "krisberedskap": {
     "etikett": "Pregătirea pentru situații de criză\n\n*   **Ce este pregătirea pentru situații de criză?** Este un proces prin care indivizii, organizațiile și societatea în ansamblu se pregătesc să facă față unor evenimente neprevăzute și potențial dăunătoare.\n*   **De ce este importantă pregătirea pentru situații de criză?** Ajută la minimizarea impactului negativ al crizelor, protejând viețile, bunurile și mediul înconjurător.\n*   **Ce tipuri de crize pot exista?** Pot include dezastre naturale (inundații, cutremure), atacuri teroriste, pandemii, accidente industriale sau crize economice.\n*   **Cum ne putem pregăti pentru situații de criză?**\n\n    *   Informați-vă despre riscurile din zona dumneavoastră.\n    *   Elaborați un plan de urgență pentru familie și loc de muncă.\n    *   Asigurați-vă că aveți suficiente provizii (apă, alimente, medicamente).\n    *   Învățați tehnici de prim ajutor.\n    *   Participați la exerciții de simulare a crizelor.\n\n*   **Unde putem găsi informații suplimentare?** Puteți consulta site-uri web specializate, cum ar fi [URL invalid removed], sau contacta autoritățile locale.",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "civilt-forsvar": {
     "etikett": "Apărare civilă.",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "mcf": {
     "etikett": "Agenția pentru protecție civilă.",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "socialforsakring": {
     "etikett": "Asigurări sociale.",
     "typ": "ämne",
-    "antal": 7
+    "antal": 8
   },
   "forsakringskassan": {
     "etikett": "Casa de Asigurări Sociale (Försäkringskassan)",
     "typ": "organisation",
-    "antal": 7
+    "antal": 8
   },
   "arbetsmarknad": {
     "etikett": "Piața muncii.",

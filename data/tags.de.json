@@ -167,7 +167,7 @@
   "eu-ratt": {
     "etikett": "EU-Recht",
     "typ": "ämne",
-    "antal": 15
+    "antal": 16
   },
   "statligt-agande": {
     "etikett": "Staatliche Eigentumsverhältnisse",
@@ -177,7 +177,7 @@
   "ekonomi": {
     "etikett": "Wirtschaftswissenschaften",
     "typ": "ämne",
-    "antal": 29
+    "antal": 30
   },
   "sverige": {
     "etikett": "Schweden",
@@ -247,7 +247,7 @@
   "skatt": {
     "etikett": "Steuern",
     "typ": "ämne",
-    "antal": 11
+    "antal": 13
   },
   "finansmarknad": {
     "etikett": "Finanzmarkt",
@@ -397,12 +397,12 @@
   "eu": {
     "etikett": "Die Europäische Union (EU) ist ein politischer und wirtschaftlicher Zusammenschluss von Staaten in Europa. Sie wurde gegründet, um Frieden, Wohlstand und Zusammenarbeit in Europa zu fördern.\n\nDie EU hat folgende Ziele:\n\n*   Förderung des Friedens, der Sicherheit und der Zusammenarbeit in Europa.\n*   Etablierung eines gemeinsamen Marktes mit freiem Waren-, Personen-, Dienstleistungs- und Kapitalverkehr.\n*   Förderung einer nachhaltigen Entwicklung, die sowohl wirtschaftliche als auch soziale und ökologische Aspekte berücksichtigt.\n*   Stärkung der Rolle Europas in der Welt.\n\nDie EU besteht derzeit aus 27 Mitgliedstaaten. Die wichtigsten Institutionen der EU sind:\n\n*   Europäisches Parlament\n*   Europäischer Rat\n*   Europäische Kommission\n*   Europäischer Gerichtshof\n*   Europäische Zentralbank\n\nDie EU hat eine Reihe von Richtlinien und Verordnungen erlassen, die in allen Mitgliedstaaten gelten. Diese Richtlinien und Verordnungen umfassen Bereiche wie:\n\n*   Umwelt\n*   Landwirtschaft\n*   Verbraucherschutz\n*   Wirtschaft\n*   Recht\n\nDie EU ist ein wichtiger Akteur in der Welt und spielt eine wichtige Rolle bei der Bewältigung globaler Herausforderungen.\n\nWeitere Informationen finden Sie auf der Website der Europäischen Union: [URL einfügen]",
     "typ": "organisation",
-    "antal": 46
+    "antal": 53
   },
   "eu-kommissionen": {
     "etikett": "Die Europäische Kommission.",
     "typ": "organisation",
-    "antal": 33
+    "antal": 39
   },
   "alingsas": {
     "etikett": "Alingsås\n\n(No further context was provided, so a simple translation of the name is all that's possible.)",
@@ -1437,12 +1437,12 @@
   "riksbanken": {
     "etikett": "Die Zentralbank.",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "rantor": {
     "etikett": "Zinsen und Geldpolitik.",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "borsen": {
     "etikett": "Börse",
@@ -1727,7 +1727,7 @@
   "skatteverket": {
     "etikett": "Das schwedische Finanzamt (Skatteverket).",
     "typ": "organisation",
-    "antal": 10
+    "antal": 12
   },
   "pension": {
     "etikett": "Rente.",
@@ -1742,12 +1742,12 @@
   "konsument": {
     "etikett": "Verbraucher.",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "konsumentverket": {
     "etikett": "Verbraucherzentrale",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "halsa": {
     "etikett": "Gesundheit.",
@@ -1762,27 +1762,27 @@
   "krisberedskap": {
     "etikett": "Krisbereitschaft\n\nHier sind einige wichtige Aspekte der Krisenbereitschaft:\n\n*   **Planung:** Entwicklung detaillierter Notfallpläne für verschiedene Szenarien.\n*   **Schulung:** Durchführung regelmäßiger Schulungen und Übungen, um das Personal auf Notfallsituationen vorzubereiten.\n*   **Kommunikation:** Einrichtung klarer Kommunikationswege innerhalb der Organisation und mit externen Partnern.\n*   **Ressourcen:** Sicherstellung des Vorhandenseins notwendiger Ressourcen wie Ausrüstung, Materialien und Personal.\n*   **Risikobewertung:** Durchführung regelmäßiger Risikobewertungen, um potenzielle Bedrohungen zu identifizieren und geeignete Maßnahmen zu ergreifen.\n*   **Kontinuitätsmanagement:** Implementierung von Strategien zur Aufrechterhaltung kritischer Geschäftsprozesse im Falle einer Krise.\n*   **Zusammenarbeit:** Aufbau von Partnerschaften mit anderen Organisationen, um bei Bedarf Unterstützung zu erhalten.\n*   **Überprüfung und Aktualisierung:** Regelmäßige Überprüfung und Aktualisierung der Notfallpläne und -verfahren, um sicherzustellen, dass sie relevant und effektiv bleiben.",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "civilt-forsvar": {
     "etikett": "Zivilverteidigung.",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "mcf": {
     "etikett": "Die Behörde für zivilen Schutz.",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "socialforsakring": {
     "etikett": "Sozialversicherung",
     "typ": "ämne",
-    "antal": 7
+    "antal": 8
   },
   "forsakringskassan": {
     "etikett": "Die schwedische Sozialversicherungsanstalt (Försäkringskassan).",
     "typ": "organisation",
-    "antal": 7
+    "antal": 8
   },
   "arbetsmarknad": {
     "etikett": "Arbeitsmarkt",

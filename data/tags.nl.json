@@ -97,7 +97,7 @@
   "eu-ratt": {
     "etikett": "EU-recht",
     "typ": "ämne",
-    "antal": 16
+    "antal": 17
   },
   "straffratt": {
     "etikett": "Strafrecht",
@@ -112,7 +112,7 @@
   "ekonomi": {
     "etikett": "Economie",
     "typ": "ämne",
-    "antal": 27
+    "antal": 28
   },
   "sverige": {
     "etikett": "Zweden",
@@ -182,7 +182,7 @@
   "skatt": {
     "etikett": "Belasting.",
     "typ": "ämne",
-    "antal": 11
+    "antal": 13
   },
   "finansmarknad": {
     "etikett": "Financiële markt.",
@@ -337,12 +337,12 @@
   "eu": {
     "etikett": "EU",
     "typ": "organisation",
-    "antal": 46
+    "antal": 53
   },
   "eu-kommissionen": {
     "etikett": "De Europese Commissie.",
     "typ": "organisation",
-    "antal": 33
+    "antal": 39
   },
   "alingsas": {
     "etikett": "Alingsås",
@@ -1377,12 +1377,12 @@
   "riksbanken": {
     "etikett": "De Zweedse Riksbank.",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "rantor": {
     "etikett": "Rentes en monetair beleid.",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "borsen": {
     "etikett": "Beurs",
@@ -1667,7 +1667,7 @@
   "skatteverket": {
     "etikett": "Belastingdienst",
     "typ": "organisation",
-    "antal": 10
+    "antal": 12
   },
   "pension": {
     "etikett": "Pensioen.",
@@ -1682,12 +1682,12 @@
   "konsument": {
     "etikett": "Consument.",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "konsumentverket": {
     "etikett": "Het Consumentenbond.",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "halsa": {
     "etikett": "Gezondheid.",
@@ -1702,27 +1702,27 @@
   "krisberedskap": {
     "etikett": "Crisisparaatheid\n\nHieronder vindt u een overzicht van belangrijke aspecten van crisisparaatheid:\n\n*   **Risicoanalyse:** Identificeer potentiële bedreigingen en kwetsbaarheden.\n*   **Noodplannen:** Ontwikkel gedetailleerde plannen voor verschillende soorten crises.\n*   **Communicatie:** Zorg voor effectieve communicatiekanalen met alle betrokken partijen.\n*   **Training en oefeningen:** Regelmatige trainingen en oefeningen om de paraatheid te verbeteren.\n*   **Voorraden:** Houd voldoende essentiële voorraden aan, zoals voedsel, water en medische benodigdheden.\n*   **Samenwerking:** Werk samen met andere organisaties en instanties om de crisisparaatheid te versterken.\n*   **Juridische aspecten:** Zorg ervoor dat alle maatregelen in overeenstemming zijn met relevante wet- en regelgeving.\n*   **Financiële planning:** Reserveer voldoende middelen voor crisisbeheersing.\n*   **Psychologische ondersteuning:** Bied psychologische ondersteuning aan getroffenen en hulpverleners.\n*   **Evaluatie en verbetering:** Evalueer regelmatig de crisisparaatheid en identificeer mogelijkheden tot verbetering.",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "civilt-forsvar": {
     "etikett": "Burgerlijke defensie.",
     "typ": "ämne",
-    "antal": 6
+    "antal": 7
   },
   "mcf": {
     "etikett": "De Dienst voor Burgerbescherming.",
     "typ": "organisation",
-    "antal": 6
+    "antal": 7
   },
   "socialforsakring": {
     "etikett": "Sociale zekerheid.",
     "typ": "ämne",
-    "antal": 7
+    "antal": 8
   },
   "forsakringskassan": {
     "etikett": "De Zweedse sociale zekerheidsinstantie.",
     "typ": "organisation",
-    "antal": 7
+    "antal": 8
   },
   "arbetsmarknad": {
     "etikett": "Arbeidsmarkt",
