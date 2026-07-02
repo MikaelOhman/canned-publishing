@@ -122,6 +122,24 @@
     }
   },
   {
+    "id": "riksbanken-2026-07-01-offlinebetalningar-med-kort-nu",
+    "typ": "myndighet",
+    "titel": "Offlinebetalningar med kort - nu utökas möjligheterna",
+    "ingress": "Från och med 1 juli 2026 kan du betala med kort även om internet eller andra tekniska system ligger nere när du köper viktiga saker som mat, medicin och bensin.",
+    "datum": "2026-07-01",
+    "kalla": "Riksbanken",
+    "kalla_url": "https://www.riksbank.se/sv/press-och-publicerat/nyheter-och-pressmeddelanden/pressmeddelanden/2026/offlinebetalningar-med-kort---nu-utokas-mojligheterna/",
+    "taggar": [
+      "ekonomi",
+      "riksbanken",
+      "rantor"
+    ],
+    "relevans": {
+      "b_finans": 3,
+      "bil": 3
+    }
+  },
+  {
     "id": "HD03299",
     "typ": "lagforslag",
     "titel": "Redovisning av fördelning av medel från Allmänna arvsfonden under budgetåret 2025",
